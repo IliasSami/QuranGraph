@@ -1,0 +1,80 @@
+{
+ "id": "2:42",
+ "simple_en": "Allah forbids mixing clear truth with falsehood or hiding the truth when you know it well. Those who knew the scriptures were cautioned against twisting facts to mislead ordinary people. Honesty demands speaking the truth clearly and standing by it.",
+ "simple_bn": "আল্লাহ সত্যকে মিথ্যার সাথে মিশ্রিত করতে এবং জেনে-বুঝে সত্য গোপন করতে কঠোরভাবে নিষেধ করেছেন। কিতাবের জ্ঞানীদের সতর্ক করা হয়েছে যাতে তারা সাধারণ মানুষকে বিভ্রান্ত করার জন্য তথ্য বিকৃত না করে। স্পষ্ট সততাই সত্যের সঠিক দাবি।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "لبس",
+   "lemma": "لَبَسْ",
+   "meaning_en": "do not obscure or mix",
+   "meaning_bn": "মিশ্রিত কোরো না",
+   "why_en": "Confusing clear truth by blending it with half-truths and fabrications."
+  },
+  {
+   "pos": 4,
+   "root": "بطل",
+   "lemma": "باطِل",
+   "meaning_en": "falsehood",
+   "meaning_bn": "বাতিল বা মিথ্যা",
+   "why_en": "That which has no reality or moral weight before Allah."
+  },
+  {
+   "pos": 5,
+   "root": "كتم",
+   "lemma": "كَتَمَ",
+   "meaning_en": "do not conceal",
+   "meaning_bn": "গোপন কোরো না",
+   "why_en": "Suppressing known religious facts to protect status or comfort."
+  }
+ ],
+ "lesson_en": "Speak the truth plainly and never hide facts to protect your personal interests.",
+ "lesson_bn": "স্পষ্টভাবে সত্য কথা বলুন এবং নিজের স্বার্থ রক্ষার জন্য কখনো সত্য গোপন করবেন না।",
+ "real_life_en": "When a mistake is made on a project at work, it can be tempting to blend facts so that blame shifts to someone else. You choose total honesty, explaining what occurred clearly, and taking responsibility for your part.",
+ "real_life_bn": "অফিসে বা পরিবারে কোনো ভুল হয়ে গেলে সত্য-মিথ্যা মিশিয়ে অন্যের উপর দোষ চাপাবেন না। স্পষ্ট ভাষায় প্রকৃত ঘটনা তুলে ধরে নিজের দায়িত্ব স্বীকার করাই সৎ মানুষের বৈশিষ্ট্য।",
+ "context_en": "Prohibits two distinct sins: mixing truth with falsehood to confuse people, and completely hiding known truths.",
+ "context_bn": "সত্যের সাথে মিথ্যা গুলিয়ে ফেলা এবং সুবিধাবাদী মনোভাব নিয়ে সত্য গোপন করা—উভয় অন্যায় থেকে কঠোরভাবে বারণ করা হয়েছে।",
+ "themes": [
+  "honesty",
+  "justice",
+  "good character",
+  "Children of Israel"
+ ],
+ "kinds": [
+  "prohibition",
+  "ethics",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Mixing truth with falsehood to deceive others is strictly forbidden.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Concealing knowledge of divine revelation and the Prophet's characteristics is a grave sin.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

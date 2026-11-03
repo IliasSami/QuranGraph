@@ -1,0 +1,80 @@
+{
+ "id": "2:24",
+ "simple_en": "If you cannot produce a surah like it, and you will never be able to do so, then save yourselves from the Fire. Its fuel is people and stones, burning together in punishment. That terrible fire has been made ready for those who refuse to believe.",
+ "simple_bn": "যদি তোমরা তা করতে না পারো—আর কখনো তা করতে পারবেও না—তবে সেই আগুনকে ভয় করো যার জ্বালানি হবে মানুষ ও পাথর। সত্য বর্জনকারীদের জন্যই এই ভয়াবহ শাস্তি প্রস্তুত করে রাখা হয়েছে।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "نور",
+   "lemma": "نار",
+   "meaning_en": "the Fire",
+   "meaning_bn": "জাহান্নামের আগুন",
+   "why_en": "The place of intense recompense for persistent rejection of truth."
+  },
+  {
+   "pos": 9,
+   "root": "وقد",
+   "lemma": "وَقُود",
+   "meaning_en": "fuel",
+   "meaning_bn": "জ্বালানি",
+   "why_en": "That which keeps the fire blazing, including idols and stone statues."
+  },
+  {
+   "pos": 13,
+   "root": "كفر",
+   "lemma": "كافِر",
+   "meaning_en": "the disbelievers",
+   "meaning_bn": "কাফিরগণ",
+   "why_en": "Those who deliberately cover and reject the clear evidence."
+  }
+ ],
+ "lesson_en": "Take the warnings of the Hereafter to heart and stay on the straight path.",
+ "lesson_bn": "সময় থাকতেই সত্যকে গ্রহণ করে আখেরাতের ভয়াবহ শাস্তি থেকে নিজেকে রক্ষা করুন।",
+ "real_life_en": "When a fire alarm sounds in a building, you do not ignore it. You walk to safety right away. When you hear about the punishment of the Fire, you leave bad actions behind and ask Allah for His pardon.",
+ "real_life_bn": "বিল্ডিংয়ে ফায়ার অ্যালার্ম বাজলে যেমন আমরা অবহেলা না করে দ্রুত নিরাপদ স্থানে যাই, তেমনি আখেরাতের সতর্কবার্তা শুনে ভুল পথ ছেড়ে তওবা করে সৎপথে ফিরে আসাই বুদ্ধিমানের কাজ।",
+ "context_en": "Declares the definitive inability of human beings to produce anything like the Quran and warns against the consequence of persistent rejection.",
+ "context_bn": "মানুষের চিরন্তন অক্ষমতার সুস্পষ্ট ঘোষণা দিয়ে অহংকারবশত সত্য বর্জনকারীদের পরিণাম সম্পর্কে সতর্ক করা হয়েছে।",
+ "themes": [
+  "Hell",
+  "the Last Day",
+  "warning",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hellfire"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Humanity is fundamentally incapable of producing anything like the Quran.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The fuel of Hell consists of human beings and stones, including worshiped idols.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.94,
+ "uncertain": []
+}

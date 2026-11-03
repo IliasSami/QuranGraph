@@ -1,0 +1,87 @@
+{
+ "id": "2:34",
+ "simple_en": "Allah commanded the angels to bow before Adam (peace be upon him) in honour of the knowledge granted to him. All the angels obeyed and prostrated together. Only Iblis refused, letting pride and arrogance fill his heart, and he became one of the disbelievers who turn away from Allah.",
+ "simple_bn": "আল্লাহ ফেরেশতাদের আদেশ দিলেন আদম (আলাইহিস সালাম)-কে সম্মান প্রদর্শনার্থে সিজদা করতে। সকল ফেরেশতা আনুগত্যের সাথে সিজদা করলেন। কেবল ইবলিস অহংকার ও হিংসার বশবর্তী হয়ে তা অমান্য করল এবং সে কাফিরদের অন্তর্ভুক্ত হয়ে গেল।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "سجد",
+   "lemma": "سَجَدَ",
+   "meaning_en": "prostrate yourselves",
+   "meaning_bn": "সিজদাহ করো",
+   "why_en": "A bow of respect and honour commanded by Allah, not worship of Adam."
+  },
+  {
+   "pos": 8,
+   "root": null,
+   "lemma": "إِبْلِيس",
+   "meaning_en": "Iblis",
+   "meaning_bn": "ইবলিস",
+   "why_en": "The adversary who allowed jealousy and arrogance to destroy his standing."
+  },
+  {
+   "pos": 10,
+   "root": "كبر",
+   "lemma": "اسْتَكْبَرَ",
+   "meaning_en": "he became arrogant",
+   "meaning_bn": "সে অহংকার করল",
+   "why_en": "Pride: the destructive sin of viewing oneself as superior to others."
+  }
+ ],
+ "lesson_en": "Pride destroys good deeds, while humble obedience is the mark of true faith.",
+ "lesson_bn": "অহংকার মানুষের সমস্ত সৎকাজকে ধ্বংস করে দেয়, আর বিনয়ী আনুগত্যই মুমিনের অলংকার।",
+ "real_life_en": "A friend at school or work might win an award that you wanted. You might feel a sting of envy. Catch that bad thought early. Put away pride, smile warmly, and congratulate your friend.",
+ "real_life_bn": "বয়সে বা অভিজ্ঞতায় ছোট কেউ প্রশংসা বা পদোন্নতি পেলে অন্তরে অহংকার বা হিংসা জাগতে পারে। দ্রুত সেই মনোভাব ত্যাগ করে তাকে আন্তরিক অভিনন্দন জানান। এতে অন্তর পরিশুদ্ধ হয়।",
+ "context_en": "Records the command of prostration of honour to Adam (peace be upon him) and the first act of defiance from Iblis.",
+ "context_bn": "আদম (আলাইহিস সালাম)-এর জ্ঞানগত শ্রেষ্ঠত্বের পর ফেরেশতাদের প্রতি সম্মানসূচক সিজদার আদেশ এবং ইবলিসের অবাধ্যতার বিবরণ।",
+ "themes": [
+  "arrogance",
+  "humility",
+  "Satan",
+  "angels",
+  "stories of the prophets"
+ ],
+ "kinds": [
+  "story",
+  "command",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Adam"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Angels",
+   "Iblis",
+   "Satan"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "Creation of Adam"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The angels were commanded to bow to Adam (peace be upon him) out of honour.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "All angels obeyed while Iblis refused out of pride and disbelief.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

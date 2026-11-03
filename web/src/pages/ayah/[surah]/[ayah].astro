@@ -117,7 +117,7 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
 
       <!-- Audio Player -->
       <div style="margin-bottom: 2rem;">
-        <AudioPlayer surah={sId} ayah={aNum} surahTotalAyat={surah.ayat} />
+        <AudioPlayer surah={sId} ayah={aNum} surahTotalAyat={surah.ayat} bnText={ayahRecord.bn} enText={ayahRecord.en} />
       </div>
 
       {explanation ? (

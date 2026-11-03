@@ -1,0 +1,84 @@
+{
+ "id": "2:35",
+ "simple_en": "Allah told Adam (peace be upon him) and his wife to dwell peacefully in the Garden. They were free to eat from its abundant fruits wherever they wished. But Allah set one boundary: they were forbidden from approaching a single tree, warning that crossing that line would make them wrongdoers.",
+ "simple_bn": "আল্লাহ আদম (আলাইহিস সালাম) ও তাঁর স্ত্রীকে জান্নাতে শান্তিতে বসবাসের অনুমতি দিলেন। তাঁরা যেখান থেকে ইচ্ছা মনভরে এর অফুরন্ত ফলমূল উপভোগ করতে পারতেন। তবে আল্লাহ একটি মাত্র সীমারেখা নির্ধারণ করলেন: নির্দিষ্ট একটি গাছের কাছেও না যাওয়ার নির্দেশ দিয়ে সতর্ক করলেন যে তা লঙ্ঘন করলে তাঁরা অন্যায়কারীদের অন্তর্ভুক্ত হবেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "سكن",
+   "lemma": "سَكَنَ",
+   "meaning_en": "dwell",
+   "meaning_bn": "বসবাস করো",
+   "why_en": "To settle with tranquility and peace in a blessed place."
+  },
+  {
+   "pos": 9,
+   "root": "رغد",
+   "lemma": "رَغَد",
+   "meaning_en": "in abundance and ease",
+   "meaning_bn": "স্বাচ্ছন্দ্যে ও প্রাচুর্যের সাথে",
+   "why_en": "Plentiful, delicious provision available without toil or anxiety."
+  },
+  {
+   "pos": 13,
+   "root": "قرب",
+   "lemma": "يَقْرَبُ",
+   "meaning_en": "do not approach",
+   "meaning_bn": "কাছে যেয়ো না",
+   "why_en": "Setting a protective distance from temptation to avoid falling into sin."
+  }
+ ],
+ "lesson_en": "Stay far away from things that lead to sin, rather than testing your limits.",
+ "lesson_bn": "পাপের সীমানায় না গিয়ে তার প্ররোচনা থেকেও দূরে থাকাই আত্মরক্ষার পথ।",
+ "real_life_en": "You know that spending late nights alone browsing video feeds can easily lead you to watch improper content. Instead of trusting your willpower late at night, you set a rule to plug your phone in across the room before bedtime.",
+ "real_life_bn": "দেরি রাতে একা জেগে ইন্টারনেট ব্যবহার করলে অনর্থক বা নিষিদ্ধ কিছু দেখার ঝুঁকি বাড়ে। নিজের ইচ্ছাশক্তির উপর অতিরিক্ত ভরসা না করে সময়মতো ফোন দূরে রেখে ঘুমাতে যাওয়াই বুদ্ধিমানের কাজ।",
+ "context_en": "Follows the honour given to Adam (peace be upon him) with his placement in the Garden and the first moral test.",
+ "context_bn": "আদম (আলাইহিস সালাম)-এর সম্মান ও সৃষ্টির পর জান্নাতে তাঁর বাসস্থান নির্ধারণ এবং প্রথম নৈতিক পরীক্ষার বিবরণ।",
+ "themes": [
+  "Paradise",
+  "creation",
+  "command",
+  "prohibition",
+  "stories of the prophets"
+ ],
+ "kinds": [
+  "story",
+  "command",
+  "prohibition"
+ ],
+ "entities": {
+  "people": [
+   "Adam",
+   "Hawwa"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Paradise"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Adam (peace be upon him) and his wife were permitted to live and eat freely in the Garden.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "They were explicitly prohibited from nearing one designated tree.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

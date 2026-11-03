@@ -1,0 +1,78 @@
+{
+ "id": "2:26",
+ "simple_en": "Allah is not shy to use any example, even of a tiny mosquito or something smaller. Believers know that every example from their Lord is full of truth and wisdom. Disbelievers question why such small creatures are named, but Allah tests hearts through these lessons. He guides many who reflect, while only the rebellious turn away.",
+ "simple_bn": "আল্লাহ একটি ক্ষুদ্র মশা কিংবা তার চেয়েও ছোট কিছুর উপমা দিতেও দ্বিধা করেন না। মুমিনগণ জানেন যে তাঁদের প্রতিপালকের পক্ষ থেকে আসা প্রতিটি উপমা সত্য ও হিকমতে ভরপুর। কিন্তু অস্বীকারকারীরা প্রশ্ন তোলে কেন এমন ছোট প্রাণীর কথা বলা হলো। এ সকল উপমার মাধ্যমে আল্লাহ বহু মানুষকে হেদায়েত দান করেন এবং কেবল পাপাচারীদেরকেই পথভ্রষ্টতায় ছেড়ে দেন।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "مثل",
+   "lemma": "مَثَل",
+   "meaning_en": "an example or parable",
+   "meaning_bn": "উপমা বা দৃষ্টান্ত",
+   "why_en": "A comparison used to make profound spiritual truths clear and relatable."
+  },
+  {
+   "pos": 9,
+   "root": "بعض",
+   "lemma": "بَعُوضَة",
+   "meaning_en": "a mosquito",
+   "meaning_bn": "একটি মশা",
+   "why_en": "A tiny creature whose intricate design displays the greatness of the Creator."
+  },
+  {
+   "pos": 39,
+   "root": "فسق",
+   "lemma": "فاسِق",
+   "meaning_en": "the defiantly disobedient",
+   "meaning_bn": "ফাসিক বা পাপাচারী",
+   "why_en": "Those who step outside the bounds of obedience and reject divine guidance."
+  }
+ ],
+ "lesson_en": "Every creation of Allah holds deep wisdom for those who look with humble hearts.",
+ "lesson_bn": "আল্লাহর প্রতিটি সৃষ্টির মধ্যেই চিন্তাশীল মানুষের জন্য গভীর শিক্ষা ও প্রজ্ঞা রয়েছে।",
+ "real_life_en": "When watching a small ant carry food or observing a spider spin its web, you do not overlook them as small bugs. You see how precisely they are made and praise Allah for His wisdom.",
+ "real_life_bn": "মাঠ বা বাগানে ছোট্ট পিঁপড়াকে খাদ্য বহন করতে দেখে তুচ্ছ ভাববেন না। বরং ভেবে দেখুন তাদের কত নিখুঁতভাবে তৈরি করা হয়েছে এবং অন্তর থেকে মহান স্রষ্টার প্রশংসা করুন।",
+ "context_en": "Answers the critics who questioned why earlier verses used comparisons involving insects like flies and spiders.",
+ "context_bn": "কুরআনে মাছি ও মাকড়সার মতো ক্ষুদ্র প্রাণীর উপমা দেখে যারা কটাক্ষ করেছিল, তাদের আপত্তির জবাব দেওয়া হয়েছে।",
+ "themes": [
+  "parable",
+  "guidance",
+  "misguidance",
+  "creation"
+ ],
+ "kinds": [
+  "parable",
+  "argument",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah does not shy away from using any example, whether of a mosquito or something smaller, to convey truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Believers recognize divine wisdom in the parables, while those who persist in wrongdoing are led astray.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

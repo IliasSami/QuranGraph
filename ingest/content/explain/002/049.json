@@ -1,0 +1,86 @@
+{
+ "id": "2:49",
+ "simple_en": "Remember when Allah saved your ancestors from Pharaoh and his cruel people. They tormented the Israelites by killing their baby boys and keeping their girls for hard service. That suffering and the final rescue were a great test from your Lord.",
+ "simple_bn": "স্মরণ করো সেই সময়ের কথা, যখন আল্লাহ তোমাদের পূর্বপুরুষদের ফেরাউন ও তার সৈন্যবাহিনীর হাত থেকে উদ্ধার করেছিলেন। তারা তোমাদের উপর নিষ্ঠুর অত্যাচার চালাত, তোমাদের নবজাতক পুত্রদের হত্যা করত আর কন্যাদের সেবাদাসী করার জন্য বাঁচিয়ে রাখত। এই কঠিন বিপদে এবং অলৌকিক মুক্তিতে তোমাদের প্রতিপালকের পক্ষ থেকে এক বিরাট পরীক্ষা ছিল।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نجو",
+   "lemma": "نَجَّى",
+   "meaning_en": "We delivered you",
+   "meaning_bn": "আমরা তোমাদের উদ্ধার করেছিলাম",
+   "why_en": "Divine rescue from imminent death and enslavement."
+  },
+  {
+   "pos": 5,
+   "root": null,
+   "lemma": "فِرْعَوْن",
+   "meaning_en": "Pharaoh",
+   "meaning_bn": "ফেরাউন",
+   "why_en": "The tyrannical ruler of Egypt who enslaved the Israelites and claimed divinity."
+  },
+  {
+   "pos": 15,
+   "root": "بلو",
+   "lemma": "بَلاء",
+   "meaning_en": "a trial or test",
+   "meaning_bn": "পরীক্ষা",
+   "why_en": "A severe test of faith through both hardship and deliverance."
+  }
+ ],
+ "lesson_en": "Allah is able to rescue the oppressed and bring down even the proudest tyrant.",
+ "lesson_bn": "আল্লাহ অত্যাচারিতের রক্ষক এবং তিনি সবচেয়ে পরাক্রমশালী অহংকারী জালিমকেও ধ্বংস করতে পারেন।",
+ "real_life_en": "When reading about oppression, war, or hardships faced by innocent families around the world, you feel sorrow. You remember that tyranny never lasts forever. You pray for the oppressed and support relief efforts with steady trust in Allah's justice.",
+ "real_life_bn": "পৃথিবীতে কোনো মজলুম মানুষের কষ্ট দেখলে হতাশ হবেন না। মনে রাখুন, ফেরাউনের মতো জালিমের পতন যেভাবে হয়েছে, তেমনি যেকোনো অত্যাচারীর দিনও একদিন শেষ হয়। মজলুমের পাশে দাঁড়ান।",
+ "context_en": "Begins recounting the specific historical mercies given to the Israelites, starting with liberation from Egyptian servitude.",
+ "context_bn": "বনি ইসরাঈলের প্রতি আল্লাহর বিশেষ করুণাসমূহের ধারাবাহিক বিবরণ, যার সূচনা হয়েছে ফেরাউনের দাসত্ব ও নিপীড়ন থেকে মুক্তি দিয়ে।",
+ "themes": [
+  "Children of Israel",
+  "trials",
+  "justice",
+  "stories of the prophets"
+ ],
+ "kinds": [
+  "story",
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Fir'awn"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [
+   "Egypt"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Exodus"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Israelites were saved from Pharaoh's regime which slaughtered male infants and spared females.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The enslavement and subsequent rescue constituted a profound trial from Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

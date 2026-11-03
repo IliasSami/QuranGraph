@@ -1,0 +1,81 @@
+{
+ "id": "2:43",
+ "simple_en": "They are commanded to establish the prayer with devotion, to give the purifying charity, and to bow down in worship with those who bow. True belief must be shown through outward acts of worship and sharing wealth with the needy. Worshipping alongside the community of believers unites hearts in humility.",
+ "simple_bn": "তাদের নির্দেশ দেওয়া হয়েছে নিষ্ঠার সাথে সালাত কায়েম করতে, যাকাত আদায় করতে এবং রুকুকারীদের সাথে রুকু করতে অর্থাৎ জামাতে সালাত আদায় করতে। অন্তরের ঈমানকে বাহ্যিক ইবাদত ও অভাবীদের সাথে সম্পদ বণ্টনের মাধ্যমে বাস্তবায়ন করতে হয়। মুমিনদের সাথে একত্রে ইবাদত মানুষের অন্তরে বিনয় এনে দেয়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "صلو",
+   "lemma": "صَلاة",
+   "meaning_en": "the prayer",
+   "meaning_bn": "সালাত বা নামাজ",
+   "why_en": "The central pillar of daily worship, connection, and submission to Allah."
+  },
+  {
+   "pos": 4,
+   "root": "زكو",
+   "lemma": "زَكاة",
+   "meaning_en": "the zakat",
+   "meaning_bn": "যাকাত",
+   "why_en": "The obligatory charity that purifies wealth and aids the poor."
+  },
+  {
+   "pos": 5,
+   "root": "ركع",
+   "lemma": "يَرْكَعُ",
+   "meaning_en": "bow down",
+   "meaning_bn": "রুকু করো",
+   "why_en": "A posture of physical humility in communal prayer."
+  }
+ ],
+ "lesson_en": "Pray on time, help the poor, and pray together with others.",
+ "lesson_bn": "নিয়মিত সালাত, দানশীলতা এবং জামাতে ইবাদতের মাধ্যমে জীবনকে পরিচালিত করুন।",
+ "real_life_en": "You organize your workday around prayer times instead of letting work crowd out worship. When bonus pay arrives, you calculate what is due to the poor right away, and you make an effort to pray alongside others at the local mosque.",
+ "real_life_bn": "কাজের ফাঁকে সময়মতো সালাত আদায় করুন। হাতে অতিরিক্ত অর্থ আসলে অভাবীদের হকের কথা মনে রেখে দান করুন এবং সুযোগ থাকলে মসজিদে গিয়ে সবার সাথে জামাতে নামাজ পড়ুন।",
+ "context_en": "Moves from doctrinal rectification to practical obedience by enjoining prayer, charity, and fellowship with the Muslim community.",
+ "context_bn": "বিশ্বাসের সংশোধনের পর এবার সালাত, যাকাত ও মুসলিম জামায়াতের সাথে যুক্ত হয়ে আমল করার নির্দেশ দেওয়া হয়েছে।",
+ "themes": [
+  "prayer",
+  "zakat",
+  "worship",
+  "charity",
+  "brotherhood"
+ ],
+ "kinds": [
+  "command",
+  "worship",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Children of Israel were commanded to establish prayer, pay zakat, and pray with the believers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Bowing with those who bow calls for joining the Muslim congregation in unified worship.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

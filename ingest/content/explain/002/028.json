@@ -1,0 +1,83 @@
+{
+ "id": "2:28",
+ "simple_en": "How can you deny Allah when you see the proof of His power in your own life? You did not exist, and He brought you into being. He will cause you to die when your appointed time ends, and He will bring you back to life once more. In the end, you will return to Him to account for all you did.",
+ "simple_bn": "তোমরা কীভাবে আল্লাহর অস্তিত্ব ও একত্বকে অস্বীকার করো, যেখানে তোমাদের নিজেদের জীবনেই তাঁর শক্তিমত্তার স্পষ্ট প্রমাণ রয়েছে? তোমরা একসময় কিছুই ছিলে না, তিনি তোমাদের প্রাণ দিয়েছেন। এরপর তিনি তোমাদের মৃত্যু ঘটাবেন এবং পুনরুত্থানের দিন পুনরায় জীবিত করবেন। সবশেষে হিসাব দেওয়ার জন্য তোমাদের তাঁর কাছেই ফিরে যেতে হবে।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "موت",
+   "lemma": "مَيِّت",
+   "meaning_en": "lifeless",
+   "meaning_bn": "মৃত বা প্রাণহীন",
+   "why_en": "The state of non-existence before creation."
+  },
+  {
+   "pos": 6,
+   "root": "حيي",
+   "lemma": "أَحْيا",
+   "meaning_en": "He gave you life",
+   "meaning_bn": "তিনি তোমাদের জীবন দান করলেন",
+   "why_en": "Bestowing the miracle of breath and consciousness."
+  },
+  {
+   "pos": 13,
+   "root": "رجع",
+   "lemma": "رَجَعَ",
+   "meaning_en": "you will be returned",
+   "meaning_bn": "তোমরা প্রত্যাবর্তিত হবে",
+   "why_en": "Standing before Allah for the final judgment."
+  }
+ ],
+ "lesson_en": "Remember that life and death come from Allah, and our ultimate return is to Him alone.",
+ "lesson_bn": "জীবন ও মৃত্যু সবই আল্লাহর দান, এবং চূড়ান্তভাবে আমাদের তাঁর কাছেই ফিরে যেতে হবে।",
+ "real_life_en": "When attending a funeral of a friend or neighbour, you reflect on how quickly life passes. You remember that your stay on earth is brief. You resolve to spend your days doing good deeds and preparing for your meeting with Allah.",
+ "real_life_bn": "পরিচিত কারো জানাজায় অংশ নেওয়ার সময় মনে করিয়ে দিন যে দুনিয়ার জীবন অতি ক্ষণস্থায়ী। আল্লাহর দেওয়া এই অমূল্য সময়কে হেলায় না হারিয়ে নেক আমল দিয়ে সাজিয়ে নিন।",
+ "context_en": "Expresses amazement at disbelief by reminding humans of the clear stages of their existence from non-being to the Hereafter.",
+ "context_bn": "মানুষের আদি সৃষ্টি থেকে মৃত্যু, পুনরুত্থান ও শেষ বিচারের ধারাবাহিক স্তরগুলো তুলে ধরে কুফরির অসারতা ফুটিয়ে তোলা হয়েছে।",
+ "themes": [
+  "creation",
+  "resurrection",
+  "death",
+  "judgment",
+  "the Last Day"
+ ],
+ "kinds": [
+  "argument",
+  "hereafter",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Resurrection"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "Resurrection"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Human beings were non-existent, then given life by Allah, then made to die, and then resurrected.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The stages of life and death prove the certainty of the final return to Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}
