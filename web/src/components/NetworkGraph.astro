@@ -1,0 +1,196 @@
+---
+import graphSummary from "../../../ingest/work/export/graph/summary.json" with { type: "json" };
+import entitiesData from "../../../ingest/work/export/graph/entities.json" with { type: "json" };
+---
+
+<div class="network-graph-widget card" style="padding: 1.5rem; margin-bottom: 2.5rem; border-top: 4px solid var(--accent-teal);">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; flex-wrap: wrap; gap: 0.5rem;">
+    <div>
+      <h3 style="font-size: 1.25rem; font-weight: 700;">Interactive Knowledge Network</h3>
+      <p style="font-size: 0.85rem; color: var(--text-muted);">
+        Drag nodes to explore. Click any node to see its connected verses.
+      </p>
+    </div>
+    <div style="display: flex; gap: 0.5rem; font-size: 0.75rem;">
+      <span style="display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 10px; height: 10px; border-radius: 50%; background: #b45309;"></span> Divine Names</span>
+      <span style="display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 10px; height: 10px; border-radius: 50%; background: #0f766e;"></span> Prophets</span>
+      <span style="display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 10px; height: 10px; border-radius: 50%; background: #2563eb;"></span> Places & Nations</span>
+      <span style="display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 10px; height: 10px; border-radius: 50%; background: #7c3aed;"></span> Concepts</span>
+    </div>
+  </div>
+
+  <div style="position: relative; width: 100%; height: 480px; background: var(--bg-subtle); border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--border-color);">
+    <canvas id="graph-canvas" style="width: 100%; height: 100%; display: block;"></canvas>
+    <div id="graph-tooltip" style="position: absolute; display: none; background: var(--bg-surface); border: 1px solid var(--border-color); padding: 0.5rem 0.75rem; border-radius: 6px; font-size: 0.85rem; pointer-events: none; box-shadow: var(--shadow-md); z-index: 10;"></div>
+  </div>
+</div>
+
+<script is:inline>
+  const canvas = document.getElementById("graph-canvas");
+  const tooltip = document.getElementById("graph-tooltip");
+
+  if (canvas) {
+    const ctx = canvas.getContext("2d");
+    let width = (canvas.width = canvas.parentElement.clientWidth);
+    let height = (canvas.height = canvas.parentElement.clientHeight);
+
+    window.addEventListener("resize", () => {
+      width = canvas.width = canvas.parentElement.clientWidth;
+      height = canvas.height = canvas.parentElement.clientHeight;
+    });
+
+    const NODES = [
+      { id: "allah", label: "Allah (الله)", type: "name_of_allah", color: "#b45309", r: 24, x: width / 2, y: height / 2, vx: 0, vy: 0 },
+      { id: "ar-rahman", label: "Ar-Rahman", type: "name_of_allah", color: "#b45309", r: 16, x: width / 2 - 80, y: height / 2 - 60, vx: 0, vy: 0 },
+      { id: "ar-rahim", label: "Ar-Rahim", type: "name_of_allah", color: "#b45309", r: 16, x: width / 2 + 80, y: height / 2 - 60, vx: 0, vy: 0 },
+      { id: "muhammad", label: "Prophet Muhammad ﷺ", type: "person", color: "#0f766e", r: 20, x: width / 2, y: height / 2 + 100, vx: 0, vy: 0 },
+      { id: "ibrahim", label: "Ibrahim (Abraham)", type: "person", color: "#0f766e", r: 18, x: width / 2 - 140, y: height / 2 + 70, vx: 0, vy: 0 },
+      { id: "musa", label: "Musa (Moses)", type: "person", color: "#0f766e", r: 18, x: width / 2 + 140, y: height / 2 + 70, vx: 0, vy: 0 },
+      { id: "yusuf", label: "Yusuf (Joseph)", type: "person", color: "#0f766e", r: 16, x: width / 2 - 180, y: height / 2 - 40, vx: 0, vy: 0 },
+      { id: "isa", label: "Isa (Jesus)", type: "person", color: "#0f766e", r: 16, x: width / 2 + 180, y: height / 2 - 40, vx: 0, vy: 0 },
+      { id: "makkah", label: "Makkah", type: "place", color: "#2563eb", r: 14, x: width / 2 - 60, y: height / 2 + 170, vx: 0, vy: 0 },
+      { id: "kaabah", label: "The Ka'bah", type: "place", color: "#2563eb", r: 14, x: width / 2 - 120, y: height / 2 + 160, vx: 0, vy: 0 },
+      { id: "tur-sina", label: "Mount Sinai", type: "place", color: "#2563eb", r: 13, x: width / 2 + 160, y: height / 2 + 150, vx: 0, vy: 0 },
+      { id: "tawhid", label: "Tawhid (Oneness)", type: "concept", color: "#7c3aed", r: 17, x: width / 2, y: height / 2 - 140, vx: 0, vy: 0 },
+      { id: "sabr", label: "Sabr (Patience)", type: "concept", color: "#7c3aed", r: 15, x: width / 2 - 150, y: height / 2 - 120, vx: 0, vy: 0 },
+      { id: "akhirah", label: "Akhirah (Hereafter)", type: "concept", color: "#7c3aed", r: 15, x: width / 2 + 150, y: height / 2 - 120, vx: 0, vy: 0 }
+    ];
+
+    const EDGES = [
+      { u: 0, v: 1 }, { u: 0, v: 2 }, { u: 0, v: 11 }, { u: 0, v: 3 },
+      { u: 3, v: 8 }, { u: 3, v: 9 }, { u: 4, v: 9 }, { u: 4, v: 6 },
+      { u: 5, v: 10 }, { u: 5, v: 12 }, { u: 11, v: 12 }, { u: 11, v: 13 },
+      { u: 3, v: 4 }, { u: 3, v: 5 }, { u: 5, v: 7 }
+    ];
+
+    let draggedNode = null;
+    let hoveredNode = null;
+
+    canvas.addEventListener("mousedown", (e) => {
+      const rect = canvas.getBoundingClientRect();
+      const mx = e.clientX - rect.left;
+      const my = e.clientY - rect.top;
+      for (const n of NODES) {
+        const dx = n.x - mx;
+        const dy = n.y - my;
+        if (dx * dx + dy * dy < n.r * n.r) {
+          draggedNode = n;
+          break;
+        }
+      }
+    });
+
+    window.addEventListener("mousemove", (e) => {
+      const rect = canvas.getBoundingClientRect();
+      const mx = e.clientX - rect.left;
+      const my = e.clientY - rect.top;
+
+      if (draggedNode) {
+        draggedNode.x = mx;
+        draggedNode.y = my;
+      }
+
+      hoveredNode = null;
+      for (const n of NODES) {
+        const dx = n.x - mx;
+        const dy = n.y - my;
+        if (dx * dx + dy * dy < n.r * n.r) {
+          hoveredNode = n;
+          break;
+        }
+      }
+
+      if (hoveredNode && tooltip) {
+        tooltip.style.display = "block";
+        tooltip.style.left = mx + 15 + "px";
+        tooltip.style.top = my - 10 + "px";
+        tooltip.innerHTML = `<strong>${hoveredNode.label}</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Click to search verses</span>`;
+      } else if (tooltip) {
+        tooltip.style.display = "none";
+      }
+    });
+
+    window.addEventListener("mouseup", () => {
+      draggedNode = null;
+    });
+
+    canvas.addEventListener("click", () => {
+      if (hoveredNode) {
+        window.location.href = `/search?q=${encodeURIComponent(hoveredNode.label.split(" (")[0])}`;
+      }
+    });
+
+    function step() {
+      // Gentle spring simulation
+      for (const e of EDGES) {
+        const n1 = NODES[e.u];
+        const n2 = NODES[e.v];
+        const dx = n2.x - n1.x;
+        const dy = n2.y - n1.y;
+        const dist = Math.sqrt(dx * dx + dy * dy) || 1;
+        const targetDist = 90;
+        const force = (dist - targetDist) * 0.003;
+        const fx = (dx / dist) * force;
+        const fy = (dy / dist) * force;
+        if (n1 !== draggedNode) { n1.x += fx; n1.y += fy; }
+        if (n2 !== draggedNode) { n2.x -= fx; n2.y -= fy; }
+      }
+
+      // Repulsion
+      for (let i = 0; i < NODES.length; i++) {
+        for (let j = i + 1; j < NODES.length; j++) {
+          const n1 = NODES[i];
+          const n2 = NODES[j];
+          const dx = n2.x - n1.x;
+          const dy = n2.y - n1.y;
+          const distSq = dx * dx + dy * dy || 1;
+          if (distSq < 18000) {
+            const force = 40 / distSq;
+            const dist = Math.sqrt(distSq);
+            const fx = (dx / dist) * force;
+            const fy = (dy / dist) * force;
+            if (n1 !== draggedNode) { n1.x -= fx; n1.y -= fy; }
+            if (n2 !== draggedNode) { n2.x += fx; n2.y += fy; }
+          }
+        }
+      }
+
+      // Render
+      ctx.clearRect(0, 0, width, height);
+
+      // Edges
+      ctx.strokeStyle = "rgba(150, 160, 175, 0.35)";
+      ctx.lineWidth = 1.5;
+      for (const e of EDGES) {
+        ctx.beginPath();
+        ctx.moveTo(NODES[e.u].x, NODES[e.u].y);
+        ctx.lineTo(NODES[e.v].x, NODES[e.v].y);
+        ctx.stroke();
+      }
+
+      // Nodes
+      for (const n of NODES) {
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
+        ctx.fillStyle = n.color;
+        ctx.fill();
+
+        if (n === hoveredNode) {
+          ctx.strokeStyle = "#ffffff";
+          ctx.lineWidth = 3;
+          ctx.stroke();
+        }
+
+        // Label
+        ctx.fillStyle = "var(--text-main)";
+        ctx.font = "500 11px sans-serif";
+        ctx.textAlign = "center";
+        ctx.fillText(n.label, n.x, n.y + n.r + 14);
+      }
+
+      requestAnimationFrame(step);
+    }
+
+    step();
+  }
+</script>

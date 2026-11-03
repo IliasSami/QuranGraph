@@ -1,0 +1,128 @@
+---
+interface Props {
+  surah: number;
+  ayah: number;
+  surahTotalAyat: number;
+}
+
+const { surah, ayah, surahTotalAyat } = Astro.props;
+const sStr = String(surah).padStart(3, "0");
+const aStr = String(ayah).padStart(3, "0");
+const audioUrl = `https://everyayah.com/data/Alafasy_64kbps/${sStr}${aStr}.mp3`;
+---
+
+<div class="audio-player-container card" style="display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; padding: 1rem 1.25rem; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-md);">
+  <div style="display: flex; align-items: center; gap: 0.75rem;">
+    <button id="audio-play-btn" class="play-btn" aria-label="Play recitation">
+      <span id="play-icon">▶</span>
+    </button>
+    <div>
+      <div style="font-weight: 700; font-size: 0.95rem; color: var(--text-main);">
+        Recitation: Mishary Rashid Alafasy
+      </div>
+      <div style="font-size: 0.8rem; color: var(--text-muted);">
+        EveryAyah stream · Verse {surah}:{ayah}
+      </div>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: center; gap: 0.75rem;">
+    <!-- Speed control -->
+    <button id="speed-btn" class="btn-icon" title="Playback Speed">
+      1x
+    </button>
+
+    <!-- Loop toggle -->
+    <button id="loop-btn" class="btn-icon" title="Repeat this verse">
+      🔁 Repeat: Off
+    </button>
+
+    <!-- Progress bar -->
+    <div style="width: 100px; height: 6px; background: var(--bg-subtle); border-radius: 9999px; overflow: hidden;">
+      <div id="audio-progress" style="width: 0%; height: 100%; background: var(--accent-teal); transition: width 0.1s linear;"></div>
+    </div>
+  </div>
+
+  <audio id="ayah-audio" preload="none" src={audioUrl}></audio>
+</div>
+
+<style>
+  .play-btn {
+    width: 2.75rem;
+    height: 2.75rem;
+    border-radius: 50%;
+    background: var(--accent-teal);
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    transition: transform 0.15s ease, background-color 0.15s ease;
+  }
+  .play-btn:hover {
+    background: var(--accent-teal-hover);
+    transform: scale(1.05);
+  }
+</style>
+
+<script is:inline define:vars={{ surah, ayah, surahTotalAyat }}>
+  const audio = document.getElementById("ayah-audio");
+  const playBtn = document.getElementById("audio-play-btn");
+  const playIcon = document.getElementById("play-icon");
+  const progress = document.getElementById("audio-progress");
+  const speedBtn = document.getElementById("speed-btn");
+  const loopBtn = document.getElementById("loop-btn");
+
+  if (audio && playBtn) {
+    let isLooping = false;
+    const speeds = [0.75, 1.0, 1.25, 1.5];
+    let speedIdx = 1;
+
+    playBtn.addEventListener("click", () => {
+      if (audio.paused) {
+        audio.play().then(() => {
+          if (playIcon) playIcon.textContent = "⏸";
+        }).catch((e) => console.log("Audio play prevented:", e));
+      } else {
+        audio.pause();
+        if (playIcon) playIcon.textContent = "▶";
+      }
+    });
+
+    audio.addEventListener("timeupdate", () => {
+      if (audio.duration && progress) {
+        const pct = (audio.currentTime / audio.duration) * 100;
+        progress.style.width = pct + "%";
+      }
+    });
+
+    audio.addEventListener("ended", () => {
+      if (isLooping) {
+        audio.currentTime = 0;
+        audio.play();
+      } else {
+        if (playIcon) playIcon.textContent = "▶";
+        if (progress) progress.style.width = "0%";
+        // Auto-advance if next ayah exists
+        if (ayah < surahTotalAyat) {
+          window.location.href = `/ayah/${surah}/${ayah + 1}`;
+        }
+      }
+    });
+
+    speedBtn?.addEventListener("click", () => {
+      speedIdx = (speedIdx + 1) % speeds.length;
+      const s = speeds[speedIdx];
+      audio.playbackRate = s;
+      speedBtn.textContent = s + "x";
+    });
+
+    loopBtn?.addEventListener("click", () => {
+      isLooping = !isLooping;
+      loopBtn.textContent = isLooping ? "🔁 Repeat: On" : "🔁 Repeat: Off";
+      loopBtn.style.color = isLooping ? "var(--accent-teal)" : "inherit";
+    });
+  }
+</script>

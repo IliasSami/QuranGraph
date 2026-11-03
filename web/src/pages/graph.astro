@@ -1,5 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
+import NetworkGraph from "../components/NetworkGraph.astro";
 import graphSummary from "../../../ingest/work/export/graph/summary.json" with { type: "json" };
 import entitiesData from "../../../ingest/work/export/graph/entities.json" with { type: "json" };
 import clustersData from "../../../ingest/work/export/graph/clusters.json" with { type: "json" };
@@ -25,6 +26,9 @@ const namesOfAllah = entities.filter((e: any) => e.type === "name_of_allah");
 
   <div style="padding: 3rem 0;">
     <div class="container" style="max-width: 900px;">
+      <!-- Interactive Network Visualizer -->
+      <NetworkGraph />
+
       <!-- Graph Metrics -->
       <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin-bottom: 3rem;">
         <div class="card" style="text-align: center;">

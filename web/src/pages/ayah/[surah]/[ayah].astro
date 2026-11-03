@@ -1,5 +1,6 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
+import AudioPlayer from "../../../components/AudioPlayer.astro";
 import surahsData from "../../../lib/search/surahs.json" with { type: "json" };
 import corpusData from "../../../lib/search/corpus.json" with { type: "json" };
 import similarData from "../../../../../ingest/work/export/graph/similar_ayat.json" with { type: "json" };
@@ -112,6 +113,11 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
             </div>
           </div>
         </div>
+      </div>
+
+      <!-- Audio Player -->
+      <div style="margin-bottom: 2rem;">
+        <AudioPlayer surah={sId} ayah={aNum} surahTotalAyat={surah.ayat} />
       </div>
 
       {explanation ? (

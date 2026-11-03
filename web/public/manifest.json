@@ -1,0 +1,17 @@
+{
+  "name": "QuranGraph",
+  "short_name": "QuranGraph",
+  "description": "The Connected Quran Knowledge System in English and Bangla",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f5",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

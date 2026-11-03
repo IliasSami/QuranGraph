@@ -1,0 +1,113 @@
+---
+import numbersData from "../../../ingest/work/numbers_lab.json" with { type: "json" };
+
+const lemmas = numbersData.vocabulary_coverage.top_lemmas.slice(0, 20);
+---
+
+<div class="flashcards-widget card" style="border-top: 4px solid var(--accent-gold); max-width: 600px; margin: 0 auto;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem;">
+    <span class="badge badge-gold">Spaced Repetition Flashcards</span>
+    <span id="fc-progress" style="font-size: 0.85rem; font-weight: 600; color: var(--text-muted);">
+      Card 1 of {lemmas.length}
+    </span>
+  </div>
+
+  <div id="fc-card" style="min-height: 220px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; background: var(--bg-subtle); border-radius: var(--radius-md); padding: 2rem; border: 1px solid var(--border-color); margin-bottom: 1.5rem; transition: background-color 0.2s ease;">
+    <div id="fc-arabic" class="arabic-text" style="font-size: 3rem; color: var(--accent-teal); margin-bottom: 0.5rem;">
+      {lemmas[0].lemma}
+    </div>
+    <div id="fc-root" style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 0.5rem;">
+      Root: {lemmas[0].root || "Particle / N/A"}
+    </div>
+    <div id="fc-count" class="badge" style="background: var(--bg-surface); color: var(--text-muted); font-size: 0.75rem; margin-bottom: 1rem;">
+      {lemmas[0].count.toLocaleString()} occurrences in Quran
+    </div>
+
+    <!-- Hidden answer area -->
+    <div id="fc-answer" style="display: none; border-top: 1px dashed var(--border-color); padding-top: 1rem; width: 100%;">
+      <div id="fc-meaning-en" style="font-size: 1.2rem; font-weight: 700; color: var(--text-main); margin-bottom: 0.25rem;">
+        <!-- Filled dynamically -->
+      </div>
+      <div id="fc-meaning-bn" class="bangla-text" style="font-size: 1.05rem; color: var(--text-muted);">
+        <!-- Filled dynamically -->
+      </div>
+    </div>
+  </div>
+
+  <!-- Actions -->
+  <div id="fc-reveal-container" style="display: flex; justify-content: center;">
+    <button id="fc-reveal-btn" class="btn-icon" style="background: var(--accent-teal); color: white; padding: 0.75rem 2rem; font-size: 1rem; font-weight: 600; border: none; border-radius: var(--radius-sm); cursor: pointer;">
+      Reveal Meaning (উন্মোচন)
+    </button>
+  </div>
+
+  <div id="fc-response-container" style="display: none; justify-content: center; gap: 1rem;">
+    <button id="fc-again-btn" class="btn-icon" style="flex: 1; padding: 0.75rem; background: var(--bg-subtle); color: var(--text-main); border: 1px solid var(--border-color); font-weight: 600;">
+      🔄 Review Again
+    </button>
+    <button id="fc-know-btn" class="btn-icon" style="flex: 1; padding: 0.75rem; background: var(--accent-teal); color: white; border: none; font-weight: 600;">
+      ✅ Got It (Know)
+    </button>
+  </div>
+</div>
+
+<script is:inline define:vars={{ lemmas }}>
+  const LEMMAS = [
+    { lemma: "اللَّه", root: "أله", count: 2699, en: "Allah (God, The One True Deity)", bn: "আল্লাহ (একমাত্র সত্য উপাস্য)" },
+    { lemma: "قالَ", root: "قول", count: 1722, en: "to say, speak", bn: "বলা, কথা বলা" },
+    { lemma: "كانَ", root: "كون", count: 1358, en: "to be, exist", bn: "হওয়া, বিদ্যমান থাকা" },
+    { lemma: "آمَنَ", root: "أمن", count: 890, en: "to believe, have faith", bn: "ঈমান আনা, বিশ্বাস করা" },
+    { lemma: "عَلِمَ", root: "علم", count: 854, en: "to know, be aware", bn: "জানা, জ্ঞান অর্জন করা" },
+    { lemma: "رَبّ", root: "ربب", count: 975, en: "Lord, Sustainer, Master", bn: "রব, পালনকর্তা ও প্রভু" },
+    { lemma: "أَرْض", root: "أرض", count: 461, en: "earth, land", bn: "পৃথিবী, জমিন" },
+    { lemma: "يَوْم", root: "يوم", count: 475, en: "day, time", bn: "দিন, দিবস" },
+    { lemma: "كِتاب", root: "كتب", count: 261, en: "book, scripture, register", bn: "কিতাব, গ্রন্থ, আমলনামা" },
+    { lemma: "رَحْمَة", root: "رحم", count: 145, en: "mercy, grace", bn: "রহমত, দয়া ও অনুগ্রহ" }
+  ];
+
+  let currentIdx = 0;
+  const arabicEl = document.getElementById("fc-arabic");
+  const rootEl = document.getElementById("fc-root");
+  const countEl = document.getElementById("fc-count");
+  const answerEl = document.getElementById("fc-answer");
+  const meaningEn = document.getElementById("fc-meaning-en");
+  const meaningBn = document.getElementById("fc-meaning-bn");
+  const revealBtn = document.getElementById("fc-reveal-btn");
+  const revealBox = document.getElementById("fc-reveal-container");
+  const respBox = document.getElementById("fc-response-container");
+  const progressEl = document.getElementById("fc-progress");
+
+  function showCard(idx) {
+    const item = LEMMAS[idx % LEMMAS.length];
+    if (!arabicEl || !rootEl || !countEl || !meaningEn || !meaningBn || !answerEl) return;
+
+    arabicEl.textContent = item.lemma;
+    rootEl.textContent = "Root: " + item.root;
+    countEl.textContent = item.count.toLocaleString() + " occurrences in Quran";
+    meaningEn.textContent = item.en;
+    meaningBn.textContent = item.bn;
+
+    answerEl.style.display = "none";
+    if (revealBox) revealBox.style.display = "flex";
+    if (respBox) respBox.style.display = "none";
+    if (progressEl) progressEl.textContent = `Card ${idx + 1} of ${LEMMAS.length}`;
+  }
+
+  revealBtn?.addEventListener("click", () => {
+    if (answerEl) answerEl.style.display = "block";
+    if (revealBox) revealBox.style.display = "none";
+    if (respBox) respBox.style.display = "flex";
+  });
+
+  document.getElementById("fc-know-btn")?.addEventListener("click", () => {
+    currentIdx = (currentIdx + 1) % LEMMAS.length;
+    showCard(currentIdx);
+  });
+
+  document.getElementById("fc-again-btn")?.addEventListener("click", () => {
+    currentIdx = (currentIdx + 1) % LEMMAS.length;
+    showCard(currentIdx);
+  });
+
+  showCard(0);
+</script>
