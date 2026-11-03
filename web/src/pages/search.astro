@@ -1,0 +1,139 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Search the Quran — Multi-Script & Concept Engine">
+  <div style="padding: 3rem 0;">
+    <div class="container" style="max-width: 860px;">
+      <h1 style="font-size: 2.25rem; font-weight: 800; margin-bottom: 0.5rem;">Search QuranGraph</h1>
+      <p style="color: var(--text-muted); font-size: 1.05rem; margin-bottom: 2rem;">
+        Search in English, Arabic (with or without marks), Bangla, transliteration, references (2:255, বাকারা ২৫৫), or concepts.
+      </p>
+
+      <!-- Search Input Form -->
+      <div style="margin-bottom: 2rem;">
+        <div style="display: flex; gap: 0.5rem; background: var(--bg-surface); padding: 0.5rem; border-radius: var(--radius-md); border: 2px solid var(--accent-teal); box-shadow: var(--shadow-sm);">
+          <input
+            id="search-input"
+            type="search"
+            placeholder="Type verse (2:255), name (ayatul kursi), concept (patience), or Arabic..."
+            style="flex: 1; border: none; outline: none; padding: 0.75rem 1rem; font-size: 1.05rem; background: transparent; color: var(--text-main);"
+            autofocus
+          />
+          <button
+            id="search-btn"
+            style="background: var(--accent-teal); color: white; border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 600; cursor: pointer;"
+          >
+            Search
+          </button>
+        </div>
+
+        <div style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.75rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+          <span>Examples:</span>
+          <button class="quick-pill" data-query="ayatul kursi">ayatul kursi</button>
+          <button class="quick-pill" data-query="2:255">2:255</button>
+          <button class="quick-pill" data-query="বাকারা ২৫৫">বাকারা ২৫৫</button>
+          <button class="quick-pill" data-query="patience">patience</button>
+          <button class="quick-pill" data-query="ধৈর্য">ধৈর্য</button>
+          <button class="quick-pill" data-query="with hardship comes ease">with hardship comes ease</button>
+          <button class="quick-pill" data-query="story of yusuf">story of yusuf</button>
+          <button class="quick-pill" data-query="ar-rahman">ar-rahman</button>
+        </div>
+      </div>
+
+      <!-- Live Results Area -->
+      <div id="results-meta" style="margin-bottom: 1rem; font-size: 0.9rem; color: var(--text-muted); display: none;"></div>
+      <div id="results-container" style="display: flex; flex-direction: column; gap: 1.25rem;"></div>
+    </div>
+  </div>
+
+  <style>
+    .quick-pill {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-color);
+      border-radius: 9999px;
+      padding: 0.2rem 0.6rem;
+      font-size: 0.8rem;
+      cursor: pointer;
+      color: var(--text-muted);
+    }
+    .quick-pill:hover {
+      border-color: var(--accent-teal);
+      color: var(--accent-teal);
+    }
+  </style>
+
+  <script>
+    import { search } from "../lib/search/engine.ts";
+
+    const input = document.getElementById("search-input") as HTMLInputElement;
+    const btn = document.getElementById("search-btn");
+    const container = document.getElementById("results-container");
+    const meta = document.getElementById("results-meta");
+
+    function executeSearch(q: string) {
+      if (!q.trim() || !container || !meta) return;
+
+      const t0 = performance.now();
+      const results = search(q, 15);
+      const t1 = performance.now();
+
+      meta.style.display = "block";
+      meta.textContent = `Found ${results.length} results in ${(t1 - t0).toFixed(1)} ms`;
+
+      if (results.length === 0) {
+        container.innerHTML = `
+          <div class="card" style="text-align: center; padding: 3rem;">
+            <p style="color: var(--text-muted); font-size: 1.05rem;">
+              No exact matches found for "${q}". Try checking the spelling or searching by English, Arabic, or verse number.
+            </p>
+          </div>
+        `;
+        return;
+      }
+
+      container.innerHTML = results
+        .map((r) => {
+          const [s, a] = r.ref.split(":");
+          return `
+            <a href="/ayah/${s}/${a}" class="card" style="display: block; text-decoration: none; color: inherit; transition: border-color 0.15s ease;">
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+                <span class="badge badge-teal" style="font-size: 0.85rem;">Ayah ${r.ref}</span>
+                <span class="badge" style="background: var(--bg-subtle); color: var(--text-muted); font-size: 0.75rem;">
+                  Match: ${r.matchType} (Score: ${r.score})
+                </span>
+              </div>
+              ${r.title ? `<div style="font-weight: 700; color: var(--accent-gold); margin-bottom: 0.5rem; font-size: 1.05rem;">${r.title}</div>` : ""}
+              <div style="font-size: 0.95rem; color: var(--accent-teal); font-weight: 600;">
+                Click to open study view & explanation →
+              </div>
+            </a>
+          `;
+        })
+        .join("");
+    }
+
+    // Trigger on Enter or button click
+    btn?.addEventListener("click", () => executeSearch(input.value));
+    input?.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") executeSearch(input.value);
+    });
+
+    // Quick pills
+    document.querySelectorAll(".quick-pill").forEach((pill) => {
+      pill.addEventListener("click", () => {
+        const q = (pill as HTMLElement).dataset.query || "";
+        input.value = q;
+        executeSearch(q);
+      });
+    });
+
+    // Read URL query param
+    const params = new URLSearchParams(window.location.search);
+    const initialQuery = params.get("q");
+    if (initialQuery && input) {
+      input.value = initialQuery;
+      executeSearch(initialQuery);
+    }
+  </script>
+</Layout>

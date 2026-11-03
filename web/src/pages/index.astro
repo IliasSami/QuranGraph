@@ -1,0 +1,154 @@
+---
+import Layout from "../layouts/Layout.astro";
+import surahsData from "../lib/search/surahs.json" with { type: "json" };
+import numbersData from "../../../ingest/work/numbers_lab.json" with { type: "json" };
+
+const baseline = numbersData.baseline;
+const featuredSurahs = surahsData.slice(0, 10);
+const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
+---
+
+<Layout title="QuranGraph — Explore the Quran Conceptually & Linguistically">
+  <!-- Hero Section -->
+  <section style="padding: 4.5rem 0 3rem; background: linear-gradient(180deg, var(--bg-surface) 0%, var(--bg-primary) 100%); border-bottom: 1px solid var(--border-color); text-align: center;">
+    <div class="container" style="max-width: 800px;">
+      <div class="badge badge-teal" style="margin-bottom: 1rem;">
+        Knowledge Graph · Language · Verified Tafsir
+      </div>
+      <h1 style="font-size: 2.75rem; font-weight: 800; line-height: 1.2; margin-bottom: 1rem; letter-spacing: -0.02em;">
+        Read the Quran with complete context and connection.
+      </h1>
+      <p style="font-size: 1.15rem; color: var(--text-muted); margin-bottom: 2rem; max-width: 640px; margin-inline: auto;">
+        Connecting verses, roots, stories, and scholars' insights in plain English and Bangla. Search by reference, theme, Arabic root, or everyday question.
+      </p>
+
+      <!-- Instant Search Box -->
+      <form action="/search" method="get" style="display: flex; gap: 0.5rem; max-width: 600px; margin: 0 auto 1.5rem; background: var(--bg-surface); padding: 0.4rem; border-radius: var(--radius-md); border: 2px solid var(--accent-teal); box-shadow: var(--shadow-md);">
+        <input
+          type="search"
+          name="q"
+          placeholder="Search by verse (2:255), concept (patience), or Arabic (الرحمن)..."
+          style="flex: 1; border: none; outline: none; padding: 0.75rem 1rem; font-size: 1rem; background: transparent; color: var(--text-main);"
+          required
+        />
+        <button
+          type="submit"
+          style="background: var(--accent-teal); color: white; border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 600; cursor: pointer; font-size: 0.95rem;"
+        >
+          Search
+        </button>
+      </form>
+
+      <div style="font-size: 0.85rem; color: var(--text-muted); display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap;">
+        <span>Try:</span>
+        <a href="/search?q=ayatul+kursi">ayatul kursi</a> ·
+        <a href="/search?q=2:255">2:255</a> ·
+        <a href="/search?q=patience">patience (সবর)</a> ·
+        <a href="/search?q=story+of+yusuf">story of yusuf</a> ·
+        <a href="/search?q=light+upon+light">light upon light</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Live Stats Strip -->
+  <section style="padding: 2.5rem 0; background: var(--bg-surface); border-bottom: 1px solid var(--border-color);">
+    <div class="container">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1.5rem; text-align: center;">
+        <div>
+          <div style="font-size: 2rem; font-weight: 700; color: var(--accent-teal);">{baseline.surahs}</div>
+          <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 500;">Surahs in Order</div>
+        </div>
+        <div>
+          <div style="font-size: 2rem; font-weight: 700; color: var(--accent-teal);">{baseline.ayat.toLocaleString()}</div>
+          <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 500;">Ayat (Kufan Count)</div>
+        </div>
+        <div>
+          <div style="font-size: 2rem; font-weight: 700; color: var(--accent-teal);">{baseline.distinct_roots.toLocaleString()}</div>
+          <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 500;">Unique Arabic Roots</div>
+        </div>
+        <div>
+          <div style="font-size: 2rem; font-weight: 700; color: var(--accent-teal);">{baseline.words_morphology.toLocaleString()}</div>
+          <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 500;">Words Indexed</div>
+        </div>
+        <div>
+          <div style="font-size: 2rem; font-weight: 700; color: var(--accent-gold);">58 lemmas</div>
+          <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 500;">Cover 50% of the Quran</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Guided Pathways -->
+  <section style="padding: 4rem 0;">
+    <div class="container">
+      <div style="margin-bottom: 2rem;">
+        <h2 style="font-size: 1.75rem; font-weight: 700; margin-bottom: 0.5rem;">Begin Your Journey</h2>
+        <p style="color: var(--text-muted);">Step-by-step pathways curated for beginners and curious minds.</p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+        <div class="card" style="border-top: 4px solid var(--accent-teal);">
+          <div class="badge badge-teal" style="margin-bottom: 0.75rem;">Path 1</div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem;">Foundations of Faith</h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.25rem;">
+            Discover Al-Fatihah, Ayat al-Kursi, and the core verses explaining Tawhid, Allah's mercy, and prayer.
+          </p>
+          <a href="/ayah/1/1" style="font-weight: 600; display: inline-flex; align-items: center; gap: 0.25rem;">
+            Start with Al-Fatihah 1:1 →
+          </a>
+        </div>
+
+        <div class="card" style="border-top: 4px solid var(--accent-gold);">
+          <div class="badge badge-gold" style="margin-bottom: 0.75rem;">Path 2</div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem;">Prophetic Stories in Context</h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.25rem;">
+            Explore chronological episodes from the lives of Yusuf, Musa, and Ibrahim with lessons for daily life.
+          </p>
+          <a href="/ayah/12/4" style="font-weight: 600; display: inline-flex; align-items: center; gap: 0.25rem;">
+            Read Story of Yusuf →
+          </a>
+        </div>
+
+        <div class="card" style="border-top: 4px solid #3b82f6;">
+          <div class="badge" style="background: #dbeafe; color: #1d4ed8; margin-bottom: 0.75rem;">Interactive Tool</div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem;">The Numbers Lab</h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.25rem;">
+            Transparent, reproducible statistics: exact word counts, Zipf coverage curves, and honest audits of popular claims.
+          </p>
+          <a href="/numbers" style="font-weight: 600; display: inline-flex; align-items: center; gap: 0.25rem;">
+            Explore Numbers Lab →
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Surahs Explorer Grid -->
+  <section style="padding: 3rem 0; background: var(--bg-surface); border-top: 1px solid var(--border-color);">
+    <div class="container">
+      <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 2rem;">
+        <div>
+          <h2 style="font-size: 1.75rem; font-weight: 700; margin-bottom: 0.5rem;">Browse Surahs</h2>
+          <p style="color: var(--text-muted);">Explore all 114 surahs with detailed translations and word breakdowns.</p>
+        </div>
+        <a href="/surahs" style="font-weight: 600;">View all 114 surahs →</a>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem;">
+        {featuredSurahs.map((s) => (
+          <a href={`/surah/${s.id}`} class="card" style="display: flex; justify-content: space-between; align-items: center; text-decoration: none; padding: 1.1rem; color: inherit;">
+            <div>
+              <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.2rem;">
+                <span style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); background: var(--accent-teal-subtle); padding: 0.1rem 0.4rem; border-radius: 4px;">{s.id}</span>
+                <span style="font-weight: 700; font-size: 1rem;">{s.name_translit}</span>
+              </div>
+              <div style="font-size: 0.85rem; color: var(--text-muted);" class="bangla-text">{s.name_bn}</div>
+              <div style="font-size: 0.75rem; color: var(--text-muted);">{s.ayat} verses</div>
+            </div>
+            <div class="arabic-text" style="font-size: 1.4rem; color: var(--accent-teal);">{s.name_ar}</div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>

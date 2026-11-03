@@ -1,0 +1,113 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "QuranGraph — The Connected Quran Knowledge System",
+  description = "A connected, beginner-first Quran explorer joining concepts, stories, words, and statistics in English and Bangla."
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Inter:wght@400;500;600;700&family=Noto+Serif+Bengali:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script is:inline>
+      const savedTheme = localStorage.getItem("qg_theme") || "light";
+      document.documentElement.setAttribute("data-theme", savedTheme);
+    </script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-container">
+        <a href="/" class="logo">
+          <span class="logo-symbol">۞</span>
+          <span>QuranGraph</span>
+        </a>
+
+        <nav>
+          <ul class="nav-links">
+            <li><a href="/" class="nav-link">Home</a></li>
+            <li><a href="/surahs" class="nav-link">Surahs</a></li>
+            <li><a href="/search" class="nav-link">Search</a></li>
+            <li><a href="/graph" class="nav-link">Graph</a></li>
+            <li><a href="/numbers" class="nav-link">Numbers Lab</a></li>
+            <li><a href="/learn" class="nav-link">Learn</a></li>
+            <li><a href="/sources" class="nav-link">Sources</a></li>
+          </ul>
+        </nav>
+
+        <div class="header-controls">
+          <button id="theme-toggle" class="btn-icon" aria-label="Toggle visual theme">
+            🌓 Theme
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div>
+          <h3 style="font-weight: 700; margin-bottom: 0.5rem; color: var(--text-main);">QuranGraph</h3>
+          <p style="margin-bottom: 1rem; max-width: 420px;">
+            A transparent, connected exploration of the Holy Quran. Displayed Arabic text verbatim from Tanzil; translations and tafsir verbatim from QuranEnc.
+          </p>
+          <p style="font-size: 0.8rem; color: var(--text-muted);">
+            Open scholarly references · No ads · Free & open knowledge
+          </p>
+        </div>
+
+        <div>
+          <h4 style="font-size: 0.95rem; font-weight: 600; margin-bottom: 0.75rem; color: var(--text-main);">Study & Explore</h4>
+          <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.4rem;">
+            <li><a href="/surahs">Browse Surahs</a></li>
+            <li><a href="/ayah/1/1">Al-Fatihah Study View</a></li>
+            <li><a href="/ayah/2/255">Ayat al-Kursi</a></li>
+            <li><a href="/graph">Knowledge Graph Explorer</a></li>
+            <li><a href="/numbers">Numbers Lab</a></li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 style="font-size: 0.95rem; font-weight: 600; margin-bottom: 0.75rem; color: var(--text-main);">Methodology & Integrity</h4>
+          <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.4rem;">
+            <li><a href="/sources">Sources & Licences</a></li>
+            <li><a href="/learn">Learning Paths</a></li>
+            <li><a href="https://github.com" target="_blank" rel="noopener">Open Source Code</a></li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+
+    <script is:inline>
+      const themes = ["light", "dark", "sepia"];
+      const btn = document.getElementById("theme-toggle");
+      btn?.addEventListener("click", () => {
+        const current = document.documentElement.getAttribute("data-theme") || "light";
+        const nextIdx = (themes.indexOf(current) + 1) % themes.length;
+        const next = themes[nextIdx];
+        document.documentElement.setAttribute("data-theme", next);
+        localStorage.setItem("qg_theme", next);
+      });
+    </script>
+  </body>
+</html>

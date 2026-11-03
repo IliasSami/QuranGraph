@@ -1,0 +1,232 @@
+/* QuranGraph Design System & Theme Tokens */
+:root {
+  --font-arabic: 'Amiri Quran', 'Amiri', 'Traditional Arabic', serif;
+  --font-latin: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-bangla: 'Noto Serif Bengali', 'Hind Siliguri', 'SolaimanLipi', serif;
+
+  /* Light Theme (Default: warm crisp paper with scholarly ink) */
+  --bg-primary: #faf8f5;
+  --bg-surface: #ffffff;
+  --bg-subtle: #f3ede2;
+  --border-color: #e5ded0;
+  --border-accent: #0d9488;
+  
+  --text-main: #18191b;
+  --text-muted: #57595e;
+  --text-arabic: #0b1320;
+  
+  --accent-teal: #0f766e;
+  --accent-teal-hover: #115e59;
+  --accent-gold: #b45309;
+  --accent-gold-subtle: #fef3c7;
+  --accent-teal-subtle: #ccfbf1;
+  --danger: #b91c1c;
+
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.05);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] {
+  --bg-primary: #0b0f14;
+  --bg-surface: #131922;
+  --bg-subtle: #1c2430;
+  --border-color: #263140;
+  --border-accent: #14b8a6;
+
+  --text-main: #f3f4f6;
+  --text-muted: #9ca3af;
+  --text-arabic: #ffffff;
+
+  --accent-teal: #14b8a6;
+  --accent-teal-hover: #2dd4bf;
+  --accent-gold: #f59e0b;
+  --accent-gold-subtle: #3d2f10;
+  --accent-teal-subtle: #0f3d38;
+}
+
+[data-theme="sepia"] {
+  --bg-primary: #f5eedc;
+  --bg-surface: #fcf8ee;
+  --bg-subtle: #ebe1cb;
+  --border-color: #d8cbb0;
+  --border-accent: #854d0e;
+
+  --text-main: #332616;
+  --text-muted: #6b583f;
+  --text-arabic: #1f1408;
+
+  --accent-teal: #854d0e;
+  --accent-teal-hover: #713f12;
+  --accent-gold: #a16207;
+  --accent-gold-subtle: #faecc7;
+  --accent-teal-subtle: #edd8a6;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-latin);
+  background-color: var(--bg-primary);
+  color: var(--text-main);
+  line-height: 1.6;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--accent-teal);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.arabic-text {
+  font-family: var(--font-arabic);
+  direction: rtl;
+  text-align: right;
+  line-height: 2.2;
+  color: var(--text-arabic);
+}
+
+.bangla-text {
+  font-family: var(--font-bangla);
+  line-height: 1.7;
+}
+
+.container {
+  width: 100%;
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* Header & Nav */
+.site-header {
+  background-color: var(--bg-surface);
+  border-bottom: 1px solid var(--border-color);
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: blur(8px);
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 4rem;
+}
+
+.logo {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--text-main);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.logo-symbol {
+  color: var(--accent-teal);
+  font-size: 1.6rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: var(--accent-teal);
+  text-decoration: none;
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.btn-icon {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  color: var(--text-main);
+  border-radius: var(--radius-sm);
+  padding: 0.4rem 0.65rem;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+/* Card UI */
+.card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 1.5rem;
+  box-shadow: var(--shadow-sm);
+}
+
+/* Badge */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.55rem;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.badge-teal {
+  background: var(--accent-teal-subtle);
+  color: var(--accent-teal);
+}
+
+.badge-gold {
+  background: var(--accent-gold-subtle);
+  color: var(--accent-gold);
+}
+
+/* Footer */
+.site-footer {
+  margin-top: auto;
+  border-top: 1px solid var(--border-color);
+  background: var(--bg-surface);
+  padding: 3rem 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.footer-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 2rem;
+}
+
+@media (max-width: 768px) {
+  .footer-grid {
+    grid-template-columns: 1fr;
+  }
+}

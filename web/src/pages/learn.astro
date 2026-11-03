@@ -1,0 +1,92 @@
+---
+import Layout from "../layouts/Layout.astro";
+import pathsData from "../../../ingest/kb/learning_paths.json" with { type: "json" };
+import numbersData from "../../../ingest/work/numbers_lab.json" with { type: "json" };
+
+const paths = pathsData;
+const topLemmas = numbersData.vocabulary_coverage.top_lemmas.slice(0, 10);
+---
+
+<Layout title="Learn the Quran — Guided Paths & Vocabulary Course">
+  <div style="padding: 3.5rem 0 2rem; background: var(--bg-surface); border-bottom: 1px solid var(--border-color);">
+    <div class="container" style="max-width: 860px;">
+      <div class="badge badge-teal" style="margin-bottom: 0.75rem;">Structured Learning · Spaced Repetition</div>
+      <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.75rem;">Quran Learning Center</h1>
+      <p style="font-size: 1.1rem; color: var(--text-muted); line-height: 1.6;">
+        Master the essential verses recited daily, understand prophetic lessons, and build vocabulary through frequency-first study.
+      </p>
+    </div>
+  </div>
+
+  <div style="padding: 3rem 0;">
+    <div class="container" style="max-width: 860px;">
+      <!-- Guided Learning Paths -->
+      <div style="margin-bottom: 3.5rem;">
+        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 1.25rem;">Curated Learning Paths</h2>
+        <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+          {paths.map((p: any, idx: number) => (
+            <div class="card" style="border-left: 4px solid var(--accent-teal);">
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem;">
+                <span class="badge badge-teal">Path {idx + 1}</span>
+                <span style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">{p.steps.length} Steps</span>
+              </div>
+              <h3 style="font-size: 1.35rem; font-weight: 700; margin-bottom: 0.25rem;">{p.title_en}</h3>
+              <div class="bangla-text" style="font-size: 1rem; color: var(--text-muted); margin-bottom: 0.75rem;">
+                {p.title_bn}
+              </div>
+              <p style="font-size: 0.95rem; color: var(--text-main); margin-bottom: 1.25rem; line-height: 1.6;">
+                {p.description_en}
+              </p>
+
+              <!-- Steps List -->
+              <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+                {p.steps.map((step: string) => {
+                  const [s, a] = step.split(":");
+                  const startA = a.split("-")[0];
+                  return (
+                    <a href={`/ayah/${s}/${startA}`} class="badge" style="background: var(--bg-subtle); color: var(--accent-teal); text-decoration: none; padding: 0.35rem 0.65rem; border: 1px solid var(--border-color); font-size: 0.85rem;">
+                      {step} →
+                    </a>
+                  );
+                })}
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <!-- Frequency-First Vocabulary -->
+      <div style="margin-bottom: 3.5rem;">
+        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem;">Top 10 Most Frequent Lemmas</h2>
+        <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.5rem;">
+          These 10 words appear thousands of times across the Quran. Learning them provides immediate recognition across every page.
+        </p>
+
+        <div class="card">
+          <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
+            <thead>
+              <tr style="border-bottom: 2px solid var(--border-color); color: var(--text-muted);">
+                <th style="padding: 0.75rem;">Rank</th>
+                <th style="padding: 0.75rem;">Lemma (Arabic)</th>
+                <th style="padding: 0.75rem;">Root</th>
+                <th style="padding: 0.75rem;">Occurrences</th>
+                <th style="padding: 0.75rem;">Quran Share</th>
+              </tr>
+            </thead>
+            <tbody>
+              {topLemmas.map((l: any) => (
+                <tr style="border-bottom: 1px solid var(--border-color);">
+                  <td style="padding: 0.85rem; font-weight: 700; color: var(--accent-teal);">#{l.rank}</td>
+                  <td style="padding: 0.85rem; font-family: var(--font-arabic); font-size: 1.4rem;">{l.lemma}</td>
+                  <td style="padding: 0.85rem; font-family: var(--font-arabic); font-size: 1.2rem; color: var(--text-muted);">{l.root || "-"}</td>
+                  <td style="padding: 0.85rem; font-weight: 600;">{l.count.toLocaleString()}</td>
+                  <td style="padding: 0.85rem; color: var(--text-muted);">{l.percentage}%</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>

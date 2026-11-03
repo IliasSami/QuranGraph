@@ -1,0 +1,45 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import surahsData from "../../lib/search/surahs.json" with { type: "json" };
+
+const surahs = surahsData;
+---
+
+<Layout title="All 114 Surahs — QuranGraph">
+  <div style="padding: 3rem 0;">
+    <div class="container">
+      <div style="margin-bottom: 2.5rem;">
+        <h1 style="font-size: 2.25rem; font-weight: 800; margin-bottom: 0.5rem;">The 114 Surahs of the Holy Quran</h1>
+        <p style="color: var(--text-muted); font-size: 1.05rem;">
+          Browse all surahs in traditional order or filter by Meccan and Medinan revelations.
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.25rem;">
+        {surahs.map((s) => (
+          <a
+            href={`/surah/${s.id}`}
+            class="card"
+            style="display: flex; justify-content: space-between; align-items: center; text-decoration: none; padding: 1.25rem; color: inherit; transition: transform 0.15s ease, border-color 0.15s ease;"
+          >
+            <div>
+              <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.25rem;">
+                <span style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); background: var(--accent-teal-subtle); padding: 0.15rem 0.45rem; border-radius: 4px;">
+                  {s.id}
+                </span>
+                <span style="font-weight: 700; font-size: 1.05rem;">{s.name_translit}</span>
+              </div>
+              <div style="font-size: 0.9rem; color: var(--text-muted);" class="bangla-text">{s.name_bn}</div>
+              <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem;">
+                <span>{s.name_en}</span> · <span>{s.ayat} verses</span>
+              </div>
+            </div>
+            <div class="arabic-text" style="font-size: 1.6rem; color: var(--accent-teal);">
+              {s.name_ar}
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </div>
+</Layout>

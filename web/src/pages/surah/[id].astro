@@ -1,0 +1,95 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import surahsData from "../../lib/search/surahs.json" with { type: "json" };
+import corpusData from "../../lib/search/corpus.json" with { type: "json" };
+
+export function getStaticPaths() {
+  return surahsData.map((s) => ({
+    params: { id: String(s.id) },
+    props: {
+      surah: s,
+      ayat: corpusData.filter((a) => a.s === s.id)
+    }
+  }));
+}
+
+const { surah, ayat } = Astro.props;
+const prevSurah = surah.id > 1 ? surah.id - 1 : null;
+const nextSurah = surah.id < 114 ? surah.id + 1 : null;
+---
+
+<Layout title={`Surah ${surah.name_translit} (${surah.id}) — QuranGraph`}>
+  <!-- Surah Header Banner -->
+  <section style="padding: 3.5rem 0 2.5rem; background: var(--bg-surface); border-bottom: 1px solid var(--border-color); text-align: center;">
+    <div class="container" style="max-width: 800px;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
+        {prevSurah ? (
+          <a href={`/surah/${prevSurah}`} class="btn-icon">← Surah {prevSurah}</a>
+        ) : <div />}
+        <span class="badge badge-teal">Surah {surah.id} of 114</span>
+        {nextSurah ? (
+          <a href={`/surah/${nextSurah}`} class="btn-icon">Surah {nextSurah} →</a>
+        ) : <div />}
+      </div>
+
+      <div class="arabic-text" style="font-size: 3rem; color: var(--accent-teal); margin-bottom: 0.5rem;">
+        {surah.name_ar}
+      </div>
+      <h1 style="font-size: 2.25rem; font-weight: 800; margin-bottom: 0.25rem;">
+        {surah.name_translit}
+      </h1>
+      <p style="font-size: 1.15rem; color: var(--text-muted); margin-bottom: 0.5rem;" class="bangla-text">
+        {surah.name_bn} · {surah.name_en}
+      </p>
+      <div style="font-size: 0.9rem; color: var(--text-muted);">
+        {surah.ayat} verses
+      </div>
+
+      {surah.id !== 1 && surah.id !== 9 && (
+        <div class="arabic-text" style="font-size: 1.75rem; margin-top: 2rem; color: var(--text-main);">
+          بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+        </div>
+      )}
+    </div>
+  </section>
+
+  <!-- Verses List -->
+  <section style="padding: 3rem 0;">
+    <div class="container" style="max-width: 860px;">
+      <div style="display: flex; flex-direction: column; gap: 2rem;">
+        {ayat.map((item) => (
+          <article class="card" id={`ayah-${item.a}`} style="position: relative; scroll-margin-top: 5rem;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.75rem;">
+              <span class="badge badge-teal">
+                {item.s}:{item.a}
+              </span>
+              <div style="display: flex; gap: 0.75rem; font-size: 0.85rem;">
+                <a href={`/ayah/${item.s}/${item.a}`} style="font-weight: 600;">
+                  Study Deeply (Tafsir & Graph) →
+                </a>
+              </div>
+            </div>
+
+            <!-- Arabic Display -->
+            <div class="arabic-text" style="font-size: 1.85rem; margin-bottom: 1.5rem; word-spacing: 0.15em;">
+              {item.ar}
+              <span style="display: inline-block; font-size: 1.2rem; color: var(--accent-teal); margin-right: 0.4rem;">
+                ۝
+              </span>
+            </div>
+
+            <!-- English Translation -->
+            <div style="margin-bottom: 0.75rem; font-size: 1.05rem; line-height: 1.6; color: var(--text-main);">
+              {item.en}
+            </div>
+
+            <!-- Bangla Translation -->
+            <div class="bangla-text" style="font-size: 1rem; line-height: 1.7; color: var(--text-muted); border-top: 1px dashed var(--border-color); padding-top: 0.75rem;">
+              {item.bn}
+            </div>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>

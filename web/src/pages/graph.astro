@@ -1,0 +1,141 @@
+---
+import Layout from "../layouts/Layout.astro";
+import graphSummary from "../../../ingest/work/export/graph/summary.json" with { type: "json" };
+import entitiesData from "../../../ingest/work/export/graph/entities.json" with { type: "json" };
+import clustersData from "../../../ingest/work/export/graph/clusters.json" with { type: "json" };
+
+const entities = Object.values(entitiesData);
+const people = entities.filter((e: any) => e.type === "person");
+const places = entities.filter((e: any) => e.type === "place");
+const nations = entities.filter((e: any) => e.type === "nation");
+const unseen = entities.filter((e: any) => e.type === "unseen");
+const namesOfAllah = entities.filter((e: any) => e.type === "name_of_allah");
+---
+
+<Layout title="Knowledge Graph Explorer — QuranGraph">
+  <div style="padding: 3.5rem 0 2rem; background: var(--bg-surface); border-bottom: 1px solid var(--border-color);">
+    <div class="container" style="max-width: 900px;">
+      <div class="badge badge-teal" style="margin-bottom: 0.75rem;">Semantic Network · PageRank · Leiden Clusters</div>
+      <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.75rem;">Quranic Knowledge Graph</h1>
+      <p style="font-size: 1.1rem; color: var(--text-muted); line-height: 1.6;">
+        Explore how the Quran's 6,236 verses interconnect through roots, stories, divine names, historical figures, and shared themes.
+      </p>
+    </div>
+  </div>
+
+  <div style="padding: 3rem 0;">
+    <div class="container" style="max-width: 900px;">
+      <!-- Graph Metrics -->
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin-bottom: 3rem;">
+        <div class="card" style="text-align: center;">
+          <div style="font-size: 1.85rem; font-weight: 800; color: var(--accent-teal);">{graphSummary.node_count.toLocaleString()}</div>
+          <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">Total Graph Nodes</div>
+        </div>
+        <div class="card" style="text-align: center;">
+          <div style="font-size: 1.85rem; font-weight: 800; color: var(--accent-teal);">{graphSummary.edge_count.toLocaleString()}</div>
+          <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">Typed Semantic Edges</div>
+        </div>
+        <div class="card" style="text-align: center;">
+          <div style="font-size: 1.85rem; font-weight: 800; color: var(--accent-gold);">{namesOfAllah.length}</div>
+          <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">Names of Allah</div>
+        </div>
+        <div class="card" style="text-align: center;">
+          <div style="font-size: 1.85rem; font-weight: 800; color: var(--accent-teal);">{people.length}</div>
+          <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">Prophets & Figures</div>
+        </div>
+      </div>
+
+      <!-- Top Nodes by PageRank Centrality -->
+      <div style="margin-bottom: 3.5rem;">
+        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem;">Centrality & PageRank Leaders</h2>
+        <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.25rem;">
+          Computed via power-iteration PageRank (damping factor d = 0.85) over all linguistic and semantic connections.
+        </p>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 1rem;">
+          {graphSummary.top_nodes_pagerank.slice(0, 12).map((node: any) => (
+            <div class="card" style="display: flex; justify-content: space-between; align-items: center; padding: 1rem;">
+              <div>
+                <span class="badge" style="background: var(--bg-subtle); color: var(--text-muted); font-size: 0.7rem; margin-bottom: 0.25rem;">
+                  {node.type}
+                </span>
+                <div style="font-weight: 700; font-size: 1rem;">{node.label_en}</div>
+              </div>
+              <div style="text-align: right;">
+                <div class="arabic-text" style="font-size: 1.25rem; color: var(--accent-teal);">{node.label_ar}</div>
+                <div style="font-size: 0.75rem; color: var(--text-muted);">PR: {node.pagerank}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+
+      <!-- Curated Entities Explorer -->
+      <div style="margin-bottom: 3.5rem;">
+        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 1.25rem;">Curated Entities & Prophets</h2>
+        <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+          <div class="card">
+            <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 0.75rem; color: var(--accent-teal);">
+              Prophets & Companions ({people.length})
+            </h3>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+              {people.map((p: any) => (
+                <a href={`/search?q=${encodeURIComponent(p.label_en)}`} class="badge" style="background: var(--bg-subtle); color: var(--text-main); text-decoration: none; padding: 0.35rem 0.65rem; border: 1px solid var(--border-color); font-size: 0.85rem;">
+                  {p.label_en}
+                </a>
+              ))}
+            </div>
+          </div>
+
+          <div class="card">
+            <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 0.75rem; color: var(--accent-gold);">
+              Divine Names of Allah ({namesOfAllah.length})
+            </h3>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+              {namesOfAllah.map((n: any) => (
+                <a href={`/search?q=${encodeURIComponent(n.label_en)}`} class="badge" style="background: var(--accent-gold-subtle); color: var(--accent-gold); text-decoration: none; padding: 0.35rem 0.65rem; font-size: 0.85rem;">
+                  {n.label_en} ({n.label_ar})
+                </a>
+              ))}
+            </div>
+          </div>
+
+          <div class="card">
+            <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 0.75rem;">
+              Places, Nations & Unseen Creations
+            </h3>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+              {[...places, ...nations, ...unseen].map((e: any) => (
+                <a href={`/search?q=${encodeURIComponent(e.label_en)}`} class="badge" style="background: var(--bg-subtle); color: var(--text-muted); text-decoration: none; padding: 0.35rem 0.65rem; font-size: 0.85rem;">
+                  {e.label_en}
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Thematic Clusters -->
+      <div style="margin-bottom: 3.5rem;">
+        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem;">Thematic Clusters (NPMI Communities)</h2>
+        <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.25rem;">
+          Groups of ideas that co-occur in the same verses with high Normalized Pointwise Mutual Information.
+        </p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem;">
+          {clustersData.map((c: any) => (
+            <div class="card">
+              <div style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); margin-bottom: 0.5rem;">
+                Cluster #{c.cluster_id + 1} ({c.size} related themes)
+              </div>
+              <div style="display: flex; gap: 0.35rem; flex-wrap: wrap;">
+                {c.themes.map((t: string) => (
+                  <span class="badge badge-teal" style="font-size: 0.75rem;">{t}</span>
+                ))}
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  </div>
+</Layout>
