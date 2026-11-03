@@ -5,7 +5,10 @@
     "name_translit": "Al-Faatiha",
     "name_en": "The Opening",
     "name_bn": "আল-ফাতিহা",
-    "ayat": 7
+    "ayat": 7,
+    "type": "Meccan",
+    "revelation_order": 5,
+    "rukus": 1
   },
   {
     "id": 2,
@@ -13,7 +16,10 @@
     "name_translit": "Al-Baqara",
     "name_en": "The Cow",
     "name_bn": "আল-বাকারাহ",
-    "ayat": 286
+    "ayat": 286,
+    "type": "Medinan",
+    "revelation_order": 87,
+    "rukus": 40
   },
   {
     "id": 3,
@@ -21,7 +27,10 @@
     "name_translit": "Aal-i-Imraan",
     "name_en": "The Family of Imraan",
     "name_bn": "আলে ইমরান",
-    "ayat": 200
+    "ayat": 200,
+    "type": "Medinan",
+    "revelation_order": 89,
+    "rukus": 20
   },
   {
     "id": 4,
@@ -29,7 +38,10 @@
     "name_translit": "An-Nisaa",
     "name_en": "The Women",
     "name_bn": "আন-নিসা",
-    "ayat": 176
+    "ayat": 176,
+    "type": "Medinan",
+    "revelation_order": 92,
+    "rukus": 24
   },
   {
     "id": 5,
@@ -37,7 +49,10 @@
     "name_translit": "Al-Maaida",
     "name_en": "The Table",
     "name_bn": "আল-মায়িদাহ",
-    "ayat": 120
+    "ayat": 120,
+    "type": "Medinan",
+    "revelation_order": 112,
+    "rukus": 16
   },
   {
     "id": 6,
@@ -45,7 +60,10 @@
     "name_translit": "Al-An'aam",
     "name_en": "The Cattle",
     "name_bn": "আল-আন'আম",
-    "ayat": 165
+    "ayat": 165,
+    "type": "Meccan",
+    "revelation_order": 55,
+    "rukus": 20
   },
   {
     "id": 7,
@@ -53,7 +71,10 @@
     "name_translit": "Al-A'raaf",
     "name_en": "The Heights",
     "name_bn": "আল-আ'রাফ",
-    "ayat": 206
+    "ayat": 206,
+    "type": "Meccan",
+    "revelation_order": 39,
+    "rukus": 24
   },
   {
     "id": 8,
@@ -61,7 +82,10 @@
     "name_translit": "Al-Anfaal",
     "name_en": "The Spoils of War",
     "name_bn": "আল-আনফাল",
-    "ayat": 75
+    "ayat": 75,
+    "type": "Medinan",
+    "revelation_order": 88,
+    "rukus": 10
   },
   {
     "id": 9,
@@ -69,7 +93,10 @@
     "name_translit": "At-Tawba",
     "name_en": "The Repentance",
     "name_bn": "আত-তাওবাহ",
-    "ayat": 129
+    "ayat": 129,
+    "type": "Medinan",
+    "revelation_order": 113,
+    "rukus": 16
   },
   {
     "id": 10,
@@ -77,7 +104,10 @@
     "name_translit": "Yunus",
     "name_en": "Jonas",
     "name_bn": "ইউনুস",
-    "ayat": 109
+    "ayat": 109,
+    "type": "Meccan",
+    "revelation_order": 51,
+    "rukus": 11
   },
   {
     "id": 11,
@@ -85,7 +115,10 @@
     "name_translit": "Hud",
     "name_en": "Hud",
     "name_bn": "হুদ",
-    "ayat": 123
+    "ayat": 123,
+    "type": "Meccan",
+    "revelation_order": 52,
+    "rukus": 10
   },
   {
     "id": 12,
@@ -93,7 +126,10 @@
     "name_translit": "Yusuf",
     "name_en": "Joseph",
     "name_bn": "ইউসুফ",
-    "ayat": 111
+    "ayat": 111,
+    "type": "Meccan",
+    "revelation_order": 53,
+    "rukus": 12
   },
   {
     "id": 13,
@@ -101,7 +137,10 @@
     "name_translit": "Ar-Ra'd",
     "name_en": "The Thunder",
     "name_bn": "আর-রা'দ",
-    "ayat": 43
+    "ayat": 43,
+    "type": "Medinan",
+    "revelation_order": 96,
+    "rukus": 6
   },
   {
     "id": 14,
@@ -109,7 +148,10 @@
     "name_translit": "Ibrahim",
     "name_en": "Abraham",
     "name_bn": "ইবরাহীম",
-    "ayat": 52
+    "ayat": 52,
+    "type": "Meccan",
+    "revelation_order": 72,
+    "rukus": 7
   },
   {
     "id": 15,
@@ -117,7 +159,10 @@
     "name_translit": "Al-Hijr",
     "name_en": "The Rock",
     "name_bn": "আল-হিজর",
-    "ayat": 99
+    "ayat": 99,
+    "type": "Meccan",
+    "revelation_order": 54,
+    "rukus": 6
   },
   {
     "id": 16,
@@ -125,7 +170,10 @@
     "name_translit": "An-Nahl",
     "name_en": "The Bee",
     "name_bn": "আন-নাহল",
-    "ayat": 128
+    "ayat": 128,
+    "type": "Meccan",
+    "revelation_order": 70,
+    "rukus": 16
   },
   {
     "id": 17,
@@ -133,7 +181,10 @@
     "name_translit": "Al-Israa",
     "name_en": "The Night Journey",
     "name_bn": "আল-ইসরা",
-    "ayat": 111
+    "ayat": 111,
+    "type": "Meccan",
+    "revelation_order": 50,
+    "rukus": 12
   },
   {
     "id": 18,
@@ -141,7 +192,10 @@
     "name_translit": "Al-Kahf",
     "name_en": "The Cave",
     "name_bn": "আল-কাহফ",
-    "ayat": 110
+    "ayat": 110,
+    "type": "Meccan",
+    "revelation_order": 69,
+    "rukus": 12
   },
   {
     "id": 19,
@@ -149,7 +203,10 @@
     "name_translit": "Maryam",
     "name_en": "Mary",
     "name_bn": "মারইয়াম",
-    "ayat": 98
+    "ayat": 98,
+    "type": "Meccan",
+    "revelation_order": 44,
+    "rukus": 6
   },
   {
     "id": 20,
@@ -157,7 +214,10 @@
     "name_translit": "Taa-Haa",
     "name_en": "Taa-Haa",
     "name_bn": "ত্বা-হা",
-    "ayat": 135
+    "ayat": 135,
+    "type": "Meccan",
+    "revelation_order": 45,
+    "rukus": 8
   },
   {
     "id": 21,
@@ -165,7 +225,10 @@
     "name_translit": "Al-Anbiyaa",
     "name_en": "The Prophets",
     "name_bn": "আল-আম্বিয়া",
-    "ayat": 112
+    "ayat": 112,
+    "type": "Meccan",
+    "revelation_order": 73,
+    "rukus": 7
   },
   {
     "id": 22,
@@ -173,7 +236,10 @@
     "name_translit": "Al-Hajj",
     "name_en": "The Pilgrimage",
     "name_bn": "আল-হাজ্জ",
-    "ayat": 78
+    "ayat": 78,
+    "type": "Medinan",
+    "revelation_order": 103,
+    "rukus": 10
   },
   {
     "id": 23,
@@ -181,7 +247,10 @@
     "name_translit": "Al-Muminoon",
     "name_en": "The Believers",
     "name_bn": "আল-মু'মিনূন",
-    "ayat": 118
+    "ayat": 118,
+    "type": "Meccan",
+    "revelation_order": 74,
+    "rukus": 6
   },
   {
     "id": 24,
@@ -189,7 +258,10 @@
     "name_translit": "An-Noor",
     "name_en": "The Light",
     "name_bn": "আন-নূর",
-    "ayat": 64
+    "ayat": 64,
+    "type": "Medinan",
+    "revelation_order": 102,
+    "rukus": 9
   },
   {
     "id": 25,
@@ -197,7 +269,10 @@
     "name_translit": "Al-Furqaan",
     "name_en": "The Criterion",
     "name_bn": "আল-ফুরকান",
-    "ayat": 77
+    "ayat": 77,
+    "type": "Meccan",
+    "revelation_order": 42,
+    "rukus": 6
   },
   {
     "id": 26,
@@ -205,7 +280,10 @@
     "name_translit": "Ash-Shu'araa",
     "name_en": "The Poets",
     "name_bn": "আশ-শু'আরা",
-    "ayat": 227
+    "ayat": 227,
+    "type": "Meccan",
+    "revelation_order": 47,
+    "rukus": 11
   },
   {
     "id": 27,
@@ -213,7 +291,10 @@
     "name_translit": "An-Naml",
     "name_en": "The Ant",
     "name_bn": "আন-নামল",
-    "ayat": 93
+    "ayat": 93,
+    "type": "Meccan",
+    "revelation_order": 48,
+    "rukus": 7
   },
   {
     "id": 28,
@@ -221,7 +302,10 @@
     "name_translit": "Al-Qasas",
     "name_en": "The Stories",
     "name_bn": "আল-কাসাস",
-    "ayat": 88
+    "ayat": 88,
+    "type": "Meccan",
+    "revelation_order": 49,
+    "rukus": 8
   },
   {
     "id": 29,
@@ -229,7 +313,10 @@
     "name_translit": "Al-Ankaboot",
     "name_en": "The Spider",
     "name_bn": "আল-আনকাবূত",
-    "ayat": 69
+    "ayat": 69,
+    "type": "Meccan",
+    "revelation_order": 85,
+    "rukus": 7
   },
   {
     "id": 30,
@@ -237,7 +324,10 @@
     "name_translit": "Ar-Room",
     "name_en": "The Romans",
     "name_bn": "আর-রূম",
-    "ayat": 60
+    "ayat": 60,
+    "type": "Meccan",
+    "revelation_order": 84,
+    "rukus": 6
   },
   {
     "id": 31,
@@ -245,7 +335,10 @@
     "name_translit": "Luqman",
     "name_en": "Luqman",
     "name_bn": "লুকমান",
-    "ayat": 34
+    "ayat": 34,
+    "type": "Meccan",
+    "revelation_order": 57,
+    "rukus": 3
   },
   {
     "id": 32,
@@ -253,7 +346,10 @@
     "name_translit": "As-Sajda",
     "name_en": "The Prostration",
     "name_bn": "আস-সাজদাহ",
-    "ayat": 30
+    "ayat": 30,
+    "type": "Meccan",
+    "revelation_order": 75,
+    "rukus": 3
   },
   {
     "id": 33,
@@ -261,7 +357,10 @@
     "name_translit": "Al-Ahzaab",
     "name_en": "The Clans",
     "name_bn": "আল-আহযাব",
-    "ayat": 73
+    "ayat": 73,
+    "type": "Medinan",
+    "revelation_order": 90,
+    "rukus": 9
   },
   {
     "id": 34,
@@ -269,7 +368,10 @@
     "name_translit": "Saba",
     "name_en": "Sheba",
     "name_bn": "সাবা",
-    "ayat": 54
+    "ayat": 54,
+    "type": "Meccan",
+    "revelation_order": 58,
+    "rukus": 6
   },
   {
     "id": 35,
@@ -277,7 +379,10 @@
     "name_translit": "Faatir",
     "name_en": "The Originator",
     "name_bn": "ফাতির",
-    "ayat": 45
+    "ayat": 45,
+    "type": "Meccan",
+    "revelation_order": 43,
+    "rukus": 5
   },
   {
     "id": 36,
@@ -285,7 +390,10 @@
     "name_translit": "Yaseen",
     "name_en": "Yaseen",
     "name_bn": "ইয়া-সীন",
-    "ayat": 83
+    "ayat": 83,
+    "type": "Meccan",
+    "revelation_order": 41,
+    "rukus": 5
   },
   {
     "id": 37,
@@ -293,7 +401,10 @@
     "name_translit": "As-Saaffaat",
     "name_en": "Those drawn up in Ranks",
     "name_bn": "আস-সাফফাত",
-    "ayat": 182
+    "ayat": 182,
+    "type": "Meccan",
+    "revelation_order": 56,
+    "rukus": 5
   },
   {
     "id": 38,
@@ -301,7 +412,10 @@
     "name_translit": "Saad",
     "name_en": "The letter Saad",
     "name_bn": "সাদ",
-    "ayat": 88
+    "ayat": 88,
+    "type": "Meccan",
+    "revelation_order": 38,
+    "rukus": 5
   },
   {
     "id": 39,
@@ -309,7 +423,10 @@
     "name_translit": "Az-Zumar",
     "name_en": "The Groups",
     "name_bn": "আয-যুমার",
-    "ayat": 75
+    "ayat": 75,
+    "type": "Meccan",
+    "revelation_order": 59,
+    "rukus": 8
   },
   {
     "id": 40,
@@ -317,7 +434,10 @@
     "name_translit": "Al-Ghaafir",
     "name_en": "The Forgiver",
     "name_bn": "গাফির",
-    "ayat": 85
+    "ayat": 85,
+    "type": "Meccan",
+    "revelation_order": 60,
+    "rukus": 9
   },
   {
     "id": 41,
@@ -325,7 +445,10 @@
     "name_translit": "Fussilat",
     "name_en": "Explained in detail",
     "name_bn": "ফুসসিলাত",
-    "ayat": 54
+    "ayat": 54,
+    "type": "Meccan",
+    "revelation_order": 61,
+    "rukus": 6
   },
   {
     "id": 42,
@@ -333,7 +456,10 @@
     "name_translit": "Ash-Shura",
     "name_en": "Consultation",
     "name_bn": "আশ-শূরা",
-    "ayat": 53
+    "ayat": 53,
+    "type": "Meccan",
+    "revelation_order": 62,
+    "rukus": 5
   },
   {
     "id": 43,
@@ -341,7 +467,10 @@
     "name_translit": "Az-Zukhruf",
     "name_en": "Ornaments of gold",
     "name_bn": "আয-যুখরুফ",
-    "ayat": 89
+    "ayat": 89,
+    "type": "Meccan",
+    "revelation_order": 63,
+    "rukus": 7
   },
   {
     "id": 44,
@@ -349,7 +478,10 @@
     "name_translit": "Ad-Dukhaan",
     "name_en": "The Smoke",
     "name_bn": "আদ-দুখান",
-    "ayat": 59
+    "ayat": 59,
+    "type": "Meccan",
+    "revelation_order": 64,
+    "rukus": 3
   },
   {
     "id": 45,
@@ -357,7 +489,10 @@
     "name_translit": "Al-Jaathiya",
     "name_en": "Crouching",
     "name_bn": "আল-জাসিয়াহ",
-    "ayat": 37
+    "ayat": 37,
+    "type": "Meccan",
+    "revelation_order": 65,
+    "rukus": 4
   },
   {
     "id": 46,
@@ -365,7 +500,10 @@
     "name_translit": "Al-Ahqaf",
     "name_en": "The Dunes",
     "name_bn": "আল-আহকাফ",
-    "ayat": 35
+    "ayat": 35,
+    "type": "Meccan",
+    "revelation_order": 66,
+    "rukus": 4
   },
   {
     "id": 47,
@@ -373,7 +511,10 @@
     "name_translit": "Muhammad",
     "name_en": "Muhammad",
     "name_bn": "মুহাম্মদ",
-    "ayat": 38
+    "ayat": 38,
+    "type": "Medinan",
+    "revelation_order": 95,
+    "rukus": 4
   },
   {
     "id": 48,
@@ -381,7 +522,10 @@
     "name_translit": "Al-Fath",
     "name_en": "The Victory",
     "name_bn": "আল-ফাতহ",
-    "ayat": 29
+    "ayat": 29,
+    "type": "Medinan",
+    "revelation_order": 111,
+    "rukus": 4
   },
   {
     "id": 49,
@@ -389,7 +533,10 @@
     "name_translit": "Al-Hujuraat",
     "name_en": "The Inner Apartments",
     "name_bn": "আল-হুজুরাত",
-    "ayat": 18
+    "ayat": 18,
+    "type": "Medinan",
+    "revelation_order": 106,
+    "rukus": 2
   },
   {
     "id": 50,
@@ -397,7 +544,10 @@
     "name_translit": "Qaaf",
     "name_en": "The letter Qaaf",
     "name_bn": "কাফ",
-    "ayat": 45
+    "ayat": 45,
+    "type": "Meccan",
+    "revelation_order": 34,
+    "rukus": 3
   },
   {
     "id": 51,
@@ -405,7 +555,10 @@
     "name_translit": "Adh-Dhaariyat",
     "name_en": "The Winnowing Winds",
     "name_bn": "আয-যারিয়াত",
-    "ayat": 60
+    "ayat": 60,
+    "type": "Meccan",
+    "revelation_order": 67,
+    "rukus": 3
   },
   {
     "id": 52,
@@ -413,7 +566,10 @@
     "name_translit": "At-Tur",
     "name_en": "The Mount",
     "name_bn": "আত-তূর",
-    "ayat": 49
+    "ayat": 49,
+    "type": "Meccan",
+    "revelation_order": 76,
+    "rukus": 2
   },
   {
     "id": 53,
@@ -421,7 +577,10 @@
     "name_translit": "An-Najm",
     "name_en": "The Star",
     "name_bn": "আন-নাজম",
-    "ayat": 62
+    "ayat": 62,
+    "type": "Meccan",
+    "revelation_order": 23,
+    "rukus": 3
   },
   {
     "id": 54,
@@ -429,7 +588,10 @@
     "name_translit": "Al-Qamar",
     "name_en": "The Moon",
     "name_bn": "আল-কামার",
-    "ayat": 55
+    "ayat": 55,
+    "type": "Meccan",
+    "revelation_order": 37,
+    "rukus": 3
   },
   {
     "id": 55,
@@ -437,7 +599,10 @@
     "name_translit": "Ar-Rahmaan",
     "name_en": "The Beneficent",
     "name_bn": "আর-রহমান",
-    "ayat": 78
+    "ayat": 78,
+    "type": "Medinan",
+    "revelation_order": 97,
+    "rukus": 3
   },
   {
     "id": 56,
@@ -445,7 +610,10 @@
     "name_translit": "Al-Waaqia",
     "name_en": "The Inevitable",
     "name_bn": "আল-ওয়াকি'আহ",
-    "ayat": 96
+    "ayat": 96,
+    "type": "Meccan",
+    "revelation_order": 46,
+    "rukus": 3
   },
   {
     "id": 57,
@@ -453,7 +621,10 @@
     "name_translit": "Al-Hadid",
     "name_en": "The Iron",
     "name_bn": "আল-হাদীদ",
-    "ayat": 29
+    "ayat": 29,
+    "type": "Medinan",
+    "revelation_order": 94,
+    "rukus": 4
   },
   {
     "id": 58,
@@ -461,7 +632,10 @@
     "name_translit": "Al-Mujaadila",
     "name_en": "The Pleading Woman",
     "name_bn": "আল-মুজাদালাহ",
-    "ayat": 22
+    "ayat": 22,
+    "type": "Medinan",
+    "revelation_order": 105,
+    "rukus": 3
   },
   {
     "id": 59,
@@ -469,7 +643,10 @@
     "name_translit": "Al-Hashr",
     "name_en": "The Exile",
     "name_bn": "আল-হাশর",
-    "ayat": 24
+    "ayat": 24,
+    "type": "Medinan",
+    "revelation_order": 101,
+    "rukus": 3
   },
   {
     "id": 60,
@@ -477,7 +654,10 @@
     "name_translit": "Al-Mumtahana",
     "name_en": "She that is to be examined",
     "name_bn": "আল-মুমতাহানাহ",
-    "ayat": 13
+    "ayat": 13,
+    "type": "Medinan",
+    "revelation_order": 91,
+    "rukus": 2
   },
   {
     "id": 61,
@@ -485,7 +665,10 @@
     "name_translit": "As-Saff",
     "name_en": "The Ranks",
     "name_bn": "আস-সাফ",
-    "ayat": 14
+    "ayat": 14,
+    "type": "Medinan",
+    "revelation_order": 109,
+    "rukus": 2
   },
   {
     "id": 62,
@@ -493,7 +676,10 @@
     "name_translit": "Al-Jumu'a",
     "name_en": "Friday",
     "name_bn": "আল-জুমু'আহ",
-    "ayat": 11
+    "ayat": 11,
+    "type": "Medinan",
+    "revelation_order": 110,
+    "rukus": 2
   },
   {
     "id": 63,
@@ -501,7 +687,10 @@
     "name_translit": "Al-Munaafiqoon",
     "name_en": "The Hypocrites",
     "name_bn": "আল-মুনাফিকূন",
-    "ayat": 11
+    "ayat": 11,
+    "type": "Medinan",
+    "revelation_order": 104,
+    "rukus": 2
   },
   {
     "id": 64,
@@ -509,7 +698,10 @@
     "name_translit": "At-Taghaabun",
     "name_en": "Mutual Disillusion",
     "name_bn": "আত-তাগাবুন",
-    "ayat": 18
+    "ayat": 18,
+    "type": "Medinan",
+    "revelation_order": 108,
+    "rukus": 2
   },
   {
     "id": 65,
@@ -517,7 +709,10 @@
     "name_translit": "At-Talaaq",
     "name_en": "Divorce",
     "name_bn": "আত-ত্বালাক",
-    "ayat": 12
+    "ayat": 12,
+    "type": "Medinan",
+    "revelation_order": 99,
+    "rukus": 2
   },
   {
     "id": 66,
@@ -525,7 +720,10 @@
     "name_translit": "At-Tahrim",
     "name_en": "The Prohibition",
     "name_bn": "আত-তাহরীম",
-    "ayat": 12
+    "ayat": 12,
+    "type": "Medinan",
+    "revelation_order": 107,
+    "rukus": 2
   },
   {
     "id": 67,
@@ -533,7 +731,10 @@
     "name_translit": "Al-Mulk",
     "name_en": "The Sovereignty",
     "name_bn": "আল-মুলক",
-    "ayat": 30
+    "ayat": 30,
+    "type": "Meccan",
+    "revelation_order": 77,
+    "rukus": 2
   },
   {
     "id": 68,
@@ -541,7 +742,10 @@
     "name_translit": "Al-Qalam",
     "name_en": "The Pen",
     "name_bn": "আল-কালাম",
-    "ayat": 52
+    "ayat": 52,
+    "type": "Meccan",
+    "revelation_order": 2,
+    "rukus": 2
   },
   {
     "id": 69,
@@ -549,7 +753,10 @@
     "name_translit": "Al-Haaqqa",
     "name_en": "The Reality",
     "name_bn": "আল-হাক্কাহ",
-    "ayat": 52
+    "ayat": 52,
+    "type": "Meccan",
+    "revelation_order": 78,
+    "rukus": 2
   },
   {
     "id": 70,
@@ -557,7 +764,10 @@
     "name_translit": "Al-Ma'aarij",
     "name_en": "The Ascending Stairways",
     "name_bn": "আল-মা'আরিজ",
-    "ayat": 44
+    "ayat": 44,
+    "type": "Meccan",
+    "revelation_order": 79,
+    "rukus": 2
   },
   {
     "id": 71,
@@ -565,7 +775,10 @@
     "name_translit": "Nooh",
     "name_en": "Noah",
     "name_bn": "নূহ",
-    "ayat": 28
+    "ayat": 28,
+    "type": "Meccan",
+    "revelation_order": 71,
+    "rukus": 2
   },
   {
     "id": 72,
@@ -573,7 +786,10 @@
     "name_translit": "Al-Jinn",
     "name_en": "The Jinn",
     "name_bn": "আল-জিন",
-    "ayat": 28
+    "ayat": 28,
+    "type": "Meccan",
+    "revelation_order": 40,
+    "rukus": 2
   },
   {
     "id": 73,
@@ -581,7 +797,10 @@
     "name_translit": "Al-Muzzammil",
     "name_en": "The Enshrouded One",
     "name_bn": "আল-মুযযাম্মিল",
-    "ayat": 20
+    "ayat": 20,
+    "type": "Meccan",
+    "revelation_order": 3,
+    "rukus": 2
   },
   {
     "id": 74,
@@ -589,7 +808,10 @@
     "name_translit": "Al-Muddaththir",
     "name_en": "The Cloaked One",
     "name_bn": "আল-মুদ্দাসসির",
-    "ayat": 56
+    "ayat": 56,
+    "type": "Meccan",
+    "revelation_order": 4,
+    "rukus": 2
   },
   {
     "id": 75,
@@ -597,7 +819,10 @@
     "name_translit": "Al-Qiyaama",
     "name_en": "The Resurrection",
     "name_bn": "আল-কিয়ামাহ",
-    "ayat": 40
+    "ayat": 40,
+    "type": "Meccan",
+    "revelation_order": 31,
+    "rukus": 2
   },
   {
     "id": 76,
@@ -605,7 +830,10 @@
     "name_translit": "Al-Insaan",
     "name_en": "Man",
     "name_bn": "আল-ইনসান",
-    "ayat": 31
+    "ayat": 31,
+    "type": "Medinan",
+    "revelation_order": 98,
+    "rukus": 2
   },
   {
     "id": 77,
@@ -613,7 +841,10 @@
     "name_translit": "Al-Mursalaat",
     "name_en": "The Emissaries",
     "name_bn": "আল-মুরসালাত",
-    "ayat": 50
+    "ayat": 50,
+    "type": "Meccan",
+    "revelation_order": 33,
+    "rukus": 2
   },
   {
     "id": 78,
@@ -621,7 +852,10 @@
     "name_translit": "An-Naba",
     "name_en": "The Announcement",
     "name_bn": "আন-নাবা",
-    "ayat": 40
+    "ayat": 40,
+    "type": "Meccan",
+    "revelation_order": 80,
+    "rukus": 2
   },
   {
     "id": 79,
@@ -629,7 +863,10 @@
     "name_translit": "An-Naazi'aat",
     "name_en": "Those who drag forth",
     "name_bn": "আন-নাযি'আত",
-    "ayat": 46
+    "ayat": 46,
+    "type": "Meccan",
+    "revelation_order": 81,
+    "rukus": 2
   },
   {
     "id": 80,
@@ -637,7 +874,10 @@
     "name_translit": "Abasa",
     "name_en": "He frowned",
     "name_bn": "'আবাসা",
-    "ayat": 42
+    "ayat": 42,
+    "type": "Meccan",
+    "revelation_order": 24,
+    "rukus": 1
   },
   {
     "id": 81,
@@ -645,7 +885,10 @@
     "name_translit": "At-Takwir",
     "name_en": "The Overthrowing",
     "name_bn": "আত-তাকবীর",
-    "ayat": 29
+    "ayat": 29,
+    "type": "Meccan",
+    "revelation_order": 7,
+    "rukus": 1
   },
   {
     "id": 82,
@@ -653,7 +896,10 @@
     "name_translit": "Al-Infitaar",
     "name_en": "The Cleaving",
     "name_bn": "আল-ইনফিতার",
-    "ayat": 19
+    "ayat": 19,
+    "type": "Meccan",
+    "revelation_order": 82,
+    "rukus": 1
   },
   {
     "id": 83,
@@ -661,7 +907,10 @@
     "name_translit": "Al-Mutaffifin",
     "name_en": "Defrauding",
     "name_bn": "আল-মুতাফফিফীন",
-    "ayat": 36
+    "ayat": 36,
+    "type": "Meccan",
+    "revelation_order": 86,
+    "rukus": 1
   },
   {
     "id": 84,
@@ -669,7 +918,10 @@
     "name_translit": "Al-Inshiqaaq",
     "name_en": "The Splitting Open",
     "name_bn": "আল-ইনশিকাক",
-    "ayat": 25
+    "ayat": 25,
+    "type": "Meccan",
+    "revelation_order": 83,
+    "rukus": 1
   },
   {
     "id": 85,
@@ -677,7 +929,10 @@
     "name_translit": "Al-Burooj",
     "name_en": "The Constellations",
     "name_bn": "আল-বুরূজ",
-    "ayat": 22
+    "ayat": 22,
+    "type": "Meccan",
+    "revelation_order": 27,
+    "rukus": 1
   },
   {
     "id": 86,
@@ -685,7 +940,10 @@
     "name_translit": "At-Taariq",
     "name_en": "The Morning Star",
     "name_bn": "আত-তারিক",
-    "ayat": 17
+    "ayat": 17,
+    "type": "Meccan",
+    "revelation_order": 36,
+    "rukus": 1
   },
   {
     "id": 87,
@@ -693,7 +951,10 @@
     "name_translit": "Al-A'laa",
     "name_en": "The Most High",
     "name_bn": "আল-আ'লা",
-    "ayat": 19
+    "ayat": 19,
+    "type": "Meccan",
+    "revelation_order": 8,
+    "rukus": 1
   },
   {
     "id": 88,
@@ -701,7 +962,10 @@
     "name_translit": "Al-Ghaashiya",
     "name_en": "The Overwhelming",
     "name_bn": "আল-গাশিয়াহ",
-    "ayat": 26
+    "ayat": 26,
+    "type": "Meccan",
+    "revelation_order": 68,
+    "rukus": 1
   },
   {
     "id": 89,
@@ -709,7 +973,10 @@
     "name_translit": "Al-Fajr",
     "name_en": "The Dawn",
     "name_bn": "আল-ফজর",
-    "ayat": 30
+    "ayat": 30,
+    "type": "Meccan",
+    "revelation_order": 10,
+    "rukus": 1
   },
   {
     "id": 90,
@@ -717,7 +984,10 @@
     "name_translit": "Al-Balad",
     "name_en": "The City",
     "name_bn": "আল-বালাদ",
-    "ayat": 20
+    "ayat": 20,
+    "type": "Meccan",
+    "revelation_order": 35,
+    "rukus": 1
   },
   {
     "id": 91,
@@ -725,7 +995,10 @@
     "name_translit": "Ash-Shams",
     "name_en": "The Sun",
     "name_bn": "আশ-শামস",
-    "ayat": 15
+    "ayat": 15,
+    "type": "Meccan",
+    "revelation_order": 26,
+    "rukus": 1
   },
   {
     "id": 92,
@@ -733,7 +1006,10 @@
     "name_translit": "Al-Lail",
     "name_en": "The Night",
     "name_bn": "আল-লায়ল",
-    "ayat": 21
+    "ayat": 21,
+    "type": "Meccan",
+    "revelation_order": 9,
+    "rukus": 1
   },
   {
     "id": 93,
@@ -741,7 +1017,10 @@
     "name_translit": "Ad-Dhuhaa",
     "name_en": "The Morning Hours",
     "name_bn": "আদ-দুহা",
-    "ayat": 11
+    "ayat": 11,
+    "type": "Meccan",
+    "revelation_order": 11,
+    "rukus": 1
   },
   {
     "id": 94,
@@ -749,7 +1028,10 @@
     "name_translit": "Ash-Sharh",
     "name_en": "The Consolation",
     "name_bn": "আশ-শারহ",
-    "ayat": 8
+    "ayat": 8,
+    "type": "Meccan",
+    "revelation_order": 12,
+    "rukus": 1
   },
   {
     "id": 95,
@@ -757,7 +1039,10 @@
     "name_translit": "At-Tin",
     "name_en": "The Fig",
     "name_bn": "আত-তীন",
-    "ayat": 8
+    "ayat": 8,
+    "type": "Meccan",
+    "revelation_order": 28,
+    "rukus": 1
   },
   {
     "id": 96,
@@ -765,7 +1050,10 @@
     "name_translit": "Al-Alaq",
     "name_en": "The Clot",
     "name_bn": "আল-'আলাক",
-    "ayat": 19
+    "ayat": 19,
+    "type": "Meccan",
+    "revelation_order": 1,
+    "rukus": 1
   },
   {
     "id": 97,
@@ -773,7 +1061,10 @@
     "name_translit": "Al-Qadr",
     "name_en": "The Power, Fate",
     "name_bn": "আল-কদর",
-    "ayat": 5
+    "ayat": 5,
+    "type": "Meccan",
+    "revelation_order": 25,
+    "rukus": 1
   },
   {
     "id": 98,
@@ -781,7 +1072,10 @@
     "name_translit": "Al-Bayyina",
     "name_en": "The Evidence",
     "name_bn": "আল-বায়্যিনাহ",
-    "ayat": 8
+    "ayat": 8,
+    "type": "Medinan",
+    "revelation_order": 100,
+    "rukus": 1
   },
   {
     "id": 99,
@@ -789,7 +1083,10 @@
     "name_translit": "Az-Zalzala",
     "name_en": "The Earthquake",
     "name_bn": "আয-যালযালাহ",
-    "ayat": 8
+    "ayat": 8,
+    "type": "Medinan",
+    "revelation_order": 93,
+    "rukus": 1
   },
   {
     "id": 100,
@@ -797,7 +1094,10 @@
     "name_translit": "Al-Aadiyaat",
     "name_en": "The Chargers",
     "name_bn": "আল-'আদিয়াত",
-    "ayat": 11
+    "ayat": 11,
+    "type": "Meccan",
+    "revelation_order": 14,
+    "rukus": 1
   },
   {
     "id": 101,
@@ -805,7 +1105,10 @@
     "name_translit": "Al-Qaari'a",
     "name_en": "The Calamity",
     "name_bn": "আল-কারি'আহ",
-    "ayat": 11
+    "ayat": 11,
+    "type": "Meccan",
+    "revelation_order": 30,
+    "rukus": 1
   },
   {
     "id": 102,
@@ -813,7 +1116,10 @@
     "name_translit": "At-Takaathur",
     "name_en": "Competition",
     "name_bn": "আত-তাকাসুর",
-    "ayat": 8
+    "ayat": 8,
+    "type": "Meccan",
+    "revelation_order": 16,
+    "rukus": 1
   },
   {
     "id": 103,
@@ -821,7 +1127,10 @@
     "name_translit": "Al-Asr",
     "name_en": "The Declining Day, Epoch",
     "name_bn": "আল-'আসর",
-    "ayat": 3
+    "ayat": 3,
+    "type": "Meccan",
+    "revelation_order": 13,
+    "rukus": 1
   },
   {
     "id": 104,
@@ -829,7 +1138,10 @@
     "name_translit": "Al-Humaza",
     "name_en": "The Traducer",
     "name_bn": "আল-হুমাযাহ",
-    "ayat": 9
+    "ayat": 9,
+    "type": "Meccan",
+    "revelation_order": 32,
+    "rukus": 1
   },
   {
     "id": 105,
@@ -837,7 +1149,10 @@
     "name_translit": "Al-Fil",
     "name_en": "The Elephant",
     "name_bn": "আল-ফীল",
-    "ayat": 5
+    "ayat": 5,
+    "type": "Meccan",
+    "revelation_order": 19,
+    "rukus": 1
   },
   {
     "id": 106,
@@ -845,7 +1160,10 @@
     "name_translit": "Quraish",
     "name_en": "Quraysh",
     "name_bn": "কুরাইশ",
-    "ayat": 4
+    "ayat": 4,
+    "type": "Meccan",
+    "revelation_order": 29,
+    "rukus": 1
   },
   {
     "id": 107,
@@ -853,7 +1171,10 @@
     "name_translit": "Al-Maa'un",
     "name_en": "Almsgiving",
     "name_bn": "আল-মা'উন",
-    "ayat": 7
+    "ayat": 7,
+    "type": "Meccan",
+    "revelation_order": 17,
+    "rukus": 1
   },
   {
     "id": 108,
@@ -861,7 +1182,10 @@
     "name_translit": "Al-Kawthar",
     "name_en": "Abundance",
     "name_bn": "আল-কাওসার",
-    "ayat": 3
+    "ayat": 3,
+    "type": "Meccan",
+    "revelation_order": 15,
+    "rukus": 1
   },
   {
     "id": 109,
@@ -869,7 +1193,10 @@
     "name_translit": "Al-Kaafiroon",
     "name_en": "The Disbelievers",
     "name_bn": "আল-কাফিরূন",
-    "ayat": 6
+    "ayat": 6,
+    "type": "Meccan",
+    "revelation_order": 18,
+    "rukus": 1
   },
   {
     "id": 110,
@@ -877,7 +1204,10 @@
     "name_translit": "An-Nasr",
     "name_en": "Divine Support",
     "name_bn": "আন-নাসর",
-    "ayat": 3
+    "ayat": 3,
+    "type": "Medinan",
+    "revelation_order": 114,
+    "rukus": 1
   },
   {
     "id": 111,
@@ -885,7 +1215,10 @@
     "name_translit": "Al-Masad",
     "name_en": "The Palm Fibre",
     "name_bn": "আল-মাসাদ",
-    "ayat": 5
+    "ayat": 5,
+    "type": "Meccan",
+    "revelation_order": 6,
+    "rukus": 1
   },
   {
     "id": 112,
@@ -893,7 +1226,10 @@
     "name_translit": "Al-Ikhlaas",
     "name_en": "Sincerity",
     "name_bn": "আল-ইখলাস",
-    "ayat": 4
+    "ayat": 4,
+    "type": "Meccan",
+    "revelation_order": 22,
+    "rukus": 1
   },
   {
     "id": 113,
@@ -901,7 +1237,10 @@
     "name_translit": "Al-Falaq",
     "name_en": "The Dawn",
     "name_bn": "আল-ফালাক",
-    "ayat": 5
+    "ayat": 5,
+    "type": "Meccan",
+    "revelation_order": 20,
+    "rukus": 1
   },
   {
     "id": 114,
@@ -909,6 +1248,9 @@
     "name_translit": "An-Naas",
     "name_en": "Mankind",
     "name_bn": "আন-নাস",
-    "ayat": 6
+    "ayat": 6,
+    "type": "Meccan",
+    "revelation_order": 21,
+    "rukus": 1
   }
 ]

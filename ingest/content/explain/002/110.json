@@ -1,0 +1,96 @@
+{
+ "id": "2:110",
+ "simple_en": "Establish the daily prayer with devotion and give your zakat to those who need it. Whatever good you send ahead for your souls in this life, you will find its reward waiting with Allah. Nothing you do is ever lost. Allah sees all that you do and will reward each person fairly.",
+ "simple_bn": "তোমরা যথাযথভাবে সালাত কায়েম করো এবং নিয়মিত যাকাত আদায় করো। তোমরা নিজেদের জন্য অগ্রিম যে ভালো কাজই পাঠাবে, আল্লাহর কাছে তার উত্তম প্রতিদান পাবে। নিশ্চয়ই তোমরা যা কিছু করো, আল্লাহ তার সব কিছু প্রত্যক্ষ করেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قوم",
+   "lemma": "أَقامَ",
+   "meaning_en": "and establish",
+   "meaning_bn": "এবং কায়েম করো",
+   "why_en": "Demands performing prayer regularly with presence of heart, proper conditions, and consistency."
+  },
+  {
+   "pos": 4,
+   "root": "زكو",
+   "lemma": "زَكاة",
+   "meaning_en": "the alms-tax / zakat",
+   "meaning_bn": "যাকাত",
+   "why_en": "The obligatory charity that purifies wealth and aids the vulnerable."
+  },
+  {
+   "pos": 6,
+   "root": "قدم",
+   "lemma": "قَدَّمَ",
+   "meaning_en": "you send ahead",
+   "meaning_bn": "তোমরা পূর্বে প্রেরণ করো",
+   "why_en": "Pictures good actions as valuable provisions deposited in advance for the Hereafter."
+  },
+  {
+   "pos": 17,
+   "root": "بصر",
+   "lemma": "بَصِير",
+   "meaning_en": "All-Seeing",
+   "meaning_bn": "সর্বদ্রষ্টা",
+   "why_en": "Reminds that Allah observes every secret intention and outward deed, ensuring no reward is lost."
+  }
+ ],
+ "lesson_en": "Regular prayer and charity build your true savings for the Next Life.",
+ "lesson_bn": "নিয়মিত সালাত ও দান-সদকা মানুষের পরকালের সঞ্চয় গড়ে তোলে, আর ক্ষুদ্রতম নেক আমলও আল্লাহর কাছে সংরক্ষিত থাকে।",
+ "real_life_en": "Set aside time for your five daily prayers and give charity to people in need. Learn the rules of prayer and zakat from good teachers. Every good deed you do is seen by Allah.",
+ "real_life_bn": "প্রতিদিনের সালাত সময়মতো আদায়ের অভ্যাস গড়ে তুলুন এবং উপার্জিত অর্থ থেকে গরিব-অসহায় মানুষের সাহায্যে এগিয়ে আসুন। সালাত ও যাকাতের সঠিক নিয়মকানুন নির্ভরযোগ্য আলেমদের কাছ থেকে জেনে আমল করুন।",
+ "context_en": "Directs believers away from dwelling on opponents' hostility toward constructive worship, charity, and self-purification.",
+ "context_bn": "বিরোধীদের চক্রান্ত ও হিংসা নিয়ে ব্যস্ত না হয়ে নিজের আত্মশুদ্ধি, সালাত ও সৎকাজের দিকে মনোযোগ দিতে তাগিদ দেওয়া হয়েছে।",
+ "themes": [
+  "prayer",
+  "zakat",
+  "worship",
+  "charity",
+  "reward",
+  "hereafter",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "worship",
+  "promise",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Baseer"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are commanded to establish prayer with proper devotion and to give obligatory zakat from their wealth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Every good deed sent ahead in this life is preserved with Allah, Who sees all actions and grants full reward.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

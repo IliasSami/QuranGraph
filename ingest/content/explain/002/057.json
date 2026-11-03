@@ -1,0 +1,101 @@
+{
+ "id": "2:57",
+ "simple_en": "While you were lost in the hot desert, Allah shaded you with cool clouds. He sent you sweet manna and tender quail from the sky with no work needed from you. He told you to eat these good gifts and be grateful. When you broke His rules, you did not hurt Allah. You hurt only yourselves.",
+ "simple_bn": "মরুভূমির প্রান্তরে যখন তোমরা দিশেহারা হয়ে ঘুরছিলে, তখন আল্লাহ তোমাদের সূর্যের প্রখর উত্তাপ থেকে রক্ষা করতে মেঘের ছায়া দান করেছিলেন। কোনো পরিশ্রম ছাড়াই আসমান থেকে তোমাদের জন্য মিষ্টি মান্না ও সুস্বাদু সালওয়া পাখি পাঠালেন এবং এই পবিত্র খাবার আহার করতে বললেন। কিন্তু তোমরা অকৃতজ্ঞ হয়ে অবাধ্যতা করলে। তোমাদের অবাধ্যতা আল্লাহর কোনো ক্ষতি করেনি, বরং তোমরা কেবল নিজেদেরই ধ্বংস ডেকে এনেছিলে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "غمم",
+   "lemma": "غَمام",
+   "meaning_en": "the clouds",
+   "meaning_bn": "মেঘমালা",
+   "why_en": "Cool white clouds that shielded the people from the scorching desert heat."
+  },
+  {
+   "pos": 6,
+   "root": "منن",
+   "lemma": "مَنّ",
+   "meaning_en": "manna",
+   "meaning_bn": "মান্না (মিষ্ট আহার্য)",
+   "why_en": "A pure, sweet food miraculously sent from the sky without cultivation."
+  },
+  {
+   "pos": 7,
+   "root": "سلو",
+   "lemma": "سَلْوَى",
+   "meaning_en": "quail",
+   "meaning_bn": "সালওয়া (সুস্বাদু পাখি)",
+   "why_en": "Tender birds provided daily as fresh meat in the barren wilderness."
+  },
+  {
+   "pos": 18,
+   "root": "ظلم",
+   "lemma": "ظَلَمَ",
+   "meaning_en": "they wronged",
+   "meaning_bn": "তারা অন্যায় করত",
+   "why_en": "Sin cannot diminish Allah; it causes damage only to the sinner."
+  }
+ ],
+ "lesson_en": "When we sin, we hurt ourselves. Our sins can never hurt Allah.",
+ "lesson_bn": "অকৃতজ্ঞতা ও পাপ আল্লাহর কোনো ক্ষতি করে না, বরং তা মানুষের নিজের আত্মাকেই ক্ষতিগ্রস্ত করে।",
+ "real_life_en": "A mother cooks good, healthy food for her child. The child refuses to eat and demands junk food instead. The mother is not harmed by this bad choice; the child becomes sick. Ignoring good advice always hurts the one who turns away.",
+ "real_life_bn": "সুস্থতা ও জীবিকার প্রাচুর্য পাওয়ার পর অলসতা বা অসৎ কাজে সময় নষ্ট করলে মানুষ নিজেই নিজের ক্ষতি ডেকে আনে। আল্লাহর হুকুম অমান্য করলে তাঁর কোনো ক্ষতি হয় না, বরং অবাধ্যতার কুফল বান্দাকেই ভোগ করতে হয়।",
+ "themes": [
+  "Children of Israel",
+  "Allah's mercy",
+  "gratitude",
+  "signs in nature",
+  "justice"
+ ],
+ "kinds": [
+  "story",
+  "promise",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "manna",
+   "quail",
+   "clouds"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah shaded the Israelites with clouds in the wilderness to protect them from the sun.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah sent down manna and quail as effortless sustenance for them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Their ingratitude and sins caused no harm to Allah, but harmed only their own souls.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

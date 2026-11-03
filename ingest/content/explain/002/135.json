@@ -1,0 +1,107 @@
+{
+ "id": "2:135",
+ "simple_en": "The Jews and Christians claimed that a person must join their religious group to find true guidance. Allah instructed the Prophet ﷺ to reply that real guidance lies in following the creed of Ibrahim (peace be upon him). He was an upright monotheist who turned away from falsehood, and he never associated partners with Allah.",
+ "simple_bn": "ইহুদি ও খ্রিস্টানরা দাবি করত যে হেদায়েত পেতে হলে তাদের ধর্ম গ্রহণ করতে হবে। আল্লাহ নবী ﷺ-কে নির্দেশ দিলেন তাদের বলে দিতে যে, আমরা বরং ইবরাহীম (আলাইহিস সালাম)-এর মিল্লাত অনুসরণ করি। তিনি ছিলেন একজন একনিষ্ঠ একত্ববাদী, এবং তিনি কখনোই অংশীবাদী বা মুশরিকদের অন্তর্ভুক্ত ছিলেন না।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "هدي",
+   "lemma": "اهْتَدَى",
+   "meaning_en": "you will be guided",
+   "meaning_bn": "তোমরা সঠিক পথ পাবে",
+   "why_en": "Shows the sectarian claim that salvation and truth belonged exclusively to their group."
+  },
+  {
+   "pos": 9,
+   "root": "ملل",
+   "lemma": "مِلَّة",
+   "meaning_en": "creed / religion",
+   "meaning_bn": "ধর্মাদর্শ (মিল্লাত)",
+   "why_en": "Points to the universal prophetic creed of Ibrahim (peace be upon him) as the true standard."
+  },
+  {
+   "pos": 11,
+   "root": "حنف",
+   "lemma": "حَنِيف",
+   "meaning_en": "upright / monotheist",
+   "meaning_bn": "একনিষ্ঠ (হানীফ)",
+   "why_en": "Describes turning away from all forms of falsehood to worship Allah alone."
+  },
+  {
+   "pos": 15,
+   "root": "شرك",
+   "lemma": "مُشْرِك",
+   "meaning_en": "the polytheists",
+   "meaning_bn": "অংশীবাদীরা (মুশরিকরা)",
+   "why_en": "Clears Ibrahim (peace be upon him) completely of any association with idolatry or partners."
+  }
+ ],
+ "lesson_en": "True guidance comes from sincere faith in Allah alone, not from group labels.",
+ "lesson_bn": "দলীয় কোনো নামের মধ্যে নয়, বরং শিরকমুক্ত খাঁটি তাওহীদ ও আন্তরিক আনুগত্যের মধ্যেই রয়েছে প্রকৃত হেদায়েত।",
+ "real_life_en": "Do not let tribal or group pride take the place of true faith. Simply carrying a label does not make a person pleasing to Allah. Strive for genuine sincerity in worship, treat people with fairness, and keep your heart free from arrogance.",
+ "real_life_bn": "ধর্মীয় কোনো দলের নাম ধারণ করলেই স্বয়ংক্রিয়ভাবে আল্লাহর প্রিয় হওয়া যায় না। অন্তরে কোনো অহংকার বা লোকদেখানো ভাব রাখবেন না। আল্লাহর সন্তুষ্টির জন্য আন্তরিকভাবে ইবাদত করুন এবং সবার সাথে সুন্দর ও ন্যায়সঙ্গত আচরণ করুন।",
+ "context_en": "Rejects sectarian exclusivity by calling back to the pure, upright monotheism of Ibrahim (peace be upon him).",
+ "context_bn": "আহলে কিতাবদের দলীয় সংকীর্ণতার দাবির জবাবে ইবরাহীম (আলাইহিস সালাম)-এর নির্ভেজাল তাওহীদী আদর্শের দিকে প্রত্যাবর্তনের আহ্বান জানানো হয়েছে।",
+ "themes": [
+  "tawhid",
+  "guidance",
+  "shirk",
+  "stories of the prophets",
+  "faith",
+  "People of the Book"
+ ],
+ "kinds": [
+  "argument",
+  "belief",
+  "command"
+ ],
+ "entities": {
+  "people": [
+   "Ibrahim",
+   "Muhammad ﷺ"
+  ],
+  "nations": [
+   "Jews",
+   "Christians"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Jews and Christians claimed that one had to become Jewish or Christian to obtain guidance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The Prophet ﷺ was commanded to reply that true guidance is adhering to the creed of Ibrahim (peace be upon him).",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ibrahim (peace be upon him) was an upright monotheist (hanif) who never committed shirk.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

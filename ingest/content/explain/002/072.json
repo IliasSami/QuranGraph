@@ -1,0 +1,96 @@
+{
+ "id": "2:72",
+ "simple_en": "Remember when you killed a person and began accusing each other, with each group trying to push away the blame. A sharp dispute broke out while the killer stayed hidden. Yet Allah was going to expose the very crime you tried so hard to hide.",
+ "simple_bn": "স্মরণ করো সেই সময়ের কথা, যখন তোমরা একজনকে হত্যা করেছিলে এবং একে অপরের ওপর দোষ চাপিয়ে বিবাদে লিপ্ত হয়েছিলে। প্রত্যেকেই নিজেকে নির্দোষ দাবি করছিল এবং অন্যকে দোষারোপ করছিল। কিন্তু তোমরা যে গোপন অপরাধটি লুকিয়ে রাখতে চেয়েছিলে, আল্লাহ তা প্রকাশ করে দেওয়ার সিদ্ধান্ত নিয়েছিলেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "نفس",
+   "lemma": "نَفْس",
+   "meaning_en": "a soul (a person)",
+   "meaning_bn": "একজন ব্যক্তি (একটি প্রাণ)",
+   "why_en": "Refers to the innocent individual whose secret murder sparked the crisis."
+  },
+  {
+   "pos": 4,
+   "root": "درأ",
+   "lemma": "ادّارَأَ",
+   "meaning_en": "you disputed and accused each other",
+   "meaning_bn": "তোমরা একে অপরকে দোষারোপ করেছিলে",
+   "why_en": "Describes pushing blame away from oneself onto another in an escalating dispute."
+  },
+  {
+   "pos": 7,
+   "root": "خرج",
+   "lemma": "مُخْرِج",
+   "meaning_en": "One who brings out",
+   "meaning_bn": "প্রকাশকারী",
+   "why_en": "Affirms that Allah exposes hidden crimes no matter how secretly they are committed."
+  },
+  {
+   "pos": 10,
+   "root": "كتم",
+   "lemma": "كَتَمَ",
+   "meaning_en": "you were concealing",
+   "meaning_bn": "তোমরা গোপন করছিলে",
+   "why_en": "Points to their attempt to hide the murderer's identity from justice."
+  }
+ ],
+ "lesson_en": "No crime or injustice can stay hidden from Allah, for He inevitably brings concealed truths to light.",
+ "lesson_bn": "আল্লাহর দৃষ্টি থেকে কোনো অপরাধ গোপন রাখা যায় না, তিনি যথাসময়ে সত্য প্রকাশ করে দেন।",
+ "real_life_en": "A group of coworkers breaks an office tool and each worker blames someone else. Take honest responsibility right away instead of hiding your mistakes. Truth always comes out in the end.",
+ "real_life_bn": "কোনো অন্যায় বা ভুলের পর তা অন্যের ঘাড়ে চাপিয়ে দেওয়ার চেষ্টা না করে নিজের দায় স্বীকার করাই সততা। কারণ সত্যকে যত কৌশলেই লুকিয়ে রাখার চেষ্টা করা হোক না কেন, তা শেষ পর্যন্ত অপ্রকাশিত থাকে না।",
+ "context_en": "Reveals the original incident that led to the command to sacrifice the cow: an unsolved murder that caused strife among the Israelites.",
+ "context_bn": "গাভী যবেহর নির্দেশের মূল কারণটি এখানে উন্মোচন করা হয়েছে, যা ছিল বনী ইসরাঈলের মাঝে সংঘটিত একটি গোপন হত্যাকাণ্ড ও পারস্পরিক বিবাদ।",
+ "themes": [
+  "Children of Israel",
+  "Allah's knowledge",
+  "justice",
+  "stories of the prophets"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Murder among the Israelites"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Israelites had killed a person among them and then disputed with each other over who committed the murder.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Each party tried to push the accusation onto another to hide the truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah was determined to bring into the open what they sought to conceal.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

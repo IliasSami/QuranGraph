@@ -1,0 +1,101 @@
+{
+ "id": "2:98",
+ "simple_en": "Some people take angels or prophets as enemies. Whoever opposes Allah, His angels, His messengers, Gabriel, or Michael, is a disbeliever. Allah is the enemy of all who reject faith. The angels obey Allah in all things, so hating an angel means hating Allah.",
+ "simple_bn": "কিছু মানুষ ফেরেশতা বা নবীদের শত্রু মনে করে। যে কেউ আল্লাহ, তাঁর ফেরেশতাগণ, তাঁর রাসূলগণ এবং জিবরীল ও মীকাঈলের শত্রু হবে, সে জেনে রাখুক যে নিশ্চয়ই আল্লাহ কাফিরদের শত্রু। সকল ফেরেশতা আল্লাহর অনুগত বান্দা। তাঁদের কাউকে ঘৃণা করা প্রকৃতপক্ষে স্বয়ং আল্লাহকেই ঘৃণা করার শামিল।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "ملك",
+   "lemma": "مَلَك",
+   "meaning_en": "His angels",
+   "meaning_bn": "তাঁর ফেরেশতাগণ",
+   "why_en": "Points out that all of Allah's angels are obedient servants, so hostility toward one is hostility toward all."
+  },
+  {
+   "pos": 6,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "His messengers",
+   "meaning_bn": "তাঁর রাসূলগণ",
+   "why_en": "Emphasizes the unity of the prophetic message, meaning rejecting one messenger is rejecting all of them."
+  },
+  {
+   "pos": 8,
+   "root": null,
+   "lemma": "مِيكال",
+   "meaning_en": "Michael (Mika'il)",
+   "meaning_bn": "মীকাঈল",
+   "why_en": "Specifically mentioned alongside Gabriel to demonstrate that creating false rivalries between angels is rejected."
+  },
+  {
+   "pos": 12,
+   "root": "كفر",
+   "lemma": "كافِر",
+   "meaning_en": "the disbelievers",
+   "meaning_bn": "কাফিররা (অবিশ্বাসীরা)",
+   "why_en": "Declares that opposing Allah's angels and messengers is an act of clear disbelief."
+  }
+ ],
+ "lesson_en": "Respecting and loving all of Allah's prophets and angels is an essential part of true faith.",
+ "lesson_bn": "আল্লাহর সকল নবী ও ফেরেশতাকে সমানভাবে সম্মান করা ও ভালোবাসা খাঁটি ঈমানের অপরিহার্য শর্ত।",
+ "real_life_en": "Do not pick and choose among Islamic teachings or show disrespect toward any prophet or angel. Honor all of Allah's righteous servants and follow what He has commanded.",
+ "real_life_bn": "দ্বীনের শিক্ষা থেকে নিজের মনমতো কিছু অংশ গ্রহণ করে বাকি অংশ ছেড়ে দেওয়া যাবে না। আল্লাহর সকল নবী ও সম্মানিত ফেরেশতাদের প্রতি পূর্ণ ভক্তি রেখে আল্লাহর বিধান মেনে চলাই একজন মুসলিমের পরিচয়।",
+ "context_en": "Clarifies that picking and choosing between angels is an act of disbelief that places one in direct opposition to Allah.",
+ "context_bn": "ফেরেশতাদের মাঝে বিভেদ সৃষ্টি করে কারও প্রতি শত্রুতা ও কারও প্রতি বন্ধুত্বের ভ্রান্ত ধারণাকে কুফর হিসেবে ঘোষণা করা হয়েছে।",
+ "themes": [
+  "angels",
+  "prophethood",
+  "belief",
+  "disbelief",
+  "warning"
+ ],
+ "kinds": [
+  "warning",
+  "belief",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Gabriel (Jibril)",
+   "Michael (Mika'il)",
+   "angels"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Hostility toward Allah, His angels, His messengers, Gabriel, or Michael constitutes disbelief.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Gabriel and Michael are specifically mentioned to refute the false notion of taking one angel as a friend and another as an enemy.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Allah declares Himself an enemy to anyone who displays enmity toward His angels and messengers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

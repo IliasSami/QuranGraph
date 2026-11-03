@@ -1,0 +1,104 @@
+{
+ "id": "2:67",
+ "simple_en": "A murder happened among the Israelites, and they argued over who did it. Musa (peace be upon him) told them that Allah ordered them to sacrifice a cow. They answered with rude words and asked if he was making fun of them. Musa replied that he sought Allah’s help from acting like foolish people who joke about sacred commands.",
+ "simple_bn": "বনী ইসরাঈলের মধ্যে এক ব্যক্তি নিহত হয় এবং হত্যাকারীকে নিয়ে তাদের মধ্যে বিতর্ক শুরু হয়। তখন মুসা (আলাইহিস সালাম) তাদের বললেন, আল্লাহ তোমাদের একটি গাভী জবাই করার নির্দেশ দিয়েছেন। তারা অবজ্ঞাভরে বলল, আপনি কি আমাদের সাথে ঠাট্টা করছেন? মুসা (আলাইহিস সালাম) বললেন, আল্লাহর নির্দেশ নিয়ে ঠাট্টা করে এমন অজ্ঞদের দলভুক্ত হওয়া থেকে আমি আল্লাহর আশ্রয় চাই।",
+ "key_words": [
+  {
+   "pos": 9,
+   "root": "ذبح",
+   "lemma": "ذُبِحَ",
+   "meaning_en": "you sacrifice / slaughter",
+   "meaning_bn": "তোমরা জবাই করবে",
+   "why_en": "The simple divine instruction that tested their willingness to submit and obey."
+  },
+  {
+   "pos": 10,
+   "root": "بقر",
+   "lemma": "بَقَرَة",
+   "meaning_en": "a cow",
+   "meaning_bn": "একটি গাভী",
+   "why_en": "Any ordinary cow would have sufficed initially, giving this famous surah its name."
+  },
+  {
+   "pos": 13,
+   "root": "هزأ",
+   "lemma": "هُزُو",
+   "meaning_en": "a mockery / ridicule",
+   "meaning_bn": "উপহাসের পাত্র",
+   "why_en": "Their disrespectful presumption that serious legal issues could be addressed with jokes."
+  },
+  {
+   "pos": 20,
+   "root": "جهل",
+   "lemma": "جاهِل",
+   "meaning_en": "the ignorant",
+   "meaning_bn": "অজ্ঞরা",
+   "why_en": "Those who speak foolishly or attribute trivialities to Allah's sacred guidance."
+  }
+ ],
+ "lesson_en": "Treat Allah’s commands with deep respect and never mock sacred guidance.",
+ "lesson_bn": "আল্লাহর আদেশকে পূর্ণ সম্মানের সাথে গ্রহণ করা উচিত এবং দ্বীনি বিষয়ে কখনো উপহাস করা যাবে না।",
+ "real_life_en": "A father tells his son to clean his room and give some old toys to the poor. The son laughs and asks if his dad is just joking with him. A good child listens with respect and acts right away. Respecting good advice helps us grow into mature and humble people.",
+ "real_life_bn": "একজন শিক্ষক বা অভিভাবক যখন কোনো গুরুত্বপূর্ণ নসিহত করেন, তখন তা নিয়ে ঠাট্টা করা অনুচিত। ভালো উপদেশকে সম্মান জানিয়ে দ্রুত মেনে নিলে মানুষ বিনয়ী হতে পারে এবং অপ্রয়োজনীয় ভুল থেকে বেঁচে থাকে।",
+ "context_en": "Introduces the central incident of the slaughtered heifer after a mysterious murder caused division among the Israelites.",
+ "context_bn": "বনী ইসরাঈলের এক অমীমাংসিত হত্যাকাণ্ড ও গাভী কুরবানির ঐতিহাসিক ঘটনার সূচনা করা হয়েছে।",
+ "themes": [
+  "Children of Israel",
+  "obedience",
+  "prophethood",
+  "stories of the prophets",
+  "arrogance"
+ ],
+ "kinds": [
+  "story",
+  "command",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Musa"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "The Story of the Cow"
+  ],
+  "things": [
+   "cow"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Musa commanded his people to sacrifice a cow by Allah's command to resolve an unsolved dispute.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The Israelites insolently accused Musa of making fun of them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Musa sought refuge with Allah from being among the foolish who jest about divine orders.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-bn-ahsanul-bayan",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,109 @@
+{
+ "id": "2:87",
+ "simple_en": "Allah gave Moses the Torah and sent many messengers after him in continuous succession. He gave Jesus, the son of Mary, clear miracles like healing the sick and raising the dead, and strengthened him with the angel Gabriel. Yet whenever a messenger came with rules that went against their desires, they grew arrogant. They called some messengers liars and killed others.",
+ "simple_bn": "নিশ্চয়ই আল্লাহ মুসাকে (আলাইহিস সালাম) তাওরাত কিতাব দিয়েছিলেন এবং তাঁর পর একের পর এক অনেক রাসূল পাঠিয়েছিলেন। তিনি মারইয়াম-পুত্র ঈসাকে (আলাইহিস সালাম) সুস্পষ্ট মুজিজা দান করেছিলেন এবং জিবরীল (আলাইহিস সালাম) দিয়ে তাঁকে শক্তিশালী করেছিলেন। কিন্তু যখনই কোনো রাসূল এমন কোনো বিধান নিয়ে আসতেন যা তাদের মনের চাহিদার বিপরীত হতো, তখনই তারা অহংকার করত। তারা কোনো কোনো নবীকে মিথ্যাবাদী বলেছিল এবং কাউকে কাউকে হত্যা করেছিল।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "قفو",
+   "lemma": "قَفَّيْ",
+   "meaning_en": "We sent in succession",
+   "meaning_bn": "আমরা পর্যায়ক্রমে পাঠিয়েছি",
+   "why_en": "Shows the continuous chain of messengers sent to guide the Children of Israel."
+  },
+  {
+   "pos": 13,
+   "root": "بين",
+   "lemma": "بَيِّنَة",
+   "meaning_en": "clear proofs",
+   "meaning_bn": "সুস্পষ্ট নিদর্শনসমূহ",
+   "why_en": "The undeniable miracles given to Jesus (peace be upon him) such as healing the sick and raising the dead."
+  },
+  {
+   "pos": 16,
+   "root": "قدس",
+   "lemma": "قُدُس",
+   "meaning_en": "the Holy Spirit",
+   "meaning_bn": "পবিত্র আত্মা",
+   "why_en": "Refers to the angel Gabriel (peace be upon him) who aided and strengthened Jesus."
+  },
+  {
+   "pos": 24,
+   "root": "كبر",
+   "lemma": "اسْتَكْبَرَ",
+   "meaning_en": "you grew arrogant",
+   "meaning_bn": "তোমরা অহংকার করেছিলে",
+   "why_en": "Identifies pride as the root reason for rejecting divine guidance whenever it crossed their desires."
+  }
+ ],
+ "lesson_en": "Do not let pride stop you from accepting the truth when it goes against what you want.",
+ "lesson_bn": "অহংকার মানুষকে সত্য গ্রহণে বাধা দেয়, বিশেষ করে যখন সত্য মানুষের খেয়ালখুশির বিপরীতে যায়।",
+ "real_life_en": "When a trusted friend, teacher, or family member corrects you with a clear teaching from Allah's guidance, do not get angry or defensive. Humble yourself before the truth, even if it goes against your personal pride or convenience.",
+ "real_life_bn": "কেউ যদি আপনাকে কোনো ভুল ধরিয়ে দিয়ে কুরআন ও হাদিসের সঠিক বিধান মনে করিয়ে দেয়, তবে অহংকার করে তা এড়িয়ে যাবেন না। সত্য যদি নিজের মনমতো নাও হয়, তবু তা বিনম্র চিত্তে মেনে নেওয়াই একজন মুমিনের পরিচয়।",
+ "context_en": "Recounts how the Israelites repeatedly rejected and mistreated the line of prophets that culminated in Jesus (peace be upon him).",
+ "context_bn": "বনি ইসরাঈলদের কাছে মুসা (আলাইহিস সালাম) থেকে শুরু করে ঈসা (আলাইহিস সালাম) পর্যন্ত প্রেরিত নবীগণের সাথে তাদের অবিরাম অবাধ্যতা ও হঠকারিতার ইতিহাস তুলে ধরা হয়েছে।",
+ "themes": [
+  "prophethood",
+  "revelation",
+  "angels",
+  "arrogance",
+  "Children of Israel",
+  "stories of the prophets",
+  "guidance"
+ ],
+ "kinds": [
+  "story",
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "Musa",
+   "Isa ibn Maryam"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [
+   "Jibril"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "Torah"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah gave Moses the Torah and sent a succession of messengers after him to guide the Children of Israel.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Jesus, the son of Mary, was granted clear miracles and was supported by the Holy Spirit, the angel Gabriel.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Out of arrogance, they denied prophets whose message contradicted their desires and even killed some of them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -24,29 +24,64 @@ const nextSurah = surah.id < 114 ? surah.id + 1 : null;
     <div class="container" style="max-width: 800px;">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
         {prevSurah ? (
-          <a href={`/surah/${prevSurah}`} class="btn-icon">← Surah {prevSurah}</a>
+          <a href={`/surah/${prevSurah}`} class="btn-icon" aria-label={`Previous Surah ${prevSurah}`}>← Surah {prevSurah}</a>
         ) : <div />}
         <span class="badge badge-teal">Surah {surah.id} of 114</span>
         {nextSurah ? (
-          <a href={`/surah/${nextSurah}`} class="btn-icon">Surah {nextSurah} →</a>
+          <a href={`/surah/${nextSurah}`} class="btn-icon" aria-label={`Next Surah ${nextSurah}`}>Surah {nextSurah} →</a>
         ) : <div />}
       </div>
 
-      <div class="arabic-text" style="font-size: 3rem; color: var(--accent-teal); margin-bottom: 0.5rem;">
+      <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 3rem; color: var(--accent-teal); margin-bottom: 0.5rem;">
         {surah.name_ar}
       </div>
       <h1 style="font-size: 2.25rem; font-weight: 800; margin-bottom: 0.25rem;">
         {surah.name_translit}
       </h1>
-      <p style="font-size: 1.15rem; color: var(--text-muted); margin-bottom: 0.5rem;" class="bangla-text">
+      <p style="font-size: 1.15rem; color: var(--text-muted); margin-bottom: 0.5rem;" class="bangla-text" lang="bn">
         {surah.name_bn} · {surah.name_en}
       </p>
-      <div style="font-size: 0.9rem; color: var(--text-muted);">
-        {surah.ayat} verses
+      <div style="font-size: 0.9rem; color: var(--text-muted); display: flex; justify-content: center; gap: 0.75rem;">
+        <span>{surah.ayat} verses</span>
+        <span>•</span>
+        <span>{surah.type} Revelation</span>
+        {surah.revelation_order && (
+          <>
+            <span>•</span>
+            <span>Order #{surah.revelation_order}</span>
+          </>
+        )}
+      </div>
+
+      <!-- Surah Audio Recitation Bar -->
+      <div class="card" style="margin-top: 2rem; padding: 1rem 1.5rem; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; text-align: left;">
+        <div style="display: flex; align-items: center; gap: 1rem;">
+          <button id="surah-play-btn" class="play-btn-sm" aria-label="Play full Surah recitation">
+            <span id="surah-play-icon" aria-hidden="true">▶</span>
+          </button>
+          <div>
+            <div id="surah-player-status" style="font-weight: 700; font-size: 0.95rem;">
+              Play Full Surah ({surah.ayat} Ayat)
+            </div>
+            <div id="surah-player-verse" style="font-size: 0.8rem; color: var(--text-muted);">
+              Mishary Rashid Alafasy · Continuous recitation
+            </div>
+          </div>
+        </div>
+
+        <div style="display: flex; align-items: center; gap: 0.75rem;">
+          <select id="surah-reciter-select" class="form-select" aria-label="Select Reciter">
+            <option value="Alafasy_64kbps">Mishary Alafasy</option>
+            <option value="Husary_128kbps">Mahmoud Al-Husary</option>
+            <option value="Minshawy_Murattal_128kbps">Mohamed El-Minshawi</option>
+            <option value="Abdurrahmaan_As-Sudais_192kbps">Abdur-Rahman As-Sudais</option>
+          </select>
+          <button id="surah-stop-btn" class="btn-icon" title="Stop Playback" aria-label="Stop Playback">⏹</button>
+        </div>
       </div>
 
       {surah.id !== 1 && surah.id !== 9 && (
-        <div class="arabic-text" style="font-size: 1.75rem; margin-top: 2rem; color: var(--text-main);">
+        <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.75rem; margin-top: 2rem; color: var(--text-main);">
           بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
         </div>
       )}
@@ -56,14 +91,17 @@ const nextSurah = surah.id < 114 ? surah.id + 1 : null;
   <!-- Verses List -->
   <section style="padding: 3rem 0;">
     <div class="container" style="max-width: 860px;">
-      <div style="display: flex; flex-direction: column; gap: 2rem;">
+      <div style="display: flex; flex-direction: column; gap: 2rem;" id="verses-container">
         {ayat.map((item) => (
-          <article class="card" id={`ayah-${item.a}`} style="position: relative; scroll-margin-top: 5rem;">
+          <article class="card verse-card" id={`ayah-${item.a}`} data-ayah={item.a} style="position: relative; scroll-margin-top: 5rem; transition: border-color 0.2s ease, box-shadow 0.2s ease;">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.75rem;">
               <span class="badge badge-teal">
                 {item.s}:{item.a}
               </span>
-              <div style="display: flex; gap: 0.75rem; font-size: 0.85rem;">
+              <div style="display: flex; gap: 0.75rem; font-size: 0.85rem; align-items: center;">
+                <button class="verse-play-btn btn-icon" data-ayah={item.a} title={`Listen to verse ${item.a}`} aria-label={`Listen to verse ${item.s}:${item.a}`}>
+                  ▶ Listen
+                </button>
                 <a href={`/ayah/${item.s}/${item.a}`} style="font-weight: 600;">
                   Study Deeply (Tafsir & Graph) →
                 </a>
@@ -71,9 +109,9 @@ const nextSurah = surah.id < 114 ? surah.id + 1 : null;
             </div>
 
             <!-- Arabic Display -->
-            <div class="arabic-text" style="font-size: 1.85rem; margin-bottom: 1.5rem; word-spacing: 0.15em;">
+            <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.85rem; margin-bottom: 1.5rem; word-spacing: 0.15em;">
               {item.ar}
-              <span style="display: inline-block; font-size: 1.2rem; color: var(--accent-teal); margin-right: 0.4rem;">
+              <span aria-hidden="true" style="display: inline-block; font-size: 1.2rem; color: var(--accent-teal); margin-right: 0.4rem;">
                 ۝
               </span>
             </div>
@@ -84,7 +122,7 @@ const nextSurah = surah.id < 114 ? surah.id + 1 : null;
             </div>
 
             <!-- Bangla Translation -->
-            <div class="bangla-text" style="font-size: 1rem; line-height: 1.7; color: var(--text-muted); border-top: 1px dashed var(--border-color); padding-top: 0.75rem;">
+            <div class="bangla-text" lang="bn" style="font-size: 1rem; line-height: 1.7; color: var(--text-muted); border-top: 1px dashed var(--border-color); padding-top: 0.75rem;">
               {item.bn}
             </div>
           </article>
@@ -92,4 +130,125 @@ const nextSurah = surah.id < 114 ? surah.id + 1 : null;
       </div>
     </div>
   </section>
+
+  <audio id="surah-audio-player" preload="none"></audio>
 </Layout>
+
+<style>
+  .play-btn-sm {
+    width: 2.75rem;
+    height: 2.75rem;
+    min-width: 44px;
+    min-height: 44px;
+    border-radius: 50%;
+    background: var(--accent-teal);
+    color: white;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    transition: transform 0.15s ease, background-color 0.15s ease;
+  }
+  .play-btn-sm:hover {
+    background: var(--accent-teal-hover);
+    transform: scale(1.05);
+  }
+  .verse-card.playing {
+    border-color: var(--accent-teal);
+    box-shadow: 0 0 0 2px var(--accent-teal);
+  }
+</style>
+
+<script is:inline define:vars={{ sId: surah.id, totalAyat: surah.ayat }}>
+  const audio = document.getElementById("surah-audio-player");
+  const playBtn = document.getElementById("surah-play-btn");
+  const playIcon = document.getElementById("surah-play-icon");
+  const stopBtn = document.getElementById("surah-stop-btn");
+  const statusEl = document.getElementById("surah-player-status");
+  const verseEl = document.getElementById("surah-player-verse");
+  const reciterSelect = document.getElementById("surah-reciter-select");
+  const verseCards = document.querySelectorAll(".verse-card");
+  const versePlayBtns = document.querySelectorAll(".verse-play-btn");
+
+  let currentAyah = 1;
+  let isPlaying = false;
+
+  function getAudioUrl(ayahNum) {
+    const reciter = reciterSelect?.value || "Alafasy_64kbps";
+    const sStr = String(sId).padStart(3, "0");
+    const aStr = String(ayahNum).padStart(3, "0");
+    return `https://everyayah.com/data/${reciter}/${sStr}${aStr}.mp3`;
+  }
+
+  function highlightVerse(ayahNum) {
+    verseCards.forEach((c) => {
+      const a = parseInt(c.getAttribute("data-ayah") || "0", 10);
+      if (a === ayahNum) {
+        c.classList.add("playing");
+        c.scrollIntoView({ behavior: "smooth", block: "center" });
+      } else {
+        c.classList.remove("playing");
+      }
+    });
+  }
+
+  function playAyah(ayahNum) {
+    currentAyah = ayahNum;
+    audio.src = getAudioUrl(currentAyah);
+    audio.play().then(() => {
+      isPlaying = true;
+      if (playIcon) playIcon.textContent = "⏸";
+      if (statusEl) statusEl.textContent = `Playing Verse ${sId}:${currentAyah} of ${totalAyat}`;
+      highlightVerse(currentAyah);
+    }).catch((e) => console.log("Playback blocked:", e));
+  }
+
+  playBtn?.addEventListener("click", () => {
+    if (isPlaying) {
+      audio.pause();
+      isPlaying = false;
+      if (playIcon) playIcon.textContent = "▶";
+      if (statusEl) statusEl.textContent = "Paused";
+    } else {
+      playAyah(currentAyah);
+    }
+  });
+
+  stopBtn?.addEventListener("click", () => {
+    audio.pause();
+    audio.currentTime = 0;
+    isPlaying = false;
+    currentAyah = 1;
+    if (playIcon) playIcon.textContent = "▶";
+    if (statusEl) statusEl.textContent = `Play Full Surah (${totalAyat} Ayat)`;
+    verseCards.forEach((c) => c.classList.remove("playing"));
+  });
+
+  audio?.addEventListener("ended", () => {
+    if (currentAyah < totalAyat) {
+      playAyah(currentAyah + 1);
+    } else {
+      isPlaying = false;
+      currentAyah = 1;
+      if (playIcon) playIcon.textContent = "▶";
+      if (statusEl) statusEl.textContent = `Finished Surah (${totalAyat} Ayat)`;
+      verseCards.forEach((c) => c.classList.remove("playing"));
+    }
+  });
+
+  versePlayBtns.forEach((btn) => {
+    btn.addEventListener("click", (e) => {
+      e.preventDefault();
+      const aNum = parseInt(btn.getAttribute("data-ayah") || "1", 10);
+      playAyah(aNum);
+    });
+  });
+
+  reciterSelect?.addEventListener("change", () => {
+    if (isPlaying) {
+      playAyah(currentAyah);
+    }
+  });
+</script>

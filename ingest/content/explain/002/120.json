@@ -1,0 +1,112 @@
+{
+ "id": "2:120",
+ "simple_en": "The Jews and the Christians will not be pleased with you until you follow their faith. Tell them that Allah's guidance is the only true guidance. If anyone follows their whims after the truth has come from Allah, they will have no one to protect or help them against His punishment.",
+ "simple_bn": "ইহুদি ও খ্রিস্টানরা আপনার প্রতি কখনোই সন্তুষ্ট হবে না যতক্ষণ না আপনি তাদের ধর্মের অনুসরণ করেন। তাদের বলুন, আল্লাহর দেখানো পথই একমাত্র সত্য পথ। আপনার নিকট ওহির সুস্পষ্ট জ্ঞান আসার পরও যদি আপনি তাদের খেয়াল-খুশির অনুসরণ করেন, তবে আল্লাহর পাকড়াও থেকে রক্ষা করার মতো কোনো অভিভাবক বা সাহায্যকারী আপনি পাবেন না।",
+ "key_words": [
+  {
+   "pos": 9,
+   "root": "ملل",
+   "lemma": "مِلَّة",
+   "meaning_en": "their religion / creed",
+   "meaning_bn": "তাদের ধর্ম বা মতাদর্শ",
+   "why_en": "Refers to the altered religious paths they demanded others to adopt."
+  },
+  {
+   "pos": 12,
+   "root": "هدي",
+   "lemma": "هُدًى",
+   "meaning_en": "guidance",
+   "meaning_bn": "হিদায়াত বা সঠিক পথ",
+   "why_en": "Asserts that true guidance originates solely from divine revelation."
+  },
+  {
+   "pos": 18,
+   "root": "هوي",
+   "lemma": "أَهْواء",
+   "meaning_en": "their desires",
+   "meaning_bn": "তাদের খেয়াল-খুশি",
+   "why_en": "Exposes their religious demands as subjective whims rather than divine truth."
+  },
+  {
+   "pos": 23,
+   "root": "علم",
+   "lemma": "عِلْم",
+   "meaning_en": "knowledge",
+   "meaning_bn": "জ্ঞান (ওহি)",
+   "why_en": "Signifies the decisive, revealed truth that removes all doubt."
+  },
+  {
+   "pos": 29,
+   "root": "ولي",
+   "lemma": "وَلِيّ",
+   "meaning_en": "protector",
+   "meaning_bn": "অভিভাবক",
+   "why_en": "Emphasizes that abandoning the truth deprives a person of divine safeguarding."
+  }
+ ],
+ "lesson_en": "Never leave Allah's guidance just to please other people.",
+ "lesson_bn": "আল্লাহর দেওয়া হিদায়াতই একমাত্র সত্য পথ; অন্যকে খুশি করার জন্য দ্বীনের কোনো আদর্শ বিসর্জন দেওয়া যাবে না।",
+ "real_life_en": "Be kind to your friends, but do not drop your daily prayers or good manners to fit in. Stay firm on what Allah has taught you.",
+ "real_life_bn": "কর্মক্ষেত্র বা সমাজে অন্যদের খুশি করার জন্য সালাত, হালাল উপার্জন কিংবা নিজের নৈতিক মূল্যবোধ বিসর্জন দেবেন না। বিনয়ী ও ভালো আচরণ বজায় রেখেও নিজ ধর্মীয় বিশ্বাসে অটল থাকুন।",
+ "context_en": "Warns the Prophet ﷺ and believers against yielding to sectarian expectations at the expense of divine revelation.",
+ "context_bn": "বাতিলপন্থীদের তুষ্ট করার জন্য ওহির অকাট্য জ্ঞানের বিপরীতে তাদের খেয়াল-খুশির অনুসারী না হওয়ার কঠোর নির্দেশ দেওয়া হয়েছে।",
+ "themes": [
+  "guidance",
+  "revelation",
+  "knowledge",
+  "Children of Israel",
+  "warning",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "warning",
+  "command",
+  "prohibition",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "Muhammad ﷺ"
+  ],
+  "nations": [
+   "Jews",
+   "Christians"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Jews and the Christians would never be fully satisfied with the Prophet ﷺ unless he followed their religious creeds.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The Prophet ﷺ was instructed to proclaim that the guidance revealed by Allah is the only authentic guidance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "A stern warning is issued that following their desires after receiving divine knowledge leaves a person without any protector or helper against Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

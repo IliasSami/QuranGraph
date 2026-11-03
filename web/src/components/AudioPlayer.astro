@@ -18,7 +18,7 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
   <div style="display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <div style="display: flex; align-items: center; gap: 1rem;">
       <button id="audio-play-btn" class="play-btn" aria-label="Play recitation">
-        <span id="play-icon">▶</span>
+        <span id="play-icon" aria-hidden="true">▶</span>
       </button>
       <div>
         <div id="playing-status" style="font-weight: 700; font-size: 0.95rem; color: var(--text-main);">
@@ -46,13 +46,14 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
         <option value="ar-bn">Arabic + Bangla</option>
       </select>
 
-      <button id="speed-btn" class="btn-icon" title="Playback Speed">1x</button>
-      <button id="loop-btn" class="btn-icon" title="Repeat this verse">🔁 Off</button>
+      <button id="speed-btn" class="btn-icon" title="Playback Speed" aria-label="Playback speed">1x</button>
+      <button id="loop-btn" class="btn-icon" title="Repeat this verse" aria-label="Repeat this verse">🔁 Off</button>
+      <button id="autonext-btn" class="btn-icon" title="Auto-advance to next verse" aria-label="Auto-advance to next verse">⏭ Auto: Off</button>
     </div>
   </div>
 
   <!-- Progress bar -->
-  <div style="width: 100%; height: 6px; background: var(--bg-subtle); border-radius: 9999px; overflow: hidden; cursor: pointer;" id="progress-container">
+  <div style="width: 100%; height: 8px; background: var(--bg-subtle); border-radius: 9999px; overflow: hidden; cursor: pointer;" id="progress-container" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Audio playback progress">
     <div id="audio-progress" style="width: 0%; height: 100%; background: var(--accent-teal); transition: width 0.1s linear;"></div>
   </div>
 
@@ -64,6 +65,8 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
   .play-btn {
     width: 3rem;
     height: 3rem;
+    min-width: 44px;
+    min-height: 44px;
     border-radius: 50%;
     background: var(--accent-teal);
     color: white;
@@ -80,7 +83,8 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
     transform: scale(1.05);
   }
   .form-select {
-    padding: 0.4rem 0.75rem;
+    padding: 0.45rem 0.75rem;
+    min-height: 44px;
     border: 1px solid var(--border-color);
     border-radius: var(--radius-sm);
     background: var(--bg-subtle);
@@ -103,31 +107,57 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
   const progressContainer = document.getElementById("progress-container");
   const speedBtn = document.getElementById("speed-btn");
   const loopBtn = document.getElementById("loop-btn");
+  const autonextBtn = document.getElementById("autonext-btn");
   const reciterSelect = document.getElementById("reciter-select");
   const modeSelect = document.getElementById("mode-select");
   const statusEl = document.getElementById("playing-status");
   const substatusEl = document.getElementById("playing-substatus");
 
   let isLooping = false;
+  let isAutoNext = localStorage.getItem("qg_autonext") === "true";
   const speeds = [0.75, 1.0, 1.25, 1.5];
   let speedIdx = 1;
   let activeAudio = audio;
+
+  // Restore saved reciter and mode
+  const savedReciter = localStorage.getItem("qg_reciter");
+  if (savedReciter && reciterSelect) {
+    reciterSelect.value = savedReciter;
+  }
+  const savedMode = localStorage.getItem("qg_audiomode");
+  if (savedMode && modeSelect) {
+    modeSelect.value = savedMode;
+  }
+
+  if (autonextBtn) {
+    autonextBtn.textContent = isAutoNext ? "⏭ Auto: On" : "⏭ Auto: Off";
+    if (isAutoNext) autonextBtn.style.color = "var(--accent-teal)";
+  }
 
   function updateReciter() {
     const reciter = reciterSelect ? reciterSelect.value : "Alafasy_64kbps";
     const wasPlaying = !audio.paused;
     audio.src = `https://everyayah.com/data/${reciter}/${sStr}${aStr}.mp3`;
+    if (statusEl && reciterSelect) {
+      statusEl.textContent = "Recitation: " + reciterSelect.options[reciterSelect.selectedIndex].text;
+    }
     if (wasPlaying) {
       audio.play().catch(e => console.log(e));
     }
   }
 
-  reciterSelect?.addEventListener("change", () => {
+  // Set initial reciter source if customized
+  if (savedReciter && savedReciter !== "Alafasy_64kbps") {
     updateReciter();
-    if (statusEl) {
-      const selectedOption = reciterSelect.options[reciterSelect.selectedIndex];
-      statusEl.textContent = "Recitation: " + selectedOption.text;
-    }
+  }
+
+  reciterSelect?.addEventListener("change", () => {
+    localStorage.setItem("qg_reciter", reciterSelect.value);
+    updateReciter();
+  });
+
+  modeSelect?.addEventListener("change", () => {
+    localStorage.setItem("qg_audiomode", modeSelect.value);
   });
 
   function playBanglaSpeech(onEnd) {
@@ -136,13 +166,11 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
       return;
     }
     window.speechSynthesis.cancel();
-    // Clean text for speech
     const cleanBn = bnText.replace(/\[[০-৯0-9]+\]/g, '').replace(/[‘'"]/g, '').trim();
     const utterance = new SpeechSynthesisUtterance(cleanBn);
     utterance.lang = "bn-BD";
     utterance.rate = speeds[speedIdx];
     
-    // Look for Bengali voices if available
     const voices = window.speechSynthesis.getVoices();
     const bnVoice = voices.find(v => v.lang.startsWith("bn") || v.lang.includes("Bengali"));
     if (bnVoice) utterance.voice = bnVoice;
@@ -181,12 +209,13 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
     if (isLooping) {
       audio.currentTime = 0;
       audio.play();
+    } else if (isAutoNext && ayah < surahTotalAyat) {
+      window.location.href = `/ayah/${surah}/${ayah + 1}?autoplay=1`;
     } else {
       if (playIcon) playIcon.textContent = "▶";
-      if (progress) progress.style.width = "0%";
-      // Auto-advance if next ayah exists
-      if (ayah < surahTotalAyat) {
-        window.location.href = `/ayah/${surah}/${ayah + 1}`;
+      if (progress) {
+        progress.style.width = "0%";
+        progressContainer?.setAttribute("aria-valuenow", "0");
       }
     }
   }
@@ -209,6 +238,7 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
       if (activeAudio === audio && audio.duration && progress) {
         const pct = (audio.currentTime / audio.duration) * 100;
         progress.style.width = pct + "%";
+        progressContainer?.setAttribute("aria-valuenow", String(Math.round(pct)));
       }
     });
 
@@ -216,6 +246,7 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
       if (activeAudio === enAudio && enAudio.duration && progress) {
         const pct = (enAudio.currentTime / enAudio.duration) * 100;
         progress.style.width = pct + "%";
+        progressContainer?.setAttribute("aria-valuenow", String(Math.round(pct)));
       }
     });
 
@@ -239,6 +270,13 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
       loopBtn.style.color = isLooping ? "var(--accent-teal)" : "inherit";
     });
 
+    autonextBtn?.addEventListener("click", () => {
+      isAutoNext = !isAutoNext;
+      localStorage.setItem("qg_autonext", String(isAutoNext));
+      autonextBtn.textContent = isAutoNext ? "⏭ Auto: On" : "⏭ Auto: Off";
+      autonextBtn.style.color = isAutoNext ? "var(--accent-teal)" : "inherit";
+    });
+
     progressContainer?.addEventListener("click", (e) => {
       if (activeAudio && activeAudio.duration) {
         const rect = progressContainer.getBoundingClientRect();
@@ -246,5 +284,15 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
         activeAudio.currentTime = clickPos * activeAudio.duration;
       }
     });
+
+    // Check for autoplay parameter
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get("autoplay") === "1") {
+      setTimeout(() => {
+        audio.play().then(() => {
+          if (playIcon) playIcon.textContent = "⏸";
+        }).catch(e => console.log("Autoplay blocked:", e));
+      }, 250);
+    }
   }
 </script>

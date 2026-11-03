@@ -1,0 +1,106 @@
+{
+ "id": "2:125",
+ "simple_en": "Allah made the Sacred House in Makkah a safe sanctuary. Believers feel peace there and long to return to it again and again. Allah told them to pray at the place where Ibrahim stood to build the House. He also commanded Ibrahim and his son Isma'il (peace be upon them) to keep the House clean. It was to be kept pure for all who visit, pray, and bow down before God.",
+ "simple_bn": "আল্লাহ কাবাগৃহকে মানুষের জন্য বারবার ফিরে আসার স্থান এবং একটি নিরাপদ আশ্রয় বানিয়েছেন। তিনি মুমিনদের নির্দেশ দিয়েছেন মাকামে ইবরাহীমকে নামাযের জায়গা বানাতে, যেখানে দাঁড়িয়ে তিনি কা’বা নির্মাণ করেছিলেন। আল্লাহ ইবরাহীম ও তাঁর পুত্র ইসমাঈল (আলাইহিমাস সালাম)-কে পবিত্র ঘর পরিচ্ছন্ন রাখার আদেশ দেন। যাতে মানুষ এখানে তাওয়াফ, ইতিকাফ এবং রুকূ ও সিজদার মাধ্যমে সালাত আদায় করতে পারে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "ثوب",
+   "lemma": "مَثابَة",
+   "meaning_en": "a place of return (visitation)",
+   "meaning_bn": "পুনঃপুনঃ প্রত্যাবর্তনের স্থান বা সম্মিলনক্ষেত্র",
+   "why_en": "Describes how hearts continuously yearn to visit the Sacred Ka'bah again and again without tiring."
+  },
+  {
+   "pos": 6,
+   "root": "أمن",
+   "lemma": "أَمْن",
+   "meaning_en": "a sanctuary of security",
+   "meaning_bn": "নিরাপত্তাস্থল",
+   "why_en": "Designates the Sacred Sanctuary in Makkah as a protected haven where violence and bloodshed are forbidden."
+  },
+  {
+   "pos": 9,
+   "root": "قوم",
+   "lemma": "مَقام",
+   "meaning_en": "station (standing place)",
+   "meaning_bn": "দাঁড়ানোর জায়গা (মাকাম)",
+   "why_en": "The stone where Prophet Ibrahim (peace be upon him) stood while raising the walls of the Ka'bah."
+  },
+  {
+   "pos": 17,
+   "root": "طهر",
+   "lemma": "طَهَّرَ",
+   "meaning_en": "purify (keep clean)",
+   "meaning_bn": "পবিত্র রাখো",
+   "why_en": "The command to cleanse the house of Allah from idols, filth, disputes, and all physical and spiritual impurities."
+  }
+ ],
+ "lesson_en": "Keep places of worship clean, quiet, and purely devoted to the praise of God.",
+ "lesson_bn": "আল্লাহর ইবাদতের স্থানগুলোকে সব ধরনের বাহ্যিক ও আত্মিক অপবিত্রতা থেকে মুক্ত ও শান্তিময় রাখা প্রতিটি বিশ্বাসীর কর্তব্য।",
+ "real_life_en": "Show deep respect for your local mosque by keeping it clean, turning off phone ringers, and speaking softly. Do not bring arguments or worldly gossip into a place built solely for worship and peace.",
+ "real_life_bn": "মসজিদে প্রবেশ করার সময় ফোন সাইলেন্ট রাখুন, অপ্রয়োজনীয় কথা ও তর্কবিতর্ক পরিহার করুন এবং চারপাশ পরিষ্কার রাখুন। আল্লাহর ঘরকে সবসময় শান্তি ও ইবাদতের পবিত্র পরিবেশ হিসেবে বজায় রাখা উচিত।",
+ "context_en": "Highlights the divine purpose of the Ka'bah and the duty given to prophets Ibrahim and Isma'il to maintain its spiritual and physical purity.",
+ "context_bn": "কাবাঘরের মর্যাদা এবং এর বাহ্যিক ও আত্মিক পবিত্রতা বজায় রাখার জন্য হযরত ইবরাহীম ও ইসমাঈল (আলাইহিমাস সালাম)-কে দেওয়া নির্দেশ তুলে ধরা হয়েছে।",
+ "themes": [
+  "worship",
+  "prayer",
+  "hajj",
+  "stories of the prophets",
+  "peace"
+ ],
+ "kinds": [
+  "command",
+  "story",
+  "worship"
+ ],
+ "entities": {
+  "people": [
+   "Ibrahim (peace be upon him)",
+   "Isma'il (peace be upon him)"
+  ],
+  "nations": [],
+  "places": [
+   "Ka'bah",
+   "Maqam Ibrahim",
+   "Makkah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "Maqam Ibrahim"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah designated the Ka'bah as a place to which people return repeatedly and a safe sanctuary.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Believers were commanded to take the station of Prophet Ibrahim (peace be upon him) as a place of prayer.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Prophets Ibrahim and Isma'il (peace be upon them) were tasked with purifying the Sacred House from idols and filth for worshippers who perform tawaf, i'tikaf, and prayer.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

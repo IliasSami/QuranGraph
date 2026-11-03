@@ -1,0 +1,84 @@
+{
+ "id": "2:141",
+ "simple_en": "Those past communities have passed away. They will receive the reward of what they earned, and you will receive the reward of what you earn. You will not be questioned about their deeds, nor will their righteousness save anyone who lacks faith. Every soul is accountable before Allah only for its own actions.",
+ "simple_bn": "সেই অতীত জাতিগুলো বিদায় নিয়েছে। তারা যা অর্জন করেছে তা তাদের জন্য, আর তোমরা যা অর্জন করেছ তা তোমাদের জন্য। তাদের কৃতকর্ম সম্পর্কে তোমাদের কোনো প্রশ্ন করা হবে না। সৎ পূর্বপুরুষদের পরিচয়ে কোনো মুক্তি নেই, বরং প্রত্যেক মানুষ কেবল নিজের কাজের জন্যই আল্লাহর কাছে দায়বদ্ধ।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "أمم",
+   "lemma": "أُمَّة",
+   "meaning_en": "a nation / community",
+   "meaning_bn": "একটি জাতি বা সম্প্রদায়",
+   "why_en": "Points to past generations who were judged strictly on their own merits."
+  },
+  {
+   "pos": 7,
+   "root": "كسب",
+   "lemma": "كَسَبَ",
+   "meaning_en": "it earned",
+   "meaning_bn": "তা অর্জন করেছে",
+   "why_en": "Highlights that spiritual outcome is tied directly to what a soul acquires through its deeds."
+  },
+  {
+   "pos": 12,
+   "root": "سأل",
+   "lemma": "سَأَلَ",
+   "meaning_en": "you will be questioned",
+   "meaning_bn": "তোমাদেরকে জিজ্ঞাসা করা হবে",
+   "why_en": "Affirms that no one will carry the blame or credit of another person's deeds."
+  }
+ ],
+ "lesson_en": "Rely on your own faith and righteous deeds rather than ancestral pride.",
+ "lesson_bn": "বংশমর্যাদার ওপর ভরসা না করে নিজের ঈমান ও সৎকাজের মাধ্যমে আল্লাহর সন্তুষ্টি অর্জন করতে হবে।",
+ "real_life_en": "Good parents or a noble family cannot pray for you. You must pray your own prayers. Be honest with people, and answer for your own deeds.",
+ "real_life_bn": "কোনো ধর্মপরায়ণ বা সম্মানিত পরিবারের সন্তান হওয়াই নাজাতের নিশ্চয়তা দেয় না। প্রতিদিন নিজের সালাত নিয়মিত আদায় করুন, মানুষের সাথে সৎ আচরণ বজায় রাখুন এবং নিজের ভুলের দায় নিজে নিন।",
+ "context_en": "Concludes the passage on earlier prophets by reminding readers that salvation depends on personal faith rather than ancestral ties.",
+ "context_bn": "পূর্ববর্তী নবীদের স্মৃতিচারণ শেষে স্মরণ করিয়ে দেওয়া হয়েছে যে, পূর্বপুরুষের পরিচয় নয়, বরং ব্যক্তিগত ঈমান ও আমলই নাজাতের একমাত্র মাধ্যম।",
+ "themes": [
+  "past nations",
+  "judgment",
+  "deeds",
+  "accountability",
+  "justice"
+ ],
+ "kinds": [
+  "warning",
+  "argument",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Past nations have passed away and their spiritual outcome is tied to what they earned, just as later generations are held accountable for their own deeds.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "No soul will be asked about or punished for what others did, and ancestral lineage without personal faith brings no benefit.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -17,18 +17,20 @@ import Layout from "../layouts/Layout.astro";
             id="search-input"
             type="search"
             placeholder="Type verse (2:255), name (ayatul kursi), concept (patience), or Arabic..."
+            aria-label="Search the Quran"
             style="flex: 1; border: none; outline: none; padding: 0.75rem 1rem; font-size: 1.05rem; background: transparent; color: var(--text-main);"
             autofocus
           />
           <button
             id="search-btn"
-            style="background: var(--accent-teal); color: white; border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 600; cursor: pointer;"
+            class="btn-icon"
+            style="background: var(--accent-teal); color: white; border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 600; cursor: pointer; min-height: 44px;"
           >
             Search
           </button>
         </div>
 
-        <div style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.75rem; display: flex; gap: 0.5rem; flex-wrap: wrap;">
+        <div style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.75rem; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
           <span>Examples:</span>
           <button class="quick-pill" data-query="ayatul kursi">ayatul kursi</button>
           <button class="quick-pill" data-query="2:255">2:255</button>
@@ -42,7 +44,7 @@ import Layout from "../layouts/Layout.astro";
       </div>
 
       <!-- Live Results Area -->
-      <div id="results-meta" style="margin-bottom: 1rem; font-size: 0.9rem; color: var(--text-muted); display: none;"></div>
+      <div id="results-meta" style="margin-bottom: 1rem; font-size: 0.9rem; color: var(--text-muted); display: none;" aria-live="polite"></div>
       <div id="results-container" style="display: flex; flex-direction: column; gap: 1.25rem;"></div>
     </div>
   </div>
@@ -52,10 +54,12 @@ import Layout from "../layouts/Layout.astro";
       background: var(--bg-subtle);
       border: 1px solid var(--border-color);
       border-radius: 9999px;
-      padding: 0.2rem 0.6rem;
+      padding: 0.35rem 0.75rem;
+      min-height: 36px;
       font-size: 0.8rem;
       cursor: pointer;
       color: var(--text-muted);
+      transition: all 0.15s ease;
     }
     .quick-pill:hover {
       border-color: var(--accent-teal);
@@ -71,15 +75,19 @@ import Layout from "../layouts/Layout.astro";
     const container = document.getElementById("results-container");
     const meta = document.getElementById("results-meta");
 
-    function executeSearch(q: string) {
-      if (!q.trim() || !container || !meta) return;
+    // Initialize Web Worker for non-blocking search
+    let worker: Worker | null = null;
+    try {
+      worker = new Worker(new URL("../lib/search/search.worker.ts", import.meta.url), { type: "module" });
+    } catch (e) {
+      console.log("Web Worker not supported, falling back to direct search", e);
+    }
 
-      const t0 = performance.now();
-      const results = search(q, 15);
-      const t1 = performance.now();
+    function renderResults(results: any[], durationMs: number, q: string) {
+      if (!container || !meta) return;
 
       meta.style.display = "block";
-      meta.textContent = `Found ${results.length} results in ${(t1 - t0).toFixed(1)} ms`;
+      meta.textContent = `Found ${results.length} results in ${durationMs.toFixed(1)} ms`;
 
       if (results.length === 0) {
         container.innerHTML = `
@@ -93,7 +101,7 @@ import Layout from "../layouts/Layout.astro";
       }
 
       container.innerHTML = results
-        .map((r) => {
+        .map((r: any) => {
           const [s, a] = r.ref.split(":");
           return `
             <a href="/ayah/${s}/${a}" class="card" style="display: block; text-decoration: none; color: inherit; transition: border-color 0.15s ease;">
@@ -111,6 +119,26 @@ import Layout from "../layouts/Layout.astro";
           `;
         })
         .join("");
+    }
+
+    if (worker) {
+      worker.onmessage = (e: MessageEvent<{ results: any[]; durationMs: number }>) => {
+        const { results, durationMs } = e.data;
+        renderResults(results, durationMs, input ? input.value : "");
+      };
+    }
+
+    function executeSearch(q: string) {
+      if (!q.trim() || !container || !meta) return;
+
+      if (worker) {
+        worker.postMessage({ query: q, limit: 15 });
+      } else {
+        const t0 = performance.now();
+        const results = search(q, 15);
+        const t1 = performance.now();
+        renderResults(results, t1 - t0, q);
+      }
     }
 
     // Trigger on Enter or button click

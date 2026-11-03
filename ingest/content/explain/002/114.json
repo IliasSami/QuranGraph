@@ -1,0 +1,102 @@
+{
+ "id": "2:114",
+ "simple_en": "No one does greater wrong than someone who stops people from praying in Allah's mosques and tries to ruin them. People should enter these holy places only with deep respect and fear of Allah. Those who harm mosques will face shame in this life. In the Hereafter, they will face a painful punishment.",
+ "simple_bn": "যে ব্যক্তি আল্লাহর মসজিদগুলোতে তাঁর নাম স্মরণ করতে বাধা দেয় এবং সেগুলো বিরান করার চেষ্টা করে, তার চেয়ে বড় যালিম আর কে হতে পারে? এদের তো উচিত ছিল পরম শ্রদ্ধায় ভীত-সন্ত্রস্ত হয়ে মসজিদে প্রবেশ করা। এ ধরনের লোকদের জন্য দুনিয়াতে রয়েছে চরম লাঞ্ছনা এবং আখিরাতে রয়েছে মহাশাস্তি।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ظلم",
+   "lemma": "أَظْلَم",
+   "meaning_en": "more unjust",
+   "meaning_bn": "অধিক অত্যাচারী বা যালিম",
+   "why_en": "Denotes the peak of injustice committed by barring worship of the Creator."
+  },
+  {
+   "pos": 5,
+   "root": "سجد",
+   "lemma": "مَسْجِد",
+   "meaning_en": "mosques",
+   "meaning_bn": "মসজিদসমূহ",
+   "why_en": "Sacred houses dedicated exclusively to the worship and remembrance of Allah."
+  },
+  {
+   "pos": 13,
+   "root": "خرب",
+   "lemma": "خَراب",
+   "meaning_en": "their destruction",
+   "meaning_bn": "সেগুলোর ধ্বংস বা বিরান করা",
+   "why_en": "Encompasses both physical demolition and halting the spiritual life of mosques."
+  },
+  {
+   "pos": 25,
+   "root": "خزي",
+   "lemma": "خِزْى",
+   "meaning_en": "disgrace",
+   "meaning_bn": "লাঞ্ছনা",
+   "why_en": "The worldly humiliation destined for those who attack places of divine worship."
+  }
+ ],
+ "lesson_en": "Taking care of mosques and praying in them brings honor, while harming them brings ruin.",
+ "lesson_bn": "মসজিদ আবাদ রাখা ও সেখানে আল্লাহর ইবাদতের পরিবেশ রক্ষা করা অপরিহার্য, আর এতে বাধা দেওয়া দুনিয়া ও আখিরাতে চরম ধ্বংস ডেকে আনে।",
+ "real_life_en": "Help your local mosque stay clean and welcoming. Attend daily prayers on time, and never cause trouble in places where people pray.",
+ "real_life_bn": "প্রতিদিনের জামাতে অংশ নিয়ে এবং মসজিদ পরিষ্কার-পরিচ্ছন্ন ও সচল রাখতে সহযোগিতা করে মসজিদ আবাদ রাখুন। কোনোভাবেই মসজিদের পবিত্রতা ও ইবাদতের পরিবেশে ব্যাঘাত ঘটাবেন না।",
+ "context_en": "Condemns those who obstruct worship in houses of Allah, warning them of humiliation here and torment in the Hereafter.",
+ "context_bn": "আল্লাহর ঘরে ইবাদতে বাধা দেওয়া ও তা বিরান করার অপচেষ্টার ভয়াবহ পরিণাম সম্পর্কে সতর্ক করা হয়েছে।",
+ "themes": [
+  "worship",
+  "prayer",
+  "justice",
+  "warning",
+  "punishment",
+  "remembrance of Allah"
+ ],
+ "kinds": [
+  "warning",
+  "prohibition",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "mosques"
+  ],
+  "unseen": [
+   "Hereafter"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "No one commits greater injustice than those who prevent Allah's name from being remembered in His mosques and work toward their ruin.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Ruining mosques includes both physically destroying them and preventing prayer, dhikr, and worship inside them.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Such oppressors deserve disgrace and humiliation in this life, followed by a tremendous punishment in the Hereafter.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

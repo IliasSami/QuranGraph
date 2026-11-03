@@ -1,0 +1,100 @@
+{
+ "id": "2:71",
+ "simple_en": "Musa (peace be upon him) told his people about the cow Allah wanted. It had never worked the soil or watered the fields. It was healthy and free from any marks or mixed colors. They said that he had finally brought the clear truth. Then they slaughtered it, though they almost refused out of stubbornness.",
+ "simple_bn": "মুসা (আলাইহিস সালাম) তাঁর সম্প্রদায়কে জানালেন, আল্লাহ এমন এক গাভী নির্দেশ করেছেন যা কখনো জমি চাষ বা ক্ষেতে পানি সেচের কাজে ব্যবহৃত হয়নি। গাভীটিকে হতে হবে সম্পূর্ণ সুস্থ, নিখুঁত এবং কোনো ভিন্ন রঙের দাগমুক্ত। তখন তারা বলল যে তিনি সঠিক ও স্পষ্ট বিবরণ এনেছেন। এরপর তারা অনিচ্ছা সত্ত্বেও গাভীটি যবেহ করল, যদিও অতিরিক্ত তর্কের কারণে তারা প্রায় তা অমান্য করার উপক্রম করেছিল।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "ذلل",
+   "lemma": "ذَلُول",
+   "meaning_en": "broken for work",
+   "meaning_bn": "কাজের জন্য বশ মানানো",
+   "why_en": "Describes an animal tamed and subdued for hard agricultural labor."
+  },
+  {
+   "pos": 13,
+   "root": "سلم",
+   "lemma": "مُسَلَّمَة",
+   "meaning_en": "flawless and sound",
+   "meaning_bn": "নিখুঁত ও সুস্থ",
+   "why_en": "Indicates the cow was completely healthy and free from any defect or labor blemish."
+  },
+  {
+   "pos": 15,
+   "root": "وشي",
+   "lemma": "شِيَة",
+   "meaning_en": "blemish or spot",
+   "meaning_bn": "দাগ বা অন্য রঙের চিহ্ন",
+   "why_en": "Signifies any mark or different color mixing into its pure yellow coat."
+  },
+  {
+   "pos": 21,
+   "root": "ذبح",
+   "lemma": "ذُبِحَ",
+   "meaning_en": "so they slaughtered it",
+   "meaning_bn": "অতঃপর তারা তা যবেহ করল",
+   "why_en": "The eventual fulfillment of the command after protracted hesitation and questioning."
+  }
+ ],
+ "lesson_en": "Do not make simple commands hard by arguing about them.",
+ "lesson_bn": "আল্লাহর সহজ নির্দেশ মেনে না নিয়ে অযথা খুঁটিনাটি প্রশ্ন তুললে নিজের জন্যই আমল কঠিন হয়ে যায়।",
+ "real_life_en": "When a parent or teacher gives you a clear task, do it without arguing. Making excuses or asking needless questions only makes your work harder.",
+ "real_life_bn": "কাজের জায়গায় বা পরিবারে কোনো স্পষ্ট দায়িত্ব পেলে অযথা নানা জটিল প্রশ্ন না তুলে তা আন্তরিকভাবে সম্পন্ন করুন। সাধারণ নির্দেশকে তর্কের মাধ্যমে জটিল বানালে কাজটি সম্পন্ন করা কঠিন হয়ে পড়ে।",
+ "context_en": "Concludes the sequence of questions from the Israelites about the sacrificial cow, showing how their insistence on details made a simple command difficult.",
+ "context_bn": "বনী ইসরাঈলের গাভী সংক্রান্ত প্রশ্নের ধারাবাহিকতা এখানে শেষ হয়, যেখানে দেখা যায় অযথা প্রশ্নের ফলে তাদের ওপর আদেশটি কতটা কঠিন হয়ে গিয়েছিল।",
+ "themes": [
+  "Children of Israel",
+  "stories of the prophets",
+  "obedience",
+  "trials"
+ ],
+ "kinds": [
+  "story",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Musa"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Sacrifice of the Cow"
+  ],
+  "things": [
+   "cow"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Musa conveyed that the cow was neither trained for plowing nor used for watering fields.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The cow had to be free of physical defects and without any marks of a different color.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The Israelites finally slaughtered the cow after almost failing to do so because of their obstinacy and argumentative nature.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

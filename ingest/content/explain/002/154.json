@@ -1,0 +1,104 @@
+{
+ "id": "2:154",
+ "simple_en": "Do not call those who are killed in Allah's way dead. Rather, they are alive with their Lord, receiving good gifts and joy. You cannot see or feel their true state with your eyes, but Allah has granted them an honored life after death.",
+ "simple_bn": "আল্লাহর পথে যারা শহীদ হন, তাদেরকে সাধারণ মৃতের মতো মৃত বলো না। প্রকৃতপক্ষে তারা তাদের রবের কাছে বিশেষ এক জীবনে জীবিত এবং রিযিক ও শান্তি লাভ করছেন। তবে পার্থিব পঞ্চেন্দ্রিয় দিয়ে তোমরা তাঁদের সেই অদৃশ্য জীবনের বাস্তবতা উপলব্ধি করতে পারো না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "قتل",
+   "lemma": "قَتَلَ",
+   "meaning_en": "is killed",
+   "meaning_bn": "নিহত হয়",
+   "why_en": "Refers to martyrdom, sacrificing one's life sincerely for the cause of Allah."
+  },
+  {
+   "pos": 6,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "the way",
+   "meaning_bn": "পথ",
+   "why_en": "Specifies that the struggle and sacrifice must be purely for Allah's religion."
+  },
+  {
+   "pos": 8,
+   "root": "موت",
+   "lemma": "مَيِّت",
+   "meaning_en": "dead",
+   "meaning_bn": "মৃত",
+   "why_en": "Rejects viewing martyrs as having lost their existence like ordinary deaths."
+  },
+  {
+   "pos": 10,
+   "root": "حيي",
+   "lemma": "حَيّ",
+   "meaning_en": "alive",
+   "meaning_bn": "জীবিত",
+   "why_en": "Affirms their special, honored life in the realm of Barzakh near Allah."
+  },
+  {
+   "pos": 13,
+   "root": "شعر",
+   "lemma": "يَشْعُرُ",
+   "meaning_en": "you perceive",
+   "meaning_bn": "তোমরা উপলব্ধি করতে পারো",
+   "why_en": "Notes that the nature of their Barzakh existence lies beyond human physical senses."
+  }
+ ],
+ "lesson_en": "Those who give their lives for Allah are never lost, for they live on with great honor near Him.",
+ "lesson_bn": "আল্লাহর সন্তুষ্টির জন্য আত্মত্যাগ কখনো বৃথা যায় না; সত্যের পথে নিবেদিত প্রাণ আল্লাহর কাছে অনন্ত মর্যাদা ও জীবন লাভ করে।",
+ "real_life_en": "When a family loses a loved one who stood bravely for the truth, they do not give in to despair. They trust Allah's promise that a good life awaits them with their Lord. This gives them comfort and helps them stay patient.",
+ "real_life_bn": "দ্বীনের পথে কিংবা ন্যায়ের পক্ষে কাজ করতে গিয়ে কারও প্রিয়জন প্রাণ হারালে মুমিন চরম শোকে ভেঙে পড়ে না। সে বিশ্বাস রাখে যে আল্লাহর কাছে তাঁর মর্যাদা অপরিসীম, এবং শোককে শক্তিতে পরিণত করে সৎকাজের পথে অটল থাকে।",
+ "context_en": "Presents the supreme example of patience in the cause of Allah by describing the noble rank of martyrs.",
+ "context_bn": "ধৈর্য ও আত্মত্যাগের সর্বোচ্চ দৃষ্টান্ত হিসেবে আল্লাহর পথে জীবন উৎসর্গকারী শহীদদের সুউচ্চ মর্যাদার কথা তুলে ধরা হয়েছে।",
+ "themes": [
+  "struggle in Allah's way",
+  "the unseen",
+  "reward",
+  "faith"
+ ],
+ "kinds": [
+  "prohibition",
+  "belief",
+  "glad-tidings"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are forbidden to describe those slain in the path of Allah as lifeless or dead like ordinary deaths.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Martyrs enjoy a special, real life of honor and provision with Allah in the realm of Barzakh.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "The nature of the martyrs' life in Barzakh cannot be perceived through human physical senses and is known only through revelation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

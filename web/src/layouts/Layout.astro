@@ -44,12 +44,12 @@ const {
     <header class="site-header">
       <div class="container nav-container">
         <a href="/" class="logo">
-          <span class="logo-symbol">۞</span>
+          <span class="logo-symbol" aria-hidden="true">۞</span>
           <span>QuranGraph</span>
         </a>
 
-        <nav>
-          <ul class="nav-links">
+        <nav aria-label="Main Navigation">
+          <ul class="nav-links" id="main-nav-links">
             <li><a href="/" class="nav-link">Home</a></li>
             <li><a href="/surahs" class="nav-link">Surahs</a></li>
             <li><a href="/search" class="nav-link">Search</a></li>
@@ -63,6 +63,9 @@ const {
         <div class="header-controls">
           <button id="theme-toggle" class="btn-icon" aria-label="Toggle visual theme">
             🌓 Theme
+          </button>
+          <button id="mobile-nav-toggle" class="mobile-menu-btn" aria-label="Toggle navigation menu" aria-expanded="false">
+            ☰
           </button>
         </div>
       </div>
@@ -115,6 +118,13 @@ const {
         const next = themes[nextIdx];
         document.documentElement.setAttribute("data-theme", next);
         localStorage.setItem("qg_theme", next);
+      });
+
+      const navToggle = document.getElementById("mobile-nav-toggle");
+      const navLinks = document.getElementById("main-nav-links");
+      navToggle?.addEventListener("click", () => {
+        const isOpen = navLinks?.classList.toggle("open");
+        navToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
       });
     </script>
   </body>

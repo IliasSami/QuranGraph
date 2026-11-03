@@ -1,0 +1,179 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import entitiesData from "../../../../ingest/work/export/graph/entities.json" with { type: "json" };
+import corpusData from "../../lib/search/corpus.json" with { type: "json" };
+import surahsData from "../../lib/search/surahs.json" with { type: "json" };
+
+export function getStaticPaths() {
+  const entries = Object.entries(entitiesData as Record<string, any>);
+  return entries.map(([id, data]) => ({
+    params: { slug: id.replace(":", "-") },
+    props: { entity: data }
+  }));
+}
+
+const { entity } = Astro.props;
+
+// Build fast lookup for ayat
+const corpusMap = new Map();
+corpusData.forEach((c) => {
+  corpusMap.set(`${c.s}:${c.a}`, c);
+});
+
+const surahMap = new Map();
+surahsData.forEach((s) => {
+  surahMap.set(s.id, s);
+});
+
+const connectedAyat = (entity.ayat || []).map((ref: string) => {
+  const item = corpusMap.get(ref);
+  const [sIdStr, aNumStr] = ref.split(":");
+  const sId = parseInt(sIdStr, 10);
+  const aNum = parseInt(aNumStr, 10);
+  const s = surahMap.get(sId);
+  return {
+    ref,
+    sId,
+    aNum,
+    surahName: s ? s.name_translit : `Surah ${sId}`,
+    surahNameBn: s ? s.name_bn : "",
+    ar: item ? item.ar : "",
+    en: item ? item.en : "",
+    bn: item ? item.bn : ""
+  };
+});
+
+const typeLabels: Record<string, string> = {
+  person: "Historical / Prophetic Figure",
+  place: "Sacred Geography / Place",
+  nation: "Historical Nation / Tribe",
+  name_of_allah: "Divine Name of Allah (Asma ul-Husna)",
+  unseen: "Unseen Realm (Ghayb)",
+  glossary: "Quranic & Theological Term"
+};
+---
+
+<Layout title={`${entity.label_en} — Quran Knowledge Graph Entity`}>
+  <div style="padding: 3rem 0;">
+    <div class="container" style="max-width: 860px;">
+      <!-- Breadcrumb -->
+      <nav aria-label="Breadcrumb" style="margin-bottom: 2rem; font-size: 0.9rem; color: var(--text-muted);">
+        <a href="/graph">Knowledge Graph</a> / <span>Entities</span> / <span>{entity.label_en}</span>
+      </nav>
+
+      <!-- Entity Hero Card -->
+      <article class="card" style="padding: 2.5rem 1.5rem; margin-bottom: 2rem; border-top: 4px solid var(--accent-teal);">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.75rem;">
+          <span class="badge badge-teal" style="font-size: 0.85rem; padding: 0.35rem 0.75rem;">
+            {typeLabels[entity.type] || entity.type}
+          </span>
+          {entity.properties?.wikidata && (
+            <a
+              href={`https://www.wikidata.org/wiki/${entity.properties.wikidata}`}
+              target="_blank"
+              rel="noopener"
+              style="font-size: 0.85rem; color: var(--text-muted); text-decoration: none;"
+            >
+              Wikidata: {entity.properties.wikidata} ↗
+            </a>
+          )}
+        </div>
+
+        <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 1rem; flex-wrap: wrap; gap: 1rem;">
+          <div>
+            <h1 style="font-size: 2.2rem; font-weight: 800; color: var(--text-main); margin-bottom: 0.25rem;">
+              {entity.label_en}
+            </h1>
+            <div class="bangla-text" lang="bn" style="font-size: 1.25rem; color: var(--text-muted);">
+              {entity.label_bn}
+            </div>
+          </div>
+          {entity.label_ar && (
+            <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 2.5rem; color: var(--accent-teal);">
+              {entity.label_ar}
+            </div>
+          )}
+        </div>
+
+        <!-- Entity Metadata Grid -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border-color);">
+          {entity.properties?.role && (
+            <div>
+              <div style="font-size: 0.75rem; text-transform: uppercase; font-weight: 700; color: var(--text-muted);">Role</div>
+              <div style="font-weight: 600; text-transform: capitalize;">{entity.properties.role}</div>
+            </div>
+          )}
+          {entity.properties?.lat && entity.properties?.lon && (
+            <div>
+              <div style="font-size: 0.75rem; text-transform: uppercase; font-weight: 700; color: var(--text-muted);">GPS Coordinates</div>
+              <div style="font-weight: 600;">
+                <a href={`https://www.google.com/maps?q=${entity.properties.lat},${entity.properties.lon}`} target="_blank" rel="noopener">
+                  {entity.properties.lat.toFixed(4)}, {entity.properties.lon.toFixed(4)} ↗
+                </a>
+              </div>
+            </div>
+          )}
+          {entity.properties?.meaning_en && (
+            <div>
+              <div style="font-size: 0.75rem; text-transform: uppercase; font-weight: 700; color: var(--text-muted);">Meaning</div>
+              <div style="font-weight: 600;">{entity.properties.meaning_en}</div>
+            </div>
+          )}
+          <div>
+            <div style="font-size: 0.75rem; text-transform: uppercase; font-weight: 700; color: var(--text-muted);">Quranic Mentions</div>
+            <div style="font-weight: 600; color: var(--accent-teal);">{entity.connected_ayat_count} verses</div>
+          </div>
+        </div>
+
+        {entity.properties?.aliases && entity.properties.aliases.length > 0 && (
+          <div style="margin-top: 1rem; font-size: 0.85rem; color: var(--text-muted);">
+            <span style="font-weight: 600;">Also known as:</span> {entity.properties.aliases.join(", ")}
+          </div>
+        )}
+      </article>
+
+      <!-- Connected Ayat List -->
+      <section class="card">
+        <h2 style="font-size: 1.3rem; font-weight: 700; margin-bottom: 0.5rem; color: var(--text-main);">
+          Quranic Verses Mentioning {entity.label_en} ({connectedAyat.length})
+        </h2>
+        <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.5rem;">
+          Verses in the Holy Quran where this entity appears or is addressed.
+        </p>
+
+        <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+          {connectedAyat.map((m: any) => (
+            <article style="padding-bottom: 1.5rem; border-bottom: 1px solid var(--border-color);">
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+                <div style="font-size: 0.9rem; font-weight: 700; color: var(--accent-teal);">
+                  {m.surahName} ({m.ref}) <span class="bangla-text" lang="bn" style="color: var(--text-muted); font-weight: normal;">— {m.surahNameBn}</span>
+                </div>
+                <a href={`/ayah/${m.sId}/${m.aNum}`} style="font-size: 0.85rem; font-weight: 600;">
+                  Study Ayah →
+                </a>
+              </div>
+
+              {m.ar && (
+                <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.6rem; margin-bottom: 0.75rem; color: var(--text-arabic);">
+                  {m.ar}
+                </div>
+              )}
+
+              {m.en && (
+                <div style="font-size: 0.95rem; line-height: 1.55; color: var(--text-main); margin-bottom: 0.4rem;">
+                  {m.en}
+                </div>
+              )}
+
+              {m.bn && (
+                <div class="bangla-text" lang="bn" style="font-size: 0.9rem; line-height: 1.65; color: var(--text-muted);">
+                  {m.bn}
+                </div>
+              )}
+            </article>
+          ))}
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

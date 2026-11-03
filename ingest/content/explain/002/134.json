@@ -1,0 +1,94 @@
+{
+ "id": "2:134",
+ "simple_en": "Those past prophets and their people were a community that has already departed. They will receive what they earned through their deeds, and you will receive what you earn through yours. You will not be questioned about their actions, nor will their righteousness rescue someone who does not believe.",
+ "simple_bn": "সেই নবীগণ ও তাঁদের অনুসারীরা ছিলেন এক অতীত জাতি, যারা ইতিপূর্বে বিদায় নিয়েছেন। তাঁরা যা অর্জন করেছেন তা তাঁদের প্রাপ্য, আর তোমরা যা অর্জন করেছ তা তোমাদের। তাঁদের আমল সম্পর্কে তোমাদের প্রশ্ন করা হবে না, তেমনি নিজেদের আমল ছাড়া কেবল পূর্বপুরুষের মর্যাদা দিয়ে কেউ মুক্তি পাবে না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "أمم",
+   "lemma": "أُمَّة",
+   "meaning_en": "community / nation",
+   "meaning_bn": "উম্মত (জাতি)",
+   "why_en": "Refers to the past generations of prophets and their righteous followers."
+  },
+  {
+   "pos": 4,
+   "root": "خلو",
+   "lemma": "خَلا",
+   "meaning_en": "passed away (departed)",
+   "meaning_bn": "গত হয়ে গেছে (বিদায় নিয়েছে)",
+   "why_en": "Reminds us that each generation lives its allotted time and leaves its record behind."
+  },
+  {
+   "pos": 7,
+   "root": "كسب",
+   "lemma": "كَسَبَ",
+   "meaning_en": "she / it earned",
+   "meaning_bn": "তা অর্জন করেছে",
+   "why_en": "Affirms that every soul will be recompensed precisely according to its own deeds."
+  },
+  {
+   "pos": 12,
+   "root": "سأل",
+   "lemma": "سَأَلَ",
+   "meaning_en": "you will be questioned",
+   "meaning_bn": "তোমাদের প্রশ্ন করা হবে",
+   "why_en": "Highlights direct personal accountability before Allah on the Day of Judgment."
+  }
+ ],
+ "lesson_en": "Every soul is judged by its own faith and actions, not by the noble lineage or deeds of its ancestors.",
+ "lesson_bn": "পূর্বপুরুষের নেক আমলের ভরসায় পার পাওয়া যাবে না; আল্লাহর দরবারে প্রত্যেকে কেবল নিজের কাজের জন্য জবাবদিহি করবে।",
+ "real_life_en": "Never rely on your family background to feel safe before Allah. Having pious parents or grandparents is a blessing, but it does not replace your own prayers, truthfulness, and charity. Focus on improving your own record each day.",
+ "real_life_bn": "বংশ বা পরিবারের ভালো পরিচয়ের ওপর নির্ভর করে বসে থাকবেন না। পিতা-মাতা বা বংশধর যতই পরহেযগার হোন না কেন, আখেরাতে নিজের আমলই কাজে আসবে। তাই অন্যের ভালো কাজের প্রশংসায় সময় না কাটিয়ে নিজের নামাজ, সততা ও দানের দিকে মনোযোগ দিন।",
+ "context_en": "Warns against relying on the righteousness of noble ancestors, establishing that salvation requires personal faith and good deeds.",
+ "context_bn": "পূণ্যবান পূর্বপুরুষদের মর্যাদার ওপর অহংকার না করে আল্লাহর দরবারে নিজের আমলের ব্যক্তিগত জবাবদিহিতার প্রতি সতর্ক করা হয়েছে।",
+ "themes": [
+  "judgment",
+  "justice",
+  "past nations",
+  "reward",
+  "punishment",
+  "faith"
+ ],
+ "kinds": [
+  "warning",
+  "argument",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "past nations"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Past generations of prophets and their people have passed away, and each community is rewarded for what it earned.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "No person will be questioned about another's deeds, and ancestral piety cannot substitute for personal faith.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

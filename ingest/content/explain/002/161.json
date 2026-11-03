@@ -1,0 +1,107 @@
+{
+ "id": "2:161",
+ "simple_en": "Those who reject faith and die in disbelief without repenting are completely cut off from God's mercy. Because they chose to live and die in opposition to the truth, they receive the curse of Allah, the angels, and all people together. Repentance is accepted during life, but death in disbelief seals a person's eternal loss.",
+ "simple_bn": "যারা সত্য অস্বীকার করেছে এবং তওবা না করে কাফির অবস্থায় মৃত্যুবরণ করেছে, তারা আল্লাহর রহমত থেকে সম্পূর্ণ বিতাড়িত। তারা সত্যের বিরুদ্ধে অবিচল থেকে জীবন শেষ করায় তাদের ওপর আল্লাহ, ফেরেশতাগণ এবং সমগ্র মানবজাতির অভিশাপ পতিত হয়। জীবদ্দশায় তওবা করার সুযোগ থাকে, কিন্তু কুফরি অবস্থায় মৃত্যু চিরস্থায়ী ক্ষতি নির্ধারণ করে দেয়।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "كفر",
+   "lemma": "كَفَرَ",
+   "meaning_en": "disbelieved",
+   "meaning_bn": "কুফরি করেছে",
+   "why_en": "Highlights the active rejection of truth and guidance during worldly life."
+  },
+  {
+   "pos": 4,
+   "root": "موت",
+   "lemma": "ماتَ",
+   "meaning_en": "and died",
+   "meaning_bn": "এবং মৃত্যুবরণ করেছে",
+   "why_en": "Marks the final boundary of life after which repentance is no longer possible."
+  },
+  {
+   "pos": 9,
+   "root": "لعن",
+   "lemma": "لَعْنَة",
+   "meaning_en": "curse (expulsion from mercy)",
+   "meaning_bn": "অভিশাপ (রহমত থেকে দূরীকরণ)",
+   "why_en": "Signifies total expulsion and banishment from God's mercy."
+  },
+  {
+   "pos": 11,
+   "root": "ملك",
+   "lemma": "مَلَك",
+   "meaning_en": "and the angels",
+   "meaning_bn": "ও ফেরেশতাগণ",
+   "why_en": "Shows that even noble, sinless beings pray for the expulsion of unrepentant disbelievers."
+  },
+  {
+   "pos": 13,
+   "root": "جمع",
+   "lemma": "أَجْمَع",
+   "meaning_en": "all together",
+   "meaning_bn": "সকলের (সম্মিলিতভাবে)",
+   "why_en": "Emphasizes that condemnation falls upon them from every direction without exception."
+  }
+ ],
+ "lesson_en": "Turn to God in repentance before death closes the door of mercy.",
+ "lesson_bn": "মৃত্যু আসার আগেই তওবা করে আল্লাহর দিকে ফিরে আসুন, কারণ মৃত্যুর পর সংশোধনের আর কোনো সুযোগ থাকে না।",
+ "real_life_en": "Do not put off asking God for forgiveness or making things right with people you wronged. None of us knows when our final hour will arrive, so renewing sincere repentance daily protects our soul.",
+ "real_life_bn": "কারো হক নষ্ট করে থাকলে বা ভুল পথে থাকলে তাওবা পিছিয়ে দেবেন না। জীবনের শেষ মুহূর্ত কখন আসবে তা আমরা কেউ জানি না, তাই প্রতিদিন নিজের ভুল শুধরে নেওয়াই সচেতন মুমিনের কাজ।",
+ "context_en": "Connects to the previous verse about repentance by warning about those who refuse to repent until death seals their fate.",
+ "context_bn": "পূর্ববর্তী আয়াতে তওবার গুরুত্বের পর এখানে তওবা ছাড়া কুফরি অবস্থায় মৃত্যুবরণকারীদের ভয়াবহ পরিণতির কথা বলা হয়েছে।",
+ "themes": [
+  "disbelief",
+  "repentance",
+  "punishment",
+  "angels",
+  "The Last Day",
+  "death"
+ ],
+ "kinds": [
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who disbelieve and die upon disbelief without repenting are cursed by Allah by being removed from His mercy.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The angels and all of mankind curse those who die in disbelief, calling for their removal from divine mercy.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Repentance is accepted during life, but death in disbelief seals an irreversible punishment.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

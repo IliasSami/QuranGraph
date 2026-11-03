@@ -1,0 +1,117 @@
+{
+ "id": "2:97",
+ "simple_en": "Say to them, O Prophet: whoever is an enemy to the angel Gabriel should know that he only brought this Quran down to your heart by Allah's permission. The Quran confirms the earlier scriptures sent before it. It provides true guidance and brings glad news of eternal reward to the believers.",
+ "simple_bn": "হে নবী, আপনি বলুন: যে ব্যক্তি জিবরীলের শত্রু হবে, সে যেন জেনে রাখে যে তিনি তো আল্লাহর নির্দেশেই এ কুরআন আপনার অন্তরে নাযিল করেছেন। এই কুরআন পূর্ববর্তী কিতাবসমূহকে সত্যায়ন করে এবং মুমিনদের জন্য সঠিক পথের দিশা ও মহা আনন্দের সুসংবাদ বয়ে আনে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "عدو",
+   "lemma": "عَدُوّ",
+   "meaning_en": "an enemy",
+   "meaning_bn": "শত্রু",
+   "why_en": "Addresses the absurd claim made by some that the archangel Gabriel was their adversary."
+  },
+  {
+   "pos": 9,
+   "root": "قلب",
+   "lemma": "قَلْب",
+   "meaning_en": "your heart",
+   "meaning_bn": "আপনার অন্তর",
+   "why_en": "Indicates that the revelation was placed directly into the Prophet's heart with deep certainty and preservation."
+  },
+  {
+   "pos": 10,
+   "root": "أذن",
+   "lemma": "إِذْن",
+   "meaning_en": "permission and command",
+   "meaning_bn": "হুকুম বা অনুমতি",
+   "why_en": "Shows that Gabriel does not act on his own; he delivers divine revelation solely by Allah's command."
+  },
+  {
+   "pos": 17,
+   "root": "بشر",
+   "lemma": "بُشْرَى",
+   "meaning_en": "good tidings (glad news)",
+   "meaning_bn": "সুসংবাদ",
+   "why_en": "Describes the Quran as a bearer of glad tidings of Paradise and mercy for sincere believers."
+  }
+ ],
+ "lesson_en": "Rejecting the truth because you dislike the person or messenger who brings it is foolish and leads to misguidance.",
+ "lesson_bn": "বার্তাবাহকের প্রতি বিদ্বেষের কারণে সত্য বার্তাকে অস্বীকার করা চরম বোকামি, যা মানুষকে সঠিক পথ থেকে দূরে সরিয়ে দেয়।",
+ "real_life_en": "If someone shares a truthful correction from the Quran or Sunnah, accept it humbly. Never reject valuable truth just because you dislike the person who spoke it.",
+ "real_life_bn": "কেউ যদি আপনাকে কুরআন বা হাদিস থেকে কোনো সঠিক নসীহত করে, তবে তার প্রতি ব্যক্তিগত অসন্তুষ্টির কারণে সেই সত্য বর্জন করবেন না। বার্তা যিনিই পৌঁছান না কেন, আল্লাহর বিধানকে বিনীতভাবে গ্রহণ করাই বুদ্ধিমানের কাজ।",
+ "context_en": "Refutes the pretext used by some opponents who excused their rejection of the Prophet ﷺ by claiming hostility toward the angel Gabriel.",
+ "context_bn": "নবী মুহাম্মাদ ﷺ-এর কাছে ওহী নিয়ে আসা ফেরেশতা জিবরীল (আলাইহিস সালাম)-এর সাথে কথিত শত্রুতার অজুহাত তুলে সত্য অস্বীকারকারীদের এখানে জবাব দেওয়া হয়েছে।",
+ "themes": [
+  "angels",
+  "revelation",
+  "the Quran",
+  "prophethood",
+  "guidance",
+  "glad-tidings"
+ ],
+ "kinds": [
+  "argument",
+  "belief",
+  "glad-tidings",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "Muhammad ﷺ"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [
+   "Gabriel (Jibril)",
+   "angels"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran",
+   "Torah"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Gabriel brought down the Quran to the Prophet Muhammad ﷺ by Allah's command and permission, not of his own accord.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The Quran confirms previous scriptures that came before it, such as the Torah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The Quran serves as guidance and brings glad tidings of reward and bliss for the believers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": {
+  "text_en": "Some Jewish figures told the Prophet ﷺ that they would not follow him because Gabriel, whom they viewed as an angel of war and punishment, brought his revelation.",
+  "text_bn": "কিছু ইহুদি নবী ﷺ-কে বলেছিল যে তারা তাঁর ওপর ঈমান আনবে না কারণ তাঁর কাছে ওহী নিয়ে আসেন জিবরীল, যাঁকে তারা তাদের শত্রু মনে করত।",
+  "sources": [
+   "g-en-ibn-kathir",
+   "g-bn-ahsanul-bayan"
+  ],
+  "strength": "reported"
+ },
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

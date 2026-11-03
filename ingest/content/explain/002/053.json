@@ -1,0 +1,93 @@
+{
+ "id": "2:53",
+ "simple_en": "Remember when Allah gave Musa (peace be upon him) the Scripture, the Torah. He also gave him the Criterion to tell truth from falsehood and right from wrong. Allah sent this clear law so that you could find the right way and stay on it.",
+ "simple_bn": "স্মরণ করো, যখন আল্লাহ মূসা (আলাইহিস সালাম)-কে কিতাব অর্থাৎ তাওরাত এবং সত্য-মিথ্যার পার্থক্যকারী মানদণ্ড (ফুরকান) দান করেছিলেন। এই আসমানী বিধান স্পষ্ট জানিয়ে দেয় কোনটি সত্য আর কোনটি মিথ্যা, যেন তোমরা সঠিক পথের দিশা পাও এবং ভ্রষ্টতা থেকে বেঁচে থাকো।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "the Scripture",
+   "meaning_bn": "কিতাব (তাওরাত)",
+   "why_en": "The written revelation of the Torah revealed to Musa (peace be upon him) for his people."
+  },
+  {
+   "pos": 5,
+   "root": "فرق",
+   "lemma": "فُرْقان",
+   "meaning_en": "the Criterion",
+   "meaning_bn": "ফুরকান (পার্থক্যকারী মানদণ্ড)",
+   "why_en": "The standard that separates truth from falsehood, guidance from misguidance, and lawful from unlawful."
+  },
+  {
+   "pos": 7,
+   "root": "هدي",
+   "lemma": "اهْتَدَى",
+   "meaning_en": "you are guided",
+   "meaning_bn": "তোমরা হিদায়াত লাভ করো",
+   "why_en": "The goal of revelation is to guide people away from error toward the straight path."
+  }
+ ],
+ "lesson_en": "Allah gives us His holy book to help us tell right from wrong.",
+ "lesson_bn": "আল্লাহর বাণী আমাদের এমন এক নির্ভুল মানদণ্ড দেয়, যার সাহায্যে জীবনের প্রতিটি ক্ষেত্রে সত্য ও মিথ্যার পার্থক্য স্পষ্ট হয়ে ওঠে।",
+ "real_life_en": "People around you may follow trends that seem fun but lead to harm. Reading divine guidance helps you tell good choices from bad ones. It gives you a clear rule to live with honesty and peace.",
+ "real_life_bn": "সমাজে চারপাশের মানুষ অনেক সময় এমন পথে চলে যা সাময়িকভাবে আকর্ষণীয় মনে হলেও বাস্তবে ক্ষতিকর। আল্লাহর কিতাব মানুষকে ভালো ও মন্দের পার্থক্য বুঝতে সাহায্য করে এবং সৎ পথে চলতে দিকনির্দেশনা দেয়।",
+ "themes": [
+  "revelation",
+  "guidance",
+  "the Quran",
+  "Children of Israel",
+  "stories of the prophets"
+ ],
+ "kinds": [
+  "belief",
+  "promise",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "Musa"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "Torah"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah gave Musa the Scripture, which is the Torah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The Criterion (al-Furqan) separates truth from falsehood and guidance from misguidance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The revelation was given so that the Israelites could be guided to the truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

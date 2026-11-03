@@ -1,0 +1,100 @@
+{
+ "id": "2:78",
+ "simple_en": "Some among them are unlettered and do not know the scripture. They only know false hopes and stories taught by their leaders. In truth, they follow only guesswork instead of sound knowledge.",
+ "simple_bn": "তাদের মধ্যে এমন কিছু সাধারণ নিরক্ষর লোক রয়েছে, যারা ঐশী কিতাব সম্পর্কে কিছুই জানে না। তাদের নেতাদের শেখানো মিথ্যা আশ্বাস ও মনগড়া আশা ছাড়া কিতাবের প্রকৃত জ্ঞান তাদের নেই। তারা নিশ্চিত কোনো দলিলের ওপর নেই, বরং কেবল ভিত্তিহীন ধারণার ওপর নির্ভর করে চলে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "أمم",
+   "lemma": "أُمِّيّ",
+   "meaning_en": "unlettered people",
+   "meaning_bn": "নিরক্ষর বা সাধারণ মানুষ",
+   "why_en": "Refers to the laypeople who could neither read nor independently verify the scripture."
+  },
+  {
+   "pos": 5,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "the Scripture",
+   "meaning_bn": "কিতাব (তাওরাত)",
+   "why_en": "The divine revelation whose true teachings were hidden from the illiterate masses."
+  },
+  {
+   "pos": 7,
+   "root": "مني",
+   "lemma": "أُمْنِيَّت",
+   "meaning_en": "wishful thinking and desires",
+   "meaning_bn": "মিথ্যা আশা ও মনগড়া আকাঙ্ক্ষা",
+   "why_en": "Baseless myths and false hopes inherited from misleading teachers instead of sound knowledge."
+  },
+  {
+   "pos": 11,
+   "root": "ظنن",
+   "lemma": "ظَنَّ",
+   "meaning_en": "they merely conjecture",
+   "meaning_bn": "তারা শুধুই অমূলক ধারণা পোষণ করে",
+   "why_en": "Emphasizes that their religious assumptions were built on guesswork rather than certainty."
+  }
+ ],
+ "lesson_en": "Do not base your faith on wishful thinking; seek clear knowledge of what Allah revealed.",
+ "lesson_bn": "কেবল অন্ধ ধারণা ও মনগড়া আশার ওপর নির্ভর না করে আল্লাহর বাণীর সঠিক জ্ঞান অর্জন করুন।",
+ "real_life_en": "Some people think they are safe from punishment just because their family is religious, while they do no good deeds. Real faith is not based on wishful thinking, but on learning and obeying Allah.",
+ "real_life_bn": "বংশমর্যাদা বা ভালো মানুষের সন্তান হওয়ার কারণে নাজাত নিশ্চিত মনে করে আমল অবহেলা করবেন না। নিছক ধারণার ওপর নির্ভর না করে দ্বীনের মৌলিক বিষয়গুলো শিখুন এবং সে অনুযায়ী আমল করার চেষ্টা করুন।",
+ "context_en": "Contrasts the conniving scholars described earlier with the uneducated common folk who were led astray by false promises.",
+ "context_bn": "পূর্বের আয়াতে উল্লেখিত চতুর পণ্ডিতদের পর এবার সাধারণ নিরক্ষর লোকদের অবস্থা তুলে ধরা হয়েছে, যারা নেতাদের মিথ্যা আশ্বাসের ফাঁদে পড়ে সত্য থেকে দূরে ছিল।",
+ "themes": [
+  "knowledge",
+  "Children of Israel",
+  "human nature",
+  "guidance",
+  "misguidance"
+ ],
+ "kinds": [
+  "warning",
+  "argument",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "Torah"
+  ]
+ },
+ "claims": [
+  {
+   "text": "There was an unlettered group among the People of the Book who had no direct knowledge of the scripture.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Their understanding was restricted to false hopes and myths told to them by leaders.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "They relied entirely on baseless assumptions and conjecture rather than true knowledge.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

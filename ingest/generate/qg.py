@@ -318,6 +318,9 @@ def main():
         warned(int(args[0]), args[1])
     elif cmd == "stats":
         stats()
+    elif cmd in ("review-app", "review"):
+        import review_server as rs
+        rs.main()
     else:
         print(__doc__)
 

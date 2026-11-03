@@ -1,0 +1,114 @@
+{
+ "id": "2:80",
+ "simple_en": "They claim that the Fire of Hell will only touch them for a few days. Ask them if they have a true promise from Allah, since He never breaks His word, or if they are lying about Him without knowledge. Salvation comes from sincere faith and good deeds, not empty claims.",
+ "simple_bn": "তারা অহংকার করে বলে, ‘জাহান্নামের আগুন আমাদেরকে মাত্র কয়েকটা দিন ছাড়া কখনো স্পর্শ করবে না।’ হে নবী, তাদের বলুন: তোমরা কি আল্লাহর কাছ থেকে এমন কোনো অঙ্গীকার পেয়েছ? নিশ্চয়ই আল্লাহ তাঁর অঙ্গীকার ভঙ্গ করেন না। নাকি তোমরা আল্লাহ সম্পর্কে এমন কথা বলছ যা তোমরা নিজেরাও জানো না? বংশমর্যাদা নয়, কেবল ঈমান ও সৎকর্মই মানুষকে মুক্তি দিতে পারে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "مسس",
+   "lemma": "مَسَّ",
+   "meaning_en": "it will touch us",
+   "meaning_bn": "আমাদের স্পর্শ করবে",
+   "why_en": "Expresses their false belief that punishment would be light and brief."
+  },
+  {
+   "pos": 4,
+   "root": "نور",
+   "lemma": "نار",
+   "meaning_en": "the Fire",
+   "meaning_bn": "আগুন (জাহান্নাম)",
+   "why_en": "The severe punishment of Hell which they presumptuously claimed exemption from."
+  },
+  {
+   "pos": 7,
+   "root": "عدد",
+   "lemma": "مَعْدُودَة",
+   "meaning_en": "numbered and few",
+   "meaning_bn": "গুটিকয়েক বা সীমিত",
+   "why_en": "Highlights their claim that their punishment would last only a short, countable period."
+  },
+  {
+   "pos": 12,
+   "root": "عهد",
+   "lemma": "عَهْد",
+   "meaning_en": "a covenant or pledge",
+   "meaning_bn": "অঙ্গীকার বা চুক্তি",
+   "why_en": "The binding divine promise which they falsely presumed they possessed."
+  },
+  {
+   "pos": 23,
+   "root": "علم",
+   "lemma": "عَلِمَ",
+   "meaning_en": "you know",
+   "meaning_bn": "তোমরা জানো",
+   "why_en": "Exposes that their theological claims rested on utter ignorance and baseless fabrication."
+  }
+ ],
+ "lesson_en": "No one is saved by empty claims; real safety on Judgment Day comes from faith and good deeds.",
+ "lesson_bn": "আল্লাহর দরবারে কোনো বিশেষ দল বা জাতির জন্য কোনো পক্ষপাত নেই; মুক্তি মেলে কেবল খাঁটি ঈমান ও সৎকাজে।",
+ "real_life_en": "Do not assume that your family background or community will save you from the Fire. Pray every day, turn away from bad habits, and ask Allah for His mercy.",
+ "real_life_bn": "ধার্মিক পরিবারে জন্ম নিয়েছি বলেই আখিরাতে সহজেই পার পেয়ে যাব—এমন অলীক আশায় আমল অবহেলা করবেন না। প্রতিনিয়ত সালাত আদায়, হালাল উপার্জন ও মানুষের অধিকার রক্ষার মাধ্যমে আল্লাহর অনুগ্রহ কামনাই মুক্তির পথ।",
+ "context_en": "Refutes the myth of automatic ethnic or communal salvation held by those who felt immune to lasting consequences in the Hereafter.",
+ "context_bn": "কোনো বিশেষ জাতি বা গোষ্ঠীর জন্য জাহান্নাম থেকে নিশ্চিত রেহাই পাওয়ার ভ্রান্ত ধারণাকে যুক্তি ও সত্য দিয়ে খণ্ডন করা হয়েছে।",
+ "themes": [
+  "Hell",
+  "hereafter",
+  "judgment",
+  "arrogance",
+  "Children of Israel",
+  "reward",
+  "punishment"
+ ],
+ "kinds": [
+  "argument",
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [
+   "Muhammad ﷺ"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "Day of Judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "They falsely claimed that the fire of Hell would only afflict them for a few numbered days.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The Prophet ﷺ was instructed to challenge them on whether they had received a covenant from Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "They had no divine pledge and were merely fabricating falsehoods against Allah without knowledge.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

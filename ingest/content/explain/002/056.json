@@ -1,0 +1,83 @@
+{
+ "id": "2:56",
+ "simple_en": "After the lightning strike caused your death, Allah brought you back to life. He heard the prayer of Musa (peace be upon him) and revived you one by one so you could finish your lifespans. He showed you this great wonder so that you would thank Him and obey His commands.",
+ "simple_bn": "বজ্রাঘাতে তোমাদের মৃত্যু হওয়ার পর আল্লাহ অনুগ্রহ করে তোমাদের পুনরায় জীবিত করলেন। মূসা (আলাইহিস সালাম)-এর দোয়ার পর তিনি তোমাদের জীবন ফিরিয়ে দিলেন যেন তোমরা নির্ধারিত আয়ু পূর্ণ করতে পারো। এই অভাবনীয় অনুগ্রহ দেখানো হয়েছিল যাতে তোমরা আল্লাহর অসীম কুদরত প্রত্যক্ষ করে আন্তরিক কৃতজ্ঞতা প্রকাশ করো।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "بعث",
+   "lemma": "بَعَثَ",
+   "meaning_en": "We revived you",
+   "meaning_bn": "আমরা তোমাদের পুনরুজ্জীবিত করলাম",
+   "why_en": "Allah miraculously returned life to their bodies after they had died."
+  },
+  {
+   "pos": 5,
+   "root": "موت",
+   "lemma": "مَوْت",
+   "meaning_en": "your death",
+   "meaning_bn": "তোমাদের মৃত্যু",
+   "why_en": "Their actual physical death in the desert caused by the thunderbolt."
+  },
+  {
+   "pos": 7,
+   "root": "شكر",
+   "lemma": "شَكَرَ",
+   "meaning_en": "you show gratitude",
+   "meaning_bn": "তোমরা কৃতজ্ঞতা প্রকাশ করো",
+   "why_en": "Receiving life back after death demands lifelong thankfulness and obedience."
+  }
+ ],
+ "lesson_en": "Every day of life is a second chance from Allah to show real gratitude.",
+ "lesson_bn": "জীবনের প্রতিটি নতুন দিন মহান আল্লাহর এক পরম অনুগ্রহ, যা মানুষের কৃতজ্ঞচিত্তে সৎ পথে চলার সুযোগ করে দেয়।",
+ "real_life_en": "A driver survives a bad car crash without a scratch. When they see the crushed car, they realize how close death was. That close call makes them rethink their life, stop wasting time, and thank Allah with better deeds each day.",
+ "real_life_bn": "মারাত্মক কোনো দুর্ঘটনা বা কঠিন রোগ থেকে বেঁচে ফেরার পর মানুষ জীবনের আসল মূল্য বুঝতে পারে। তখন সে অতীত ভুল শুধরে নিয়ে আল্লাহর প্রতি কৃতজ্ঞ হয়ে দ্বীন ও কল্যাণের পথে সময় কাজে লাগায়।",
+ "themes": [
+  "resurrection",
+  "Allah's power",
+  "gratitude",
+  "Allah's mercy",
+  "Children of Israel"
+ ],
+ "kinds": [
+  "promise",
+  "belief",
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Musa"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah revived the Israelites after the thunderbolt caused their death.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah brought them back to life so they could complete their lives and show gratitude.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,112 @@
+{
+ "id": "2:83",
+ "simple_en": "Allah made a firm covenant with the Children of Israel. He commanded them to worship Him alone, show kindness to parents, and care for relatives, orphans, and the poor. He ordered them to speak gently and kindly to everyone, establish prayer, and give zakat. Yet most of them broke their promise and turned away.",
+ "simple_bn": "আল্লাহ বনি ইসরাঈলের কাছ থেকে এক দৃঢ় অঙ্গীকার নিয়েছিলেন। তিনি নির্দেশ দিয়েছিলেন কেবল তাঁরই ইবাদত করতে, পিতা-মাতার সাথে সদ্ব্যবহার করতে এবং আত্মীয়-স্বজন, এতিম ও অভাবগ্রস্তদের যত্ন নিতে। আরও নির্দেশ দিয়েছিলেন মানুষের সাথে সুন্দরভাবে কথা বলতে, সালাত কায়েম করতে এবং যাকাত দিতে। কিন্তু অল্প কয়েকজন ছাড়া তাদের অধিকাংশ লোকই এই চুক্তি ভঙ্গ করে মুখ ফিরিয়ে নিয়েছিল।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "وثق",
+   "lemma": "مِيثاق",
+   "meaning_en": "solemn covenant",
+   "meaning_bn": "দৃঢ় অঙ্গীকার",
+   "why_en": "A binding pledge taken by Allah that demanded complete obedience and loyalty."
+  },
+  {
+   "pos": 11,
+   "root": "حسن",
+   "lemma": "إِحْسان",
+   "meaning_en": "excellence and kindness",
+   "meaning_bn": "উত্তম ব্যবহার ও অনুগ্রহ",
+   "why_en": "Commands the highest standard of care and respect toward parents and relatives."
+  },
+  {
+   "pos": 18,
+   "root": "حسن",
+   "lemma": "حُسْن",
+   "meaning_en": "good speech",
+   "meaning_bn": "উত্তম কথা",
+   "why_en": "Requires speaking politely and gently to all human beings without harshness."
+  },
+  {
+   "pos": 20,
+   "root": "صلو",
+   "lemma": "صَلاة",
+   "meaning_en": "the prayer",
+   "meaning_bn": "সালাত",
+   "why_en": "The essential act of worship connecting the servant directly to Allah."
+  },
+  {
+   "pos": 22,
+   "root": "زكو",
+   "lemma": "زَكاة",
+   "meaning_en": "the purifying alms",
+   "meaning_bn": "যাকাত",
+   "why_en": "Obligatory financial charity to purify wealth and support those in need."
+  }
+ ],
+ "lesson_en": "Worshiping Allah goes hand in hand with showing kindness to parents, speaking gently, and helping people in need.",
+ "lesson_bn": "এক আল্লাহর ইবাদতের পাশাপাশি পিতা-মাতার সেবা করা, মানুষের সাথে উত্তম আচরণ করা এবং অভাবীকে সাহায্য করা ঈমানের অবিচ্ছেদ্য অংশ।",
+ "real_life_en": "Start your day by fulfilling Allah's rights through your morning prayer. Then speak kindly to your parents, check on an elderly relative, and speak with warmth and respect to colleagues and neighbors, regardless of who they are.",
+ "real_life_bn": "সালাতের মাধ্যমে আল্লাহর হক আদায় করুন এবং নিজের আচরণকে সুন্দর রাখুন। মা-বাবার সাথে নরম সুরে কথা বলুন, নিকটাত্মীয় ও অভাবীর খোঁজ নিন এবং অন্যের সাথে হাসিমুখে উত্তম ভাষায় কথা বলুন।",
+ "context_en": "Reminds the Children of Israel of the core moral duties that Allah laid down in all prophetic messages, which their ancestors broke.",
+ "context_bn": "বনি ইসরাঈলকে তাদের পূর্বপুরুষদের কৃত সেই মূল অঙ্গীকারের কথা স্মরণ করিয়ে দেওয়া হয়েছে, যা প্রতিটি নবীর শরীয়তের মূল ভিত্তি ছিল।",
+ "themes": [
+  "tawhid",
+  "worship",
+  "prayer",
+  "zakat",
+  "parents",
+  "orphans",
+  "charity",
+  "keeping promises"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "ethics",
+  "law",
+  "story"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah took a binding covenant from the Children of Israel to worship Him alone without partners.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The covenant included treating parents with excellence and supporting relatives, orphans, and the poor.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "They were instructed to speak gently and pleasantly to people, perform prayer, and give zakat, but most broke the covenant.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

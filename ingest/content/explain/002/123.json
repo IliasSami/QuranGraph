@@ -1,0 +1,102 @@
+{
+ "id": "2:123",
+ "simple_en": "Allah warns everyone to prepare for the Day of Judgment. On that Day, no person will be able to help or bear the burden of another. No ransom or trade will be accepted to buy freedom from punishment. No intercession can help anyone without Allah's permission, and no one will find outside defenders to save them.",
+ "simple_bn": "আল্লাহ সেই কঠিন বিচার দিবসের ভয় করার নির্দেশ দিচ্ছেন, যার জন্য প্রস্তুতি নেওয়া প্রতিটি মানুষের কর্তব্য। সেই দিন কোনো ব্যক্তি অন্য কারো কোনো উপকারে আসবে না এবং কারো পক্ষ থেকে কোনো পাপের বোঝা বহন করবে না। কোনো মুক্তিপণ দিয়ে শাস্তি থেকে রেহাই পাওয়া যাবে না, আল্লাহর অনুমতি ছাড়া কারো সুপারিশ কাজে আসবে না এবং কোনো সাহায্যকারী তাদের রক্ষা করতে পারবে না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "وقي",
+   "lemma": "اتَّقَى",
+   "meaning_en": "fear (protect yourselves against)",
+   "meaning_bn": "তোমরা ভয় করো (বেঁচে থাকো)",
+   "why_en": "Commands believers to build a shield of righteous deeds against the terrors of the Day of Judgment."
+  },
+  {
+   "pos": 4,
+   "root": "جزي",
+   "lemma": "جَزَى",
+   "meaning_en": "will avail (compensate)",
+   "meaning_bn": "উপকারে আসবে (প্রতিদান দেবে)",
+   "why_en": "Highlights that on that Day every person must stand independently for their own deeds."
+  },
+  {
+   "pos": 12,
+   "root": "عدل",
+   "lemma": "عَدْل",
+   "meaning_en": "ransom (equivalent compensation)",
+   "meaning_bn": "বিনিময় বা মুক্তিপণ",
+   "why_en": "Signifies that worldly wealth and ransoms are entirely useless in saving someone from divine justice."
+  },
+  {
+   "pos": 15,
+   "root": "شفع",
+   "lemma": "شَفاعَة",
+   "meaning_en": "intercession",
+   "meaning_bn": "সুপারিশ",
+   "why_en": "Emphasizes that no unauthorized mediation can rescue a disbeliever or someone who died without faith."
+  }
+ ],
+ "lesson_en": "On the Last Day, each person must answer to God for their own deeds.",
+ "lesson_bn": "আখিরাতের আদালতে প্রত্যেক মানুষ তার নিজের ঈমান ও কর্মের জন্য ব্যক্তিগতভাবে দায়ী থাকবে, সেখানে কারও বংশ বা প্রভাব কাজে আসবে না।",
+ "real_life_en": "Do not rely on the good deeds or reputation of your parents, family, or friends to save you. Pray your own prayers, be honest in your own work, and turn to God in sincere repentance every day.",
+ "real_life_bn": "পরিবার বা মুরব্বিদের ভালো কাজের ওপর ভরসা করে নিজের আমল অবহেলা করবেন না। নিজের সালাত নিজে নিয়মিত আদায় করুন, সততার সাথে জীবিকা উপার্জন করুন এবং প্রতিদিন আল্লাহর কাছে খাঁটি দিলে ক্ষমা চান।",
+ "context_en": "Closes the warnings to Bani Isra'il by shattering false hopes of being saved by ancestry or unearned intercession.",
+ "context_bn": "বংশমর্যাদা বা কারও অন্ধ সুপারিশ মানুষকে আল্লাহর বিচার থেকে বাঁচাতে পারবে না—এই সত্য তুলে ধরে বনী ইসরাঈলের আলোচনার ইতি টানা হয়েছে।",
+ "themes": [
+  "The Last Day",
+  "judgment",
+  "resurrection",
+  "taqwa",
+  "punishment",
+  "intercession"
+ ],
+ "kinds": [
+  "warning",
+  "command",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Day of Judgment"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "Resurrection"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "On the Day of Judgment, no soul can carry the burden or compensate for another soul in any way.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "No ransom or substitute will be accepted on the Last Day to rescue anyone from divine punishment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "No intercession will benefit a person without Allah's permission, nor will any defender be able to help them against Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -675,10 +675,43 @@ class KnowledgeGraphBuilder:
                     "properties": n["properties"],
                     "pagerank": round(pagerank_scores.get(nid, 0.0), 6),
                     "connected_ayat_count": len(connected_ayat),
-                    "ayat": connected_ayat[:20]  # sample
+                    "ayat": connected_ayat[:50]  # sample up to 50
                 }
         with open(os.path.join(EXPORT_DIR, "entities.json"), "w", encoding="utf-8") as f:
             json.dump(entities_export, f, ensure_ascii=False, indent=2)
+
+        # Roots export
+        roots_export = {}
+        for nid, n in self.nodes.items():
+            if n["type"] == "root":
+                root_str = n["id"].replace("root:", "")
+                lemmas = sorted(list(set(
+                    e["target_id"].replace("lemma:", "")
+                    for e in self.edges
+                    if e["source_id"] == nid and e["rel_type"] == "root_has_lemma"
+                )))
+                ayat = sorted(list(set(
+                    e["source_id"].replace("ayah:", "")
+                    for e in self.edges
+                    if e["target_id"] == nid and e["rel_type"] == "has_root"
+                )), key=lambda x: [int(p) for p in x.split(":")])
+                roots_export[root_str] = {
+                    "root": root_str,
+                    "pagerank": round(pagerank_scores.get(nid, 0.0), 6),
+                    "occurrences": len(ayat),
+                    "lemmas": lemmas,
+                    "ayat": ayat[:50],
+                    "total_ayat": len(ayat)
+                }
+        with open(os.path.join(EXPORT_DIR, "roots.json"), "w", encoding="utf-8") as f:
+            json.dump(roots_export, f, ensure_ascii=False, indent=2)
+
+        # Stories export
+        stories_file = os.path.join(KB_DIR, "stories.json")
+        if os.path.exists(stories_file):
+            stories_raw = load_json(stories_file)
+            with open(os.path.join(EXPORT_DIR, "stories.json"), "w", encoding="utf-8") as f:
+                json.dump(stories_raw, f, ensure_ascii=False, indent=2)
 
         # Themes export
         themes_export = {}

@@ -1,0 +1,91 @@
+{
+ "id": "2:104",
+ "simple_en": "Allah guides believers to choose respectful words when speaking to the Prophet Muhammad ﷺ. They were told not to say words that others twisted to mock him. Instead, they should ask him politely to look at them and wait for them to understand. Believers must always listen with care and obey. Those who reject the truth will face a painful punishment.",
+ "simple_bn": "আল্লাহ মুমিনদেরকে সুন্দর ও সুস্পষ্ট শব্দ ব্যবহার করে কথা বলার নির্দেশ দিয়েছেন। রাসূলুল্লাহ ﷺ-কে সম্বোধন করার সময় এমন কোনো দ্ব্যর্থবোধক শব্দ বলতে নিষেধ করা হয়েছে, যা বিকৃত করে উপহাস করার সুযোগ তৈরি হয়। এর পরিবর্তে সম্মানজনক স্পষ্ট শব্দে অপেক্ষা করার অনুরোধ করতে এবং মনোযোগ দিয়ে তাঁর কথা শুনতে বলা হয়েছে। আর যারা সত্য প্রত্যাখ্যান করে বিদ্রূপ করে, তাদের জন্য রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "رعي",
+   "lemma": "راعِ",
+   "meaning_en": "consider us / look after us",
+   "meaning_bn": "আমাদের প্রতি লক্ষ্য রাখুন",
+   "why_en": "A word prohibited here because ill-wishers exploited its ambiguity to mock the Prophet ﷺ."
+  },
+  {
+   "pos": 8,
+   "root": "نظر",
+   "lemma": "نَظَرَ",
+   "meaning_en": "look upon us / wait for us",
+   "meaning_bn": "আমাদের দিকে তাকান বা একটু অপেক্ষা করুন",
+   "why_en": "A clear and respectful alternative commanded by Allah to avoid any misunderstanding."
+  },
+  {
+   "pos": 9,
+   "root": "سمع",
+   "lemma": "سَمِعَ",
+   "meaning_en": "and listen",
+   "meaning_bn": "এবং শুনুন",
+   "why_en": "Calls for attentive and obedient listening rather than repeatedly asking for re-explanation."
+  }
+ ],
+ "lesson_en": "Choose clear, respectful words that leave no room for misunderstanding or ill-intent.",
+ "lesson_bn": "কথাবার্তায় সর্বদা স্পষ্ট ও মার্জিত শব্দ বেছে নেওয়া উচিত, যাতে কোনো ভুল বোঝাবুঝি বা অসম্মানের সুযোগ না থাকে।",
+ "real_life_en": "Speak with clear words when you talk to parents, teachers, and friends. Avoid sly remarks that can hurt feelings. Choose kind words and listen well when others speak.",
+ "real_life_bn": "কথা বলা বা বার্তা পাঠানোর সময় দ্ব্যর্থবোধক কিংবা খোঁচা দেওয়া শব্দ পরিহার করুন। কর্মক্ষেত্রে বা পরিবারে কারও সাথে কথা বলার সময় এমন স্পষ্ট ও বিনম্র ভাষা ব্যবহার করুন যাতে অপর পক্ষ কষ্ট না পায়।",
+ "context_en": "Teaches believers how to protect the dignity of the Prophet ﷺ against subtle verbal disrespect.",
+ "context_bn": "নবীজি ﷺ-এর মর্যাদা রক্ষা এবং কথার বিকৃতি রোধে বিশ্বাসীদেরকে আদব ও সতর্কতার শিক্ষা দেওয়া হয়েছে।",
+ "themes": [
+  "good character",
+  "ethics",
+  "Prophet Muhammad ﷺ",
+  "warning",
+  "punishment"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "ethics",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers were instructed not to use ambiguous words like 'ra'ina' when addressing the Prophet Muhammad ﷺ to prevent ill-wishers from twisting the word to insult him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "They were commanded to use unambiguous, respectful terms like 'unzurna' and to listen with attentive obedience.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Those who persist in disbelief and mockery face a painful punishment in the Hereafter.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,136 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import rootsData from "../../../../ingest/work/export/graph/roots.json" with { type: "json" };
+import corpusData from "../../lib/search/corpus.json" with { type: "json" };
+import surahsData from "../../lib/search/surahs.json" with { type: "json" };
+
+export function getStaticPaths() {
+  const entries = Object.entries(rootsData as Record<string, any>);
+  return entries.map(([rootKey, data]) => ({
+    params: { slug: rootKey },
+    props: { rootData: data }
+  }));
+}
+
+const { rootData } = Astro.props;
+
+// Build fast lookup for ayat
+const corpusMap = new Map();
+corpusData.forEach((c) => {
+  corpusMap.set(`${c.s}:${c.a}`, c);
+});
+
+const surahMap = new Map();
+surahsData.forEach((s) => {
+  surahMap.set(s.id, s);
+});
+
+const matchingAyat = (rootData.ayat || []).map((ref: string) => {
+  const item = corpusMap.get(ref);
+  const [sIdStr, aNumStr] = ref.split(":");
+  const sId = parseInt(sIdStr, 10);
+  const aNum = parseInt(aNumStr, 10);
+  const s = surahMap.get(sId);
+  return {
+    ref,
+    sId,
+    aNum,
+    surahName: s ? s.name_translit : `Surah ${sId}`,
+    surahNameBn: s ? s.name_bn : "",
+    ar: item ? item.ar : "",
+    en: item ? item.en : "",
+    bn: item ? item.bn : ""
+  };
+});
+---
+
+<Layout title={`Root ${rootData.root} — Quranic Occurrences & Derived Words`}>
+  <div style="padding: 3rem 0;">
+    <div class="container" style="max-width: 860px;">
+      <!-- Breadcrumb -->
+      <nav aria-label="Breadcrumb" style="margin-bottom: 2rem; font-size: 0.9rem; color: var(--text-muted);">
+        <a href="/graph">Knowledge Graph</a> / <span>Arabic Roots</span> / <span class="arabic-text" lang="ar" dir="rtl">{rootData.root}</span>
+      </nav>
+
+      <!-- Root Hero Card -->
+      <div class="card" style="text-align: center; padding: 2.5rem 1.5rem; margin-bottom: 2rem; border-top: 4px solid var(--accent-teal);">
+        <div style="font-size: 0.85rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem; letter-spacing: 0.05em;">
+          Quranic Triliteral Root
+        </div>
+        <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 4rem; color: var(--accent-teal); line-height: 1.2; margin-bottom: 1rem;">
+          {rootData.root}
+        </div>
+        <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+          <span class="badge badge-teal" style="font-size: 0.85rem; padding: 0.4rem 0.85rem;">
+            {rootData.occurrences} Quranic occurrences
+          </span>
+          <span class="badge badge-gold" style="font-size: 0.85rem; padding: 0.4rem 0.85rem;">
+            {rootData.lemmas?.length || 0} derived lemmas
+          </span>
+          <a href={`/search?q=${encodeURIComponent(rootData.root)}`} class="badge" style="background: var(--bg-subtle); color: var(--text-main); text-decoration: none; font-size: 0.85rem; padding: 0.4rem 0.85rem;">
+            🔍 Search in Quran
+          </a>
+        </div>
+      </div>
+
+      <!-- Derived Lemmas -->
+      {rootData.lemmas && rootData.lemmas.length > 0 && (
+        <section class="card" style="margin-bottom: 2rem;">
+          <h2 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 1rem; color: var(--text-main);">
+            Derived Lemmas (শব্দমূল ও রূপভেদ)
+          </h2>
+          <div style="display: flex; gap: 0.65rem; flex-wrap: wrap;">
+            {rootData.lemmas.map((lem: string) => (
+              <span class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.35rem; padding: 0.35rem 0.75rem; background: var(--bg-subtle); border: 1px solid var(--border-color); border-radius: var(--radius-sm); color: var(--accent-teal);">
+                {lem}
+              </span>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <!-- Matching Verses -->
+      <section class="card">
+        <h2 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem; color: var(--text-main);">
+          Occurrences Across Ayat ({matchingAyat.length} shown)
+        </h2>
+        <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.5rem;">
+          Explore verses containing words derived from root <span class="arabic-text" lang="ar" dir="rtl">{rootData.root}</span>.
+        </p>
+
+        <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+          {matchingAyat.map((m: any) => (
+            <article style="padding-bottom: 1.5rem; border-bottom: 1px solid var(--border-color);">
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+                <div style="font-size: 0.9rem; font-weight: 700; color: var(--accent-teal);">
+                  {m.surahName} ({m.ref}) <span class="bangla-text" lang="bn" style="color: var(--text-muted); font-weight: normal;">— {m.surahNameBn}</span>
+                </div>
+                <a href={`/ayah/${m.sId}/${m.aNum}`} style="font-size: 0.85rem; font-weight: 600;">
+                  Study Ayah →
+                </a>
+              </div>
+
+              {m.ar && (
+                <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.6rem; margin-bottom: 0.75rem; color: var(--text-arabic);">
+                  {m.ar}
+                </div>
+              )}
+
+              {m.en && (
+                <div style="font-size: 0.95rem; line-height: 1.55; color: var(--text-main); margin-bottom: 0.4rem;">
+                  {m.en}
+                </div>
+              )}
+
+              {m.bn && (
+                <div class="bangla-text" lang="bn" style="font-size: 0.9rem; line-height: 1.65; color: var(--text-muted);">
+                  {m.bn}
+                </div>
+              )}
+            </article>
+          ))}
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

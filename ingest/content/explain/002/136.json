@@ -1,0 +1,107 @@
+{
+ "id": "2:136",
+ "simple_en": "Allah tells the believers to declare their faith in Him and in the Quran. They must also believe in what was given to Ibrahim (peace be upon him), Isma'il, Ishaq, Ya'qub, and the Tribes. They must accept what came to Musa, 'Isa, and all the prophets from their Lord. Muslims do not divide between any of the prophets, and they submit to Allah alone.",
+ "simple_bn": "আল্লাহ মুমিনদের নির্দেশ দিয়েছেন এই ঘোষণা করতে যে, আমরা আল্লাহ এবং আমাদের ওপর নাজিল হওয়া কুরআনে বিশ্বাস করি। একই সাথে ইবরাহীম, ইসমাঈল, ইসহাক, ইয়াকুব ও তাঁর বংশধরদের কাছে প্রেরিত বাণী এবং মূসা, ঈসা ও অন্যান্য সকল নবীকে প্রদত্ত কিতাবেও আমরা ঈমান রাখি। আমরা নবীদের মাঝে কোনো পার্থক্য করি না এবং আল্লাহর কাছেই সম্পূর্ণ আত্মসমর্পণ করি।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "أمن",
+   "lemma": "آمَنَ",
+   "meaning_en": "we have believed",
+   "meaning_bn": "আমরা ঈমান এনেছি",
+   "why_en": "Affirms the comprehensive articles of faith that every believer must profess with conviction."
+  },
+  {
+   "pos": 14,
+   "root": "سبط",
+   "lemma": "أَسْباط",
+   "meaning_en": "the Tribes (descendants of Ya'qub)",
+   "meaning_bn": "বংশধরগণ (আসবাত)",
+   "why_en": "Refers to the twelve tribes descended from Ya'qub (peace be upon him) who received prophets and guidance."
+  },
+  {
+   "pos": 25,
+   "root": "فرق",
+   "lemma": "فَرَّقُ",
+   "meaning_en": "we make distinction",
+   "meaning_bn": "আমরা পার্থক্য করি",
+   "why_en": "Forbids rejecting any legitimate prophet, establishing unity among all divine messengers."
+  },
+  {
+   "pos": 31,
+   "root": "سلم",
+   "lemma": "مُسْلِم",
+   "meaning_en": "submitted (Muslims)",
+   "meaning_bn": "আত্মসমর্পণকারী (মুসলিম)",
+   "why_en": "Concludes that genuine faith requires complete submission to Allah alone."
+  }
+ ],
+ "lesson_en": "A believer respects and accepts all true prophets sent by Allah without rejecting any of them.",
+ "lesson_bn": "একজন প্রকৃত মুমিন আল্লাহর প্রেরিত সকল নবী ও আসমানী কিতাবকে সমানভাবে সম্মান করে এবং বিশ্বাস রাখে।",
+ "real_life_en": "When you talk about faith with others, remember that Islam honors earlier prophets like Musa and 'Isa (peace be upon them). Never speak disrespectfully about any true messenger of Allah. Maintaining broad respect while following the final revelation shows the strength of your faith.",
+ "real_life_bn": "অন্যান্য মানুষের সাথে কথা বলার সময় মনে রাখবেন যে ইসলাম মূসা ও ঈসা (আলাইহিমুস সালাম)-সহ সব নবীকে ভক্তি করার নির্দেশ দেয়। কোনো নবী সম্পর্কে কখনোই অশ্রদ্ধামূলক কথা বলবেন না। সব নবীর প্রতি সম্মান বজায় রেখে ইসলামের শেষ শিক্ষার ওপর অটল থাকাই মুমিনের কর্তব্য।",
+ "context_en": "Directs Muslims to proclaim their universal faith in all prophets and scriptures, contrasting with those who accept only some.",
+ "context_bn": "যারা কিছু নবীকে মানে আর কিছু নবীকে অস্বীকার করে তাদের বিপরীতে সকল নবী ও কিতাবের প্রতি সার্বজনীন ঈমান ঘোষণার নির্দেশ দেওয়া হয়েছে।",
+ "themes": [
+  "faith",
+  "prophethood",
+  "revelation",
+  "the Quran",
+  "tawhid",
+  "unity"
+ ],
+ "kinds": [
+  "command",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Ibrahim",
+   "Isma'il",
+   "Ishaq",
+   "Ya'qub",
+   "Musa",
+   "'Isa",
+   "Muhammad ﷺ"
+  ],
+  "nations": [
+   "the Tribes"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "the Quran",
+   "Torah",
+   "Gospel"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Believers are instructed to proclaim faith in Allah, the Quran, and what was revealed to Ibrahim, Isma'il, Ishaq, Ya'qub, the Tribes, Musa, 'Isa, and all prophets.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Muslims do not make distinctions by believing in some prophets and denying others, but surrender totally to Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

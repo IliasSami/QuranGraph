@@ -1,0 +1,109 @@
+{
+ "id": "2:146",
+ "simple_en": "Those who were given the Scripture know Prophet Muhammad ﷺ as clearly as they know their own sons, because of the descriptions in their books. Even so, a group among them deliberately hides the truth that has come to them, despite knowing it is real.",
+ "simple_bn": "যাদের কিতাব দেওয়া হয়েছিল তাদের পণ্ডিতরা রাসূলুল্লাহকে ﷺ ঠিক তেমনই চেনে যেমন তারা নিজেদের সন্তানদের চেনে। তাদের ধর্মগ্রন্থে তাঁর স্পষ্ট বর্ণনা থাকা সত্ত্বেও তাদের একদল জেনেবুঝে সত্যকে গোপন করে রাখে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "the Scripture",
+   "meaning_bn": "কিতাব",
+   "why_en": "Refers to the Torah and the Gospel which contained explicit descriptions of the final prophet."
+  },
+  {
+   "pos": 4,
+   "root": "عرف",
+   "lemma": "عَرَفَ",
+   "meaning_en": "they recognize him",
+   "meaning_bn": "তারা তাকে চেনে",
+   "why_en": "Indicates deep, undeniable familiarity based on prophetic signs in their texts."
+  },
+  {
+   "pos": 7,
+   "root": "بني",
+   "lemma": "ابْن",
+   "meaning_en": "their sons",
+   "meaning_bn": "তাদের সন্তানরা",
+   "why_en": "A striking comparison showing that a person never confuses their own child with anyone else."
+  },
+  {
+   "pos": 11,
+   "root": "كتم",
+   "lemma": "كَتَمَ",
+   "meaning_en": "they surely conceal",
+   "meaning_bn": "তারা অবশ্যই গোপন করে",
+   "why_en": "Exposes their deliberate suppression of prophetic descriptions out of envy."
+  },
+  {
+   "pos": 12,
+   "root": "حقق",
+   "lemma": "حَقّ",
+   "meaning_en": "the truth",
+   "meaning_bn": "সত্য",
+   "why_en": "Points to the genuine message of Islam and the prophethood of Muhammad ﷺ."
+  }
+ ],
+ "lesson_en": "Acknowledge the truth honestly and never hide what you know is right out of pride or envy.",
+ "lesson_bn": "অহংকার বা হিংসার বশবর্তী হয়ে সত্য গোপন না করে সততার সাথে তা গ্রহণ করা উচিত।",
+ "real_life_en": "If you see that someone else is right or more qualified than you for a task, admit it readily. Never withhold facts or downplay someone else's good work just to protect your own ego or status.",
+ "real_life_bn": "কাজের জায়গায় বা পারিবারিক আলোচনায় অন্য কারও মত সঠিক হলে তা অকপটে স্বীকার করুন। নিজের অহংকার রক্ষা করতে গিয়ে বা হিংসাবশত সত্য চেপে রাখবেন না কিংবা অন্যের যোগ্যতা অস্বীকার করবেন না।",
+ "context_en": "Reveals that the scholars among the People of the Book possessed undeniable knowledge of the Prophet's ﷺ authenticity.",
+ "context_bn": "আহলে কিতাবের আলেমদের মনোভাব তুলে ধরা হয়েছে, যারা নিজস্ব কিতাবের লক্ষণ দেখেও সত্যকে অস্বীকার করত।",
+ "themes": [
+  "prophethood",
+  "People of the Book",
+  "revelation",
+  "honesty",
+  "arrogance",
+  "knowledge"
+ ],
+ "kinds": [
+  "argument",
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Muhammad ﷺ"
+  ],
+  "nations": [
+   "People of the Book",
+   "Jews",
+   "Christians"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "Torah",
+   "Gospel"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The scholars of the People of the Book recognized Prophet Muhammad ﷺ and his qualities as distinctly as they recognized their own children.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "A group among them deliberately concealed the truth about the Prophet ﷺ and the change of the qiblah despite having full knowledge of it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

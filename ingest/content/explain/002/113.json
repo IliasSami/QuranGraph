@@ -1,0 +1,106 @@
+{
+ "id": "2:113",
+ "simple_en": "The Jews claimed that the Christians have no true faith, and the Christians claimed the same about the Jews. Yet both groups read holy books that taught them the truth. People who had no book made similar claims. On the Day of Resurrection, Allah will judge between them and settle all their disputes.",
+ "simple_bn": "ইহুদিরা দাবি করল খ্রিস্টানদের কোনো সত্য দ্বীন নেই, আবার খ্রিস্টানরাও দাবি করল ইহুদিদের কোনো সত্য দ্বীন নেই। অথচ তারা উভয়েই কিতাব পাঠ করত। আর যাদের কাছে কিতাব ছিল না, সেই মূর্খরাও এদের মতো একই কথা বলত। কেয়ামতের দিন আল্লাহ তাদের সব মতবিরোধের চূড়ান্ত ফায়সালা করে দেবেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "هود",
+   "lemma": "يَهُود",
+   "meaning_en": "the Jews",
+   "meaning_bn": "ইহুদিরা",
+   "why_en": "One of the two disputing religious communities addressed in the ayah."
+  },
+  {
+   "pos": 4,
+   "root": "نصر",
+   "lemma": "نَصْرانِيّ",
+   "meaning_en": "the Christians",
+   "meaning_bn": "খ্রিস্টানরা",
+   "why_en": "The other community engaged in mutual denial despite sharing scriptural heritage."
+  },
+  {
+   "pos": 15,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "the Scripture",
+   "meaning_bn": "কিতাব (ঐশী গ্রন্থ)",
+   "why_en": "Highlights the paradox that both groups possessed divine books yet rejected each other entirely."
+  },
+  {
+   "pos": 24,
+   "root": "حكم",
+   "lemma": "حَكَمَ",
+   "meaning_en": "He will judge",
+   "meaning_bn": "তিনি ফায়সালা করবেন",
+   "why_en": "Affirms that ultimate resolution of human religious disputes belongs to Allah alone."
+  }
+ ],
+ "lesson_en": "Do not look down on others, because Allah alone is the final judge.",
+ "lesson_bn": "কিতাবের জ্ঞান থাকা সত্ত্বেও অহংকার ও হিংসার বশবর্তী হলে মানুষ সত্য অস্বীকার করে চরম বিদ্বেষে লিপ্ত হয়।",
+ "real_life_en": "Avoid angry debates about who is saved. Treat others with justice and ask Allah to guide your heart to what is right.",
+ "real_life_bn": "ধর্মীয় বিষয়ে অন্ধ গোঁড়ামি বা বিদ্বেষ পরিহার করুন। অন্যের মত যাচাই করার ক্ষেত্রে ক্রোধ বা পক্ষপাতের বদলে কুরআন ও সুন্নাহর সঠিক দলিলের ওপর নির্ভর করুন।",
+ "context_en": "Exposes how sectarian rivalry caused both groups to dismiss each other despite possessing divine scriptures.",
+ "context_bn": "কিতাব থাকা সত্ত্বেও ইহুদি ও খ্রিস্টানরা কীভাবে পরস্পরকে চরম বিদ্বেষে অস্বীকার করেছিল তা তুলে ধরা হয়েছে।",
+ "themes": [
+  "Children of Israel",
+  "judgment",
+  "the Last Day",
+  "arrogance",
+  "knowledge",
+  "revelation"
+ ],
+ "kinds": [
+  "argument",
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Jews",
+   "Christians"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Resurrection"
+  ],
+  "things": [
+   "Torah",
+   "Gospel"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The Jews claimed that the Christians had no valid religious basis, and the Christians made the identical claim against the Jews.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Both groups held these mutual accusations even though they recited scriptures that confirmed the fundamental truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Ignorant people with no scripture echoed the same baseless claims, and Allah will judge between all of them on the Day of Resurrection.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

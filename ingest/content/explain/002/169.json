@@ -1,0 +1,108 @@
+{
+ "id": "2:169",
+ "simple_en": "Satan's goal is entirely destructive. He pushes people toward harmful sins and shameful, immoral acts. Worst of all, he tempts people to speak about God without knowledge, inventing false teachings and claiming things are allowed or forbidden without divine authority. Following these whispers leads directly into spiritual darkness and misguidance.",
+ "simple_bn": "শয়তানের উদ্দেশ্য সর্বদাই ধ্বংসাত্মক। সে মানুষকে অন্যায় কাজ ও অশ্লীলতার দিকে পরিচালিত করতে চায়। সবচেয়ে মারাত্মক হলো, সে মানুষকে আল্লাহর দ্বীন সম্পর্কে অজ্ঞতাবশত মনগড়া কথা বলতে এবং কোনো প্রমাণ ছাড়াই বিধান তৈরি করতে প্ররোচিত করে। শয়তানের এই কুমন্ত্রণা মানুষকে পথভ্রষ্টতা ও আত্মিক অন্ধকারের দিকে ঠেলে দেয়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "أمر",
+   "lemma": "أَمَرَ",
+   "meaning_en": "he orders you",
+   "meaning_bn": "সে তোমাদেরকে নির্দেশ দেয়",
+   "why_en": "Describes Satan's relentless whispers urging people toward corruption."
+  },
+  {
+   "pos": 3,
+   "root": "سوأ",
+   "lemma": "سُوء",
+   "meaning_en": "evil (harmful deeds)",
+   "meaning_bn": "মন্দ বা ক্ষতিকর কাজ",
+   "why_en": "Encompasses all sins that harm the soul and damage society."
+  },
+  {
+   "pos": 4,
+   "root": "فحش",
+   "lemma": "فَحْشاء",
+   "meaning_en": "and immorality (indecency)",
+   "meaning_bn": "ও অশ্লীলতা",
+   "why_en": "Refers to shameless, offensive transgressions whose ugliness is evident."
+  },
+  {
+   "pos": 6,
+   "root": "قول",
+   "lemma": "قالَ",
+   "meaning_en": "you say",
+   "meaning_bn": "তোমরা বলো",
+   "why_en": "Points to making unfounded statements about sacred truth and law."
+  },
+  {
+   "pos": 11,
+   "root": "علم",
+   "lemma": "عَلِمَ",
+   "meaning_en": "you know",
+   "meaning_bn": "তোমরা জানো",
+   "why_en": "Warns against speaking about religion based on guesswork rather than clear knowledge."
+  }
+ ],
+ "lesson_en": "Never speak about religious rulings without solid knowledge, and resist whispers that lead to shameless behavior.",
+ "lesson_bn": "প্রমাণ বা জ্ঞান ছাড়া দ্বীনের কোনো ব্যাপারে মনগড়া কথা বলবেন না এবং অশ্লীলতার দিকে নিয়ে যাওয়া কুপ্রবৃত্তি প্রতিহত করুন।",
+ "real_life_en": "Before sharing a religious claim or opinion online, verify its authenticity through reliable learning. Guessing about what God permits or forbids spreads misinformation, which is exactly how Satan leads communities astray.",
+ "real_life_bn": "অনলাইনে বা আড্ডায় কোনো ধর্মীয় বিষয়ে কথা বলার সময় মনগড়া ব্যাখ্যা দেওয়া থেকে বিরত থাকুন। কোনো বিধান জানা না থাকলে সরাসরি নির্ভরযোগ্য আলেমদের থেকে জেনে নিন, কারণ অনুমান করে আল্লাহর দ্বীনের নামে কথা বলা শয়তানের বড় একটি ফাঁদ।",
+ "context_en": "Explains why Satan was called a clear enemy in the previous verse by detailing his corrupting whispers and misleading commands.",
+ "context_bn": "পূর্ববর্তী আয়াতে শয়তানকে কেন প্রকাশ্য শত্রু বলা হয়েছে, তার কারণ ব্যাখ্যা করে এখানে তার প্ররোচনার ধরন তুলে ধরা হয়েছে।",
+ "themes": [
+  "Satan",
+  "ethics",
+  "prohibition",
+  "shirk",
+  "knowledge",
+  "misguidance"
+ ],
+ "kinds": [
+  "warning",
+  "prohibition",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Satan"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Satan commands people toward evil actions and immoral, shameful deeds.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Speaking about Allah and His religion without knowledge is among the gravest sins promoted by Satan.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Inventing religious rulings or attributing false partners to God stems from following Satanic whispers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

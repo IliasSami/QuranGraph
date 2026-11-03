@@ -1,0 +1,106 @@
+{
+ "id": "2:170",
+ "simple_en": "When disbelievers are called to follow the clear guidance that God revealed, they stubbornly insist on clinging to the customs of their ancestors. God questions this irrational attitude: would they follow their forefathers even if those ancestors understood nothing of truth and had no divine guidance? Tradition should never replace revelation, and blind imitation of past generations cannot justify turning away from the truth.",
+ "simple_bn": "কাফিরদের যখন আল্লাহর নাযিলকৃত আলো ও হিদায়েত অনুসরণ করতে বলা হয়, তখন তারা গোঁড়ামি দেখিয়ে বলে যে তারা কেবল তাদের বাপ-দাদার রীতিনীতিরই অনুকরণ করবে। আল্লাহ তাদের এই অন্ধ বিশ্বাসের অসারতা তুলে ধরে প্রশ্ন করেন: তাদের পূর্বপুরুষরা যদি কোনো জ্ঞান-বুদ্ধি না রাখত এবং সঠিক পথ না পেত, তবুও কি তারা তাদের অনুসরণ করবে? পূর্বপুরুষদের অন্ধ অনুকরণ কখনো আল্লাহর সত্য বিধানের বিকল্প হতে পারে না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "تبع",
+   "lemma": "اتَّبَعَ",
+   "meaning_en": "follow",
+   "meaning_bn": "অনুসরণ করো",
+   "why_en": "The direct invitation to embrace divine revelation and true guidance."
+  },
+  {
+   "pos": 6,
+   "root": "نزل",
+   "lemma": "أَنزَلَ",
+   "meaning_en": "revealed",
+   "meaning_bn": "নাযিল করেছেন",
+   "why_en": "Refers to the holy Quran and prophetic teachings sent down by God."
+  },
+  {
+   "pos": 12,
+   "root": "لفو",
+   "lemma": "أَلْفَ",
+   "meaning_en": "we found",
+   "meaning_bn": "আমরা পেয়েছি",
+   "why_en": "Shows reliance on inherited habits simply because they were found existing."
+  },
+  {
+   "pos": 14,
+   "root": "أبو",
+   "lemma": "آباء",
+   "meaning_en": "our fathers (ancestors)",
+   "meaning_bn": "আমাদের বাপ-দাদাদের",
+   "why_en": "Points to cultural tradition being placed above divine command."
+  },
+  {
+   "pos": 19,
+   "root": "عقل",
+   "lemma": "عَقَلُ",
+   "meaning_en": "they use reason (understand)",
+   "meaning_bn": "তারা বুদ্ধি-বিবেক খাটাত",
+   "why_en": "Condemns abandoning intellect in favor of blind, uncritical conformity."
+  }
+ ],
+ "lesson_en": "Follow the truth based on divine guidance and clear evidence, rather than blindly copying family traditions or social customs.",
+ "lesson_bn": "বাপ-দাদার প্রথা বা সমাজের অন্ধ অনুকরণ না করে আল্লাহর নাযিলকৃত সুস্পষ্ট দলিলের ভিত্তিতে সত্য পথ অনুসরণ করুন।",
+ "real_life_en": "Do not accept harmful cultural practices, superstitions, or lavish wedding demands simply because that is how elders always did it. Compare family and community traditions to God's guidance, keeping what is good and letting go of what contradicts truth.",
+ "real_life_bn": "বিয়ে-শাদী বা সামাজিক আচার-অনুষ্ঠানে প্রচলিত যৌতুক, অপচয় বা কুসংস্কারকে বাপ-দাদার নিয়ম বলে গ্রহণ করবেন না। সমাজের যেকোনো রেওয়াজকে আল্লাহর বিধানের কষ্টিপাথরে যাচাই করে ভালো দিকগুলো গ্রহণ করুন এবং ক্ষতিকর প্রথাগুলো নির্দ্বিধায় বর্জন করুন।",
+ "context_en": "Highlights the root cause of the polytheists' rejection: blind obedience to ancestral traditions instead of accepting the clear proofs presented in earlier verses.",
+ "context_bn": "পূর্ববর্তী আয়াতগুলোতে তাওহীদের সুস্পষ্ট প্রমাণ দেওয়া সত্ত্বেও কাফিররা কেন তা প্রত্যাখ্যান করেছিল, তার মূল কারণ হিসেবে অন্ধ কুসংস্কারকে চিহ্নিত করা হয়েছে।",
+ "themes": [
+  "guidance",
+  "misguidance",
+  "revelation",
+  "past nations",
+  "reflection",
+  "the Quran"
+ ],
+ "kinds": [
+  "argument",
+  "warning",
+  "prohibition"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Disbelievers rejected divine revelation by insisting on following inherited ancestral customs.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Blindly imitating ancestors who had no religious understanding or guidance is irrational and blameworthy.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Divine revelation must take precedence over cultural traditions and ungrounded habits.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

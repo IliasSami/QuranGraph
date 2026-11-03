@@ -3,23 +3,71 @@ import Layout from "../../layouts/Layout.astro";
 import surahsData from "../../lib/search/surahs.json" with { type: "json" };
 
 const surahs = surahsData;
+const meccanCount = surahs.filter((s) => s.type === "Meccan").length;
+const medinanCount = surahs.filter((s) => s.type === "Medinan").length;
 ---
 
 <Layout title="All 114 Surahs — QuranGraph">
   <div style="padding: 3rem 0;">
     <div class="container">
-      <div style="margin-bottom: 2.5rem;">
+      <div style="margin-bottom: 2rem;">
         <h1 style="font-size: 2.25rem; font-weight: 800; margin-bottom: 0.5rem;">The 114 Surahs of the Holy Quran</h1>
         <p style="color: var(--text-muted); font-size: 1.05rem;">
           Browse all surahs in traditional order or filter by Meccan and Medinan revelations.
         </p>
       </div>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.25rem;">
+      <!-- Controls & Filter Toolbar -->
+      <div class="card" style="margin-bottom: 2rem; padding: 1.25rem; display: flex; flex-direction: column; gap: 1rem;">
+        <div style="display: flex; gap: 1rem; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+          <!-- Filter Tabs -->
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;" role="tablist" aria-label="Surah Revelation Filter">
+            <button class="filter-tab active" data-filter="all" role="tab" aria-selected="true">
+              All ({surahs.length})
+            </button>
+            <button class="filter-tab" data-filter="Meccan" role="tab" aria-selected="false">
+              Meccan ({meccanCount})
+            </button>
+            <button class="filter-tab" data-filter="Medinan" role="tab" aria-selected="false">
+              Medinan ({medinanCount})
+            </button>
+          </div>
+
+          <!-- Sort Select -->
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <label for="sort-select" style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600;">Sort:</label>
+            <select id="sort-select" class="form-select" aria-label="Sort Surahs">
+              <option value="traditional">Traditional Order (1–114)</option>
+              <option value="chronological">Revelation Order (Chronological)</option>
+              <option value="ayat-desc">Most Verses</option>
+              <option value="ayat-asc">Fewest Verses</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Live Search Input -->
+        <div>
+          <input
+            type="search"
+            id="surah-search-input"
+            placeholder="Filter surahs by name, meaning, or number (e.g. Baqara, 36, ইয়াসীন, الرحمٰن)..."
+            aria-label="Filter surahs"
+            style="width: 100%; padding: 0.75rem 1rem; border: 1px solid var(--border-color); border-radius: var(--radius-sm); background: var(--bg-primary); color: var(--text-main); font-size: 0.95rem; outline: none;"
+          />
+        </div>
+      </div>
+
+      <!-- Surahs Grid -->
+      <div id="surahs-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.25rem;">
         {surahs.map((s) => (
           <a
             href={`/surah/${s.id}`}
-            class="card"
+            class="card surah-card"
+            data-id={s.id}
+            data-type={s.type}
+            data-revelation={s.revelation_order}
+            data-ayat={s.ayat}
+            data-search={`${s.id} ${s.name_translit.toLowerCase()} ${s.name_en.toLowerCase()} ${s.name_bn} ${s.name_ar}`}
             style="display: flex; justify-content: space-between; align-items: center; text-decoration: none; padding: 1.25rem; color: inherit; transition: transform 0.15s ease, border-color 0.15s ease;"
           >
             <div>
@@ -29,12 +77,12 @@ const surahs = surahsData;
                 </span>
                 <span style="font-weight: 700; font-size: 1.05rem;">{s.name_translit}</span>
               </div>
-              <div style="font-size: 0.9rem; color: var(--text-muted);" class="bangla-text">{s.name_bn}</div>
+              <div style="font-size: 0.9rem; color: var(--text-muted);" class="bangla-text" lang="bn">{s.name_bn}</div>
               <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 0.25rem;">
-                <span>{s.name_en}</span> · <span>{s.ayat} verses</span>
+                <span>{s.name_en}</span> · <span>{s.ayat} verses</span> · <span style="font-weight: 600;">{s.type}</span>
               </div>
             </div>
-            <div class="arabic-text" style="font-size: 1.6rem; color: var(--accent-teal);">
+            <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.6rem; color: var(--accent-teal);">
               {s.name_ar}
             </div>
           </a>
@@ -43,3 +91,103 @@ const surahs = surahsData;
     </div>
   </div>
 </Layout>
+
+<style>
+  .filter-tab {
+    background: var(--bg-subtle);
+    border: 1px solid var(--border-color);
+    color: var(--text-muted);
+    padding: 0.45rem 0.9rem;
+    border-radius: var(--radius-sm);
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    min-height: 44px;
+    transition: all 0.15s ease;
+  }
+  .filter-tab:hover {
+    color: var(--text-main);
+  }
+  .filter-tab.active {
+    background: var(--accent-teal);
+    color: white;
+    border-color: var(--accent-teal);
+  }
+  .form-select {
+    padding: 0.45rem 0.75rem;
+    min-height: 44px;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-sm);
+    background: var(--bg-subtle);
+    color: var(--text-main);
+    font-size: 0.85rem;
+    cursor: pointer;
+  }
+  .surah-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--accent-teal);
+  }
+</style>
+
+<script is:inline>
+  const grid = document.getElementById("surahs-grid");
+  const searchInput = document.getElementById("surah-search-input");
+  const sortSelect = document.getElementById("sort-select");
+  const tabs = document.querySelectorAll(".filter-tab");
+  const cards = Array.from(document.querySelectorAll(".surah-card"));
+
+  let currentFilter = "all";
+
+  function applyFiltersAndSort() {
+    const query = (searchInput?.value || "").trim().toLowerCase();
+    const sortVal = sortSelect?.value || "traditional";
+
+    // Filter
+    cards.forEach((card) => {
+      const type = card.getAttribute("data-type");
+      const searchBlob = card.getAttribute("data-search") || "";
+      const matchesFilter = currentFilter === "all" || type === currentFilter;
+      const matchesSearch = !query || searchBlob.includes(query);
+
+      if (matchesFilter && matchesSearch) {
+        card.style.display = "flex";
+      } else {
+        card.style.display = "none";
+      }
+    });
+
+    // Sort
+    const visibleCards = cards.filter((c) => c.style.display !== "none");
+    visibleCards.sort((a, b) => {
+      const idA = parseInt(a.getAttribute("data-id") || "0", 10);
+      const idB = parseInt(b.getAttribute("data-id") || "0", 10);
+      const revA = parseInt(a.getAttribute("data-revelation") || "0", 10);
+      const revB = parseInt(b.getAttribute("data-revelation") || "0", 10);
+      const ayatA = parseInt(a.getAttribute("data-ayat") || "0", 10);
+      const ayatB = parseInt(b.getAttribute("data-ayat") || "0", 10);
+
+      if (sortVal === "chronological") return revA - revB;
+      if (sortVal === "ayat-desc") return ayatB - ayatA;
+      if (sortVal === "ayat-asc") return ayatA - ayatB;
+      return idA - idB;
+    });
+
+    visibleCards.forEach((c) => grid?.appendChild(c));
+  }
+
+  tabs.forEach((tab) => {
+    tab.addEventListener("click", () => {
+      tabs.forEach((t) => {
+        t.classList.remove("active");
+        t.setAttribute("aria-selected", "false");
+      });
+      tab.classList.add("active");
+      tab.setAttribute("aria-selected", "true");
+      currentFilter = tab.getAttribute("data-filter") || "all";
+      applyFiltersAndSort();
+    });
+  });
+
+  searchInput?.addEventListener("input", applyFiltersAndSort);
+  sortSelect?.addEventListener("change", applyFiltersAndSort);
+</script>

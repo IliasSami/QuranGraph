@@ -1,0 +1,110 @@
+{
+ "id": "2:166",
+ "simple_en": "On the Day of Judgment, leaders who were followed in falsehood will completely disown their followers. When both groups see the terrifying punishment of Hell before them, every bond that tied them together in the world will shatter. False alliances, family pride, and hopes of mutual rescue will be cut off, leaving each person to face their own deeds.",
+ "simple_bn": "কিয়ামতের দিন মিথ্যা পথের নেতারা তাদের অন্ধ অনুসারীদের সাথে সমস্ত সম্পর্ক অস্বীকার করবে। যখন তারা উভয়ে নিজেদের সামনে জাহান্নামের ভয়াবহ শাস্তি দেখতে পাবে, তখন দুনিয়ার যাবতীয় বন্ধন ও পারস্পরিক সহায়তার সম্পর্ক ছিন্নভিন্ন হয়ে যাবে। দুনিয়ার যে দলবাজি বা অন্ধ ভক্তির ওপর তারা ভরসা করেছিল, তা তাদের কোনো কাজেই আসবে না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "برأ",
+   "lemma": "تَبَرَّأَ",
+   "meaning_en": "disowned (declared innocence)",
+   "meaning_bn": "সম্পর্ক ছিন্ন বা দায়মুক্ত ঘোষণা করল",
+   "why_en": "Describes leaders renouncing any responsibility for those who idolized them."
+  },
+  {
+   "pos": 4,
+   "root": "تبع",
+   "lemma": "اتَّبَعَ",
+   "meaning_en": "were followed",
+   "meaning_bn": "যাদের অনুসরণ করা হয়েছিল (নেতারা)",
+   "why_en": "Refers to misleading leaders, false guides, and idols who commanded obedience."
+  },
+  {
+   "pos": 7,
+   "root": "تبع",
+   "lemma": "اتَّبَعَ",
+   "meaning_en": "followed",
+   "meaning_bn": "যারা অনুসরণ করেছিল (অনুসারী)",
+   "why_en": "Identifies the ordinary people who blindly followed leaders instead of God's guidance."
+  },
+  {
+   "pos": 9,
+   "root": "عذب",
+   "lemma": "عَذاب",
+   "meaning_en": "the punishment",
+   "meaning_bn": "শাস্তি",
+   "why_en": "The sight of Hellfire that causes sudden panic and mutual betrayal."
+  },
+  {
+   "pos": 12,
+   "root": "سبب",
+   "lemma": "سَبَب",
+   "meaning_en": "the ties (means of connection)",
+   "meaning_bn": "যাবতীয় উপায় ও পারস্পরিক বন্ধন",
+   "why_en": "Signifies all worldly relationships, treaties, and false avenues of salvation being severed."
+  }
+ ],
+ "lesson_en": "Do not follow anyone blindly in wrongdoing, for worldly loyalties vanish on the Day of Judgment.",
+ "lesson_bn": "অন্যায় ও বিভ্রান্তির পথে কাউকে অন্ধভাবে অনুকরণ করবেন না, কারণ কিয়ামতের দিন পার্থিব সব দলবাজি ও বন্ধন ভেঙে যাবে।",
+ "real_life_en": "Never compromise moral principles just to please a boss, an influential friend, or a charismatic figure. On the Day of Judgment, no one will take blame on your behalf, so evaluate every piece of advice against God's guidance before following it.",
+ "real_life_bn": "কোনো প্রভাবশালী ব্যক্তি, রাজনৈতিক নেতা বা বন্ধুবান্ধবকে খুশি করতে গিয়ে অন্যায়ের সাথে আপস করবেন না। বিপদের দিনে কেউ আপনার পাপের দায় নেবে না, তাই কারও অনুসরণ করার আগে ভেবে দেখুন তা সত্য ও ন্যায়ের পক্ষে কি না।",
+ "context_en": "Illustrates the tragic fate of polytheists and their false rivals mentioned in the previous verse when they face judgment together.",
+ "context_bn": "পূর্ববর্তী আয়াতে বর্ণিত মুশরিক ও তাদের বানানো সমকক্ষদের কিয়ামতের ময়দানে মুখোমুখি হওয়ার করুণ চিত্র এখানে তুলে ধরা হয়েছে।",
+ "themes": [
+  "The Last Day",
+  "punishment",
+  "shirk",
+  "misguidance",
+  "judgment",
+  "Hell"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter",
+  "story"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "The Last Day"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "On the Day of Resurrection, leaders followed in falsehood will disown those who followed them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "When both leaders and followers witness the punishment of the Fire, all worldly ties and connections between them will be severed.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "No mutual aid or intercession will benefit them, leaving each group to bear their own blame.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

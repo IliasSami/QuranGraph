@@ -1,0 +1,93 @@
+{
+ "id": "2:65",
+ "simple_en": "You know the story of those who broke the law of the Sabbath. Fishing was banned on Saturday, but they set up nets on Friday to trap the fish. They claimed they were not fishing on the holy day. Because of this deceit, Allah punished them and turned them into hated, low apes.",
+ "simple_bn": "তোমাদের পূর্বপুরুষদের মধ্যে যারা শনিবারের পবিত্রতা নষ্ট করেছিল, তাদের কথা তোমরা ভালোভাবেই জানো। শনিবারে তাদের মাছ ধরা নিষিদ্ধ ছিল। কিন্তু তারা শুক্রবার বিকেলে জাল পেতে রাখত এবং রবিবারে মাছ তুলত। আল্লাহর আদেশ অমান্য করে এমন ধূর্ত চালাকি করার কারণে তিনি তাদেরকে লাঞ্ছিত বানরে রূপান্তর করে দেন।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "عدو",
+   "lemma": "اعْتَدَى",
+   "meaning_en": "transgressed / violated",
+   "meaning_bn": "সীমালঙ্ঘন করেছিল",
+   "why_en": "Describes their deliberate crossing of divine boundaries through fraudulent excuses."
+  },
+  {
+   "pos": 7,
+   "root": "سبت",
+   "lemma": "سَبْت",
+   "meaning_en": "the Sabbath",
+   "meaning_bn": "শনিবার",
+   "why_en": "The designated day of worship on which work and fishing were strictly prohibited for them."
+  },
+  {
+   "pos": 11,
+   "root": "قرد",
+   "lemma": "قِرَدَة",
+   "meaning_en": "apes / monkeys",
+   "meaning_bn": "বানর",
+   "why_en": "The physical form of punishment reflecting their degraded, deceitful behavior."
+  },
+  {
+   "pos": 12,
+   "root": "خسأ",
+   "lemma": "خاسِئ",
+   "meaning_en": "despised / outcast",
+   "meaning_bn": "ঘৃণিত ও লাঞ্ছিত",
+   "why_en": "Cast far away from Allah's mercy, humiliated in the sight of all creation."
+  }
+ ],
+ "lesson_en": "Using tricks to break Allah’s rules does not fool Him and only brings disgrace.",
+ "lesson_bn": "চালাকি বা বাহানা দিয়ে আল্লাহর নির্দেশ ফাঁকি দেওয়া যায় না; তা কেবল লাঞ্ছনাই ডেকে আনে।",
+ "real_life_en": "A shopkeeper hides damaged goods under fresh fruit to fool buyers. He tells himself that he did not lie out loud. But tricky ways to earn money are sinful and ruin honest trade. Doing things with an open, honest heart is the only way to earn true peace.",
+ "real_life_bn": "একজন ব্যবসায়ী ভালো মালের নিচে নষ্ট মাল লুকিয়ে রেখে বিক্রি করল। সে ভাবল যে সে মুখে তো কোনো মিথ্যা বলেনি। কিন্তু যেকোনো ধরনের প্রতারণা পাপ এবং তা ব্যবসার বরকত নষ্ট করে। সততার সাথে কাজ করাই প্রকৃত মুমিনের পরিচয়।",
+ "context_en": "Highlights a specific historical violation by the Israelites where they used deceitful pretexts to fish on their sacred day of rest.",
+ "context_bn": "বনী ইসরাঈলের পূর্বপুরুষদের সেই বিশেষ অবাধ্যতার দৃষ্টান্ত তুলে ধরা হয়েছে, যেখানে তারা হিলা-বাহানা করে শনিবারের পবিত্রতা নষ্ট করেছিল।",
+ "themes": [
+  "Children of Israel",
+  "punishment",
+  "hypocrisy",
+  "trials",
+  "arrogance"
+ ],
+ "kinds": [
+  "story",
+  "warning",
+  "prohibition"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Transgression of the Sabbath"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "A group among the Israelites transgressed by using deceptive methods to catch fish on the Sabbath when it was forbidden.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "As a severe punishment for their deceit and rebellion, Allah transformed them into despised apes.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

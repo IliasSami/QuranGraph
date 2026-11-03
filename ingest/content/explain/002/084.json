@@ -1,0 +1,102 @@
+{
+ "id": "2:84",
+ "simple_en": "Remember when Allah took another pledge from you in the scripture. You were commanded never to shed each other's blood or force your own people from their homes. You agreed to this command and witnessed it yourselves as a sacred duty.",
+ "simple_bn": "স্মরণ করুন সেই অঙ্গীকারের কথা, যা তাওরাতে তোমাদের কাছ থেকে নেওয়া হয়েছিল। তোমাদের নির্দেশ দেওয়া হয়েছিল যে তোমরা পরস্পরের রক্তপাত ঘটাবে না এবং নিজের লোকদের ভিটেমাটি থেকে তাড়িয়ে দেবে না। তোমরা তা স্বীকার করেছিলে এবং তোমরাই এর সত্যতার ব্যাপারে প্রত্যক্ষ সাক্ষী ছিলে।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "سفك",
+   "lemma": "يَسْفِكُ",
+   "meaning_en": "you shed",
+   "meaning_bn": "তোমরা রক্তপাত করবে",
+   "why_en": "Forbids the unlawful spilling of human blood and internal warfare."
+  },
+  {
+   "pos": 6,
+   "root": "دمو",
+   "lemma": "دَم",
+   "meaning_en": "your blood",
+   "meaning_bn": "তোমাদের রক্ত",
+   "why_en": "Shows that killing a member of the community is like shedding one's own blood."
+  },
+  {
+   "pos": 8,
+   "root": "خرج",
+   "lemma": "أَخْرَجَ",
+   "meaning_en": "you expel",
+   "meaning_bn": "তোমরা বহিষ্কার করবে",
+   "why_en": "Prohibits driving fellow community members from their rightful homes."
+  },
+  {
+   "pos": 11,
+   "root": "دور",
+   "lemma": "دار",
+   "meaning_en": "your homes",
+   "meaning_bn": "তোমাদের ঘরবাড়ি",
+   "why_en": "Refers to the dwellings and lands from which expulsion was strictly forbidden."
+  },
+  {
+   "pos": 15,
+   "root": "شهد",
+   "lemma": "شَهِدَ",
+   "meaning_en": "you bear witness",
+   "meaning_bn": "তোমরা সাক্ষ্য দিচ্ছ",
+   "why_en": "Confirms that they acknowledged the truth and authority of this divine command."
+  }
+ ],
+ "lesson_en": "Protect human life and homes, because harming others only harms yourself.",
+ "lesson_bn": "মানুষের জানমাল ও বাসস্থান পবিত্র, তাই অন্যকে ক্ষতিগ্রস্ত করা মূলতঃ নিজের সমাজকেই ধ্বংস করার শামিল।",
+ "real_life_en": "Never use your strength, status, or connections to drive someone out of their rightful property or home. Protect the safety and peace of your community, and treat an attack on another person's rights as an attack on your own.",
+ "real_life_bn": "গায়ের জোর বা প্রভাব খাটিয়ে কখনোই কাউকে নিজের জমি, দোকান বা ঘরবাড়ি থেকে উচ্ছেদ করবেন না। সমাজে দুর্বল ও অসহায় মানুষের অধিকার রক্ষায় এগিয়ে আসুন এবং প্রতিবেশীর শান্তি বজায় রাখুন।",
+ "context_en": "Continues recounting the specific social laws given to the Children of Israel which they agreed to honor.",
+ "context_bn": "বনি ইসরাঈলের প্রতি দেওয়া সেই সামাজিক বিধানের কথা বর্ণনা করা হয়েছে, যাতে রক্তপাত ও অন্যায় উচ্ছেদ নিষিদ্ধ করা হয়েছিল।",
+ "themes": [
+  "justice",
+  "peace",
+  "unity",
+  "Children of Israel",
+  "keeping promises",
+  "law"
+ ],
+ "kinds": [
+  "prohibition",
+  "command",
+  "law",
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah took a covenant from them forbidding mutual murder and the unlawful expulsion of their people from their homes.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "They ratified this covenant and bore witness to its obligations.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

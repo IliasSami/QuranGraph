@@ -47,6 +47,13 @@ def clean_bengali_for_speech(text: str) -> str:
     t = t.replace("আল্লাহ্\u200cর", "আল্লাহর").replace("আল্লাহ্র", "আল্লাহর").replace("আল্লাহ্", "আল্লাহ")
     t = t.replace("হাম্\u200cদ", "হামদ").replace("হাম্দ", "হামদ")
     t = t.replace("নি‘আমত", "নিয়ামত").replace("নিআমত", "নিয়ামত")
+    # Normalize Assamese characters and rogue nuktas
+    t = t.replace("\u09f0", "র").replace("\u09f1", "ব")
+    t = t.replace("য\u09bc", "য়")
+    # Clean viramas attached to spaces or punctuation
+    t = re.sub(r"্\s+", " ", t)
+    # Strip any dashes/hyphens that break SSML parsing
+    t = re.sub(r"[-–—]+", " ", t)
     # Clean up whitespace and punctuation
     t = re.sub(r"\s+([,।!?])", r"\1", t)
     t = re.sub(r"\s+", " ", t).strip()
@@ -90,18 +97,29 @@ async def generate_surah_audio(surah_id: int, voice: str = "bn-BD-PradeepNeural"
         sp_text = clean_bengali_for_speech(raw_text)
         clean_ayat.append((ayah_num, sp_text))
 
-    full_surah_text = "\n".join(t for _, t in clean_ayat)
+    full_surah_text = " ".join(t for _, t in clean_ayat)
     print(f"Generating Bengali TTS for Surah {surah_id} ({name_translit} / {name_bn}), {len(rows)} ayat...")
 
-    comm = edge_tts.Communicate(full_surah_text, voice)
     audio_data = bytearray()
     boundaries = []
-
-    async for chunk in comm.stream():
-        if chunk["type"] == "audio":
-            audio_data.extend(chunk["data"])
-        elif chunk["type"] == "SentenceBoundary":
-            boundaries.append(chunk)
+    max_retries = 3
+    for attempt in range(1, max_retries + 1):
+        try:
+            comm = edge_tts.Communicate(full_surah_text, voice)
+            audio_data.clear()
+            boundaries.clear()
+            async for chunk in comm.stream():
+                if chunk["type"] == "audio":
+                    audio_data.extend(chunk["data"])
+                elif chunk["type"] == "SentenceBoundary":
+                    boundaries.append(chunk)
+            if len(audio_data) > 0:
+                break
+        except Exception as e:
+            if attempt == max_retries:
+                raise
+            print(f"  [Attempt {attempt} failed: {e}. Retrying in 2s...]")
+            await asyncio.sleep(2.0)
 
     with open(mp3_path, "wb") as f:
         f.write(audio_data)

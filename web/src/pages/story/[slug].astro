@@ -1,0 +1,146 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import storiesData from "../../../../ingest/work/export/graph/stories.json" with { type: "json" };
+import corpusData from "../../lib/search/corpus.json" with { type: "json" };
+import surahsData from "../../lib/search/surahs.json" with { type: "json" };
+
+export function getStaticPaths() {
+  return (storiesData as any[]).map((story) => ({
+    params: { slug: story.id.replace("story-", "") },
+    props: { story }
+  }));
+}
+
+const { story } = Astro.props;
+
+// Build fast lookup for ayat
+const corpusMap = new Map();
+corpusData.forEach((c) => {
+  corpusMap.set(`${c.s}:${c.a}`, c);
+});
+
+const surahMap = new Map();
+surahsData.forEach((s) => {
+  surahMap.set(s.id, s);
+});
+
+// Helper to expand ayah range e.g. "12:4-6" -> ["12:4", "12:5", "12:6"]
+function expandRange(spec: string): string[] {
+  if (!spec) return [];
+  const [sPart, aPart] = spec.split(":");
+  if (!aPart) return [];
+  if (aPart.includes("-")) {
+    const [start, end] = aPart.split("-").map(Number);
+    const res = [];
+    for (let a = start; a <= end; a++) {
+      res.push(`${sPart}:${a}`);
+    }
+    return res;
+  }
+  return [spec];
+}
+---
+
+<Layout title={`${story.title_en} — Quranic Narrative Arc`}>
+  <div style="padding: 3rem 0;">
+    <div class="container" style="max-width: 860px;">
+      <!-- Breadcrumb -->
+      <nav aria-label="Breadcrumb" style="margin-bottom: 2rem; font-size: 0.9rem; color: var(--text-muted);">
+        <a href="/learn">Learning Paths</a> / <span>Quranic Stories</span> / <span>{story.title_en}</span>
+      </nav>
+
+      <!-- Story Hero Card -->
+      <header class="card" style="padding: 2.5rem 1.5rem; margin-bottom: 2.5rem; border-top: 4px solid var(--accent-gold);">
+        <div style="font-size: 0.85rem; font-weight: 700; color: var(--accent-gold); text-transform: uppercase; margin-bottom: 0.5rem; letter-spacing: 0.05em;">
+          Chronological Narrative & Moral Lessons
+        </div>
+        <h1 style="font-size: 2.25rem; font-weight: 800; color: var(--text-main); margin-bottom: 0.5rem;">
+          {story.title_en}
+        </h1>
+        <div class="bangla-text" lang="bn" style="font-size: 1.35rem; color: var(--text-muted); margin-bottom: 1.5rem;">
+          {story.title_bn}
+        </div>
+
+        <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+          <span class="badge badge-teal" style="font-size: 0.85rem; padding: 0.4rem 0.85rem;">
+            {story.episodes?.length || 0} Chronological Episodes
+          </span>
+          {story.surah_refs && story.surah_refs.map((ref: string) => (
+            <span class="badge badge-gold" style="font-size: 0.85rem; padding: 0.4rem 0.85rem;">
+              Surah {ref}
+            </span>
+          ))}
+        </div>
+      </header>
+
+      <!-- Chronological Timeline Episodes -->
+      <section aria-label="Story Episodes">
+        <h2 style="font-size: 1.4rem; font-weight: 700; margin-bottom: 1.5rem; color: var(--text-main);">
+          Chronological Episodes (ধারাবাহিক পর্বসমূহ)
+        </h2>
+
+        <div style="display: flex; flex-direction: column; gap: 1.75rem;">
+          {story.episodes?.map((ep: any, idx: number) => {
+            const verses = expandRange(ep.ayat);
+            const sampleVerseRef = verses[0];
+            const sampleItem = sampleVerseRef ? corpusMap.get(sampleVerseRef) : null;
+            const [sNum] = (sampleVerseRef || "").split(":");
+
+            return (
+              <article class="card" style="border-left: 4px solid var(--accent-teal);">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.75rem; flex-wrap: wrap; gap: 0.5rem;">
+                  <div>
+                    <span style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); text-transform: uppercase;">
+                      Episode {idx + 1}
+                    </span>
+                    <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--text-main); margin-top: 0.2rem;">
+                      {ep.title_en}
+                    </h3>
+                  </div>
+                  <span class="badge badge-teal" style="font-size: 0.8rem;">
+                    Ayat {ep.ayat}
+                  </span>
+                </div>
+
+                <div class="bangla-text" lang="bn" style="font-size: 1.05rem; color: var(--text-muted); margin-bottom: 1.25rem;">
+                  {ep.title_bn}
+                </div>
+
+                <!-- Verse Preview -->
+                {sampleItem && (
+                  <div style="background: var(--bg-subtle); padding: 1.25rem; border-radius: var(--radius-sm); border: 1px solid var(--border-color); margin-bottom: 1rem;">
+                    <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.5rem; color: var(--text-arabic); margin-bottom: 0.75rem;">
+                      {sampleItem.ar}
+                    </div>
+                    <div style="font-size: 0.95rem; line-height: 1.5; color: var(--text-main); margin-bottom: 0.4rem;">
+                      {sampleItem.en}
+                    </div>
+                    <div class="bangla-text" lang="bn" style="font-size: 0.9rem; line-height: 1.6; color: var(--text-muted);">
+                      {sampleItem.bn}
+                    </div>
+                  </div>
+                )}
+
+                <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
+                  {verses.map((vRef: string) => {
+                    const [s, a] = vRef.split(":");
+                    return (
+                      <a href={`/ayah/${s}/${a}`} class="btn-icon" style="font-size: 0.8rem;">
+                        Ayah {vRef} →
+                      </a>
+                    );
+                  })}
+                  {sNum && (
+                    <a href={`/surah/${sNum}#ayah-${verses[0]?.split(":")[1] || 1}`} class="btn-icon" style="font-size: 0.8rem; background: var(--bg-primary);">
+                      Read in Surah Context ↗
+                    </a>
+                  )}
+                </div>
+              </article>
+            );
+          })}
+        </div>
+      </section>
+    </div>
+  </div>
+</Layout>

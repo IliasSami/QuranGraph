@@ -1,0 +1,103 @@
+{
+ "id": "2:75",
+ "simple_en": "Do you believers still hope that they will accept your faith? Some of them used to hear the Word of Allah, understand it clearly, and then knowingly change its meaning. People who deliberately twist divine teachings rarely open their hearts to the truth.",
+ "simple_bn": "হে মুমিনগণ, তোমরা কি এখনো আশা করো যে তারা তোমাদের কথায় ঈমান আনবে? অথচ তাদের একদল আল্লাহর বাণী শুনত, তা সম্পূর্ণভাবে বোঝার পরও জেনেশুনে তা বিকৃত করত। যারা জেনেবুঝে আল্লাহর কালাম পরিবর্তন করতে দ্বিধা করে না, তাদের পক্ষে সহজভাবে সত্য মেনে নেওয়ার আশা করা যায় না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "طمع",
+   "lemma": "يَطْمَعُ",
+   "meaning_en": "do you earnestly hope",
+   "meaning_bn": "তোমরা কি আশা পোষণ কর",
+   "why_en": "Addresses the believers' deep desire and longing for their neighbors to accept the truth."
+  },
+  {
+   "pos": 10,
+   "root": "كلم",
+   "lemma": "كَلام",
+   "meaning_en": "the Word",
+   "meaning_bn": "বাণী",
+   "why_en": "Refers to the divine revelation of the Torah revealed to Musa (peace be upon him)."
+  },
+  {
+   "pos": 13,
+   "root": "حرف",
+   "lemma": "يُحَرِّفُ",
+   "meaning_en": "they distort it",
+   "meaning_bn": "তারা তা বিকৃত করত",
+   "why_en": "Describes deliberate alteration of divine words and their intended meanings."
+  },
+  {
+   "pos": 17,
+   "root": "عقل",
+   "lemma": "عَقَلُ",
+   "meaning_en": "they comprehended it",
+   "meaning_bn": "তারা তা অনুধাবন করেছিল",
+   "why_en": "Highlights that their distortion was not from ignorance, but after full understanding."
+  }
+ ],
+ "lesson_en": "Do not lose hope when insincere people reject the truth that you share.",
+ "lesson_bn": "জেনেবুঝে সত্য প্রত্যাখ্যানকারী মানুষের আচরণে হতাশ না হয়ে কল্যাণের পথে দাওয়াত অব্যাহত রাখুন।",
+ "real_life_en": "When you give sincere advice to a friend who twists your words to keep doing wrong, do not lose heart. Speak the truth with kindness, and trust Allah with their guidance.",
+ "real_life_bn": "কাউকে আন্তরিকভাবে কোনো ভালো কাজের পরামর্শ দিলে সে যদি তা জেনেবুঝে বিকৃত করে বা উপহাস করে, তবে হতাশ হবেন না। আপনার দায়িত্ব হলো উত্তমভাবে বুঝিয়ে দেওয়া, হিদায়েতের মালিক আল্লাহ।",
+ "context_en": "Shifts from historical accounts of the Israelites under Musa to the contemporaries in Madinah, explaining why some religious leaders stubbornly resisted the Prophet's call.",
+ "context_bn": "মুসা (আলাইহিস সালাম)-এর যুগের আলোচনা থেকে মদিনার তৎকালীন পরিস্থিতির দিকে দৃষ্টি ফিরিয়ে জানানো হয়েছে কেন কিছু লোক সত্য জেনেও তা গ্রহণ করছিল না।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "guidance",
+  "Children of Israel",
+  "faith",
+  "the believers' qualities"
+ ],
+ "kinds": [
+  "address",
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "Muhammad ﷺ"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "Torah"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The believers were eager for the Jews of Madinah to accept Islam.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "A group among them used to hear the Word of Allah, comprehend it, and then knowingly distort it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Their distortion of divine texts was done intentionally with full knowledge.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

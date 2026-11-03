@@ -1,0 +1,106 @@
+{
+ "id": "2:126",
+ "simple_en": "Prophet Ibrahim (peace be upon him) prayed for Makkah to be a safe city. He asked God to grant food and fruits to its believers. Allah replied that He gives food in this life to all people, even disbelievers. But the joy of this world is short. In the life to come, disbelievers will face the painful punishment of the Fire.",
+ "simple_bn": "হযরত ইবরাহীম (আলাইহিস সালাম) আল্লাহর কাছে দুআ করলেন যেন তিনি মক্কা নগরীকে নিরাপদ শহর বানান। তিনি চাইলেন এর বিশ্বাসী অধিবাসীরা যেন প্রচুর ফলমূলের রিযিক পায়। আল্লাহ জানালেন যে, পার্থিব রিযিক তিনি অবিশ্বাসী কাফিরদেরও দান করবেন। তবে তাদের পার্থিব সুখ হবে খুব ক্ষণস্থায়ী। এরপর আখেরাতে তারা জাহান্নামের কঠিন শাস্তির মুখোমুখি হবে।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "أمن",
+   "lemma": "آمِن",
+   "meaning_en": "secure (safe)",
+   "meaning_bn": "নিরাপদ",
+   "why_en": "Prophet Ibrahim began his supplication with safety, recognizing that security is the foundation for all life and worship."
+  },
+  {
+   "pos": 9,
+   "root": "رزق",
+   "lemma": "رَزَقَ",
+   "meaning_en": "and provide (sustain)",
+   "meaning_bn": "এবং রিযিক দান করুন",
+   "why_en": "Prays for economic sustenance and fruits in a barren desert valley devoid of farming."
+  },
+  {
+   "pos": 22,
+   "root": "متع",
+   "lemma": "مَتَّعْ",
+   "meaning_en": "I will grant enjoyment",
+   "meaning_bn": "আমি জীবনোপভোগ করতে দেব",
+   "why_en": "Shows that Allah graciously gives worldly sustenance even to those who disbelieve in this life."
+  },
+  {
+   "pos": 25,
+   "root": "ضرر",
+   "lemma": "اضْطُرَّ",
+   "meaning_en": "I will force him",
+   "meaning_bn": "আমি তাকে বাধ্য করব",
+   "why_en": "Contrasts temporary worldly pleasure with unavoidable accountability in the Fire of Hell."
+  }
+ ],
+ "lesson_en": "Worldly wealth is not a sign of God's love, since He gives food and money to both good and bad.",
+ "lesson_bn": "দুনিয়ার ধনসম্পদ পাওয়া আল্লাহর সন্তুষ্টির প্রমাণ নয়; কারণ তিনি পরীক্ষা হিসেবে ঈমানদার ও কাফির উভয়কেই জাগতিক রিযিক দিয়ে থাকেন।",
+ "real_life_en": "When you pray for your town, ask God for safety and honest food first. Do not envy rich people who forget God. Wealth without good deeds brings no real peace.",
+ "real_life_bn": "নিজের শহর ও দেশের জন্য দুআ করার সময় শান্তি, নিরাপত্তা ও হালাল রিযিকের জন্য প্রার্থনা করুন। যারা ধর্মকর্ম ছাড়াই প্রচুর ধনসম্পদ ভোগ করছে তাদের দেখে হিংসা করবেন না, কারণ সৎ আমল ছাড়া পার্থিব সম্পদ আখেরাতে কোনো উপকারে আসে না।",
+ "context_en": "Shows Prophet Ibrahim's loving prayer for the residents of Makkah and explains the distinction between worldly provision and spiritual favor.",
+ "context_bn": "মক্কাবাসীদের নিরাপত্তা ও জীবিকার জন্য হযরত ইবরাহীম (আলাইহিস সালাম)-এর দুআ এবং পার্থিব রিযিক ও আখেরাতের মুক্তির মধ্যকার পার্থক্য তুলে ধরা হয়েছে।",
+ "themes": [
+  "dua",
+  "stories of the prophets",
+  "trust in Allah",
+  "wealth",
+  "punishment",
+  "Hell",
+  "The Last Day"
+ ],
+ "kinds": [
+  "dua",
+  "story",
+  "warning",
+  "promise"
+ ],
+ "entities": {
+  "people": [
+   "Ibrahim (peace be upon him)"
+  ],
+  "nations": [],
+  "places": [
+   "Makkah"
+  ],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Prophet Ibrahim (peace be upon him) prayed for Makkah to be a secure sanctuary and for its believing inhabitants to be granted abundant fruits.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Allah decreed that worldly sustenance is provided in this life to both believers and disbelievers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Disbelievers enjoy worldly provision for a brief time, after which they will be driven to the torment of the Fire.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}
