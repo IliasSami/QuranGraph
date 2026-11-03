@@ -1,0 +1,30 @@
+name: Weekly QuranEnc Check
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every Sunday
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  check-sources:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Sync dependencies
+        run: |
+          cd ingest
+          uv sync
+
+      - name: Check for QuranEnc source updates
+        run: |
+          cd ingest
+          uv run fetch/fetch.py --check

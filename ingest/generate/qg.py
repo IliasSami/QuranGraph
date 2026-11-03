@@ -113,8 +113,8 @@ def words(s, a):
 
 # ----------------------------------------------------------------------------------------------------- ctx
 def ctx(s, spec):
-    sr = db().execute("SELECT name_ar, name_translit, name_en, type, revelation_order, ayat FROM surah WHERE id=?", (s,)).fetchone()
-    print(f"##### SURAH {s} {sr[1]} ({sr[0]}, \"{sr[2]}\") · {sr[3]} · revelation order {sr[4]} · {sr[5]} ayat")
+    sr = db().execute("SELECT name_ar, name_translit, name_en, type, revelation_order, ayat, name_bn FROM surah WHERE id=?", (s,)).fetchone()
+    print(f"##### SURAH {s} {sr[1]} / {sr[6]} ({sr[0]}, \"{sr[2]}\") · {sr[3]} · revelation order {sr[4]} · {sr[5]} ayat")
     shown_grounding = set()
     for a in rng(s, spec):
         row = db().execute("SELECT text_uthmani, juz, page, sajda FROM ayah WHERE surah=? AND ayah=?", (s, a)).fetchone()

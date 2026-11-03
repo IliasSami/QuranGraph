@@ -95,10 +95,10 @@ def main():
     parts, total, flagged_n, warn_n, must_n, sample_n = [], 0, 0, 0, 0, 0
     jump = []
     for s in surahs:
-        name = db.execute("SELECT name_translit, name_ar, name_en, type, ayat FROM surah WHERE id=?", (s,)).fetchone()
+        name = db.execute("SELECT name_translit, name_ar, name_en, type, ayat, name_bn FROM surah WHERE id=?", (s,)).fetchone()
         files = sorted(os.listdir(os.path.join(explain, f"{s:03d}")))
-        jump.append(f'<option value="s{s}">{s}. {esc(name[0])}</option>')
-        parts.append(f'<h2 id="s{s}">{s}. {esc(name[0])} <span class="ar" style="font-size:22px">{esc(name[1])}</span> '
+        jump.append(f'<option value="s{s}">{s}. {esc(name[0])} · {esc(name[5])}</option>')
+        parts.append(f'<h2 id="s{s}">{s}. {esc(name[0])} · <span class="bn">{esc(name[5])}</span> <span class="ar" style="font-size:22px">{esc(name[1])}</span> '
                      f'<small>{esc(name[2])} · {name[3]} · {len(files)}/{name[4]} ayat explained</small></h2>')
         for f in files:
             d = json.load(open(os.path.join(explain, f"{s:03d}", f), encoding="utf-8"))

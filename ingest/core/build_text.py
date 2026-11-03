@@ -25,6 +25,7 @@ import yaml
 
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from core.normalize import tokenize_many  # noqa: E402
+from core.surah_names_bn import SURAH_NAMES_BN  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WORK = os.path.join(ROOT, "work")
@@ -35,7 +36,7 @@ N_AYAT = 6236
 SCHEMA = """
 CREATE TABLE source (id TEXT PRIMARY KEY, kind TEXT, use TEXT, role TEXT, title TEXT, publisher TEXT, lang TEXT,
                      version TEXT, licence TEXT, attribution TEXT, status TEXT);
-CREATE TABLE surah (id INTEGER PRIMARY KEY, name_ar TEXT, name_translit TEXT, name_en TEXT, type TEXT,
+CREATE TABLE surah (id INTEGER PRIMARY KEY, name_ar TEXT, name_translit TEXT, name_en TEXT, name_bn TEXT, type TEXT,
                     revelation_order INTEGER, ayat INTEGER, rukus INTEGER, start INTEGER);
 CREATE TABLE ayah (id INTEGER PRIMARY KEY, surah INTEGER, ayah INTEGER, text_uthmani TEXT, text_simple TEXT, skel TEXT,
                    juz INTEGER, hizb_quarter INTEGER, manzil INTEGER, ruku INTEGER, page INTEGER, sajda TEXT,
@@ -173,8 +174,10 @@ def main():
     # ---- surahs + ayat
     suras, div, sajdas = metadata()
     for e in suras:
-        db.execute("INSERT INTO surah VALUES (?,?,?,?,?,?,?,?,?)",
-                   (int(e["index"]), e["name"], e["tname"], e["ename"], e["type"], int(e["order"]), int(e["ayas"]),
+        si = int(e["index"])
+        name_bn = SURAH_NAMES_BN.get(si, "")
+        db.execute("INSERT INTO surah VALUES (?,?,?,?,?,?,?,?,?,?)",
+                   (si, e["name"], e["tname"], e["ename"], name_bn, e["type"], int(e["order"]), int(e["ayas"]),
                     int(e["rukus"]), int(e["start"])))
     uth = read_tanzil(os.path.join(RAW, "tanzil-uthmani", "quran.txt"))
     simple = read_tanzil(os.path.join(RAW, "tanzil-simple-clean", "quran.txt"))
