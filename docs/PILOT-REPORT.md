@@ -37,16 +37,20 @@ legacy-font characters in ~815 Bangla Mukhtasar ayat, misaligned rows, a few wor
 
 - Reported agent usage averaged **about 6,000 tokens per ayah** (9 agents with complete figures: 2.55M tokens for 423 ayat).
 - The pilot used about **two full usage windows** of your Claude plan (the 5-hour limit was reached twice).
-- The full Quran needs about **15× the pilot's source text** (48.7M characters of context vs 3.3M) and 10.6× its ayat,
+- The full Quran needs about **13.5× the pilot's source text** (47.9M characters of context vs 3.56M in ~5-ayah passages) and 10.6× its ayat,
   so roughly **13× the pilot**: about 45M agent tokens, or **~25 usage windows** at this pace (5–7 days of
   stop-and-resume on this plan).
 
-**Ways to cut it (for the Phase 3 decision):**
+**Bundle improvements implemented (Task 2):**
+- Dropped Saheeh International from the context bundle (saving ~1.2M characters across the full Quran; still displayed on site).
+- Raised Dr. Abu Bakr Zakaria footnote cap from 1,500 to 3,000 characters for deeper grounding.
+- Scaled Ibn Kathir for passages longer than 8 ayat (`max(9000, passage_len * 1500)`) and cut at sentence boundaries (no mid-word truncation).
+- Re-measured bundle size in ~5-ayah working passages: **3.56M characters** for the pilot, **47.9M characters** for the full Quran.
+
+**Ways to cut cost/time further (for the Phase 3 decision):**
 1. Run the full generation through the **Anthropic Message Batches API** (needs an API key; batch pricing is
    discounted and runs unattended overnight). An exact quote needs a 1-surah test run with a key.
 2. Draft with a smaller model and use the larger model only to verify and fix flagged ayat — test on one surah first.
-3. Trim the bundle: Saheeh International is almost never cited (1 time), so drop it from the context; cap very long
-   Ibn Kathir passages per ayah instead of per passage.
 
 ## Gate (Phase 0 → Phase 1)
 

@@ -16,6 +16,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from schema import validate  # noqa: E402
+from qg import review_priority  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WORK = os.path.join(ROOT, "work")
@@ -41,11 +42,14 @@ button[aria-pressed=true]{background:var(--accent);color:var(--surface);border-c
 main{max-width:1100px;margin:0 auto;padding:16px}
 h2{font-size:20px;margin:28px 0 8px} h2 small{color:var(--ink2);font-weight:400;font-size:14px}
 .ayah{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);margin:12px 0;padding:16px}
-.ayah.flagged{border-left:4px solid var(--flag)}
+.ayah.flagged{border-left:4px solid var(--line)}
+.ayah.must-review{border-left:4px solid var(--flag)}
+.ayah.sample-review{border-left:4px solid var(--warn)}
 .top{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap;align-items:baseline}
 .ref{font-weight:700;color:var(--accent)} .badges{display:flex;gap:6px;flex-wrap:wrap}
 .badge{font-size:12px;padding:2px 8px;border-radius:99px;background:var(--soft);color:var(--accent)}
 .badge.flag{background:var(--flagbg);color:var(--flag)} .badge.warn{background:var(--warnbg);color:var(--warn)}
+.badge.must{background:var(--flagbg);color:var(--flag);font-weight:600} .badge.sample{background:var(--warnbg);color:var(--warn)}
 .ar{font-family:"Amiri Quran","Amiri","KFGQPC Uthmanic Script HAFS",serif;font-size:28px;line-height:2.2;direction:rtl;text-align:right;margin:8px 0}
 .bn{font-family:"Noto Serif Bengali","Hind Siliguri",serif;line-height:1.9}
 .grid{display:grid;grid-template-columns:1fr 1fr;gap:16px} @media (max-width:760px){.grid{grid-template-columns:1fr}}
@@ -62,8 +66,16 @@ ul{margin:4px 0;padding-left:20px} li{margin:2px 0}
 
 JS = """
 const btns=document.querySelectorAll('[data-filter]');
-btns.forEach(b=>b.addEventListener('click',()=>{btns.forEach(x=>x.setAttribute('aria-pressed',x===b));
-const f=b.dataset.filter;document.querySelectorAll('.ayah').forEach(a=>{a.hidden=f==='flagged'&&!a.classList.contains('flagged')});}));
+btns.forEach(b=>b.addEventListener('click',()=>{
+  btns.forEach(x=>x.setAttribute('aria-pressed',x===b));
+  const f=b.dataset.filter;
+  document.querySelectorAll('.ayah').forEach(a=>{
+    if(f==='all') a.hidden=false;
+    else if(f==='must') a.hidden=!a.classList.contains('must-review');
+    else if(f==='sample') a.hidden=!a.classList.contains('sample-review');
+    else if(f==='flagged') a.hidden=!a.classList.contains('flagged');
+  });
+}));
 document.getElementById('jump').addEventListener('change',e=>{location.hash=e.target.value});
 """
 
@@ -80,7 +92,7 @@ def main():
     db = sqlite3.connect(os.path.join(WORK, "quran.sqlite"))
     explain = os.path.join(ROOT, "content", "explain")
     surahs = [int(x) for x in sys.argv[1:]] or sorted(int(d) for d in os.listdir(explain) if d.isdigit())
-    parts, total, flagged_n, warn_n = [], 0, 0, 0
+    parts, total, flagged_n, warn_n, must_n, sample_n = [], 0, 0, 0, 0, 0
     jump = []
     for s in surahs:
         name = db.execute("SELECT name_translit, name_ar, name_en, type, ayat FROM surah WHERE id=?", (s,)).fetchone()
@@ -96,11 +108,18 @@ def main():
             tr = {src: strip_tags(t) for src, t in db.execute(
                 "SELECT source, text FROM text WHERE surah=? AND ayah=? AND source IN ('qe-english-saheeh','qe-bengali-zakaria','qe-english-mokhtasar')", (s, a))}
             flags = []
+            prio = review_priority(d)
+            if prio == "must":
+                flags.append(("must", "must review"))
+                must_n += 1
+            elif prio == "sample":
+                flags.append(("sample", "sample review"))
+                sample_n += 1
             if d.get("sensitivity", "none") != "none":
                 flags.append(("flag", d["sensitivity"]))
             if d.get("scholars_differ"):
                 flags.append(("flag", "scholars differ"))
-            if float(d.get("confidence", 1)) < 0.85:
+            if float(d.get("confidence", 1)) < 0.88:
                 flags.append(("flag", f"confidence {d['confidence']}"))
             if d.get("uncertain"):
                 flags.append(("warn", "uncertain"))
@@ -108,7 +127,7 @@ def main():
                 flags.append(("flag", f"{len(errs)} errors"))
             if warns:
                 flags.append(("warn", f"{len(warns)} warnings"))
-            is_flagged = any(k == "flag" for k, _ in flags) or bool(d.get("uncertain"))
+            is_flagged = bool(prio) or any(k == "flag" for k, _ in flags) or bool(d.get("uncertain")) or bool(errs) or bool(warns)
             total += 1
             flagged_n += is_flagged
             warn_n += bool(warns)
@@ -124,13 +143,13 @@ def main():
             occ_html = (f'<div class="box"><div class="label">Occasion of revelation ({esc(occ.get("strength"))})</div>{esc(occ.get("text_en"))}'
                         f'<div class="bn">{esc(occ.get("text_bn"))}</div></div>') if occ else ""
             differ = (f'<div class="box"><div class="label">Scholars differ</div>{esc(d.get("differ_note_en"))}'
-                      f'<div class="bn">{esc(d.get("differ_note_bn"))}</div></div>') if d.get("scholars_differ") else ""
+                       f'<div class="bn">{esc(d.get("differ_note_bn"))}</div></div>') if d.get("scholars_differ") else ""
             context = (f'<div class="box"><div class="label">Context</div>{esc(d.get("context_en"))}'
                        f'<div class="bn">{esc(d.get("context_bn"))}</div></div>') if d.get("context_en") else ""
             issues = "".join(f"<li>ERROR: {esc(e)}</li>" for e in errs) + "".join(f"<li>{esc(w)}</li>" for w in warns) + \
                 "".join(f"<li>Uncertain: {esc(u)}</li>" for u in d.get("uncertain", []))
             parts.append(f"""
-<article class="ayah{' flagged' if is_flagged else ''}" id="a{s}-{a}">
+<article class="ayah{' flagged' if is_flagged else ''}{' must-review' if prio == 'must' else (' sample-review' if prio == 'sample' else '')}" id="a{s}-{a}">
  <div class="top"><span class="ref">{s}:{a}</span><div class="badges">{badges}</div></div>
  <div class="ar" lang="ar">{esc(ar)}</div>
  <div class="grid">
@@ -156,8 +175,11 @@ def main():
 <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Noto+Serif+Bengali:wght@400;600&display=swap" rel="stylesheet">
 <style>{CSS}</style></head><body>
 <header><div class="row"><h1>QuranGraph · Pilot review</h1>
-<span class="stat">{total} ayat · {flagged_n} flagged for review · {warn_n} with validator warnings</span>
-<button data-filter="all" aria-pressed="true">All</button><button data-filter="flagged" aria-pressed="false">Flagged only</button>
+<span class="stat">{total} ayat · {must_n} must review · {sample_n} sample review · {warn_n} with validator warnings</span>
+<button data-filter="all" aria-pressed="true">All</button>
+<button data-filter="must" aria-pressed="false">Must review ({must_n})</button>
+<button data-filter="sample" aria-pressed="false">Sample review ({sample_n})</button>
+<button data-filter="flagged" aria-pressed="false">All flagged ({flagged_n})</button>
 <select id="jump" aria-label="Jump to surah"><option value="">Jump to surah…</option>{''.join(jump)}</select></div></header>
 <main>
 <p class="src">Arabic: Tanzil Project (tanzil.net). Translations and Al-Mukhtasar via QuranEnc.com. The simple explanation,
@@ -166,7 +188,7 @@ key words, lesson and real-life example are AI-drafted from the cited tafsir sou
 </main><script>{JS}</script></body></html>"""
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     open(OUT, "w", encoding="utf-8").write(page)
-    print(f"wrote {OUT}: {total} ayat, {flagged_n} flagged")
+    print(f"wrote {OUT}: {total} ayat, {must_n} must-review, {sample_n} sample-review, {flagged_n} flagged total")
 
 
 if __name__ == "__main__":

@@ -26,7 +26,6 @@ _db = None
 
 # order in which sources are shown in `ctx` (display sources first, then grounding)
 CTX_SOURCES = [
-    ("qe-english-saheeh", "TRANSLATION · Saheeh International", None),
     ("qe-bengali-zakaria", "TRANSLATION · Bangla · Abu Bakr Zakaria", None),
     ("qe-english-mokhtasar", "TAFSIR · Al-Mukhtasar (English)", None),
     ("qe-bengali-mokhtasar", "TAFSIR · Al-Mukhtasar (Bangla)", None),
@@ -70,19 +69,42 @@ def clean(t):
     return re.sub(r"[ \t]+", " ", t).strip()
 
 
+def truncate_at_sentence(t, limit):
+    """Cut text at a sentence or word boundary within limit, never mid-word."""
+    if not limit or len(t) <= limit:
+        return t, False
+    sub = t[:limit]
+    matches = list(re.finditer(r"[।?!.](\s+|$)", sub))
+    if matches and matches[-1].end() >= int(limit * 0.6):
+        cut = matches[-1].end()
+        return t[:cut].rstrip(), True
+    space_idx = sub.rfind(" ")
+    if space_idx >= int(limit * 0.8):
+        return t[:space_idx].rstrip(), True
+    return sub.rstrip(), True
+
+
 def grounding_text(src, s, a):
-    """Grounding text for an ayah and the first ayah of the passage it belongs to (the mirrors repeat a passage's
-    text under every ayah it covers)."""
+    """Grounding text for an ayah, the first ayah of the passage, and the passage length in ayat (the mirrors
+    repeat a passage's text under every ayah it covers)."""
     row = db().execute("SELECT text FROM text WHERE source=? AND surah=? AND ayah=?", (src, s, a)).fetchone()
     if not row or not row[0].strip():
-        return (None, None)
+        return (None, None, 0)
+    txt = row[0]
     first = a
     while first > 1:
         prev = db().execute("SELECT text FROM text WHERE source=? AND surah=? AND ayah=?", (src, s, first - 1)).fetchone()
-        if not prev or prev[0] != row[0]:
+        if not prev or prev[0] != txt:
             break
         first -= 1
-    return (row[0], first)
+    n = ayah_count(s)
+    last = a
+    while last < n:
+        nxt = db().execute("SELECT text FROM text WHERE source=? AND surah=? AND ayah=?", (src, s, last + 1)).fetchone()
+        if not nxt or nxt[0] != txt:
+            break
+        last += 1
+    return (txt, first, last - first + 1)
 
 
 def words(s, a):
@@ -102,7 +124,7 @@ def ctx(s, spec):
             f"{p}·{t}·{r or '-'}·{lm or '-'}·{tg}" for p, t, r, lm, tg, _ in words(s, a)))
         for src, label, limit in CTX_SOURCES:
             if src.startswith("g-"):
-                text, at = grounding_text(src, s, a)
+                text, at, passage_len = grounding_text(src, s, a)
                 if not text:
                     continue
                 key = (src, at)
@@ -112,7 +134,11 @@ def ctx(s, spec):
                 shown_grounding.add(key)
                 t = clean(text)
                 note = f" (passage starting {s}:{at})" if at != a else ""
-                print(f"[{src}] {label}{note}:\n  {t[:limit]}{' …[truncated]' if len(t) > limit else ''}")
+                cur_limit = limit
+                if src == "g-en-ibn-kathir" and passage_len > 8:
+                    cur_limit = max(limit or 9000, passage_len * 1500)
+                cut, trunc = truncate_at_sentence(t, cur_limit)
+                print(f"[{src}] {label}{note}:\n  {cut}{' …[truncated]' if trunc else ''}")
             else:
                 r = db().execute("SELECT text, footnotes, note FROM text WHERE source=? AND surah=? AND ayah=?", (src, s, a)).fetchone()
                 if r and (r[2] or "").startswith("misaligned"):
@@ -121,7 +147,8 @@ def ctx(s, spec):
                 elif r:
                     print(f"[{src}] {label}: {clean(r[0])}")
                     if r[1] and src == "qe-bengali-zakaria":
-                        print(f"  footnotes: {clean(r[1])[:1500]}")
+                        fn_cut, fn_trunc = truncate_at_sentence(clean(r[1]), 3000)
+                        print(f"  footnotes: {fn_cut}{' …[truncated]' if fn_trunc else ''}")
         prev = path(s, a - 1)
         if a > 1 and os.path.exists(prev):
             try:
@@ -210,17 +237,38 @@ def compress(nums):
     return " ".join(out)
 
 
+def review_priority(d):
+    """Classify review priority: 'must', 'sample', or None.
+    - 'must': aqeedah, fiqh, often-misquoted, interfaith, confidence < 0.88, scholars_differ on aqeedah.
+    - 'sample': eschatology only.
+    """
+    sens = d.get("sensitivity", "none")
+    conf = float(d.get("confidence", 1))
+    diff = bool(d.get("scholars_differ"))
+    if (sens in {"aqeedah", "fiqh", "often-misquoted", "interfaith"} or
+            conf < 0.88 or
+            (diff and (sens == "aqeedah" or "aqeedah" in d.get("themes", [])))):
+        return "must"
+    if sens == "eschatology":
+        return "sample"
+    return None
+
+
 def stats():
-    done = review = 0
+    done = 0
+    must_n = sample_n = 0
     flags = {}
     for p in sorted(os.listdir(EXPLAIN)) if os.path.isdir(EXPLAIN) else []:
         for f in os.listdir(os.path.join(EXPLAIN, p)):
             d = json.load(open(os.path.join(EXPLAIN, p, f), encoding="utf-8"))
             done += 1
-            if d.get("sensitivity", "none") != "none" or d.get("confidence", 1) < 0.85 or d.get("scholars_differ"):
-                review += 1
+            prio = review_priority(d)
+            if prio == "must":
+                must_n += 1
+            elif prio == "sample":
+                sample_n += 1
             flags[d.get("sensitivity", "none")] = flags.get(d.get("sensitivity", "none"), 0) + 1
-    print(f"explained {done}/6236 ayat · review queue {review} · by sensitivity {flags}")
+    print(f"explained {done}/6236 ayat · review queue {must_n + sample_n} ({must_n} must-review, {sample_n} sample) · by sensitivity {flags}")
 
 
 def main():
