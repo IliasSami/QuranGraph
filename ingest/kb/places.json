@@ -1,0 +1,113 @@
+[
+  {
+    "id": "makkah",
+    "name_en": "Makkah",
+    "name_ar": "مكة",
+    "name_bn": "মক্কা",
+    "aliases": [
+      "Mecca",
+      "Bakkah",
+      "Umm al-Qura"
+    ],
+    "wikidata": "Q5806",
+    "lat": 21.4225,
+    "lon": 39.8262
+  },
+  {
+    "id": "madinah",
+    "name_en": "Madinah",
+    "name_ar": "المدينة المنورة",
+    "name_bn": "মদিনা",
+    "aliases": [
+      "Medina",
+      "Yathrib"
+    ],
+    "wikidata": "Q35484",
+    "lat": 24.4672,
+    "lon": 39.6111
+  },
+  {
+    "id": "al-quds",
+    "name_en": "Jerusalem (Al-Quds / Al-Masjid al-Aqsa)",
+    "name_ar": "القدس / المسجد الأقصى",
+    "name_bn": "বায়তুল মুকাদ্দাস / আল-আকসা",
+    "aliases": [
+      "Jerusalem",
+      "Al-Aqsa"
+    ],
+    "wikidata": "Q1218",
+    "lat": 31.7761,
+    "lon": 35.2358
+  },
+  {
+    "id": "tur-sina",
+    "name_en": "Mount Sinai (Tur Sina)",
+    "name_ar": "طور سيناء",
+    "name_bn": "তূর পাহাড়",
+    "aliases": [
+      "Mount Sinai",
+      "Mount At-Tur"
+    ],
+    "wikidata": "Q377485",
+    "lat": 28.5397,
+    "lon": 33.9753
+  },
+  {
+    "id": "jabal-judi",
+    "name_en": "Mount Judi",
+    "name_ar": "الجودي",
+    "name_bn": "জুদি পর্বত",
+    "aliases": [
+      "Mount Judi"
+    ],
+    "wikidata": "Q1143899",
+    "lat": 37.3833,
+    "lon": 42.4833
+  },
+  {
+    "id": "badr",
+    "name_en": "Badr",
+    "name_ar": "بدر",
+    "name_bn": "বদর",
+    "aliases": [
+      "Badr"
+    ],
+    "wikidata": "Q816822",
+    "lat": 23.7833,
+    "lon": 38.7833
+  },
+  {
+    "id": "kaabah",
+    "name_en": "The Ka'bah",
+    "name_ar": "الكعبة",
+    "name_bn": "কা'বা শরীফ",
+    "aliases": [
+      "the Ka'bah",
+      "al-Bayt al-Haram"
+    ],
+    "wikidata": "Q42488",
+    "lat": 21.4225,
+    "lon": 39.8262
+  },
+  {
+    "id": "sijjin",
+    "name_en": "Sijjin",
+    "name_ar": "سجين",
+    "name_bn": "সিজ্জীন",
+    "aliases": [
+      "Sijjin"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "illiyyun",
+    "name_en": "'Illiyyun",
+    "name_ar": "عليون",
+    "name_bn": "ইল্লিয়্যূন",
+    "aliases": [
+      "'Illiyyun",
+      "Illiyin"
+    ],
+    "wikidata": "Q125556"
+  }
+]

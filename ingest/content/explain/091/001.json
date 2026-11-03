@@ -1,91 +1,91 @@
 {
- "id": "91:1",
- "simple_en": "This surah opens with a chain of oaths, and the first is by the sun and its duha. Duha is the bright part of the morning, when the sun has risen above the eastern horizon and its light spreads over the earth. Some early scholars took duha to mean the sun's light, and others the whole day. Allah swears by these great signs to draw our attention to them, and to the truth He is about to state.",
- "simple_bn": "এই সূরা শুরু হয়েছে একের পর এক শপথ দিয়ে, আর প্রথম শপথটি সূর্য ও তার 'দুহা'-র। দুহা হলো সকালের উজ্জ্বল সময়, যখন সূর্য পূর্ব দিগন্ত থেকে উপরে উঠে যায় আর তার আলো পৃথিবীতে ছড়িয়ে পড়ে। পূর্বসূরি কোনো কোনো আলেম দুহা বলতে সূর্যের আলো বুঝেছেন, কেউ বুঝেছেন পুরো দিন। আল্লাহ এসব বড় নিদর্শনের শপথ করেন, যাতে আমরা এগুলো নিয়ে ভাবি এবং এরপর তিনি যে সত্য বলবেন তার দিকে মনোযোগ দিই।",
- "key_words": [
-  {
-   "pos": 1,
-   "root": "شمس",
-   "lemma": "شَمْس",
-   "meaning_en": "the sun",
-   "meaning_bn": "সূর্য",
-   "why_en": "The first of the created signs Allah swears by in this surah."
+  "id": "91:1",
+  "simple_en": "This surah opens with a chain of oaths, and the first is by the sun and its duha. Duha is the bright part of the morning, when the sun has risen above the eastern horizon and its light spreads over the earth. Some early scholars took duha to mean the sun's light, and others the whole day. Allah swears by these great signs to draw our attention to them, and to the truth He is about to state.",
+  "simple_bn": "এই সূরা শুরু হয়েছে একের পর এক শপথ দিয়ে, আর প্রথম শপথটি সূর্য ও তার 'দুহা'-র। দুহা হলো সকালের উজ্জ্বল সময়, যখন সূর্য পূর্ব দিগন্ত থেকে উপরে উঠে যায় আর তার আলো পৃথিবীতে ছড়িয়ে পড়ে। পূর্বসূরি কোনো কোনো আলেম দুহা বলতে সূর্যের আলো বুঝেছেন, কেউ বুঝেছেন পুরো দিন। আল্লাহ এসব বড় নিদর্শনের শপথ করেন, যাতে আমরা এগুলো নিয়ে ভাবি এবং এরপর তিনি যে সত্য বলবেন তার দিকে মনোযোগ দিই।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "شمس",
+      "lemma": "شَمْس",
+      "meaning_en": "the sun",
+      "meaning_bn": "সূর্য",
+      "why_en": "The first of the created signs Allah swears by in this surah."
+    },
+    {
+      "pos": 2,
+      "root": "ضحو",
+      "lemma": "ضُحًى",
+      "meaning_en": "its morning brightness",
+      "meaning_bn": "তার সকালের কিরণ",
+      "why_en": "Duha is the time when the risen sun's light spreads; some took it as the sun's light or the whole day."
+    }
+  ],
+  "lesson_en": "Look at the sunrise and the daylight as signs that point to Allah, not as things to pass by without thought.",
+  "lesson_bn": "সূর্যোদয় আর দিনের আলোকে আল্লাহর নিদর্শন হিসেবে দেখুন, না ভেবে পাশ কাটিয়ে যাওয়ার জিনিস হিসেবে নয়।",
+  "real_life_en": "On your way to school or work, the morning sun comes up over the rooftops. Instead of just squinting and checking your phone, take a few seconds to notice it and remember that Allah swore by this light. A small moment of reflection can set the tone for the whole day.",
+  "real_life_bn": "স্কুল বা কাজে যাওয়ার পথে বাড়িগুলোর ছাদের উপর দিয়ে সকালের সূর্য উঠছে। শুধু চোখ কুঁচকে ফোনের দিকে না তাকিয়ে কয়েক সেকেন্ড থেমে এটি লক্ষ করুন, আর মনে করুন যে আল্লাহ এই আলোর শপথ করেছেন। ছোট্ট এই ভাবনা পুরো দিনের সুর ঠিক করে দিতে পারে।",
+  "context_en": "Ayat 1 to 7 are a series of oaths by Allah's creation; their answer comes in ayat 9 and 10: the one who purifies his soul succeeds, and the one who corrupts it fails.",
+  "context_bn": "১ থেকে ৭ নম্বর আয়াত আল্লাহর সৃষ্টির শপথের একটি ধারা; এর জবাব এসেছে ৯ ও ১০ নম্বর আয়াতে: যে নিজের আত্মাকে পবিত্র করে সে সফল, আর যে তাকে কলুষিত করে সে ব্যর্থ।",
+  "themes": [
+    "signs in nature",
+    "creation",
+    "reflection"
+  ],
+  "kinds": [
+    "oath",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the sun"
+    ]
   },
-  {
-   "pos": 2,
-   "root": "ضحو",
-   "lemma": "ضُحًى",
-   "meaning_en": "its morning brightness",
-   "meaning_bn": "তার সকালের কিরণ",
-   "why_en": "Duha is the time when the risen sun's light spreads; some took it as the sun's light or the whole day."
-  }
- ],
- "lesson_en": "Look at the sunrise and the daylight as signs that point to Allah, not as things to pass by without thought.",
- "lesson_bn": "সূর্যোদয় আর দিনের আলোকে আল্লাহর নিদর্শন হিসেবে দেখুন, না ভেবে পাশ কাটিয়ে যাওয়ার জিনিস হিসেবে নয়।",
- "real_life_en": "On your way to school or work, the morning sun comes up over the rooftops. Instead of just squinting and checking your phone, take a few seconds to notice it and remember that Allah swore by this light. A small moment of reflection can set the tone for the whole day.",
- "real_life_bn": "স্কুল বা কাজে যাওয়ার পথে বাড়িগুলোর ছাদের উপর দিয়ে সকালের সূর্য উঠছে। শুধু চোখ কুঁচকে ফোনের দিকে না তাকিয়ে কয়েক সেকেন্ড থেমে এটি লক্ষ করুন, আর মনে করুন যে আল্লাহ এই আলোর শপথ করেছেন। ছোট্ট এই ভাবনা পুরো দিনের সুর ঠিক করে দিতে পারে।",
- "context_en": "Ayat 1 to 7 are a series of oaths by Allah's creation; their answer comes in ayat 9 and 10: the one who purifies his soul succeeds, and the one who corrupts it fails.",
- "context_bn": "১ থেকে ৭ নম্বর আয়াত আল্লাহর সৃষ্টির শপথের একটি ধারা; এর জবাব এসেছে ৯ ও ১০ নম্বর আয়াতে: যে নিজের আত্মাকে পবিত্র করে সে সফল, আর যে তাকে কলুষিত করে সে ব্যর্থ।",
- "themes": [
-  "signs in nature",
-  "creation",
-  "reflection"
- ],
- "kinds": [
-  "oath",
-  "creation"
- ],
- "entities": {
-  "people": [],
-  "nations": [],
-  "places": [],
-  "unseen": [],
-  "names_of_allah": [],
-  "events": [],
-  "things": [
-   "sun"
-  ]
- },
- "claims": [
-  {
-   "text": "Allah takes an oath on the sun and its rising after it has broken onto the eastern horizon.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "qe-bengali-mokhtasar"
-   ]
-  },
-  {
-   "text": "Duha is the part of the day when the sun has risen a little and its light spreads on the earth.",
-   "sources": [
-    "g-en-maarif"
-   ]
-  },
-  {
-   "text": "Mujahid said duha means its light; Qatadah said the whole day; Sa'di explains it as its light and benefit.",
-   "sources": [
-    "g-en-ibn-kathir",
-    "g-ar-saadi",
-    "qe-bengali-zakaria"
-   ]
-  },
-  {
-   "text": "Allah's oaths by these creations give them significance and draw people to reflect on them.",
-   "sources": [
-    "g-en-maarif"
-   ]
-  },
-  {
-   "text": "The oaths are sworn over the successful soul and the failing soul (answer in 91:9-10).",
-   "sources": [
-    "g-ar-saadi",
-    "g-en-jalalayn",
-    "g-en-ibn-kathir"
-   ]
-  }
- ],
- "occasion": null,
- "sensitivity": "none",
- "scholars_differ": false,
- "confidence": 0.92,
- "uncertain": []
+  "claims": [
+    {
+      "text": "Allah takes an oath on the sun and its rising after it has broken onto the eastern horizon.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Duha is the part of the day when the sun has risen a little and its light spreads on the earth.",
+      "sources": [
+        "g-en-maarif"
+      ]
+    },
+    {
+      "text": "Mujahid said duha means its light; Qatadah said the whole day; Sa'di explains it as its light and benefit.",
+      "sources": [
+        "g-en-ibn-kathir",
+        "g-ar-saadi",
+        "qe-bengali-zakaria"
+      ]
+    },
+    {
+      "text": "Allah's oaths by these creations give them significance and draw people to reflect on them.",
+      "sources": [
+        "g-en-maarif"
+      ]
+    },
+    {
+      "text": "The oaths are sworn over the successful soul and the failing soul (answer in 91:9-10).",
+      "sources": [
+        "g-ar-saadi",
+        "g-en-jalalayn",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.92,
+  "uncertain": []
 }

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "story-yusuf",
+    "title_en": "The Story of Yusuf (peace be upon him)",
+    "title_bn": "ইউসুফ (আলাইহিস সালাম)-এর কাহিনী",
+    "surah_refs": [
+      "12:1-111"
+    ],
+    "episodes": [
+      {
+        "id": "yusuf-dream",
+        "title_en": "The Dream of Eleven Stars",
+        "title_bn": "এগারো নক্ষত্রের স্বপ্ন",
+        "ayat": "12:4-6"
+      },
+      {
+        "id": "yusuf-well",
+        "title_en": "Betrayal and the Well",
+        "title_bn": "ভাইদের ষড়যন্ত্র ও কূপে নিক্ষেপ",
+        "ayat": "12:7-20"
+      },
+      {
+        "id": "yusuf-house",
+        "title_en": "Trial in the Minister's Household",
+        "title_bn": "আযীযের ঘরে কঠিন পরীক্ষা",
+        "ayat": "12:21-34"
+      },
+      {
+        "id": "yusuf-prison",
+        "title_en": "In Prison and Interpreting Dreams",
+        "title_bn": "কারাগারে দাওয়াত ও স্বপ্নের ব্যাখ্যা",
+        "ayat": "12:35-53"
+      },
+      {
+        "id": "yusuf-ruler",
+        "title_en": "Vindication and Authority in Egypt",
+        "title_bn": "নির্দোষ প্রমাণ ও মিশরের অর্থভাণ্ডারের দায়িত্ব",
+        "ayat": "12:54-57"
+      },
+      {
+        "id": "yusuf-reunion",
+        "title_en": "The Brothers Return and the Reunion",
+        "title_bn": "ভাইদের আগমন ও পারিবারিক মিলন",
+        "ayat": "12:58-101"
+      }
+    ]
+  },
+  {
+    "id": "story-musa",
+    "title_en": "The Story of Musa (peace be upon him)",
+    "title_bn": "মূসা (আলাইহিস সালাম)-এর কাহিনী",
+    "surah_refs": [
+      "20:9-98",
+      "26:10-68",
+      "28:3-43"
+    ],
+    "episodes": [
+      {
+        "id": "musa-birth",
+        "title_en": "Birth and the River",
+        "title_bn": "জন্ম ও নদীতে ভাসিয়ে দেওয়া",
+        "ayat": "28:7-13"
+      },
+      {
+        "id": "musa-midian",
+        "title_en": "Escape to Midian and Marriage",
+        "title_bn": "মাদইয়ানে পলায়ন ও বসবাস",
+        "ayat": "28:20-28"
+      },
+      {
+        "id": "musa-fire",
+        "title_en": "The Burning Bush and Prophethood",
+        "title_bn": "তূর পর্বতে আগুন ও নবুওয়াত লাভ",
+        "ayat": "20:9-36"
+      },
+      {
+        "id": "musa-pharaoh",
+        "title_en": "Confronting Pharaoh and the Magicians",
+        "title_bn": "ফেরাউনের দরবারে দাওয়াত ও জাদুকরদের ঈমান",
+        "ayat": "20:42-76"
+      },
+      {
+        "id": "musa-exodus",
+        "title_en": "Parting of the Sea and Drowning of Pharaoh",
+        "title_bn": "সাগর পাড়ি ও ফেরাউনের সলিলসমাধি",
+        "ayat": "26:60-68"
+      },
+      {
+        "id": "musa-calf",
+        "title_en": "Mount Sinai and the Golden Calf Trial",
+        "title_bn": "তূর পাহাড়ে তাওরাত লাভ ও বাছুর পূজার ফিতনা",
+        "ayat": "20:83-98"
+      },
+      {
+        "id": "musa-khidr",
+        "title_en": "Journey of Knowledge with Al-Khidr",
+        "title_bn": "খিদর (আ.)-এর সাথে জ্ঞানের সফর",
+        "ayat": "18:60-82"
+      }
+    ]
+  },
+  {
+    "id": "story-ibrahim",
+    "title_en": "The Story of Ibrahim (peace be upon him)",
+    "title_bn": "ইবরাহীম (আলাইহিস সালাম)-এর কাহিনী",
+    "surah_refs": [
+      "6:74-83",
+      "19:41-50",
+      "21:51-73",
+      "37:83-113"
+    ],
+    "episodes": [
+      {
+        "id": "ibrahim-youth",
+        "title_en": "Reflecting on Stars and Calling His Father",
+        "title_bn": "নক্ষত্র দেখে চিন্তাভাবনা ও পিতাকে দাওয়াত",
+        "ayat": "6:74-83"
+      },
+      {
+        "id": "ibrahim-idols",
+        "title_en": "Breaking the Idols and the Blazing Fire",
+        "title_bn": "মূর্তি ভাঙা ও অগ্নিকুণ্ডে নিক্ষেপ",
+        "ayat": "21:51-70"
+      },
+      {
+        "id": "ibrahim-sacrifice",
+        "title_en": "The Great Vision and Sacrifice",
+        "title_bn": "স্বপ্নে নির্দেশ ও কুরবানীর মহা পরীক্ষা",
+        "ayat": "37:100-111"
+      },
+      {
+        "id": "ibrahim-kaabah",
+        "title_en": "Building the Ka'bah with Isma'il",
+        "title_bn": "পুত্র ইসমাঈলকে নিয়ে কা'বা পুনর্নির্মাণ",
+        "ayat": "2:125-129"
+      }
+    ]
+  },
+  {
+    "id": "story-ukhdud",
+    "title_en": "The People of the Ditch (Ashab al-Ukhdud)",
+    "title_bn": "আসহাবুল উখদূদ (গর্তওয়ালাদের ঘটনা)",
+    "surah_refs": [
+      "85:4-9"
+    ],
+    "episodes": [
+      {
+        "id": "ukhdud-persecution",
+        "title_en": "Persecution of the Believing People",
+        "title_bn": "বিশ্বাসী মুমিনদের অগ্নিকুণ্ডে পুড়িয়ে হত্যা",
+        "ayat": "85:4-8"
+      }
+    ]
+  },
+  {
+    "id": "story-fil",
+    "title_en": "The People of the Elephant (Ashab al-Fil)",
+    "title_bn": "আসহাবুল ফীল (হাতিওয়ালাদের ধ্বংসের ঘটনা)",
+    "surah_refs": [
+      "105:1-5"
+    ],
+    "episodes": [
+      {
+        "id": "fil-destruction",
+        "title_en": "Destruction of the Army of the Elephant",
+        "title_bn": "ঝাঁকে ঝাঁকে পাখি ও পোড়ামাটির পাথরে সেনাদল ধ্বংস",
+        "ayat": "105:1-5"
+      }
+    ]
+  },
+  {
+    "id": "story-ad-thamud",
+    "title_en": "The Destruction of 'Ad and Thamud",
+    "title_bn": "'আদ ও সামূদ জাতির পরিণতি",
+    "surah_refs": [
+      "89:6-14",
+      "91:11-15"
+    ],
+    "episodes": [
+      {
+        "id": "ad-thamud-warning",
+        "title_en": "Defiance and Punishment of Ancient Tyrants",
+        "title_bn": "অহংকার ও খোদায়ী আযাবের বাস্তব নিদর্শন",
+        "ayat": "89:6-14"
+      }
+    ]
+  }
+]

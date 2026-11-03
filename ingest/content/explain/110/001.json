@@ -1,99 +1,99 @@
 {
- "id": "110:1",
- "simple_en": "Allah speaks to the Prophet ﷺ about a promised time: when Allah's help arrives and the victory comes. This help is Allah's support granting success to His religion against its enemies. The victory spoken of is the conquest of Makkah, which opened Arabia to Islam. As the Companion Ibn 'Abbas confirmed, this was the last complete surah of the Quran to be revealed.",
- "simple_bn": "আল্লাহ নবী ﷺ-কে এক প্রতিশ্রুতি সময়ের কথা জানাচ্ছেন: যখন আল্লাহর সাহায্য আসবে এবং মহাবিজয় অর্জিত হবে। এই সাহায্য হলো সত্য দীনের প্রচার ও প্রতিষ্ঠার জন্য শত্রুদের বিরুদ্ধে আল্লাহর বিশেষ সহায়তা। এখানে বিজয় বলতে সর্বসম্মতিক্রমে ঐতিহাসিক মক্কা বিজয়কে বোঝানো হয়েছে। হযরত ইবনে আব্বাস (রা.)-এর বর্ণনা মতে, এটিই ছিল কুরআনের সর্বশেষ নাজিল হওয়া পূর্ণাঙ্গ সূরা।",
- "key_words": [
-  {
-   "pos": 3,
-   "root": "نصر",
-   "lemma": "نَصْر",
-   "meaning_en": "help, support",
-   "meaning_bn": "সাহায্য",
-   "why_en": "Called \"Allah's help\": victory comes from Him, not from numbers or strength."
+  "id": "110:1",
+  "simple_en": "Allah speaks to the Prophet ﷺ about a promised time: when Allah's help arrives and the victory comes. This help is Allah's support granting success to His religion against its enemies. The victory spoken of is the conquest of Makkah, which opened Arabia to Islam. As the Companion Ibn 'Abbas confirmed, this was the last complete surah of the Quran to be revealed.",
+  "simple_bn": "আল্লাহ নবী ﷺ-কে এক প্রতিশ্রুতি সময়ের কথা জানাচ্ছেন: যখন আল্লাহর সাহায্য আসবে এবং মহাবিজয় অর্জিত হবে। এই সাহায্য হলো সত্য দীনের প্রচার ও প্রতিষ্ঠার জন্য শত্রুদের বিরুদ্ধে আল্লাহর বিশেষ সহায়তা। এখানে বিজয় বলতে সর্বসম্মতিক্রমে ঐতিহাসিক মক্কা বিজয়কে বোঝানো হয়েছে। হযরত ইবনে আব্বাস (রা.)-এর বর্ণনা মতে, এটিই ছিল কুরআনের সর্বশেষ নাজিল হওয়া পূর্ণাঙ্গ সূরা।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نصر",
+      "lemma": "نَصْر",
+      "meaning_en": "help, support",
+      "meaning_bn": "সাহায্য",
+      "why_en": "Called \"Allah's help\": victory comes from Him, not from numbers or strength."
+    },
+    {
+      "pos": 5,
+      "root": "فتح",
+      "lemma": "فَتْح",
+      "meaning_en": "the victory, the opening",
+      "meaning_bn": "বিজয়",
+      "why_en": "From the root of opening: here the conquest of Makkah."
+    }
+  ],
+  "lesson_en": "Success comes from Allah, so we should give Him the credit when it comes.",
+  "lesson_bn": "সফলতা আসে আল্লাহর কাছ থেকে, তাই তা এলে কৃতিত্ব তাঁকেই দেওয়া উচিত।",
+  "real_life_en": "Your team finally wins the big project after months of effort. Before you talk about how hard you worked, say \"This is from Allah's help.\" Your effort mattered. But the open door came from Him.",
+  "real_life_bn": "মাসের পর মাস চেষ্টার পর আপনার দল অবশেষে বড় প্রকল্পটি পেল। কত পরিশ্রম করেছেন তা বলার আগে বলুন, \"এটা আল্লাহর সাহায্যে হয়েছে।\" আপনার চেষ্টার মূল্য আছে, কিন্তু দরজাটা খুলেছেন তিনিই।",
+  "context_en": "Ma'ariful Qur'an notes this surah is also called at-Tawdi', the Farewell, because it signalled that the Prophet's life ﷺ was nearing its end.",
+  "context_bn": "মাআরিফুল কুরআন উল্লেখ করেছে, এই সূরার আরেক নাম 'আত-তাওদী', অর্থাৎ বিদায়; কারণ এটি নবী ﷺ-এর জীবনের শেষ সময় ঘনিয়ে আসার ইঙ্গিত দিয়েছিল।",
+  "themes": [
+    "Prophet Muhammad ﷺ",
+    "Allah's power",
+    "glad tidings"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "address",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ",
+      "Ibn 'Abbas"
+    ],
+    "nations": [
+      "Quraysh"
+    ],
+    "places": [
+      "Makkah"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Conquest of Makkah"
+    ],
+    "things": []
   },
-  {
-   "pos": 5,
-   "root": "فتح",
-   "lemma": "فَتْح",
-   "meaning_en": "the victory, the opening",
-   "meaning_bn": "বিজয়",
-   "why_en": "From the root of opening: here the conquest of Makkah."
-  }
- ],
- "lesson_en": "Success comes from Allah, so we should give Him the credit when it comes.",
- "lesson_bn": "সফলতা আসে আল্লাহর কাছ থেকে, তাই তা এলে কৃতিত্ব তাঁকেই দেওয়া উচিত।",
- "real_life_en": "Your team finally wins the big project after months of effort. Before you talk about how hard you worked, say \"This is from Allah's help.\" Your effort mattered. But the open door came from Him.",
- "real_life_bn": "মাসের পর মাস চেষ্টার পর আপনার দল অবশেষে বড় প্রকল্পটি পেল। কত পরিশ্রম করেছেন তা বলার আগে বলুন, \"এটা আল্লাহর সাহায্যে হয়েছে।\" আপনার চেষ্টার মূল্য আছে, কিন্তু দরজাটা খুলেছেন তিনিই।",
- "context_en": "Ma'ariful Qur'an notes this surah is also called at-Tawdi', the Farewell, because it signalled that the Prophet's life ﷺ was nearing its end.",
- "context_bn": "মাআরিফুল কুরআন উল্লেখ করেছে, এই সূরার আরেক নাম 'আত-তাওদী', অর্থাৎ বিদায়; কারণ এটি নবী ﷺ-এর জীবনের শেষ সময় ঘনিয়ে আসার ইঙ্গিত দিয়েছিল।",
- "themes": [
-  "Prophet Muhammad ﷺ",
-  "Allah's power",
-  "glad tidings"
- ],
- "kinds": [
-  "glad-tidings",
-  "address",
-  "promise"
- ],
- "entities": {
-  "people": [
-   "Prophet Muhammad ﷺ",
-   "Ibn 'Abbas"
+  "claims": [
+    {
+      "text": "When Allah's help comes for His religion and Makkah is conquered.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-arabic-moyassar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Al-Fath here means the conquest of Makkah, with only one view on it.",
+      "sources": [
+        "g-en-ibn-kathir",
+        "g-en-maarif",
+        "qe-bengali-zakaria"
+      ]
+    },
+    {
+      "text": "Ibn 'Abbas confirmed that this was the last (complete) surah revealed.",
+      "sources": [
+        "g-en-ibn-kathir",
+        "g-en-maarif",
+        "qe-bengali-zakaria"
+      ]
+    },
+    {
+      "text": "It is also called Surah at-Tawdi' (Farewell), as it indicates the approach of the Prophet's death.",
+      "sources": [
+        "g-en-maarif"
+      ]
+    }
   ],
-  "nations": [
-   "Quraysh"
-  ],
-  "places": [
-   "Makkah"
-  ],
-  "unseen": [],
-  "names_of_allah": [
-   "Allah"
-  ],
-  "events": [
-   "the conquest of Makkah"
-  ],
-  "things": []
- },
- "claims": [
-  {
-   "text": "When Allah's help comes for His religion and Makkah is conquered.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "qe-bengali-mokhtasar",
-    "qe-arabic-moyassar",
-    "g-en-jalalayn"
-   ]
-  },
-  {
-   "text": "Al-Fath here means the conquest of Makkah, with only one view on it.",
-   "sources": [
-    "g-en-ibn-kathir",
-    "g-en-maarif",
-    "qe-bengali-zakaria"
-   ]
-  },
-  {
-   "text": "Ibn 'Abbas confirmed that this was the last (complete) surah revealed.",
-   "sources": [
-    "g-en-ibn-kathir",
-    "g-en-maarif",
-    "qe-bengali-zakaria"
-   ]
-  },
-  {
-   "text": "It is also called Surah at-Tawdi' (Farewell), as it indicates the approach of the Prophet's death.",
-   "sources": [
-    "g-en-maarif"
-   ]
-  }
- ],
- "occasion": null,
- "sensitivity": "none",
- "scholars_differ": true,
- "differ_note_en": "All agree the victory is the conquest of Makkah, but Ma'ariful Qur'an reports that scholars differ on when the surah came down: before the conquest (one report says on the way back from Khaybar), at the conquest, or during the Farewell Pilgrimage (the view of Ibn 'Umar).",
- "differ_note_bn": "বিজয় মানে মক্কা বিজয়, এ নিয়ে সবাই একমত। তবে মাআরিফুল কুরআন জানিয়েছে, সূরাটি কখন নাজিল হয়েছে তা নিয়ে মতভেদ আছে: মক্কা বিজয়ের আগে (এক বর্ণনায় খাইবার থেকে ফেরার পথে), বিজয়ের সময়, অথবা বিদায় হজ্জের সময় (ইবনে উমর (রা.)-এর মত)।",
- "confidence": 0.9,
- "uncertain": []
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": true,
+  "differ_note_en": "All agree the victory is the conquest of Makkah, but Ma'ariful Qur'an reports that scholars differ on when the surah came down: before the conquest (one report says on the way back from Khaybar), at the conquest, or during the Farewell Pilgrimage (the view of Ibn 'Umar).",
+  "differ_note_bn": "বিজয় মানে মক্কা বিজয়, এ নিয়ে সবাই একমত। তবে মাআরিফুল কুরআন জানিয়েছে, সূরাটি কখন নাজিল হয়েছে তা নিয়ে মতভেদ আছে: মক্কা বিজয়ের আগে (এক বর্ণনায় খাইবার থেকে ফেরার পথে), বিজয়ের সময়, অথবা বিদায় হজ্জের সময় (ইবনে উমর (রা.)-এর মত)।",
+  "confidence": 0.9,
+  "uncertain": []
 }

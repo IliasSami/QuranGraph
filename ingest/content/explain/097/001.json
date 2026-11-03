@@ -1,105 +1,105 @@
 {
- "id": "97:1",
- "simple_en": "Allah tells us He sent the Quran down on Laylat al-Qadr, the Night of Decree, which falls in Ramadan. On that night the whole Quran was sent down at once to the lowest heaven, before coming to the Prophet ﷺ in parts over twenty-three years, and his revelation also began on that night. It is called the Night of Qadr for its great worth with Allah, and because the year's affairs are measured out in it.",
- "simple_bn": "আল্লাহ জানাচ্ছেন, তিনি কুরআন নাযিল করেছেন লাইলাতুল কদরে, যা রমযান মাসে আসে। সেই রাতে পুরো কুরআন একসাথে দুনিয়ার আসমানে নাযিল করা হয়। তারপর তেইশ বছর ধরে অল্প অল্প করে তা নবী ﷺ-এর কাছে এসেছে, আর তাঁর উপর ওহীর সূচনাও হয়েছিল সেই রাতেই। আল্লাহর কাছে এর বিশাল মর্যাদার কারণে একে কদরের রাত বলা হয়, আর এ জন্যও যে এ রাতে সারা বছরের বিষয়গুলো নির্ধারণ করা হয়।",
- "key_words": [
-  {
-   "pos": 2,
-   "root": "نزل",
-   "lemma": "أَنزَلَ",
-   "meaning_en": "We sent it down",
-   "meaning_bn": "আমরা তা নাযিল করেছি",
-   "why_en": "\"It\" is the Quran, named so clearly it needs no mention."
+  "id": "97:1",
+  "simple_en": "Allah tells us He sent the Quran down on Laylat al-Qadr, the Night of Decree, which falls in Ramadan. On that night the whole Quran was sent down at once to the lowest heaven, before coming to the Prophet ﷺ in parts over twenty-three years, and his revelation also began on that night. It is called the Night of Qadr for its great worth with Allah, and because the year's affairs are measured out in it.",
+  "simple_bn": "আল্লাহ জানাচ্ছেন, তিনি কুরআন নাযিল করেছেন লাইলাতুল কদরে, যা রমযান মাসে আসে। সেই রাতে পুরো কুরআন একসাথে দুনিয়ার আসমানে নাযিল করা হয়। তারপর তেইশ বছর ধরে অল্প অল্প করে তা নবী ﷺ-এর কাছে এসেছে, আর তাঁর উপর ওহীর সূচনাও হয়েছিল সেই রাতেই। আল্লাহর কাছে এর বিশাল মর্যাদার কারণে একে কদরের রাত বলা হয়, আর এ জন্যও যে এ রাতে সারা বছরের বিষয়গুলো নির্ধারণ করা হয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نزل",
+      "lemma": "أَنزَلَ",
+      "meaning_en": "We sent it down",
+      "meaning_bn": "আমরা তা নাযিল করেছি",
+      "why_en": "\"It\" is the Quran, named so clearly it needs no mention."
+    },
+    {
+      "pos": 4,
+      "root": "ليل",
+      "lemma": "لَيْلَة",
+      "meaning_en": "night",
+      "meaning_bn": "রাত",
+      "why_en": "One night chosen above others for the Quran's descent."
+    },
+    {
+      "pos": 5,
+      "root": "قدر",
+      "lemma": "قَدْر",
+      "meaning_en": "Qadr: honour, decree",
+      "meaning_bn": "কদর: মর্যাদা, নির্ধারণ",
+      "why_en": "The root carries both meanings: great worth, and measuring out what will happen."
+    }
+  ],
+  "lesson_en": "The Quran is so great that the night it came down became the best night of the year. Value it by reading and living it.",
+  "lesson_bn": "কুরআন এত মহান যে, যে রাতে তা নাযিল হয়েছে সেটি বছরের শ্রেষ্ঠ রাত হয়ে গেছে। পড়ে ও মেনে চলে কুরআনের মূল্য দিন।",
+  "real_life_en": "In Ramadan, a family decides that each evening one of them will read a short passage of the Quran with its meaning to the others. They remember that this month, and one night in it, are honoured because of this very Book.",
+  "real_life_bn": "রমযানে একটি পরিবার ঠিক করল, প্রতি সন্ধ্যায় তাদের একজন বাকিদের কুরআনের একটি ছোট অংশ অর্থসহ পড়ে শোনাবে। তারা মনে রাখে, এই মাস আর এর একটি রাত সম্মানিত হয়েছে ঠিক এই কিতাবের কারণেই।",
+  "context_en": "Ibn Kathir links this with 44:3 (\"We sent it down on a blessed night\") and 2:185 (\"the month of Ramadan in which the Quran was revealed\").",
+  "context_bn": "ইবনে কাসীর এ আয়াতকে মিলিয়েছেন ৪৪:৩ (\"আমরা একে এক বরকতময় রাতে নাযিল করেছি\") এবং ২:১৮৫ (\"রমযান মাস, যাতে কুরআন নাযিল হয়েছে\") এর সাথে।",
+  "themes": [
+    "the Quran",
+    "revelation",
+    "fasting"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "praise"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "the Preserved Tablet"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Laylat al-Qadr",
+      "first revelation"
+    ],
+    "things": [
+      "the Quran"
+    ]
   },
-  {
-   "pos": 4,
-   "root": "ليل",
-   "lemma": "لَيْلَة",
-   "meaning_en": "night",
-   "meaning_bn": "রাত",
-   "why_en": "One night chosen above others for the Quran's descent."
-  },
-  {
-   "pos": 5,
-   "root": "قدر",
-   "lemma": "قَدْر",
-   "meaning_en": "Qadr: honour, decree",
-   "meaning_bn": "কদর: মর্যাদা, নির্ধারণ",
-   "why_en": "The root carries both meanings: great worth, and measuring out what will happen."
-  }
- ],
- "lesson_en": "The Quran is so great that the night it came down became the best night of the year. Value it by reading and living it.",
- "lesson_bn": "কুরআন এত মহান যে, যে রাতে তা নাযিল হয়েছে সেটি বছরের শ্রেষ্ঠ রাত হয়ে গেছে। পড়ে ও মেনে চলে কুরআনের মূল্য দিন।",
- "real_life_en": "In Ramadan, a family decides that each evening one of them will read a short passage of the Quran with its meaning to the others. They remember that this month, and one night in it, are honoured because of this very Book.",
- "real_life_bn": "রমযানে একটি পরিবার ঠিক করল, প্রতি সন্ধ্যায় তাদের একজন বাকিদের কুরআনের একটি ছোট অংশ অর্থসহ পড়ে শোনাবে। তারা মনে রাখে, এই মাস আর এর একটি রাত সম্মানিত হয়েছে ঠিক এই কিতাবের কারণেই।",
- "context_en": "Ibn Kathir links this with 44:3 (\"We sent it down on a blessed night\") and 2:185 (\"the month of Ramadan in which the Quran was revealed\").",
- "context_bn": "ইবনে কাসীর এ আয়াতকে মিলিয়েছেন ৪৪:৩ (\"আমরা একে এক বরকতময় রাতে নাযিল করেছি\") এবং ২:১৮৫ (\"রমযান মাস, যাতে কুরআন নাযিল হয়েছে\") এর সাথে।",
- "themes": [
-  "the Quran",
-  "revelation",
-  "fasting"
- ],
- "kinds": [
-  "description-of-allah",
-  "praise"
- ],
- "entities": {
-  "people": [
-   "Prophet Muhammad ﷺ"
+  "claims": [
+    {
+      "text": "Allah revealed the Quran at once to the lowest heaven, and began revealing it to Muhammad ﷺ, on the Night of Decree in Ramadan.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Ibn 'Abbas and others: it was sent down all at once from the Preserved Tablet to Bayt al-'Izzah in the lowest heaven, then in parts to the Prophet ﷺ over twenty-three years.",
+      "sources": [
+        "g-en-ibn-kathir",
+        "g-bn-ahsanul-bayan",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Sa'di: it is named for its great worth with Allah and because the year's lifespans, provisions and decrees are measured out in it.",
+      "sources": [
+        "g-ar-saadi",
+        "qe-bengali-zakaria",
+        "g-en-maarif"
+      ]
+    },
+    {
+      "text": "It is the blessed night of 44:3 and is in Ramadan (2:185).",
+      "sources": [
+        "g-en-ibn-kathir",
+        "g-bn-ahsanul-bayan"
+      ]
+    }
   ],
-  "nations": [],
-  "places": [],
-  "unseen": [
-   "the Preserved Tablet"
-  ],
-  "names_of_allah": [],
-  "events": [
-   "Laylat al-Qadr",
-   "the first revelation"
-  ],
-  "things": [
-   "the Quran"
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.9,
+  "uncertain": [
+    "Tanzil's Arabic line for 97:1 has the Basmalah joined to the ayah text.",
+    "Zakaria's footnote for 97:1 is cut off mid-word in the source data."
   ]
- },
- "claims": [
-  {
-   "text": "Allah revealed the Quran at once to the lowest heaven, and began revealing it to Muhammad ﷺ, on the Night of Decree in Ramadan.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "qe-bengali-mokhtasar",
-    "g-ar-saadi"
-   ]
-  },
-  {
-   "text": "Ibn 'Abbas and others: it was sent down all at once from the Preserved Tablet to Bayt al-'Izzah in the lowest heaven, then in parts to the Prophet ﷺ over twenty-three years.",
-   "sources": [
-    "g-en-ibn-kathir",
-    "g-bn-ahsanul-bayan",
-    "g-en-jalalayn"
-   ]
-  },
-  {
-   "text": "Sa'di: it is named for its great worth with Allah and because the year's lifespans, provisions and decrees are measured out in it.",
-   "sources": [
-    "g-ar-saadi",
-    "qe-bengali-zakaria",
-    "g-en-maarif"
-   ]
-  },
-  {
-   "text": "It is the blessed night of 44:3 and is in Ramadan (2:185).",
-   "sources": [
-    "g-en-ibn-kathir",
-    "g-bn-ahsanul-bayan"
-   ]
-  }
- ],
- "occasion": null,
- "sensitivity": "none",
- "scholars_differ": false,
- "confidence": 0.9,
- "uncertain": [
-  "Tanzil's Arabic line for 97:1 has the Basmalah joined to the ayah text.",
-  "Zakaria's footnote for 97:1 is cut off mid-word in the source data."
- ]
 }

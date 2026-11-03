@@ -1,0 +1,220 @@
+[
+  {
+    "id": "paradise",
+    "name_en": "Paradise (Jannah)",
+    "name_ar": "الجنة",
+    "name_bn": "জান্নাত",
+    "type": "realm",
+    "aliases": [
+      "Paradise",
+      "Jannah",
+      "Gardens of Eden"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "hell",
+    "name_en": "Hell (Jahannam)",
+    "name_ar": "جهنم",
+    "name_bn": "জাহান্নাম",
+    "type": "realm",
+    "aliases": [
+      "Hell",
+      "Jahannam",
+      "the Fire"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "angels",
+    "name_en": "The Angels (Mala'ikah)",
+    "name_ar": "الملائكة",
+    "name_bn": "ফেরেশতাগণ",
+    "type": "beings",
+    "aliases": [
+      "angels",
+      "Mala'ikah"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "jibril",
+    "name_en": "Angel Jibril (peace be upon him)",
+    "name_ar": "جبريل",
+    "name_bn": "জিবরীল (আলাইহিস সালাম)",
+    "type": "angel",
+    "aliases": [
+      "Jibril",
+      "Gabriel",
+      "the Holy Spirit",
+      "Ruh al-Qudus"
+    ],
+    "wikidata": "Q43668"
+  },
+  {
+    "id": "mikail",
+    "name_en": "Angel Mika'il (peace be upon him)",
+    "name_ar": "ميكائيل",
+    "name_bn": "মীকাঈল (আলাইহিস সালাম)",
+    "type": "angel",
+    "aliases": [
+      "Mika'il",
+      "Michael"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "israfil",
+    "name_en": "Angel Israfil (peace be upon him)",
+    "name_ar": "إسرافيل",
+    "name_bn": "ইসরাফীল (আলাইহিস সালাম)",
+    "type": "angel",
+    "aliases": [
+      "Israfil",
+      "the Angel of the Trumpet"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "malik",
+    "name_en": "Angel Malik (Keeper of Hell)",
+    "name_ar": "مالك",
+    "name_bn": "মালিক (জাহান্নামের দারোয়ান)",
+    "type": "angel",
+    "aliases": [
+      "Malik"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "satan",
+    "name_en": "Satan (Shaytan / Iblis)",
+    "name_ar": "الشيطان / إبليس",
+    "name_bn": "শয়তান / ইবলিস",
+    "type": "jinn",
+    "aliases": [
+      "Satan",
+      "Shaytan",
+      "Iblis"
+    ],
+    "wikidata": "Q35442"
+  },
+  {
+    "id": "jinn",
+    "name_en": "The Jinn",
+    "name_ar": "الجن",
+    "name_bn": "জ্বিন জাতি",
+    "type": "beings",
+    "aliases": [
+      "jinn",
+      "Al-Jinn"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "throne",
+    "name_en": "The Throne of Allah (Al-'Arsh)",
+    "name_ar": "العرش",
+    "name_bn": "আল্লাহর আরশ",
+    "type": "unseen_creation",
+    "aliases": [
+      "the Throne",
+      "Al-'Arsh"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "kursi",
+    "name_en": "The Footstool (Al-Kursi)",
+    "name_ar": "الكرسي",
+    "name_bn": "কুরসী",
+    "type": "unseen_creation",
+    "aliases": [
+      "the Kursi",
+      "Al-Kursi"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "preserved-tablet",
+    "name_en": "The Preserved Tablet (Al-Lawh al-Mahfuz)",
+    "name_ar": "اللوح المحفوظ",
+    "name_bn": "লওহে মাহফুজ",
+    "type": "unseen_creation",
+    "aliases": [
+      "the Preserved Tablet",
+      "Al-Lawh al-Mahfuz"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "recording-angels",
+    "name_en": "The Noble Recording Angels (Al-Kiram al-Katibin)",
+    "name_ar": "الكرام الكاتبين",
+    "name_bn": "সম্মানিত লেখক ফেরেশতাগণ",
+    "type": "angel",
+    "aliases": [
+      "recording angels",
+      "Kiram Katibin"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "zabaniyah",
+    "name_en": "Az-Zabaniyah (Angels of Hellfire)",
+    "name_ar": "الزبانية",
+    "name_bn": "জাহান্নামের কঠোর প্রহরী ফেরেশতা",
+    "type": "angel",
+    "aliases": [
+      "Zabaniyah"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "al-kawthar",
+    "name_en": "Al-Kawthar (River of Abundance in Paradise)",
+    "name_ar": "الكوثر",
+    "name_bn": "আল-কাওসার",
+    "type": "realm_feature",
+    "aliases": [
+      "al-Kawthar",
+      "river in Paradise"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "tasnim",
+    "name_en": "Tasnim (Spring in Paradise)",
+    "name_ar": "تسنيم",
+    "name_bn": "তাসনীম",
+    "type": "realm_feature",
+    "aliases": [
+      "Tasnim"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "the-scale",
+    "name_en": "The Scale of Deeds (Al-Mizan)",
+    "name_ar": "الميزان",
+    "name_bn": "মিযান (আমলের পাল্লা)",
+    "type": "unseen_creation",
+    "aliases": [
+      "the Scale",
+      "Al-Mizan"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "record-of-deeds",
+    "name_en": "The Record of Deeds (Kitab al-A'mal)",
+    "name_ar": "صحائف الأعمال",
+    "name_bn": "আমলনামা",
+    "type": "unseen_creation",
+    "aliases": [
+      "record of deeds",
+      "books of deeds"
+    ],
+    "wikidata": "Q125556"
+  }
+]

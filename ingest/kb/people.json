@@ -1,0 +1,544 @@
+[
+  {
+    "id": "adam",
+    "name_en": "Adam (peace be upon him)",
+    "name_ar": "آدم",
+    "name_bn": "আদম (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Adam"
+    ],
+    "wikidata": "Q70899"
+  },
+  {
+    "id": "idris",
+    "name_en": "Idris (peace be upon him)",
+    "name_ar": "إدريس",
+    "name_bn": "ইদরীস (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Idris",
+      "Enoch"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "nuh",
+    "name_en": "Nuh (peace be upon him)",
+    "name_ar": "نوح",
+    "name_bn": "নূহ (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Nuh",
+      "Noah"
+    ],
+    "wikidata": "Q81422"
+  },
+  {
+    "id": "hud",
+    "name_en": "Hud (peace be upon him)",
+    "name_ar": "هود",
+    "name_bn": "হুদ (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Hud",
+      "Heber"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "salih",
+    "name_en": "Salih (peace be upon him)",
+    "name_ar": "صالح",
+    "name_bn": "সালিহ (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Salih",
+      "Saleh"
+    ],
+    "wikidata": "Q244243"
+  },
+  {
+    "id": "ibrahim",
+    "name_en": "Ibrahim (peace be upon him)",
+    "name_ar": "إبراهيم",
+    "name_bn": "ইবরাহীম (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Ibrahim",
+      "Abraham"
+    ],
+    "wikidata": "Q9184"
+  },
+  {
+    "id": "lut",
+    "name_en": "Lut (peace be upon him)",
+    "name_ar": "لوط",
+    "name_bn": "লূত (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Lut",
+      "Lot"
+    ],
+    "wikidata": "Q405414"
+  },
+  {
+    "id": "ismail",
+    "name_en": "Isma'il (peace be upon him)",
+    "name_ar": "إسماعيل",
+    "name_bn": "ইসমাঈল (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Isma'il",
+      "Ishmael"
+    ],
+    "wikidata": "Q131590"
+  },
+  {
+    "id": "ishaq",
+    "name_en": "Ishaq (peace be upon him)",
+    "name_ar": "إسحاق",
+    "name_bn": "ইসহাক (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Ishaq",
+      "Isaac"
+    ],
+    "wikidata": "Q131458"
+  },
+  {
+    "id": "yaqub",
+    "name_en": "Ya'qub (peace be upon him)",
+    "name_ar": "يعقوب",
+    "name_bn": "ইয়াকূব (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Ya'qub",
+      "Jacob",
+      "Israel"
+    ],
+    "wikidata": "Q131458"
+  },
+  {
+    "id": "yusuf",
+    "name_en": "Yusuf (peace be upon him)",
+    "name_ar": "يوسف",
+    "name_bn": "ইউসুফ (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Yusuf",
+      "Joseph"
+    ],
+    "wikidata": "Q140124"
+  },
+  {
+    "id": "ayyub",
+    "name_en": "Ayyub (peace be upon him)",
+    "name_ar": "أيوب",
+    "name_bn": "আইয়ূব (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Ayyub",
+      "Job"
+    ],
+    "wikidata": "Q180890"
+  },
+  {
+    "id": "shuayb",
+    "name_en": "Shu'ayb (peace be upon him)",
+    "name_ar": "شعيب",
+    "name_bn": "শু'আইব (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Shu'ayb",
+      "Jethro"
+    ],
+    "wikidata": "Q244243"
+  },
+  {
+    "id": "musa",
+    "name_en": "Musa (peace be upon him)",
+    "name_ar": "موسى",
+    "name_bn": "মূসা (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Musa",
+      "Moses"
+    ],
+    "wikidata": "Q9077"
+  },
+  {
+    "id": "harun",
+    "name_en": "Harun (peace be upon him)",
+    "name_ar": "هارون",
+    "name_bn": "হারূন (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Harun",
+      "Aaron"
+    ],
+    "wikidata": "Q104523"
+  },
+  {
+    "id": "dhul-kifl",
+    "name_en": "Dhul-Kifl (peace be upon him)",
+    "name_ar": "ذو الكفل",
+    "name_bn": "যুল-কিফ্‌ল (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Dhul-Kifl",
+      "Ezekiel"
+    ],
+    "wikidata": "Q193630"
+  },
+  {
+    "id": "dawud",
+    "name_en": "Dawud (peace be upon him)",
+    "name_ar": "داود",
+    "name_bn": "দাউদ (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Dawud",
+      "David"
+    ],
+    "wikidata": "Q185527"
+  },
+  {
+    "id": "sulayman",
+    "name_en": "Sulayman (peace be upon him)",
+    "name_ar": "سليمان",
+    "name_bn": "সুলাইমান (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Sulayman",
+      "Solomon"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "ilyas",
+    "name_en": "Ilyas (peace be upon him)",
+    "name_ar": "إلياس",
+    "name_bn": "ইলিয়াস (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Ilyas",
+      "Elijah"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "al-yasa",
+    "name_en": "Al-Yasa' (peace be upon him)",
+    "name_ar": "اليسع",
+    "name_bn": "আল-ইয়াসা' (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Al-Yasa",
+      "Elisha"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "yunus",
+    "name_en": "Yunus (peace be upon him)",
+    "name_ar": "يونس",
+    "name_bn": "ইউনুস (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Yunus",
+      "Jonah",
+      "Dhul-Nun"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "zakariyya",
+    "name_en": "Zakariyya (peace be upon him)",
+    "name_ar": "زكريا",
+    "name_bn": "যাকারিয়্যা (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Zakariyya",
+      "Zechariah"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "yahya",
+    "name_en": "Yahya (peace be upon him)",
+    "name_ar": "يحيى",
+    "name_bn": "ইয়াহইয়া (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Yahya",
+      "John the Baptist"
+    ],
+    "wikidata": "Q218413"
+  },
+  {
+    "id": "isa",
+    "name_en": "Isa (peace be upon him)",
+    "name_ar": "عيسى",
+    "name_bn": "ঈসা (আলাইহিস সালাম)",
+    "role": "prophet",
+    "aliases": [
+      "Isa",
+      "Jesus",
+      "Al-Masih"
+    ],
+    "wikidata": "Q302"
+  },
+  {
+    "id": "prophet-muhammad",
+    "name_en": "Prophet Muhammad ﷺ",
+    "name_ar": "محمد",
+    "name_bn": "রাসূলুল্লাহ ﷺ",
+    "role": "prophet",
+    "aliases": [
+      "Muhammad",
+      "the Prophet ﷺ",
+      "Ahmad",
+      "Messenger of Allah"
+    ],
+    "wikidata": "Q9458"
+  },
+  {
+    "id": "maryam",
+    "name_en": "Maryam (peace be upon her)",
+    "name_ar": "مريم",
+    "name_bn": "মারইয়াম (আলাইহাস সালাম)",
+    "role": "righteous_woman",
+    "aliases": [
+      "Mary",
+      "Maryam bint Imran"
+    ],
+    "wikidata": "Q345"
+  },
+  {
+    "id": "luqman",
+    "name_en": "Luqman the Wise",
+    "name_ar": "لقمان",
+    "name_bn": "লুকমান হাকিম",
+    "role": "wise_man",
+    "aliases": [
+      "Luqman"
+    ],
+    "wikidata": "Q138382"
+  },
+  {
+    "id": "pharaoh",
+    "name_en": "Pharaoh (Fir'awn)",
+    "name_ar": "فرعون",
+    "name_bn": "ফেরাউন",
+    "role": "tyrant",
+    "aliases": [
+      "Pharaoh",
+      "Fir'awn"
+    ],
+    "wikidata": "Q37110"
+  },
+  {
+    "id": "haman",
+    "name_en": "Haman",
+    "name_ar": "هامان",
+    "name_bn": "হামান",
+    "role": "minister",
+    "aliases": [
+      "Haman"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "qarun",
+    "name_en": "Qarun (Korah)",
+    "name_ar": "قارون",
+    "name_bn": "কারূন",
+    "role": "wealthy_rebel",
+    "aliases": [
+      "Qarun",
+      "Korah"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "abu-lahab",
+    "name_en": "Abu Lahab",
+    "name_ar": "أبو لهب",
+    "name_bn": "আবু লাহাব",
+    "role": "opponent",
+    "aliases": [
+      "Abu Lahab",
+      "Abd al-Uzza"
+    ],
+    "wikidata": "Q335345"
+  },
+  {
+    "id": "abu-jahl",
+    "name_en": "Abu Jahl",
+    "name_ar": "أبو جهل",
+    "name_bn": "আবু জাহল",
+    "role": "opponent",
+    "aliases": [
+      "Abu Jahl",
+      "Amr ibn Hisham"
+    ],
+    "wikidata": "Q335345"
+  },
+  {
+    "id": "abu-bakr",
+    "name_en": "Abu Bakr as-Siddiq (may Allah be pleased with him)",
+    "name_ar": "أبو بكر الصديق",
+    "name_bn": "আবু বকর আস-সিদ্দীক (রাযিয়াল্লাহু আনহু)",
+    "role": "companion",
+    "aliases": [
+      "Abu Bakr as-Siddiq",
+      "Abu Bakr"
+    ],
+    "wikidata": "Q39619"
+  },
+  {
+    "id": "umar-ibn-al-khattab",
+    "name_en": "'Umar ibn al-Khattab (may Allah be pleased with him)",
+    "name_ar": "عمر بن الخطاب",
+    "name_bn": "উমর ইবনুল খাত্তাব (রাযিয়াল্লাহু আনহু)",
+    "role": "companion",
+    "aliases": [
+      "'Umar ibn al-Khattab",
+      "Umar ibn al-Khattab",
+      "Umar"
+    ],
+    "wikidata": "Q8467"
+  },
+  {
+    "id": "ali-ibn-abi-talib",
+    "name_en": "'Ali ibn Abi Talib (may Allah be pleased with him)",
+    "name_ar": "علي بن أبي طالب",
+    "name_bn": "আলী ইবনে আবী তালিব (রাযিয়াল্লাহু আনহু)",
+    "role": "companion",
+    "aliases": [
+      "'Ali ibn Abi Talib",
+      "Ali ibn Abi Talib",
+      "Ali"
+    ],
+    "wikidata": "Q39619"
+  },
+  {
+    "id": "aishah",
+    "name_en": "'A'ishah (may Allah be pleased with her)",
+    "name_ar": "عائشة بنت أبي بكر",
+    "name_bn": "আয়িশা (রাযিয়াল্লাহু আনহা)",
+    "role": "companion",
+    "aliases": [
+      "'A'ishah",
+      "A'ishah",
+      "Aisha"
+    ],
+    "wikidata": "Q165714"
+  },
+  {
+    "id": "khadijah",
+    "name_en": "Khadijah bint Khuwaylid (may Allah be pleased with her)",
+    "name_ar": "خديجة بنت خويلد",
+    "name_bn": "খাদীজাহ (রাযিয়াল্লাহু আনহা)",
+    "role": "companion",
+    "aliases": [
+      "Khadijah",
+      "Khadija"
+    ],
+    "wikidata": "Q42034"
+  },
+  {
+    "id": "abdullah-ibn-umm-maktum",
+    "name_en": "Abdullah ibn Umm Maktum (may Allah be pleased with him)",
+    "name_ar": "عبد الله بن أم مكتوم",
+    "name_bn": "আব্দুল্লাহ ইবনে উম্মে মাকতুম (রাযিয়াল্লাহু আনহু)",
+    "role": "companion",
+    "aliases": [
+      "Abdullah ibn Umm Maktum",
+      "Ibn Umm Maktum"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "ibn-abbas",
+    "name_en": "'Abdullah ibn 'Abbas (may Allah be pleased with him)",
+    "name_ar": "عبد الله بن عباس",
+    "name_bn": "আব্দুল্লাহ ইবনে আব্বাস (রাযিয়াল্লাহু আনহু)",
+    "role": "companion",
+    "aliases": [
+      "Ibn 'Abbas",
+      "Ibn Abbas"
+    ],
+    "wikidata": "Q312484"
+  },
+  {
+    "id": "ibn-masud",
+    "name_en": "'Abdullah ibn Mas'ud (may Allah be pleased with him)",
+    "name_ar": "عبد الله بن مسعود",
+    "name_bn": "আব্দুল্লাহ ইবনে মাসউদ (রাযিয়াল্লাহু আনহু)",
+    "role": "companion",
+    "aliases": [
+      "Ibn Mas'ud",
+      "Ibn Masud"
+    ],
+    "wikidata": "Q312484"
+  },
+  {
+    "id": "bilal",
+    "name_en": "Bilal ibn Rabah (may Allah be pleased with him)",
+    "name_ar": "بلال بن رباح",
+    "name_bn": "বিলাল ইবনে রাবাহ (রাযিয়াল্লাহু আনহু)",
+    "role": "companion",
+    "aliases": [
+      "Bilal",
+      "Bilal ibn Rabah"
+    ],
+    "wikidata": "Q192994"
+  },
+  {
+    "id": "abrahah",
+    "name_en": "Abrahah al-Ashram",
+    "name_ar": "أبرهة الأشرم",
+    "name_bn": "আবরাহা আল-আশরাম",
+    "role": "tyrant",
+    "aliases": [
+      "Abrahah"
+    ],
+    "wikidata": "Q330691"
+  },
+  {
+    "id": "abu-talib",
+    "name_en": "Abu Talib",
+    "name_ar": "أبو طالب",
+    "name_bn": "আবু তালিব",
+    "role": "figure",
+    "aliases": [
+      "Abu Talib"
+    ],
+    "wikidata": "Q335345"
+  },
+  {
+    "id": "dhul-qarnayn",
+    "name_en": "Dhul-Qarnayn",
+    "name_ar": "ذو القرنين",
+    "name_bn": "যুল-কারনাইন",
+    "role": "righteous_king",
+    "aliases": [
+      "Dhul-Qarnayn"
+    ],
+    "wikidata": "Q125556"
+  },
+  {
+    "id": "khidr",
+    "name_en": "Al-Khidr",
+    "name_ar": "الخضر",
+    "name_bn": "আল-খিদর",
+    "role": "righteous_servant",
+    "aliases": [
+      "Al-Khidr",
+      "Khidr"
+    ],
+    "wikidata": "Q125556"
+  }
+]

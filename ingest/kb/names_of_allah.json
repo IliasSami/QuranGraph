@@ -1,0 +1,450 @@
+[
+  {
+    "id": "allah",
+    "name_en": "Allah",
+    "name_ar": "الله",
+    "name_bn": "আল্লাহ",
+    "meaning_en": "The One and Only God",
+    "meaning_bn": "একমাত্র সত্য উপাস্য"
+  },
+  {
+    "id": "ar-rabb",
+    "name_en": "Ar-Rabb",
+    "name_ar": "الرب",
+    "name_bn": "রব্ব",
+    "meaning_en": "The Lord, Creator, Sustainer and Master",
+    "meaning_bn": "পালনকর্তা ও প্রভু"
+  },
+  {
+    "id": "ar-rahman",
+    "name_en": "Ar-Rahman",
+    "name_ar": "الرحمن",
+    "name_bn": "আর-রহমান",
+    "meaning_en": "The Entirely Merciful",
+    "meaning_bn": "অনন্ত করুণাময়"
+  },
+  {
+    "id": "ar-rahim",
+    "name_en": "Ar-Rahim",
+    "name_ar": "الرحيم",
+    "name_bn": "আর-রহীম",
+    "meaning_en": "The Especially Merciful",
+    "meaning_bn": "পরম দয়ালু"
+  },
+  {
+    "id": "al-malik",
+    "name_en": "Al-Malik",
+    "name_ar": "الملك",
+    "name_bn": "আল-মালিক",
+    "meaning_en": "The Sovereign, The True King",
+    "meaning_bn": "সার্বভৌম অধিপতি"
+  },
+  {
+    "id": "al-quddus",
+    "name_en": "Al-Quddus",
+    "name_ar": "القدوس",
+    "name_bn": "আল-কুদ্দূস",
+    "meaning_en": "The Most Sacred, Free from all imperfections",
+    "meaning_bn": "মহা পবিত্র"
+  },
+  {
+    "id": "as-salam",
+    "name_en": "As-Salam",
+    "name_ar": "السلام",
+    "name_bn": "আস-সালাম",
+    "meaning_en": "The Source of Peace and Safety",
+    "meaning_bn": "শান্তিদাতা"
+  },
+  {
+    "id": "al-mumin",
+    "name_en": "Al-Mu'min",
+    "name_ar": "المؤمن",
+    "name_bn": "আল-মু'মিন",
+    "meaning_en": "The Granter of Security and Faith",
+    "meaning_bn": "নিরাপত্তাদাতা ও ঈমানদানকারী"
+  },
+  {
+    "id": "al-muhaymin",
+    "name_en": "Al-Muhaymin",
+    "name_ar": "المهيمن",
+    "name_bn": "আল-মুহাইমিন",
+    "meaning_en": "The Guardian, The Overseer",
+    "meaning_bn": "মহা অভিভাবক ও পর্যবেক্ষণকারী"
+  },
+  {
+    "id": "al-aziz",
+    "name_en": "Al-'Aziz",
+    "name_ar": "العزيز",
+    "name_bn": "আল-'আযীয",
+    "meaning_en": "The All-Mighty, The Invincible",
+    "meaning_bn": "মহা পরাক্রমশালী"
+  },
+  {
+    "id": "al-jabbar",
+    "name_en": "Al-Jabbar",
+    "name_ar": "الجبار",
+    "name_bn": "আল-জাব্বার",
+    "meaning_en": "The Compeller, The Restorer",
+    "meaning_bn": "প্রবল প্রতাপশালী"
+  },
+  {
+    "id": "al-mutakabbir",
+    "name_en": "Al-Mutakabbir",
+    "name_ar": "المتكبر",
+    "name_bn": "আল-মুতাকাব্বির",
+    "meaning_en": "The Supremely Great",
+    "meaning_bn": "অসীম শ্রেষ্ঠত্বের অধিকারী"
+  },
+  {
+    "id": "al-khaliq",
+    "name_en": "Al-Khaliq",
+    "name_ar": "الخالق",
+    "name_bn": "আল-খালিক",
+    "meaning_en": "The Creator",
+    "meaning_bn": "সৃষ্টিকর্তা"
+  },
+  {
+    "id": "al-bari",
+    "name_en": "Al-Bari'",
+    "name_ar": "البارئ",
+    "name_bn": "আল-বারী",
+    "meaning_en": "The Originator, The Evolver",
+    "meaning_bn": "উদ্ভাবনকারী"
+  },
+  {
+    "id": "al-musawwir",
+    "name_en": "Al-Musawwir",
+    "name_ar": "المصور",
+    "name_bn": "আল-মুসাওয়ির",
+    "meaning_en": "The Fashioner of Forms",
+    "meaning_bn": "রূপদানকারী"
+  },
+  {
+    "id": "al-ghaffar",
+    "name_en": "Al-Ghaffar",
+    "name_ar": "الغفار",
+    "name_bn": "আল-গাফফার",
+    "meaning_en": "The Constant Forgiver",
+    "meaning_bn": "মহা ক্ষমাশীল"
+  },
+  {
+    "id": "al-qahhar",
+    "name_en": "Al-Qahhar",
+    "name_ar": "القهار",
+    "name_bn": "আল-কাহহার",
+    "meaning_en": "The Subduer, The All-Dominant",
+    "meaning_bn": "মহাপরাক্রমশালী দমনকারী"
+  },
+  {
+    "id": "al-wahhab",
+    "name_en": "Al-Wahhab",
+    "name_ar": "الوهاب",
+    "name_bn": "আল-ওয়াহহাব",
+    "meaning_en": "The Giver of All, The Bestower",
+    "meaning_bn": "মহা দানশীল"
+  },
+  {
+    "id": "ar-razzaq",
+    "name_en": "Ar-Razzaq",
+    "name_ar": "الرزاق",
+    "name_bn": "আর-রাজ্জাক",
+    "meaning_en": "The Sustainer, The Provider",
+    "meaning_bn": "রিযিকদাতা"
+  },
+  {
+    "id": "al-fattah",
+    "name_en": "Al-Fattah",
+    "name_ar": "الفتاح",
+    "name_bn": "আল-ফাত্তাহ",
+    "meaning_en": "The Opener, The Supreme Judge",
+    "meaning_bn": "বিজয় ও উন্মুক্তকারী"
+  },
+  {
+    "id": "al-alim",
+    "name_en": "Al-'Alim",
+    "name_ar": "العليم",
+    "name_bn": "আল-'আলীম",
+    "meaning_en": "The All-Knowing",
+    "meaning_bn": "সর্বজ্ঞাত"
+  },
+  {
+    "id": "as-sami",
+    "name_en": "As-Sami'",
+    "name_ar": "السميع",
+    "name_bn": "আস-সামী'",
+    "meaning_en": "The All-Hearing",
+    "meaning_bn": "সর্বশ্রোতা"
+  },
+  {
+    "id": "al-basir",
+    "name_en": "Al-Basir",
+    "name_ar": "البصير",
+    "name_bn": "আল-বাসীর",
+    "meaning_en": "The All-Seeing",
+    "meaning_bn": "সর্বদ্রষ্টা"
+  },
+  {
+    "id": "al-hakim",
+    "name_en": "Al-Hakim",
+    "name_ar": "الحكيم",
+    "name_bn": "আল-হাকীম",
+    "meaning_en": "The All-Wise",
+    "meaning_bn": "মহাপ্রজ্ঞাময়"
+  },
+  {
+    "id": "al-wadud",
+    "name_en": "Al-Wadud",
+    "name_ar": "الودود",
+    "name_bn": "আল-ওয়াদূদ",
+    "meaning_en": "The Most Loving",
+    "meaning_bn": "পরম স্নেহশীল"
+  },
+  {
+    "id": "al-ghafur",
+    "name_en": "Al-Ghafur",
+    "name_ar": "الغفور",
+    "name_bn": "আল-গাফূর",
+    "meaning_en": "The Forgiving",
+    "meaning_bn": "পরম ক্ষমাশীল"
+  },
+  {
+    "id": "ash-shakur",
+    "name_en": "Ash-Shakur",
+    "name_ar": "الشكور",
+    "name_bn": "আশ-শাকূর",
+    "meaning_en": "The Most Appreciative",
+    "meaning_bn": "গুণগ্রাহী"
+  },
+  {
+    "id": "al-aliyy",
+    "name_en": "Al-'Aliyy",
+    "name_ar": "العلي",
+    "name_bn": "আল-'আলী",
+    "meaning_en": "The Most High",
+    "meaning_bn": "সর্বোচ্চ মর্যাদাপূর্ণ"
+  },
+  {
+    "id": "al-ala",
+    "name_en": "Al-A'la",
+    "name_ar": "الأعلى",
+    "name_bn": "আল-আ'লা",
+    "meaning_en": "The Most High, Above All",
+    "meaning_bn": "সর্বোচ্চ ও সর্বশ্রেষ্ঠ"
+  },
+  {
+    "id": "al-kabir",
+    "name_en": "Al-Kabir",
+    "name_ar": "الكبير",
+    "name_bn": "আল-কাবীর",
+    "meaning_en": "The Most Great",
+    "meaning_bn": "সবচেয়ে বড় ও মহান"
+  },
+  {
+    "id": "al-hafiz",
+    "name_en": "Al-Hafiz",
+    "name_ar": "الحفيظ",
+    "name_bn": "আল-হাফীয",
+    "meaning_en": "The Preserver, The Protector",
+    "meaning_bn": "মহা সংরক্ষক"
+  },
+  {
+    "id": "al-karim",
+    "name_en": "Al-Karim",
+    "name_ar": "الكريم",
+    "name_bn": "আল-কারীম",
+    "meaning_en": "The Most Generous",
+    "meaning_bn": "মহা দয়ালু ও সম্মানিত"
+  },
+  {
+    "id": "al-akram",
+    "name_en": "Al-Akram",
+    "name_ar": "الأكرم",
+    "name_bn": "আল-আকরাম",
+    "meaning_en": "The Most Bounteous and Generous",
+    "meaning_bn": "মহা মহিমান্বিত ও পরম অনুগ্রহশীল"
+  },
+  {
+    "id": "al-haqq",
+    "name_en": "Al-Haqq",
+    "name_ar": "الحق",
+    "name_bn": "আল-হাক্ক",
+    "meaning_en": "The Absolute Truth",
+    "meaning_bn": "চিরন্তন সত্য"
+  },
+  {
+    "id": "al-wakil",
+    "name_en": "Al-Wakil",
+    "name_ar": "الوكيل",
+    "name_bn": "আল-ওয়াকীল",
+    "meaning_en": "The Trustee, The Dependable",
+    "meaning_bn": "উত্তম কর্মবিধায়ক"
+  },
+  {
+    "id": "al-qawiyy",
+    "name_en": "Al-Qawiyy",
+    "name_ar": "القوي",
+    "name_bn": "আল-কাউয়্যি",
+    "meaning_en": "The All-Strong",
+    "meaning_bn": "মহা শক্তিধর"
+  },
+  {
+    "id": "al-matin",
+    "name_en": "Al-Matin",
+    "name_ar": "المتين",
+    "name_bn": "আল-মাতীন",
+    "meaning_en": "The Firm, The Steadfast",
+    "meaning_bn": "সুদৃঢ় ও অটল"
+  },
+  {
+    "id": "al-waliyy",
+    "name_en": "Al-Waliyy",
+    "name_ar": "الولي",
+    "name_bn": "আল-ওয়ালীয়্য",
+    "meaning_en": "The Protecting Friend, The Ally",
+    "meaning_bn": "অভিভাবক ও সাহায্যকারী"
+  },
+  {
+    "id": "al-hamid",
+    "name_en": "Al-Hamid",
+    "name_ar": "الحميد",
+    "name_bn": "আল-হামীদ",
+    "meaning_en": "The All-Praiseworthy",
+    "meaning_bn": "সকল প্রশংসার একমাত্র যোগ্য"
+  },
+  {
+    "id": "al-hayy",
+    "name_en": "Al-Hayy",
+    "name_ar": "الحي",
+    "name_bn": "আল-হাই",
+    "meaning_en": "The Ever-Living",
+    "meaning_bn": "চিরঞ্জীব"
+  },
+  {
+    "id": "al-qayyum",
+    "name_en": "Al-Qayyum",
+    "name_ar": "القيوم",
+    "name_bn": "আল-কাইয়ূম",
+    "meaning_en": "The Sustainer of All Existence",
+    "meaning_bn": "সকল সৃষ্টির ধারক ও চিরস্থায়ী"
+  },
+  {
+    "id": "al-ahad",
+    "name_en": "Al-Ahad",
+    "name_ar": "الأحد",
+    "name_bn": "আল-আহাদ",
+    "meaning_en": "The Unique One",
+    "meaning_bn": "অদ্বিতীয় ও একক"
+  },
+  {
+    "id": "as-samad",
+    "name_en": "As-Samad",
+    "name_ar": "الصمد",
+    "name_bn": "আস-সামাদ",
+    "meaning_en": "The Eternal Refuge, Self-Sufficient upon whom all depend",
+    "meaning_bn": "অমুখাপেক্ষী, যার উপর সবাই নির্ভরশীল"
+  },
+  {
+    "id": "al-qadir",
+    "name_en": "Al-Qadir",
+    "name_ar": "القادر",
+    "name_bn": "আল-কাদির",
+    "meaning_en": "The All-Capable",
+    "meaning_bn": "সর্বশক্তিমান"
+  },
+  {
+    "id": "at-tawwab",
+    "name_en": "At-Tawwab",
+    "name_ar": "التواب",
+    "name_bn": "আত-তাওয়াব",
+    "meaning_en": "The Accepter of Repentance",
+    "meaning_bn": "তওবা কবুলকারী"
+  },
+  {
+    "id": "ar-rauf",
+    "name_en": "Ar-Ra'uf",
+    "name_ar": "الرؤوف",
+    "name_bn": "আর-রাউফ",
+    "meaning_en": "The Most Kind, The Compassionate",
+    "meaning_bn": "মমতাময় ও কোমল হৃদয়ের দাতা"
+  },
+  {
+    "id": "al-ghaniyy",
+    "name_en": "Al-Ghaniyy",
+    "name_ar": "الغني",
+    "name_bn": "আল-গানীয়্য",
+    "meaning_en": "The Self-Sufficient, Free of All Need",
+    "meaning_bn": "সম্পদশালী ও অভাবমুক্ত"
+  },
+  {
+    "id": "an-nur",
+    "name_en": "An-Nur",
+    "name_ar": "النور",
+    "name_bn": "আন-নূর",
+    "meaning_en": "The Light",
+    "meaning_bn": "জ্যোতিময় প্রকাশকারী"
+  },
+  {
+    "id": "al-hadi",
+    "name_en": "Al-Hadi",
+    "name_ar": "الهادي",
+    "name_bn": "আল-হাদী",
+    "meaning_en": "The Guide",
+    "meaning_bn": "পথপ্রদর্শক"
+  },
+  {
+    "id": "al-khabir",
+    "name_en": "Al-Khabir",
+    "name_ar": "الخبير",
+    "name_bn": "আল-খাবীর",
+    "meaning_en": "The All-Aware",
+    "meaning_bn": "সর্বজ্ঞাত ও সম্যক অবহিত"
+  },
+  {
+    "id": "al-majid",
+    "name_en": "Al-Majid",
+    "name_ar": "المجيد",
+    "name_bn": "আল-মাজীদ",
+    "meaning_en": "The All-Glorious, The Majestic",
+    "meaning_bn": "মহিমান্বিত ও মর্যাদাবান"
+  },
+  {
+    "id": "ash-shahid",
+    "name_en": "Ash-Shahid",
+    "name_ar": "الشهيد",
+    "name_bn": "আশ-শাহীদ",
+    "meaning_en": "The All-Witnessing",
+    "meaning_bn": "সর্বপ্রত্যক্ষকারী"
+  },
+  {
+    "id": "al-afuw",
+    "name_en": "Al-'Afuw",
+    "name_ar": "العفو",
+    "name_bn": "আল-'আফূও",
+    "meaning_en": "The Ever-Pardoning, The Effacer of Sins",
+    "meaning_bn": "পরম ক্ষমাশীল ও পাপ মোচনকারী"
+  },
+  {
+    "id": "al-ilah",
+    "name_en": "Al-Ilah",
+    "name_ar": "الإله",
+    "name_bn": "আল-ইলাহ",
+    "meaning_en": "The One Truly Worthy of Worship",
+    "meaning_bn": "একমাত্র সত্য উপাস্য"
+  },
+  {
+    "id": "ahkam-al-hakimin",
+    "name_en": "Ahkam al-Hakimin",
+    "name_ar": "أحكم الحاكمين",
+    "name_bn": "আহকামুল হাকিমীন",
+    "meaning_en": "The Most Just of All Judges",
+    "meaning_bn": "সর্বশ্রেষ্ঠ সুবিচারক"
+  },
+  {
+    "id": "rabb-al-alamin",
+    "name_en": "Rabb al-'Alamin",
+    "name_ar": "رب العالمين",
+    "name_bn": "রব্বুল আলামীন",
+    "meaning_en": "Lord of all the Worlds and Creations",
+    "meaning_bn": "সকল সৃষ্টির প্রতিপালক ও প্রভু"
+  }
+]
