@@ -1,0 +1,85 @@
+{
+ "id": "95:8",
+ "simple_en": "The surah ends with a question that answers itself: is Allah not the most just of judges? Of course He is. Al-Mukhtasar explains that He set the Day of Judgement for this reason. It makes no sense that He would leave people without judging between them, without rewarding the good and repaying the evil. Ibn Kathir adds that He wrongs no one, and part of His justice is that whoever was wronged in this life will get their right back.",
+ "simple_bn": "সূরাটি শেষ হয়েছে এমন একটি প্রশ্ন দিয়ে, যার উত্তর প্রশ্নের মধ্যেই আছে: আল্লাহ কি বিচারকদের মধ্যে সবচেয়ে ন্যায়পরায়ণ নন? অবশ্যই তিনি তা। আল-মুখতাসার বলছে, এ জন্যই তিনি বিচার দিবস নির্ধারণ করেছেন। এটা বিবেকে মেলে না যে তিনি মানুষকে বিচার ছাড়াই ছেড়ে দেবেন, ভালো কাজের প্রতিদান আর মন্দ কাজের বদলা দেবেন না। ইবনে কাসীর যোগ করেন, তিনি কারো প্রতি অন্যায় করেন না; তাঁর ন্যায়বিচারের অংশ হলো, দুনিয়ায় যার উপর জুলুম হয়েছে সে তার হক ফিরে পাবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "أله",
+   "lemma": "اللَّه",
+   "meaning_en": "Allah",
+   "meaning_bn": "আল্লাহ",
+   "why_en": "The question points to Allah as the One whose judgement is perfect."
+  },
+  {
+   "pos": 3,
+   "root": "حكم",
+   "lemma": "أَحْكَم",
+   "meaning_en": "the most just, the wisest",
+   "meaning_bn": "সর্বশ্রেষ্ঠ, সবচেয়ে প্রজ্ঞাময়",
+   "why_en": "The root hukm joins judging with wisdom: His rulings are both fair and wise."
+  },
+  {
+   "pos": 4,
+   "root": "حكم",
+   "lemma": "حاكِم",
+   "meaning_en": "judges",
+   "meaning_bn": "বিচারকগণ",
+   "why_en": "Whatever judges there are, Allah is above them all."
+  }
+ ],
+ "lesson_en": "Because Allah is the most just of judges, no good deed is lost and no wrong goes unanswered, which gives both hope and a warning.",
+ "lesson_bn": "আল্লাহ সবচেয়ে ন্যায়পরায়ণ বিচারক, তাই কোনো ভালো কাজ হারিয়ে যায় না এবং কোনো অন্যায়ের হিসাব বাদ পড়ে না; এতে আশাও আছে, সতর্কবাণীও আছে।",
+ "real_life_en": "A worker is blamed for a mistake his manager made, and no one at the office believes him. He keeps doing honest work and does not take revenge. He finds peace in knowing that the final judgement belongs to Allah, who wrongs no one and will give every wronged person their due.",
+ "real_life_bn": "অফিসে এক কর্মীকে তার ম্যানেজারের ভুলের দায় দেওয়া হলো, কেউ তার কথা বিশ্বাস করল না। সে সৎভাবে কাজ চালিয়ে যায়, প্রতিশোধ নেয় না। তার মনে শান্তি আসে এটা জেনে যে চূড়ান্ত বিচার আল্লাহর হাতে, যিনি কারো উপর অন্যায় করেন না এবং প্রত্যেক মজলুমকে তার হক দেবেন।",
+ "themes": [
+  "justice",
+  "judgment",
+  "names and attributes of Allah",
+  "the Last Day"
+ ],
+ "kinds": [
+  "argument",
+  "description-of-allah",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Ahkam al-Hakimin"
+  ],
+  "events": [
+   "Day of Judgement"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah is the most just and wise of judges in appointing the Day of Judgement; He does not leave His servants in vain without rewarding good and evil.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: He does not oppress anyone; from His justice is that He establishes the Judgement and gives the wronged their retribution.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": [
+  "Jalalayn and Ma'ariful Qur'an cite a hadith about replying 'Yes, and I bear witness' at the end of this surah; Ahsanul Bayan says that hadith (Tirmidhi) is not sahih. Left out for that reason."
+ ]
+}

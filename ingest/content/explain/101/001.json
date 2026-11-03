@@ -1,0 +1,80 @@
+{
+ "id": "101:1",
+ "simple_en": "The surah opens with a single word: al-Qari'ah, the Striking Calamity. It is one of the names of the Day of Judgement, like al-Haqqah and al-Ghashiyah. It is called this because it will strike people's hearts with the severity of its horrors. Ahsanul Bayan compares it to someone knocking hard on a door to wake the people inside.",
+ "simple_bn": "সূরাটি শুরু হয়েছে একটি মাত্র শব্দ দিয়ে: আল-কারি'আহ, অর্থাৎ করাঘাতকারী মহাবিপদ। এটি কিয়ামত দিবসের একটি নাম, যেমন আল-হাক্কাহ ও আল-গাশিয়াহ। একে এই নামে ডাকা হয়, কারণ সেদিন তার কঠিন ভয়াবহতা দিয়ে মানুষের অন্তরে আঘাত করবে। আহসানুল বায়ান একে তুলনা করেছেন সেই মানুষের সঙ্গে, যে ঘরের লোকদের জাগাতে দরজায় জোরে কড়া নাড়ে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قرع",
+   "lemma": "قارِعَة",
+   "meaning_en": "the Striking Calamity",
+   "meaning_bn": "করাঘাতকারী মহাবিপদ",
+   "why_en": "Qara'a is to strike one thing on another with a loud noise; here a name of the Last Day."
+  }
+ ],
+ "lesson_en": "The Day of Judgement is meant to shake us awake now, before it comes.",
+ "lesson_bn": "কিয়ামতের দিনের কথা আমাদের এখনই জাগিয়ে তোলার জন্য, সেদিন আসার আগেই।",
+ "real_life_en": "A loud knock at the door at night makes everyone in the house jump up at once. Let the name of this Day do the same for you: when you feel careless about prayer or a wrong you keep repeating, remember that a far bigger knock is coming.",
+ "real_life_bn": "রাতে দরজায় জোরে কড়া নাড়ার শব্দ হলে ঘরের সবাই একসঙ্গে লাফিয়ে ওঠে। এই দিনের নামটিও আপনার সঙ্গে তাই করুক: যখন নামাজে গাফিলতি আসে বা বারবার করা কোনো ভুলে অভ্যস্ত হয়ে যান, তখন মনে করুন, এর চেয়ে অনেক বড় করাঘাত আসছে।",
+ "context_en": "Ayat 1 to 3 repeat the name and ask about it, to stress how great the Day is. Ayat 4 and 5 then describe it.",
+ "context_bn": "১ থেকে ৩ নম্বর আয়াতে নামটি বারবার বলা হয়েছে ও তা নিয়ে প্রশ্ন করা হয়েছে, দিনটির ভয়াবহতা বোঝাতে। এরপর ৪ ও ৫ নম্বর আয়াতে তার বর্ণনা এসেছে।",
+ "themes": [
+  "the Last Day",
+  "judgment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "the Day of Judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Al-Qari'ah is the hour that strikes people's hearts with the severity of its horrors.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Al-Qari'ah is one of the names of the Day of Judgement, like al-Haqqah, at-Tammah, as-Sakhkhah and al-Ghashiyah.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-ar-saadi",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Qara'a means striking something on something so hard that it makes a loud noise.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Ahsanul Bayan compares it to one who knocks on a door and alerts the people of the house.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": [
+  "The Tanzil Arabic line for this ayah shows the Basmalah joined to the ayah text."
+ ]
+}

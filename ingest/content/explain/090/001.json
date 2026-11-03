@@ -1,0 +1,91 @@
+{
+ "id": "90:1",
+ "simple_en": "Allah swears by \"this city\", which is Makkah, the sacred city. The surah begins with the word \"No\" before the oath. Many scholars say it rejects the false ideas of the disbelievers: what you think is wrong, and the truth is what follows. Others say the word is extra, a known Arabic style. Sa'di calls Makkah the best of all lands, especially with the Prophet ﷺ living in it.",
+ "simple_bn": "আল্লাহ 'এই নগরের' শপথ করছেন, অর্থাৎ পবিত্র নগরী মক্কার। সূরাটি শপথের আগে 'না' শব্দ দিয়ে শুরু হয়েছে। অনেক আলেম বলেন, এটি কাফেরদের ভুল ধারণা নাকচ করে: তোমরা যা ভাবছ তা ভুল, আসল সত্য পরে বলা হচ্ছে। কেউ বলেন, শব্দটি অতিরিক্ত, যা আরবি ভাষার একটি পরিচিত রীতি। সা'দী মক্কাকে সব ভূখণ্ডের মধ্যে শ্রেষ্ঠ বলেছেন, বিশেষ করে যখন রাসূলুল্লাহ ﷺ সেখানে বাস করছিলেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": null,
+   "lemma": "لا",
+   "meaning_en": "No",
+   "meaning_bn": "না",
+   "why_en": "Placed before the oath to reject a false claim, or as an extra word of emphasis."
+  },
+  {
+   "pos": 2,
+   "root": "قسم",
+   "lemma": "أَقْسَمُ",
+   "meaning_en": "I swear",
+   "meaning_bn": "আমি শপথ করছি",
+   "why_en": "An oath that draws attention to what is coming."
+  },
+  {
+   "pos": 4,
+   "root": "بلد",
+   "lemma": "بَلَد",
+   "meaning_en": "the city",
+   "meaning_bn": "নগর",
+   "why_en": "Makkah, the sacred city, which gives the surah its name."
+  }
+ ],
+ "lesson_en": "Honour what Allah has honoured, and be ready to let the truth correct your own assumptions.",
+ "lesson_bn": "আল্লাহ যা সম্মানিত করেছেন তাকে সম্মান করুন, আর নিজের ধারণাকে সত্যের দ্বারা শুধরে নিতে প্রস্তুত থাকুন।",
+ "real_life_en": "You watch a live stream from the Ka'bah during Ramadan. Instead of just scrolling past, you pause and remember that Allah Himself swore by this city. You make a dua that you will one day visit it, and you start setting aside a small amount each month for Umrah.",
+ "real_life_bn": "রমজানে কা'বা থেকে সরাসরি সম্প্রচার দেখছেন। শুধু স্ক্রল করে না গিয়ে একটু থামলেন, মনে পড়ল আল্লাহ স্বয়ং এই নগরের শপথ করেছেন। একদিন সেখানে যাওয়ার দু'আ করলেন, আর উমরাহর জন্য প্রতি মাসে অল্প অল্প টাকা জমাতে শুরু করলেন।",
+ "themes": [
+  "reflection",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "oath"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [
+   "Makkah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah takes an oath on the sacred city, Makkah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The 'la' before the oath refutes the opponents' false idea (Mujahid: a refutation of Quraysh); another view is that it is extra, a known Arabic usage.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "qe-bengali-zakaria",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: Makkah is the best of lands absolutely, especially when the Messenger ﷺ resided in it.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": true,
+ "differ_note_en": "On the opening \"La\": Mujahid, Ma'ariful Qur'an and Zakaria's notes (as the sounder view) say it rejects the disbelievers' false claims; Jalalayn says it is an extra word.",
+ "differ_note_bn": "শুরুর 'লা' সম্পর্কে: মুজাহিদ, মাআরিফুল কুরআন ও যাকারিয়ার টীকা (অধিক বিশুদ্ধ মত হিসেবে) বলে, এটি কাফেরদের ভুল দাবি নাকচ করে; জালালাইন বলে, এটি অতিরিক্ত শব্দ।",
+ "confidence": 0.9,
+ "uncertain": [
+  "The Tanzil Arabic line for this ayah has the Basmalah joined to the start of the ayah text."
+ ]
+}

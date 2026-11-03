@@ -1,0 +1,111 @@
+{
+ "id": "111:4",
+ "simple_en": "His wife, Umm Jamil, will be with him. She was the sister of Abu Sufyan and supported her husband in harming the Prophet ﷺ. She is called 'the carrier of firewood'. Al-Mukhtasar and Jalalayn say she threw thorns in the Prophet's path ﷺ. Ibn 'Abbas and others say it means she spread gossip to start fights, as Arabs called a tale-bearer. Ibn Kathir adds that in the Fire she will carry fuel onto her husband.",
+ "simple_bn": "তার স্ত্রী উম্মে জামীলও তার সাথে থাকবে। সে ছিল আবু সুফিয়ানের বোন, আর নবী ﷺ-কে কষ্ট দিতে স্বামীকে সাহায্য করত। তাকে বলা হয়েছে 'ইন্ধন বহনকারিণী'। আল-মুখতাসার ও জালালাইন বলেছে, সে নবী ﷺ-এর চলার পথে কাঁটা ফেলত। ইবনে আব্বাস (রা.) ও অন্যরা বলেছেন, এর মানে সে চোগলখুরি করে ঝগড়া লাগাত; আরবরা চোগলখোরকে এ নামেই ডাকত। ইবনে কাসীর যোগ করেছেন, আগুনে সে তার স্বামীর উপর ইন্ধন বহন করে আনবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "مرأ",
+   "lemma": "امْرَأَت",
+   "meaning_en": "his wife",
+   "meaning_bn": "তার স্ত্রী",
+   "why_en": "Umm Jamil, his partner in sin and aggression against the Prophet ﷺ."
+  },
+  {
+   "pos": 2,
+   "root": "حمل",
+   "lemma": "حَمّالَة",
+   "meaning_en": "the carrier",
+   "meaning_bn": "বহনকারিণী",
+   "why_en": "An intensive form: one who carries again and again."
+  },
+  {
+   "pos": 3,
+   "root": "حطب",
+   "lemma": "حَطَب",
+   "meaning_en": "firewood",
+   "meaning_bn": "ইন্ধন, লাকড়ি",
+   "why_en": "Read literally (thorns she laid in his path) or as an idiom for a gossip who kindles hatred."
+  }
+ ],
+ "lesson_en": "Spreading gossip and stirring up hatred is like carrying firewood to a fire; keep away from it.",
+ "lesson_bn": "চোগলখুরি আর ঘৃণা ছড়ানো আগুনে লাকড়ি বয়ে নেওয়ার মতো; এ থেকে দূরে থাকুন।",
+ "real_life_en": "In the family group chat, a cousin forwards a screenshot to turn two aunts against each other. Don't pass it on and don't add fuel. Ma'ariful Qur'an quotes a hadith from the two Sahihs that a tale-bearer will not enter Paradise.",
+ "real_life_bn": "পারিবারিক গ্রুপ চ্যাটে এক কাজিন দুই খালার মধ্যে বিবাদ লাগাতে একটা স্ক্রিনশট ফরোয়ার্ড করল। আপনি তা আর ছড়াবেন না, আগুনে লাকড়িও যোগ করবেন না। মাআরিফুল কুরআন দুই সহীহ গ্রন্থের একটি হাদীস উদ্ধৃত করেছে: চোগলখোর জান্নাতে প্রবেশ করবে না।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "good character",
+  "family"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Umm Jamil",
+   "Abu Lahab",
+   "Abu Sufyan"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "firewood",
+   "thorns"
+  ]
+ },
+ "claims": [
+  {
+   "text": "His wife Umm Jamil, who harmed the Prophet ﷺ by throwing thorns in his path, will also enter the Fire.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "She was 'Arwa bint Harb, sister of Abu Sufyan, and supported her husband in disbelief and hostility.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "qe-bengali-zakaria",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn 'Abbas, Mujahid, 'Ikrimah and others: 'carrier of firewood' means a tale-bearer; Ibn Zayd, ad-Dahhak and others: she literally laid thorny branches in his path.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: she will carry firewood and throw it on her husband in the Fire to increase his torment.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Hadith in the two Sahihs (quoted by Ma'ariful Qur'an): a tale-bearer will not enter Paradise.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": true,
+ "differ_note_en": "'Carrier of firewood' is read as literal thorns she laid in the Prophet's path ﷺ (Al-Mukhtasar, Jalalayn, Ibn Zayd, ad-Dahhak), as an idiom for tale-bearing (Ibn 'Abbas, Mujahid, 'Ikrimah), or as carrying fuel onto her husband in the Fire (Ibn Kathir).",
+ "differ_note_bn": "'ইন্ধন বহনকারিণী' কথাটির অর্থ কেউ নিয়েছেন আক্ষরিক, নবী ﷺ-এর পথে কাঁটা ফেলা (আল-মুখতাসার, জালালাইন, ইবনে যায়েদ, দাহহাক); কেউ নিয়েছেন চোগলখুরির রূপক (ইবনে আব্বাস, মুজাহিদ, ইকরিমা); আর কেউ বলেছেন আগুনে স্বামীর উপর ইন্ধন বহন করা (ইবনে কাসীর)।",
+ "confidence": 0.88,
+ "uncertain": []
+}

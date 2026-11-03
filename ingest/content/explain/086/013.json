@@ -1,0 +1,85 @@
+{
+ "id": "86:13",
+ "simple_en": "This is what the second oath is about: the Quran, revealed to Prophet Muhammad ﷺ, is a decisive word. It separates truth from falsehood and fact from lies. Sa'di adds that it is clear and true, and it settles the arguments between groups and their opinions.",
+ "simple_bn": "দ্বিতীয় শপথটি এই কথার উপর: মুহাম্মাদ ﷺ-এর উপর অবতীর্ণ কুরআন এক চূড়ান্ত মীমাংসাকারী বাণী। এটি সত্যকে মিথ্যা থেকে, বাস্তবকে অসত্য থেকে আলাদা করে দেয়। সা'দী যোগ করেন, এটি স্পষ্ট ও সত্য, আর বিভিন্ন দল ও মতের মধ্যকার বিবাদের ফয়সালা করে দেয়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "قول",
+   "lemma": "قَوْل",
+   "meaning_en": "word, statement",
+   "meaning_bn": "বাণী",
+   "why_en": "Refers to the Quran, Allah's word revealed to the Prophet ﷺ."
+  },
+  {
+   "pos": 3,
+   "root": "فصل",
+   "lemma": "فَصْل",
+   "meaning_en": "decisive, separating",
+   "meaning_bn": "মীমাংসাকারী, পার্থক্যকারী",
+   "why_en": "From a root meaning to separate: it divides truth from falsehood."
+  }
+ ],
+ "lesson_en": "When you are confused about what is right, turn to the Quran, because it was sent to make truth clear.",
+ "lesson_bn": "কোনটা সঠিক, তা নিয়ে দ্বিধায় পড়লে কুরআনের দিকে ফিরুন, কারণ সত্য স্পষ্ট করার জন্যই তা পাঠানো হয়েছে।",
+ "real_life_en": "Your social media feed is full of loud opinions on how to live, and they all contradict each other. Rather than being pulled in every direction, you set aside time each week to read the Quran with a simple tafsir and measure what you hear against it.",
+ "real_life_bn": "আপনার সোশ্যাল মিডিয়ায় জীবনযাপন নিয়ে নানা জোরালো মত, একটির সাথে আরেকটির মিল নেই। সব দিকে টানাটানি না খেয়ে আপনি প্রতি সপ্তাহে সহজ একটি তাফসীরসহ কুরআন পড়ার সময় রাখলেন, আর যা শোনেন তা কুরআনের সাথে মিলিয়ে দেখেন।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "guidance"
+ ],
+ "kinds": [
+  "belief",
+  "oath"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The Quran revealed to Muhammad is a word that separates truth from falsehood and fact from lie.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "This is the answer of the oath.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "It is true and clear, and it judges between groups and opinions and settles disputes.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn 'Abbas and Qatadah explained fasl as 'true'; others said 'a just ruling'.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

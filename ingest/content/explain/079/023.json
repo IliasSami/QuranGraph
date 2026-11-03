@@ -1,0 +1,85 @@
+{
+ "id": "79:23",
+ "simple_en": "Pharaoh gathered people and made a public announcement. Al-Mukhtasar says he gathered his armies to overpower Musa and called out to his people. Jalalayn mentions the magicians and the armies, and al-Muyassar the people of his kingdom. Ahsanul Bayan lists all three as possible meanings. What he announced comes in the next ayah.",
+ "simple_bn": "ফিরআউন মানুষ জড়ো করে প্রকাশ্যে ঘোষণা দিল। আল-মুখতাসার বলেছে, মূসা (আলাইহিস সালাম)-কে পরাজিত করতে সে তার বাহিনী জড়ো করল এবং নিজের লোকদের ডাক দিল। জালালাইন যাদুকর ও সৈন্যদের কথা বলেছে, আর আল-মুয়াসসার বলেছে তার রাজ্যের লোকদের কথা। আহসানুল বায়ান তিনটিকেই সম্ভাব্য অর্থ হিসেবে উল্লেখ করেছে। সে কী ঘোষণা দিল, তা আসছে পরের আয়াতে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "حشر",
+   "lemma": "حَشَرَ",
+   "meaning_en": "he gathered",
+   "meaning_bn": "সে সমবেত করল",
+   "why_en": "Hashr is gathering people together, here to make a show of power."
+  },
+  {
+   "pos": 2,
+   "root": "ندي",
+   "lemma": "نادَى",
+   "meaning_en": "he called out",
+   "meaning_bn": "সে ঘোষণা দিল",
+   "why_en": "A loud public proclamation, the same root used when Allah called Musa in ayah 16."
+  }
+ ],
+ "lesson_en": "Crowds and power cannot turn falsehood into truth.",
+ "lesson_bn": "ভিড় আর ক্ষমতা মিথ্যাকে সত্যে পরিণত করতে পারে না।",
+ "real_life_en": "In a group chat, many people pile on to share a rumour about a neighbour. The number of people does not make it true. You decide not to forward it and gently ask the group whether anyone has checked the facts.",
+ "real_life_bn": "এক গ্রুপ চ্যাটে অনেকে মিলে এক প্রতিবেশী সম্পর্কে একটা গুজব ছড়াচ্ছে। লোক বেশি হলেই কথা সত্য হয়ে যায় না। আপনি ঠিক করলেন এটা ফরোয়ার্ড করবেন না, আর নরমভাবে জিজ্ঞেস করলেন, কেউ কি সত্যতা যাচাই করেছে।",
+ "themes": [
+  "stories of the prophets",
+  "arrogance",
+  "disbelief"
+ ],
+ "kinds": [
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Pharaoh",
+   "Musa"
+  ],
+  "nations": [
+   "Pharaoh's people"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Pharaoh gathering his people"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He mobilised his armies to overpower Musa and called out to his people.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Jalalayn: he assembled the sorcerers and his armies and proclaimed.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "al-Muyassar: he gathered the people of his kingdom and called to them.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Ahsanul Bayan: he gathered his people, or his soldiers for battle, or the magicians.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

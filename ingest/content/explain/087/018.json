@@ -1,0 +1,83 @@
+{
+ "id": "87:18",
+ "simple_en": "Allah says that this message is also in the earlier scriptures, revealed before the Quran. Al-Mukhtasar takes \"this\" to mean the instructions and news given in this surah. Ibn Kathir, following at-Tabari, prefers that it points to ayat 14–17: purifying oneself, remembering Allah and praying, and the Hereafter being better. Either way, these truths were taught to earlier prophets too.",
+ "simple_bn": "আল্লাহ বলছেন, এই বার্তা কুরআনের আগে নাযিল হওয়া পূর্ববর্তী সহীফাগুলোতেও আছে। আল-মুখতাসার 'এটি' বলতে এই সূরায় দেওয়া নির্দেশ ও সংবাদগুলো বুঝিয়েছে। ইবনে কাসীর, তাবারীর অনুসরণে, এটিকে ১৪–১৭ আয়াতের দিকে ইঙ্গিত মনে করেন: নিজেকে পরিশুদ্ধ করা, আল্লাহকে স্মরণ করে নামাজ পড়া, আর আখিরাত উত্তম হওয়া। যেভাবেই বোঝা হোক, এই সত্যগুলো আগের নবীদেরও শেখানো হয়েছিল।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "صحف",
+   "lemma": "صُحُف",
+   "meaning_en": "scriptures, scrolls",
+   "meaning_bn": "সহীফাসমূহ",
+   "why_en": "Written revelations sent to prophets before the Quran."
+  },
+  {
+   "pos": 5,
+   "root": "أول",
+   "lemma": "أَوَّل",
+   "meaning_en": "the earlier",
+   "meaning_bn": "পূর্ববর্তী",
+   "why_en": "The message is old: the same truths were taught before."
+  }
+ ],
+ "lesson_en": "The call to purity, prayer and preferring the Hereafter is not new; it is the one message all prophets brought.",
+ "lesson_bn": "পরিশুদ্ধি, নামাজ ও আখিরাতকে প্রাধান্য দেওয়ার আহ্বান নতুন কিছু নয়; এটিই সেই এক বার্তা, যা সব নবী নিয়ে এসেছেন।",
+ "real_life_en": "A friend says religion keeps changing its message. You show him these ayat and explain that the core of the Quran's call was also in the scrolls given to earlier prophets. The truth has stayed the same; it is people who drift.",
+ "real_life_bn": "এক বন্ধু বলল, ধর্ম বারবার তার বার্তা বদলায়। আপনি তাকে এই আয়াতগুলো দেখিয়ে বুঝিয়ে বললেন, কুরআনের আহ্বানের মূল কথা আগের নবীদের দেওয়া সহীফাতেও ছিল। সত্য একই রয়ে গেছে; মানুষই সরে যায়।",
+ "themes": [
+  "revelation",
+  "prophethood",
+  "the Quran"
+ ],
+ "kinds": [
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "earlier scriptures"
+  ]
+ },
+ "claims": [
+  {
+   "text": "These instructions and stories mentioned in the surah are in the scriptures revealed before.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Jarir preferred that 'this' refers to ayat 14–17; Ibn Kathir calls this view good and strong.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Jalalayn: this is the success of those who purify themselves and the Hereafter being better.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Either all the themes of the surah or its last theme are meant.",
+   "sources": [
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": true,
+ "differ_note_en": "Al-Mukhtasar, al-Muyassar and Sa'di: the whole surah's content. Ibn Kathir (following at-Tabari) and Jalalayn: ayat 14–17 in particular.",
+ "differ_note_bn": "আল-মুখতাসার, আল-মুয়াসসার ও সা'দী: পুরো সূরার বিষয়বস্তু। ইবনে কাসীর (তাবারীর অনুসরণে) ও জালালাইন: বিশেষভাবে ১৪–১৭ আয়াত।",
+ "confidence": 0.9,
+ "uncertain": []
+}

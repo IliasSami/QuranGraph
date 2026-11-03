@@ -1,0 +1,87 @@
+{
+ "id": "80:13",
+ "simple_en": "Allah now describes where this reminder is kept: in honoured pages. Al-Mukhtasar says the Quran is in blessed scrolls with the angels. Ma'ariful Qur'an and Ahsanul Bayan explain these pages as the Preserved Tablet, from where the Quran was sent down. Ibn Kathir says all of the Quran is in pages that are respected and revered.",
+ "simple_bn": "আল্লাহ এখন বলছেন, এই উপদেশবাণী কোথায় রাখা আছে: সম্মানিত পত্রসমূহে। আল-মুখতাসার বলে, এই কুরআন ফেরেশতাদের কাছে সম্মানিত পুস্তিকায় রক্ষিত। মাআরিফুল কুরআন ও আহসানুল বায়ান এই পত্রগুলোকে লাওহে মাহফুয বলে ব্যাখ্যা করেছে, যেখান থেকে কুরআন নাযিল হয়েছে। ইবনে কাসীর বলেন, পুরো কুরআনই সম্মানিত ও মর্যাদাপূর্ণ পত্রে রয়েছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "صحف",
+   "lemma": "صُحُف",
+   "meaning_en": "pages, scrolls",
+   "meaning_bn": "পত্রসমূহ",
+   "why_en": "The sheets in which the Quran is written and kept."
+  },
+  {
+   "pos": 3,
+   "root": "كرم",
+   "lemma": "مُكَرَّمَة",
+   "meaning_en": "honoured",
+   "meaning_bn": "সম্মানিত",
+   "why_en": "Allah Himself has honoured these pages."
+  }
+ ],
+ "lesson_en": "The Quran is honoured by Allah, so treat your copy and your reading of it with respect.",
+ "lesson_bn": "কুরআনকে আল্লাহ সম্মানিত করেছেন, তাই আপনার কুরআনের কপি ও তা পড়ার সময়কে সম্মানের সাথে দেখুন।",
+ "real_life_en": "Instead of leaving your mushaf under a pile of bills on the table, give it a clean place on the shelf. And when you open the Quran app, put the phone on silent so the reading gets your full attention.",
+ "real_life_bn": "টেবিলে বিলের কাগজের নিচে মুসহাফ ফেলে না রেখে তাকে পরিষ্কার একটি জায়গা দিন। আর ফোনে কুরআন পড়ার সময় ফোনটা সাইলেন্ট করে নিন, যাতে পড়াটা পূর্ণ মনোযোগ পায়।",
+ "context_en": "Ayat 13 to 16 describe the high status of the Quran, which is why those who turn away from it lose, not the Quran.",
+ "context_bn": "১৩ থেকে ১৬ নম্বর আয়াত কুরআনের উঁচু মর্যাদা বর্ণনা করে; তাই যারা এ থেকে মুখ ফেরায়, ক্ষতি তাদেরই, কুরআনের নয়।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "angels"
+ ],
+ "kinds": [
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the Preserved Tablet",
+   "angels"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The Quran is in honoured, blessed scrolls with the angels.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Suhuf refers to the Preserved Tablet, from where the Quran was sent down.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: all of the Quran is in honoured pages, respected and revered.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "These ayat describe the high status of the Quran.",
+   "sources": [
+    "g-en-maarif",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": []
+}

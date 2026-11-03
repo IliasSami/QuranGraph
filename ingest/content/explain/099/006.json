@@ -1,0 +1,88 @@
+{
+ "id": "99:6",
+ "simple_en": "On that Day people will come out in scattered groups to be shown their deeds. Ibn Kathir and Jalalayn explain that they will leave the place of Judgement divided: the happy and the miserable, some sent to Paradise and some to the Fire. Ahsanul Bayan also mentions coming out of the graves to the place of reckoning. Sa'di says Allah will show them their good and bad deeds and their full reward.",
+ "simple_bn": "সেদিন মানুষ বিক্ষিপ্ত দলে দলে বের হবে, যাতে তাদের কৃতকর্ম তাদের দেখানো হয়। ইবনে কাসীর ও জালালাইন ব্যাখ্যা করেন, তারা বিচারের স্থান থেকে বিভক্ত হয়ে ফিরবে: সৌভাগ্যবান আর হতভাগা, কাউকে জান্নাতে আর কাউকে জাহান্নামে পাঠানো হবে। আহসানুল বায়ান কবর থেকে বের হয়ে হিসাবের ময়দানের দিকে যাওয়ার অর্থও উল্লেখ করেছে। সা'দী বলেন, আল্লাহ তাদের ভালো-মন্দ কাজ আর তার পূর্ণ প্রতিদান দেখিয়ে দেবেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "صدر",
+   "lemma": "يَصْدُرُ",
+   "meaning_en": "come out, depart",
+   "meaning_bn": "বের হবে, ফিরে যাবে",
+   "why_en": "Leaving the graves, or leaving the place of Judgement."
+  },
+  {
+   "pos": 4,
+   "root": "شتت",
+   "lemma": "أَشْتات",
+   "meaning_en": "scattered groups",
+   "meaning_bn": "ভিন্ন ভিন্ন দল",
+   "why_en": "Divided by their deeds and their end."
+  },
+  {
+   "pos": 6,
+   "root": "عمل",
+   "lemma": "عَمَل",
+   "meaning_en": "their deeds",
+   "meaning_bn": "তাদের কৃতকর্ম",
+   "why_en": "Each person will face his own deeds."
+  }
+ ],
+ "lesson_en": "On that Day people are sorted only by their deeds. Choose today which group you want to be in.",
+ "lesson_bn": "সেদিন মানুষকে ভাগ করা হবে শুধু তাদের আমল দিয়ে। আপনি কোন দলে থাকতে চান, তা আজই ঠিক করুন।",
+ "real_life_en": "At the end of each day, a nurse spends two minutes thinking over what she did: a kind word to a frightened patient, a moment of impatience with a colleague. Knowing her deeds will be shown to her one day, she thanks Allah for the good and asks forgiveness for the rest.",
+ "real_life_bn": "প্রতিদিন শেষে এক নার্স দুই মিনিট নিজের কাজগুলো নিয়ে ভাবেন: ভয় পাওয়া এক রোগীকে বলা একটি সান্ত্বনার কথা, সহকর্মীর সাথে এক মুহূর্তের অধৈর্য। একদিন তাঁর আমল তাঁকে দেখানো হবে জেনে তিনি ভালো কাজের জন্য আল্লাহর শুকরিয়া আদায় করেন, আর বাকিগুলোর জন্য ক্ষমা চান।",
+ "themes": [
+  "judgment",
+  "resurrection",
+  "Paradise",
+  "Hell"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Paradise",
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "Day of Judgement"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "On that day people will come out to the place of reckoning in groups to see the deeds they did.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "They will return from the place of Judgement in separate groups: miserable and happy, to Paradise or the Fire.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Sa'di: Allah will show them their bad and good deeds and their full requital.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

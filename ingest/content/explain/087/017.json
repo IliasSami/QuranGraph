@@ -1,0 +1,96 @@
+{
+ "id": "87:17",
+ "simple_en": "And yet the Hereafter is better and more lasting. It is better because its joys are far greater than all the pleasures of this world. It is more lasting because its blessings never end, while this world is passing. Sa'di says a sensible believer does not sell everlasting joy for one hour's pleasure, and that loving this world over the Hereafter is the root of every sin.",
+ "simple_bn": "অথচ আখিরাতই উত্তম ও বেশি স্থায়ী। উত্তম, কারণ তার আনন্দ দুনিয়ার সব ভোগবিলাসের চেয়ে অনেক বড়। বেশি স্থায়ী, কারণ তার নিয়ামত কখনো শেষ হয় না, আর দুনিয়া ক্ষণস্থায়ী। সা'দী বলেন, বুদ্ধিমান মু'মিন এক ঘণ্টার আনন্দের বিনিময়ে চিরস্থায়ী আনন্দ বিক্রি করে না, আর আখিরাতের উপর দুনিয়াকে ভালোবাসা সব গুনাহের মূল।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "أخر",
+   "lemma": "آخِر",
+   "meaning_en": "the Hereafter",
+   "meaning_bn": "আখিরাত",
+   "why_en": "The last home, the life that comes after this one."
+  },
+  {
+   "pos": 2,
+   "root": "خير",
+   "lemma": "خَيْر",
+   "meaning_en": "better",
+   "meaning_bn": "উত্তম",
+   "why_en": "Better in quality: its joys are higher than anything here."
+  },
+  {
+   "pos": 3,
+   "root": "بقي",
+   "lemma": "أَبْقَى",
+   "meaning_en": "more lasting",
+   "meaning_bn": "অধিক স্থায়ী",
+   "why_en": "Better in length: it never ends."
+  }
+ ],
+ "lesson_en": "Weigh every choice by two questions: which is better, and which lasts longer? The Hereafter wins both.",
+ "lesson_bn": "প্রতিটি সিদ্ধান্ত দুটি প্রশ্নে মেপে দেখুন: কোনটি উত্তম, আর কোনটি বেশি টেকে? দুটোতেই আখিরাত এগিয়ে।",
+ "real_life_en": "You are offered extra money if you fudge some figures at work. You picture the two sides: a little cash that will be spent in a month, against Allah's pleasure that lasts forever. You decline politely and feel lighter for it.",
+ "real_life_bn": "অফিসে কিছু হিসাব একটু এদিক-ওদিক করলে বাড়তি টাকার প্রস্তাব পেলেন। আপনি দুই দিক কল্পনা করলেন: অল্প কিছু টাকা, যা এক মাসেই খরচ হয়ে যাবে, আর আল্লাহর সন্তুষ্টি, যা চিরস্থায়ী। আপনি ভদ্রভাবে না বললেন, আর মনটা হালকা লাগল।",
+ "context_en": "Zakaria cites a hadith in Muslim: compared with the Hereafter, this world is like the water left on a finger dipped in the sea.",
+ "context_bn": "যাকারিয়া মুসলিমের একটি হাদীস উল্লেখ করেছেন: আখিরাতের তুলনায় দুনিয়া হলো সমুদ্রে আঙুল ডুবিয়ে তোলার পর আঙুলে লেগে থাকা পানির মতো।",
+ "themes": [
+  "the Last Day",
+  "this world",
+  "Paradise",
+  "reward"
+ ],
+ "kinds": [
+  "belief",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the Hereafter"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Hereafter is better than the world and its enjoyments, and more lasting because its bliss never ends.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "This world is lowly and temporary, the Hereafter noble and eternal; an intelligent person does not prefer the short-lived.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Sa'di: the believer does not sell an hour's pleasure for lasting grief; love of this world and preferring it to the Hereafter is the head of every sin.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Hadith in Muslim: this world compared with the Hereafter is like what a finger brings back from the sea.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.91,
+ "uncertain": [
+  "Ibn Kathir's quoted hadith from Ahmad has a duplicated clause in the source text."
+ ]
+}

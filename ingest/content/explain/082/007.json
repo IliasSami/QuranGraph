@@ -1,0 +1,89 @@
+{
+ "id": "82:7",
+ "simple_en": "Your Lord is the One who created you when you did not exist, then shaped you, then balanced you. Al-Mukhtasar says He proportioned and balanced your limbs. Jalalayn adds that He made your parts match, so that no hand or leg is longer than the other. Al-Sa'di asks: is it fitting to be ungrateful to the One who did this for you?",
+ "simple_bn": "তোমার রব তো তিনিই, যিনি তোমাকে অস্তিত্বহীন অবস্থা থেকে সৃষ্টি করেছেন, তারপর সুঠাম করেছেন, তারপর সুসামঞ্জস্য করেছেন। আল-মুখতাসার বলে, তিনি তোমার অঙ্গ-প্রত্যঙ্গকে সুবিন্যস্ত ও ভারসাম্যপূর্ণ করেছেন। জালালাইন যোগ করেছেন, তিনি অঙ্গগুলোকে এমনভাবে মিলিয়েছেন যে এক হাত বা এক পা অন্যটির চেয়ে লম্বা নয়। আস-সা'দী প্রশ্ন করেন: যিনি তোমার জন্য এসব করেছেন, তাঁর প্রতি অকৃতজ্ঞ হওয়া কি তোমার সাজে?",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "created you",
+   "meaning_bn": "তোমাকে সৃষ্টি করেছেন",
+   "why_en": "Brought you into being from nothing."
+  },
+  {
+   "pos": 3,
+   "root": "سوي",
+   "lemma": "سَوَّى",
+   "meaning_en": "shaped you",
+   "meaning_bn": "সুঠাম করেছেন",
+   "why_en": "Made you complete and upright, able to hear, see and think."
+  },
+  {
+   "pos": 4,
+   "root": "عدل",
+   "lemma": "عَدَلَ",
+   "meaning_en": "balanced you",
+   "meaning_bn": "সুসামঞ্জস্য করেছেন",
+   "why_en": "From 'adl, balance: every part in right proportion."
+  }
+ ],
+ "lesson_en": "Your body is a daily gift from Allah. Thank Him by using it in His obedience.",
+ "lesson_bn": "আপনার দেহ আল্লাহর দেওয়া প্রতিদিনের উপহার। তাঁর আনুগত্যে তা ব্যবহার করে শুকরিয়া আদায় করুন।",
+ "real_life_en": "After spraining her ankle, a girl spends two weeks on crutches. When she walks normally again, she notices for the first time how perfectly her body works. She says Alhamdulillah and makes it a habit to walk to the masjid for Fajr.",
+ "real_life_bn": "গোড়ালি মচকে যাওয়ায় এক মেয়েকে দুই সপ্তাহ ক্রাচে চলতে হলো। আবার স্বাভাবিকভাবে হাঁটতে পেরে সে প্রথমবার খেয়াল করল, তার দেহ কত নিখুঁতভাবে কাজ করে। সে আলহামদুলিল্লাহ বলল, আর প্রতিদিন হেঁটে ফজরের জামাতে যাওয়ার অভ্যাস গড়ে তুলল।",
+ "themes": [
+  "creation",
+  "gratitude",
+  "human nature",
+  "Allah's power"
+ ],
+ "kinds": [
+  "creation",
+  "argument",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The One who gave you existence after non-existence, and proportioned and balanced your limbs.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Jalalayn: made symmetrical, so that no hand or leg is longer than the other.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "He made you a complete human able to hear, see and use reason.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: is it fitting to deny the favour of the One who gave it?",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

@@ -1,0 +1,85 @@
+{
+ "id": "78:25",
+ "simple_en": "The only things they will taste are hamim and ghassaq. Hamim is water that has reached the furthest point of boiling. Ghassaq is the foul fluid that flows from the bodies of the people of Hell, with a terrible smell and taste. Ibn Kathir notes it is also described as unbearably cold. Instead of the cool drink they longed for, this is what they receive.",
+ "simple_bn": "তারা শুধু আস্বাদন করবে \"হামীম\" ও \"গাস্সাক\"। হামীম হলো এমন পানি, যা ফুটতে ফুটতে চরম মাত্রায় পৌঁছেছে। গাস্সাক হলো জাহান্নামীদের দেহ থেকে বের হওয়া দুর্গন্ধযুক্ত তরল, যার গন্ধ ও স্বাদ ভয়ংকর। ইবনে কাসীর উল্লেখ করেছেন, একে অসহনীয় ঠান্ডা হিসেবেও বর্ণনা করা হয়েছে। যে শীতল পানীয়ের জন্য তারা ব্যাকুল ছিল, তার বদলে তারা এটাই পাবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "حمم",
+   "lemma": "حَمِيم",
+   "meaning_en": "scalding water",
+   "meaning_bn": "ফুটন্ত পানি",
+   "why_en": "Hamim is water heated to its extreme, the opposite of the coolness they wanted."
+  },
+  {
+   "pos": 3,
+   "root": "غسق",
+   "lemma": "غَسّاق",
+   "meaning_en": "foul pus",
+   "meaning_bn": "পুঁজ",
+   "why_en": "Ghassaq is the vile discharge from the bodies of the people of the Fire."
+  }
+ ],
+ "lesson_en": "Remember what follows denial, and let that fear push you toward faith and good deeds, not despair.",
+ "lesson_bn": "অস্বীকারের পর কী আসে তা মনে রাখুন, আর এই ভয় যেন আপনাকে হতাশার দিকে নয়, ঈমান ও নেক আমলের দিকে ঠেলে দেয়।",
+ "real_life_en": "A young man reads this ayah and feels a shiver of fear. Instead of pushing the thought away, he uses it: he finally sits down with his father to fix a quarrel he had been avoiding, and he starts reading a page of Quran each night.",
+ "real_life_bn": "এক যুবক এই আয়াত পড়ে ভয়ে কেঁপে ওঠে। ভাবনাটি সরিয়ে না দিয়ে সে এটাকে কাজে লাগায়। বাবার সঙ্গে যে ঝগড়া মেটানো সে এড়িয়ে যাচ্ছিল, শেষ পর্যন্ত বসে তা মিটিয়ে নেয়। আর প্রতি রাতে কুরআনের এক পৃষ্ঠা পড়া শুরু করে।",
+ "themes": [
+  "Hell",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "hamim",
+   "ghassaq"
+  ]
+ },
+ "claims": [
+  {
+   "text": "They will only taste extremely hot water and the flowing pus of the people of Hell.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Hamim is heat that has reached its maximum point of boiling.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Ghassaq is gathered from the pus, sweat, tears and wounds of the people of Hell, unbearably cold with an intolerable stench.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Sa'di: hot water that scorches faces, and ghassaq, the pus of the people of the Fire, extremely foul in smell and taste.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": []
+}

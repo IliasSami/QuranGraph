@@ -1,0 +1,75 @@
+{
+ "id": "90:15",
+ "simple_en": "On such a day, the first person named is an orphan who is a relative. This is a child whose father has died and who is part of your family. Al-Muyassar says feeding him joins two good deeds: charity and keeping family ties. Zakaria's notes quote a hadith from Ahmad and at-Tirmidhi: giving to a poor person is one charity, but giving to a relative is two, charity and keeping the tie.",
+ "simple_bn": "এমন দিনে যাদের খাওয়াতে হবে, তাদের মধ্যে প্রথমে বলা হয়েছে আত্মীয় ইয়াতীমের কথা: এমন শিশু, যে বাবাকে হারিয়েছে এবং আপনার আত্মীয়। আল-মুয়াসসার বলে, তাকে খাওয়ানোয় দুটি ভালো কাজ একসাথে হয়: দান ও আত্মীয়তার সম্পর্ক রক্ষা। যাকারিয়ার টীকায় আহমাদ ও তিরমিযীর একটি হাদীস উদ্ধৃত হয়েছে: মিসকীনকে দান করা একটি দান, কিন্তু আত্মীয়কে দান করা দুটি, দান ও আত্মীয়তার সম্পর্ক রক্ষা।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "يتم",
+   "lemma": "يَتِيم",
+   "meaning_en": "an orphan",
+   "meaning_bn": "ইয়াতীম",
+   "why_en": "A child whose father has died, who needs care."
+  },
+  {
+   "pos": 3,
+   "root": "قرب",
+   "lemma": "مَقْرَبَة",
+   "meaning_en": "near of kin",
+   "meaning_bn": "নিকটাত্মীয়",
+   "why_en": "Being a relative doubles the right he has over you."
+  }
+ ],
+ "lesson_en": "Start your giving with orphans in your own family; caring for them is both charity and keeping ties.",
+ "lesson_bn": "দান শুরু করুন নিজের পরিবারের ইয়াতীমদের দিয়ে; তাদের দেখাশোনা একই সাথে দান ও আত্মীয়তার সম্পর্ক রক্ষা।",
+ "real_life_en": "Your cousin died young and left two small children. Everyone was helpful at the funeral, but months later the visits have stopped. You decide to cover their school lunches each month and visit them every few weeks, so they know their family has not forgotten them.",
+ "real_life_bn": "আপনার এক চাচাতো ভাই অল্প বয়সে মারা গেছেন, রেখে গেছেন দুটি ছোট সন্তান। জানাজার সময় সবাই পাশে ছিল, কিন্তু কয়েক মাস পর খোঁজ নেওয়া থেমে গেছে। আপনি ঠিক করলেন, প্রতি মাসে ওদের স্কুলের টিফিনের খরচ দেবেন, আর কয়েক সপ্তাহ পরপর দেখতে যাবেন, যাতে ওরা জানে পরিবার ওদের ভোলেনি।",
+ "themes": [
+  "orphans",
+  "family",
+  "charity"
+ ],
+ "kinds": [
+  "ethics",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "A child who has lost his father, whom he is related to.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Feeding a related orphan combines the merit of charity and of keeping family ties.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Hadith (Ahmad, at-Tirmidhi, quoted by Zakaria): giving to the poor is one charity, giving to relatives is two: charity and keeping the tie.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.91,
+ "uncertain": []
+}

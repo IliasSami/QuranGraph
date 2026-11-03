@@ -1,0 +1,101 @@
+{
+ "id": "97:4",
+ "simple_en": "On this night the angels come down in great numbers, along with the Spirit. The Spirit here is Jibril (peace be upon him), named on his own because of his high rank. They descend by their Lord's permission, bringing every matter Allah has decreed for that year: provision, births, deaths and more. Ibn Kathir adds that angels come down with blessing and mercy, as they do when the Quran is recited and around gatherings of remembrance.",
+ "simple_bn": "এ রাতে ফেরেশতারা দলে দলে নেমে আসেন, তাঁদের সাথে রূহও। এখানে রূহ মানে জিবরীল (আলাইহিস সালাম), যাঁর উচ্চ মর্যাদার কারণে আলাদা করে তাঁর নাম এসেছে। তাঁরা তাঁদের রবের অনুমতিতে নেমে আসেন, সাথে নিয়ে আসেন সেই বছরের জন্য আল্লাহর নির্ধারিত প্রতিটি বিষয়: রিযিক, জন্ম, মৃত্যু ও আরও অনেক কিছু। ইবনে কাসীর যোগ করেন, ফেরেশতারা বরকত ও রহমত নিয়ে নামেন, যেমন তাঁরা কুরআন তিলাওয়াতের সময় আর যিকিরের মজলিসের চারপাশে নেমে আসেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "نزل",
+   "lemma": "تَنَزَّلَتْ",
+   "meaning_en": "they descend",
+   "meaning_bn": "তাঁরা নেমে আসেন",
+   "why_en": "The form suggests coming down again and again, in large numbers."
+  },
+  {
+   "pos": 3,
+   "root": "روح",
+   "lemma": "رُوح",
+   "meaning_en": "the Spirit (Jibril)",
+   "meaning_bn": "রূহ (জিবরীল)",
+   "why_en": "Named apart from the angels to honour Jibril."
+  },
+  {
+   "pos": 5,
+   "root": "أذن",
+   "lemma": "إِذْن",
+   "meaning_en": "permission",
+   "meaning_bn": "অনুমতি",
+   "why_en": "Even the angels act only by Allah's leave."
+  },
+  {
+   "pos": 9,
+   "root": "أمر",
+   "lemma": "أَمْر",
+   "meaning_en": "matter, command",
+   "meaning_bn": "বিষয়, আদেশ",
+   "why_en": "Every matter decreed for the coming year."
+  }
+ ],
+ "lesson_en": "Our provision, life and death are decreed by Allah. On this night, turn to Him in worship and dua.",
+ "lesson_bn": "আমাদের রিযিক, জীবন ও মৃত্যু আল্লাহর নির্ধারিত। এই রাতে ইবাদত ও দুআয় তাঁর দিকে ফিরুন।",
+ "real_life_en": "A young man worried about finding a job spends part of the last ten nights in prayer and dua. He still sends out applications by day. He knows the year's provision is in Allah's hands, so he asks Him for good while doing his own part.",
+ "real_life_bn": "চাকরি পাওয়া নিয়ে দুশ্চিন্তায় থাকা এক যুবক শেষ দশ রাতের কিছু অংশ নামাজ ও দুআয় কাটায়। দিনের বেলায় সে আবেদনপত্রও পাঠাতে থাকে। সে জানে সারা বছরের রিযিক আল্লাহর হাতে, তাই নিজের দায়িত্ব পালনের পাশাপাশি তাঁর কাছে কল্যাণ চায়।",
+ "themes": [
+  "angels",
+  "Allah's power",
+  "worship",
+  "the unseen"
+ ],
+ "kinds": [
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels",
+   "Jibril"
+  ],
+  "names_of_allah": [
+   "Ar-Rabb"
+  ],
+  "events": [
+   "Laylat al-Qadr"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The angels and Jibril descend with their Lord's permission bringing every matter decreed for that year: sustenance, deaths, births and so on.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ar-Ruh here is Jibril, mentioned separately for his rank.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Angels descend in abundance on this night with blessings and mercy, as when the Quran is recited and around circles of dhikr.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Mujahid links 'every matter' to the next ayah ('peace from every matter'); the main reading in al-Mukhtasar was used."
+ ]
+}

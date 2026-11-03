@@ -1,0 +1,98 @@
+{
+ "id": "91:13",
+ "simple_en": "Before the crime, Allah's messenger Salih (peace be upon him) had warned them: leave the she-camel of Allah alone, and do not interfere with her drinking. The camel was a sign from Allah proving that their prophet was truthful. The water was shared by turns: one day was hers and the next was theirs. Harming her, or taking her turn at the water, would bring Allah's punishment.",
+ "simple_bn": "এই অপরাধের আগেই আল্লাহর রাসূল সালিহ (আলাইহিস সালাম) তাদের সতর্ক করেছিলেন: আল্লাহর উষ্ট্রীকে ছেড়ে দাও, আর তার পানি পান করায় বাধা দিয়ো না। উষ্ট্রীটি ছিল আল্লাহর এক নিদর্শন, যা প্রমাণ করত তাদের নবী সত্যবাদী। পানি পালা করে ভাগ করা ছিল: একদিন তার, পরের দিন তাদের। তাকে কষ্ট দেওয়া বা তার পালার পানি কেড়ে নেওয়া আল্লাহর শাস্তি ডেকে আনত।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "messenger",
+   "meaning_bn": "রাসূল",
+   "why_en": "Here the messenger of Allah is Salih (peace be upon him), sent to Thamud."
+  },
+  {
+   "pos": 5,
+   "root": "نوق",
+   "lemma": "ناقَة",
+   "meaning_en": "she-camel",
+   "meaning_bn": "উষ্ট্রী",
+   "why_en": "Called 'the she-camel of Allah' because she was His sign to them."
+  },
+  {
+   "pos": 7,
+   "root": "سقي",
+   "lemma": "سُقْيا",
+   "meaning_en": "her drink",
+   "meaning_bn": "তার পানি পান",
+   "why_en": "Her fixed turn at the water, which they were warned not to violate."
+  }
+ ],
+ "lesson_en": "When Allah gives a clear sign and a clear warning, the safe path is to respect it, not to test it.",
+ "lesson_bn": "আল্লাহ যখন স্পষ্ট নিদর্শন ও স্পষ্ট সতর্কবাণী দেন, তখন নিরাপদ পথ হলো তা সম্মান করা, তাকে পরীক্ষা করা নয়।",
+ "real_life_en": "Neighbours share one water tank on a rota, and everyone knows whose day it is. Someone is tempted to fill extra buckets on another family's day because no one is watching. Respecting the agreed share, even in small things, is the opposite of what Thamud did.",
+ "real_life_bn": "প্রতিবেশীরা পালা করে একটি পানির ট্যাংক ব্যবহার করেন, আর সবাই জানে কোন দিন কার। কেউ দেখছে না বলে কারো মনে লোভ হয় অন্য পরিবারের দিনে কয়েক বালতি বেশি ভরে নিতে। ছোট ব্যাপারেও নির্ধারিত ভাগকে সম্মান করা সামূদ জাতির কাজের বিপরীত।",
+ "themes": [
+  "stories of the prophets",
+  "past nations",
+  "prophethood",
+  "signs in nature"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Salih"
+  ],
+  "nations": [
+   "Thamud"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "she-camel of Allah"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Salih (peace be upon him) told them to leave the camel of Allah alone, let it drink on its day and not pursue it with harm.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The camel was a sign from Allah proving their prophet's truthfulness.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "One day of drinking was hers and the next was theirs.",
+   "sources": [
+    "g-en-jalalayn",
+    "qe-arabic-moyassar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Contravening the warning would bring punishment.",
+   "sources": [
+    "g-en-jalalayn",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

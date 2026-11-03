@@ -1,0 +1,81 @@
+{
+ "id": "79:22",
+ "simple_en": "Then Pharaoh turned his back on faith and got busy working against Musa. He did not just walk away; he made every effort to fight the truth with falsehood. Ibn Kathir and Ahsanul Bayan say this effort included gathering the magicians to oppose Musa's miracles, hoping to prove him a liar. Jalalayn adds that he went about spreading corruption in the land.",
+ "simple_bn": "তারপর ফিরআউন ঈমান থেকে মুখ ফিরিয়ে মূসা (আলাইহিস সালাম)-এর বিরুদ্ধে কাজে লেগে গেল। সে শুধু সরে যায়নি; মিথ্যা দিয়ে সত্যকে ঠেকাতে সব রকম চেষ্টা করল। ইবনে কাসীর ও আহসানুল বায়ান বলেছে, এই চেষ্টার মধ্যে ছিল যাদুকরদের জড়ো করে মূসা (আলাইহিস সালাম)-এর মু'জিযার মোকাবিলা করানো, যাতে তাঁকে মিথ্যাবাদী প্রমাণ করা যায়। জালালাইন যোগ করেছে, সে দেশে ফাসাদ ছড়িয়ে বেড়াচ্ছিল।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "دبر",
+   "lemma": "أَدْبَرَ",
+   "meaning_en": "he turned his back",
+   "meaning_bn": "সে পিছন ফিরল",
+   "why_en": "Idbar is turning away, here from faith."
+  },
+  {
+   "pos": 3,
+   "root": "سعي",
+   "lemma": "سَعَى",
+   "meaning_en": "striving",
+   "meaning_bn": "সচেষ্ট হয়ে",
+   "why_en": "Sa'y is hard effort; he put his effort into fighting the truth."
+  }
+ ],
+ "lesson_en": "Rejecting the truth often grows into fighting it, so turn back to it before pride hardens.",
+ "lesson_bn": "সত্যকে প্রত্যাখ্যান অনেক সময় সত্যের বিরুদ্ধে লড়াইয়ে পরিণত হয়, তাই অহংকার শক্ত হওয়ার আগেই সত্যের দিকে ফিরে আসুন।",
+ "real_life_en": "A colleague points out a mistake in your report. Your first urge is to find faults in her work to get even. You stop yourself, thank her, and fix the report. Turning toward the truth is better than spending energy against it.",
+ "real_life_bn": "এক সহকর্মী আপনার রিপোর্টে একটি ভুল ধরিয়ে দিলেন। প্রথমেই ইচ্ছা হলো তাঁর কাজে খুঁত খুঁজে শোধ নিতে। আপনি নিজেকে থামালেন, তাঁকে ধন্যবাদ দিলেন এবং রিপোর্ট ঠিক করলেন। সত্যের বিরুদ্ধে শক্তি খরচ করার চেয়ে সত্যের দিকে ফেরা অনেক ভালো।",
+ "themes": [
+  "stories of the prophets",
+  "disbelief",
+  "arrogance"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Pharaoh",
+   "Musa"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Pharaoh opposing Musa"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He turned away from faith in what Musa brought, striving to oppose Musa.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "He responded to the truth with falsehood, gathering the magicians to confront Musa's miracles.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Jalalayn: he went about in haste in the land causing corruption.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

@@ -1,0 +1,74 @@
+{
+ "id": "96:10",
+ "simple_en": "The one he forbids is \"a servant, when he prays\". The sources explain that this servant is the Prophet Muhammad ﷺ, praying near the Ka'bah. Zakaria notes that the Quran calls the Prophet ﷺ \"His servant\" in other places too, such as at the start of Surah al-Isra and Surah al-Kahf. Calling him a servant shows his honour: he is Allah's own servant, doing what his Lord asked.",
+ "simple_bn": "যাকে সে বাধা দেয়, তিনি হলেন \"এক বান্দা, যখন তিনি নামাজ পড়েন\"। উৎসগুলো ব্যাখ্যা করে, এই বান্দা হলেন নবী মুহাম্মাদ ﷺ, যিনি কাবার কাছে নামাজ পড়ছিলেন। যাকারিয়া উল্লেখ করেন, কুরআন অন্য জায়গাতেও নবী ﷺ-কে \"তাঁর বান্দা\" বলেছে, যেমন সূরা আল-ইসরা ও সূরা আল-কাহফের শুরুতে। তাঁকে বান্দা বলা তাঁর মর্যাদা বোঝায়: তিনি আল্লাহর নিজের বান্দা, যিনি তাঁর রবের আদেশই পালন করছিলেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "عبد",
+   "lemma": "عَبْد",
+   "meaning_en": "a servant",
+   "meaning_bn": "এক বান্দা",
+   "why_en": "An honourable title: the Quran calls the Prophet ﷺ Allah's servant in several places."
+  },
+  {
+   "pos": 3,
+   "root": "صلو",
+   "lemma": "صَلَّى",
+   "meaning_en": "he prays",
+   "meaning_bn": "তিনি নামাজ পড়েন",
+   "why_en": "His only \"crime\" in Abu Jahl's eyes was praying."
+  }
+ ],
+ "lesson_en": "Being Allah's servant is an honour, and prayer is its clearest sign. Hold on to it even when others object.",
+ "lesson_bn": "আল্লাহর বান্দা হওয়া সম্মানের বিষয়, আর নামাজ তার সবচেয়ে স্পষ্ট চিহ্ন। অন্যরা আপত্তি করলেও তা আঁকড়ে ধরে থাকুন।",
+ "real_life_en": "A teenager is teased by classmates for leaving a game to pray Asr. He feels embarrassed at first. Then he remembers that the Prophet ﷺ himself was mocked and threatened for praying, and Allah honoured him with the name \"a servant\". He keeps praying, calmly and without arguing.",
+ "real_life_bn": "আসরের নামাজ পড়তে খেলা ছেড়ে যাওয়ায় এক কিশোরকে সহপাঠীরা খেপায়। প্রথমে সে লজ্জা পায়। তারপর মনে পড়ে, নামাজ পড়ার জন্য স্বয়ং নবী ﷺ-কেও ঠাট্টা ও হুমকির শিকার হতে হয়েছিল, আর আল্লাহ তাঁকে \"বান্দা\" নামে সম্মানিত করেছেন। সে শান্তভাবে, তর্ক না করে, নামাজ চালিয়ে যায়।",
+ "themes": [
+  "prayer",
+  "Prophet Muhammad ﷺ",
+  "worship"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ",
+   "Abu Jahl"
+  ],
+  "nations": [],
+  "places": [
+   "the Ka'bah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He prevented My servant Muhammad ﷺ when he performed prayer near the Ka'bah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The servant is the Prophet ﷺ; the Quran refers to him this way in other places such as al-Isra 1 and al-Kahf 1.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "The point that the title 'servant' shows honour is an inference from Zakaria's examples, not stated outright."
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "id": "78:35",
+ "simple_en": "In Paradise they will hear no laghw, empty and useless talk, and no lies. No one will lie to another, and no one will call another a liar. Ibn Kathir describes it as the home of peace, free of every flaw. Al-Sa'di notes that the Quran counts this freedom from bad speech as one of the great blessings of Paradise.",
+ "simple_bn": "জান্নাতে তারা কোনো \"লাগব\", অর্থাৎ অসার ও অনর্থক কথা শুনবে না, কোনো মিথ্যাও না। কেউ কারো সঙ্গে মিথ্যা বলবে না, আর কেউ কাউকে মিথ্যাবাদীও বলবে না। ইবনে কাসীর একে শান্তির আবাস বলেছেন, যা সব ত্রুটি থেকে মুক্ত। আস-সা'দী উল্লেখ করেছেন, কুরআন খারাপ কথা থেকে এই মুক্তিকে জান্নাতের বড় নিয়ামতগুলোর একটি হিসেবে গণ্য করেছে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "لغو",
+   "lemma": "لَغْو",
+   "meaning_en": "vain, idle talk",
+   "meaning_bn": "অসার কথা",
+   "why_en": "Laghw is speech with no benefit; none of it exists in Paradise."
+  },
+  {
+   "pos": 6,
+   "root": "كذب",
+   "lemma": "كِذّاب",
+   "meaning_en": "lying, falsehood",
+   "meaning_bn": "মিথ্যা",
+   "why_en": "The same word used for the deniers in ayah 28: what they did here is absent there."
+  }
+ ],
+ "lesson_en": "Peace in speech is a blessing of Paradise; start tasting it now by avoiding idle talk and lies.",
+ "lesson_bn": "কথাবার্তায় শান্তি জান্নাতের একটি নিয়ামত; অসার কথা ও মিথ্যা এড়িয়ে এখনই তার স্বাদ নেওয়া শুরু করুন।",
+ "real_life_en": "A family group chat often turns into gossip and half-true forwarded stories. One aunt decides to stop sharing anything she has not checked and to change the topic when people start backbiting. Slowly the chat becomes a calmer, kinder place.",
+ "real_life_bn": "একটি পারিবারিক গ্রুপ চ্যাট প্রায়ই গীবত আর আধা-সত্য ফরোয়ার্ড করা গল্পে ভরে যায়। এক খালা ঠিক করেন, যাচাই না করে কিছু শেয়ার করবেন না, আর কেউ গীবত শুরু করলে প্রসঙ্গ বদলে দেবেন। ধীরে ধীরে চ্যাটটি আরো শান্ত ও সৌহার্দ্যপূর্ণ হয়ে ওঠে।",
+ "themes": [
+  "Paradise",
+  "reward",
+  "honesty",
+  "good character"
+ ],
+ "kinds": [
+  "promise",
+  "glad-tidings",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Paradise"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "In Paradise they will not hear false or vain speech, nor lies, nor will they lie to one another.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-bn-ahsanul-bayan",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "No one will lie, nor call another's words a lie.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "It will be the abode of peace, free of shortcomings, with no vain speech or sinful lying.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The Quran treats this as a great blessing of Paradise in several places.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "The point that the Quran counts this as a great blessing is from Zakaria's footnote (citing Sa'di), not from the Sa'di text shown."
+ ]
+}

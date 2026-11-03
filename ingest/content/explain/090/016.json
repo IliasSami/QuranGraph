@@ -1,0 +1,80 @@
+{
+ "id": "90:16",
+ "simple_en": "Or a poor person \"of dust\", one so poor he has nothing at all. Matrabah comes from turab, dust: Jalalayn and Sa'di picture someone clinging to the dust from need, and Ahsanul Bayan says he may not even have a home. Ma'ariful Qur'an says the poorer the person, the greater the reward. Ahsanul Bayan adds that paying off a debtor's debt today is also a kind of \"freeing a neck\".",
+ "simple_bn": "অথবা ধূলায় লুটিয়ে থাকা দরিদ্র, যে এত গরিব যে তার কিছুই নেই। 'মাতরাবাহ' এসেছে 'তুরাব' অর্থাৎ মাটি থেকে: জালালাইন ও সা'দী এমন মানুষের ছবি এঁকেছেন, যে অভাবের কারণে মাটির সাথে লেগে আছে; আহসানুল বায়ান বলেছে, তার হয়তো নিজের ঘরও নেই। মাআরিফুল কুরআন বলে, মানুষ যত গরিব, সওয়াব তত বেশি। আহসানুল বায়ান আরও বলেছে, আজকের দিনে কোনো ঋণগ্রস্তের ঋণ শোধ করে দেওয়াও এক ধরনের 'ঘাড় মুক্ত করা'।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سكن",
+   "lemma": "مِسْكِين",
+   "meaning_en": "a poor person",
+   "meaning_bn": "মিসকীন, অভাবী",
+   "why_en": "One without enough to live on."
+  },
+  {
+   "pos": 4,
+   "root": "ترب",
+   "lemma": "مَتْرَبَة",
+   "meaning_en": "in dust, utter misery",
+   "meaning_bn": "ধূলিমলিন, নিঃস্ব",
+   "why_en": "From turab (dust): so poor he lies in the dust with nothing."
+  }
+ ],
+ "lesson_en": "Look for the people with the least, those others overlook, and help them first.",
+ "lesson_bn": "যাদের কিছুই নেই, যাদের অন্যরা চোখেই দেখে না, তাদের খুঁজে নিন এবং আগে তাদের সাহায্য করুন।",
+ "real_life_en": "Every day you pass a man who sleeps on a piece of cardboard near the bus stop. You used to look away. Today you buy him a hot meal and a blanket, ask his name, and find out about a local shelter that could help him.",
+ "real_life_bn": "প্রতিদিন বাসস্ট্যান্ডের পাশে এক টুকরো কার্ডবোর্ডের উপর ঘুমানো এক লোককে পার হয়ে যান। আগে চোখ ফিরিয়ে নিতেন। আজ তার জন্য গরম খাবার আর একটা কম্বল কিনলেন, নাম জিজ্ঞেস করলেন, আর খোঁজ নিলেন কাছাকাছি কোনো আশ্রয়কেন্দ্র তাকে সাহায্য করতে পারে কিনা।",
+ "themes": [
+  "charity",
+  "good character",
+  "justice"
+ ],
+ "kinds": [
+  "ethics",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Or a poor person who has no possessions.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Matrabah: clinging to the dust because of poverty and need; he may have no home of his own.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ma'arif: the poorer the person, the greater the reward for the spender.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Ahsanul Bayan: freeing a slave and feeding a hungry orphan or poor person are like climbing the pass; paying off a debtor's debt today is also a kind of freeing a neck.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

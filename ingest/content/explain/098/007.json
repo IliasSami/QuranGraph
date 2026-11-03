@@ -1,0 +1,83 @@
+{
+ "id": "98:7",
+ "simple_en": "Now the other group: those who believe and do good deeds are the best of creation. Ahsanul Bayan explains that they believe sincerely in their hearts and act with their bodies. Sa'di says they are the best because they knew Allah, worshipped Him, and won the good of this world and the next. Faith and good deeds together are what raise a person to this rank.",
+ "simple_bn": "এবার অন্য দলের কথা: যারা ঈমান এনেছে ও নেক আমল করেছে, তারাই সৃষ্টির সেরা। আহসানুল বায়ান ব্যাখ্যা করে, তারা অন্তর থেকে আন্তরিকভাবে ঈমান আনে আর অঙ্গ-প্রত্যঙ্গ দিয়ে আমল করে। সা'দী বলেন, তারা সেরা কারণ তারা আল্লাহকে চিনেছে, তাঁর ইবাদত করেছে, আর দুনিয়া ও আখিরাতের কল্যাণ লাভ করেছে। ঈমান আর নেক আমল একসাথেই মানুষকে এই মর্যাদায় তোলে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "أمن",
+   "lemma": "آمَنَ",
+   "meaning_en": "believed",
+   "meaning_bn": "ঈমান এনেছে",
+   "why_en": "Faith held sincerely in the heart."
+  },
+  {
+   "pos": 5,
+   "root": "صلح",
+   "lemma": "صالِحَة",
+   "meaning_en": "righteous deeds",
+   "meaning_bn": "নেক আমল",
+   "why_en": "Faith shown in action."
+  },
+  {
+   "pos": 8,
+   "root": "خير",
+   "lemma": "خَيْر",
+   "meaning_en": "best",
+   "meaning_bn": "সেরা, শ্রেষ্ঠ",
+   "why_en": "The exact opposite of \"the worst of creation\" in the previous ayah."
+  }
+ ],
+ "lesson_en": "The best people are not the richest or most famous, but those who join faith with good deeds.",
+ "lesson_bn": "সবচেয়ে ধনী বা বিখ্যাত মানুষ নয়, সেরা মানুষ তারাই যারা ঈমানের সাথে নেক আমল যুক্ত করে।",
+ "real_life_en": "A quiet neighbour never makes the news. He prays at the mosque, checks on the elderly widow next door, and pays his workers on time. By this ayah's measure, people like him are among the best of creation, whatever the world thinks.",
+ "real_life_bn": "এক শান্ত প্রতিবেশী কখনো খবরের শিরোনাম হন না। তিনি মসজিদে নামাজ পড়েন, পাশের বাড়ির বৃদ্ধ বিধবার খোঁজ নেন, আর শ্রমিকদের মজুরি সময়মতো দেন। দুনিয়া যা-ই ভাবুক, এই আয়াতের মাপকাঠিতে তাঁর মতো মানুষেরাই সৃষ্টির সেরাদের মধ্যে।",
+ "themes": [
+  "faith",
+  "the believers' qualities",
+  "reward"
+ ],
+ "kinds": [
+  "glad-tidings",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who have faith in Allah and do good deeds are the best of creation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "They believe sincerely in their hearts and act with their limbs.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: because they worshipped Allah and knew Him, and won the bliss of this world and the Hereafter.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": [
+  "Ibn Kathir and Ahsanul Bayan mention that Abu Hurayrah and some scholars used this ayah to argue believers rank above angels; not included."
+ ]
+}

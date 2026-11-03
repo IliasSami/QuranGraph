@@ -1,0 +1,97 @@
+{
+ "id": "81:8",
+ "simple_en": "Eighth: the baby girl who was buried alive will be questioned by Allah. In the time before Islam, some Arabs buried newborn daughters alive. Al-Sa'di says they did it only out of fear of poverty, and Jalalayn adds fear of shame. Islam ended this cruel practice. On that Day the girl herself will be asked, and her killer will have to face what he did.",
+ "simple_bn": "অষ্টম: জীবন্ত কবর দেওয়া কন্যাশিশুকে আল্লাহ জিজ্ঞেস করবেন। ইসলামের আগের যুগে কিছু আরব নবজাতক মেয়েকে জীবন্ত মাটিতে পুঁতে ফেলত। আস-সা'দী বলেন, তারা এটা করত শুধু দারিদ্র্যের ভয়ে, আর জালালাইন যোগ করেছেন লজ্জার ভয়ের কথা। ইসলাম এই নিষ্ঠুর প্রথা বন্ধ করে দেয়। সেদিন মেয়েটিকেই প্রশ্ন করা হবে, আর তার হত্যাকারীকে নিজের কাজের মুখোমুখি হতে হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "وأد",
+   "lemma": "مَوْءُدَة",
+   "meaning_en": "the girl buried alive",
+   "meaning_bn": "জীবন্ত কবর দেওয়া কন্যা",
+   "why_en": "The word names a crime of that time: burying a baby daughter alive."
+  },
+  {
+   "pos": 3,
+   "root": "سأل",
+   "lemma": "سَأَلَ",
+   "meaning_en": "is asked",
+   "meaning_bn": "জিজ্ঞেস করা হবে",
+   "why_en": "The victim is asked, not the killer, which is itself a sharp rebuke to him."
+  }
+ ],
+ "lesson_en": "Allah will speak for those who had no one to speak for them. No hidden wrong against the weak is lost.",
+ "lesson_bn": "যাদের পক্ষে কথা বলার কেউ ছিল না, আল্লাহ তাদের পক্ষ নেবেন। দুর্বলের উপর করা কোনো গোপন অন্যায় হারিয়ে যায় না।",
+ "real_life_en": "In a family, a daughter is always told she matters less than her brothers. Her school fees are the first thing cut when money is tight. This ayah shows how Allah sees a girl's worth. A father who takes it to heart treats his daughter's needs as seriously as his son's.",
+ "real_life_bn": "একটি পরিবারে মেয়েকে সবসময় বোঝানো হয় যে সে ভাইদের চেয়ে কম গুরুত্বপূর্ণ। টাকার টান পড়লে সবার আগে তার পড়ার খরচ বন্ধ হয়। এই আয়াত দেখায়, আল্লাহর কাছে একটি মেয়ের মূল্য কত। যে বাবা এটা মনে গেঁথে নেন, তিনি মেয়ের প্রয়োজনকে ছেলের প্রয়োজনের মতোই গুরুত্ব দেন।",
+ "context_en": "Ayat 8 and 9 go together: the girl is asked for what sin she was killed. Ma'ariful Qur'an notes that this crime was usually hidden, with no one to demand justice, which is why it is singled out here.",
+ "context_bn": "৮ ও ৯ নম্বর আয়াত একসাথে: মেয়েটিকে জিজ্ঞেস করা হবে, কোন অপরাধে তাকে হত্যা করা হয়েছিল। মাআরিফুল কুরআন বলে, এই অপরাধ সাধারণত গোপনে হতো, বিচার চাওয়ার কেউ থাকত না, তাই এখানে আলাদা করে এর কথা বলা হয়েছে।",
+ "themes": [
+  "the Last Day",
+  "justice",
+  "judgment",
+  "family"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Arabs"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Resurrection"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The girl buried alive will be asked by Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "In the Jahiliyyah some Arabs buried daughters alive; Sa'di says for no reason but fear of poverty; Jalalayn says fear of shame and impoverishment.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "qe-bengali-zakaria",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Islam abolished this practice.",
+   "sources": [
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "The question to her is a rebuke to her killers.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ma'arif: the crime was hidden, with no one to raise a complaint, which explains why it is singled out.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

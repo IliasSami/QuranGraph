@@ -1,0 +1,74 @@
+{
+ "id": "101:7",
+ "simple_en": "The one with heavy scales will live a pleasant, contented life in Paradise. Jalalayn and Ahsanul Bayan explain the phrase: it is a life he will be pleased with, a life he likes and is happy to have. It is the reward for the good deeds that weighed heavy.",
+ "simple_bn": "যার পাল্লা ভারী হবে, সে জান্নাতে সন্তোষজনক সুখের জীবনে থাকবে। জালালাইন ও আহসানুল বায়ান কথাটি বুঝিয়েছেন: এটি এমন জীবন, যাতে সে খুশি থাকবে, যা সে পছন্দ করবে এবং পেয়ে সন্তুষ্ট হবে। এটি ভারী হওয়া নেক আমলের প্রতিদান।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "عيش",
+   "lemma": "عِيشَة",
+   "meaning_en": "life",
+   "meaning_bn": "জীবন",
+   "why_en": "The way of living he will have in Paradise."
+  },
+  {
+   "pos": 4,
+   "root": "رضو",
+   "lemma": "راضِيَة",
+   "meaning_en": "pleasing, contented",
+   "meaning_bn": "সন্তোষজনক",
+   "why_en": "A life he is fully pleased with."
+  }
+ ],
+ "lesson_en": "Real contentment is the life Allah promises the people of good deeds, so work for it with hope.",
+ "lesson_bn": "সত্যিকারের সন্তুষ্টি সেই জীবন, যার প্রতিশ্রুতি আল্লাহ নেককারদের দিয়েছেন; তাই আশা নিয়ে তার জন্য কাজ করুন।",
+ "real_life_en": "You are tired after a long week of caring for a sick parent, and no one thanks you. Remember that a life of full contentment is promised for deeds like this. That hope can give you strength to keep going with patience.",
+ "real_life_bn": "অসুস্থ বাবা-মায়ের সেবা করে দীর্ঘ এক সপ্তাহ পর আপনি ক্লান্ত, কেউ ধন্যবাদও দেয়নি। মনে রাখুন, এমন আমলের জন্যই পূর্ণ সন্তুষ্টির জীবনের প্রতিশ্রুতি আছে। এই আশা আপনাকে ধৈর্যের সঙ্গে চালিয়ে যাওয়ার শক্তি দিতে পারে।",
+ "context_en": "This completes the first outcome. Ayat 8 to 11 describe the opposite.",
+ "context_bn": "এখানে প্রথম পরিণতির বর্ণনা শেষ হয়। ৮ থেকে ১১ নম্বর আয়াতে বিপরীত পরিণতির কথা এসেছে।",
+ "themes": [
+  "Paradise",
+  "reward",
+  "the Last Day"
+ ],
+ "kinds": [
+  "promise",
+  "hereafter",
+  "glad-tidings"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Paradise"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He will live a contented life in Paradise.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "A pleasing life: he will be pleased with it, a life he likes and is content with.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.94,
+ "uncertain": []
+}

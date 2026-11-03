@@ -1,0 +1,94 @@
+{
+ "id": "84:21",
+ "simple_en": "The question continues: why, when the Quran is recited to them, do they not prostrate to their Lord? Al-Sa'di explains that they do not humble themselves before the Quran or follow its commands. Ibn Kathir says they do not bow down out of awe and respect for Allah's words. The Prophet ﷺ prostrated when reciting this surah, as reported by al-Bukhari and Muslim, so this is one of the places of prostration in the Quran.",
+ "simple_bn": "প্রশ্নটি চলতে থাকে: তাদের সামনে যখন কুরআন পাঠ করা হয়, তখন কেন তারা তাদের রবের উদ্দেশ্যে সিজদা করে না? সা'দী বলেন, তারা কুরআনের সামনে বিনীত হয় না, এর আদেশ-নিষেধও মানে না। ইবনে কাসীর বলেন, আল্লাহর বাণীর প্রতি ভয় ও সম্মানে তারা নত হয় না। বুখারী ও মুসলিমে বর্ণিত আছে, রাসূলুল্লাহ ﷺ এই সূরা তিলাওয়াতের সময় সিজদা করেছেন; তাই এটি কুরআনের সিজদার স্থানগুলোর একটি।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "قرأ",
+   "lemma": "قُرْءان",
+   "meaning_en": "the Quran",
+   "meaning_bn": "কুরআন",
+   "why_en": "Its name means 'that which is recited'; hearing it should soften the heart."
+  },
+  {
+   "pos": 6,
+   "root": "سجد",
+   "lemma": "سَجَدَ",
+   "meaning_en": "they prostrate",
+   "meaning_bn": "তারা সিজদা করে",
+   "why_en": "Sujud is bowing down; here it means both the act of prostration and humble obedience."
+  }
+ ],
+ "lesson_en": "Let the Quran move you. When you hear it, respond with humility and obedience, not with a careless heart.",
+ "lesson_bn": "কুরআন যেন আপনাকে নাড়া দেয়। তা শুনলে বিনয় ও আনুগত্য নিয়ে সাড়া দিন, উদাসীন মন নিয়ে নয়।",
+ "real_life_en": "In the car, a recitation of this surah comes on while you are thinking about work. You turn the volume up and listen to the meaning. When you reach this place at home later, you remember that the Prophet ﷺ prostrated here, and you learn the details of this prostration from a scholar so you can do it too.",
+ "real_life_bn": "গাড়িতে অফিসের কথা ভাবতে ভাবতে এই সূরার তিলাওয়াত শুরু হলো। আপনি আওয়াজ বাড়িয়ে অর্থের দিকে মন দিলেন। পরে বাসায় এই জায়গায় পৌঁছে মনে পড়ল, রাসূলুল্লাহ ﷺ এখানে সিজদা করেছেন। আপনিও যেন তা করতে পারেন, সে জন্য এই সিজদার নিয়ম একজন আলেমের কাছ থেকে জেনে নিলেন।",
+ "context_en": "Ahsanul Bayan notes that, based on the hadith, prostrating after reciting this ayah is recommended. The details of this prostration are a matter to learn from scholars.",
+ "context_bn": "আহসানুল বয়ান বলে, হাদীসের ভিত্তিতে এই আয়াত তিলাওয়াতের পর সিজদা করা মুস্তাহাব। এই সিজদার বিস্তারিত নিয়ম আলেমদের কাছ থেকে জেনে নেওয়া উচিত।",
+ "themes": [
+  "the Quran",
+  "prayer",
+  "humility",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "worship"
+ ],
+ "entities": {
+  "people": [
+   "Abu Hurayrah"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran",
+   "prostration of recitation"
+  ]
+ },
+ "claims": [
+  {
+   "text": "When the Quran is recited to them they do not prostrate to their Lord.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Sa'di: they do not submit to the Quran or follow its commands and prohibitions.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: they do not prostrate out of awe, respect and reverence when Allah's words are recited.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sujud here includes both the technical prostration and humble submission to Allah.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Abu Hurayrah prostrated in this surah and said the Prophet ﷺ prostrated in it (reported by al-Bukhari and Muslim); Ahsanul Bayan says prostrating here is recommended.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

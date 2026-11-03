@@ -1,0 +1,93 @@
+{
+ "id": "96:2",
+ "simple_en": "The first ayah spoke of all creation. This one singles out the human being: Allah created him from 'alaq, a clinging clot of blood, which before that was a drop of fluid. Sa'di draws the link with the command to read: the One who created people and cares for them will surely guide them, by sending messengers and revealing books. Ahsanul Bayan adds that naming humans here shows their honour.",
+ "simple_bn": "প্রথম আয়াতে ছিল সমগ্র সৃষ্টির কথা। এই আয়াতে আলাদা করে মানুষের কথা বলা হয়েছে: আল্লাহ তাকে সৃষ্টি করেছেন 'আলাক' থেকে, অর্থাৎ জমাট বাঁধা রক্তপিণ্ড, যা আগে ছিল এক ফোঁটা বীর্য। সা'দী পড়ার নির্দেশের সাথে এর যোগসূত্র দেখিয়েছেন: যিনি মানুষকে সৃষ্টি করেছেন ও তার যত্ন নেন, তিনি অবশ্যই রাসূল পাঠিয়ে আর কিতাব নাযিল করে তাকে পথ দেখাবেন। আহসানুল বায়ান বলে, এখানে আলাদা করে মানুষের উল্লেখ তার মর্যাদা বোঝায়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "أنس",
+   "lemma": "إِنسان",
+   "meaning_en": "the human being",
+   "meaning_bn": "মানুষ",
+   "why_en": "Named after all creation to show his special place and honour."
+  },
+  {
+   "pos": 4,
+   "root": "علق",
+   "lemma": "عَلَق",
+   "meaning_en": "a clinging clot",
+   "meaning_bn": "আলাক, জমাট রক্তপিণ্ড",
+   "why_en": "From the root of clinging: a humble stage that gives the surah its name."
+  }
+ ],
+ "lesson_en": "We began as a tiny clot. Remembering this keeps us humble and grateful to the One who shaped us.",
+ "lesson_bn": "আমরা শুরু হয়েছিলাম ছোট্ট এক রক্তপিণ্ড থেকে। এটা মনে রাখলে বিনয় ও কৃতজ্ঞতা আসে তাঁর প্রতি, যিনি আমাদের গড়েছেন।",
+ "real_life_en": "A man who has become successful starts to look down on others. Then he sees an ultrasound picture of his first child, a tiny shape on a screen. He remembers that he too started that small, and that every ability he has was given to him. He goes back to treating people gently.",
+ "real_life_bn": "সফল হয়ে এক ব্যক্তি অন্যদের ছোট চোখে দেখতে শুরু করেছিল। তারপর সে তার প্রথম সন্তানের আলট্রাসাউন্ডের ছবি দেখে, পর্দায় ছোট্ট একটি আকৃতি। তার মনে পড়ে, সেও একদিন এত ছোট থেকেই শুরু করেছিল, আর তার প্রতিটি যোগ্যতা তাকে দেওয়া হয়েছে। সে আবার মানুষের সাথে নরম ব্যবহার করতে শুরু করে।",
+ "themes": [
+  "creation",
+  "human nature",
+  "humility",
+  "revelation"
+ ],
+ "kinds": [
+  "creation",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "'alaq (clot)"
+  ]
+ },
+ "claims": [
+  {
+   "text": "He created the human from a clot of congealed blood, after it had been a drop of semen.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "After all creation in general, the human is mentioned specifically.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-bengali-zakaria",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "'Alaq is the plural of 'alaqah, congealed blood.",
+   "sources": [
+    "g-en-jalalayn",
+    "qe-bengali-zakaria",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Sa'di: the One who created man and cares for him must direct him with commands and prohibitions, by sending messengers and revealing books; that is why man's creation follows the command to read.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Mentioning man specifically shows his honour.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": [
+  "Al-Mukhtasar Bangla text for this ayah has a garbled character (রক্তপিÐ for রক্তপিণ্ড)."
+ ]
+}

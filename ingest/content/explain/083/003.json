@@ -1,0 +1,100 @@
+{
+ "id": "83:3",
+ "simple_en": "But when the same people measure or weigh for others, they give less than is due. They might use a short measure, not fill it up, or cheat in some other way. Al-Sa'di calls this stealing people's wealth. Al-Mukhtasar notes this was the habit of the people of Madinah when the Prophet ﷺ migrated there. Al-Sa'di adds that fairness covers arguments too: in a debate, be as fair to the other side's points as you are to your own.",
+ "simple_bn": "কিন্তু এই লোকেরাই যখন অন্যদের জন্য মাপে বা ওজন করে, তখন প্রাপ্যের চেয়ে কম দেয়। হয়তো ছোট মাপের পাত্র ব্যবহার করে, পাত্র পুরো ভরে না, বা অন্য কোনো উপায়ে ঠকায়। আস-সা'দী একে মানুষের সম্পদ চুরি বলেছেন। আল-মুখতাসার জানায়, নবী ﷺ যখন মদীনায় হিজরত করেন, তখন মদীনাবাসীদের এই অভ্যাস ছিল। আস-সা'দী আরও বলেন, ইনসাফ যুক্তিতর্কের ক্ষেত্রেও: আলোচনায় নিজের যুক্তির প্রতি যেমন যত্নশীল, প্রতিপক্ষের যুক্তির প্রতিও তেমনি ন্যায্য হোন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "كيل",
+   "lemma": "كالُ",
+   "meaning_en": "they measure for them",
+   "meaning_bn": "তাদের জন্য মাপে",
+   "why_en": "The same root as in the previous ayah, now used for giving instead of taking."
+  },
+  {
+   "pos": 4,
+   "root": "وزن",
+   "lemma": "وَزَنُ",
+   "meaning_en": "they weigh for them",
+   "meaning_bn": "তাদের জন্য ওজন করে",
+   "why_en": "Weight is mentioned beside measure, so both ways of trading are covered."
+  },
+  {
+   "pos": 5,
+   "root": "خسر",
+   "lemma": "يُخْسِرُ",
+   "meaning_en": "they cause loss",
+   "meaning_bn": "কম দেয়, ক্ষতি করে",
+   "why_en": "From khusr, loss: by giving short, they make the other person lose."
+  }
+ ],
+ "lesson_en": "Fairness means one standard for yourself and others: give people their full due, in goods, in money and even in argument.",
+ "lesson_bn": "ইনসাফ মানে নিজের ও অন্যের জন্য একই মাপকাঠি: মানুষকে তার পুরো প্রাপ্য দিন, পণ্যে, টাকায়, এমনকি যুক্তিতর্কেও।",
+ "real_life_en": "A tailor is paid for three metres of cloth but uses a little less and keeps the rest. A freelancer bills for five hours but worked four. A student in a class debate only mentions the weak points of the other side. Each is giving short measure in a different way, and each can choose to give full measure instead.",
+ "real_life_bn": "এক দর্জি তিন মিটার কাপড়ের দাম নিলেন, কিন্তু একটু কম ব্যবহার করে বাকিটা রেখে দিলেন। এক ফ্রিল্যান্সার পাঁচ ঘণ্টার বিল করলেন, কাজ করেছেন চার ঘণ্টা। ক্লাসের বিতর্কে এক ছাত্র প্রতিপক্ষের শুধু দুর্বল দিকগুলোই বলল। প্রত্যেকে ভিন্ন ভিন্নভাবে মাপে কম দিচ্ছে, আর প্রত্যেকেই চাইলে পুরো মাপ দিতে পারে।",
+ "context_en": "Ibn Kathir links this to other ayat commanding full measure and a straight balance, and recalls that the people of Shu'ayb (peace be upon him) were destroyed for cheating in weights and measures.",
+ "context_bn": "ইবনে কাসীর এর সাথে সেই আয়াতগুলো যুক্ত করেছেন, যেখানে পুরো মাপ ও সঠিক পাল্লার আদেশ আছে, আর মনে করিয়ে দিয়েছেন যে শু'আইব (আলাইহিস সালাম)-এর কওমকে মাপে ও ওজনে কম দেওয়ার কারণে ধ্বংস করা হয়েছিল।",
+ "themes": [
+  "justice",
+  "honesty",
+  "greed",
+  "past nations"
+ ],
+ "kinds": [
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Shu'ayb"
+  ],
+  "nations": [
+   "people of Shu'ayb"
+  ],
+  "places": [
+   "Madinah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "the Hijrah"
+  ],
+  "things": [
+   "measure",
+   "weight"
+  ]
+ },
+ "claims": [
+  {
+   "text": "When they measure or weigh for people they reduce the measurement and weight; this was the practice of the people of Madinah when the Prophet migrated to them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Sa'di: they reduce it by a deficient measure or balance, by not filling the measure, or otherwise; this is stealing people's wealth.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Sa'di: the ayah also covers arguments; in debate one must show the opponent's valid points and examine his evidence as one's own.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah commanded full measure and a straight balance (17:35, 6:152, 55:9) and destroyed the people of Shu'ayb for cheating in weights and measures.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

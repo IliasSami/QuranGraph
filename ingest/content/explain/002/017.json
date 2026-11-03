@@ -1,0 +1,105 @@
+{
+ "id": "2:17",
+ "simple_en": "Allah gives two examples of the hypocrites, one of fire and one of water. This is the fire example. Picture someone on a dark night who lights a fire to see and feel safe. Just when it lights up everything around him, Allah takes the light away, and he is left in layers of darkness, unable to see. Sa'di explains: the hypocrites borrowed the light of faith from the believers for a while, and it kept their lives and wealth safe. Then death comes, the borrowed light is gone, and only darkness is left.",
+ "simple_bn": "আল্লাহ মুনাফিকদের দুটি দৃষ্টান্ত দিয়েছেন, একটি আগুনের, আরেকটি পানির। এটি আগুনের দৃষ্টান্ত। ভাবুন, অন্ধকার রাতে কেউ আলো পেতে আর নিরাপদ বোধ করতে আগুন জ্বালাল। ঠিক যখন চারপাশ আলোকিত হলো, আল্লাহ সেই আলো নিয়ে গেলেন, আর সে স্তরে স্তরে অন্ধকারে পড়ে রইল, কিছুই দেখতে পায় না। সা'দী বলেন, মুনাফিকরা কিছু সময়ের জন্য মু'মিনদের কাছ থেকে ঈমানের আলো ধার নিয়েছিল, তাতে তাদের জান-মাল নিরাপদ ছিল। তারপর মৃত্যু আসে, ধার করা আলো চলে যায়, থাকে শুধু অন্ধকার।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "مثل",
+   "lemma": "مَثَل",
+   "meaning_en": "their example",
+   "meaning_bn": "তাদের দৃষ্টান্ত",
+   "why_en": "A mathal is a picture that makes an inner state easy to see."
+  },
+  {
+   "pos": 4,
+   "root": "وقد",
+   "lemma": "اسْتَوْقَدَ",
+   "meaning_en": "kindled",
+   "meaning_bn": "জ্বালাল",
+   "why_en": "The form suggests seeking a fire, as if the flame was taken from others."
+  },
+  {
+   "pos": 12,
+   "root": "نور",
+   "lemma": "نُور",
+   "meaning_en": "their light",
+   "meaning_bn": "তাদের আলো",
+   "why_en": "The light of an outward faith that was never truly theirs."
+  },
+  {
+   "pos": 15,
+   "root": "ظلم",
+   "lemma": "ظُلُمَة",
+   "meaning_en": "darknesses",
+   "meaning_bn": "অন্ধকারসমূহ",
+   "why_en": "Plural: darkness upon darkness after the light is gone."
+  }
+ ],
+ "lesson_en": "Make your faith your own, rooted in the heart, not a light you borrow from others for a while.",
+ "lesson_bn": "আপনার ঈমানকে নিজের করে নিন, অন্তরে গেঁথে নিন; এটি যেন অন্যের কাছ থেকে কিছুক্ষণের জন্য ধার করা আলো না হয়।",
+ "real_life_en": "You pray regularly while living with your parents, partly because they do. When you move away for work, you notice the habit slipping. You decide to learn what the prayer means and why you do it, so that the light stays with you wherever you live.",
+ "real_life_bn": "মা-বাবার সাথে থাকার সময় আপনি নিয়মিত নামাজ পড়তেন, কিছুটা তাদের দেখেই। চাকরির জন্য অন্য শহরে গিয়ে দেখলেন অভ্যাসটা ঢিলে হয়ে যাচ্ছে। আপনি ঠিক করলেন নামাজের অর্থ আর কেন পড়েন তা শিখবেন, যাতে যেখানেই থাকুন, এই আলো আপনার সাথে থাকে।",
+ "context_en": "After describing the hypocrites' qualities in 2:8-16, Allah gives two parables to show their state clearly. This is the first; the second, of a rainstorm, comes in 2:19-20.",
+ "context_bn": "২:৮-১৬ আয়াতে মুনাফিকদের বৈশিষ্ট্য বর্ণনার পর আল্লাহ তাদের অবস্থা স্পষ্ট করতে দুটি দৃষ্টান্ত দিয়েছেন। এটি প্রথমটি; দ্বিতীয়টি, ঝড়বৃষ্টির দৃষ্টান্ত, এসেছে ২:১৯-২০ আয়াতে।",
+ "themes": [
+  "hypocrisy",
+  "guidance",
+  "misguidance",
+  "death"
+ ],
+ "kinds": [
+  "parable",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "fire",
+   "light"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah gives two examples of the hypocrites, one of fire and one of water.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "They are like one who lights a fire in darkness for light; when it lights up what is around him, it goes out, leaving him in darkness unable to see or find a way.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: the hypocrites took the fire of faith from the believers, though it was not their own quality; they benefited for a time (their blood and wealth were protected), then death took that benefit and left them in darknesses.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Their outward, not inward, faith is meant; they remain in the darkness of misguidance.",
+   "sources": [
+    "qe-arabic-moyassar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

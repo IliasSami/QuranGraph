@@ -1,0 +1,79 @@
+{
+ "id": "95:3",
+ "simple_en": "The third oath is by \"this secure city\", Makkah. It is called secure because whoever enters it is safe, and Jalalayn notes people were safe in it even before Islam. It is also where Muhammad ﷺ was sent as a messenger. Ibn Kathir explains the order of the three oaths: the land of 'Isa, then the mountain of Musa, then Makkah, moving from a noble place to a nobler one and then to the noblest.",
+ "simple_bn": "তৃতীয় শপথটি \"এই নিরাপদ নগরী\" মক্কার। একে নিরাপদ বলা হয়েছে, কারণ যে এখানে প্রবেশ করে সে নিরাপদ থাকে; জালালাইন বলেন, ইসলামের আগেও মানুষ এখানে নিরাপদ ছিল। এখানেই মুহাম্মাদ ﷺ রাসূল হিসেবে প্রেরিত হয়েছেন। ইবনে কাসীর তিনটি শপথের ক্রম ব্যাখ্যা করেছেন: ঈসা (আলাইহিস সালাম)-এর ভূমি, তারপর মূসা (আলাইহিস সালাম)-এর পাহাড়, তারপর মক্কা; সম্মানিত স্থান থেকে আরও সম্মানিত, তারপর সবচেয়ে সম্মানিত স্থানে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "بلد",
+   "lemma": "بَلَد",
+   "meaning_en": "city, land",
+   "meaning_bn": "নগরী, শহর",
+   "why_en": "\"This city\" is Makkah, according to all the sources."
+  },
+  {
+   "pos": 3,
+   "root": "أمن",
+   "lemma": "أَمِين",
+   "meaning_en": "secure, safe",
+   "meaning_bn": "নিরাপদ",
+   "why_en": "From the root of safety and trust: whoever enters Makkah is given safety."
+  }
+ ],
+ "lesson_en": "Allah made Makkah safe and sent the last Prophet from it. Honour it and the guidance it gave us.",
+ "lesson_bn": "আল্লাহ মক্কাকে নিরাপত্তার স্থান এবং শেষ বার্তার সূচনাস্থল বানিয়েছেন; তাই মক্কা ও সেখান থেকে আসা হিদায়াতকে সম্মান করুন।",
+ "real_life_en": "When you turn towards the qiblah for salah, remember that you are facing the city Allah made safe and from which the Prophet ﷺ was sent. Let that bring calm to your prayer, and try to make your own home a place where people feel safe too.",
+ "real_life_bn": "নামাজে কিবলার দিকে মুখ ফেরালে মনে রাখুন, আপনি সেই নগরীর দিকে মুখ করছেন যাকে আল্লাহ নিরাপদ করেছেন এবং যেখান থেকে নবী ﷺ প্রেরিত হয়েছেন। এই ভাবনা যেন নামাজে প্রশান্তি আনে, আর নিজের ঘরকেও এমন জায়গা বানানোর চেষ্টা করুন যেখানে মানুষ নিরাপদ বোধ করে।",
+ "themes": [
+  "Prophet Muhammad ﷺ",
+  "prophethood",
+  "peace"
+ ],
+ "kinds": [
+  "oath"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ",
+   "'Isa",
+   "Musa"
+  ],
+  "nations": [],
+  "places": [
+   "Makkah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah swears by Makkah, the sacred city that gives safety to whoever enters it, where Muhammad ﷺ was sent as a messenger.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Jalalayn: people were secure in Makkah in the time before Islam and in Islam.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: there is no difference of opinion that the city is Makkah; the three places are mentioned in order, a noble place, then a nobler, then the noblest.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": [
+  "The Ibn Kathir text quoting the end of the Tawrah repeats a phrase in garbled form; it was not used."
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "id": "101:4",
+ "simple_en": "Here is the first picture of that Day: people will be like moths scattered everywhere. Ibn Kathir explains that, bewildered by what is happening, they will spread out, coming and going in confusion. Sa'di describes moths at night that swarm into each other and fly into a fire because they cannot tell where to go. Other ayat compare people that Day to spreading locusts.",
+ "simple_bn": "সেদিনের প্রথম ছবি: মানুষ হবে চারদিকে ছড়িয়ে থাকা পতঙ্গের মতো। ইবনে কাসীর বুঝিয়েছেন, যা ঘটছে তাতে হতভম্ব হয়ে তারা এদিক-ওদিক বিক্ষিপ্তভাবে ছুটাছুটি করবে। সা'দী রাতের সেই পতঙ্গের কথা বলেছেন, যারা একে অপরের উপর ঝাঁপিয়ে পড়ে আর কোথায় যাবে বুঝতে না পেরে আগুনে গিয়ে পড়ে। অন্য আয়াতে সেদিনের মানুষকে ছড়িয়ে পড়া পঙ্গপালের সঙ্গে তুলনা করা হয়েছে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "فرش",
+   "lemma": "فَراش",
+   "meaning_en": "moths",
+   "meaning_bn": "পতঙ্গ",
+   "why_en": "Small flying insects that circle lights and fall into fire."
+  },
+  {
+   "pos": 5,
+   "root": "بثث",
+   "lemma": "مَبْثُوث",
+   "meaning_en": "scattered",
+   "meaning_bn": "বিক্ষিপ্ত",
+   "why_en": "Spread out in every direction, showing people's confusion."
+  }
+ ],
+ "lesson_en": "On that Day no one will feel in control, so seek your security with Allah now through faith and good deeds.",
+ "lesson_bn": "সেদিন কেউ নিজেকে নিয়ন্ত্রণে অনুভব করবে না, তাই এখনই ঈমান ও নেক আমলের মাধ্যমে আল্লাহর কাছে নিরাপত্তা খুঁজুন।",
+ "real_life_en": "On a summer night, watch insects crowding around a street light, bumping into each other with no sense of direction. Remember that people will be this lost on that Day, and ask yourself what you are doing today to be among those who are safe.",
+ "real_life_bn": "গ্রীষ্মের রাতে রাস্তার বাতির চারপাশে পোকাদের ভিড় দেখুন, দিশাহারা হয়ে একে অপরের সঙ্গে ধাক্কা খাচ্ছে। মনে রাখুন, সেদিন মানুষও এমনই দিশাহারা হবে। নিজেকে জিজ্ঞেস করুন, নিরাপদদের মধ্যে থাকার জন্য আজ আপনি কী করছেন।",
+ "context_en": "After the questions of ayat 1 to 3, Allah begins to describe the Day: first people (ayah 4), then mountains (ayah 5).",
+ "context_bn": "১ থেকে ৩ নম্বর আয়াতের প্রশ্নের পর আল্লাহ দিনটির বর্ণনা শুরু করেন: প্রথমে মানুষের (আয়াত ৪), তারপর পাহাড়ের (আয়াত ৫)।",
+ "themes": [
+  "the Last Day",
+  "resurrection"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning",
+  "parable"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "the Day of Judgment"
+  ],
+  "things": [
+   "moths"
+  ]
+ },
+ "claims": [
+  {
+   "text": "On that Day people will be like scattered moths (Mukhtasar EN says locusts), dispersed here and there.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: in their scattering, coming and going, bewildered at what is happening to them; compare 54:7 'as if they were locusts spread abroad'.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: moths at night swarm into each other, not knowing where to go, and fall into a fire because of their weak perception.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-arabic-moyassar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Al-Mukhtasar (English) renders al-farash as 'locusts', while the Bangla Mukhtasar and other sources say moths; the explanation uses moths and mentions locusts from 54:7."
+ ]
+}

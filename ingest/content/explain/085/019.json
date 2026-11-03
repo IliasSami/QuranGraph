@@ -1,0 +1,72 @@
+{
+ "id": "85:19",
+ "simple_en": "Yet the disbelievers keep on denying. Al-Mukhtasar explains that their problem is not that they never heard what happened to the nations before them. They heard, but they reject what their messengers brought because they follow their own desires. Ibn Kathir describes them as living in doubt, suspicion and rebellion.",
+ "simple_bn": "তবু কাফিররা অস্বীকার করেই চলেছে। আল-মুখতাসার বলে, তাদের সমস্যা এটা নয় যে আগের জাতিগুলোর কী হয়েছিল তা তারা শোনেনি। তারা শুনেছে, কিন্তু নিজেদের কুপ্রবৃত্তির অনুসরণ করে রাসূলদের আনা বার্তা প্রত্যাখ্যান করে। ইবনে কাসীর তাদের বর্ণনা দিয়েছেন সন্দেহ, সংশয় ও বিদ্রোহে ডুবে থাকা মানুষ হিসেবে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "كفر",
+   "lemma": "كَفَرَ",
+   "meaning_en": "they disbelieved",
+   "meaning_bn": "তারা কুফরি করেছে",
+   "why_en": "They covered over the truth they had heard."
+  },
+  {
+   "pos": 5,
+   "root": "كذب",
+   "lemma": "تَكْذِيب",
+   "meaning_en": "denial",
+   "meaning_bn": "মিথ্যারোপ",
+   "why_en": "They are 'in' denial, surrounded by it, and it goes on without stopping."
+  }
+ ],
+ "lesson_en": "Knowing the truth is not enough if desires lead you. Let the truth guide your desires, not the other way round.",
+ "lesson_bn": "কুপ্রবৃত্তি পথ দেখালে শুধু সত্য জানা যথেষ্ট নয়। সত্য যেন আপনার ইচ্ছাকে চালায়, উল্টোটা নয়।",
+ "real_life_en": "You know that staying up all night gaming ruins your Fajr and your mood, and you have seen it happen many times. Still, the urge wins. This ayah shows that the real problem is not a lack of knowledge but following desire. You set a firm cut-off time and ask Allah to help you keep it.",
+ "real_life_bn": "আপনি জানেন, সারারাত গেম খেললে ফজর নষ্ট হয়, মেজাজও খারাপ থাকে, বহুবার এমন হতে দেখেছেন। তবু ইচ্ছাটাই জিতে যায়। এই আয়াত দেখায়, আসল সমস্যা জ্ঞানের অভাব নয়, বরং প্রবৃত্তির অনুসরণ। আপনি একটি নির্দিষ্ট সময় ঠিক করেন, আর তা মেনে চলতে আল্লাহর সাহায্য চান।",
+ "themes": [
+  "disbelief",
+  "past nations",
+  "human nature"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Their obstacle to faith is not that news of destroyed nations did not reach them; they deny what their messengers brought, following desires.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "They did not take heed and continued in denial like those before them.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: they are in doubt, suspicion, disbelief and rebellion.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

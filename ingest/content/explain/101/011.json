@@ -1,0 +1,90 @@
+{
+ "id": "101:11",
+ "simple_en": "The answer: it is a Fire, intensely hot. Ibn Kathir says its heat comes with strong flames. He quotes a hadith, recorded by al-Bukhari and Muslim, in which the Prophet ﷺ said that the fire people light in this world is one part of seventy parts of the fire of Hell. Sa'di gives the same meaning: its heat is seventy times that of worldly fire. We seek refuge with Allah from it.",
+ "simple_bn": "উত্তর: তা এক অতি উত্তপ্ত আগুন। ইবনে কাসীর বলেন, এর উত্তাপের সঙ্গে থাকবে প্রচণ্ড লেলিহান শিখা। তিনি বুখারী ও মুসলিমে বর্ণিত একটি হাদীস উল্লেখ করেছেন, যেখানে রাসূলুল্লাহ ﷺ বলেছেন, দুনিয়ায় মানুষ যে আগুন জ্বালায়, তা জাহান্নামের আগুনের সত্তর ভাগের এক ভাগ। সা'দীও একই অর্থ দিয়েছেন: এর উত্তাপ দুনিয়ার আগুনের চেয়ে সত্তর গুণ বেশি। আমরা আল্লাহর কাছে এ থেকে আশ্রয় চাই।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "نور",
+   "lemma": "نار",
+   "meaning_en": "fire",
+   "meaning_bn": "আগুন",
+   "why_en": "Hawiyah is explained as a Fire."
+  },
+  {
+   "pos": 2,
+   "root": "حمي",
+   "lemma": "حامِيَة",
+   "meaning_en": "intensely hot",
+   "meaning_bn": "অতি উত্তপ্ত",
+   "why_en": "Extreme heat with strong flame."
+  }
+ ],
+ "lesson_en": "Ask Allah often to protect you from the Fire, and let fear of it keep you away from sin.",
+ "lesson_bn": "বারবার আল্লাহর কাছে জাহান্নাম থেকে রক্ষা চান, আর তার ভয় যেন আপনাকে গুনাহ থেকে দূরে রাখে।",
+ "real_life_en": "Standing in the kitchen, you touch a hot pan by mistake and pull your hand back at once. That small pain can remind you of this ayah. Make it a habit to say a short dua for protection from the Fire after your prayers.",
+ "real_life_bn": "রান্নাঘরে ভুল করে গরম কড়াইয়ে হাত লাগলে আপনি সঙ্গে সঙ্গে হাত সরিয়ে নেন। এই ছোট্ট ব্যথা আপনাকে এই আয়াতের কথা মনে করিয়ে দিতে পারে। নামাজের পর জাহান্নাম থেকে রক্ষার একটি ছোট দোয়া পড়াকে অভ্যাস বানিয়ে নিন।",
+ "context_en": "The surah ends with this answer to ayah 10, closing the description of the light scale.",
+ "context_bn": "১০ নম্বর আয়াতের প্রশ্নের এই উত্তর দিয়ে সূরাটি শেষ হয়, আর হালকা পাল্লার বর্ণনাও এখানে শেষ হয়।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "fire"
+  ]
+ },
+ "claims": [
+  {
+   "text": "It is the intensely hot hellfire.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: extreme heat accompanied by strong flame and fire.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Hadith (al-Bukhari and Muslim, quoted by Ibn Kathir): the fire of the children of Adam is one part of seventy parts of the fire of Hell.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: its heat exceeds the heat of worldly fire seventy times; we seek refuge with Allah from it.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

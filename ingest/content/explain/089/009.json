@@ -1,0 +1,90 @@
+{
+ "id": "89:9",
+ "simple_en": "The second nation is Thamud, the people of Prophet Salih (peace be upon him). Allah gave them great skill and strength, so they cut into the rocks of the mountains and made homes out of them. The valley is named by Sa'di and Jalalayn as Wadi al-Qura. The question carries on from ayah 6: do you not see what your Lord did to them too?",
+ "simple_bn": "দ্বিতীয় জাতি সামূদ, সালেহ (আলাইহিস সালাম)-এর জাতি। আল্লাহ তাদের বিশেষ দক্ষতা ও শক্তি দিয়েছিলেন, ফলে তারা পাহাড়ের পাথর কেটে ঘর বানাত। সা'দী ও জালালাইন উপত্যকাটির নাম বলেছেন ওয়াদিল কুরা। ৬ নম্বর আয়াতের প্রশ্নটি এখানেও চলছে: আপনি কি দেখেননি আপনার রব তাদের সাথেও কী করেছেন?",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": null,
+   "lemma": "ثَمُود",
+   "meaning_en": "Thamud",
+   "meaning_bn": "সামূদ",
+   "why_en": "The people of Prophet Salih, known for carving homes from rock."
+  },
+  {
+   "pos": 3,
+   "root": "جوب",
+   "lemma": "جابُ",
+   "meaning_en": "they cut / carved",
+   "meaning_bn": "তারা কেটেছিল",
+   "why_en": "Shows their skill and strength in hewing hard rock into dwellings."
+  },
+  {
+   "pos": 4,
+   "root": "صخر",
+   "lemma": "صَخْر",
+   "meaning_en": "the rocks",
+   "meaning_bn": "পাথর",
+   "why_en": "Hard mountain stone, which they turned into houses."
+  }
+ ],
+ "lesson_en": "Skill and craftsmanship are gifts from Allah; using them while turning away from Him does not make a person safe.",
+ "lesson_bn": "দক্ষতা ও কারিগরি আল্লাহর দান; তাঁর থেকে মুখ ফিরিয়ে সেগুলো ব্যবহার করলে কেউ নিরাপদ হয়ে যায় না।",
+ "real_life_en": "You are a talented engineer and your designs win awards. It is easy to feel that your success depends only on your skill. Remembering Thamud, you make a habit of thanking Allah when a project goes well, and you refuse to bend safety rules to impress a client.",
+ "real_life_bn": "আপনি একজন দক্ষ প্রকৌশলী, আপনার নকশা পুরস্কার পায়। মনে হতেই পারে, সাফল্য শুধু নিজের দক্ষতার জোরে। সামূদের কথা মনে রেখে আপনি অভ্যাস করলেন, কাজ ভালো হলে আল্লাহর শুকরিয়া আদায় করবেন, আর গ্রাহককে খুশি করতে নিরাপত্তার নিয়ম ভাঙবেন না।",
+ "themes": [
+  "past nations",
+  "stories of the prophets",
+  "gratitude"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Salih"
+  ],
+  "nations": [
+   "Thamud"
+  ],
+  "places": [
+   "Wadi al-Qura"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "rock-cut houses"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Do you not see what your Lord did with Thamud, the tribe of Salih, who carved the stones of the mountains, making houses out of them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "The valley is Wadi al-Qura; they hewed rocks with their strength and took them as dwellings.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Allah gave them special skill and power in stone carving (26:149).",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.91,
+ "uncertain": []
+}

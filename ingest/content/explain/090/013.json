@@ -1,0 +1,82 @@
+{
+ "id": "90:13",
+ "simple_en": "The first part of the steep pass is freeing a neck, that is, setting a slave free, male or female. Sa'di says this includes helping a slave pay for his own freedom, and even more so freeing a Muslim held captive. Zakaria's notes call it a great act of worship that rebuilds a person's life, and quote a hadith from Musnad Ahmad that freeing a slave becomes a person's ransom from the Fire.",
+ "simple_bn": "দুর্গম গিরিপথের প্রথম অংশ হলো একটি ঘাড়কে মুক্ত করা, অর্থাৎ দাস বা দাসীকে স্বাধীন করা। সা'দী বলেন, এর মধ্যে আছে কোনো দাসকে তার মুক্তিপণ আদায়ে সাহায্য করা, আর তার চেয়েও বেশি, বন্দী মুসলিমকে মুক্ত করা। যাকারিয়ার টীকা একে এক মহান ইবাদত বলেছে, যা একজন মানুষের জীবন নতুন করে গড়ে দেয়। সেখানে মুসনাদে আহমাদের একটি হাদীস উদ্ধৃত হয়েছে: দাস মুক্ত করা জাহান্নাম থেকে মুক্তির বিনিময় হয়ে যায়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "فكك",
+   "lemma": "فَكّ",
+   "meaning_en": "freeing",
+   "meaning_bn": "মুক্ত করা",
+   "why_en": "Literally untying or releasing something that is held fast."
+  },
+  {
+   "pos": 2,
+   "root": "رقب",
+   "lemma": "رَقَبَة",
+   "meaning_en": "a neck (a slave)",
+   "meaning_bn": "ঘাড় (দাস)",
+   "why_en": "'Neck' stands for the whole person held in bondage."
+  }
+ ],
+ "lesson_en": "Helping another person become free and stand on their own is among the deeds that carry you over the hard pass.",
+ "lesson_bn": "অন্য কাউকে মুক্ত হতে ও নিজের পায়ে দাঁড়াতে সাহায্য করা সেই আমলগুলোর একটি, যা আপনাকে কঠিন গিরিপথ পার করিয়ে দেয়।",
+ "real_life_en": "A man in your area is in prison only because he cannot pay a small debt, and his family is struggling. You and a few friends collect the amount so he can be released and go back to work. You think of this ayah as you hand over the money.",
+ "real_life_bn": "আপনার এলাকার এক লোক সামান্য একটা ঋণ শোধ করতে না পারায় জেলে আছেন, আর তার পরিবার কষ্টে আছে। আপনি ও কয়েকজন বন্ধু মিলে টাকাটা জোগাড় করলেন, যাতে তিনি ছাড়া পেয়ে কাজে ফিরতে পারেন। টাকাটা তুলে দেওয়ার সময় এ আয়াতের কথা মনে পড়ল।",
+ "context_en": "In these ayat the Quran presents freeing slaves as a great good deed and a way to Paradise. Sa'di extends it to helping a slave buy his freedom and freeing captives.",
+ "context_bn": "এ আয়াতগুলোতে কুরআন দাসমুক্তিকে এক মহান নেক কাজ ও জান্নাতের পথ হিসেবে উপস্থাপন করেছে। সা'দী এর পরিসর বাড়িয়ে দাসকে মুক্তিপণ আদায়ে সাহায্য এবং বন্দীদের মুক্ত করাকেও এর অন্তর্ভুক্ত করেছেন।",
+ "themes": [
+  "charity",
+  "justice",
+  "good character"
+ ],
+ "kinds": [
+  "ethics",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "It is to free a male or female slave.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: freeing by manumission or helping with the payment of his kitabah contract, and with more reason freeing a Muslim captive held by disbelievers.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Zakaria and Ma'arif: a great act of worship that moulds a person's life.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Hadith (Musnad Ahmad, quoted by Zakaria): whoever frees a slave, it will be his ransom from the Fire.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": []
+}

@@ -1,0 +1,82 @@
+{
+ "id": "90:6",
+ "simple_en": "He boasts, \"I have spent heaps of wealth.\" Zakaria's notes say his words show his pride. He has so much that wasting it means nothing to him. He did not spend it on real good. He spent it on his desires and on showing off, and, Jalalayn says, on fighting the Prophet ﷺ. Sa'di says Allah calls this \"destroying\" wealth because only regret and loss come back from it. Money spent for Allah comes back many times over.",
+ "simple_bn": "সে গর্ব করে বলে, 'আমি রাশি রাশি সম্পদ উড়িয়ে দিয়েছি।' যাকারিয়ার টীকা বলে, এ কথাতেই বোঝা যায় সে কতটা অহংকারী: এত টাকা যে তা উড়িয়ে দেওয়া তার কাছে কিছুই না। সে তা প্রকৃত কোনো ভালো কাজে খরচ করেনি, বরং নিজের প্রবৃত্তি, লোক দেখানো, আর জালালাইনের মতে, রাসূলুল্লাহ ﷺ-এর বিরোধিতায় খরচ করেছে। সা'দী ব্যাখ্যা করেছেন, কেন আল্লাহ এই খরচকে সম্পদ 'ধ্বংস করা' বলেছেন: এতে শুধু আফসোস ও ক্ষতি ফিরে আসে, অথচ আল্লাহর সন্তুষ্টির জন্য খরচ বহু গুণে লাভ এনে দেয়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "هلك",
+   "lemma": "أَهْلَكَ",
+   "meaning_en": "I destroyed, used up",
+   "meaning_bn": "আমি নিঃশেষ করেছি",
+   "why_en": "Spending on sin and show is called destroying wealth, since nothing good comes back from it."
+  },
+  {
+   "pos": 4,
+   "root": "لبد",
+   "lemma": "لُبَد",
+   "meaning_en": "heaps, in abundance",
+   "meaning_bn": "রাশি রাশি",
+   "why_en": "Piled up, one heap on another: the amount he brags about."
+  }
+ ],
+ "lesson_en": "Spending is only gain when it is for Allah; money spent to show off is money lost.",
+ "lesson_bn": "খরচ তখনই লাভ, যখন তা আল্লাহর জন্য হয়; লোক দেখানোর জন্য খরচ করা টাকা আসলে হারানো টাকা।",
+ "real_life_en": "Planning your wedding, you feel pressure to throw the biggest party in the family so people will talk about it. You stop and ask what will remain of that money afterwards. You keep the event simple and give part of the budget to help a poor family in the village.",
+ "real_life_bn": "বিয়ের পরিকল্পনা করতে গিয়ে চাপ অনুভব করছেন, পরিবারের সবচেয়ে বড় অনুষ্ঠান করতে হবে যাতে লোকে বলাবলি করে। থেমে নিজেকে জিজ্ঞেস করলেন, অনুষ্ঠান শেষে এই টাকার কী থাকবে? আপনি অনুষ্ঠান সাদাসিধে রাখলেন, আর বাজেটের একটা অংশ গ্রামের এক গরিব পরিবারকে সাহায্যে দিলেন।",
+ "themes": [
+  "wealth",
+  "arrogance",
+  "charity"
+ ],
+ "kinds": [
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He says boastfully: I spent a lot of wealth, heaped up.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Zakaria: his words show his pride in his wealth; he spent it not on real good but for show and pride.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Jalalayn: he spent it in enmity of Muhammad ﷺ.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: spending on desires and sins is called destruction because it brings only regret and loss, unlike spending for Allah's pleasure, which profits many times over.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.89,
+ "uncertain": []
+}

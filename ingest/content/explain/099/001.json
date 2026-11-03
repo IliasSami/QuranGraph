@@ -1,0 +1,90 @@
+{
+ "id": "99:1",
+ "simple_en": "This surah describes the Day of Judgement. It opens with the earth being shaken by its great final quake. Sa'di explains that it will shake and tremble until every building and landmark on it falls, its mountains crumble and the land becomes flat and level. Jalalayn calls it the most violent shaking, fitting the size of that Day.",
+ "simple_bn": "এই সূরায় কিয়ামতের দিনের বর্ণনা আছে। এটি শুরু হয়েছে পৃথিবীর সেই মহা শেষ কম্পন দিয়ে। সা'দী ব্যাখ্যা করেন, পৃথিবী এমনভাবে কাঁপবে ও দুলবে যে এর উপরের সব ভবন ও চিহ্ন ভেঙে পড়বে, পাহাড়গুলো চূর্ণ হবে, আর ভূমি সমতল ও মসৃণ হয়ে যাবে। জালালাইন একে বলেছেন সবচেয়ে প্রচণ্ড কম্পন, যা সেই দিনের বিশালতার উপযুক্ত।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "زلزل",
+   "lemma": "زُلْزِلُ",
+   "meaning_en": "is shaken",
+   "meaning_bn": "প্রকম্পিত হবে",
+   "why_en": "The repeated letters of the root echo a violent, repeated shaking."
+  },
+  {
+   "pos": 4,
+   "root": "زلزل",
+   "lemma": "زِلْزال",
+   "meaning_en": "its quake",
+   "meaning_bn": "তার কম্পন",
+   "why_en": "\"Its\" quake: the one great final quake meant for it."
+  }
+ ],
+ "lesson_en": "Even the earth beneath our feet will not stay still forever. Prepare now for the Day it shakes.",
+ "lesson_bn": "আমাদের পায়ের নিচের মাটিও চিরকাল স্থির থাকবে না। যেদিন তা কেঁপে উঠবে, সেদিনের জন্য এখনই প্রস্তুতি নিন।",
+ "real_life_en": "After feeling a small earthquake one night, a family sits together and reads this surah. The few seconds of shaking felt huge to them. They talk about how much greater that final Day will be, and each picks one good habit to start that week.",
+ "real_life_bn": "এক রাতে ছোট একটা ভূমিকম্প টের পাওয়ার পর একটি পরিবার একসাথে বসে এই সূরা পড়ে। কয়েক সেকেন্ডের কম্পনই তাদের কাছে বিশাল মনে হয়েছিল। তারা আলোচনা করে, সেই শেষ দিন কত বড় হবে, আর প্রত্যেকে সে সপ্তাহে শুরু করার জন্য একটি ভালো অভ্যাস বেছে নেয়।",
+ "themes": [
+  "the Last Day",
+  "signs in nature",
+  "Allah's power"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Judgement",
+   "the final earthquake"
+  ],
+  "things": [
+   "the earth"
+  ]
+ },
+ "claims": [
+  {
+   "text": "When the earth is shaken vigorously, which will happen on the Day of Judgement.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: it will shake until buildings and landmarks fall, mountains crumble and it becomes a level plain.",
+   "sources": [
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "It is its most violent rocking, befitting its magnitude.",
+   "sources": [
+    "g-en-jalalayn",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Commentators differ whether this is the quake before the first blowing of the trumpet or after the second; Ma'ariful Qur'an inclines to the second, Ahsanul Bayan places it at the first.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": true,
+ "differ_note_en": "Ma'ariful Qur'an notes the commentators differ on whether this quake comes at the first blowing of the trumpet or after the second, when the dead are raised. It inclines to the second because of the context; Ahsanul Bayan places it at the first.",
+ "differ_note_bn": "মাআরিফুল কুরআন উল্লেখ করে, এই কম্পন শিঙ্গার প্রথম ফুঁ-এর সময় নাকি দ্বিতীয় ফুঁ-এর পর মৃতদের ওঠানোর সময় হবে, তা নিয়ে তাফসীরকারদের মধ্যে মতভেদ আছে। প্রসঙ্গের কারণে মাআরিফুল কুরআন দ্বিতীয়টির দিকে ঝুঁকেছে; আহসানুল বায়ান একে প্রথম ফুঁ-এর সময় বলেছে।",
+ "confidence": 0.9,
+ "uncertain": [
+  "The surah header lists az-Zalzalah as Medinan; this is not discussed in the explanations."
+ ]
+}

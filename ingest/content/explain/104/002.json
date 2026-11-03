@@ -1,0 +1,96 @@
+{
+ "id": "104:2",
+ "simple_en": "This same person's only concern is to pile up wealth and count it again and again. Sa'di says he has no wish to spend it on good causes or on keeping ties with relatives. Ma'ariful Qur'an and Ahsanul Bayan stress that saving money is not wrong in itself. What is blamed is hoarding it while leaving its due rights unpaid, or letting it make you proud and forget your religious duties.",
+ "simple_bn": "এই একই ব্যক্তির একমাত্র চিন্তা সম্পদ জমা করা আর বারবার তা গোনা। সা'দী বলেন, ভালো কাজে বা আত্মীয়তার সম্পর্ক রক্ষায় তা খরচ করার কোনো আগ্রহ তার নেই। মা'আরিফুল কুরআন ও আহসানুল বায়ান জোর দিয়ে বলেছেন, টাকা সঞ্চয় করা নিজে কোনো অন্যায় নয়। দোষ হলো এর প্রাপ্য হক আদায় না করে জমিয়ে রাখা, অথবা সম্পদ যেন অহংকারী বানায় এবং দীনের দায়িত্ব ভুলিয়ে দেয়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "جمع",
+   "lemma": "جَمَعَ",
+   "meaning_en": "gathered",
+   "meaning_bn": "জমা করল",
+   "why_en": "Piling wealth up, one part on top of another."
+  },
+  {
+   "pos": 3,
+   "root": "مول",
+   "lemma": "مال",
+   "meaning_en": "wealth",
+   "meaning_bn": "সম্পদ",
+   "why_en": "The thing his whole heart is set on."
+  },
+  {
+   "pos": 4,
+   "root": "عدد",
+   "lemma": "عَدَّدَ",
+   "meaning_en": "counted it over and over",
+   "meaning_bn": "বারবার গুনল",
+   "why_en": "Paints a picture of greed and stinginess."
+  }
+ ],
+ "lesson_en": "Save if you need to, but pay what you owe from your money and let some of it go to good causes and your relatives.",
+ "lesson_bn": "প্রয়োজনে সঞ্চয় করুন, তবে আপনার টাকা থেকে প্রাপ্য হক আদায় করুন, আর তার কিছু অংশ ভালো কাজে ও আত্মীয়দের জন্য ব্যয় করুন।",
+ "real_life_en": "You check your savings app every night and feel a little thrill as the number grows, yet you keep delaying help to a struggling aunt. Let the next check end differently: send her something, and ask a scholar about the zakat you may owe.",
+ "real_life_bn": "প্রতি রাতে সঞ্চয়ের অ্যাপ খুলে সংখ্যাটা বাড়তে দেখে আপনার ভালো লাগে, অথচ কষ্টে থাকা এক খালাকে সাহায্য করতে বারবার দেরি করছেন। পরের বার অ্যাপ দেখার পর অন্যভাবে শেষ করুন: তাকে কিছু পাঠান, আর আপনার উপর কতটা যাকাত ফরজ হতে পারে তা একজন আলেমের কাছে জেনে নিন।",
+ "context_en": "This describes the same mocker of ayah 1: his pride in people's faults goes hand in hand with his love of hoarded wealth.",
+ "context_bn": "এটি ১ নম্বর আয়াতের সেই বিদ্রূপকারীরই বর্ণনা: মানুষের দোষ ধরার অহংকার আর জমানো সম্পদের ভালোবাসা তার মধ্যে একসঙ্গে চলে।",
+ "themes": [
+  "wealth",
+  "greed",
+  "charity",
+  "this world"
+ ],
+ "kinds": [
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "wealth"
+  ]
+ },
+ "claims": [
+  {
+   "text": "His only concern is to amass wealth and count it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: he has no wish to spend it on good causes or keeping ties of kinship.",
+   "sources": [
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Gathering wealth is not sinful in principle; what is condemned is not paying due rights, pride, or neglecting religious duties because of it.",
+   "sources": [
+    "g-en-maarif",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Zakaria: his pride in his wealth is what leads him to humiliate people.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

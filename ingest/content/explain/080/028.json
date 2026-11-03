@@ -1,0 +1,72 @@
+{
+ "id": "80:28",
+ "simple_en": "Allah also grows grapes and qadb. Al-Mukhtasar explains qadb as fresh green fodder for livestock. Ibn Kathir reports from Ibn 'Abbas, Qatadah and others that it is the moist green plants animals graze on, and al-Hasan al-Basri said it is fodder. So one ayah mentions food for people and food for their animals side by side.",
+ "simple_bn": "আল্লাহ আঙুর ও \"কাদ্ব\"-ও উৎপন্ন করেন। আল-মুখতাসার কাদ্ব-এর ব্যাখ্যা দিয়েছে: পশুর খাদ্য হিসেবে তাজা সবুজ ঘাস। ইবনে কাসীর ইবনে আব্বাস, কাতাদা ও অন্যদের থেকে বর্ণনা করেছেন, এটি সেই রসালো সবুজ গাছপালা যা পশু খায়, আর হাসান বসরী বলেছেন এটি পশুখাদ্য। এভাবে একই আয়াতে মানুষের খাবার আর তাদের পশুর খাবার পাশাপাশি এসেছে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "عنب",
+   "lemma": "عِنَب",
+   "meaning_en": "grapes",
+   "meaning_bn": "আঙুর",
+   "why_en": "A fruit Allah gives to people."
+  },
+  {
+   "pos": 2,
+   "root": "قضب",
+   "lemma": "قَضْب",
+   "meaning_en": "green fodder",
+   "meaning_bn": "তাজা সবুজ ঘাস",
+   "why_en": "Explained by the sources as fresh plants that animals graze on."
+  }
+ ],
+ "lesson_en": "Allah provides for animals as well as people, so be kind to the animals in your care.",
+ "lesson_bn": "আল্লাহ মানুষের পাশাপাশি পশুদেরও রিযিক দেন; তাই আপনার দায়িত্বে থাকা পশুদের প্রতি দয়ালু হোন।",
+ "real_life_en": "Maybe you keep a goat, a cow or a cat at home. Feed it well and on time. That is part of thanking Allah. He grows its food just as He grows yours.",
+ "real_life_bn": "বাড়িতে ছাগল, গরু বা এমনকি একটি বিড়াল থাকলেও তাকে সময়মতো ভালোভাবে খাওয়ানো আল্লাহর শুকরিয়ার অংশ, যিনি আপনার খাবারের মতোই তার খাবারও জন্মান।",
+ "themes": [
+  "signs in nature",
+  "gratitude",
+  "Allah's mercy"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "grapes",
+   "fodder"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah makes grapes and fresh fodder grow, as feed for livestock.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: qadb is the moist green plants animals graze on (Ibn 'Abbas, Qatadah, ad-Dahhak, as-Suddi); al-Hasan al-Basri said it is fodder.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Zakaria and Ahsanul Bayan translate qadb as vegetables (শাক-সবজি), while the tafsirs explain it as fodder; the tafsir meaning is used."
+ ]
+}

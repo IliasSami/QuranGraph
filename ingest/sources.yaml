@@ -1,0 +1,111 @@
+# Every external source QuranGraph uses. `ingest/fetch/fetch.py` downloads them into work/raw/<id>/ and records
+# version + SHA-256 in sources.lock.json (committed), so every build is reproducible and auditable.
+#
+#   use: display    shown to readers verbatim (licence must allow republishing)
+#        data       factual structure / linguistic data (shipped as derived data with its licence notice)
+#        grounding  read by the build-time explanation step only; NEVER shipped in the website files
+#   status: ok | permission-requested | permission-needed
+
+- id: tanzil-uthmani
+  kind: tanzil_text
+  quranType: uthmani
+  title: Tanzil Quran Text (Uthmani, v1.1)
+  publisher: Tanzil Project
+  url: https://tanzil.net/download/
+  licence: CC BY 3.0, verbatim copies only (changing the text is not allowed)
+  attribution: Quran text from the Tanzil Project (tanzil.net)
+  use: display
+  status: ok
+
+- id: tanzil-simple-clean
+  kind: tanzil_text
+  quranType: simple-clean
+  title: Tanzil Quran Text (Simple Clean, v1.1)
+  publisher: Tanzil Project
+  url: https://tanzil.net/download/
+  licence: CC BY 3.0, verbatim copies only
+  attribution: Quran text from the Tanzil Project (tanzil.net)
+  use: data   # search index only, never displayed as the Quran text
+  status: ok
+
+- id: tanzil-metadata
+  kind: url
+  file: quran-data.xml
+  src: https://tanzil.net/res/text/metadata/quran-data.xml
+  title: Tanzil Quran Metadata
+  publisher: Tanzil Project
+  licence: CC BY (as declared in the file)
+  attribution: Quran metadata from the Tanzil Project (tanzil.net)
+  use: data
+  status: ok
+
+# ---- QuranEnc.com: republishing allowed without modification, with publisher + QuranEnc credit and version number
+- {id: qe-english-saheeh, kind: quranenc, key: english_saheeh, title: "Saheeh International", publisher: "Noor International Center", lang: en, role: translation, use: display, status: ok,
+   licence: "QuranEnc republishing terms", attribution: "Saheeh International translation, via QuranEnc.com"}
+- {id: qe-english-rwwad, kind: quranenc, key: english_rwwad, title: "Rowwad Translation Center", publisher: "Rowwad Translation Center", lang: en, role: translation, use: display, status: ok,
+   licence: "QuranEnc republishing terms", attribution: "English translation by Rowwad Translation Center, via QuranEnc.com"}
+- {id: qe-english-hilali-khan, kind: quranenc, key: english_hilali_khan, title: "Hilali and Khan", publisher: "King Fahd Glorious Quran Printing Complex", lang: en, role: translation, use: display, status: ok,
+   licence: "QuranEnc republishing terms", attribution: "Translation by Dr. Muhammad Taqi-ud-Din al-Hilali and Dr. Muhammad Muhsin Khan, via QuranEnc.com"}
+- {id: qe-bengali-zakaria, kind: quranenc, key: bengali_zakaria, title: "Dr. Abu Bakr Muhammad Zakaria", publisher: "King Fahd Glorious Quran Printing Complex", lang: bn, role: translation, use: display, status: ok,
+   licence: "QuranEnc republishing terms", attribution: "Bangla translation by Dr. Abu Bakr Muhammad Zakaria, via QuranEnc.com"}
+- {id: qe-bengali-rwwad, kind: quranenc, key: bengali_rwwad, title: "Rowwad Translation Center (Bangla)", publisher: "Rowwad Translation Center", lang: bn, role: translation, use: display, status: ok,
+   licence: "QuranEnc republishing terms", attribution: "Bangla translation by Rowwad Translation Center, via QuranEnc.com"}
+- {id: qe-english-mokhtasar, kind: quranenc, key: english_mokhtasar, title: "Al-Mukhtasar fi Tafsir al-Qur'an (English)", publisher: "Tafsir Center for Quranic Studies", lang: en, role: tafsir, use: display, status: ok,
+   licence: "QuranEnc republishing terms", attribution: "Al-Mukhtasar in Interpreting the Noble Quran, Tafsir Center for Quranic Studies, via QuranEnc.com"}
+- {id: qe-bengali-mokhtasar, kind: quranenc, key: bengali_mokhtasar, title: "Al-Mukhtasar fi Tafsir al-Qur'an (Bangla)", publisher: "Tafsir Center for Quranic Studies", lang: bn, role: tafsir, use: display, status: ok,
+   licence: "QuranEnc republishing terms", attribution: "আল-মুখতাসার ফী তাফসীরিল কুরআনিল কারীম, Tafsir Center for Quranic Studies, via QuranEnc.com"}
+- {id: qe-arabic-mokhtasar, kind: quranenc, key: arabic_mokhtasar, title: "المختصر في تفسير القرآن الكريم", publisher: "Tafsir Center for Quranic Studies", lang: ar, role: tafsir, use: display, status: ok,
+   licence: "QuranEnc republishing terms", attribution: "المختصر في تفسير القرآن الكريم، مركز تفسير للدراسات القرآنية، عبر QuranEnc.com"}
+- {id: qe-arabic-moyassar, kind: quranenc, key: arabic_moyassar, title: "التفسير الميسر", publisher: "King Fahd Glorious Quran Printing Complex", lang: ar, role: tafsir, use: display, status: ok,
+   licence: "QuranEnc republishing terms", attribution: "التفسير الميسر، مجمع الملك فهد لطباعة المصحف الشريف، عبر QuranEnc.com"}
+
+# ---- linguistic data
+- id: morphology
+  kind: url
+  file: quran-morphology.txt
+  src: https://raw.githubusercontent.com/mustafa0x/quran-morphology/master/quran-morphology.txt
+  title: Quran morphology (corrected Quranic Arabic Corpus v0.4)
+  publisher: Mustafa Jibaly, based on the Quranic Arabic Corpus (Kais Dukes, University of Leeds)
+  licence: GNU GPL (Quranic Arabic Corpus terms); derived data published as a separate GPL bundle with notice + link to corpus.quran.com
+  attribution: Morphology from the Quranic Arabic Corpus (corpus.quran.com), corrected by github.com/mustafa0x/quran-morphology
+  use: data
+  status: permission-requested   # clarify the "no changes" clause with Kais Dukes
+- id: morphology-terms
+  kind: url
+  file: morphology-terms-ar.json
+  src: https://raw.githubusercontent.com/mustafa0x/quran-morphology/master/morphology-terms-ar.json
+  title: Morphology terms (Arabic)
+  publisher: Mustafa Jibaly
+  licence: as above
+  attribution: github.com/mustafa0x/quran-morphology
+  use: data
+  status: permission-requested
+
+# ---- audio index (files are streamed from EveryAyah, not copied)
+- id: everyayah-index
+  kind: url
+  file: recitations.js
+  src: https://everyayah.com/data/recitations.js
+  title: EveryAyah recitations index
+  publisher: EveryAyah.com
+  licence: no stated terms; audio streamed with credit, courtesy notice sent
+  attribution: Recitation audio from EveryAyah.com
+  use: data
+  status: permission-requested
+
+# ---- grounding only (copyrighted or licence-unclear translations of tafsir): read by the explanation step, never shipped
+- {id: g-en-ibn-kathir, kind: spa5k, slug: en-tafisr-ibn-kathir, title: "Tafsir Ibn Kathir (abridged, English)", publisher: "Darussalam", lang: en, use: grounding, status: ok,
+   licence: "© Darussalam. Grounding only: paraphrased with citation, never republished", attribution: "Tafsir Ibn Kathir (abridged), Darussalam"}
+- {id: g-en-maarif, kind: spa5k, slug: en-tafsir-maarif-ul-quran, title: "Ma'ariful Qur'an (English)", publisher: "Maktaba-e-Darul-Uloom", lang: en, use: grounding, status: ok,
+   licence: "© publisher. Grounding only", attribution: "Ma'ariful Qur'an, Mufti Muhammad Shafi"}
+#   (slug `en-al-jalalayn` is contaminated: its 1:2 holds a passage from another, esoteric tafsir; `tafsir-al-jalalayn` is clean)
+- {id: g-en-jalalayn, kind: spa5k, slug: tafsir-al-jalalayn, title: "Tafsir al-Jalalayn (English, trans. Feras Hamza)", publisher: "Royal Aal al-Bayt Institute", lang: en, use: grounding, status: ok,
+   licence: "© RABIIT. Grounding only", attribution: "Tafsir al-Jalalayn, trans. Feras Hamza, Royal Aal al-Bayt Institute (altafsir.com)"}
+- {id: g-ar-saadi, kind: spa5k, slug: ar-tafsir-as-saadi, title: "تفسير السعدي", publisher: "Abd al-Rahman al-Sa'di (d. 1376 AH)", lang: ar, use: grounding, status: ok,
+   licence: "Classical text; grounding + short quotes", attribution: "تيسير الكريم الرحمن، عبد الرحمن السعدي"}
+- {id: g-ar-ibn-kathir, kind: spa5k, slug: ar-tafsir-ibn-kathir, title: "تفسير ابن كثير", publisher: "Ibn Kathir (d. 774 AH)", lang: ar, use: grounding, status: ok,
+   licence: "Classical text (public domain); grounding + short quotes", attribution: "تفسير القرآن العظيم، ابن كثير"}
+- {id: g-bn-ahsanul-bayan, kind: spa5k, slug: bn-tafsir-ahsanul-bayaan, title: "Tafsir Ahsanul Bayan (Bangla)", publisher: "Bayaan Foundation", lang: bn, use: grounding, status: ok,
+   licence: "© publisher. Grounding only", attribution: "তাফসীর আহসানুল বায়ান"}
+# (removed g-en-wahidi: the mirror's `en-asbab-al-nuzul-by-al-wahidi` holds a mystical commentary, not al-Wahidi's
+#  Asbab al-Nuzul. Occasions of revelation now come only from reports quoted in Ibn Kathir / Ma'ariful Qur'an / Zakaria.)

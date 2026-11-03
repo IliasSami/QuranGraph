@@ -1,0 +1,80 @@
+{
+ "id": "104:4",
+ "simple_en": "\"No,\" it is not as he imagines. He will surely be thrown into al-Hutamah, a name of Hell that means \"the Crusher\", because it crushes and breaks everything thrown into it. Zakaria notes that the verb is used for tossing away something worthless. The man who thought himself great because of his money will be flung away with contempt.",
+ "simple_bn": "\"কখনো না\", সে যেমন ভাবে বিষয়টি তেমন নয়। তাকে অবশ্যই নিক্ষেপ করা হবে 'আল-হুতামা'য়, যা জাহান্নামের একটি নাম, অর্থ \"চূর্ণকারী\", কারণ তাতে যা ফেলা হয় সবকিছু সে ভেঙে চুরমার করে দেয়। যাকারিয়া উল্লেখ করেছেন, এখানে ব্যবহৃত ক্রিয়াটি তুচ্ছ জিনিস ছুঁড়ে ফেলার অর্থে আসে। যে মানুষ টাকার জোরে নিজেকে বড় ভাবত, তাকে ঘৃণাভরে ছুঁড়ে ফেলা হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نبذ",
+   "lemma": "نَبَذَ",
+   "meaning_en": "he will surely be thrown",
+   "meaning_bn": "তাকে অবশ্যই ছুঁড়ে ফেলা হবে",
+   "why_en": "Used for throwing away something considered worthless."
+  },
+  {
+   "pos": 4,
+   "root": "حطم",
+   "lemma": "حُطَمَة",
+   "meaning_en": "al-Hutamah, the Crusher",
+   "meaning_bn": "আল-হুতামা, চূর্ণকারী",
+   "why_en": "A name of Hell, from hatm, to crush and break into pieces."
+  }
+ ],
+ "lesson_en": "Worldly status built on money and mockery means nothing before Allah; real honour comes from faith and good deeds.",
+ "lesson_bn": "টাকা আর বিদ্রূপের উপর গড়া দুনিয়ার মর্যাদা আল্লাহর কাছে কিছুই নয়; সত্যিকারের সম্মান আসে ঈমান ও নেক আমল থেকে।",
+ "real_life_en": "Someone at school or work acts important because of an expensive phone or car and looks down on others. Rather than envying or copying that, remind yourself that Allah's scale is different, and treat the people they ignore with respect.",
+ "real_life_bn": "স্কুলে বা অফিসে কেউ দামি ফোন বা গাড়ির কারণে নিজেকে বড় ভাবে আর অন্যদের ছোট চোখে দেখে। তাকে হিংসা বা অনুকরণ না করে নিজেকে মনে করিয়ে দিন, আল্লাহর মাপকাঠি ভিন্ন; আর সে যাদের অবহেলা করে, তাদের সম্মানের সঙ্গে ব্যবহার করুন।",
+ "context_en": "This rejects the false hope of ayah 3. Ayat 5 to 9 then describe al-Hutamah.",
+ "context_bn": "এটি ৩ নম্বর আয়াতের ভুল আশাকে প্রত্যাখ্যান করে। এরপর ৫ থেকে ৯ নম্বর আয়াতে আল-হুতামার বর্ণনা এসেছে।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "arrogance"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "It is not as he thinks; he will be thrown into the fire of Hell that crushes and breaks everything thrown into it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Al-Hutamah is a name of Hell, from hatm, breaking and crushing.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Nabdh is used for throwing away something as worthless; the rich man who thought himself great will be thrown into Hell with contempt.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

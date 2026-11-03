@@ -1,0 +1,80 @@
+{
+ "id": "83:25",
+ "simple_en": "They will be given a pure, sealed drink called rahiq. Ibn Kathir says, reporting Ibn Mas'ud, Ibn 'Abbas and others, that rahiq is a name for the wine of Paradise. Al-Mukhtasar says their servants will pour it from sealed containers. Jalalayn explains that it is free of any impurity and that no one but them breaks its seal.",
+ "simple_bn": "তাদের 'রাহীক' নামের বিশুদ্ধ, মোহর করা পানীয় পান করানো হবে। ইবনে কাসীর ইবনে মাসউদ, ইবনে আব্বাস (রা.) ও অন্যদের থেকে বর্ণনা করেছেন, 'রাহীক' জান্নাতের শরাবের একটি নাম। আল-মুখতাসার বলছে, তাদের সেবকরা মোহর করা পাত্র থেকে তা পরিবেশন করবে। জালালাইন বলছে, এতে কোনো ভেজাল নেই, আর তারা ছাড়া কেউ এর মোহর খুলবে না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "رحق",
+   "lemma": "رَحِيق",
+   "meaning_en": "pure drink (rahiq)",
+   "meaning_bn": "বিশুদ্ধ পানীয়",
+   "why_en": "A name for the pure drink of Paradise, with nothing mixed in to spoil it."
+  },
+  {
+   "pos": 4,
+   "root": "ختم",
+   "lemma": "مَخْتُوم",
+   "meaning_en": "sealed",
+   "meaning_bn": "মোহর করা",
+   "why_en": "Sealed to keep it pure, opened only for the people of Paradise."
+  }
+ ],
+ "lesson_en": "What Allah keeps for the righteous is pure and untouched, so keep your life pure for its sake.",
+ "lesson_bn": "আল্লাহ নেককারদের জন্য যা রেখেছেন তা বিশুদ্ধ ও অক্ষত, তাই তার জন্য নিজের জীবনকে পবিত্র রাখুন।",
+ "real_life_en": "A university student is offered drinks at a party and says no, even when friends tease him. He reminds himself that Allah has kept something far better, pure and sealed, for those who hold back for His sake.",
+ "real_life_bn": "এক বিশ্ববিদ্যালয়ের ছাত্রকে পার্টিতে মদ সাধা হলো, বন্ধুরা খোঁচা দিলেও সে না বলল। সে নিজেকে মনে করিয়ে দিল, যারা আল্লাহর জন্য বিরত থাকে, তাদের জন্য তিনি এর চেয়ে অনেক ভালো, বিশুদ্ধ ও মোহর করা কিছু রেখেছেন।",
+ "themes": [
+  "Paradise",
+  "reward"
+ ],
+ "kinds": [
+  "glad-tidings",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Paradise"
+  ],
+  "unseen": [
+   "Paradise"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "rahiq"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Their servants will give them a drink from sealed containers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Ar-Rahiq is a name of the wine of Paradise (Ibn Mas'ud, Ibn 'Abbas, Mujahid and others).",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Jalalayn: it is free of impurities and sealed in its vessel, none but them breaking its seal.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.91,
+ "uncertain": [
+  "The real-life example about refusing drinks is an illustration of the inner lesson, not drawn from the sources."
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "id": "84:25",
+ "simple_en": "The surah ends with hope. Those who believe in Allah and do good deeds are not included in that warning. For them is a reward that never stops: Paradise. Ibn Kathir explains that faith is in the heart and good deeds are done with the body. Al-Sa'di describes this reward as lasting, the kind no eye has seen, no ear has heard, and no heart has imagined.",
+ "simple_bn": "সূরাটি শেষ হয়েছে আশার কথা দিয়ে। যারা আল্লাহর উপর ঈমান এনেছে ও সৎকাজ করেছে, তারা সেই সতর্কবাণীর অন্তর্ভুক্ত নয়। তাদের জন্য আছে এমন প্রতিদান, যা কখনো থামবে না: জান্নাত। ইবনে কাসীর বলেন, ঈমান থাকে অন্তরে, আর সৎকাজ করা হয় অঙ্গপ্রত্যঙ্গ দিয়ে। সা'দী এই প্রতিদানকে বলেছেন স্থায়ী, এমন যা কোনো চোখ দেখেনি, কোনো কান শোনেনি, আর কোনো মানুষের মনে কল্পনাও আসেনি।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "أمن",
+   "lemma": "آمَنَ",
+   "meaning_en": "they believed",
+   "meaning_bn": "তারা ঈমান এনেছে",
+   "why_en": "Faith in the heart is the first condition."
+  },
+  {
+   "pos": 5,
+   "root": "صلح",
+   "lemma": "صالِحَة",
+   "meaning_en": "righteous deeds",
+   "meaning_bn": "সৎকাজ",
+   "why_en": "Faith shows itself in good actions done with the body."
+  },
+  {
+   "pos": 9,
+   "root": "منن",
+   "lemma": "مَمْنُون",
+   "meaning_en": "cut off",
+   "meaning_bn": "বিচ্ছিন্ন, কমানো",
+   "why_en": "'Not mamnun' means the reward is never cut off or reduced."
+  }
+ ],
+ "lesson_en": "Faith and good deeds go together, and their reward never ends. Keep both alive every day.",
+ "lesson_bn": "ঈমান ও সৎকাজ একসাথে চলে, আর এর প্রতিদান কখনো শেষ হয় না। প্রতিদিন দুটোকেই বাঁচিয়ে রাখুন।",
+ "real_life_en": "Every job you have ever had ends with a final payslip. Thinking of this ayah, you remember that the reward for believing and doing good never runs out. So you keep up the small things: helping your neighbour carry her shopping, praying on time, being honest at work, all for a reward that lasts.",
+ "real_life_bn": "যত চাকরিই করুন, প্রতিটির শেষে একটা শেষ বেতন আসে। এই আয়াত ভেবে মনে পড়ে, ঈমান ও সৎকাজের প্রতিদান কখনো ফুরায় না। তাই ছোট ছোট কাজগুলো চালিয়ে যান: প্রতিবেশীর বাজারের ব্যাগ বয়ে দেওয়া, সময়মতো নামাজ পড়া, কাজে সৎ থাকা, সবই এমন প্রতিদানের জন্য যা স্থায়ী।",
+ "context_en": "Al-Sa'di notes that the previous ayat describe the state of most people, denial of the Quran, while this one describes those whom Allah guided.",
+ "context_bn": "সা'দী বলেন, আগের আয়াতগুলোতে বেশিরভাগ মানুষের অবস্থা, অর্থাৎ কুরআন অস্বীকারের কথা বলা হয়েছে, আর এই আয়াতে বলা হয়েছে তাদের কথা, যাদের আল্লাহ হিদায়াত দিয়েছেন।",
+ "themes": [
+  "faith",
+  "reward",
+  "Paradise",
+  "the believers' qualities"
+ ],
+ "kinds": [
+  "promise",
+  "glad-tidings"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Paradise"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Except those who have faith in Allah and do good deeds; for them is a reward that will never terminate: Paradise.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: belief refers to the heart and righteous deeds to what is done with the limbs; the reward is without end or decrease.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: the reward is not cut off but lasting, of what no eye has seen, no ear heard, nor has occurred to any human heart; the preceding ayat describe most people's denial while this group was guided.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

@@ -1,0 +1,77 @@
+{
+ "id": "80:11",
+ "simple_en": "\"No, not so,\" begins this ayah: it should not be like that. Al-Mukhtasar explains that this message is only a reminder and an admonition for those who pay attention. Ibn Kathir says \"it\" can mean this surah, or this advice to share knowledge equally with people of high and low rank. Qatadah and as-Suddi said it means the Quran.",
+ "simple_bn": "আয়াতটি শুরু হয়েছে \"কখনো নয়\" দিয়ে: বিষয়টি এমন হওয়া উচিত নয়। আল-মুখতাসার ব্যাখ্যা করে, এই বাণী শুধু উপদেশ ও সতর্কবাণী, তাদের জন্য যারা মনোযোগ দেয়। ইবনে কাসীর বলেন, \"এটি\" বলতে এই সূরা বোঝাতে পারে, অথবা উঁচু-নিচু সব মানুষের কাছে সমানভাবে জ্ঞান পৌঁছানোর এই উপদেশ। কাতাদা ও সুদ্দী বলেছেন, এর অর্থ কুরআন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "",
+   "lemma": "كَلّا",
+   "meaning_en": "No, not so",
+   "meaning_bn": "কখনো নয়",
+   "why_en": "A firm word of correction: what happened should not happen again."
+  },
+  {
+   "pos": 3,
+   "root": "ذكر",
+   "lemma": "تَذْكِرَة",
+   "meaning_en": "a reminder",
+   "meaning_bn": "উপদেশবাণী",
+   "why_en": "The Quran's role is to remind; it is offered to all, not pressed on those who turn away."
+  }
+ ],
+ "lesson_en": "The Quran is a reminder for anyone who wants it. Share it the same way with everyone, whatever their rank.",
+ "lesson_bn": "কুরআন সবার জন্য উপদেশ, যে তা চায়। মর্যাদা যা-ই হোক, সবার কাছে একইভাবে তা পৌঁছে দিন।",
+ "real_life_en": "When you run a small Quran circle at home, you might be tempted to invite only people you want to impress. This ayah reminds you that the Quran is for anyone who wants to listen, so keep the door open to the shy neighbour and the busy shopkeeper alike.",
+ "real_life_bn": "বাসায় ছোট একটি কুরআন হালাকা চালালে হয়তো শুধু তাদেরই ডাকতে ইচ্ছা করবে, যাদের আপনি খুশি করতে চান। এই আয়াত মনে করিয়ে দেয়, কুরআন সবার জন্য, যে শুনতে চায়। তাই লাজুক প্রতিবেশী আর ব্যস্ত দোকানদার, দুজনের জন্যই দরজা খোলা রাখুন।",
+ "context_en": "This turns from the event in ayat 1 to 10 to the greatness of the Quran, described in ayat 11 to 16. Ahsanul Bayan says the \"No\" means this should not happen again.",
+ "context_bn": "এখান থেকে ১ থেকে ১০ নম্বর আয়াতের ঘটনা থেকে আলোচনা কুরআনের মর্যাদার দিকে যায়, যা ১১ থেকে ১৬ নম্বর আয়াতে বর্ণিত। আহসানুল বায়ান বলে, \"কখনো নয়\" অর্থ ভবিষ্যতে যেন আর এমন না ঘটে।",
+ "themes": [
+  "the Quran",
+  "remembrance of Allah",
+  "guidance"
+ ],
+ "kinds": [
+  "address",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "It should not be like that; it is only admonition and a reminder for those who pay attention.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: 'it' means this surah, or this advice to convey knowledge equally to noble and low; Qatadah and as-Suddi said it means the Quran.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The 'No' means it should not happen again.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

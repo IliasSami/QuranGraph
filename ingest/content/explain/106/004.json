@@ -1,0 +1,95 @@
+{
+ "id": "106:4",
+ "simple_en": "Two great blessings are named: food when they were hungry, and safety when there was fear. Makkah had no crops, yet Allah fed them. Robbery and killing were common in Arabia, yet Allah placed respect for His House and its people in the hearts of the Arabs, so the Quraysh were left in peace. Sa'di calls ample provision and safety among the greatest worldly blessings, which call for thanks.",
+ "simple_bn": "এখানে দুটি বড় নিয়ামতের কথা বলা হয়েছে: ক্ষুধার সময় খাবার, আর ভয়ের সময় নিরাপত্তা। মক্কায় ফসল হতো না, তবুও আল্লাহ তাদের খাইয়েছেন। আরবে তখন লুটপাট ও হত্যা ছিল সাধারণ ব্যাপার, তবুও আল্লাহ আরবদের মনে তাঁর ঘর ও এর বাসিন্দাদের প্রতি সম্মান ঢেলে দিয়েছিলেন, ফলে কুরাইশরা নিরাপদে ছিল। সা'দী বলেছেন, প্রচুর রিযিক আর ভয় থেকে নিরাপত্তা দুনিয়ার সবচেয়ে বড় নিয়ামতগুলোর মধ্যে পড়ে, যা শুকরিয়া দাবি করে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "طعم",
+   "lemma": "أَطْعَمَ",
+   "meaning_en": "He fed them",
+   "meaning_bn": "তিনি তাদের খাইয়েছেন",
+   "why_en": "Food in a barren land came from Allah, through the trade He made easy."
+  },
+  {
+   "pos": 5,
+   "root": "أمن",
+   "lemma": "آمَنَ",
+   "meaning_en": "He made them safe",
+   "meaning_bn": "তিনি তাদের নিরাপদ করেছেন",
+   "why_en": "From the same root as iman and amn: true security comes from Allah."
+  },
+  {
+   "pos": 7,
+   "root": "خوف",
+   "lemma": "خَوْف",
+   "meaning_en": "fear",
+   "meaning_bn": "ভয়",
+   "why_en": "The fear of raids and enemies that everyone else in Arabia lived with."
+  }
+ ],
+ "lesson_en": "Food on the table and safety at home are among Allah's greatest gifts, and they call us to worship the One who gives them.",
+ "lesson_bn": "ঘরে খাবার আর জীবনে নিরাপত্তা আল্লাহর সবচেয়ে বড় দানগুলোর মধ্যে, আর এগুলো আমাদেরকে দাতার ইবাদতের দিকে ডাকে।",
+ "real_life_en": "At dinner, a family hears news of hunger and fighting in another place. The father points out that their full plates and locked, quiet house are not small things. They say \"Alhamdulillah\" together, and the children understand why praying on time is a way of saying thank you.",
+ "real_life_bn": "রাতের খাবারের সময় একটি পরিবার অন্য কোথাও ক্ষুধা আর সংঘাতের খবর শোনে। বাবা মনে করিয়ে দেন, ভরা থালা আর শান্ত, নিরাপদ ঘর ছোট কোনো ব্যাপার নয়। সবাই মিলে \"আলহামদুলিল্লাহ\" বলে, আর সন্তানরা বোঝে, সময়মতো নামাজ পড়াও এক ধরনের ধন্যবাদ জানানো।",
+ "context_en": "Ibn Kathir adds that whoever obeys this command, Allah gives safety in this life and the Hereafter, and whoever disobeys loses both, citing the example of the town in 16:112.",
+ "context_bn": "ইবনে কাসীর যোগ করেছেন, যে এই আদেশ মানে, আল্লাহ তাকে দুনিয়া ও আখিরাতে নিরাপত্তা দেন, আর যে অমান্য করে সে দুটোই হারায়; এর উদাহরণ হিসেবে তিনি সূরা নাহলের ১১২ নম্বর আয়াতের জনপদের কথা উল্লেখ করেছেন।",
+ "themes": [
+  "gratitude",
+  "Allah's mercy",
+  "worship",
+  "this world"
+ ],
+ "kinds": [
+  "description-of-allah",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Quraysh"
+  ],
+  "places": [
+   "Makkah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah fed them from hunger and gave them security from fear by placing reverence for the Haram and its people in the hearts of the Arabs.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "They suffered hunger in Makkah due to lack of crops; killing and robbery were widespread in Arabia, but the Quraysh were safe due to the honour of the Haram.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Ample provision and safety from fear are among the greatest worldly blessings that require thanking Allah.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Whoever obeys the command to worship Allah alone is given safety in this life and the Hereafter; whoever disobeys loses both (with 16:112 as example).",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

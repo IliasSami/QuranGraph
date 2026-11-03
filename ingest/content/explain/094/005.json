@@ -1,0 +1,92 @@
+{
+ "id": "94:5",
+ "simple_en": "Then comes a great promise: with hardship comes ease. The ease does not just come after the hardship; it comes with it, side by side. Sa'di says that whenever there is difficulty, ease travels with it, so that even if hardship crept into a lizard's hole, ease would follow it in and bring it out. Al-Muyassar adds the message to the Prophet ﷺ: do not let your enemies' harm stop you from spreading the message.",
+ "simple_bn": "এরপর আসে এক মহান প্রতিশ্রুতি: কষ্টের সঙ্গেই আছে স্বস্তি। স্বস্তি শুধু কষ্টের পরে আসে না; তা কষ্টের সঙ্গে, পাশাপাশি থাকে। সা'দী বলেন, যখনই কাঠিন্য আসে, সহজতা তার সঙ্গে চলে, এমনকি কষ্ট যদি গুইসাপের গর্তেও ঢুকে যায়, সহজতাও পেছন পেছন ঢুকে তাকে বের করে আনবে। আল-মুয়াসসার রাসূলুল্লাহ ﷺ-এর জন্য বার্তাটি যোগ করেছে: শত্রুদের কষ্ট দেওয়া যেন আপনাকে রিসালাতের প্রচার থেকে বিরত না রাখে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": null,
+   "lemma": "مَع",
+   "meaning_en": "with",
+   "meaning_bn": "সঙ্গে",
+   "why_en": "Ease is 'with' the hardship, not only after it."
+  },
+  {
+   "pos": 3,
+   "root": "عسر",
+   "lemma": "عُسْر",
+   "meaning_en": "the hardship",
+   "meaning_bn": "কষ্ট",
+   "why_en": "With 'the', it refers to a specific known hardship."
+  },
+  {
+   "pos": 4,
+   "root": "يسر",
+   "lemma": "يُسْر",
+   "meaning_en": "ease",
+   "meaning_bn": "স্বস্তি",
+   "why_en": "Without 'the', it is open and general: ease of many kinds."
+  }
+ ],
+ "lesson_en": "Hold on during hard times, because Allah has tied ease to every hardship.",
+ "lesson_bn": "কঠিন সময়ে ধৈর্য ধরে থাকুন, কারণ আল্লাহ প্রতিটি কষ্টের সঙ্গে স্বস্তি বেঁধে দিয়েছেন।",
+ "real_life_en": "During a long illness, a man notices small eases inside the hardship: a kind nurse, a neighbour who brings food, more time to read the Quran. He realises the ease was already there with the pain. That helps him stay patient while he waits for full recovery.",
+ "real_life_bn": "দীর্ঘ অসুস্থতার সময় একজন লক্ষ করলেন, কষ্টের ভেতরেই ছোট ছোট স্বস্তি আছে: একজন দয়ালু নার্স, খাবার নিয়ে আসা এক প্রতিবেশী, কুরআন পড়ার জন্য আরও সময়। তিনি বুঝলেন, স্বস্তি ব্যথার সঙ্গেই ছিল। এটি তাকে পুরো সুস্থতার অপেক্ষায় ধৈর্য ধরতে সাহায্য করে।",
+ "themes": [
+  "patience",
+  "trials",
+  "trust in Allah",
+  "glad tidings"
+ ],
+ "kinds": [
+  "promise",
+  "glad-tidings"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "With difficulty and constraint comes ease and openness.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: whenever hardship exists, ease accompanies it; even if hardship entered a lizard's hole, ease would enter and bring it out.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Al-Muyassar: do not let your enemies' harm turn you from spreading the message, for with hardship is relief.",
+   "sources": [
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "'Al-'usr' with the article refers to the same hardship; 'yusr' without it is general.",
+   "sources": [
+    "g-en-maarif",
+    "g-ar-saadi",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

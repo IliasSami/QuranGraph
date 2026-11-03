@@ -1,0 +1,97 @@
+{
+ "id": "2:10",
+ "simple_en": "Their hearts have a disease: doubt and hypocrisy. Because of it, Allah let the disease grow, since the reward of a deed matches the deed. Sa'di explains that just as one good deed leads to another, one sin can lead to the next. Sa'di also names two diseases of the heart: false doubts, and harmful desires. A painful punishment awaits them because they used to lie, to Allah, to people, and about the message of the Prophet ﷺ.",
+ "simple_bn": "তাদের অন্তরে রোগ আছে: সন্দেহ ও নিফাক। এর কারণেই আল্লাহ সেই রোগ আরও বাড়িয়ে দিয়েছেন, কারণ প্রতিদান আমলের মতোই হয়। সা'দী বলেন, যেমন একটি নেক কাজ আরেকটি নেক কাজের দিকে নিয়ে যায়, তেমনি একটি গুনাহ পরের গুনাহর পথ খুলে দিতে পারে। তিনি অন্তরের দুটি রোগের কথাও বলেছেন: ভুল সন্দেহ আর ক্ষতিকর কামনা। তাদের জন্য রয়েছে যন্ত্রণাদায়ক শাস্তি, কারণ তারা মিথ্যা বলত: আল্লাহর সাথে, মানুষের সাথে, আর নবী ﷺ-এর আনা বাণী নিয়ে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "مرض",
+   "lemma": "مَرَض",
+   "meaning_en": "disease",
+   "meaning_bn": "রোগ",
+   "why_en": "Here it is a sickness of the heart: doubt, false ideas and hypocrisy."
+  },
+  {
+   "pos": 4,
+   "root": "زيد",
+   "lemma": "زادَ",
+   "meaning_en": "increased",
+   "meaning_bn": "বাড়িয়ে দিয়েছেন",
+   "why_en": "The outcome matches the deed: a heart that keeps choosing doubt grows in doubt."
+  },
+  {
+   "pos": 12,
+   "root": "كذب",
+   "lemma": "كَذَبَ",
+   "meaning_en": "they used to lie",
+   "meaning_bn": "তারা মিথ্যা বলত",
+   "why_en": "Lying is named as the cause of their punishment, showing how serious it is."
+  }
+ ],
+ "lesson_en": "Treat doubts and bad desires like an illness of the heart: notice them early and seek the cure before they spread.",
+ "lesson_bn": "সন্দেহ আর খারাপ কামনাকে অন্তরের অসুখের মতো দেখুন: শুরুতেই চিনে নিন, আর ছড়িয়ে পড়ার আগেই চিকিৎসা খুঁজুন।",
+ "real_life_en": "You tell one small lie to cover being late, then need a second lie to protect the first. You see the pattern the ayah describes and stop. You tell the truth, accept the awkward moment, and ask Allah to keep your heart healthy.",
+ "real_life_bn": "দেরি হওয়ার কথা ঢাকতে একটা ছোট মিথ্যা বললেন, তারপর সেটা বাঁচাতে আরেকটা মিথ্যা লাগল। আয়াতে যে ধারা বর্ণনা করা হয়েছে, তা চিনে আপনি থেমে গেলেন। সত্যটা বলে দিলেন, অস্বস্তিটুকু মেনে নিলেন, আর আল্লাহর কাছে চাইলেন তিনি যেন আপনার অন্তর সুস্থ রাখেন।",
+ "context_en": "The description of the hypocrites continues from 2:8-9.",
+ "context_bn": "২:৮-৯ থেকে মুনাফিকদের বর্ণনা চলছে।",
+ "themes": [
+  "hypocrisy",
+  "honesty",
+  "human nature",
+  "punishment"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The disease in their hearts is doubt and hypocrisy.",
+   "sources": [
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah increased their doubt, since recompense matches the deed.",
+   "sources": [
+    "qe-bengali-mokhtasar",
+    "qe-english-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: the heart has two diseases, false doubts and destructive desires; the punishment of a sin can be the sin after it, as the reward of a good deed is the good deed after it.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "They will have a painful punishment because they lied against Allah and people and rejected the message brought by Muhammad.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

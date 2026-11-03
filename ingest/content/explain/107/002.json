@@ -1,0 +1,85 @@
+{
+ "id": "107:2",
+ "simple_en": "Here is the first sign of that person: he pushes the orphan away roughly. When an orphan comes to him in need, he turns the child away and keeps back what is the child's right. Sa'di explains why: his heart has become hard, and he neither hopes for reward nor fears punishment from Allah.",
+ "simple_bn": "সেই ব্যক্তির প্রথম চিহ্ন: সে ইয়াতীমকে রূঢ়ভাবে তাড়িয়ে দেয়। কোনো ইয়াতীম প্রয়োজন নিয়ে তার কাছে এলে সে তাকে ফিরিয়ে দেয়, আর তার প্রাপ্য হক আটকে রাখে। সা'দী এর কারণ বলেছেন: তার অন্তর কঠিন হয়ে গেছে, আর সে আল্লাহর কাছে সওয়াবের আশাও করে না, শাস্তির ভয়ও করে না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "دعع",
+   "lemma": "يَدُعُّ",
+   "meaning_en": "pushes away harshly",
+   "meaning_bn": "রূঢ়ভাবে তাড়িয়ে দেয়",
+   "why_en": "Not a gentle refusal: a rough, forceful pushing away."
+  },
+  {
+   "pos": 4,
+   "root": "يتم",
+   "lemma": "يَتِيم",
+   "meaning_en": "the orphan",
+   "meaning_bn": "ইয়াতীম",
+   "why_en": "A child whose father died while the child was young, among the most vulnerable people."
+  }
+ ],
+ "lesson_en": "How we treat the weak, especially orphans, is a true test of our faith in the Hereafter.",
+ "lesson_bn": "দুর্বলদের, বিশেষ করে ইয়াতীমদের সাথে আমাদের আচরণ আখিরাতে বিশ্বাসের আসল পরীক্ষা।",
+ "real_life_en": "A boy in your area lost his father last year. He often hangs around your shop, and it is easy to shoo him away. Instead, greet him by name. Give him a small job or a snack, and ask how school is going. Small kindness to an orphan is the opposite of this ayah.",
+ "real_life_bn": "আপনার এলাকার একটি ছেলের বাবা গত বছর মারা গেছেন। সে প্রায়ই আপনার দোকানের আশেপাশে ঘোরে, তাকে তাড়িয়ে দেওয়া সহজ। বরং তাকে নাম ধরে সালাম দিন, একটা ছোট কাজ বা কিছু খাবার দিন, পড়াশোনার খোঁজ নিন। ইয়াতীমের প্রতি এমন ছোট দয়াই এই আয়াতের উল্টো আচরণ।",
+ "themes": [
+  "orphans",
+  "good character",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He is the one who harshly turns away the orphan when the orphan is in need.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "He pushes the orphan away with force and harshness from his right, because of the hardness of his heart.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "He does not hope for reward nor fear punishment.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "He oppresses the orphan, does not give him his due, does not feed him or treat him kindly.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "An orphan is one whose father died while he was young.",
+   "sources": [
+    "qe-arabic-moyassar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.94,
+ "uncertain": []
+}

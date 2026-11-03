@@ -1,0 +1,93 @@
+{
+ "id": "107:1",
+ "simple_en": "The surah opens with a question meant to make us stop and look: do you know the person who denies the Din? Here Din means the Recompense, the reward and judgment of the Day of Judgment. Sa'di says this surah blames the one who neglects the rights of Allah and the rights of people. The next ayat show what such a person looks like in daily life.",
+ "simple_bn": "সূরাটি শুরু হয়েছে একটি প্রশ্ন দিয়ে, যা আমাদের থেমে ভাবতে বলে: তুমি কি তাকে চেনো, যে 'দীন' অস্বীকার করে? এখানে দীন অর্থ কিয়ামত দিবসের প্রতিদান, অর্থাৎ হিসাব ও কর্মফল। সা'দী বলেছেন, এই সূরা সেই ব্যক্তির নিন্দা করে, যে আল্লাহর হক ও মানুষের হক দুটোই ছেড়ে দেয়। পরের আয়াতগুলো দেখায়, বাস্তব জীবনে এমন মানুষ দেখতে কেমন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "رأي",
+   "lemma": "رَأَى",
+   "meaning_en": "have you seen, do you know",
+   "meaning_bn": "তুমি কি দেখেছ, চিনেছ",
+   "why_en": "A question of wonder that invites the listener to recognise this person."
+  },
+  {
+   "pos": 3,
+   "root": "كذب",
+   "lemma": "كَذَّبَ",
+   "meaning_en": "denies, calls a lie",
+   "meaning_bn": "মিথ্যারোপ করে, অস্বীকার করে",
+   "why_en": "He does not believe what the messengers brought about the Hereafter."
+  },
+  {
+   "pos": 4,
+   "root": "دين",
+   "lemma": "دِين",
+   "meaning_en": "the Recompense",
+   "meaning_bn": "প্রতিদান, কর্মফল",
+   "why_en": "Here Din means the resurrection, the reckoning and the reward of the Last Day."
+  }
+ ],
+ "lesson_en": "What we believe about the Day of Judgment shows up in how we treat people and how we pray.",
+ "lesson_bn": "কিয়ামতের প্রতিদানে আমাদের বিশ্বাস কেমন, তা ফুটে ওঠে মানুষের সাথে আচরণে আর নামাজে।",
+ "real_life_en": "Someone can say all the right words about faith. But if he never thinks he will be asked about his deeds, it shows. He is rude to the weak and careless with his duties. Ask yourself: if I truly expect to stand before Allah, how should I act today?",
+ "real_life_bn": "কেউ ঈমানের ব্যাপারে সুন্দর সুন্দর কথা বলতে পারে। কিন্তু সে যদি কখনো না ভাবে যে তার কাজের হিসাব নেওয়া হবে, তা তার আচরণে ধরা পড়ে। সে দুর্বলদের সাথে রূঢ় হয়, নিজের দায়িত্বে অবহেলা করে। নিজেকে জিজ্ঞেস করুন: আমি যদি সত্যিই আল্লাহর সামনে দাঁড়ানোর কথা বিশ্বাস করি, তাহলে আজ আমার আচরণ কেমন হওয়া উচিত?",
+ "context_en": "The question opens the whole surah: the faults listed after it are presented as what comes from denying the Recompense.",
+ "context_bn": "এই প্রশ্ন দিয়ে পুরো সূরার সূচনা: পরে যে দোষগুলোর কথা এসেছে, সেগুলোকে প্রতিদান অস্বীকারের ফল হিসেবে দেখানো হয়েছে।",
+ "themes": [
+  "the Last Day",
+  "judgment",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "the Day of Judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The ayah asks whether you recognise the one who rejects the requital on the Day of Judgment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Din here means resurrection, recompense and the reckoning of the Hereafter.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah blames in this surah the one who abandons His rights and the rights of His servants.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The question expresses wonder: 'do you know him?'",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

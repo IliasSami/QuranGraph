@@ -1,0 +1,80 @@
+{
+ "id": "85:22",
+ "simple_en": "This glorious Quran is written in the Preserved Tablet, al-Lawh al-Mahfuz. Al-Mukhtasar explains that it is protected from any change, distortion, addition or loss. Ibn Kathir says it is kept among the highest gathering, and Jalalayn adds that it is guarded from the devils. Ahsanul Bayan notes that angels are appointed to guard it, and Allah sends it down as He wills.",
+ "simple_bn": "এই গৌরবময় কুরআন লিপিবদ্ধ আছে সংরক্ষিত ফলকে, অর্থাৎ লাওহে মাহফূযে। আল-মুখতাসার বলে, এটি কোনো পরিবর্তন, বিকৃতি, সংযোজন বা হ্রাস থেকে সুরক্ষিত। ইবনে কাসীর বলেন, এটি ঊর্ধ্বজগতের সর্বোচ্চ সমাবেশে সংরক্ষিত, আর জালালাইন যোগ করেন, এটি শয়তানদের থেকে সুরক্ষিত। আহসানুল বয়ান বলে, এর সংরক্ষণের জন্য ফিরিশতারা নিযুক্ত আছেন, আর আল্লাহ যেভাবে চান তা নাযিল করেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "لوح",
+   "lemma": "لَوْح",
+   "meaning_en": "Tablet",
+   "meaning_bn": "ফলক",
+   "why_en": "The Tablet with Allah in which the Quran is recorded."
+  },
+  {
+   "pos": 3,
+   "root": "حفظ",
+   "lemma": "مَحْفُوظ",
+   "meaning_en": "preserved, guarded",
+   "meaning_bn": "সংরক্ষিত",
+   "why_en": "Kept safe from any change, so the message reaches us as Allah sent it."
+  }
+ ],
+ "lesson_en": "The Quran you hold is protected by Allah from change. Trust it fully and make it your guide.",
+ "lesson_bn": "আপনার হাতের কুরআন আল্লাহ পরিবর্তন থেকে রক্ষা করেছেন। এর উপর পূর্ণ আস্থা রাখুন এবং একে জীবনের পথপ্রদর্শক বানান।",
+ "real_life_en": "A friend online claims the Quran has been changed over time, and you feel shaken. You remember that Allah describes it as kept in a Preserved Tablet, safe from any change. You calmly share what the scholars explain, and go back to reading it with more confidence.",
+ "real_life_bn": "অনলাইনে এক বন্ধু দাবি করল, সময়ের সাথে কুরআন বদলে গেছে, আর আপনি বিচলিত হলেন। মনে পড়ল, আল্লাহ বলেছেন এটি সংরক্ষিত ফলকে আছে, যেকোনো পরিবর্তন থেকে নিরাপদ। আপনি শান্তভাবে আলেমদের ব্যাখ্যা তুলে ধরলেন, আর আরও আস্থা নিয়ে আবার কুরআন পড়তে লাগলেন।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "the unseen",
+  "angels"
+ ],
+ "kinds": [
+  "belief",
+  "praise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the Preserved Tablet",
+   "angels"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The Quran is in a tablet protected against alteration, distortion, decrease and increase.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: it is among the most high gathering; Jalalayn: preserved from all devils.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Ahsanul Bayan: angels are appointed to guard it in al-Lawh al-Mahfuz, and Allah sends it down according to need.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

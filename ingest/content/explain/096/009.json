@@ -1,0 +1,89 @@
+{
+ "id": "96:9",
+ "simple_en": "Now Allah asks, as if in amazement: have you seen the one who forbids? Jalalayn explains that this \"have you seen\" is an expression of wonder. Al-Mukhtasar puts it this way: have you seen anything more shocking than what Abu Jahl did? The question invites us to stop and see how strange and wrong his behaviour was.",
+ "simple_bn": "এবার আল্লাহ যেন বিস্ময়ের সাথে প্রশ্ন করছেন: তুমি কি তাকে দেখেছ, যে বাধা দেয়? জালালাইন ব্যাখ্যা করেন, এই \"তুমি কি দেখেছ\" কথাটি বিস্ময় প্রকাশের জন্য। আল-মুখতাসার বলে: আবু জাহলের কাজের চেয়ে আশ্চর্যজনক কিছু কি তুমি দেখেছ? প্রশ্নটি আমাদের থেমে ভাবতে বলে, তার আচরণ কতটা অদ্ভুত আর অন্যায় ছিল।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "رأي",
+   "lemma": "رَأَى",
+   "meaning_en": "have you seen",
+   "meaning_bn": "তুমি কি দেখেছ",
+   "why_en": "Used here to express wonder at something shocking."
+  },
+  {
+   "pos": 3,
+   "root": "نهي",
+   "lemma": "نَهَى",
+   "meaning_en": "forbids",
+   "meaning_bn": "বাধা দেয়, নিষেধ করে",
+   "why_en": "He tried to forbid what Allah commanded."
+  }
+ ],
+ "lesson_en": "Stopping someone from worshipping Allah is among the strangest and worst of wrongs.",
+ "lesson_bn": "কাউকে আল্লাহর ইবাদত থেকে বাধা দেওয়া সবচেয়ে অদ্ভুত ও জঘন্য অন্যায়গুলোর একটি।",
+ "real_life_en": "A manager mocks a new employee for stepping out to pray. A colleague who has read this surah gently tells the manager that the prayer takes only a few minutes, and offers to cover the desk. Supporting someone's worship, instead of blocking it, is the opposite of what this ayah condemns.",
+ "real_life_bn": "এক ম্যানেজার নতুন এক কর্মীকে নামাজে যাওয়ার জন্য ঠাট্টা করে। এই সূরা পড়া এক সহকর্মী ম্যানেজারকে নরমভাবে বলে, নামাজে মাত্র কয়েক মিনিট লাগে, আর সে ততক্ষণ ডেস্কটা সামলে দেবে। কারো ইবাদতে বাধা না দিয়ে সাহায্য করা, এই আয়াত যা নিন্দা করে তার ঠিক উল্টো।",
+ "context_en": "Ma'ariful Qur'an explains that from here to the end of the surah the ayat refer to one incident: when the Prophet ﷺ began praying openly at the Sacred Mosque, Abu Jahl tried to stop him and threatened him.",
+ "context_bn": "মাআরিফুল কুরআন ব্যাখ্যা করে, এখান থেকে সূরার শেষ পর্যন্ত আয়াতগুলো একটি ঘটনার দিকে ইঙ্গিত করে: নবী ﷺ যখন মসজিদুল হারামে প্রকাশ্যে নামাজ পড়তে শুরু করেন, আবু জাহল তাঁকে বাধা দেয় ও হুমকি দেয়।",
+ "themes": [
+  "prayer",
+  "disbelief",
+  "arrogance"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "Abu Jahl",
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [
+   "the Ka'bah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Have you seen anything more shocking than Abu Jahl, who prevented [the Prophet from praying]?",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "A-ra'ayta here is an exclamation of wonder; the one who forbids is Abu Jahl.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "From here to the end of the surah the ayat allude to Abu Jahl stopping and threatening the Prophet ﷺ when he prayed at the Sacred Mosque.",
+   "sources": [
+    "g-en-maarif",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": {
+  "text_en": "Ibn Kathir reports that these ayat were revealed about Abu Jahl, who threatened the Prophet ﷺ for praying at the Ka'bah. Al-Bukhari records from Ibn 'Abbas that Abu Jahl threatened to harm him if he saw him praying there.",
+  "text_bn": "ইবনে কাসীর জানান, এই আয়াতগুলো আবু জাহলকে নিয়ে নাযিল হয়েছে, যে কাবায় নামাজ পড়ার জন্য নবী ﷺ-কে হুমকি দিয়েছিল। বুখারী ইবনে আব্বাস থেকে বর্ণনা করেছেন, আবু জাহল হুমকি দিয়েছিল যে তাঁকে সেখানে নামাজ পড়তে দেখলে সে তাঁর ক্ষতি করবে।",
+  "sources": [
+   "g-en-ibn-kathir",
+   "qe-bengali-zakaria"
+  ],
+  "strength": "sahih"
+ },
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

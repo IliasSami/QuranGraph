@@ -1,0 +1,79 @@
+{
+ "id": "83:21",
+ "simple_en": "This record is witnessed by those brought near to Allah. Al-Mukhtasar and Jalalayn say these are the angels close to Allah in every heaven. Al-Sa'di adds that the souls of the prophets, the truthful and the martyrs also witness it, and that Allah honours the righteous by mentioning them in the highest gathering.",
+ "simple_bn": "এই আমলনামা প্রত্যক্ষ করেন আল্লাহর নৈকট্যপ্রাপ্তরা। আল-মুখতাসার ও জালালাইন বলছে, এরা প্রতিটি আসমানের নৈকট্যপ্রাপ্ত ফেরেশতা। আস-সা'দী আরও বলেন, নবী, সিদ্দীক ও শহীদদের রূহও তা প্রত্যক্ষ করে, আর আল্লাহ ঊর্ধ্বজগতের সমাবেশে নেককারদের কথা উল্লেখ করে তাদের সম্মানিত করেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "شهد",
+   "lemma": "شَهِدَ",
+   "meaning_en": "witnesses",
+   "meaning_bn": "প্রত্যক্ষ করে",
+   "why_en": "Shuhud means to witness or be present; Ma'ariful Qur'an says the angels keep it in their care."
+  },
+  {
+   "pos": 2,
+   "root": "قرب",
+   "lemma": "مُقَرَّب",
+   "meaning_en": "those brought near",
+   "meaning_bn": "নৈকট্যপ্রাপ্তগণ",
+   "why_en": "Those given a special closeness to Allah."
+  }
+ ],
+ "lesson_en": "Do good for Allah's sake; the honour that comes from Him is far greater than praise from people.",
+ "lesson_bn": "আল্লাহর সন্তুষ্টির জন্য ভালো কাজ করুন; তাঁর দেওয়া সম্মান মানুষের প্রশংসার চেয়ে অনেক বড়।",
+ "real_life_en": "A nurse works a long night shift with care, though no manager is watching and no award is coming. She reminds herself that her deeds are known and witnessed in a far higher place. That thought gives her quiet dignity on a tiring night.",
+ "real_life_bn": "এক নার্স দীর্ঘ রাতের শিফটে যত্ন নিয়ে কাজ করেন, যদিও কোনো ম্যানেজার দেখছেন না, কোনো পুরস্কারও আসবে না। তিনি নিজেকে মনে করিয়ে দেন, তাঁর কাজ এর চেয়ে অনেক উঁচু জায়গায় জানা ও প্রত্যক্ষ করা হচ্ছে। এই ভাবনা ক্লান্ত রাতে তাঁকে নীরব মর্যাদা দেয়।",
+ "themes": [
+  "angels",
+  "reward",
+  "the unseen"
+ ],
+ "kinds": [
+  "glad-tidings",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels",
+   "record of deeds"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The book is witnessed by the angels brought near in every heaven.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: it is witnessed by the noble angels and the souls of the prophets, the truthful and the martyrs, and Allah mentions the righteous with honour in the highest assembly.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Yash-hadu is from shuhud (to witness, be present); the record is in the custody of the angels brought near.",
+   "sources": [
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Ma'ariful Qur'an and Zakaria also mention a second reading in which 'those brought near' refers to the souls of the righteous present in 'Illiyyin; not included in the main text."
+ ]
+}

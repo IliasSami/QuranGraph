@@ -1,0 +1,69 @@
+{
+ "id": "80:25",
+ "simple_en": "The first step: Allah pours down water in plenty. Al-Mukhtasar explains that food begins with rain falling from the sky, strong and abundant. Al-Sa'di says Allah sends down rain on the earth in large amounts. Without it, nothing would grow.",
+ "simple_bn": "প্রথম ধাপ: আল্লাহ প্রচুর পানি বর্ষণ করেন। আল-মুখতাসার ব্যাখ্যা করে, খাবারের শুরু আকাশ থেকে জোরে ও প্রচুর পরিমাণে নেমে আসা বৃষ্টি দিয়ে। আস-সা'দী বলেন, আল্লাহ পৃথিবীতে অনেক বৃষ্টি নাযিল করেন। এটা না হলে কিছুই জন্মাত না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "صبب",
+   "lemma": "صَبَّ",
+   "meaning_en": "We poured down",
+   "meaning_bn": "আমরা বর্ষণ করেছি",
+   "why_en": "Repeated as a noun after the water, it stresses rain in great abundance."
+  },
+  {
+   "pos": 3,
+   "root": "موه",
+   "lemma": "ماء",
+   "meaning_en": "water",
+   "meaning_bn": "পানি",
+   "why_en": "Rain is the starting point of all our food."
+  }
+ ],
+ "lesson_en": "Rain is a gift from Allah, so thank Him for it and never waste water.",
+ "lesson_bn": "বৃষ্টি আল্লাহর দান, তাই এর জন্য শুকরিয়া আদায় করুন এবং কখনো পানি অপচয় করবেন না।",
+ "real_life_en": "When rain starts on your way to work, instead of only complaining about the traffic, remember that this same rain is growing the food on your plate. Turning off the tap while brushing your teeth is a small way of honouring that gift.",
+ "real_life_bn": "অফিসে যাওয়ার পথে বৃষ্টি শুরু হলে শুধু যানজট নিয়ে বিরক্ত না হয়ে মনে করুন, এই বৃষ্টিই আপনার প্লেটের খাবার জন্মাচ্ছে। দাঁত মাজার সময় কল বন্ধ রাখা এই দানের প্রতি সম্মান দেখানোর একটি ছোট উপায়।",
+ "themes": [
+  "signs in nature",
+  "gratitude",
+  "Allah's power"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "rain"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Food originates from rain descending from the sky with force and in abundance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: Allah sends down rain on the earth abundantly.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

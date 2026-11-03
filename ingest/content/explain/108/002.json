@@ -1,0 +1,99 @@
+{
+ "id": "108:2",
+ "simple_en": "After the gift comes the way to thank Allah for it: pray to your Lord alone, and offer sacrifice to Him alone. The idolaters of the time prayed and sacrificed to their idols, so this is a clear break from their way. Sa'di says these two acts are singled out because they are among the best forms of worship: prayer is humility of heart and body, and sacrifice means giving up wealth the soul loves.",
+ "simple_bn": "দানের পর এসেছে শুকরিয়া আদায়ের পথ: শুধু আপনার রবের জন্য নামাজ পড়ুন, আর শুধু তাঁরই জন্য কুরবানি করুন। তখনকার মুশরিকরা তাদের মূর্তির জন্য ইবাদত ও যবাই করত, তাই এটি তাদের পথ থেকে স্পষ্ট বিচ্ছেদ। সা'দী বলেছেন, এই দুটি কাজ আলাদা করে বলা হয়েছে কারণ এগুলো শ্রেষ্ঠ ইবাদতের মধ্যে: নামাজে অন্তর ও দেহ দুটোই আল্লাহর সামনে বিনীত হয়, আর কুরবানিতে মানুষ তার প্রিয় সম্পদ আল্লাহর জন্য ছেড়ে দেয়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "صلو",
+   "lemma": "صَلَّى",
+   "meaning_en": "pray",
+   "meaning_bn": "নামাজ পড়ুন",
+   "why_en": "Salah is the greatest act of bodily worship, offered to Allah alone."
+  },
+  {
+   "pos": 2,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "your Lord",
+   "meaning_bn": "আপনার রব",
+   "why_en": "\"To your Lord\" makes both acts sincerely for Him, not for any idol."
+  },
+  {
+   "pos": 3,
+   "root": "نحر",
+   "lemma": "انْحَرْ",
+   "meaning_en": "sacrifice",
+   "meaning_bn": "কুরবানি করুন",
+   "why_en": "Nahr is the way camels were sacrificed; here it means offering sacrifice in Allah's name."
+  }
+ ],
+ "lesson_en": "Thank Allah for His gifts by making your prayer and your giving sincerely for Him alone.",
+ "lesson_bn": "আল্লাহর দানের শুকরিয়া আদায় করুন নামাজ আর দানকে একনিষ্ঠভাবে শুধু তাঁর জন্য করে।",
+ "real_life_en": "Something good happens: a new baby, a new job, a recovery from illness. Before the celebration, pray two rak'ahs of thanks. Then give something you value to those in need. For the details of how and when to offer an animal sacrifice, ask a scholar.",
+ "real_life_bn": "জীবনে ভালো কিছু ঘটল: নতুন সন্তান, নতুন চাকরি, অসুখ থেকে সুস্থ হওয়া। উদযাপনের আগে দুই রাকাত শুকরিয়ার নামাজ পড়ুন, তারপর আপনার প্রিয় কিছু অভাবীদের দিন। পশু কুরবানির নিয়ম ও সময়ের বিস্তারিত একজন আলেমের কাছ থেকে জেনে নিন।",
+ "themes": [
+  "gratitude",
+  "worship",
+  "prayer",
+  "tawhid"
+ ],
+ "kinds": [
+  "command",
+  "worship"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Rabb"
+  ],
+  "events": [],
+  "things": [
+   "sacrifice"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Be grateful to Allah for this blessing by praying to Him alone and sacrificing for Him, unlike the idolaters who sacrificed for their idols.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "These two acts are singled out as among the best acts of worship: prayer contains humility of heart and limbs, sacrifice means giving up beloved wealth.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Nahr literally refers to sacrificing camels, the Arabs' usual sacrifice, and is used for sacrifice generally.",
+   "sources": [
+    "g-en-maarif",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ibn 'Abbas, 'Ata', Mujahid and others said wanhar means sacrifice; Ibn Kathir calls the reports that it means placing the hands on the chest munkar.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": [
+  "Jalalayn takes the prayer here as the Eid al-Adha prayer; the other sources take it as prayer in general, so this was not stated."
+ ]
+}

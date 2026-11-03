@@ -1,0 +1,84 @@
+{
+ "id": "80:19",
+ "simple_en": "The answer comes: from a small drop of fluid Allah created him, then shaped him. Al-Mukhtasar says Allah formed him in stages. Al-Sa'di adds that He made him a well-balanced human being, with his outer and inner abilities perfected. Ma'ariful Qur'an and Ibn Kathir also explain the word as \"decreed for him\": his life span, his provision, his deeds, and whether he will be happy or miserable.",
+ "simple_bn": "উত্তর এল: সামান্য এক ফোঁটা পানি থেকে আল্লাহ তাকে সৃষ্টি করেছেন, তারপর তাকে গঠন করেছেন। আল-মুখতাসার বলে, আল্লাহ তাকে ধাপে ধাপে গড়েছেন। আস-সা'দী যোগ করেন, তিনি তাকে সুগঠিত মানুষ বানিয়েছেন, তার বাইরের ও ভেতরের শক্তিগুলো নিখুঁত করেছেন। মাআরিফুল কুরআন ও ইবনে কাসীর শব্দটির আরেকটি অর্থ দিয়েছেন: \"তার তাকদীর নির্ধারণ করেছেন\", অর্থাৎ তার আয়ু, রিযিক, আমল এবং সে সৌভাগ্যবান হবে না দুর্ভাগা।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نطف",
+   "lemma": "نُطْفَة",
+   "meaning_en": "a drop of fluid",
+   "meaning_bn": "শুক্রবিন্দু",
+   "why_en": "A tiny, humble beginning, which leaves no room for pride."
+  },
+  {
+   "pos": 4,
+   "root": "قدر",
+   "lemma": "قَدَّرَ",
+   "meaning_en": "He proportioned him, decreed for him",
+   "meaning_bn": "তাকে সুপরিমিত করেছেন",
+   "why_en": "From the root of measure and decree: shaping him in stages and decreeing his life."
+  }
+ ],
+ "lesson_en": "A person who began as a tiny drop and was shaped by Allah has no reason to be arrogant.",
+ "lesson_bn": "যে মানুষ এক ফোঁটা পানি থেকে শুরু হয়েছে এবং আল্লাহ যাকে গঠন করেছেন, তার অহংকার করার কোনো কারণ নেই।",
+ "real_life_en": "Looking at an ultrasound picture of a baby, parents are amazed at how tiny it is and how every part is already taking shape. Moments like this are a chance to thank Allah, who shaped each of us the same way.",
+ "real_life_bn": "গর্ভের শিশুর আল্ট্রাসাউন্ড ছবি দেখে বাবা-মা অবাক হন, সে কত ছোট, অথচ প্রতিটি অঙ্গ ইতিমধ্যে গড়ে উঠছে। এমন মুহূর্ত আল্লাহর শুকরিয়া আদায়ের সুযোগ, যিনি আমাদের প্রত্যেককে এভাবেই গঠন করেছেন।",
+ "themes": [
+  "creation",
+  "Allah's power",
+  "human nature",
+  "humility"
+ ],
+ "kinds": [
+  "creation",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He created him from a small amount of fluid and managed his creation in stages.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: created from a lowly fluid, then shaped into a well-proportioned human, with outer and inner faculties perfected.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Qaddarahu also means He decreed his life span, sustenance, deeds and whether he will be miserable or happy.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "One born from such a drop has no reason for arrogance.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "qe-english-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

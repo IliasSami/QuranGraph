@@ -1,0 +1,110 @@
+{
+ "id": "87:1",
+ "simple_en": "The surah opens with a command: glorify the name of your Lord, the Most High. To glorify means to declare Allah far above every fault, partner and anything that does not suit Him. Sa'di explains that this includes remembering Him, worshipping Him and humbling oneself before His greatness. Al-A'la, the Most High, tells us that He is high above all His creation.",
+ "simple_bn": "সূরাটি শুরু হয়েছে একটি আদেশ দিয়ে: তোমার সুমহান রবের নামের পবিত্রতা ঘোষণা করো। পবিত্রতা ঘোষণা মানে বলা যে আল্লাহ সব দোষ-ত্রুটি, সব শরীক এবং তাঁর অযোগ্য সবকিছু থেকে বহু ঊর্ধ্বে। সা'দী ব্যাখ্যা করেন, এর মধ্যে আছে তাঁকে স্মরণ করা, তাঁর ইবাদত করা আর তাঁর মহত্ত্বের সামনে বিনয়ী হওয়া। আল-আ'লা, অর্থাৎ সর্বোচ্চ, জানিয়ে দেয় যে তিনি তাঁর সমস্ত সৃষ্টির ঊর্ধ্বে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "سبح",
+   "lemma": "سَبَّحَ",
+   "meaning_en": "glorify",
+   "meaning_bn": "পবিত্রতা ঘোষণা করো",
+   "why_en": "Tasbih is declaring Allah free of every flaw and of anything unworthy of Him."
+  },
+  {
+   "pos": 3,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "your Lord",
+   "meaning_bn": "তোমার রব",
+   "why_en": "The One who creates, shapes and guides, as the next ayat describe."
+  },
+  {
+   "pos": 4,
+   "root": "علو",
+   "lemma": "أَعْلَى",
+   "meaning_en": "Al-A'la, the Most High",
+   "meaning_bn": "আল-আ'লা, সর্বোচ্চ",
+   "why_en": "The surah's name: Allah is above His creation in every way."
+  }
+ ],
+ "lesson_en": "Say Allah's name with respect and humility, and make glorifying Him a regular part of your day.",
+ "lesson_bn": "আল্লাহর নাম সম্মান ও বিনয়ের সাথে নিন, আর তাঁর পবিত্রতা ঘোষণাকে দিনের নিয়মিত অংশ বানান।",
+ "real_life_en": "When you go down into sujud in your prayer, slow down. Say \"Subhana Rabbiyal-A'la\" with attention instead of rushing. You are doing exactly what this ayah asks: putting your head on the ground and declaring your Lord the Most High.",
+ "real_life_bn": "নামাজে সিজদায় গেলে একটু ধীর হোন। তাড়াহুড়া না করে মনোযোগ দিয়ে বলুন \"সুবহানা রাব্বিয়াল আ'লা\"। এই আয়াত ঠিক যা চায়, আপনি তা-ই করছেন: মাথা মাটিতে রেখে ঘোষণা দিচ্ছেন যে আপনার রব সর্বোচ্চ।",
+ "context_en": "Ibn Kathir reports that the Prophet ﷺ would say \"Glory to my Lord, the Most High\" when reciting this ayah (recorded by Ahmad), and that he recited this surah with al-Ghashiyah in the two Eid prayers and the Friday prayer (recorded by Muslim).",
+ "context_bn": "ইবনে কাসীর বর্ণনা করেছেন, নবী ﷺ এই আয়াত পড়ার সময় বলতেন \"সুবহানা রাব্বিয়াল আ'লা\" (আহমাদের বর্ণনা), আর তিনি দুই ঈদ ও জুমআর নামাজে এই সূরা ও সূরা আল-গাশিয়াহ পড়তেন (মুসলিমের বর্ণনা)।",
+ "themes": [
+  "names and attributes of Allah",
+  "remembrance of Allah",
+  "worship",
+  "tawhid"
+ ],
+ "kinds": [
+  "command",
+  "description-of-allah",
+  "praise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Ar-Rabb",
+   "Al-A'la"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Declare the transcendence of your Lord, Who is high above His creation, by uttering His name when you remember and revere Him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Glorify means to declare Him free of partners and shortcomings, and above what does not befit Him.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: tasbih includes remembering Him, worshipping Him and humbling oneself before His majesty.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ahmad recorded from Ibn 'Abbas that the Prophet would say 'Glory to my Lord, the Most High' when reciting this ayah.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The Prophet recited al-A'la and al-Ghashiyah in the two Eids and Jumu'ah (Muslim and others).",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "The Prophet instructed that this be said in the prostrations.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": [
+  "The Tanzil Arabic line for this ayah has the Basmalah joined to it."
+ ]
+}

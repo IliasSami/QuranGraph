@@ -1,0 +1,83 @@
+{
+ "id": "96:4",
+ "simple_en": "Allah is the One who taught writing by the pen. Al-Mukhtasar mentions writing and the revelation as things taught through the pen. Sa'di explains why this is such a gift: by the pen, knowledge is preserved, rights are recorded, and written words carry a person's message to others. Ma'ariful Qur'an adds that without writing, people could not have kept their religion intact or run their worldly affairs properly.",
+ "simple_bn": "আল্লাহই কলমের সাহায্যে লেখা শিখিয়েছেন। আল-মুখতাসার বলে, কলমের মাধ্যমে তিনি লেখা ও ওহীর জ্ঞান শিখিয়েছেন। সা'দী ব্যাখ্যা করেছেন কেন এটি এত বড় নিয়ামত: কলম দিয়ে জ্ঞান সংরক্ষিত হয়, অধিকারগুলো লিখে রাখা যায়, আর লেখা মানুষের কথা অন্যদের কাছে পৌঁছে দেয়। মাআরিফুল কুরআন যোগ করে, লেখা না থাকলে মানুষ তার দ্বীন অবিকৃত রাখতে পারত না, দুনিয়ার কাজও ঠিকভাবে চালাতে পারত না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "علم",
+   "lemma": "عَلَّمَ",
+   "meaning_en": "He taught",
+   "meaning_bn": "তিনি শিক্ষা দিয়েছেন",
+   "why_en": "Allah is the true teacher behind every skill people learn."
+  },
+  {
+   "pos": 3,
+   "root": "قلم",
+   "lemma": "قَلَم",
+   "meaning_en": "the pen",
+   "meaning_bn": "কলম",
+   "why_en": "Ahsanul Bayan notes the root means cutting, as pens were once cut from reeds."
+  }
+ ],
+ "lesson_en": "Writing is a gift from Allah. Use it to keep knowledge, protect rights and spread good.",
+ "lesson_bn": "লেখা আল্লাহর দেওয়া নিয়ামত। জ্ঞান ধরে রাখতে, অধিকার রক্ষা করতে আর কল্যাণ ছড়াতে তা কাজে লাগান।",
+ "real_life_en": "When a friend borrows money from you, you both write down the amount and the date, so no one forgets and no one gets hurt. When you learn something useful in a class, you write it in a notebook. Both are small ways of using the gift this ayah talks about.",
+ "real_life_bn": "বন্ধু আপনার কাছ থেকে টাকা ধার নিলে দুজনে মিলে পরিমাণ আর তারিখ লিখে রাখেন, যেন কেউ ভুলে না যায় আর কারো মনে কষ্ট না আসে। ক্লাসে উপকারী কিছু শিখলে খাতায় লিখে রাখেন। দুটোই এই আয়াতে বলা নিয়ামতটি কাজে লাগানোর ছোট ছোট উপায়।",
+ "themes": [
+  "knowledge",
+  "gratitude",
+  "revelation"
+ ],
+ "kinds": [
+  "description-of-allah",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the pen"
+  ]
+ },
+ "claims": [
+  {
+   "text": "He taught writing, and the revelation, through the pen.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: by the pen knowledge is preserved, rights are recorded, and writings serve as messengers in place of speech.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Qatadah (in Ma'ariful Qur'an): without writing, religion could not have been preserved nor worldly affairs conducted properly.",
+   "sources": [
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "The word qalam comes from cutting or trimming, since pens were made by cutting.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Ahsanul Bayan's footnote for 96:4 is cut off mid-sentence in the source data."
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "id": "88:12",
+ "simple_en": "In Paradise there is a flowing spring. Ibn Kathir and Sa'di explain that the word covers many springs, not just one. Al-Mukhtasar says the people of Paradise will make them flow and direct them however they wish.",
+ "simple_bn": "জান্নাতে আছে প্রবহমান ঝর্না। ইবনে কাসীর ও সা'দী ব্যাখ্যা করেন, শব্দটি দিয়ে একটি নয়, অনেক ঝর্না বোঝানো হয়েছে। আল-মুখতাসার বলে, জান্নাতবাসীরা যেভাবে চাইবে, সেভাবে ঝর্নাগুলো প্রবাহিত করবে ও ঘুরিয়ে দেবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "عين",
+   "lemma": "عَيْن",
+   "meaning_en": "spring",
+   "meaning_bn": "ঝর্না",
+   "why_en": "The same word as the boiling spring of ayah 5, now a spring of joy."
+  },
+  {
+   "pos": 3,
+   "root": "جري",
+   "lemma": "جارِيَة",
+   "meaning_en": "flowing",
+   "meaning_bn": "প্রবহমান",
+   "why_en": "Running water, never stagnant, flowing where they wish."
+  }
+ ],
+ "lesson_en": "The spring of ayah 5 brings pain and the spring here brings delight; our choices now decide which one we reach.",
+ "lesson_bn": "৫ নম্বর আয়াতের ঝর্না আনে কষ্ট, আর এখানকার ঝর্না আনে আনন্দ; আজকের সিদ্ধান্তই ঠিক করে আমরা কোনটির কাছে পৌঁছাব।",
+ "real_life_en": "Sitting by a river on a family trip, your children love watching the water rush past. You tell them that Paradise has springs that flow wherever its people want, and that kindness and prayer are how we hope to get there.",
+ "real_life_bn": "পারিবারিক ভ্রমণে নদীর পাশে বসে আপনার সন্তানেরা স্রোতের দিকে মুগ্ধ হয়ে তাকিয়ে আছে। আপনি তাদের বললেন, জান্নাতে এমন ঝর্না আছে, যা জান্নাতবাসীরা যেদিকে চায় সেদিকে বয়ে যায়, আর সদাচরণ ও নামাজের মাধ্যমেই আমরা সেখানে পৌঁছানোর আশা করি।",
+ "themes": [
+  "Paradise",
+  "reward"
+ ],
+ "kinds": [
+  "hereafter",
+  "glad-tidings"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Paradise"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "flowing spring"
+  ]
+ },
+ "claims": [
+  {
+   "text": "In Paradise there are flowing springs that they will make flow and direct however they wish.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "The word refers to springs collectively, not only one.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": [
+  "The Bangla Mukhtasar text for this ayah has garbled characters in the word for spring."
+ ]
+}

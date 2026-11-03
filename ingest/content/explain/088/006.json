@@ -1,0 +1,87 @@
+{
+ "id": "88:6",
+ "simple_en": "Their only food will be dari', a thorny plant. Al-Mukhtasar says it is a plant called shibriq that turns poisonous when dry, the worst and most rotten food. Jalalayn adds that no animal will graze on it. Ma'ariful Qur'an explains that this does not contradict other ayat naming other foods of Hell: the point is that they will get no pleasant food at all.",
+ "simple_bn": "তাদের একমাত্র খাবার হবে 'দারী', এক প্রকার কাঁটাযুক্ত গুল্ম। আল-মুখতাসার বলে, এটি শিবরিক নামের একটি উদ্ভিদ, যা শুকিয়ে গেলে বিষাক্ত হয়ে যায়, সবচেয়ে নিকৃষ্ট ও পচা খাবার। জালালাইন যোগ করে, কোনো পশুও তা খায় না। মাআরিফুল কুরআন ব্যাখ্যা করে, জাহান্নামের অন্য খাবারের কথা বলা আয়াতগুলোর সাথে এর কোনো বিরোধ নেই: মূল কথা হলো, তারা মনমতো কোনো খাবারই পাবে না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "طعم",
+   "lemma": "طَعام",
+   "meaning_en": "food",
+   "meaning_bn": "খাদ্য",
+   "why_en": "Food should comfort and nourish; this food does neither."
+  },
+  {
+   "pos": 6,
+   "root": "ضرع",
+   "lemma": "ضَرِيع",
+   "meaning_en": "dari', a bitter thorny plant",
+   "meaning_bn": "দারী, কাঁটাযুক্ত বিষাক্ত গুল্ম",
+   "why_en": "A thorny, foul plant that even animals avoid."
+  }
+ ],
+ "lesson_en": "Value the good, lawful food Allah gives you today, and remember that this comfort is a gift, not a right.",
+ "lesson_bn": "আল্লাহ আজ আপনাকে যে ভালো ও হালাল খাবার দিচ্ছেন, তার কদর করুন, আর মনে রাখুন এই আরাম একটি দান, অধিকার নয়।",
+ "real_life_en": "At dinner, your younger sister complains that the curry is not her favourite. Instead of scolding her, you gently remind the family how blessed you all are to have warm food, and you all say the dua after eating together.",
+ "real_life_bn": "রাতের খাবারে ছোট বোন অভিযোগ করল, তরকারিটা তার পছন্দের নয়। বকা না দিয়ে আপনি নরমভাবে পরিবারকে মনে করিয়ে দিলেন, গরম খাবার পাওয়াটাই কত বড় নিয়ামত, আর সবাই মিলে খাওয়ার পরের দোয়া পড়লেন।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "gratitude"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "dari'"
+  ]
+ },
+ "claims": [
+  {
+   "text": "They will have no food but the worst and most rotten, from a plant called shibriq, which becomes poisonous when dry.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "It is a thorny plant that clings to the ground and no animal grazes on.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Ibn 'Abbas: a tree of Hellfire.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Other ayat mention zaqqum and ghislin; there is no contradiction: the point is they get no palatable food, or there are different levels.",
+   "sources": [
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

@@ -1,0 +1,83 @@
+{
+ "id": "86:15",
+ "simple_en": "Those who denied the Prophet ﷺ and the Quran were busy plotting. They schemed to push back his call, to block the truth and to support falsehood. Ibn Kathir explains that they also worked on other people, urging them to oppose the Quran.",
+ "simple_bn": "যারা রাসূলুল্লাহ ﷺ ও কুরআনকে মিথ্যা বলেছিল, তারা ষড়যন্ত্রে ব্যস্ত ছিল। তারা তাঁর দাওয়াত ঠেকাতে, সত্যকে প্রতিহত করতে আর মিথ্যাকে শক্তিশালী করতে নানা চক্রান্ত করত। ইবনে কাসীর ব্যাখ্যা করেন, তারা অন্য মানুষদেরও কুরআনের বিরোধিতায় উসকে দিত।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "كيد",
+   "lemma": "كِيدُ",
+   "meaning_en": "they plot",
+   "meaning_bn": "তারা চক্রান্ত করে",
+   "why_en": "Kayd is a hidden plan; here it is aimed against the truth."
+  },
+  {
+   "pos": 3,
+   "root": "كيد",
+   "lemma": "كَيْد",
+   "meaning_en": "a plot",
+   "meaning_bn": "চক্রান্ত",
+   "why_en": "Repeating the root stresses how hard they were scheming."
+  }
+ ],
+ "lesson_en": "Opposition to the truth is not new; expect it, and don't let it shake your confidence in the Quran.",
+ "lesson_bn": "সত্যের বিরোধিতা নতুন কিছু নয়; এমনটা হবে বলে প্রস্তুত থাকুন, আর তা যেন কুরআনের প্রতি আপনার আস্থা নড়িয়ে না দেয়।",
+ "real_life_en": "A coworker keeps making snide remarks about your prayer breaks and tries to turn others against you. Instead of panicking or dropping your prayers, you stay calm and polite. You remember that people have always worked against the truth, and its owner is Allah.",
+ "real_life_bn": "এক সহকর্মী বারবার আপনার নামাজের বিরতি নিয়ে খোঁচা দেয়, আর অন্যদেরও আপনার বিরুদ্ধে খেপানোর চেষ্টা করে। ঘাবড়ে গিয়ে নামাজ ছেড়ে না দিয়ে আপনি শান্ত ও ভদ্র থাকেন। মনে রাখেন, মানুষ সবসময়ই সত্যের বিরুদ্ধে চক্রান্ত করেছে, আর সত্যের মালিক আল্লাহ।",
+ "themes": [
+  "disbelief",
+  "the Quran",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Those who deny what their messenger brought plot and scheme to reject and refute his call.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The deniers of the Messenger and the Quran plot to push back the truth and support falsehood.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "They plot against the people by calling them to oppose the Quran.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Kayd means hidden planning.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

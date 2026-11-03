@@ -1,0 +1,87 @@
+{
+ "id": "86:11",
+ "simple_en": "Allah now swears a second oath. This time it is by the sky that has \"return\". The word means rain, because rain does not fall once and stop for good. It comes back again and again, season after season. Qatadah, quoted by Ibn Kathir, said it brings back people's provision every year, and without it people and animals would perish.",
+ "simple_bn": "আল্লাহ এখন দ্বিতীয় একটি শপথ করছেন। এবার শপথ সেই আকাশের, যার আছে 'ফিরে আসা'। শব্দটি দিয়ে বৃষ্টি বোঝানো হয়েছে, কারণ বৃষ্টি একবার পড়ে চিরতরে থেমে যায় না; ঋতুর পর ঋতু বারবার ফিরে আসে। ইবনে কাসীর কাতাদাহর কথা এনেছেন: এই বৃষ্টি প্রতি বছর মানুষের রিযিক ফিরিয়ে আনে, তা না হলে মানুষ ও পশুপাখি ধ্বংস হয়ে যেত।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "سمو",
+   "lemma": "سَماء",
+   "meaning_en": "the sky",
+   "meaning_bn": "আকাশ",
+   "why_en": "The surah began with an oath by the sky, and the second oath returns to it."
+  },
+  {
+   "pos": 3,
+   "root": "رجع",
+   "lemma": "رَجْع",
+   "meaning_en": "return, recurring rain",
+   "meaning_bn": "বারবার ফিরে আসা বৃষ্টি",
+   "why_en": "The same root as 'bringing him back' in ayah 8: rain returns, just as people will be returned."
+  }
+ ],
+ "lesson_en": "Rain that keeps coming back is a mercy we often take for granted; it is a sign that deserves our thanks.",
+ "lesson_bn": "বারবার ফিরে আসা বৃষ্টি এমন এক রহমত, যাকে আমরা প্রায়ই সাধারণ মনে করি; এটি এমন নিদর্শন, যার জন্য শুকরিয়া জানানো উচিত।",
+ "real_life_en": "After weeks of heat, the first monsoon rain arrives and the whole neighbourhood cools down. Instead of only posting about the weather, you thank Allah for sending it again this year, and think of the farmers whose crops depend on it.",
+ "real_life_bn": "কয়েক সপ্তাহের গরমের পর বর্ষার প্রথম বৃষ্টি এলো, পুরো এলাকা ঠান্ডা হয়ে গেল। শুধু আবহাওয়া নিয়ে পোস্ট না দিয়ে আপনি আল্লাহর শুকরিয়া আদায় করলেন যে তিনি এ বছরও বৃষ্টি পাঠিয়েছেন, আর ভাবলেন সেই কৃষকদের কথা, যাদের ফসল এর উপর নির্ভর করে।",
+ "context_en": "Sa'di says this second oath, in ayat 11–12, is sworn on the truth of the Quran, stated in ayat 13–14.",
+ "context_bn": "সা'দী বলেন, ১১–১২ আয়াতের এই দ্বিতীয় শপথটি কুরআনের সত্যতার উপর, যা বলা হয়েছে ১৩–১৪ আয়াতে।",
+ "themes": [
+  "signs in nature",
+  "Allah's mercy",
+  "gratitude"
+ ],
+ "kinds": [
+  "oath",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "sky",
+   "rain"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah took an oath by the sky that contains rain, because it comes down from it time after time.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Raj' literally means returning; it is used for rain because rain returns again and again.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ibn 'Abbas: ar-raj' means rain. Qatadah: it returns the sustenance of creatures every year; without it they and their cattle would be destroyed.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "This second oath is sworn on the truth of the Quran.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

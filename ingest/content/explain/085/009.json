@@ -1,0 +1,71 @@
+{
+ "id": "85:9",
+ "simple_en": "The ayah describes Allah further: to Him alone belongs the kingdom of the heavens and the earth, and He is a Witness over everything. Nothing about His servants is hidden from Him. Al-Sa'di asks: did those tyrants not fear that the Almighty would seize them? Did they not know that they were themselves owned by Allah, and that He sees every deed and will repay it?",
+ "simple_bn": "আয়াতটি আল্লাহর আরও পরিচয় দিচ্ছে: আসমান ও যমীনের রাজত্ব একমাত্র তাঁর, আর তিনি সবকিছুর সাক্ষী। তাঁর বান্দাদের কোনো কিছুই তাঁর কাছে গোপন নয়। সা'দী প্রশ্ন তোলেন: ঐ অত্যাচারীরা কি ভয় করেনি যে মহাপরাক্রমশালী তাদের পাকড়াও করবেন? তারা কি জানত না যে তারা নিজেরাই আল্লাহর মালিকানাধীন, আর তিনি প্রতিটি কাজ দেখছেন এবং এর প্রতিদান দেবেন?",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "ملك",
+   "lemma": "مُلْك",
+   "meaning_en": "kingdom, dominion",
+   "meaning_bn": "রাজত্ব",
+   "why_en": "All of creation is His and under His control, including the tyrants."
+  },
+  {
+   "pos": 10,
+   "root": "شهد",
+   "lemma": "شَهِيد",
+   "meaning_en": "Ash-Shahid, the Witness",
+   "meaning_bn": "আশ-শাহীদ, সর্বদ্রষ্টা সাক্ষী",
+   "why_en": "He sees and hears everything; the persecutors watched, but Allah was watching them."
+  }
+ ],
+ "lesson_en": "Allah owns everything and sees everything. No oppressor is beyond His reach, and no sufferer is out of His sight.",
+ "lesson_bn": "আল্লাহ সবকিছুর মালিক এবং সবকিছু দেখেন। কোনো জালিম তাঁর নাগালের বাইরে নয়, আর কোনো নির্যাতিত তাঁর দৃষ্টির বাইরে নয়।",
+ "real_life_en": "Someone at work takes credit for your project and nobody seems to notice. You feel angry and alone. Then you remember that Allah is Ash-Shahid, a Witness over everything. You calmly explain the facts to your manager, and leave the rest with Allah, trusting that nothing is hidden from Him.",
+ "real_life_bn": "অফিসে কেউ আপনার কাজের কৃতিত্ব নিজের নামে নিয়ে নিল, আর কেউ যেন টেরই পেল না। রাগ আর একাকিত্ব লাগছে। তখন মনে পড়ল, আল্লাহ আশ-শাহীদ, সবকিছুর সাক্ষী। আপনি শান্তভাবে ম্যানেজারকে প্রকৃত তথ্য জানালেন, আর বাকিটা আল্লাহর উপর ছেড়ে দিলেন, এই ভরসায় যে তাঁর কাছে কিছুই গোপন নয়।",
+ "themes": [
+  "names and attributes of Allah",
+  "Allah's knowledge",
+  "Allah's power",
+  "justice"
+ ],
+ "kinds": [
+  "description-of-allah",
+  "story"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Ash-Shahid"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "To Him alone belongs control of the heavens and the earth; He is aware of everything and no affair of His servants is hidden from Him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: He witnesses everything by knowledge, hearing and sight; did the rebels not fear the Almighty seizing them, or know they are owned by Allah, and that He encompasses their deeds and will repay them?",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

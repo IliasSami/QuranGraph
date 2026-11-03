@@ -1,0 +1,95 @@
+{
+ "id": "86:1",
+ "simple_en": "The surah opens with Allah swearing an oath by two things: the sky, and at-tariq. At-tariq is \"the one that comes knocking at night\". The next ayat explain that it is a star. Stars are called this because they stay hidden in the daytime and appear at night, like a visitor who arrives after dark.",
+ "simple_bn": "সূরাটি শুরু হয়েছে আল্লাহর দুটি শপথ দিয়ে: আকাশের শপথ, আর 'আত-তারিক'-এর শপথ। আত-তারিক মানে রাতে যে আসে, যেন রাতে দরজায় কড়া নাড়া আগন্তুক। পরের আয়াতগুলো বলে দেয়, এটি একটি নক্ষত্র। নক্ষত্রকে এ নামে ডাকা হয়, কারণ দিনের বেলা তা লুকিয়ে থাকে আর রাতে দেখা দেয়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "سمو",
+   "lemma": "سَماء",
+   "meaning_en": "the sky",
+   "meaning_bn": "আকাশ",
+   "why_en": "The first thing Allah swears by, the sky above us that holds the stars."
+  },
+  {
+   "pos": 2,
+   "root": "طرق",
+   "lemma": "طارِق",
+   "meaning_en": "the night-comer",
+   "meaning_bn": "রাতে আগমনকারী",
+   "why_en": "From a root meaning to knock; it was used for anyone who arrives at night, and here for the star."
+  }
+ ],
+ "lesson_en": "When Allah swears by something in His creation, it is a call to look at it with fresh eyes and see His greatness in it.",
+ "lesson_bn": "আল্লাহ যখন তাঁর কোনো সৃষ্টির শপথ করেন, তখন তা আমাদের ডাকে নতুন চোখে সেটি দেখতে আর তার মধ্যে তাঁর মহত্ত্ব খুঁজে পেতে।",
+ "real_life_en": "On a clear night, step outside for a minute instead of scrolling your phone. Look up at the stars that were hidden all day and have now come out. Let that quiet moment remind you that Allah made them and swore by them in His Book.",
+ "real_life_bn": "পরিষ্কার কোনো রাতে ফোন স্ক্রল না করে এক মিনিটের জন্য বাইরে যান। সারাদিন লুকিয়ে থাকা যে তারাগুলো এখন বেরিয়ে এসেছে, সেগুলোর দিকে তাকান। এই নীরব মুহূর্তটি মনে করিয়ে দিক, আল্লাহ এগুলো সৃষ্টি করেছেন এবং তাঁর কিতাবে এগুলোর শপথ করেছেন।",
+ "context_en": "The oath in ayat 1–3 leads to the answer in ayah 4: every soul has a guardian over it. Ibn Kathir notes that the Prophet ﷺ named this surah, with ash-Shams, as suitable to recite in prayer (reported by an-Nasa'i).",
+ "context_bn": "১–৩ আয়াতের শপথের জবাব আসে ৪ নম্বর আয়াতে: প্রত্যেক প্রাণের উপর একজন তত্ত্বাবধায়ক আছেন। ইবনে কাসীর উল্লেখ করেছেন, নবী ﷺ এই সূরা ও সূরা আশ-শামসকে নামাজে পড়ার উপযুক্ত সূরা হিসেবে উল্লেখ করেছেন (নাসাঈর বর্ণনা)।",
+ "themes": [
+  "signs in nature",
+  "creation"
+ ],
+ "kinds": [
+  "oath",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "sky",
+   "star"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah swears by the sky and by the star that comes at night.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "The star is called tariq because it is hidden in the day and seen at night; tariq denotes anything that comes by night.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The root tariq originally means to knock.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "qe-english-saheeh"
+   ]
+  },
+  {
+   "text": "The answer of the oath is that every soul has a guardian over it.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "An-Nasa'i recorded that the Prophet told Mu'adh it would have sufficed to recite this surah and ash-Shams in prayer.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": [
+  "The Tanzil Arabic line for this ayah has the Basmalah joined to it."
+ ]
+}

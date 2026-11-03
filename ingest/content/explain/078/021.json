@@ -1,0 +1,88 @@
+{
+ "id": "78:21",
+ "simple_en": "Hell is lying in wait. Mirsad is a place where someone watches and waits. The sources say Hell has been prepared and stands ready, watching for those it was made for. Ahsanul Bayan explains it two ways: its keepers are waiting for its people, or Hell itself waits for the disbelievers by Allah's command.",
+ "simple_bn": "জাহান্নাম ওঁৎ পেতে অপেক্ষা করছে। \"মিরসাদ\" এমন জায়গা, যেখানে কেউ পাহারা দিয়ে অপেক্ষা করে। তাফসীরগুলো বলেছে, জাহান্নাম প্রস্তুত করে রাখা হয়েছে, আর যাদের জন্য তা বানানো হয়েছে তাদের অপেক্ষায় আছে। আহসানুল বায়ান দুইভাবে ব্যাখ্যা করেছে: এর রক্ষীরা জাহান্নামীদের অপেক্ষায় আছে, অথবা আল্লাহর আদেশে জাহান্নাম নিজেই কাফেরদের অপেক্ষায় আছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": null,
+   "lemma": "جَهَنَّم",
+   "meaning_en": "Hell",
+   "meaning_bn": "জাহান্নাম",
+   "why_en": "Jahannam is the name of the Fire prepared for those who reject the truth."
+  },
+  {
+   "pos": 4,
+   "root": "رصد",
+   "lemma": "مِرْصاد",
+   "meaning_en": "lying in wait, watchful",
+   "meaning_bn": "ওঁৎ পেতে থাকা",
+   "why_en": "Mirsad is a lookout post, a place of watching and waiting."
+  }
+ ],
+ "lesson_en": "The outcome of rejecting the truth is already prepared, so do not put off turning back to Allah.",
+ "lesson_bn": "সত্য অস্বীকারের পরিণাম আগেই প্রস্তুত রাখা হয়েছে, তাই আল্লাহর দিকে ফিরে আসতে দেরি করবেন না।",
+ "real_life_en": "A man keeps telling himself he will start praying and leave a bad habit \"later\". Reading that Hell is already waiting, he realises that the danger is real now, not in some far future. He makes a sincere tawbah that night and starts with the next prayer.",
+ "real_life_bn": "এক ব্যক্তি বারবার নিজেকে বলেন, \"পরে\" নামাজ শুরু করবেন আর খারাপ অভ্যাস ছাড়বেন। জাহান্নাম আগে থেকেই অপেক্ষা করছে, এ কথা পড়ে তিনি বোঝেন বিপদটা এখনই বাস্তব, দূর ভবিষ্যতের কিছু নয়। সেই রাতেই তিনি আন্তরিকভাবে তাওবা করেন, আর পরের নামাজ থেকেই শুরু করেন।",
+ "context_en": "After the scenes of the Day (ayat 18 to 20), ayat 21 to 30 describe the end of those who denied, and ayat 31 to 36 the reward of the God-fearing.",
+ "context_bn": "কিয়ামতের দৃশ্যের (১৮ থেকে ২০ নম্বর আয়াত) পর, ২১ থেকে ৩০ নম্বর আয়াতে অস্বীকারকারীদের পরিণাম, আর ৩১ থেকে ৩৬ নম্বর আয়াতে মুত্তাকীদের পুরস্কারের কথা বলা হয়েছে।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "the Last Day",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Hell is watchful, lying in wait.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Hell on that day watches for the people of disbelief for whom it was prepared; it is waiting in preparation.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Mirsad means a place of ambush, lying in wait.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Either the keepers of Hell wait for its people, or Hell itself waits for the disbelievers by Allah's command.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": [
+  "Ma'ariful Qur'an (citing Mazhari) applies the ambush to the bridge over Hell with angels waiting; I left this view out to keep to the main explanation."
+ ]
+}

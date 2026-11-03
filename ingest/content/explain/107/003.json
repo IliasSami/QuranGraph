@@ -1,0 +1,91 @@
+{
+ "id": "107:3",
+ "simple_en": "The second sign: he does not urge himself or anyone else to feed the poor. Al-Muyassar and Sa'di draw the obvious point: if he will not even encourage others to feed a needy person, he is even further from feeding him himself. The miskin here is the poor person who does not have enough to meet his needs.",
+ "simple_bn": "দ্বিতীয় চিহ্ন: সে নিজেকেও মিসকীনকে খাওয়াতে উৎসাহিত করে না, অন্য কাউকেও না। আল-মুয়াসসার ও সা'দী স্পষ্ট কথাটি বলেছেন: যে অন্যকে অভাবীকে খাওয়াতে উৎসাহও দেয় না, সে নিজে খাওয়ানো থেকে তো আরও দূরে। এখানে মিসকীন সেই গরিব, যার প্রয়োজন মেটানোর মতো যথেষ্ট কিছু নেই।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "حضض",
+   "lemma": "يَحُضُّ",
+   "meaning_en": "urges, encourages",
+   "meaning_bn": "উৎসাহিত করে",
+   "why_en": "Blame falls even on not encouraging good, not only on not doing it."
+  },
+  {
+   "pos": 4,
+   "root": "طعم",
+   "lemma": "طَعام",
+   "meaning_en": "feeding, food",
+   "meaning_bn": "খাদ্য দান",
+   "why_en": "Feeding the hungry is one of the most basic acts of mercy."
+  },
+  {
+   "pos": 5,
+   "root": "سكن",
+   "lemma": "مِسْكِين",
+   "meaning_en": "the needy, the poor",
+   "meaning_bn": "মিসকীন, অভাবী",
+   "why_en": "Someone who lacks enough to cover his needs."
+  }
+ ],
+ "lesson_en": "Help the hungry: give what you can, and urge others to give too.",
+ "lesson_bn": "ক্ষুধার্তকে সাহায্য করা মানে নিজে দেওয়া এবং অন্যকেও দিতে উৎসাহিত করা।",
+ "real_life_en": "A family in your building has lost its income. You send them some rice and lentils. You also mention it, kindly and privately, to two neighbours who can help. Doing it and urging others to do it are both part of this ayah.",
+ "real_life_bn": "আপনার বিল্ডিংয়ের একটি পরিবারের আয় বন্ধ হয়ে গেছে। আপনি তাদের কিছু চাল-ডাল পাঠালেন। আর সাহায্য করতে পারেন এমন দুজন প্রতিবেশীকেও নরমভাবে, গোপনে বিষয়টি জানালেন। নিজে দেওয়া আর অন্যকে উৎসাহ দেওয়া, দুটোই এই আয়াতের অংশ।",
+ "themes": [
+  "charity",
+  "good character",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He does not encourage himself nor others to feed the poor.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "If he does not urge others to feed the needy, then even more so he does not feed them himself.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The miskin is the needy person who does not have what suffices him and meets his need.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": {
+  "text_en": "Jalalayn reports that this was revealed about al-'As ibn Wa'il or al-Walid ibn al-Mughirah.",
+  "text_bn": "জালালাইনে বর্ণিত আছে, এটি আল-আস ইবনে ওয়াইল অথবা আল-ওয়ালীদ ইবনে মুগীরা সম্পর্কে নাজিল হয়েছে।",
+  "sources": [
+   "g-en-jalalayn"
+  ],
+  "strength": "reported"
+ },
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": [
+  "Jalalayn names two possible people for the occasion with 'or'; no chain or grading is given."
+ ]
+}

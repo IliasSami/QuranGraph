@@ -1,0 +1,98 @@
+{
+ "id": "2:9",
+ "simple_en": "The hypocrites think they can trick Allah and the believers by showing faith on the outside while hiding disbelief inside. In reality they trick no one but themselves, and they do not even realise it. Allah knows every secret, and He told the believers what these people are like. The harm of their deception comes back on them: disgrace in this world and punishment in the Hereafter.",
+ "simple_bn": "মুনাফিকরা ভাবে, বাইরে ঈমান দেখিয়ে আর ভেতরে কুফর লুকিয়ে তারা আল্লাহ ও মু'মিনদের ধোঁকা দিতে পারবে। আসলে তারা নিজেদের ছাড়া কাউকে ধোঁকা দেয় না, আর তা টেরও পায় না। আল্লাহ সব গোপন কথা জানেন, আর তিনি মু'মিনদের জানিয়ে দিয়েছেন এরা কেমন। তাদের ধোঁকার ক্ষতি ফিরে আসে তাদেরই উপর: দুনিয়ায় লাঞ্ছনা আর আখিরাতে শাস্তি।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "خدع",
+   "lemma": "يُخادِعُ",
+   "meaning_en": "they try to deceive",
+   "meaning_bn": "তারা ধোঁকা দিতে চায়",
+   "why_en": "Khida' is showing one thing and hiding another to get what you want."
+  },
+  {
+   "pos": 8,
+   "root": "نفس",
+   "lemma": "نَفْس",
+   "meaning_en": "themselves",
+   "meaning_bn": "নিজেদের",
+   "why_en": "The trick turns back on the trickster; Allah and the believers are not harmed."
+  },
+  {
+   "pos": 10,
+   "root": "شعر",
+   "lemma": "يَشْعُرُ",
+   "meaning_en": "they perceive",
+   "meaning_bn": "তারা টের পায়",
+   "why_en": "Their hearts are so damaged that they cannot sense their own loss."
+  }
+ ],
+ "lesson_en": "You can hide things from people, but never from Allah, so the person you fool by pretending is really yourself.",
+ "lesson_bn": "মানুষের কাছ থেকে অনেক কিছু লুকানো যায়, কিন্তু আল্লাহর কাছ থেকে কখনো নয়; তাই ভান করে আসলে নিজেকেই ধোঁকা দেওয়া হয়।",
+ "real_life_en": "At work you could make your report look complete while skipping the hard checks, and your manager might never find out. You remember that Allah sees what is hidden, and that the shortcut would only damage your own honesty. So you do the checks properly.",
+ "real_life_bn": "অফিসে কঠিন যাচাইগুলো বাদ দিয়েও আপনি রিপোর্টটা সম্পূর্ণ দেখাতে পারতেন, ম্যানেজার হয়তো কখনো ধরতেও পারতেন না। আপনার মনে পড়ল, আল্লাহ গোপন সবকিছু দেখেন, আর এই ফাঁকি আসলে আপনার নিজের সততাকেই নষ্ট করবে। তাই আপনি যাচাইগুলো ঠিকমতো করলেন।",
+ "context_en": "This continues the description of the hypocrites begun in 2:8.",
+ "context_bn": "এটি ২:৮-এ শুরু হওয়া মুনাফিকদের বর্ণনার ধারাবাহিকতা।",
+ "themes": [
+  "hypocrisy",
+  "honesty",
+  "Allah's knowledge"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "They think they can deceive Allah and the believers by showing faith and hiding disbelief, but they only deceive themselves without realising it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Allah knows all that is secret and hidden and has told the believers what they are like.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Deception means showing something while hiding the opposite to reach one's aim; their deception returns on themselves, not harming Allah or the believers.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "The evil result of their deception comes back on them: disgrace in this world when Allah exposes them, and punishment in the Hereafter.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "They do not perceive it because of the corruption of their hearts.",
+   "sources": [
+    "qe-arabic-moyassar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

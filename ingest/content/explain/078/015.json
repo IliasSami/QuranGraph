@@ -1,0 +1,89 @@
+{
+ "id": "78:15",
+ "simple_en": "Through that rain Allah brings out grain and plants. Grain is the food people store and eat, such as wheat, rice, barley and corn. Plants include vegetables and the grass and leaves that animals eat. So the same water from the clouds feeds both people and their animals.",
+ "simple_bn": "সেই বৃষ্টির মাধ্যমে আল্লাহ উৎপন্ন করেন শস্য ও উদ্ভিদ। শস্য হলো সেই খাবার যা মানুষ জমিয়ে রাখে ও খায়, যেমন গম, ধান, যব ও ভুট্টা। উদ্ভিদের মধ্যে আছে শাকসবজি, আর সেই ঘাস-পাতা যা পশুরা খায়। এভাবে মেঘের একই পানি মানুষ ও তাদের পশু দুজনকেই খাবার দেয়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "خرج",
+   "lemma": "أَخْرَجَ",
+   "meaning_en": "We bring forth",
+   "meaning_bn": "আমি উৎপন্ন করি",
+   "why_en": "Allah is the One who makes all this growth come out of the earth."
+  },
+  {
+   "pos": 3,
+   "root": "حبب",
+   "lemma": "حَبّ",
+   "meaning_en": "grain",
+   "meaning_bn": "শস্য",
+   "why_en": "Grain is the staple food people store, like wheat and rice."
+  },
+  {
+   "pos": 4,
+   "root": "نبت",
+   "lemma": "نَبات",
+   "meaning_en": "plants, vegetation",
+   "meaning_bn": "উদ্ভিদ",
+   "why_en": "Covers vegetables and the green growth that feeds livestock."
+  }
+ ],
+ "lesson_en": "Every grain of rice on your plate came from rain Allah sent; eat with gratitude and waste less.",
+ "lesson_bn": "আপনার প্লেটের প্রতিটি ভাতের দানা এসেছে আল্লাহর পাঠানো বৃষ্টি থেকে; কৃতজ্ঞতার সঙ্গে খান, অপচয় কম করুন।",
+ "real_life_en": "At dinner, a mother tells her children that the rice and vegetables took months of rain and sun to grow. The children stop leaving half their food. They finish their plates and say \"Alhamdulillah\" after eating.",
+ "real_life_bn": "রাতের খাবারের সময় মা সন্তানদের বলেন, সামনে থাকা ভাত আর সবজি বাজারে আসার আগে মাসের পর মাস বৃষ্টি আর রোদের দরকার হয়েছে। এরপর থেকে বাচ্চারা প্লেটে অর্ধেক খাবার ফেলে না রেখে পুরোটা শেষ করে, আর খাওয়ার পর \"আলহামদুলিল্লাহ\" বলে।",
+ "themes": [
+  "signs in nature",
+  "creation",
+  "gratitude",
+  "Allah's mercy"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "grain",
+   "plants"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Through the rain Allah brings out different types of grains and crops.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Grain is what people eat and store, such as wheat, barley, corn and rice.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Nabat includes vegetables and the grass that animals eat.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

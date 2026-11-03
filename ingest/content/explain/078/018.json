@@ -1,0 +1,96 @@
+{
+ "id": "78:18",
+ "simple_en": "That Day begins when the angel blows into the Horn. Al-Mukhtasar says this is the second blowing. At the first blowing the world comes to an end; at the second, everyone who ever lived rises from the graves. Then people come in groups, crowd after crowd. Ibn Jarir, quoted by Ibn Kathir, says each nation will come with its own messenger.",
+ "simple_bn": "সেই দিনের শুরু হবে যখন ফেরেশতা শিঙায় ফুঁ দেবেন। আল-মুখতাসার বলেছে, এটি দ্বিতীয় ফুঁ। প্রথম ফুঁতে পৃথিবী ধ্বংস হয়ে যাবে; দ্বিতীয় ফুঁতে আগের ও পরের সব মানুষ কবর থেকে উঠে আসবে। তখন মানুষ দলে দলে, ভিড়ের পর ভিড় হয়ে উপস্থিত হবে। ইবনে কাসীর ইবনে জারীরের উক্তি উদ্ধৃত করেছেন, প্রত্যেক উম্মত নিজ নিজ রাসূলের সঙ্গে আসবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نفخ",
+   "lemma": "نَفَخَ",
+   "meaning_en": "is blown",
+   "meaning_bn": "ফুঁ দেওয়া হবে",
+   "why_en": "The blowing into the Horn is the signal that announces the resurrection."
+  },
+  {
+   "pos": 4,
+   "root": "صور",
+   "lemma": "صُور",
+   "meaning_en": "the Horn, the Trumpet",
+   "meaning_bn": "শিঙা",
+   "why_en": "The Sur is the Horn the angel blows to announce the resurrection."
+  },
+  {
+   "pos": 6,
+   "root": "فوج",
+   "lemma": "فَوْج",
+   "meaning_en": "groups, crowds",
+   "meaning_bn": "দলে দলে",
+   "why_en": "Afwaj pictures people arriving in wave after wave, nation by nation."
+  }
+ ],
+ "lesson_en": "Everyone will be raised and gathered on that Day; live now as someone who will one day stand among those crowds.",
+ "lesson_bn": "সেদিন সবাইকে উঠানো ও একত্র করা হবে; এখন এমনভাবে জীবন যাপন করুন, যেন একদিন সেই ভিড়ের মাঝে আপনিও দাঁড়াবেন।",
+ "real_life_en": "Standing in a huge crowd at Eid prayer, a teenager looks at the rows stretching in every direction. He remembers that on the Last Day all of humanity will gather like this, and he wants to be in that crowd with a clean record. That evening he apologises to a friend he had wronged.",
+ "real_life_bn": "ঈদের জামাতে বিশাল ভিড়ে দাঁড়িয়ে এক কিশোর চারদিকে ছড়িয়ে থাকা কাতারগুলো দেখে। তার মনে পড়ে, কিয়ামতের দিন সমস্ত মানবজাতি এভাবে একত্র হবে, আর সে চায় সেই ভিড়ে পরিষ্কার আমলনামা নিয়ে দাঁড়াতে। সেদিন সন্ধ্যায় সে এমন এক বন্ধুর কাছে ক্ষমা চায়, যার প্রতি সে অন্যায় করেছিল।",
+ "themes": [
+  "resurrection",
+  "the Last Day",
+  "angels",
+  "judgment"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the Horn"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "blowing of the Horn",
+   "resurrection"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "On that day the angel will blow into the horn the second time, and people will come in groups.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "There are two blowings: at the first the world ends; at the second all people, first and last, are resurrected and come in droves.",
+   "sources": [
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Each nation will come with its Messenger / imam (Ibn Jarir).",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-arabic-moyassar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "People come forth from their graves.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

@@ -1,0 +1,76 @@
+{
+ "id": "83:36",
+ "simple_en": "The surah closes with a question: have the disbelievers been repaid for what they used to do? Jalalayn and Ibn Kathir answer: yes, they have, fully and completely. Al-Mukhtasar says they receive a humiliating punishment for their deeds in the world. Al-Sa'di adds that this repayment is justice and wisdom from Allah.",
+ "simple_bn": "সূরাটি শেষ হয়েছে একটি প্রশ্ন দিয়ে: কাফিররা কি তাদের কাজের প্রতিফল পেল? জালালাইন ও ইবনে কাসীর উত্তর দিয়েছেন: হ্যাঁ, পুরোপুরি ও সম্পূর্ণভাবে পেয়েছে। আল-মুখতাসার বলছে, দুনিয়ার কাজের জন্য তারা অপমানজনক শাস্তি পাবে। আস-সা'দী বলেন, এই প্রতিফল আল্লাহর ন্যায়বিচার ও প্রজ্ঞা।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ثوب",
+   "lemma": "ثُوِّبَ",
+   "meaning_en": "repaid",
+   "meaning_bn": "প্রতিফল দেওয়া হয়েছে",
+   "why_en": "From thawab, repayment: each receives the return of what they did."
+  },
+  {
+   "pos": 6,
+   "root": "فعل",
+   "lemma": "فَعَلَ",
+   "meaning_en": "they used to do",
+   "meaning_bn": "তারা করত",
+   "why_en": "The repayment matches their own deeds, including the mockery."
+  }
+ ],
+ "lesson_en": "Allah's justice is complete. No wrong goes unanswered, and no patience goes without reward.",
+ "lesson_bn": "আল্লাহর ন্যায়বিচার পরিপূর্ণ: কোনো অন্যায় জবাবহীন থাকে না, আর কোনো ধৈর্য প্রতিদানহীন থাকে না।",
+ "real_life_en": "When you see dishonest people seem to win, like the cheating trader the surah began with, it can be discouraging. This last ayah reminds you that every account will be settled. That gives you peace to keep weighing fairly and dealing honestly, even when it costs you.",
+ "real_life_bn": "অসৎ লোকদের যখন জিততে দেখা যায়, যেমন সূরার শুরুতে বলা ঠকবাজ ব্যবসায়ী, তখন মন খারাপ হতে পারে। এই শেষ আয়াত মনে করিয়ে দেয়, প্রতিটি হিসাব মেটানো হবে। এতে মনে শান্তি আসে, ক্ষতি হলেও ন্যায্যভাবে মাপা আর সৎভাবে লেনদেন চালিয়ে যাওয়া যায়।",
+ "themes": [
+  "justice",
+  "judgment",
+  "punishment",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "the Day of Judgement"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The disbelievers are given humiliating punishment as recompense for their actions in the world.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Jalalayn and Ibn Kathir: yes, they have been requited, fully and completely.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-en-ibn-kathir",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: they were repaid in kind, as justice and wisdom from Allah.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

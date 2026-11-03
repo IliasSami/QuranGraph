@@ -1,0 +1,104 @@
+{
+ "id": "79:46",
+ "simple_en": "When they finally see the Hour, it will feel as if they had stayed in the world for only one afternoon or one morning. 'Ashiyyah is the time from noon to sunset, and duha from sunrise to noon. Al-Muyassar says the terror of the Hour will make their whole life feel that short. A life that seemed so long will look like part of a single day.",
+ "simple_bn": "যখন তারা অবশেষে কিয়ামত দেখবে, তখন মনে হবে তারা দুনিয়াতে মাত্র এক বিকেল বা এক সকাল ছিল। 'আশিয়্যাহ' হলো দুপুর থেকে সূর্যাস্ত পর্যন্ত সময়, আর 'দুহা' সূর্যোদয় থেকে দুপুর পর্যন্ত। আল-মুয়াসসার বলেছে, কিয়ামতের ভয়াবহতায় তাদের পুরো জীবন এতটাই ছোট মনে হবে। যে জীবন এত দীর্ঘ মনে হতো, তা দেখাবে একটি দিনের একটি অংশের মতো।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "لبث",
+   "lemma": "لَبِثَ",
+   "meaning_en": "they stayed, tarried",
+   "meaning_bn": "তারা অবস্থান করেছে",
+   "why_en": "Lubth is staying somewhere for a time; their whole stay in the world will seem tiny."
+  },
+  {
+   "pos": 7,
+   "root": "عشو",
+   "lemma": "عَشِيَّة",
+   "meaning_en": "an afternoon, an evening",
+   "meaning_bn": "এক বিকেল, এক সন্ধ্যা",
+   "why_en": "The time from noon to sunset, as Ibn 'Abbas explained."
+  },
+  {
+   "pos": 9,
+   "root": "ضحو",
+   "lemma": "ضُحًى",
+   "meaning_en": "its morning",
+   "meaning_bn": "তার সকাল",
+   "why_en": "The time from sunrise to noon, the other half of the day."
+  }
+ ],
+ "lesson_en": "Life in this world is short, so do not trade the lasting life for a passing afternoon.",
+ "lesson_bn": "দুনিয়ার জীবন ছোট, তাই এক বিকেলের মতো ক্ষণস্থায়ী সময়ের বিনিময়ে চিরস্থায়ী জীবন হারাবেন না।",
+ "real_life_en": "Looking at old school photos, you are amazed at how fast ten years have gone. You realise the rest of life will feel just as quick. You call your parents that evening, and start the habit of giving a little charity each Friday.",
+ "real_life_bn": "পুরনো স্কুলের ছবি দেখে অবাক হলেন, দশ বছর কত দ্রুত চলে গেছে। বুঝলেন, বাকি জীবনটাও এমনই দ্রুত মনে হবে। সেই সন্ধ্যায় বাবা-মাকে ফোন করলেন, আর প্রতি শুক্রবার একটু দান করার অভ্যাস শুরু করলেন।",
+ "context_en": "The surah ends where it began, with the certainty of the Hour. Ibn Kathir reports Qatadah saying this is how short worldly life will look to people when they see the Hereafter.",
+ "context_bn": "সূরাটি যেখান থেকে শুরু হয়েছিল, সেখানেই শেষ হলো: কিয়ামতের নিশ্চয়তা দিয়ে। ইবনে কাসীর কাতাদাহ থেকে বর্ণনা করেছেন, আখিরাত দেখার পর মানুষের চোখে দুনিয়ার জীবন এমনই ছোট মনে হবে।",
+ "themes": [
+  "this world",
+  "the Last Day",
+  "death",
+  "reflection"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the Hour"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "the Hour"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "On the day they see the Hour, it will be as if they had remained in worldly life only a single evening or morning.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "'Ashiyyah is from noon to sunset and duha from sunrise to noon (Ibn 'Abbas).",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "al-Muyassar: this is because of the terror of the Hour.",
+   "sources": [
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Qatadah: this is the length of worldly life in people's eyes when they see the Hereafter.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Jalalayn: as if they had tarried in their graves only an evening or its morning.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Jalalayn applies the short stay to time in the graves, the others to worldly life; the simple text follows the majority."
+ ]
+}

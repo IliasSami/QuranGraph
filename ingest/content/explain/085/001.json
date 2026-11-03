@@ -1,0 +1,94 @@
+{
+ "id": "85:1",
+ "simple_en": "The surah opens with an oath by the sky that holds the buruj. Most early scholars, such as Ibn 'Abbas and Mujahid, said the buruj are the great stars. Al-Mukhtasar and Ibn Jarir explain them as the stations the sun and moon pass through. Al-Sa'di says these bodies move in perfect order, and that order points to Allah's complete power, mercy, knowledge and wisdom.",
+ "simple_bn": "সূরাটি শুরু হয়েছে 'বুরূজ'-বিশিষ্ট আকাশের শপথ দিয়ে। ইবনে আব্বাস ও মুজাহিদের মতো বেশিরভাগ পূর্বসূরি আলেম বলেছেন, বুরূজ হলো বড় বড় তারকা। আল-মুখতাসার ও ইবনে জারীর এর ব্যাখ্যা দিয়েছেন সূর্য ও চাঁদের চলার পথের অবস্থানস্থল হিসেবে। সা'দী বলেন, এরা নিখুঁত নিয়মে চলে, আর এই নিয়মই আল্লাহর পূর্ণ শক্তি, দয়া, জ্ঞান ও প্রজ্ঞার প্রমাণ।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "سمو",
+   "lemma": "سَماء",
+   "meaning_en": "the sky",
+   "meaning_bn": "আকাশ",
+   "why_en": "Allah swears by the sky to draw our eyes to its order and beauty."
+  },
+  {
+   "pos": 3,
+   "root": "برج",
+   "lemma": "بُرُوج",
+   "meaning_en": "great stars, stations",
+   "meaning_bn": "বুরূজ, বড় তারকা বা অবস্থানস্থল",
+   "why_en": "A burj is a tower or fortress; the root means to be clearly visible, like the great stars in the sky."
+  }
+ ],
+ "lesson_en": "The ordered sky is a sign of Allah's power and wisdom. Look up and let it strengthen your faith.",
+ "lesson_bn": "সুশৃঙ্খল আকাশ আল্লাহর শক্তি ও প্রজ্ঞার নিদর্শন। আকাশের দিকে তাকান, আর তা আপনার ঈমানকে মজবুত করুক।",
+ "real_life_en": "On a trip to the village, away from city lights, you see the sky full of stars for the first time in years. Instead of just taking a photo, you sit for a few minutes and think about who keeps all of it moving in order. You say \"SubhanAllah\" and mean it.",
+ "real_life_bn": "গ্রামে বেড়াতে গিয়ে, শহরের আলো থেকে দূরে, বহু বছর পর তারায় ভরা আকাশ দেখলেন। শুধু ছবি না তুলে কয়েক মিনিট বসে ভাবলেন, কে এসবকে এত নিয়মমতো চালাচ্ছেন। মন থেকে বললেন, \"সুবহানাল্লাহ\"।",
+ "context_en": "Ayat 1–3 are oaths; Jalalayn says what they swear to is ayah 4, the curse on the People of the Ditch.",
+ "context_bn": "১–৩ আয়াত শপথ; জালালাইন বলেন, শপথের বিষয় হলো ৪ নম্বর আয়াত, অর্থাৎ গর্তওয়ালাদের উপর অভিশাপ।",
+ "themes": [
+  "signs in nature",
+  "Allah's power",
+  "Allah's knowledge"
+ ],
+ "kinds": [
+  "oath",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "sky",
+   "stars"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah took an oath by the sky that contains the stations of the sun, moon etc.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Ibn 'Abbas, Mujahid, al-Dahhak, al-Hasan, Qatadah and al-Suddi said the buruj are the stars; Ibn Jarir chose the positions of the sun and moon.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Burj means a large mansion or fortress; its root sense is to become manifest.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Sa'di: the sun, moon and stars move in perfect order, showing Allah's perfect power, mercy, knowledge and wisdom.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Jalalayn: the answer to the oath is 'cursed were the People of the Ditch' with an implied 'laqad'.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": true,
+ "differ_note_en": "Buruj is explained as the great stars (Ibn 'Abbas, Mujahid and most early scholars), the stations of the sun and moon (Ibn Jarir, Al-Mukhtasar), or, by some, mansions in the sky for the guardian angels, or simply the sky's beautiful creation.",
+ "differ_note_bn": "বুরূজের কয়েকটি ব্যাখ্যা আছে: বড় বড় তারকা (ইবনে আব্বাস, মুজাহিদ ও বেশিরভাগ পূর্বসূরি), সূর্য ও চাঁদের অবস্থানস্থল (ইবনে জারীর, আল-মুখতাসার), অথবা কারো মতে আকাশে প্রহরী ফিরিশতাদের প্রাসাদ, কিংবা আকাশের সুন্দর সৃষ্টি।",
+ "confidence": 0.9,
+ "uncertain": []
+}

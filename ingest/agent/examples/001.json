@@ -1,0 +1,88 @@
+{
+ "id": "1:1",
+ "simple_en": "The Quran opens with the words Muslims say before almost everything: \"In the name of Allah.\" It means: I begin this with Allah's help, and for His sake. Two of His names follow, Ar-Rahman and Ar-Rahim. Both come from the word rahmah, mercy. Together they tell us that His mercy is huge and reaches every living thing, and that the believers receive the greatest share of it.",
+ "simple_bn": "কুরআন শুরু হয়েছে সেই কথা দিয়ে, যা মুসলিমরা প্রায় সব কাজের আগে বলেন: \"আল্লাহর নামে।\" এর অর্থ: আমি আল্লাহর সাহায্য চেয়ে আর তাঁর নামের বরকত নিয়ে শুরু করছি। এরপর তাঁর দুটি নাম এসেছে: আর-রাহমান ও আর-রাহীম। দুটোই এসেছে 'রাহমাহ' অর্থাৎ দয়া শব্দ থেকে। এরা জানিয়ে দেয়, তাঁর দয়া বিশাল, সব প্রাণীর কাছে পৌঁছায়, আর মু'মিনরা পায় তার সবচেয়ে বড় অংশ।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "سمو",
+   "lemma": "اسْم",
+   "meaning_en": "name",
+   "meaning_bn": "নাম",
+   "why_en": "Starting \"in the name of\" Allah means doing the act with His help and for His sake."
+  },
+  {
+   "pos": 3,
+   "root": "رحم",
+   "lemma": "رَحْمٰن",
+   "meaning_en": "Ar-Rahman, the Entirely Merciful",
+   "meaning_bn": "আর-রাহমান, অসীম দয়ালু",
+   "why_en": "A name only Allah carries: mercy that is vast and covers all creation."
+  },
+  {
+   "pos": 4,
+   "root": "رحم",
+   "lemma": "رَحِيم",
+   "meaning_en": "Ar-Rahim, the Especially Merciful",
+   "meaning_bn": "আর-রাহীম, পরম দয়ালু",
+   "why_en": "From the same root as Ar-Rahman: mercy that He gives to those He chooses, the believers above all."
+  }
+ ],
+ "lesson_en": "Begin your actions with Allah's name, asking for His help and remembering that every good thing comes from His mercy.",
+ "lesson_bn": "প্রতিটি কাজ আল্লাহর নামে শুরু করুন, তাঁর সাহায্য চেয়ে, আর মনে রাখুন সব কল্যাণ আসে তাঁর দয়া থেকে।",
+ "real_life_en": "Before you start your study session, a hard phone call, or a meal, say \"Bismillah\" and mean it. It turns an ordinary task into something done with Allah in mind, and reminds you that you are not doing it on your own strength.",
+ "real_life_bn": "পড়াশোনা শুরুর আগে, কঠিন কোনো ফোন কল করার আগে বা খাওয়ার আগে মন থেকে \"বিসমিল্লাহ\" বলুন। এতে সাধারণ কাজটিও আল্লাহকে স্মরণ করে করা কাজ হয়ে যায়, আর মনে পড়ে যে আপনি শুধু নিজের শক্তিতে কাজটি করছেন না।",
+ "context_en": "Al-Fatihah is the opening surah of the Quran and is recited in every unit of the prayer.",
+ "context_bn": "আল-ফাতিহা কুরআনের প্রথম সূরা, যা নামাজের প্রতিটি রাকআতে পড়া হয়।",
+ "themes": [
+  "names and attributes of Allah",
+  "Allah's mercy",
+  "remembrance of Allah"
+ ],
+ "kinds": [
+  "description-of-allah",
+  "praise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Ar-Rahman",
+   "Ar-Rahim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Bismillah means beginning with Allah's name, seeking His help and blessing.",
+   "sources": [
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ar-Rahman and Ar-Rahim both come from rahmah (mercy); His mercy covers all living beings and the believers receive the greatest share.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Al-Fatihah is recited at the start of the prayer and is called Umm al-Kitab, the Mother of the Book.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": [
+  "Scholars differ on whether the Basmalah is counted as the first ayah of al-Fatihah; Tanzil's Kufan count, used here, counts it."
+ ]
+}

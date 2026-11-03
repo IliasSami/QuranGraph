@@ -1,0 +1,135 @@
+{
+ "id": "105:1",
+ "simple_en": "Allah asks the Prophet ﷺ: do you not know how your Lord dealt with the People of the Elephant? These were Abrahah, the Abyssinian ruler of Yemen, and his army, who set out to destroy the Ka'bah. He had built a great church in San'a' to turn the Arabs' pilgrimage away from Makkah, and when it was defiled he swore to tear down the Ka'bah. He came with a huge army and elephants. The event happened in the year the Prophet ﷺ was born.",
+ "simple_bn": "আল্লাহ রাসূলুল্লাহ ﷺ-কে জিজ্ঞেস করেন: আপনি কি জানেন না, আপনার রব হাতিওয়ালাদের সঙ্গে কী করেছিলেন? এরা ছিল ইয়েমেনের হাবশি শাসক আবরাহা ও তার বাহিনী, যারা কা'বা ধ্বংস করতে বেরিয়েছিল। আরবদের হজ মক্কা থেকে সরিয়ে নিতে সে সানআয় একটি বিশাল গির্জা বানিয়েছিল। সেটি অপবিত্র করা হলে সে কা'বা ভেঙে ফেলার শপথ করে। সে বিশাল বাহিনী ও হাতি নিয়ে আসে। ঘটনাটি ঘটেছিল যে বছর রাসূলুল্লাহ ﷺ জন্মগ্রহণ করেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "رأي",
+   "lemma": "رَأَى",
+   "meaning_en": "have you (not) seen",
+   "meaning_bn": "আপনি কি দেখেননি",
+   "why_en": "Here it means 'do you not know': the event was so well known it was like something seen."
+  },
+  {
+   "pos": 5,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "your Lord",
+   "meaning_bn": "আপনার রব",
+   "why_en": "The Lord who protected His House is the Prophet's own Lord."
+  },
+  {
+   "pos": 7,
+   "root": "فيل",
+   "lemma": "فِيل",
+   "meaning_en": "the elephant",
+   "meaning_bn": "হাতি",
+   "why_en": "The army brought elephants to pull down the Ka'bah."
+  }
+ ],
+ "lesson_en": "No power, however huge, can defeat what Allah has chosen to protect.",
+ "lesson_bn": "যত বড় শক্তিই হোক, আল্লাহ যা রক্ষা করতে চান তাকে কেউ পরাজিত করতে পারে না।",
+ "real_life_en": "You feel small against a big problem: a powerful boss treating you unfairly, or a debt that seems impossible. Remember how the Makkans had no strength to face Abrahah, and how Allah handled it. Do what you can, and trust the outcome to Him.",
+ "real_life_bn": "বড় কোনো সমস্যার সামনে নিজেকে ছোট মনে হয়: প্রভাবশালী বসের অন্যায় আচরণ, বা অসম্ভব মনে হওয়া ঋণ। মনে করুন, মক্কাবাসীর আবরাহার মোকাবিলা করার কোনো শক্তি ছিল না, আর আল্লাহ কীভাবে বিষয়টি সামলেছিলেন। আপনার সাধ্যমতো চেষ্টা করুন, আর ফলাফল তাঁর উপর ছেড়ে দিন।",
+ "context_en": "Sa'di and Ma'ariful Qur'an explain that this event, before the Prophet's mission, was one of the signs that prepared for his prophethood. Ibn Kathir calls it one of Allah's favours to the Quraysh.",
+ "context_bn": "সা'দী ও মা'আরিফুল কুরআন বুঝিয়েছেন, নবুওয়াতের আগে ঘটা এই ঘটনা ছিল তাঁর নবুওয়াতের জন্য পথ প্রস্তুতকারী নিদর্শনগুলোর একটি। ইবনে কাসীর একে কুরাইশদের প্রতি আল্লাহর একটি অনুগ্রহ বলেছেন।",
+ "themes": [
+  "Allah's power",
+  "past nations",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "story",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "Abrahah",
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [
+   "People of the Elephant",
+   "Quraysh",
+   "Abyssinians"
+  ],
+  "places": [
+   "Makkah",
+   "the Ka'bah",
+   "Yemen",
+   "San'a'"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Ar-Rabb"
+  ],
+  "events": [
+   "the Year of the Elephant"
+  ],
+  "things": [
+   "elephants"
+  ]
+ },
+ "claims": [
+  {
+   "text": "O Messenger, do you not know how your Lord dealt with Abrahah and his people, the people of the elephant, when they intended to demolish the Ka'bah?",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "'Alam tara' here means 'do you not know'; the event was well known among the Arabs.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "qe-arabic-moyassar",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Abrahah, governor of Yemen for the king of Abyssinia, built a great church in San'a' to divert pilgrims from the Ka'bah; after it was defiled he swore to destroy the Ka'bah and set out with a huge army and elephants.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan",
+    "g-en-maarif",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The event took place in the year the Prophet was born.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan",
+    "g-en-jalalayn",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "It was one of the signs preceding and preparing for his mission (irhas); Ibn Kathir: one of Allah's favours to the Quraysh.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Sa'di: the Arabs had no means of resisting, and the people of Makkah left the city in fear.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Several grounding texts (Ibn Kathir, Ma'ariful Qur'an, Ahsanul Bayan) were truncated in the context, so only the parts shown were used."
+ ]
+}

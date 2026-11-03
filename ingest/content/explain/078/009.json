@@ -1,0 +1,84 @@
+{
+ "id": "78:9",
+ "simple_en": "Allah made sleep a means of rest. Subat comes from a word meaning \"to cut off\": sleep cuts off our work and our worries, so the body can recover. If our activity never stopped, it would harm our bodies. Ma'ariful Qur'an notes that sleep is a free gift given to rich and poor alike, and no soft bed can buy it.",
+ "simple_bn": "আল্লাহ ঘুমকে বিশ্রামের মাধ্যম বানিয়েছেন। \"সুবাত\" শব্দটি এসেছে \"ছিন্ন করা\" অর্থের শব্দ থেকে: ঘুম আমাদের কাজ আর দুশ্চিন্তাকে কেটে দেয়, যাতে শরীর আবার শক্তি ফিরে পায়। কাজকর্ম যদি কখনো না থামত, তাহলে তা আমাদের শরীরের ক্ষতি করত। মাআরিফুল কুরআন বলেছে, ঘুম একটি বিনামূল্যের দান, ধনী-গরিব সবাই তা পায়, আর কোনো নরম বিছানা দিয়ে তা কেনা যায় না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نوم",
+   "lemma": "نَوْم",
+   "meaning_en": "sleep",
+   "meaning_bn": "ঘুম",
+   "why_en": "Something we do every night is named here as a blessing and a sign."
+  },
+  {
+   "pos": 3,
+   "root": "سبت",
+   "lemma": "سُبات",
+   "meaning_en": "rest",
+   "meaning_bn": "বিশ্রাম",
+   "why_en": "From sabt, to cut off: sleep cuts off activity and worry, and that break is the rest."
+  }
+ ],
+ "lesson_en": "Sleep is a gift from Allah, not wasted time; receive it with gratitude and use the rest it gives for good.",
+ "lesson_bn": "ঘুম আল্লাহর দান, সময়ের অপচয় নয়; কৃতজ্ঞতার সঙ্গে তা গ্রহণ করুন এবং এর দেওয়া বিশ্রামকে ভালো কাজে লাগান।",
+ "real_life_en": "A university student keeps scrolling on his phone until 3 a.m., then feels drained all day. He decides to put the phone away earlier and see sleep as something Allah gives him for his body. The next morning he is fresher for class and for Fajr.",
+ "real_life_bn": "এক বিশ্ববিদ্যালয় ছাত্র রাত তিনটা পর্যন্ত ফোন স্ক্রল করে, তারপর সারাদিন ক্লান্ত থাকে। সে ঠিক করে আগে ফোন রেখে দেবে, আর ঘুমকে দেখবে শরীরের জন্য আল্লাহর দেওয়া দান হিসেবে। পরদিন সকালে সে ক্লাস আর ফজরের জন্য অনেক বেশি সতেজ থাকে।",
+ "themes": [
+  "signs in nature",
+  "creation",
+  "gratitude",
+  "Allah's mercy"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "sleep"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah made sleep the end point of activity, so that people rest.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Subat comes from sabt, to cut off; sleep cuts off worries and tensions and gives rest.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: sleep cuts off work which, if it continued, would harm the body.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Sleep is a great gift given equally to rich and poor, free of charge, and not dependent on comfortable mattresses.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.91,
+ "uncertain": []
+}

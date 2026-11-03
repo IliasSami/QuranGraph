@@ -1,0 +1,91 @@
+{
+ "id": "84:16",
+ "simple_en": "Allah now swears an oath by the shafaq, the red glow left on the horizon after the sun sets. Al-Sa'di explains that it is what remains of the sun's light, and it marks the start of the night. Ibn Kathir reports that most early scholars said shafaq is this redness, and he supports it with a hadith in Muslim: the time of Maghrib lasts as long as the shafaq has not disappeared. The oath leads up to the point made in ayah 19.",
+ "simple_bn": "এবার আল্লাহ শপথ করছেন 'শাফাক'-এর, অর্থাৎ সূর্য ডোবার পর দিগন্তে যে লাল আভা থেকে যায় তার। সা'দী বলেন, এটি সূর্যের আলোর অবশিষ্ট অংশ, আর এ দিয়েই রাত শুরু হয়। ইবনে কাসীর জানান, বেশিরভাগ পূর্বসূরি আলেম বলেছেন শাফাক হলো এই লালিমা। তিনি সহীহ মুসলিমের একটি হাদীস দিয়ে এর সমর্থন করেছেন: শাফাক অদৃশ্য না হওয়া পর্যন্ত মাগরিবের সময় থাকে। এই শপথ ১৯ নম্বর আয়াতের মূল কথার দিকে নিয়ে যায়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "قسم",
+   "lemma": "أَقْسَمُ",
+   "meaning_en": "I swear",
+   "meaning_bn": "আমি শপথ করছি",
+   "why_en": "Allah swears by His creations to draw attention to what follows; Jalalayn notes the 'la' before it only adds emphasis."
+  },
+  {
+   "pos": 3,
+   "root": "شفق",
+   "lemma": "شَفَق",
+   "meaning_en": "the twilight glow",
+   "meaning_bn": "অস্তরাগ, সন্ধ্যার লালিমা",
+   "why_en": "The red glow after sunset, a daily sign of change from day to night."
+  }
+ ],
+ "lesson_en": "The daily change from day to night is a sign from Allah. Let the sunset remind you that every state you are in will change.",
+ "lesson_bn": "দিন থেকে রাতে প্রতিদিনের এই বদল আল্লাহর একটি নিদর্শন। সূর্যাস্ত যেন আপনাকে মনে করিয়ে দেয়, আপনার প্রতিটি অবস্থা বদলে যাবে।",
+ "real_life_en": "On your way home from work you see the red sky after sunset and hear the call for Maghrib. Instead of rushing past, you notice it as one of the signs Allah swore by. You stop at the mosque to pray before the glow fades.",
+ "real_life_bn": "কাজ থেকে বাড়ি ফেরার পথে সূর্যাস্তের পর আকাশে লাল আভা দেখলেন, আর মাগরিবের আজান শুনলেন। তাড়াহুড়া করে পার হয়ে না গিয়ে আপনি খেয়াল করলেন, এটি আল্লাহর সেই নিদর্শনগুলোর একটি, যার তিনি শপথ করেছেন। লালিমা মিলিয়ে যাওয়ার আগেই মসজিদে থেমে নামাজ পড়ে নিলেন।",
+ "context_en": "Ayat 16–18 are three oaths by signs of the night, and ayah 19 gives what is sworn to. Al-Muyassar adds that a created being may not swear by anything other than Allah.",
+ "context_bn": "১৬–১৮ আয়াতে রাতের তিনটি নিদর্শনের শপথ, আর ১৯ নম্বর আয়াতে শপথের বিষয়। আল-মুয়াসসার বলে, সৃষ্টির জন্য আল্লাহ ছাড়া অন্য কিছুর নামে শপথ করা জায়েয নয়।",
+ "themes": [
+  "signs in nature",
+  "reflection",
+  "prayer"
+ ],
+ "kinds": [
+  "oath"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "twilight",
+   "sunset"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah swore by the redness on the horizon after sunset.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: shafaq is the remainder of the sun's light, the opening of the night; Allah swears here by signs of the night.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: many early authorities said shafaq is the redness; he cites the hadith in Muslim that the time of Maghrib lasts as long as the shafaq has not disappeared.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Jalalayn: the 'la' in 'fa-la' is extra.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Al-Muyassar: it is not permitted for a created being to swear by other than Allah.",
+   "sources": [
+    "qe-arabic-moyassar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Ibn Kathir also reports from Abu Hurayrah that shafaq is the whiteness, but concludes it is the redness; this minor view is not mentioned in the text."
+ ]
+}

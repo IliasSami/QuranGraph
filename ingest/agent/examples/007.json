@@ -1,0 +1,92 @@
+{
+ "id": "1:7",
+ "simple_en": "The straight path is explained by the people who walked it: those Allah blessed with guidance, such as the prophets, the truthful, the martyrs and the righteous. Then we ask to be kept away from two wrong paths. The first is of those who knew the truth but did not follow it, and so earned Allah's anger. The second is of those who went astray because they did not care to seek the truth.",
+ "simple_bn": "সরল পথ কোনটি, তা বোঝানো হয়েছে সেই মানুষদের দিয়ে যারা এ পথে চলেছেন: যাদের আল্লাহ হিদায়াতের নিয়ামত দিয়েছেন, যেমন নবী, সিদ্দীক, শহীদ ও নেককারগণ। এরপর আমরা দুটি ভুল পথ থেকে বাঁচতে চাই। প্রথমটি তাদের পথ, যারা সত্য জেনেও তা মানেনি, ফলে আল্লাহর ক্রোধের শিকার হয়েছে। দ্বিতীয়টি তাদের পথ, যারা সত্য খোঁজায় অবহেলা করে পথ হারিয়েছে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "نعم",
+   "lemma": "أَنْعَمَ",
+   "meaning_en": "You have favoured",
+   "meaning_bn": "আপনি নিয়ামত দিয়েছেন",
+   "why_en": "The greatest favour meant here is guidance."
+  },
+  {
+   "pos": 6,
+   "root": "غضب",
+   "lemma": "مَغْضُوب",
+   "meaning_en": "those who earned anger",
+   "meaning_bn": "যাদের উপর ক্রোধ এসেছে",
+   "why_en": "Their fault was knowing the truth and refusing to act on it."
+  },
+  {
+   "pos": 9,
+   "root": "ضلل",
+   "lemma": "ضالّ",
+   "meaning_en": "those who went astray",
+   "meaning_bn": "পথভ্রষ্ট",
+   "why_en": "Their fault was not seeking the truth carefully, so they lost the way."
+  }
+ ],
+ "lesson_en": "Knowing the truth is not enough without acting on it, and good intentions are not enough without seeking real knowledge.",
+ "lesson_bn": "সত্য জানা যথেষ্ট নয় যদি তার উপর আমল না থাকে, আবার ভালো নিয়ত যথেষ্ট নয় যদি সঠিক জ্ঞান খোঁজা না হয়।",
+ "real_life_en": "One friend knows that lying is wrong but does it anyway whenever it is convenient. Another sincerely wants to do right but never takes the time to learn how. The ayah asks Allah to protect us from both: let us know the truth and live by it.",
+ "real_life_bn": "এক বন্ধু জানে মিথ্যা বলা অন্যায়, তবু সুবিধা হলেই বলে ফেলে। আরেকজন আন্তরিকভাবে ভালো করতে চায়, কিন্তু কীভাবে করতে হয় তা শেখার সময় নেয় না। আয়াতটি আল্লাহর কাছে দুটো থেকেই রক্ষা চায়: আমরা যেন সত্য জানি এবং সে অনুযায়ী চলি।",
+ "context_en": "Al-Mukhtasar and the classical tafsirs give the Israelites as the example of the first group and the Christians as the example of the second. Ibn Kathir draws the lesson for every believer: the right path is knowing the truth and living by it, so beware of both failures.",
+ "context_bn": "আল-মুখতাসার ও প্রাচীন তাফসীরগুলো প্রথম দলের উদাহরণ হিসেবে ইহুদিদের এবং দ্বিতীয় দলের উদাহরণ হিসেবে খ্রিস্টানদের উল্লেখ করেছে। ইবনে কাসীর প্রত্যেক মু'মিনের জন্য শিক্ষাটি তুলে ধরেছেন: সঠিক পথ হলো সত্য জানা এবং সে অনুযায়ী চলা, তাই দুটি ব্যর্থতা থেকেই সাবধান থাকতে হবে।",
+ "themes": [
+  "guidance",
+  "misguidance",
+  "dua",
+  "knowledge"
+ ],
+ "kinds": [
+  "dua",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel",
+   "Christians"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those blessed with guidance include the prophets, the truthful, the martyrs and the righteous.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Those who earned anger knew the truth and did not follow it (example given: the Israelites); those astray neglected seeking the truth (example given: the Christians).",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: those who earned anger knew the truth and left it; those astray left the truth out of ignorance and misguidance.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: the path of the believers is knowledge of the truth and abiding by it; the believer should beware of both other paths.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

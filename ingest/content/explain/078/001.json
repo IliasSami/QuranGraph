@@ -1,0 +1,91 @@
+{
+ "id": "78:1",
+ "simple_en": "The surah opens with a question: what are they asking each other about? \"They\" are the idolaters of Makkah, after Allah sent His Messenger ﷺ to them. Asking it as a question shows how great the matter is, and Allah Himself gives the answer in the next ayah. Some sources add that their asking was not a sincere search for truth, but half doubt and half mockery.",
+ "simple_bn": "সূরাটি শুরু হয়েছে একটি প্রশ্ন দিয়ে: তারা একে অন্যকে কোন বিষয়ে জিজ্ঞেস করছে? \"তারা\" হলো মক্কার মুশরিকরা, যাদের কাছে আল্লাহ তাঁর রাসূল ﷺ-কে পাঠিয়েছেন। প্রশ্নের আকারে বলায় বোঝা যায় বিষয়টি কত বড়, আর পরের আয়াতে আল্লাহ নিজেই উত্তর দিয়েছেন। কোনো কোনো তাফসীরে বলা হয়েছে, তাদের এই জিজ্ঞাসা সত্য জানার আন্তরিক চেষ্টা ছিল না; এতে ছিল সন্দেহ আর ঠাট্টা।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": null,
+   "lemma": "عَن",
+   "meaning_en": "about what",
+   "meaning_bn": "কী বিষয়ে",
+   "why_en": "The word joins 'an (about) and ma (what), turning the opening into a question."
+  },
+  {
+   "pos": 2,
+   "root": "سأل",
+   "lemma": "يَتَساءَلُ",
+   "meaning_en": "they ask one another",
+   "meaning_bn": "তারা পরস্পরকে জিজ্ঞেস করে",
+   "why_en": "The verb form shows people asking back and forth among themselves, talking the matter over."
+  }
+ ],
+ "lesson_en": "Ask questions about faith to find the truth, not to mock it or push it away.",
+ "lesson_bn": "ঈমানের বিষয়ে প্রশ্ন করুন সত্য জানার জন্য, ঠাট্টা করা বা এড়িয়ে যাওয়ার জন্য নয়।",
+ "real_life_en": "In a group chat, friends joke about a talk on the afterlife they heard, throwing questions around just to laugh. One of them instead writes down his real question and asks a teacher he trusts after class. The same question can be a way to learn or a way to avoid learning.",
+ "real_life_bn": "একটি গ্রুপ চ্যাটে বন্ধুরা আখিরাত নিয়ে শোনা একটি আলোচনা নিয়ে মজা করছে, শুধু হাসার জন্য প্রশ্ন ছুড়ছে। তাদের একজন বরং নিজের আসল প্রশ্নটি লিখে রাখে, আর ক্লাসের পরে বিশ্বস্ত একজন শিক্ষককে জিজ্ঞেস করে। একই প্রশ্ন শেখার পথও হতে পারে, আবার শেখা এড়ানোর পথও হতে পারে।",
+ "context_en": "This question opens the surah; ayat 2 and 3 answer it, and ayat 4 and 5 warn those who deny.",
+ "context_bn": "এই প্রশ্ন দিয়ে সূরা শুরু; ২ ও ৩ নম্বর আয়াতে এর উত্তর, আর ৪ ও ৫ নম্বর আয়াতে অস্বীকারকারীদের সতর্ক করা হয়েছে।",
+ "themes": [
+  "disbelief",
+  "the Last Day",
+  "prophethood"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Quraysh"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The idolaters ask one another about something after Allah sent His Messenger to them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Those asking are the people of Quraysh / the disbelievers of Quraysh.",
+   "sources": [
+    "g-en-jalalayn",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "'Amma is made of 'an (about) and ma (what).",
+   "sources": [
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "The question form emphasises the greatness of the matter, and Allah Himself answers it.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Some commentators say their enquiry was not genuine; they asked half-mockingly and half in doubt.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

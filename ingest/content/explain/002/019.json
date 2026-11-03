@@ -1,0 +1,115 @@
+{
+ "id": "2:19",
+ "simple_en": "Now the water example. Picture people caught outdoors in a heavy storm, with darkness layered on darkness, thunder and lightning. Terrified of the thunderclaps, they push their fingers into their ears, afraid of dying. Al-Mukhtasar explains the picture: the rain is the Quran, the thunder is its warnings, and the lightning is the truth that flashes before them now and then. Shutting their ears is turning away from it. But Allah surrounds the disbelievers; they cannot escape Him.",
+ "simple_bn": "এবার পানির দৃষ্টান্ত। ভাবুন, একদল মানুষ খোলা জায়গায় প্রবল বৃষ্টিতে আটকা পড়েছে, অন্ধকারের উপর অন্ধকার, সাথে বজ্র আর বিজলি। বজ্রের আওয়াজে আতঙ্কিত হয়ে তারা কানে আঙুল ঢুকিয়ে দেয়, মৃত্যুর ভয়ে। আল-মুখতাসার এই ছবিটি বুঝিয়ে দিয়েছে: বৃষ্টি হলো কুরআন, বজ্র তার সতর্কবাণী, আর বিজলি হলো মাঝে মাঝে তাদের সামনে ঝলকে ওঠা সত্য। কানে আঙুল দেওয়া মানে সত্য থেকে মুখ ফিরিয়ে নেওয়া। কিন্তু আল্লাহ কাফিরদের ঘিরে রেখেছেন; তারা তাঁর হাত থেকে পালাতে পারবে না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "صوب",
+   "lemma": "صَيِّب",
+   "meaning_en": "a heavy rain",
+   "meaning_bn": "প্রবল বৃষ্টি",
+   "why_en": "Rain that pours down in abundance; in the parable it stands for the Quran."
+  },
+  {
+   "pos": 7,
+   "root": "رعد",
+   "lemma": "رَعْد",
+   "meaning_en": "thunder",
+   "meaning_bn": "বজ্র",
+   "why_en": "Pictures the Quran's warnings that frighten them."
+  },
+  {
+   "pos": 8,
+   "root": "برق",
+   "lemma": "بَرْق",
+   "meaning_en": "lightning",
+   "meaning_bn": "বিজলি",
+   "why_en": "Pictures the truth that flashes clear before them at times."
+  },
+  {
+   "pos": 18,
+   "root": "حوط",
+   "lemma": "مُحِيط",
+   "meaning_en": "encompassing",
+   "meaning_bn": "পরিবেষ্টনকারী",
+   "why_en": "Allah surrounds them in knowledge and power; there is no escape."
+  }
+ ],
+ "lesson_en": "When an ayah warns you, do not block your ears; let the warning lead you to change.",
+ "lesson_bn": "কোনো আয়াত আপনাকে সতর্ক করলে কানে আঙুল দেবেন না; সেই সতর্কবাণী যেন আপনাকে বদলে দেয়।",
+ "real_life_en": "A talk about backbiting makes you uncomfortable, because you know you do it. Your first urge is to skip to something lighter. Instead you listen to the end and decide to stop joining that kind of talk at work.",
+ "real_life_bn": "গীবত নিয়ে একটি আলোচনা শুনে আপনার অস্বস্তি লাগছে, কারণ জানেন আপনিও তা করেন। প্রথমে ইচ্ছে হলো হালকা কিছুতে চলে যেতে। তা না করে আপনি শেষ পর্যন্ত শুনলেন আর ঠিক করলেন অফিসে এ ধরনের আলাপে আর যোগ দেবেন না।",
+ "context_en": "Al-Muyassar and Ibn Kathir say this second parable is of another group of hypocrites, who sometimes see the truth and at other times doubt it.",
+ "context_bn": "আল-মুয়াসসার ও ইবনে কাসীর বলেন, এই দ্বিতীয় দৃষ্টান্তটি মুনাফিকদের আরেকটি দলের, যারা কখনো সত্য দেখে, আবার কখনো তাতে সন্দেহ করে।",
+ "themes": [
+  "hypocrisy",
+  "the Quran",
+  "signs in nature",
+  "Allah's power"
+ ],
+ "kinds": [
+  "parable",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "rain",
+   "thunder",
+   "lightning"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The water example: a storm full of darkness, thunder and lightning; people put their fingers in their ears from the thunderclaps, fearing death.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "The rain is likened to the Quran, the thunder to its warnings, the lightning to truths appearing from time to time; covering the ears is turning away from the truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah surrounds the disbelievers in knowledge and power; they cannot escape Him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "This parable concerns another group of hypocrites who sometimes see the truth and at other times doubt it.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The darknesses are of night, cloud and rain.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

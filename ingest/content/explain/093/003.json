@@ -1,0 +1,91 @@
+{
+ "id": "93:3",
+ "simple_en": "This is the answer to the oaths: \"Your Lord has not left you, nor has He come to dislike you.\" The idolaters claimed this when revelation paused, and Allah denies it completely. Sa'di explains that Allah had never left the Prophet ﷺ since He began caring for him, and never disliked him since He loved him. Rather, He kept raising him from one rank to the next.",
+ "simple_bn": "শপথগুলোর জবাব এই: \"আপনার রব আপনাকে ছেড়ে যাননি, আর আপনার প্রতি বিরূপও হননি।\" ওহী থেমে থাকার সময় মুশরিকরা এমন দাবি করেছিল, আর আল্লাহ তা সম্পূর্ণ নাকচ করে দেন। সা'দী ব্যাখ্যা করেছেন, যেদিন থেকে আল্লাহ রাসূলুল্লাহ ﷺ-এর যত্ন নিতে শুরু করেছেন, কখনো তাঁকে ছেড়ে যাননি, আর যেদিন থেকে তাঁকে ভালোবেসেছেন, কখনো অপছন্দ করেননি। বরং তিনি তাঁকে এক মর্যাদা থেকে আরেক মর্যাদায় উন্নীত করে চলেছেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ودع",
+   "lemma": "وَدَّعَ",
+   "meaning_en": "has left you",
+   "meaning_bn": "আপনাকে পরিত্যাগ করেছেন",
+   "why_en": "Negated here: Allah did not abandon or bid farewell to His Messenger."
+  },
+  {
+   "pos": 3,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "your Lord",
+   "meaning_bn": "আপনার রব",
+   "why_en": "Rabb is the One who nurtures and looks after; the word itself carries the comfort."
+  },
+  {
+   "pos": 5,
+   "root": "قلي",
+   "lemma": "قَلَى",
+   "meaning_en": "disliked",
+   "meaning_bn": "বিরূপ হয়েছেন",
+   "why_en": "Qila is hatred or strong dislike; Allah denies it, which affirms His love."
+  }
+ ],
+ "lesson_en": "A pause in good things is not a sign that Allah has abandoned you; His care continues.",
+ "lesson_bn": "ভালো কিছু থেমে গেলে তা এর লক্ষণ নয় যে আল্লাহ আপনাকে ছেড়ে দিয়েছেন; তাঁর যত্ন চলতেই থাকে।",
+ "real_life_en": "A sister who used to enjoy her prayers now feels nothing in them for weeks, and someone tells her Allah must be angry with her. This ayah, first said to the Prophet ﷺ, gives her hope: a dry spell is not abandonment. She keeps praying and asks Allah to bring the sweetness back.",
+ "real_life_bn": "এক বোন আগে নামাজে আনন্দ পেতেন, কিন্তু কয়েক সপ্তাহ ধরে কিছুই অনুভব করছেন না, আর কেউ তাকে বলল আল্লাহ নিশ্চয় তার উপর রাগ করেছেন। প্রথমে রাসূলুল্লাহ ﷺ-কে বলা এই আয়াত তাকে আশা দেয়: শুষ্ক সময় মানেই পরিত্যাগ নয়। তিনি নামাজ চালিয়ে যান আর আল্লাহর কাছে সেই মিষ্টতা ফিরিয়ে দেওয়ার দোয়া করেন।",
+ "themes": [
+  "Prophet Muhammad ﷺ",
+  "Allah's mercy",
+  "revelation",
+  "trust in Allah"
+ ],
+ "kinds": [
+  "address",
+  "glad-tidings"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Ar-Rabb"
+  ],
+  "events": [
+   "pause in revelation"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Your Lord has not left you nor begun to hate you, as the idolaters claimed when there was a break in the revelation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: He has not left him since He began caring for him nor disliked him since He loved him; He keeps raising him rank after rank; denying the opposite affirms love.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Jalalayn reports the pause lasted fifteen days.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": [
+  "Jalalayn gives fifteen days for the pause; other reports differ, so no number is used in the text."
+ ]
+}

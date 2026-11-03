@@ -1,0 +1,89 @@
+{
+ "id": "104:7",
+ "simple_en": "This Fire goes through the body until it reaches the hearts. Ma'ariful Qur'an and Ahsanul Bayan explain why this is mentioned: in this world, fire kills a person before it reaches the heart. In Hell there is no death, so the burning reaches the heart while the person is still alive. Jalalayn adds that this pain is the worst because the heart is so delicate.",
+ "simple_bn": "এই আগুন শরীর ভেদ করে অন্তর পর্যন্ত পৌঁছে যাবে। মা'আরিফুল কুরআন ও আহসানুল বায়ান বুঝিয়েছেন কেন এটি উল্লেখ করা হয়েছে: দুনিয়ায় আগুন হৃদয় পর্যন্ত পৌঁছানোর আগেই মানুষ মারা যায়। জাহান্নামে মৃত্যু নেই, তাই জীবিত অবস্থাতেই দহন হৃদয় পর্যন্ত পৌঁছাবে। জালালাইন যোগ করেন, হৃদয় খুব কোমল বলে এই কষ্টই সবচেয়ে তীব্র।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "طلع",
+   "lemma": "طَلَعَ",
+   "meaning_en": "rises up over, reaches",
+   "meaning_bn": "পৌঁছে যায়, গ্রাস করে",
+   "why_en": "From ittila', to climb up and reach the top."
+  },
+  {
+   "pos": 4,
+   "root": "فأد",
+   "lemma": "فُؤاد",
+   "meaning_en": "hearts",
+   "meaning_bn": "হৃদয়সমূহ",
+   "why_en": "The inner heart, the most sensitive part of a person."
+  }
+ ],
+ "lesson_en": "Keep your heart clean of contempt and greed, because the heart is where this punishment reaches.",
+ "lesson_bn": "অন্তরকে অবজ্ঞা ও লোভ থেকে পরিষ্কার রাখুন, কারণ এই শাস্তি অন্তর পর্যন্ত পৌঁছায়।",
+ "real_life_en": "You notice a feeling of satisfaction when someone you dislike fails, or a quiet pride over your bank balance. Treat these as warning signs. Make dua for that person and give a little in charity to clean your heart.",
+ "real_life_bn": "অপছন্দের কেউ ব্যর্থ হলে মনে একটু তৃপ্তি লাগে, বা ব্যাংক ব্যালান্স নিয়ে মনে মনে গর্ব হয়। এগুলোকে সতর্কসংকেত হিসেবে নিন। সেই মানুষটির জন্য দোয়া করুন, আর অন্তর পরিষ্কার করতে সামান্য কিছু দান করুন।",
+ "context_en": "The mocker of ayah 1 hurt people's hearts with his words; here the Fire reaches his own heart.",
+ "context_bn": "১ নম্বর আয়াতের বিদ্রূপকারী কথা দিয়ে মানুষের অন্তরে আঘাত করত; এখানে আগুন তার নিজের অন্তর পর্যন্ত পৌঁছে যায়।",
+ "themes": [
+  "Hell",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "fire"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The fire penetrates the bodies until it reaches their hearts.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "In this world fire kills before reaching the heart; in Hell it reaches the heart while the person is alive and he does not die.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan",
+    "qe-bengali-zakaria",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Jalalayn: the pain is most severe because of the delicate nature of the heart.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Tattali'u comes from ittila', to climb and reach the top; af'idah is the plural of fu'ad, heart.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "The context line linking the mocker's hurtful words to his own heart is an editorial connection, not stated in a source."
+ ]
+}

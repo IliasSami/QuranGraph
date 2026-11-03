@@ -1,0 +1,78 @@
+{
+ "id": "82:9",
+ "simple_en": "\"No indeed.\" It is not as the deceived person thinks. The real reason behind his carelessness is that he denies the Day of Recompense, so he does not work for it. The Bangla footnotes, citing Ibn Kathir, say what fooled him was the idea that there is no reckoning after this life. Al-Sa'di adds: even after all this reminding, they keep denying, yet they will surely be held to account.",
+ "simple_bn": "\"কখনো নয়!\" ধোঁকাগ্রস্ত মানুষ যেমন ভাবে, ব্যাপারটা তেমন নয়। তার উদাসীনতার আসল কারণ হলো, সে প্রতিদান দিবসকে অস্বীকার করে, তাই এর জন্য আমল করে না। বাংলা টীকায় ইবনে কাসীরের বরাতে বলা হয়েছে, তাকে ধোঁকায় ফেলেছে এই ধারণা যে, এই জীবনের পর আর কোনো হিসাব নেই। আস-সা'দী যোগ করেন: এত উপদেশের পরও তারা অস্বীকার করেই চলে, অথচ তাদের হিসাব দিতেই হবে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "كذب",
+   "lemma": "كَذَّبَ",
+   "meaning_en": "you deny",
+   "meaning_bn": "তোমরা অস্বীকার করো",
+   "why_en": "Takdhib is calling something a lie, here the coming judgement."
+  },
+  {
+   "pos": 4,
+   "root": "دين",
+   "lemma": "دِين",
+   "meaning_en": "the Recompense",
+   "meaning_bn": "প্রতিদান",
+   "why_en": "Here din means repayment for deeds on the Day of Judgement."
+  }
+ ],
+ "lesson_en": "Carelessness about sin usually grows from forgetting the Day of Judgement. Keep that Day in mind.",
+ "lesson_bn": "গুনাহের ব্যাপারে উদাসীনতা সাধারণত জন্মায় বিচার দিবসকে ভুলে যাওয়া থেকে। সেই দিনটি মনে রাখুন।",
+ "real_life_en": "A shop owner gets used to cheating a little on weights because no one ever checks. He tells himself it is nothing. When he really thinks about standing before Allah, the excuse falls apart. He fixes his scale the same day.",
+ "real_life_bn": "এক দোকানদার ওজনে একটু কম দেওয়ায় অভ্যস্ত হয়ে গেছেন, কারণ কেউ কখনো যাচাই করে না। নিজেকে বলেন, এটা কিছুই না। কিন্তু আল্লাহর সামনে দাঁড়ানোর কথা গভীরভাবে ভাবতেই অজুহাতটা ভেঙে পড়ে। সেদিনই তিনি দাঁড়িপাল্লা ঠিক করে নেন।",
+ "themes": [
+  "judgment",
+  "disbelief",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "disbelievers of Makkah"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Recompense"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The matter is not as the deceived one thought; he denies the day of recompense and does not work for it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "What deceived them is the idea that there is no recompense or judgement after this world.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: despite the reminding they continue to deny, though they must be held to account.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

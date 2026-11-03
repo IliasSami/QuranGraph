@@ -1,0 +1,85 @@
+{
+ "id": "2:18",
+ "simple_en": "Their inner state is summed up in three words. They are deaf: they do not hear the truth in order to accept it. They are dumb: they do not speak the truth. They are blind: they do not see the light of guidance. So they do not return. Sa'di explains why: they left the truth after knowing it. Someone who left it out of ignorance is closer to coming back.",
+ "simple_bn": "তাদের ভেতরের অবস্থা তিনটি শব্দে বলা হয়েছে। তারা বধির: মেনে নেওয়ার মন নিয়ে সত্য শোনে না। তারা বোবা: সত্য কথা বলে না। তারা অন্ধ: হিদায়াতের আলো দেখে না। তাই তারা ফিরে আসে না। সা'দী কারণটি বলেছেন: তারা সত্য জেনেও তা ছেড়েছে। যে না জেনে সত্য ছেড়েছে, সে ফিরে আসার বেশি কাছাকাছি থাকে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "صمم",
+   "lemma": "أَصَمّ",
+   "meaning_en": "deaf",
+   "meaning_bn": "বধির",
+   "why_en": "Deaf to the truth in the sense of not listening to accept it."
+  },
+  {
+   "pos": 2,
+   "root": "بكم",
+   "lemma": "أَبْكَم",
+   "meaning_en": "dumb, mute",
+   "meaning_bn": "বোবা",
+   "why_en": "Unable to speak the truth and good."
+  },
+  {
+   "pos": 3,
+   "root": "عمي",
+   "lemma": "أَعْمَى",
+   "meaning_en": "blind",
+   "meaning_bn": "অন্ধ",
+   "why_en": "Blind to the light of guidance, though their eyes work."
+  },
+  {
+   "pos": 6,
+   "root": "رجع",
+   "lemma": "رَجَعَ",
+   "meaning_en": "they return",
+   "meaning_bn": "তারা ফিরে আসে",
+   "why_en": "They do not come back to the faith they left."
+  }
+ ],
+ "lesson_en": "Use your hearing, speech and sight for the truth, because faculties that are never used for it slowly stop serving you.",
+ "lesson_bn": "নিজের শোনা, বলা আর দেখার শক্তিকে সত্যের জন্য ব্যবহার করুন, কারণ যা কখনো সত্যের কাজে লাগে না, তা ধীরে ধীরে আপনার কাজে আসাও বন্ধ করে দেয়।",
+ "real_life_en": "During the Friday khutbah you notice you are scrolling through your phone in your head, half listening. You put the phone away, sit closer and listen properly. Afterwards you share one point from it with your family at lunch.",
+ "real_life_bn": "জুমার খুতবার সময় খেয়াল করলেন, মন পড়ে আছে ফোনে, অর্ধেক শুনছেন। আপনি ফোন সরিয়ে রাখলেন, একটু সামনে বসলেন আর মন দিয়ে শুনলেন। পরে দুপুরের খাবারের সময় খুতবার একটি কথা পরিবারকে বললেন।",
+ "context_en": "This completes the fire parable of 2:17.",
+ "context_bn": "এটি ২:১৭-এর আগুনের দৃষ্টান্তকে সম্পূর্ণ করে।",
+ "themes": [
+  "hypocrisy",
+  "misguidance",
+  "human nature"
+ ],
+ "kinds": [
+  "parable",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "They are deaf to hearing and accepting the truth, mute in speaking it, blind to seeing the light of guidance, so they do not return from error.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "They do not return because they left the truth after knowing it, unlike one who left it out of ignorance, who is closer to returning.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

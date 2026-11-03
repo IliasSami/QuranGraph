@@ -1,0 +1,78 @@
+{
+ "id": "85:5",
+ "simple_en": "The ditch is described as a fire full of fuel. They kept it burning strongly, and threw the believers into it alive. Al-Sa'di says this ayah explains what the ditch was: a pit of blazing fire made for the believers.",
+ "simple_bn": "গর্তটিকে বর্ণনা করা হয়েছে ইন্ধনে ভরা আগুন হিসেবে। তারা আগুনকে প্রবলভাবে জ্বালিয়ে রেখেছিল, আর মু'মিনদের জীবন্ত অবস্থায় তাতে ফেলে দিয়েছিল। সা'দী বলেন, এই আয়াত বুঝিয়ে দেয় গর্তটি কী ছিল: মু'মিনদের জন্য প্রস্তুত করা জ্বলন্ত আগুনের কুণ্ড।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "نور",
+   "lemma": "نار",
+   "meaning_en": "the fire",
+   "meaning_bn": "আগুন",
+   "why_en": "Jalalayn notes 'the fire' explains what the ditch was."
+  },
+  {
+   "pos": 3,
+   "root": "وقد",
+   "lemma": "وَقُود",
+   "meaning_en": "fuel",
+   "meaning_bn": "ইন্ধন",
+   "why_en": "The fire was kept fed with fuel so it would keep blazing."
+  }
+ ],
+ "lesson_en": "Cruelty against believers can be extreme. Remember them, value your faith, and never take part in oppression.",
+ "lesson_bn": "মু'মিনদের উপর নিষ্ঠুরতা চরম হতে পারে। তাদের কথা মনে রাখুন, নিজের ঈমানের মূল্য দিন, আর কখনো জুলুমে অংশ নেবেন না।",
+ "real_life_en": "You read online about people somewhere being harmed for what they believe. It is easy to scroll past. This ayah reminds you that Allah records such cruelty. You pause to make dua for those who are oppressed, and you decide never to join in mocking anyone for their faith.",
+ "real_life_bn": "অনলাইনে পড়লেন, কোথাও মানুষকে তাদের বিশ্বাসের জন্য কষ্ট দেওয়া হচ্ছে। স্ক্রল করে চলে যাওয়া সহজ। এই আয়াত মনে করিয়ে দেয়, আল্লাহ এমন নিষ্ঠুরতা লিখে রাখেন। আপনি থেমে নির্যাতিতদের জন্য দোয়া করেন, আর ঠিক করেন, কাউকে তার ঈমানের জন্য কখনো ঠাট্টা করবেন না।",
+ "themes": [
+  "past nations",
+  "trials",
+  "justice"
+ ],
+ "kinds": [
+  "story"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "People of the Ditch"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "the burning of the believers in the ditch"
+  ],
+  "things": [
+   "fire"
+  ]
+ },
+ "claims": [
+  {
+   "text": "They lit a fire in the ditch and threw the believers into it alive.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The fire abounded in fuel; 'the fire' is a substitution explaining the ditch.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: Allah explained the ditch by saying 'the fire full of fuel'.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

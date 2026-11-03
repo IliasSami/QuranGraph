@@ -1,0 +1,78 @@
+{
+ "id": "78:13",
+ "simple_en": "Allah made a blazing lamp: the sun. It gives light to all the people of the earth. Al-Sa'di points out two blessings in the two words. \"Lamp\" points to its light, which all creatures need, and \"blazing\" points to its heat, which ripens crops and brings many other benefits.",
+ "simple_bn": "আল্লাহ বানিয়েছেন একটি প্রজ্বলিত প্রদীপ: সূর্য। এটি পৃথিবীর সব মানুষকে আলো দেয়। আস-সা'দী দুটি শব্দে দুটি নিয়ামতের কথা বলেছেন। \"প্রদীপ\" শব্দটি এর আলোর দিকে ইঙ্গিত করে, যা সব সৃষ্টির প্রয়োজন, আর \"প্রজ্বলিত\" শব্দটি এর তাপের দিকে ইঙ্গিত করে, যা ফসল পাকায় এবং আরো অনেক উপকার আনে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سرج",
+   "lemma": "سِراج",
+   "meaning_en": "a lamp",
+   "meaning_bn": "প্রদীপ",
+   "why_en": "The sun is called a lamp because its light is a blessing every creature depends on."
+  },
+  {
+   "pos": 3,
+   "root": "وهج",
+   "lemma": "وَهّاج",
+   "meaning_en": "blazing, burning bright",
+   "meaning_bn": "প্রজ্বলিত, দীপ্তিমান",
+   "why_en": "Wahhaj adds heat to the light, the warmth that ripens food and gives benefit."
+  }
+ ],
+ "lesson_en": "Every sunrise is a gift of light and warmth from Allah; let it lead you to thank Him.",
+ "lesson_bn": "প্রতিটি সূর্যোদয় আল্লাহর দেওয়া আলো ও উষ্ণতার উপহার; এটি আপনাকে তাঁর শুকরিয়ার দিকে নিয়ে যাক।",
+ "real_life_en": "A farmer watches his rice fields turn golden over the weeks of sunshine. When he cuts the harvest, he remembers that he planted and watered, but the sun that ripened the grain was set in the sky by Allah. He says \"Alhamdulillah\" before selling a single sack.",
+ "real_life_bn": "এক কৃষক সপ্তাহের পর সপ্তাহ রোদে তার ধানক্ষেত সোনালি হয়ে উঠতে দেখেন। ফসল কাটার সময় তিনি মনে করেন, তিনি বীজ বুনেছেন, পানি দিয়েছেন, কিন্তু যে সূর্য ধান পাকিয়েছে তা আকাশে স্থাপন করেছেন আল্লাহ। একটি বস্তাও বিক্রি করার আগে তিনি বলেন \"আলহামদুলিল্লাহ\"।",
+ "themes": [
+  "signs in nature",
+  "creation",
+  "gratitude",
+  "Allah's power"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the sun"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah made the sun an extremely bright and hot lamp.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The sun is a radiant lamp that gives light to all the people of the earth.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Sa'di: 'lamp' points to the blessing of its light, needed by creation; 'wahhaj', its heat, points to ripening and other benefits.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

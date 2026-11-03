@@ -1,0 +1,82 @@
+{
+ "id": "93:10",
+ "simple_en": "Next: do not scold the one who asks. The asker may be a poor person asking for help; give him what you can, or turn him away gently with kind words. The asker may also be someone asking about the religion; answer him patiently and kindly, even if his question is clumsy. Sa'di says this is why a teacher must be gentle with his student.",
+ "simple_bn": "এরপর: যে চায় তাকে ধমক দেবেন না। প্রার্থী হতে পারে কোনো অভাবী, যে সাহায্য চায়; যা পারেন তাকে দিন, নয়তো নরম কথায় সুন্দরভাবে ফিরিয়ে দিন। প্রার্থী হতে পারে দ্বীন সম্পর্কে কিছু জানতে চাওয়া কেউ; তার প্রশ্ন অগোছালো হলেও ধৈর্য ও কোমলতার সঙ্গে উত্তর দিন। সা'দী বলেন, এ কারণেই শিক্ষককে ছাত্রের সঙ্গে নম্র হতে হয়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سأل",
+   "lemma": "سائِل",
+   "meaning_en": "the one who asks",
+   "meaning_bn": "প্রার্থী",
+   "why_en": "Covers one who asks for money and one who asks for knowledge."
+  },
+  {
+   "pos": 4,
+   "root": "نهر",
+   "lemma": "تَنْهَرْ",
+   "meaning_en": "scold, repel",
+   "meaning_bn": "ধমক দেওয়া",
+   "why_en": "Nahr is driving someone away with harsh words."
+  }
+ ],
+ "lesson_en": "Whether people ask you for help or for knowledge, never answer them harshly.",
+ "lesson_bn": "মানুষ আপনার কাছে সাহায্য চাক বা জ্ঞান চাক, কখনো তাদের কর্কশভাবে উত্তর দেবেন না।",
+ "real_life_en": "A man knocks on your door asking for money while you are rushing to work. You cannot give much, but you give a little with a smile, or apologise politely. Later, your younger brother asks a basic question about wudu for the third time, and you explain again calmly.",
+ "real_life_bn": "অফিসে যাওয়ার তাড়ার মধ্যে একজন দরজায় এসে টাকা চাইলেন। বেশি দিতে না পারলেও হাসিমুখে অল্প কিছু দিলেন, নয়তো নম্রভাবে দুঃখ প্রকাশ করলেন। পরে ছোট ভাই তৃতীয়বারের মতো অজুর একটি সাধারণ প্রশ্ন করল, আর আপনি শান্তভাবে আবার বুঝিয়ে দিলেন।",
+ "themes": [
+  "charity",
+  "good character",
+  "knowledge",
+  "humility"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Do not rebuke the needy beggar; rather feed him and fulfil his need.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Give him what is easy, or turn him away kindly and politely.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "The asker includes one who asks for knowledge; he must be answered kindly; Sa'di: so the teacher is commanded to have good character with the student.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

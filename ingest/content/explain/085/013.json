@@ -1,0 +1,78 @@
+{
+ "id": "85:13",
+ "simple_en": "It is Allah alone who begins creation and then brings it back again. Ahsanul Bayan explains that He created everything the first time by His full power, and on the Day of Resurrection He will create it again just as He did the first time. Al-Mukhtasar adds that He also begins punishment and repeats it. Al-Sa'di stresses that no one shares this with Him.",
+ "simple_bn": "একমাত্র আল্লাহই সৃষ্টির সূচনা করেন, তারপর আবার তা ফিরিয়ে আনেন। আহসানুল বয়ান বলে, তিনি নিজের পূর্ণ শক্তিতে প্রথমবার সবকিছু সৃষ্টি করেছেন, আর কিয়ামতের দিন ঠিক সেভাবেই আবার সৃষ্টি করবেন। আল-মুখতাসার যোগ করেছে, তিনি শাস্তিরও সূচনা করেন এবং তা পুনরায় ঘটান। সা'দী জোর দিয়ে বলেন, এতে তাঁর কোনো অংশীদার নেই।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "بدأ",
+   "lemma": "يُبْدِئُ",
+   "meaning_en": "He begins, originates",
+   "meaning_bn": "তিনি সূচনা করেন",
+   "why_en": "He brings creation into being the first time."
+  },
+  {
+   "pos": 4,
+   "root": "عود",
+   "lemma": "أُعِيدُ",
+   "meaning_en": "He brings back, repeats",
+   "meaning_bn": "তিনি পুনরায় ফিরিয়ে আনেন",
+   "why_en": "The One who began creation can easily bring it back on the Day of Resurrection."
+  }
+ ],
+ "lesson_en": "The One who created you from nothing can surely raise you again. Let that certainty shape how you live.",
+ "lesson_bn": "যিনি আপনাকে শূন্য থেকে সৃষ্টি করেছেন, তিনি অবশ্যই আপনাকে আবার জীবিত করতে পারেন। এই দৃঢ় বিশ্বাস যেন আপনার জীবনকে গড়ে তোলে।",
+ "real_life_en": "In spring you see a tree that looked dead all winter covered in new leaves. You remember that Allah begins creation and brings it back. Doubts about life after death feel weaker, and you remind yourself to prepare for the day He brings you back too.",
+ "real_life_bn": "শীতে যে গাছটা মরা মনে হচ্ছিল, বসন্তে দেখলেন তা নতুন পাতায় ভরে গেছে। মনে পড়ল, আল্লাহ সৃষ্টির সূচনা করেন এবং তা ফিরিয়ে আনেন। মৃত্যুর পরের জীবন নিয়ে সন্দেহ দুর্বল হয়ে যায়, আর নিজেকে মনে করিয়ে দেন, যেদিন তিনি আপনাকেও ফিরিয়ে আনবেন, তার জন্য প্রস্তুত হতে হবে।",
+ "themes": [
+  "creation",
+  "resurrection",
+  "Allah's power",
+  "tawhid"
+ ],
+ "kinds": [
+  "description-of-allah",
+  "creation",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "resurrection"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He begins the creation and the punishment and repeats them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "He originates creation and then restores it just as He began it, by His full power, on the Day of Resurrection.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: He alone begins and repeats creation; no partner shares that with Him.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

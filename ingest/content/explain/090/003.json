@@ -1,0 +1,81 @@
+{
+ "id": "90:3",
+ "simple_en": "Allah also swears by a father and what he fathered. Al-Mukhtasar and most commentators say the father is Adam (peace be upon him), father of all people, and \"what he fathered\" is all his children, from the first to the last. Ibn Kathir notes how this fits: after swearing by the city, Allah swears by those who live in it. Abu 'Imran al-Jawni said Ibrahim (peace be upon him) and his children are meant, and Ibn Jarir preferred it as general: every father and child.",
+ "simple_bn": "আল্লাহ আরও শপথ করছেন জন্মদাতা ও তার জন্ম দেওয়া সন্তানের। আল-মুখতাসার ও অধিকাংশ মুফাসসির বলেন, জন্মদাতা হলেন সব মানুষের পিতা আদম (আলাইহিস সালাম), আর 'যা সে জন্ম দিয়েছে' মানে প্রথম থেকে শেষ পর্যন্ত তাঁর সব সন্তান। ইবনে কাসীর দেখিয়েছেন এটি কীভাবে মিলে যায়: নগরের শপথের পর আল্লাহ তার অধিবাসীদের শপথ করছেন। আবু ইমরান আল-জাওনী বলেছেন, ইবরাহীম (আলাইহিস সালাম) ও তাঁর বংশধর উদ্দেশ্য; আর ইবনে জারীর একে ব্যাপক অর্থে নিয়েছেন: প্রত্যেক পিতা ও সন্তান।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ولد",
+   "lemma": "والِد",
+   "meaning_en": "a father, begetter",
+   "meaning_bn": "জন্মদাতা",
+   "why_en": "Most say Adam, the father of humanity."
+  },
+  {
+   "pos": 3,
+   "root": "ولد",
+   "lemma": "وَلَدَ",
+   "meaning_en": "he fathered",
+   "meaning_bn": "সে জন্ম দিয়েছে",
+   "why_en": "Same root: all the children who came from him."
+  }
+ ],
+ "lesson_en": "All people come from Adam, so treat every person with the respect you give family.",
+ "lesson_bn": "প্রত্যেক মানুষ আদম (আলাইহিস সালাম)-এর বংশধর এক পরিবারের অংশ; তাই মানুষের সাথে আত্মীয়ের মতো সম্মানের আচরণ করুন।",
+ "real_life_en": "At work, a cleaner from another country is often ignored or spoken to rudely. You remember that Allah swore by Adam and all his children, that cleaner included. You start greeting him by name and asking about his family.",
+ "real_life_bn": "অফিসে অন্য দেশ থেকে আসা একজন পরিচ্ছন্নতাকর্মীকে প্রায়ই সবাই উপেক্ষা করে বা রূঢ়ভাবে কথা বলে। আপনার মনে পড়ল, আল্লাহ আদম ও তাঁর সব সন্তানের শপথ করেছেন, সেই কর্মীও তাদের একজন। আপনি তাকে নাম ধরে সালাম দিতে আর তার পরিবারের খোঁজ নিতে শুরু করলেন।",
+ "themes": [
+  "creation",
+  "human nature",
+  "brotherhood"
+ ],
+ "kinds": [
+  "oath"
+ ],
+ "entities": {
+  "people": [
+   "Adam",
+   "Ibrahim"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah takes an oath on the father of humanity and his offspring.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Mujahid and many others: the begetter is Adam and what he begot is his children; Ibn Kathir calls this good and strong and links it to swearing by the city, then its dwellers.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Abu 'Imran al-Jawni: Ibrahim and his progeny; Ibn Jarir preferred it as general, every father and child.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": true,
+ "differ_note_en": "Mujahid, Qatadah, al-Hasan and most, with Al-Mukhtasar: Adam and his descendants. Abu 'Imran al-Jawni: Ibrahim and his descendants. Ibn Jarir: every father and his child.",
+ "differ_note_bn": "মুজাহিদ, কাতাদা, হাসান ও অধিকাংশ, এবং আল-মুখতাসার: আদম ও তাঁর বংশধর। আবু ইমরান আল-জাওনী: ইবরাহীম ও তাঁর বংশধর। ইবনে জারীর: প্রত্যেক পিতা ও তার সন্তান।",
+ "confidence": 0.9,
+ "uncertain": []
+}

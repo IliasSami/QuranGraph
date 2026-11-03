@@ -1,0 +1,78 @@
+{
+ "id": "79:35",
+ "simple_en": "On that Day every person will remember what they strove for in the world, good and bad. Al-Muyassar says each person's deeds will be shown to them, and they will admit them. Al-Sa'di says a person will wish for one more atom's weight of good and grieve over one more atom's weight of bad. Every link of this world will be cut, except deeds.",
+ "simple_bn": "সেদিন প্রত্যেক মানুষ মনে করবে, দুনিয়াতে সে কী কী চেষ্টা করেছে, ভালো ও মন্দ। আল-মুয়াসসার বলেছে, প্রত্যেকের আমল তার সামনে তুলে ধরা হবে, আর সে তা স্বীকার করবে। আস-সা'দী বলেছেন, মানুষ চাইবে তার নেকি যদি আর এক অণু পরিমাণ বেশি হতো, আর এক অণু পরিমাণ বাড়তি গুনাহের জন্যও দুঃখ করবে। দুনিয়ার সব সম্পর্ক ছিন্ন হয়ে যাবে, থাকবে শুধু আমল।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ذكر",
+   "lemma": "تَذَكَّرَ",
+   "meaning_en": "will remember",
+   "meaning_bn": "স্মরণ করবে",
+   "why_en": "Everything forgotten in the rush of life comes back to mind."
+  },
+  {
+   "pos": 5,
+   "root": "سعي",
+   "lemma": "سَعَى",
+   "meaning_en": "he strove for",
+   "meaning_bn": "সে যা করেছে",
+   "why_en": "Sa'y is effort; a person meets the result of where their effort went."
+  }
+ ],
+ "lesson_en": "Every deed, however small, will be remembered, so fill your days with good you will be glad to recall.",
+ "lesson_bn": "প্রতিটি কাজ, যত ছোটই হোক, মনে পড়বে, তাই দিনগুলো এমন ভালো কাজে ভরুন, যা মনে পড়লে খুশি হবেন।",
+ "real_life_en": "At the end of each day, you take two minutes before sleeping to think back: what good did I do, and what do I regret? You ask Allah's forgiveness for the mistakes and plan one kind act for tomorrow.",
+ "real_life_bn": "প্রতিদিন ঘুমানোর আগে দুই মিনিট সময় নিয়ে ভাবেন: আজ কী ভালো করলাম, আর কোন কাজের জন্য আফসোস হচ্ছে? ভুলগুলোর জন্য আল্লাহর কাছে ক্ষমা চান, আর আগামীকালের জন্য একটি সদয় কাজের পরিকল্পনা করেন।",
+ "themes": [
+  "the Last Day",
+  "judgment",
+  "reflection",
+  "repentance"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "the Day of Judgment"
+  ],
+  "things": [
+   "deeds"
+  ]
+ },
+ "claims": [
+  {
+   "text": "On that day the human will remember the deeds he sent forth, good or bad.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "al-Muyassar: all his deeds will be shown to him, and he will remember and admit them.",
+   "sources": [
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: he will wish for an atom's weight more of good and grieve over an atom's weight more of bad; every link of the world will be cut except deeds.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

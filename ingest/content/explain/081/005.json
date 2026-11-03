@@ -1,0 +1,77 @@
+{
+ "id": "81:5",
+ "simple_en": "Fifth: the wild animals will be gathered together with human beings on one plain. Al-Sa'di and al-Muyassar say they are gathered so that Allah can settle what was between them, letting one take its due from another, to show His complete justice. Jalalayn adds that after this they become dust.",
+ "simple_bn": "পঞ্চম: বন্য পশুগুলোকে মানুষের সঙ্গে একই ময়দানে একত্র করা হবে। আস-সা'দী ও আল-মুয়াসসার বলেন, তাদের একত্র করা হবে যেন আল্লাহ তাদের পরস্পরের মধ্যকার হিসাব মিটিয়ে দেন, একজনের পাওনা আরেকজনের কাছ থেকে আদায় করে দেন, আর এভাবে তাঁর পরিপূর্ণ ন্যায়বিচার দেখান। জালালাইন যোগ করেছেন, এরপর সেগুলো মাটিতে পরিণত হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "وحش",
+   "lemma": "وُحُوش",
+   "meaning_en": "wild animals",
+   "meaning_bn": "বন্য পশু",
+   "why_en": "Animals that normally run from people will stand beside them on that Day."
+  },
+  {
+   "pos": 3,
+   "root": "حشر",
+   "lemma": "حَشَرَ",
+   "meaning_en": "are gathered",
+   "meaning_bn": "একত্র করা হবে",
+   "why_en": "Hashr is the great gathering of all creatures on the Day of Resurrection."
+  }
+ ],
+ "lesson_en": "Allah's justice is so complete that even animals get their due. So no wrong done by a person will be missed.",
+ "lesson_bn": "আল্লাহর ন্যায়বিচার এতটাই পূর্ণ যে পশুদের মধ্যকার অন্যায়েরও মীমাংসা হবে; তাহলে মানুষের করা কোনো অন্যায়ই বাদ পড়বে না।",
+ "real_life_en": "You see someone kick a stray dog. People often hurt those who cannot complain. But Allah will settle even the wrongs between animals. So you become more careful with everyone weaker than you: the house help, a younger brother or sister, the street cat by your door.",
+ "real_life_bn": "দেখলেন কেউ একটা রাস্তার কুকুরকে লাথি মারল, আর ভাবলেন, যারা নালিশ করতে পারে না তাদের সাথে মানুষ কত সহজে খারাপ ব্যবহার করে। আল্লাহ পশুদের পারস্পরিক অন্যায়েরও বিচার করবেন, এ কথা মনে রাখলে আপনি নিজের চেয়ে দুর্বল সবার প্রতি আরও সতর্ক হন: বাসার কাজের সহকারী, ছোট ভাইবোন, দরজার পাশের রাস্তার প্রাণীটি।",
+ "themes": [
+  "the Last Day",
+  "resurrection",
+  "justice"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Resurrection"
+  ],
+  "things": [
+   "wild animals"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Wild animals will be gathered with human beings on one plain.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "They are gathered so that Allah may let some take retribution from others, showing His perfect justice.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Jalalayn: after retaliating against each other they become dust.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": []
+}

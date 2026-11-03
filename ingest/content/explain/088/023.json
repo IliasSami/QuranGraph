@@ -1,0 +1,73 @@
+{
+ "id": "88:23",
+ "simple_en": "But as for the one who turns away and disbelieves. Al-Mukhtasar describes him as one who turns away from faith and rejects Allah and His Messenger ﷺ. Ibn Kathir explains that he turns away from acting on the pillars of the religion and denies the truth with his heart and tongue. Al-Muyassar adds that he turns from the reminder and insists on disbelief.",
+ "simple_bn": "তবে যে মুখ ফিরিয়ে নেয় এবং কুফরি করে। আল-মুখতাসার তাকে বর্ণনা করেছে এমন ব্যক্তি হিসেবে, যে ঈমান থেকে বিমুখ হয় এবং আল্লাহ ও তাঁর রাসূল ﷺ-কে অস্বীকার করে। ইবনে কাসীর ব্যাখ্যা করেন, সে দ্বীনের রুকনগুলোর উপর আমল থেকে মুখ ফিরিয়ে নেয় এবং অন্তর ও মুখ দিয়ে সত্যকে অস্বীকার করে। আল-মুয়াসসার যোগ করে, সে উপদেশ থেকে মুখ ফিরিয়ে কুফরিতে অটল থাকে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "ولي",
+   "lemma": "تَوَلَّى",
+   "meaning_en": "turned away",
+   "meaning_bn": "মুখ ফিরিয়ে নিয়েছে",
+   "why_en": "Turning one's back on the reminder after it reaches him."
+  },
+  {
+   "pos": 4,
+   "root": "كفر",
+   "lemma": "كَفَرَ",
+   "meaning_en": "disbelieved",
+   "meaning_bn": "কুফরি করেছে",
+   "why_en": "From a root meaning to cover: covering up the truth."
+  }
+ ],
+ "lesson_en": "Turning away from the truth after it reaches you is the real danger; when you hear a reminder, turn toward it.",
+ "lesson_bn": "সত্য পৌঁছানোর পর তা থেকে মুখ ফিরিয়ে নেওয়াই আসল বিপদ; উপদেশ শুনলে তার দিকে ফিরে আসুন।",
+ "real_life_en": "A reminder about the rights of your parents comes up in Friday khutbah, and it hits home. Your first instinct is to brush it off. Instead you call your mother that evening, apologise for being short with her, and ask how she is.",
+ "real_life_bn": "জুমআর খুতবায় বাবা-মায়ের হক নিয়ে একটি কথা এলো, যা আপনার মনে লাগল। প্রথমে মনে হলো পাশ কাটিয়ে যাই। কিন্তু তা না করে সেদিন সন্ধ্যায় মাকে ফোন দিলেন, তার সাথে রূঢ় আচরণের জন্য মাফ চাইলেন, আর তার খোঁজখবর নিলেন।",
+ "themes": [
+  "disbelief",
+  "misguidance"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who turn away from faith and reject Allah and His messenger.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: he turns away from acting upon its pillars and disbelieves in the truth with his heart and tongue.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "He turned from the reminder and admonition and persisted in disbelief.",
+   "sources": [
+    "qe-arabic-moyassar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.91,
+ "uncertain": []
+}

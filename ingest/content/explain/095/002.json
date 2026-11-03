@@ -1,0 +1,77 @@
+{
+ "id": "95:2",
+ "simple_en": "The second oath is by Mount Tur in Sinai. This is the mountain where Allah spoke to Musa (peace be upon him). So, like the land of the fig and the olive, it is a place tied to a great prophet and to revelation. Jalalayn adds that the word Sinin carries the sense of \"blessed\" or \"beautiful, with fruitful trees\".",
+ "simple_bn": "দ্বিতীয় শপথটি সিনাই অঞ্চলের তূর পাহাড়ের। এটি সেই পাহাড়, যেখানে আল্লাহ মূসা (আলাইহিস সালাম)-এর সাথে কথা বলেছিলেন। তাই তীন ও যায়তুনের ভূমির মতো এটিও একজন মহান নবী ও ওহীর সাথে জড়িত স্থান। জালালাইন বলেন, 'সীনীন' শব্দে 'বরকতময়' বা 'ফলবান গাছে সুন্দর' অর্থের ইঙ্গিত আছে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "طور",
+   "lemma": "طُور",
+   "meaning_en": "Mount Tur",
+   "meaning_bn": "তূর পাহাড়",
+   "why_en": "The mountain where Allah spoke to Musa."
+  },
+  {
+   "pos": 2,
+   "root": "",
+   "lemma": "سِينِين",
+   "meaning_en": "Sinai",
+   "meaning_bn": "সিনাই, সীনীন",
+   "why_en": "Names the region of the mountain; Jalalayn notes it can mean blessed."
+  }
+ ],
+ "lesson_en": "A place is honoured when Allah sends His guidance there. So His words are precious.",
+ "lesson_bn": "যেসব স্থানে আল্লাহ তাঁর হিদায়াত পাঠিয়েছেন, সেগুলো সম্মানিত হয়েছে সেই হিদায়াতের কারণেই; এটা মনে করিয়ে দেয় ওহী কত মূল্যবান।",
+ "real_life_en": "When you open the Quran on a busy evening, remember that Allah honoured a whole mountain because He spoke to Musa there. The words in your hands are His words too. Read a few ayat slowly, as something precious, not as a box to tick.",
+ "real_life_bn": "ব্যস্ত কোনো সন্ধ্যায় কুরআন খুললে মনে রাখুন, আল্লাহ মূসা (আলাইহিস সালাম)-এর সাথে কথা বলেছিলেন বলে একটি পুরো পাহাড়কে সম্মানিত করেছেন। আপনার হাতের কথাগুলোও তাঁরই বাণী। কয়েকটি আয়াত ধীরে ধীরে পড়ুন, মূল্যবান কিছু হিসেবে, শুধু দায়সারা কাজ হিসেবে নয়।",
+ "themes": [
+  "prophethood",
+  "revelation",
+  "stories of the prophets"
+ ],
+ "kinds": [
+  "oath"
+ ],
+ "entities": {
+  "people": [
+   "Musa"
+  ],
+  "nations": [],
+  "places": [
+   "Mount Sinai"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Allah speaking to Musa"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah swears by Mount Sinai, where He spoke to Musa.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: Tur Sinin is Tur Sina, the place of Musa's prophethood.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Jalalayn: sinin means 'the blessed one' or 'the fair one with fruitful trees'.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

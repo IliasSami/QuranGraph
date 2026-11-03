@@ -1,0 +1,84 @@
+{
+ "id": "114:5",
+ "simple_en": "He whispers into people's hearts. Al-Muyassar says he spreads evil and doubts in their breasts. Sa'di explains how: he makes evil look beautiful, stirs the desire to do it, and makes good deeds look heavy or different from what they are. Ibn Kathir reports a man who complained of terrible thoughts; the Prophet ﷺ praised Allah, who had reduced Satan's plot to mere whispering (Ahmad, Abu Dawud).",
+ "simple_bn": "সে মানুষের অন্তরে কুমন্ত্রণা দেয়। আল-মুয়াসসার বলেছে, সে মানুষের বুকে মন্দ ও সন্দেহ ছড়িয়ে দেয়। সা'দী এর ধরন ব্যাখ্যা করেছেন: সে মন্দকে সুন্দর করে দেখায়, তা করার ইচ্ছা জাগায়, আর ভালো কাজকে ভারী বা ভিন্নরূপে দেখায়। ইবনে কাসীর বর্ণনা করেছেন, এক ব্যক্তি ভয়ংকর চিন্তার অভিযোগ করলে নবী ﷺ আল্লাহর প্রশংসা করলেন, যিনি শয়তানের চক্রান্তকে শুধু কুমন্ত্রণায় সীমিত করে দিয়েছেন (আহমাদ, আবু দাউদ)।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "وسوس",
+   "lemma": "وَسْوَسَ",
+   "meaning_en": "whispers",
+   "meaning_bn": "কুমন্ত্রণা দেয়",
+   "why_en": "A hidden suggestion cast into the heart without any voice."
+  },
+  {
+   "pos": 4,
+   "root": "صدر",
+   "lemma": "صَدْر",
+   "meaning_en": "breasts, hearts",
+   "meaning_bn": "বুক, অন্তর",
+   "why_en": "The whisper aims at the inner self, where intentions are formed."
+  }
+ ],
+ "lesson_en": "Unwanted bad thoughts are Satan's whispers, not your faith failing; seek refuge in Allah and do not act on them.",
+ "lesson_bn": "অনিচ্ছাকৃত খারাপ চিন্তা শয়তানের কুমন্ত্রণা, আপনার ঈমানের ব্যর্থতা নয়; আল্লাহর আশ্রয় চান, আর সে অনুযায়ী কাজ করবেন না।",
+ "real_life_en": "A young believer is upset by strange doubts during prayer and fears she has lost her faith. The hadith gives her comfort. Hating such thoughts is itself a sign of faith. She seeks refuge in Allah, keeps praying, and does not follow the whisper.",
+ "real_life_bn": "এক তরুণী নামাজের সময় অদ্ভুত সন্দেহে অস্থির হয়ে পড়ে, ভয় পায় তার ঈমান চলে গেছে। হাদীসটি তাকে সান্ত্বনা দেয়: এমন চিন্তাকে ঘৃণা করাই ঈমানের লক্ষণ। সে আল্লাহর আশ্রয় চায়, নামাজ চালিয়ে যায়, আর কুমন্ত্রণার পেছনে যায় না।",
+ "themes": [
+  "Satan",
+  "human nature",
+  "faith"
+ ],
+ "kinds": [
+  "dua",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Satan"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He whispers to the hearts of people, spreading evil and doubts in their breasts.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: he makes evil look good, energises the will toward it, holds people back from good and shows it in a false form.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ahmad (also Abu Dawud, an-Nasa'i) from Ibn 'Abbas: a man complained of thoughts he would rather fall from the sky than speak; the Prophet ﷺ said 'Allahu akbar' and praised Allah who reduced Satan's plot to whispering.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Whispering means casting a suggestion into the heart without a voice.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": [
+  "The real-life line that hating such thoughts is a sign of faith is drawn from the hadith's praise of Allah; the sources do not state it in those words."
+ ]
+}

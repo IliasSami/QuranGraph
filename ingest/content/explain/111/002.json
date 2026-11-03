@@ -1,0 +1,95 @@
+{
+ "id": "111:2",
+ "simple_en": "Abu Lahab was rich and had many children, and he was proud of both. Ibn Mas'ud reported that he said that even if his nephew's message were true, he would ransom himself with his wealth and children. Allah says neither his wealth nor what he earned helped him at all. Many early scholars, including Ibn 'Abbas, explain \"what he earned\" as his children. Nothing could push away Allah's punishment when it came.",
+ "simple_bn": "আবু লাহাব ছিল ধনী, তার সন্তানও ছিল অনেক, আর দুটো নিয়েই সে গর্ব করত। ইবনে মাসউদ (রা.) থেকে বর্ণিত, সে বলেছিল, ভাতিজার কথা সত্য হলেও সে নিজের সম্পদ আর সন্তান দিয়ে নিজেকে ছাড়িয়ে নেবে। আল্লাহ বলেন, তার সম্পদ বা তার উপার্জন কিছুই তার কাজে আসেনি। ইবনে আব্বাস (রা.)-সহ অনেক পূর্ববর্তী আলেম 'যা সে উপার্জন করেছে' কথাটির ব্যাখ্যা করেছেন তার সন্তান হিসেবে। আল্লাহর শাস্তি যখন এল, কিছুই তা ঠেকাতে পারল না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "غني",
+   "lemma": "أَغْنَى",
+   "meaning_en": "availed, benefited",
+   "meaning_bn": "কাজে এসেছে",
+   "why_en": "Riches could not make him free of need before Allah."
+  },
+  {
+   "pos": 4,
+   "root": "مول",
+   "lemma": "مال",
+   "meaning_en": "his wealth",
+   "meaning_bn": "তার সম্পদ",
+   "why_en": "The wealth that made him arrogant, in Sa'di's words."
+  },
+  {
+   "pos": 6,
+   "root": "كسب",
+   "lemma": "كَسَبَ",
+   "meaning_en": "what he earned",
+   "meaning_bn": "যা সে উপার্জন করেছে",
+   "why_en": "Explained by Ibn 'Abbas and others as his children."
+  }
+ ],
+ "lesson_en": "Money, children and status cannot protect anyone from Allah; only faith and good deeds can.",
+ "lesson_bn": "টাকা, সন্তান বা মর্যাদা কাউকে আল্লাহর পাকড়াও থেকে বাঁচাতে পারে না; পারে শুধু ঈমান ও নেক আমল।",
+ "real_life_en": "A businessman feels safe because of his savings, his property and his sons in good jobs. These are blessings, but they are not a shield. Use your money and raise your children in ways that will help you on the Day when only faith counts.",
+ "real_life_bn": "একজন ব্যবসায়ী নিজের সঞ্চয়, সম্পত্তি আর ভালো চাকরি করা ছেলেদের কারণে নিজেকে নিরাপদ মনে করেন। এগুলো নিয়ামত, কিন্তু ঢাল নয়। সম্পদ এমনভাবে খরচ করুন আর সন্তানদের এমনভাবে গড়ে তুলুন, যা আপনাকে সেই দিনে কাজে দেবে, যেদিন শুধু ঈমানই গণ্য হবে।",
+ "themes": [
+  "wealth",
+  "arrogance",
+  "punishment",
+  "family"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Abu Lahab",
+   "Ibn Mas'ud",
+   "Ibn 'Abbas"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "His wealth and his children did not benefit him; they could not defend him against the punishment nor bring him mercy.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn 'Abbas and others (also reported from 'A'ishah, Mujahid, 'Ata', al-Hasan, Ibn Sirin) said 'what he earned' means his children.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Reported from Ibn Mas'ud: Abu Lahab said that if his nephew's words were true, he would ransom himself with his wealth and children.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "His wealth made him transgress (Sa'di); his wealth and children became causes of pride.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

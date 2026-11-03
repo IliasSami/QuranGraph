@@ -1,0 +1,77 @@
+{
+ "id": "81:10",
+ "simple_en": "Next: the record books will be spread open. Each person's book holds every good and bad deed. On that Day it is opened so that each person can read his own. Al-Sa'di says the books are handed out: some take theirs in the right hand, others in the left hand or from behind their back. Ahsanul Bayan notes that the record is rolled up at death and opened again for the reckoning.",
+ "simple_bn": "এরপর: আমলনামাগুলো খুলে দেওয়া হবে। প্রত্যেকের আমলনামায় আছে তার সব ভালো ও মন্দ কাজ। সেদিন তা খোলা হবে, যেন প্রত্যেকে নিজেরটা পড়তে পারে। আস-সা'দী বলেন, আমলনামা সবার হাতে দেওয়া হবে: কেউ ডান হাতে পাবে, কেউ বাম হাতে বা পিঠের পেছন দিক থেকে। আহসানুল বায়ান বলে, মৃত্যুর সময় আমলনামা গুটিয়ে রাখা হয়, আর হিসাবের জন্য কিয়ামতের দিন আবার খোলা হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "صحف",
+   "lemma": "صُحُف",
+   "meaning_en": "pages, records",
+   "meaning_bn": "আমলনামা",
+   "why_en": "Here they are the written records of each person's deeds."
+  },
+  {
+   "pos": 3,
+   "root": "نشر",
+   "lemma": "نُشِرَتْ",
+   "meaning_en": "are spread open",
+   "meaning_bn": "খুলে দেওয়া হবে",
+   "why_en": "Nashr is unrolling and spreading out, so nothing written stays hidden."
+  }
+ ],
+ "lesson_en": "Every day you are writing your own book. Write in it what you would be glad to read on that Day.",
+ "lesson_bn": "প্রতিদিন আপনি নিজের আমলনামা লিখছেন। তাতে এমন কিছু লিখুন, যা সেদিন পড়ে আপনি খুশি হবেন।",
+ "real_life_en": "Before bed, a young man scrolls back through what he said and did that day. He sees a rude message he sent his mother. He calls her the next morning to apologise. He would rather fix a line now than meet it in his record later.",
+ "real_life_bn": "ঘুমানোর আগে এক তরুণ ভাবে, আজ সারাদিন কী বলেছে আর কী করেছে। মনে পড়ে, মাকে একটা রূঢ় মেসেজ পাঠিয়েছিল। পরদিন সকালে সে মাকে ফোন করে মাফ চায়। সে চায় আমলনামার লাইনটা এখনই শুধরে নিতে, পরে সেখানে দেখার আগে।",
+ "themes": [
+  "the Last Day",
+  "judgment",
+  "repentance"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Resurrection"
+  ],
+  "things": [
+   "records of deeds"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The servants' books of deeds are spread open so that each person can read his book.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: the pages contain the good and evil deeds and are distributed; some take theirs in the right hand, others in the left or from behind the back.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The record is rolled up at death and opened on the Day of Resurrection for the reckoning, given into each person's hand.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

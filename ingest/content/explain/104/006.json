@@ -1,0 +1,89 @@
+{
+ "id": "104:6",
+ "simple_en": "The answer: it is the Fire of Allah, kindled and blazing with fierce flames. Zakaria notes that linking the Fire to Allah's name shows how severe and terrible it is. Sa'di adds that its fuel is people and stones, as another ayah says.",
+ "simple_bn": "উত্তর: এটি আল্লাহর প্রজ্বলিত আগুন, প্রচণ্ড লেলিহান শিখায় জ্বলছে। যাকারিয়া উল্লেখ করেছেন, আগুনটিকে আল্লাহর নামের সঙ্গে যুক্ত করায় বোঝা যায় এটি কত কঠিন ও ভয়াবহ। সা'দী যোগ করেন, অন্য এক আয়াতে যেমন বলা হয়েছে, এর ইন্ধন হবে মানুষ ও পাথর।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "نور",
+   "lemma": "نار",
+   "meaning_en": "fire",
+   "meaning_bn": "আগুন",
+   "why_en": "Al-Hutamah is explained as a Fire."
+  },
+  {
+   "pos": 2,
+   "root": "أله",
+   "lemma": "اللَّه",
+   "meaning_en": "of Allah",
+   "meaning_bn": "আল্লাহর",
+   "why_en": "Linking it to Allah shows its severity."
+  },
+  {
+   "pos": 3,
+   "root": "وقد",
+   "lemma": "مُوقَدَة",
+   "meaning_en": "kindled, blazing",
+   "meaning_bn": "প্রজ্বলিত",
+   "why_en": "Set alight with intense flames."
+  }
+ ],
+ "lesson_en": "Fear the Fire that Allah Himself has kindled, and seek His protection through faith and good deeds.",
+ "lesson_bn": "যে আগুন আল্লাহ নিজে প্রজ্বলিত করেছেন, তাকে ভয় করুন, আর ঈমান ও নেক আমলের মাধ্যমে তাঁর আশ্রয় চান।",
+ "real_life_en": "When you light the stove or a candle, the small flame can be a quiet reminder. Say a short dua asking Allah to protect you and your family from the Fire, and let it soften your words to people that day.",
+ "real_life_bn": "চুলা বা মোমবাতি জ্বালানোর সময় ছোট্ট শিখাটি একটি নীরব স্মরণ হতে পারে। আল্লাহর কাছে নিজের ও পরিবারের জন্য জাহান্নাম থেকে রক্ষা চেয়ে একটি ছোট দোয়া পড়ুন, আর সেদিন মানুষের সঙ্গে কথাবার্তা আরও নরম রাখুন।",
+ "context_en": "This answers the question of ayah 5. Ayat 7 to 9 continue the description.",
+ "context_bn": "এটি ৫ নম্বর আয়াতের প্রশ্নের উত্তর। ৭ থেকে ৯ নম্বর আয়াতে বর্ণনা চলতে থাকে।",
+ "themes": [
+  "Hell",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "fire"
+  ]
+ },
+ "claims": [
+  {
+   "text": "It is the blazing fire of Allah, kindled with intense flame.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Linking the fire to Allah shows its severity and horror.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Sa'di: its fuel is people and stones.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

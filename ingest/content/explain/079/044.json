@@ -1,0 +1,79 @@
+{
+ "id": "79:44",
+ "simple_en": "Its final knowledge belongs to your Lord alone. No one else, angel or prophet, knows when the Hour will come. Ibn Kathir and Zakaria's notes mention the well-known hadith of Jibril, reported by al-Bukhari: when Jibril asked the Prophet ﷺ about the Hour, he answered, \"The one asked about it knows no more than the one asking.\"",
+ "simple_bn": "এর চূড়ান্ত জ্ঞান কেবল আপনার রবের কাছেই। ফিরিশতা হোক বা নবী, আর কেউ জানে না কিয়ামত কখন আসবে। ইবনে কাসীর ও যাকারিয়ার টীকায় প্রসিদ্ধ হাদীসে জিবরীলের কথা এসেছে, যা বুখারী বর্ণনা করেছেন। জিবরীল (আলাইহিস সালাম) যখন রাসূলুল্লাহ ﷺ-কে কিয়ামত সম্পর্কে জিজ্ঞেস করলেন, তিনি বললেন, \"যাকে জিজ্ঞেস করা হয়েছে, সে প্রশ্নকারীর চেয়ে বেশি জানে না\"।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "your Lord",
+   "meaning_bn": "আপনার রব",
+   "why_en": "The knowledge of the Hour ends with Him and no one else."
+  },
+  {
+   "pos": 3,
+   "root": "نهي",
+   "lemma": "مُنتَهَى",
+   "meaning_en": "its final end, its ultimate knowledge",
+   "meaning_bn": "এর চূড়ান্ত জ্ঞান",
+   "why_en": "Muntaha is where something reaches its limit; all knowledge of the Hour stops with Allah."
+  }
+ ],
+ "lesson_en": "Be wary of anyone who claims to know the date of the Hour; that knowledge is Allah's alone.",
+ "lesson_bn": "কেউ কিয়ামতের তারিখ জানার দাবি করলে সতর্ক থাকুন; সেই জ্ঞান একমাত্র আল্লাহর।",
+ "real_life_en": "Your younger cousin is scared after hearing someone say the world will end next year. You sit with him and explain that even the Prophet ﷺ said he did not know when it will come. What we can do is live well every day, so there is nothing to panic about.",
+ "real_life_bn": "কেউ বলেছে আগামী বছর দুনিয়া শেষ হয়ে যাবে, শুনে আপনার ছোট চাচাতো ভাই ভয় পেয়েছে। আপনি তার পাশে বসে বুঝিয়ে বললেন, রাসূলুল্লাহ ﷺ নিজেও বলেছেন তিনি জানেন না কিয়ামত কখন আসবে। আমাদের কাজ হলো প্রতিদিন ভালোভাবে চলা, তাই আতঙ্কিত হওয়ার কিছু নেই।",
+ "themes": [
+  "Allah's knowledge",
+  "the unseen",
+  "the Last Day"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ",
+   "Jibril"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the Hour",
+   "Jibril"
+  ],
+  "names_of_allah": [
+   "Rabb"
+  ],
+  "events": [
+   "the Hour"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The total knowledge of the Hour is with your Lord alone; none other than Him has knowledge of it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Hadith of Jibril (al-Bukhari 50, cited by Zakaria; also quoted by Ibn Kathir): when asked about the Hour the Prophet said 'The one questioned about it knows no more than the questioner'.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

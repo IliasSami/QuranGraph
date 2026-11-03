@@ -1,0 +1,10 @@
+# generated / downloaded (rebuilt by the pipeline, never committed)
+ingest/.venv/
+ingest/work/
+web/node_modules/
+web/dist/
+web/.astro/
+web/.wrangler/
+*.DS_Store
+__pycache__/
+.claude/

@@ -1,0 +1,102 @@
+{
+ "id": "98:4",
+ "simple_en": "Those who were given the Scripture did not split apart until after the clear proof came to them. Al-Mukhtasar explains: the Jews, given the Torah, and the Christians, given the Gospel, differed only after Allah sent His Prophet ﷺ. Some of them accepted Islam, while others held on to disbelief though they knew he was true. Jalalayn and Ma'ariful Qur'an add that before he came they had agreed that he would come and that they would believe in him.",
+ "simple_bn": "যাদের কিতাব দেওয়া হয়েছিল, তারা সুস্পষ্ট প্রমাণ আসার পরেই বিভক্ত হয়েছিল। আল-মুখতাসার ব্যাখ্যা করে: তাওরাতপ্রাপ্ত ইহুদি আর ইঞ্জিলপ্রাপ্ত খ্রিস্টানরা মতভেদ করেছিল কেবল তখনই, যখন আল্লাহ তাঁর নবী ﷺ-কে পাঠালেন। তাদের কেউ কেউ ইসলাম গ্রহণ করল, আর কেউ কেউ তাঁর সত্যতা জেনেও কুফরীর উপর অটল থাকল। জালালাইন ও মাআরিফুল কুরআন যোগ করে, তাঁর আগমনের আগে তারা একমত ছিল যে তিনি আসবেন এবং তারা তাঁর উপর ঈমান আনবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "فرق",
+   "lemma": "تَفَرَّقَ",
+   "meaning_en": "became divided",
+   "meaning_bn": "বিভক্ত হল",
+   "why_en": "They split over the Prophet ﷺ: some believed, some rejected."
+  },
+  {
+   "pos": 4,
+   "root": "أتي",
+   "lemma": "آتَى",
+   "meaning_en": "were given",
+   "meaning_bn": "দেওয়া হয়েছিল",
+   "why_en": "They had earlier scripture and knowledge, which made the proof clearer for them."
+  },
+  {
+   "pos": 11,
+   "root": "بين",
+   "lemma": "بَيِّنَة",
+   "meaning_en": "the clear proof",
+   "meaning_bn": "সুস্পষ্ট প্রমাণ",
+   "why_en": "The division came after clarity, not because of any lack of it."
+  }
+ ],
+ "lesson_en": "Knowing the truth is not enough. Accepting it when it comes is what matters.",
+ "lesson_bn": "সত্য জানা যথেষ্ট নয়। সত্য যখন সামনে আসে, তখন তা মেনে নেওয়াটাই আসল।",
+ "real_life_en": "A student knows the honest answer in a class debate but stays quiet because his group holds the other view. This ayah reminds him that clear knowledge brings responsibility. Next time he speaks up politely for what he knows is right, even if it costs him some popularity.",
+ "real_life_bn": "ক্লাসের এক বিতর্কে এক ছাত্র সঠিক উত্তরটা জানে, কিন্তু তার দল অন্য মতের বলে চুপ থাকে। এই আয়াত তাকে মনে করিয়ে দেয়, স্পষ্ট জ্ঞান দায়িত্বও নিয়ে আসে। পরের বার জনপ্রিয়তা একটু কমলেও সে যা সঠিক জানে তা ভদ্রভাবে বলে।",
+ "context_en": "Zakaria and Ma'ariful Qur'an note that only the People of the Book are named here, unlike ayah 1, because they had descriptions of the Prophet ﷺ in their scriptures.",
+ "context_bn": "যাকারিয়া ও মাআরিফুল কুরআন উল্লেখ করেন, প্রথম আয়াতের মতো নয়, এখানে কেবল আহলে কিতাবের কথা বলা হয়েছে, কারণ তাদের কিতাবে নবী ﷺ-এর বর্ণনা ছিল।",
+ "themes": [
+  "Children of Israel",
+  "disbelief",
+  "guidance",
+  "prophethood"
+ ],
+ "kinds": [
+  "argument",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [
+   "People of the Book",
+   "Jews",
+   "Christians"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "Torah",
+   "Gospel"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The Jews given the Torah and the Christians given the Gospel did not disagree except after Allah sent His Prophet to them; some became Muslims, others persisted in disbelief despite knowing he was true.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Before his arrival they had agreed to believe in him when he came.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Only the People of the Book are mentioned here because they had knowledge of the Prophet's description.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The clear proof is the Prophet ﷺ or the Quran he brought.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": []
+}

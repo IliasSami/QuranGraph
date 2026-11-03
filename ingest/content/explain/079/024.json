@@ -1,0 +1,88 @@
+{
+ "id": "79:24",
+ "simple_en": "Then Pharaoh made his outrageous claim: \"I am your lord, the most high.\" Al-Mukhtasar explains he meant: you are to obey no one except me. Jalalayn adds: no lord above me. Al-Sa'di says his people gave in and accepted this falsehood when he made fools of them. Ibn Kathir reports from Ibn 'Abbas and Mujahid that he said this after earlier claiming, \"I know of no god for you other than me.\"",
+ "simple_bn": "এরপর ফিরআউন তার চরম দাবিটি করল: \"আমিই তোমাদের সর্বোচ্চ রব।\" আল-মুখতাসার ব্যাখ্যা দিয়েছে, তার উদ্দেশ্য ছিল: আমি ছাড়া আর কারো আনুগত্য করবে না। জালালাইন যোগ করেছে: আমার উপরে আর কোনো রব নেই। আস-সা'দী বলেছেন, সে যখন তাদের বোকা বানাল, তার লোকেরা মাথা নত করে এই মিথ্যা মেনে নিল। ইবনে কাসীর ইবনে আব্বাস ও মুজাহিদ থেকে বর্ণনা করেছেন, সে আগে বলেছিল, \"আমি ছাড়া তোমাদের আর কোনো ইলাহ আছে বলে জানি না\", তারপর এই কথা বলে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "lord",
+   "meaning_bn": "রব, প্রতিপালক",
+   "why_en": "Rabb is the Lord who creates, provides and must be obeyed; Pharaoh falsely claimed this for himself."
+  },
+  {
+   "pos": 4,
+   "root": "علو",
+   "lemma": "أَعْلَى",
+   "meaning_en": "the most high",
+   "meaning_bn": "সর্বোচ্চ",
+   "why_en": "He claimed there was no lord above him, the height of arrogance."
+  }
+ ],
+ "lesson_en": "Power can make a person forget they are a servant; the cure is to remember that only Allah is the Lord.",
+ "lesson_bn": "ক্ষমতা মানুষকে ভুলিয়ে দিতে পারে যে সে একজন বান্দা; এর প্রতিকার হলো মনে রাখা যে একমাত্র আল্লাহই রব।",
+ "real_life_en": "You get promoted to team leader and notice you have started expecting everyone to agree with you. You remind yourself that you are still Allah's servant, and you start asking your team for their views before deciding.",
+ "real_life_bn": "আপনি টিম লিডার হলেন, আর খেয়াল করলেন যে আশা করতে শুরু করেছেন সবাই আপনার সাথে একমত হবে। নিজেকে মনে করিয়ে দিলেন, আপনি এখনও আল্লাহর বান্দা, আর সিদ্ধান্ত নেওয়ার আগে টিমের মতামত জানতে চাওয়া শুরু করলেন।",
+ "themes": [
+  "stories of the prophets",
+  "arrogance",
+  "shirk",
+  "tawhid"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Pharaoh"
+  ],
+  "nations": [
+   "Pharaoh's people"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Pharaoh's claim to be the most high lord"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Pharaoh said: I am your highest Lord; you are not to obey anyone except me.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "He meant there is no lord above him.",
+   "sources": [
+    "g-en-jalalayn",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: his people submitted to him and affirmed his falsehood when he made fools of them.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn 'Abbas and Mujahid: he said this after having said 'I have not known of any god for you other than me' (28:38).",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Ibn Kathir and Jalalayn mention forty years between Pharaoh's two claims; left out of the simple text."
+ ]
+}

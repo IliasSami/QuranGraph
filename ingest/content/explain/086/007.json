@@ -1,0 +1,89 @@
+{
+ "id": "86:7",
+ "simple_en": "This fluid comes out from between the sulb, the backbone, and the tara'ib, the bones of the upper chest. Many scholars, including Ibn Kathir and Jalalayn, explain this as the backbone of the man and the chest of the woman, with the child formed from both. Sa'di prefers that both words describe the man's body. Either way, the point is the same: man began from a hidden, humble place.",
+ "simple_bn": "এই পানি বের হয় 'সুলব' অর্থাৎ মেরুদণ্ড এবং 'তারাইব' অর্থাৎ বুকের উপরের হাড়ের মাঝখান থেকে। ইবনে কাসীর ও জালালাইনসহ অনেক আলেম ব্যাখ্যা করেছেন, এটি পুরুষের মেরুদণ্ড ও নারীর বুক, আর দুজনের পানি থেকেই সন্তান হয়। সা'দী মনে করেন, দুটি শব্দই পুরুষের দেহের কথা বলছে। যেভাবেই বোঝা হোক, মূল কথা একই: মানুষের শুরু এক গোপন ও সামান্য জায়গা থেকে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "صلب",
+   "lemma": "صُلْب",
+   "meaning_en": "backbone, loins",
+   "meaning_bn": "মেরুদণ্ড, পৃষ্ঠদেশ",
+   "why_en": "One of the two places the fluid is said to come from between."
+  },
+  {
+   "pos": 5,
+   "root": "ترب",
+   "lemma": "تَرائِب",
+   "meaning_en": "chest bones",
+   "meaning_bn": "পঞ্জরাস্থি, বুকের হাড়",
+   "why_en": "Ahsanul Bayan explains it as the part of the chest where a necklace rests."
+  }
+ ],
+ "lesson_en": "We all began in a humble, hidden way. So we have no reason to be proud, and every reason to thank the One who made us.",
+ "lesson_bn": "আমাদের শুরু সামান্য ও গোপন, তাই অহংকারের কোনো কারণ নেই; বরং যিনি আমাদের গড়েছেন, তাঁর শুকরিয়া আদায়ের সব কারণই আছে।",
+ "real_life_en": "A classmate mocks another boy for coming from a poor family. You remind him, gently, that every one of us began in exactly the same humble way, and none of us chose it. Allah made us all, and honour comes from how we live.",
+ "real_life_bn": "এক সহপাঠী আরেকজনকে গরিব পরিবারের ছেলে বলে ঠাট্টা করছে। আপনি শান্তভাবে মনে করিয়ে দিলেন, আমরা প্রত্যেকেই ঠিক একইভাবে সামান্য অবস্থা থেকে শুরু করেছি, কেউই তা বেছে নিইনি। আল্লাহ আমাদের সবাইকে সৃষ্টি করেছেন, আর সম্মান আসে আমরা কীভাবে জীবন কাটাই তা থেকে।",
+ "themes": [
+  "creation",
+  "human nature",
+  "humility"
+ ],
+ "kinds": [
+  "creation",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "backbone",
+   "chest bones"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The fluid emerges from between the spinal column and the bones of the chest.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "It is the backbone of the man and the chest of the woman, and the child comes from both.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn",
+    "qe-arabic-moyassar",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di considers it more likely that both the backbone and the tara'ib refer to the man, though he allows the other view.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Tara'ib is the part of the chest where a necklace is worn.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": true,
+ "differ_note_en": "Ibn Kathir, Jalalayn and al-Muyassar: the man's backbone and the woman's chest. Sa'di: more likely both refer to the man, and Allah knows best.",
+ "differ_note_bn": "ইবনে কাসীর, জালালাইন ও আল-মুয়াসসার: পুরুষের মেরুদণ্ড ও নারীর বুক। সা'দী: সম্ভবত দুটোই পুরুষকে বোঝায়, আর আল্লাহই ভালো জানেন।",
+ "confidence": 0.86,
+ "uncertain": [
+  "Ma'ariful Qur'an brings in embryology to reconcile the views; this was left out on purpose as a modern scientific discussion.",
+  "The Bangla Mukhtasar text for this ayah has a garbled character in the word for spine."
+ ]
+}

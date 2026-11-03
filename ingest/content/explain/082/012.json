@@ -1,0 +1,81 @@
+{
+ "id": "82:12",
+ "simple_en": "They know everything you do, and they write it down based on that knowledge. Al-Sa'di says this includes the actions of the heart as well as the actions of the body. The Bangla footnotes add that they even know the intention behind a deed, so their record is complete and nothing is left out.",
+ "simple_bn": "তোমরা যা করো, তারা সব জানেন, আর সেই জ্ঞানের ভিত্তিতেই লিখে রাখেন। আস-সা'দী বলেন, এর মধ্যে অন্তরের কাজ এবং দেহের কাজ দুটোই আছে। বাংলা টীকায় যোগ করা হয়েছে, কোন নিয়তে কাজটি করা হয়েছে তাও তারা জানতে পারেন, তাই তাদের রেকর্ড পূর্ণাঙ্গ, কিছুই বাদ পড়ে না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "علم",
+   "lemma": "عَلِمَ",
+   "meaning_en": "they know",
+   "meaning_bn": "তারা জানেন",
+   "why_en": "Their writing is based on true knowledge, not guesswork."
+  },
+  {
+   "pos": 3,
+   "root": "فعل",
+   "lemma": "فَعَلَ",
+   "meaning_en": "you do",
+   "meaning_bn": "তোমরা করো",
+   "why_en": "Covers every act, inner and outer."
+  }
+ ],
+ "lesson_en": "Your hidden intentions are part of your record too. Keep your heart clean, not just your actions.",
+ "lesson_bn": "আপনার গোপন নিয়তও আমলনামার অংশ। শুধু কাজ নয়, অন্তরকেও পরিষ্কার রাখুন।",
+ "real_life_en": "A volunteer at a charity event notices he is mainly hoping to be seen in the photos. He quietly corrects his intention, asking Allah to accept it for His sake. He then takes the less visible job of packing boxes at the back.",
+ "real_life_bn": "এক দাতব্য অনুষ্ঠানে এক স্বেচ্ছাসেবক খেয়াল করল, সে মূলত চাইছে ছবিতে যেন তাকে দেখা যায়। সে মনে মনে নিয়ত শুধরে নিল, আল্লাহর কাছে চাইল যেন তাঁর সন্তুষ্টির জন্যই কাজটি কবুল হয়। তারপর সে পেছনে বাক্স গোছানোর মতো কম চোখে পড়া কাজটি নিল।",
+ "themes": [
+  "angels",
+  "judgment",
+  "taqwa"
+ ],
+ "kinds": [
+  "belief",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "recording angels"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "They know every action you do and write it down.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: this includes actions of the heart and of the limbs.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "They know with what intention a deed was done, so the record is complete.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Every word and deed is recorded, as a warning to think before acting.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

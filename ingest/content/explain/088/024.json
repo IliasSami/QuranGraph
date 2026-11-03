@@ -1,0 +1,82 @@
+{
+ "id": "88:24",
+ "simple_en": "Allah will punish such a person with the greatest punishment. Al-Mukhtasar says this means entering Hell on the Day of Judgment, to remain there forever. Sa'di describes it as severe and lasting. It is called the greatest because no punishment of this world comes close to it.",
+ "simple_bn": "আল্লাহ এমন ব্যক্তিকে সবচেয়ে বড় শাস্তি দেবেন। আল-মুখতাসার বলে, এর অর্থ কিয়ামতের দিন জাহান্নামে প্রবেশ করানো, সেখানে চিরকাল থাকার জন্য। সা'দী একে কঠিন ও স্থায়ী শাস্তি বলেছেন। একে সবচেয়ে বড় বলা হয়েছে, কারণ দুনিয়ার কোনো শাস্তি এর কাছাকাছিও নয়।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "عذب",
+   "lemma": "عَذاب",
+   "meaning_en": "punishment",
+   "meaning_bn": "শাস্তি",
+   "why_en": "The consequence of turning away from the truth."
+  },
+  {
+   "pos": 4,
+   "root": "كبر",
+   "lemma": "أَكْبَر",
+   "meaning_en": "the greatest",
+   "meaning_bn": "সবচেয়ে বড়",
+   "why_en": "Greater than any punishment of this world, which Jalalayn calls the lesser one."
+  }
+ ],
+ "lesson_en": "Turning away from Allah has a real cost; let this warning move you to return to Him while there is still time.",
+ "lesson_bn": "আল্লাহ থেকে মুখ ফিরিয়ে নেওয়ার একটি বাস্তব মূল্য আছে; সময় থাকতেই এই সতর্কবাণী যেন আপনাকে তাঁর দিকে ফিরিয়ে আনে।",
+ "real_life_en": "You have been putting off tawbah for a habit you know is wrong, telling yourself you will stop someday. Reading this ayah, you realise someday is not promised. Tonight you sincerely repent and take one practical step to leave it.",
+ "real_life_bn": "যে অভ্যাসটি ভুল বলে জানেন, তার জন্য তাওবা করতে আপনি দেরি করছেন, নিজেকে বলছেন একদিন ছেড়ে দেবেন। এই আয়াত পড়ে বুঝলেন, সেই 'একদিন' আসবে এমন নিশ্চয়তা নেই। আজ রাতেই আন্তরিকভাবে তাওবা করলেন, আর তা ছাড়ার জন্য একটি বাস্তব পদক্ষেপ নিলেন।",
+ "themes": [
+  "punishment",
+  "Hell",
+  "the Last Day",
+  "repentance"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "Day of Judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah will punish them on the Day of Judgment with the greatest punishment by entering them into Hell to remain there forever.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: the severe, lasting punishment.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Jalalayn: the greater chastisement is that of the Hereafter; the lesser is in this world.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.91,
+ "uncertain": [
+  "Jalalayn gives being killed or taken captive as the lesser worldly punishment; not included."
+ ]
+}

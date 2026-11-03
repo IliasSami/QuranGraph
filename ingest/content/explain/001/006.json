@@ -1,0 +1,83 @@
+{
+ "id": "1:6",
+ "simple_en": "This is the request at the heart of the surah: \"Guide us to the straight path.\" We ask Allah to show us the right way, help us walk it, keep us firm on it, and increase our guidance. The straight path is the clear way with no crookedness in it: the way of Islam that Allah sent with Prophet Muhammad ﷺ.",
+ "simple_bn": "এটিই সূরার মূল প্রার্থনা: \"আমাদের সরল পথ দেখান।\" আমরা আল্লাহর কাছে চাই, তিনি যেন সঠিক পথ দেখান, সে পথে চলতে সাহায্য করেন, তাতে অটল রাখেন এবং হিদায়াত আরো বাড়িয়ে দেন। সরল পথ মানে এমন সুস্পষ্ট পথ যাতে কোনো বক্রতা নেই: সেই ইসলাম, যা দিয়ে আল্লাহ নবী মুহাম্মাদ ﷺ-কে পাঠিয়েছেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "هدي",
+   "lemma": "هَدَى",
+   "meaning_en": "guide us",
+   "meaning_bn": "আমাদের পথ দেখান",
+   "why_en": "Hidayah means both showing the way and helping someone actually follow it."
+  },
+  {
+   "pos": 2,
+   "root": "صرط",
+   "lemma": "صِراط",
+   "meaning_en": "path, road",
+   "meaning_bn": "পথ",
+   "why_en": "A wide, clear road that leads straight to its destination."
+  },
+  {
+   "pos": 3,
+   "root": "قوم",
+   "lemma": "مُسْتَقِيم",
+   "meaning_en": "straight, upright",
+   "meaning_bn": "সরল, সোজা",
+   "why_en": "From the root of standing upright: a path with no bends that lead you off course."
+  }
+ ],
+ "lesson_en": "Even believers need to ask for guidance every day, because staying on the right path is a gift we keep asking for.",
+ "lesson_bn": "মু'মিনদেরও প্রতিদিন হিদায়াত চাইতে হয়, কারণ সঠিক পথে টিকে থাকা এমন এক নিয়ামত যা বারবার চাইতে হয়।",
+ "real_life_en": "You face a choice: a job offer that pays well but asks you to bend the truth with customers. Asking \"guide us to the straight path\" is not only for big questions of faith; it is for decisions like this one. Ask sincerely, then choose the honest way.",
+ "real_life_bn": "আপনার সামনে একটি চাকরির প্রস্তাব: বেতন ভালো, কিন্তু গ্রাহকদের সাথে সত্য একটু ঘুরিয়ে বলতে হবে। \"আমাদের সরল পথ দেখান\" শুধু ঈমানের বড় প্রশ্নের জন্য নয়, এমন সিদ্ধান্তের জন্যও। আন্তরিকভাবে চান, তারপর সৎ পথটি বেছে নিন।",
+ "context_en": "In the hadith reported by Muslim, Allah answers ayat 6 and 7: \"This is for My servant, and My servant will have what he asked for.\"",
+ "context_bn": "মুসলিমের বর্ণিত হাদীসে আল্লাহ ৬ ও ৭ নম্বর আয়াতের জবাবে বলেন: \"এটি আমার বান্দার জন্য, আর আমার বান্দা যা চেয়েছে তা পাবে।\"",
+ "themes": [
+  "guidance",
+  "dua",
+  "the believers' qualities"
+ ],
+ "kinds": [
+  "dua"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The request is to be shown and helped along the right way, made firm on it, and given more guidance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "As-sirat al-mustaqim is a clear path with no crookedness: Islam, with which Allah sent Prophet Muhammad ﷺ.",
+   "sources": [
+    "qe-bengali-mokhtasar",
+    "qe-english-mokhtasar"
+   ]
+  },
+  {
+   "text": "Hadith (Muslim, quoted by Ibn Kathir): of ayat 6-7 Allah says 'This is for My servant, and My servant shall acquire what he asked for'.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.94,
+ "uncertain": []
+}

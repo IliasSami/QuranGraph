@@ -1,0 +1,78 @@
+{
+ "id": "105:2",
+ "simple_en": "Did Allah not make their plot fail completely? Their plan to destroy the Ka'bah ended in ruin. They did not manage to turn people away from it, and they could not harm it in the slightest. Sa'di says Allah turned their scheme back on themselves.",
+ "simple_bn": "আল্লাহ কি তাদের চক্রান্ত পুরোপুরি ব্যর্থ করে দেননি? কা'বা ধ্বংসের তাদের পরিকল্পনা ধ্বংসেই শেষ হয়েছিল। তারা মানুষকে কা'বা থেকে ফিরিয়ে রাখতে পারেনি, আর এর সামান্য ক্ষতিও করতে পারেনি। সা'দী বলেন, আল্লাহ তাদের চক্রান্ত তাদেরই উপর ফিরিয়ে দিয়েছিলেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "كيد",
+   "lemma": "كَيْد",
+   "meaning_en": "their plot",
+   "meaning_bn": "তাদের চক্রান্ত",
+   "why_en": "Their planned scheme to destroy the Ka'bah."
+  },
+  {
+   "pos": 5,
+   "root": "ضلل",
+   "lemma": "تَضْلِيل",
+   "meaning_en": "going astray, failure",
+   "meaning_bn": "ব্যর্থতা, পথভ্রষ্ট হওয়া",
+   "why_en": "The plan lost its way and came to nothing."
+  }
+ ],
+ "lesson_en": "Plots against what Allah protects end in failure, so do not fear schemers more than you trust Allah.",
+ "lesson_bn": "আল্লাহ যা রক্ষা করেন তার বিরুদ্ধে চক্রান্ত ব্যর্থতায় শেষ হয়, তাই আল্লাহর উপর ভরসার চেয়ে চক্রান্তকারীদের ভয় বেশি করবেন না।",
+ "real_life_en": "A colleague spreads rumours to get you fired, and you lie awake planning revenge. Instead, keep working honestly, gather facts calmly if you need to, and make dua. Many plots collapse on their own, as this ayah shows.",
+ "real_life_bn": "এক সহকর্মী আপনার চাকরি খেতে গুজব ছড়াচ্ছে, আর আপনি প্রতিশোধের পরিকল্পনায় রাত জাগছেন। তার বদলে সততার সঙ্গে কাজ চালিয়ে যান, প্রয়োজনে শান্তভাবে তথ্য জোগাড় করুন, আর দোয়া করুন। এই আয়াত যেমন দেখায়, অনেক চক্রান্ত নিজে থেকেই ভেঙে পড়ে।",
+ "context_en": "After the question of ayah 1, ayat 2 to 5 tell how Allah dealt with them.",
+ "context_bn": "১ নম্বর আয়াতের প্রশ্নের পর ২ থেকে ৫ নম্বর আয়াত জানায় আল্লাহ তাদের সঙ্গে কী করেছিলেন।",
+ "themes": [
+  "Allah's power",
+  "trust in Allah",
+  "past nations"
+ ],
+ "kinds": [
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Abrahah"
+  ],
+  "nations": [
+   "People of the Elephant"
+  ],
+  "places": [
+   "the Ka'bah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "the Year of the Elephant"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah made their evil plot to destroy the Ka'bah fail; they did not achieve turning people from it and could not harm it at all.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: Allah repelled their evil and returned their plot upon themselves.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

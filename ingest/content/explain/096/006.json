@@ -1,0 +1,82 @@
+{
+ "id": "96:6",
+ "simple_en": "After the gifts of creation and knowledge, the surah turns to a human weakness. \"No\", truly man oversteps the limits Allah has set. Al-Mukhtasar gives Abu Jahl as the example of this kind of person. Ma'ariful Qur'an explains that although the ayah points at one man, its lesson is general: while people feel in need, they tend to walk straight, but once they feel they need no one, they start to wrong others.",
+ "simple_bn": "সৃষ্টি ও জ্ঞানের নিয়ামতের কথার পর সূরাটি মানুষের একটি দুর্বলতার দিকে ফিরেছে। \"কখনো নয়!\" সত্যিই মানুষ আল্লাহর বেঁধে দেওয়া সীমা ছাড়িয়ে যায়। আল-মুখতাসার এমন মানুষের উদাহরণ হিসেবে আবু জাহলের কথা বলেছে। মাআরিফুল কুরআন বলে, আয়াতটি একজন মানুষের দিকে ইঙ্গিত করলেও এর শিক্ষা সবার জন্য। যতদিন মানুষ নিজেকে অভাবী মনে করে, ততদিন সোজা পথে চলে। কিন্তু যখন ভাবে তার কাউকে দরকার নেই, তখন অন্যায়ের দিকে ঝুঁকে পড়ে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "",
+   "lemma": "كَلّا",
+   "meaning_en": "No! Truly",
+   "meaning_bn": "কখনো নয়, সত্যিই",
+   "why_en": "Zakaria notes it here means \"truly\", stressing what follows."
+  },
+  {
+   "pos": 4,
+   "root": "طغي",
+   "lemma": "طَغَى",
+   "meaning_en": "transgresses",
+   "meaning_bn": "সীমালঙ্ঘন করে",
+   "why_en": "Tughyan is crossing the limit, like water overflowing its banks."
+  }
+ ],
+ "lesson_en": "Feeling that you need no one is a danger sign. It can push a person to break Allah's limits.",
+ "lesson_bn": "\"আমার কাউকে দরকার নেই\" এই অনুভূতি বিপদের সংকেত। এটা মানুষকে আল্লাহর সীমা ভাঙার দিকে ঠেলে দিতে পারে।",
+ "real_life_en": "A man gets a big promotion. Soon he stops returning his old friends' calls and speaks rudely to the office cleaner. One day he notices the change in himself, remembers this ayah, and apologises to the people he has treated badly.",
+ "real_life_bn": "এক ব্যক্তি বড় পদোন্নতি পেল। কিছুদিনের মধ্যেই সে পুরনো বন্ধুদের ফোন ধরা বন্ধ করল, অফিসের পরিচ্ছন্নতাকর্মীর সাথে রূঢ় কথা বলতে লাগল। একদিন নিজের এই পরিবর্তন চোখে পড়ল, এই আয়াত মনে পড়ল, আর যাদের সাথে খারাপ ব্যবহার করেছিল তাদের কাছে সে ক্ষমা চাইল।",
+ "context_en": "Ayat 6–19 are about a man who tried to stop the Prophet ﷺ from praying. Al-Mukhtasar, al-Muyassar, Jalalayn and Ibn Kathir name him as Abu Jahl.",
+ "context_bn": "আয়াত ৬–১৯ এমন এক ব্যক্তিকে নিয়ে, যে নবী ﷺ-কে নামাজ পড়তে বাধা দিত। আল-মুখতাসার, আল-মুয়াসসার, জালালাইন ও ইবনে কাসীর তার নাম বলেছেন আবু জাহল।",
+ "themes": [
+  "human nature",
+  "arrogance",
+  "wealth"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Abu Jahl"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Truly, the transgressing human, such as Abu Jahl, oversteps Allah's limits.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Kalla here means 'truly'.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Though it refers to Abu Jahl, the statement is general: man walks straight while in need, but transgresses when he thinks he needs no one.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Sa'di: after these favours, man, out of ignorance and wrongdoing, transgresses when he sees himself rich.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

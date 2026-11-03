@@ -1,0 +1,81 @@
+{
+ "id": "87:13",
+ "simple_en": "Then he will neither die in it nor truly live. He will not die and so find rest from the punishment. And he will not live a life that is good or of any use to him. Sa'di says the punishment continues without any break, so that they wish for death, but it does not come.",
+ "simple_bn": "তারপর সে সেখানে মরবেও না, আর সত্যিকার অর্থে বাঁচবেও না। সে মরবে না যে শাস্তি থেকে রেহাই পাবে। আবার এমন জীবনও পাবে না, যা ভালো বা তার কোনো কাজে আসে। সা'দী বলেন, শাস্তি চলতেই থাকবে কোনো বিরতি ছাড়া, এমনকি তারা মৃত্যু কামনা করবে, কিন্তু তা আসবে না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "موت",
+   "lemma": "ماتَ",
+   "meaning_en": "die",
+   "meaning_bn": "মরবে",
+   "why_en": "Death would be a release, and that release is denied."
+  },
+  {
+   "pos": 6,
+   "root": "حيي",
+   "lemma": "حَىَّ",
+   "meaning_en": "live",
+   "meaning_bn": "বাঁচবে",
+   "why_en": "Not a life worth the name, with no comfort or benefit in it."
+  }
+ ],
+ "lesson_en": "The worst state is one with no ending and no relief; turning to Allah now is the way to be saved from it.",
+ "lesson_bn": "সবচেয়ে ভয়াবহ অবস্থা হলো যার শেষ নেই, কোনো স্বস্তিও নেই; এখনই আল্লাহর দিকে ফিরে আসাই তা থেকে বাঁচার পথ।",
+ "real_life_en": "On a night of bad toothache, you cannot sleep and you cannot do anything else either. You think of this ayah and feel grateful that your pain will end by morning. You make sincere tawbah for something you have been ignoring.",
+ "real_life_bn": "দাঁতের তীব্র ব্যথার এক রাতে আপনি ঘুমাতেও পারছেন না, অন্য কিছু করতেও পারছেন না। এই আয়াতের কথা ভেবে কৃতজ্ঞ হলেন যে আপনার ব্যথা সকাল নাগাদ কমে যাবে। আর যে বিষয়টি অবহেলা করে আসছিলেন, তার জন্য আন্তরিকভাবে তাওবা করলেন।",
+ "context_en": "Zakaria and Ahsanul Bayan explain, citing a hadith in Muslim, that this describes the people of the Fire who are disbelievers. Sinful believers who enter it are later brought out by intercession.",
+ "context_bn": "যাকারিয়া ও আহসানুল বায়ান মুসলিমের একটি হাদীসের ভিত্তিতে ব্যাখ্যা করেছেন, এখানে কাফির জাহান্নামীদের কথা বলা হয়েছে। গুনাহগার মু'মিনরা জাহান্নামে গেলেও পরে সুপারিশের মাধ্যমে বের হয়ে আসবে।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He will remain in the Fire without dying and being relieved of the punishment, and without living a good and decent life.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: punished with no rest, so that they wish for death and it does not come.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "A hadith in Muslim shows that sinful believers who enter the Fire are brought out by intercession; this ayah describes the disbelievers.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "The Ibn Kathir text in ctx is cut off ('Imam Ahmad recorded from Abu …[truncated]') right at this ayah."
+ ]
+}

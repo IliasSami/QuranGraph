@@ -1,0 +1,87 @@
+{
+ "id": "2:12",
+ "simple_en": "Allah answers their claim with a strong \"Truly\": it is they who are the corrupters. But they do not perceive it. They do not see that what they call reform is corruption itself. Sa'di explains that they do not have the kind of knowledge that would benefit them, even though enough truth reached them to hold them responsible.",
+ "simple_bn": "আল্লাহ জোরালো ভাষায় তাদের দাবির জবাব দিয়েছেন: \"জেনে রাখো,\" তারাই আসল ফাসাদ সৃষ্টিকারী। কিন্তু তারা তা টের পায় না। যাকে তারা সংশোধন বলে, সেটাই যে আসল ফাসাদ, তা তারা দেখে না। সা'দী বলেন, তাদের কাছে এমন জ্ঞান নেই যা তাদের উপকার করে, যদিও তাদের দায়ী করার মতো সত্য তাদের কাছে ঠিকই পৌঁছেছে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": null,
+   "lemma": "أَلا",
+   "meaning_en": "truly, beware",
+   "meaning_bn": "জেনে রাখো",
+   "why_en": "A word that wakes the listener up and adds emphasis."
+  },
+  {
+   "pos": 4,
+   "root": "فسد",
+   "lemma": "مُفْسِد",
+   "meaning_en": "the corrupters",
+   "meaning_bn": "ফাসাদ সৃষ্টিকারী",
+   "why_en": "The very label they rejected is fixed on them."
+  },
+  {
+   "pos": 7,
+   "root": "شعر",
+   "lemma": "يَشْعُرُ",
+   "meaning_en": "they perceive",
+   "meaning_bn": "তারা টের পায়",
+   "why_en": "Their ignorance and stubbornness keep them from sensing their own harm."
+  }
+ ],
+ "lesson_en": "Judge your actions by what they really do, not by the good name you give them.",
+ "lesson_bn": "নিজের কাজ বিচার করুন তার আসল ফলাফল দিয়ে, কাজটিকে আপনি যে ভালো নাম দেন তা দিয়ে নয়।",
+ "real_life_en": "You share a rumour in a family group and call it \"just letting people know\". Later you see it caused a quarrel between two cousins. You admit to yourself that it was harm, not help, delete the message, and apologise.",
+ "real_life_bn": "পরিবারের গ্রুপে আপনি একটা গুজব শেয়ার করলেন, ভাবলেন \"সবাইকে জানিয়ে রাখছি\"। পরে দেখলেন এতে দুই চাচাতো ভাইয়ের মধ্যে ঝগড়া বেধে গেছে। আপনি নিজের কাছে স্বীকার করলেন, এটা উপকার নয়, ক্ষতি ছিল; বার্তাটি মুছে দিলেন আর ক্ষমা চাইলেন।",
+ "context_en": "This is Allah's reply to their claim in 2:11.",
+ "context_bn": "এটি ২:১১-তে তাদের দাবির জবাবে আল্লাহর উত্তর।",
+ "themes": [
+  "hypocrisy",
+  "self-deception",
+  "knowledge"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "'Ala' is for alerting and emphasis.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "It is they who cause corruption, but they do not perceive that their actions are the cause of ruin.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "What they claim is reform is corruption itself, but because of their ignorance and stubbornness they do not sense it.",
+   "sources": [
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "They lack beneficial knowledge, though they knew enough for Allah's proof to stand against them.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

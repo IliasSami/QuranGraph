@@ -1,0 +1,75 @@
+{
+ "id": "107:4",
+ "simple_en": "Then comes a strong warning: woe, meaning destruction and punishment, to certain people who pray. This does not condemn prayer or people who pray. The next two ayat say exactly who is meant: those careless about their prayer and those who pray to be seen. Sa'di describes them as people who keep up the prayer outwardly yet neglect it.",
+ "simple_bn": "এরপর এসেছে কঠিন সতর্কবাণী: কিছু নামাজির জন্য 'ওয়াইল', অর্থাৎ ধ্বংস ও শাস্তি। এটি নামাজ বা নামাজিদের নিন্দা নয়। পরের দুই আয়াতে স্পষ্ট বলা হয়েছে কারা উদ্দেশ্য: যারা নামাজের ব্যাপারে উদাসীন, আর যারা লোক দেখানোর জন্য পড়ে। সা'দী তাদের বর্ণনা দিয়েছেন এমন লোক হিসেবে, যারা বাহ্যিকভাবে নামাজ ধরে রাখে, কিন্তু আসলে তা নষ্ট করে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "",
+   "lemma": "وَيْل",
+   "meaning_en": "woe, destruction",
+   "meaning_bn": "দুর্ভোগ, ধ্বংস",
+   "why_en": "A word of severe warning, explained by the sources as destruction and punishment."
+  },
+  {
+   "pos": 2,
+   "root": "صلو",
+   "lemma": "مُصَلّي",
+   "meaning_en": "those who pray",
+   "meaning_bn": "নামাজি",
+   "why_en": "The warning is for a specific kind of 'praying people', described in the next ayat."
+  }
+ ],
+ "lesson_en": "Praying is not enough on its own; how and why we pray also matters to Allah.",
+ "lesson_bn": "শুধু নামাজ পড়লেই যথেষ্ট নয়; কীভাবে আর কেন পড়ছি, তাও আল্লাহর কাছে গুরুত্বপূর্ণ।",
+ "real_life_en": "This ayah is not a reason to stop praying. It is a reason to pray better. If you notice your prayer has become a rushed habit, take it as a warning to fix it. Do not drop it.",
+ "real_life_bn": "এই আয়াত নামাজ ছেড়ে দেওয়ার কারণ নয়, বরং আরও ভালোভাবে পড়ার কারণ। যদি টের পান আপনার নামাজ তাড়াহুড়োর একটা অভ্যাসে পরিণত হয়েছে, তাহলে এটাকে সংশোধনের সতর্কবার্তা হিসেবে নিন, ছেড়ে দেওয়ার নয়।",
+ "context_en": "This ayah is sometimes quoted alone as if it condemned praying. It is one sentence running into ayat 5–6, which name the people meant: those heedless of their prayer and those who show off. Ma'ariful Qur'an says it describes the hypocrites.",
+ "context_bn": "এই আয়াতটি কখনো কখনো একা উদ্ধৃত করা হয়, যেন এটি নামাজ পড়ারই নিন্দা করছে। আসলে এটি ৫ ও ৬ নম্বর আয়াতের সাথে মিলে একটি বাক্য, যেখানে উদ্দিষ্ট লোকদের নাম বলা হয়েছে: যারা নামাজে উদাসীন এবং যারা লোক দেখায়। মাআরিফুল কুরআন বলেছে, এটি মুনাফিকদের বর্ণনা।",
+ "themes": [
+  "prayer",
+  "hypocrisy",
+  "punishment"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Destruction and punishment be upon those who perform prayer (as described next).",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "The 'praying people' meant are those committed to establishing prayer yet neglectful of it, as described in ayah 5.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Ayat 4-6 describe the hypocrites who prayed only to make a display before people.",
+   "sources": [
+    "g-en-maarif",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

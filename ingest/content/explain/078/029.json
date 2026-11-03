@@ -1,0 +1,84 @@
+{
+ "id": "78:29",
+ "simple_en": "Allah has counted and recorded everything, small and large, good and bad. Al-Mukhtasar says all their deeds are written in their books of deeds. Jalalayn and Ahsanul Bayan mention the Preserved Tablet, and Ahsanul Bayan prefers that meaning. Al-Sa'di draws the lesson: no one will be punished for a sin they did not commit, and not even an atom's weight of a deed will be lost or forgotten.",
+ "simple_bn": "আল্লাহ ছোট-বড়, ভালো-মন্দ সবকিছু গুনে লিখে রেখেছেন। আল-মুখতাসার বলেছে, তাদের সব আমল তাদের আমলনামায় লেখা আছে। জালালাইন ও আহসানুল বায়ান লাওহে মাহফুযের কথা উল্লেখ করেছেন, আর আহসানুল বায়ান এ অর্থটিকেই বেশি সঠিক বলেছে। আস-সা'দী শিক্ষাটি তুলে ধরেছেন: কাউকে এমন গুনাহর জন্য শাস্তি দেওয়া হবে না যা সে করেনি, আর অণু পরিমাণ আমলও হারিয়ে যাবে না বা ভুলে যাওয়া হবে না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "حصي",
+   "lemma": "أَحْصَى",
+   "meaning_en": "We have counted, recorded",
+   "meaning_bn": "আমি গুনে সংরক্ষণ করেছি",
+   "why_en": "Ahsa means to count precisely, leaving nothing out."
+  },
+  {
+   "pos": 4,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "in writing, a record",
+   "meaning_bn": "লিখিতভাবে",
+   "why_en": "Everything is kept in a written record, so nothing depends on memory."
+  }
+ ],
+ "lesson_en": "Every deed, even the smallest, is recorded; so no good deed is wasted and no wrong is too small to matter.",
+ "lesson_bn": "প্রতিটি আমল, এমনকি সবচেয়ে ছোটটিও, লিপিবদ্ধ হচ্ছে; তাই কোনো ভালো কাজ বৃথা যায় না, আর কোনো অন্যায় এত ছোট নয় যে তার গুরুত্ব নেই।",
+ "real_life_en": "A girl quietly picks up litter from her classroom floor every day though no one thanks her. Another day she is about to post an unkind comment about a classmate. Remembering that everything is written, she keeps the first habit and deletes the comment.",
+ "real_life_bn": "এক মেয়ে প্রতিদিন চুপচাপ ক্লাসরুমের মেঝে থেকে ময়লা তুলে ফেলে, যদিও কেউ তাকে ধন্যবাদ দেয় না। আরেক দিন সে এক সহপাঠীকে নিয়ে একটি খারাপ মন্তব্য পোস্ট করতে যাচ্ছিল। সবকিছু লেখা হচ্ছে, এ কথা মনে করে সে প্রথম অভ্যাসটি ধরে রাখে, আর মন্তব্যটি মুছে ফেলে।",
+ "themes": [
+  "Allah's knowledge",
+  "judgment",
+  "justice"
+ ],
+ "kinds": [
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the Preserved Tablet",
+   "books of deeds"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah recorded and counted each of their deeds; they are written in their books of deeds.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Everything is recorded in the Preserved Tablet.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ahsanul Bayan: it may mean the Preserved Tablet or the records written by the angels; the first is more correct.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: everything small and large, good and bad, is recorded; criminals are not punished for sins they did not do, and not an atom's weight of their deeds is lost or forgotten.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

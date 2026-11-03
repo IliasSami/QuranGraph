@@ -1,0 +1,70 @@
+{
+ "id": "81:27",
+ "simple_en": "The Quran is only a reminder for all the worlds, both jinn and humans. Al-Sa'di explains what it reminds us of: our Lord and His perfect qualities, His commands and prohibitions and their wisdom, and what is good for us in this life and the next. Whoever acts on it gains happiness in both.",
+ "simple_bn": "কুরআন তো কেবল সারা জগতের জন্য উপদেশ, জিন ও মানুষ সবার জন্য। আস-সা'দী ব্যাখ্যা করেন, এটি কী মনে করিয়ে দেয়: আমাদের রব ও তাঁর পরিপূর্ণ গুণাবলি, তাঁর আদেশ-নিষেধ ও সেগুলোর হিকমত, আর দুনিয়া ও আখিরাতে আমাদের জন্য যা কল্যাণকর। যে এর উপর আমল করে, সে দুই জগতেই সুখ লাভ করে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "ذكر",
+   "lemma": "ذِكْر",
+   "meaning_en": "a reminder",
+   "meaning_bn": "উপদেশ, স্মরণ",
+   "why_en": "Dhikr is reminding: it brings back to mind what the heart already knows is true."
+  },
+  {
+   "pos": 5,
+   "root": "علم",
+   "lemma": "عالَم",
+   "meaning_en": "the worlds",
+   "meaning_bn": "জগৎসমূহ",
+   "why_en": "Here it means jinn and humans: the message is for all, not one people."
+  }
+ ],
+ "lesson_en": "The Quran is meant for everyone, including you. Read it as a reminder addressed to you personally.",
+ "lesson_bn": "কুরআন সবার জন্য, আপনার জন্যও। একে এমন উপদেশ হিসেবে পড়ুন, যা সরাসরি আপনাকে বলা হচ্ছে।",
+ "real_life_en": "A busy office worker thinks the Quran is mainly for scholars. After reading this ayah, he starts reading one page with a translation each morning on the bus. He finds that it reminds him daily of what matters, at work and at home.",
+ "real_life_bn": "ব্যস্ত এক অফিসকর্মী ভাবতেন, কুরআন মূলত আলেমদের জন্য। এই আয়াত পড়ার পর তিনি প্রতিদিন সকালে বাসে বসে অনুবাদসহ এক পৃষ্ঠা পড়তে শুরু করলেন। তিনি দেখলেন, অফিসে ও ঘরে কোনটা আসলে গুরুত্বপূর্ণ, কুরআন তাকে প্রতিদিন তা মনে করিয়ে দেয়।",
+ "themes": [
+  "the Quran",
+  "guidance",
+  "remembrance of Allah",
+  "jinn"
+ ],
+ "kinds": [
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The Quran is only a reminder and counsel to jinn and mankind.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: by it they remember their Lord and His perfect attributes, the commands and prohibitions and their wisdom, and the benefits of both worlds; acting on it brings both happinesses.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

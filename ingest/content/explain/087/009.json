@@ -1,0 +1,99 @@
+{
+ "id": "87:9",
+ "simple_en": "Since Allah has made things easy for him, the Prophet ﷺ is now told: so remind people with the Quran, if the reminder benefits. Al-Mukhtasar says: keep reminding them as long as the reminder is heard. Ibn Kathir draws a lesson for teaching: share knowledge where it will help, in a way people can grasp. Other scholars say the 'if' is not a real condition, and the reminder should be given in any case.",
+ "simple_bn": "আল্লাহ যেহেতু তাঁর জন্য সবকিছু সহজ করে দিয়েছেন, তাই এখন রাসূলুল্লাহ ﷺ-কে বলা হচ্ছে: অতএব কুরআন দিয়ে মানুষকে উপদেশ দিন, যদি উপদেশ উপকারে আসে। আল-মুখতাসার বলে: যতক্ষণ উপদেশ শোনা হয়, ততক্ষণ উপদেশ দিয়ে যান। ইবনে কাসীর এখান থেকে শিক্ষাদানের একটি নীতি বের করেছেন: যেখানে উপকার হবে সেখানে জ্ঞান দিন, মানুষ যেভাবে বুঝতে পারে সেভাবে। অন্য আলেমরা বলেন, এখানে 'যদি' আসল শর্ত নয়; উপদেশ সব অবস্থাতেই দিতে হবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ذكر",
+   "lemma": "ذُكِّرَ",
+   "meaning_en": "remind",
+   "meaning_bn": "উপদেশ দিন, স্মরণ করিয়ে দিন",
+   "why_en": "The Prophet's ﷺ task: to remind people of what they already know deep down."
+  },
+  {
+   "pos": 3,
+   "root": "نفع",
+   "lemma": "نَفَعَ",
+   "meaning_en": "benefits",
+   "meaning_bn": "উপকারে আসে",
+   "why_en": "Points to choosing the right time, place and way so the reminder actually helps."
+  },
+  {
+   "pos": 4,
+   "root": "ذكر",
+   "lemma": "ذِكْرَى",
+   "meaning_en": "the reminder",
+   "meaning_bn": "উপদেশ",
+   "why_en": "Here, reminding people with the Quran."
+  }
+ ],
+ "lesson_en": "Keep reminding others of what is good, and choose words and moments that will actually help them.",
+ "lesson_bn": "মানুষকে কল্যাণের কথা মনে করিয়ে দিতে থাকুন, আর এমন কথা ও সময় বেছে নিন, যা সত্যিই তাদের উপকারে আসে।",
+ "real_life_en": "Your cousin has stopped praying. Lecturing him at a family dinner in front of everyone would only push him away. Instead you wait for a quiet moment, speak kindly and briefly, and keep the door open for another talk later.",
+ "real_life_bn": "আপনার চাচাতো ভাই নামাজ পড়া ছেড়ে দিয়েছে। পারিবারিক দাওয়াতে সবার সামনে তাকে বকাঝকা করলে সে আরও দূরে সরে যাবে। তাই আপনি নিরিবিলি একটি মুহূর্তের অপেক্ষা করেন, অল্প কথায় নরমভাবে বলেন, আর পরে আবার কথা বলার সুযোগ খোলা রাখেন।",
+ "themes": [
+  "Prophet Muhammad ﷺ",
+  "the Quran",
+  "knowledge",
+  "good character"
+ ],
+ "kinds": [
+  "command",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Give counsel to people with the Quran and remind them as long as the reminder is heard.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "This follows the ease granted to him in the previous ayat.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: remind where reminding is beneficial; this gives the etiquette of spreading knowledge, with 'Ali's saying about telling people what they can grasp.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ma'ariful Qur'an and ash-Shawkani: the 'if' is not a true condition; reminding is to be done whether or not it benefits.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": true,
+ "differ_note_en": "Ibn Kathir, Sa'di and al-Muyassar read the condition as real: remind where it benefits. Ma'ariful Qur'an, Jalalayn and ash-Shawkani (via Ahsanul Bayan) say the reminder is to be given whether it benefits or not.",
+ "differ_note_bn": "ইবনে কাসীর, সা'দী ও আল-মুয়াসসার শর্তটিকে আসল শর্ত হিসেবে নিয়েছেন: যেখানে উপকার হয় সেখানে উপদেশ দিন। মাআরিফুল কুরআন, জালালাইন ও শওকানী (আহসানুল বায়ানের বরাতে) বলেন, উপকার হোক বা না হোক, উপদেশ দিতে হবে।",
+ "confidence": 0.88,
+ "uncertain": []
+}

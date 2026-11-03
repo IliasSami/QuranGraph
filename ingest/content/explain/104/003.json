@@ -1,0 +1,78 @@
+{
+ "id": "104:3",
+ "simple_en": "Out of ignorance, he thinks his wealth will keep him alive forever in this world and save him from death. Al-Muyassar adds that he thinks it will also let him escape the reckoning. So all his effort goes into growing his money, as if it were growing his life. Sa'di comments that he does not realise stinginess ruins lives and homes, while doing good adds blessing to one's life.",
+ "simple_bn": "অজ্ঞতার কারণে সে ভাবে, তার সম্পদ তাকে চিরকাল দুনিয়ায় বাঁচিয়ে রাখবে এবং মৃত্যু থেকে রক্ষা করবে। আল-মুয়াসসার যোগ করেন, সে ভাবে এতে হিসাব থেকেও বেঁচে যাবে। তাই তার সব চেষ্টা সম্পদ বাড়ানোয়, যেন সেটাই তার আয়ু বাড়াচ্ছে। সা'দী মন্তব্য করেছেন, সে বোঝে না যে কৃপণতা জীবন ও ঘর ধ্বংস করে, আর সৎকাজ আয়ু বাড়ায়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "حسب",
+   "lemma": "حَسِبَ",
+   "meaning_en": "he thinks",
+   "meaning_bn": "সে ধারণা করে",
+   "why_en": "A false assumption born of ignorance."
+  },
+  {
+   "pos": 4,
+   "root": "خلد",
+   "lemma": "أَخْلَدَ",
+   "meaning_en": "made him immortal",
+   "meaning_bn": "তাকে অমর করবে",
+   "why_en": "He acts as if money could keep death away."
+  }
+ ],
+ "lesson_en": "Money cannot add a single day to your life, so do not live as if it can.",
+ "lesson_bn": "টাকা আপনার জীবনে একটি দিনও যোগ করতে পারে না, তাই এমনভাবে বাঁচবেন না যেন তা পারে।",
+ "real_life_en": "A shopkeeper works seven days a week for years, saying he will rest and pray more \"when there is enough.\" Then a sudden illness reminds him that no bank balance can buy time. Plan your savings, but plan your Hereafter first.",
+ "real_life_bn": "এক দোকানদার বছরের পর বছর সপ্তাহে সাত দিন কাজ করেন, বলেন \"যথেষ্ট হলে\" বিশ্রাম নেবেন আর বেশি নামাজ পড়বেন। তারপর হঠাৎ এক অসুখ মনে করিয়ে দেয়, কোনো ব্যাংক ব্যালান্স সময় কিনতে পারে না। সঞ্চয়ের পরিকল্পনা করুন, কিন্তু আগে আখিরাতের পরিকল্পনা করুন।",
+ "context_en": "Ayah 4 answers this false belief with a firm \"No.\"",
+ "context_bn": "৪ নম্বর আয়াত এই ভুল ধারণার জবাব দিয়েছে দৃঢ় \"কখনো না\" দিয়ে।",
+ "themes": [
+  "wealth",
+  "death",
+  "this world",
+  "greed"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "wealth"
+  ]
+ },
+ "claims": [
+  {
+   "text": "He thinks the wealth he amasses will save him from death and he will remain forever in this world.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Al-Muyassar: he thinks it guarantees him eternity in this world and escape from the reckoning.",
+   "sources": [
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: in his ignorance all his effort goes into growing his wealth, thinking it grows his life; he does not know stinginess ruins lives and homes and righteousness increases life.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

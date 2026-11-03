@@ -1,0 +1,82 @@
+{
+ "id": "78:22",
+ "simple_en": "Hell is the place of return for the taghin, those who go beyond all limits. Al-Mukhtasar calls them the wrongdoers, and Ibn Kathir describes them as the disobedient rejecters who oppose the messengers. They will be made to return to it as their final home. Jalalayn adds that they will not be able to escape it.",
+ "simple_bn": "জাহান্নাম হলো \"তাগীন\" অর্থাৎ সীমালঙ্ঘনকারীদের ফিরে যাওয়ার জায়গা। আল-মুখতাসার তাদের যালিম বলেছে, আর ইবনে কাসীর তাদের বর্ণনা দিয়েছেন অবাধ্য অস্বীকারকারী হিসেবে, যারা রাসূলদের বিরোধিতা করে। তাদেরকে সেখানে চূড়ান্ত ঠিকানা হিসেবে ফিরিয়ে নেওয়া হবে। জালালাইন যোগ করেছেন, তারা তা এড়াতে পারবে না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "طغي",
+   "lemma": "طاغي",
+   "meaning_en": "transgressors",
+   "meaning_bn": "সীমালঙ্ঘনকারী",
+   "why_en": "From tughyan, rebellion: one who goes far beyond the limits in disobeying Allah."
+  },
+  {
+   "pos": 2,
+   "root": "أوب",
+   "lemma": "مَآب",
+   "meaning_en": "place of return",
+   "meaning_bn": "প্রত্যাবর্তনস্থল",
+   "why_en": "Ma'ab is where one finally returns and stays, the end of the road."
+  }
+ ],
+ "lesson_en": "Rebellion against Allah leads somewhere; know your limits and stay within them.",
+ "lesson_bn": "আল্লাহর অবাধ্যতা একটি পরিণতির দিকে নিয়ে যায়; নিজের সীমা জানুন এবং সীমার মধ্যে থাকুন।",
+ "real_life_en": "A teenager notices he has started brushing off every reminder from his parents and teachers with a laugh. This ayah makes him stop and think about where that habit leads. He chooses to listen next time, even when it is hard.",
+ "real_life_bn": "এক কিশোর খেয়াল করে, বাবা-মা আর শিক্ষকদের প্রতিটি উপদেশ সে হেসে উড়িয়ে দিতে শুরু করেছে। এই আয়াত তাকে থামিয়ে ভাবায়, এই অভ্যাস কোথায় নিয়ে যায়। সে ঠিক করে, কঠিন হলেও পরের বার মন দিয়ে শুনবে।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "disbelief",
+  "arrogance"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Hell is a point of return for the oppressors/transgressors, which they will be made to return to.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "The taghin are the disobedient rejecters who oppose the Messengers; ma'ab is a place of return, final destination and residence.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Taghi comes from tughyan, rebellion: one who exceeds the limit in disobeying Allah; here it refers to the disbelievers.",
+   "sources": [
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "They will not be able to avoid it.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.89,
+ "uncertain": []
+}

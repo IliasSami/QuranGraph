@@ -1,0 +1,76 @@
+{
+ "id": "88:25",
+ "simple_en": "Indeed, to Us is their return. After death, every person comes back to Allah alone. Sa'di says this is the return and gathering of all creation on the Day of Judgment. No one can escape it or go anywhere else.",
+ "simple_bn": "নিশ্চয়ই আমার কাছেই তাদের ফিরে আসা। মৃত্যুর পর প্রত্যেক মানুষ একমাত্র আল্লাহর কাছেই ফিরে যাবে। সা'দী বলেন, এটি কিয়ামতের দিন সমস্ত সৃষ্টির ফিরে আসা ও একত্র হওয়া। কেউ তা এড়াতে পারবে না, অন্য কোথাও যেতে পারবে না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "",
+   "lemma": "إِلَى",
+   "meaning_en": "to Us",
+   "meaning_bn": "আমার কাছেই",
+   "why_en": "Placed first in Arabic for emphasis: to Allah alone."
+  },
+  {
+   "pos": 3,
+   "root": "أوب",
+   "lemma": "إِياب",
+   "meaning_en": "their return",
+   "meaning_bn": "তাদের প্রত্যাবর্তন",
+   "why_en": "Coming back home after a journey: life ends in returning to Allah."
+  }
+ ],
+ "lesson_en": "Your life leads back to Allah. So live each day like someone who knows where he is going.",
+ "lesson_bn": "আপনার জীবন আল্লাহর দিকে ফিরে যাওয়ার এক সফর; প্রতিটি দিন এমনভাবে কাটান, যেন জানেন আপনি কোথায় যাচ্ছেন।",
+ "real_life_en": "At a relative's funeral, you hear people say \"Inna lillahi wa inna ilayhi raji'un\". This ayah gives the words weight: he has returned to Allah, and so will you. On the way home you think about what you want to bring with you when your turn comes.",
+ "real_life_bn": "এক আত্মীয়ের জানাযায় শুনলেন মানুষ বলছে \"ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রাজিউন\"। এই আয়াত কথাটিকে ভারী করে তোলে: তিনি আল্লাহর কাছে ফিরে গেছেন, আপনিও যাবেন। বাড়ি ফেরার পথে ভাবলেন, আপনার পালা এলে সাথে কী নিয়ে যেতে চান।",
+ "themes": [
+  "resurrection",
+  "the Last Day",
+  "death"
+ ],
+ "kinds": [
+  "belief",
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "resurrection"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "To Allah alone is their return after their death.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: the return of creation and its gathering on the Day of Resurrection.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: their place of return and resort.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

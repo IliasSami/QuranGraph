@@ -1,0 +1,75 @@
+{
+ "id": "92:2",
+ "simple_en": "The second oath is by the day when it shines out. The darkness of the night is lifted and daylight spreads. In its light people can see, and they go out to work and see to their needs. Night and day are opposites, and both are signs of Allah.",
+ "simple_bn": "দ্বিতীয় শপথ দিনের, যখন তা উজ্জ্বল হয়ে প্রকাশ পায়। রাতের অন্ধকার সরে যায়, আর দিনের আলো ছড়িয়ে পড়ে। সেই আলোয় মানুষ দেখতে পায়, কাজে বের হয় এবং নিজেদের প্রয়োজন মেটায়। রাত আর দিন একে অপরের বিপরীত, আর দুটোই আল্লাহর নিদর্শন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "نهر",
+   "lemma": "نَهار",
+   "meaning_en": "the day",
+   "meaning_bn": "দিন",
+   "why_en": "The opposite of the night in the ayah before."
+  },
+  {
+   "pos": 3,
+   "root": "جلو",
+   "lemma": "تَجَلَّى",
+   "meaning_en": "it shines out",
+   "meaning_bn": "তা উদ্ভাসিত হয়",
+   "why_en": "To become clear and visible, as light replaces darkness."
+  }
+ ],
+ "lesson_en": "Use the light of each day for useful work and good deeds, since it is given to you for that.",
+ "lesson_bn": "প্রতিটি দিনের আলো উপকারী কাজ ও নেক আমলে ব্যবহার করুন, কারণ এজন্যই তা আপনাকে দেওয়া হয়েছে।",
+ "real_life_en": "You wake up after Fajr and the sky slowly brightens. Instead of going back to sleep and losing the morning, you plan your day: work, a visit to a sick relative, some time with the Quran. Daylight is a fresh chance to fill your record with good.",
+ "real_life_bn": "ফজরের পর ঘুম থেকে উঠে দেখলেন আকাশ ধীরে ধীরে আলোকিত হচ্ছে। আবার ঘুমিয়ে সকালটা নষ্ট না করে দিনের পরিকল্পনা করলেন: কাজ, অসুস্থ এক আত্মীয়কে দেখতে যাওয়া, কিছুটা সময় কুরআনের সঙ্গে। দিনের আলো আপনার আমলনামা ভালো কাজে ভরার এক নতুন সুযোগ।",
+ "themes": [
+  "signs in nature",
+  "creation"
+ ],
+ "kinds": [
+  "oath",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "day"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah takes an oath on the day when it becomes clear and visible.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The night's darkness is removed and daylight spreads.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: creation is lit by its light and people spread out for their interests.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

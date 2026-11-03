@@ -1,0 +1,92 @@
+{
+ "id": "106:2",
+ "simple_en": "Their familiar routine was two trade journeys every year: one in winter to Yemen and one in summer to Syria. Makkah had no farms, so these trips brought them what they needed. Other Arabs respected them as the people of Allah's sanctuary, so their caravans travelled safely while others were robbed on the roads.",
+ "simple_bn": "তাদের অভ্যস্ত রীতি ছিল প্রতি বছর দুটি বাণিজ্য সফর: শীতকালে ইয়েমেনে আর গ্রীষ্মকালে সিরিয়ায়। মক্কায় চাষাবাদ ছিল না, তাই এই সফরগুলো থেকেই তারা প্রয়োজনীয় জিনিস আনত। অন্য আরবরা তাদেরকে আল্লাহর হারামের বাসিন্দা হিসেবে সম্মান করত, তাই অন্যরা পথে লুট হলেও তাদের কাফেলা নিরাপদে যাতায়াত করত।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "رحل",
+   "lemma": "رِحْلَة",
+   "meaning_en": "journey, trade trip",
+   "meaning_bn": "সফর",
+   "why_en": "The caravan journeys that were the Quraysh's main way of earning a living."
+  },
+  {
+   "pos": 3,
+   "root": "شتو",
+   "lemma": "شِتاء",
+   "meaning_en": "winter",
+   "meaning_bn": "শীত",
+   "why_en": "In winter they travelled to warm Yemen."
+  },
+  {
+   "pos": 4,
+   "root": "صيف",
+   "lemma": "صَيْف",
+   "meaning_en": "summer",
+   "meaning_bn": "গ্রীষ্ম",
+   "why_en": "In summer they travelled to the cooler land of Syria."
+  }
+ ],
+ "lesson_en": "A steady income and safe travel are not just the result of our planning; they are favours from Allah that call for thanks.",
+ "lesson_bn": "নিয়মিত আয় আর নিরাপদ যাতায়াত শুধু আমাদের পরিকল্পনার ফল নয়; এগুলো আল্লাহর অনুগ্রহ, যার জন্য শুকরিয়া জরুরি।",
+ "real_life_en": "A man runs a small shop that brings goods from abroad. Season after season, his goods arrive safely. When a load comes on time, he does not only think \"my plan worked\". He says \"Alhamdulillah\". He remembers that safe roads and honest partners are from Allah.",
+ "real_life_bn": "একজন ছোট আমদানি ব্যবসা চালান, মৌসুমের পর মৌসুম তার মাল নিরাপদে এসে পৌঁছায়। চালান সময়মতো এলে তিনি শুধু \"আমার পরিকল্পনা কাজে লেগেছে\" না ভেবে \"আলহামদুলিল্লাহ\" বলেন, আর মনে করেন যে খোলা পথ আর সৎ অংশীদার, সবই আল্লাহর দেওয়া।",
+ "themes": [
+  "gratitude",
+  "wealth",
+  "signs in nature"
+ ],
+ "kinds": [
+  "address",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Quraysh"
+  ],
+  "places": [
+   "Yemen",
+   "Syria",
+   "Makkah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "caravans"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The Quraysh travelled in winter towards Yemen and in summer towards the Levant (Syria), in security.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Makkah is a barren valley without crops, so the Quraysh needed these trade journeys to bring the necessities of life; trade was their means of living.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "People respected them as the residents and custodians of Allah's sanctuary, so they returned safely and their caravans travelled without hindrance.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

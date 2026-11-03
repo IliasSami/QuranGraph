@@ -1,0 +1,80 @@
+{
+ "id": "82:15",
+ "simple_en": "They will enter it on the Day of Recompense and suffer its heat. Ahsanul Bayan points out the irony: it is on the very Day they used to deny that they will enter the Fire, as the result of their own deeds.",
+ "simple_bn": "প্রতিদান দিবসে তারা তাতে প্রবেশ করবে এবং এর উত্তাপ ভোগ করবে। আহসানুল বায়ান বিষয়টির দিকে ইঙ্গিত করে: যে দিনকে তারা অস্বীকার করত, ঠিক সেই দিনেই নিজেদের আমলের ফল হিসেবে তারা আগুনে প্রবেশ করবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "صلي",
+   "lemma": "يَصْلَى",
+   "meaning_en": "they will burn in it",
+   "meaning_bn": "তাতে দগ্ধ হবে",
+   "why_en": "Means entering a fire and feeling its heat."
+  },
+  {
+   "pos": 3,
+   "root": "دين",
+   "lemma": "دِين",
+   "meaning_en": "Recompense",
+   "meaning_bn": "প্রতিদান",
+   "why_en": "The Day when every deed is repaid."
+  }
+ ],
+ "lesson_en": "What a person denies does not stop it from coming. Prepare for the Day rather than arguing it away.",
+ "lesson_bn": "কেউ অস্বীকার করলেই কোনো কিছু আসা বন্ধ হয় না। সেই দিনকে উড়িয়ে না দিয়ে তার জন্য প্রস্তুতি নিন।",
+ "real_life_en": "A man ignores his doctor's warnings, saying he feels fine. When the illness comes, ignoring it has changed nothing. Thinking of this ayah, his friend starts taking both his health and his akhirah seriously, instead of pretending the warning is not real.",
+ "real_life_bn": "এক ব্যক্তি ডাক্তারের সতর্কবার্তা উপেক্ষা করে বলতেন, তিনি ভালো আছেন। যখন অসুখ এল, উপেক্ষা করায় কিছুই বদলায়নি। এই আয়াত নিয়ে ভেবে তার এক বন্ধু নিজের স্বাস্থ্য ও আখিরাত দুটোকেই গুরুত্ব দিতে শুরু করলেন, সতর্কবার্তাকে অবাস্তব ভাবার ভান না করে।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "the Last Day",
+  "judgment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "Day of Recompense"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "They will enter it on the day of recompense and suffer its heat.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "On the very Day they denied, they will enter Hell as the result of their deeds.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The Day of Din is the Day of Reckoning, Recompense and Judgement.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": []
+}

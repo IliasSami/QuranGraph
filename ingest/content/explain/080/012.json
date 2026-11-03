@@ -1,0 +1,75 @@
+{
+ "id": "80:12",
+ "simple_en": "So whoever wishes may remember it. Al-Mukhtasar explains: whoever wants to remember Allah should do so, and take heed of what is in this Quran. Al-Sa'di says remembering it means acting on it, once the right way has been made clear. Ahsanul Bayan adds that those who turn away, like the Quraysh nobles, need not be a cause of worry.",
+ "simple_bn": "তাই যে চায়, সে এটা স্মরণ করবে। আল-মুখতাসার ব্যাখ্যা করে: যে আল্লাহকে স্মরণ করতে চায় সে যেন তাঁকে স্মরণ করে এবং এই কুরআন থেকে উপদেশ নেয়। আস-সা'দী বলেন, সঠিক পথ স্পষ্ট হয়ে যাওয়ার পর একে স্মরণ করা মানে এর উপর আমল করা। আহসানুল বায়ান যোগ করে, যারা মুখ ফিরিয়ে নেয়, যেমন কুরাইশের নেতারা, তাদের নিয়ে দুশ্চিন্তার প্রয়োজন নেই।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "شيأ",
+   "lemma": "شاءَ",
+   "meaning_en": "wills, wishes",
+   "meaning_bn": "ইচ্ছা করে",
+   "why_en": "The choice to take the reminder is left to each person."
+  },
+  {
+   "pos": 3,
+   "root": "ذكر",
+   "lemma": "ذَكَرَ",
+   "meaning_en": "remembers it",
+   "meaning_bn": "তা স্মরণ করে",
+   "why_en": "Al-Sa'di explains remembering here as acting on it."
+  }
+ ],
+ "lesson_en": "The Quran is offered, not forced; real remembrance of it means living by what it says.",
+ "lesson_bn": "কুরআন পেশ করা হয়, চাপিয়ে দেওয়া হয় না; একে সত্যিকার স্মরণ করা মানে তার কথা অনুযায়ী জীবন যাপন করা।",
+ "real_life_en": "You read an ayah about honesty in the morning. Remembering it is not just recalling the words. It is choosing, at work that afternoon, to report the real numbers even when a small change would look better.",
+ "real_life_bn": "সকালে আপনি সততা নিয়ে একটি আয়াত পড়লেন। তা স্মরণ করা মানে শুধু শব্দগুলো মনে রাখা নয়। বিকেলে অফিসে হিসাবটা একটু বদলালে ভালো দেখাত, তবু আসল সংখ্যাটাই জমা দেওয়া, এটাই স্মরণ।",
+ "themes": [
+  "the Quran",
+  "remembrance of Allah",
+  "guidance"
+ ],
+ "kinds": [
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Quraysh"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Whoever wishes to remember Allah should remember Him and take heed of what is in this Quran.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: once the right way is made clear, whoever wills remembers it, i.e. acts on it.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Those who turn away, as the Quraysh nobles did, need not be worried about.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

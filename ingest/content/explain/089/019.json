@@ -1,0 +1,84 @@
+{
+ "id": "89:19",
+ "simple_en": "The third fault: you eat up inheritance greedily and take all of it. Al-Mukhtasar says they took the rights of the weak, such as women and orphans. They did not care if it was lawful. Jalalayn and Ma'ariful Qur'an say they took other people's shares with their own. Ma'ariful Qur'an says inheritance is named here because greed for a dead person's wealth shows how deep the love of money can go.",
+ "simple_bn": "তৃতীয় দোষ: তোমরা উত্তরাধিকারের সম্পদ লোভের সাথে পুরোটা গিলে খাও। আল-মুখতাসার বলে, তারা দুর্বলদের, যেমন নারী ও ইয়াতীমদের অধিকার হালাল-হারামের পরোয়া না করে খেয়ে ফেলত। জালালাইন ও মাআরিফুল কুরআন বুঝিয়েছে, তারা নিজেদের অংশের সাথে অন্যের অংশও নিয়ে নিত। মাআরিফুল কুরআন বলে, উত্তরাধিকারের কথা আলাদা করে বলা হয়েছে, কারণ কারো সম্পত্তির জন্য লোভ নিয়ে অপেক্ষা করা দেখায় সম্পদের লোভ কত গভীর হতে পারে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ورث",
+   "lemma": "تُراث",
+   "meaning_en": "inheritance",
+   "meaning_bn": "উত্তরাধিকারের সম্পদ",
+   "why_en": "Wealth left by the dead, in which others, including the weak, have shares."
+  },
+  {
+   "pos": 4,
+   "root": "لمم",
+   "lemma": "لَمّ",
+   "meaning_en": "gathering it all, greedily",
+   "meaning_bn": "সম্পূর্ণরূপে, গোগ্রাসে",
+   "why_en": "Lamm means to gather things together: taking every share, lawful or not."
+  }
+ ],
+ "lesson_en": "Do not let greed make you take another person's share of an inheritance; learn the rules of shares from a scholar.",
+ "lesson_bn": "উত্তরাধিকারের লোভে কখনো অন্যের, বিশেষ করে দুর্বলদের প্রাপ্য নিয়ে নেবেন না; অংশের বিস্তারিত বিধান একজন আলেমের কাছ থেকে জেনে নিন।",
+ "real_life_en": "Your grandfather dies. Some relatives want to split the land fast and leave out your widowed aunt and her children. You speak up. You ask the family to sit with a scholar first, so that each person gets their fair share, the weakest most of all.",
+ "real_life_bn": "দাদা মারা যাওয়ার পর কিছু আত্মীয় তাড়াতাড়ি জমি ভাগ করে বিধবা ফুফু ও তাঁর সন্তানদের বাদ দিতে চাইছেন। আপনি মুখ খুললেন এবং জোর দিলেন, আগে পরিবারের সবাই একজন আলেমের সাথে বসবে, যাতে প্রত্যেকে, বিশেষ করে সবচেয়ে দুর্বলরা, তাদের ন্যায্য অংশ পায়।",
+ "themes": [
+  "greed",
+  "wealth",
+  "justice",
+  "orphans"
+ ],
+ "kinds": [
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "inheritance"
+  ]
+ },
+ "claims": [
+  {
+   "text": "You relentlessly devour the rights of the weak, the women and orphans, without consideration for permissibility.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "They consume others' rights in inheritance; they take the women's and young ones' shares with their own.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Lamm means to gather together; they consume it however they can get it, lawful or forbidden.",
+   "sources": [
+    "g-en-maarif",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ma'arif: inheritance is singled out because greed for it shows man's voracity for wealth.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

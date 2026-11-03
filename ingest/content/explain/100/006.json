@@ -1,0 +1,104 @@
+{
+ "id": "100:6",
+ "simple_en": "This is what the oath was about: man is kanud towards his Lord. The early scholars explained kanud as ungrateful, someone who denies his Lord's favours. Al-Hasan al-Basri said it is the one who counts his troubles and forgets Allah's blessings. Al-Mukhtasar and Sa'di add that by nature a person holds back from the good his Lord wants from him, and from giving the rights he owes, unless Allah guides him.",
+ "simple_bn": "শপথটি ছিল এই কথার জন্য: মানুষ তার রবের প্রতি 'কানূদ'। প্রথম যুগের আলেমরা কানূদের অর্থ করেছেন অকৃতজ্ঞ, যে রবের নিয়ামত অস্বীকার করে। হাসান বসরী বলেছেন, কানূদ সেই ব্যক্তি, যে নিজের বিপদগুলো গুনে রাখে আর আল্লাহর নিয়ামত ভুলে যায়। আল-মুখতাসার ও সা'দী যোগ করেন, স্বভাবগতভাবে মানুষ তার রবের পছন্দের ভালো কাজে এবং নিজের উপর থাকা হক আদায়ে পিছিয়ে থাকে, যদি না আল্লাহ তাকে হিদায়াত দেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "أنس",
+   "lemma": "إِنسان",
+   "meaning_en": "man, the human being",
+   "meaning_bn": "মানুষ",
+   "why_en": "Speaks of human nature in general; some scholars say the disbeliever is meant."
+  },
+  {
+   "pos": 4,
+   "root": "كند",
+   "lemma": "كَنُود",
+   "meaning_en": "ungrateful",
+   "meaning_bn": "অকৃতজ্ঞ",
+   "why_en": "One who forgets favours and remembers only hardships, and holds back what he owes."
+  }
+ ],
+ "lesson_en": "Count your blessings, not only your problems. Forgetting Allah's gifts is the ingratitude this ayah warns against.",
+ "lesson_bn": "শুধু সমস্যাগুলো নয়, নিয়ামতগুলোও গুনুন। আল্লাহর দান ভুলে যাওয়াই সেই অকৃতজ্ঞতা, যা থেকে এই আয়াত সতর্ক করে।",
+ "real_life_en": "One bad day at work, and you tell everyone how terrible your life is. Yet you went home healthy, ate dinner with your family and slept under a roof. Before complaining, try naming three things Allah gave you today and thank Him for them.",
+ "real_life_bn": "অফিসে একটা খারাপ দিন গেল, আর আপনি সবাইকে বলে বেড়ালেন জীবনটা কত কষ্টের। অথচ আপনি সুস্থ শরীরে বাড়ি ফিরেছেন, পরিবারের সঙ্গে রাতের খাবার খেয়েছেন, মাথার উপর ছাদের নিচে ঘুমিয়েছেন। অভিযোগ করার আগে আজ আল্লাহ আপনাকে যা দিয়েছেন তার তিনটি জিনিসের নাম বলুন এবং সেগুলোর জন্য তাঁর শোকর আদায় করুন।",
+ "context_en": "Ayat 1 to 5 swore by the war horses; this ayah is the answer to that oath. Ma'ariful Qur'an notes that prophets and the righteous are free of this fault; it describes most people, not every person.",
+ "context_bn": "১ থেকে ৫ নম্বর আয়াতে যুদ্ধের ঘোড়ার শপথ করা হয়েছে; এই আয়াত সেই শপথের জবাব। মা'আরিফুল কুরআন উল্লেখ করেছেন, নবীগণ ও নেককাররা এই দোষ থেকে মুক্ত; এটি বেশির ভাগ মানুষের বর্ণনা, প্রত্যেক মানুষের নয়।",
+ "themes": [
+  "gratitude",
+  "human nature",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "al-Hasan al-Basri"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "This ayah is what the oath is about: man is ungrateful to his Lord.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Ibn Abbas, Mujahid and many early scholars said al-kanud means ungrateful; it means denying the Lord's favours.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Al-Hasan said al-kanud is the one who counts calamities and forgets Allah's favours.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Man holds back from the goodness his Lord wants from him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Sa'di: by nature the self does not readily give the rights it owes, financial and bodily, except one whom Allah guides.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Jalalayn and Ahsanul Bayan say 'man' here means the disbeliever; Ma'arif says it describes most people, with prophets and the righteous excluded, and some scholars restrict it to disbelievers.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": true,
+ "differ_note_en": "Jalalayn and Ahsanul Bayan say 'man' here means the disbeliever. Sa'di and Ma'ariful Qur'an take it as human nature in general, except those Allah guides.",
+ "differ_note_bn": "জালালাইন ও আহসানুল বায়ান বলেন, এখানে 'মানুষ' বলতে কাফেরকে বোঝানো হয়েছে। সা'দী ও মা'আরিফুল কুরআন একে সাধারণভাবে মানুষের স্বভাব হিসেবে নিয়েছেন, তবে আল্লাহ যাদের হিদায়াত দেন তারা এর বাইরে।",
+ "confidence": 0.9,
+ "uncertain": []
+}

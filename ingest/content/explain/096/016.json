@@ -1,0 +1,72 @@
+{
+ "id": "96:16",
+ "simple_en": "That forelock is described as \"lying and sinful\". Jalalayn and Ahsanul Bayan explain that this is a figure of speech: it is really the owner of the forelock who is meant. Al-Mukhtasar and Sa'di say he is a liar in what he says and a wrongdoer in what he does. So the place where he will be seized is linked to the very person who lied and sinned.",
+ "simple_bn": "সেই ঝুঁটিকে বলা হয়েছে \"মিথ্যাবাদী, পাপিষ্ঠ\"। জালালাইন ও আহসানুল বায়ান ব্যাখ্যা করেন, এটি রূপক কথা: আসলে ঝুঁটির মালিককেই বোঝানো হয়েছে। আল-মুখতাসার ও সা'দী বলেন, সে নিজের কথায় মিথ্যাবাদী আর নিজের কাজে অন্যায়কারী। তাই যেখানে তাকে ধরা হবে, তা সেই মানুষেরই সাথে জড়িত, যে মিথ্যা বলেছে আর পাপ করেছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "كذب",
+   "lemma": "كاذِب",
+   "meaning_en": "lying",
+   "meaning_bn": "মিথ্যাবাদী",
+   "why_en": "His fault in speech: lying."
+  },
+  {
+   "pos": 3,
+   "root": "خطأ",
+   "lemma": "خاطِئَة",
+   "meaning_en": "sinful",
+   "meaning_bn": "পাপিষ্ঠ",
+   "why_en": "His fault in action: deliberate wrongdoing."
+  }
+ ],
+ "lesson_en": "Lying in words and sinning in deeds bring disgrace. Keep both your speech and your actions clean.",
+ "lesson_bn": "কথায় মিথ্যা আর কাজে পাপ মানুষকে অপমানের দিকে নিয়ে যায়। কথা ও কাজ দুটোই পরিচ্ছন্ন রাখুন।",
+ "real_life_en": "A student tells his parents he was at the library when he was not, then skips the homework he promised to finish. This ayah joins the two together: false words and wrong actions. He decides to fix both, telling the truth and doing the work.",
+ "real_life_bn": "এক ছাত্র বাবা-মাকে বলে সে লাইব্রেরিতে ছিল, অথচ ছিল না; তারপর কথা দেওয়া বাড়ির কাজটাও করে না। এই আয়াত এ দুটিকে একসাথে উল্লেখ করেছে: মিথ্যা কথা আর অন্যায় কাজ। সে দুটোই ঠিক করার সিদ্ধান্ত নেয়: সত্য বলবে, আর কাজটাও করবে।",
+ "themes": [
+  "honesty",
+  "punishment",
+  "good character"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Abu Jahl"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "forelock"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The owner of that forelock is a liar in speech and erroneous in action.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Describing the forelock this way is figurative; the person is meant.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

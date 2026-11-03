@@ -1,0 +1,78 @@
+{
+ "id": "89:8",
+ "simple_en": "No other nation like 'Ad had been created in any land. Al-Muyassar and Ibn Kathir explain this as their huge bodies, their strength and their power in battle. Ahsanul Bayan notes that they boasted, \"Who is stronger than us?\" Yet all this strength could not protect them once they turned against their Lord.",
+ "simple_bn": "'আদ জাতির মতো আর কোনো জাতি কোনো দেশে সৃষ্টি করা হয়নি। আল-মুয়াসসার ও ইবনে কাসীর এর ব্যাখ্যা দিয়েছেন তাদের বিশাল দেহ, শক্তি ও যুদ্ধের ক্ষমতা দিয়ে। আহসানুল বায়ান উল্লেখ করেছে, তারা গর্ব করে বলত: 'আমাদের চেয়ে শক্তিশালী কে আছে?' অথচ রবের বিরুদ্ধে দাঁড়ানোর পর এত শক্তিও তাদের রক্ষা করতে পারেনি।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "was created",
+   "meaning_bn": "সৃষ্টি করা হয়েছে",
+   "why_en": "A reminder that their unmatched strength was itself something Allah created and gave."
+  },
+  {
+   "pos": 4,
+   "root": "مثل",
+   "lemma": "مِثْل",
+   "meaning_en": "the like of",
+   "meaning_bn": "সমতুল্য",
+   "why_en": "Stresses that no nation of their time matched them."
+  }
+ ],
+ "lesson_en": "However strong you are, your strength was given by Allah, and He is stronger.",
+ "lesson_bn": "আপনি যত শক্তিশালীই হোন, সেই শক্তি আল্লাহর দেওয়া, আর তিনি আরও বেশি শক্তিশালী।",
+ "real_life_en": "You are the best player on your school team and you start treating the weaker players with scorn. Then an injury keeps you on the bench for a month. Sitting there, you realise your speed was never really yours to boast about, and you start encouraging the others instead.",
+ "real_life_bn": "আপনি স্কুল দলের সেরা খেলোয়াড়, আর দুর্বল খেলোয়াড়দের তুচ্ছ করতে শুরু করেছেন। তারপর চোটের কারণে এক মাস মাঠের বাইরে বসে থাকতে হলো। বসে বসে বুঝলেন, আপনার গতি কখনোই আসলে বড়াই করার মতো আপনার নিজের ছিল না, তখন থেকে অন্যদের উৎসাহ দিতে শুরু করলেন।",
+ "themes": [
+  "past nations",
+  "arrogance",
+  "Allah's power"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "'Ad"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The likes of which Allah never created in the lands.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "None like them was created in the lands in their great bodies, strength and power of assault.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "They boasted 'Who is mightier than us in strength?' (41:15), but Allah who created them is mightier.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

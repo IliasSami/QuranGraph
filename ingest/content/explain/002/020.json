@@ -1,0 +1,120 @@
+{
+ "id": "2:20",
+ "simple_en": "The lightning is so bright that it almost snatches their sight. Whenever it flashes, they take a few steps in its light; when it goes dark, they stand still. Jalalayn explains that they accept the parts of the truth they like and pull back from what they dislike. If Allah willed, He could take away their hearing and sight altogether, for He has power over everything. Al-Muyassar says it is only Allah's respite that holds this back.",
+ "simple_bn": "বিজলি এত উজ্জ্বল যে তা প্রায় তাদের দৃষ্টি কেড়ে নেয়। যখনই বিজলি চমকায়, তারা তার আলোয় কয়েক পা হাঁটে; অন্ধকার হলে থেমে দাঁড়িয়ে যায়। জালালাইন বলে, সত্যের যে অংশ তাদের ভালো লাগে তা মেনে নেয়, আর যা অপছন্দ তা থেকে পিছিয়ে যায়। আল্লাহ চাইলে তাদের শোনা ও দেখার শক্তি পুরোপুরি নিয়ে নিতে পারতেন, কারণ তিনি সবকিছুর উপর ক্ষমতাবান। আল-মুয়াসসার বলে, কেবল আল্লাহর দেওয়া অবকাশই তা ঠেকিয়ে রেখেছে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "خطف",
+   "lemma": "خَطِفَ",
+   "meaning_en": "snatches away",
+   "meaning_bn": "ছিনিয়ে নেয়",
+   "why_en": "Taking something quickly: the flash is that strong."
+  },
+  {
+   "pos": 8,
+   "root": "مشي",
+   "lemma": "مَشَ",
+   "meaning_en": "they walk",
+   "meaning_bn": "তারা হাঁটে",
+   "why_en": "They move only while the light suits them."
+  },
+  {
+   "pos": 13,
+   "root": "قوم",
+   "lemma": "قامَ",
+   "meaning_en": "they stand still",
+   "meaning_bn": "তারা থেমে যায়",
+   "why_en": "Here qama means to stop where they are."
+  },
+  {
+   "pos": 25,
+   "root": "قدر",
+   "lemma": "قَدِير",
+   "meaning_en": "Al-Qadir, the All-Powerful",
+   "meaning_bn": "আল-কাদীর, সর্বশক্তিমান",
+   "why_en": "Nothing is beyond His power, and nothing can stop what He wills."
+  }
+ ],
+ "lesson_en": "Follow the truth in what is hard as well as in what is easy, not only when it suits you.",
+ "lesson_bn": "সত্যকে মানুন কঠিন বিষয়েও, সহজ বিষয়েও; শুধু যখন সুবিধা হয় তখন নয়।",
+ "real_life_en": "You are happy to follow the teaching about kindness to parents, but you avoid the one about paying debts on time because it costs you. You notice you are only walking when the light suits you. You make a plan to pay back what you owe.",
+ "real_life_bn": "মা-বাবার প্রতি সদাচরণের শিক্ষা মানতে আপনার ভালো লাগে, কিন্তু সময়মতো ঋণ শোধের শিক্ষাটা এড়িয়ে যান, কারণ তাতে টাকা লাগে। আপনি টের পেলেন, শুধু সুবিধামতো আলোতেই হাঁটছেন। তাই যা পাওনা আছে তা শোধ করার একটি পরিকল্পনা করলেন।",
+ "context_en": "Al-Mukhtasar sums up both parables: the hypocrites gain nothing from what is offered. From the fire they get only darkness and burning, and from the storm only fear. Ibn Kathir links this to people who worship Allah \"on an edge\" (22:11): content when good comes, turning away when tested.",
+ "context_bn": "আল-মুখতাসার দুটি দৃষ্টান্তের সারকথা বলেছে: মুনাফিকরা যা দেওয়া হয় তা থেকে কোনো উপকার নেয় না। আগুন থেকে পায় শুধু অন্ধকার আর জ্বালা, ঝড় থেকে শুধু ভয়। ইবনে কাসীর এর সাথে সেই মানুষদের কথা যুক্ত করেছেন, যারা আল্লাহর ইবাদত করে \"এক কিনারায় দাঁড়িয়ে\" (২২:১১): ভালো কিছু পেলে খুশি, পরীক্ষায় পড়লে মুখ ফিরিয়ে নেয়।",
+ "themes": [
+  "hypocrisy",
+  "Allah's power",
+  "names and attributes of Allah",
+  "trials"
+ ],
+ "kinds": [
+  "parable",
+  "warning",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Qadir"
+  ],
+  "events": [],
+  "things": [
+   "lightning"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The lightning nearly takes their sight; when it flashes they walk forward, and when it is dark they stand still.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "This pictures them acknowledging the truths they love to hear and recoiling from what they dislike.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "If Allah willed He could take away their hearing and sight; He has power over all things.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Were it not for Allah's respite, He would take their hearing and sight; He is able to at any time.",
+   "sources": [
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "In both parables the hypocrites gain nothing: from the fire only darkness and smouldering, from the storm only fear; they see in Islam only hardship.",
+   "sources": [
+    "qe-english-mokhtasar"
+   ]
+  },
+  {
+   "text": "Ibn Kathir links the ayah to those who worship Allah on an edge (22:11).",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

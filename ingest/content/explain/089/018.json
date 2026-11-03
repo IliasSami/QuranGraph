@@ -1,0 +1,79 @@
+{
+ "id": "89:18",
+ "simple_en": "The second fault: you do not urge one another to feed the poor person who has nothing to eat. You do not feed them yourselves, and you do not encourage others to do it either. Sa'di says this comes from being tight-fisted with the world and loving it deeply. Ma'ariful Qur'an adds that even someone who cannot give much can still encourage others to feed the needy.",
+ "simple_bn": "দ্বিতীয় দোষ: যার খাওয়ার কিছু নেই, এমন অভাবীকে খাওয়াতে তোমরা পরস্পরকে উৎসাহ দাও না। নিজেরাও খাওয়াও না, অন্যকেও উৎসাহিত করো না। সা'দী বলেন, এর মূলে আছে দুনিয়ার প্রতি কৃপণতা আর গভীর ভালোবাসা। মাআরিফুল কুরআন যোগ করেছে, যে নিজে বেশি দিতে পারে না, সেও অন্যকে অভাবীকে খাওয়াতে উৎসাহ দিতে পারে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "حضض",
+   "lemma": "تَحاضُّ",
+   "meaning_en": "you urge one another",
+   "meaning_bn": "তোমরা পরস্পরকে উৎসাহ দাও",
+   "why_en": "Not just giving, but encouraging each other so that a whole community cares for the hungry."
+  },
+  {
+   "pos": 5,
+   "root": "سكن",
+   "lemma": "مِسْكِين",
+   "meaning_en": "the poor, needy",
+   "meaning_bn": "মিসকীন, অভাবী",
+   "why_en": "One who does not have enough to meet his needs."
+  }
+ ],
+ "lesson_en": "Feed the hungry when you can, and when you cannot, be the one who reminds and encourages others to do it.",
+ "lesson_bn": "যখন পারেন অভুক্তকে খাওয়ান, আর যখন পারেন না, তখন অন্যদের মনে করিয়ে দিন ও উৎসাহ দিন।",
+ "real_life_en": "You are a student with little money. When your neighbourhood group chat discusses an elderly man who often goes without meals, you suggest a simple rota: each family sends him one plate a week. You give only a little yourself, but your encouragement gets a dozen families involved.",
+ "real_life_bn": "আপনি ছাত্র, হাতে টাকা কম। মহল্লার গ্রুপ চ্যাটে এক বয়স্ক মানুষের কথা উঠল, যিনি প্রায়ই না খেয়ে থাকেন। আপনি সহজ একটা পালা প্রস্তাব করলেন: প্রতিটি পরিবার সপ্তাহে একবেলা খাবার পাঠাবে। নিজে দিলেন সামান্যই, কিন্তু আপনার উৎসাহে এক ডজন পরিবার যুক্ত হলো।",
+ "themes": [
+  "charity",
+  "greed",
+  "brotherhood"
+ ],
+ "kinds": [
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "None of you encourages the other in feeding the poor person who cannot find anything to consume.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "They neither feed the poor themselves nor urge others to do so.",
+   "sources": [
+    "g-en-jalalayn",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Sa'di: this is due to stinginess with the world and intense love of it rooted in the hearts.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ma'arif: the poor, unable to spend, should at least encourage others to feed the needy.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

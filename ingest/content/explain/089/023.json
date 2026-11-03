@@ -1,0 +1,98 @@
+{
+ "id": "89:23",
+ "simple_en": "On that day Hell will be brought forward. Al-Mukhtasar describes it with seventy thousand reins, each pulled by seventy thousand angels; Zakaria's notes give this as a hadith in Muslim. Then man will remember what he did and how he fell short in Allah's rights. He will finally see that the prophets told the truth. But what good will remembering do then? That is a day of repayment, not of action.",
+ "simple_bn": "সেদিন জাহান্নামকে সামনে আনা হবে। আল-মুখতাসার বর্ণনা করেছে, এর সত্তর হাজার লাগাম থাকবে, প্রতিটি লাগাম টানবে সত্তর হাজার ফেরেশতা; যাকারিয়ার টীকায় এটি মুসলিমের হাদীস হিসেবে এসেছে। তখন মানুষ মনে করবে সে কী করেছে, আল্লাহর হকে কোথায় ত্রুটি করেছে। সে অবশেষে বুঝবে, নবীরা সত্য বলেছিলেন। কিন্তু তখন মনে পড়ে কী লাভ? সেদিন প্রতিদানের দিন, আমলের দিন নয়।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": null,
+   "lemma": "جَهَنَّم",
+   "meaning_en": "Hell",
+   "meaning_bn": "জাহান্নাম",
+   "why_en": "Brought into view of all on that day."
+  },
+  {
+   "pos": 5,
+   "root": "ذكر",
+   "lemma": "تَذَكَّرَ",
+   "meaning_en": "will remember",
+   "meaning_bn": "স্মরণ করবে",
+   "why_en": "Either remembering his deeds or waking up to the truth; both come too late."
+  },
+  {
+   "pos": 9,
+   "root": "ذكر",
+   "lemma": "ذِكْرَى",
+   "meaning_en": "the remembrance",
+   "meaning_bn": "স্মরণ, উপদেশ",
+   "why_en": "The same root: the reminder that would have helped in this life helps no longer."
+  }
+ ],
+ "lesson_en": "Think about your mistakes and fix them now, while it can still help.",
+ "lesson_bn": "এখনই নিজের ভুলগুলো মনে করুন ও শুধরে নিন, যখন মনে করার মাধ্যমে কিছু বদলানো যায়।",
+ "real_life_en": "You keep telling yourself you will start praying regularly \"after exams\", then \"after the wedding\", then \"after this busy season\". This ayah shows a person who remembers everything when it is too late. So you pray the next prayer on time, today, instead of waiting for a better moment.",
+ "real_life_bn": "নিজেকে বলেই চলেছেন, 'পরীক্ষার পর' নিয়মিত নামাজ শুরু করবেন, তারপর 'বিয়ের পর', তারপর 'এই ব্যস্ত সময়টা গেলে'। এ আয়াত দেখায় এমন এক মানুষকে, যার সব মনে পড়ে যখন আর সময় নেই। তাই ভালো কোনো মুহূর্তের অপেক্ষা না করে আজই পরের নামাজটা সময়মতো পড়লেন।",
+ "themes": [
+  "Hell",
+  "the Last Day",
+  "repentance",
+  "judgment"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hell",
+   "angels"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "the Day of Judgement"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Hell will be brought with seventy thousand reins, each pulled by seventy thousand angels.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "This is a hadith recorded by Muslim (and at-Tirmidhi) from 'Abdullah bin Mas'ud.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Man will remember his shortcomings in Allah's rights, but it will not benefit him, because it is a day of requital, not action.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Yatadhakkar may mean realising that what the prophets said was true, or remembering one's deeds; neither will help then.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

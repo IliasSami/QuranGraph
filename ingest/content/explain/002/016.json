@@ -1,0 +1,91 @@
+{
+ "id": "2:16",
+ "simple_en": "The Quran describes their choice as a trade. They \"bought\" misguidance and paid for it with guidance: they gave up faith and took disbelief. Sa'di notes that misguidance, the worst thing, is pictured as the goods, and guidance, the best thing, as the price. If giving a gold coin for a small silver coin is a loss, what about giving away guidance itself? So their trade made no profit, and they were not guided.",
+ "simple_bn": "কুরআন তাদের সিদ্ধান্তকে একটি ব্যবসার সাথে তুলনা করেছে। তারা পথভ্রষ্টতা \"কিনেছে\" আর তার দাম দিয়েছে হিদায়াত দিয়ে: ঈমান ছেড়ে কুফর নিয়েছে। সা'দী বলেন, এখানে সবচেয়ে খারাপ জিনিস, অর্থাৎ পথভ্রষ্টতাকে পণ্য, আর সবচেয়ে ভালো জিনিস, অর্থাৎ হিদায়াতকে তার দাম হিসেবে দেখানো হয়েছে। একটি সোনার মুদ্রা দিয়ে ছোট একটি রুপার মুদ্রা নেওয়া যদি লোকসান হয়, তাহলে হিদায়াতই দিয়ে দেওয়া কত বড় লোকসান! তাই তাদের ব্যবসায় কোনো লাভ হয়নি, আর তারা হিদায়াতও পায়নি।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "شري",
+   "lemma": "اشْتَرَى",
+   "meaning_en": "they bought",
+   "meaning_bn": "তারা কিনেছে",
+   "why_en": "Buying shows desire: they wanted misguidance enough to pay for it."
+  },
+  {
+   "pos": 4,
+   "root": "ضلل",
+   "lemma": "ضَلالَة",
+   "meaning_en": "misguidance",
+   "meaning_bn": "পথভ্রষ্টতা",
+   "why_en": "What they chose to take."
+  },
+  {
+   "pos": 8,
+   "root": "تجر",
+   "lemma": "تِجارَة",
+   "meaning_en": "their trade",
+   "meaning_bn": "তাদের ব্যবসা",
+   "why_en": "Their life's dealing is pictured as a business that only lost."
+  }
+ ],
+ "lesson_en": "Before every choice, ask what you are giving up for it, and never trade your faith for something small.",
+ "lesson_bn": "প্রতিটি সিদ্ধান্তের আগে ভাবুন এর বিনিময়ে আপনি কী হারাচ্ছেন, আর কখনো ছোট কিছুর জন্য নিজের ঈমান বিকিয়ে দেবেন না।",
+ "real_life_en": "A job offer pays more, but it would mean regularly lying to customers. You weigh it like a trader: extra money on one side, your honesty and peace with Allah on the other. You see which deal is the real loss.",
+ "real_life_bn": "একটা চাকরিতে বেতন বেশি, কিন্তু সেখানে নিয়মিত গ্রাহকদের সাথে মিথ্যা বলতে হবে। আপনি একজন ব্যবসায়ীর মতো হিসাব করলেন: এক দিকে বাড়তি টাকা, অন্য দিকে আপনার সততা আর আল্লাহর সাথে সম্পর্কের শান্তি। কোন সওদাটা আসল লোকসান, তা আপনি বুঝে নিলেন।",
+ "context_en": "This sums up the hypocrites' qualities described since 2:8. Next come two parables that show their state even more clearly.",
+ "context_bn": "২:৮ থেকে বর্ণিত মুনাফিকদের বৈশিষ্ট্যগুলোর সারকথা এই আয়াত। এরপর আসছে দুটি দৃষ্টান্ত, যা তাদের অবস্থা আরও স্পষ্ট করে দেখায়।",
+ "themes": [
+  "hypocrisy",
+  "guidance",
+  "misguidance",
+  "this world"
+ ],
+ "kinds": [
+  "warning",
+  "parable"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "They exchanged faith for disbelief; the exchange did not profit them and they lost the way to the truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: they desired misguidance as a buyer desires goods; misguidance is made the goods and guidance the price; if giving a dinar for a dirham is a loss, how much worse is giving guidance for misguidance.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "'They were not guided' confirms that they gained nothing of guidance.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "After describing their qualities, Allah gives their parable.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

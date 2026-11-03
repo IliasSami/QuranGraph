@@ -1,0 +1,83 @@
+{
+ "id": "83:13",
+ "simple_en": "When the ayat revealed to the Prophet ﷺ are recited to such a person, he says, \"Just tales of the ancients,\" meaning old stories, not from Allah. Al-Sa'di says he rejects them out of pride and stubbornness, though they point clearly to the truth. Ahsanul Bayan adds that instead of reflecting on them, he brushes them aside.",
+ "simple_bn": "রাসূলুল্লাহ ﷺ-এর উপর নাযিল হওয়া আয়াতগুলো যখন এমন লোকের সামনে পড়া হয়, সে বলে, \"এ তো পূর্ববর্তীদের উপকথা,\" অর্থাৎ পুরনো গল্প, আল্লাহর পক্ষ থেকে নয়। আস-সা'দী বলেন, আয়াতগুলো স্পষ্টভাবে সত্যের দিকে ইঙ্গিত করলেও সে অহংকার ও জেদের কারণে তা প্রত্যাখ্যান করে। আহসানুল বায়ান বলে, সে আয়াত নিয়ে চিন্তা না করে উড়িয়ে দেয়।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "أيي",
+   "lemma": "آيَة",
+   "meaning_en": "Our ayat, verses",
+   "meaning_bn": "আমার আয়াতসমূহ",
+   "why_en": "The verses of the Quran, which are also signs pointing to the truth."
+  },
+  {
+   "pos": 6,
+   "root": "سطر",
+   "lemma": "أَساطِير",
+   "meaning_en": "tales, legends",
+   "meaning_bn": "উপকথা",
+   "why_en": "From satr, a written line: Jalalayn explains it as tales written down long ago."
+  }
+ ],
+ "lesson_en": "When you hear the Quran, give it honest thought instead of dismissing it with a quick label.",
+ "lesson_bn": "কুরআন শুনলে চটজলদি কোনো তকমা লাগিয়ে উড়িয়ে না দিয়ে মন দিয়ে ভাবুন।",
+ "real_life_en": "A friend shares an ayah about honesty in a group chat, and someone replies, \"Old stuff, doesn't apply now.\" You could react the same way, or you could read it again slowly and ask what it means for your own week. The ayah warns against the first reaction.",
+ "real_life_bn": "এক বন্ধু গ্রুপ চ্যাটে সততা নিয়ে একটি আয়াত শেয়ার করল, কেউ উত্তর দিল, \"পুরনো কথা, এখন খাটে না।\" আপনিও এভাবে প্রতিক্রিয়া দেখাতে পারেন। আবার চাইলে ধীরে ধীরে আয়াতটি আবার পড়ে ভাবতে পারেন, এই সপ্তাহে আপনার জন্য এর অর্থ কী। আয়াতটি প্রথম প্রতিক্রিয়ার ব্যাপারে সতর্ক করছে।",
+ "themes": [
+  "the Quran",
+  "disbelief",
+  "arrogance",
+  "reflection"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "When the verses revealed to the Messenger are recited to him, he says these are stories of earlier nations and not from Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: the verses point to the truth and the truthfulness of the messengers, but he denies them out of arrogance and stubbornness.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ahsanul Bayan: instead of reflecting on Allah's verses, he calls them ancient fables.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Jalalayn: asatir are tales written down in ancient times.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

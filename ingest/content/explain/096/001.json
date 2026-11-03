@@ -1,0 +1,126 @@
+{
+ "id": "96:1",
+ "simple_en": "Ibn Kathir, Sa'di and Ma'ariful Qur'an say these first five ayat were the first part of the Quran to come down. Al-Bukhari and Muslim record how it happened. The angel came to the Prophet ﷺ in the cave of Hira and said \"Read\". He said he was not one who reads. Then came this command: read what Allah sends you, and start with the name of your Lord, who made all things.",
+ "simple_bn": "ইবনে কাসীর, সা'দী ও মাআরিফুল কুরআন জানান, এই সূরার প্রথম পাঁচটি আয়াতই কুরআনের সর্বপ্রথম নাযিল হওয়া অংশ। বুখারী ও মুসলিমে বর্ণিত আছে, হিরা গুহায় ফেরেশতা নবী ﷺ-এর কাছে এসে বললেন, \"পড়ুন\"; তিনি উত্তর দিলেন, আমি তো পড়তে জানি না। তারপর এল এই নির্দেশ: আল্লাহ আপনার প্রতি যা ওহী করেন তা পড়ুন, আপনার রবের নাম নিয়ে শুরু করে, যিনি সবকিছু সৃষ্টি করেছেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قرأ",
+   "lemma": "قَرَأَ",
+   "meaning_en": "read, recite",
+   "meaning_bn": "পড়ুন, পাঠ করুন",
+   "why_en": "The first word of revelation: a command to read what Allah sends down."
+  },
+  {
+   "pos": 2,
+   "root": "سمو",
+   "lemma": "اسْم",
+   "meaning_en": "name",
+   "meaning_bn": "নাম",
+   "why_en": "Reading begins with the name of Allah, seeking His help."
+  },
+  {
+   "pos": 5,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "created",
+   "meaning_bn": "সৃষ্টি করেছেন",
+   "why_en": "No object is named, so it covers all of creation."
+  }
+ ],
+ "lesson_en": "Begin your learning with Allah's name. The Lord who created everything is the One who teaches.",
+ "lesson_bn": "আল্লাহর নাম নিয়ে শেখা শুরু করুন। যিনি সবকিছু সৃষ্টি করেছেন, তিনিই শিক্ষা দেন।",
+ "real_life_en": "Before opening a textbook for an exam, a student says \"Bismillah\" and remembers that the first word Allah revealed was \"Read\". Studying stops feeling like a chore she does alone. It becomes something she does in her Lord's name, asking Him to open her mind.",
+ "real_life_bn": "পরীক্ষার জন্য বই খোলার আগে এক ছাত্রী \"বিসমিল্লাহ\" বলে, আর মনে করে আল্লাহর নাযিল করা প্রথম শব্দটি ছিল \"পড়ুন\"। তখন পড়াশোনা আর একা টেনে নেওয়া বোঝা মনে হয় না। এটা হয়ে যায় নিজের রবের নামে করা কাজ, যেখানে সে তাঁর কাছে চায় তিনি যেন তার বুঝ খুলে দেন।",
+ "context_en": "Zakaria and Ma'ariful Qur'an note that a few scholars named al-Muddaththir or al-Fatihah as the first revealed, but the view that these ayat came first is the one most scholars hold and call correct.",
+ "context_bn": "যাকারিয়া ও মাআরিফুল কুরআন উল্লেখ করেন, কেউ কেউ সূরা আল-মুদ্দাসসির বা আল-ফাতিহাকে প্রথম নাযিল হওয়া বলেছেন; তবে অধিকাংশ আলেমের মত এবং বিশুদ্ধ মত হলো, এই আয়াতগুলোই প্রথম নাযিল হয়েছে।",
+ "themes": [
+  "revelation",
+  "the Quran",
+  "knowledge",
+  "Prophet Muhammad ﷺ",
+  "creation"
+ ],
+ "kinds": [
+  "command",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [
+   "Cave of Hira"
+  ],
+  "unseen": [
+   "Jibril"
+  ],
+  "names_of_allah": [
+   "Ar-Rabb"
+  ],
+  "events": [
+   "the first revelation"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "This surah is the first revealed to the Messenger ﷺ, at the start of prophethood; the first five ayat were the first of the Quran revealed.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "The angel came to him in the cave of Hira and said 'Read'; he replied 'I am not one who reads' (al-Bukhari and Muslim).",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "O Messenger, read what Allah reveals to you, beginning with the name of your Lord who created the creation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "'Created' is left without an object, so it means all creation.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Some named al-Muddaththir or al-Fatihah as first; most scholars hold these ayat came first, and this is called correct.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": {
+  "text_en": "The first revelation: the angel came to the Prophet ﷺ in the cave of Hira and commanded him to read, and these ayat up to 'what he did not know' were revealed.",
+  "text_bn": "প্রথম ওহী: হিরা গুহায় ফেরেশতা নবী ﷺ-এর কাছে এসে পড়ার নির্দেশ দিলেন, আর \"যা সে জানত না\" পর্যন্ত এই আয়াতগুলো নাযিল হলো।",
+  "sources": [
+   "g-en-ibn-kathir",
+   "g-en-maarif",
+   "qe-bengali-zakaria"
+  ],
+  "strength": "sahih"
+ },
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Tanzil's Arabic line for 96:1 has the Basmalah joined to the ayah text."
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "id": "88:7",
+ "simple_en": "This food neither nourishes the one who eats it nor takes away his hunger. Sa'di explains that food is eaten for one of two reasons: to end hunger, or to build up the body. This food does neither. It is bitter, foul and worthless. Ma'ariful Qur'an mentions that some Makkan pagans mocked that their camels grew fat on dari', and this ayah answered them.",
+ "simple_bn": "এই খাবার খাওয়া ব্যক্তিকে পুষ্টও করবে না, তার ক্ষুধাও দূর করবে না। সা'দী ব্যাখ্যা করেন, মানুষ খাবার খায় দুটি কারণে: ক্ষুধা মেটাতে, অথবা শরীর গড়তে। এই খাবার এর কোনোটিই করে না। এটি তেতো, দুর্গন্ধময় ও মূল্যহীন। মাআরিফুল কুরআন উল্লেখ করে, মক্কার কিছু মুশরিক ঠাট্টা করে বলেছিল, তাদের উট তো দারী খেয়ে মোটা হয়, আর এই আয়াত তাদের জবাব দিয়েছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سمن",
+   "lemma": "يُسْمِنُ",
+   "meaning_en": "nourishes, fattens",
+   "meaning_bn": "পুষ্ট করে",
+   "why_en": "One purpose of food: building the body. It will not do this."
+  },
+  {
+   "pos": 6,
+   "root": "جوع",
+   "lemma": "جُوع",
+   "meaning_en": "hunger",
+   "meaning_bn": "ক্ষুধা",
+   "why_en": "The other purpose of food: ending hunger. It will not do this either."
+  }
+ ],
+ "lesson_en": "Choose the things in life that truly nourish your soul, because empty pleasures leave you hungrier than before.",
+ "lesson_bn": "জীবনে এমন জিনিস বেছে নিন, যা সত্যিই আত্মাকে পুষ্ট করে, কারণ ফাঁপা আনন্দ আপনাকে আগের চেয়েও বেশি ক্ষুধার্ত রেখে যায়।",
+ "real_life_en": "After two hours of scrolling short videos, you feel more restless, not less. You notice the pattern: it fills time but leaves you empty. You swap the last half hour of the night for a short Quran recitation and some quiet dua.",
+ "real_life_bn": "দুই ঘণ্টা ছোট ভিডিও স্ক্রল করার পর আপনি আরও অস্থির বোধ করছেন, শান্ত নয়। ধরনটা খেয়াল করলেন: এটি সময় ভরে দেয়, কিন্তু মনকে খালি রাখে। রাতের শেষ আধঘণ্টা আপনি বদলে দিলেন কুরআনের ছোট তিলাওয়াত আর নীরব দোয়ায়।",
+ "themes": [
+  "Hell",
+  "punishment"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Makkah"
+  ],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "dari'"
+  ]
+ },
+ "claims": [
+  {
+   "text": "It does not nourish the one who eats it nor satiate his hunger.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: food is meant either to stop hunger or to fatten the body; this food has neither, and is extremely bitter and foul.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: the purpose of eating it is not achieved and nothing harmful is repelled by it.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Some Makkan pagans said their camels grow fat on dari', and this ayah was revealed in reply.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": {
+  "text_en": "Ma'ariful Qur'an reports that when ayah 6 was revealed, some Makkan pagans mockingly said their camels eat dari' and are fat, and this ayah was revealed in reply.",
+  "text_bn": "মাআরিফুল কুরআন বর্ণনা করে, ৬ নম্বর আয়াত নাযিল হলে মক্কার কিছু মুশরিক ঠাট্টা করে বলেছিল, তাদের উট দারী খেয়ে মোটা হয়; এর জবাবে এই আয়াত নাযিল হয়।",
+  "sources": [
+   "g-en-maarif"
+  ],
+  "strength": "reported"
+ },
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.87,
+ "uncertain": [
+  "The occasion is given only by Ma'ariful Qur'an, without a chain."
+ ]
+}

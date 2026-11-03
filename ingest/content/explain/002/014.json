@@ -1,0 +1,85 @@
+{
+ "id": "2:14",
+ "simple_en": "Here their double face is shown. When they meet the believers, they say, \"We believe,\" because they think it benefits them and they fear the believers. But when they are alone with their \"devils\", meaning their leaders in evil, they say, \"We are really with you. We were only mocking them.\" Ibn Kathir notes that devils can be humans as well as jinn: anyone who leads others into evil.",
+ "simple_bn": "এখানে তাদের দুই মুখ দেখানো হয়েছে। মু'মিনদের সাথে দেখা হলে তারা বলে, \"আমরা ঈমান এনেছি,\" কারণ তারা ভাবে এতে লাভ আছে, আর মু'মিনদের ভয়ও পায়। কিন্তু যখন তারা তাদের \"শয়তানদের\" সাথে একা হয়, অর্থাৎ অন্যায়ের পথের নেতাদের সাথে, তখন বলে, \"আমরা আসলে তোমাদের সাথেই আছি। আমরা তো শুধু ওদের নিয়ে ঠাট্টা করছিলাম।\" ইবনে কাসীর বলেন, শয়তান মানুষও হতে পারে, জিনও হতে পারে: যে-ই অন্যকে মন্দের দিকে টানে।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "خلو",
+   "lemma": "خَلا",
+   "meaning_en": "they are alone",
+   "meaning_bn": "তারা একান্তে মিলিত হয়",
+   "why_en": "Their real face appears only in private."
+  },
+  {
+   "pos": 10,
+   "root": "شطن",
+   "lemma": "شَيْطان",
+   "meaning_en": "their devils",
+   "meaning_bn": "তাদের শয়তানরা",
+   "why_en": "Here their leaders in evil; any rebellious one, human or jinn, can be called a devil."
+  },
+  {
+   "pos": 16,
+   "root": "هزأ",
+   "lemma": "مُسْتَهْزِء",
+   "meaning_en": "mockers",
+   "meaning_bn": "ঠাট্টাকারী",
+   "why_en": "They called their show of faith a joke at the believers' expense."
+  }
+ ],
+ "lesson_en": "Be the same person in private as you are in public, and watch who you open your heart to when you are alone.",
+ "lesson_bn": "প্রকাশ্যে যেমন, একান্তেও তেমনই থাকুন, আর খেয়াল রাখুন একা থাকলে কার কাছে মন খুলছেন।",
+ "real_life_en": "At the mosque you speak kindly about a neighbour, but with certain friends you join in making fun of him. You notice the gap, stop joining the jokes, and choose friends who help you stay the same person in both places.",
+ "real_life_bn": "মসজিদে আপনি এক প্রতিবেশী সম্পর্কে ভালো কথা বলেন, কিন্তু কয়েকজন বন্ধুর সাথে বসলে তাকে নিয়ে হাসাহাসিতে যোগ দেন। এই ফারাকটা আপনি খেয়াল করলেন, হাসাহাসিতে যোগ দেওয়া বন্ধ করলেন, আর এমন বন্ধু বেছে নিলেন যারা আপনাকে দুই জায়গাতেই একই মানুষ থাকতে সাহায্য করে।",
+ "context_en": "This continues the description of the hypocrites, showing the gap between their public and private words.",
+ "context_bn": "এটি মুনাফিকদের বর্ণনার ধারাবাহিকতা, যেখানে তাদের প্রকাশ্য ও গোপন কথার ফারাক দেখানো হয়েছে।",
+ "themes": [
+  "hypocrisy",
+  "honesty",
+  "Satan"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "devils"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "When they meet the believers they say 'We believe', thinking it benefits them and out of fear of the believers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "When alone with their devils, meaning their leaders, they say 'We are with you; we were only mocking.'",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Jarir: the devils of every kind of creation are the mischievous among them; there are human devils and jinn devils.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

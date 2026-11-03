@@ -1,0 +1,78 @@
+{
+ "id": "90:14",
+ "simple_en": "The second part of the steep pass is feeding people on a day of severe hunger, when food is scarce. Sa'di says it means feeding the neediest people at the time they need it most. Ma'ariful Qur'an notes that feeding any hungry person carries great reward, and the reward grows when the person is hungry and in greater need. Zakaria's notes quote a hadith in al-Hakim's Mustadrak that feeding a hungry Muslim makes forgiveness certain.",
+ "simple_bn": "দুর্গম গিরিপথের দ্বিতীয় অংশ হলো তীব্র ক্ষুধার দিনে, যখন খাদ্যের অভাব, তখন মানুষকে খাওয়ানো। সা'দী বলেন, এর অর্থ সবচেয়ে অভাবী মানুষকে তার সবচেয়ে প্রয়োজনের সময় খাওয়ানো। মাআরিফুল কুরআন বলেছে, যেকোনো ক্ষুধার্তকে খাওয়ানো বড় সওয়াবের কাজ, আর মানুষটি যত ক্ষুধার্ত ও অভাবী, সওয়াব তত বেশি। যাকারিয়ার টীকায় মুস্তাদরাকে হাকিমের একটি হাদীস উদ্ধৃত হয়েছে: ক্ষুধার্ত মুসলিমকে খাওয়ানো ক্ষমাকে অবধারিত করে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "طعم",
+   "lemma": "إِطْعام",
+   "meaning_en": "feeding",
+   "meaning_bn": "খাওয়ানো, অন্নদান",
+   "why_en": "Giving food to others, a deed that helps carry a person over the pass."
+  },
+  {
+   "pos": 6,
+   "root": "سغب",
+   "lemma": "مَسْغَبَة",
+   "meaning_en": "severe hunger",
+   "meaning_bn": "তীব্র ক্ষুধা, দুর্ভিক্ষ",
+   "why_en": "A time of famine, when giving is hardest and most needed."
+  }
+ ],
+ "lesson_en": "Give food when it is hardest to give and most needed; that is when it counts most.",
+ "lesson_bn": "যখন দেওয়া সবচেয়ে কঠিন আর প্রয়োজন সবচেয়ে বেশি, তখনই খাবার দিন; তখনই এর মূল্য সবচেয়ে বেশি।",
+ "real_life_en": "Prices have gone up and your own family is cutting back. It would be easy to say, \"We have nothing extra to give.\" Still, you cook a little more rice and lentils each Friday and send a plate to the day labourer's family next door, who often go without.",
+ "real_life_bn": "জিনিসপত্রের দাম বেড়ে গেছে, আপনার নিজের পরিবারও খরচ কমাচ্ছে। সহজেই বলা যায়, 'আমাদের দেওয়ার মতো বাড়তি কিছু নেই।' তবু প্রতি শুক্রবার একটু বেশি ভাত-ডাল রান্না করে পাশের বাড়ির দিনমজুরের পরিবারে এক প্লেট পাঠান, যারা প্রায়ই না খেয়ে থাকে।",
+ "themes": [
+  "charity",
+  "good character"
+ ],
+ "kinds": [
+  "ethics",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Or to feed on a day of drought or severe hunger, when food is scarce.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: to feed, at the time of need, those most in need.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ma'arif: feeding any hungry person carries great reward; feeding one who is hungry and poorer brings more.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Hadith (Mustadrak al-Hakim, quoted by Zakaria): feeding a hungry Muslim makes forgiveness certain.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

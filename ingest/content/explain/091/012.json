@@ -1,0 +1,92 @@
+{
+ "id": "91:12",
+ "simple_en": "Their denial reached its peak when the most wretched man among them rose up to kill the she-camel. His people had agreed on the plan and sent him to do it, and he answered their call. The commentators name him Qudar ibn Salif. Ibn Kathir says he was a strong, respected leader among his tribe.",
+ "simple_bn": "তাদের অস্বীকার চরমে পৌঁছাল, যখন তাদের মধ্যে সবচেয়ে হতভাগা লোকটি উষ্ট্রীটিকে হত্যা করতে উঠে দাঁড়াল। তার জাতির লোকেরা এই পরিকল্পনায় একমত হয়ে তাকে পাঠিয়েছিল, আর সে তাদের ডাকে সাড়া দিল। মুফাসসিরগণ তার নাম বলেছেন কুদার ইবনে সালিফ। ইবনে কাসীর বলেন, সে ছিল তার গোত্রে শক্তিশালী ও প্রভাবশালী এক নেতা।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "بعث",
+   "lemma": "انۢبَعَثَ",
+   "meaning_en": "rose up, was sent forth",
+   "meaning_bn": "তৎপর হয়ে উঠল",
+   "why_en": "He set out eagerly for the crime, sent by his people's agreement."
+  },
+  {
+   "pos": 3,
+   "root": "شقو",
+   "lemma": "أَشْقَى",
+   "meaning_en": "the most wretched",
+   "meaning_bn": "সবচেয়ে হতভাগা",
+   "why_en": "Shaqawah is wretchedness: the opposite of the success described in ayah 9."
+  }
+ ],
+ "lesson_en": "Supporting a wrong as a group does not lessen it; each one who agrees shares in it.",
+ "lesson_bn": "দলবেঁধে কোনো অন্যায়ে সমর্থন দিলে তা হালকা হয়ে যায় না; যে-ই সম্মতি দেয়, সে-ই তার অংশীদার হয়।",
+ "real_life_en": "A group chat decides to post a cruel joke about a classmate, and one person volunteers to do it. Everyone who cheered him on is part of the harm, even if they never typed a word. Saying \"no, leave it\" early is how you stay out of it.",
+ "real_life_bn": "একটি গ্রুপ চ্যাটে সবাই ঠিক করল এক সহপাঠীকে নিয়ে নিষ্ঠুর একটা ঠাট্টা পোস্ট করবে, আর একজন সেটা করার দায়িত্ব নিল। যারা তাকে উৎসাহ দিয়েছে, একটা শব্দও না লিখলেও তারা এই কষ্টের অংশীদার। শুরুতেই \"না, এটা বাদ দাও\" বলাই এর থেকে দূরে থাকার উপায়।",
+ "themes": [
+  "past nations",
+  "stories of the prophets",
+  "disbelief"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Qudar ibn Salif"
+  ],
+  "nations": [
+   "Thamud"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "killing of the she-camel"
+  ],
+  "things": [
+   "she-camel of Allah"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The most wretched among them stood up after his people appointed him for the task.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "He rose to hamstring/kill the she-camel; he is named Qudar (bin Salif).",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: he was mighty, respected, of noble lineage and an obeyed leader of his tribe.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Because the people agreed to it, they all shared in the crime.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-bn-ahsanul-bayan",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

@@ -1,0 +1,80 @@
+{
+ "id": "88:8",
+ "simple_en": "Now the surah turns to the fortunate. Their faces on that Day will be soft and glowing with joy. Al-Mukhtasar says this is because of the blessings they have received. Sa'di describes the freshness of bliss spreading over them, so that their faces shine and they are filled with happiness.",
+ "simple_bn": "এবার সূরাটি সৌভাগ্যবানদের দিকে ফিরছে। সেদিন তাদের চেহারা হবে কোমল, আনন্দে উজ্জ্বল। আল-মুখতাসার বলে, এর কারণ তারা যে নিয়ামত পেয়েছে। সা'দী বর্ণনা করেন, নিয়ামতের সতেজতা তাদের উপর ছড়িয়ে পড়বে, ফলে তাদের চেহারা ঝলমল করবে আর তারা পরম আনন্দে ভরে উঠবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "وجه",
+   "lemma": "وَجْه",
+   "meaning_en": "faces",
+   "meaning_bn": "চেহারা",
+   "why_en": "The same word as ayah 2, now for the opposite group."
+  },
+  {
+   "pos": 3,
+   "root": "نعم",
+   "lemma": "ناعِمَة",
+   "meaning_en": "joyful, radiant",
+   "meaning_bn": "আনন্দোজ্জ্বল",
+   "why_en": "From the root of ni'mah, blessing: the face shows the bliss it has received."
+  }
+ ],
+ "lesson_en": "Hope for that joyful face on the Day of Judgment, and work for it with good deeds today.",
+ "lesson_bn": "কিয়ামতের দিন সেই আনন্দোজ্জ্বল চেহারার আশা রাখুন, আর আজ নেক আমলের মাধ্যমে তার জন্য কাজ করুন।",
+ "real_life_en": "After a long day of caring for your sick mother, you feel worn out and unnoticed. You remember this ayah: a day is coming when tired faces like yours will shine with joy. It gives you strength to keep serving her with a smile.",
+ "real_life_bn": "অসুস্থ মায়ের সেবায় একটি লম্বা দিন কাটিয়ে আপনি ক্লান্ত, মনে হচ্ছে কেউ খেয়াল করে না। এই আয়াতটি মনে পড়ল: এমন এক দিন আসছে, যেদিন আপনার মতো ক্লান্ত চেহারাগুলো আনন্দে ঝলমল করবে। এটি আপনাকে হাসিমুখে মায়ের সেবা চালিয়ে যাওয়ার শক্তি দেয়।",
+ "context_en": "Ibn Kathir notes that after describing the wretched, Allah now describes the people who will be happy.",
+ "context_bn": "ইবনে কাসীর উল্লেখ করেন, হতভাগাদের বর্ণনার পর আল্লাহ এখন সুখী মানুষদের বর্ণনা দিচ্ছেন।",
+ "themes": [
+  "Paradise",
+  "reward",
+  "the Last Day"
+ ],
+ "kinds": [
+  "hereafter",
+  "glad-tidings",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The faces of the fortunate on that day will display delight and happiness because of the bliss they received.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: the freshness of bliss passes over them, their faces shine and they are greatly pleased.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "After the wretched, Allah mentions those who will be happy.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": [
+  "The Bangla Mukhtasar text for this ayah has a garbled character in the word for face."
+ ]
+}

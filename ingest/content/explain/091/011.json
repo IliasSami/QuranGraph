@@ -1,0 +1,88 @@
+{
+ "id": "91:11",
+ "simple_en": "As an example of the failing soul, Allah mentions the people of Thamud. They rejected their prophet, Salih (peace be upon him), and the reason was their tughyan: going far past every limit in sin and disobedience. Their arrogance towards the truth and towards their messenger made them deny him.",
+ "simple_bn": "ব্যর্থ আত্মার উদাহরণ হিসেবে আল্লাহ সামূদ জাতির কথা বলছেন। তারা তাদের নবী সালিহ (আলাইহিস সালাম)-কে মিথ্যাবাদী বলেছিল, আর এর কারণ ছিল তাদের 'তুগইয়ান': পাপ ও অবাধ্যতায় সব সীমা ছাড়িয়ে যাওয়া। সত্য ও তাদের রাসূলের প্রতি অহংকারই তাদেরকে তাঁকে অস্বীকার করতে প্ররোচিত করেছিল।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "كذب",
+   "lemma": "كَذَّبَ",
+   "meaning_en": "denied",
+   "meaning_bn": "মিথ্যারোপ করল",
+   "why_en": "They called their prophet's message a lie."
+  },
+  {
+   "pos": 3,
+   "root": "طغي",
+   "lemma": "طَغْوَى",
+   "meaning_en": "their transgression",
+   "meaning_bn": "তাদের সীমালঙ্ঘন",
+   "why_en": "Tughyan is disobedience that crosses every limit; it was the cause of their denial."
+  }
+ ],
+ "lesson_en": "Persisting in sin and arrogance can harden the heart until it rejects the truth even when it is clear.",
+ "lesson_bn": "পাপ ও অহংকারে লেগে থাকলে অন্তর এতটা কঠিন হয়ে যেতে পারে যে স্পষ্ট সত্যকেও তা প্রত্যাখ্যান করে।",
+ "real_life_en": "Someone keeps cheating customers at his shop and, over time, starts mocking anyone who reminds him about honesty. The problem is no longer lack of knowledge; his habit of wrongdoing has made him unwilling to listen. Checking our own habits keeps us open to good advice.",
+ "real_life_bn": "একজন দোকানদার বারবার ক্রেতাদের ঠকায়, আর সময়ের সঙ্গে সঙ্গে কেউ সততার কথা মনে করিয়ে দিলে তাকে নিয়ে ঠাট্টা করতে শুরু করে। এখন সমস্যা আর না জানার নয়; অন্যায়ের অভ্যাস তাকে কথা শুনতে অনিচ্ছুক করে তুলেছে। নিজের অভ্যাসগুলো যাচাই করতে থাকলে আমরা ভালো উপদেশ গ্রহণের জন্য খোলা থাকি।",
+ "context_en": "The story of Thamud is told in more detail elsewhere in the Quran, for example in Surah al-A'raf; here it is given briefly as an example of the soul that fails.",
+ "context_bn": "সামূদ জাতির কাহিনি কুরআনের অন্য জায়গায়, যেমন সূরা আল-আ'রাফে, বিস্তারিত এসেছে; এখানে ব্যর্থ আত্মার উদাহরণ হিসেবে সংক্ষেপে আনা হয়েছে।",
+ "themes": [
+  "past nations",
+  "stories of the prophets",
+  "arrogance",
+  "disbelief"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Salih"
+  ],
+  "nations": [
+   "Thamud"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Thamud is mentioned as an example of the one who thrust his soul into sins; they rejected their Prophet Salih due to transgressing the limits in sins and disobedience.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: because of their tughyan, their haughtiness towards the truth and their insolence towards their messenger.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Tughyan is disobedience that exceeds the limit, and it drove them to denial.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The full story is told in Surah al-A'raf and other surahs.",
+   "sources": [
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

@@ -1,0 +1,83 @@
+{
+ "id": "96:7",
+ "simple_en": "This ayah gives the reason for that transgression: he sees himself as self-sufficient. Al-Mukhtasar says he looks at his wealth and status and thinks he needs no one. Sa'di, quoted by Zakaria, explains that instead of being grateful for getting what he wanted in this world, he turns to rebellion. Ibn Kathir describes such a person as pleased with himself, scornful and proud once he feels rich.",
+ "simple_bn": "এই আয়াত সেই সীমালঙ্ঘনের কারণ বলে দেয়: সে নিজেকে অমুখাপেক্ষী মনে করে। আল-মুখতাসার বলে, সে নিজের সম্পদ ও মর্যাদা দেখে ভাবে তার কাউকে প্রয়োজন নেই। যাকারিয়া সা'দী থেকে উল্লেখ করেন, দুনিয়ায় যা চেয়েছিল তা পেয়ে কৃতজ্ঞ হওয়ার বদলে সে বিদ্রোহের পথ ধরে। ইবনে কাসীর বলেন, নিজেকে ধনী মনে করলে এমন মানুষ আত্মতুষ্ট, তাচ্ছিল্যপূর্ণ ও অহংকারী হয়ে ওঠে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "رأي",
+   "lemma": "رَأَى",
+   "meaning_en": "he sees",
+   "meaning_bn": "সে দেখে, মনে করে",
+   "why_en": "Jalalayn notes it means seeing in the mind: it is how he views himself."
+  },
+  {
+   "pos": 3,
+   "root": "غني",
+   "lemma": "اسْتَغْنَى",
+   "meaning_en": "self-sufficient",
+   "meaning_bn": "অমুখাপেক্ষী, স্বয়ংসম্পূর্ণ",
+   "why_en": "Feeling rich enough to need no one, not even Allah."
+  }
+ ],
+ "lesson_en": "Wealth and status are tests. Meet them with gratitude, not with the feeling that you need no one.",
+ "lesson_bn": "সম্পদ ও মর্যাদা পরীক্ষা। কৃতজ্ঞতা দিয়ে এর মোকাবিলা করুন, \"আমার কাউকে দরকার নেই\" এই ভাব নিয়ে নয়।",
+ "real_life_en": "After her business starts doing well, a woman notices she has stopped making dua the way she used to when money was tight. She takes it as a warning from this ayah. She starts thanking Allah each morning and gives some of her profit to a struggling neighbour.",
+ "real_life_bn": "ব্যবসা ভালো চলতে শুরু করার পর এক নারী লক্ষ্য করেন, টাকার টানাটানির দিনগুলোতে যেভাবে দুআ করতেন, এখন আর সেভাবে করেন না। তিনি এটাকে এই আয়াতের সতর্কবার্তা হিসেবে নেন। প্রতিদিন সকালে আল্লাহর শুকরিয়া আদায় করতে শুরু করেন, আর লাভের একটা অংশ কষ্টে থাকা এক প্রতিবেশীকে দেন।",
+ "themes": [
+  "wealth",
+  "arrogance",
+  "gratitude",
+  "human nature"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Abu Jahl"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Because he sees himself free of need due to his wealth and status.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: having got what he wanted of the world, instead of being grateful he rebels and transgresses.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: man is pleased, scornful and transgressive when he considers himself self-sufficient with abundant wealth.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Ra'a here means seeing mentally (considering himself).",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": [
+  "Zakaria's footnote for 96:7 is cut off mid-word in the source data."
+ ]
+}

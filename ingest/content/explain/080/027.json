@@ -1,0 +1,73 @@
+{
+ "id": "80:27",
+ "simple_en": "From the opened earth Allah grows grain. Al-Mukhtasar gives examples such as wheat and corn, and Jalalayn mentions wheat and barley. Al-Sa'di says the word covers every kind of grain. Grain is the basic food of people everywhere.",
+ "simple_bn": "বিদীর্ণ মাটি থেকে আল্লাহ শস্য উৎপন্ন করেন। আল-মুখতাসার উদাহরণ দিয়েছে গম, ভুট্টা ইত্যাদি, আর জালালাইন বলেছে গম ও যব। আস-সা'দী বলেন, শব্দটি সব ধরনের শস্যকে বোঝায়। শস্যই সব জায়গার মানুষের মূল খাবার।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "نبت",
+   "lemma": "أَنۢبَتَ",
+   "meaning_en": "We caused to grow",
+   "meaning_bn": "আমরা উৎপন্ন করেছি",
+   "why_en": "Allah, not the farmer alone, makes the plant grow."
+  },
+  {
+   "pos": 3,
+   "root": "حبب",
+   "lemma": "حَبّ",
+   "meaning_en": "grain",
+   "meaning_bn": "শস্য",
+   "why_en": "Covers all kinds of grain, the staple food of people."
+  }
+ ],
+ "lesson_en": "Even our most ordinary food, like rice or bread, is grown by Allah, so never treat it lightly.",
+ "lesson_bn": "ভাত বা রুটির মতো আমাদের সবচেয়ে সাধারণ খাবারও আল্লাহ জন্মান, তাই একে কখনো হালকাভাবে নেবেন না।",
+ "real_life_en": "After a family meal, rice is left on the plates. Instead of throwing it away, store the extra for tomorrow or share it. Each grain was grown by Allah and reached you through many hands.",
+ "real_life_bn": "পারিবারিক খাবারের পর প্লেটে ভাত বেঁচে গেছে। ফেলে না দিয়ে বাড়তিটুকু আগামীকালের জন্য রেখে দিন বা কাউকে দিন। প্রতিটি দানা আল্লাহ জন্মিয়েছেন, আর তা অনেক হাত ঘুরে আপনার কাছে এসেছে।",
+ "themes": [
+  "signs in nature",
+  "gratitude"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "grain"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah makes grains grow in the earth, such as wheat and corn.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Jalalayn gives wheat and barley as examples.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di and Ibn Kathir: habb covers all types of grain.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

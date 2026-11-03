@@ -1,0 +1,91 @@
+{
+ "id": "103:2",
+ "simple_en": "This is what the oath is about: every human being is in loss. Loss is the opposite of profit, like a trader who loses on his deals or even his whole capital. Sa'di explains that loss has levels. Some lose completely, missing both this world and the Hereafter. Others lose in some ways but not others. Since the next ayah makes an exception, \"man\" here includes everyone.",
+ "simple_bn": "শপথটি এই কথার জন্য: প্রত্যেক মানুষ ক্ষতির মধ্যে আছে। ক্ষতি হলো লাভের বিপরীত, যেমন কোনো ব্যবসায়ী সওদায় লোকসান করে, এমনকি পুরো পুঁজিও হারায়। সা'দী বুঝিয়েছেন, ক্ষতির কয়েকটি স্তর আছে। কেউ পুরোপুরি ক্ষতিগ্রস্ত, দুনিয়া ও আখিরাত দুটোই হারায়। আবার কেউ কিছু দিক থেকে ক্ষতিগ্রস্ত, সব দিক থেকে নয়। পরের আয়াতে ব্যতিক্রম বলা হয়েছে বলে এখানে \"মানুষ\" বলতে সবাইকে বোঝায়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "أنس",
+   "lemma": "إِنسان",
+   "meaning_en": "man, the human being",
+   "meaning_bn": "মানুষ",
+   "why_en": "Means all people, since the next ayah names the exceptions."
+  },
+  {
+   "pos": 4,
+   "root": "خسر",
+   "lemma": "خُسْر",
+   "meaning_en": "loss",
+   "meaning_bn": "ক্ষতি",
+   "why_en": "The opposite of profit, like a trader losing his capital."
+  }
+ ],
+ "lesson_en": "Do not assume you are on the winning side by default; without the qualities in the next ayah, every life ends in loss.",
+ "lesson_bn": "নিজেকে স্বাভাবিকভাবেই লাভবান ভাববেন না; পরের আয়াতের গুণগুলো ছাড়া প্রতিটি জীবনই ক্ষতিতে শেষ হয়।",
+ "real_life_en": "A young man tells himself he is fine because he is \"not a bad person\". This ayah asks for more than avoiding harm. Look honestly at a normal week: where is your faith growing, and what good have you done?",
+ "real_life_bn": "এক তরুণ নিজেকে বলে, সে তো \"খারাপ মানুষ নয়\", তাই সব ঠিক আছে। এই আয়াত শুধু ক্ষতি না করার চেয়ে বেশি কিছু চায়। একটি সাধারণ সপ্তাহের দিকে সৎভাবে তাকান: কোথায় আপনার ঈমান বাড়ছে, আর কী ভালো কাজ করেছেন?",
+ "context_en": "This is the answer to the oath of ayah 1. Ayah 3 gives the only way out of the loss.",
+ "context_bn": "এটি ১ নম্বর আয়াতের শপথের জবাব। ৩ নম্বর আয়াতে ক্ষতি থেকে বাঁচার একমাত্র পথ বলা হয়েছে।",
+ "themes": [
+  "human nature",
+  "this world",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The human is in great loss and destruction.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "This is the answer to the oath.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Loss is the opposite of profit, used for a loss in a deal, in a whole business, or losing all one's capital.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Sa'di: loss has levels, total (losing this world and the Hereafter) or partial.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "'Man' here includes all people, since those with the four qualities are made the exception.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

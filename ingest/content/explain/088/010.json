@@ -1,0 +1,71 @@
+{
+ "id": "88:10",
+ "simple_en": "They will be in a lofty Garden, high in both place and rank. Sa'di explains that it gathers every kind of bliss. Its homes are high up, with rooms built above rooms, from which its people look out over the honour Allah has prepared for them.",
+ "simple_bn": "তারা থাকবে সুউচ্চ জান্নাতে, যা অবস্থান ও মর্যাদা দুদিক থেকেই উঁচু। সা'দী ব্যাখ্যা করেন, এতে সব ধরনের নিয়ামত একত্র হয়েছে। এর বাসস্থানগুলো উঁচুতে, কক্ষের উপর কক্ষ নির্মিত, যেখান থেকে জান্নাতবাসীরা আল্লাহর প্রস্তুত করা সম্মানের দিকে তাকিয়ে দেখবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "جنن",
+   "lemma": "جَنَّة",
+   "meaning_en": "Garden, Paradise",
+   "meaning_bn": "জান্নাত",
+   "why_en": "From a root meaning to cover: a garden so full of trees it shades everything."
+  },
+  {
+   "pos": 3,
+   "root": "علو",
+   "lemma": "عالِيَة",
+   "meaning_en": "lofty, elevated",
+   "meaning_bn": "সুউচ্চ",
+   "why_en": "High in place and in honour, as Jalalayn notes."
+  }
+ ],
+ "lesson_en": "Aim high: the reward Allah has prepared is lofty, so let your hopes and efforts be lofty too.",
+ "lesson_bn": "লক্ষ্য উঁচুতে রাখুন: আল্লাহর প্রস্তুত করা প্রতিদান সুউচ্চ, তাই আপনার আশা ও চেষ্টাও যেন উঁচু হয়।",
+ "real_life_en": "You dream of a nice flat with a view, and you work hard for it. That is fine. But you also set a daily goal for the home that lasts: a few pages of Quran, your prayers on time, and patience with your family.",
+ "real_life_bn": "আপনি সুন্দর দৃশ্যওয়ালা একটি ফ্ল্যাটের স্বপ্ন দেখেন, আর তার জন্য কঠোর পরিশ্রম করেন। তাতে দোষ নেই। কিন্তু যে ঘর চিরস্থায়ী, তার জন্যও প্রতিদিনের একটি লক্ষ্য ঠিক করেন: কয়েক পৃষ্ঠা কুরআন, সময়মতো নামাজ, আর পরিবারের সাথে ধৈর্য।",
+ "themes": [
+  "Paradise",
+  "reward"
+ ],
+ "kinds": [
+  "hereafter",
+  "glad-tidings"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Paradise"
+  ],
+  "unseen": [
+   "Paradise"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "In a Paradise elevated in position and rank.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: it gathers all kinds of bliss; its dwellings are high, with rooms above rooms from which they look over the honour Allah prepared for them.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

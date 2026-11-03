@@ -1,0 +1,73 @@
+{
+ "id": "80:30",
+ "simple_en": "Allah also grows thick gardens. Al-Mukhtasar describes them as abundant gardens and trees. Al-Sa'di says they are orchards full of many trees growing close together. Ibn Kathir reports from al-Hasan and Qatadah that they are thick, beautiful gardens of date palms.",
+ "simple_bn": "আল্লাহ ঘন বাগানও উৎপন্ন করেন। আল-মুখতাসার এগুলোকে প্রচুর বাগান ও গাছপালা বলে বর্ণনা করেছে। আস-সা'দী বলেন, এগুলো এমন বাগান, যেখানে অনেক গাছ ঘন হয়ে একসাথে জন্মায়। ইবনে কাসীর হাসান ও কাতাদা থেকে বর্ণনা করেছেন, এগুলো ঘন ও সুন্দর খেজুরের বাগান।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "حدق",
+   "lemma": "حَدائِق",
+   "meaning_en": "gardens",
+   "meaning_bn": "উদ্যানসমূহ",
+   "why_en": "Orchards that give fruit, shade and beauty."
+  },
+  {
+   "pos": 2,
+   "root": "غلب",
+   "lemma": "غُلْب",
+   "meaning_en": "dense, thick",
+   "meaning_bn": "ঘন বৃক্ষবিশিষ্ট",
+   "why_en": "Trees growing so close they wind into each other."
+  }
+ ],
+ "lesson_en": "The beauty and shade of trees are also from Allah, so enjoy them with thanks and care for them.",
+ "lesson_bn": "গাছের সৌন্দর্য ও ছায়াও আল্লাহর দান; তাই কৃতজ্ঞতার সাথে উপভোগ করুন এবং সেগুলোর যত্ন নিন।",
+ "real_life_en": "On a hot afternoon you sit under a big tree in the park and feel the cool shade. Instead of just scrolling on your phone, take a minute to look up at the branches and say alhamdulillah for this gift.",
+ "real_life_bn": "গরমের বিকেলে আপনি পার্কে বড় একটা গাছের নিচে বসে ঠান্ডা ছায়া অনুভব করছেন। শুধু ফোন স্ক্রল না করে এক মিনিট ডালপালার দিকে তাকান এবং এই দানের জন্য আলহামদুলিল্লাহ বলুন।",
+ "themes": [
+  "signs in nature",
+  "gratitude"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "gardens"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah makes abundant gardens and trees grow.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: gardens with many trees growing close together.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: al-Hasan and Qatadah said ghulb are thick and handsome date-palm gardens.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

@@ -1,0 +1,89 @@
+{
+ "id": "89:2",
+ "simple_en": "Next Allah swears by ten nights. Al-Mukhtasar and most commentators say these are the first ten nights of Dhul-Hijjah. Their days hold the standing at 'Arafah and many acts of Hajj. Ibn Kathir quotes a hadith in al-Bukhari that no days are more beloved to Allah for good deeds than these ten. Sa'di also allows that the last ten nights of Ramadan may be meant, which contain Laylat al-Qadr.",
+ "simple_bn": "এরপর আল্লাহ দশ রাতের শপথ করছেন। আল-মুখতাসার ও অধিকাংশ মুফাসসিরের মতে, এগুলো যিলহজ্জ মাসের প্রথম দশ রাত। এই দিনগুলোতেই আরাফায় অবস্থান ও হজ্জের অনেক কাজ হয়। ইবনে কাসীর বুখারীর একটি হাদীস উল্লেখ করেছেন: এই দশ দিনের নেক আমলের চেয়ে কোনো দিনের আমল আল্লাহর কাছে বেশি প্রিয় নয়। সা'দী আরেকটি সম্ভাবনাও বলেছেন: রমজানের শেষ দশ রাত, যার মধ্যে লাইলাতুল কদর আছে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ليل",
+   "lemma": "لَيْل",
+   "meaning_en": "nights",
+   "meaning_bn": "রাতসমূহ",
+   "why_en": "Allah swears by particular nights, showing that some times carry special virtue."
+  },
+  {
+   "pos": 2,
+   "root": "عشر",
+   "lemma": "عَشْر",
+   "meaning_en": "ten",
+   "meaning_bn": "দশ",
+   "why_en": "A known set of ten, which most sources identify as the first ten of Dhul-Hijjah."
+  }
+ ],
+ "lesson_en": "Some days and nights are more precious than others; know them and fill them with good deeds.",
+ "lesson_bn": "কিছু দিন ও রাত অন্যগুলোর চেয়ে বেশি মূল্যবান; সেগুলো চিনে নিন এবং নেক আমলে ভরে দিন।",
+ "real_life_en": "When the month of Dhul-Hijjah begins, you put a note on your phone: read a little more Quran each night, give something in charity, and make extra dhikr on the way to work. You are not on Hajj, but you still treat these ten days as a season you do not want to waste.",
+ "real_life_bn": "যিলহজ্জ মাস শুরু হলে মোবাইলে একটা নোট রাখলেন: প্রতি রাতে একটু বেশি কুরআন পড়বেন, কিছু দান করবেন, অফিসে যাওয়ার পথে বেশি যিকির করবেন। আপনি হজ্জে যাননি, তবু এই দশ দিনকে এমন একটি মৌসুম হিসেবে নিচ্ছেন যা নষ্ট করতে চান না।",
+ "themes": [
+  "worship",
+  "hajj",
+  "reflection"
+ ],
+ "kinds": [
+  "oath"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "'Arafah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "the ten nights of Dhul-Hijjah",
+   "Laylat al-Qadr"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah takes an oath by the first ten nights of Dhul-Hijjah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Ibn 'Abbas, Ibn Zubayr, Mujahid, Qatadah and most commentators say the ten are the first ten of Dhul-Hijjah.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Hadith in Sahih al-Bukhari (quoted by Ibn Kathir): there are no days in which righteous deeds are more beloved to Allah than these days, meaning the ten days of Dhul-Hijjah.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: the correct view is the ten nights of Ramadan or of Dhul-Hijjah; the last ten of Ramadan contain Laylat al-Qadr, and the ten of Dhul-Hijjah contain the standing at 'Arafah and many acts of Hajj and 'Umrah.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": true,
+ "differ_note_en": "Al-Mukhtasar, Ibn 'Abbas, Mujahid, Qatadah and most commentators: the first ten nights of Dhul-Hijjah. Sa'di holds it is either these or the last ten nights of Ramadan.",
+ "differ_note_bn": "আল-মুখতাসার, ইবনে আব্বাস, মুজাহিদ, কাতাদা ও অধিকাংশ মুফাসসির: যিলহজ্জের প্রথম দশ রাত। সা'দীর মতে, এটি হয় এই দশ রাত, নয়তো রমজানের শেষ দশ রাত।",
+ "confidence": 0.9,
+ "uncertain": []
+}

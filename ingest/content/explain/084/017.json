@@ -1,0 +1,76 @@
+{
+ "id": "84:17",
+ "simple_en": "The second oath is by the night and everything it gathers in. When darkness falls, Ahsanul Bayan explains, every creature goes back to its home and shelter. Qatadah, quoted by Ibn Kathir, says the night gathers the stars and the animals. Al-Sa'di says it holds within it the animals and everything else.",
+ "simple_bn": "দ্বিতীয় শপথ রাতের এবং রাত যা কিছু একত্র করে তার। আহসানুল বয়ান বলে, অন্ধকার নেমে এলে প্রতিটি প্রাণী নিজের বাসা ও আশ্রয়ে ফিরে যায়। ইবনে কাসীরে উদ্ধৃত কাতাদাহ বলেন, রাত তারকা ও প্রাণীদের একত্র করে। সা'দী বলেন, রাত তার মধ্যে প্রাণী ও অন্য সবকিছু ধারণ করে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ليل",
+   "lemma": "لَيْل",
+   "meaning_en": "the night",
+   "meaning_bn": "রাত",
+   "why_en": "Another sign of the night after the twilight glow."
+  },
+  {
+   "pos": 3,
+   "root": "وسق",
+   "lemma": "وَسَقَ",
+   "meaning_en": "it gathered in",
+   "meaning_bn": "সে একত্র করল",
+   "why_en": "The root means to gather and collect; at night everything returns to its place."
+  }
+ ],
+ "lesson_en": "The night brings every creature home to rest. Thank Allah for it and use it well.",
+ "lesson_bn": "রাত প্রতিটি প্রাণীকে বিশ্রামের জন্য ঘরে ফিরিয়ে আনে। এর জন্য আল্লাহর শুকরিয়া আদায় করুন এবং রাতকে ভালোভাবে কাজে লাগান।",
+ "real_life_en": "In the evening the birds go back to their nests, shops close, and your family returns home one by one. You notice it all as Allah's sign. Before sleeping you thank Him for bringing everyone safely home, and you say your evening adhkar.",
+ "real_life_bn": "সন্ধ্যায় পাখিরা বাসায় ফেরে, দোকানপাট বন্ধ হয়, আর পরিবারের সবাই একে একে বাড়ি ফেরে। আপনি এসব আল্লাহর নিদর্শন হিসেবে খেয়াল করেন। ঘুমানোর আগে সবাইকে নিরাপদে ঘরে ফিরিয়ে আনার জন্য তাঁর শুকরিয়া আদায় করেন এবং সন্ধ্যার যিকির পড়েন।",
+ "themes": [
+  "signs in nature",
+  "gratitude",
+  "reflection"
+ ],
+ "kinds": [
+  "oath"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "night"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah swore by the night and what is gathered in it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "When darkness falls everything gathers into its home and shelter.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Qatadah (in Ibn Kathir): the stars and animals it gathers; Sa'di: what it contains of animals and other things.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

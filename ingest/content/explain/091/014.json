@@ -1,0 +1,118 @@
+{
+ "id": "91:14",
+ "simple_en": "But they called Salih a liar and killed the she-camel. Only one man struck, but he did it with his people's consent, so all of them shared the crime. So their Lord brought down a crushing punishment on them because of their sin, destroying them with a mighty cry. He made it fall on all of them equally, young and old, so that not one escaped.",
+ "simple_bn": "কিন্তু তারা সালিহকে মিথ্যাবাদী বলল এবং উষ্ট্রীটিকে হত্যা করল। আঘাত করেছিল একজনই, কিন্তু তার জাতির সম্মতিতে, তাই সবাই এই অপরাধের অংশীদার হলো। ফলে তাদের পাপের কারণে তাদের রব তাদের উপর বিধ্বংসী শাস্তি নামালেন, এক প্রচণ্ড বিকট শব্দ দিয়ে তাদের ধ্বংস করলেন। তিনি শাস্তিটি ছোট-বড় সবার উপর সমানভাবে দিলেন, কেউ রেহাই পেল না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "عقر",
+   "lemma": "عَقَرَ",
+   "meaning_en": "they hamstrung her",
+   "meaning_bn": "তারা তাকে হত্যা করল",
+   "why_en": "Said of all of them, though one man did it, because they all agreed to it."
+  },
+  {
+   "pos": 3,
+   "root": "دمدم",
+   "lemma": "دَمْدَمَ",
+   "meaning_en": "brought down destruction",
+   "meaning_bn": "সমূলে ধ্বংস করলেন",
+   "why_en": "Damdamah is a crushing punishment that falls repeatedly until it destroys completely."
+  },
+  {
+   "pos": 6,
+   "root": "ذنب",
+   "lemma": "ذَنب",
+   "meaning_en": "their sin",
+   "meaning_bn": "তাদের পাপ",
+   "why_en": "The punishment came because of what they themselves did."
+  },
+  {
+   "pos": 7,
+   "root": "سوي",
+   "lemma": "سَوَّى",
+   "meaning_en": "made it equal",
+   "meaning_bn": "সমান করে দিলেন",
+   "why_en": "The punishment covered all of them alike."
+  }
+ ],
+ "lesson_en": "If you are happy with a wrong, you share in it. So do not stay content with evil, even when someone else does it.",
+ "lesson_bn": "কোনো অন্যায়ে খুশি থাকলে মানুষ তার অংশীদার হয়ে যায়, তাই অন্য কেউ করলেও অন্যায়ে সন্তুষ্ট থাকবেন না।",
+ "real_life_en": "In an office, one person fakes the accounts while the rest of the team knows and stays quiet because they also get a bonus. When it comes out, the whole team is blamed. The inner lesson is to take responsibility early and refuse to go along with wrong.",
+ "real_life_bn": "একটি অফিসে একজন হিসাবের খাতায় জালিয়াতি করে, আর দলের বাকিরা জেনেও চুপ থাকে, কারণ তারাও বোনাস পায়। ব্যাপারটি প্রকাশ পেলে পুরো দলকেই দায়ী করা হয়। ভেতরের শিক্ষাটি হলো, শুরুতেই দায়িত্ব নেওয়া এবং অন্যায়ের সঙ্গে না চলা।",
+ "themes": [
+  "punishment",
+  "past nations",
+  "stories of the prophets",
+  "justice"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Salih"
+  ],
+  "nations": [
+   "Thamud"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "killing of the she-camel",
+   "destruction of Thamud"
+  ],
+  "things": [
+   "she-camel of Allah"
+  ]
+ },
+ "claims": [
+  {
+   "text": "They rejected their Messenger regarding the camel; the most wretched among them killed it with his people's consent, so all were guilty.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Qatadah (via Ibn Kathir): the leader did not kill her until young and old, men and women, all pledged allegiance to him.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah destroyed them by a shriek due to their sins and made them equal in the punishment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Damdama refers to a punishment unleashed repeatedly until it destroys completely.",
+   "sources": [
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Fa-sawwaha: the punishment overtook the whole nation, young and old, and none escaped.",
+   "sources": [
+    "g-en-maarif",
+    "g-en-jalalayn",
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Sa'di also mentions an earthquake from beneath alongside the shriek; only the shriek, given by Al-Mukhtasar, is mentioned in the text."
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "id": "78:3",
+ "simple_en": "This is the news they disagree about. Al-Mukhtasar explains the disagreement about the Quran: some called it magic, some poetry, some fortune-telling, and some old tales. Read as the Day of Judgement, the split is between those who believe in it and those who deny it, with some who simply doubt. Al-Sa'di adds that the news itself leaves no room for doubt; the arguing comes from denial.",
+ "simple_bn": "এটাই সেই খবর, যা নিয়ে তারা মতভেদ করছে। আল-মুখতাসার কুরআন নিয়ে তাদের মতভেদ ব্যাখ্যা করেছে: কেউ একে যাদু বলত, কেউ কবিতা, কেউ গণকের কথা, আবার কেউ পুরনো দিনের কাহিনী। কিয়ামতের দিন অর্থে নিলে, মানুষ দুই ভাগে বিভক্ত: কেউ বিশ্বাস করে, কেউ অস্বীকার করে, আর কেউ শুধু সন্দেহে থাকে। আস-সা'দী যোগ করেছেন, খবরটি নিজে সন্দেহের কোনো সুযোগ রাখে না; তর্কের মূল কারণ অস্বীকার।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "خلف",
+   "lemma": "مُخْتَلِف",
+   "meaning_en": "in disagreement",
+   "meaning_bn": "মতভেদকারী",
+   "why_en": "It shows they had no single view: each offered a different label or doubt."
+  }
+ ],
+ "lesson_en": "When people throw many different labels at the truth, the confusion is in them, not in the truth.",
+ "lesson_bn": "মানুষ যখন সত্যকে নানা নামে ডাকে, তখন বিভ্রান্তি তাদের মধ্যে, সত্যের মধ্যে নয়।",
+ "real_life_en": "A classmate hears you reading Quran and asks, a bit mockingly, whether it is just old stories. Instead of getting angry, you calmly share what one ayah means to you. People's mixed opinions do not change what the Quran is; your calm example may help someone look again.",
+ "real_life_bn": "এক সহপাঠী আপনাকে কুরআন পড়তে শুনে খানিকটা ঠাট্টা করে জিজ্ঞেস করে, এটা কি শুধু পুরনো গল্প? রাগ না করে আপনি শান্তভাবে বলেন একটি আয়াত আপনার কাছে কী অর্থ বহন করে। মানুষের নানা মতে কুরআনের আসল পরিচয় বদলায় না; আপনার শান্ত আচরণ হয়তো কাউকে আবার ভেবে দেখতে সাহায্য করবে।",
+ "context_en": "Ayat 4 and 5 reply to this disagreement with a firm warning.",
+ "context_bn": "৪ ও ৫ নম্বর আয়াতে এই মতভেদের জবাবে কঠোর সতর্কবাণী দেওয়া হয়েছে।",
+ "themes": [
+  "the Quran",
+  "disbelief",
+  "the Last Day"
+ ],
+ "kinds": [
+  "belief",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Judgement"
+  ],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "They differ about how to describe the Quran: sorcery, poetry, fortune-telling or tales of old.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "People are divided about the Day of Judgement: believers affirm it, disbelievers deny it.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Some did not deny the Hereafter fully but doubted whether it could happen.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: the news admits no doubt; their long dispute was out of denial and thinking it unlikely.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": true,
+ "differ_note_en": "As in ayah 2, the matter of disagreement is the Quran according to Al-Mukhtasar, and the Day of Judgement and resurrection according to Ibn Kathir, Jalalayn and Ma'ariful Qur'an. Ahsanul Bayan mentions both views.",
+ "differ_note_bn": "২ নম্বর আয়াতের মতোই, আল-মুখতাসার অনুযায়ী মতভেদের বিষয় কুরআন, আর ইবনে কাসীর, জালালাইন ও মাআরিফুল কুরআন অনুযায়ী কিয়ামত ও পুনরুত্থান। আহসানুল বায়ান দুটি মতই উল্লেখ করেছে।",
+ "confidence": 0.88,
+ "uncertain": []
+}

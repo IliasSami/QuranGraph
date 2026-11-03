@@ -1,0 +1,98 @@
+{
+ "id": "90:17",
+ "simple_en": "On top of these deeds, the person must be among those who believe. Ahsanul Bayan says good deeds help in the Hereafter only when the doer has faith. These believers also advise one another to be patient: in obeying Allah, in staying away from sin, and in hard times. And they advise one another to show mercy to people. Sa'di says this mercy means giving to the needy, teaching those who do not know, and wanting for others what you want for yourself.",
+ "simple_bn": "এই কাজগুলোর পাশাপাশি মানুষটিকে ঈমানদারদের অন্তর্ভুক্ত হতে হবে। আহসানুল বায়ান বলে, নেক আমল আখিরাতে তখনই কাজে আসে যখন আমলকারী ঈমানদার হয়। এই মু'মিনরা পরস্পরকে ধৈর্যের উপদেশ দেয়: আল্লাহর আনুগত্যে, পাপ থেকে দূরে থাকায় এবং বিপদের সময়ে। আর তারা পরস্পরকে মানুষের প্রতি দয়া দেখানোর উপদেশ দেয়। সা'দী বলেন, এই দয়া মানে অভাবীকে দেওয়া, যে জানে না তাকে শেখানো, আর নিজের জন্য যা চান অন্যের জন্যও তা চাওয়া।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "أمن",
+   "lemma": "آمَنَ",
+   "meaning_en": "who believed",
+   "meaning_bn": "যারা ঈমান এনেছে",
+   "why_en": "Faith is the base without which the other good deeds do not count in the Hereafter."
+  },
+  {
+   "pos": 6,
+   "root": "وصي",
+   "lemma": "تَواصَ",
+   "meaning_en": "advised one another",
+   "meaning_bn": "পরস্পরকে উপদেশ দিয়েছে",
+   "why_en": "Goodness is not only personal: believers keep reminding each other."
+  },
+  {
+   "pos": 7,
+   "root": "صبر",
+   "lemma": "صَبْر",
+   "meaning_en": "patience",
+   "meaning_bn": "ধৈর্য",
+   "why_en": "Holding firm in obedience, away from sin, and through painful decrees."
+  },
+  {
+   "pos": 9,
+   "root": "رحم",
+   "lemma": "مَرْحَمَة",
+   "meaning_en": "compassion, mercy",
+   "meaning_bn": "দয়া, অনুকম্পা",
+   "why_en": "Feeling others' pain as your own and refusing to hurt them."
+  }
+ ],
+ "lesson_en": "Build your good deeds on faith, and keep reminding the people around you to be patient and to be kind.",
+ "lesson_bn": "নেক আমলকে ঈমানের উপর দাঁড় করান, আর আশপাশের মানুষকে ধৈর্য ও দয়ার কথা মনে করিয়ে দিতে থাকুন।",
+ "real_life_en": "Your friend is caring for a sick father and is close to giving up. You do not lecture him; you remind him gently that his patience is worship, bring food over, and offer to sit with his father one evening so he can rest. In that one visit you have advised both patience and mercy.",
+ "real_life_bn": "আপনার বন্ধু অসুস্থ বাবার সেবা করতে করতে প্রায় হাল ছেড়ে দিচ্ছে। আপনি তাকে উপদেশের বক্তৃতা দিলেন না। নরমভাবে মনে করিয়ে দিলেন যে তার ধৈর্যও ইবাদত, আর খাবার নিয়ে গেলেন। এক সন্ধ্যা তার বাবার পাশে বসার প্রস্তাবও দিলেন, যাতে সে একটু বিশ্রাম নিতে পারে। ওই একটি সাক্ষাতেই আপনি ধৈর্য ও দয়া, দুটোরই উপদেশ দিলেন।",
+ "themes": [
+  "faith",
+  "patience",
+  "Allah's mercy",
+  "brotherhood",
+  "the believers' qualities"
+ ],
+ "kinds": [
+  "ethics",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He must be among those who believe in Allah and advise each other to be steadfast in obedience, away from sin, and patient over difficulties, and advise one another to show mercy to Allah's servants.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Ahsanul Bayan: these good deeds benefit in the Hereafter only when the doer is a believer.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: mercy to creation includes giving to the needy, teaching the ignorant, helping them in religious and worldly needs, and loving for them what one loves for oneself.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Zakaria and Ma'arif: marhamah is being compassionate, feeling others' pain and refraining from hurting them.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.91,
+ "uncertain": []
+}

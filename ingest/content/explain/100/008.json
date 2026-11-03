@@ -1,0 +1,101 @@
+{
+ "id": "100:8",
+ "simple_en": "Here al-khayr, literally \"the good\", means wealth, as it does in Surah al-Baqarah 2:180. Man loves wealth intensely, and that love makes him stingy with it. Sa'di says this love is what leads him to skip the duties he owes, because he looks only at this world and forgets the Hereafter. Ma'ariful Qur'an explains that earning wealth for one's needs is allowed; what is blamed is letting its love take over the heart.",
+ "simple_bn": "এখানে 'আল-খাইর', যার শাব্দিক অর্থ 'কল্যাণ', বলতে ধন-সম্পদ বোঝানো হয়েছে, যেমন সূরা আল-বাকারার ২:১৮০ আয়াতে। মানুষ সম্পদকে প্রচণ্ড ভালোবাসে, আর সেই ভালোবাসা তাকে কৃপণ বানায়। সা'দী বলেন, এই ভালোবাসাই তাকে নিজের উপর থাকা দায়িত্ব ছেড়ে দিতে বাধ্য করে, কারণ সে শুধু দুনিয়ার দিকে তাকায় আর আখিরাত ভুলে যায়। মা'আরিফুল কুরআন বুঝিয়েছেন, প্রয়োজন অনুযায়ী সম্পদ উপার্জন বৈধ; দোষের বিষয় হলো তার ভালোবাসা অন্তর দখল করে নেওয়া।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "حبب",
+   "lemma": "حُبّ",
+   "meaning_en": "love",
+   "meaning_bn": "ভালোবাসা",
+   "why_en": "The problem named is the love of wealth in the heart, not wealth itself."
+  },
+  {
+   "pos": 3,
+   "root": "خير",
+   "lemma": "خَيْر",
+   "meaning_en": "wealth (lit. good)",
+   "meaning_bn": "ধন-সম্পদ (শাব্দিক অর্থে কল্যাণ)",
+   "why_en": "In Arabic usage khayr can mean wealth, as in 2:180."
+  },
+  {
+   "pos": 4,
+   "root": "شدد",
+   "lemma": "شَدِيد",
+   "meaning_en": "intense",
+   "meaning_bn": "প্রবল",
+   "why_en": "Shows how strong this attachment becomes."
+  }
+ ],
+ "lesson_en": "Earn and keep money for your needs, but do not let love of it sit in your heart and stop you from giving what you owe.",
+ "lesson_bn": "প্রয়োজনের জন্য টাকা উপার্জন করুন ও রাখুন, কিন্তু তার ভালোবাসা যেন অন্তরে বসে না যায় এবং আপনার উপর থাকা হক আদায়ে বাধা না হয়।",
+ "real_life_en": "Your salary arrives and the first thought is a new phone, while a relative's loan and the charity you promised can wait. Ma'ariful Qur'an quotes Rumi: water under a boat carries it, water inside the boat sinks it. Keep money under the boat, in your hands, not in your heart.",
+ "real_life_bn": "বেতন এল, আর প্রথম চিন্তা একটা নতুন ফোন; অথচ আত্মীয়ের ধার শোধ আর যে দানের ওয়াদা করেছিলেন, তা অপেক্ষা করতে পারে। মা'আরিফুল কুরআন রুমির কথা উদ্ধৃত করেছেন: নৌকার নিচে পানি থাকলে তা নৌকা ভাসায়, নৌকার ভেতরে ঢুকলে ডুবিয়ে দেয়। টাকা রাখুন নৌকার নিচে, হাতে; অন্তরে নয়।",
+ "context_en": "Ma'ariful Qur'an sums up ayat 6 to 8 as two faults the oath warns against: ingratitude to Allah and intense love of wealth. The next ayat remind man of the Day these will be judged.",
+ "context_bn": "মা'আরিফুল কুরআন ৬ থেকে ৮ নম্বর আয়াতকে দুটি দোষ হিসেবে সংক্ষেপ করেছেন, যা থেকে শপথটি সতর্ক করে: আল্লাহর প্রতি অকৃতজ্ঞতা আর সম্পদের প্রতি প্রবল ভালোবাসা। পরের আয়াতগুলো মানুষকে সেই দিনের কথা মনে করিয়ে দেয়, যেদিন এগুলোর বিচার হবে।",
+ "themes": [
+  "wealth",
+  "greed",
+  "this world",
+  "human nature"
+ ],
+ "kinds": [
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "wealth"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Al-khayr here means wealth, as in 2:180.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan",
+    "qe-bengali-zakaria",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Man is intense in love of wealth and therefore miserly with it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: his love of wealth made him leave obligatory duties, because he limited his view to this world and neglected the Hereafter.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ma'arif: earning and saving wealth for one's needs is permitted; what is blamed is excessive love of it in the heart that makes one neglect obligations; it quotes Rumi's verse about water under and inside a boat.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Ma'arif: ayat 6 to 8 state two faults, ingratitude and intense love of wealth, which the end of the surah warns against.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

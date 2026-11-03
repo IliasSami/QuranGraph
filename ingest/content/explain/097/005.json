@@ -1,0 +1,110 @@
+{
+ "id": "97:5",
+ "simple_en": "\"Peace it is, until the rising of dawn.\" The whole night is full of goodness and free of evil, from sunset until Fajr. Ahsanul Bayan explains that the believer is safe from Satan's harm in it. Jalalayn says it is also called peace because the angels greet the believers with salam. Ahsanul Bayan mentions the dua the Prophet ﷺ taught for this night, reported by al-Tirmidhi: \"O Allah, You are Pardoning and love to pardon, so pardon me.\"",
+ "simple_bn": "\"শান্তিময় সেই রাত, ফজর উদয় হওয়া পর্যন্ত।\" সূর্যাস্ত থেকে ফজর পর্যন্ত পুরো রাতটাই কল্যাণে ভরা আর অনিষ্ট থেকে মুক্ত। আহসানুল বায়ান বলে, এ রাতে মু'মিন শয়তানের অনিষ্ট থেকে নিরাপদ থাকে। জালালাইন বলেন, একে শান্তি বলা হয় এ জন্যও যে ফেরেশতারা মু'মিনদের সালাম দেন। আহসানুল বায়ান তিরমিযীর বর্ণনায় নবী ﷺ-এর শেখানো এ রাতের দুআটি উল্লেখ করেছে: \"হে আল্লাহ! তুমি ক্ষমাশীল, ক্ষমা করতে ভালোবাসো, অতএব আমাকে ক্ষমা করো।\"",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "سلم",
+   "lemma": "سَلام",
+   "meaning_en": "peace",
+   "meaning_bn": "শান্তি",
+   "why_en": "Safety from every evil, and the angels' greetings of peace."
+  },
+  {
+   "pos": 4,
+   "root": "طلع",
+   "lemma": "مَطْلَع",
+   "meaning_en": "rising",
+   "meaning_bn": "উদয়",
+   "why_en": "The blessing lasts the whole night, right up to the rising of dawn."
+  },
+  {
+   "pos": 5,
+   "root": "فجر",
+   "lemma": "فَجْر",
+   "meaning_en": "dawn",
+   "meaning_bn": "ফজর, ভোর",
+   "why_en": "Marks the end of the night of Qadr."
+  }
+ ],
+ "lesson_en": "Laylat al-Qadr is a night of peace and pardon. Fill it with worship and ask Allah to forgive you.",
+ "lesson_bn": "লাইলাতুল কদর শান্তি ও ক্ষমার রাত। ইবাদতে তা ভরে তুলুন, আর আল্লাহর কাছে ক্ষমা চান।",
+ "real_life_en": "On the odd nights at the end of Ramadan, a teenager writes the short dua for pardon on a card and keeps it by his prayer mat. Between prayers he repeats it quietly. He also uses the night to make peace with a cousin he had fallen out with.",
+ "real_life_bn": "রমযানের শেষ দিকের বেজোড় রাতগুলোতে এক কিশোর ক্ষমা চাওয়ার ছোট দুআটি একটি কার্ডে লিখে জায়নামাজের পাশে রাখে। নামাজের ফাঁকে ফাঁকে নিচু স্বরে সেটি পড়তে থাকে। সে এই রাতকে কাজে লাগিয়ে এক চাচাতো ভাইয়ের সাথে মনোমালিন্যও মিটিয়ে নেয়।",
+ "themes": [
+  "peace",
+  "forgiveness",
+  "dua",
+  "angels"
+ ],
+ "kinds": [
+  "glad-tidings",
+  "dua"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels",
+   "Satan"
+  ],
+  "names_of_allah": [
+   "Al-'Afuw"
+  ],
+  "events": [
+   "Laylat al-Qadr"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "This whole blessed night is good from its beginning until dawn breaks; it lasts from sunset to dawn.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "It is safe from every evil and harm.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "The believer is safe from Satan's harm in it.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "It is called peace because the angels greet the believers with salam.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The dua for this night taught by the Prophet ﷺ (al-Tirmidhi, Ibn Majah): O Allah, You are Pardoning and love pardon, so pardon me.",
+   "sources": [
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Ma'ariful Qur'an's 'Special Note' about the thousand months is confusingly worded in the source text; not used."
+ ]
+}

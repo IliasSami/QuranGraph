@@ -1,0 +1,102 @@
+{
+ "id": "99:7",
+ "simple_en": "So whoever does good even the weight of a dharrah will see it. Al-Mukhtasar describes a dharrah as a tiny ant; Ahsanul Bayan mentions other meanings, like the specks of dust seen in a sunbeam. Jalalayn says he will see its reward. Sa'di explains that if even the smallest thing is repaid, anything bigger certainly will be. So this ayah encourages doing good, however small.",
+ "simple_bn": "সুতরাং কেউ এক 'যাররাহ' পরিমাণ ভালো কাজ করলেও তা দেখতে পাবে। আল-মুখতাসার 'যাররাহ' বলতে ছোট্ট পিঁপড়া বুঝিয়েছে; আহসানুল বায়ান অন্য অর্থও উল্লেখ করেছে, যেমন সূর্যের আলোয় দেখা ধুলিকণা। জালালাইন বলেন, সে এর প্রতিদান দেখবে। সা'দী ব্যাখ্যা করেন, সবচেয়ে ছোট জিনিসেরও যদি প্রতিদান হয়, তাহলে এর চেয়ে বড় কাজের তো অবশ্যই হবে। তাই এই আয়াত ভালো কাজে উৎসাহ দেয়, তা যত ছোটই হোক।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "ثقل",
+   "lemma": "مِثْقال",
+   "meaning_en": "weight",
+   "meaning_bn": "ওজন, পরিমাণ",
+   "why_en": "Deeds are weighed exactly, nothing missed."
+  },
+  {
+   "pos": 4,
+   "root": "ذرر",
+   "lemma": "ذَرَّة",
+   "meaning_en": "a dharrah: tiny ant or speck",
+   "meaning_bn": "যাররাহ: ছোট্ট পিঁপড়া বা কণা",
+   "why_en": "The smallest thing imaginable."
+  },
+  {
+   "pos": 5,
+   "root": "خير",
+   "lemma": "خَيْر",
+   "meaning_en": "good",
+   "meaning_bn": "ভালো কাজ",
+   "why_en": "Any good deed done with faith."
+  }
+ ],
+ "lesson_en": "No good deed is too small to count. Never look down on a small act of kindness.",
+ "lesson_bn": "কোনো ভালো কাজই গণনার বাইরে নয়। ছোট্ট একটি দয়ার কাজকেও তুচ্ছ ভাববেন না।",
+ "real_life_en": "On the bus, a boy gives up his seat to an old man, then picks up litter someone dropped. They feel like nothing. This ayah tells him otherwise: every one of these tiny deeds is recorded, and he will see it.",
+ "real_life_bn": "বাসে এক ছেলে এক বৃদ্ধকে নিজের আসন ছেড়ে দেয়, তারপর কারো ফেলে দেওয়া ময়লা তুলে নেয়। এগুলো তার কাছে কিছুই মনে হয় না। এই আয়াত তাকে অন্য কথা বলে: এমন প্রতিটি ছোট কাজ লেখা থাকে, আর সে তা দেখতে পাবে।",
+ "context_en": "Zakaria cites a hadith reported by al-Bukhari: \"Protect yourselves from the Fire, even with half a date given in charity, or a good word.\"",
+ "context_bn": "যাকারিয়া বুখারী বর্ণিত একটি হাদীস উল্লেখ করেন: \"জাহান্নামের আগুন থেকে বাঁচো, এক টুকরো খেজুর দান করে হলেও, বা একটি ভালো কথা বলে হলেও।\"",
+ "themes": [
+  "reward",
+  "good character",
+  "charity",
+  "judgment"
+ ],
+ "kinds": [
+  "promise",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Judgement"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Whoever did a good deed equal to the weight of a small ant will see it in front of him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "He shall see its reward.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Dharrah has been explained as a tiny ant, or specks of dust seen in a sunbeam, among other meanings.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "qe-english-mokhtasar"
+   ]
+  },
+  {
+   "text": "Sa'di: if the smallest thing is repaid, what is above it is more so; this encourages good, even little.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Hadith (al-Bukhari 6540, per Zakaria): protect yourselves from the Fire even with a piece of date or a good word.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Zakaria's footnote for 99:8 (which carries this hadith) is cut off mid-sentence in the source data.",
+  "Ma'ariful Qur'an discusses whether good deeds without faith count in the Hereafter; not included."
+ ]
+}

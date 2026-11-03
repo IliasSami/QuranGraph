@@ -1,0 +1,88 @@
+{
+ "id": "2:11",
+ "simple_en": "When the hypocrites are told, \"Do not spread corruption on the earth,\" meaning through disbelief and sins, they deny it. They even claim, \"We are only putting things right.\" The word they use means \"nothing but\": they say they are only reformers. Sa'di points out how serious this is: they do wrong and call it good. That is worse than someone who sins but knows it is a sin, because such a person is closer to turning back.",
+ "simple_bn": "মুনাফিকদের যখন বলা হয়, \"পৃথিবীতে ফাসাদ সৃষ্টি করো না,\" অর্থাৎ কুফর ও গুনাহ দিয়ে, তারা তা অস্বীকার করে। উল্টো দাবি করে, \"আমরা তো কেবল সংশোধনকারী।\" তাদের কথার ভঙ্গি বোঝায়, \"আমরা শুধুই ভালো কাজ করি।\" সা'দী দেখিয়েছেন বিষয়টি কত গুরুতর: তারা অন্যায় করে আর সেটাকে ভালো বলে। এটা সেই ব্যক্তির চেয়েও খারাপ, যে গুনাহ করে কিন্তু জানে এটা গুনাহ, কারণ সে ফিরে আসার বেশি কাছাকাছি থাকে।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "فسد",
+   "lemma": "أَفْسَدُ",
+   "meaning_en": "spread corruption",
+   "meaning_bn": "ফাসাদ সৃষ্টি করা",
+   "why_en": "Fasad here is disbelief and disobedience, which ruin the earth that was made for obeying Allah."
+  },
+  {
+   "pos": 11,
+   "root": "صلح",
+   "lemma": "مُصْلِح",
+   "meaning_en": "those who put things right",
+   "meaning_bn": "সংশোধনকারী",
+   "why_en": "They claimed this title for themselves alone, while doing its opposite."
+  }
+ ],
+ "lesson_en": "When someone tells you that what you are doing causes harm, listen first instead of rushing to call yourself the one who is right.",
+ "lesson_bn": "কেউ যদি বলে আপনার কাজে ক্ষতি হচ্ছে, নিজেকে সঠিক দাবি করতে তাড়াহুড়ো না করে আগে মন দিয়ে শুনুন।",
+ "real_life_en": "Your mother says the way you speak to your younger brother hurts him. You want to reply, \"I'm only trying to help him.\" Instead you stop and think about whether she is right, and the next time you correct him, you do it gently.",
+ "real_life_bn": "মা বললেন, ছোট ভাইয়ের সাথে আপনার কথা বলার ধরন তাকে কষ্ট দেয়। আপনার বলতে ইচ্ছে হলো, \"আমি তো ওর ভালোর জন্যই বলি।\" তা না বলে আপনি থামলেন, ভাবলেন মা ঠিক বলছেন কি না, আর পরেরবার ভাইকে কিছু শুধরে দেওয়ার সময় নরমভাবে বললেন।",
+ "context_en": "This continues the description of the hypocrites. Ibn Jarir, quoted by Ibn Kathir, lists their corruption: disobeying Allah, doubting His religion, lying to the believers, and helping those who fight Allah's religion.",
+ "context_bn": "এটি মুনাফিকদের বর্ণনার ধারাবাহিকতা। ইবনে কাসীর ইবনে জারীরের কথা এনেছেন, যেখানে তাদের ফাসাদের তালিকা আছে: আল্লাহর অবাধ্যতা, তাঁর দ্বীন নিয়ে সন্দেহ, মু'মিনদের সাথে মিথ্যা বলা, আর আল্লাহর দ্বীনের বিরোধীদের সাহায্য করা।",
+ "themes": [
+  "hypocrisy",
+  "arrogance",
+  "justice"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "When told not to cause corruption on earth through disbelief and sins, they deny it and claim they only put things right.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Their corruption included disbelief, sins, revealing the believers' secrets and allying with the disbelievers.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "'Innama' indicates exclusivity: they claimed to be nothing but reformers.",
+   "sources": [
+    "g-en-maarif",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Sa'di: doing wrong while believing it to be right is a greater crime than sinning while knowing it is forbidden; the latter is closer to safety and more likely to return.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Sins are corruption because the earth is put right by obedience to Allah and faith, for which He created people and provided for them.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

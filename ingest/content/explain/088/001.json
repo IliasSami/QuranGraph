@@ -1,0 +1,84 @@
+{
+ "id": "88:1",
+ "simple_en": "The surah opens with a question to the Prophet ﷺ: has the news of al-Ghashiyah reached you? Al-Ghashiyah means \"the Overwhelming\". Ibn Kathir, from Ibn 'Abbas and others, says it is a name of the Day of Judgment. It is called this because its terrors will cover and overwhelm all people. The question grabs attention for what follows.",
+ "simple_bn": "সূরাটি শুরু হয়েছে রাসূলুল্লাহ ﷺ-এর প্রতি একটি প্রশ্ন দিয়ে: আল-গাশিয়াহর সংবাদ কি আপনার কাছে পৌঁছেছে? আল-গাশিয়াহ মানে 'আচ্ছন্নকারী'। ইবনে কাসীর ইবনে আব্বাস ও অন্যদের সূত্রে বলেন, এটি কিয়ামতের একটি নাম। এ নামে ডাকা হয়, কারণ এর ভয়াবহতা সব মানুষকে ঢেকে ফেলবে, আচ্ছন্ন করে দেবে। প্রশ্নটি পরের কথাগুলোর দিকে মনোযোগ টেনে নেয়।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "حدث",
+   "lemma": "حَدِيث",
+   "meaning_en": "news, report",
+   "meaning_bn": "সংবাদ",
+   "why_en": "A report about something real that is coming."
+  },
+  {
+   "pos": 4,
+   "root": "غشو",
+   "lemma": "غاشِيَة",
+   "meaning_en": "Al-Ghashiyah, the Overwhelming",
+   "meaning_bn": "আল-গাশিয়াহ, আচ্ছন্নকারী",
+   "why_en": "From a root meaning to cover over: the Day whose terrors cover everyone."
+  }
+ ],
+ "lesson_en": "The Day of Judgment is news that concerns every single person, so it deserves our full attention now.",
+ "lesson_bn": "কিয়ামতের দিন এমন এক সংবাদ, যা প্রত্যেক মানুষের সাথে জড়িত; তাই এখনই এর প্রতি পূর্ণ মনোযোগ দেওয়া উচিত।",
+ "real_life_en": "You follow every news alert about exams, prices and the weather. This ayah asks whether you have paid attention to the biggest news of all. You decide to spend ten minutes a day reading about the Hereafter from a reliable book.",
+ "real_life_bn": "পরীক্ষা, দাম আর আবহাওয়া নিয়ে প্রতিটি খবরের নোটিফিকেশন আপনি দেখেন। এই আয়াত জিজ্ঞেস করে, সবচেয়ে বড় সংবাদটির দিকে কি আপনি মনোযোগ দিয়েছেন? আপনি ঠিক করলেন, প্রতিদিন দশ মিনিট নির্ভরযোগ্য একটি বই থেকে আখিরাত নিয়ে পড়বেন।",
+ "context_en": "Ibn Kathir reports that the Prophet ﷺ recited this surah with al-A'la in the Eid and Friday prayers (recorded by Muslim and others).",
+ "context_bn": "ইবনে কাসীর বর্ণনা করেছেন, নবী ﷺ ঈদ ও জুমআর নামাজে সূরা আল-আ'লার সাথে এই সূরাটি পড়তেন (মুসলিম ও অন্যান্যদের বর্ণনা)।",
+ "themes": [
+  "the Last Day",
+  "judgment"
+ ],
+ "kinds": [
+  "hereafter",
+  "address",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Has the news of the Day of Judgment that will overwhelm people with its horrors come to you, O Messenger?",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Al-Ghashiyah is one of the names of the Day of Judgment (Ibn 'Abbas, Qatadah, Ibn Zayd), because it overwhelms people.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The Prophet recited al-A'la and al-Ghashiyah in the Eid and Friday prayers.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": [
+  "Zakaria notes minority views that al-Ghashiyah means the Fire or its people; the Day of Judgment is the best-known view and is used here.",
+  "The Ma'ariful Qur'an block shown for 88:1 is actually its commentary on 87:18–19."
+ ]
+}

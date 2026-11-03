@@ -1,0 +1,93 @@
+{
+ "id": "98:6",
+ "simple_en": "This ayah describes the end of those who disbelieved among the People of the Book and the idol-worshippers after the clear proof came to them. Al-Mukhtasar says they will enter Hell on the Day of Judgement and stay there forever. They are called the worst of creation because they disbelieved in Allah and rejected His Messenger. Sa'di explains why: they knew the truth and left it, and so lost both this world and the next.",
+ "simple_bn": "এই আয়াতে তাদের পরিণাম বলা হয়েছে, যারা সুস্পষ্ট প্রমাণ আসার পর আহলে কিতাবের মধ্য থেকে এবং মুশরিকদের মধ্য থেকে কুফরী করেছে। আল-মুখতাসার বলে, কিয়ামতের দিন তারা জাহান্নামে প্রবেশ করবে এবং সেখানে চিরকাল থাকবে। তাদের সৃষ্টির অধম বলা হয়েছে, কারণ তারা আল্লাহকে অবিশ্বাস করেছে আর তাঁর রাসূলকে মিথ্যা বলেছে। সা'দী এর কারণ ব্যাখ্যা করেন: তারা সত্য জেনেও তা ছেড়ে দিয়েছে, ফলে দুনিয়া ও আখিরাত দুটোই হারিয়েছে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "كفر",
+   "lemma": "كَفَرَ",
+   "meaning_en": "disbelieved",
+   "meaning_bn": "কুফরী করেছে",
+   "why_en": "Here, rejecting the Messenger after the clear proof came."
+  },
+  {
+   "pos": 11,
+   "root": "خلد",
+   "lemma": "خالِد",
+   "meaning_en": "abiding forever",
+   "meaning_bn": "চিরস্থায়ী",
+   "why_en": "With no way out and no end."
+  },
+  {
+   "pos": 16,
+   "root": "برأ",
+   "lemma": "بَرِيَّة",
+   "meaning_en": "creation",
+   "meaning_bn": "সৃষ্টি",
+   "why_en": "From the root of creating, linked to Allah's name Al-Bari'."
+  }
+ ],
+ "lesson_en": "Rejecting the truth after it has become clear is the gravest loss. Do not turn away from what you know is right.",
+ "lesson_bn": "সত্য স্পষ্ট হওয়ার পরও তা প্রত্যাখ্যান করা সবচেয়ে বড় ক্ষতি। যা সঠিক বলে জানেন, তা থেকে মুখ ফিরিয়ে নেবেন না।",
+ "real_life_en": "This ayah is a warning for one's own heart, not a label for others. A believer reading it asks himself: is there any truth I know but keep avoiding because it is inconvenient? He picks one such thing, like a prayer he often skips, and starts on it today.",
+ "real_life_bn": "এই আয়াত নিজের অন্তরের জন্য সতর্কবাণী, অন্যদের গায়ে তকমা লাগানোর জন্য নয়। এটি পড়ে একজন মু'মিন নিজেকে প্রশ্ন করে: এমন কোনো সত্য কি আছে যা আমি জানি, কিন্তু অসুবিধা বলে এড়িয়ে চলি? সে এমন একটি বিষয় বেছে নেয়, যেমন প্রায়ই বাদ পড়া কোনো নামাজ, আর আজ থেকেই তা শুরু করে।",
+ "context_en": "This and the next ayah set two groups side by side after the clear proof arrived: those who rejected it, and those who believed and did good.",
+ "context_bn": "এই আয়াত ও পরের আয়াত সুস্পষ্ট প্রমাণ আসার পরের দুই দলকে পাশাপাশি রেখেছে: যারা তা প্রত্যাখ্যান করেছে, আর যারা ঈমান এনে সৎকাজ করেছে।",
+ "themes": [
+  "disbelief",
+  "Hell",
+  "punishment",
+  "judgment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "People of the Book",
+   "polytheists"
+  ],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "Day of Judgement"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who disbelieved, from the Jews, Christians and idolaters, will enter Hell on the Day of Judgement and remain forever; they are the worst of creation for disbelieving in Allah and rejecting His Messenger.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sa'di: they knew the truth and abandoned it, and lost this world and the Hereafter.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "This is the end of those who reject Allah's Messenger and His books.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": []
+}

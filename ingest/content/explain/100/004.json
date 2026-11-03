@@ -1,0 +1,79 @@
+{
+ "id": "100:4",
+ "simple_en": "With their fast running and their attack, the horses stir up clouds of dust over the place of battle. Ma'ariful Qur'an notes that dust does not usually rise like this in the early morning unless the running is very fast. So the picture shows how hard and fast they charge.",
+ "simple_bn": "দ্রুত দৌড় আর আক্রমণের ফলে ঘোড়াগুলো যুদ্ধক্ষেত্রে ধুলোর মেঘ উড়িয়ে দেয়। মা'আরিফুল কুরআন উল্লেখ করেছেন, ভোরবেলা সাধারণত এভাবে ধুলো ওড়ে না, যদি না খুব দ্রুত দৌড়ানো হয়। তাই এই ছবি দেখায়, তারা কত জোরে আর কত দ্রুত ছুটে যায়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ثور",
+   "lemma": "أَثارُ",
+   "meaning_en": "they stirred up",
+   "meaning_bn": "তারা উড়িয়ে দিল",
+   "why_en": "From ithara, to raise and scatter dust."
+  },
+  {
+   "pos": 3,
+   "root": "نقع",
+   "lemma": "نَقْع",
+   "meaning_en": "dust",
+   "meaning_bn": "ধুলো",
+   "why_en": "The cloud of dust kicked up by the charging horses."
+  }
+ ],
+ "lesson_en": "Every effort leaves a mark, so make sure the marks you leave behind come from good work.",
+ "lesson_bn": "প্রতিটি পরিশ্রমই কোনো না কোনো চিহ্ন রেখে যায়, তাই খেয়াল রাখুন আপনার রেখে যাওয়া চিহ্ন যেন ভালো কাজ থেকে আসে।",
+ "real_life_en": "A student who studies hard all term leaves notes, worn pages and a tired pen behind. Those signs show effort. Ask yourself what signs your day leaves: effort in good things, or time lost on the phone.",
+ "real_life_bn": "যে ছাত্র সারা বছর মন দিয়ে পড়ে, তার রেখে যাওয়া নোট, ছেঁড়া পাতা আর ক্ষয়ে যাওয়া কলম তার পরিশ্রমের চিহ্ন। নিজেকে জিজ্ঞেস করুন, আপনার দিনটি কী চিহ্ন রেখে যায়: ভালো কাজে পরিশ্রম, নাকি ফোনে হারিয়ে যাওয়া সময়।",
+ "context_en": "This is the fourth part of the oath by war horses (ayat 1 to 5).",
+ "context_bn": "এটি যুদ্ধের ঘোড়ার শপথের চতুর্থ অংশ (আয়াত ১ থেকে ৫)।",
+ "themes": [
+  "signs in nature"
+ ],
+ "kinds": [
+  "oath"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "horses"
+  ]
+ },
+ "claims": [
+  {
+   "text": "By their running and raiding the horses stir up dust at the place of battle.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Ithara means raising dust; naq' means dust.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Ma'arif: dust does not normally fly like this in the morning unless caused by very fast running.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": [
+  "The lesson and real-life example are a general application of the image, not taken from a source."
+ ]
+}

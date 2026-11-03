@@ -1,0 +1,94 @@
+{
+ "id": "88:17",
+ "simple_en": "After describing the two groups on the Day of Judgment, Allah turns the listeners to signs they can see every day. Do they not look at the camel, how it was created? Ibn Kathir explains it is very strong and carries heavy loads, yet it is gentle enough for a weak rider to lead. Its meat, milk and hair are all used. The camel is named because it was the animal the Arabs knew best.",
+ "simple_bn": "কিয়ামতের দিনের দুই দলের কথা বলার পর আল্লাহ শ্রোতাদের এমন নিদর্শনের দিকে ফেরাচ্ছেন, যা তারা প্রতিদিন দেখে। তারা কি উটের দিকে তাকায় না, কীভাবে তাকে সৃষ্টি করা হয়েছে? ইবনে কাসীর ব্যাখ্যা করেন, উট খুব শক্তিশালী, ভারী বোঝা বহন করে, অথচ এতটাই নরম যে দুর্বল আরোহীও তাকে চালাতে পারে। এর গোশত, দুধ ও পশম সবই কাজে লাগে। উটের কথা বলা হয়েছে, কারণ আরবরা এই প্রাণীটিকেই সবচেয়ে ভালো চিনত।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نظر",
+   "lemma": "نَظَرَ",
+   "meaning_en": "look, reflect",
+   "meaning_bn": "তাকিয়ে দেখা, চিন্তা করা",
+   "why_en": "A call to look with thought, not just with the eyes."
+  },
+  {
+   "pos": 4,
+   "root": "أبل",
+   "lemma": "إِبِل",
+   "meaning_en": "camels",
+   "meaning_bn": "উট",
+   "why_en": "The animal closest to the Arabs' daily life, full of signs of Allah's design."
+  },
+  {
+   "pos": 6,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "created",
+   "meaning_bn": "সৃষ্টি করা হয়েছে",
+   "why_en": "The point is the Creator behind the creature."
+  }
+ ],
+ "lesson_en": "The signs of Allah are in the ordinary things around you; look at them with thought and they will strengthen your faith.",
+ "lesson_bn": "আল্লাহর নিদর্শন আপনার চারপাশের সাধারণ জিনিসেই আছে; চিন্তা নিয়ে সেগুলোর দিকে তাকান, তা আপনার ঈমানকে মজবুত করবে।",
+ "real_life_en": "At the Eid market, your son watches a huge cow being led calmly by a small boy. You use the moment: Allah made this strong animal gentle and useful to us. Next time he sees a cow, a cat or a sparrow, he may look a little longer.",
+ "real_life_bn": "ঈদের হাটে আপনার ছেলে দেখল, ছোট একটি ছেলে বিশাল এক গরুকে শান্তভাবে টেনে নিয়ে যাচ্ছে। আপনি সুযোগটা কাজে লাগালেন: আল্লাহ এই শক্তিশালী প্রাণীকে আমাদের জন্য নরম ও উপকারী বানিয়েছেন। এরপর গরু, বিড়াল বা চড়ুই দেখলে সে হয়তো একটু বেশি সময় তাকিয়ে থাকবে।",
+ "context_en": "Al-Mukhtasar says these signs are shown so the deniers can use them as evidence for faith and become among the fortunate. Ibn Kathir notes the bedouin is directed to what he sees on a journey: his camel, the sky above, the mountains ahead and the earth below.",
+ "context_bn": "আল-মুখতাসার বলে, এই নিদর্শনগুলো দেখানো হয়েছে যেন অস্বীকারকারীরা এগুলোকে ঈমানের প্রমাণ হিসেবে নিয়ে সৌভাগ্যবানদের দলে শামিল হতে পারে। ইবনে কাসীর উল্লেখ করেন, মরুবাসীকে সফরে যা চোখে পড়ে তার দিকেই নজর দিতে বলা হয়েছে: তার উট, মাথার উপর আকাশ, সামনের পাহাড় আর পায়ের নিচের মাটি।",
+ "themes": [
+  "signs in nature",
+  "creation",
+  "reflection",
+  "tawhid"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Arabs"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "camels"
+  ]
+ },
+ "claims": [
+  {
+   "text": "After the two groups, Allah directed the disbelievers to look with reflection at the camels, how Allah created them and made them subservient to people, as evidence for faith.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Ibn Kathir: it is powerful, carries heavy loads, is led by a weak rider; it is eaten, its hair used and its milk drunk; it was the Arabs' most common animal.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "The four signs suit what the desert Arab saw on a journey: camel, sky, mountains and earth.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": [
+  "Ma'ariful Qur'an adds detailed notes on camel biology (water pouch, knees); left out as beyond the classical tafsir."
+ ]
+}

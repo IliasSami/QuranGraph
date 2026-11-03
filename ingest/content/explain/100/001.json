@@ -1,0 +1,94 @@
+{
+ "id": "100:1",
+ "simple_en": "The surah opens with Allah swearing an oath by horses running at full speed, so hard that you can hear their breath panting in their chests. Sa'di notes that horses carry clear signs of Allah and are a blessing people know well. Ibn Kathir and al-Muyassar explain that these are horses galloping in Allah's path towards the enemy. The oath prepares us for the point it is making a few ayat later.",
+ "simple_bn": "সূরাটি শুরু হয়েছে আল্লাহর একটি শপথ দিয়ে: পূর্ণ গতিতে ছুটে চলা ঘোড়ার শপথ, যাদের বুক থেকে হাঁপানোর শব্দ শোনা যায়। সা'দী বলেন, ঘোড়ার মধ্যে আল্লাহর স্পষ্ট নিদর্শন আছে, আর মানুষ ভালোভাবেই জানে এটি কত বড় নিয়ামত। ইবনে কাসীর ও আল-মুয়াসসার জানান, এগুলো আল্লাহর পথে শত্রুর দিকে ছুটে যাওয়া ঘোড়া। এই শপথ আমাদের প্রস্তুত করে সেই কথার জন্য, যা কয়েক আয়াত পরে আসছে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "عدو",
+   "lemma": "عادِيَة",
+   "meaning_en": "the runners, chargers",
+   "meaning_bn": "ধাবমান ঘোড়াগুলো",
+   "why_en": "From the root 'adw, to run: horses racing at their fastest."
+  },
+  {
+   "pos": 2,
+   "root": "ضبح",
+   "lemma": "ضَبْح",
+   "meaning_en": "panting",
+   "meaning_bn": "হাঁপানো",
+   "why_en": "The sound of a horse's breath in its chest when it runs hard."
+  }
+ ],
+ "lesson_en": "Allah swears by things that carry His signs, so look at the creatures around you and notice the blessings in them.",
+ "lesson_bn": "আল্লাহ এমন জিনিসের শপথ করেন যার মধ্যে তাঁর নিদর্শন আছে, তাই চারপাশের প্রাণীদের দিকে তাকিয়ে তাদের মধ্যে থাকা নিয়ামতগুলো লক্ষ করুন।",
+ "real_life_en": "Watch a working animal, a horse pulling a cart or a guard dog on duty, and notice how hard it works for the person who only gives it food that Allah created. Let that picture stay in your mind as you read the rest of the surah.",
+ "real_life_bn": "কাজ করা কোনো প্রাণীর দিকে তাকান, গাড়ি টানা ঘোড়া বা পাহারায় থাকা কুকুর। দেখুন, যে মানুষ তাকে শুধু আল্লাহর সৃষ্টি করা খাবারটুকু দেয়, তার জন্য সে কত কষ্ট করে। সূরার বাকি অংশ পড়ার সময় এই ছবিটি মনে রাখুন।",
+ "context_en": "Ayat 1 to 5 are one long oath by war horses. What is sworn about comes in ayah 6: man is ungrateful to his Lord. Ma'ariful Qur'an explains the link: the horse gives its all to its owner for a small favour, while man forgets Allah's huge favours.",
+ "context_bn": "১ থেকে ৫ নম্বর আয়াত মিলে যুদ্ধের ঘোড়ার একটি দীর্ঘ শপথ। যে কথার জন্য শপথ, তা এসেছে ৬ নম্বর আয়াতে: মানুষ তার রবের প্রতি অকৃতজ্ঞ। মা'আরিফুল কুরআন সম্পর্কটি বুঝিয়েছেন: সামান্য উপকারের জন্য ঘোড়া তার মালিকের জন্য সব দিয়ে দেয়, অথচ মানুষ আল্লাহর বিশাল অনুগ্রহ ভুলে যায়।",
+ "themes": [
+  "signs in nature",
+  "gratitude",
+  "struggle in Allah's way"
+ ],
+ "kinds": [
+  "oath"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "horses"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah swears by horses running so hard that their breath can be heard.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Dabh is the sound of the horse's breath in its chest when it runs hard; 'adiyat comes from 'adw, to run.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Sa'di: Allah swore by horses because of His clear signs and evident blessings in them.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "These are horses galloping in Allah's path towards the enemy.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-arabic-moyassar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The thing sworn about is ayah 6, that man is ungrateful; the horse's hard service for its owner, who only gives it food Allah created, is set against man's ingratitude to Allah.",
+   "sources": [
+    "g-en-maarif",
+    "qe-bengali-zakaria",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "The Tanzil Arabic line for this ayah shows the Basmalah joined to the ayah text."
+ ]
+}

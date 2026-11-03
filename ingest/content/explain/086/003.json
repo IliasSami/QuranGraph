@@ -1,0 +1,87 @@
+{
+ "id": "86:3",
+ "simple_en": "Here is the answer: the night-comer is the piercing star. It shines so brightly that its light seems to cut through the darkness of the sky. The ayah does not name one particular star. Sa'di says the correct view is that it covers all bright stars, while some scholars named the Pleiades or Saturn.",
+ "simple_bn": "এই হলো উত্তর: রাতে আগমনকারী হলো উজ্জ্বল, ভেদকারী নক্ষত্র। এর আলো এত তীব্র যে মনে হয় অন্ধকার আকাশকে ছিদ্র করে বেরিয়ে আসছে। আয়াতে নির্দিষ্ট কোনো নক্ষত্রের নাম বলা হয়নি। সা'দী বলেন, সঠিক মত হলো এটি সব উজ্জ্বল নক্ষত্রকেই বোঝায়; আর কিছু আলেম কৃত্তিকা নক্ষত্রপুঞ্জ বা শনি গ্রহের কথা বলেছেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "نجم",
+   "lemma": "نَجْم",
+   "meaning_en": "the star",
+   "meaning_bn": "নক্ষত্র",
+   "why_en": "It tells us plainly what the night-comer of ayah 1 is."
+  },
+  {
+   "pos": 2,
+   "root": "ثقب",
+   "lemma": "ثاقِب",
+   "meaning_en": "piercing, brilliant",
+   "meaning_bn": "ভেদকারী, দীপ্তিমান",
+   "why_en": "From a root meaning to pierce: its light pierces the darkness."
+  }
+ ],
+ "lesson_en": "The bright stars that pierce the night are a sign of their Maker, and seeing them should lead us to think of Him.",
+ "lesson_bn": "রাতের অন্ধকার ভেদ করা উজ্জ্বল নক্ষত্রগুলো তাদের স্রষ্টার নিদর্শন; এগুলো দেখে আমাদের মন তাঁর দিকে ফেরা উচিত।",
+ "real_life_en": "During a power cut at night, you notice how many more stars you can see from the roof. Instead of only complaining about the heat, you point them out to your younger brother and tell him that Allah swore by these stars in the Quran.",
+ "real_life_bn": "রাতে লোডশেডিংয়ের সময় ছাদে উঠে দেখলেন, আকাশে অনেক বেশি তারা দেখা যাচ্ছে। শুধু গরম নিয়ে অভিযোগ না করে ছোট ভাইকে তারাগুলো দেখালেন, আর বললেন যে আল্লাহ কুরআনে এই তারাগুলোর শপথ করেছেন।",
+ "themes": [
+  "signs in nature",
+  "creation"
+ ],
+ "kinds": [
+  "oath",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "star"
+  ]
+ },
+ "claims": [
+  {
+   "text": "It is the star that pierces the sky with its glowing light; the bright, shining star.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The Quran does not specify a particular star; Sa'di says the correct view is that it is a general term for all piercing stars.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Some commentators said it is the Pleiades or Saturn.",
+   "sources": [
+    "g-en-maarif",
+    "g-en-jalalayn",
+    "g-ar-saadi",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Ibn 'Abbas explained thaqib as 'the illuminating'.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": true,
+ "differ_note_en": "Sa'di and Ma'ariful Qur'an take it as any bright star; Jalalayn mentions the Pleiades, and some named Saturn.",
+ "differ_note_bn": "সা'দী ও মাআরিফুল কুরআন একে যেকোনো উজ্জ্বল নক্ষত্র বলেছেন; জালালাইন কৃত্তিকা নক্ষত্রপুঞ্জের কথা বলেছেন, আর কেউ কেউ শনি গ্রহের নাম নিয়েছেন।",
+ "confidence": 0.91,
+ "uncertain": []
+}

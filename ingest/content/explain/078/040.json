@@ -1,0 +1,129 @@
+{
+ "id": "78:40",
+ "simple_en": "The surah ends with a clear warning: Allah has warned us of a punishment that is near, because whatever is certain to come is near. On that Day each person will see what his hands sent ahead, good and bad. The disbeliever will cry, \"I wish I were dust.\" Al-Mukhtasar and Jalalayn explain that he says this when the animals, after settling their wrongs, are told, \"Become dust.\"",
+ "simple_bn": "সূরাটি শেষ হয়েছে একটি স্পষ্ট সতর্কবাণী দিয়ে: আল্লাহ আমাদের এক আসন্ন শাস্তি সম্পর্কে সতর্ক করেছেন, কারণ যা নিশ্চিতভাবে আসবে তা কাছেই। সেদিন প্রত্যেকে দেখবে তার হাত আগে কী পাঠিয়েছে, ভালো ও মন্দ। কাফির আর্তনাদ করে বলবে, \"হায়, আমি যদি মাটি হতাম।\" আল-মুখতাসার ও জালালাইন ব্যাখ্যা করেছে, সে এ কথা বলবে যখন পশুদের পরস্পরের অন্যায়ের বদলা নেওয়ার পর বলা হবে, \"মাটি হয়ে যাও।\"",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نذر",
+   "lemma": "أَنذَرَ",
+   "meaning_en": "We have warned you",
+   "meaning_bn": "আমি তোমাদের সতর্ক করেছি",
+   "why_en": "The warning has been given; no one can say they were not told."
+  },
+  {
+   "pos": 4,
+   "root": "قرب",
+   "lemma": "قَرِيب",
+   "meaning_en": "near",
+   "meaning_bn": "আসন্ন, নিকটবর্তী",
+   "why_en": "It is near because everything that is coming will surely come."
+  },
+  {
+   "pos": 9,
+   "root": "قدم",
+   "lemma": "قَدَّمَ",
+   "meaning_en": "sent ahead",
+   "meaning_bn": "আগে পাঠিয়েছে",
+   "why_en": "Our deeds are sent ahead of us, waiting for us on that Day."
+  },
+  {
+   "pos": 15,
+   "root": "ترب",
+   "lemma": "تُراب",
+   "meaning_en": "dust",
+   "meaning_bn": "মাটি",
+   "why_en": "The disbeliever wishes he were dust like the animals, never raised to face judgement."
+  }
+ ],
+ "lesson_en": "Look today at what you are sending ahead for tomorrow; if you find good, thank Allah, and if not, change course while you can.",
+ "lesson_bn": "আজই দেখুন আগামীর জন্য কী আগে পাঠাচ্ছেন; ভালো পেলে আল্লাহর শুকরিয়া আদায় করুন, আর না পেলে সময় থাকতেই পথ বদলান।",
+ "real_life_en": "Before going to bed, a woman spends two minutes thinking over her day: a kind word to her mother, a harsh reply to a colleague, a prayer delayed. She thanks Allah for the good, asks forgiveness for the rest, and plans to message the colleague in the morning.",
+ "real_life_bn": "ঘুমানোর আগে এক নারী দুই মিনিট নিজের দিনটি নিয়ে ভাবেন: মায়ের সঙ্গে একটি মিষ্টি কথা, এক সহকর্মীকে দেওয়া একটি রূঢ় উত্তর, দেরি করে পড়া একটি নামাজ। তিনি ভালোগুলোর জন্য আল্লাহর শুকরিয়া আদায় করেন, বাকিগুলোর জন্য ক্ষমা চান, আর ঠিক করেন সকালে সহকর্মীকে বার্তা পাঠাবেন।",
+ "context_en": "Ibn Kathir, Ma'ariful Qur'an and Zakaria's footnote report from 'Abdullah ibn 'Amr and Abu Hurayrah that all creatures, animals included, will be gathered, the animals will settle their wrongs against one another, and then be told to become dust.",
+ "context_bn": "ইবনে কাসীর, মাআরিফুল কুরআন ও যাকারিয়ার টীকা আব্দুল্লাহ ইবনে আমর ও আবু হুরায়রা (রাদিয়াল্লাহু আনহুমা) থেকে বর্ণনা করেছেন, পশুসহ সব সৃষ্টিকে একত্র করা হবে, পশুরা পরস্পরের অন্যায়ের বদলা নেবে, তারপর তাদের মাটি হয়ে যেতে বলা হবে।",
+ "themes": [
+  "the Last Day",
+  "judgment",
+  "disbelief",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [
+   "'Abdullah ibn 'Amr",
+   "Abu Hurayrah"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Judgement"
+  ],
+  "things": [
+   "dust"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah has warned of an impending punishment on the day a person sees the deeds he sent forth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "It is near because everything that is coming is near / certain to come.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Each person will see his deeds, good and evil.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The disbeliever wishes he had become dust like the animals, when they are told on the Day of Judgement 'Become dust'.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Report from 'Abdullah ibn 'Amr and Abu Hurayrah: animals will be gathered, retaliation taken even for the hornless goat, then they are told to become dust.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Sa'di: let a person look in this world at what he sends ahead; if he finds good, let him praise Allah, and if otherwise, blame only himself.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": [
+  "Ma'ariful Qur'an names the narrator of the animals report as 'Abdullah ibn 'Umar, while Ibn Kathir and Zakaria give 'Abdullah ibn 'Amr; I followed the latter."
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "id": "100:3",
+ "simple_en": "Next, Allah swears by the horses that raid the enemy at dawn. The attack is really made by the riders, but it is linked to the horses because they play the biggest part in it. Dawn is mentioned because that was the usual time for a raid among the Arabs. Ibn Abbas, Mujahid and Qatadah said it means the horses going out in the morning in Allah's way.",
+ "simple_bn": "এরপর আল্লাহ শপথ করেন সেই ঘোড়াগুলোর, যেগুলো ভোরবেলা শত্রুর উপর আক্রমণ করে। আসলে আক্রমণ করে আরোহীরা, কিন্তু কাজটি ঘোড়ার সঙ্গে জোড়া হয়েছে, কারণ এতে ঘোড়ার ভূমিকাই সবচেয়ে বড়। ভোরের কথা এসেছে, কারণ আরবে সাধারণত ওই সময়েই আক্রমণ করা হতো। ইবনে আব্বাস, মুজাহিদ ও কাতাদা বলেছেন, এর অর্থ আল্লাহর পথে সকালে ঘোড়ার অভিযান।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "غير",
+   "lemma": "مُغِيرَة",
+   "meaning_en": "the raiders",
+   "meaning_bn": "আক্রমণকারী ঘোড়াগুলো",
+   "why_en": "From ighara, to make a sudden attack on an enemy."
+  },
+  {
+   "pos": 2,
+   "root": "صبح",
+   "lemma": "صُبْح",
+   "meaning_en": "at dawn",
+   "meaning_bn": "ভোরবেলা",
+   "why_en": "The usual time of a raid among the Arabs."
+  }
+ ],
+ "lesson_en": "Allah praises effort and readiness in His cause, which reminds us to give our best in whatever good work we do.",
+ "lesson_bn": "আল্লাহ তাঁর পথে পরিশ্রম ও প্রস্তুতির কথা মর্যাদার সঙ্গে উল্লেখ করেছেন, যা মনে করিয়ে দেয় যে কোনো ভালো কাজে আমাদের সেরাটা দিতে হবে।",
+ "real_life_en": "Think of the person who gets up before Fajr to reach work on time and support the family, while others are still asleep. Early effort for a good goal has real value, and this ayah shows how much the early hours mattered.",
+ "real_life_bn": "ভাবুন সেই মানুষটির কথা, যিনি পরিবারের জন্য সময়মতো কাজে পৌঁছাতে ফজরের আগেই ওঠেন, যখন অন্যরা ঘুমিয়ে থাকে। ভালো লক্ষ্যে ভোরের পরিশ্রমের সত্যিকারের মূল্য আছে, আর এই আয়াত দেখায় ভোরের সময়টা কত গুরুত্বপূর্ণ ছিল।",
+ "context_en": "This is the third part of the oath by war horses (ayat 1 to 5).",
+ "context_bn": "এটি যুদ্ধের ঘোড়ার শপথের তৃতীয় অংশ (আয়াত ১ থেকে ৫)।",
+ "themes": [
+  "struggle in Allah's way",
+  "signs in nature"
+ ],
+ "kinds": [
+  "oath"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "horses"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah swears by the horses that raid the enemy at dawn.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The riders make the attack, but it is linked to the horses because they play the larger part.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Dawn is mentioned because raids were usually made in the morning among the Arabs.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Ibn Abbas, Mujahid and Qatadah said it means the horses' raid in the morning in the way of Allah.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": [
+  "The real-life example about early effort is a general application, not drawn from a source."
+ ]
+}

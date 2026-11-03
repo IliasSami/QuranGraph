@@ -1,0 +1,99 @@
+{
+ "id": "101:5",
+ "simple_en": "The mountains, so hard and solid today, will be like fluffed-up wool. Sa'di says they become like carded wool so weak that the lightest wind blows it away, and after that they turn to scattered dust until nothing of them is left. Al-Muyassar and Ahsanul Bayan add that 'ihn is wool of many colours. Al-Mukhtasar points to how forcefully they will move from their places.",
+ "simple_bn": "পাহাড়গুলো, যা আজ এত শক্ত ও মজবুত, সেদিন হবে ধুনা পশমের মতো। সা'দী বলেন, সেগুলো এমন ধুনা পশমের মতো দুর্বল হয়ে যাবে যে সামান্য বাতাসেও উড়ে যায়, তারপর বিক্ষিপ্ত ধুলো হয়ে যাবে, শেষে তাদের কিছুই আর দেখা যাবে না। আল-মুয়াসসার ও আহসানুল বায়ান যোগ করেন, 'ইহন' হলো নানা রঙের পশম। আল-মুখতাসার উল্লেখ করেছেন, কত প্রবল গতিতে সেগুলো নিজের জায়গা থেকে সরে যাবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "جبل",
+   "lemma": "جَبَل",
+   "meaning_en": "mountains",
+   "meaning_bn": "পাহাড়",
+   "why_en": "The firmest things we know will become the weakest."
+  },
+  {
+   "pos": 3,
+   "root": "عهن",
+   "lemma": "عِهْن",
+   "meaning_en": "(coloured) wool",
+   "meaning_bn": "(রঙিন) পশম",
+   "why_en": "Wool dyed in many colours, light and easily scattered."
+  },
+  {
+   "pos": 4,
+   "root": "نفش",
+   "lemma": "مَنفُوش",
+   "meaning_en": "carded, fluffed up",
+   "meaning_bn": "ধুনা",
+   "why_en": "Pulled apart and loose, ready to blow away."
+  }
+ ],
+ "lesson_en": "Nothing in this world is permanent, even the mountains, so build your hope on Allah, not on things that will pass.",
+ "lesson_bn": "এই দুনিয়ার কিছুই স্থায়ী নয়, এমনকি পাহাড়ও না; তাই ভরসা রাখুন আল্লাহর উপর, ক্ষণস্থায়ী জিনিসের উপর নয়।",
+ "real_life_en": "You feel your savings, your job or your strong body will always protect you. Then you see an old, solid building pulled down in a single day. Use such moments to remind yourself that only what you send ahead for the Hereafter truly lasts.",
+ "real_life_bn": "আপনার মনে হয় সঞ্চয়, চাকরি বা সুস্থ শরীর সবসময় আপনাকে রক্ষা করবে। তারপর দেখলেন, পুরনো এক মজবুত ভবন একদিনেই ভেঙে ফেলা হলো। এমন মুহূর্তে নিজেকে মনে করিয়ে দিন, আখিরাতের জন্য যা আগে পাঠাচ্ছেন, শুধু সেটাই সত্যিকারভাবে টিকে থাকে।",
+ "context_en": "After this picture of the Day, the surah turns to the two groups people will divide into, based on the weight of their deeds (ayat 6 to 11).",
+ "context_bn": "দিনটির এই ছবির পর সূরাটি সেই দুই দলের দিকে যায়, যাদের মধ্যে মানুষ আমলের ওজন অনুযায়ী ভাগ হয়ে যাবে (আয়াত ৬ থেকে ১১)।",
+ "themes": [
+  "the Last Day",
+  "this world",
+  "Allah's power"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning",
+  "parable"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "the Day of Judgment"
+  ],
+  "things": [
+   "mountains",
+   "wool"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The mountains will be like carded wool in the way they move from their places with force.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Sa'di: the hard mountains become like carded wool so weak the lightest wind carries it, then scattered dust, until nothing of them remains to be seen.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-bengali-zakaria",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "'Ihn is wool dyed in many colours; manfush means carded.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "After this, people divide into two groups according to their deeds.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

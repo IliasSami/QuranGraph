@@ -1,0 +1,78 @@
+{
+ "id": "84:14",
+ "simple_en": "This is the root of his careless joy: he thought he would never return. In other words, he believed he would not be brought back to life after death and would never stand before his Lord for the reckoning. Ahsanul Bayan explains that the word used here means to go back or return. Because he denied the Hereafter, he lived as if nothing would follow.",
+ "simple_bn": "তার বেপরোয়া আনন্দের মূল কারণ এটাই: সে ভাবত, সে কখনো ফিরে যাবে না। অর্থাৎ সে বিশ্বাস করত, মৃত্যুর পর তাকে আর জীবিত করা হবে না, আর হিসাবের জন্য রবের সামনে দাঁড়াতে হবে না। আহসানুল বয়ান বলে, এখানে যে শব্দ এসেছে তার অর্থ ফিরে যাওয়া। আখিরাতকে অস্বীকার করার কারণে সে এমনভাবে চলত, যেন এরপর আর কিছুই নেই।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ظنن",
+   "lemma": "ظَنَّ",
+   "meaning_en": "he thought",
+   "meaning_bn": "সে ধারণা করেছিল",
+   "why_en": "A false assumption he built his whole life on."
+  },
+  {
+   "pos": 5,
+   "root": "حور",
+   "lemma": "يَحُورَ",
+   "meaning_en": "return",
+   "meaning_bn": "ফিরে যাওয়া",
+   "why_en": "Hawr means going back; he denied that he would go back to Allah."
+  }
+ ],
+ "lesson_en": "What you believe about life after death shapes how you live. Keep the certainty of meeting Allah alive in your heart.",
+ "lesson_bn": "মৃত্যুর পর কী হবে, সে বিশ্বাসই ঠিক করে আপনি কীভাবে বাঁচবেন। আল্লাহর সাথে সাক্ষাতের দৃঢ় বিশ্বাস হৃদয়ে জাগিয়ে রাখুন।",
+ "real_life_en": "A classmate says, \"Nobody checks, so it doesn't matter,\" and copies answers in a test. You notice how one belief, that no one will ask, changes everything a person does. You remind yourself that you will return to Allah and be asked, and you write your own answers.",
+ "real_life_bn": "এক সহপাঠী বলল, \"কেউ তো দেখছে না, তাই কিছু যায় আসে না,\" আর পরীক্ষায় নকল করল। আপনি খেয়াল করলেন, \"কেউ জিজ্ঞেস করবে না\" এই একটি বিশ্বাস মানুষের সব কাজ কীভাবে বদলে দেয়। নিজেকে মনে করিয়ে দিলেন, আপনি আল্লাহর কাছে ফিরে যাবেন এবং জিজ্ঞাসিত হবেন, তাই নিজের উত্তর নিজেই লিখলেন।",
+ "themes": [
+  "resurrection",
+  "disbelief",
+  "the Last Day"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "resurrection"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He thought he would not come back to life after death.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "He thought he would not return to his Creator alive for the reckoning / to his Lord.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Hawr means returning; this belief was the cause of his careless joy, since he did not believe in the Hereafter.",
+   "sources": [
+    "g-bn-ahsanul-bayan",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

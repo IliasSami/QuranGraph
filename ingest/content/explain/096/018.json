@@ -1,0 +1,83 @@
+{
+ "id": "96:18",
+ "simple_en": "Allah answers the boast: \"We will call the Zabaniyah.\" These are the guards of Hell. They are stern angels who never disobey Allah and do what they are told. Al-Mukhtasar says: then we will see which side is stronger. Ibn Kathir quotes Ibn 'Abbas, as al-Bukhari and others record it. If Abu Jahl had called his people, the angels of punishment would have seized him there and then.",
+ "simple_bn": "আল্লাহ সেই বড়াইয়ের জবাব দিচ্ছেন: \"আমরাও ডাকব যাবানিয়াদের।\" এরা জাহান্নামের প্রহরী, কঠোর ফেরেশতা, যারা আল্লাহর আদেশ কখনো অমান্য করে না এবং যা বলা হয় তাই করে। আল-মুখতাসার বলে: তখন দেখা যাবে কোন পক্ষ বেশি শক্তিশালী। ইবনে কাসীর বুখারী ও অন্যদের বর্ণনায় ইবনে আব্বাসের কথা উল্লেখ করেন: আবু জাহল যদি তার লোকদের ডাকত, তবে শাস্তির ফেরেশতারা তখনই তাকে পাকড়াও করত।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "دعو",
+   "lemma": "دَعا",
+   "meaning_en": "We will call",
+   "meaning_bn": "আমরা ডাকব",
+   "why_en": "The same verb as his call: his gang against Allah's angels."
+  },
+  {
+   "pos": 2,
+   "root": "زبن",
+   "lemma": "زَبانِيَة",
+   "meaning_en": "the Zabaniyah, guards of Hell",
+   "meaning_bn": "যাবানিয়া, জাহান্নামের প্রহরী",
+   "why_en": "From a root meaning to push hard: forceful angels no one can resist."
+  }
+ ],
+ "lesson_en": "Allah's power is beyond any human force. Those who stand against His Messenger stand against Him.",
+ "lesson_bn": "আল্লাহর শক্তি যেকোনো মানুষের শক্তির ঊর্ধ্বে। যারা তাঁর রাসূলের বিরুদ্ধে দাঁড়ায়, তারা আসলে তাঁরই বিরুদ্ধে দাঁড়ায়।",
+ "real_life_en": "When a powerful person in your town is unfair to the weak and seems untouchable, this ayah brings perspective. No one is out of Allah's reach. You do your part through fair and lawful means, and leave the final reckoning to the One whose power no one can match.",
+ "real_life_bn": "আপনার এলাকার কোনো প্রভাবশালী ব্যক্তি দুর্বলদের উপর অন্যায় করে আর মনে হয় তাকে কেউ ছুঁতে পারবে না, তখন এই আয়াত সঠিক দৃষ্টিভঙ্গি দেয়। কেউই আল্লাহর নাগালের বাইরে নয়। আপনি ন্যায়সঙ্গত ও বৈধ উপায়ে নিজের দায়িত্ব পালন করুন, আর চূড়ান্ত বিচার ছেড়ে দিন তাঁর হাতে, যাঁর শক্তির সমকক্ষ কেউ নেই।",
+ "themes": [
+  "angels",
+  "Hell",
+  "Allah's power",
+  "punishment"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Abu Jahl"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Zabaniyah",
+   "angels",
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "I will call the gatekeepers of Hell, fierce angels who do not disobey My command; then it will be seen which party is stronger.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Zabaniyah are the stern guardian angels of Hell; the root zabn means pushing.",
+   "sources": [
+    "qe-bengali-zakaria",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Ibn 'Abbas: if he had called his council, the angels of punishment would have seized him at that instant (al-Bukhari, al-Tirmidhi and others).",
+   "sources": [
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

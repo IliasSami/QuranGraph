@@ -1,0 +1,75 @@
+{
+ "id": "109:2",
+ "simple_en": "The first declaration: \"I do not worship what you worship.\" Al-Mukhtasar explains it as the idols and false gods they worshipped, now or in the future. Sa'di says it is a full disowning, outwardly and inwardly, of everything worshipped besides Allah.",
+ "simple_bn": "প্রথম ঘোষণা: \"তোমরা যার ইবাদত করো, আমি তার ইবাদত করি না।\" আল-মুখতাসার ব্যাখ্যা করেছে, এর মানে তারা যেসব মূর্তি ও মিথ্যা উপাস্যের পূজা করত, তা এখনও না, ভবিষ্যতেও না। সা'দী বলেছেন, এটি আল্লাহ ছাড়া যা কিছুর ইবাদত করা হয়, বাহ্যিক ও ভেতরে, সবকিছু থেকে পূর্ণ সম্পর্কচ্ছেদ।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "عبد",
+   "lemma": "عَبَدَ",
+   "meaning_en": "I worship",
+   "meaning_bn": "আমি ইবাদত করি",
+   "why_en": "Worship belongs to Allah alone, so it cannot be shared with idols."
+  },
+  {
+   "pos": 3,
+   "root": "",
+   "lemma": "ما",
+   "meaning_en": "what",
+   "meaning_bn": "যা",
+   "why_en": "Refers to the idols and false gods they worshipped."
+  }
+ ],
+ "lesson_en": "A Muslim does not join in worshipping anything other than Allah, whatever the pressure.",
+ "lesson_bn": "যত চাপই আসুক, একজন মুসলিম আল্লাহ ছাড়া অন্য কিছুর ইবাদতে শরিক হয় না।",
+ "real_life_en": "At a gathering, someone asks you to join a ritual that involves praying to something other than Allah. You can decline politely and stay friendly with the people there. Your worship stays only for Allah.",
+ "real_life_bn": "কোনো অনুষ্ঠানে কেউ আপনাকে এমন এক রীতিতে যোগ দিতে বলল, যেখানে আল্লাহ ছাড়া অন্য কিছুর কাছে প্রার্থনা করা হয়। আপনি ভদ্রভাবে না বলতে পারেন, আর সেখানকার মানুষদের সাথে আন্তরিক সম্পর্কও রাখতে পারেন। আপনার ইবাদত থাকবে শুধু আল্লাহর জন্য।",
+ "themes": [
+  "tawhid",
+  "shirk",
+  "worship"
+ ],
+ "kinds": [
+  "belief",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "idols"
+  ]
+ },
+ "claims": [
+  {
+   "text": "I do not and will not worship the idols you worship.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: he disowned what they worshipped besides Allah, outwardly and inwardly.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "What they worshipped means statues and rival gods.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

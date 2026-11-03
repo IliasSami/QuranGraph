@@ -1,0 +1,80 @@
+{
+ "id": "78:32",
+ "simple_en": "Their success is then explained: gardens and grapevines. Al-Sa'di describes these gardens as orchards with every kind of tree, rich with fruit, and rivers flowing through them. Grapes are mentioned by name because of their excellence and because there are so many of them there.",
+ "simple_bn": "এরপর তাদের সফলতার বিবরণ দেওয়া হয়েছে: বাগান আর আঙুর। আস-সা'দী এসব বাগানের বর্ণনা দিয়েছেন: নানা রকম গাছে ভরা, ফলে সমৃদ্ধ বাগান, যার মাঝ দিয়ে নদী প্রবাহিত। আঙুরের কথা আলাদা করে বলা হয়েছে এর মর্যাদার কারণে, এবং সেখানে এর প্রাচুর্যের কারণে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "حدق",
+   "lemma": "حَدائِق",
+   "meaning_en": "gardens, orchards",
+   "meaning_bn": "উদ্যানসমূহ",
+   "why_en": "Hada'iq are full orchards of many trees, here explaining what their success is."
+  },
+  {
+   "pos": 2,
+   "root": "عنب",
+   "lemma": "عِنَب",
+   "meaning_en": "grapes, vineyards",
+   "meaning_bn": "আঙুর",
+   "why_en": "Grapes are singled out for their excellence and abundance there."
+  }
+ ],
+ "lesson_en": "The good things of this world are only a small hint of what Allah has prepared; let that hope keep you patient in obeying Him.",
+ "lesson_bn": "এই দুনিয়ার ভালো জিনিসগুলো আল্লাহর প্রস্তুত করা নিয়ামতের সামান্য ইঙ্গিত মাত্র; এই আশা আপনাকে তাঁর আনুগত্যে ধৈর্যশীল রাখুক।",
+ "real_life_en": "A mother sharing a bunch of grapes with her children tells them that Allah promises gardens and grapes in Paradise to those who obey Him. One child asks how to get there. She answers simply: pray, be kind, and tell the truth.",
+ "real_life_bn": "এক মা সন্তানদের সঙ্গে আঙুর ভাগ করে খেতে খেতে বলেন, যারা আল্লাহর আনুগত্য করে, তাদের জন্য তিনি জান্নাতে বাগান ও আঙুরের ওয়াদা করেছেন। এক বাচ্চা জিজ্ঞেস করে, সেখানে কীভাবে যাওয়া যায়? তিনি সহজভাবে উত্তর দেন: নামাজ পড়ো, দয়ালু হও, আর সত্য বলো।",
+ "themes": [
+  "Paradise",
+  "reward",
+  "taqwa"
+ ],
+ "kinds": [
+  "promise",
+  "glad-tidings",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Paradise"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "gardens",
+   "grapes"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Their place of success is full of gardens and grapevines; this ayah explains the 'success'.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Sa'di: gardens combining kinds of trees bright with fruit, with rivers bursting forth between them; grapes singled out for their excellence and abundance.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Hada'iq are gardens of palm trees and other things.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": []
+}

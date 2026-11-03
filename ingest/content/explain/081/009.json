@@ -1,0 +1,81 @@
+{
+ "id": "81:9",
+ "simple_en": "This completes the scene. The girl will be asked: \"For what sin were you killed?\" Everyone knows she had no sin, as al-Sa'di says. The question is really aimed at the one who killed her, as a rebuke. Ibn Kathir, as quoted in the Bangla footnotes, says Allah turns away from the killers and asks the innocent child instead, a sign of how hateful their act was.",
+ "simple_bn": "এখানে দৃশ্যটি পূর্ণ হয়। মেয়েটিকে জিজ্ঞেস করা হবে: \"কোন অপরাধে তোমাকে হত্যা করা হয়েছিল?\" আস-সা'দী বলেন, সবাই জানে তার কোনো অপরাধ ছিল না। প্রশ্নটি আসলে হত্যাকারীর প্রতি তিরস্কার। বাংলা টীকায় ইবনে কাসীরের বরাতে এসেছে, আল্লাহ হত্যাকারীদের দিক থেকে মুখ ফিরিয়ে নিষ্পাপ শিশুটিকেই প্রশ্ন করবেন; এতে বোঝা যায় তাদের কাজ কত ঘৃণ্য ছিল।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ذنب",
+   "lemma": "ذَنب",
+   "meaning_en": "sin",
+   "meaning_bn": "অপরাধ",
+   "why_en": "Asking about her 'sin' makes plain that she had none."
+  },
+  {
+   "pos": 3,
+   "root": "قتل",
+   "lemma": "قَتَلَ",
+   "meaning_en": "she was killed",
+   "meaning_bn": "তাকে হত্যা করা হয়েছিল",
+   "why_en": "The Quran names the act plainly as killing, whatever excuse people gave."
+  }
+ ],
+ "lesson_en": "Excuses like poverty or shame never make it right to harm an innocent person, and Allah will ask about it.",
+ "lesson_bn": "দারিদ্র্য বা লজ্জার মতো কোনো অজুহাতে নিরপরাধ কাউকে কষ্ট দেওয়া কখনো জায়েজ হয় না, আর আল্লাহ এ নিয়ে জিজ্ঞেস করবেন।",
+ "real_life_en": "A shopkeeper blames a young helper for missing money to save his own face, though he knows the boy did nothing. Thinking of the question \"For what sin?\", he goes back and clears the boy's name in front of everyone.",
+ "real_life_bn": "এক দোকানদার নিজের মান বাঁচাতে হারানো টাকার দোষ ছোট কর্মচারী ছেলেটির উপর চাপিয়ে দিলেন, অথচ জানতেন সে কিছু করেনি। \"কোন অপরাধে?\" এই প্রশ্নের কথা ভেবে তিনি ফিরে গিয়ে সবার সামনে ছেলেটিকে নির্দোষ ঘোষণা করলেন।",
+ "themes": [
+  "the Last Day",
+  "justice",
+  "judgment"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Resurrection"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "She will be asked for what crime she was killed by the one who killed her.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Sa'di: it is known she had no sin; the question rebukes her killers.",
+   "sources": [
+    "g-ar-saadi",
+    "qe-arabic-moyassar",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Jalalayn: she will answer that she was killed without any sin.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Zakaria's footnote, citing Ibn Kathir: Allah will turn away from the killers and ask the innocent girl, showing anger at them.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": []
+}

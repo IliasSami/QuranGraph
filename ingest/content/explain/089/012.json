@@ -1,0 +1,77 @@
+{
+ "id": "89:12",
+ "simple_en": "Their tyranny led them to fill the land with corruption. Al-Mukhtasar says this corruption was spreading disbelief and sins. Sa'di adds that they fought against the messengers and blocked people from Allah's way, and Jalalayn mentions killing among their crimes.",
+ "simple_bn": "তাদের জুলুম তাদের দিয়ে দেশে ব্যাপক বিপর্যয় ছড়িয়ে দিল। আল-মুখতাসার বলে, এই বিপর্যয় ছিল কুফরি ও পাপাচার ছড়ানো। সা'দী যোগ করেছেন, তারা রাসূলদের বিরুদ্ধে লড়েছে এবং মানুষকে আল্লাহর পথ থেকে বাধা দিয়েছে; আর জালালাইন তাদের অপরাধের মধ্যে হত্যার কথা উল্লেখ করেছে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "كثر",
+   "lemma": "أَكْثَرُ",
+   "meaning_en": "they increased",
+   "meaning_bn": "তারা বাড়িয়েছিল",
+   "why_en": "Not a single mistake but corruption multiplied again and again."
+  },
+  {
+   "pos": 3,
+   "root": "فسد",
+   "lemma": "فَساد",
+   "meaning_en": "corruption",
+   "meaning_bn": "বিপর্যয়, অনাচার",
+   "why_en": "Here it means disbelief and sin spread through society."
+  }
+ ],
+ "lesson_en": "Sin does not stay private for long; what a person or a nation spreads shapes the whole society.",
+ "lesson_bn": "পাপ বেশি দিন ব্যক্তিগত থাকে না; একজন মানুষ বা একটি জাতি যা ছড়ায়, তা পুরো সমাজকে গড়ে তোলে।",
+ "real_life_en": "You run a popular page online. A post that mocks religion or spreads a rumour would get thousands of shares. You choose not to post it, because you know whatever you start spreading does not stop with you.",
+ "real_life_bn": "অনলাইনে আপনার একটি জনপ্রিয় পেজ আছে। ধর্ম নিয়ে ঠাট্টা বা গুজব ছড়ানো একটি পোস্ট দিলে হাজার হাজার শেয়ার হবে। আপনি তা দিলেন না, কারণ জানেন, যা ছড়াতে শুরু করবেন তা আপনার কাছে এসে থেমে থাকবে না।",
+ "themes": [
+  "past nations",
+  "disbelief",
+  "justice"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Pharaoh"
+  ],
+  "nations": [
+   "'Ad",
+   "Thamud"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "They caused an abundance of corruption by spreading disbelief and sins.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: corruption is acting on disbelief and its branches of all kinds of sins; they strove to fight the messengers and turn people from Allah's way.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Jalalayn: corruption by way of slaying and otherwise.",
+   "sources": [
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.91,
+ "uncertain": []
+}

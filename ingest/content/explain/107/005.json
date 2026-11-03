@@ -1,0 +1,76 @@
+{
+ "id": "107:5",
+ "simple_en": "These are people who are careless about their prayer. They do not care about it until its time has passed, and they do not pray it properly. The sources point to the wording: it says careless 'about' their prayer, not 'in' their prayer. So it does not mean the small slips anyone makes while praying; even the Prophet ﷺ sometimes made a mistake in prayer. It means neglecting the prayer itself.",
+ "simple_bn": "এরা সেই লোক, যারা নিজেদের নামাজ সম্পর্কে উদাসীন। সময় পার হয়ে যাওয়া পর্যন্ত তাদের কোনো চিন্তা থাকে না, আর তারা নামাজ ঠিকভাবেও আদায় করে না। তাফসীরগুলো শব্দের দিকে দৃষ্টি দিয়েছে: এখানে বলা হয়েছে নামাজ 'সম্পর্কে' উদাসীন, নামাজের 'মধ্যে' নয়। তাই এটি নামাজের ভেতরে হয়ে যাওয়া ছোটখাটো ভুলের কথা নয়, যা সবারই হয়; এমনকি নবী ﷺ-এরও নামাজে কখনো ভুল হয়েছে। এর অর্থ নামাজকেই অবহেলা করা।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "",
+   "lemma": "عَن",
+   "meaning_en": "about, regarding",
+   "meaning_bn": "সম্পর্কে",
+   "why_en": "\"About\" their prayer, not \"in\" it: the blame is for neglecting prayer, not for forgetful slips during it."
+  },
+  {
+   "pos": 5,
+   "root": "سهو",
+   "lemma": "ساهي",
+   "meaning_en": "heedless, careless",
+   "meaning_bn": "উদাসীন",
+   "why_en": "Neglect that lets the prayer's time slip away and ignores how it should be done."
+  }
+ ],
+ "lesson_en": "Guard the prayer itself: its time, its proper form and its focus, and don't let it become something you don't care about.",
+ "lesson_bn": "নামাজকে যত্ন করে রাখুন: এর সময়, সঠিক নিয়ম আর মনোযোগ; একে কখনো অবহেলার জিনিস বানাবেন না।",
+ "real_life_en": "You keep pushing Asr back: one more email, one more episode. Then the sun is setting. Set a reminder when the prayer time starts and stand up when it rings. If you lose focus in prayer now and then, don't despair. The ayah warns about neglecting prayer, not about honest slips.",
+ "real_life_bn": "আপনি বারবার আসর পিছিয়ে দেন: আর একটা ইমেইল, আর একটা পর্ব। তারপর দেখেন সূর্য ডুবতে বসেছে। ওয়াক্ত শুরু হলেই একটা রিমাইন্ডার দিন, আর বাজলেই উঠে দাঁড়ান। নামাজে মাঝে মাঝে মনোযোগ হারালে হতাশ হবেন না; আয়াতটি নামাজ অবহেলার ব্যাপারে সতর্ক করে, অনিচ্ছাকৃত ভুলের ব্যাপারে নয়।",
+ "themes": [
+  "prayer",
+  "hypocrisy",
+  "taqwa"
+ ],
+ "kinds": [
+  "warning",
+  "worship"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "They are heedless of their prayer and do not care about it until its time expires.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "They do not establish it properly nor perform it on time; they neglect its pillars.",
+   "sources": [
+    "qe-arabic-moyassar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The blame is for being heedless 'an (about) the prayer, not fi (in) it; slips within prayer happen to everyone, even the Prophet ﷺ.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

@@ -1,0 +1,71 @@
+{
+ "id": "101:2",
+ "simple_en": "Now comes a question: what is the Striking Calamity? The question is not asking for information. Jalalayn and Sa'di explain that it is there to make the Day feel great and fearful. Repeating the name makes the listener stop and wonder how terrible it must be.",
+ "simple_bn": "এবার আসে একটি প্রশ্ন: করাঘাতকারী মহাবিপদ কী? প্রশ্নটি কোনো তথ্য জানার জন্য নয়। জালালাইন ও সা'দী বুঝিয়েছেন, এটি দিনটির বিশালতা ও ভয়াবহতা অনুভব করানোর জন্য। নামটি আবার বলায় শ্রোতা থেমে ভাবতে বাধ্য হয়, দিনটি কত ভয়ংকর হবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "",
+   "lemma": "ما",
+   "meaning_en": "what",
+   "meaning_bn": "কী",
+   "why_en": "A question of wonder that stresses the Day's greatness."
+  },
+  {
+   "pos": 2,
+   "root": "قرع",
+   "lemma": "قارِعَة",
+   "meaning_en": "the Striking Calamity",
+   "meaning_bn": "করাঘাতকারী মহাবিপদ",
+   "why_en": "Repeating the name builds the sense of dread."
+  }
+ ],
+ "lesson_en": "Some truths are so big that we should pause and think about them, not rush past them.",
+ "lesson_bn": "কিছু সত্য এত বড় যে সেগুলো নিয়ে থেমে ভাবা উচিত, তাড়াহুড়ো করে পার হয়ে যাওয়া নয়।",
+ "real_life_en": "When you recite this short surah in prayer, slow down at this question. Let it sink in for a moment instead of reading it at top speed. Even one moment of real attention can change how the rest of your prayer feels.",
+ "real_life_bn": "নামাজে এই ছোট সূরাটি পড়ার সময় এই প্রশ্নে এসে একটু ধীর হোন। দ্রুত পড়ে না গিয়ে কথাটি এক মুহূর্ত মনে বসতে দিন। সত্যিকারের মনোযোগের একটি মুহূর্তও বাকি নামাজের অনুভূতি বদলে দিতে পারে।",
+ "context_en": "Part of the opening of ayat 1 to 3, which stress the greatness of the Day before describing it.",
+ "context_bn": "এটি ১ থেকে ৩ নম্বর আয়াতের শুরুর অংশ, যা বর্ণনার আগে দিনটির বিশালতা তুলে ধরে।",
+ "themes": [
+  "the Last Day",
+  "reflection"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "the Day of Judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "What is this hour that strikes the hearts of people with its horrors?",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "The question is to emphasise its awesomeness.",
+   "sources": [
+    "g-en-jalalayn",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

@@ -1,0 +1,90 @@
+{
+ "id": "85:8",
+ "simple_en": "The believers had done nothing wrong. Their only \"crime\" in the eyes of the persecutors was that they believed in Allah. Here Allah names Himself Al-'Aziz, the Almighty whom no one can overpower, and Al-Hamid, the Praiseworthy in His words, actions and qualities. Al-Sa'di points out that what they hated in the believers was the very thing that deserves praise and brings true happiness.",
+ "simple_bn": "মু'মিনরা কোনো অন্যায় করেনি। নির্যাতনকারীদের চোখে তাদের একমাত্র \"অপরাধ\" ছিল আল্লাহর উপর ঈমান আনা। এখানে আল্লাহ নিজের নাম বলেছেন আল-আযীয, মহাপরাক্রমশালী, যাঁকে কেউ পরাস্ত করতে পারে না; আর আল-হামীদ, যিনি তাঁর কথা, কাজ ও গুণে প্রশংসিত। সা'দী বলেন, তারা মু'মিনদের যে জিনিসকে ঘৃণা করেছে, সেটাই আসলে প্রশংসার যোগ্য এবং সত্যিকারের সুখের কারণ।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نقم",
+   "lemma": "نَقَمُ",
+   "meaning_en": "they resented, found fault",
+   "meaning_bn": "তারা দোষ ধরেছিল",
+   "why_en": "Their only complaint against the believers was their faith."
+  },
+  {
+   "pos": 8,
+   "root": "عزز",
+   "lemma": "عَزِيز",
+   "meaning_en": "Al-'Aziz, the Almighty",
+   "meaning_bn": "আল-আযীয, মহাপরাক্রমশালী",
+   "why_en": "His might overpowers everything; the persecutors were never really in control."
+  },
+  {
+   "pos": 9,
+   "root": "حمد",
+   "lemma": "حَمِيد",
+   "meaning_en": "Al-Hamid, the Praiseworthy",
+   "meaning_bn": "আল-হামীদ, প্রশংসিত",
+   "why_en": "He is praised in all His words, actions and decrees, even when the wisdom is hidden from us."
+  }
+ ],
+ "lesson_en": "Faith in Allah is never a crime, even if people treat it as one. Be proud of it and rely on Al-'Aziz.",
+ "lesson_bn": "আল্লাহর উপর ঈমান কখনো অপরাধ নয়, মানুষ যতই তা অপরাধ মনে করুক। এ নিয়ে গর্বিত থাকুন এবং আল-আযীযের উপর ভরসা রাখুন।",
+ "real_life_en": "A relative mocks you for wearing hijab or growing a beard, as if you had done something shameful. You remember that the believers in this story were blamed only for their faith. You answer kindly, without shame, and trust that Allah, the Almighty and Praiseworthy, sees it all.",
+ "real_life_bn": "এক আত্মীয় হিজাব পরা বা দাড়ি রাখার জন্য আপনাকে ঠাট্টা করছেন, যেন আপনি লজ্জার কিছু করেছেন। মনে পড়ল, এই কাহিনীর মু'মিনদের একমাত্র দোষ ছিল তাদের ঈমান। আপনি লজ্জা ছাড়াই নম্রভাবে উত্তর দেন, আর ভরসা রাখেন যে মহাপরাক্রমশালী, প্রশংসিত আল্লাহ সবই দেখছেন।",
+ "themes": [
+  "faith",
+  "names and attributes of Allah",
+  "trials",
+  "patience"
+ ],
+ "kinds": [
+  "story",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "People of the Ditch"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-'Aziz",
+   "Al-Hamid"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The disbelievers found no fault in the believers except that they had faith in Allah, the Mighty whom none can overpower, the One praised in everything.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Al-Hamid: praised in His statements, actions and attributes; Ibn Kathir adds His legislation and decrees, even if the wisdom of His decree is unknown to many.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Sa'di: what they resented was a state for which the believers are praised and in which lies their happiness.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

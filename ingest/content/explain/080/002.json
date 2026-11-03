@@ -1,0 +1,73 @@
+{
+ "id": "80:2",
+ "simple_en": "Here Allah gives the reason for the frown: a blind man had come to him. Al-Mukhtasar names him as 'Abdullah ibn Umm Maktum, who came asking for guidance. He arrived while the Prophet ﷺ was busy with the leaders of the idolaters, hoping they would be guided. Ma'ariful Qur'an points out that the word \"blind\" itself excuses him: he could not see that the Prophet ﷺ was in a conversation.",
+ "simple_bn": "এখানে আল্লাহ ভ্রু কুঁচকানোর কারণ জানালেন: একজন অন্ধ লোক তাঁর কাছে এসেছিলেন। আল-মুখতাসার তাঁর নাম বলেছে আব্দুল্লাহ ইবনে উম্মে মাকতুম, যিনি হিদায়াতের পথ জানতে এসেছিলেন। তিনি এমন সময় এলেন, যখন রাসূলুল্লাহ ﷺ মুশরিকদের বড় নেতাদের হিদায়াতের আশায় তাদের নিয়ে ব্যস্ত ছিলেন। মাআরিফুল কুরআন বলে, \"অন্ধ\" শব্দটিই তাঁর অজুহাত: তিনি দেখতে পাননি যে রাসূলুল্লাহ ﷺ অন্যদের সাথে কথা বলছেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "عمي",
+   "lemma": "أَعْمَى",
+   "meaning_en": "the blind man",
+   "meaning_bn": "অন্ধ লোকটি",
+   "why_en": "Ma'ariful Qur'an notes this word points to his excuse: he could not see the gathering."
+  },
+  {
+   "pos": 2,
+   "root": "جيأ",
+   "lemma": "جاءَ",
+   "meaning_en": "came to him",
+   "meaning_bn": "তাঁর কাছে এল",
+   "why_en": "He came on his own, seeking guidance, which the next ayat praise."
+  }
+ ],
+ "lesson_en": "When someone makes a mistake they could not have known about, excuse them instead of being annoyed with them.",
+ "lesson_bn": "কেউ না জেনে এমন ভুল করলে, যা তার জানার উপায় ছিল না, তার উপর বিরক্ত না হয়ে তাকে মাফ করে দিন।",
+ "real_life_en": "A new colleague walks into a meeting room without knocking because no one told him a meeting was on. Instead of a sharp look, you quietly explain and make room for him. He did not know, and that is a real excuse.",
+ "real_life_bn": "নতুন এক সহকর্মী নক না করেই মিটিং রুমে ঢুকে পড়লেন, কারণ কেউ তাকে জানায়নি যে মিটিং চলছে। কড়া দৃষ্টিতে না তাকিয়ে আপনি শান্তভাবে বুঝিয়ে দিলেন এবং তাকে বসার জায়গা করে দিলেন। তিনি জানতেন না, আর এটাই প্রকৃত অজুহাত।",
+ "context_en": "This ayah explains the frown described in ayah 1; the account of the event is given there.",
+ "context_bn": "এই আয়াতটি ১ নম্বর আয়াতে বর্ণিত ভ্রু কুঁচকানোর কারণ ব্যাখ্যা করে; ঘটনার বিবরণ সেখানে দেওয়া হয়েছে।",
+ "themes": [
+  "Prophet Muhammad ﷺ",
+  "good character",
+  "knowledge"
+ ],
+ "kinds": [
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ",
+   "Abdullah ibn Umm Maktum"
+  ],
+  "nations": [
+   "Quraysh"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The blind man was 'Abdullah ibn Umm Maktum, who came seeking guidance while the Prophet ﷺ was busy with the seniors of the idolaters, hoping they would be guided.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The word 'blind' points to his excuse: he could not see whom the Prophet ﷺ was speaking with, so he was excusable.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

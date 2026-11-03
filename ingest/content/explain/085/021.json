@@ -1,0 +1,69 @@
+{
+ "id": "85:21",
+ "simple_en": "The deniers claimed the Quran was poetry or magic. Allah answers: no, it is a glorious Quran. Al-Mukhtasar explains that it is neither poetry nor rhymed speech, as they said, but a noble Quran. Ibn Kathir and Jalalayn describe it as magnificent and noble.",
+ "simple_bn": "অস্বীকারকারীরা দাবি করত, কুরআন কবিতা বা যাদু। আল্লাহ উত্তর দিচ্ছেন: না, বরং এটি গৌরবময় কুরআন। আল-মুখতাসার বলে, তারা যেমন বলত, এটি কবিতাও নয়, ছন্দবদ্ধ কথাও নয়, বরং সম্মানিত কুরআন। ইবনে কাসীর ও জালালাইন একে মহান ও সম্মানিত বলে বর্ণনা করেছেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "قرأ",
+   "lemma": "قُرْءان",
+   "meaning_en": "Quran, recitation",
+   "meaning_bn": "কুরআন",
+   "why_en": "The Book that is recited, and recited often."
+  },
+  {
+   "pos": 4,
+   "root": "مجد",
+   "lemma": "مَجِيد",
+   "meaning_en": "glorious",
+   "meaning_bn": "গৌরবময়",
+   "why_en": "The same root as Allah's name Al-Majid in ayah 15: the Quran carries great honour and nobility."
+  }
+ ],
+ "lesson_en": "The Quran is a noble Book from Allah, not ordinary words. Give it the respect and attention it deserves.",
+ "lesson_bn": "কুরআন আল্লাহর সম্মানিত কিতাব, সাধারণ কোনো কথা নয়। একে প্রাপ্য সম্মান ও মনোযোগ দিন।",
+ "real_life_en": "Your Quran sits on the shelf. You open it mostly in Ramadan, yet you read dozens of posts every day. This ayah makes you stop and think. You decide to give the Quran a daily place: ten minutes after Fajr, a few ayat with their meaning. You treat it like something truly precious.",
+ "real_life_bn": "আপনার কুরআন তাকে রাখা থাকে, বেশিরভাগ সময় শুধু রমজানে খোলা হয়, অথচ প্রতিদিন ডজনখানেক পোস্ট পড়েন। এই আয়াত ভেবে ঠিক করলেন, কুরআনকে প্রতিদিন একটু জায়গা দেবেন: ফজরের পর দশ মিনিট, অর্থসহ কয়েকটি আয়াত পড়া, যেমন সত্যিকারের মূল্যবান কিছুর সাথে আচরণ করা হয়।",
+ "themes": [
+  "the Quran",
+  "revelation"
+ ],
+ "kinds": [
+  "argument",
+  "praise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The Quran is neither poetry nor rhyme as the deniers claim; it is a noble Quran.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  },
+  {
+   "text": "Majid means magnificent and noble.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn",
+    "qe-arabic-moyassar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.94,
+ "uncertain": []
+}

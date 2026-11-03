@@ -1,0 +1,93 @@
+{
+ "id": "109:6",
+ "simple_en": "The surah closes by separating the two ways: \"For you is your religion, and for me is my religion.\" Al-Mukhtasar explains: yours is the religion you made up yourselves, mine is the religion Allah revealed to me. Sa'di and Ibn Kathir link it to \"you are free of what I do, and I am free of what you do\" (10:41). It is a clear parting of ways in worship, not a statement that all religions are equally true.",
+ "simple_bn": "সূরাটি শেষ হয়েছে দুটি পথকে আলাদা করে: \"তোমাদের দীন তোমাদের, আর আমার দীন আমার।\" আল-মুখতাসার ব্যাখ্যা করেছে: তোমাদেরটা তোমাদের নিজেদের বানানো ধর্ম, আর আমারটা আল্লাহর পক্ষ থেকে নাজিল হওয়া দীন। সা'দী ও ইবনে কাসীর একে যুক্ত করেছেন এই আয়াতের সাথে: \"আমি যা করি তার দায় তোমাদের নেই, আর তোমরা যা করো তার দায় আমার নেই\" (১০:৪১)। এটি ইবাদতের ক্ষেত্রে স্পষ্ট পথ-বিচ্ছেদ, সব ধর্ম সমান সত্য এমন ঘোষণা নয়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "دين",
+   "lemma": "دِين",
+   "meaning_en": "your religion",
+   "meaning_bn": "তোমাদের দীন",
+   "why_en": "The way they chose for themselves, which al-Bukhari's report explains as disbelief."
+  },
+  {
+   "pos": 4,
+   "root": "دين",
+   "lemma": "دِين",
+   "meaning_en": "my religion",
+   "meaning_bn": "আমার দীন",
+   "why_en": "The religion Allah revealed: Islam."
+  }
+ ],
+ "lesson_en": "Be firm and clear about your own faith, and leave others responsible for their choices before Allah.",
+ "lesson_bn": "নিজের ঈমানে দৃঢ় ও স্পষ্ট থাকুন, আর অন্যদের পছন্দের দায় আল্লাহর সামনে তাদের উপরই ছেড়ে দিন।",
+ "real_life_en": "A coworker of another faith invites you to join his worship \"just this once\". You thank him and say kindly that you worship only Allah, the way your religion teaches. You still help him at work and stay friendly. You are clear in belief and gentle in manners.",
+ "real_life_bn": "ভিন্ন ধর্মের এক সহকর্মী আপনাকে \"শুধু এবারের মতো\" তার উপাসনায় যোগ দিতে বলল। আপনি তাকে ধন্যবাদ দিয়ে নরমভাবে বললেন, আপনি আপনার দীনের শিক্ষা অনুযায়ী শুধু আল্লাহরই ইবাদত করেন। তবুও কাজে তাকে সাহায্য করেন, সম্পর্ক ভালো রাখেন। বিশ্বাসে স্পষ্ট, আচরণে কোমল।",
+ "context_en": "This ayah is often quoted as if it said all religions are the same, or as if it closed the door to talking with others. The sources read it as the end of a refusal to mix worship with idols. Zakaria's note adds that it does not mean Muslims stop inviting others; Islam calls with wisdom and good advice and allows no unjust harm to anyone.",
+ "context_bn": "এই আয়াতটি প্রায়ই এমনভাবে উদ্ধৃত হয়, যেন সব ধর্ম একই, অথবা যেন অন্যদের সাথে কথা বলার দরজা বন্ধ। তাফসীরগুলো একে মূর্তির সাথে ইবাদত মেশানোর প্রস্তাব প্রত্যাখ্যানের সমাপ্তি হিসেবে পড়েছে। যাকারিয়ার টীকায় আছে, এর মানে এই নয় যে মুসলিমরা দাওয়াত দেওয়া বন্ধ করবে; ইসলাম হিকমত ও উত্তম উপদেশের মাধ্যমে আহ্বান করে, আর কাউকে অন্যায়ভাবে ক্ষতি করার অনুমতি দেয় না।",
+ "themes": [
+  "tawhid",
+  "disbelief",
+  "faith",
+  "peace"
+ ],
+ "kinds": [
+  "belief",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "You have the religion you thought up for yourselves, and I have the religion Allah revealed to me.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "It is like 'you are innocent of what I do and I am innocent of what you do' (10:41) and 'to us our deeds, to you yours' (28:55).",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "Al-Bukhari reported that 'your religion' means disbelief and 'my religion' means Islam.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "It does not mean recognising disbelief as valid or stopping da'wah; Islam does not permit harming anyone without right and calls with wisdom and good advice.",
+   "sources": [
+    "qe-bengali-zakaria"
+   ]
+  },
+  {
+   "text": "The surah is a disavowal of the idolaters' worship and a refusal of any compromise in worship.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": [
+  "Jalalayn adds that this was revealed before the command to fight the idolaters; not included, as the other sources do not mention it."
+ ]
+}
