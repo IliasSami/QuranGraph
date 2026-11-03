@@ -64,7 +64,7 @@ Workers Static Assets, with search running in the browser.
 | **Explanations written** | **591 / 6,236 ayat**: surah 1 (all), 2:1–20, surahs 78–114 (all). All pass the validator (0 errors). Stored in `ingest/content/explain/<sss>/<aaa>.json` |
 | Search golden set | Written: `web/tests/golden.json` (55 queries, 3 languages); engine not built yet (Phase 5) |
 | Permission emails | Drafted, **not sent** (owner sends) |
-| Git | Repo initialised on `main`, **nothing committed yet** |
+| Git | Initial commit `8c157ca` on `main` (no remote yet). `ingest/work/` is ignored and regenerable |
 
 **Known open problem in the 591 pilot ayat:** 515 of them name tafsir sources inside the teaching text
 ("Al-Mukhtasar explains…"). The rules now forbid this (INSTRUCTIONS "Teach, don't cite, in the text") and the
@@ -202,7 +202,7 @@ surah (or ~40–50 ayat) per working session, then start fresh. Full Quran ≈ 1
    - Re-measure the bundle size and record it in `docs/PILOT-REPORT.md`.
 3. **Review-priority field.** In `qg stats` and the review page, split flags into *must review* (aqeedah, fiqh,
    often-misquoted, interfaith, confidence < 0.88, `scholars_differ` on aqeedah) and *sample review* (eschatology only).
-4. **Commit and CI** (ask the owner before the first commit/push).
+4. **CI** (ask the owner before adding a remote or pushing).
    - Add `.github/workflows/ci.yml` running: `uv sync`, the normaliser tests, and a `qg check` over every explained surah.
    - The workflow needs `quran.sqlite`, so it either runs `fetch.py` + `build_text.py` (slow, ~15 min) or caches
      `ingest/work/raw` keyed on `sources.lock.json`.
@@ -244,4 +244,4 @@ surah (or ~40–50 ayat) per working session, then start fresh. Full Quran ≈ 1
 - Send the 9 permission emails (`docs/permissions/EMAILS.md`) and record replies in its tracking table.
 - Find a qualified reviewer; the 41 must-review pilot ayat come first (`docs/SOURCE-ISSUES.md`, "Priority review items").
 - Choose how to run the full generation.
-- Domain name; approve the first commit/push.
+- Domain name; where to push (no git remote yet).
