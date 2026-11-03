@@ -191,6 +191,27 @@ def put(p):
 
 
 def check(s, spec="all"):
+    if s == "all":
+        surahs = sorted(int(d) for d in os.listdir(EXPLAIN) if d.isdigit() and os.path.isdir(os.path.join(EXPLAIN, d)))
+        total_ok = total_bad = 0
+        for num in surahs:
+            for a in rng(num, "all"):
+                p = path(num, a)
+                if not os.path.exists(p):
+                    continue
+                errs, warns = validate(json.load(open(p, encoding="utf-8")), db())
+                if errs or warns:
+                    print(f"{num}:{a}")
+                    for e in errs:
+                        print("   ERROR", e)
+                    for w in warns:
+                        print("   warn ", w)
+                total_ok += not errs
+                total_bad += bool(errs)
+        print(f"Total: {total_ok} valid, {total_bad} with errors")
+        if total_bad:
+            sys.exit(1)
+        return
     ok = bad = 0
     for a in rng(s, spec):
         p = path(s, a)
@@ -206,6 +227,8 @@ def check(s, spec="all"):
         ok += not errs
         bad += bool(errs)
     print(f"{ok} valid, {bad} with errors")
+    if bad:
+        sys.exit(1)
 
 
 def todo(s, spec="all"):
@@ -285,7 +308,10 @@ def main():
     elif cmd == "put":
         put(args[0])
     elif cmd == "check":
-        check(int(args[0]), args[1] if len(args) > 1 else "all")
+        if args and args[0] == "all":
+            check("all")
+        else:
+            check(int(args[0]), args[1] if len(args) > 1 else "all")
     elif cmd == "todo":
         todo(int(args[0]), args[1] if len(args) > 1 else "all")
     elif cmd == "warned":
