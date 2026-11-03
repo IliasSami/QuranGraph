@@ -49,6 +49,10 @@ jobs:
           cd ingest
           uv run core/build_text.py
 
+      - name: Run Python unit tests (translit, numbers lab, graph)
+        run: |
+          PYTHONPATH=ingest uv run python -m unittest ingest/core/test_translit.py ingest/stats/test_numbers_lab.py ingest/graph/test_graph.py
+
       - name: Validate all explained ayat
         run: |
           ingest/qg check all
