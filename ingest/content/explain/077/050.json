@@ -1,0 +1,65 @@
+{
+ "id": "77:50",
+ "simple_en": "If they refuse to believe in the clear verses of this Quran, in what other message could they ever believe? No book is more truthful, guiding, and plain than the book of Allah.",
+ "simple_bn": "তারা যদি তাদের রবের পক্ষ থেকে অবতীর্ণ এই স্পষ্ট কুরআনের ওপর ঈমান না আনে, তবে এর পরে আর কোন্ বাণীতে তারা বিশ্বাস স্থাপন করবে? কুরআনের চেয়ে স্পষ্ট ও সত্য কোনো বাণী হতে পারে না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "حدث",
+   "lemma": "حَدِيث",
+   "meaning_en": "statement, message",
+   "meaning_bn": "বাণী",
+   "why_en": "Any speech or claim that people might follow instead of divine revelation."
+  },
+  {
+   "pos": 4,
+   "root": "أمن",
+   "lemma": "آمَنَ",
+   "meaning_en": "will they believe",
+   "meaning_bn": "তারা বিশ্বাস স্থাপন করবে",
+   "why_en": "True faith that accepts the ultimate truth sent down by Allah."
+  }
+ ],
+ "lesson_en": "The Quran is the clearest truth. Turning away from it leaves a heart in darkness.",
+ "lesson_bn": "কুরআন হলো সত্যের চূড়ান্ত বাণী, আর তা প্রত্যাখ্যান করলে মানুষ অন্ধকারে নিমজ্জিত হয়।",
+ "real_life_en": "If someone ignores clear proof, no other argument will convince them. The Quran offers the clearest answers about our purpose, our origin, and our future. Read it with an open heart and let its guidance shape your daily life.",
+ "real_life_bn": "কেউ যদি স্পষ্ট সত্য মেনে নিতে না চায়, তবে কোনো যুক্তিই তার কাজে আসে না। কুরআন আমাদের সৃষ্টির উদ্দেশ্য ও পরকাল সম্পর্কে সবচেয়ে স্পষ্ট দিকনির্দেশনা দেয়। খোলা মনে কুরআন পড়ুন এবং এর আলোয় নিজের জীবনকে গড়ে তুলুন।",
+ "themes": [
+  "the Quran",
+  "faith",
+  "guidance"
+ ],
+ "kinds": [
+  "argument",
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": [
+   "the-quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "If they do not believe in the Quran revealed from their Lord, there is no other message they will believe in.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

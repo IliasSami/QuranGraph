@@ -1,0 +1,98 @@
+{
+ "id": "3:144",
+ "simple_en": "Prophet Muhammad ﷺ is only a messenger of Allah, like all the messengers who came before him and passed away. If he dies or is killed, will you turn away from your faith? Whoever turns back harms only himself, never Allah. Allah will reward those who remain grateful and steadfast upon the truth.",
+ "simple_bn": "মুহাম্মাদ ﷺ কেবল আল্লাহর একজন রাসূল; তাঁর পূর্বেও বহু রাসূল দুনিয়া থেকে বিদায় নিয়েছেন। তিনি যদি স্বাভাবিকভাবে মারা যান অথবা নিহত হন, তবে কি তোমরা সত্য পথ থেকে ফিরে যাবে? যে ব্যক্তি সত্য ছেড়ে ফিরে যায়, সে আল্লাহর কোনো ক্ষতি করতে পারে না, বরং নিজেরই সর্বনাশ করে। আর যারা কৃতজ্ঞ থেকে সত্যের ওপর অবিচল থাকে, আল্লাহ তাদের উত্তম প্রতিদান দেবেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "حمد",
+   "lemma": "مُحَمَّد",
+   "meaning_en": "Muhammad",
+   "meaning_bn": "মুহাম্মাদ",
+   "why_en": "Names the final Messenger of Allah to teach that he is a mortal human prophet."
+  },
+  {
+   "pos": 4,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "a messenger",
+   "meaning_bn": "একজন রাসূল",
+   "why_en": "Defines his role as conveying the divine message, which outlives every human life."
+  },
+  {
+   "pos": 14,
+   "root": "قلب",
+   "lemma": "انقَلَبَ",
+   "meaning_en": "you turn back",
+   "meaning_bn": "তোমরা ফিরে যাবে",
+   "why_en": "Warns believers against retreating or abandoning faith upon the loss of their leader."
+  },
+  {
+   "pos": 27,
+   "root": "شكر",
+   "lemma": "شاكِر",
+   "meaning_en": "the grateful",
+   "meaning_bn": "কৃতজ্ঞ বান্দাগণ",
+   "why_en": "Praises those who remain firm in faith and recognize Allah's everlasting guidance."
+  }
+ ],
+ "lesson_en": "We worship Allah alone, and our faith must stay strong even when leaders pass away.",
+ "lesson_bn": "আমাদের ইবাদত চিরঞ্জীব আল্লাহর জন্য, তাই কোনো ব্যক্তির চলে যাওয়ার কারণে আমাদের ঈমান টলমল হওয়া উচিত নয়।",
+ "real_life_en": "A young person might look up to a wise teacher or a pious family elder. If that mentor passes away or makes a mistake, the student might feel like giving up on their good habits. True faith is anchored in Allah alone, so you continue doing right even when your role models are gone.",
+ "real_life_bn": "কোনো দ্বীনি শিক্ষক বা অভিভাবকের অনুপ্রেরণায় হয়তো আপনি ভালো কাজ শুরু করেছিলেন। সেই ব্যক্তি যদি মৃত্যুবরণ করেন বা দূরে সরে যান, তবে ভেঙে পড়া উচিত নয়। আল্লাহর সাথে আপনার সম্পর্ক সরাসরি, তাই কোনো মানুষের অনুপস্থিতিতে ভালো কাজ বন্ধ করবেন না।",
+ "context_en": "Revealed when a rumor spread during the Battle of Uhud that the Prophet Muhammad ﷺ was killed, causing panic and wavering among some fighters.",
+ "context_bn": "উহুদের যুদ্ধে যখন রাসূলুল্লাহ ﷺ শহীদ হয়েছেন বলে মিথ্যা গুজব ছড়িয়ে পড়েছিল এবং অনেকে মনোবল হারিয়ে ফেলেছিলেন, তখন এই আয়াত নাযিল হয়।",
+ "themes": [
+  "Prophet Muhammad ﷺ",
+  "prophethood",
+  "faith",
+  "gratitude",
+  "death",
+  "tawhid"
+ ],
+ "kinds": [
+  "argument",
+  "warning",
+  "promise",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Battle of Uhud"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Prophet Muhammad ﷺ is a mortal messenger like earlier prophets, and his death must not cause believers to turn away from faith.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Turning away from faith causes no harm to Allah, and Allah will reward those who remain grateful and firm.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

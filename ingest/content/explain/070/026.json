@@ -1,0 +1,71 @@
+{
+ "id": "70:26",
+ "simple_en": "These people are also sure that the Day of Judgement is real. On that Day, Allah will give every person exactly what their deeds deserve. Because they are certain of it, they get ready for it now. They do not live as if this life is all there is.",
+ "simple_bn": "এই মানুষেরা নিশ্চিতভাবে বিশ্বাস করে কিয়ামত সত্য। সে দিন আল্লাহ প্রত্যেককে তার কাজের ঠিক যোগ্য প্রতিদান দেবেন। এ ব্যাপারে তাদের কোনো সন্দেহ নেই বলেই তারা এখন থেকেই প্রস্তুতি নেয়। তারা এমনভাবে বাঁচে না যেন এই দুনিয়াই সব।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "صدق",
+   "lemma": "صَدَّقَ",
+   "meaning_en": "they affirm as true",
+   "meaning_bn": "সত্য বলে স্বীকার করে",
+   "why_en": "More than knowing about the Day, it means treating it as true and acting on it."
+  },
+  {
+   "pos": 4,
+   "root": "دين",
+   "lemma": "دِين",
+   "meaning_en": "the Day of Judgement and recompense",
+   "meaning_bn": "বিচার ও প্রতিদানের দিন",
+   "why_en": "The word carries both judging and repaying, which is why the day is called by it."
+  }
+ ],
+ "lesson_en": "Live today as someone who is certain that every deed will be weighed.",
+ "lesson_bn": "আজ এমনভাবে চলুন, যেন আপনি নিশ্চিত যে প্রতিটি কাজের হিসাব হবে।",
+ "real_life_en": "A student studies for an exam because the date is fixed and real. Belief in the Day of Judgement works in a similar way: because that day is certain, you prepare for it and you do not keep putting it off.",
+ "real_life_bn": "পরীক্ষার তারিখ নিশ্চিত বলে ছাত্র আগেই পড়া শেষ করে। কিয়ামতের ব্যাপারেও তেমনি: দিনটা নিশ্চিত, তাই এখনই প্রস্তুতি নিতে হয়। কাল করে নেব বলে ফেলে রাখলে চলবে না।",
+ "context_en": "Faith in that Day is placed between giving money and fearing Allah, because it is what makes both of them real.",
+ "context_bn": "দান ও আল্লাহর ভয়ের মাঝখানে কিয়ামতের বিশ্বাসের কথা এসেছে, কারণ এই বিশ্বাসই বাকি দুটোকে সত্যি করে তোলে।",
+ "themes": [
+  "the Last Day",
+  "faith",
+  "judgment"
+ ],
+ "kinds": [
+  "belief",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "These believers affirm the Day of Judgement, the day Allah will repay every person for what they did.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Certainty about that Day moves them to prepare for it and to work for it.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

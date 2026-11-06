@@ -1,0 +1,66 @@
+{
+  "id": "21:24",
+  "simple_en": "Have they taken other gods besides Him? Say: Bring your clear proof. This Quran is the message for my people and the message of earlier prophets, but most people turn away from truth.",
+  "simple_bn": "তবে কি তারা আল্লাহ ছাড়া অন্য উপাস্য গ্রহণ করেছে? বলুন: তোমাদের সুস্পষ্ট প্রমাণ পেশ করো। এ হলো আমার ও পূর্ববর্তী নবীদের বার্তা, কিন্তু অধিকাংশ মানুষ সত্য জানে না বলে মুখ ফিরিয়ে নেয়।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "برهن",
+      "lemma": "بُرْهان",
+      "meaning_en": "your proof",
+      "meaning_bn": "তোমাদের প্রমাণ",
+      "why_en": "Demand for rational and textual evidence."
+    },
+    {
+      "pos": 22,
+      "root": "عرض",
+      "lemma": "مُعْرِض",
+      "meaning_en": "turning away",
+      "meaning_bn": "মুখ ফিরিয়ে নেওয়া",
+      "why_en": "Rejection of established divine reality."
+    }
+  ],
+  "lesson_en": "Faith must rest on solid evidence, not folklore. All revealed scriptures teach the worship of one true God.",
+  "lesson_bn": "বিশ্বাস কোনো কুসংস্কারের ওপর নয়, বরং অকাট্য প্রমাণের ওপর প্রতিষ্ঠিত হওয়া উচিত। সব আসমানি কিতাব একত্ববাদেরই সাক্ষ্য দেয়।",
+  "real_life_en": "Seek clear proof before accepting spiritual claims. Base your beliefs on authentic guidance rather than old customs.",
+  "real_life_bn": "ধর্মীয় বিষয়ে কোনো কিছু গ্রহণের পূর্বে নির্ভরযোগ্য প্রমাণ খুঁজুন। পূর্বপুরুষদের অন্ধ অনুকরণ না করে সত্যকে উপলব্ধি করুন।",
+  "themes": [
+    "proof",
+    "tawhid",
+    "prophetic-legacy",
+    "rejection"
+  ],
+  "kinds": [
+    "argument",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Polytheists have no evidence for their false gods, contradicting the unified message of all divine revelations.",
+      "claim_bn": "মুশরিকদের কাছে শিরকের কোনো প্রমাণ নেই এবং সব আসমানি কিতাবের অভিন্ন বাণী হলো এক আল্লাহর ইবাদত করা।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,75 @@
+{
+  "id": "7:191",
+  "simple_en": "Do they worship things that cannot create anything at all? Those false idols are created by human hands. They have no life or divine power.",
+  "simple_bn": "তারা কি এমন কিছুকে আল্লাহর শরীক বানায় যা কিছুই সৃষ্টি করতে পারে না, বরং তারা নিজেরাই সৃষ্ট?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "شرك",
+      "lemma": "أَشْرَكَ",
+      "meaning_en": "do they associate partners?",
+      "meaning_bn": "তারা কি শরীক করে?",
+      "why_en": "Challenging the irrationality of polytheism."
+    },
+    {
+      "pos": 4,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "creates",
+      "meaning_bn": "সৃষ্টি করে",
+      "why_en": "True divinity requires the power of original creation."
+    },
+    {
+      "pos": 7,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "they are created",
+      "meaning_bn": "তারা নিজেরাই সৃষ্ট",
+      "why_en": "Idols are helpless created things, incapable of originating anything."
+    }
+  ],
+  "lesson_en": "Worship the Creator alone, and never bow to anything He made.",
+  "lesson_bn": "ইবাদত কেবল সৃষ্টির মহান স্রষ্টার জন্য প্রাপ্য, কোনো সৃষ্ট বস্তুর জন্য নয়।",
+  "real_life_en": "Do not put your faith in statues, objects, or material things that cannot help you. True hope and prayer should be directed only to the One who created all things.",
+  "real_life_bn": "মানুষের হাতে গড়া কোনো মূর্তি বা বস্তুর কাছে মাথা নত করবেন না; প্রার্থনা কেবল নিখিল বিশ্বের স্রষ্টার কাছেই করুন।",
+  "context_en": "A rational critique showing that beings incapable of creating cannot possibly be divine.",
+  "context_bn": "সৃষ্টি করার ক্ষমতাহীন মূর্তি ও বস্তুকে উপাস্য বানানোর অযৌক্তিকতা খণ্ডন।",
+  "themes": [
+    "tawhid",
+    "rational argument",
+    "critique of idolatry",
+    "creation"
+  ],
+  "kinds": [
+    "argument",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "idolaters"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Idols are themselves created entities possessing no ability to originate anything, making their worship rationally invalid.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

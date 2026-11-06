@@ -1,0 +1,61 @@
+{
+  "id": "16:104",
+  "simple_en": "Those who refuse to believe in the verses of Allah will never be guided by Him. A painful punishment awaits them for rejecting the plain truth.",
+  "simple_bn": "যারা আল্লাহর সুস্পষ্ট আয়াতসমূহে বিশ্বাস স্থাপন করে না, আল্লাহ তাদের কখনোই সঠিক পথে পরিচালিত করবেন না। আর তাদের জন্য পরকালে রয়েছে যন্ত্রণাদায়ক কঠিন শাস্তি।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "verses",
+      "meaning_bn": "আয়াতসমূহ",
+      "why_en": "The revealed signs and messages of God."
+    },
+    {
+      "pos": 8,
+      "root": "هدي",
+      "lemma": "هَدَى",
+      "meaning_en": "He guides them",
+      "meaning_bn": "তাদের হেদায়েত করেন",
+      "why_en": "Divine guidance withheld from obstinate deniers."
+    }
+  ],
+  "lesson_en": "Rejecting the truth turns a person away from guidance. A painful punishment awaits those who deny God.",
+  "lesson_bn": "একগুঁয়েমি করে সত্য অস্বীকার করলে হেদায়েতের পথ বন্ধ হয়ে যায় এবং ভয়াবহ শাস্তি অবধারিত হয়।",
+  "real_life_en": "Keep your heart soft and receptive to truth. Do not let obstinacy keep you from seeing clear reality.",
+  "real_life_bn": "সত্য জানার পর কখনো অহংকার করবেন না। বিনয়ী মন নিয়ে সর্বদা ন্যায় ও সত্যকে গ্রহণ করুন।",
+  "themes": [
+    "guidance",
+    "denial",
+    "punishment"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah will not guide those who reject His verses, and they face painful punishment.",
+      "claim_bn": "আল্লাহর আয়াতে যারা ঈমান আনে না আল্লাহ তাদের হেদায়েত করবেন না এবং তাদের জন্য শাস্তি রয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

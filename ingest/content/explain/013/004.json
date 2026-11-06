@@ -1,0 +1,80 @@
+{
+  "id": "13:4",
+  "simple_en": "The earth holds plots of soil side by side. They grow grapevines, crops, and date palms from single or shared roots. They drink the exact same water, yet taste and look completely different. This shows clear proofs for people of reason.",
+  "simple_bn": "যমীনে পাশাপাশি বিভিন্ন ভূখণ্ড রয়েছে। তাতে রয়েছে আঙ্গুর বাগান, শস্যক্ষেত ও খেজুর গাছ, যা একক বা যৌথ মূল থেকে জন্মে। সবই একই পানি দ্বারা সিক্ত হয়, কিন্তু স্বাদে ও মানে ভিন্ন হয়। বিবেকবানদের জন্য এতে সুস্পষ্ট নিদর্শন রয়েছে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "جور",
+      "lemma": "مُتَجاوِرَة",
+      "meaning_en": "neighboring",
+      "meaning_bn": "পরস্পর সংলগ্ন",
+      "why_en": "Different qualities of soil situated right next to one another."
+    },
+    {
+      "pos": 7,
+      "root": "عنب",
+      "lemma": "عِنَب",
+      "meaning_en": "grapevines",
+      "meaning_bn": "আঙ্গুর বাগান",
+      "why_en": "Nutritious climbing plants demonstrating varied vegetation."
+    },
+    {
+      "pos": 9,
+      "root": "نخل",
+      "lemma": "نَخِيل",
+      "meaning_en": "date palms",
+      "meaning_bn": "খেজুর গাছ",
+      "why_en": "Palms growing from single stems or clustered together."
+    },
+    {
+      "pos": 14,
+      "root": "موه",
+      "lemma": "ماء",
+      "meaning_en": "with water",
+      "meaning_bn": "পানি দ্বারা",
+      "why_en": "The same unified resource producing boundless diversity."
+    }
+  ],
+  "lesson_en": "Different sweet fruits grow from one soil. This shows God's wise choice.",
+  "lesson_bn": "একই পানি পান করে বিভিন্ন ফলের ভিন্ন স্বাদ প্রমাণ করে স্রষ্টার সূক্ষ্ম ইচ্ছাশক্তি।",
+  "real_life_en": "A gardener waters two neighboring plants with the same hose. One grows sour lemons while the other grows sweet figs. The gardener pauses and reflects on the wonder of life.",
+  "real_life_bn": "একজন মালী একই পাত্রের পানি দিয়ে দুটি গাছ সেচ দেয়। একটি গাছে মিষ্টি ডুমুর আর অন্যটিতে টক লেবু ধরে। সে বিস্মিত হয়ে প্রকৃতির স্রষ্টার মহিমার কথা ভাবে।",
+  "context_en": "Diversity of plant life and tastes from uniform soil and water demonstrates divine will.",
+  "context_bn": "একই মাটি ও পানি থেকে উৎপন্ন উদ্ভিদের বৈচিত্র্যের মাধ্যমে স্রষ্টার ক্ষমতার প্রমাণ।",
+  "themes": [
+    "diversity",
+    "wisdom",
+    "intellect"
+  ],
+  "kinds": [
+    "creation",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the earth",
+      "grapevines",
+      "palm trees"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Neighboring plants share the same water yet produce varied fruits as a sign of divine wisdom.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

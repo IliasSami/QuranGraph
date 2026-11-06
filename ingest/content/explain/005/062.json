@@ -1,0 +1,83 @@
+{
+ "id": "5:62",
+ "simple_en": "You see many of them race into sin. They rush to harm others and take bribes. They love to eat unlawful wealth. What they do is very evil.",
+ "simple_bn": "আপনি তাদের অনেককেই দেখবেন পাপে লিপ্ত হতে এবং সীমালঙ্ঘন করতে দ্রুত ধাবিত হয়। তারা নির্দ্বিধায় ঘুষ ও হারাম সম্পদ ভক্ষণ করে। তারা অন্যের অধিকার বা সত্যের কোনো পরোয়া করে না। তাদের এই অপকর্ম সত্যিই অত্যন্ত নিকৃষ্ট।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "سرع",
+   "lemma": "يُسارِعُ",
+   "meaning_en": "they rush",
+   "meaning_bn": "তারা দ্রুত ধাবিত হয়",
+   "why_en": "Shows how eagerly and heedlessly they plunge into sin."
+  },
+  {
+   "pos": 7,
+   "root": "عدو",
+   "lemma": "عُدْوان",
+   "meaning_en": "transgression",
+   "meaning_bn": "সীমাতিক্রম / শত্রুতা",
+   "why_en": "Refers to crossing divine boundaries and wronging other people."
+  },
+  {
+   "pos": 9,
+   "root": "سحت",
+   "lemma": "سُحْت",
+   "meaning_en": "unlawful wealth",
+   "meaning_bn": "হারাম সম্পদ / ঘুষ",
+   "why_en": "Denotes forbidden income such as bribes, usury, and ill-gotten gains."
+  }
+ ],
+ "lesson_en": "Never rush into sin or take money that is not lawfully yours.",
+ "lesson_bn": "কখনো পাপকাজে তাড়াহুড়ো করবেন না এবং অবৈধভাবে অর্জিত সম্পদ ভক্ষণ থেকে দূরে থাকুন।",
+ "real_life_en": "Earn your living honestly and avoid bribes, cheating, and usury. When others cut corners or take illicit wealth, do not follow them. True blessing comes from lawful income, even if it seems small.",
+ "real_life_bn": "সৎ উপায়ে জীবিকা অর্জন করুন এবং ঘুষ ও প্রতারণা পরিহার করুন। কর্মক্ষেত্রে অন্যেরা অন্যায় পথে সম্পদ কামালেও তাদের পদাঙ্ক অনুসরণ করবেন না। হালাল উপার্জনেই আল্লাহর প্রকৃত বরকত থাকে।",
+ "context_en": "Continues describing the moral decay of those who opposed the truth, focusing on their greed for unlawful gain.",
+ "context_bn": "সত্যবিরোধীদের নৈতিক অধঃপতন এবং অবৈধ উপার্জনের প্রতি তাদের তীব্র লোভের চিত্র এখানে তুলে ধরা হয়েছে।",
+ "themes": [
+  "sin",
+  "wealth",
+  "justice",
+  "ethics",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Many among the transgressors rush eagerly into committing sins, spreading hostility, and consuming unlawful gains like bribes.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah strongly condemns their persistent race toward evil and declares their deeds to be vile.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

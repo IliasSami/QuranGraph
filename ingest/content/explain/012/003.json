@@ -1,0 +1,82 @@
+{
+  "id": "12:3",
+  "simple_en": "Allah reveals to you the best of all stories through the Quran. Before this revelation came, you were unaware of these ancient events and their deep moral lessons.",
+  "simple_bn": "এই কুরআনের ওহীর মাধ্যমে আমরা আপনার কাছে সর্বোত্তম ঘটনা বর্ণনা করছি। যদিও এই প্রত্যাদেশ আসার পূর্বে আপনি এসব বিষয়ে সম্পূর্ণ অনবহিতদের অন্তর্ভুক্ত ছিলেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قصص",
+      "lemma": "قَصَّ",
+      "meaning_en": "We relate",
+      "meaning_bn": "আমরা বর্ণনা করছি",
+      "why_en": "Divine telling of prophetic narrative."
+    },
+    {
+      "pos": 4,
+      "root": "حسن",
+      "lemma": "أَحْسَن",
+      "meaning_en": "the best",
+      "meaning_bn": "সর্বোত্তম",
+      "why_en": "The unsurpassed moral and literary excellence of the story."
+    },
+    {
+      "pos": 5,
+      "root": "قصص",
+      "lemma": "قَصَص",
+      "meaning_en": "stories",
+      "meaning_bn": "কাহিনি / ঘটনা",
+      "why_en": "Historical accounts full of spiritual truth."
+    },
+    {
+      "pos": 16,
+      "root": "غفل",
+      "lemma": "غافِل",
+      "meaning_en": "unaware",
+      "meaning_bn": "অনবহিত",
+      "why_en": "Lacking prior knowledge before revelation arrived."
+    }
+  ],
+  "lesson_en": "The stories in the Quran are the best narratives because they teach timeless truth and virtue.",
+  "lesson_bn": "কুরআনের বর্ণিত ঘটনাগুলো সর্বোত্তম, কারণ তা শাশ্বত সত্য ও চারিত্রিক শিক্ষা দেয়।",
+  "real_life_en": "Learn from the story of Joseph. It teaches patience, honesty, and forgiveness when facing hardship. Trust God in every trial.",
+  "real_life_bn": "হযরত ইউসুফের জীবনের ঘটনা থেকে শিক্ষা নিন। প্রতিকূল পরিস্থিতিতে ধৈর্য, চারিত্রিক পবিত্রতা ও ক্ষমার অনন্য দৃষ্টান্ত এতে রয়েছে।",
+  "themes": [
+    "best of stories",
+    "story of Yusuf",
+    "revelation",
+    "wisdom from history"
+  ],
+  "kinds": [
+    "story",
+    "description-of-allah",
+    "praise"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "The Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah declared the narrative of Joseph the finest of stories due to its comprehensive moral, spiritual, and literary wisdom.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,73 @@
+{
+ "id": "43:63",
+ "simple_en": "When Prophet Isa came with clear proofs, he told his people that he brought wisdom from Allah. He came to clarify matters of religion about which they differed. He told them to fear Allah and obey him.",
+ "simple_bn": "যখন ঈসা (আলাইহিস সালাম) সুস্পষ্ট প্রমাণসহ আগমন করলেন, তখন তিনি বললেন, আমি আল্লাহর পক্ষ থেকে প্রজ্ঞা নিয়ে এসেছি। তোমরা যেসব বিষয়ে মতভেদ করতে তার কিছু অংশ স্পষ্ট করতেই আমার আগমন। অতএব তোমরা আল্লাহকে ভয় কর এবং আমার আনুগত্য কর।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "بين",
+   "lemma": "بَيِّنَة",
+   "meaning_en": "with clear proofs",
+   "meaning_bn": "সুস্পষ্ট প্রমাণাদি নিয়ে",
+   "why_en": "Isa was given distinct miracles to guide his people."
+  },
+  {
+   "pos": 8,
+   "root": "حكم",
+   "lemma": "حِكْمَة",
+   "meaning_en": "with wisdom",
+   "meaning_bn": "প্রজ্ঞাসহ",
+   "why_en": "Wisdom and divine revelation settle religious confusion."
+  },
+  {
+   "pos": 16,
+   "root": "أله",
+   "lemma": "اللَّه",
+   "meaning_en": "so fear Allah",
+   "meaning_bn": "অতএব আল্লাহকে ভয় কর",
+   "why_en": "Taqwa is the root requirement for following divine guidance."
+  }
+ ],
+ "lesson_en": "Obey the prophets of Allah and build your life on sincere fear of your Creator.",
+ "lesson_bn": "আল্লাহর নবীদের অনুসরণ করুন এবং আল্লাহভীতির ওপর জীবনের ভিত্তি স্থাপন করুন।",
+ "real_life_en": "When disputes arise, turn to the Quran and Sunnah. Acting with wisdom and fear of Allah brings peace to your home.",
+ "real_life_bn": "সমাজে কোনো বিষয়ে মতবিরোধ দেখা দিলে কুরআন ও সুন্নাহর দিকে ফিরে যান। প্রজ্ঞা ও আল্লাহভীতি মেনে চললে ভুল বোঝাবুঝি দূর হয়।",
+ "themes": [
+  "prophethood",
+  "stories of the prophets",
+  "taqwa"
+ ],
+ "kinds": [
+  "command",
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "isa"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Jesus brought clear proofs and wisdom to settle disputes among his people, instructing them to fear Allah and obey him.",
+   "claim_bn": "ঈসা (আলাইহিস সালাম) স্পষ্ট প্রমাণ ও প্রজ্ঞা নিয়ে এসে মতভেদ দূর করেন এবং আল্লাহকে ভয় করার নির্দেশ দেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

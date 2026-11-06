@@ -1,0 +1,61 @@
+{
+  "id": "64:10",
+  "simple_en": "As for those who rejected faith and denied Our signs, they are the companions of the Fire. They will remain in it forever. What a terrible final home.",
+  "simple_bn": "আর যারা সত্য অস্বীকার করেছে এবং আমাদের আয়াতসমূহকে মিথ্যা বলেছে, তারাই জাহান্নামের অধিবাসী। তারা সেখানে চিরকাল থাকবে, আর তা কতই না নিকৃষ্ট বাসস্থান।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "they denied and lied against",
+      "meaning_bn": "তারা অস্বীকার করল ও মিথ্যা বলল",
+      "why_en": "Identifies intentional rejection of divine truth as the root of ruin."
+    },
+    {
+      "pos": 11,
+      "root": "صير",
+      "lemma": "مَصِير",
+      "meaning_en": "destination and final end",
+      "meaning_bn": "চূড়ান্ত গন্তব্য",
+      "why_en": "Stresses the wretchedness of Hell as an inescapable end for deniers."
+    }
+  ],
+  "lesson_en": "Accept the signs of Allah with a humble heart so you do not fall into the Fire.",
+  "lesson_bn": "আল্লাহর নিদর্শনগুলো বিনয়ের সাথে মেনে নেওয়া উচিত, যেন সত্য অস্বীকারকারীদের মতো কঠিন পরিণতি না বরণ করতে হয়।",
+  "real_life_en": "A hiker ignores clear danger signs and climbs over a broken safety rail. He slips and falls down the cliff. Disregarding warnings brings regret, and the worst regret belongs to those who turn away from God.",
+  "real_life_bn": "সতর্কবার্তা অবহেলা করে বিপজ্জনক পাহাড়ে পা বাড়ালে যেমন বিপদে পড়তে হয়, তেমনি আল্লাহর হেদায়েত অস্বীকার করলে পরকালে চিরস্থায়ী অনুশোচনায় পড়তে হবে।",
+  "themes": [
+    "punishment in Hell",
+    "rejection of truth",
+    "wretched destination"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who disbelieve and reject divine signs will abide in the Fire as their evil destination.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

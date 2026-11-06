@@ -1,0 +1,64 @@
+{
+  "id": "34:29",
+  "simple_en": "The disbelievers asked with mock smiles: When will this promise come, if you speak the truth? They asked only to argue, not because they wanted to learn.",
+  "simple_bn": "কাফেররা উপহাস করে বলত: তোমরা যদি সত্যবাদী হও, তবে বল এই প্রতিশ্রুত কিয়ামত ও শাস্তি কখন আসবে? তারা শেখার উদ্দেশ্যে নয়, বরং অস্বীকার করার জন্যই এমন প্রশ্ন করত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "وعد",
+      "lemma": "وَعْد",
+      "meaning_en": "the promise",
+      "meaning_bn": "প্রতিশ্রুতি",
+      "why_en": "Refers to the promised Day of Judgment and divine retribution."
+    },
+    {
+      "pos": 7,
+      "root": "صدق",
+      "lemma": "صادِق",
+      "meaning_en": "truthful",
+      "meaning_bn": "সত্যবাদী",
+      "why_en": "Mock challenge questioning the honesty of the Prophet and believers."
+    }
+  ],
+  "lesson_en": "Do not ask questions out of pride. A proud heart cannot see the truth.",
+  "lesson_bn": "অহংকার নিয়ে প্রমাণের দাবি করা মানুষের অন্তরকে সত্য গ্রহণ থেকে অন্ধ করে দেয়।",
+  "real_life_en": "Ask questions with an open and humble mind. Do not challenge good advice simply to argue or show off your cleverness.",
+  "real_life_bn": "বিনম্র মন নিয়ে ধর্মীয় বিষয় সম্পর্কে জানুন। তর্কে জেতার জন্য নয়, বরং সত্য বোঝার উদ্দেশ্যে প্রশ্ন করুন।",
+  "themes": [
+    "disbelief",
+    "the Last Day",
+    "arrogance",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The deniers challenged the timing of the promised Day of Judgment out of obstinacy and disbelief.",
+      "claim_bn": "কাফেররা অহংকারবশত কিয়ামত ও প্রতিশ্রুত শাস্তির সময় নিয়ে প্রশ্ন তুলত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

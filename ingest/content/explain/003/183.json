@@ -1,0 +1,99 @@
+{
+ "id": "3:183",
+ "simple_en": "Some people claimed that Allah ordered them never to trust a messenger unless fire from heaven consumed his sacrifice. Allah told the Prophet ﷺ to ask them a clear question. Previous messengers came with clear miracles, including the very sign they demanded. Why then did they reject and kill those messengers if they were truthful?",
+ "simple_bn": "কিছু লোক দাবি করেছিল যে আল্লাহ তাদের আদেশ দিয়েছেন, কোনো রাসূলের প্রতি ঈমান না আনতে যতক্ষণ না তিনি এমন কুরবানী পেশ করেন যাকে আকাশ থেকে আগুন এসে পুড়িয়ে দেয়। আল্লাহ নবী ﷺ-কে তাদের একটি স্পষ্ট প্রশ্ন করতে বললেন। তোমাদের কাছে অতীতের অনেক রাসূল সুস্পষ্ট অলৌকিক নিদর্শন এবং তোমাদের চাওয়া এই প্রমাণ নিয়েই এসেছিলেন। তবে তোমরা কেন তাঁদের হত্যা করেছিলে, যদি তোমরা সত্যবাদী হয়ে থাকো?",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "عهد",
+   "lemma": "عَهِدَ",
+   "meaning_en": "He commanded / covenanted",
+   "meaning_bn": "অঙ্গীকার নিয়েছেন বা আদেশ দিয়েছেন",
+   "why_en": "Exposes their false claim that Allah bound them to a single condition."
+  },
+  {
+   "pos": 12,
+   "root": "قرب",
+   "lemma": "قُرْبان",
+   "meaning_en": "an offering / sacrifice",
+   "meaning_bn": "কুরবানী বা উৎসর্গ",
+   "why_en": "Refers to accepted sacrifices consumed by miraculous fire in past eras."
+  },
+  {
+   "pos": 21,
+   "root": "بين",
+   "lemma": "بَيِّنَة",
+   "meaning_en": "clear proofs",
+   "meaning_bn": "সুস্পষ্ট নিদর্শনসমূহ",
+   "why_en": "Underlines the decisive miracles that earlier messengers had already presented."
+  },
+  {
+   "pos": 25,
+   "root": "قتل",
+   "lemma": "قَتَلَ",
+   "meaning_en": "you killed them",
+   "meaning_bn": "তোমরা তাদের হত্যা করেছিলে",
+   "why_en": "Exposes their insincerity by recalling how their community killed earlier prophets."
+  }
+ ],
+ "lesson_en": "Arrogant people make excuses to reject the truth even when their demands are met.",
+ "lesson_bn": "অহংকারী মানুষ সত্য মেনে না নেওয়ার জন্য অজুহাত খোঁজে, এমনকি তাদের দাবি পূরণ হলেও।",
+ "real_life_en": "Do not ask for endless proof just to delay doing what is right. When truth is clear, accept it with an open mind rather than setting impossible conditions.",
+ "real_life_bn": "সঠিক বিষয় জেনেও তা এড়ানোর জন্য অজুহাত তৈরি করবেন না। সত্য যখন স্পষ্ট হয়ে যায়, তখন কোনো শর্ত না রেখে তা মেনে নেওয়াই সততার পরিচয়।",
+ "context_en": "Refutes a false theological excuse raised by opponents to justify rejecting the Prophet Muhammad ﷺ.",
+ "context_bn": "রাসূলুল্লাহ ﷺ-এর নবুওয়াত অস্বীকার করার জন্য বিরোধীদের উদ্ভাবিত একটি মিথ্যা অজুহাত খণ্ডন করা হয়েছে।",
+ "themes": [
+  "prophethood",
+  "stories of the prophets",
+  "argument",
+  "disbelief",
+  "honesty"
+ ],
+ "kinds": [
+  "argument",
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "prophets",
+   "Muhammad"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "sacrifice",
+   "fire"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Opponents claimed that Allah instructed them not to believe in any messenger unless fire from heaven consumed his offering.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The Prophet was commanded to ask why their ancestors killed previous messengers who brought that exact miracle if they were truthful.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

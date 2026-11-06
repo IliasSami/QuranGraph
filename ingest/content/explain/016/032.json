@@ -1,0 +1,67 @@
+{
+  "id": "16:32",
+  "simple_en": "Angels take the souls of pure believers with gentle words. They greet them with peace. They tell them to enter Paradise for the good deeds they did.",
+  "simple_bn": "পবিত্র ও নেককার বান্দাদের যখন ফেরেশতারা মৃত্যু ঘটান, তখন তারা শান্তির সম্ভাষণ জানান। তাঁরা বলেন, তোমাদের ওপর শান্তি বর্ষিত হোক, সৎকাজের বিনিময়ে জান্নাতে প্রবেশ করো।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "طيب",
+      "lemma": "طَيِّب",
+      "meaning_en": "pure and good",
+      "meaning_bn": "পবিত্র ও উত্তম",
+      "why_en": "Purity of heart and righteous conduct."
+    },
+    {
+      "pos": 6,
+      "root": "سلم",
+      "lemma": "سَلام",
+      "meaning_en": "peace",
+      "meaning_bn": "সালাম ও শান্তি",
+      "why_en": "Angel greeting conveying eternal safety and bliss."
+    }
+  ],
+  "lesson_en": "A pure soul meets death with calm joy. Angels welcome the good with peace.",
+  "lesson_bn": "সৎকর্মশীলদের মৃত্যু হয় অত্যন্ত প্রশান্তিময়। ফেরেশতাগণ তাঁদের সালাম ও জান্নাতের সুসংবাদ দিয়ে বরণ করে নেন।",
+  "real_life_en": "Cleanse your daily deeds so you meet your end with peace. Good actions remove fear of death.",
+  "real_life_bn": "পবিত্র জীবন যাপন করুন যাতে মৃত্যুর সময় কোনো ভয় না থাকে এবং পরম শান্তিতে পরপারে পাড়ি দেওয়া যায়।",
+  "themes": [
+    "death",
+    "angels",
+    "peace"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "Paradise"
+    ],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "death"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Angels take the souls of the pure, greeting them with peace and welcoming them to Paradise.",
+      "claim_bn": "ফেরেশতারা পবিত্র আত্মাদের সালাম জানিয়ে জান্নাতে প্রবেশের সুসংবাদ দিয়ে বরণ করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

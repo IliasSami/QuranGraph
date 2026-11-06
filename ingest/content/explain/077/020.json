@@ -1,0 +1,70 @@
+{
+ "id": "77:20",
+ "simple_en": "Allah asks mankind to reflect on their humble beginning. Did He not create each human being from a lowly fluid drop? From that small drop, Allah formed a complete person.",
+ "simple_bn": "আল্লাহ মানুষকে তার সূচনা নিয়ে ভাবতে বলছেন। তিনি কি মানুষকে এক ফোঁটা তুচ্ছ তরল শুক্রবিন্দু থেকে সৃষ্টি করেননি? সেই সামান্য ফোঁটা থেকেই আল্লাহ পূর্ণাঙ্গ মানুষ গঠন করেছেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "Did We not create you",
+   "meaning_bn": "আমি কি সৃষ্টি করিনি",
+   "why_en": "Points to Allah's wondrous creative power in making human life."
+  },
+  {
+   "pos": 4,
+   "root": "موه",
+   "lemma": "ماء",
+   "meaning_en": "water, fluid",
+   "meaning_bn": "পানি",
+   "why_en": "The humble seminal fluid from which physical life starts."
+  },
+  {
+   "pos": 5,
+   "root": "مهن",
+   "lemma": "مَهِين",
+   "meaning_en": "lowly, despised",
+   "meaning_bn": "তুচ্ছ, দুর্বল",
+   "why_en": "Emphasizes the insignificant, fragile origin of man."
+  }
+ ],
+ "lesson_en": "Reflecting on your humble origin keeps your heart modest before your Creator.",
+ "lesson_bn": "নিজের সাধারণ সূচনার কথা চিন্তা করলে স্রষ্টার সামনে অন্তর অহংকারমুক্ত থাকে।",
+ "real_life_en": "When you feel proud of your wealth or intellect, remember where you came from. You began as a tiny, helpless drop. Remembering this weak origin helps you stay grounded and speak kindly to everyone around you.",
+ "real_life_bn": "নিজের বুদ্ধি বা সম্পদ নিয়ে অহংকার জাগলে মনে করুন আপনি কোথা থেকে এসেছেন। এক ফোঁটা দুর্বল পানি থেকেই আপনার শুরু। এই কথা ভাবলে অহংকার দূর হয় এবং মানুষের সাথে ভালো ব্যবহার করা সহজ হয়।",
+ "themes": [
+  "creation",
+  "human nature",
+  "humility"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah created human beings from a humble drop of fluid.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

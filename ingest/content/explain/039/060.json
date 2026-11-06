@@ -1,0 +1,85 @@
+{
+  "id": "39:60",
+  "simple_en": "On the Day of Resurrection, you will see those who invented lies against Allah with their faces blackened in disgrace and terror. Is Hell not the fitting and eternal home for those who were puffed up with pride?",
+  "simple_bn": "কিয়ামতের দিন আপনি তাদের দেখতে পাবেন যারা আল্লাহর ওপর মিথ্যা অপবাদ দিত, তাদের মুখমণ্ডল লজ্জা ও আতঙ্কে কালো হয়ে গেছে। যারা অহংকার করত তাদের জন্য কি জাহান্নামই উপযুক্ত আবাসস্থল নয়?",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قوم",
+      "lemma": "قِيامَة",
+      "meaning_en": "the Day of Resurrection",
+      "meaning_bn": "কিয়ামতের দিন",
+      "why_en": "The great day when internal character will be reflected in external appearance."
+    },
+    {
+      "pos": 5,
+      "root": "كذب",
+      "lemma": "كَذَبَ",
+      "meaning_en": "they lied against",
+      "meaning_bn": "তারা মিথ্যা আরোপ করেছিল",
+      "why_en": "Condemns attributing false doctrines and idols to the Almighty."
+    },
+    {
+      "pos": 9,
+      "root": "سود",
+      "lemma": "مُسْوَدَّة",
+      "meaning_en": "blackened",
+      "meaning_bn": "কালো বর্ণ",
+      "why_en": "Depicts the visible shame and sorrow marking the faces of liars."
+    },
+    {
+      "pos": 14,
+      "root": "كبر",
+      "lemma": "مُتَكَبِّر",
+      "meaning_en": "the arrogant",
+      "meaning_bn": "অহংকারী ব্যক্তিগণ",
+      "why_en": "Identifies pride as the direct road to disgrace in Hell."
+    }
+  ],
+  "lesson_en": "Those who lie against Allah and show arrogance will face utter disgrace and darkness on Judgment Day.",
+  "lesson_bn": "যারা আল্লাহর প্রতি মিথ্যা আরোপ করে এবং অহংকার দেখায়, কিয়ামতের দিন চরম অপমান ও অন্ধকার তাদের গ্রাস করবে।",
+  "real_life_en": "Guard your tongue and stay humble. Speak only verified truth, especially when talking about God, faith, and religious teachings.",
+  "real_life_bn": "নিজের জিহ্বা সংযত রাখুন এবং সর্বদা বিনয়ী থাকুন। বিশেষ করে আল্লাহ ও তাঁর দ্বীন সম্পর্কে কথা বলার সময় কেবল সত্য ও প্রামাণিক কথা বলুন।",
+  "themes": [
+    "the Last Day",
+    "faces blackened",
+    "arrogance",
+    "hellfire",
+    "lying about allah"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "On Resurrection Day those who lied against Allah will have blackened faces, and Hell is the abode for the arrogant.",
+      "claim_bn": "কিয়ামতের দিন যারা আল্লাহর প্রতি মিথ্যা বলেছে তাদের মুখ কালো দেখা যাবে, আর অহংকারীদের ঠিকানা জাহান্নাম।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

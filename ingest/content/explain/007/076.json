@@ -1,0 +1,80 @@
+{
+  "id": "7:76",
+  "simple_en": "The proud leaders answered with scorn. They felt too big to accept what the poor believed. They openly said that they rejected the message. Their pride closed their hearts against the truth.",
+  "simple_bn": "অহংকারী নেতারা অবজ্ঞার সাথে উত্তর দিল। দুর্বল ব্যক্তিরা যা বিশ্বাস করেছে তা গ্রহণ করতে তারা নিজেদের আভিজাত্যে আঘাত মনে করল। তারা প্রকাশ্যে বলল যে তারা এই বার্তা পুরোপুরি প্রত্যাখ্যান করে। অহংকারই তাদের অন্তরকে সত্য থেকে বন্ধ করে দিল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كبر",
+      "lemma": "اسْتَكْبَرَ",
+      "meaning_en": "were arrogant",
+      "meaning_bn": "অহংকার করেছিল",
+      "why_en": "Shows pride as the root reason driving their obstinate disbelief."
+    },
+    {
+      "pos": 6,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "you believed",
+      "meaning_bn": "তোমরা ঈমান এনেছ",
+      "why_en": "Refers to the true message accepted by the humble believers."
+    },
+    {
+      "pos": 8,
+      "root": "كفر",
+      "lemma": "كافِر",
+      "meaning_en": "disbelievers",
+      "meaning_bn": "অস্বীকারকারী বা কাফির",
+      "why_en": "Records their deliberate and open refusal to accept divine truth."
+    }
+  ],
+  "lesson_en": "Pride blinds people to the truth and leads to open rebellion.",
+  "lesson_bn": "অহংকার মানুষের চোখ বন্ধ করে দেয় এবং সরাসরি অবাধ্যতার দিকে নিয়ে যায়।",
+  "real_life_en": "Never reject the truth just because poor people accept it. Pride harms your own heart. Stay humble so you can see what is right and follow it.",
+  "real_life_bn": "সাধারণ মানুষ সত্য গ্রহণ করেছে বলে তা নাকচ করবেন না। অহংকার অন্তরের ক্ষতি করে। সত্য চেনার ও তা মানার জন্য সবসময় বিনয়ী থাকুন।",
+  "context_en": "The defiant response of the tribal aristocracy of Thamud, rejecting the revelation solely because the weak believed in it.",
+  "context_bn": "দুর্বলদের ঈমান আনতে দেখে আভিজাত্যের অহংকারে অন্ধ হয়ে সামূদের নেতাদের প্রকাশ্য কুফরী ঘোষণা।",
+  "themes": [
+    "arrogance",
+    "disbelief",
+    "pride",
+    "Thamud",
+    "rejection"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The arrogant leaders of Thamud openly declared their disbelief in the message that the faithful had accepted.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Their stubborn pride led them to reject divine guidance out of contempt for the humble believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

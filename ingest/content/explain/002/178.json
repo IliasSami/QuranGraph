@@ -1,0 +1,107 @@
+{
+ "id": "2:178",
+ "simple_en": "Allah commands just retribution in murder cases to set things right and stop cycles of revenge. In the past, strong tribes took many innocent lives for one victim. Islam set a rule of strict equality: only the killer is held accountable. If the family of the victim chooses to forgive and take compensation, they should ask for it fairly. The killer must pay it on time and with good will. This choice is an ease and mercy from your Lord. Anyone who attacks after this settlement will face a painful punishment.",
+ "simple_bn": "অন্যায় হত্যাকাণ্ডের প্রতিকার হিসেবে আল্লাহ সমপরিমাণ শাস্তি বা কিসাসের বিধান দিয়েছেন, যাতে সমাজে সুবিচার কায়েম হয়। জাহেলি যুগে শক্তিশালী গোত্রগুলো একজন নিহতের বদলে অন্য গোত্রের একাধিক নিরপরাধ মানুষকে হত্যা করত। ইসলাম সেই বৈষম্য দূর করে কঠোর সমতা এনেছে: কেবল প্রকৃত অপরাধীকেই তার কৃতকর্মের জন্য দায়ী করা হবে। তবে নিহতের অভিভাবকরা যদি কিসাস ক্ষমা করে রক্তপণ নিতে সম্মত হন, তবে তা শালীনভাবে দাবি করতে হবে এবং হত্যাকারীকেও তা সুন্দরভাবে দ্রুত পরিশোধ করতে হবে। এই ক্ষমার সুযোগ আল্লাহর পক্ষ থেকে এক বিশেষ ছাড় ও অনুগ্রহ। কোনো পক্ষ এই সমঝোতার পর আবার বাড়াবাড়ি করলে তার জন্য কঠিন শাস্তি রয়েছে।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "قصص",
+   "lemma": "قِصاص",
+   "meaning_en": "legal retribution (equal retaliation)",
+   "meaning_bn": "কিসাস (সমপরিমাণ শাস্তি)",
+   "why_en": "From a root meaning to follow closely, establishing that the penalty must match the crime without exceeding it."
+  },
+  {
+   "pos": 16,
+   "root": "عفو",
+   "lemma": "عَفا",
+   "meaning_en": "is pardoned (waived)",
+   "meaning_bn": "ক্ষমা করা হয়",
+   "why_en": "Gives the victim's next of kin the honorable option to forgive capital punishment in favor of financial compensation."
+  },
+  {
+   "pos": 19,
+   "root": "أخو",
+   "lemma": "أَخ",
+   "meaning_en": "his brother",
+   "meaning_bn": "তার ভাই",
+   "why_en": "Uses the language of brotherhood to soften feelings and encourage mercy between believers despite grave harm."
+  },
+  {
+   "pos": 22,
+   "root": "عرف",
+   "lemma": "مَعْرُوف",
+   "meaning_en": "with fairness (good conduct)",
+   "meaning_bn": "ন্যায়সঙ্গতভাবে",
+   "why_en": "Instructs the heirs to request blood money gently without excessive demands or harassment."
+  },
+  {
+   "pos": 27,
+   "root": "خفف",
+   "lemma": "تَخْفِيف",
+   "meaning_en": "an alleviation (lightening)",
+   "meaning_bn": "ভার লাঘব বা সহজীকরণ",
+   "why_en": "Points out that accepting blood money as an alternative to execution is a unique mercy given to this community."
+  }
+ ],
+ "lesson_en": "Justice must be equal and fair, yet choosing mercy and peaceful settlement brings Allah's special grace.",
+ "lesson_bn": "আইন সবার জন্য সমান হওয়া আবশ্যক, তবে প্রতিশোধের বদলে ক্ষমা ও সমঝোতা আল্লাহর বিশেষ রহমত বয়ে আনে।",
+ "real_life_en": "In any neighborhood fight, never blame a whole family for one person's mistake. If people agree on a settlement, pay what you owe on time. Once you resolve a conflict, let it go and do not bring up old anger again.",
+ "real_life_bn": "পারিবারিক বা প্রতিবেশীদের বিরোধে একজনের ভুলের জন্য তার পুরো পরিবারকে দোষারোপ করবেন না। কোনো মীমাংসায় ক্ষতিপূরণ ধার্য হলে তা অবিলম্বে সুন্দরভাবে মিটিয়ে দিন এবং সমাধান হয়ে যাওয়ার পর আগের ক্ষোভ পুষে রাখবেন না।",
+ "context_en": "Moving from the general principles of virtue in ayah 177, this ayah lays down judicial legislation to protect human life and enforce equality before the law.",
+ "context_bn": "১৭৭ নম্বর আয়াতে সার্বিক পুণ্য ও নৈতিকতার আলোচনা করার পর, এই আয়াতে মানবজীবনের নিরাপত্তা ও সমাজে সুবিচার নিশ্চিত করার জন্য আইনগত বিধান জারি করা হয়েছে।",
+ "themes": [
+  "justice",
+  "Allah's mercy",
+  "brotherhood",
+  "forgiveness",
+  "family"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Legal retribution (qisas) is prescribed in murder cases to ensure strict equality and eliminate pre-Islamic tribal bias.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "If the victim's family forgives the death penalty and accepts blood money, it must be sought fairly and paid with goodwill.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Allowing compensation is an alleviation and mercy from Allah, and taking vengeance after reaching a settlement is severely punished.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

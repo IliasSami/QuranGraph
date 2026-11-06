@@ -1,0 +1,83 @@
+{
+  "id": "8:70",
+  "simple_en": "O Prophet, tell the captives in your hands: If God sees good in your hearts, He will give you better than what you lost. He will also forgive your sins. God is full of mercy.",
+  "simple_bn": "হে নবী! বন্দীদের বলো, 'আল্লাহ অন্তরে ভালো ইচ্ছা দেখলে তোমাদের হারানো সম্পদের চেয়ে উত্তম কিছু দেবেন এবং ক্ষমা করবেন।' নিশ্চয়ই আল্লাহ পরম ক্ষমাশীল, পরম দয়ালু।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "يدي",
+      "lemma": "يَد",
+      "meaning_en": "your hands",
+      "meaning_bn": "তোমাদের হস্তগত",
+      "why_en": "Under Muslim custody and care."
+    },
+    {
+      "pos": 8,
+      "root": "أسر",
+      "lemma": "أَسِير",
+      "meaning_en": "captives",
+      "meaning_bn": "যুদ্ধবন্দী",
+      "why_en": "The prisoners taken at Badr."
+    },
+    {
+      "pos": 10,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "He knows",
+      "meaning_bn": "তিনি জানেন",
+      "why_en": "Divine knowledge of inner sincerity."
+    }
+  ],
+  "lesson_en": "Turning to God in truth turns past losses into great blessings.",
+  "lesson_bn": "অন্তরে সত্য ও কল্যাণের ইচ্ছা থাকলে আল্লাহ সব ক্ষতি পুষিয়ে দিয়ে উত্তম প্রতিদান ও ক্ষমা দান করেন।",
+  "real_life_en": "If you have suffered heavy losses through poor choices or fines, do not lose hope. Cleanse your intentions and turn to God. He can replace your loss with blessings far greater than what you lost.",
+  "real_life_bn": "অতীতের ভুলের কারণে কোনো ক্ষতি হলে নিরাশ হবেন না। মন থেকে অনুতপ্ত হয়ে ভালো কাজ শুরু করুন, আল্লাহ এর চেয়ে উত্তম নিয়ামত দান করবেন।",
+  "context_en": "Addressing Badr prisoners such as Al-Abbas who paid heavy ransoms, promising far greater gifts if they embraced faith.",
+  "context_bn": "বদরের যুদ্ধবন্দীদের সান্ত্বনা দিয়ে ঈমান গ্রহণের আহ্বান এবং হারানো সম্পদের চেয়ে উত্তম প্রতিদানের প্রতিশ্রুতি।",
+  "themes": [
+    "repentance",
+    "divine mercy",
+    "prisoners of war",
+    "compensation for loss"
+  ],
+  "kinds": [
+    "address",
+    "promise",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "captives of Badr"
+    ],
+    "places": [
+      "Medina"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Al-Ghafur",
+      "Ar-Rahim"
+    ],
+    "events": [
+      "Battle of Badr"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah promises captives that if He finds goodness in their hearts, He will give them better than what was taken and forgive them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

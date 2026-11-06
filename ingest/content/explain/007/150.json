@@ -1,0 +1,85 @@
+{
+  "id": "7:150",
+  "simple_en": "Moses returned to his people full of anger and grief. He rebuked them for corrupting their faith while he was away. In his deep sorrow, he dropped the tablets and questioned his brother Aaron. Aaron explained that the crowd overpowered him and threatened his life. He asked Moses not to blame him with the wrongdoers.",
+  "simple_bn": "মূসা যখন ক্রুদ্ধ ও মর্মাহত হয়ে নিজ সম্প্রদায়ের কাছে ফিরলেন, তখন বললেন, 'আমার অনুপস্থিতিতে তোমরা আমার কত নিকৃষ্ট প্রতিনিধিত্ব করেছ! তোমরা কি তোমাদের রবের আদেশের আগেই তাড়াহুড়ো করলে?' এরপর তিনি ফলকগুলো রেখে দিলেন এবং ভাইকে চুলে ধরে নিজের দিকে টানতে লাগলেন। হারূন বললেন, 'হে আমার সহোদর, লোকেরা তো আমাকে দুর্বল ভেবে প্রায় মেরেই ফেলেছিল। সুতরাং শত্রুদের হাসাবেন না এবং আমাকে যালিমদের দলভুক্ত করবেন না।'",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "غضب",
+      "lemma": "غَضْبان",
+      "meaning_en": "angry",
+      "meaning_bn": "ক্রুদ্ধ",
+      "why_en": "Prophetic outrage defending monotheism against idolatry."
+    },
+    {
+      "pos": 7,
+      "root": "أسف",
+      "lemma": "أَسِف",
+      "meaning_en": "sorrowful / grieving",
+      "meaning_bn": "মর্মাহত / দুঃখিত",
+      "why_en": "Deep heartbreak that his people surrendered to shirk so quickly."
+    },
+    {
+      "pos": 28,
+      "root": "ضعف",
+      "lemma": "اسْتَضْعَفُ",
+      "meaning_en": "deemed me weak",
+      "meaning_bn": "আমাকে দুর্বল মনে করেছিল",
+      "why_en": "Aaron explains that the idolaters had threatened his life."
+    }
+  ],
+  "lesson_en": "Stay calm and listen to the facts before blaming others in anger.",
+  "lesson_bn": "চরম ক্রোধের মুহূর্তেও অন্যের ব্যাখ্যা শুনে সত্য যাচাই করা ন্যায়বিচারের দাবি।",
+  "real_life_en": "When a sudden problem happens, keep your calm. Listen to what each person has to say before you blame them. Fair listening prevents hurting innocent friends.",
+  "real_life_bn": "বিপদে মাথা ঠান্ডা রাখুন। কারো ওপর অন্যায় দোষারোপ করার আগে তার পরিস্থিতি বোঝার চেষ্টা করুন।",
+  "context_en": "Moses returns to find the calf cult, confronting the community and clarifying Aaron's innocence.",
+  "context_bn": "ফিরে এসে গো-বাছুর পূজা দেখে মূসার তীব্র প্রতিক্রিয়া এবং হারূনের পরিস্থিতির ব্যাখ্যা তুলে ধরা হয়েছে।",
+  "themes": [
+    "prophetic anger for Allah",
+    "fraternal love",
+    "clearing the innocent",
+    "brotherhood"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Harun"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [
+      "Moses confronts Aaron and his people"
+    ],
+    "things": [
+      "the tablets"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Moses returned angry and grieved, confronting Aaron who explained that the people overpowered and nearly killed him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

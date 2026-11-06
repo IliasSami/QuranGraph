@@ -1,0 +1,64 @@
+{
+  "id": "21:7",
+  "simple_en": "Before you, We only sent mortal men as messengers with divine revelation. If you do not know this fact, ask the people who study earlier scriptures.",
+  "simple_bn": "আপনার পূর্বে আমি ওহীসহ কেবল পুরুষ মানুষদেরই রাসূল হিসেবে পাঠিয়েছিলাম। যদি তোমরা এ বিষয়ে না জানো, তবে পূর্ববর্তী কিতাবধারীদের জিজ্ঞাসা করো।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "رجل",
+      "lemma": "رِجال",
+      "meaning_en": "men",
+      "meaning_bn": "পুরুষ মানুষ",
+      "why_en": "Human nature of historical prophetic messengers."
+    },
+    {
+      "pos": 6,
+      "root": "وحي",
+      "lemma": "أَوْحَى",
+      "meaning_en": "We revealed",
+      "meaning_bn": "আমরা ওহী পাঠাই",
+      "why_en": "Divine communication inspiring chosen prophets."
+    }
+  ],
+  "lesson_en": "Prophets were human beings who carried divine truth. When in doubt, seek knowledge from people of learning.",
+  "lesson_bn": "নবীগণ ছিলেন সত্যের বাহক মানুষ। কোনো বিষয়ে সন্দেহ বা অজ্ঞতা থাকলে জ্ঞানীদের কাছে জিজ্ঞেস করুন।",
+  "real_life_en": "Ask people of knowledge when you have questions about faith. Learning with humility clears away all doubt.",
+  "real_life_bn": "ধর্মীয় বিষয়ে সংশয় দেখা দিলে নির্ভরযোগ্য আলেমদের পরামর্শ নিন। বিনয়ের সাথে প্রশ্ন করলে মনের অন্ধকার দূর হয়।",
+  "themes": [
+    "prophethood",
+    "revelation",
+    "seeking-knowledge",
+    "scriptures"
+  ],
+  "kinds": [
+    "argument",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God sent human men as messengers before Muhammad, instructing doubters to consult people of the scripture.",
+      "claim_bn": "আল্লাহ মুহাম্মাদের পূর্বেও মানুষদের মধ্য থেকেই রাসূল প্রেরণ করেছেন এবং অজ্ঞদের আলেমদের জিজ্ঞেস করার নির্দেশ দিয়েছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

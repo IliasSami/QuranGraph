@@ -1,0 +1,62 @@
+{
+  "id": "22:11",
+  "simple_en": "Some people worship Allah on a narrow edge. If good comes, they are pleased. But if hardship touches them, they turn their backs, losing both this world and the Hereafter.",
+  "simple_bn": "মানুষের মধ্যে কেউ কেউ দ্বিধা-দ্বন্দ্বে থেকে আল্লাহর ইবাদত করে। সুখ পেলে সন্তুষ্ট হয়, কিন্তু বিপদ এলে মুখ ফিরিয়ে নেয়। তারা দুনিয়া ও আখেরাত উভয়ই হারায়।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "حرف",
+      "lemma": "حَرْف",
+      "meaning_en": "on an edge",
+      "meaning_bn": "কিনারায় বা দ্বিধাদ্বন্দ্বে",
+      "why_en": "Unstable, conditional faith balancing on a ledge."
+    },
+    {
+      "pos": 19,
+      "root": "خسر",
+      "lemma": "خَسِرَ",
+      "meaning_en": "he lost",
+      "meaning_bn": "সে ক্ষতিগ্রস্ত হলো",
+      "why_en": "Total forfeiture of earthly and eternal peace."
+    }
+  ],
+  "lesson_en": "Weak faith breaks under tests. True believers serve God in good times and hard times without losing hope.",
+  "lesson_bn": "শর্তসাপেক্ষ ঈমান পরীক্ষায় ব্যর্থ হয়। প্রকৃত মুমিন সুখ এবং দুঃখ উভয় অবস্থাতেই অবিচল থেকে আল্লাহর উপাসনা করে।",
+  "real_life_en": "Do not treat faith like a deal that depends on fast gain. Serve God with loyalty even when life brings hard tests.",
+  "real_life_bn": "ধর্মবিশ্বাসকে স্বার্থসিদ্ধির মাধ্যম বানাবেন না। জীবনে কঠিন সময় আসলেও ধৈর্য ধারণ করে আল্লাহর ইবাদতে অবিচল থাকুন।",
+  "themes": [
+    "worship-on-edge",
+    "conditional-faith",
+    "trials",
+    "total-loss"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Those with fragile, conditional faith abandon religion when hardship strikes, suffering total loss in both worlds.",
+      "claim_bn": "দ্বিধাগ্রস্ত ঈমানদাররা সুখ পেলে শান্ত থাকে কিন্তু বিপদ এলে ধর্ম ত্যাগ করে, ফলে তারা উভয় জগতেই ক্ষতিগ্রস্ত হয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

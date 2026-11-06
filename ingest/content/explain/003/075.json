@@ -1,0 +1,103 @@
+{
+ "id": "3:75",
+ "simple_en": "Among the People of the Scripture are honest people. If you trust them with a great treasure, they return it in full. But others are dishonest. If you trust them with a single coin, they will not return it unless you keep standing over them. That is because they falsely claim it is no sin to cheat outsiders. They invent lies against Allah knowingly.",
+ "simple_bn": "কিতাবধারীদের মধ্যে এমন লোকও আছে যাকে বিপুল ধন-সম্পদ আমানত রাখলেও সে তা পুরোপুরি ফেরত দেয়। আবার তাদের মধ্যে এমনও আছে যাকে একটিমাত্র দিনার আমানত রাখলেও তুমি তার পেছনে লেগে না থাকলে সে তা ফেরত দেবে না। কারণ তারা বলে: নিরক্ষরদের ব্যাপারে আমাদের কোনো জবাবদিহি নেই। আর তারা জেনে-শুনেই আল্লাহর নামে মিথ্যা রচনা করে।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "قنطر",
+   "lemma": "قِنطار",
+   "meaning_en": "a great treasure (qintar)",
+   "meaning_bn": "বিপুল পরিমাণ ধন-সম্পদ",
+   "why_en": "Represents a very large financial trust returned faithfully by the honest."
+  },
+  {
+   "pos": 14,
+   "root": "دنر",
+   "lemma": "دِينار",
+   "meaning_en": "a single dinar (coin)",
+   "meaning_bn": "একটি মাত্র দিনার",
+   "why_en": "Contrasts a tiny amount withheld due to petty greed and dishonesty."
+  },
+  {
+   "pos": 29,
+   "root": "أمم",
+   "lemma": "أُمِّيّ",
+   "meaning_en": "the unlettered (Arabs)",
+   "meaning_bn": "উম্মী বা নিরক্ষরদের",
+   "why_en": "Refers to the non-Jewish Arabs against whom some claimed cheating was permissible."
+  },
+  {
+   "pos": 30,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "a path / liability / blame",
+   "meaning_bn": "কোনো দোষ / জবাবদিহিতা",
+   "why_en": "Their false pretext that usurping pagan property carried no moral or legal blame."
+  }
+ ],
+ "lesson_en": "Never paint an entire group with one brush, and never justify cheating anyone.",
+ "lesson_bn": "ন্যায্যতার সাথে মানুষের মূল্যায়ন করুন এবং কোনো অবস্থাতেই অন্যের আমানত আত্মসাৎ করবেন না।",
+ "real_life_en": "Judge each person fairly on their own acts. Do not put down whole groups. Always pay back what you owe and return borrowed goods quickly. It is wrong to cheat someone just because they are from another group.",
+ "real_life_bn": "যেকোনো মানুষের আমানত সততার সাথে রক্ষা করুন, সে যে ধর্মেরই হোক না কেন। কোনো জাতিকে পাইকারি হারে দোষারোপ করবেন না এবং কারও দুর্বলতার সুযোগ নিয়ে অন্যায়ভাবে সম্পদ আত্মসাৎ করবেন না।",
+ "context_en": "Offers a balanced assessment of trustworthiness among the People of the Book while condemning those who rationalize fraud.",
+ "context_bn": "কিতাবধারীদের নৈতিক আচরণের ভারসাম্যপূর্ণ বিবরণ দিয়ে আমানত খেয়ানতের কুযুক্তি খণ্ডন করা হয়েছে।",
+ "themes": [
+  "justice",
+  "honesty",
+  "wealth",
+  "Children of Israel",
+  "ethics"
+ ],
+ "kinds": [
+  "ethics",
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "People of the Book",
+   "unlettered Arabs"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Some among the People of the Scripture are trustworthy and return even large amounts of wealth entrusted to them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Others among them breach trust even over a single coin unless constantly pressured.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Dishonest individuals rationalized cheating unlettered Arabs by falsely claiming Allah permitted it, lying against Him knowingly.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

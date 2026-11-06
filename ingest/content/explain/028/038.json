@@ -1,0 +1,75 @@
+{
+  "id": "28:38",
+  "simple_en": "Pharaoh told his chiefs that he was their only god. He told Haman to bake bricks of clay and build a high tower. Pharaoh wanted to look for the God of Moses, claiming Moses was a liar.",
+  "simple_bn": "ফেরাউন বলল, হে পরিষদবর্গ, আমি তো আমি ছাড়া তোমাদের কোনো উপাস্য আছে বলে জানি না। সুতরাং হে হামান, আমার জন্য কাদামাটি পুড়িয়ে ইট বানাও এবং একটি সুউচ্চ অট্টালিকা নির্মাণ করো, যাতে আমি মুসার উপাস্যকে উঁকি দিয়ে দেখতে পারি। যদিও আমি তাকে একজন মিথ্যাবাদীই মনে করি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "ٱلْمَلَأُ",
+      "root": "ملأ",
+      "lemma": "مَلَأ",
+      "meaning_en": "the chiefs",
+      "meaning_bn": "নেতৃবর্গ",
+      "why_en": "Pharaoh addressing his elite ministers and nobility."
+    },
+    {
+      "pos": 18,
+      "arabic": "صَرْحًا",
+      "root": "صرح",
+      "lemma": "صَرْح",
+      "meaning_en": "a lofty tower",
+      "meaning_bn": "উঁচু প্রাসাদ বা মিনার",
+      "why_en": "The haughty command to build an observatory to heaven."
+    }
+  ],
+  "lesson_en": "Pride makes people blind to plain truth. Evil rulers foolishly think they have all power.",
+  "lesson_bn": "চরম ঔদ্ধত্য মানুষকে অন্ধ ও বিবেকহীন করে তোলে। স্বৈরাচারী শাসক নিজের ক্ষমতাকেই চূড়ান্ত সত্য মনে করে।",
+  "real_life_en": "Never let pride take over your heart when you have power. Remember that God alone is Lord of all.",
+  "real_life_bn": "অহংকার থেকে সবসময় দূরে থাকুন। কোনো সাফল্য বা ক্ষমতার অহমিকায় নিজেকে অন্যদের চেয়ে বড় ভাববেন না।",
+  "themes": [
+    "pharaoh",
+    "haman",
+    "arrogance",
+    "tower"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Pharaoh",
+      "Haman",
+      "Moses"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "bricks",
+      "tower"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh arrogantly claimed to be the only god and commanded Haman to build a tower to seek the God of Moses.",
+      "claim_bn": "ফেরাউন নিজেকে একমাত্র উপাস্য দাবি করে হামানকে মুসার উপাস্যকে দেখার জন্য উঁচু টাওয়ার নির্মাণের নির্দেশ দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

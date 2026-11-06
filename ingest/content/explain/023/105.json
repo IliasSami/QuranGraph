@@ -1,0 +1,63 @@
+{
+  "id": "23:105",
+  "simple_en": "It will be said: Were My verses not recited to you clearly, and did you not persistently deny them? You chose to reject guidance when it came to you.",
+  "simple_bn": "বলা হবে, তোমাদের কাছে কি আমার আয়াতসমূহ তিলাওয়াত করা হতো না? অথচ তোমরা সেসব অস্বীকার করতে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "My verses",
+      "meaning_bn": "আমার আয়াতসমূহ",
+      "why_en": "Divine signs and revelations presented with full clarity."
+    },
+    {
+      "pos": 8,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "you used to deny",
+      "meaning_bn": "তোমরা মিথ্যারোপ করতে",
+      "why_en": "Willful rejection of divine truth despite hearing it."
+    }
+  ],
+  "lesson_en": "Deniers will face the warnings they chose to ignore. God's truth was delivered to all people with clear proofs.",
+  "lesson_bn": "ওহির নির্দেশনা অস্বীকার করার কোনো অজুহাত পরকালে টিকবে না। সত্য স্পষ্ট হওয়ার পরও তা উপেক্ষা করার ফল জাহান্নাম।",
+  "real_life_en": "Pay close attention to moral reminders you receive in life. Do not ignore good advice simply because it feels inconvenient.",
+  "real_life_bn": "কোরআনের নির্দেশাবলীকে গুরুত্ব দিয়ে জীবনে বাস্তবায়ন করুন। কোনো সৎ উপদেশকে অবহেলা করবেন না।",
+  "themes": [
+    "divine-rebuke",
+    "recitation-of-verses",
+    "accountability"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "judgment-inquiry"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The inmates of Hell are rebuked for their persistent rejection of divine verses that were recited to them during worldly life.",
+      "claim_bn": "জাহান্নামীদের তিরস্কার করে মনে করিয়ে দেওয়া হবে যে আল্লাহর বাণী তিলাওয়াত সত্ত্বেও তারা তা অস্বীকার করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

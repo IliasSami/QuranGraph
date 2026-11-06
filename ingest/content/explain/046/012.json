@@ -1,0 +1,74 @@
+{
+ "id": "46:12",
+ "simple_en": "Before this Quran, the Book of Moses (peace be upon him) was sent as a guide and a mercy for the believers. Now this Quran is sent in the clear Arabic tongue. It confirms the earlier scriptures. It warns those who do wrong and gives glad news to those who do good.",
+ "simple_bn": "এই কুরআনের পূর্বে মূসা (আলাইহিস সালাম)-এর কিতাব পথপ্রদর্শক ও রহমত হিসেবে এসেছিল। আর এই কুরআন আরবি ভাষায় নাযিল হয়েছে, যা পূর্ববর্তী কিতাবসমূহকে সত্যায়ন করে। এটি জালেমদেরকে সতর্ক করে এবং সৎকর্মশীলদেরকে সুসংবাদ দেয়।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": null,
+   "lemma": "مُوسَى",
+   "meaning_en": "Moses",
+   "meaning_bn": "মূসা (আলাইহিস সালাম)",
+   "why_en": "Prophet Moses (peace be upon him) was given the Torah as guidance before the Quran."
+  },
+  {
+   "pos": 5,
+   "root": "أمم",
+   "lemma": "إِمام",
+   "meaning_en": "a guide / leader",
+   "meaning_bn": "পথপ্রদর্শক বা নেতা",
+   "why_en": "The scripture was revealed as an imam to guide people in truth."
+  },
+  {
+   "pos": 9,
+   "root": "صدق",
+   "lemma": "مُصَدِّق",
+   "meaning_en": "confirming",
+   "meaning_bn": "সত্যায়নকারী",
+   "why_en": "The Quran confirms the divine books that were sent before it."
+  }
+ ],
+ "lesson_en": "The Quran confirms previous scriptures and brings good news to those who do good.",
+ "lesson_bn": "পবিত্র কুরআন পূর্ববর্তী কিতাবগুলোকে সত্যায়ন করে এবং সৎকর্মশীলদের জন্য চিরন্তন সুসংবাদ বহন করে।",
+ "real_life_en": "When you read the Quran, remember that Allah has sent guidance throughout history. Strive to be among the good-doers who listen to its warnings and seek Allah's promised reward.",
+ "real_life_bn": "কুরআন পড়ার সময় মনে রাখুন যে আল্লাহ ইতিহাসের প্রতিটি যুগে মানুষের জন্য হেদায়াত পাঠিয়েছেন। সতর্কবার্তা মেনে সৎকর্মশীলদের দলে শামিল হতে সচেষ্ট হোন।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "mercy",
+  "glad-tidings",
+  "warning"
+ ],
+ "kinds": [
+  "belief",
+  "glad-tidings",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "musa"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The Book of Moses was a guide and mercy, and the Arabic Quran confirms it, warning wrongdoers and giving glad tidings to the good-doers.",
+   "claim_bn": "মূসার কিতাব ছিল পথপ্রদর্শক ও রহমত, এবং এই আরবি কুরআন তা সত্যায়ন করে জালেমদের সতর্ক করে ও নেককারদের সুসংবাদ দেয়।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "16:103",
+  "simple_en": "We know they claim that a human teacher instructs the Prophet. But the man they point to speaks a foreign tongue, while this Quran is in pure, clear Arabic.",
+  "simple_bn": "আমরা খুব ভালোভাবেই জানি তারা বলে যে এক সাধারণ মানুষ তাকে শিক্ষা দেয়। অথচ তারা যার দিকে ইঙ্গিত করে তার ভাষা অনারব, আর এই কোরআন বিশুদ্ধ আরবি ভাষায় অবতীর্ণ।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "بشر",
+      "lemma": "بَشَر",
+      "meaning_en": "a human",
+      "meaning_bn": "একজন মানুষ",
+      "why_en": "The false claim that a mortal taught the Prophet."
+    },
+    {
+      "pos": 8,
+      "root": "لسن",
+      "lemma": "لِسان",
+      "meaning_en": "the tongue",
+      "meaning_bn": "ভাষা",
+      "why_en": "The language spoken by the accused individual."
+    }
+  ],
+  "lesson_en": "The eloquence of the Quran is miraculous. A non-Arab teacher could never produce its sublime prose.",
+  "lesson_bn": "কোরআনের অনুপম অলঙ্কার ও সাহিত্যশৈলী অলৌকিক। কোনো মানুষের পক্ষে এই অপূর্ব গ্রন্থ রচনা করা অসম্ভব।",
+  "real_life_en": "Do not let baseless rumors confuse your faith. Look at the obvious evidence before believing malicious claims.",
+  "real_life_bn": "ভিত্তিহীন অপপ্রচারে কান দেবেন না। সত্যকে নিরপেক্ষ দৃষ্টি ও যুক্তি দিয়ে বিচার করার চেষ্টা করুন।",
+  "themes": [
+    "quran",
+    "arabic",
+    "miracles"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelievers claim a mortal taught the Prophet, yet that person speaks a foreign tongue while the Quran is pure Arabic.",
+      "claim_bn": "কাফিররা দাবি করত একজন মানুষ নবীকে শেখায়, অথচ সেই ব্যক্তির ভাষা অনারব আর কোরআন সুস্পষ্ট আরবি।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

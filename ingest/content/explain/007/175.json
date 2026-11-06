@@ -1,0 +1,81 @@
+{
+  "id": "7:175",
+  "simple_en": "Tell the story of the man who received knowledge of God's signs but threw them away. Satan chased him, and he fell into complete ruin.",
+  "simple_bn": "আর তাদেরকে ঐ ব্যক্তির বৃত্তান্ত পড়ে শুনান, যাকে আমরা আমাদের নিদর্শনসমূহের জ্ঞান দিয়েছিলাম; কিন্তু সে তা থেকে বিচ্যুত হয়ে বেরিয়ে গেল। অতঃপর শয়তান তার পিছু নিল এবং সে সম্পূর্ণ পথভ্রষ্টদের অন্তর্ভুক্ত হয়ে গেল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "recite / narrate",
+      "meaning_bn": "পড়ে শুনান / বর্ণনা করুন",
+      "why_en": "Commanding the Prophet to teach this vital cautionary tale."
+    },
+    {
+      "pos": 7,
+      "root": "سلخ",
+      "lemma": "انسَلَخَ",
+      "meaning_en": "he stripped himself away / detached",
+      "meaning_bn": "বিচ্যুত হয়ে বেরিয়ে গেল",
+      "why_en": "Shedding divine guidance like a snake sloughing its skin."
+    },
+    {
+      "pos": 9,
+      "root": "تبع",
+      "lemma": "أَتْبَعَ",
+      "meaning_en": "pursued him",
+      "meaning_bn": "তার পিছু নিল",
+      "why_en": "Satan overtaking a person who willingly abandons truth."
+    }
+  ],
+  "lesson_en": "Knowing the truth does not help if you choose greed over good deeds.",
+  "lesson_bn": "ধর্মীয় জ্ঞান থাকা সত্ত্বেও অন্তরে সততা না থাকলে মানুষ চরম পাপে নিমজ্জিত হতে পারে।",
+  "real_life_en": "Do not let knowledge or cleverness make you careless about your morals. Knowing what is right does not help if you choose greed over integrity. Stay humble and practice what you know.",
+  "real_life_bn": "জ্ঞানের অহংকার করবেন না। ভালো কথা জানাটাই যথেষ্ট নয়, বরং জীবনের প্রতিটি পদক্ষেপে সেই জ্ঞান অনুযায়ী কাজ করাই প্রধান।",
+  "context_en": "The story of the learned man who abandoned divine signs for worldly temptations.",
+  "context_bn": "জ্ঞান লাভ করেও প্রবৃত্তির অনুসারী হয়ে ধ্বংসের মুখে পতিত হওয়া ব্যক্তির শিক্ষণীয় দৃষ্টান্ত।",
+  "themes": [
+    "knowledge without practice",
+    "abandoning guidance",
+    "deception of Satan",
+    "cautionary tale"
+  ],
+  "kinds": [
+    "warning",
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ",
+      "the man given signs"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Satan"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "signs",
+      "knowledge"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Prophet was told to recount the tale of one endowed with knowledge who detached himself from divine signs, allowing Satan to ruin him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,81 @@
+{
+ "id": "4:8",
+ "simple_en": "Non-inheriting kin, orphans, or poor people may be present when an estate is divided. Give them something from the wealth out of kindness. It came to you without hard labor. Offer them a gift before the division, and speak with gentle words.",
+ "simple_bn": "উত্তরাধিকার বণ্টনের সময় যদি কোনো অনাত্মীয় গরিব, এতিম বা এমন আত্মীয় উপস্থিত থাকে যাদের মিরাসে অংশ নেই, তবে তাদেরও সেই সম্পদ থেকে কিছু দান করো। এই সম্পদ তো তোমরা কোনো কষ্ট ছাড়াই পেয়েছ। তাদেরকে কিছু দিয়ে খুশি করো এবং তাদের সাথে মিষ্টি ও সান্ত্বনামূলক ভাষায় কথা বলো।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "قسم",
+   "lemma": "قِسْمَة",
+   "meaning_en": "the division (distribution)",
+   "meaning_bn": "বণ্টন বা ভাগ-বাটোয়ারা",
+   "why_en": "The occasion when the estate is divided among the rightful heirs."
+  },
+  {
+   "pos": 7,
+   "root": "سكن",
+   "lemma": "مِسْكِين",
+   "meaning_en": "the poor (needy)",
+   "meaning_bn": "অসহায় ও মিসকিন",
+   "why_en": "Disadvantaged community members who have no legal share but may be present watching the wealth divided."
+  },
+  {
+   "pos": 8,
+   "root": "رزق",
+   "lemma": "رَزَقَ",
+   "meaning_en": "provide for them",
+   "meaning_bn": "তাদেরকে কিছু দান করো",
+   "why_en": "Heirs are encouraged to give a voluntary gift from the unearned wealth to comfort those in need."
+  }
+ ],
+ "lesson_en": "Share a gift with poor visitors when dividing wealth, and speak to them with kindness.",
+ "lesson_bn": "প্রাপ্ত সম্পদ থেকে অভাবী ও এতিমদের কিছু দিয়ে মন জয় করুন এবং তাদের সাথে মার্জিত ভাষায় কথা বলুন।",
+ "real_life_en": "When settling an estate, do not ignore needy relatives who come to visit. Set aside a small gift for them before splitting the money. Generosity and kind words bring peace.",
+ "real_life_bn": "পারিবারিক মিরাস বণ্টনের সময় উপস্থিত গরিব আত্মীয় বা প্রতিবেশী যারা অসুস্থতার দিনে পাশে ছিলেন, তাদের ভুলবেন না। ওয়ারিশদের মাঝে সব ভাগ করার আগে তাদের জন্য কিছু উপহার বা অর্থ আলাদা করে দিন এবং তাদের প্রতি আন্তরিক কৃতজ্ঞতা প্রকাশ করুন।",
+ "themes": [
+  "charity",
+  "wealth",
+  "family",
+  "orphans",
+  "ethics"
+ ],
+ "kinds": [
+  "command",
+  "ethics",
+  "law"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "When non-inheriting relatives, orphans, and the needy are present at the division of an estate, heirs are encouraged to give them something from it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Heirs should speak to them with kindness, gentle words, and good manners.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

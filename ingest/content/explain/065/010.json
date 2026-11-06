@@ -1,0 +1,70 @@
+{
+  "id": "65:10",
+  "simple_en": "Allah has prepared a severe punishment for those who disobey. So fear Allah, O people of deep understanding who have faith. Allah has truly sent down to you a clear reminder to guide your lives.",
+  "simple_bn": "অবাধ্যদের জন্য আল্লাহ কঠিন শাস্তি প্রস্তুত রেখেছেন। অতএব হে বিবেকবান ব্যক্তিগণ, যারা ঈমান এনেছ, তোমরা আল্লাহকে ভয় করো। নিশ্চয় আল্লাহ তোমাদের কাছে এক সুস্পষ্ট উপদেশবাণী অবতীর্ণ করেছেন।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "وقي",
+      "lemma": "اتَّقَى",
+      "meaning_en": "fear and be mindful of Allah",
+      "meaning_bn": "তোমরা আল্লাহকে ভয় করো",
+      "why_en": "Calls believers to protect themselves from punishment through righteous conduct."
+    },
+    {
+      "pos": 9,
+      "root": "لبب",
+      "lemma": "أَلْباب",
+      "meaning_en": "people of deep understanding",
+      "meaning_bn": "বিবেকবান ব্যক্তিগণ",
+      "why_en": "Appeals to sound intellect to recognize the wisdom of divine warnings."
+    },
+    {
+      "pos": 16,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "a reminder and guidance",
+      "meaning_bn": "উপদেশ ও স্মরণিকা",
+      "why_en": "Names the Quran as a gift that awakens human conscience."
+    }
+  ],
+  "lesson_en": "Use your mind to reflect on God's words, and stay away from what brings His anger.",
+  "lesson_bn": "নিজের বিবেক ও বোধশক্তি খাটিয়ে আল্লাহর কুরআন অনুধাবন করা উচিত, যেন তা আমাদের সঠিক পথে পরিচালিত করে।",
+  "real_life_en": "A student reads a book on healthy living and sees the dangers of smoking. Because he has good sense, he avoids harmful peer pressure and never starts. Wise minds pay attention to clear warnings before harm strikes.",
+  "real_life_bn": "বুদ্ধিমান মানুষ ক্ষতিকর অভ্যাস থেকে দূরে থাকার সতর্কবার্তা পেয়ে সঙ্গে সঙ্গে তা মেনে চলে। তেমনি বিবেকের আলো ব্যবহার করে আল্লাহর উপদেশ মেনে চলাই মানুষের জন্য পরম নিরাপত্তার পথ।",
+  "themes": [
+    "mindfulness of Allah",
+    "intellect and understanding",
+    "Quran as a reminder"
+  ],
+  "kinds": [
+    "command",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah has prepared severe punishment for deniers and calls believers of sound understanding to fear Him and follow the reminder sent down.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

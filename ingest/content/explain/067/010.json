@@ -1,0 +1,71 @@
+{
+  "id": "67:10",
+  "simple_en": "The disbelievers will say: If only we had listened or used our minds, we would not be in the burning Fire today. Sincere thought would have led them to faith and safety.",
+  "simple_bn": "তারা আরও বলবে: আমরা যদি মন দিয়ে শুনতাম কিংবা বুদ্ধি খাটিয়ে বুঝতাম, তবে আজ আমরা এই জ্বলন্ত জাহান্নামের অধিবাসী হতাম না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "سمع",
+      "lemma": "سَمِعَ",
+      "meaning_en": "we had listened",
+      "meaning_bn": "আমরা শুনতাম",
+      "why_en": "Highlights attentive listening as an essential step toward truth."
+    },
+    {
+      "pos": 6,
+      "root": "عقل",
+      "lemma": "عَقَلُ",
+      "meaning_en": "we had reasoned",
+      "meaning_bn": "আমরা বুদ্ধি দিয়ে বুঝতাম",
+      "why_en": "Stresses the importance of using intellect to distinguish right from wrong."
+    },
+    {
+      "pos": 10,
+      "root": "صحب",
+      "lemma": "أَصْحاب",
+      "meaning_en": "companions or dwellers",
+      "meaning_bn": "অধিবাসী বা সঙ্গী",
+      "why_en": "Identifies the painful fate of being trapped in the blazing fire."
+    }
+  ],
+  "lesson_en": "Use your hearing and your mind to understand the truth and follow it.",
+  "lesson_bn": "আল্লাহর দেওয়া শ্রবণশক্তি ও বিবেককে সত্য চেনা এবং তা অনুসরণের কাজে ব্যবহার করা উচিত।",
+  "real_life_en": "A young professional hears good moral advice at a gathering. Instead of scrolling on his phone, he pays attention and reflects. That simple choice helps him change his lifestyle for the better.",
+  "real_life_bn": "গুরুত্বপূর্ণ ধর্মীয় আলোচনা শুনে তা নিজের জীবনে মিলিয়ে দেখা দরকার। কান দিয়ে ভালো কথা শোনা এবং বুদ্ধি দিয়ে তা বিবেচনা করাই মানুষকে সত্য পথে পরিচালিত করে।",
+  "themes": [
+    "reflection",
+    "Hell",
+    "knowledge",
+    "humility"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people of Hell will lament that had they truly listened or reasoned, they would not be among the dwellers of the Blaze.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

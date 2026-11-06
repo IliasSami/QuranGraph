@@ -1,0 +1,61 @@
+{
+  "id": "24:17",
+  "simple_en": "God warns you never to repeat such a grave mistake again, if you are truly sincere believers. True faith requires that you learn from past errors.",
+  "simple_bn": "আল্লাহ তোমাদের উপদেশ দিচ্ছেন, তোমরা যদি প্রকৃত মুমিন হয়ে থাক তবে কখনো যেন এমন আচরণের পুনরাবৃত্তি না কর।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "وعظ",
+      "lemma": "وَعَظْ",
+      "meaning_en": "He admonishes you",
+      "meaning_bn": "তিনি তোমাদের উপদেশ দেন",
+      "why_en": "Divine guidance designed to safeguard hearts against future sin."
+    },
+    {
+      "pos": 4,
+      "root": "عود",
+      "lemma": "عادَ",
+      "meaning_en": "you return",
+      "meaning_bn": "তোমরা পুনরাবৃত্তি কর",
+      "why_en": "Relapsing into past destructive moral errors."
+    }
+  ],
+  "lesson_en": "God's advice helps people learn from past mistakes. Faith calls for real moral change.",
+  "lesson_bn": "অতীতের ভুল থেকে শিক্ষা নিয়ে নিজেকে সংশোধন করাই প্রকৃত ঈমানের দাবি। আল্লাহর উপদেশ মুমিনের অন্তরকে পবিত্র রাখে।",
+  "real_life_en": "Learn from past errors and resolve not to repeat them. Let your faith guide how you talk.",
+  "real_life_bn": "অতীতের যেকোনো ভুল থেকে শিক্ষা নিন এবং তা আর কখনো না করার প্রতিজ্ঞা করুন। নিজের কথা ও আচরণে ঈমানের প্রকাশ ঘটান।",
+  "themes": [
+    "divine-counsel",
+    "moral-growth",
+    "faith"
+  ],
+  "kinds": [
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God admonishes true believers never to revert to spreading malicious rumors or repeating such ethical failures.",
+      "claim_bn": "আল্লাহ মুমিনদের দৃঢ়ভাবে উপদেশ দিয়েছেন যেন তারা কখনো এমন জঘন্য ভুলের পুনরাবৃত্তি না করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

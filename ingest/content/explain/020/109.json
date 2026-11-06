@@ -1,0 +1,75 @@
+{
+  "id": "20:109",
+  "simple_en": "On that Day no one can plead for another, except by the leave of God. The Most Merciful must permit it and accept what that person says.",
+  "simple_bn": "সেদিন কারও সুপারিশ কোনো কাজে আসবে না, কেবল সে ছাড়া যাকে দয়াময় আল্লাহ অনুমতি দেবেন এবং যার কথায় তিনি সন্তুষ্ট হবেন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "شفع",
+      "lemma": "شَفَٰعَة",
+      "meaning_en": "intercession",
+      "meaning_bn": "সুপারিশ",
+      "why_en": "Pleading on behalf of another soul on Judgment Day."
+    },
+    {
+      "pos": 7,
+      "root": "أذن",
+      "lemma": "أَذِنَ",
+      "meaning_en": "He has permitted",
+      "meaning_bn": "তিনি অনুমতি দিয়েছেন",
+      "why_en": "Intercession is valid only through divine permission."
+    },
+    {
+      "pos": 10,
+      "root": "رضو",
+      "lemma": "رَضِيَ",
+      "meaning_en": "He is pleased with",
+      "meaning_bn": "তিনি সন্তুষ্ট হয়েছেন",
+      "why_en": "The speaker and the speech must meet divine approval."
+    }
+  ],
+  "lesson_en": "No one can speak on that Day without God's leave. He must also be pleased with what they say.",
+  "lesson_bn": "সুপারিশ কোনো অধিকার নয়, বরং এটি কেবল আল্লাহর অনুমতি ও সন্তুষ্টির ওপর নির্ভর করে।",
+  "real_life_en": "Do not rely lazily on others to save you in the Hereafter. Build your own sincere faith and good deeds.",
+  "real_life_bn": "পরকালে অন্য কেউ সুপারিশ করে বাঁচিয়ে দেবে—এই ভরসায় অলস বসে থাকবেন না। নিজে নেক আমল গড়ে তুলুন।",
+  "themes": [
+    "intercession",
+    "divine-permission",
+    "judgment"
+  ],
+  "kinds": [
+    "hereafter",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Intercession"
+    ],
+    "names_of_allah": [
+      "Ar-Rahman"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Intercession on Judgment Day is granted only with the permission and approval of the Most Merciful.",
+      "claim_bn": "কিয়ামতের দিন সুপারিশ কেবল পরম দয়ালু আল্লাহর অনুমতি ও অনুমোদিত কথার ভিত্তিতেই গৃহীত হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

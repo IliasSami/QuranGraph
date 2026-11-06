@@ -1,0 +1,85 @@
+{
+  "id": "15:22",
+  "simple_en": "We send the winds to pollinate plants and clouds. Then We send down rain from the sky for you to drink. You are not the ones who store its deep underground reserves.",
+  "simple_bn": "আমরা পরাগায়নকারী ও বৃষ্টিগর্ভ বাতাস পাঠাই। অতঃপর আকাশ থেকে পানি বর্ষণ করে তোমাদের তা পান করাই। অথচ তোমরা নিজেরা ভূগর্ভে এই পানির ভাণ্ডার সঞ্চয়কারী নও।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "روح",
+      "lemma": "رِيح",
+      "meaning_en": "the winds",
+      "meaning_bn": "বাতাসসমূহ",
+      "why_en": "Moving air carrying clouds."
+    },
+    {
+      "pos": 3,
+      "root": "لقح",
+      "lemma": "لاقِحَة",
+      "meaning_en": "fertilizing",
+      "meaning_bn": "পরাগায়নকারী",
+      "why_en": "Pollinating plants and charging clouds."
+    },
+    {
+      "pos": 7,
+      "root": "موه",
+      "lemma": "ماء",
+      "meaning_en": "water",
+      "meaning_bn": "পানি",
+      "why_en": "Pure rainwater."
+    },
+    {
+      "pos": 8,
+      "root": "سقي",
+      "lemma": "أَسْقى",
+      "meaning_en": "and gave you to drink",
+      "meaning_bn": "তোমাদের পান করালাম",
+      "why_en": "Quenching human and animal thirst."
+    },
+    {
+      "pos": 12,
+      "root": "خزن",
+      "lemma": "خازِن",
+      "meaning_en": "storers",
+      "meaning_bn": "ভাণ্ডারে জমাকারী",
+      "why_en": "Holding vast underground water aquifers."
+    }
+  ],
+  "lesson_en": "Fresh water is a delicate gift from heaven. Use clean water wisely and never waste it.",
+  "lesson_bn": "বিশুদ্ধ পানি আসমান থেকে আসা এক অমূল্য নিয়ামত। পানির অপচয় করবেন না এবং সর্বদা এর সদ্ব্যবহার করুন।",
+  "real_life_en": "A family visits a mountain spring and drinks cold sweet water flowing from the rock. They reflect on how Allah stores billions of gallons underground without human pumps. They thank Him for the pure drink.",
+  "real_life_bn": "পাহাড়ি ঝরনা থেকে ঠান্ডা মিষ্টি পানি পান করে এক পরিবার তৃপ্ত হয়। তারা ভাবে কীভাবে কোনো মোটর ছাড়াই আল্লাহ মাটির নিচে পানির অফুরন্ত ভাণ্ডার রেখেছেন। তারা সৃষ্টিকর্তার শোকর আদায় করে।",
+  "context_en": "The role of wind in rainfall and pollination, and Allah's preservation of water resources.",
+  "context_bn": "বৃষ্টি ও পরাগায়নে বাতাসের ভূমিকা এবং আকাশ থেকে পানি বর্ষণ করে মাটির নিচে তা সংরক্ষণের নিয়ামত।",
+  "themes": [
+    "creation",
+    "water",
+    "gratitude"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah sends fertilizing winds and rain from the sky, while humans cannot store such vast waters.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

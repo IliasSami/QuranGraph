@@ -1,0 +1,78 @@
+{
+  "id": "7:162",
+  "simple_en": "The wrongdoers among them altered the words they were told to say. They mocked the divine command and changed the prayer into a joke. So Allah sent down a harsh plague from the sky upon them because of their persistent defiance.",
+  "simple_bn": "কিন্তু তাদের মধ্যে যারা সীমালংঘন করেছিল, তারা আদেশের কথাটিকে অন্য একটি শব্দে বিকৃত করে ফেলল। ফলে তাদের ক্রমাগত অবাধ্যতার কারণে আমরা আকাশ থেকে তাদের ওপর কঠিন আযাব পাঠিয়ে দিলাম।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "بدل",
+      "lemma": "بَدَّلَ",
+      "meaning_en": "changed / altered",
+      "meaning_bn": "পরিবর্তন করল / বিকৃত করল",
+      "why_en": "Deliberately modifying the divine command in mockery."
+    },
+    {
+      "pos": 5,
+      "root": "قول",
+      "lemma": "قَوْل",
+      "meaning_en": "the statement / word",
+      "meaning_bn": "কথা বা বাণী",
+      "why_en": "The sacred word of repentance they substituted with food items."
+    },
+    {
+      "pos": 12,
+      "root": "رجز",
+      "lemma": "رِجْز",
+      "meaning_en": "a plague / punishment",
+      "meaning_bn": "কঠিন আযাব বা মহামারি",
+      "why_en": "The heavenly retribution that struck them for mocking divine words."
+    }
+  ],
+  "lesson_en": "Mocking religious rules and twisting words brings severe harm.",
+  "lesson_bn": "আল্লাহর পবিত্র বাণীকে উপহাস করা এবং বিকৃত করা চরম শাস্তি ডেকে আনে।",
+  "real_life_en": "Never joke about serious rules. When given a task, do it honestly without twisting words. Doing what is right protects your good name.",
+  "real_life_bn": "ধর্মীয় বা নৈতিক অনুশাসন নিয়ে কখনো ব্যঙ্গ করবেন না। সত্য ও ন্যায়ের প্রতি সর্বদা আন্তরিক সম্মান প্রদর্শন করুন।",
+  "context_en": "The insolent Israelites mocked the sacred command of entry, incurring heavenly retribution.",
+  "context_bn": "বনী ইসরাঈলের কিছু অবাধ্য লোক তওবার বাণী বিকৃত করায় তাদের ওপর আসমানি আযাব নেমে আসার ঘটনা।",
+  "themes": [
+    "mockery of sacred rites",
+    "distorting scripture",
+    "divine punishment",
+    "insolence"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "wrongdoers among Israelites"
+    ],
+    "places": [
+      "Jerusalem"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "punishment for altering sacred words"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The rebellious Israelites mocked the command by substituting another phrase, drawing divine punishment from heaven.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

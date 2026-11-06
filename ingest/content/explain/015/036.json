@@ -1,0 +1,72 @@
+{
+  "id": "15:36",
+  "simple_en": "Iblis said: My Lord, grant me delay until the day they are raised from death. Even in his ruin, he sought a way to harm mankind.",
+  "simple_bn": "ইবলীস বলল: হে আমার রব, মানুষকে যেদিন পুনরুত্থিত করা হবে সেদিন পর্যন্ত আমাকে অবকাশ দিন। নিজের চূড়ান্ত পতনের মুখে দাঁড়িয়েও সে মানুষকে বিপথগামী করার সুযোগ খুঁজছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "my Lord",
+      "meaning_bn": "আমার রব",
+      "why_en": "Acknowledging Allah as Lord while seeking respite."
+    },
+    {
+      "pos": 3,
+      "root": "نظر",
+      "lemma": "يُنظَرُ",
+      "meaning_en": "grant me respite",
+      "meaning_bn": "আমাকে অবকাশ দিন",
+      "why_en": "Asking for postponement of death."
+    },
+    {
+      "pos": 6,
+      "root": "بعث",
+      "lemma": "بَعَثَ",
+      "meaning_en": "they are resurrected",
+      "meaning_bn": "তাদের পুনরুত্থান করা হবে",
+      "why_en": "The raising of all mankind on the Last Day."
+    }
+  ],
+  "lesson_en": "Recognize the persistence of your enemy. Satan works without rest to draw people away from good.",
+  "lesson_bn": "শয়তানের স্থায়ী শত্রুতাকে চিহ্নিত করুন। মানুষকে ন্যায়ের পথ থেকে বিচ্যুত করতে সে দিনরাত কাজ করে যাচ্ছে।",
+  "real_life_en": "A recovering addict knows that bad habits will test him again tomorrow. He prepares his defenses and keeps good friends around him so that temptation does not catch him off guard.",
+  "real_life_bn": "এক ব্যক্তি খারাপ অভ্যাস ছেড়ে দিয়ে প্রতিদিন সতর্ক থাকে। সে জানে শয়তান নানা উপায়ে বারবার প্রলুব্ধ করার চেষ্টা করবে। তাই সে সৎ সঙ্গ বজায় রাখে।",
+  "context_en": "Iblis requesting a delay in his death until the Day of Resurrection.",
+  "context_bn": "কিয়ামত পর্যন্ত আয়ু বাড়িয়ে দেওয়ার জন্য ইবলীসের প্রার্থনা।",
+  "themes": [
+    "resurrection",
+    "shaytan",
+    "deception"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "unseen": [
+      "Iblis"
+    ],
+    "people": [],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [
+      "Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Iblis asked Allah to grant him respite from death until the Day of Resurrection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

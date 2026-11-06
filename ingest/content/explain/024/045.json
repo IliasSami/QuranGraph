@@ -1,0 +1,68 @@
+{
+  "id": "24:45",
+  "simple_en": "God created every moving creature from water. Some crawl upon their bellies, some walk on two legs, and others walk on four. God creates whatever He wills. Surely God has complete power over all things.",
+  "simple_bn": "আল্লাহ প্রতিটি জীবকে পানি থেকে সৃষ্টি করেছেন। তাদের মধ্যে কিছু প্রাণী পেটে ভর দিয়ে চলে, কিছু চলে দুই পায়ে এবং কিছু চলে চার পায়ে। আল্লাহ যা ইচ্ছা তা সৃষ্টি করেন। নিশ্চয় আল্লাহ সর্ববিষয়ে সর্বশক্তিমান।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "created",
+      "meaning_bn": "সৃষ্টি করেছেন",
+      "why_en": "Divine origination of all biological life forms."
+    },
+    {
+      "pos": 4,
+      "root": "دبب",
+      "lemma": "دابَّة",
+      "meaning_en": "living creature",
+      "meaning_bn": "জীব বা বিচরণশীল প্রাণী",
+      "why_en": "Every living being moving upon the earth in diverse shapes and forms."
+    }
+  ],
+  "lesson_en": "Living creatures come in many forms, yet all share water as their base. Their variety shows God's great power.",
+  "lesson_bn": "জীবজগতের অপূর্ব বৈচিত্র্য আল্লাহর সৃষ্টিশীলতার এক উজ্জ্বল নিদর্শন। একই পানি থেকে বিভিন্ন গঠন ও স্বভাবের প্রাণীর জন্ম তাঁর অসীম ক্ষমতার প্রমাণ।",
+  "real_life_en": "Treat animals and all living beings with kindness and compassion. Appreciate the wonders of biology as signs of God's wisdom.",
+  "real_life_bn": "পশুপাখিসহ সমস্ত প্রাণীর প্রতি দয়া ও সহমর্মিতা প্রদর্শন করুন। প্রাণিজগতের সৌন্দর্য ও বৈচিত্র্য দেখে আল্লাহর অসীম কুদরতের প্রশংসা করুন।",
+  "themes": [
+    "creation",
+    "origin-of-life",
+    "diversity-of-creatures",
+    "omnipotence"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": [
+      "water",
+      "animals"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God created every living creature from water, forming those that crawl, walk on two legs, or walk on four legs by His sovereign power.",
+      "claim_bn": "আল্লাহ পানি থেকে প্রতিটি প্রাণীকে সৃষ্টি করেছেন এবং নানা গঠন ও আকৃতিতে প্রাণিজগতের বৈচিত্র্য ফুটিয়ে তুলেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

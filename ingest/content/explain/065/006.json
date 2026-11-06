@@ -1,0 +1,70 @@
+{
+  "id": "65:6",
+  "simple_en": "House divorced women in the same standard of housing where you live, according to your means. Do not harm them or treat them harshly to force them out. If they are pregnant, spend on them until they give birth. If they breastfeed your child after separation, pay them fair compensation. Settle matters between you with kindness. If you find it hard to agree, then another woman may nurse the infant.",
+  "simple_bn": "তোমরা তোমাদের সামর্থ্য অনুযায়ী যেখানে বসবাস করো, তালাকপ্রাপ্ত নারীদেরও সেখানেই থাকতে দাও। তাদের কষ্ট দিয়ে জীবন অতিষ্ঠ করার চেষ্টা করো না। আর তারা গর্ভবতী হলে সন্তান প্রসব করা পর্যন্ত তাদের যাবতীয় খরচ বহন করো। এরপর তারা যদি তোমাদের সন্তানের দুধ পান করায়, তবে তাদের উপযুক্ত পারিশ্রমিক দাও। নিজেদের মধ্যে বিষয়টি সুন্দরভাবে মীমাংসা করো। আর যদি পারস্পরিক মতভেদ দেখা দেয়, তবে অন্য কোনো নারী শিশুটিকে দুধ পান করাবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سكن",
+      "lemma": "أَسْكَن",
+      "meaning_en": "lodge and house them",
+      "meaning_bn": "তাদের বসবাস করতে দাও",
+      "why_en": "Mandates providing safe shelter for the divorced wife during the waiting term."
+    },
+    {
+      "pos": 8,
+      "root": "ضرر",
+      "lemma": "يُضارَّ",
+      "meaning_en": "do not harm them",
+      "meaning_bn": "তাদের ক্ষতি কোরো না",
+      "why_en": "Forbids psychological or physical pressure designed to make life miserable."
+    },
+    {
+      "pos": 27,
+      "root": "عرف",
+      "lemma": "مَعْرُوف",
+      "meaning_en": "with honor and kindness",
+      "meaning_bn": "ন্যায়সঙ্গত ও সুন্দরভাবে",
+      "why_en": "Establishes fairness and mutual respect as the governing rule for child custody and care."
+    }
+  ],
+  "lesson_en": "Give fair support during divorce, and treat your family with kindness for the sake of the child.",
+  "lesson_bn": "বিচ্ছেদের সময়েও নারীকে উপযুক্ত বাসস্থান ও ভরণপোষণ দেওয়া এবং সন্তানের স্বার্থে পারস্পরিক সৌজন্য বজায় রাখা আবশ্যক।",
+  "real_life_en": "A separated couple meets to discuss baby care. The father pays for a good apartment and buys milk and medicine without complaint. Even though the marriage ended, he treats the mother with respect. This keeps the child safe, happy, and loved.",
+  "real_life_bn": "দাম্পত্য বিচ্ছেদ হলেও সন্তানের জন্য পর্যাপ্ত খরচ দেওয়া বাবার নৈতিক দায়িত্ব। পারস্পরিক রেষারেষি পরিহার করে সন্তানের প্রয়োজনীয় খরচ বহন করলে শিশুটি সুস্থ পরিবেশে বড় হতে পারে।",
+  "themes": [
+    "housing divorced wives",
+    "maintenance during pregnancy",
+    "nursing rights",
+    "mutual kindness"
+  ],
+  "kinds": [
+    "law",
+    "command",
+    "prohibition",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Husbands must provide housing according to their means, avoid harming divorced wives, maintain pregnant wives until delivery, and compensate for nursing.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

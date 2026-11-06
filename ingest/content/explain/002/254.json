@@ -1,0 +1,111 @@
+{
+ "id": "2:254",
+ "simple_en": "Spend in charity from the good things Allah gave you before the Day of Judgment arrives. On that Day, money cannot buy safety, friends cannot save anyone, and no one can plead for you without Allah's leave. Those who reject the truth are the true wrongdoers.",
+ "simple_bn": "হে মুমিনগণ! সেই ভয়াবহ দিন আসার আগেই আল্লাহর দেওয়া হালাল রিজিক থেকে ব্যয় করো। সেদিন কোনো বেচাকেনা বা মুক্তিপণ কাজে আসবে না, কোনো বন্ধুত্ব বাঁচাতে পারবে না এবং আল্লাহর অনুমতি ছাড়া কোনো সুপারিশ চলবে না। আর যারা সত্য প্রত্যাখ্যান করে, তারাই মূলত প্রকৃত জালিম।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "نفق",
+   "lemma": "أَنفَقَ",
+   "meaning_en": "spend (in charity)",
+   "meaning_bn": "তোমরা ব্যয় করো",
+   "why_en": "Commands active financial sacrifice from halal earnings before life ends."
+  },
+  {
+   "pos": 11,
+   "root": "يوم",
+   "lemma": "يَوْم",
+   "meaning_en": "a Day (Judgment Day)",
+   "meaning_bn": "এমন এক দিন",
+   "why_en": "Refers to the Day of Resurrection when all worldly exchanges and alliances cease."
+  },
+  {
+   "pos": 13,
+   "root": "بيع",
+   "lemma": "بَيْع",
+   "meaning_en": "trade / ransom",
+   "meaning_bn": "বেচাকেনা বা মুক্তিপণ",
+   "why_en": "Signifies that wealth cannot purchase exemption from judgment or ransom one's soul."
+  },
+  {
+   "pos": 16,
+   "root": "خلل",
+   "lemma": "خُلَّة",
+   "meaning_en": "friendship",
+   "meaning_bn": "বন্ধুত্ব বা ঘনিষ্ঠতা",
+   "why_en": "Indicates that close earthly relationships cannot rescue a person from divine justice."
+  },
+  {
+   "pos": 18,
+   "root": "شفع",
+   "lemma": "شَفاعَة",
+   "meaning_en": "intercession",
+   "meaning_bn": "সুপারিশ",
+   "why_en": "Denies any independent mediation with Allah except for whom He specifically permits."
+  }
+ ],
+ "lesson_en": "Give in charity and do good today, before the Day of Judgment arrives.",
+ "lesson_bn": "সময় থাকতে আজই আল্লাহর পথে দান করুন এবং নেক আমল সঞ্চয় করুন, সেই কিয়ামতের দিন আসার আগেই।",
+ "real_life_en": "Do not put off paying your zakat or helping poor relatives until you grow old or fall sick. Money in a bank account cannot save you after death. Use your income right now to feed the hungry, build mosques, and earn Allah's pleasure.",
+ "real_life_bn": "যাকাত আদায় বা দরিদ্রের সাহায্য করার কাজ বার্ধক্য বা অসুস্থতার জন্য ফেলে রাখবেন না। ব্যাংকে জমানো টাকা মৃত্যুর পর কোনো কাজে আসবে না। সামর্থ্য থাকতেই নিজের হালাল অর্থ দিয়ে অভাবীর পাশে দাঁড়ান এবং আখিরাতের জন্য সঞ্চয় করুন।",
+ "context_en": "Prepares believers for the majesty of Ayat al-Kursi in the following verse by urging immediate charitable action and reminding them of the final accountability before Allah.",
+ "context_bn": "পরবর্তী আয়াতে আয়াতুল কুরসীর সুমহান মর্যাদার পূর্বে মুমিনদের পার্থিব মোহ ত্যাগ করে দান-সদকার মাধ্যমে পরকালের প্রস্তুতি নেওয়ার জোরালো তাগিদ দেওয়া হয়েছে।",
+ "themes": [
+  "charity",
+  "the Last Day",
+  "judgment",
+  "wealth",
+  "resurrection"
+ ],
+ "kinds": [
+  "command",
+  "warning",
+  "hereafter",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Day of Resurrection"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are commanded to spend from their lawful provision before the Day of Resurrection arrives.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "On Judgment Day, worldly wealth, friendships, and unauthorized intercessions cannot rescue a sinner from Allah's justice.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Those who reject faith and refuse to prepare for the Hereafter are the true wrongdoers who ruin themselves.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

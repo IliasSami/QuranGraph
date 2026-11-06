@@ -1,0 +1,72 @@
+{
+ "id": "75:13",
+ "simple_en": "On that Day, every person will be informed of all that he did. He will see the good and bad deeds he sent ahead in life. He will also see the effects of what he left behind, such as good knowledge or harmful habits that others copied.",
+ "simple_bn": "সেদিন মানুষকে তার সমস্ত আমল সম্পর্কে জানিয়ে দেওয়া হবে। সে জীবদ্দশায় যেসব ভালো ও মন্দ কাজ আগে পাঠিয়েছিল, তা সে দেখতে পাবে। এর পাশাপাশি সে পিছনে যা রেখে গেছে, যেমন ভালো শিক্ষা বা খারাপ অভ্যাস যা অন্যেরা অনুসরণ করেছে, তাও তার সামনে আসবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "نبأ",
+   "lemma": "نَبَّأَ",
+   "meaning_en": "informed",
+   "meaning_bn": "অবহিত করা হবে",
+   "why_en": "Every deed will be made known to the person."
+  },
+  {
+   "pos": 5,
+   "root": "قدم",
+   "lemma": "قَدَّمَ",
+   "meaning_en": "sent ahead",
+   "meaning_bn": "আগে পাঠিয়েছে",
+   "why_en": "The deeds a person did during his life."
+  },
+  {
+   "pos": 6,
+   "root": "أخر",
+   "lemma": "أَخَّرَ",
+   "meaning_en": "left behind",
+   "meaning_bn": "পিছনে রেখে গেছে",
+   "why_en": "The legacies and examples left behind that others followed."
+  }
+ ],
+ "lesson_en": "Every good and bad deed you leave behind will be shown to you.",
+ "lesson_bn": "আপনার করা প্রতিটি কাজ এবং রেখে যাওয়া প্রতিটি স্মৃতি ও প্রভাব আপনার সামনে পেশ করা হবে।",
+ "real_life_en": "Think about the habits you pass on to your children or friends. If you teach someone a good prayer or a kind habit, you will see its reward even after you pass away.",
+ "real_life_bn": "সন্তান বা বন্ধুদের কী শেখাচ্ছেন তা ভেবে দেখুন। কাউকে ভালো দোয়া বা সুন্দর অভ্যাস শেখালে মৃত্যুর পরও আপনি এর সওয়াব পেতে থাকবেন। ভালো কাজের রেশ ধরে রাখাই উত্তম।",
+ "themes": [
+  "judgment",
+  "the Last Day",
+  "good character"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "day-of-judgment"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "day-of-judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Man will be informed on that Day of all the deeds he sent forward and the effects he left behind.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,67 @@
+{
+ "id": "47:13",
+ "simple_en": "Many past cities were far more powerful and wealthy than your home city of Makkah, which drove you out, O Prophet. Yet when they persisted in denying the truth, Allah brought destruction upon them. When His judgment arrived, they found no one to help or save them.",
+ "simple_bn": "অতীতের বহু জনপদ আপনার শহর মক্কার চেয়েও অনেক বেশি শক্তিশালী ও সমৃদ্ধ ছিল, যেখান থেকে তারা আপনাকে বের করে দিয়েছে হে নবী। কিন্তু অবাধ্যতায় অটল থাকায় আল্লাহ তাদের ধ্বংস করে দিয়েছেন। তাঁর বিচার আসার পর তাদের সাহায্য করার মতো কেউ ছিল না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "قري",
+   "lemma": "قَرْيَة",
+   "meaning_en": "town / city",
+   "meaning_bn": "জনপদ বা শহর",
+   "why_en": "Past towns were mightier than Makkah, yet were destroyed for their defiance."
+  },
+  {
+   "pos": 11,
+   "root": "هلك",
+   "lemma": "أَهْلَكَ",
+   "meaning_en": "We destroyed them",
+   "meaning_bn": "আমরা তাদের ধ্বংস করেছি",
+   "why_en": "Worldly power cannot shield a corrupt nation from divine judgment."
+  }
+ ],
+ "lesson_en": "No amount of human strength can protect against the judgment of Allah.",
+ "lesson_bn": "মানুষের বাহ্যিক কোনো শক্তি আল্লাহর ন্যায়সঙ্গত বিচার প্রতিহত করতে পারে না।",
+ "real_life_en": "Do not fear people who mock the truth. Stand firm and honest. Remember that all power belongs to Allah alone.",
+ "real_life_bn": "ক্ষমতাধর মানুষ সত্য নিয়ে উপহাস করলেও ভয় পাবেন না। ন্যায়ের ওপর অবিচল থাকুন, কারণ সব ক্ষমতার মালিক কেবল মহান আল্লাহ।",
+ "themes": [
+  "past nations",
+  "patience",
+  "Prophet Muhammad ﷺ",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "story",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [
+   "makkah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Mighty cities of the past were destroyed for their disbelief, and no protector could aid them against Allah.",
+   "claim_bn": "অতীতের অনেক শক্তিশালী জনপদকে আল্লাহ তাদের অবিশ্বাসের জন্য ধ্বংস করেছিলেন এবং তাদের কোনো সাহায্যকারী ছিল না।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

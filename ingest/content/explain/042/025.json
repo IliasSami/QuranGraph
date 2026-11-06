@@ -1,0 +1,81 @@
+{
+ "id": "42:25",
+ "simple_en": "Allah is the One who accepts sincere repentance from His servants. He wipes away bad deeds and forgives sins. He has full knowledge of everything you do, both in public and in secret.",
+ "simple_bn": "মহান আল্লাহই তাঁর বান্দাদের তাওবা কবুল করেন এবং তাদের পাপ মোচন করেন। প্রকাশ্য কিংবা গোপনে তোমরা যা কিছু করো, সে সম্পর্কে তিনি পুরোপুরি অবগত।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "قبل",
+   "lemma": "يَقْبَلُ",
+   "meaning_en": "He accepts",
+   "meaning_bn": "তিনি কবুল করেন",
+   "why_en": "Gives hope to sinners that Allah welcomes every sincere return."
+  },
+  {
+   "pos": 4,
+   "root": "توب",
+   "lemma": "تَوْبَة",
+   "meaning_en": "the repentance",
+   "meaning_bn": "তাওবা",
+   "why_en": "Refers to turning away from sin and seeking Allah's forgiveness."
+  },
+  {
+   "pos": 7,
+   "root": "عفو",
+   "lemma": "عَفا",
+   "meaning_en": "and He pardons",
+   "meaning_bn": "এবং তিনি মার্জনা করেন",
+   "why_en": "Shows Allah's boundless mercy in wiping away confessed faults."
+  },
+  {
+   "pos": 9,
+   "root": "سوأ",
+   "lemma": "سَيِّئَة",
+   "meaning_en": "the misdeeds",
+   "meaning_bn": "পাপসমূহ",
+   "why_en": "Covers all human errors and sins that are erased through repentance."
+  }
+ ],
+ "lesson_en": "Never lose hope in Allah, for He loves to forgive those who turn back to Him.",
+ "lesson_bn": "আল্লাহর রহমত থেকে কখনো নিরাশ হবেন না, কারণ তিনি খাঁটি তাওবাকারীকে সর্বদা ক্ষমা করেন।",
+ "real_life_en": "If you slip into a mistake or sin, do not delay. Turn back to Allah right away with a sincere heart, seek His pardon, and replace the bad deed with a good one.",
+ "real_life_bn": "কোনো ভুল বা গুনাহ হয়ে গেলে দেরি করবেন না। সাথে সাথে অনুতপ্ত হয়ে আল্লাহর কাছে ক্ষমা চান এবং ভালো কাজের মাধ্যমে পাপ মোচনের চেষ্টা করুন।",
+ "themes": [
+  "repentance",
+  "forgiveness",
+  "Allah's mercy",
+  "Allah's knowledge"
+ ],
+ "kinds": [
+  "belief",
+  "promise",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah accepts repentance from His servants, pardons misdeeds, and knows all that people do.",
+   "claim_bn": "আল্লাহ বান্দাদের তাওবা কবুল করেন, গুনাহ মোচন করেন এবং মানুষ যা করে তা পুরোপুরি জানেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

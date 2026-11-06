@@ -1,0 +1,82 @@
+{
+ "id": "5:100",
+ "simple_en": "Say to the people, O Messenger: The bad and the good are not equal, even if the large amount of bad impresses you. Quantity does not make something good. Fear Allah, O people of understanding, so that you may achieve true success.",
+ "simple_bn": "হে রাসূল, আপনি বলুন: মন্দ ও ভালো কখনো সমান হতে পারে না, যদিও মন্দের আধিক্য তোমাকে আকৃষ্ট করে। অতএব হে বুদ্ধিমানগণ, তোমরা আল্লাহকে ভয় করো যাতে তোমরা সফলকাম হতে পারো।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "خبث",
+   "lemma": "خَبِيث",
+   "meaning_en": "the impure / evil",
+   "meaning_bn": "অপবিত্র বা মন্দ",
+   "why_en": "Unlawful earnings, evil deeds, and falsehood never carry real value."
+  },
+  {
+   "pos": 5,
+   "root": "طيب",
+   "lemma": "طَيِّب",
+   "meaning_en": "and the pure / wholesome",
+   "meaning_bn": "এবং পবিত্র বা উৎকৃষ্ট",
+   "why_en": "Lawful wealth, truth, and righteous deeds bring lasting divine blessing."
+  },
+  {
+   "pos": 13,
+   "root": "لبب",
+   "lemma": "أَلْباب",
+   "meaning_en": "understanding / intellect",
+   "meaning_bn": "বোধশক্তি বা প্রজ্ঞা",
+   "why_en": "Sound minds look past surface numbers to real virtue and permanent worth."
+  }
+ ],
+ "lesson_en": "Choose pure and lawful things, even when evil seems widespread and popular.",
+ "lesson_bn": "মন্দের আধিক্য দেখে প্রতারিত না হয়ে স্বল্প হলেও হালাল ও পবিত্র পথ আঁকড়ে ধরা উচিত।",
+ "real_life_en": "A worker sees others make quick cash through bribes. He chooses to keep his income small but clean. He knows that pure wealth brings peace and Allah's blessing.",
+ "real_life_bn": "একজন ব্যবসায়ী দেখেন বাজারে অনেকেই খাদ্যে ভেজাল দিয়ে বিপুল মুনাফা করছে। তিনি কম লাভে সম্পূর্ণ খাঁটি পণ্য বিক্রি করেন, কারণ তিনি জানেন অপবিত্র অর্থ কখনো বরকত আনে না।",
+ "context_en": "Establishes that moral quality and purity outweigh mere quantity and popular appeal.",
+ "context_bn": "মন্দের সংখ্যাধিক্য কখনোই তাকে ভালো করতে পারে না—এই সর্বজনীন সত্যের ঘোষণা।",
+ "themes": [
+  "taqwa",
+  "good character",
+  "wealth",
+  "reflection"
+ ],
+ "kinds": [
+  "command",
+  "argument",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The impure and the pure are not equal, regardless of the abundance of the impure.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "People of understanding are commanded to fear Allah to attain success.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

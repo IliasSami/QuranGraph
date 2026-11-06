@@ -1,0 +1,81 @@
+{
+  "id": "10:4",
+  "simple_en": "To Him you will all return. The promise of Allah is true. He begins creation, then repeats it, to reward those who believe and do good deeds with justice. Those who disbelieve will face boiling drinks and painful punishment for their denial.",
+  "simple_bn": "তোমাদের সবাইকে তাঁরই কাছে ফিরে যেতে হবে। আল্লাহর এই প্রতিশ্রুতি সত্য। তিনিই প্রথমবার সৃষ্টি করেন, তারপর পুনরায় সৃষ্টি করবেন—যাতে যারা ঈমান এনেছে ও সৎকাজ করেছে তাদের ন্যায়ের সাথে পুরস্কৃত করেন। আর যারা কুফরি করেছে তাদের জন্য রয়েছে ফুটন্ত পানি ও যন্ত্রণাদায়ক শাস্তি।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "بدأ",
+      "lemma": "بَدَأَ",
+      "meaning_en": "begins",
+      "meaning_bn": "শুরু করেন / প্রথম সৃষ্টি করেন",
+      "why_en": "Original creation out of nothing."
+    },
+    {
+      "pos": 11,
+      "root": "عود",
+      "lemma": "أُعِيدُ",
+      "meaning_en": "repeats it",
+      "meaning_bn": "পুনরায় সৃষ্টি করবেন",
+      "why_en": "Resurrection bringing all souls back to account."
+    },
+    {
+      "pos": 17,
+      "root": "قسط",
+      "lemma": "قِسْط",
+      "meaning_en": "with justice / equity",
+      "meaning_bn": "ন্যায়ের সাথে",
+      "why_en": "Perfect fairness in divine judgment."
+    }
+  ],
+  "lesson_en": "The God who created us from nothing will surely bring us back to judge our deeds.",
+  "lesson_bn": "যিনি আমাদের অস্তিত্বহীনতা থেকে সৃষ্টি করেছেন, তিনি পুনরুত্থান ঘটিয়ে ন্যায়বিচার করতে সম্পূর্ণ সক্ষম।",
+  "real_life_en": "Live each day knowing that every choice will be reviewed by a completely just Judge. Let that knowledge guide you toward fairness and kindness.",
+  "real_life_bn": "প্রতিটি কাজের হিসাব একদিন দিতে হবে—এই অনুভূতি নিয়ে চলুন; সুবিচার ও সততার সাথে জীবনযাপন করাই আসল মুক্তি।",
+  "themes": [
+    "resurrection",
+    "just reward",
+    "punishment for disbelief"
+  ],
+  "kinds": [
+    "belief",
+    "hereafter",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers",
+      "disbelievers"
+    ],
+    "places": [],
+    "unseen": [
+      "Resurrection",
+      "Hell"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Resurrection"
+    ],
+    "things": [
+      "boiling water"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Resurrection is an undeniable promise where initial creation is repeated to execute flawless justice for believers and deniers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

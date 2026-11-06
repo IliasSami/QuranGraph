@@ -1,0 +1,93 @@
+{
+ "id": "3:137",
+ "simple_en": "Many nations before you faced trials like yours. Allah dealt with them by His clear rules. Travel through the land and look at what remains of past peoples. See how pride ruined them and how the deniers met their end.",
+ "simple_bn": "তোমাদের পূর্ববর্তী জাতিগুলোর মধ্যেও এ ধরনের অনেক ঘটনা ঘটেছে। অতএব তোমরা পৃথিবীতে ভ্রমণ করো এবং গভীরভাবে দেখো, যারা সত্য অস্বীকার করেছিল তাদের পরিণতি কতটা করুণ হয়েছিল।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "سنن",
+   "lemma": "سُنَّة",
+   "meaning_en": "established patterns",
+   "meaning_bn": "রীতি বা দৃষ্টান্তসমূহ",
+   "why_en": "Refers to Allah's constant historical laws governing the rise and fall of nations."
+  },
+  {
+   "pos": 6,
+   "root": "سير",
+   "lemma": "سارَ",
+   "meaning_en": "so travel",
+   "meaning_bn": "অতএব তোমরা ভ্রমণ করো",
+   "why_en": "Urges people to journey through the earth with an open mind to gain wisdom."
+  },
+  {
+   "pos": 9,
+   "root": "نظر",
+   "lemma": "نَظَرَ",
+   "meaning_en": "and observe",
+   "meaning_bn": "এবং প্রত্যক্ষ করো",
+   "why_en": "Looking with reflection at historical ruins to learn life lessons."
+  },
+  {
+   "pos": 13,
+   "root": "كذب",
+   "lemma": "مُكَذِّب",
+   "meaning_en": "the deniers",
+   "meaning_bn": "মিথ্যারোপকারীদের",
+   "why_en": "Those who rejected truth and divine guidance, meeting ultimate ruin."
+  }
+ ],
+ "lesson_en": "Look at history and see that pride and lies never last long.",
+ "lesson_bn": "ইতিহাস থেকে শিক্ষা নিলে বোঝা যায় যে অহংকার ও মিথ্যার শেষ পরিণতি শুধুই পতন।",
+ "real_life_en": "When you visit old ruins or read history, do not treat them as mere sights. Think about how great rulers fell when they turned away from God, and let that keep you humble.",
+ "real_life_bn": "কোনো ঐতিহাসিক স্থান পরিদর্শনে গেলে কেবল ছবি তুলে চলে আসবেন না। ভাবুন, কত পরাক্রমশালী জাতি অবাধ্যতার কারণে বিলীন হয়ে গেছে; এতে অন্তরে বিনয় সৃষ্টি হয়।",
+ "context_en": "Consoles the believers after their setback at Uhud by reminding them that past prophets and followers went through similar cycles of struggle.",
+ "context_bn": "উহুদের সাময়িক বিপর্যয়ে ব্যথিত মুমিনদের সান্ত্বনা দিয়ে বলা হয়েছে যে সত্য ও মিথ্যার এই দ্বন্দ্ব ইতিহাসের স্বাভাবিক নিয়ম।",
+ "themes": [
+  "past nations",
+  "reflection",
+  "trials",
+  "signs in nature",
+  "warning"
+ ],
+ "kinds": [
+  "story",
+  "warning",
+  "command",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "past nations"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Established divine laws governed the communities and nations that lived before this generation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Believers are instructed to travel the earth and reflect upon the ruin of those who denied the messengers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

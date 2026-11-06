@@ -1,0 +1,72 @@
+{
+ "id": "77:32",
+ "simple_en": "The blazing Fire throws out enormous sparks of heat. Each flying spark is so huge that it looks like a high fortress or castle rising into the air.",
+ "simple_bn": "জাহান্নামের আগুন বিশাল সব স্ফুলিঙ্গ নিক্ষেপ করবে। সেই আগুনের প্রতিটি স্ফুলিঙ্গ এত বড় হবে যে তা দেখতে বিশাল কোনো অট্টালিকা বা দুর্গের মতো মনে হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "رمي",
+   "lemma": "رَمَى",
+   "meaning_en": "it throws, casts",
+   "meaning_bn": "নিক্ষেপ করে",
+   "why_en": "Hurling giant sparks into the air with immense force."
+  },
+  {
+   "pos": 3,
+   "root": "شرر",
+   "lemma": "شَرَر",
+   "meaning_en": "sparks",
+   "meaning_bn": "স্ফুলিঙ্গসমূহ",
+   "why_en": "Flying fragments of heat bursting from the Fire."
+  },
+  {
+   "pos": 4,
+   "root": "قصر",
+   "lemma": "قَصْر",
+   "meaning_en": "a palace, fortress",
+   "meaning_bn": "অট্টালিকা বা দুর্গ",
+   "why_en": "Illustrates the massive scale and height of each spark."
+  }
+ ],
+ "lesson_en": "The terrifying size of Hell's sparks warns of the unimaginable heat of the Fire.",
+ "lesson_bn": "জাহান্নামের আগুনের প্রতিটি স্ফুলিঙ্গের বিশালতা তার ভয়াবহ উত্তাপের সতর্কবার্তা দেয়।",
+ "real_life_en": "A tiny spark from a campfire can burn your skin and cause pain. Imagine a spark as large as a building. Thinking of the terrifying scale of the Fire makes us pray daily for protection from Hell.",
+ "real_life_bn": "আগুনের একটি ছোট ফুলকি গায়ে লাগলে আমরা ব্যথায় ছটফট করি। আর জাহান্নামের একটি স্ফুলিঙ্গই হবে একটি দালানের সমান। এই ভয়াবহতার কথা ভেবে প্রতিদিন আল্লাহর কাছে জাহান্নাম থেকে পানাহ চাওয়া উচিত।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "day-of-judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Fire throws out sparks as huge as palaces in size and height.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

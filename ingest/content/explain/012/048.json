@@ -1,0 +1,94 @@
+{
+  "id": "12:48",
+  "simple_en": "Yusuf warned that seven hard years of drought would follow. These lean years would consume almost all the stored food. Only a little grain would remain as seed for the future.",
+  "simple_bn": "ইউসুফ সতর্ক করলেন যে প্রাচুর্যের পর সাতটি চরম দুর্ভিক্ষের বছর আসবে। সেই কঠিন বছরগুলো আগের জমানো শস্যের প্রায় সবই গ্রাস করবে, শুধু পরবর্তী মৌসুমের বীজ হিসেবে রাখা সামান্য অংশ ছাড়া।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "شدد",
+      "lemma": "شَدِيد",
+      "meaning_en": "harsh / severe",
+      "meaning_bn": "কঠিন বা তীব্র",
+      "why_en": "Depicts the severe famine and dry climate of those years."
+    },
+    {
+      "pos": 8,
+      "root": "أكل",
+      "lemma": "أَكَلَ",
+      "meaning_en": "they will consume",
+      "meaning_bn": "তারা খেয়ে ফেলবে",
+      "why_en": "Metaphorically describes how the drought will deplete food reserves."
+    },
+    {
+      "pos": 10,
+      "root": "قدم",
+      "lemma": "قَدَّمَ",
+      "meaning_en": "you advanced / saved",
+      "meaning_bn": "তোমরা আগে সঞ্চয় করেছিলে",
+      "why_en": "The grain set aside during the previous years of abundance."
+    },
+    {
+      "pos": 15,
+      "root": "حصن",
+      "lemma": "أَحْصَنَتْ",
+      "meaning_en": "you preserve / store",
+      "meaning_bn": "তোমরা নিরাপদে সংরক্ষণ করবে",
+      "why_en": "The vital seed reserves guarded for future replanting."
+    }
+  ],
+  "lesson_en": "Plan ahead for hard times so you can protect your family and help others.",
+  "lesson_bn": "কঠিন সময়ের জন্য আগে থেকেই প্রস্তুতি নিন যাতে পরিবার সুরক্ষিত থাকে এবং অন্যদের পাশে দাঁড়ানো যায়।",
+  "real_life_en": "A farmer stores extra grain in dry silos before dry weather hits. When rain stops for a year, their family and neighbors still have enough food to eat.",
+  "real_life_bn": "খরা শুরু হওয়ার আগেই কৃষক শস্য সংরক্ষণ করে রাখেন। ফলে এক বছর অনাবৃষ্টি থাকলেও পরিবার ও প্রতিবেশীদের খাদ্যের কোনো অভাব হয় না।",
+  "context_en": "Yusuf detailed the seven drought years symbolized by the thin cows, highlighting the need for rationing.",
+  "context_bn": "ইউসুফ শীর্ণ গাভীর রূপক দিয়ে সাত বছরের তীব্র দুর্ভিক্ষের কথা এবং খাদ্যের সঠিক বণ্টনের প্রয়োজনীয়তা জানালেন।",
+  "themes": [
+    "preparation",
+    "famine relief",
+    "resource management"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "Egyptians"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "grain",
+      "drought"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf explained that seven harsh years of drought would consume the stored grain.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Only a small portion would be preserved as seeds for future planting.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

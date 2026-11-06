@@ -1,0 +1,72 @@
+{
+  "id": "50:19",
+  "simple_en": "The agony of death arrives with the truth of the Hereafter. At that moment, a person is told: This is the very reality you spent your life trying to escape.",
+  "simple_bn": "মৃত্যুর অবধারিত কষ্ট আখিরাতের অকাট্য সত্য নিয়ে উপস্থিত হবে। তখন মানুষকে বলা হবে, এই সেই অনিবার্য বাস্তব যা থেকে তুমি সারা জীবন দূরে থাকতে চাইতে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سكر",
+      "lemma": "سَكْرَة",
+      "meaning_en": "the stupor or agony",
+      "meaning_bn": "মৃত্যুযন্ত্রণা বা সংজ্ঞাহীনতা",
+      "why_en": "The overwhelming hardship and transition of death."
+    },
+    {
+      "pos": 3,
+      "root": "موت",
+      "lemma": "مَوْت",
+      "meaning_en": "death",
+      "meaning_bn": "মৃত্যু",
+      "why_en": "The inescapable reality that ends worldly life for every creature."
+    },
+    {
+      "pos": 9,
+      "root": "حيد",
+      "lemma": "تَحِيدُ",
+      "meaning_en": "trying to escape",
+      "meaning_bn": "পালাতে চাইতে বা এড়িয়ে চলতে",
+      "why_en": "Humans naturally avoid and flee from death through medicine and fear."
+    }
+  ],
+  "lesson_en": "Death will reach every person. Prepare for it by living with faith and doing good deeds.",
+  "lesson_bn": "মৃত্যু প্রতিটি মানুষের জন্যই অনিবার্য, তাই নেক আমল ও ঈমানের মাধ্যমে এর জন্য প্রস্তুতি নিন।",
+  "real_life_en": "Do not put off asking for forgiveness. Pay your debts and apologize to people today while you still have time.",
+  "real_life_bn": "তাওবা করার কাজকে বার্ধক্যের জন্য জমিয়ে রাখবেন না। আজই মানুষের পাওনা মিটিয়ে দিন এবং ভুলত্রুটির জন্য ক্ষমা চেয়ে নিন।",
+  "context_en": "The passage transitions from worldly deeds to the inevitable moment of death.",
+  "context_bn": "দুনিয়ার আমলের হিসাব শেষে অনিবার্য মৃত্যুর মুহূর্তটির চিত্র তুলে ধরা হয়েছে।",
+  "themes": [
+    "death",
+    "the Last Day",
+    "repentance",
+    "trials"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The stupor of death reveals the ultimate truth that every soul tried to avoid.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

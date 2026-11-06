@@ -1,0 +1,70 @@
+{
+  "id": "61:7",
+  "simple_en": "No one does worse than a person who tells lies about Allah while being invited to Islam. Instead of saying thanks, they set up false gods and deny His signs. Allah does not guide people who choose to do wrong.",
+  "simple_bn": "সে ব্যক্তির চেয়ে বড় অবিচারকারী আর কে হতে পারে, যে আল্লাহর প্রতি মিথ্যা আরোপ করে অথচ তাকে ইসলামের দিকে আহ্বান জানানো হয়? সত্যের সুন্দর পথে ডাকার পরও যে ব্যক্তি বিদ্রোহ করে, সে নিজের আত্মার ওপর জুলুম করে। আল্লাহ এমন অবিচারকারীদের সৎপথ দেখান না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ظلم",
+      "lemma": "أَظْلَم",
+      "meaning_en": "more unjust or more wrong",
+      "meaning_bn": "অধিকতর জালিম বা বড় অন্যায়কারী",
+      "why_en": "Shows the extreme injustice of fabricating falsehood against God."
+    },
+    {
+      "pos": 4,
+      "root": "فري",
+      "lemma": "افْتَرَى",
+      "meaning_en": "invents and fabricates",
+      "meaning_bn": "মিথ্যা রচনা করে বা রটায়",
+      "why_en": "Refers to concocting lies while being invited to surrender to God."
+    },
+    {
+      "pos": 11,
+      "root": "سلم",
+      "lemma": "إِسْلام",
+      "meaning_en": "Islam",
+      "meaning_bn": "ইসলাম",
+      "why_en": "The true path of peace and submission to Allah."
+    }
+  ],
+  "lesson_en": "Never reject the truth when it reaches you. Making up lies against Allah is the worst sin.",
+  "lesson_bn": "সত্যের সুস্পষ্ট দাওয়াত পাওয়ার পর তা অস্বীকার করে মনগড়া মিথ্যা রটানো সবচেয়ে জঘন্য অপরাধ।",
+  "real_life_en": "Imagine being handed a clean glass of water when thirsty, but you knock it down and claim it is poison. Rejecting divine guidance is far worse. A grateful heart accepts good advice with humility.",
+  "real_life_bn": "কেউ দরদ নিয়ে ভালো পথ দেখালে যদি তাকে অপবাদ দেওয়া হয়, তবে নিজেরই সবচেয়ে বড় ক্ষতি হয়। ন্যায়ের আহ্বান অবহেলা করলে আত্মিক ধ্বংস নেমে আসে।",
+  "themes": [
+    "gravity of inventing lies against Allah",
+    "call to Islam",
+    "deprivation of guidance"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "None is more unjust than one who invents untruth against Allah while being invited to Islam, and Allah does not guide wrongdoers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

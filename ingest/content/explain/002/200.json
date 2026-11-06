@@ -1,0 +1,104 @@
+{
+ "id": "2:200",
+ "simple_en": "When you finish the rites of Hajj, remember Allah with deep praise. Praise Him as you used to praise your fathers, or even more. In past times, people met after Hajj to boast about their family lines. Instead, turn your praise to Allah, who gave you everything. Some people ask only for worldly goods, but they will have no share of good in the next life.",
+ "simple_bn": "তোমরা যখন হজ্জের যাবতীয় কাজ সম্পন্ন করবে, তখন আল্লাহকে এমনভাবে গভীরভাবে স্মরণ করো যেভাবে তোমরা নিজেদের পূর্বপুরুষদের স্মরণ করতে—কিংবা তার চেয়েও অধিক ব্যাকুলতার সাথে। জাহেলী যুগে লোকেরা হজ্জ শেষে মিনায় সমবেত হয়ে বাপ-দাদার গৌরবগাথা বর্ণনা করত। আল্লাহ সেই অহংকার দূর করে তাঁর প্রশংসায় অন্তর ভরিয়ে দেওয়ার নির্দেশ দিয়েছেন। মানুষের মধ্যে এমন অনেকে আছে যারা কেবল দুনিয়ার সম্পদ ও সুস্থতা চেয়ে বলে, ‘হে আমাদের প্রতিপালক, আমাদেরকে দুনিয়াতেই দান করো’; পরকালে তাদের জন্য কোনো অংশই থাকবে না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "نسك",
+   "lemma": "مَنسَك",
+   "meaning_en": "your rites (of pilgrimage)",
+   "meaning_bn": "তোমাদের হজ্জের কার্যাবলি",
+   "why_en": "Refers to completing the main rituals of Hajj such as stoning, sacrifice, and tawaf."
+  },
+  {
+   "pos": 4,
+   "root": "ذكر",
+   "lemma": "ذَكَرَ",
+   "meaning_en": "remember (Allah)",
+   "meaning_bn": "তোমরা স্মরণ করো",
+   "why_en": "Commands continuing the remembrance and praise of Allah after finishing ritual obligations."
+  },
+  {
+   "pos": 7,
+   "root": "أبو",
+   "lemma": "آباء",
+   "meaning_en": "your forefathers",
+   "meaning_bn": "তোমাদের বাপ-দাদা",
+   "why_en": "Alludes to the pre-Islamic practice of gathering in Mina to boast about ancestral lineage."
+  },
+  {
+   "pos": 24,
+   "root": "خلق",
+   "lemma": "خَلاق",
+   "meaning_en": "share / portion",
+   "meaning_bn": "কোনো অংশ বা হিস্যা",
+   "why_en": "Warns that those who seek only material wealth will have no spiritual reward in the life to come."
+  }
+ ],
+ "lesson_en": "Leave boastful talk behind, remember Allah often, and do not ask only for things of this world.",
+ "lesson_bn": "বংশমর্যাদার অহংকার ত্যাগ করে আল্লাহর যিকিরে মগ্ন হোন এবং দোয়াকে কেবল পার্থিব স্বার্থের মধ্যে সীমাবদ্ধ রাখবেন না।",
+ "real_life_en": "When you pass a big test or get a new job, do not boast to your friends about your smart mind or rich family. Thank Allah with a humble heart. In your prayers, ask for strong faith and a place in Paradise, not just more money and fine clothes.",
+ "real_life_bn": "পরীক্ষায় ভালো ফল বা চাকরিতে বড় সাফল্য পাওয়ার পর নিজের বংশ বা ব্যক্তিগত যোগ্যতার বড়াই করবেন না। বিনয়ের সাথে আল্লাহর শুকরিয়া আদায় করুন এবং দোয়ায় কেবল জাগতিক প্রাচুর্য না চেয়ে নিজের ঈমান ও আখিরাতের কল্যাণের জন্যও কায়মনোবাক্যে প্রার্থনা করুন।",
+ "context_en": "Replaces pre-Islamic tribal boasting at the conclusion of Hajj with sincere remembrance of Allah and cautions against a purely materialistic mindset.",
+ "context_bn": "হজ্জ শেষ হওয়ার পর জাহেলী যুগের বংশীয় অহংকারের মেলা বন্ধ করে আল্লাহর যিকির এবং পরকালের প্রস্তুতির নির্দেশ দেওয়া হয়েছে।",
+ "themes": [
+  "remembrance of Allah",
+  "hajj",
+  "this world",
+  "the Last Day",
+  "gratitude",
+  "dua"
+ ],
+ "kinds": [
+  "command",
+  "warning",
+  "ethics",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Mina"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Pilgrims are commanded to remember and praise Allah intensely after completing their Hajj rites, even more than they praise their ancestors.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The ayah dismantled the pre-Islamic custom of gathering in Mina after Hajj solely to boast about ancestral lineage and poetry.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Those who direct their desires and supplications entirely to worldly gain will receive no share of reward in the Hereafter.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

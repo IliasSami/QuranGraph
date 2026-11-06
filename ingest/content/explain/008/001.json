@@ -1,0 +1,86 @@
+{
+  "id": "8:1",
+  "simple_en": "People ask you about the gains of war after the battle. Tell them that all decisions belong to Allah and His Messenger. Fear Allah, heal your disputes, and obey Allah and His Messenger if you truly believe.",
+  "simple_bn": "লোকেরা আপনার কাছে যুদ্ধলব্ধ সম্পদ সম্পর্কে জিজ্ঞেস করে। বলুন, এর ফয়সালা আল্লাহ ও তাঁর রাসূলের এখতিয়ারে। অতএব আল্লাহকে ভয় করো, নিজেদের মধ্যকার বিবাদ মিটিয়ে নাও এবং আল্লাহ ও তাঁর রাসূলের আনুগত্য করো।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نفل",
+      "lemma": "أَنفال",
+      "meaning_en": "spoils / bounties of war",
+      "meaning_bn": "যুদ্ধলব্ধ সম্পদ",
+      "why_en": "Goods acquired after battle requiring divine guidance for distribution."
+    },
+    {
+      "pos": 10,
+      "root": "صلح",
+      "lemma": "أَصْلَحَ",
+      "meaning_en": "amend / reconcile",
+      "meaning_bn": "সদ্ভাব স্থাপন করো / বিবাদ মেটাও",
+      "why_en": "Settling personal differences and maintaining mutual brotherhood."
+    },
+    {
+      "pos": 13,
+      "root": "طوع",
+      "lemma": "أَطاعَ",
+      "meaning_en": "obey",
+      "meaning_bn": "আনুগত্য করো",
+      "why_en": "Submitting fully to divine instructions rather than worldly desires."
+    }
+  ],
+  "lesson_en": "Unity and love between brothers matter more than money.",
+  "lesson_bn": "সম্পদ বণ্টনের চেয়ে পারস্পরিক ঐক্য ও ভ্রাতৃত্ববোধ রক্ষা করা অনেক বেশি গুরুত্বপূর্ণ।",
+  "real_life_en": "When money causes disputes in your family, step back. Do not let greed ruin your ties. Make peace with your relatives and treat them with kindness.",
+  "real_life_bn": "পরিবারে সম্পদ নিয়ে বিবাদ দেখা দিলে সংযত হোন। বৈষয়িক লাভের জন্য আত্মীয়তার সম্পর্ক নষ্ট করবেন না; সমঝোতার মাধ্যমে ইনসাফ বজায় রাখুন।",
+  "context_en": "Revealed after the Battle of Badr regarding disputes over the distribution of war spoils.",
+  "context_bn": "বদর যুদ্ধের পর গনীমতের সম্পদ বণ্টন নিয়ে সৃষ্ট মতভেদের প্রেক্ষিতে অবতীর্ণ ঐশ্বরিক দিকনির্দেশনা।",
+  "themes": [
+    "Battle of Badr",
+    "spoils of war",
+    "brotherhood",
+    "obedience"
+  ],
+  "kinds": [
+    "law",
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "believers",
+      "companions of Badr"
+    ],
+    "places": [
+      "Badr"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Battle of Badr"
+    ],
+    "things": [
+      "spoils of war"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The spoils of Badr were placed under the authority of Allah and His Messenger to teach believers to prioritize unity and obedience over material gain.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": "Revealed concerning the dispute among believers over the spoils of the Battle of Badr.",
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

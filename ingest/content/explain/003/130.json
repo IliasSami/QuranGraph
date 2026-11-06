@@ -1,0 +1,93 @@
+{
+ "id": "3:130",
+ "simple_en": "Believers must not consume interest and usury. Such gains grow debts and harm poor people. Allah commands you to leave these unfair ways and fear Him in your money. Being mindful of Allah is the true path to success.",
+ "simple_bn": "হে মুমিনগণ, তোমরা চক্রবৃদ্ধি হারে সুদ গ্রহণ করা থেকে বিরত থাকো, যা ঋণগ্রস্ত মানুষকে চরম দুর্দশায় ফেলে। তোমাদের উপার্জনে আল্লাহকে ভয় করো এবং এই শোষণমূলক প্রথা বর্জন করো, যাতে তোমরা প্রকৃত সাফল্য অর্জন করতে পারো।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "أكل",
+   "lemma": "أَكَلَ",
+   "meaning_en": "do not consume",
+   "meaning_bn": "তোমরা খেয়ো না",
+   "why_en": "Metaphor for taking, using, or benefiting from unlawful money."
+  },
+  {
+   "pos": 6,
+   "root": "ربو",
+   "lemma": "رِبا",
+   "meaning_en": "usury or interest",
+   "meaning_bn": "সুদ",
+   "why_en": "Unlawful increase gained by exploiting borrowers through loans."
+  },
+  {
+   "pos": 7,
+   "root": "ضعف",
+   "lemma": "ضِعْف",
+   "meaning_en": "doubled and multiplied",
+   "meaning_bn": "বহুগুণ",
+   "why_en": "Refers to the compounding of interest penalties practiced before Islam."
+  },
+  {
+   "pos": 12,
+   "root": "فلح",
+   "lemma": "أَفْلَحَ",
+   "meaning_en": "you may succeed",
+   "meaning_bn": "তোমরা সফলকাম হতে পারো",
+   "why_en": "True prosperity comes through honest earnings and obedience to Allah."
+  }
+ ],
+ "lesson_en": "Stay away from all interest and earn your living through honest, fair means.",
+ "lesson_bn": "সুদ ও শোষণ পরিহার করে সৎ উপায়ে উপার্জনের মাধ্যমে জীবনের বরকত অর্জন করুন।",
+ "real_life_en": "When lending money to a friend who is struggling, ask only for the exact amount you lent. Do not ask for extra money or special favors in return, but keep your deal clean for Allah.",
+ "real_life_bn": "কোনো বন্ধু বা আত্মীয়কে বিপদের সময় ঋণ দিলে কোনো অতিরিক্ত অর্থ দাবি করবেন না। আল্লাহর সন্তুষ্টির জন্য নিজের লেনদেনকে সুদ ও অসততা থেকে মুক্ত রাখুন।",
+ "context_en": "Following lessons on battle discipline, the Quran addresses social and financial solidarity, prohibiting predatory interest.",
+ "context_bn": "যুদ্ধের শৃঙ্খলার বর্ণনার পর মুসলিম সমাজের অর্থনৈতিক ভিত্তি ও পারস্পরিক সহানুভূতি রক্ষার লক্ষ্যে সুদ নিষিদ্ধ করা হয়েছে।",
+ "themes": [
+  "wealth",
+  "prohibition",
+  "taqwa",
+  "justice",
+  "ethics"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "usury"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah explicitly commands the believers to abandon consuming usury, especially the compounded interest practiced before Islam.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Believers are instructed to fear Allah in their financial dealings so that they may attain true success.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

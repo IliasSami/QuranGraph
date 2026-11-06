@@ -1,0 +1,73 @@
+{
+  "id": "18:63",
+  "simple_en": "His companion said, \"Did you see when we rested by the rock? I forgot the fish, and only Satan made me forget to mention it. It took its path into the sea strangely.\"",
+  "simple_bn": "সঙ্গী বলল, আপনি কি লক্ষ্য করেছিলেন যখন আমরা পাথরের কাছে বিশ্রাম নিচ্ছিলাম? তখন আমি মাছের কথা ভুলে গিয়েছিলাম, আর শয়তানই আমাকে তা মনে রাখতে ভুলিয়ে দিয়েছিল। মাছটি আশ্চর্য উপায়ে সাগরে চলে গেল।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "صخر",
+      "lemma": "صَخْرَة",
+      "meaning_en": "the rock",
+      "meaning_bn": "পাথর",
+      "why_en": "The resting place where the fish escaped."
+    },
+    {
+      "pos": 13,
+      "root": "شطن",
+      "lemma": "شَيْطان",
+      "meaning_en": "Satan",
+      "meaning_bn": "শয়তান",
+      "why_en": "The source of human distraction and forgetfulness."
+    }
+  ],
+  "lesson_en": "Humans often forget things and make small errors. Admitting your mistakes quickly is the mark of a good heart.",
+  "lesson_bn": "মানুষ স্বভাবতই ভুলমনা হতে পারে। নিজের ভুল দ্রুত ও স্পষ্টভাবে স্বীকার করা ভদ্রতা ও ঈমানের পরিচয়।",
+  "real_life_en": "When you forget something or make an error, be honest and admit it right away. Sincerity builds trust with others.",
+  "real_life_bn": "কখনো কিছু ভুলে গেলে বা ভুল করলে তা লুকাবেন না। সত্যি কথা স্বীকার করলে পারস্পরিক আস্থা ও সম্মান বৃদ্ধি পায়।",
+  "themes": [
+    "admitting-mistakes",
+    "satan-distraction",
+    "the-rock-sign",
+    "miraculous-escape"
+  ],
+  "kinds": [
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Yusha"
+    ],
+    "nations": [],
+    "places": [
+      "The-Rock"
+    ],
+    "unseen": [
+      "Iblis"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Revelation-of-Mistake"
+    ],
+    "things": [
+      "Fish"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The companion admitted forgetting the fish by the rock, attributing the lapse to Satan's distraction.",
+      "claim_bn": "সঙ্গী স্বীকার করল যে শিলাখণ্ডের কাছে মাছটি সাগরে চলে গিয়েছিল এবং শয়তানই তাকে তা বলতে ভুলিয়ে দিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

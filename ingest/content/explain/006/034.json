@@ -1,0 +1,82 @@
+{
+  "id": "6:34",
+  "simple_en": "Messengers before you were also denied and harmed by their people. Yet they remained patient and steadfast until divine help arrived. No one can ever change the promises and decrees of Allah. You have already received news of earlier prophets, so take comfort in their victory.",
+  "simple_bn": "আপনার পূর্ববর্তী রাসূলগণকেও তাদের জাতি মিথ্যাবাদী বলেছিল এবং নির্যাতন করেছিল। তবুও তারা সত্যের পথে অটল ও ধৈর্যশীল ছিলেন, যতক্ষণ না আল্লাহর সাহায্য তাঁদের কাছে পৌঁছায়। আল্লাহর ওয়াদা ও বিধান পরিবর্তন করার ক্ষমতা কারও নেই। পূর্ববর্তী নবীদের বিজয়ের ইতিহাস তো আপনার কাছে পৌঁছেছে।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "they were patient",
+      "meaning_bn": "তারা ধৈর্য ধারণ করেছিল",
+      "why_en": "Emphasizes the steadfast patience of earlier prophets in the face of harm."
+    },
+    {
+      "pos": 13,
+      "root": "نصر",
+      "lemma": "نَصْر",
+      "meaning_en": "Our help",
+      "meaning_bn": "আমাদের সাহায্য",
+      "why_en": "Refers to the divine aid promised to prophets and righteous believers."
+    },
+    {
+      "pos": 15,
+      "root": "بدل",
+      "lemma": "مُبَدِّل",
+      "meaning_en": "one who can alter",
+      "meaning_bn": "পরিবর্তনকারী",
+      "why_en": "Affirms that no one can change Allah's decrees or His promises of victory."
+    }
+  ],
+  "lesson_en": "Be patient when times are hard. Allah always sends His help to the faithful.",
+  "lesson_bn": "কঠিন সময়ে ধৈর্য ধারণ করলে আল্লাহর প্রতিশ্রুত সাহায্য ও বিজয় অবশ্যই আসে।",
+  "real_life_en": "An honest worker stands up against fraud at his job. Dishonest people try to scare him. But he stays calm, does his duty, and prays. In the end, truth wins, and Allah protects those who do right.",
+  "real_life_bn": "দুর্নীতির বিরুদ্ধে কথা বললে অসৎ ব্যক্তিরা ভয় দেখানোর চেষ্টা করতে পারে। তবে শান্ত থেকে সততা ও প্রার্থনায় অবিচল থাকলে সত্যের বিজয় হবেই। সত্যের সৈনিকদের সাথে সবসময় আল্লাহর সাহায্য থাকে।",
+  "context_en": "Reassures the Prophet through the historical precedent of earlier messengers who persevered until victory.",
+  "context_bn": "পূর্ববর্তী রাসূলগণের ধৈর্য ও আল্লাহর প্রতিশ্রুত সাহায্যের উদাহরণ দিয়ে সান্ত্বনা ও অনুপ্রেরণা দেওয়া হয়েছে।",
+  "themes": [
+    "prophethood",
+    "patience",
+    "divine-help"
+  ],
+  "kinds": [
+    "story",
+    "promise",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Earlier messengers were denied and persecuted, yet they endured patiently until Allah's victory arrived.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "None can alter Allah's words and His established promise of victory for His messengers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

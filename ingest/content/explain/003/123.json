@@ -1,0 +1,85 @@
+{
+ "id": "3:123",
+ "simple_en": "Allah gave you a decisive victory at the Battle of Badr when you were weak and few in number. Remember that favor and remain conscious of Allah. Showing obedience to Him is the true way to give thanks.",
+ "simple_bn": "আল্লাহ তোমাদের বদরের যুদ্ধে স্পষ্ট বিজয় দান করেছিলেন, অথচ তোমরা সংখ্যায় ও শক্তিতে অনেক দুর্বল ছিলে। অতএব আল্লাহকে ভয় করে চলো, যাতে তোমরা তাঁর কৃতজ্ঞ বান্দা হতে পারো।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نصر",
+   "lemma": "نَصَرَ",
+   "meaning_en": "He gave you victory",
+   "meaning_bn": "তোমাদের সাহায্য করেছিলেন",
+   "why_en": "Reminds believers that all triumph comes as an outright gift from Allah."
+  },
+  {
+   "pos": 6,
+   "root": "ذلل",
+   "lemma": "أَذِلَّة",
+   "meaning_en": "few and weak",
+   "meaning_bn": "হীনাবস্থায় বা দুর্বল",
+   "why_en": "Describes the small numbers and limited gear of the Muslims at Badr."
+  },
+  {
+   "pos": 10,
+   "root": "شكر",
+   "lemma": "شَكَرَ",
+   "meaning_en": "you may be thankful",
+   "meaning_bn": "তোমরা কৃতজ্ঞতা প্রকাশ করো",
+   "why_en": "Teaches that true gratitude means obeying Allah and staying conscious of Him."
+  }
+ ],
+ "lesson_en": "True victory comes from Allah, not from large numbers or heavy weapons.",
+ "lesson_bn": "বিজয় সৈন্যসংখ্যা বা অস্ত্রের জোরে নয়, বরং একমাত্র আল্লাহর করুণা ও সাহায্যে আসে।",
+ "real_life_en": "When you achieve something big despite having very little help or money, do not boast. Thank Allah for opening doors and stay humble in your prayers.",
+ "real_life_bn": "সীমিত সুযোগ বা সম্বল নিয়েও বড় সাফল্য পেলে অহংকার করবেন না। বিনীত হয়ে আল্লাহর শোকরিয়া আদায় করুন এবং নিয়ামতকে ভালো কাজে লাগান।",
+ "context_en": "Allah reminds the believers of their miraculous victory at Badr to restore their confidence during the distress of Uhud.",
+ "context_bn": "উহুদ যুদ্ধের কঠিন পরীক্ষার মাঝে আল্লাহ বদরের মহা বিজয়ের কথা স্মরণ করিয়ে দিয়ে মুমিনদের মনোবল ফিরিয়ে আনছেন।",
+ "themes": [
+  "gratitude",
+  "taqwa",
+  "trust in Allah",
+  "trials"
+ ],
+ "kinds": [
+  "story",
+  "command",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Badr"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Battle of Badr"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah granted victory to the Muslims at the Battle of Badr despite their small numbers and light equipment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Believers are commanded to fear Allah and maintain taqwa to express true gratitude for His favors.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

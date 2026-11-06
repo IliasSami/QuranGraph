@@ -1,0 +1,83 @@
+{
+  "id": "7:138",
+  "simple_en": "Allah brought the Israelites safely across the sea. Soon they saw people who worshipped idols. The Israelites foolishly asked Moses to make an idol for them too. Moses told them they were acting like ignorant people.",
+  "simple_bn": "আমরা বনী ইসরাঈলকে নিরাপদে সাগর পার করিয়ে দিলাম। এরপর তারা মূর্তিপূজায় মগ্ন এক জাতির কাছে গিয়ে পৌঁছাল। তারা মূসাকে বলল, 'হে মূসা, ওদের যেমন দেবদেবী রয়েছে আমাদের জন্যও তেমনি একটি উপাস্য বানিয়ে দিন।' মূসা বললেন, 'তোমরা তো এক মূর্খ জাতি!'",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "بحر",
+      "lemma": "بَحْر",
+      "meaning_en": "the sea",
+      "meaning_bn": "সাগর",
+      "why_en": "The waters miraculously parted to save them from Pharaoh."
+    },
+    {
+      "pos": 10,
+      "root": "صنم",
+      "lemma": "أَصْنام",
+      "meaning_en": "idols of theirs",
+      "meaning_bn": "তাদের প্রতিমাসমূহ",
+      "why_en": "Physical images worshipped instead of the invisible Creator."
+    },
+    {
+      "pos": 23,
+      "root": "جهل",
+      "lemma": "يَجْهَلُ",
+      "meaning_en": "behave ignorantly",
+      "meaning_bn": "মূর্খতা প্রকাশ করছ",
+      "why_en": "Moses points out their ignorance of God's uniqueness and majesty."
+    }
+  ],
+  "lesson_en": "Do not copy bad habits just because you see others doing them.",
+  "lesson_bn": "অন্যদের অন্ধ অনুকরণ করে নির্ভেজাল তাওহীদের বিশ্বাসে শিরক মিশ্রিত করা মারাত্মক মূর্খতা।",
+  "real_life_en": "Do not copy whatever popular trends you see around you. Just because many people follow a bad habit does not make it good. Hold firmly to your core values instead of imitating the crowd.",
+  "real_life_bn": "সমাজে যা প্রচলিত তা দেখেই অন্ধের মতো অনুসরণ করবেন না। সঠিক ও ভুলের পার্থক্য বুঝে নিজের ঈমান ও নৈতিকতা রক্ষা করুন।",
+  "context_en": "Right after witnessing the grand miracle of the parting sea, the Israelites slip into a foolish request for idols.",
+  "context_bn": "সাগর পার হওয়ার অলৌকিক নিদর্শন দেখার পরপরই বনী ইসরাঈল মূর্তিপূজকদের দেখে নিজেদের জন্য দৃশ্যমান উপাস্য চেয়ে বসে।",
+  "themes": [
+    "tawhid",
+    "condemnation of shirk",
+    "imitation of bad culture",
+    "prophetic rebuke"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [
+      "Children of Israel",
+      "idol worshippers"
+    ],
+    "places": [
+      "Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "crossing the sea",
+      "Israelites request an idol"
+    ],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "After crossing the sea, the Israelites saw idol worshippers and foolishly asked Moses to make them an idol, prompting his rebuke.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,82 @@
+{
+  "id": "40:29",
+  "simple_en": "The believer said, O my people, you hold rule today and dominate the land. But who will help us against the punishment of Allah if it falls upon us? Pharaoh answered back in pride, I only show you what I see as right, and I only guide you to the correct path.",
+  "simple_bn": "সেই মুমিন ব্যক্তি বলল, হে আমার জাতি, আজ তো তোমাদের হাতেই রাজত্ব রয়েছে এবং তোমরা দেশ শাসন করছ। কিন্তু আল্লাহর শাস্তি আমাদের ওপর এসে পড়লে কে আমাদের রক্ষা করবে? উত্তরে ফিরআউন অহংকার করে বলল, আমি যা ভালো বুঝি তোমাদের কেবল তারই পরামর্শ দেই এবং আমি তোমাদের সঠিক পথই দেখাচ্ছি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ملك",
+      "lemma": "مُلْك",
+      "meaning_en": "the dominion / rule",
+      "meaning_bn": "রাজত্ব বা কর্তৃত্ব",
+      "why_en": "Worldly sovereignty that makes rulers forget accountability."
+    },
+    {
+      "pos": 9,
+      "root": "نصر",
+      "lemma": "نَصَرَ",
+      "meaning_en": "will help us",
+      "meaning_bn": "আমাদের সাহায্য করবে",
+      "why_en": "Points out that no earthly force can stand against divine retribution."
+    },
+    {
+      "pos": 11,
+      "root": "بأس",
+      "lemma": "بَأْس",
+      "meaning_en": "punishment / might",
+      "meaning_bn": "শাস্তি বা পাকড়াও",
+      "why_en": "Refers to the overwhelming retribution of Allah."
+    },
+    {
+      "pos": 26,
+      "root": "رشد",
+      "lemma": "رَشاد",
+      "meaning_en": "right guidance",
+      "meaning_bn": "সঠিক পথ",
+      "why_en": "Pharaoh's false claim of guiding his subjects to righteousness."
+    }
+  ],
+  "lesson_en": "No king or ruler can stop the punishment of Allah.",
+  "lesson_bn": "পার্থিব কর্তৃত্ব ও প্রতাপ কাউকেই আল্লাহর ন্যায়সঙ্গত শাস্তি থেকে বাঁচাতে পারে না।",
+  "real_life_en": "Do not let temporary authority at work or home make you blind to moral rules. Always ask yourself if your choices please Allah before you act.",
+  "real_life_bn": "ক্ষমতা বা পদের গর্বে নীতিবিসর্জন দেবেন না। যেকোনো সিদ্ধান্ত নেওয়ার আগে ভাবুন যে তা আল্লাহর কাছে জবাবদিহি করার মতো কিনা।",
+  "themes": [
+    "arrogance",
+    "warning",
+    "this world"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The believer warned his people that power cannot repel Allah's punishment, while Pharaoh claimed his guidance was correct.",
+      "claim_bn": "সেই মুমিন ব্যক্তি জাতিকে সতর্ক করেছিলেন যে ক্ষমতা আল্লাহর শাস্তি ঠেকাতে পারে না, কিন্তু ফিরআউন তার নিজের পথকেই সঠিক দাবি করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,88 @@
+{
+ "id": "4:1",
+ "simple_en": "Allah calls all people to be mindful of their Creator, who made humanity from a single soul, Adam. From him He made his mate, and from them He spread countless men and women across the earth. Fear Allah, whose name you use when asking one another for help, and uphold your family ties. Never break the bonds of kinship. Allah is always watching over every action you take.",
+ "simple_bn": "আল্লাহ সব মানুষকে তাঁদের রবের প্রতি সচেতন হওয়ার নির্দেশ দিচ্ছেন, যিনি মানবজাতিকে এক ব্যক্তি আদম থেকে সৃষ্টি করেছেন। তাঁর থেকে তিনি তাঁর সঙ্গিনীকে তৈরি করেন এবং তাঁদের দুজন থেকে বহু নর-নারী দুনিয়াজুড়ে ছড়িয়ে দেন। সেই আল্লাহকে ভয় করো যাঁর নামে তোমরা একে অপরের কাছে সাহায্য চাও, আর আত্মীয়তার বন্ধন রক্ষা করো। কখনো রক্তের সম্পর্ক ছিন্ন কোরো না। নিশ্চয়ই আল্লাহ সবসময় তোমাদের সব কাজকর্মের উপর পূর্ণ দৃষ্টি রাখেন।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "نفس",
+   "lemma": "نَفْس",
+   "meaning_en": "a soul",
+   "meaning_bn": "এক আত্মা (প্রাণ)",
+   "why_en": "All human beings descend from one single ancestor, showing that all people share common kinship."
+  },
+  {
+   "pos": 23,
+   "root": "رحم",
+   "lemma": "أَرْحام",
+   "meaning_en": "wombs (family ties)",
+   "meaning_bn": "আত্মীয়তার বন্ধন",
+   "why_en": "Ties of blood and family must be upheld and honored alongside obedience to Allah."
+  },
+  {
+   "pos": 28,
+   "root": "رقب",
+   "lemma": "رَقِيب",
+   "meaning_en": "an Ever-Watchful Guardian",
+   "meaning_bn": "চির জাগ্রত পর্যবেক্ষক",
+   "why_en": "Allah watches all human actions and nothing in our relationships escapes His notice."
+  }
+ ],
+ "lesson_en": "Honor your family ties. Remember that all humans share one origin under Allah's watchful eye.",
+ "lesson_bn": "আত্মীয়তার বন্ধন দৃঢ়ভাবে রক্ষা করুন এবং মনে রাখুন যে সমস্ত মানুষ এক মূল থেকে সৃষ্টি আর আল্লাহ সব দেখছেন।",
+ "real_life_en": "Check on your parents, siblings, and relatives regularly, even if distance or old arguments get in the way. Send a warm text, visit when you can, or help a relative in need. Do not let small disputes break the bonds that Allah ordered you to keep.",
+ "real_life_bn": "পিতামাতা, ভাইবোন ও আত্মীয়-স্বজনের নিয়মিত খোঁজখবর নিন, এমনকি পুরানো কোনো মান-অভিমান থাকলেও তা মিটিয়ে ফেলুন। কোনো আত্মীয় বিপদে পড়লে সাধ্যমতো পাশে দাঁড়ান। তুচ্ছ কারণে সেই রক্তের সম্পর্ক ছিন্ন করবেন না যা রক্ষা করতে আল্লাহ নির্দেশ দিয়েছেন।",
+ "context_en": "Surah an-Nisa begins by addressing all humanity, grounding social justice and family law in the shared origin of mankind.",
+ "context_bn": "সূরা আন-নিসা সমগ্র মানবজাতিকে সম্বোধন করে শুরু হয়েছে, যেখানে সামাজিক ন্যায়বিচার ও পারিবারিক বিধানকে অভিন্ন সৃষ্টির ভিত্তির ওপর স্থাপন করা হয়েছে।",
+ "themes": [
+  "creation",
+  "taqwa",
+  "family",
+  "names and attributes of Allah",
+  "brotherhood"
+ ],
+ "kinds": [
+  "command",
+  "creation",
+  "description-of-allah",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Adam"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Ar-Raqib"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah created all humankind from a single soul (Adam), created his wife from him, and spread many men and women from both.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "People are commanded to fear Allah and maintain the ties of kinship (arham), remembering that Allah is Ever-Watchful over them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

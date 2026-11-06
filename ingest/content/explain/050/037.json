@@ -1,0 +1,83 @@
+{
+  "id": "50:37",
+  "simple_en": "The history of past nations contains a clear lesson. It helps anyone who has an awake heart. It also guides anyone who listens carefully with an attentive mind.",
+  "simple_bn": "পূর্ববর্তী জাতিসমূহের পরিণতির মধ্যে সেই ব্যক্তির জন্য গভীর উপদেশ রয়েছে, যার একটি সচেতন অন্তর আছে অথবা যে উপস্থিত মনে ও পূর্ণ মনোযোগ সহকারে সত্য বাণী শোনে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ذكر",
+      "lemma": "ذِكْرَى",
+      "meaning_en": "a reminder and lesson",
+      "meaning_bn": "উপদেশ বা শিক্ষা",
+      "why_en": "Historical events hold wisdom for those who take time to reflect."
+    },
+    {
+      "pos": 8,
+      "root": "قلب",
+      "lemma": "قَلْب",
+      "meaning_en": "an awake heart",
+      "meaning_bn": "একটি জাগ্রত অন্তর",
+      "why_en": "An alive, thinking heart that grasps truth and takes guidance."
+    },
+    {
+      "pos": 11,
+      "root": "سمع",
+      "lemma": "سَمْع",
+      "meaning_en": "hearing or ear",
+      "meaning_bn": "শ্রবণ বা কান",
+      "why_en": "Listening attentively to divine revelation instead of turning away."
+    },
+    {
+      "pos": 13,
+      "root": "شهد",
+      "lemma": "شَهِيد",
+      "meaning_en": "present and attentive",
+      "meaning_bn": "উপস্থিত বা মনোযোগী",
+      "why_en": "Having a focused mind without being distracted by idle thoughts."
+    }
+  ],
+  "lesson_en": "Open your heart when the Quran is read. Listen with care so its wisdom can guide your steps.",
+  "lesson_bn": "কুরআন পাঠের সময় একাগ্র মনে তা শুনুন, যাতে এর দিকনির্দেশনা আপনার জীবনকে সঠিক পথে পরিচালিত করতে পারে।",
+  "real_life_en": "When you listen to a speech or a reminder from the Quran, put your phone away. Give your full attention to the message.",
+  "real_life_bn": "জুমার খুতবা বা কোনো দ্বীনি আলোচনার সময় মোবাইল ফোন সরিয়ে রেখে পূর্ণ মনোযোগ দিয়ে কথাগুলো শুনুন।",
+  "context_en": "The Quranic reminders are effective for those with responsive hearts and focused minds.",
+  "context_bn": "জাগ্রত অন্তর এবং মনোযোগী শ্রোতার জন্যই কুরআনের উপদেশ ফলপ্রসূ হয় বলে আয়াতটিতে উল্লেখ করা হয়েছে।",
+  "themes": [
+    "reflection",
+    "guidance",
+    "the Quran",
+    "human nature"
+  ],
+  "kinds": [
+    "ethics",
+    "belief",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The destruction of past nations is a reminder for anyone with an aware heart or an attentive ear.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

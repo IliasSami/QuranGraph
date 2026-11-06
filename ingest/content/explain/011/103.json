@@ -1,0 +1,82 @@
+{
+  "id": "11:103",
+  "simple_en": "The destruction of those ancient towns is a clear lesson for anyone who fears the punishment of the Hereafter. That is a grand Day when all humanity will be gathered together. Every creature will witness that Day.",
+  "simple_bn": "নিশ্চয় এতে রয়েছে এক সুস্পষ্ট নিদর্শন তার জন্য, যে আখেরাতের শাস্তিকে ভয় করে। সেটি এমন এক দিন, যেদিন সমস্ত মানুষকে একত্র করা হবে; আর সেটি এমন এক দিন, যা সবার উপস্থিতিতে প্রত্যক্ষ হবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "a sign / lesson",
+      "meaning_bn": "নিদর্শন / শিক্ষা",
+      "why_en": "Historical events serving as proof of divine justice."
+    },
+    {
+      "pos": 8,
+      "root": "أخر",
+      "lemma": "آخِر",
+      "meaning_en": "the Hereafter",
+      "meaning_bn": "আখেরাত / পরকাল",
+      "why_en": "The ultimate life of accountability."
+    },
+    {
+      "pos": 11,
+      "root": "جمع",
+      "lemma": "مَجْمُوع",
+      "meaning_en": "gathered together",
+      "meaning_bn": "একত্রিত",
+      "why_en": "Universal assembly of all generations."
+    },
+    {
+      "pos": 16,
+      "root": "شهد",
+      "lemma": "مَشْهُود",
+      "meaning_en": "witnessed",
+      "meaning_bn": "প্রত্যক্ষ / উপস্থিতকৃত",
+      "why_en": "A momentous Day witnessed by all creation."
+    }
+  ],
+  "lesson_en": "The Day of Judgment is a universal gathering where all people will witness divine justice.",
+  "lesson_bn": "কিয়ামতের দিন সমগ্র মানবজাতিকে একত্রিত করা হবে এবং সবাই আল্লাহর ন্যায়বিচার প্রত্যক্ষ করবে।",
+  "real_life_en": "Remember that you will stand before God one day. This truth helps you stay honest, kind, and fair in your daily choices.",
+  "real_life_bn": "দৈনন্দিন কাজে পরকালের জবাবদিহিতার কথা স্মরণ রাখুন। কিয়ামতের দিনের উপলব্ধি মানুষকে সৎ ও বিনম্র হতে সাহায্য করে।",
+  "themes": [
+    "Day of Judgment",
+    "Hereafter",
+    "universal gathering",
+    "signs of Allah"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning",
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Day of Resurrection",
+      "Hereafter"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The ruins of destroyed peoples serve as an enduring sign for believers, pointing to the universal gathering on the Day of Resurrection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": "3:44",
+  "simple_en": "Allah tells the Prophet Muhammad ﷺ that this past story is from the unseen. He did not witness these events himself. He was not there when the priests threw their pens as lots to see who would care for Maryam. He was not there when they argued over her. Learning these fine facts proves that the Quran comes from God.",
+  "simple_bn": "আল্লাহ নবী মুহাম্মদ ﷺ-কে বলছেন যে, অতীতের এই ঘটনা অদৃশ্যের সংবাদ। তিনি নিজে এই ঘটনা প্রত্যক্ষ করেননি। মারইয়ামের অভিভাবকত্ব পেতে ধর্মীয় নেতারা যখন কলম দিয়ে লটারি ফেলেছিল, তখন তিনি সেখানে ছিলেন না। তারা যখন বিতর্ক করছিল তখনও তিনি উপস্থিত ছিলেন না। এই নিখুঁত ইতিহাস জানা প্রমাণ করে যে কুরআন আল্লাহর ওহী।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "غيب",
+      "lemma": "غَيْب",
+      "meaning_en": "the unseen",
+      "meaning_bn": "অদৃশ্য",
+      "why_en": "Historical events that the Prophet ﷺ could only know through divine revelation."
+    },
+    {
+      "pos": 12,
+      "root": "قلم",
+      "lemma": "قَلَم",
+      "meaning_en": "their pens",
+      "meaning_bn": "তাদের কলমসমূহ",
+      "why_en": "The reeds or pens cast into water as lots to choose Maryam's guardian."
+    },
+    {
+      "pos": 20,
+      "root": "خصم",
+      "lemma": "اخْتَصَمُ",
+      "meaning_en": "they were disputing",
+      "meaning_bn": "তারা বিবাদ করছিল",
+      "why_en": "Shows how eager the leaders were to win the honor of raising her."
+    }
+  ],
+  "lesson_en": "The true history in the Quran proves that it comes from Allah.",
+  "lesson_bn": "কুরআনে বর্ণিত অতীত জাতির সঠিক বিবরণ প্রমাণ করে যে এটি আল্লাহর সত্য ওহী।",
+  "real_life_en": "When you read ancient stories in the Quran, treat them with care. They are not made up tales. They are true records sent by Allah to teach us lessons and strengthen our hearts.",
+  "real_life_bn": "কুরআনের প্রাচীন ঘটনাগুলোকে সাধারণ গল্প মনে করবেন না। এগুলো আল্লাহর সত্য বাণী, যা আমাদের শিক্ষা দিতে এবং ঈমান মজবুত করতে এসেছে।",
+  "context_en": "After telling how Maryam was raised, Allah states that the Prophet ﷺ learned this only through revelation.",
+  "context_bn": "মারইয়ামের শৈশবের বিবরণ দিয়ে আল্লাহ স্পষ্ট করেন যে রাসুলুল্লাহ ﷺ ওহীর মাধ্যমেই কেবল এই ইতিহাস জানতে পেরেছেন।",
+  "themes": [
+    "the unseen",
+    "prophethood",
+    "stories of the prophets"
+  ],
+  "kinds": [
+    "argument",
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ",
+      "Maryam"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The detailed accounts of Maryam and Zakariyya are part of the unseen past revealed to the Prophet ﷺ.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-jalalayn",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "The temple elders cast their pens as lots to decide who would have the honor of fostering Maryam.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir",
+        "g-en-maarif"
+      ]
+    },
+    {
+      "text": "The Prophet ﷺ was not present at that dispute, showing that his knowledge came through revelation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

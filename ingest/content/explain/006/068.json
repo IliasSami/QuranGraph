@@ -1,0 +1,87 @@
+{
+  "id": "6:68",
+  "simple_en": "When you see people mocking or ridiculing Allah's verses, leave their presence. Do not sit with them until they change the subject. If Satan causes you to forget, stand up and leave as soon as you remember. Never remain seated among people who disrespect the truth.",
+  "simple_bn": "যখন আপনি এমন লোকদের দেখবেন যারা আল্লাহর আয়াত নিয়ে উপহাস বা কটূক্তি করছে, তখন তাদের কাছ থেকে সরে যান। যতক্ষণ না তারা অন্য প্রসঙ্গে কথা বলে, তাদের সাথে বসবেন না। শয়তান যদি আপনাকে ভুলিয়ে দেয়, তবে স্মরণ হওয়ামাত্রই সেই জালিমদের সঙ্গ পরিত্যাগ করুন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "خوض",
+      "lemma": "خاضُ",
+      "meaning_en": "engage in mockery or vain talk",
+      "meaning_bn": "অহেতুক তর্কে বা উপহাসে লিপ্ত হয়",
+      "why_en": "Highlights disrespectful and mocking discourse against divine verses."
+    },
+    {
+      "pos": 7,
+      "root": "عرض",
+      "lemma": "أَعْرَضَ",
+      "meaning_en": "then turn away",
+      "meaning_bn": "মুখ ফিরিয়ে নাও বা বিরত থাকো",
+      "why_en": "Commands immediate disassociation from gatherings where faith is ridiculed."
+    },
+    {
+      "pos": 15,
+      "root": "نسي",
+      "lemma": "أَنسَى",
+      "meaning_en": "causes you to forget",
+      "meaning_bn": "তোমাকে ভুলিয়ে দেয়",
+      "why_en": "Addresses human forgetfulness caused by Satan's whispering."
+    }
+  ],
+  "lesson_en": "Honor sacred verses by leaving any gathering where faith is mocked. Never compromise truth for social ease.",
+  "lesson_bn": "যেখানে দ্বীন ও কুরআনের অবমাননা করা হয়, সে স্থান তৎক্ষণাৎ ত্যাগ করুন। সত্যের প্রশ্নে কোনো আপস নেই।",
+  "real_life_en": "If coworkers, friends, or online forums start mocking religious values or Quranic guidance, do not stay silent or join in. Excuse yourself politely or close the screen. Guard your heart from toxic environments that insult faith.",
+  "real_life_bn": "বন্ধু-বান্ধব বা ইন্টারনেটে কেউ যখন ইসলাম ও পবিত্র বিষয় নিয়ে হাসি-ঠাট্টা বা কটূক্তি করে, তখন সেখানে নীরব দর্শক হয়ে বসে থাকবেন না। ভদ্রভাবে স্থান ত্যাগ করুন। আপনার ঈমান ও সম্মান রক্ষার্থে এমন ক্ষতিকর আড্ডা এড়িয়ে চলুন।",
+  "context_en": "Makkans used to gather and ridicule the Quran. This command guided believers on how to react to such disrespect.",
+  "context_bn": "মক্কার কাফেররা জমায়েত হয়ে কুরআনের বাণী নিয়ে উপহাস করত। সেই প্রেক্ষিতে মুমিনদের এমন অবমাননাকর পরিবেশ বর্জনের নির্দেশ দেওয়া হয়েছে।",
+  "themes": [
+    "respect for revelation",
+    "good company",
+    "shun mockery",
+    "mindfulness",
+    "Satan's deception"
+  ],
+  "kinds": [
+    "command",
+    "prohibition",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Satan"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Believers must avoid gatherings where Allah's revelations are ridiculed until the topic changes.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "If one forgets and sits with mockers, they must depart immediately upon remembering.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

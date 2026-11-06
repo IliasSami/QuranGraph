@@ -1,0 +1,84 @@
+{
+ "id": "2:192",
+ "simple_en": "If the aggressors stop their fighting and turn away from disbelief, then stop fighting them. Allah is Most Forgiving and Most Merciful toward anyone who turns to Him in repentance. He overlooks past transgressions and does not punish those who mend their ways.",
+ "simple_bn": "কিন্তু শত্রুরা যদি যুদ্ধ থেকে বিরত হয় এবং কুফরি ত্যাগ করে তওবা করে, তবে তোমরাও তাদের বিরুদ্ধে লড়াই থামাও। নিশ্চয়ই আল্লাহ ক্ষমাশীল ও পরম দয়ালু। যারা অনুতপ্ত হয়ে সত্যের পথে ফিরে আসে, আল্লাহ তাদের পূর্বের সব পাপ ক্ষমা করে দেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نهي",
+   "lemma": "انتَهَى",
+   "meaning_en": "they cease",
+   "meaning_bn": "তারা বিরত হয়",
+   "why_en": "Shows that warfare must end the moment hostility stops and the opponents seek peace or accept faith."
+  },
+  {
+   "pos": 5,
+   "root": "غفر",
+   "lemma": "غَفُور",
+   "meaning_en": "All-Forgiving",
+   "meaning_bn": "পরম ক্ষমাশীল",
+   "why_en": "Assures that sincere repentance erases even the gravest past sins and hostilities."
+  },
+  {
+   "pos": 6,
+   "root": "رحم",
+   "lemma": "رَحِيم",
+   "meaning_en": "Most Merciful",
+   "meaning_bn": "পরম দয়ালু",
+   "why_en": "Highlights Allah's compassion toward those who return to righteousness."
+  }
+ ],
+ "lesson_en": "Never hold a grudge against someone who sincerely seeks peace, for Allah forgives those who turn back to Him.",
+ "lesson_bn": "কেউ ভুল বুঝতে পেরে আন্তরিকভাবে শান্তি চাইলে তাকে ক্ষমা করে দিন, কারণ আল্লাহ তওবাকারীদের প্রতি পরম ক্ষমাশীল।",
+ "real_life_en": "If a friend or coworker who hurt you says sorry and stops their bad ways, accept their apology with a kind heart. Forgive them and do not bring up old grudges.",
+ "real_life_bn": "কোনো সহকর্মী বা প্রতিবেশীর সাথে দীর্ঘদিনের মনমালিন্য থাকলে, তিনি যদি ক্ষমা চেয়ে শান্তি স্থাপন করতে আসেন, তবে মনের রাগ দূর করে তাকে সুযোগ দিন। অতীতের তিক্ততা টেনে না রেখে ক্ষমার পথ বেছে নেওয়া আল্লাহর প্রিয় স্বভাব।",
+ "context_en": "Sets clear limits on warfare by commanding Muslims to stop fighting immediately if the enemy desists and repents.",
+ "context_bn": "যুদ্ধের সীমারেখা স্পষ্ট করে জানিয়ে দেওয়া হয়েছে যে, শত্রুপক্ষ যদি শত্রুতা ও কুফরি ছেড়ে বিরত হয়, তবে অবিলম্বে লড়াই বন্ধ করতে হবে।",
+ "themes": [
+  "forgiveness",
+  "repentance",
+  "peace",
+  "Allah's mercy",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "promise",
+  "ethics",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Ghafur",
+   "Ar-Rahim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "If aggressive disbelievers cease fighting and repent from disbelief, Muslims must cease hostilities against them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah is Oft-Forgiving and Most Merciful to whoever turns to Him in repentance, pardoning their prior sins.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

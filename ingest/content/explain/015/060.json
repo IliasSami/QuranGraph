@@ -1,0 +1,72 @@
+{
+  "id": "15:60",
+  "simple_en": "Except his wife. We decreed that she will stay behind among those who are ruined. Outward ties cannot save a person who hides disbelief inside.",
+  "simple_bn": "তবে তাঁর স্ত্রী ছাড়া। আমরা ফায়সালা করেছি যে সে ধ্বংসপ্রাপ্তদের সাথেই পেছনে থেকে যাবে। অন্তরে কপটতা থাকলে নবীর সাথে রক্তের সম্পর্কও মানুষকে বাঁচাতে পারে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "مرأ",
+      "lemma": "امْرَأَت",
+      "meaning_en": "his wife",
+      "meaning_bn": "তাঁর স্ত্রী",
+      "why_en": "Lot's wife who supported the sinners."
+    },
+    {
+      "pos": 3,
+      "root": "قدر",
+      "lemma": "قَدَّرَ",
+      "meaning_en": "We decreed",
+      "meaning_bn": "আমরা নির্ধারণ করেছি",
+      "why_en": "Divine decree regarding her fate."
+    },
+    {
+      "pos": 6,
+      "root": "غبر",
+      "lemma": "غابِر",
+      "meaning_en": "those who remain behind",
+      "meaning_bn": "যারা পেছনে থাকবে",
+      "why_en": "Those left behind to perish."
+    }
+  ],
+  "lesson_en": "Family ties do not grant salvation without faith. Each person is held accountable for their own beliefs and deeds.",
+  "lesson_bn": "ঈমান ছাড়া কেবল আত্মীয়তার সম্পর্ক পরকালে মুক্তি দিতে পারে না। প্রতিটি মানুষকে তার নিজের আমলের হিসাব দিতে হবে।",
+  "real_life_en": "A young man thinks he can break rules because his uncle is the director. The company still dismisses him for bad conduct. Rules apply to every person equally.",
+  "real_life_bn": "উচ্চপদস্থ কর্মকর্তার আত্মীয় পরিচয় দিয়ে এক ব্যক্তি দায়িত্বে ফাঁকি দেওয়ার চেষ্টা করে। কিন্তু প্রতিষ্ঠান নিয়মানুযায়ী তাকে বরখাস্ত করে। সততা ছাড়া কেবল প্রভাব মানুষকে রক্ষা করতে পারে না।",
+  "context_en": "The divine decree excluding Lot's disbelieving wife from salvation.",
+  "context_bn": "লূতের অবিশ্বাসী স্ত্রীকে ঐশী ফায়সালা অনুযায়ী ধ্বংসপ্রাপ্তদের অন্তর্ভুক্ত রাখার বিবরণ।",
+  "themes": [
+    "accountability",
+    "justice",
+    "hypocrisy"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Lot"
+    ],
+    "unseen": [
+      "Angels"
+    ],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Lot's wife was decreed to remain behind with the punished transgressors due to her disbelief.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

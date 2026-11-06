@@ -1,0 +1,74 @@
+{
+  "id": "10:27",
+  "simple_en": "Those who earn evil deeds will receive an equal penalty, and deep shame will cover them. No one can protect them from Allah. Their faces will look as dark as patches of night. They are companions of the Fire, to live there forever.",
+  "simple_bn": "আর যারা পাপ কাজ করেছে, একটি পাপের প্রতিফল হবে তার সমপরিমাণ এবং অপমান তাদের গ্রাস করবে। আল্লাহর পাকড়াও থেকে তাদের বাঁচানোর কেউ থাকবে না। তাদের মুখমণ্ডল যেন ঘন অন্ধকারের টুকরো দিয়ে ঢেকে দেওয়া হয়েছে। তারাই জাহান্নামের অধিবাসী, সেখানে তারা চিরকাল থাকবে।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "مثل",
+      "lemma": "مِثْل",
+      "meaning_en": "equal penalty / like thereof",
+      "meaning_bn": "সমপরিমাণ প্রতিফল",
+      "why_en": "Exact divine justice never exceeding the offense."
+    },
+    {
+      "pos": 8,
+      "root": "ذلل",
+      "lemma": "ذِلَّة",
+      "meaning_en": "disgrace / humiliation",
+      "meaning_bn": "লাঞ্ছনা / অপমান",
+      "why_en": "Crushing public shame covering wrongdoers."
+    },
+    {
+      "pos": 24,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the Fire",
+      "meaning_bn": "জাহান্নামের আগুন",
+      "why_en": "The final dwelling place of persistent sinners."
+    }
+  ],
+  "lesson_en": "Sin brings darkness to the face and leads to eternal regret.",
+  "lesson_bn": "অন্যায় কাজ মানুষের চেহারায় গ্লানি আনে এবং আখেরাতে চরম অপমানের মুখোমুখি করে।",
+  "real_life_en": "Stay away from dishonest schemes. Sins that seem exciting today leave lasting stains of guilt and lead to public humiliation.",
+  "real_life_bn": "অন্যায় পথ পরিহার করুন; পাপের সাময়িক আনন্দ শেষ পর্যন্ত মানুষের জীবনে অপমান ও গ্লানিই বয়ে আনে।",
+  "themes": [
+    "penalty of evil",
+    "darkened faces",
+    "companions of the Fire"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "wrongdoers"
+    ],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who commit evil face exact recompense, humiliation, and darkened faces in eternal Hellfire with none to shelter them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

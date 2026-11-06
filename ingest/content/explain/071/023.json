@@ -1,0 +1,95 @@
+{
+ "id": "71:23",
+ "simple_en": "The leaders told their followers never to abandon their stone idols. They urged them by name to stick to Wadd, Suwa, Yaghuth, Yauq, and Nasr. These statues had once been righteous men, but Satan deceived the people into worshipping them instead of Allah.",
+ "simple_bn": "নেতারা তাদের অনুসারীদের নির্দেশ দিল যেন তারা তাদের দেবদেবীর পূজা কখনো ত্যাগ না করে। তারা নাম ধরে ওয়াদ, সুওয়া, ইয়াগুছ, ইয়াউক ও নাসর নামের মূর্তিগুলোকে আঁকড়ে ধরতে বলল। মূলত এগুলো ছিল অতীতের কিছু ভালো মানুষের প্রতিকৃতি, যা কালক্রমে শয়তানের প্ররোচনায় মূর্তিপূজায় রূপ নিয়েছিল।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "أله",
+   "lemma": "إِلٰه",
+   "meaning_en": "your gods",
+   "meaning_bn": "তোমাদের উপাস্যগণ",
+   "why_en": "The false deities invented by the people."
+  },
+  {
+   "pos": 7,
+   "root": "ودد",
+   "lemma": "وَدّ",
+   "meaning_en": "Wadd",
+   "meaning_bn": "ওয়াদ",
+   "why_en": "The name of a major idol worshipped by the people of Noah."
+  },
+  {
+   "pos": 9,
+   "root": "سوع",
+   "lemma": "سُواع",
+   "meaning_en": "Suwa",
+   "meaning_bn": "সুওয়া",
+   "why_en": "Another idol named in the Quran as worshipped by that nation."
+  },
+  {
+   "pos": 11,
+   "root": null,
+   "lemma": "يَغُوث",
+   "meaning_en": "Yaghuth",
+   "meaning_bn": "ইয়াগুছ",
+   "why_en": "An idol named explicitly in the ayah."
+  },
+  {
+   "pos": 13,
+   "root": "نسر",
+   "lemma": "نَسْر",
+   "meaning_en": "Nasr",
+   "meaning_bn": "নাসর",
+   "why_en": "The idol shaped like an eagle that they refused to give up."
+  }
+ ],
+ "lesson_en": "Never turn created things or saintly people into partners with Allah in worship.",
+ "lesson_bn": "আল্লাহর ইবাদতে কোনো সৃষ্টি বা বুজুর্গ মানুষকে তাঁর শরিক বানাবেন না।",
+ "real_life_en": "People may admire a leader and follow all his words without thinking. It is good to respect good people. But worship belongs only to Allah.",
+ "real_life_bn": "মানুষ কখনো কোনো নেতাকে অন্ধভাবে ভক্তি করে তার সব কথা মেনে নেয়। ভালো মানুষকে সম্মান করা ভালো, কিন্তু উপাসনা কেবল এক আল্লাহর জন্য।",
+ "themes": [
+  "idolatry",
+  "shirk",
+  "Noah's people"
+ ],
+ "kinds": [
+  "story",
+  "prohibition",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "nuh"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "idols"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The leaders commanded their people not to leave their deities, specifically naming Wadd, Suwa, Yaghuth, Yauq, and Nasr.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "These names were of idols worshipped by the people of Noah.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

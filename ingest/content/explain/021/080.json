@@ -1,0 +1,67 @@
+{
+  "id": "21:80",
+  "simple_en": "We taught David the skilled craft of making chain mail armor. This armor protected soldiers from danger during battle. Will you then show gratitude to God?",
+  "simple_bn": "আমি দাউদকে যুদ্ধের জন্য বর্ম তৈরির কারিগরি বিদ্যা শিখিয়েছিলাম, যাতে তা তোমাদের শত্রুর আঘাত থেকে রক্ষা করতে পারে। তবে কি তোমরা কৃতজ্ঞতা প্রকাশ করবে না?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "علم",
+      "lemma": "عَلَّمَ",
+      "meaning_en": "We taught him",
+      "meaning_bn": "আমরা তাকে শিখিয়েছি",
+      "why_en": "Divine inspiration of practical metallurgical skills."
+    },
+    {
+      "pos": 2,
+      "root": "صنع",
+      "lemma": "صَنْعَة",
+      "meaning_en": "the skilled craft",
+      "meaning_bn": "কারিগরি বিদ্যা",
+      "why_en": "Craftsmanship producing flexible iron armor."
+    }
+  ],
+  "lesson_en": "Practical skills are gifts from God. Making tools that protect life is a good deed worthy of thanks.",
+  "lesson_bn": "ব্যবহারিক দক্ষতা ও প্রযুক্তি আল্লাহরই দেওয়া নিয়ামত। মানুষের জীবন রক্ষার উপযোগী প্রযুক্তি উদ্ভাবন এক প্রশংসনীয় কাজ।",
+  "real_life_en": "Learn useful skills that solve daily problems. Use engineering and craft to help protect people in your town.",
+  "real_life_bn": "মানুষের উপকারে আসে এমন ব্যবহারিক বিদ্যা ও দক্ষতা অর্জন করুন। নিজের কারিগরি মেধা সমাজের নিরাপত্তা ও কল্যাণে ব্যয় করুন।",
+  "themes": [
+    "dawud",
+    "craftsmanship",
+    "armor",
+    "technology",
+    "gratitude"
+  ],
+  "kinds": [
+    "story",
+    "creation"
+  ],
+  "entities": {
+    "people": [
+      "Dawud"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "armor"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God taught David the craft of making chain armor to protect people in warfare, calling for gratitude.",
+      "claim_bn": "আল্লাহ দাউদকে যুদ্ধের বর্ম তৈরির বিদ্যা শিখিয়েছিলেন যাতে তা মানুষের আত্মরক্ষায় কাজে আসে এবং কৃতজ্ঞ হওয়ার তাগিদ দিয়েছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

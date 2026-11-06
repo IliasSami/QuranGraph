@@ -1,0 +1,71 @@
+{
+  "id": "12:2",
+  "simple_en": "Allah sent down this Book as an Arabic Quran so that you may understand it. Its clear words guide people to truth and right action.",
+  "simple_bn": "নিশ্চয় আমরা এই কিতাব আরবি ভাষায় নাযিল করেছি, যেন তোমরা তা গভীরভাবে বুঝতে ও উপলব্ধি করতে পারো। এর ভাব ও ভাষা ঐশী নির্দেশনাকে অত্যন্ত সুন্দরভাবে ফুটিয়ে তোলে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نزل",
+      "lemma": "أَنزَلَ",
+      "meaning_en": "We sent down",
+      "meaning_bn": "আমরা নাযিল করলাম",
+      "why_en": "Divine descent of revelation from heaven."
+    },
+    {
+      "pos": 4,
+      "root": "عرب",
+      "lemma": "عَرَبِيّ",
+      "meaning_en": "in Arabic",
+      "meaning_bn": "আরবি ভাষায়",
+      "why_en": "The eloquent Arabic vehicle of revelation."
+    },
+    {
+      "pos": 6,
+      "root": "عقل",
+      "lemma": "عَقَلُ",
+      "meaning_en": "you may understand",
+      "meaning_bn": "তোমরা যেন বোঝো",
+      "why_en": "Calling the human intellect to comprehend guidance."
+    }
+  ],
+  "lesson_en": "God gave revelation in clear language so that people could think and understand.",
+  "lesson_bn": "আল্লাহ সুস্পষ্ট ভাষায় কিতাব পাঠিয়েছেন যেন মানুষ চিন্তা-ভাবনা করে তা হৃদয়ঙ্গম করতে পারে।",
+  "real_life_en": "Read the Quran with a focus on understanding its meaning. Deep reflection on its wisdom enriches your heart and guides your conduct.",
+  "real_life_bn": "কুরআন কেবল তিলাওয়াত নয়, বরং অর্থ বুঝে পড়ার চেষ্টা করুন। এর প্রতিটি বার্তা জীবনকে সুন্দর করে।",
+  "themes": [
+    "Arabic Quran",
+    "using reason",
+    "comprehension of revelation"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "The Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah revealed the Quran in eloquent Arabic so that hearers could ponder and grasp its profound guidance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

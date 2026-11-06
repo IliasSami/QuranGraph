@@ -1,0 +1,79 @@
+{
+  "id": "14:30",
+  "simple_en": "They set up rivals beside Allah to lead people away from His path. Say to them: Enjoy your brief worldly pleasures, for your final return is to the Fire.",
+  "simple_bn": "তারা মানুষকে আল্লাহর পথ থেকে বিভ্রান্ত করার জন্য তাঁর বহু শরিক নির্ধারণ করেছে। আপনি তাদের বলুন: অল্প কিছুদিন পার্থিব সুখ ভোগ করে নাও, কিন্তু পরিশেষে তোমাদের ফিরে যাওয়ার জায়গা জাহান্নামের আগুন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ندد",
+      "lemma": "نِدّ",
+      "meaning_en": "equals",
+      "meaning_bn": "সমকক্ষ",
+      "why_en": "False deities and partners set beside Allah."
+    },
+    {
+      "pos": 4,
+      "root": "ضلل",
+      "lemma": "أَضَلَّ",
+      "meaning_en": "to mislead",
+      "meaning_bn": "বিভ্রান্ত করার জন্য",
+      "why_en": "Leading humanity into polytheism."
+    },
+    {
+      "pos": 8,
+      "root": "متع",
+      "lemma": "تَمَتَّعَ",
+      "meaning_en": "enjoy yourselves",
+      "meaning_bn": "ভোগ করে নাও",
+      "why_en": "Temporary fleeting worldly enjoyment."
+    },
+    {
+      "pos": 12,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the Fire",
+      "meaning_bn": "আগুন",
+      "why_en": "The blazing punishment of Hell."
+    }
+  ],
+  "lesson_en": "Do not let quick worldly fun fool you. The life to come is the true goal.",
+  "lesson_bn": "সাময়িক পার্থিব ভোগ-বিলাসে মগ্ন হয়ে পরকালের চিরন্তন সত্য থেকে চোখ ফিরিয়ে রাখবেন না।",
+  "real_life_en": "A dishonest man spends money on wild parties while cheating his partners. He laughs today, but his cash cannot save him when he meets Allah.",
+  "real_life_bn": "এক ব্যক্তি অংশীদারদের ঠকিয়ে বিলাসবহুল জীবন কাটায়। কিন্তু তার অন্যায় অর্থ তাকে আল্লাহর বিচার ও পরকালের জবাবদিহিতা থেকে রক্ষা করতে পারবে না।",
+  "context_en": "Condemnation of polytheists who set up false idols to mislead others.",
+  "context_bn": "আল্লাহর সাথে শিরককারী ও অন্যদের বিপথগামীকারী পৌত্তলিকদের সাময়িক দুনিয়া ভোগের পর জাহান্নামের হুঁশিয়ারি।",
+  "themes": [
+    "monotheism",
+    "warning",
+    "idolatry"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who set up equals to Allah to mislead people will find their final end in Hellfire.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

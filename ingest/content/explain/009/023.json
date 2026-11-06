@@ -1,0 +1,63 @@
+{
+  "id": "9:23",
+  "simple_en": "O you who believe, do not take your fathers or brothers as close allies if they prefer disbelief over faith. Whoever among you allies with them in wrongdoing has acted unjustly.",
+  "simple_bn": "হে মুমিনগণ, তোমাদের পিতা ও ভাইয়েরা যদি ঈমানের তুলনায় কুফরিকে বেশি ভালোবাসে, তবে তাদের অভিভাবকরূপে গ্রহণ করো না। তোমাদের মধ্যে যারা তাদের ঘনিষ্ঠ অভিভাবক বানায়, তারাই জালিম।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أخذ",
+      "lemma": "اتَّخَذَ",
+      "meaning_en": "take / adopt",
+      "meaning_bn": "গ্রহণ করো",
+      "why_en": "Forming deep allegiances that undermine spiritual duty."
+    },
+    {
+      "pos": 8,
+      "root": "ولي",
+      "lemma": "وَلِيّ",
+      "meaning_en": "allies / protectors",
+      "meaning_bn": "অভিভাবক / ঘনিষ্ঠ বন্ধু",
+      "why_en": "Close loyalty that must never compromise commitment to truth."
+    }
+  ],
+  "lesson_en": "Loyalty to truth and faith must always come before family ties.",
+  "lesson_bn": "পারিবারিক সম্পর্কের চেয়েও সত্য, নীতি ও আদর্শের প্রতি আনুগত্য সবসময় সবার উপরে।",
+  "real_life_en": "If a relative asks you to do something dishonest, speak kindly but refuse firmly. Always stand on the side of justice and truth.",
+  "real_life_bn": "পরিবারের কেউ অন্যায় কাজে সহায়তা চাইলে বা নীতি লঙ্ঘন করতে বললে নরম সুরে তা প্রত্যাখ্যান করুন এবং ন্যায়ের পক্ষে থাকুন।",
+  "themes": [
+    "allegiance",
+    "family ties",
+    "faith over kinship"
+  ],
+  "kinds": [
+    "command",
+    "prohibition",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are prohibited from taking disbelieving relatives as intimate allies over the loyalty owed to faith.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

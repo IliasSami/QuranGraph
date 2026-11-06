@@ -1,0 +1,89 @@
+{
+ "id": "5:19",
+ "simple_en": "O People of the Scripture, Our Messenger has come to you after a long break between messengers. He explains divine truth so you cannot say, 'No bearer of good news or warner ever reached us.' Now a true bearer of glad tidings and a warner has come to you. Allah has power over all things.",
+ "simple_bn": "হে কিতাবিগণ, রাসুলদের আগমনে দীর্ঘ বিরতির পর তোমাদের কাছে আমাদের রাসুল এসেছেন, যিনি তোমাদের জন্য দ্বীনের বিধান সুস্পষ্ট করছেন। যাতে তোমরা বলতে না পারো, 'আমাদের কাছে কোনো সুসংবাদদাতা বা সতর্ককারী আসেনি।' এখন তো তোমাদের কাছে সুসংবাদদাতা ও সতর্ককারী এসেছেন। আর আল্লাহ সবকিছুর ওপর পূর্ণ ক্ষমতাবান।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "Our Messenger",
+   "meaning_bn": "আমাদের রাসুল",
+   "why_en": "Prophet Muhammad was sent to deliver the final divine message to humanity."
+  },
+  {
+   "pos": 9,
+   "root": "فتر",
+   "lemma": "فَتْرَة",
+   "meaning_en": "an interval between messengers",
+   "meaning_bn": "রাসুলদের আগমনে দীর্ঘ বিরতি",
+   "why_en": "Refers to the long period between Isa and Muhammad when revelation was urgently needed."
+  },
+  {
+   "pos": 23,
+   "root": "نذر",
+   "lemma": "نَذِير",
+   "meaning_en": "a warner against punishment",
+   "meaning_bn": "সতর্ককারী",
+   "why_en": "The Prophet warns people of divine judgment so they may avoid sin."
+  }
+ ],
+ "lesson_en": "The Prophet was sent to leave no excuse for rejecting guidance.",
+ "lesson_bn": "আল্লাহ রাসুল পাঠিয়ে মানবজাতির জন্য ওজর পেশ করার সব পথ বন্ধ করে দিয়েছেন।",
+ "real_life_en": "The Quran and the Prophet's words are easy to find today. Do not make excuses to skip your prayers. Learn your faith and practice it while you have time and good health.",
+ "real_life_bn": "আজ কুরআন ও রাসুলুল্লাহ ﷺ-এর বাণী জানা অত্যন্ত সহজ। তাই সালাত বা নেক কাজে অলসতার কোনো অজুহাত দেবেন না। সুস্থ থাকতে দ্বীনের ওপর আমল করুন।",
+ "context_en": "Addresses the People of the Scripture on the arrival of the final Prophet after a long gap in revelation, removing any excuse for disbelief.",
+ "context_bn": "নবী আগমনের দীর্ঘ বিরতির পর শেষ নবীর শুভাগমনের গুরুত্ব এবং দ্বীনি সত্য অস্বীকারের সব অজুহাত অবসানের ঘোষণা।",
+ "themes": [
+  "prophethood of Muhammad",
+  "warning and glad tidings",
+  "People of the Scripture",
+  "omnipotence of Allah"
+ ],
+ "kinds": [
+  "address",
+  "warning",
+  "glad-tidings",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Muhammad"
+  ],
+  "nations": [
+   "People of the Scripture"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Prophet Muhammad was sent to the People of the Scripture after a prolonged interval between messengers to clarify religion.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "His arrival removes any plea that no bearer of good tidings or warner came to them, and Allah is over all things powerful.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

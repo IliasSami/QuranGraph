@@ -1,0 +1,64 @@
+{
+  "id": "26:186",
+  "simple_en": "The people argued that Shu'ayb was only a human like them. In their pride, they claimed that he was a liar who was deceiving the people.",
+  "simple_bn": "লোকেরা বলল, তুমি তো আমাদের মতোই একজন সাধারণ মানুষ। অহংকারের বশে তারা দাবি করল যে শুআইব একজন মিথ্যাবাদী এবং সে মানুষকে প্রতারিত করছে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "بَشَرٌ",
+      "root": "بشر",
+      "lemma": "بَشَر",
+      "meaning_en": "a human",
+      "meaning_bn": "একজন মানুষ",
+      "why_en": "Points out the people's false argument against a human messenger."
+    },
+    {
+      "pos": 9,
+      "arabic": "ٱلْكَٰذِبِينَ",
+      "root": "كذب",
+      "lemma": "كاذِب",
+      "meaning_en": "the liars",
+      "meaning_bn": "মিথ্যাবাদী",
+      "why_en": "Shows their brazen accusation of dishonesty against the prophet."
+    }
+  ],
+  "lesson_en": "Arrogance makes people reject truth when it comes through humble people. Pride blinds the heart to wisdom.",
+  "lesson_bn": "অহংকার মানুষকে সত্য গ্রহণে বাধা দেয় যখন তা একজন সাধারণ মানুষের মাধ্যমে আসে। মানবীয় মর্যাদার চেয়ে বাণীকে মূল্যায়ন করা উচিত।",
+  "real_life_en": "Do not dismiss good advice just because it comes from an ordinary person. Value the message rather than social rank.",
+  "real_life_bn": "উপদেশ দানকারী সাধারণ মানুষ হলেও তাঁর ভালো কথা গ্রহণ করুন। বাহ্যিক পদমর্যাদা দেখে সত্যের পথ ছাড়বেন না।",
+  "themes": [
+    "arrogance",
+    "denial",
+    "prophethood"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The people argued that Shu'ayb was merely a human like them and accused him of lying.",
+      "claim_bn": "কওমের লোকেরা দাবি করল যে শুআইব কেবল তাদের মতোই একজন সাধারণ মানুষ এবং তাঁকে মিথ্যাবাদী আখ্যা দিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

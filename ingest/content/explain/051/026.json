@@ -1,0 +1,69 @@
+{
+  "id": "51:26",
+  "simple_en": "Prophet Ibrahim slipped away quietly to his family without delaying. He soon returned with a whole, fat roasted calf to feed them. He wanted to serve his guests the finest meal he could offer.",
+  "simple_bn": "ইবরাহীম (আলাইহিস সালাম) গোপনে দ্রুত পরিবারের কাছে গেলেন এবং তাঁদের আপ্যায়নের জন্য একটি মোটা-তাজা ভুনা বাছুর নিয়ে আসলেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "روغ",
+      "lemma": "راغَ",
+      "meaning_en": "he slipped away quietly",
+      "meaning_bn": "চুপিসারে গেলেন",
+      "why_en": "Leaving quietly to prepare food without making the guests feel awkward."
+    },
+    {
+      "pos": 5,
+      "root": "عجل",
+      "lemma": "عِجْل",
+      "meaning_en": "a calf",
+      "meaning_bn": "গো-বাছুর",
+      "why_en": "The substantial meal Ibrahim selected for his guests."
+    },
+    {
+      "pos": 6,
+      "root": "سمن",
+      "lemma": "سَمِين",
+      "meaning_en": "fat or well-fed",
+      "meaning_bn": "মোটা-তাজা বা হৃষ্টপুষ্ট",
+      "why_en": "Showing that Ibrahim served the best quality food available."
+    }
+  ],
+  "lesson_en": "Be generous to guests. Share the best food you have without delay.",
+  "lesson_bn": "মেহমানকে কোনো দ্বিধা ছাড়াই নিজের সর্বোত্তম খাবার দিয়ে আপ্যায়ন করা আন্তরিক উদারতার লক্ষণ।",
+  "real_life_en": "When a guest comes to your home, serve food promptly. Do not make a show of it; provide what you have with joy and humility.",
+  "real_life_bn": "ঘরে কোনো মেহমান আসলে বিলম্ব না করে দ্রুত খাবারের ব্যবস্থা করুন। আন্তরিকতা ও আনন্দের সাথে মেহমানের সেবা করা সওয়াবের কাজ।",
+  "themes": [
+    "stories of the prophets",
+    "good character"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Ibrahim slipped away to his family and brought a fat roasted calf to serve his guests.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

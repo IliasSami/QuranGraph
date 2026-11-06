@@ -1,0 +1,67 @@
+{
+  "id": "18:70",
+  "simple_en": "The wise teacher said, \"If you choose to follow me, do not question anything I do. Wait until I explain its true meaning to you first.\"",
+  "simple_bn": "তিনি বললেন, আপনি যদি আমার অনুসরণ করতেই চান, তবে কোনো বিষয়ে আমাকে প্রশ্ন করবেন না, যতক্ষণ না আমি নিজেই আপনাকে সে বিষয়ে ব্যাখ্যা দিই।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "ask me",
+      "meaning_bn": "আমাকে প্রশ্ন করবেন",
+      "why_en": "Condition of restraint: holding back questions until explained."
+    },
+    {
+      "pos": 12,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "mention or explanation",
+      "meaning_bn": "আলোচনা বা ব্যাখ্যা",
+      "why_en": "Teacher's promised time of revealing hidden wisdom."
+    }
+  ],
+  "lesson_en": "Learning requires discipline and restraint. A good student listens carefully and waits for the right time to question.",
+  "lesson_bn": "জ্ঞানার্জনে সংযম অত্যন্ত জরুরি। শিক্ষকের কাজ শেষ হওয়ার আগে প্রশ্ন না করে সঠিক সময়ের জন্য অপেক্ষা করা উচিত।",
+  "real_life_en": "Listen carefully before you rush to ask questions. Give people and events time to unfold before you judge.",
+  "real_life_bn": "কারো সাথে কথা বলার সময় মাঝপথে বাধা দেবেন না। পুরো বিষয়টি বোঝার জন্য অন্যকে সময় দিন।",
+  "themes": [
+    "rules-of-companionship",
+    "restraint-in-questioning",
+    "discipline",
+    "waiting-for-explanation"
+  ],
+  "kinds": [
+    "story",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "al-Khidr"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Stipulation-of-Conditions"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Al-Khidr placed the condition that Moses must not question any of his actions until he explained them.",
+      "claim_bn": "খিজির শর্ত দিলেন যে তিনি নিজে ব্যাখ্যা না দেওয়া পর্যন্ত মূসা (আ.) কোনো প্রশ্ন করতে পারবেন না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

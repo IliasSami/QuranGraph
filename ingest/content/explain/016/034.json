@@ -1,0 +1,61 @@
+{
+  "id": "16:34",
+  "simple_en": "The evil results of their deeds struck them down. The very punishment they used to laugh at wrapped all around them and gave them no escape.",
+  "simple_bn": "তাদের মন্দ কাজকর্মের অশুভ পরিণতি তাদের ওপর আঘাত হানল। যে শাস্তিকে তারা উপহাস করত, তা চারিদিক থেকে তাদের পরিবেষ্টন করল এবং ধ্বংস করে দিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سوأ",
+      "lemma": "سَيِّئَة",
+      "meaning_en": "evil consequences",
+      "meaning_bn": "মন্দ পরিণতি",
+      "why_en": "The bitter fruit of sinful actions."
+    },
+    {
+      "pos": 5,
+      "root": "حيق",
+      "lemma": "حاقَ",
+      "meaning_en": "enveloped",
+      "meaning_bn": "পরিবেষ্টন করল",
+      "why_en": "Punishment completely trapping the guilty."
+    }
+  ],
+  "lesson_en": "Mocking the truth brings ruin. Sins always catch up with the wrongdoer.",
+  "lesson_bn": "সত্য নিয়ে উপহাস করা চরম বিপর্যয় ডেকে আনে। মানুষের পাপের অশুভ পরিণতি তাকে পরিবেষ্টন করেই থাকে।",
+  "real_life_en": "Never make fun of moral warnings or good counsel. Sincere advice protects you from future regret.",
+  "real_life_bn": "সতর্কবাণী ও ভালো উপদেশ নিয়ে ঠাট্টা-বিদ্রূপ করবেন না। অন্যায় কাজের পরিণতি শেষ পর্যন্ত নিজেকেই ভোগ করতে হয়।",
+  "themes": [
+    "mockery",
+    "consequences",
+    "justice"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The evil consequences of their actions overtook them, and what they ridiculed encircled them.",
+      "claim_bn": "তাদের মন্দ কাজের কুফল তাদের ওপর আপতিত হলো এবং তাদের উপহাসের শাস্তি তাদের ঘিরে ফেলল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

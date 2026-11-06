@@ -1,0 +1,71 @@
+{
+  "id": "37:66",
+  "simple_en": "The people of Hell will be driven by desperate hunger to eat from this foul tree. They will eat its bitter and thorny fruit until they fill their bellies. Instead of bringing relief, it will only increase their agony.",
+  "simple_bn": "জাহান্নামবাসীরা তীব্র ক্ষুধায় বাধ্য হয়ে এই বিষাক্ত ও তিক্ত গাছ থেকে খাবে। তারা এটি খেয়ে তাদের পেট ভর্তি করবে। কিন্তু এই খাবার তাদের ক্ষুধা না মিটিয়ে তাদের পেটের ভেতর তীব্র যন্ত্রণা বাড়িয়ে দেবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أكل",
+      "lemma": "آكِل",
+      "meaning_en": "eating",
+      "meaning_bn": "ভক্ষণকারী",
+      "why_en": "Shows the compulsion of the damned to consume the repulsive food."
+    },
+    {
+      "pos": 4,
+      "root": "ملأ",
+      "lemma": "مالِئ",
+      "meaning_en": "filling",
+      "meaning_bn": "পূর্ণকারী",
+      "why_en": "Describes them stuffing their stomachs despite the intense torment it brings."
+    },
+    {
+      "pos": 6,
+      "root": "بطن",
+      "lemma": "بَطْن",
+      "meaning_en": "bellies",
+      "meaning_bn": "উদর বা পেটসমূহ",
+      "why_en": "Highlights physical torment caused by the agonizing food inside them."
+    }
+  ],
+  "lesson_en": "In the Fire, hunger brings no relief. It only leads to deeper pain.",
+  "lesson_bn": "জাহান্নামে তীব্র ক্ষুধাও কোনো স্বস্তি আনবে না, বরং তা যন্ত্রণাকে আরও বাড়িয়ে দেবে।",
+  "real_life_en": "Be thankful for every simple, wholesome meal you have today. Nourishing food in peace is a blessing we often take for granted.",
+  "real_life_bn": "প্রতিদিনের পুষ্টিকর ও হালাল খাবারের জন্য আল্লাহর শোকরিয়া আদায় করুন। সুস্থভাবে আহার করতে পারা পরম সৌভাগ্য।",
+  "themes": [
+    "Hell",
+    "punishment",
+    "hereafter"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelievers in Hell will eat from the tree of Zaqqum and fill their bellies with its bitter fruit.",
+      "claim_bn": "জাহান্নামের কাফিররা যাক্কুম গাছ থেকে ভক্ষণ করবে এবং তা দিয়ে তাদের উদর পূর্ণ করবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

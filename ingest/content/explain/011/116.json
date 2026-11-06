@@ -1,0 +1,87 @@
+{
+  "id": "11:116",
+  "simple_en": "Why were there not wise leaders in past nations who stopped evil on earth? Only a few did so, and God saved them. The wrongdoers chased riches and did bad deeds.",
+  "simple_bn": "তোমাদের পূর্ববর্তী প্রজন্মগুলোর মধ্যে এমন বিবেকবান লোক কেন ছিল না, যারা পৃথিবীতে বিপর্যয় সৃষ্টি করতে নিষেধ করত? তবে গুটিকয়েক লোক ছাড়া, যাদেরকে আমরা তাদের মধ্য থেকে রক্ষা করেছিলাম। আর জালেমরা তাদের বিলাসী জীবনের পেছনে পড়ে রইল এবং তারা ছিল প্রকৃত অপরাধী।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "قرن",
+      "lemma": "قَرْن",
+      "meaning_en": "generations",
+      "meaning_bn": "প্রজন্মসমূহ",
+      "why_en": "Earlier historical civilizations."
+    },
+    {
+      "pos": 8,
+      "root": "بقي",
+      "lemma": "بَقِيَّت",
+      "meaning_en": "men of insight / residue",
+      "meaning_bn": "বিবেকবান লোক",
+      "why_en": "People of wisdom who discern right from wrong."
+    },
+    {
+      "pos": 9,
+      "root": "نهي",
+      "lemma": "نَهَى",
+      "meaning_en": "they forbid",
+      "meaning_bn": "নিষেধ করত",
+      "why_en": "Active moral duty of forbidding evil."
+    },
+    {
+      "pos": 11,
+      "root": "فسد",
+      "lemma": "فَساد",
+      "meaning_en": "corruption / disorder",
+      "meaning_bn": "বিপর্যয় / ফাসাদ",
+      "why_en": "Destructive societal injustice."
+    },
+    {
+      "pos": 23,
+      "root": "ترف",
+      "lemma": "أُتْرِفُ",
+      "meaning_en": "luxuriated / indulged",
+      "meaning_bn": "বিলাসী জীবনযাপন করল",
+      "why_en": "Corrupting attachment to excess comfort."
+    }
+  ],
+  "lesson_en": "A town is saved when good people stand up and speak against evil deeds.",
+  "lesson_bn": "কোনো সমাজ ধ্বংস থেকে তখনই বাঁচে, যখন বিবেকবান মানুষ অন্যায়ের বিরুদ্ধে কথা বলে।",
+  "real_life_en": "Do not remain silent when you see wrongdoing or corruption in your community. Be one of the courageous few who promote justice and protect the moral health of society.",
+  "real_life_bn": "সমাজে অন্যায় বা দুর্নীতি দেখলে চুপ করে থাকবেন না। সাধ্যমতো ন্যায়ের পক্ষে কথা বলুন এবং কল্যাণের বিস্তার ঘটান।",
+  "themes": [
+    "forbidding evil",
+    "social responsibility",
+    "danger of luxury",
+    "saving society"
+  ],
+  "kinds": [
+    "warning",
+    "ethics",
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Only a tiny minority among past generations stood up to forbid societal corruption, while the luxury-obsessed majority brought destruction upon themselves.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

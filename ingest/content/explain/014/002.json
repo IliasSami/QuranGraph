@@ -1,0 +1,77 @@
+{
+  "id": "14:2",
+  "simple_en": "Everything in the heavens and the earth belongs solely to Allah. He created all things and controls all things. Severe punishment and terrible ruin await those who reject Him and deny His clear truth.",
+  "simple_bn": "আসমান ও জমিনের সবকিছু একমাত্র আল্লাহর মালিকানাধীন। তিনি সবকিছু সৃষ্টি করেছেন ও পরিচালনা করেন। যারা সত্যকে অস্বীকার করে তাদের জন্য রয়েছে চরম ধ্বংস ও কঠিন শাস্তি।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "سمو",
+      "lemma": "سَماء",
+      "meaning_en": "the heavens",
+      "meaning_bn": "আসমানসমূহ",
+      "why_en": "Points to the vast celestial realm owned by Allah."
+    },
+    {
+      "pos": 9,
+      "root": "أرض",
+      "lemma": "أَرْض",
+      "meaning_en": "the earth",
+      "meaning_bn": "জমিন",
+      "why_en": "Emphasizes that our earthly dwelling belongs only to Allah."
+    },
+    {
+      "pos": 11,
+      "root": "كفر",
+      "lemma": "كافِر",
+      "meaning_en": "for the disbelievers",
+      "meaning_bn": "কাফিরদের জন্য",
+      "why_en": "Identifies those who willfully turn away from truth."
+    },
+    {
+      "pos": 14,
+      "root": "شدد",
+      "lemma": "شَدِيد",
+      "meaning_en": "severe",
+      "meaning_bn": "কঠোর",
+      "why_en": "Describes the intense nature of divine retribution."
+    }
+  ],
+  "lesson_en": "All creation belongs to Allah alone. Always stay humble before Him.",
+  "lesson_bn": "স্মরণ রাখুন সমস্ত সৃষ্টি একমাত্র আল্লাহর। তাই সৃষ্টিকর্তার সামনে সবসময় বিনম্র হয়ে চলুন।",
+  "real_life_en": "A business owner gains great wealth and feels proud. He pauses to remember that his assets belong to Allah. He pays his charity gladly and speaks kindly to his staff.",
+  "real_life_bn": "এক ব্যবসায়ী প্রচুর ধনসম্পদ অর্জন করে গর্ব অনুভব করতে শুরু করেন। কিন্তু তিনি মনে করেন এই সম্পদ আল্লাহর। ফলে তিনি নিয়মিত দান করেন এবং কর্মচারীদের সাথে বিনম্র আচরণ করেন।",
+  "context_en": "Declaration of Allah's absolute ownership over the universe and warning to deniers.",
+  "context_bn": "বিশ্বজগতের ওপর আল্লাহর পূর্ণ মালিকানার ঘোষণা এবং সত্য অস্বীকারকারীদের জন্য সতর্কতা।",
+  "themes": [
+    "monotheism",
+    "creation",
+    "warning"
+  ],
+  "kinds": [
+    "belief",
+    "warning",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "All that exists belongs to Allah, and those who deny face severe punishment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

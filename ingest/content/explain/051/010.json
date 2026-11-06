@@ -1,0 +1,57 @@
+{
+  "id": "51:10",
+  "simple_en": "Ruined and cursed are the liars who speak without knowledge about sacred matters. They spread groundless rumors and deceive people with false words. Their reckless speech brings them only loss in this world and the next.",
+  "simple_bn": "ধ্বংস ও লানত হোক সেইসব মিথ্যাচারীদের ওপর, যারা কোনো জ্ঞান ছাড়াই আন্দাজে কথা বলে। এমন ভিত্তিহীন মন্তব্য কেবল মানুষের ক্ষতি ডেকে আনে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قتل",
+      "lemma": "قَتَلَ",
+      "meaning_en": "ruined or cursed",
+      "meaning_bn": "ধ্বংস হোক বা অভিশপ্ত হোক",
+      "why_en": "A severe condemnation of persistent and reckless liars."
+    },
+    {
+      "pos": 2,
+      "root": "خرص",
+      "lemma": "خَرّاص",
+      "meaning_en": "the guessers and liars",
+      "meaning_bn": "মিথ্যাচারীরা",
+      "why_en": "Those who invent falsehoods based on conjecture rather than facts."
+    }
+  ],
+  "lesson_en": "Making wild guesses about faith brings ruin. Always speak with true knowledge.",
+  "lesson_bn": "সঠিক জ্ঞান ছাড়া অনুমানের ওপর নির্ভর করে কথা বলা চরম পরিণতির দিকে নিয়ে যায়।",
+  "real_life_en": "Check the facts before you share any news. Do not spread rumors online or guess about people.",
+  "real_life_bn": "সামাজিক যোগাযোগ মাধ্যমে কোনো তথ্য শেয়ার করার আগে তা যাচাই করুন। নিশ্চিত প্রমাণ ছাড়া কোনো মন্তব্য করা থেকে বিরত থাকুন।",
+  "themes": [
+    "disbelief",
+    "honesty",
+    "warning"
+  ],
+  "kinds": [
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Cursed are the liars who make conjectural and groundless remarks about the Quran and the Prophet ﷺ.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

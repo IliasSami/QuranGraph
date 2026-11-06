@@ -1,0 +1,80 @@
+{
+  "id": "10:3",
+  "simple_en": "Your Lord is Allah, who created the heavens and the earth in six days. Then He established Himself above the Throne, directing all affairs. No one can intercede except with His permission. That is Allah, your Lord, so worship Him. Will you not remember?",
+  "simple_bn": "নিশ্চয় তোমাদের রব হলেন আল্লাহ, যিনি ছয় দিনে আকাশ ও পৃথিবী সৃষ্টি করেছেন। অতঃপর তিনি আরশের ওপর সমাসীন হলেন এবং সব বিষয় পরিচালনা করছেন। তাঁর অনুমতি ছাড়া সুপারিশ করার কেউ নেই। তিনিই আল্লাহ, তোমাদের পালনকর্তা; অতএব তোমরা কেবল তাঁরই ইবাদত করো। তবুও কি তোমরা উপদেশ নেবে না?",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "created",
+      "meaning_bn": "সৃষ্টি করলেন",
+      "why_en": "Originating the universe from nothing."
+    },
+    {
+      "pos": 15,
+      "root": "دبر",
+      "lemma": "يُدَبِّرُ",
+      "meaning_en": "directs / manages",
+      "meaning_bn": "পরিচালনা করেন",
+      "why_en": "Supreme sovereign control over all cosmic affairs."
+    },
+    {
+      "pos": 19,
+      "root": "شفع",
+      "lemma": "شَفِيع",
+      "meaning_en": "intercessor",
+      "meaning_bn": "সুপারিশকারী",
+      "why_en": "No being can plead without divine approval."
+    }
+  ],
+  "lesson_en": "Worship only the Creator who made the world and cares for your life.",
+  "lesson_bn": "যিনি এই বিশাল মহাবিশ্ব সৃষ্টি করেছেন ও পরিচালনা করছেন, কেবল তিনিই আমাদের উপাসনার যোগ্য।",
+  "real_life_en": "Remember that the same Lord who maintains cosmic orbits cares for your daily life. Put your faith in Him alone rather than relying on false hopes.",
+  "real_life_bn": "যিনি আসমান-জমিন পরিচালনা করেন তিনি আপনার জীবনের প্রতিটি মুহূর্তেরও খোঁজ রাখেন; ভরসা একমাত্র আল্লাহর ওপরই রাখুন।",
+  "themes": [
+    "creation in six days",
+    "Throne of Allah",
+    "directing all affairs",
+    "exclusive worship"
+  ],
+  "kinds": [
+    "belief",
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "heavens",
+      "earth"
+    ],
+    "unseen": [
+      "the Throne ('Arsh)"
+    ],
+    "names_of_allah": [
+      "Allah",
+      "Lord"
+    ],
+    "events": [],
+    "things": [
+      "Throne"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah created the heavens and earth in six periods, established dominion over the Throne, and governs all creation without rival.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

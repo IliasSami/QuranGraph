@@ -1,0 +1,107 @@
+{
+ "id": "2:216",
+ "simple_en": "Fighting is commanded upon you, even though you naturally dislike it. You may hate something that is actually good for you, and you may like something that is bad for you. Allah knows the true reality of all things, while you do not know.",
+ "simple_bn": "মুমিনদের উপর আল্লাহর পথে লড়াইয়ের নির্দেশ ফরজ করা হয়েছে, যা স্বভাবতই মানুষের কাছে অপ্রীতিকর, কারণ এতে জীবনের ঝুঁকি ও কষ্ট রয়েছে। কিন্তু অনেক সময় মানুষ যা অপছন্দ করে, তার মধ্যেই তাদের জন্য বড় কল্যাণ নিহিত থাকে; আর যা পছন্দ করে, তার পরিণতি ক্ষতিকর হতে পারে। আল্লাহ সবকিছুর আসল সত্য ও কল্যাণ জানেন, অথচ মানুষের জ্ঞান সীমাবদ্ধ।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "كتب",
+   "lemma": "كَتَبَ",
+   "meaning_en": "prescribed (ordained)",
+   "meaning_bn": "ফরজ বা বিধিবদ্ধ করা হয়েছে",
+   "why_en": "Establishes a binding divine obligation upon the community."
+  },
+  {
+   "pos": 3,
+   "root": "قتل",
+   "lemma": "قِتال",
+   "meaning_en": "fighting",
+   "meaning_bn": "যুদ্ধ বা লড়াই",
+   "why_en": "Refers to legitimate armed struggle in Allah's cause to defend the faith and repel injustice."
+  },
+  {
+   "pos": 5,
+   "root": "كره",
+   "lemma": "كُرْه",
+   "meaning_en": "disliked (burdensome)",
+   "meaning_bn": "অপ্রীতিকর বা কষ্টদায়ক",
+   "why_en": "Acknowledges natural human aversion to physical hardship and loss of life."
+  },
+  {
+   "pos": 12,
+   "root": "خير",
+   "lemma": "خَيْر",
+   "meaning_en": "good (beneficial)",
+   "meaning_bn": "কল্যাণকর",
+   "why_en": "Affirms that obeying divine commands produces ultimate success despite present difficulty."
+  },
+  {
+   "pos": 22,
+   "root": "علم",
+   "lemma": "عَلِمَ",
+   "meaning_en": "knows",
+   "meaning_bn": "জানেন",
+   "why_en": "Emphasizes that Allah's boundless knowledge surpasses human perception of harm and benefit."
+  }
+ ],
+ "lesson_en": "Trust what Allah commands, because what feels hard may hold your greatest good.",
+ "lesson_bn": "কঠিন দায়িত্ব পালনে আল্লাহর প্রজ্ঞার উপর আস্থা রাখুন, কারণ আপাতদৃষ্টিতে কষ্টকর বিষয়েও বড় কল্যাণ থাকতে পারে।",
+ "real_life_en": "Waking up for morning prayer or being honest at work can feel hard when you are tired or scared. But doing what is right brings peace, safety, and reward. Trust that Allah's rules are set to protect you and bring you good.",
+ "real_life_bn": "সততা বজায় রাখা কিংবা সত্যের পক্ষে দাঁড়ানো সাময়িকভাবে কঠিন মনে হতে পারে। কিন্তু অলসতা বা আপস করার চেয়ে কষ্ট সহ্য করে সঠিক পথে অটল থাকাতেই দীর্ঘমেয়াদী সম্মান ও শান্তি নিহিত থাকে।",
+ "context_en": "Revealed in Madinah when the nascent Muslim community faced hostile armed threats from the Quraysh, obligating defensive struggle to protect religious freedom and secure justice.",
+ "context_bn": "মদীনায় অবতীর্ণ এই আয়াতে কুরাইশদের আক্রমণ ও আগ্রাসনের মুখে মুসলিমদের অস্তিত্ব ও ধর্মীয় স্বাধীনতা রক্ষার জন্য আত্মরক্ষামূলক লড়াইয়ের বিধান দেওয়া হয়েছে।",
+ "themes": [
+  "struggle in Allah's way",
+  "Allah's knowledge",
+  "patience",
+  "human nature"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Fighting in Allah's cause was ordained for Muslims to defend against aggression, despite natural human aversion to combat.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "People may dislike what is good and beneficial for them, and love what brings them harm and defeat.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah possesses comprehensive knowledge of the reality and consequences of all matters, while human knowledge is limited.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

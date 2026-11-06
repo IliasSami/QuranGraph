@@ -1,0 +1,72 @@
+{
+  "id": "28:31",
+  "simple_en": "God commanded Moses to cast down his staff. When he saw it moving rapidly like a snake, Moses fled in fear and did not turn back. God called out: O Moses, come near and do not fear, for you are safe from harm.",
+  "simple_bn": "আল্লাহ বললেন, তোমার লাঠিটি মাটিতে নিক্ষেপ করো। অতঃপর মুসা যখন সেটিকে সাপের মতো ছুটোছুটি করতে দেখল, তখন সে পেছন ফিরে দৌড় দিল এবং পেছনে তাকাল না। আল্লাহ বললেন, হে মুসা, সামনে এসো এবং ভয় পেয়ো না, নিশ্চয় তুমি সম্পূর্ণ নিরাপদ।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "أَلْقِ",
+      "root": "لقي",
+      "lemma": "أَلْقَى",
+      "meaning_en": "throw",
+      "meaning_bn": "নিক্ষেপ করো",
+      "why_en": "Divine command to cast down the staff."
+    },
+    {
+      "pos": 7,
+      "arabic": "كَأَنَّهَا",
+      "root": null,
+      "lemma": "كَأَنّ",
+      "meaning_en": "a serpent",
+      "meaning_bn": "সাপ",
+      "why_en": "The miraculous transformation of the staff."
+    }
+  ],
+  "lesson_en": "Miracles prove divine authority. Faith in God removes human fear and grants peace.",
+  "lesson_bn": "অলৌকিক নিদর্শন আল্লাহর অসীম ক্ষমতার পরিচয় বহন করে। আল্লাহর সান্নিধ্যে মানুষ সকল ভয় থেকে মুক্ত হয়।",
+  "real_life_en": "Do not let sudden panic overwhelm you in difficult moments. Trust that God protects you when you obey His commands.",
+  "real_life_bn": "হঠাৎ কোনো বিপদে আতঙ্কিত হয়ে ধৈর্য হারাবেন না। আল্লাহর আনুগত্যে অবিচল থাকলে কোনো ক্ষতি স্পর্শ করতে পারে না।",
+  "themes": [
+    "musa",
+    "staff",
+    "miracle",
+    "fear"
+  ],
+  "kinds": [
+    "story",
+    "command",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Moses"
+    ],
+    "nations": [],
+    "places": [
+      "Mount Tur"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "staff",
+      "snake"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God commanded Moses to cast down his staff, which turned into a serpent, and assured him of safety.",
+      "claim_bn": "আল্লাহ মুসাকে লাঠি ফেলতে নির্দেশ দেন এবং তা সাপে রূপ নিলে ভীত মুসাকে নিরাপত্তার আশ্বাস দেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

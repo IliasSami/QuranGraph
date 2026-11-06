@@ -1,0 +1,76 @@
+{
+  "id": "9:74",
+  "simple_en": "They swear by Allah that they said nothing, yet they surely spoke words of disbelief and denied faith after accepting Islam. They plotted what they could not achieve. They resented only that Allah and His Messenger enriched them from His bounty. If they repent, it is better for them.",
+  "simple_bn": "তারা আল্লাহর নামে শপথ করে বলে যে তারা কিছু বলেনি, অথচ তারা নিশ্চিত কুফরির কথা বলেছে এবং ইসলাম গ্রহণের পর কুফরি করেছে। তারা এমন এক ষড়যন্ত্র করেছিল যা সফল হয়নি। আল্লাহ ও তাঁর রাসূল নিজ অনুগ্রহে তাদের ধনী করেছিলেন বলেই কি তারা শত্রুতা করল? তারা যদি তাওবাহ করে তবে তা তাদের জন্যই কল্যাণকর।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "كلم",
+      "lemma": "كَلِمَة",
+      "meaning_en": "word",
+      "meaning_bn": "কথা / বাক্য",
+      "why_en": "Words of treason and slander against the Prophet."
+    },
+    {
+      "pos": 12,
+      "root": "همم",
+      "lemma": "هَمَّ",
+      "meaning_en": "plotted / attempted",
+      "meaning_bn": "ষড়যন্ত্র করেছিল / সংকল্প করেছিল",
+      "why_en": "Failed assassination attempt during the return from Tabuk."
+    },
+    {
+      "pos": 20,
+      "root": "غني",
+      "lemma": "أَغْنَى",
+      "meaning_en": "enriched them",
+      "meaning_bn": "তাদের অভাবমুক্ত করেছিলেন",
+      "why_en": "Bounties brought by Islamic peace to the city of Medina."
+    }
+  ],
+  "lesson_en": "Never return kindness with betrayal. Turning back to God in repentance is always the best path.",
+  "lesson_bn": "উপকারের বদলে ষড়যন্ত্র করা চরম অকৃতজ্ঞতা; তবুও তাওবার পথ সবসময় খোলা থাকে।",
+  "real_life_en": "Never betray people who helped you rise in your career or supported you in hard times. Show loyalty and gratitude.",
+  "real_life_bn": "যাঁরা দুর্দিনে আপনাকে সাহায্য করেছেন তাঁদের সাথে কখনো বিশ্বাসঘাতকতা করবেন না; সবসময় কৃতজ্ঞ থাকুন।",
+  "themes": [
+    "ingratitude",
+    "treason",
+    "repentance",
+    "Tabuk conspiracy"
+  ],
+  "kinds": [
+    "warning",
+    "promise",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites who plotted against the Prophet denied their treason with false oaths, returning ingratitude for divine bounties.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "20:69",
+  "simple_en": "Throw down your staff; it will swallow what they produced. Their magic is merely a deceitful trick, and a sorcerer never finds true success anywhere.",
+  "simple_bn": "তোমার ডান হাতের লাঠিটি ছুড়ে দাও; তা তাদের তৈরি করা সমস্ত কিছু গিলে ফেলবে। তারা যা করেছে তা জাদুকরের কৌশল মাত্র, আর জাদুকর কখনোই সফল হয় না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "لقف",
+      "lemma": "لَقِفَ",
+      "meaning_en": "it will swallow quickly",
+      "meaning_bn": "তা দ্রুত গিলে ফেলবে",
+      "why_en": "The miracle of the staff consuming all the fake serpents."
+    },
+    {
+      "pos": 10,
+      "root": "كيد",
+      "lemma": "كَيْد",
+      "meaning_en": "a plot or deception",
+      "meaning_bn": "কৌশল বা চক্রান্ত",
+      "why_en": "Exposes magic as an empty human trick."
+    },
+    {
+      "pos": 13,
+      "root": "فلح",
+      "lemma": "أَفْلَحَ",
+      "meaning_en": "never attains success",
+      "meaning_bn": "কখনোই সফলকাম হয় না",
+      "why_en": "The universal rule that sorcery leads to ruin."
+    }
+  ],
+  "lesson_en": "Tricks cannot stand against God. Truth will swallow every false claim.",
+  "lesson_bn": "মিথ্যা কেবল শূন্য ছলনা তৈরি করে, কিন্তু সত্যের এক সামান্য প্রকাশেই সকল অসত্য বিলীন হয়ে যায়।",
+  "real_life_en": "Never turn to superstition, magic, or fortune-telling. Real success comes only from hard work and God's blessings.",
+  "real_life_bn": "কুসংস্কার ও জাদুটোনার মতো অন্ধকার পথ পরিহার করুন। প্রকৃত সফলতা কেবল সততা ও আল্লাহর রহমতেই আসে।",
+  "themes": [
+    "miracle-over-magic",
+    "collapse-of-falsehood",
+    "musa"
+  ],
+  "kinds": [
+    "command",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Contest with Magicians"
+    ],
+    "things": [
+      "staff"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Moses' staff swallowed the illusions of the magicians, proving that sorcery never succeeds against truth.",
+      "claim_bn": "মূসার লাঠি জাদুকরদের ভেলকিবাজি গিলে ফেলে প্রমাণ করে যে সত্যের বিরুদ্ধে জাদু কখনোই টেকে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

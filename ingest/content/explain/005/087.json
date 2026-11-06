@@ -1,0 +1,81 @@
+{
+ "id": "5:87",
+ "simple_en": "O believers, do not declare forbidden the pure, good things that Allah has made lawful for you. Do not go to extremes in self-denial. Also, do not cross the limits set by your Lord. Indeed, Allah does not love those who transgress.",
+ "simple_bn": "হে মু’মিনগণ, আল্লাহ তোমাদের জন্য যে সব পবিত্র ও উৎকৃষ্ট বস্তু হালাল করেছেন, সেগুলোকে তোমরা নিজেদের ওপর হারাম করো না এবং সীমালঙ্ঘন করো না। নিশ্চয়ই আল্লাহ সীমালঙ্ঘনকারীদের ভালোবাসেন না।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "حرم",
+   "lemma": "حَرَّمَ",
+   "meaning_en": "you make unlawful",
+   "meaning_bn": "তোমরা হারাম বা নিষিদ্ধ করো",
+   "why_en": "Humans have no authority to forbid what Allah has declared permissible."
+  },
+  {
+   "pos": 6,
+   "root": "طيب",
+   "lemma": "طَيِّبَة",
+   "meaning_en": "wholesome / good things",
+   "meaning_bn": "পবিত্র ও উৎকৃষ্ট বস্তুসমূহ",
+   "why_en": "Lawful and pure provisions provided by Allah for human well-being."
+  },
+  {
+   "pos": 12,
+   "root": "عدو",
+   "lemma": "اعْتَدَى",
+   "meaning_en": "transgress / exceed limits",
+   "meaning_bn": "সীমাবদ্ধতা লঙ্ঘন করো",
+   "why_en": "Going to extremes in worship or asceticism violates divine balance."
+  }
+ ],
+ "lesson_en": "Enjoy the good things Allah permits. Never make lawful gifts forbidden for yourself.",
+ "lesson_bn": "আল্লাহর দেওয়া হালাল নিয়ামত বর্জন না করে মধ্যমপন্থার সাথে জীবন পরিচালনা করা উচিত।",
+ "real_life_en": "A man thinks that staying away from all good food and marriage makes him more spiritual. He learns that the Prophet taught balance. He enjoys lawful meals with gratitude to Allah.",
+ "real_life_bn": "এক ব্যক্তি ভাবল ভালো খাবার বা বিয়ে বর্জন করলেই বড় পরহেযগার হওয়া যায়। সে সুন্নাহ থেকে শিখল যে ইসলামে বৈরাগ্য নেই। সে কৃতজ্ঞতার সাথে হালাল খাবার গ্রহণ করে ভারসাম্যপূর্ণ জীবন বেছে নেয়।",
+ "context_en": "Warns against monastic extremes and declaring lawful gifts forbidden.",
+ "context_bn": "ধর্মের নামে হালাল বস্তুকে হারাম করা এবং চরমপন্থা ও বৈরাগ্য অবলম্বনের বিরুদ্ধে সতর্কতা।",
+ "themes": [
+  "gratitude",
+  "command",
+  "trials",
+  "good character"
+ ],
+ "kinds": [
+  "prohibition",
+  "command",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers must not forbid the wholesome things Allah made lawful for them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah does not love those who exceed the limits He established.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "27:27",
+  "simple_en": "King Solomon responded with wisdom and caution. He did not rush to believe the report or reject it outright. Instead, he promised to verify the facts and find out whether the bird spoke the truth.",
+  "simple_bn": "সুলাইমান হুদহুদের কথা শুনে বললেন যে তিনি বিষয়টি পরীক্ষা করে দেখবেন সে সত্য বলেছে নাকি মিথ্যাবাদীদের দলে শামিল হয়েছে। তিনি তাড়াহুড়ো না করে সত্যতা যাচাইয়ের সিদ্ধান্ত নিলেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "أَصَدَقْتَ",
+      "root": "صدق",
+      "lemma": "صَدَقَ",
+      "meaning_en": "whether you were truthful",
+      "meaning_bn": "তুমি কি সত্য বলেছ",
+      "why_en": "Verifying the veracity of the report."
+    },
+    {
+      "pos": 7,
+      "arabic": "ٱلْكَٰذِبِينَ",
+      "root": "كذب",
+      "lemma": "كاذِب",
+      "meaning_en": "the liars",
+      "meaning_bn": "মিথ্যুকদের",
+      "why_en": "Those who fabricate false statements."
+    }
+  ],
+  "lesson_en": "Always check the facts before you act. A wise person finds out the truth first.",
+  "lesson_bn": "কোনো সংবাদ শোনার পর দ্রুত সিদ্ধান্ত না নিয়ে সত্যতা যাচাই করে নেওয়া প্রজ্ঞাবানের কাজ।",
+  "real_life_en": "Do not pass on news until you know it is true. Check the facts to avoid false talk.",
+  "real_life_bn": "যাচাই না করে কোনো তথ্য বা গুজবে বিশ্বাস করবেন না এবং তা অন্যের কাছে প্রচার করবেন না।",
+  "themes": [
+    "sulayman",
+    "verification",
+    "truthfulness"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Solomon"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "hoopoe"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Solomon decided to verify the hoopoe's report carefully before reaching a judgment.",
+      "claim_bn": "সুলাইমান কোনো সংবাদ শুনে তড়িঘড়ি না করে হুদহুদের বক্তব্যের সত্যতা যাচাইয়ের সিদ্ধান্ত নেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

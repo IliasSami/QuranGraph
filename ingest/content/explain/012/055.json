@@ -1,0 +1,95 @@
+{
+  "id": "12:55",
+  "simple_en": "Yusuf asked to be put in charge of the land's storehouses. He said he was a faithful guardian with the knowledge needed to manage food supplies during the hard years.",
+  "simple_bn": "ইউসুফ দেশের শস্যভাণ্ডারের দায়িত্ব নেওয়ার প্রস্তাব দিলেন। তিনি বললেন, আসন্ন সংকট মোকাবেলায় প্রয়োজনীয় ব্যবস্থাপনা তাঁর জানা আছে এবং তিনি একজন বিশ্বস্ত ও দক্ষ রক্ষক।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جعل",
+      "lemma": "جَعَلَ",
+      "meaning_en": "appoint me",
+      "meaning_bn": "আমাকে নিযুক্ত করুন",
+      "why_en": "Yusuf steps forward to shoulder public responsibility for the people."
+    },
+    {
+      "pos": 4,
+      "root": "خزن",
+      "lemma": "خَزائِن",
+      "meaning_en": "storehouses",
+      "meaning_bn": "শস্যভাণ্ডারসমূহ",
+      "why_en": "The vital national reserves needed to feed the populace."
+    },
+    {
+      "pos": 7,
+      "root": "حفظ",
+      "lemma": "حَفِيظ",
+      "meaning_en": "a faithful guardian",
+      "meaning_bn": "উত্তম রক্ষক ও আমানতদার",
+      "why_en": "His integrity ensures nothing will be stolen or wasted."
+    },
+    {
+      "pos": 8,
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "knowledgeable",
+      "meaning_bn": "পর্যাপ্ত জ্ঞানী ও অভিজ্ঞ",
+      "why_en": "His technical competence enables wise distribution."
+    }
+  ],
+  "lesson_en": "Step forward to serve others when you have the skills to help.",
+  "lesson_bn": "উপযুক্ত যোগ্যতা ও মানুষের কল্যাণের নিয়ত থাকলে দায়িত্ব গ্রহণ করা একটি প্রশংসনীয় কাজ।",
+  "real_life_en": "A skilled builder steps forward to lead flood repairs in their town. They take the job to stop waste and make sure every family gets a safe home.",
+  "real_life_bn": "বন্যার পর ক্ষতিগ্রস্ত ঘরবাড়ি পুনর্নির্মাণের দায়িত্ব নেন এক অভিজ্ঞ প্রকৌশলী। তিনি অনিয়ম রোধ করতে এবং ক্ষতিগ্রস্ত মানুষ যেন নিরাপদে বাড়ি পায় তা নিশ্চিত করতে এগিয়ে আসেন।",
+  "context_en": "Recognizing the impending famine, Yusuf asked for management of the granaries to save the nation from starvation.",
+  "context_bn": "আসন্ন দুর্ভিক্ষের ভয়াবহতা জেনে ইউসুফ জাতিকে অনাহার থেকে বাঁচাতে খাদ্যগুদামের দায়িত্ব চাইলেন।",
+  "themes": [
+    "governance",
+    "trustworthiness",
+    "public service",
+    "competence"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "king of Egypt"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "treasury",
+      "granaries"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf requested appointment over the storehouses of the land.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He described himself as a faithful guardian with knowledge of management.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "20:78",
+  "simple_en": "Pharaoh chased them with all his troops and chariots. The huge waves of the sea crashed down on them and drowned the tyrant in the deep water.",
+  "simple_bn": "ফেরাউন তার বিশাল সৈন্যবাহিনী নিয়ে বিশ্বাসীদের পিছু নিল। কিন্তু সাগরের বিশাল জলরাশি তাদের ওপর আছড়ে পড়ে অত্যাচারী শাসক ও তার সেনাবাহিনীকে সমূলে ডুবিয়ে দিল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "جند",
+      "lemma": "جُند",
+      "meaning_en": "with his soldiers",
+      "meaning_bn": "তার সৈন্যবাহিনীসহ",
+      "why_en": "Mobilizing the full military might of the Egyptian state."
+    },
+    {
+      "pos": 4,
+      "root": "غشو",
+      "lemma": "غَشِيَ",
+      "meaning_en": "engulfed and overwhelmed",
+      "meaning_bn": "ঢেকে ফেলল বা নিমজ্জিত করল",
+      "why_en": "Cataclysmic drowning in surging sea waves."
+    }
+  ],
+  "lesson_en": "Pride leads to a fall. The sea swallowed the army that thought it could not lose.",
+  "lesson_bn": "অহংকারী জালেমরা প্রকৃতির শক্তির কাছেই পর্যুদস্ত হয়, যা তাদের সকল সামরিক শক্তিকে এক মুহূর্তে ধ্বংস করে।",
+  "real_life_en": "Do not use power to hurt others. Might cannot save someone when God calls them to account.",
+  "real_life_bn": "অহংকার ও ক্ষমতার জোরে দুর্বলদের ওপর অত্যাচার করবেন না। আল্লাহর বিচার শুরু হলে কোনো শক্তিই রক্ষা করতে পারে না।",
+  "themes": [
+    "drowning-of-pharaoh",
+    "divine-retribution",
+    "fall-of-tyrants"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn",
+      "Musa"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Red Sea"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Drowning of Pharaoh"
+    ],
+    "things": [
+      "sea"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh and his entire army were completely engulfed and drowned by the returning waters of the sea.",
+      "claim_bn": "ফেরাউন এবং তার সমগ্র সৈন্যবাহিনী সাগরের বিশাল ঢেউয়ে নিমজ্জিত হয়ে সলিল সমাধি লাভ করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

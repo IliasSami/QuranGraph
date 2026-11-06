@@ -1,0 +1,84 @@
+{
+  "id": "33:4",
+  "simple_en": "Allah has not made two hearts inside any human chest. Likewise, a wife does not become a mother through false customs like zihar, nor does an adopted child become a biological son. These are merely words people say with their mouths. Allah speaks the plain truth, and He guides people to the straight path.",
+  "simple_bn": "আল্লাহ কোনো মানুষের দেহের ভেতর দুটি হৃদয় সৃষ্টি করেননি। একইভাবে তিনি তোমাদের স্ত্রীদেরকে তোমাদের গর্ভধারিণী মা বানাননি যাদের সাথে তোমরা যিহার করো এবং তোমাদের পোষ্যপুত্রদেরও প্রকৃত সন্তান করেননি। এগুলো তোমাদের মুখের ভিত্তিহীন কথা মাত্র। আল্লাহ সত্য বিধান ব্যক্ত করেন এবং সঠিক পথের সন্ধান দেন।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "قلب",
+      "lemma": "قَلْب",
+      "meaning_en": "two hearts",
+      "meaning_bn": "দুটি হৃদয়",
+      "why_en": "Shows the biological impossibility of having two hearts as a metaphor for false claims."
+    },
+    {
+      "pos": 13,
+      "root": "ظهر",
+      "lemma": "ظاهَرُ",
+      "meaning_en": "you declare unlawful (zihar)",
+      "meaning_bn": "যিহার করো",
+      "why_en": "Refers to the pre-Islamic practice of declaring a wife unlawful like a mother."
+    },
+    {
+      "pos": 18,
+      "root": "دعو",
+      "lemma": "دُعاء",
+      "meaning_en": "your adopted / claimed sons",
+      "meaning_bn": "তোমাদের পোষ্যপুত্রগণ",
+      "why_en": "Highlights the status of adopted sons whose biological lineage cannot be changed."
+    },
+    {
+      "pos": 25,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "Affirms that God's laws correspond to reality and dispel false customs."
+    }
+  ],
+  "lesson_en": "True family ties rest on reality. False customs cannot change who your parents are.",
+  "lesson_bn": "ইসলামের বিধান সত্যের ওপর প্রতিষ্ঠিত, যা ভিত্তিহীন প্রথা দূর করে সঠিক পারিবারিক মর্যাদা রক্ষা করে।",
+  "real_life_en": "Care for adopted youth with deep love. Always be honest about their true family roots and names.",
+  "real_life_bn": "পরিবারে কোনো অনাথ বা পালক সন্তানকে স্নেহের সাথে লালন-পালন করুন। তবে তাদের আসল বংশমর্যাদা গোপন না করে সত্য ও সততার বিধান মেনে চলুন।",
+  "themes": [
+    "family",
+    "marriage",
+    "justice",
+    "truth",
+    "guidance"
+  ],
+  "kinds": [
+    "law",
+    "ethics",
+    "prohibition",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-haqq"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah invalidates pre-Islamic practices of zihar and formal adoption altering true biological lineage, stating that divine words represent ultimate truth.",
+      "claim_bn": "আল্লাহ জাহেলী যুগের যিহার প্রথা ও পোষ্যপুত্রকে ঔরসজাত পুত্র মনে করার নিয়ম বাতিল করেছেন এবং জানিয়েছেন যে তাঁর কথাই পরম সত্য।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

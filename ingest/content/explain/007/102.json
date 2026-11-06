@@ -1,0 +1,86 @@
+{
+ "id": "7:102",
+ "simple_en": "Allah observes that most people from those past nations did not honor their promises. They did not keep their covenants with Him. Instead, Allah found most of them rebellious and disobedient. They broke their word and turned away from righteous obedience.",
+ "simple_bn": "আল্লাহ অতীত জাতিগুলোর অবস্থা তুলে ধরে জানান যে, তাদের অধিকাংশ লোকই কোনো অঙ্গীকার রক্ষা করেনি। তারা আল্লাহর সাথে কৃত প্রতিশ্রুতি ভঙ্গ করেছিল। বস্তুত তাদের বেশিরভাগই ছিল আনুগত্যহীন ও সত্যত্যাগী পাপাচারী। তারা সত্য জেনেও আল্লাহর আদেশ অমান্য করেছিল।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "كثر",
+   "lemma": "أَكْثَر",
+   "meaning_en": "for most of them",
+   "meaning_bn": "তাদের অধিকাংশের মধ্যে",
+   "why_en": "Points out that the majority of those people failed to uphold their promises."
+  },
+  {
+   "pos": 5,
+   "root": "عهد",
+   "lemma": "عَهْد",
+   "meaning_en": "covenant or promise",
+   "meaning_bn": "প্রতিশ্রুতি বা অঙ্গীকার",
+   "why_en": "Refers to keeping faith and honouring pledges made to Allah."
+  },
+  {
+   "pos": 9,
+   "root": "فسق",
+   "lemma": "فاسِق",
+   "meaning_en": "defiantly disobedient",
+   "meaning_bn": "সত্যত্যাগী বা পাপাচারী",
+   "why_en": "Emphasises their open rebellion against divine commands."
+  }
+ ],
+ "lesson_en": "True faith means keeping your word and obeying Allah in all times.",
+ "lesson_bn": "প্রতিশ্রুতি রক্ষা করা ঈমানের দাবি, আর অঙ্গীকার ভঙ্গ করা পাপের পথ খুলে দেয়।",
+ "real_life_en": "Always keep your promises in daily life. Whether dealing with contracts at work or promises made to family, be trustworthy. Breaking your word weakens your character and faith.",
+ "real_life_bn": "প্রতিদিনের কাজে দেওয়া প্রতিশ্রুতি সর্বদা রক্ষা করুন। কর্মক্ষেত্রে বা পরিবারের সাথে করা অঙ্গীকার কখনোই ভাঙবেন না। ওয়াদা রক্ষা করলে মানুষের বিশ্বাসযোগ্যতা বাড়ে এবং আল্লাহর সন্তুষ্টি অর্জন হয়।",
+ "context_en": "Connects the moral failure of past generations to their neglect of sacred oaths and moral commitments.",
+ "context_bn": "অতীত জাতিগুলোর নৈতিক পতনের মূল কারণ হিসেবে তাদের অঙ্গীকারভঙ্গ ও অবাধ্যতার কথা তুলে ধরা হয়েছে।",
+ "themes": [
+  "fulfilling covenants",
+  "obedience",
+  "moral failure",
+  "past nations"
+ ],
+ "kinds": [
+  "warning",
+  "ethics",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "past nations"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "covenant"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Most people of past nations failed to honor their covenants and commitments.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah found the majority of those who rejected the messengers to be defiantly disobedient.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

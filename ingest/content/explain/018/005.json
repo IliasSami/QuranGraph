@@ -1,0 +1,62 @@
+{
+  "id": "18:5",
+  "simple_en": "Neither they nor their forefathers had any real knowledge about this claim. It is a terrible word that comes from their mouths. They speak nothing but lies.",
+  "simple_bn": "এ বিষয়ে তাদের কোনো জ্ঞান নেই এবং তাদের পিতৃপুরুষদেরও ছিল না। তাদের মুখ থেকে বের হওয়া এই কথাটি অত্যন্ত ভয়াবহ। তারা মিথ্যা ছাড়া আর কিছুই বলে না।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "كبر",
+      "lemma": "كَبُرَ",
+      "meaning_en": "is grave and terrible",
+      "meaning_bn": "সাংঘাতিক বা গুরুতর",
+      "why_en": "The enormous sin of attributing offspring to God."
+    },
+    {
+      "pos": 16,
+      "root": "كذب",
+      "lemma": "كَذِب",
+      "meaning_en": "a lie",
+      "meaning_bn": "মিথ্যা",
+      "why_en": "Total falsehood unsupported by any evidence or reason."
+    }
+  ],
+  "lesson_en": "Do not repeat old myths without proof. When speaking about God, speak only with clear knowledge and humility.",
+  "lesson_bn": "প্রমাণ ছাড়া ভিত্তিহীন প্রথা অন্ধভাবে অনুসরণ করা ভুল। স্রষ্টা সম্পর্কে যা ইচ্ছা তাই বলা মারাত্মক অপরাধ।",
+  "real_life_en": "Verify claims before you believe them or pass them on. Speak only with clear knowledge, especially when discussing religion.",
+  "real_life_bn": "যেকোনো কথা শোনার পর তা যাচাই করুন। ধর্ম বা গুরুত্বপূর্ণ বিষয়ে নিশ্চিত জ্ঞান ছাড়া কোনো মনগড়া মন্তব্য করবেন না।",
+  "themes": [
+    "falsehood",
+    "blind-following",
+    "grave-speech",
+    "verifying-truth"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Those who claim Allah has offspring speak without knowledge, uttering a monstrous lie without any evidence.",
+      "claim_bn": "যারা আল্লাহর সন্তান আছে বলে দাবি করে তারা অজ্ঞতাবশত কথা বলে এবং এক জঘন্য মিথ্যায় লিপ্ত হয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

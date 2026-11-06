@@ -1,0 +1,86 @@
+{
+ "id": "6:1",
+ "simple_en": "All praise belongs to Allah alone. He created the heavens and the earth out of nothing. He also made the darkness and the light. In the same way, He sends truth to remove ignorance. Yet those who reject faith still set up false rivals beside their Lord.",
+ "simple_bn": "সকল প্রশংসা কেবল মহান আল্লাহর জন্য। তিনি পূর্ব নমুনা ছাড়াই আকাশ ও জমিন সৃষ্টি করেছেন। তিনিই অন্ধকার ও আলোর ব্যবস্থা করেছেন। তেমনিভাবে তিনি অজ্ঞতা দূর করতে সত্যের আলো দিয়েছেন। এতসব স্পষ্ট প্রমাণের পরও অবিশ্বাসীরা তাদের প্রতিপালকের সাথে অন্যদের সমকক্ষ গণ্য করে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "حمد",
+   "lemma": "حَمْد",
+   "meaning_en": "all praise and gratitude",
+   "meaning_bn": "সকল প্রশংসা",
+   "why_en": "All perfect praise and gratitude belong exclusively to Allah."
+  },
+  {
+   "pos": 8,
+   "root": "ظلم",
+   "lemma": "ظُلُمَة",
+   "meaning_en": "darknesses",
+   "meaning_bn": "অন্ধকারসমূহ",
+   "why_en": "Refers to physical darkness as well as spiritual darkness of disbelief."
+  },
+  {
+   "pos": 14,
+   "root": "عدل",
+   "lemma": "عَدَلَ",
+   "meaning_en": "they equate / set as equal",
+   "meaning_bn": "সমকক্ষ বানায়",
+   "why_en": "Describes the grave sin of equating created beings with the Creator."
+  }
+ ],
+ "lesson_en": "Allah alone made all things. Never place any created being on equal terms with Him.",
+ "lesson_bn": "আল্লাহই বিশ্বজগতের একমাত্র স্রষ্টা। তাই কোনো সৃষ্টিকে তাঁর সমকক্ষ বা অংশীদার বানানো উচিত নয়।",
+ "real_life_en": "When you look at the sky or watch day turn into night, remember your Maker. Give thanks to Him for each blessing. Never rely on good luck charms or false powers for help.",
+ "real_life_bn": "দিন ও রাতের আবর্তনের দিকে তাকিয়ে এক আল্লাহর কুদরত স্মরণ করুন। প্রতিদিনের নিয়ামতের জন্য তাঁর শুকরিয়া আদায় করুন। কোনো প্রকার কুসংস্কার বা ভণ্ড ক্ষমতার ওপর নির্ভর করবেন না।",
+ "context_en": "The opening of Surah Al-An'am establishes Allah's unique creative power and refutes polytheism.",
+ "context_bn": "সূরা আল-আন'আমের সূচনায় আসমান-জমিনের সৃষ্টি ও একত্ববাদের প্রমাণ তুলে ধরে অংশীদারিত্বের দাবি খণ্ডন করা হয়েছে।",
+ "themes": [
+  "creation",
+  "tawhid",
+  "darkness and light",
+  "disbelief"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "the heavens",
+   "the earth",
+   "darkness",
+   "light"
+  ]
+ },
+ "claims": [
+  {
+   "text": "All praise belongs to Allah, the sole Creator of the heavens, the earth, darkness, and light.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Despite clear proofs of creation, disbelievers set up equals beside their Lord.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

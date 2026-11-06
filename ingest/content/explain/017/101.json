@@ -1,0 +1,69 @@
+{
+  "id": "17:101",
+  "simple_en": "We gave Moses nine clear signs. Ask the Children of Israel about when he came to them, and Pharaoh said to him, 'I surely think you are bewitched, Moses.'",
+  "simple_bn": "আমরা মুসাকে নয়টি সুস্পষ্ট নিদর্শন দান করেছিলাম। আপনি বনী ইসরাঈলকে জিজ্ঞেস করুন যখন তিনি তাদের কাছে এসেছিলেন, তখন ফেরাউন তাকে বলেছিল, 'হে মুসা, আমার ধারণা তুমি জাদুগ্রস্ত হয়ে গেছ।'",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "signs and miracles",
+      "meaning_bn": "নিদর্শনসমূহ",
+      "why_en": "The nine famous miracles granted to Moses before Pharaoh."
+    },
+    {
+      "pos": 18,
+      "root": "سحر",
+      "lemma": "مَسْحُور",
+      "meaning_en": "bewitched or enchanted",
+      "meaning_bn": "জাদুগ্রস্ত",
+      "why_en": "Pharaoh's false accusation to dismiss Moses' message."
+    }
+  ],
+  "lesson_en": "Tyrants often call truth-tellers crazy or bewitched. Arrogant leaders use insults when they cannot answer sound moral proof.",
+  "lesson_bn": "অহংকারী শাসকরা সত্যের যুক্তি খণ্ডন করতে না পেরে সত্যবাদীদের পাগল বা বিভ্রান্ত বলে অপবাদ দেয়।",
+  "real_life_en": "Do not be discouraged when people insult you for speaking the truth. Prophets were called crazy long before us for doing what was right.",
+  "real_life_bn": "ন্যায়ের পক্ষে কথা বললে কেউ খারাপ মন্তব্য বা অপবাদ দিলে ধৈর্য ধরুন। আল্লাহর প্রিয় নবীরাও সত্য প্রচার করতে গিয়ে অপবাদের শিকার হয়েছিলেন।",
+  "themes": [
+    "musa",
+    "pharaoh",
+    "nine-signs",
+    "false-accusations"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses was granted nine clear signs, yet Pharaoh rejected him, claiming Moses was bewitched.",
+      "claim_bn": "মুসাকে নয়টি স্পষ্ট নিদর্শন দেওয়া সত্ত্বেও ফেরাউন তা অগ্রাহ্য করে তাঁকে জাদুগ্রস্ত বলে অপবাদ দিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

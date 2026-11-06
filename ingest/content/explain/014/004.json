@@ -1,0 +1,87 @@
+{
+  "id": "14:4",
+  "simple_en": "We never sent a messenger except with the language of his own people. This was so he could explain the truth with complete clarity. Then Allah lets go astray whom He wills, and guides whom He wills. He is the All-Mighty, the All-Wise.",
+  "simple_bn": "আমরা প্রত্যেক রাসূলকে তাঁর নিজ সম্প্রদায়ের ভাষায় পাঠিয়েছি যাতে তিনি তাদের কাছে স্পষ্টভাবে সত্য বুঝিয়ে বলতে পারেন। অতঃপর আল্লাহ যাকে ইচ্ছে পথভ্রষ্ট করেন এবং যাকে ইচ্ছে সঠিক পথ দেখান। তিনি মহাপরাক্রমশালী, প্রজ্ঞাময়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "a messenger",
+      "meaning_bn": "একজন রাসূল",
+      "why_en": "A prophet sent with divine message."
+    },
+    {
+      "pos": 6,
+      "root": "لسن",
+      "lemma": "لِسان",
+      "meaning_en": "in the tongue",
+      "meaning_bn": "ভাষায়",
+      "why_en": "The native language of the target community."
+    },
+    {
+      "pos": 8,
+      "root": "بين",
+      "lemma": "بَيَّنَ",
+      "meaning_en": "to make clear",
+      "meaning_bn": "স্পষ্টভাবে ব্যাখ্যা করতে",
+      "why_en": "Ensuring the message is understandable to all."
+    },
+    {
+      "pos": 14,
+      "root": "هدي",
+      "lemma": "هَدى",
+      "meaning_en": "and He guides",
+      "meaning_bn": "এবং তিনি পথ দেখান",
+      "why_en": "Divine guidance granted to sincere hearts."
+    },
+    {
+      "pos": 19,
+      "root": "حكم",
+      "lemma": "حَكِيم",
+      "meaning_en": "the All-Wise",
+      "meaning_bn": "মহাপ্রজ্ঞাময়",
+      "why_en": "Attribute showing perfect wisdom in divine decrees."
+    }
+  ],
+  "lesson_en": "Speak with clear and gentle words when sharing the truth with others.",
+  "lesson_bn": "অন্যদের কাছে সত্য তুলে ধরার সময় সহজ ও স্পষ্ট ভাষা ব্যবহার করুন।",
+  "real_life_en": "A teacher explains a hard topic using simple local words. Her students get the point quickly. They feel happy and want to learn more.",
+  "real_life_bn": "এক শিক্ষক কঠিন পড়া সহজ স্থানীয় ভাষা ও বাস্তব উদাহরণ দিয়ে বুঝিয়ে দেন। শিক্ষার্থীরা বিষয়টি খুব সহজে বোঝে এবং পড়াশোনায় আগ্রহী হয়।",
+  "context_en": "Affirmation that all messengers spoke the native tongue of their people for clarity.",
+  "context_bn": "প্রত্যেক রাসূলকে তাঁর স্বজাতির ভাষায় পাঠানোর নিয়ম ও এর পেছনের কারণ।",
+  "themes": [
+    "prophethood",
+    "guidance",
+    "divine-wisdom"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-Aziz",
+      "al-Hakim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Messengers were sent speaking the language of their people so the message was clear.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "20:100",
+  "simple_en": "Whoever turns away from the Quran in this world will bear a crushing burden on the Day of Resurrection. Rejecting divine truth leads to eternal regret.",
+  "simple_bn": "যে ব্যক্তি এই পার্থিব জীবনে কুরআন থেকে মুখ ফিরিয়ে নেবে, কিয়ামতের দিন সে এক ভারী পাপের বোঝা বহন করবে। সত্য প্রত্যাখ্যান করা অনন্ত অনুশোচনা ডেকে আনে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عرض",
+      "lemma": "أَعْرَضَ",
+      "meaning_en": "turned away",
+      "meaning_bn": "মুখ ফিরিয়ে নিল",
+      "why_en": "Willful neglect and rejection of divine guidance."
+    },
+    {
+      "pos": 8,
+      "root": "وزر",
+      "lemma": "وِزْر",
+      "meaning_en": "a heavy burden of sin",
+      "meaning_bn": "পাপের ভারী বোঝা",
+      "why_en": "The spiritual weight of sins carried on Judgment Day."
+    }
+  ],
+  "lesson_en": "Ignoring God's word brings a heavy load of sin. That weight will crush a person on Judgment Day.",
+  "lesson_bn": "কুরআনের বাণীকে অবহেলা করলে তা কিয়ামতের দিন মানুষের কাঁধে অসহনীয় শাস্তির বোঝা হয়ে দাঁড়ায়।",
+  "real_life_en": "Do not ignore the guidance of the Quran. Study its verses so you do not carry heavy sins.",
+  "real_life_bn": "কুরআনের হেদায়েতকে অবহেলা করবেন না। এর আয়াতগুলো বুঝে জীবন পরিচালনা করুন যাতে পরকালে বোঝা বহন করতে না হয়।",
+  "themes": [
+    "turning-away",
+    "burden-of-sin",
+    "accountability"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Day of Resurrection"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Those who turn away from the Quran will bear a heavy burden of sin on the Day of Resurrection.",
+      "claim_bn": "কুরআন থেকে মুখ ফিরিয়ে নেওয়া ব্যক্তিরা কিয়ামতের ময়দানে পাপের অতি ভারী বোঝা বহন করবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

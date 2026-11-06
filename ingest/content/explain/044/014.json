@@ -1,0 +1,71 @@
+{
+ "id": "44:14",
+ "simple_en": "Instead of believing, they turned away from the noble Prophet ﷺ. They made up false claims against him. They claimed that someone else taught him his words, and they even called him mad.",
+ "simple_bn": "ঈমান আনার পরিবর্তে তারা সম্মানিত নবী ﷺ থেকে মুখ ফিরিয়ে নিয়েছিল। তারা তাঁর বিরুদ্ধে মিথ্যা অপবাদ রচনা করেছিল। তারা বলেছিল যে অন্য কেউ তাঁকে শিখিয়ে দিয়েছে এবং তাঁকে পাগল বলেও অপবাদ দিয়েছিল।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ولي",
+   "lemma": "تَوَلَّى",
+   "meaning_en": "they turned away",
+   "meaning_bn": "তারা মুখ ফিরিয়ে নিয়েছিল",
+   "why_en": "Arrogance caused them to reject the truth deliberately."
+  },
+  {
+   "pos": 5,
+   "root": "علم",
+   "lemma": "مُعَلَّم",
+   "meaning_en": "tutored / taught",
+   "meaning_bn": "অন্যের দ্বারা শিক্ষাপ্রাপ্ত",
+   "why_en": "They falsely claimed human teachers gave him the Quran."
+  },
+  {
+   "pos": 6,
+   "root": "جنن",
+   "lemma": "مَجْنُون",
+   "meaning_en": "a madman",
+   "meaning_bn": "পাগল",
+   "why_en": "They resorted to insults when they could not counter his truth."
+  }
+ ],
+ "lesson_en": "Stand firm in patience when critics insult the truth with false labels.",
+ "lesson_bn": "সমালোচকরা মিথ্যা অপবাদ দিয়ে সত্যকে হেয় করতে চাইলে ধৈর্যের সাথে অবিচল থাকুন।",
+ "real_life_en": "If people mock your honesty or tease you for praying, stay calm. Remember that even the finest prophets were insulted when they stood up for what is right.",
+ "real_life_bn": "আপনার সততা বা সালাতের কারণে কেউ উপহাস করলে ধৈর্য ধরুন। মনে রাখবেন যে সত্য প্রচার করতে গিয়ে মহান নবীগণও এমন কটূক্তির শিকার হয়েছিলেন।",
+ "themes": [
+  "Prophet Muhammad ﷺ",
+  "patience",
+  "disbelief"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The disbelievers turned away from the Prophet ﷺ, falsely alleging that he was tutored by others or was mad.",
+   "claim_bn": "অবিশ্বাসীরা নবী ﷺ থেকে মুখ ফিরিয়ে নেয় এবং মিথ্যা দাবি করে যে তিনি অন্য কারও শেখানো শিষ্য বা পাগল।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

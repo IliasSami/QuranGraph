@@ -1,0 +1,82 @@
+{
+  "id": "7:134",
+  "simple_en": "Whenever a plague struck them, they ran to Moses. They begged him to pray to his Lord by his special covenant. They promised that if the punishment was lifted, they would believe and release the Children of Israel.",
+  "simple_bn": "যখনই তাদের ওপর কোনো মহামারি বা আযাব এসে পড়ত, তখন তারা বলত, 'হে মূসা, আপনার প্রতি আপনার রবের যে প্রতিশ্রুতি রয়েছে তার উসিলায় দোয়া করুন। আপনি যদি আমাদের থেকে এ আযাব দূর করে দেন, তবে আমরা অবশ্যই আপনার ওপর ঈমান আনব এবং বনী ইসরাঈলকে আপনার সাথে যেতে দেব।'",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "رجز",
+      "lemma": "رِجْز",
+      "meaning_en": "the punishment / plague",
+      "meaning_bn": "শাস্তি বা আযাব",
+      "why_en": "The painful affliction sent upon them to test their sincerity."
+    },
+    {
+      "pos": 7,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "pray / supplicate",
+      "meaning_bn": "দোয়া করুন / ডাকুন",
+      "why_en": "Turning to the prophet in distress while ignoring him in ease."
+    },
+    {
+      "pos": 14,
+      "root": "كشف",
+      "lemma": "كَشَفَ",
+      "meaning_en": "you remove",
+      "meaning_bn": "আপনি দূর করে দেন",
+      "why_en": "Their condition for keeping their promise to believe."
+    }
+  ],
+  "lesson_en": "Do not turn to God only when crisis strikes and then forget your promises in ease.",
+  "lesson_bn": "বিপদে পড়লে খোদার কাছে প্রতিশ্রুতি দেওয়া আর সংকট কাটলেই তা ভুলে যাওয়া চরম মুনাফেকি।",
+  "real_life_en": "Keep the promises you make when you are desperate. It is easy to make vows during an illness or crisis. Make sure you honor your word once life returns to normal.",
+  "real_life_bn": "বিপদের সময় যে অঙ্গীকার করেন, সুদিন ফিরলেও তা পূরণ করতে সচেষ্ট থাকুন। প্রতিশ্রুতির প্রতি বিশ্বস্ততা এক মহান গুণ।",
+  "context_en": "Under intense suffering from each plague, the Egyptians begged Moses for intercession, making false promises of reform.",
+  "context_bn": "আযাবের অসহ্য যন্ত্রণায় কাতর হয়ে ফির'আউনের দল বারবার মূসার কাছে আযাব প্রত্যাহারের জন্য দোয়া করার অনুনয় জানাত।",
+  "themes": [
+    "broken promises",
+    "distress and hypocrisy",
+    "supplication",
+    "intercession"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [
+      "people of Pharaoh",
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [
+      "Egyptians beg Moses during plagues"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Whenever a plague hit, Pharaoh's people asked Moses to invoke his Lord to remove it, swearing to believe and free the Israelites.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

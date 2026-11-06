@@ -1,0 +1,65 @@
+{
+  "id": "30:49",
+  "simple_en": "Just before the rain was sent down upon them, the people were in deep despair, fearing drought and ruin. Yet God brought life to their dry fields when they least expected it.",
+  "simple_bn": "যদিও তাদের ওপর এই বৃষ্টি নাযিল হওয়ার পূর্বে তারা একেবারে হতাশ হয়ে পড়েছিল।",
+  "key_words": [
+    {
+      "pos": 6,
+      "arabic": "يُنَزَّلَ",
+      "root": "نزل",
+      "lemma": "نَزَّلَ",
+      "meaning_en": "it was sent down",
+      "meaning_bn": "নাযিল করা হয়",
+      "why_en": "The descent of life-giving rain by God decree."
+    },
+    {
+      "pos": 10,
+      "arabic": "لَمُبْلِسِينَ",
+      "root": "بلس",
+      "lemma": "مُبْلِس",
+      "meaning_en": "in despair",
+      "meaning_bn": "হতাশ বা নিরাশ",
+      "why_en": "Human hopelessness during drought before divine relief arrives."
+    }
+  ],
+  "lesson_en": "Despair can vanish in a single moment by God's decree. Relief often arrives right after deep hardship.",
+  "lesson_bn": "কঠিন বিপদের পরেই স্বস্তি আসে। আল্লাহর রহমত থেকে কখনো নিরাশ হওয়া উচিত নয়।",
+  "real_life_en": "Do not lose hope when times seem tough. Trust that God can change your difficult situation for the better in an instant.",
+  "real_life_bn": "কষ্টের সময় ধৈর্য ধরো এবং আশা হারিও না। আল্লাহ যেকোনো মুহূর্তে তোমার প্রতিকূল পরিস্থিতি বদলে দিতে পারেন।",
+  "themes": [
+    "despair",
+    "relief",
+    "rain"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "rain"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "People were in deep despair just before the rain descended, showing human helplessness and dependence on God.",
+      "claim_bn": "বৃষ্টি নাযিল হওয়ার পূর্বমুহূর্তে মানুষ চরম হতাশায় নিমজ্জিত ছিল, যা তাদের অসহায়ত্ব ও আল্লাহর মুখাপেক্ষিতা প্রমাণ করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "26:224",
+  "simple_en": "As for worldly poets who write without moral truth, only lost and confused people follow them. Their words promote vanity, pride, lust, and empty desires.",
+  "simple_bn": "আর বিভ্রান্ত কবিদের ক্ষেত্রে কেবল পথভ্রষ্ট লোকেরাই তাদের অনুসরণ করে। নৈতিক লক্ষ্যহীন এমন কবিদের কথা কেবল আবেগ ও খেয়ালখুশি ছড়ায়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "arabic": "وَٱلشُّعَرَآءُ",
+      "root": "شعر",
+      "lemma": "شاعِر",
+      "meaning_en": "and the poets",
+      "meaning_bn": "এবং কবিরা",
+      "why_en": "Writers who indulge in vain, unguided speech and fantasy."
+    },
+    {
+      "pos": 3,
+      "arabic": "ٱلْغَاوُۥنَ",
+      "root": "غوي",
+      "lemma": "غاوي",
+      "meaning_en": "the deviators",
+      "meaning_bn": "বিপথগামীরা",
+      "why_en": "Those who wander away from moral discipline and truth."
+    }
+  ],
+  "lesson_en": "Speech without moral grounding misleads the soul. Following vain fantasies leads people away from truth.",
+  "lesson_bn": "নৈতিকতাহীন সাহিত্য মানুষকে পথভ্রষ্টতার দিকে নিয়ে যায়। অনর্থক কল্পনা মানুষকে বাস্তব সত্য থেকে দূরে সরিয়ে দেয়।",
+  "real_life_en": "Choose your entertainment and media with care. Do not follow art that glorifies sin or numbs your conscience.",
+  "real_life_bn": "নিজের বিনোদন ও সাহিত্যের মাধ্যম সতর্কতার সাথে নির্বাচন করুন। যে শিল্প অন্যায়কে মহিমান্বিত করে তা এড়িয়ে চলুন।",
+  "themes": [
+    "poetry",
+    "guidance",
+    "ethics"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Vain poets are followed only by those who are morally astray.",
+      "claim_bn": "আর কবিদের অনুসরণ তো কেবল পথভ্রষ্ট লোকেরাই করে থাকে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

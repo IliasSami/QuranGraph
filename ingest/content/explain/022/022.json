@@ -1,0 +1,66 @@
+{
+  "id": "22:22",
+  "simple_en": "Whenever they try to climb out of Hell from deep pain, they are driven back inside. They are told to taste the fierce burning fire.",
+  "simple_bn": "যখনই তারা অসহ্য যন্ত্রণায় সেখান থেকে বের হতে চাইবে, তখনই তাদের পুনরায় তাতে ফিরিয়ে দেওয়া হবে এবং বলা হবে: আস্বাদন করো এই দহনকারী আগুনের শাস্তি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "خرج",
+      "lemma": "خَرَجَ",
+      "meaning_en": "they get out",
+      "meaning_bn": "তারা বের হবে",
+      "why_en": "Desperate, futile attempts to escape the flames."
+    },
+    {
+      "pos": 7,
+      "root": "غمم",
+      "lemma": "غَمّ",
+      "meaning_en": "anguish",
+      "meaning_bn": "অসহ্য যন্ত্রণা বা মনস্তাপ",
+      "why_en": "Suffocating despair inside Hell."
+    }
+  ],
+  "lesson_en": "There is no escape from Hell once final judgment falls. Escape from sorrow is only possible by repenting during this life.",
+  "lesson_bn": "আখেরাতে বিচার চূড়ান্ত হয়ে গেলে জাহান্নাম থেকে পালানোর কোনো পথ নেই। একমাত্র দুনিয়াতেই তওবা করে মুক্তি নিশ্চিত করা সম্ভব।",
+  "real_life_en": "Seek freedom from sin while the door of repentance is wide open. Turn back to God today so you never face that unending distress.",
+  "real_life_bn": "তওবার সুযোগ থাকতে থাকতেই পাপ থেকে নিজেকে মুক্ত করুন। আজই আল্লাহর কাছে ক্ষমা চান যাতে পরকালের অনন্ত বন্দিদশা থেকে বাঁচা যায়।",
+  "themes": [
+    "no-escape",
+    "anguish",
+    "burning-fire",
+    "hereafter"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Burning Fire"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Whenever dwellers of Hell attempt to escape from its suffocating grief, they are shoved back into its blazing torment.",
+      "claim_bn": "জাহান্নামীরা যখনই যন্ত্রণা সইতে না পেরে বের হতে চাইবে, তখনই তাদের আবার আগুনে ঠেলে দিয়ে শাস্তির স্বাদ নিতে বলা হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

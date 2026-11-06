@@ -1,0 +1,70 @@
+{
+  "id": "69:43",
+  "simple_en": "It is a revelation sent down from the Lord of all the worlds. Its wisdom and guidance come from the Creator and Sustainer of the entire universe.",
+  "simple_bn": "এটি সমগ্র সৃষ্টিজগতের প্রতিপালকের পক্ষ থেকে অবতীর্ণ। এই কিতাবের সমস্ত প্রজ্ঞা, ন্যায়বিচার ও নূর এসেছে গোটা মহাবিশ্বের স্রষ্টা ও পালনকর্তার নিকট থেকে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نزل",
+      "lemma": "تَنزِيل",
+      "meaning_en": "a revelation sent down",
+      "meaning_bn": "অবতীর্ণ বাণী",
+      "why_en": "Affirms that scripture descends progressively from God to the Prophet."
+    },
+    {
+      "pos": 3,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "the Lord and Sustainer",
+      "meaning_bn": "প্রতিপালক",
+      "why_en": "Identifies the author of the text as the loving Master of all creation."
+    },
+    {
+      "pos": 4,
+      "root": "علم",
+      "lemma": "عالَم",
+      "meaning_en": "all the worlds",
+      "meaning_bn": "সমগ্র সৃষ্টিজগৎ",
+      "why_en": "Shows the universal scope of divine ownership and message."
+    }
+  ],
+  "lesson_en": "The Quran is the direct revelation of the Lord of all creation.",
+  "lesson_bn": "পবিত্র কুরআন সমগ্র বিশ্বজগতের প্রতিপালক আল্লাহর পক্ষ থেকে প্রেরিত বাণী।",
+  "real_life_en": "When you buy a complex machine, you trust the user guide written by its maker. The Quran is the guide for human life from the One Who made all things.",
+  "real_life_bn": "যেকোনো যন্ত্র চালাতে প্রস্তুতকারকের দেওয়া নির্দেশিকা মেনে চলতে হয়। তেমনি মানবজীবনকে সঠিকভাবে পরিচালনা করার জন্য সৃষ্টিজগতের রবের দেওয়া নির্দেশনাই হলো কুরআন।",
+  "themes": [
+    "revelation",
+    "Lord of the worlds",
+    "divine origin"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb",
+      "rabb-al-alamin"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Quran is a divine revelation sent down from the Lord of all the worlds.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

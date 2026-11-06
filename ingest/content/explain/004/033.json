@@ -1,0 +1,90 @@
+{
+ "id": "4:33",
+ "simple_en": "For everyone, We have appointed heirs to what parents and close kin leave behind. Also give those bound to you by oaths their due share. Allah is a Witness over all things.",
+ "simple_bn": "পিতা-মাতা ও নিকটাত্মীয়দের রেখে যাওয়া সম্পত্তির জন্য আল্লাহ উত্তরাধিকারী নির্ধারণ করে দিয়েছেন। ইসলামের প্রাথমিক যুগে প্রতিজ্ঞাবদ্ধ মিত্রদেরও উত্তরাধিকারের অংশ দেওয়ার নিয়ম ছিল এবং সেই অঙ্গীকার পূরণ করার নির্দেশ দেওয়া হয়েছিল। পরবর্তীতে আত্মীয়তার ভিত্তিতে নির্দিষ্ট অংশের মাধ্যমে এটি রহিত হয়। নিশ্চয় আল্লাহ সবকিছুর ওপর প্রত্যক্ষ সাক্ষী।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "ولي",
+   "lemma": "مَوالِي",
+   "meaning_en": "heirs / protectors",
+   "meaning_bn": "উত্তরাধিকারীগণ",
+   "why_en": "Refers to legal inheritors designated to receive shares from estate property."
+  },
+  {
+   "pos": 9,
+   "root": "عقد",
+   "lemma": "عَقَدَتْ",
+   "meaning_en": "bound / pledged",
+   "meaning_bn": "অঙ্গীকারাবদ্ধ হয়েছিল",
+   "why_en": "Refers to early mutual pacts of support and brotherhood."
+  },
+  {
+   "pos": 19,
+   "root": "شهد",
+   "lemma": "شَهِيد",
+   "meaning_en": "a Witness",
+   "meaning_bn": "প্রত্যক্ষ সাক্ষী",
+   "why_en": "Affirms that Allah observes all pacts, contracts, and distributions of property."
+  }
+ ],
+ "lesson_en": "Honor your lawful pledges and give heirs their appointed shares with fairness.",
+ "lesson_bn": "নিজের প্রতিশ্রুতি বিশ্বস্ততার সাথে রক্ষা করুন এবং আল্লাহ নির্ধারিত উত্তরাধিকারের বিধান মেনে চলুন।",
+ "real_life_en": "Fulfill contracts and promises you make with others. When dividing an estate or settling a debt, be fair and prompt. Allah watches every transaction.",
+ "real_life_bn": "পিতার মৃত্যুর পর সম্পত্তি বণ্টনের সময় ভাইবোনদের মধ্যে মতভেদ হতে পারে। একজন মুমিন নিজের ইচ্ছেমতো সম্পদ ভাগ না করে কুরআনের সুনির্দিষ্ট নিয়ম অনুসরণ করে এবং পিতার কোনো ঋণ বা বৈধ ওয়াদা থাকলে তা পূরণ করে। সে জানে আল্লাহ সবকিছু প্রত্যক্ষ করছেন।",
+ "context_en": "Reinforces the system of inheritance and contractual obligations, confirming that legal kinship governs inheritance.",
+ "context_bn": "উত্তরাধিকার বণ্টন ও অঙ্গীকার পূরণের বিধান নিশ্চিতকরণ, যেখানে আত্মীয়তার সম্পর্ককে প্রাধান্য দেওয়া হয়েছে।",
+ "themes": [
+  "wealth",
+  "justice",
+  "keeping promises",
+  "family"
+ ],
+ "kinds": [
+  "law",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Ash-Shaheed"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah appointed rightful heirs to receive shares of what parents and close relatives leave behind.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Pledged allies were given their shares by treaty at the start of Islam before this was replaced by family inheritance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah is a complete Witness over all oaths, contracts, and property dealings.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

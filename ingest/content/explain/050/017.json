@@ -1,0 +1,84 @@
+{
+  "id": "50:17",
+  "simple_en": "Allah appointed two recording angels for each person. One sits on the right side to write down good deeds. The other sits on the left side to write down bad deeds. They stay close and never miss an action.",
+  "simple_bn": "আল্লাহ প্রত্যেক মানুষের জন্য দুজন আমললিপিকারী ফেরেশতা নিয়োজিত করেছেন। একজন তার ডান পাশে বসে ভালো কাজ লেখেন, আর অন্যজন বাম পাশে বসে পাপ কাজ লেখেন। তাঁরা সর্বদা সাথে থেকে নিখুঁতভাবে সবকিছু লিপিবদ্ধ করেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "لقي",
+      "lemma": "مُتَلَقِّيان",
+      "meaning_en": "the two recording angels",
+      "meaning_bn": "আমল সংরক্ষণকারী দুই ফেরেশতা",
+      "why_en": "The two angels appointed to record a person's words and actions."
+    },
+    {
+      "pos": 5,
+      "root": "يمن",
+      "lemma": "يَمِين",
+      "meaning_en": "the right side",
+      "meaning_bn": "ডান দিক",
+      "why_en": "The angel on the right records good deeds."
+    },
+    {
+      "pos": 7,
+      "root": "شمل",
+      "lemma": "شِمال",
+      "meaning_en": "the left side",
+      "meaning_bn": "বাম দিক",
+      "why_en": "The angel on the left records sins and misdeeds."
+    },
+    {
+      "pos": 8,
+      "root": "قعد",
+      "lemma": "قَعِيد",
+      "meaning_en": "seated and constantly ready",
+      "meaning_bn": "উপবিষ্ট বা প্রস্তুত",
+      "why_en": "Staying close and attentive to record every action."
+    }
+  ],
+  "lesson_en": "You are never alone. Two angels are quietly writing down everything you do.",
+  "lesson_bn": "কখনোই ভাববেন না আপনি একা, দুজন ফেরেশতা সর্বক্ষণ আপনার প্রতিটি কাজ লিখে রাখছেন।",
+  "real_life_en": "Before you send an angry message or do something wrong, pause. Remember that the angel is ready to write it down.",
+  "real_life_bn": "কাউকে কটু কথা লেখার বা কোনো অন্যায় করার আগে একটু ভাবুন যে সাথে থাকা ফেরেশতা তা এখনই লিখে নিচ্ছেন।",
+  "context_en": "Along with Allah's own knowledge, two angels are assigned to document every human deed.",
+  "context_bn": "আল্লাহর সর্বব্যাপী জ্ঞানের পাশাপাশি মানুষের প্রতিটি কাজ লিপিবদ্ধ করার জন্য দুজন ফেরেশতা নিযুক্ত থাকার কথা এখানে এসেছে।",
+  "themes": [
+    "angels",
+    "the unseen",
+    "record of deeds",
+    "taqwa"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels",
+      "recording-angels",
+      "record-of-deeds"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Two angels are appointed to every human, seated on the right and left to record all deeds.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

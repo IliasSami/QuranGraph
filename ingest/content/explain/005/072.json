@@ -1,0 +1,102 @@
+{
+ "id": "5:72",
+ "simple_en": "Those who say that Allah is the Messiah, son of Mary, have fallen into disbelief. The Messiah himself told the Children of Israel: Worship Allah alone, my Lord and your Lord. Whoever sets up partners with Allah will never enter the Garden. His home will be the Fire, and the wrongdoers have no helpers.",
+ "simple_bn": "নিশ্চয় তারা কুফরি করেছে যারা বলে, 'মারইয়াম-পুত্র মাসীহই আল্লাহ।' অথচ মাসীহ নিজে বনী ইসরাঈলকে বলেছিলেন: তোমরা একমাত্র আল্লাহর ইবাদত করো, যিনি আমার রব এবং তোমাদেরও রব। জেনে রেখো, যে ব্যক্তি আল্লাহর সাথে কাউকে শরীক করে, আল্লাহ তার জন্য জান্নাত হারাম করে দেন এবং তার ঠিকানা হয় জাহান্নাম। আর জালিমদের কোনো সাহায্যকারী থাকবে না।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "مسح",
+   "lemma": "مَسِيح",
+   "meaning_en": "the Messiah",
+   "meaning_bn": "মাসীহ (ঈসা আলাইহিস সালাম)",
+   "why_en": "Identifies the noble prophet who was falsely given divine status."
+  },
+  {
+   "pos": 21,
+   "root": "شرك",
+   "lemma": "أَشْرَكَ",
+   "meaning_en": "ascribes partners",
+   "meaning_bn": "শরীক করে",
+   "why_en": "The grave sin of directing worship to anyone alongside Allah."
+  },
+  {
+   "pos": 27,
+   "root": "جنن",
+   "lemma": "جَنَّة",
+   "meaning_en": "Paradise",
+   "meaning_bn": "জান্নাত",
+   "why_en": "The eternal reward forbidden to anyone who dies in polytheism."
+  }
+ ],
+ "lesson_en": "Worship Allah alone. Setting up partners with Him closes the door to Paradise.",
+ "lesson_bn": "একমাত্র আল্লাহর ইবাদত করুন। আল্লাহর সাথে কাউকে শরীক করলে জান্নাত চিরতরে হারাম হয়ে যায়।",
+ "real_life_en": "Love Prophet Isa, peace be upon him, as a great messenger of Allah. But pray only to Allah. Do not ask any human being for what only the Creator can give.",
+ "real_life_bn": "ঈসা (আলাইহিস সালাম)-কে আল্লাহর সম্মানিত রাসূল হিসেবে শ্রদ্ধা করুন, কিন্তু কখনোই তাঁকে উপাস্য মনে করবেন না বা তাঁর কাছে দোয়া করবেন না। আপনার প্রতিটি প্রার্থনা ও ইবাদত কেবল মহান আল্লাহর উদ্দেশ্যে নিবেদন করুন।",
+ "context_en": "Refutes the deification of Jesus by quoting his own clear words demanding pure monotheism.",
+ "context_bn": "ঈসা (আলাইহিস সালাম)-এর নিজ জবানে দেওয়া তাওহিদের স্পষ্ট ঘোষণার মাধ্যমে তাঁকে ঈশ্বর বানানোর ভ্রান্ত মতবাদ খণ্ডন করা হয়েছে।",
+ "themes": [
+  "tawhid",
+  "shirk",
+  "Paradise",
+  "Hell",
+  "prophethood",
+  "Children of Israel"
+ ],
+ "kinds": [
+  "belief",
+  "warning",
+  "argument",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [
+   "Isa",
+   "Maryam"
+  ],
+  "nations": [
+   "Christians",
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [
+   "Paradise",
+   "Hell"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who claim that Allah is the Messiah, son of Mary, have committed disbelief.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The Messiah himself ordered the Children of Israel to worship Allah alone, his Lord and their Lord.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Whoever associates partners with Allah is permanently barred from Paradise and consigned to the Fire.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "25:3",
+  "simple_en": "Yet the idolaters worship false gods instead of Allah. These false gods cannot create anything because they are created objects. They cannot bring good or stop harm for themselves, nor can they cause death, grant life, or raise the dead.",
+  "simple_bn": "অথচ মুশরিকরা আল্লাহকে ছেড়ে এমন সব মিথ্যা উপাস্য গ্রহণ করেছে যারা কিছুই সৃষ্টি করতে পারে না, বরং তারা নিজেরাই সৃষ্ট। তারা নিজেদের কোনো ক্ষতি বা উপকার করার ক্ষমতা রাখে না এবং মৃত্যু, জীবন বা পুনরুত্থানের ওপর তাদের কোনো হাত নেই।",
+  "key_words": [
+    {
+      "pos": 6,
+      "arabic": "يَخْلُقُونَ",
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "they create",
+      "meaning_bn": "তারা সৃষ্টি করে",
+      "why_en": "The divine attribute of creation which idols completely lack."
+    },
+    {
+      "pos": 22,
+      "arabic": "نُشُورًا",
+      "root": "نشر",
+      "lemma": "نُشُور",
+      "meaning_en": "resurrection",
+      "meaning_bn": "পুনরুত্থান",
+      "why_en": "Raising the dead back to life for judgment."
+    }
+  ],
+  "lesson_en": "Only God gives life, brings death, and answers prayers. Worshipping created things is useless and leaves the heart empty.",
+  "lesson_bn": "একমাত্র আল্লাহই জীবন ও মৃত্যুর মালিক। কোনো সৃষ্টির উপাসনা করা মানুষের আত্মিক অবক্ষয় ও অন্তরের শূন্যতা ডেকে আনে।",
+  "real_life_en": "Never place your ultimate hope in money, status, or created beings. Direct all your prayers and hopes to God alone.",
+  "real_life_bn": "নিজের আশা ও ভরসা কোনো সৃষ্টির ওপর ন্যস্ত করবেন না। জীবনের সকল চাওয়া ও প্রার্থনায় কেবল এক আল্লাহর ওপর নির্ভর করুন।",
+  "themes": [
+    "tawhid",
+    "false-gods",
+    "resurrection"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "False deities can create nothing and possess no power over harm, benefit, life, death, or resurrection.",
+      "claim_bn": "আল্লাহ ছাড়া অন্য উপাস্যরা কিছুই সৃষ্টি করতে পারে না এবং নিজেদের কোনো লাভ, ক্ষতি, জীবন, মৃত্যু বা পুনরুত্থানের ওপর তাদের কোনো ক্ষমতা নেই।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

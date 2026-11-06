@@ -1,0 +1,79 @@
+{
+  "id": "36:70",
+  "simple_en": "The Quran came to warn those whose hearts are alive. It guides people who seek the truth. It also shows clear proof against those who deny faith.",
+  "simple_bn": "এই কুরআন নাযিল হয়েছে যাতে তা জীবন্ত হৃদয়ের অধিকারীদের সতর্ক করতে পারে এবং সত্য প্রত্যাখ্যানকারী কাফিরদের বিরুদ্ধে শাস্তির ফায়সালা চূড়ান্ত ও প্রমাণিত হয়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نذر",
+      "lemma": "أَنذَرَ",
+      "meaning_en": "to warn",
+      "meaning_bn": "সতর্ক করার জন্য",
+      "why_en": "The primary purpose of sending revelation to awaken heedless souls."
+    },
+    {
+      "pos": 4,
+      "root": "حيي",
+      "lemma": "حَيّ",
+      "meaning_en": "alive",
+      "meaning_bn": "জীবন্ত",
+      "why_en": "Refers to spiritual life in the heart that recognizes and accepts truth."
+    },
+    {
+      "pos": 5,
+      "root": "حقق",
+      "lemma": "حَقَّ",
+      "meaning_en": "and may be justified",
+      "meaning_bn": "এবং উপযুক্ত বা সাব্যস্ত হতে পারে",
+      "why_en": "The sentence of divine justice falls rightfully after clear proof is given."
+    },
+    {
+      "pos": 8,
+      "root": "كفر",
+      "lemma": "كافِر",
+      "meaning_en": "the disbelievers",
+      "meaning_bn": "কাফিরগণ",
+      "why_en": "Those who insist on rejecting the truth despite clear warnings."
+    }
+  ],
+  "lesson_en": "The Quran gives life to open hearts and leaves no excuse for deniers.",
+  "lesson_bn": "কুরআন জীবিত হৃদয়কে জাগ্রত করে এবং একগুঁয়ে অস্বীকারকারীদের কোনো অজুহাত বাকি রাখে না।",
+  "real_life_en": "Keep your heart open to the words of Allah. Let the verses soften your heart and guide how you treat people each day.",
+  "real_life_bn": "নিজের অন্তরকে সত্য গ্রহণের জন্য উন্মুক্ত রাখুন। কুরআন তিলাওয়াতের সময় এর নসিহত যেন আপনার হৃদয়কে নরম করে এবং সৎ পথে পরিচালিত করে।",
+  "themes": [
+    "spiritual life",
+    "warning",
+    "justice",
+    "guidance"
+  ],
+  "kinds": [
+    "warning",
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran is sent to warn those who are spiritually alive and to justify the decree of punishment against the disbelievers.",
+      "claim_bn": "কুরআন অবতীর্ণ হয়েছে জীবিত অন্তরকে সতর্ক করার জন্য এবং কাফিরদের ওপর শাস্তির ঘোষণা নিশ্চিত করার জন্য।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

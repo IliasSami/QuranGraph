@@ -1,0 +1,71 @@
+{
+  "id": "20:134",
+  "simple_en": "If We had destroyed them before sending a prophet, they would have complained. They would say: Our Lord, why did You not send a guide to save us?",
+  "simple_bn": "যদি আমরা এই রাসুল প্রেরণের পূর্বে তাদের কোনো আজাব দিয়ে ধ্বংস করতাম, তবে তারা বলত: হে আমাদের রব, কেন আপনি আমাদের কাছে একজন রাসুল পাঠালেন না?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "We destroyed them",
+      "meaning_bn": "আমরা তাদের ধ্বংস করতাম",
+      "why_en": "Preemptive divine punishment before warning."
+    },
+    {
+      "pos": 12,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "a messenger",
+      "meaning_bn": "একজন রাসুল",
+      "why_en": "Sending human guides establishes fair moral accountability."
+    },
+    {
+      "pos": 19,
+      "root": "خزي",
+      "lemma": "خَزِيَ",
+      "meaning_en": "we were humiliated",
+      "meaning_bn": "আমরা লাঞ্ছিত হতাম",
+      "why_en": "Being punished without receiving clear guidance first."
+    }
+  ],
+  "lesson_en": "God does not punish people without sending a guide first. He sends clear warnings to help them.",
+  "lesson_bn": "আল্লাহ মানুষকে সৎপথ দেখানোর জন্য রাসুল ও সতর্ককারী না পাঠিয়ে কখনোই কোনো জাতিকে শাস্তি দেন না।",
+  "real_life_en": "Give people fair warnings before you hold them to task. Be clear about rules at home and at work.",
+  "real_life_bn": "কাউকে কোনো দায়িত্ব দিলে বা কাজের নির্দেশ দিলে আগে নিয়ম বুঝিয়ে দিন। পরিষ্কার নির্দেশনা ছাড়া কাউকে দোষারোপ করবেন না।",
+  "themes": [
+    "divine-justice",
+    "sending-messengers",
+    "fair-warning"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God sent the Messenger so that people could not excuse themselves by claiming they received no warning.",
+      "claim_bn": "আল্লাহ রাসুল পাঠিয়েছেন যাতে মানুষ কিয়ামতের দিন কোনো সতর্ককারী আসেনি বলে ওজর পেশ করতে না পারে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

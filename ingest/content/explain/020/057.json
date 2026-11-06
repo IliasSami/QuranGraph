@@ -1,0 +1,69 @@
+{
+  "id": "20:57",
+  "simple_en": "Pharaoh accused Moses: Have you come to drive us out of our homeland with your magic? He tried to turn public opinion against Moses through fear.",
+  "simple_bn": "ফেরাউন অভিযোগ তুলল: হে মূসা, তুমি কি তোমার জাদুর জোরে আমাদের নিজ দেশ থেকে বের করে দিতে এসেছ? সে ভয়ের সৃষ্টি করে মূসার বিরুদ্ধে জনমত গড়ে তুলতে চাইল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "خرج",
+      "lemma": "أَخْرَجَ",
+      "meaning_en": "to expel or drive us out",
+      "meaning_bn": "আমাদের বের করে দিতে",
+      "why_en": "Framing religious truth as a political threat."
+    },
+    {
+      "pos": 6,
+      "root": "سحر",
+      "lemma": "سِحْر",
+      "meaning_en": "your magic or sorcery",
+      "meaning_bn": "তোমার জাদু",
+      "why_en": "Falsely labeling divine miracles as mere sorcery."
+    }
+  ],
+  "lesson_en": "Tyrants label truth as a threat. They claim reformers want to steal their land.",
+  "lesson_bn": "জালেম শাসকেরা প্রায়ই সংস্কারকদের রাষ্ট্রবিরোধী বিদ্রোহী সাজিয়ে জনগণকে সত্যের আহ্বান থেকে দূরে রাখতে অপচেষ্টা চালায়।",
+  "real_life_en": "Do not believe false rumors. Check the facts when leaders attack honest people who speak truth.",
+  "real_life_bn": "সৎ মানুষদের বিরুদ্ধে ছড়ানো অপপ্রচারে বিভ্রান্ত হবেন না। ভিত্তিহীন গুজবের পরিবর্তে সত্যতা যাচাই করে সিদ্ধান্ত নিন।",
+  "themes": [
+    "propaganda",
+    "pharaoh",
+    "false-accusation",
+    "musa"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Fir'awn"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh accused Moses of using magic to expel the Egyptians from their land.",
+      "claim_bn": "ফেরাউন মূসার বিরুদ্ধে জাদুর সাহায্যে মিসরীয়দের তাদের দেশ থেকে তাড়িয়ে দেওয়ার ষড়যন্ত্রের অভিযোগ তোলে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

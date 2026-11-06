@@ -1,0 +1,65 @@
+{
+  "id": "23:37",
+  "simple_en": "They claimed: There is nothing beyond this earthly life. We live and we die, and we will never be raised back to life. They lived only for today.",
+  "simple_bn": "তারা বলল, আমাদের এই পার্থিব জীবনই সব; এখানেই আমরা বাঁচি ও মরি, আর আমরা কখনো পুনরুত্থিত হব না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حيي",
+      "lemma": "حَياة",
+      "meaning_en": "our life",
+      "meaning_bn": "আমাদের জীবন",
+      "why_en": "The temporal earthly life mistakenly seen as the only existence."
+    },
+    {
+      "pos": 10,
+      "root": "بعث",
+      "lemma": "مَبْعُوث",
+      "meaning_en": "raised up",
+      "meaning_bn": "পুনরুত্থিত",
+      "why_en": "Being resurrected from death to stand for judgment."
+    }
+  ],
+  "lesson_en": "Living only for the present world blinds the human soul. Denying the next life leads people to selfish choices.",
+  "lesson_bn": "পরকাল অস্বীকার মানুষকে চরম বস্তুবাদী ও স্বার্থপর করে তোলে। অনন্ত জীবনের প্রস্তুতি নেওয়াই বুদ্ধিমানের কাজ।",
+  "real_life_en": "Do not live only for temporary pleasures. Keep your heart focused on the eternal life that awaits after death.",
+  "real_life_bn": "কেবল পার্থিব সুখের পেছনে ছুটবেন না। পরকালের পাথেয় সংগ্রহের জন্য নিয়মিত সৎকাজ করুন।",
+  "themes": [
+    "materialism",
+    "denial-of-afterlife",
+    "earthly-focus"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "resurrection"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "day-of-resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The skeptics asserted that human existence ends with earthly death and rejected any future resurrection.",
+      "claim_bn": "বস্তুবাদীরা দাবি করেছিল যে মৃত্যুর পর কোনো জীবন নেই এবং মানুষ আর কখনো পুনরুত্থিত হবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

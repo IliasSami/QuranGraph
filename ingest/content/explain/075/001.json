@@ -1,0 +1,67 @@
+{
+ "id": "75:1",
+ "simple_en": "Allah swears by the Day of Resurrection. On that Day, all human beings will be brought back to life. They will stand before Allah to account for everything they did in this world. This oath affirms that the Day of Judgment is real and will certainly happen.",
+ "simple_bn": "আল্লাহ কিয়ামত দিবসের শপথ করেছেন। সেদিন সমস্ত মানুষকে পুনরায় জীবিত করা হবে। তারা এই দুনিয়ায় যা কিছু করেছে, তার হিসাব দেওয়ার জন্য আল্লাহর সামনে দাঁড়াবে। এই শপথ প্রমাণ করে যে কিয়ামত অবশ্যই সংঘটিত হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "قسم",
+   "lemma": "أَقْسَمُ",
+   "meaning_en": "I swear",
+   "meaning_bn": "আমি শপথ করছি",
+   "why_en": "Allah swears by the Day of Resurrection to affirm its certainty."
+  },
+  {
+   "pos": 4,
+   "root": "قوم",
+   "lemma": "قِيامَة",
+   "meaning_en": "Resurrection",
+   "meaning_bn": "কিয়ামত",
+   "why_en": "The Day when all people will stand before Allah for reckoning."
+  }
+ ],
+ "lesson_en": "The Day of Resurrection is certain, so prepare for standing before your Lord.",
+ "lesson_bn": "কিয়ামতের দিন নিশ্চিত, তাই রবের সামনে দাঁড়ানোর জন্য প্রস্তুত থাকুন।",
+ "real_life_en": "Keep in mind that your life has a clear purpose and a final destination. Remind yourself each morning that every choice you make today will be reviewed on the Last Day.",
+ "real_life_bn": "মনে রাখুন, জীবনের একটি স্পষ্ট উদ্দেশ্য ও গন্তব্য রয়েছে। প্রতিদিন সকালে নিজেকে মনে করিয়ে দিন যে আজকের প্রতিটি কাজের হিসাব পরকালে দিতে হবে।",
+ "themes": [
+  "the Last Day",
+  "resurrection",
+  "judgment"
+ ],
+ "kinds": [
+  "oath",
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "day-of-judgment"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [
+   "day-of-judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah swears by the Day of Resurrection to emphasize that the resurrection and reckoning are certain.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

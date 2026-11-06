@@ -1,0 +1,81 @@
+{
+  "id": "14:1",
+  "simple_en": "This divine Book is revealed to you by your Lord. Its clear message guides people out of dark confusion and into bright guidance. All of this happens by the will of their Lord along the path of the Almighty, the Praiseworthy.",
+  "simple_bn": "এই মহাগ্রন্থ আপনার প্রতি অবতীর্ণ করা হয়েছে যাতে আপনি মানুষকে বিভ্রান্তির অন্ধকার থেকে হেদায়াতের আলোর দিকে বের করে আনতে পারেন। এ সবকিছুই তাদের রবের অনুমতিক্রমে পরাক্রমশালী ও প্রশংসিত আল্লাহর পথে পরিচালিত হয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Book",
+      "meaning_bn": "কিতাব",
+      "why_en": "Refers to the Quran sent down from Allah."
+    },
+    {
+      "pos": 8,
+      "root": "ظلم",
+      "lemma": "ظُلْمَة",
+      "meaning_en": "the darknesses",
+      "meaning_bn": "অন্ধকারসমূহ",
+      "why_en": "Represents the darkness of disbelief, sin, and confusion."
+    },
+    {
+      "pos": 10,
+      "root": "نور",
+      "lemma": "نُور",
+      "meaning_en": "the light",
+      "meaning_bn": "আলো",
+      "why_en": "Represents the clear light of faith and divine truth."
+    },
+    {
+      "pos": 15,
+      "root": "عزز",
+      "lemma": "عَزِيز",
+      "meaning_en": "the Almighty",
+      "meaning_bn": "মহাপরাক্রমশালী",
+      "why_en": "A divine name showing absolute power and authority."
+    }
+  ],
+  "lesson_en": "The Quran leads hearts out of dark confusion into pure light. Seek its guidance every day.",
+  "lesson_bn": "কুরআন মানব হৃদয়কে বিভ্রান্তির অন্ধকার থেকে আলোর পথে নিয়ে আসে। তাই প্রতিদিন এর হেদায়াত সন্ধান করা উচিত।",
+  "real_life_en": "A university student feels lost and overwhelmed by doubt. She starts reading the Quran with an open heart. Its clear words bring peace and direction back into her daily routine.",
+  "real_life_bn": "এক ছাত্রী সংশয় ও উদ্বেগে পথ হারিয়ে ফেলেছিল। সে মন দিয়ে কুরআন পড়া শুরু করে। এর স্পষ্ট বক্তব্য তার জীবনে প্রশান্তি ও নতুন দিকনির্দেশনা এনে দেয়।",
+  "context_en": "Opening of Surah Ibrahim stating the core purpose of revelation.",
+  "context_bn": "সূরা ইবরাহীমের সূচনা, যেখানে ওহী অবতীর্ণ করার মূল উদ্দেশ্য বর্ণিত হয়েছে।",
+  "themes": [
+    "revelation",
+    "guidance",
+    "divine-names"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-Aziz",
+      "al-Hamid"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quran was revealed to guide mankind from darkness to light by Allah's permission.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

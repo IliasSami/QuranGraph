@@ -1,0 +1,92 @@
+{
+ "id": "3:118",
+ "simple_en": "O you who believe, do not take close friends from outside your community who wish you harm. Do not share your private secrets with them. They try hard to cause you trouble and feel happy when you suffer. Their hatred has already shown in their speech, and their hearts hide even worse ill will. Allah has made His signs clear so you may understand.",
+ "simple_bn": "হে মুমিনগণ, নিজেদের লোক ছাড়া অন্যদের মধ্য থেকে এমন কাউকে অন্তরঙ্গ বন্ধু বানিও না, যারা তোমাদের ক্ষতি চায়। তাদের কাছে নিজেদের গোপন কথা প্রকাশ করো না। তারা তোমাদের বিপদে ফেলতে সর্বাত্মক চেষ্টা করে এবং তোমাদের কষ্টে আনন্দ পায়। তাদের মুখের কথাতেই শত্রুতা ফুটে উঠেছে, আর তাদের অন্তর যা গোপন রাখে তা আরো ভয়াবহ। আল্লাহ তোমাদের জন্য তাঁর নিদর্শনসমূহ স্পষ্ট করেছেন, যাতে তোমরা বুঝতে পারো।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "بطن",
+   "lemma": "بِطانَة",
+   "meaning_en": "intimate confidants / inner circle",
+   "meaning_bn": "অন্তরঙ্গ বন্ধু বা গোপন পরামর্শদাতা",
+   "why_en": "Refers to trusted advisors given access to one's confidential secrets and inner vulnerabilities."
+  },
+  {
+   "pos": 11,
+   "root": "خبل",
+   "lemma": "خَبال",
+   "meaning_en": "ruin / corruption",
+   "meaning_bn": "ক্ষতিসাধন বা বিশৃঙ্খলা",
+   "why_en": "Describes relentless efforts to cause harm, disruption, and decay within the community."
+  },
+  {
+   "pos": 14,
+   "root": "عنت",
+   "lemma": "عَنِ",
+   "meaning_en": "you suffer / hardship",
+   "meaning_bn": "তোমাদের কষ্ট বা ক্ষতি",
+   "why_en": "Expresses malicious pleasure at seeing believers undergo distress and calamity."
+  },
+  {
+   "pos": 17,
+   "root": "بغض",
+   "lemma": "بَغْضاء",
+   "meaning_en": "hatred",
+   "meaning_bn": "শত্রুতা ও বিদ্বেষ",
+   "why_en": "Highlights deep-seated malice that slips out in careless speech and slip-ups."
+  }
+ ],
+ "lesson_en": "Choose your close friends with care. Protect your private affairs from those who wish you harm.",
+ "lesson_bn": "সাবধানে নিজের ঘনিষ্ঠ বন্ধুদের বেছে নিন। যারা আপনার ক্ষতি কামনা করে, তাদের কাছ থেকে নিজেদের গোপন বিষয় সুরক্ষিত রাখুন।",
+ "real_life_en": "Treat all people with fairness and kindness, but do not share your private plans with ill-wishers. Trust takes time to build. Being careful with your secrets saves you from deep regret.",
+ "real_life_bn": "সবার সাথে ন্যায়সঙ্গত ও ভদ্র আচরণ করুন, তবে যারা আপনার অকল্যাণ চায় তাদের কাছে ব্যক্তিগত পরিকল্পনা প্রকাশ করবেন না। গোপনীয়তা রক্ষা করা অনুশোচনা থেকে বাঁচায়।",
+ "context_en": "Instructs believers on maintaining community security and vigilance after uncovering the hostility of malicious opponents.",
+ "context_bn": "শত্রুপক্ষের গোপন শত্রুতা ও অসৎ উদ্দেশ্য উন্মোচন করে মুসলিম সমাজকে অভ্যন্তরীণ নিরাপত্তা বজায় রাখার নির্দেশ দেওয়া হয়েছে।",
+ "themes": [
+  "the believers' qualities",
+  "trials",
+  "hypocrisy",
+  "ethics"
+ ],
+ "kinds": [
+  "prohibition",
+  "warning",
+  "address",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are prohibited from taking intimate confidants outside their community who spare no effort to corrupt their affairs and desire hardship for them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Malicious opponents reveal their hatred through their speech, while the hostility hidden in their breasts is even greater.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,88 @@
+{
+  "id": "57:24",
+  "simple_en": "Some people are stingy with what they owe and tell other people to be stingy as well. Whoever turns away from obedience harms only himself. Allah is completely free of any need from His creation, and He is Praiseworthy in every state.",
+  "simple_bn": "যারা নিজেরা কার্পণ্য করে এবং অন্যদেরকেও কার্পণ্য করার নির্দেশ দেয় তারা চরম ক্ষতিগ্রস্ত। যে ব্যক্তি আনুগত্য থেকে মুখ ফিরিয়ে নেয় সে কেবল নিজেরই ক্ষতি করে। নিশ্চয়ই আল্লাহ সকল সৃষ্টি থেকে অমুখাপেক্ষী এবং সর্বাবস্থায় প্রশংসিত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "بخل",
+      "lemma": "بَخِلَ",
+      "meaning_en": "are stingy",
+      "meaning_bn": "কার্পণ্য করে",
+      "why_en": "Refusing to spend obligatory wealth on family, zakat, or good causes."
+    },
+    {
+      "pos": 5,
+      "root": "بخل",
+      "lemma": "بُخْل",
+      "meaning_en": "stinginess",
+      "meaning_bn": "কার্পণ্য",
+      "why_en": "The negative trait of withholding wealth and discouraging generosity in society."
+    },
+    {
+      "pos": 11,
+      "root": "غني",
+      "lemma": "غَنِيّ",
+      "meaning_en": "Free of need",
+      "meaning_bn": "অমুখাপেক্ষী",
+      "why_en": "Affirms that Allah does not need our charity or worship."
+    },
+    {
+      "pos": 12,
+      "root": "حمد",
+      "lemma": "حَمِيد",
+      "meaning_en": "Praiseworthy",
+      "meaning_bn": "প্রশংসিত",
+      "why_en": "Allah is inherently worthy of all praise regardless of what creatures do."
+    }
+  ],
+  "lesson_en": "Share what you have with kindness, for Allah needs nothing from us.",
+  "lesson_bn": "উদার মনে দান করুন, কারণ আল্লাহ আমাদের কোনো দানের মুখাপেক্ষী নন।",
+  "real_life_en": "A man gets his annual bonus. A friend advises him to hide the money and avoid paying zakat. The man rejects this bad advice. He pays his full zakat with joy, knowing that giving cleanses the heart and pleases his Lord.",
+  "real_life_bn": "এক ব্যক্তি বার্ষিক বোনাস পান। এক বন্ধু তাকে যাকাত না দিয়ে অর্থ লুকিয়ে রাখার পরামর্শ দেয়। লোকটি সেই কুৎসিত পরামর্শ প্রত্যাখ্যান করেন। তিনি আনন্দের সাথে পুরো যাকাত পরিশোধ করেন, কারণ তিনি জানেন দান অন্তরকে পবিত্র করে।",
+  "themes": [
+    "wealth",
+    "greed",
+    "charity",
+    "names and attributes of Allah"
+  ],
+  "kinds": [
+    "warning",
+    "prohibition",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-ghaniyy",
+      "al-hamid"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who withhold obligatory charity and encourage others to be miserly earn loss for themselves.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Allah is Self-Sufficient, needing nothing from His creation, and worthy of all praise.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

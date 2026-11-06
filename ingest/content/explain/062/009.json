@@ -1,0 +1,70 @@
+{
+  "id": "62:9",
+  "simple_en": "Believers are commanded that when the call to prayer is made on Friday, they must hasten to the remembrance of Allah. They must leave off buying, selling, and all worldly trade. Attending the prayer and listening to the sermon is far better for you, if only you knew.",
+  "simple_bn": "হে মুমিনগণ, যখন জুমুআর দিনে সালাতের জন্য আহ্বান জানানো হয়, তখন তোমরা আল্লাহর স্মরণের দিকে দ্রুত ধাবিত হও এবং সমস্ত কেনাবেচা বন্ধ করো। যদি তোমরা উপলব্ধি করতে পারো, তবে এই বিধান মেনে চলাই তোমাদের জন্য সবচেয়ে কল্যাণকর।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "جمع",
+      "lemma": "جُمُعَة",
+      "meaning_en": "Friday",
+      "meaning_bn": "জুমুআ বা শুক্রবার",
+      "why_en": "The designated day of congregational prayer and community worship."
+    },
+    {
+      "pos": 10,
+      "root": "سعي",
+      "lemma": "سَعَى",
+      "meaning_en": "hasten with attention",
+      "meaning_bn": "তোমরা ধাবিত হও বা মনোনিবেশ করো",
+      "why_en": "Command to set aside worldly distractions and head toward the prayer and khutbah."
+    },
+    {
+      "pos": 15,
+      "root": "بيع",
+      "lemma": "بَيْع",
+      "meaning_en": "buying and selling",
+      "meaning_bn": "কেনাবেচা ও ব্যবসা-বাণিজ্য",
+      "why_en": "Prohibits commercial transactions once the call to Friday prayer is sounded."
+    }
+  ],
+  "lesson_en": "When God calls you to prayer on Friday, put worldly profit aside and answer His call.",
+  "lesson_bn": "জুমুআর আজান হলে পার্থিব ব্যস্ততা ও ব্যবসার কাজ স্থগিত রেখে আল্লাহর ঘরে উপস্থিত হওয়া আবশ্যক।",
+  "real_life_en": "A shop owner gets a big customer just as the Friday prayer call sounds. He politely asks the buyer to return after prayer, and he closes his shop. Trusting God with your livelihood brings true blessing and peace of mind.",
+  "real_life_bn": "আজানের সময় দোকান খোলা রেখে সাময়িক লাভ হলেও বরকত নষ্ট হয়। আল্লাহর আদেশকে প্রধান্য দিয়ে জামাতে অংশ নিলে রিজিকে প্রভূত বরকত আসে।",
+  "themes": [
+    "Friday prayer call",
+    "hastening to Allah's remembrance",
+    "leaving trade and commerce"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "worship"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When the call to Friday prayer is given, believers must proceed to Allah's remembrance and sermon and leave buying and selling, which is best for them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

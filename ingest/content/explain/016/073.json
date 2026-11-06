@@ -1,0 +1,63 @@
+{
+  "id": "16:73",
+  "simple_en": "They worship besides Allah things that own no food or provision for them from the skies and earth. In truth, these idols have no power at all.",
+  "simple_bn": "তারা আল্লাহ ছাড়া এমন সব মূর্তির উপাসনা করে, যারা আসমান ও যমীন থেকে তাদের কোনো খাদ্য দেওয়ার ক্ষমতা রাখে না এবং নিজেরাও তা দিতে সম্পূর্ণ অক্ষম।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "ملك",
+      "lemma": "مَلَكَتْ",
+      "meaning_en": "possesses",
+      "meaning_bn": "মালিকানা রাখে",
+      "why_en": "False gods possess zero control over nature."
+    },
+    {
+      "pos": 9,
+      "root": "رزق",
+      "lemma": "رِزْق",
+      "meaning_en": "provision",
+      "meaning_bn": "রিযিক",
+      "why_en": "Sustenance that flows solely from the Creator."
+    }
+  ],
+  "lesson_en": "Worship belongs only to the Provider. Helpless idols cannot give a single drop of rain or grain of wheat.",
+  "lesson_bn": "যেসব বস্তু কোনো রিজিক দেওয়ার ক্ষমতা রাখে না, তাদের উপাসনা করা চরম অজ্ঞতা ও নির্বুদ্ধিতা।",
+  "real_life_en": "Rely solely on God for your job and income. Do not bow to corruption or flatter people for sustenance.",
+  "real_life_bn": "জীবিকার জন্য কোনো অন্যায় পথের শরণাপন্ন হবেন না। একমাত্র রিজিকদাতা আল্লাহর ওপর পূর্ণ আস্থা রাখুন।",
+  "themes": [
+    "tawhid",
+    "sustenance",
+    "idolatry"
+  ],
+  "kinds": [
+    "prohibition",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "False deities possess no provision from the heavens and earth and are utterly unable to provide.",
+      "claim_bn": "আল্লাহ ছাড়া যাদের উপাসনা করা হয় তারা আসমান ও জমিনের কোনো জীবিকার মালিক নয় এবং সক্ষমও নয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,69 @@
+{
+  "id": "29:18",
+  "simple_en": "Abraham told his people that past nations also denied their prophets. A messenger must only convey the message with clarity. People must decide whether to believe.",
+  "simple_bn": "ইবরাহিম আলাইহিস সালাম তাঁর জাতিকে স্মরণ করিয়ে দেন যে তারা যদি সত্য অস্বীকার করে তবে পূর্ববর্তী জাতিরাও তাদের নবীদের অস্বীকার করেছিল। রাসূলের মূল দায়িত্ব কেবল স্পষ্ট ভাষায় সত্য বাণী পৌঁছে দেওয়া।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "تُكَذِّبُوا۟",
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "you deny",
+      "meaning_bn": "তোমরা মিথ্যা মনে করো",
+      "why_en": "The rejection of prophets by defiant communities."
+    },
+    {
+      "pos": 12,
+      "arabic": "ٱلْبَلَٰغُ",
+      "root": "بلغ",
+      "lemma": "بَلاغ",
+      "meaning_en": "the notification",
+      "meaning_bn": "সুস্পষ্ট প্রচার",
+      "why_en": "The duty of messengers to convey God's message with clarity."
+    }
+  ],
+  "lesson_en": "A messenger must deliver the message clearly. Guidance is in the hands of God.",
+  "lesson_bn": "সত্য বাণী পৌঁছে দেওয়াই প্রচারকের দায়িত্ব, আর পথপ্রদর্শন করা সম্পূর্ণ আল্লাহর ইচ্ছা।",
+  "real_life_en": "Share good advice with kindness and clarity. Do not feel frustrated if people take time to accept your counsel.",
+  "real_life_bn": "অন্যদের ভালো উপদেশ দেওয়ার সময় বিনয়ী ও স্পষ্ট ভাষা ব্যবহার করুন। কেউ না মানলে হতাশ হবেন না।",
+  "themes": [
+    "prophethood",
+    "message",
+    "ancient-nations"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Abraham"
+    ],
+    "nations": [
+      "Ancient Nations"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "If people deny the truth, past nations also denied their messengers; the messenger's duty is only clear notification.",
+      "claim_bn": "তোমরা সত্য অস্বীকার করলে জেনে রাখো পূর্ববর্তী জাতিরাও অস্বীকার করেছিল, আর রাসূলের দায়িত্ব কেবল সুস্পষ্ট প্রচার করা।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

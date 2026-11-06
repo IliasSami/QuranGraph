@@ -1,0 +1,81 @@
+{
+  "id": "12:27",
+  "simple_en": "The witness added that if his shirt was torn from the back, it proved she pursued him while he fled. So she was lying, and Joseph was truthful.",
+  "simple_bn": "আর যদি তার জামা পেছন দিক থেকে ছেঁড়া থাকে, তবে মহিলাটি মিথ্যা বলেছে এবং ইউসুফ সত্যবাদীদের অন্তর্ভুক্ত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "قدد",
+      "lemma": "قُدَّ",
+      "meaning_en": "torn",
+      "meaning_bn": "ছেঁড়া",
+      "why_en": "The tear indicating the direction of force."
+    },
+    {
+      "pos": 6,
+      "root": "دبر",
+      "lemma": "دُبُر",
+      "meaning_en": "the back",
+      "meaning_bn": "পেছন দিক",
+      "why_en": "Crucial proof that the accused was escaping."
+    },
+    {
+      "pos": 7,
+      "root": "كذب",
+      "lemma": "كَذَبَ",
+      "meaning_en": "she lied",
+      "meaning_bn": "মহিলাটি মিথ্যা বলল",
+      "why_en": "Unmasking false accusation."
+    },
+    {
+      "pos": 10,
+      "root": "صدق",
+      "lemma": "صادِق",
+      "meaning_en": "the truthful",
+      "meaning_bn": "সত্যবাদী",
+      "why_en": "Vindicating the moral purity of the Prophet."
+    }
+  ],
+  "lesson_en": "Small signs and real facts can prove who is telling the truth.",
+  "lesson_bn": "পরিস্থিতিগত ও বস্তুনিষ্ঠ প্রমাণ নির্দোষ ব্যক্তির পক্ষে অকাট্য সাক্ষ্য দেয়।",
+  "real_life_en": "Look closely at the facts when accusations arise. God has placed signs in the world that allow fair-minded people to see who is truthful.",
+  "real_life_bn": "কোনো বিষয়ে অভিযোগ উঠলে বাস্তব প্রমাণের দিকে নজর দিন। নিরপেক্ষ দৃষ্টিভঙ্গি সত্য ও মিথ্যার সঠিক পার্থক্য স্পষ্ট করে।",
+  "themes": [
+    "evidence",
+    "truthfulness",
+    "clearing innocence",
+    "story of Yusuf"
+  ],
+  "kinds": [
+    "story",
+    "law",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Wife of Al-Aziz"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The arbiter deduced that a shirt torn from the back would definitively establish that Joseph was fleeing and that the woman had lied.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

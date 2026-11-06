@@ -1,0 +1,66 @@
+{
+  "id": "22:2",
+  "simple_en": "On that Day nursing mothers will forget their babies, and pregnant women will drop their loads. People will look drunk from sheer terror, though they are not drunk.",
+  "simple_bn": "সেই দিন স্তন্যদানকারী মা তার দুধের শিশুকে ভুলে যাবে এবং গর্ভবতী নারী তার গর্ভপাত ঘটাবে। মানুষকে আতঙ্কে মাতালের মতো মনে হবে, অথচ তারা মাতাল নয়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ذهل",
+      "lemma": "تَذْهَلُ",
+      "meaning_en": "will be distracted",
+      "meaning_bn": "ভুলে যাবে বা অমনোযোগী হবে",
+      "why_en": "Extreme terror severing even the deepest maternal instincts."
+    },
+    {
+      "pos": 15,
+      "root": "سكر",
+      "lemma": "سُكارَى",
+      "meaning_en": "intoxicated",
+      "meaning_bn": "মাতাল বা জ্ঞানহারা",
+      "why_en": "Metaphor for cognitive paralysis caused by horror."
+    }
+  ],
+  "lesson_en": "Cosmic terror breaks all normal human bonds. Only sincere faith can anchor a soul in that overwhelming hour.",
+  "lesson_bn": "কিয়ামতের ভয়াবহতা সব জাগতিক সম্পর্ক ছিন্ন করে দেবে। কেবল খাঁটি ঈমানই সেই সংকটময় মুহূর্তে অন্তরে শান্তি দিতে পারে।",
+  "real_life_en": "Prepare for the Day when no relative can help you. Build a strong bond with God through daily prayer and honest living.",
+  "real_life_bn": "সেই দিনের জন্য প্রস্তুতি নিন যেদিন কেউ কারো সাহায্যে আসবে না। নিয়মিত সালাত ও সৎকাজের মাধ্যমে আল্লাহর সাথে সম্পর্ক গড়ুন।",
+  "themes": [
+    "horror-of-judgment",
+    "nursing-mothers",
+    "paralyzing-terror",
+    "hereafter"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Day of Judgment"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The terrifying events of the Last Day will distract mothers from infants and make people appear intoxicated from dread.",
+      "claim_bn": "কিয়ামতের ভয়াবহতা মায়েদের দুধের শিশু ভুলিয়ে দেবে এবং মানুষের জ্ঞান স্তব্ধ করে মাতালের মতো বিহ্বল বানিয়ে ফেলবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

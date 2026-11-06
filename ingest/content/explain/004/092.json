@@ -1,0 +1,106 @@
+{
+ "id": "4:92",
+ "simple_en": "A believer must never kill another believer, except by pure mistake. If someone kills a believer by accident, they must free a believing slave and pay money to the family. If the family forgives it, that counts as charity. Special rules apply if the victim lived with other groups. Whoever cannot do this must fast for two months in a row to repent to Allah. Allah is All-Knowing and Wise.",
+ "simple_bn": "কোনো মুমিনের পক্ষে অপর কোনো মুমিনকে হত্যা করা বৈধ নয়, ভুলবশত ছাড়া। আর কেউ কোনো মুমিনকে ভুলবশত হত্যা করলে তার কাফফারা হলো একজন মুমিন দাস মুক্ত করা এবং নিহতের পরিবারকে রক্তপণ পরিশোধ করা, যদি না তারা তা মাফ করে দেয়। আর নিহত ব্যক্তি যদি তোমাদের শত্রু কওমের লোক হয় কিন্তু নিজে মুমিন হয়, তবে শুধু একজন মুমিন দাস মুক্ত করতে হবে। আর সে যদি এমন সম্প্রদায়ের হয় যাদের সাথে তোমাদের চুক্তি রয়েছে, তবে তার পরিবারকে রক্তপণ দিতে হবে এবং একজন মুমিন দাসও মুক্ত করতে হবে। যে এর সামর্থ্য পাবে না, সে আল্লাহর কাছে তওবা হিসেবে একাধারে দুই মাস রোজা রাখবে। নিশ্চয়ই আল্লাহ সর্বজ্ঞ ও প্রজ্ঞাময়।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "خطأ",
+   "lemma": "خَطَأ",
+   "meaning_en": "by mistake or accidental",
+   "meaning_bn": "ভুলবশত",
+   "why_en": "Establishes that a true believer never kills another intentionally, only by accident."
+  },
+  {
+   "pos": 16,
+   "root": "ودي",
+   "lemma": "دِيَة",
+   "meaning_en": "blood money or compensation",
+   "meaning_bn": "রক্তপণ বা দিয়্যাত",
+   "why_en": "The financial compensation paid to the victim's family to heal loss and prevent feud."
+  },
+  {
+   "pos": 53,
+   "root": "تبع",
+   "lemma": "مُتَتابِعَيْن",
+   "meaning_en": "two consecutive months",
+   "meaning_bn": "টানা দুই মাস",
+   "why_en": "Specifies unbroken fasting as the alternative expiation if one cannot free a slave."
+  },
+  {
+   "pos": 59,
+   "root": "علم",
+   "lemma": "عَلِيم",
+   "meaning_en": "All-Knowing",
+   "meaning_bn": "সর্বজ্ঞ",
+   "why_en": "Affirms Allah's complete awareness of all human actions, mistakes, and hidden intentions."
+  }
+ ],
+ "lesson_en": "Human life is sacred, so make amends and ask Allah to forgive your mistakes.",
+ "lesson_bn": "মুমিনের জীবনের পবিত্রতা রক্ষা করুন এবং অনিচ্ছাকৃত ভুলের ক্ষেত্রেও ক্ষতিপূরণ ও তওবার বিধান মেনে চলুন।",
+ "real_life_en": "If a car crash causes someone to die, the driver cannot just walk away. They must help the grieving family, fast to make amends, and ask Allah to forgive their mistake.",
+ "real_life_bn": "গাড়ি চালানো বা অসাবধানতার কারণে কারো জীবনহানি ঘটলে বিষয়টি হালকাভাবে নেবেন না। ক্ষতিগ্রস্ত পরিবারের ক্ষতিপূরণ নিশ্চিত করুন এবং আন্তরিকভাবে আল্লাহর কাছে তওবা করুন।",
+ "context_en": "Details the legal compensation and religious expiation for the accidental killing of a fellow believer.",
+ "context_bn": "ভুলবশত কোনো মুসলিম নিহত হলে তার রক্তপণ, কাফফারা এবং ধারাবাহিক রোজা রাখার বিধান স্পষ্ট করা হয়েছে।",
+ "themes": [
+  "law",
+  "justice",
+  "repentance",
+  "forgiveness",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Aleem",
+   "Al-Hakeem"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "A believer is never permitted to intentionally kill another believer; only accidental killing can occur.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Accidental killing requires freeing a believing slave and paying blood money (diyah) to the heirs, unless they remit it as charity.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "If the victim belongs to a treaty-bound nation, blood money must be delivered to their family along with freeing a slave.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "If one lacks the means to free a slave, one must fast two consecutive months as divinely prescribed penance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

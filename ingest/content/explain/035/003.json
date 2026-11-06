@@ -1,0 +1,73 @@
+{
+  "id": "35:3",
+  "simple_en": "O people, remember the many favors Allah has given you. Is there any creator besides Allah who provides for you from the sky and the earth? He sends rain from above and brings food from the ground. None has the right to be worshiped except Him. How then do you turn away from the clear truth?",
+  "simple_bn": "হে মানুষ, তোমরা তোমাদের ওপর আল্লাহর দেওয়া নিয়ামতগুলো স্মরণ করো। আল্লাহ ছাড়া কি আর কোনো সৃষ্টিকর্তা আছে, যে তোমাদের আকাশ ও জমিন থেকে রিযিক দেয়? তিনি আকাশ থেকে বৃষ্টি বর্ষণ করেন এবং জমিন থেকে ফসল উৎপাদন করেন। তিনি ছাড়া সত্য কোনো উপাস্য নেই। তবে তোমরা কীভাবে সত্য ছেড়ে বিপথে যাচ্ছ?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ذكر",
+      "lemma": "ذَكَرَ",
+      "meaning_en": "remember",
+      "meaning_bn": "স্মরণ করো",
+      "why_en": "Urges constant mindfulness and gratitude for divine gifts."
+    },
+    {
+      "pos": 4,
+      "root": "نعم",
+      "lemma": "نِعْمَة",
+      "meaning_en": "favor / blessing",
+      "meaning_bn": "নিয়ামত বা অনুগ্রহ",
+      "why_en": "Refers to continuous blessings like life, sustenance, and health."
+    },
+    {
+      "pos": 8,
+      "root": null,
+      "lemma": "مِن",
+      "meaning_en": "creator",
+      "meaning_bn": "সৃষ্টিকর্তা",
+      "why_en": "Affirms that only Allah brings creation into existence."
+    }
+  ],
+  "lesson_en": "Gratitude for divine gifts leads a person to worship Allah alone without partners.",
+  "lesson_bn": "আল্লাহর নিয়ামতের শুকরিয়া মানুষকে একমাত্র তাঁর ইবাদতে অবিচল রাখে।",
+  "real_life_en": "Before you eat or drink, take a moment to thank Allah. Remind yourself that every grain of food comes from His kindness, not merely your own effort.",
+  "real_life_bn": "খাবার খাওয়ার সময় আল্লাহর নিয়ামতের কথা মনে করে তাঁর কৃতজ্ঞতা প্রকাশ করুন। মনে রাখবেন, আমাদের প্রতিটি রিযিক তাঁরই দান।",
+  "themes": [
+    "gratitude",
+    "remembrance of allah",
+    "tawhid",
+    "creation"
+  ],
+  "kinds": [
+    "address",
+    "argument",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Mankind is commanded to remember Allah's favors and recognize that no creator or provider exists besides Him.",
+      "claim_bn": "মানুষকে আল্লাহর অনুগ্রহ স্মরণ করার এবং একমাত্র তিনিই যে সৃষ্টিকর্তা ও রিযিকদাতা তা স্বীকার করার নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

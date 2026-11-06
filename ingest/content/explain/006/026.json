@@ -1,0 +1,79 @@
+{
+  "id": "6:26",
+  "simple_en": "These deniers do two harmful things. They tell other people to stay away from the Prophet, and they also distance themselves from him. By doing this, they do not hurt Allah or His messenger. They only bring ruin upon their own souls, but they fail to realize it.",
+  "simple_bn": "এসব সত্য অস্বীকারকারী দুটি ক্ষতি করে। তারা নিজেরাও সত্য থেকে দূরে থাকে এবং অন্যদেরও রাসূলের কাছে যেতে বাধা দেয়। এর মাধ্যমে তারা সত্যের কোনো ক্ষতি করতে পারে না। বরং তারা কেবল নিজেদের আত্মাকেই ধ্বংসের মুখে ঠেলে দেয়, কিন্তু তারা তা উপলব্ধি করতে পারে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نهي",
+      "lemma": "نَهَى",
+      "meaning_en": "they forbid",
+      "meaning_bn": "তারা বারণ করে",
+      "why_en": "Shows how opponents actively blocked others from listening to the Prophet."
+    },
+    {
+      "pos": 4,
+      "root": "نأي",
+      "lemma": "نَأَى",
+      "meaning_en": "they stay away",
+      "meaning_bn": "তারা দূরে সরে থাকে",
+      "why_en": "Depicts how they kept themselves distant from divine guidance."
+    },
+    {
+      "pos": 7,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "they destroy",
+      "meaning_bn": "তারা ধ্বংস করে",
+      "why_en": "Warns that obstructing the truth brings ruin solely upon oneself."
+    }
+  ],
+  "lesson_en": "Blocking others from the truth only harms the person who tries to block it.",
+  "lesson_bn": "সত্যের পথ রুদ্ধ করার চেষ্টা করা ব্যক্তি মূলত নিজের জীবন ও ভবিষ্যৎকেই ধ্বংস করে।",
+  "real_life_en": "A jealous worker dislikes a good project. He tells others not to join. The project still succeeds, but the jealous worker loses respect and harms himself. Trying to stop good work only hurts you in the end.",
+  "real_life_bn": "কোনো শুভ কাজে নিজে শরিক না হয়ে অন্যকেও বাধা দেওয়া ক্ষতিকর স্বভাব। ভালো কাজ নিজের গতিতে এগিয়ে যায়, কিন্তু বাধা সৃষ্টিকারী মানুষ নিজের সম্মান ও গ্রহণযোগ্যতা হারায়। সৎকাজে বাধা দেওয়া মূলত নিজেরই ক্ষতি ডেকে আনে।",
+  "context_en": "Condemns the dual crime of hindering others from the truth while personally rejecting it.",
+  "context_bn": "নিজে সত্য বর্জন করা এবং অন্যদেরও সত্য থেকে দূরে সরিয়ে রাখার দ্বিমুখী অন্যায়ের নিন্দা জানানো হয়েছে।",
+  "themes": [
+    "harm",
+    "rejection",
+    "self-destruction"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers forbid people from following the Messenger while simultaneously distancing themselves from him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "By obstructing the truth, opponents cause their own destruction without perceiving their loss.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

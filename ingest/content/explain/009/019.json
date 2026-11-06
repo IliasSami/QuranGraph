@@ -1,0 +1,77 @@
+{
+  "id": "9:19",
+  "simple_en": "Do you consider giving water to pilgrims and maintaining the Sacred Mosque equal to believing in Allah and the Last Day and striving in His cause? They are not equal with Allah. Allah does not guide the unjust people.",
+  "simple_bn": "হাজীদের পানি পান করানো এবং মসজিদুল হারামের রক্ষণাবেক্ষণ করাকে কি তোমরা আল্লাহ ও পরকালে বিশ্বাস এবং আল্লাহর পথে সংগ্রাম করার সমান মনে করো? আল্লাহর কাছে তারা সমান নয়; আর আল্লাহ সীমালঙ্ঘনকারী সম্প্রদায়কে সৎপথ প্রদর্শন করেন না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سقي",
+      "lemma": "سِقايَة",
+      "meaning_en": "providing water",
+      "meaning_bn": "পানি পান করানো",
+      "why_en": "The customary duty of quenching pilgrims' thirst during Hajj season."
+    },
+    {
+      "pos": 4,
+      "root": "عمر",
+      "lemma": "عِمارَة",
+      "meaning_en": "maintenance / building",
+      "meaning_bn": "রক্ষণাবেক্ষণ / আবাদ করা",
+      "why_en": "Physical care of the sanctuary without inward faith."
+    },
+    {
+      "pos": 17,
+      "root": "سوي",
+      "lemma": "اسْتَوَى",
+      "meaning_en": "equal / comparable",
+      "meaning_bn": "সমান / সমকক্ষ",
+      "why_en": "Rejecting false equivalence between mere ritual and deep faith."
+    }
+  ],
+  "lesson_en": "Customs and rituals cannot match deep faith and real sacrifice.",
+  "lesson_bn": "কেবল আনুষ্ঠানিক বা ঐতিহ্যবাহী কাজ কখনোই আন্তরিক বিশ্বাস ও জীবনব্যাপী ত্যাগের সমতুল্য হতে পারে না।",
+  "real_life_en": "Do not rely on fancy rituals to feel good. Focus on sincere faith and helping those in need.",
+  "real_life_bn": "লোকদেখানো বাহ্যিক অনুদান বা আনুষ্ঠানিকতার চেয়ে অন্তরের বিশুদ্ধ বিশ্বাস ও নিঃস্বার্থ আত্মত্যাগ অনেক বেশি মূল্যবান।",
+  "themes": [
+    "priorities in faith",
+    "true devotion",
+    "sacrifice"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [
+      "Al-Masjid Al-Haram"
+    ],
+    "unseen": [
+      "Last Day"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Serving water to pilgrims and tending the Kaaba without faith is not equivalent to true faith, migration, and striving.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

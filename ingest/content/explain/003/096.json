@@ -1,0 +1,85 @@
+{
+ "id": "3:96",
+ "simple_en": "The very first house built for all people to worship Allah is the Kaaba in Makkah. It is full of blessings for this life and the next. It serves as a guide for all nations.",
+ "simple_bn": "মানবজাতির জন্য আল্লাহর ইবাদতের উদ্দেশ্যে প্রতিষ্ঠিত সর্বপ্রথম ঘর হলো মক্কার পবিত্র কাবাঘর। এই ঘরটি বরকতময় এবং এতে রয়েছে অসংখ্য কল্যাণ। সৃষ্টির শুরু থেকেই এটি বিশ্ববাসীর জন্য সঠিক পথপ্রদর্শন ও ঐক্যের এক অনন্য কেন্দ্র।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "أول",
+   "lemma": "أَوَّل",
+   "meaning_en": "the first",
+   "meaning_bn": "সর্বপ্রথম",
+   "why_en": "Establishes that the sanctuary in Makkah precedes all other houses of worship on earth."
+  },
+  {
+   "pos": 3,
+   "root": "بيت",
+   "lemma": "بَيْت",
+   "meaning_en": "House (of worship)",
+   "meaning_bn": "গৃহ বা উপাসনালয়",
+   "why_en": "Refers to the sacred sanctuary of the Kaaba built solely for the worship of Allah."
+  },
+  {
+   "pos": 7,
+   "root": null,
+   "lemma": "بَكَّة",
+   "meaning_en": "at Bakkah (Makkah)",
+   "meaning_bn": "বাক্কায় (মক্কায়)",
+   "why_en": "An ancient name for Makkah, highlighting its ancient roots and sacred distinction."
+  },
+  {
+   "pos": 8,
+   "root": "برك",
+   "lemma": "مُبارَك",
+   "meaning_en": "blessed",
+   "meaning_bn": "বরকতময়",
+   "why_en": "Describes the great multiplication of spiritual rewards and blessings tied to this sacred site."
+  }
+ ],
+ "lesson_en": "The Kaaba in Makkah is the first house of worship and a source of guidance for all people.",
+ "lesson_bn": "মক্কার পবিত্র কাবাঘর সমগ্র মানবজাতির জন্য তাওহীদ ও আল্লাহর অফুরন্ত বরকতের প্রাচীন কেন্দ্র।",
+ "real_life_en": "Every day, Muslims all over the world face the Kaaba in prayer. This single direction brings together people of all backgrounds. It reminds us that we are one family worshipping one Lord.",
+ "real_life_bn": "প্রতিদিন বিশ্বের নানা প্রান্তের মুসলিমরা একই কাবার দিকে মুখ করে নামাজ আদায় করে। ভাষার ভিন্নতা সত্ত্বেও এই একই কিবলা তাদের হৃদয়ে গভীর ঐক্য ও ভ্রাতৃত্ববোধ গড়ে তোলে।",
+ "context_en": "Having commanded people to follow the way of Ibrahim, the Quran answers questions about the direction of prayer by identifying the Kaaba as the first sanctuary on earth.",
+ "context_bn": "হযরত ইবরাহীম (আলাইহিস সালাম)-এর দ্বীন অনুসরণের নির্দেশের পর কিবলা বিষয়ক আপত্তির জবাবে স্পষ্ট করা হয়েছে যে মক্কার কাবাই পৃথিবীর প্রাচীনতম উপাসনালয়।",
+ "themes": [
+  "hajj",
+  "worship",
+  "unity",
+  "tawhid"
+ ],
+ "kinds": [
+  "description-of-allah",
+  "belief",
+  "praise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Bakkah",
+   "Makkah",
+   "Kaaba"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The first house established for mankind to worship Allah is the Kaaba in Bakkah (Makkah), full of blessing and guidance for the worlds.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

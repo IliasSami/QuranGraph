@@ -1,0 +1,61 @@
+{
+  "id": "16:126",
+  "simple_en": "If you must retaliate, punish only as much as you were harmed. But if you choose patience, that is far better for those who endure.",
+  "simple_bn": "আর যদি তোমরা প্রতিশোধ নাও, তবে ততটুকুই নেবে যতটুকু অন্যায় তোমাদের ওপর করা হয়েছে। তবে তোমরা যদি ধৈর্য ধারণ করো, তবে তা ধৈর্যশীলদের জন্য অনেক বেশি উত্তম।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عقب",
+      "lemma": "عاقَبَ",
+      "meaning_en": "you retaliate",
+      "meaning_bn": "তোমরা প্রতিশোধ নাও",
+      "why_en": "Proportional retribution without transgression."
+    },
+    {
+      "pos": 9,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "you are patient",
+      "meaning_bn": "ধৈর্য ধারণ করো",
+      "why_en": "Choosing patience and pardon over revenge."
+    }
+  ],
+  "lesson_en": "Justice allows a fair response when you are harmed. Yet choosing patience and forgiveness is much better in the sight of God.",
+  "lesson_bn": "ন্যায়বিচার সমপরিমাণ প্রতিশোধের অনুমতি দেয়, কিন্তু ক্ষমা ও ধৈর্য প্রদর্শন করাই আল্লাহর কাছে সর্বাধিক প্রশংসনীয়।",
+  "real_life_en": "Do not let anger make you cross moral lines when wronged. When possible, forgive and show mercy.",
+  "real_life_bn": "অন্যায় আচরণের শিকার হলেও বাড়াবাড়ি করবেন না। ক্ষমা করে দিতে পারলে তা আপনার মর্যাদাকে অনেক বাড়িয়ে দেবে।",
+  "themes": [
+    "retaliation",
+    "patience",
+    "forgiveness"
+  ],
+  "kinds": [
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "If retaliating, punish with an equivalent of the harm suffered, but patience is superior for the patient.",
+      "claim_bn": "প্রতিশোধ নিলে সমপরিমাণ নেবে, তবে ধৈর্য ধারণ করা ধৈর্যশীলদের জন্য বহুগুণ উত্তম।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

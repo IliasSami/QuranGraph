@@ -1,0 +1,101 @@
+{
+ "id": "2:278",
+ "simple_en": "Believers, fear Allah and obey His commands. Give up whatever remains of unpaid interest, if you truly believe in Him. Real faith means putting Allah's law above extra profit and letting go of unlawful gain.",
+ "simple_bn": "হে ঈমানদারগণ, তোমরা আল্লাহকে ভয় করো এবং তাঁর নির্দেশ মেনে চলো। মানুষের কাছে সুদের যে বাড়তি পাওনা এখনো বকেয়া রয়েছে, তা সম্পূর্ণ পরিত্যাগ করো—যদি তোমরা সত্যিকার মুমিন হয়ে থাকো। খাঁটি ঈমানের দাবি হলো ব্যক্তিগত আর্থিক লাভের চেয়ে আল্লাহর আদেশকে অগ্রাধিকার দেওয়া এবং অন্যায় উপার্জন ত্যাগ করা।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "وقي",
+   "lemma": "اتَّقَى",
+   "meaning_en": "fear Allah / be mindful",
+   "meaning_bn": "আল্লাহর তাকওয়া অবলম্বন করো",
+   "why_en": "Commands believers to build a shield against divine displeasure by obeying divine limits."
+  },
+  {
+   "pos": 6,
+   "root": "وذر",
+   "lemma": "يَذَرَ",
+   "meaning_en": "and give up / relinquish",
+   "meaning_bn": "এবং বর্জন করো",
+   "why_en": "Demands immediate abandonment of all claims to illicit interest."
+  },
+  {
+   "pos": 8,
+   "root": "بقي",
+   "lemma": "بَقِيَ",
+   "meaning_en": "what remains",
+   "meaning_bn": "যা বকেয়া রয়েছে",
+   "why_en": "Cancels any unpaid interest accrued before or during the prohibition."
+  },
+  {
+   "pos": 10,
+   "root": "ربو",
+   "lemma": "رِبا",
+   "meaning_en": "usury / interest",
+   "meaning_bn": "সুদ",
+   "why_en": "The forbidden addition on loans that believers are ordered to forfeit."
+  },
+  {
+   "pos": 13,
+   "root": "أمن",
+   "lemma": "مُؤْمِن",
+   "meaning_en": "believers",
+   "meaning_bn": "মুমিন",
+   "why_en": "Appeals to true faith as the ultimate motivator for surrendering unlawful profits."
+  }
+ ],
+ "lesson_en": "Show true faith by giving up any left over interest, and seek only what pleases your Lord.",
+ "lesson_bn": "হাতের নাগালে অবৈধ লাভের সুযোগ থাকলেও আল্লাহর সন্তুষ্টির জন্য তা নিঃসংকোচে পরিত্যাগ করে নিজের ঈমানের সত্যতা প্রমাণ করুন।",
+ "real_life_en": "You may have lent money to a friend in the past with added fees. Tell them today that you will only take back your original loan amount. Giving up the extra gain for Allah cleanses your income. It proves your devotion to your Creator.",
+ "real_life_bn": "পূর্বে কোনো বন্ধুকে ধার দেওয়ার সময় যদি বাড়তি কোনো শর্ত থেকে থাকে, তবে তাকে আজই জানিয়ে দিন যে আপনি শুধু আপনার মূল টাকা ফেরত নেবেন। আল্লাহর ভয়ে এই বাড়তি অর্থ ছেড়ে দেওয়া আপনার উপার্জনকে পবিত্র করে। এটি আপনার ঈমানের আন্তরিকতা প্রমাণ করে।",
+ "context_en": "Addresses the believers directly after the general condemnation of interest, ordering the immediate cancellation of all outstanding usurious debts.",
+ "context_bn": "সুদের সাধারণ নিষেধাজ্ঞার পর সরাসরি মুমিনদের সম্বোধন করে পূর্বে চুক্তিবদ্ধ সমস্ত বকেয়া সুদ বাতিলের নির্দেশ দেওয়া হয়েছে।",
+ "themes": [
+  "faith",
+  "taqwa",
+  "wealth",
+  "law",
+  "honesty"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah commands believers to fear Him and completely surrender any remaining interest owed by debtors.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Abandoning interest is a decisive proof and requirement of authentic faith in Allah and His legislation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

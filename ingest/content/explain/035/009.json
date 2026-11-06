@@ -1,0 +1,73 @@
+{
+  "id": "35:9",
+  "simple_en": "Allah is the One who sends the winds to lift the clouds. Then We drive those clouds to a dry and dead land, and with rain We revive the earth after its lifelessness. In this very same way, all people will be raised to life on the Day of Resurrection.",
+  "simple_bn": "আল্লাহই বাতাস পাঠান যা মেঘমালাকে পরিচালিত করে। তারপর আমরা সেই মেঘকে শুষ্ক ও মৃত ভূমির দিকে নিয়ে যাই এবং বৃষ্টির মাধ্যমে মৃত জমিনকে আবার সজীব করে তুলি। ঠিক এভাবেই কিয়ামতের দিন সকল মানুষকে পুনরায় জীবিত করা হবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "روح",
+      "lemma": "رِيح",
+      "meaning_en": "the winds",
+      "meaning_bn": "বায়ুপ্রবাহ",
+      "why_en": "Describes the natural instrument Allah uses to carry beneficial rain."
+    },
+    {
+      "pos": 6,
+      "root": "سحب",
+      "lemma": "سَحاب",
+      "meaning_en": "clouds",
+      "meaning_bn": "মেঘমালা",
+      "why_en": "A visible sign in nature carrying life-giving water to dry lands."
+    },
+    {
+      "pos": 17,
+      "root": "نشر",
+      "lemma": "نُشُور",
+      "meaning_en": "the resurrection",
+      "meaning_bn": "পুনরুত্থান",
+      "why_en": "Compares the physical revival of barren soil to the resurrection of human bodies."
+    }
+  ],
+  "lesson_en": "Reviving dead soil with rain proves that Allah will surely bring the dead back to life.",
+  "lesson_bn": "মৃত জমিনে বৃষ্টির মাধ্যমে প্রাণের সঞ্চার প্রমাণ করে যে আল্লাহ কিয়ামতের দিন মানুষকে পুনরায় জীবিত করবেন।",
+  "real_life_en": "When you see green grass sprout after rain on barren ground, think of the Day of Judgment. Let that physical sign strengthen your certainty in the life to come.",
+  "real_life_bn": "বৃষ্টির পর শুকনো মাটিতে সতেজ ঘাস জন্মাতে দেখলে পরকালের কথা স্মরণ করুন। প্রকৃতির এই রূপান্তর যেন আখিরাতের প্রতি আপনার বিশ্বাসকে আরও দৃঢ় করে।",
+  "themes": [
+    "resurrection",
+    "signs in nature",
+    "creation",
+    "allah's power"
+  ],
+  "kinds": [
+    "argument",
+    "creation",
+    "parable"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah sends winds to drive clouds and revive dead land, illustrating how human resurrection will take place.",
+      "claim_bn": "আল্লাহ বাতাস পাঠিয়ে মেঘমালা সঞ্চালিত করেন এবং মৃত ভূমিকে জীবিত করেন, যা মানুষের পুনরুত্থানের স্পষ্ট প্রমাণ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

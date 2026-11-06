@@ -1,0 +1,77 @@
+{
+  "id": "20:66",
+  "simple_en": "Moses told them to throw first. When they cast their ropes and staffs, their optical magic made the lifeless objects appear as if they were slithering snakes.",
+  "simple_bn": "মূসা বললেন: তোমরাই আগে নিক্ষেপ কর। তারা তাদের দড়ি ও লাঠি ফেলতেই জাদুর প্রভাবে মনে হলো সেগুলো সাপের মতো ছুটছে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "حبل",
+      "lemma": "حَبْل",
+      "meaning_en": "their ropes",
+      "meaning_bn": "তাদের দড়িসমূহ",
+      "why_en": "The everyday objects used to create optical illusions."
+    },
+    {
+      "pos": 6,
+      "root": "عصو",
+      "lemma": "عَصَا",
+      "meaning_en": "and their staffs",
+      "meaning_bn": "এবং তাদের লাঠিসমূহ",
+      "why_en": "Wooden staffs made to look alive through trickery."
+    },
+    {
+      "pos": 7,
+      "root": "خيل",
+      "lemma": "خُيِّلَ",
+      "meaning_en": "it seemed or appeared",
+      "meaning_bn": "ভ্রান্ত ধারণা তৈরি হলো",
+      "why_en": "Clarifies that magic works through illusion, not real creation."
+    }
+  ],
+  "lesson_en": "Sorcery tricks human senses through illusion. It cannot change the real nature of matter.",
+  "lesson_bn": "জাদু মানুষের চোখে কেবল দৃষ্টিবিভ্রম ঘটায়, তা কখনো বস্তুর মূল স্বভাব পরিবর্তন করতে পারে না।",
+  "real_life_en": "Do not be swayed by flashy illusions or deceptive marketing. Always look beyond surface appearances to find genuine truth.",
+  "real_life_bn": "চটকদার প্রতারণা বা বাহ্যিক চমকে বিভ্রান্ত হবেন না। সর্বদা সত্য ও বাস্তবতাকে গভীরভাবে যাচাই করে সিদ্ধান্ত নিন।",
+  "themes": [
+    "optical-illusion",
+    "sorcery",
+    "musa"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Contest with Magicians"
+    ],
+    "things": [
+      "ropes",
+      "staffs"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The magicians' ropes and staffs only appeared to move through powerful optical illusion.",
+      "claim_bn": "জাদুকরদের দড়ি ও লাঠিসমূহ দৃষ্টিবিভ্রমের কারণেই চলমান সাপের মতো দৃষ্টিগোচর হয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

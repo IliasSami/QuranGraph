@@ -1,0 +1,61 @@
+{
+  "id": "16:75",
+  "simple_en": "Allah sets a parable: an owned slave who has no power, and a free man given rich wealth. The free man spends his wealth openly and in secret. Can they be equal? Praise be to Allah, but most people do not know.",
+  "simple_bn": "আল্লাহ উপমা দিচ্ছেন: এক পরাধীন দাস যে কোনো কিছুর ক্ষমতা রাখে না, আর অন্যজন যাকে আমরা উত্তম জীবিকা দিয়েছি এবং সে গোপনে ও প্রকাশ্যে তা ব্যয় করে। তারা কি কখনো সমান হতে পারে? সমস্ত প্রশংসা আল্লাহর, কিন্তু অধিকাংশ মানুষ তা জানে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "مثل",
+      "lemma": "مَثَل",
+      "meaning_en": "an example",
+      "meaning_bn": "উপমা",
+      "why_en": "A logical parable illustrating monotheism."
+    },
+    {
+      "pos": 5,
+      "root": "ملك",
+      "lemma": "مَمْلُوك",
+      "meaning_en": "owned",
+      "meaning_bn": "অধিকারভুক্ত বা দাস",
+      "why_en": "An unfree servant possessing no independent power."
+    }
+  ],
+  "lesson_en": "A helpless slave and a generous free master are not equal. Likewise, idols are not equal to God.",
+  "lesson_bn": "পরাধীন দাস এবং মুক্ত ধনী ব্যক্তি যেমন সমান নয়, তেমনি ক্ষমতাহীন মূর্তিও সর্বশক্তিমান আল্লাহর সমান হতে পারে না।",
+  "real_life_en": "Use simple reason in faith. Do not pray to helpless idols when God gives you all things.",
+  "real_life_bn": "সাধারণ যুক্তি দিয়ে সত্য অনুধাবন করুন। সব ক্ষমতার মালিক আল্লাহকে বাদ দিয়ে কোনো অসহায় সৃষ্টির কাছে মাথা নত করবেন না।",
+  "themes": [
+    "parables",
+    "tawhid",
+    "logic"
+  ],
+  "kinds": [
+    "parable",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "A powerless owned slave and a free man spending from rich provision are not equal, demonstrating the folly of idolatry.",
+      "claim_bn": "পরাধীন দাস ও মুক্ত ধনী ব্যক্তি যেমন সমান নয়, তেমনি নির্জীব মূর্তি আর সর্বশক্তিমান আল্লাহ কখনো সমকক্ষ হতে পারে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

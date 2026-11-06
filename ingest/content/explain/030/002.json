@@ -1,0 +1,64 @@
+{
+  "id": "30:2",
+  "simple_en": "The Romans suffered a big defeat against the Persians. The disbelievers of Makkah cheered for the Persians. This news made the early Muslims sad because the Romans believed in a revealed book.",
+  "simple_bn": "রোম সাম্রাজ্য পারসিকদের বিরুদ্ধে যুদ্ধে পরাজিত হয়েছিল। মক্কার মূর্তিপূজকরা এতে আনন্দ প্রকাশ করেছিল। কিন্তু মক্কার বিশ্বাসীরা এতে দুঃখ পেয়েছিলেন, কারণ রোমবাসীরা আসমানী কিতাবে বিশ্বাস করত।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "غلب",
+      "lemma": "غَلَبُ",
+      "meaning_en": "were defeated",
+      "meaning_bn": "পরাজিত হয়েছে",
+      "why_en": "Describes the military defeat of the Roman empire."
+    },
+    {
+      "pos": 2,
+      "root": null,
+      "lemma": "رُوم",
+      "meaning_en": "the Romans",
+      "meaning_bn": "রোমবাসী",
+      "why_en": "The Christian Byzantine empire that faced initial defeat."
+    }
+  ],
+  "lesson_en": "World events unfold under divine decree. Hardship can be followed by sudden change.",
+  "lesson_bn": "জগতের সব ঘটনাই আল্লাহর নির্ধারিত ফয়সালা অনুযায়ী ঘটে। কঠিন সংকটের পরেও বিজয়ের পথ খুলে যেতে পারে।",
+  "real_life_en": "Do not lose hope when truth seems weak in worldly affairs. Trust that God controls the outcome of all events.",
+  "real_life_bn": "পার্থিব পরিস্থিতিতে কখনো হতাশ হবেন না। বিশ্বাস রাখুন যে আল্লাহ যেকোনো প্রতিকূল অবস্থাকে অনুকূল করে দিতে পারেন।",
+  "themes": [
+    "prophecy",
+    "history",
+    "sovereignty-of-allah"
+  ],
+  "kinds": [
+    "promise",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Romans",
+      "Persians"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran records the historical defeat of the Byzantine Romans by the Persian forces.",
+      "claim_bn": "কুরআন পারস্যের বাহিনীর হাতে রোমান বাহিনীর ঐতিহাসিক পরাজয়ের কথা উল্লেখ করেছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

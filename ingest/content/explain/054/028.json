@@ -1,0 +1,61 @@
+{
+  "id": "54:28",
+  "simple_en": "Salih (peace be upon him) told his people that the well water was to be shared equally. The she-camel would drink on one day, and the people would drink on the next day. Each turn was to be respected without any cheating.",
+  "simple_bn": "সালেহ (আলাইহিস সালাম) তাঁর জাতিকে জানিয়ে দিলেন যে কুপের পানি তাদের ও উষ্ট্রীর মাঝে সমবণ্টন করা হয়েছে। একদিন উষ্ট্রী পানি পান করবে এবং পরের দিন তারা পানি নেবে। প্রত্যেকে নিজ নিজ পালায় উপস্থিত হবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "قسم",
+      "lemma": "قِسْمَة",
+      "meaning_en": "shared",
+      "meaning_bn": "বণ্টনকৃত",
+      "why_en": "Highlights the precise divine allocation of the water supply by alternating days."
+    },
+    {
+      "pos": 8,
+      "root": "حضر",
+      "lemma": "مُحْتَضَر",
+      "meaning_en": "attended",
+      "meaning_bn": "উপস্থিত হওয়ার বিষয়",
+      "why_en": "Indicates that each party was only permitted to attend the well on their assigned day."
+    }
+  ],
+  "lesson_en": "Respect shared resources and do not take more than your fair share.",
+  "lesson_bn": "যৌথ সম্পদ ব্যবহারে সততা বজায় রাখুন এবং অন্যের প্রাপ্য অধিকার কখনো হরণ করবেন না।",
+  "real_life_en": "Two neighbors share a common water pump. They set a schedule so that both families have enough water each day. Living by fair rules keeps peace and trust between people.",
+  "real_life_bn": "গ্রামের একটি নলকূপ থেকে দুই বাড়ির মানুষ পালা করে পানি নেয়। তারা একটি সুনির্দিষ্ট সময়সূচি মেনে চলে। ফলে কারও কোনো কষ্ট হয় না এবং পারস্পরিক সম্প্রীতি বজায় থাকে।",
+  "themes": [
+    "justice",
+    "past nations",
+    "stories of the prophets"
+  ],
+  "kinds": [
+    "command",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Salih informed his people that the well water was divided by turns between them and the she-camel.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

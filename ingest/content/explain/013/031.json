@@ -1,0 +1,80 @@
+{
+  "id": "13:31",
+  "simple_en": "Even if a book could move huge mountains, tear the earth open, or speak with the dead, stubborn deniers would still refuse faith. All command belongs to Allah alone. If Allah had willed, He could have guided all humanity at once without delay.",
+  "simple_bn": "এমন কোনো কুরআন যদি হতো যা দিয়ে পাহাড় স্থানান্তরিত হতো, পৃথিবী বিদীর্ণ হতো কিংবা মৃতরা কথা বলত, তবুও কাফিররা ঈমান আনত না। মূলত সব বিষয়ের ফায়সালা একমাত্র আল্লাহর হাতে। মুমিনরা কি জানে না যে আল্লাহ চাইলে সমস্ত মানুষকে একসাথে সৎপথে চালাতে পারতেন?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "a recitation",
+      "meaning_bn": "কুরআন",
+      "why_en": "A divine book with power that could move nature if decreed."
+    },
+    {
+      "pos": 6,
+      "root": "جبل",
+      "lemma": "جَبَل",
+      "meaning_en": "the mountains",
+      "meaning_bn": "পাহাড়সমূহ",
+      "why_en": "Heavy physical landmarks used as a measure of cosmic power."
+    },
+    {
+      "pos": 14,
+      "root": "موت",
+      "lemma": "مَيِّت",
+      "meaning_en": "the dead",
+      "meaning_bn": "মৃত ব্যক্তিরা",
+      "why_en": "Even raising the dead would not convince those bent on denial."
+    },
+    {
+      "pos": 27,
+      "root": "هدي",
+      "lemma": "هَدَى",
+      "meaning_en": "He would guide",
+      "meaning_bn": "তিনি হিদায়াত দিতেন",
+      "why_en": "Divine omnipotence could enforce faith, but allows free choice."
+    }
+  ],
+  "lesson_en": "Open your heart to truth. Signs help only those who seek.",
+  "lesson_bn": "হিদায়াতের জন্য অন্তরের সততা প্রয়োজন, কেবল অলৌকিক প্রদর্শনী মানুষের মন বদলাতে পারে না।",
+  "real_life_en": "A judge sees clear camera footage of a crime, but the stubborn suspect still lies. Seeing obvious proof does not change someone who refuses to be honest.",
+  "real_life_bn": "আদালতে অপরাধের স্পষ্ট ভিডিও প্রমাণ থাকা সত্ত্বেও এক আসামি অস্বীকার করতে থাকে। যে ব্যক্তি সত্য মানতে চায় না তাকে কোনো প্রমাণ দিয়েই পরিবর্তন করা যায় না।",
+  "context_en": "Refuting the notion that visual miracles would force obstinate deniers to believe.",
+  "context_bn": "পাহাড় সরানো বা মৃতদের কথা বলানোর মতো মুজিযা দেখালেও অবিশ্বাসীদের জিদ দূর হতো না।",
+  "themes": [
+    "power of the Quran",
+    "miracles",
+    "divine will",
+    "guidance"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran",
+      "the mountains"
+    ]
+  },
+  "claims": [
+    {
+      "text": "All decree belongs to Allah; even mountains moving would not convince determined deniers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

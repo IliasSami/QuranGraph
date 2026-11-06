@@ -1,0 +1,82 @@
+{
+ "id": "4:5",
+ "simple_en": "Do not hand over property to those who cannot manage it well, such as young children or immature dependents. Allah made wealth a means to sustain your daily lives. Feed them and clothe them from its proceeds, and always speak to them with kindness and respect.",
+ "simple_bn": "সম্পদের সঠিক ব্যবহার জানে না এমন অপরিণত বুদ্ধির লোকদের হাতে তাদের সম্পদ তুলে দিয়ো না। কারণ আল্লাহ সম্পদকে মানুষের জীবন ধারণ ও উপার্জনের মাধ্যম বানিয়েছেন। তাদের এই সম্পদ থেকেই তাদের খাওয়াপরা ও ভরণ-পোষণের ব্যবস্থা করো, আর তাদের সাথে সবসময় মিষ্টি ও মার্জিত ভাষায় কথা বলো।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "سفه",
+   "lemma": "سَفِيه",
+   "meaning_en": "the immature (those lacking sound judgment)",
+   "meaning_bn": "অল্পবুদ্ধি বা অপরিণামদর্শী",
+   "why_en": "Those who cannot yet manage property responsibly and would waste their resources."
+  },
+  {
+   "pos": 9,
+   "root": "قوم",
+   "lemma": "قائِم",
+   "meaning_en": "a means of support",
+   "meaning_bn": "জীবিকা ও স্থায়িত্বের অবলম্বন",
+   "why_en": "Wealth is provided by Allah to sustain life, households, and communal welfare."
+  },
+  {
+   "pos": 16,
+   "root": "عرف",
+   "lemma": "مَعْرُوف",
+   "meaning_en": "kind (appropriate)",
+   "meaning_bn": "সদালাপ ও মার্জিত কথা",
+   "why_en": "Even while withholding money from those not ready to manage it, guardians must speak gently and respectfully."
+  }
+ ],
+ "lesson_en": "Protect family money from waste. Feed your dependents well and speak with kindness.",
+ "lesson_bn": "অপচয় থেকে সম্পদকে দায়িত্বশীলতার সাথে রক্ষা করুন এবং নির্ভরশীলদের অন্ন-বস্ত্র ও সুন্দর কথা দিয়ে যত্ন নিন।",
+ "real_life_en": "If a child receives money, do not let them waste it. Keep it safe in a bank. Provide for their daily needs and teach them the value of money.",
+ "real_life_bn": "কোনো অল্পবয়সী সন্তান উত্তরাধিকার সূত্রে অর্থ পেলে তা অপ্রয়োজনীয় কাজে নষ্ট করতে দেবেন না। সেই টাকা নিরাপদ স্থানে জমা বা হালাল ব্যবসায় বিনিয়োগ করে তাদের পড়াশোনা ও ভরণ-পোষণের ব্যবস্থা করুন এবং কোমল ভাষায় তাদেরকে অর্থের সঠিক মূল্য বোঝান।",
+ "themes": [
+  "wealth",
+  "family",
+  "orphans",
+  "ethics",
+  "justice"
+ ],
+ "kinds": [
+  "prohibition",
+  "command",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Guardians must not surrender wealth to those lacking maturity or financial judgment, as wealth is a pillar of livelihood given by Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Guardians should feed, clothe, and maintain dependents from their property and speak to them with kindness and polite words.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

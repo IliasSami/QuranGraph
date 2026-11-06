@@ -1,0 +1,60 @@
+{
+  "id": "61:2",
+  "simple_en": "Believers are asked why they say things that they do not actually do. A true person of faith must never boast of good deeds they never did or make pledges they fail to keep. Real belief shows in honest action, not in empty words.",
+  "simple_bn": "হে মুমিনগণ, তোমরা যা বাস্তবে করো না তা মুখে কেন বলো? নিজের দায়িত্ব পালন না করে মিথ্যা দাবি করা কিংবা অঙ্গীকার ভঙ্গ করা মুমিনের জন্য শোভা পায় না। মুখে যা বলা হয়, কাজেও তা প্রমাণ করা জরুরি।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "you say",
+      "meaning_bn": "তোমরা বলো",
+      "why_en": "Directly questions speech that is detached from genuine deeds."
+    },
+    {
+      "pos": 8,
+      "root": "فعل",
+      "lemma": "فَعَلَ",
+      "meaning_en": "you do not do",
+      "meaning_bn": "তোমরা করো না",
+      "why_en": "Emphasizes the moral duty to match claimed intentions with real actions."
+    }
+  ],
+  "lesson_en": "Always match your words with your actions, and never claim virtues you have not practiced.",
+  "lesson_bn": "নিজের মুখের কথার সাথে বাস্তব কাজের মিল রাখা এবং মিথ্যা অহমিকা বা ভুয়া দাবি থেকে বিরত থাকা আবশ্যক।",
+  "real_life_en": "A student promises his group to finish a big project on time. But when the deadline arrives, he offers only excuses. Real trust is built when your hands finish what your tongue promised.",
+  "real_life_bn": "কর্মক্ষেত্রে বা পরিবারে কেউ যদি বড় বড় কথা বলে কিন্তু কাজের সময় পিছিয়ে যায়, তবে সে সবার আস্থা হারায়। কথার চেয়ে কাজের সততাই মানুষের আসল পরিচয় তুলে ধরে।",
+  "themes": [
+    "matching words with actions",
+    "condemnation of false claims",
+    "sincerity in faith"
+  ],
+  "kinds": [
+    "address",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are rebuked for claiming deeds they did not actually perform or making promises they do not fulfill.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

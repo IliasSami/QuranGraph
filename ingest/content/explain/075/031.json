@@ -1,0 +1,62 @@
+{
+ "id": "75:31",
+ "simple_en": "Allah describes the tragic state of the denier. In his life, he did not believe in the truth brought by the Messenger, nor did he pray to Allah. He ignored the two greatest duties: having faith in the heart and performing worship with the body.",
+ "simple_bn": "আল্লাহ সত্য অস্বীকারকারীর শোচনীয় অবস্থার কথা তুলে ধরেছেন। সে জীবনে রাসূলের আনা সত্যে বিশ্বাস করেনি এবং আল্লাহর উদ্দেশ্যে সালাতও আদায় করেনি। সে সবচেয়ে বড় দুটি দায়িত্ব উপেক্ষা করেছে: অন্তরে ঈমান আনা এবং শরীর দিয়ে আল্লাহর ইবাদত করা।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "صدق",
+   "lemma": "صَدَّقَ",
+   "meaning_en": "believed",
+   "meaning_bn": "বিশ্বাস করল",
+   "why_en": "The disbeliever rejected the truth brought by the Messenger."
+  },
+  {
+   "pos": 4,
+   "root": "صلو",
+   "lemma": "صَلَّى",
+   "meaning_en": "prayed",
+   "meaning_bn": "সালাত আদায় করল",
+   "why_en": "He refused to bow down and worship Allah."
+  }
+ ],
+ "lesson_en": "True success in life requires both inner faith and outer prayer to Allah.",
+ "lesson_bn": "জীবনে সফল হতে হলে অন্তরের খাঁটি বিশ্বাস এবং সালাতের মাধ্যমে আল্লাহর ইবাদত করা আবশ্যক।",
+ "real_life_en": "Faith is not just an idea you keep in your head. Put your belief into action by praying five times every day. Prayer keeps your faith active and protects you from neglect.",
+ "real_life_bn": "ঈমান শুধু মনে রাখার বিষয় নয়, কাজের মাধ্যমে তা প্রমাণ করতে হয়। প্রতিদিন পাঁচ ওয়াক্ত নামাজ আদায় করুন। নামাজ ঈমানকে সতেজ রাখে এবং অবহেলা থেকে দূরে রাখে।",
+ "themes": [
+  "faith",
+  "prayer",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The disbeliever neither accepted the truth brought by the Messenger nor did he pray to Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

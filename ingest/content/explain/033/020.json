@@ -1,0 +1,70 @@
+{
+  "id": "33:20",
+  "simple_en": "Out of great fear, the hypocrites thought the enemy troops had not left. If those armies came back, these cowards would wish to live far out in the desert. They would rather ask for news from afar. Even if they were with you, they would fight very little.",
+  "simple_bn": "চরম ভয়ের কারণে মুনাফিকরা ভাবছিল যে আক্রমণকারী শত্রু বাহিনী বুঝি চলে যায়নি। শত্রুরা আবার ফিরে এলে তারা কামনা করত যে তারা যদি দূর মরুভূমিতে যাযাবরদের সাথে থাকত এবং নিরাপদ দূরত্ব থেকে তোমাদের খবরাখবর নিত। আর তারা যদি তোমাদের সাথে অবস্থানও করত, তবুও তারা যুদ্ধ খুব কমই করত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حزب",
+      "lemma": "حِزْب",
+      "meaning_en": "the confederates / factions",
+      "meaning_bn": "সম্মিলিত বাহিনী",
+      "why_en": "The coalition of tribes that marched together against the Muslim community."
+    },
+    {
+      "pos": 10,
+      "root": null,
+      "lemma": "أَنّ",
+      "meaning_en": "living as nomads",
+      "meaning_bn": "মরুবাসী যাযাবর",
+      "why_en": "The hypocrites' wish to live far away in the desert to avoid danger."
+    },
+    {
+      "pos": 13,
+      "root": "عرب",
+      "lemma": "أَعْراب",
+      "meaning_en": "your news",
+      "meaning_bn": "তোমাদের সংবাদ",
+      "why_en": "Inquiring about news safely from afar rather than participating in defense."
+    }
+  ],
+  "lesson_en": "Deep fear makes insincere people flee rather than stand with their neighbors.",
+  "lesson_bn": "অতিরিক্ত ভয় কপট ব্যক্তিদের সমাজ থেকে বিচ্ছিন্ন করে নিরাপদে পালিয়ে থাকার সুযোগ খুঁজতে বাধ্য করে।",
+  "real_life_en": "Do not watch troubles from safe sidelines while leaving your friends to struggle. Step up, offer your hands, and share the load.",
+  "real_life_bn": "বিপদের দিনে পরিবার বা বন্ধুদের পাশে থাকুন। দূরে দাঁড়িয়ে নিছক তামাশা দেখার মতো মনোভাব পরিহার করে সক্রিয়ভাবে সহায়তার হাত বাড়ান।",
+  "themes": [
+    "hypocrisy",
+    "struggle in Allah's way",
+    "trials",
+    "human nature"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Out of fear, hypocrites presumed the confederates had not departed, and wished they were distant nomads inquiring about news rather than fighting.",
+      "claim_bn": "ভীতির কারণে মুনাফিকরা ভাবছিল সম্মিলিত বাহিনী ফিরে যায়নি, এবং তারা মরুবাসীদের সাথে থেকে কেবল খবর জানার ইচ্ছা পোষণ করত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

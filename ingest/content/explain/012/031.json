@@ -1,0 +1,98 @@
+{
+  "id": "12:31",
+  "simple_en": "When the chief's wife heard women gossiping, she invited them to a banquet. She gave each of them a knife to cut food. Then she told Yusuf to walk into the room. When they saw his beauty, they were stunned and cut their own hands by accident. They said he was no ordinary man, but a noble angel.",
+  "simple_bn": "আযীযের স্ত্রী যখন নারীদের কটূক্তি ও সমালোচনার কথা জানতে পারল, তখন সে তাদের এক ভোজসভায় আমন্ত্রণ জানাল। সে তাদের প্রত্যেকের হাতে ফল কাটার জন্য একটি করে ছুরি দিল। এরপর সে ইউসুফকে তাদের সামনে উপস্থিত হতে নির্দেশ দিল। তারা ইউসুফের অপরূপ রূপ দেখে বিস্ময়ে হতবাক হয়ে গেল এবং অসতর্কতাবশত নিজেদের হাত কেটে ফেলল। তারা আল্লাহর পবিত্রতা ঘোষণা করে বলল, ইনি কোনো সাধারণ মানুষ নন, বরং একজন সম্মানিত ফেরেশতা।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "مكر",
+      "lemma": "مَكْر",
+      "meaning_en": "their scheming",
+      "meaning_bn": "তাদের চক্রান্ত",
+      "why_en": "Describes how the women secretly spread gossip across the city."
+    },
+    {
+      "pos": 13,
+      "root": "سكن",
+      "lemma": "سِكِّين",
+      "meaning_en": "knife",
+      "meaning_bn": "ছুরি",
+      "why_en": "The utensil given to the guests that led to their accidental self-injury."
+    },
+    {
+      "pos": 19,
+      "root": "كبر",
+      "lemma": "أَكْبَرْ",
+      "meaning_en": "they admired him greatly",
+      "meaning_bn": "তারা তাকে খুব বড় মনে করল",
+      "why_en": "Shows how his extraordinary appearance filled them with awe."
+    },
+    {
+      "pos": 31,
+      "root": "ملك",
+      "lemma": "مَلَك",
+      "meaning_en": "angel",
+      "meaning_bn": "ফেরেশতা",
+      "why_en": "The women compared his pure beauty to that of a celestial being."
+    }
+  ],
+  "lesson_en": "Physical beauty is a gift from God. True honor comes from keeping your character clean.",
+  "lesson_bn": "বাহ্যিক সৌন্দর্য আল্লাহর সৃষ্টি, তবে নৈতিক চরিত্র পবিত্র রাখাই হলো আসল সম্মান।",
+  "real_life_en": "A person is tempted to judge others by looks or rumors. Instead, they look at good character. They remember that real honor comes from faith and kindness.",
+  "real_life_bn": "কেউ হয়তো চেহারা বা গুজবের ভিত্তিতে অন্যদের বিচার করতে প্রলুব্ধ হয়। এর বদলে তারা ভালো চরিত্রের দিকে তাকায় এবং মনে রাখে যে আসল মর্যাদা ঈমান ও দয়াতেই নিহিত।",
+  "context_en": "After the city women mocked the wife of the minister, she staged this banquet to show why she had fallen into temptation.",
+  "context_bn": "শহরের নারীরা আযীযের স্ত্রীর সমালোচনা করার পর, সে তাদের বোঝাতে এই ভোজের আয়োজন করে যে কেন সে মোহাচ্ছন্ন হয়েছিল।",
+  "themes": [
+    "modesty",
+    "moral strength",
+    "beauty of creation"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "wife of al-Aziz"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "knife",
+      "food"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The wife of the Egyptian chief invited the women to a banquet and gave them knives.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Upon seeing Yusuf, the women were so captivated that they cut their hands.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "7:131",
+  "simple_en": "When good times came, Pharaoh's people took the credit, saying it was their right. But when troubles hit them, they blamed Moses and the believers as bad omens. Their true destiny was determined by Allah, but most did not know.",
+  "simple_bn": "যখন তাদের স্বচ্ছলতা ও সুখ আসত, তারা বলত, 'এ তো আমাদের যোগ্যতারই প্রাপ্য।' আর যখন তাদের ওপর কোনো বিপদ নামত, তখন তারা মূসা ও তাঁর সাথীদের অপয়া বা অশুভ লক্ষণ বলে দোষারোপ করত। অথচ তাদের ভাগ্যের নিয়ন্ত্রণ সম্পূর্ণ আল্লাহর হাতেই ছিল, কিন্তু তাদের অধিকাংশই তা বুঝত না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حسن",
+      "lemma": "حَسَنَة",
+      "meaning_en": "the good / prosperity",
+      "meaning_bn": "কল্যাণ ও প্রাচুর্য",
+      "why_en": "Bounties they arrogantly claimed as their personal entitlement."
+    },
+    {
+      "pos": 9,
+      "root": "سوأ",
+      "lemma": "سَيِّئَة",
+      "meaning_en": "an evil / misfortune",
+      "meaning_bn": "অকল্যাণ বা বিপদ",
+      "why_en": "Drought and sickness which they refused to connect to their own sins."
+    },
+    {
+      "pos": 10,
+      "root": "طير",
+      "lemma": "اطَّيَّرْ",
+      "meaning_en": "they ascribe evil omen",
+      "meaning_bn": "তারা অশুভ বা অমঙ্গল লক্ষণ গণ্য করত",
+      "why_en": "Superstitious scapegoating of righteous believers for their own plight."
+    }
+  ],
+  "lesson_en": "Arrogant people take credit for blessings and blame righteous people for their own troubles.",
+  "lesson_bn": "অহংকারীরা সুখের কৃতিত্ব নিজেরা নেয়, আর নিজের কৃতকর্মের ফলে আসা বিপদের দোষ সৎ মানুষের ওপর চাপায়।",
+  "real_life_en": "Be grateful when good things happen instead of boasting about your skills. When things go wrong, look honestly at your own mistakes first. Never scapegoat others for your own shortcomings.",
+  "real_life_bn": "সাফল্য পেলে অহংকার না করে শুকরিয়া আদায় করুন। আর ব্যর্থতা বা সমস্যা দেখা দিলে অন্যের দোষ না খুঁজে নিজের দুর্বলতাগুলো সংশোধন করুন।",
+  "context_en": "This ayah describes the psychological blindness and superstition of Pharaoh's nation during divine trials.",
+  "context_bn": "এই আয়াতে তুলে ধরা হয়েছে কীভাবে ফির'আউনের জাতি অহংকার ও কুসংস্কারের কারণে সত্য উপলব্ধি করতে ব্যর্থ হয়েছিল।",
+  "themes": [
+    "ingratitude",
+    "scapegoating",
+    "superstition",
+    "divine decree"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [
+      "people of Pharaoh"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Egyptians claimed good fortune was their due while superstitiously blaming Moses for misfortunes, whereas their fate was decreed by Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

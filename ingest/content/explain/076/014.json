@@ -1,0 +1,77 @@
+{
+ "id": "76:14",
+ "simple_en": "The cool shade of the trees in Paradise will hang close above them. The fresh fruits will hang low within easy reach. Whether someone is standing, sitting, or resting on a couch, he can pick the fruit with ease.",
+ "simple_bn": "জান্নাতের গাছের স্নিগ্ধ ছায়া তাদের কাছাকাছি থাকবে। গাছের সুস্বাদু ফলগুলো হাতের নাগালে ঝুলিয়ে দেওয়া হবে। দাঁড়িয়ে, বসে বা শুয়ে—যেকোনো অবস্থাতেই তারা অনায়াসে সেই ফল পেড়ে খেতে পারবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "دنو",
+   "lemma": "دانِيَة",
+   "meaning_en": "close, near",
+   "meaning_bn": "নিকটবর্তী",
+   "why_en": "The heavenly shade bends down low to keep them comfortable."
+  },
+  {
+   "pos": 3,
+   "root": "ظلل",
+   "lemma": "ظِلّ",
+   "meaning_en": "shades",
+   "meaning_bn": "ছায়া",
+   "why_en": "Comforting tree canopies providing peaceful shelter."
+  },
+  {
+   "pos": 5,
+   "root": "قطف",
+   "lemma": "قُطُوف",
+   "meaning_en": "fruit clusters",
+   "meaning_bn": "ফলসমূহ",
+   "why_en": "Ripe clusters of fruit ready for picking."
+  },
+  {
+   "pos": 6,
+   "root": "ذلل",
+   "lemma": "تَذْلِيل",
+   "meaning_en": "made completely easy",
+   "meaning_bn": "সহজলভ্য করা",
+   "why_en": "The branches lower themselves so picking requires no effort."
+  }
+ ],
+ "lesson_en": "Paradise is made easy and welcoming for those who worked hard for it in this world.",
+ "lesson_bn": "দুনিয়াতে যারা সৎকাজে পরিশ্রম করেছে, জান্নাতে তাদের জন্য সবকিছু সহজ ও আনন্দদায়ক করা হবে।",
+ "real_life_en": "In this world, getting food takes work, money, and time. In Paradise, fresh fruit is right beside you, ready whenever you desire it. Working honestly today prepares you for a home where all good things come without any hardship.",
+ "real_life_bn": "দুনিয়াতে খাবারের ব্যবস্থা করতে অনেক পরিশ্রম ও সময় লাগে। কিন্তু জান্নাতে সব উত্তম ফল হাতের কাছেই তৈরি থাকবে। আজ সততার সাথে জীবনযাপন করলে এমন এক আবাস পাওয়া যাবে, যেখানে কোনো কষ্ট ছাড়াই সব পাওয়া যায়।",
+ "themes": [
+  "Paradise",
+  "reward"
+ ],
+ "kinds": [
+  "glad-tidings",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "paradise"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The shades of Paradise will be near above the believers and its fruits will be made easy to reach.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

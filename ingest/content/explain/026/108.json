@@ -1,0 +1,65 @@
+{
+  "id": "26:108",
+  "simple_en": "Nuh told his people to fear God and obey his words. He called them to stay away from sin and follow the clear truth he brought from their Lord.",
+  "simple_bn": "অতএব তোমরা আল্লাহকে ভয় করো এবং আমার আনুগত্য করো। আমার দেখানো পথ অনুসরণ করে নিজের জীবন পরিচালনা করো।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "وقي",
+      "lemma": "اتَّقَى",
+      "meaning_en": "so fear God",
+      "meaning_bn": "অতএব আল্লাহকে ভয় করো",
+      "why_en": "Urgent command to revere God and guard against His punishment."
+    },
+    {
+      "pos": 3,
+      "root": "طوع",
+      "lemma": "أَطاعَ",
+      "meaning_en": "and obey me",
+      "meaning_bn": "এবং আমার আনুগত্য করো",
+      "why_en": "Obedience to the messenger is the practical demonstration of faith in God."
+    }
+  ],
+  "lesson_en": "To fear God means we must follow His prophet. Faith shows itself through honest actions.",
+  "lesson_bn": "তাকওয়া ও রাসূলের আনুগত্য একে অপরের সাথে জড়িত। নবীর আদর্শ মেনে চলাই আল্লাহর প্রতি আনুগত্যের প্রকাশ।",
+  "real_life_en": "Follow the way of the prophet in your daily routine. Obey God by being kind, honest, and humble in everything you do.",
+  "real_life_bn": "রাসূলের সুন্নাহ অনুযায়ী প্রতিদিনের কাজ সম্পাদন করুন। আল্লাহকে ভয় করার অর্থ হলো তাঁর দেওয়া সীমারেখা মেনে চলা।",
+  "themes": [
+    "taqwa",
+    "obedience-to-messenger",
+    "divine-command"
+  ],
+  "kinds": [
+    "command",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "nuh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Nuh commanded his people to be mindful of God and follow his prophetic guidance.",
+      "claim_bn": "নূহ তাঁর জাতিকে আল্লাহকে ভয় করতে এবং তাঁর আনীত বিধানের আনুগত্য করতে নির্দেশ দিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,115 @@
+{
+ "id": "2:251",
+ "simple_en": "By Allah's permission, the believers defeated the enemy, and Prophet David (peace be upon him) killed Goliath. Allah then granted David kingship and wisdom, and taught him what He willed. If Allah did not check bad people through good people, evil would fill the earth. But Allah is full of bounty to all the worlds.",
+ "simple_bn": "অতঃপর আল্লাহর হুকুমে মুমিনরা শত্রুবাহিনীকে পরাজিত করল এবং দাউদ (আলাইহিস সালাম) জালুতকে হত্যা করলেন। আল্লাহ দাউদকে রাজত্ব ও নবুওয়াত দান করলেন এবং নিজের ইচ্ছানুযায়ী তাঁকে বিবিধ জ্ঞান শিক্ষা দিলেন। আল্লাহ যদি একদল মানুষকে অন্য দল দিয়ে প্রতিহত না করতেন, তবে পৃথিবী অনাচার ও ফাসাদে ভরে যেত। কিন্তু আল্লাহ সৃষ্টিকুলের প্রতি অশেষ অনুগ্রহশীল।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "هزم",
+   "lemma": "هَزَمُ",
+   "meaning_en": "they defeated / routed",
+   "meaning_bn": "তারা পরাজিত করল",
+   "why_en": "Describes the decisive military victory granted to the smaller, patient group."
+  },
+  {
+   "pos": 5,
+   "root": null,
+   "lemma": "داوُد",
+   "meaning_en": "Dawud (David)",
+   "meaning_bn": "দাউদ",
+   "why_en": "The young believer whose courage in slaying Jalut led to his rise as prophet and righteous king."
+  },
+  {
+   "pos": 10,
+   "root": "حكم",
+   "lemma": "حِكْمَة",
+   "meaning_en": "wisdom / prophethood",
+   "meaning_bn": "প্রজ্ঞা ও হেকমত",
+   "why_en": "The divine gift of sound judgment and prophethood bestowed alongside worldly authority."
+  },
+  {
+   "pos": 15,
+   "root": "دفع",
+   "lemma": "دَفْع",
+   "meaning_en": "checking / repelling",
+   "meaning_bn": "প্রতিহত করা",
+   "why_en": "The divine principle of balancing human power so tyranny does not overwhelm the world."
+  },
+  {
+   "pos": 25,
+   "root": "فضل",
+   "lemma": "فَضْل",
+   "meaning_en": "bounty / grace",
+   "meaning_bn": "অনুগ্রহ",
+   "why_en": "Allah's universal benevolence in protecting life, religion, and justice on earth."
+  }
+ ],
+ "lesson_en": "Stand up for what is right, knowing that Allah stops evil through good and brave people.",
+ "lesson_bn": "ন্যায়ের পক্ষে অবিচল থাকুন; জেনে রাখুন যে আল্লাহ সৎ ও সাহসী মানুষের মাধ্যমে পৃথিবীতে অন্যায়ের বিস্তার রোধ করেন।",
+ "real_life_en": "When wrongdoing, corruption, or bullying spreads at school, work, or in public life, do not assume it cannot be stopped. One sincere, brave person who speaks the truth can overturn oppression. Trust that Allah supports those who strive to preserve goodness.",
+ "real_life_bn": "কর্মক্ষেত্র বা সমাজে অন্যায় ও জুলুমের দাপট দেখলে হতাশ হবেন না। সত্যের ওপর অবিচল একজন মানুষও আল্লাহর সাহায্যে বড় বড় অন্যায়কে রুখে দিতে পারে। বিশ্বাস রাখুন যে সৎকাজে নিয়োজিতদের আল্লাহ সবসময় সাহায্য করেন।",
+ "context_en": "Concludes the story of Talut, Dawud, and Jalut by showing that small faithful groups can defeat tyrants, and establishes the divine principle of checking corruption on earth.",
+ "context_bn": "তালুত, দাউদ ও জালুতের কাহিনীর সমাপ্তি টেনে স্পষ্ট করা হয়েছে যে সত্যপন্থীদের আত্মত্যাগের মাধ্যমে আল্লাহ পৃথিবীতে ভারসাম্য ও সুবিচার রক্ষা করেন।",
+ "themes": [
+  "stories of the prophets",
+  "justice",
+  "Allah's power",
+  "knowledge",
+  "struggle in Allah's way",
+  "good character"
+ ],
+ "kinds": [
+  "story",
+  "argument",
+  "ethics",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Dawud",
+   "Jalut"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The believers defeated the enemy army by Allah's leave, and Dawud killed Jalut.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah granted Dawud kingship, wisdom, and beneficial knowledge of both religion and the world.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Allah checks the corruption of evil people through the righteous to prevent the earth from descending into ruins.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

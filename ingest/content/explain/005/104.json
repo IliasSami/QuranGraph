@@ -1,0 +1,82 @@
+{
+  "id": "5:104",
+  "simple_en": "When told to follow what Allah revealed and to listen to the Messenger, they refuse. They claim that the customs of their ancestors are enough for them. But would they still follow their fathers if their fathers knew nothing and had no guidance? Blind imitation is not a path to truth.",
+  "simple_bn": "যখন তাদেরকে আল্লাহর অবতীর্ণ কিতাব ও রাসূলের আদর্শের দিকে আসতে বলা হয়, তখন তারা বলে আমাদের পূর্বপুরুষদের প্রথাই যথেষ্ট। অথচ তাদের পূর্বপুরুষরা যদি কোনো জ্ঞান না রাখত এবং সৎপথে না থাকত, তবুও কি তারা তাদের অনুসরণ করবে?",
+  "key_words": [
+    {
+      "pos": 10,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "the Messenger",
+      "meaning_bn": "রাসূল",
+      "why_en": "The divinely sent guide whose guidance must be followed over customs."
+    },
+    {
+      "pos": 12,
+      "root": "حسب",
+      "lemma": "حَسْب",
+      "meaning_en": "sufficient for us",
+      "meaning_bn": "আমাদের জন্য যথেষ্ট",
+      "why_en": "The dismissive excuse used to cling to ancestral ways."
+    },
+    {
+      "pos": 24,
+      "root": "هدي",
+      "lemma": "اهْتَدَى",
+      "meaning_en": "they were guided",
+      "meaning_bn": "তারা সৎপথ পেয়েছিল",
+      "why_en": "Exposes that following unguided ancestors leads people astray."
+    }
+  ],
+  "lesson_en": "Follow divine guidance rather than blind ancestral customs.",
+  "lesson_bn": "অন্ধভাবে পূর্বপুরুষের ভুল প্রথা না মেনে ওহীর সঠিক নির্দেশনা অনুসরণ করুন।",
+  "real_life_en": "A person refuses to drop a bad habit because his family always did it. A good Muslim tests all habits against the Quran and the Sunnah. He chooses what is true over old customs.",
+  "real_life_bn": "বংশপরম্পরায় চলে আসছে বলেই কোনো ভুল সামাজিক কুসংস্কারকে আঁকড়ে থাকা উচিত নয়। একজন সচেতন মুমিন সবসময় যুক্তি ও ধর্মীয় প্রমাণের আলোকে সত্যকে গ্রহণ করেন।",
+  "context_en": "Rebukes reliance on ancestral traditions when confronted with divine revelation.",
+  "context_bn": "আল্লাহর ওহীর বিপরীতে পূর্বপুরুষদের অন্ধ অনুকরণ করার প্রবণতাকে প্রত্যাখ্যান করা হয়েছে।",
+  "themes": [
+    "guidance",
+    "misguidance",
+    "prophethood",
+    "reflection"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When invited to the Quran and the Messenger ﷺ, polytheists excused themselves by appealing to ancestral customs.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Blindly following ancestors is refuted because earlier generations often lacked knowledge and guidance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "11:70",
+  "simple_en": "When Abraham saw that their hands did not reach out for the food, he felt uneasy and sensed fear from them. The angels said: Do not be afraid. We have been sent to the people of Lot to execute divine judgment.",
+  "simple_bn": "অতঃপর তিনি যখন দেখলেন যে তাদের হাত খাবারের দিকে অগ্রসর হচ্ছে না, তখন তিনি তাদের অপরিচিত মনে করলেন এবং অন্তরে তাদের সম্পর্কে ভয় অনুভব করলেন। তারা বলল: আপনি ভয় পাবেন না; আমরা লূতের কওমের প্রতি প্রেরিত হয়েছি।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "وصل",
+      "lemma": "يَصِلُ",
+      "meaning_en": "reaching toward it",
+      "meaning_bn": "পৌঁছানো / হাত বাড়ানো",
+      "why_en": "The guests refraining from eating the meal."
+    },
+    {
+      "pos": 7,
+      "root": "نكر",
+      "lemma": "نَكِرَ",
+      "meaning_en": "he felt distrust / mistrusted them",
+      "meaning_bn": "অপরিচিত মনে করলেন / সংশয়বোধ করলেন",
+      "why_en": "Custom of the time where guests refusing food signaled hostility."
+    },
+    {
+      "pos": 10,
+      "root": "خوف",
+      "lemma": "خِيفَة",
+      "meaning_en": "fear / apprehension",
+      "meaning_bn": "ভয় / শঙ্কা",
+      "why_en": "Natural human reaction to unfamiliar visitors."
+    },
+    {
+      "pos": 13,
+      "root": "خوف",
+      "lemma": "خافَ",
+      "meaning_en": "do not fear",
+      "meaning_bn": "ভয় পাবেন না",
+      "why_en": "Angelic reassurance calming the prophet."
+    }
+  ],
+  "lesson_en": "It is natural to feel fear in the unknown, but trust in Allah brings peace and clarity.",
+  "lesson_bn": "অপরিচিত পরিস্থিতিতে ভয় পাওয়া স্বাভাবিক, কিন্তু আল্লাহর ওপর ভরসা মনের ভয় দূর করে দেয়।",
+  "real_life_en": "When surprising changes or uncertain news catch you off guard, do not panic. Ask Allah for calm guidance and listen carefully before making decisions.",
+  "real_life_bn": "অপ্রত্যাশিত কোনো পরিস্থিতি তৈরি হলে আতঙ্কিত না হয়ে আল্লাহর ওপর ভরসা রাখুন এবং শান্ত থাকুন।",
+  "themes": [
+    "story of Abraham",
+    "angels revealing their mission",
+    "people of Lot",
+    "reassurance in fear"
+  ],
+  "kinds": [
+    "story",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Abraham (peace be upon him)",
+      "Lot (peace be upon him)"
+    ],
+    "nations": [
+      "People of Lot"
+    ],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Angels visiting Abraham"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When the visitors did not partake of food, Abraham felt apprehension until they identified themselves as angels dispatched to the people of Lot.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

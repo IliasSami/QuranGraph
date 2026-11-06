@@ -1,0 +1,92 @@
+{
+ "id": "4:87",
+ "simple_en": "Allah is the only true God, and there is no deity worthy of worship except Him. He will gather all of you on the Day of Resurrection, about which there is no doubt. Who could possibly be more truthful in statement than Allah?",
+ "simple_bn": "আল্লাহ ছাড়া কোনো সত্য উপাস্য নেই। তিনি তোমাদের সবাইকে কিয়ামতের দিন অবশ্যই একত্রিত করবেন, যে দিনের আগমনে কোনো সন্দেহ নেই। আর কথার দিক থেকে আল্লাহর চেয়ে অধিক সত্যবাদী আর কে হতে পারে?",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "أله",
+   "lemma": "إِلٰه",
+   "meaning_en": "deity worthy of worship",
+   "meaning_bn": "হক উপাস্য বা মাবুদ",
+   "why_en": "The foundation of tawhid, stating that none deserves worship except Allah alone."
+  },
+  {
+   "pos": 9,
+   "root": "قوم",
+   "lemma": "قِيامَة",
+   "meaning_en": "Day of Resurrection",
+   "meaning_bn": "কিয়ামতের দিন",
+   "why_en": "The inevitable Day when all creatures will be gathered before Allah for reckoning."
+  },
+  {
+   "pos": 14,
+   "root": "صدق",
+   "lemma": "أَصْدَق",
+   "meaning_en": "more truthful",
+   "meaning_bn": "অধিক সত্যবাদী",
+   "why_en": "Affirms that Allah's speech and promises are absolute, unmatched truth."
+  }
+ ],
+ "lesson_en": "Trust the promise of Allah, for Judgment Day is real and His word is true.",
+ "lesson_bn": "আল্লাহর বাণীর ওপর পূর্ণ আস্থা রাখুন, কারণ তাঁর চেয়ে সত্যবাদী কেউ নেই এবং বিচার দিবস নিশ্চিত।",
+ "real_life_en": "People may break their promises, but Allah never fails. Turn to His book with confidence. Every promise He makes about justice and the next life will surely come to pass.",
+ "real_life_bn": "দুনিয়ার মানুষের কথায় হতাশ হলেও আল্লাহর বাণীর প্রতি অবিচল আস্থা রাখুন। পরকাল ও জবাবদিহিতা যে অবধারিত সত্য, এই বিশ্বাস নিয়ে সৎপথে চলুন।",
+ "context_en": "Affirms the bedrock belief in Allah's oneness, the certainty of Resurrection, and the truth of divine speech.",
+ "context_bn": "তাওহিদ, পরকালের নিশ্চিত সমাবেশ এবং আল্লাহর বাণীর পরম সত্যতার ঘোষণা দেওয়া হয়েছে।",
+ "themes": [
+  "tawhid",
+  "the Last Day",
+  "resurrection",
+  "faith",
+  "truth"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "Day of Resurrection"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "There is no deity worthy of worship except Allah alone.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah will gather all of mankind on the Day of Resurrection without any doubt.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "No one is more truthful in narration, promise, and speech than Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "16:37",
+  "simple_en": "Even if you strive hard for their guidance, Allah does not guide those whom He leaves astray. They will find no helpers to save them.",
+  "simple_bn": "আপনি যতই ব্যাকুল হয়ে তাদের হেদায়েতের জন্য চেষ্টা করুন না কেন, আল্লাহ যাকে বিপথগামী করেন তাকে পথ দেখান না। এমন লোকদের সাহায্যকারী কেউ থাকবে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حرص",
+      "lemma": "حَرَصْ",
+      "meaning_en": "you strive",
+      "meaning_bn": "তুমি ব্যাকুল হও",
+      "why_en": "The prophet's deep desire to guide people."
+    },
+    {
+      "pos": 10,
+      "root": "ضلل",
+      "lemma": "أَضَلَّ",
+      "meaning_en": "He lets go astray",
+      "meaning_bn": "বিপথগামী করেন",
+      "why_en": "Leaving stubborn deniers in their chosen misguidance."
+    }
+  ],
+  "lesson_en": "Guidance is in God's hands. When hearts choose blindness, no human effort can force belief.",
+  "lesson_bn": "হেদায়েতের মালিক একমাত্র আল্লাহ। যে ব্যক্তি নিজে থেকে সত্যের পথ বন্ধ করে দেয়, তাকে কেউ সৎপথে আনতে পারে না।",
+  "real_life_en": "Share good advice with care and love. Do not break your heart if some people still refuse to listen.",
+  "real_life_bn": "অন্যদের ভালো উপদেশ দিন কিন্তু অতিমাত্রায় হতাশ হবেন না। মনে রাখবেন হেদায়েত দেওয়ার দায়িত্ব একমাত্র আল্লাহর।",
+  "themes": [
+    "guidance",
+    "prophethood",
+    "patience"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Even if the Prophet strives for their guidance, Allah does not guide those He leaves in error.",
+      "claim_bn": "নবী যতই ব্যাকুল হোন না কেন, আল্লাহ যাকে পথভ্রষ্ট করেন তাকে কেউ পথ দেখাতে পারে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

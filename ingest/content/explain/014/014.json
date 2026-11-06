@@ -1,0 +1,85 @@
+{
+  "id": "14:14",
+  "simple_en": "We will certainly settle you in the land after them. That reward is for anyone who fears standing before Me and fears My warning. Reverence for Allah brings security in this life and honor in the life to come.",
+  "simple_bn": "এবং তাদের ধ্বংসের পর আমরা অবশ্যই তোমাদের সেই দেশে বসবাস করাব। এই পুরস্কার তার জন্য যে আমার সামনে উপস্থিত হওয়াকে ভয় করে এবং আমার শাস্তির সতর্কবাণীকে ভয় করে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سكن",
+      "lemma": "أَسْكَنَ",
+      "meaning_en": "and We will surely settle you",
+      "meaning_bn": "এবং আমরা অবশ্যই তোমাদের বসবাস করাব",
+      "why_en": "Divine promise of inheritance of the land."
+    },
+    {
+      "pos": 2,
+      "root": "أرض",
+      "lemma": "أَرْض",
+      "meaning_en": "the land",
+      "meaning_bn": "জমিন",
+      "why_en": "The territory previously held by oppressors."
+    },
+    {
+      "pos": 7,
+      "root": "خوف",
+      "lemma": "خافَ",
+      "meaning_en": "feared",
+      "meaning_bn": "ভয় করল",
+      "why_en": "Reverential awe of Allah."
+    },
+    {
+      "pos": 8,
+      "root": "قوم",
+      "lemma": "مَقام",
+      "meaning_en": "standing before Me",
+      "meaning_bn": "আমার সামনে উপস্থিত হওয়া",
+      "why_en": "The Day of Reckoning."
+    },
+    {
+      "pos": 10,
+      "root": "وعد",
+      "lemma": "وَعِيد",
+      "meaning_en": "My threat",
+      "meaning_bn": "আমার সতর্কবাণী",
+      "why_en": "Divine warning of punishment."
+    }
+  ],
+  "lesson_en": "Live with mindful awe of Allah. True honor comes to those who respect His limits.",
+  "lesson_bn": "আল্লাহর উপস্থিতিকে ভয় করে চলুন। যারা তাঁর আদেশ-নিষেধ মেনে চলে, সম্মান তাদেরই প্রাপ্য।",
+  "real_life_en": "A public official is offered money under the table to approve an unsafe building. He remembers standing before Allah on the Day of Judgment. He rejects the offer and protects the town.",
+  "real_life_bn": "ঝুঁকিপূর্ণ ভবনের অনুমোদন দিতে এক সরকারি কর্মকর্তাকে বড় অঙ্কের ঘুষের প্রস্তাব দেওয়া হয়। তিনি আল্লাহর সামনে দাঁড়ানোর কথা মনে করেন এবং ঘুষ ফিরিয়ে দিয়ে নাগরিকদের জীবন রক্ষা করেন।",
+  "context_en": "Promise that the righteous will inherit the land after the destruction of the unjust.",
+  "context_bn": "জালিমদের পতনের পর আল্লাহভীরু বান্দাদের জমিনের উত্তরাধিকারী করার ঐশী অঙ্গীকার।",
+  "themes": [
+    "promise",
+    "hereafter",
+    "fear-of-allah"
+  ],
+  "kinds": [
+    "promise",
+    "belief",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah promises the land to those who fear standing before Him and respect His warnings.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

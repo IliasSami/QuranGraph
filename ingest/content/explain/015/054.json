@@ -1,0 +1,72 @@
+{
+  "id": "15:54",
+  "simple_en": "Abraham said: Do you give me this good news when old age has already touched me? What kind of amazing news are you telling me?",
+  "simple_bn": "ইবরাহীম বললেন: আমি বৃদ্ধ হওয়া সত্ত্বেও তোমরা আমাকে সুসংবাদ দিচ্ছ? তোমরা এ কেমন বিস্ময়কর সংবাদ শোনাচ্ছ?",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "بشر",
+      "lemma": "بُشِّرَ",
+      "meaning_en": "do you give good news",
+      "meaning_bn": "তোমরা কি সুসংবাদ দিচ্ছ",
+      "why_en": "Expressing astonishment at the news."
+    },
+    {
+      "pos": 5,
+      "root": "مسس",
+      "lemma": "مَسَّ",
+      "meaning_en": "has touched me",
+      "meaning_bn": "আমাকে স্পর্শ করেছে",
+      "why_en": "The onset of advanced age."
+    },
+    {
+      "pos": 6,
+      "root": "كبر",
+      "lemma": "كِبَر",
+      "meaning_en": "old age",
+      "meaning_bn": "বার্ধক্য",
+      "why_en": "Old age in bodily terms."
+    }
+  ],
+  "lesson_en": "It is natural to feel amazed by Allah's power. Remember that nothing is too hard for Him to do.",
+  "lesson_bn": "আল্লাহর অপার কুদরত দেখে অবাক হওয়া মানুষের স্বাভাবিক স্বভাব। কিন্তু মনে রাখবেন আল্লাহর পক্ষে কোনো কিছুই অসম্ভব নয়।",
+  "real_life_en": "An elderly farmer sees his dry barren orchard bloom after a sudden gentle rain. He stands amazed at how life returns to dry ground by the will of Allah.",
+  "real_life_bn": "এক বৃদ্ধ কৃষক দীর্ঘদিন পর শুকনো জমিতে নতুন চারা গজাতে দেখে অবাক হন। তিনি বুঝতে পারেন আল্লাহর ইচ্ছায় যেকোনো কঠিন পরিস্থিতি বদলে যেতে পারে।",
+  "context_en": "Abraham expressing human wonder at being promised a child in his extreme old age.",
+  "context_bn": "বার্ধক্যে উপনীত হওয়ার পর সন্তান লাভের সংবাদ পেয়ে ইবরাহীমের স্বাভাবিক বিস্ময় প্রকাশ।",
+  "themes": [
+    "prophets",
+    "wonder",
+    "faith"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Abraham"
+    ],
+    "unseen": [
+      "Angels"
+    ],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Abraham expressed wonder at receiving the news of a child despite his advanced age.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

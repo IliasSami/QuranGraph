@@ -1,0 +1,107 @@
+{
+ "id": "4:94",
+ "simple_en": "Believers, when you go out to fight in Allah's path, check the facts first. Do not say to someone who offers you peace that they are not a believer, just to take their worldly goods. With Allah are rich rewards far better than this world. You were once like them before Allah showed you grace. So investigate with care, for Allah knows all that you do.",
+ "simple_bn": "হে মুমিনগণ! যখন তোমরা আল্লাহর পথে বের হও, তখন সবকিছু সতর্কতার সাথে যাচাই করে নাও। কেউ তোমাদের সালাম দিলে বা শান্তির প্রস্তাব দিলে পার্থিব সম্পদের লোভে তাকে বোলো না যে 'তুমি মুমিন নও'। কেননা আল্লাহর কাছে বিপুল পরিমাণ কল্যাণ ও সম্পদ রয়েছে। তোমরাও তো পূর্বে এমন ছিলে, এরপর আল্লাহ তোমাদের ওপর অনুগ্রহ করেছেন। অতএব ভালো করে যাচাই করো; তোমরা যা করো আল্লাহ সে বিষয়ে সম্যক অবহিত।",
+ "key_words": [
+  {
+   "pos": 9,
+   "root": "بين",
+   "lemma": "تَبَيَّنَ",
+   "meaning_en": "verify and investigate carefully",
+   "meaning_bn": "যাচাই ও নিশ্চিত হও",
+   "why_en": "Commands thorough verification and restraint before taking action in military engagements."
+  },
+  {
+   "pos": 15,
+   "root": "سلم",
+   "lemma": "سَলাম",
+   "meaning_en": "greeting of peace or submission",
+   "meaning_bn": "সালাম বা শান্তির বার্তা",
+   "why_en": "Forbids rejecting someone who gives the Islamic greeting of peace."
+  },
+  {
+   "pos": 19,
+   "root": "عرض",
+   "lemma": "عَرَض",
+   "meaning_en": "transient worldly goods",
+   "meaning_bn": "পার্থিব সম্পদ বা সামগ্রী",
+   "why_en": "Warns against being motivated by greed for wealth or spoils when dealing with others."
+  },
+  {
+   "pos": 39,
+   "root": "خبر",
+   "lemma": "خَبِير",
+   "meaning_en": "All-Aware",
+   "meaning_bn": "সর্ববিষয়ে সম্যক অবহিত",
+   "why_en": "Affirms that Allah is fully aware of inner motives and intentions."
+  }
+ ],
+ "lesson_en": "Always check the facts and welcome peace, without letting greed guide your judgment.",
+ "lesson_bn": "কোনো সিদ্ধান্ত নেওয়ার আগে সত্যতা যাচাই করুন এবং পার্থিব স্বার্থের জন্য কারো নিয়ত নিয়ে অপবাদ দেবেন না।",
+ "real_life_en": "When someone offers peace or says sorry, do not question their faith just to win an argument. Welcome their peace with a kind heart. Leave what is in their chest to Allah.",
+ "real_life_bn": "ব্যবসায়িক বা ব্যক্তিগত দ্বন্দ্বে কেউ আন্তরিকভাবে শান্তির উদ্যোগ নিলে তাকে স্বার্থপর বলে প্রত্যাখ্যান করবেন না। ভালো আচরণ গ্রহণ করুন এবং মানুষের মনের বিচার আল্লাহর ওপর ছেড়ে দিন।",
+ "context_en": "Admonishes a Muslim patrol that killed a man who offered salam, assuming he did so only to save his sheep.",
+ "context_bn": "অভিযানের সময় একজন রাখাল সালাম দেওয়া সত্ত্বেও তাকে শত্রু মনে করে হত্যা করার ঘটনার প্রেক্ষিতে সতর্কবার্তা হিসেবে এটি নাযিল হয়।",
+ "themes": [
+  "peace",
+  "justice",
+  "honesty",
+  "struggle in Allah's way",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "ethics",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Khabeer"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers on expedition are commanded to verify carefully and not hasten to strike.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "It is strictly forbidden to reject someone who offers the greeting of peace or claim they are not believers for the sake of worldly spoils.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Believers are reminded that they too were once vulnerable and concealed their faith before Allah showed them grace.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah is fully aware of inner intentions and actions, possessing abundant provisions in Paradise.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

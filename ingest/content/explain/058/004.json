@@ -1,0 +1,89 @@
+{
+  "id": "58:4",
+  "simple_en": "Whoever cannot find a slave to free must fast two consecutive months before touching his wife. If he is physically unable to fast, he must feed sixty poor persons. This law is given so that you believe in Allah and His Messenger. These are the limits set by Allah, and the disbelievers will face a painful punishment.",
+  "simple_bn": "যে ব্যক্তি দাস মুক্তির সামর্থ্য না পায়, সে পরস্পরকে স্পর্শ করার পূর্বে একাধারে দুই মাস রোজা রাখবে। আর যে রোজা রাখতেও অক্ষম হয়, সে ষাটজন মিসকীনকে খাবার খাওয়াবে। এই বিধান এ জন্য যাতে তোমরা আল্লাহ ও তাঁর রাসূলের প্রতি পূর্ণ বিশ্বাস স্থাপন করো। এগুলো আল্লাহর নির্ধারিত সীমারেখা, আর কাফিরদের জন্য রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "صوم",
+      "lemma": "صِيام",
+      "meaning_en": "fasting",
+      "meaning_bn": "রোজা রাখা",
+      "why_en": "The second level of expiation, requiring two continuous months of fasting."
+    },
+    {
+      "pos": 6,
+      "root": "تبع",
+      "lemma": "مُتَتابِعَيْن",
+      "meaning_en": "consecutive",
+      "meaning_bn": "ধারাবাহিক বা একাধারে",
+      "why_en": "Stipulates that the two months of fasting must be uninterrupted."
+    },
+    {
+      "pos": 14,
+      "root": "طعم",
+      "lemma": "إِطْعام",
+      "meaning_en": "feeding",
+      "meaning_bn": "আহার করানো",
+      "why_en": "The third level of expiation for one unable to fast due to illness or age."
+    },
+    {
+      "pos": 22,
+      "root": "حدد",
+      "lemma": "حُدُود",
+      "meaning_en": "the limits",
+      "meaning_bn": "সীমারেখা",
+      "why_en": "The sacred boundaries established by Allah that must never be broken."
+    }
+  ],
+  "lesson_en": "Respect the limits set by Allah. Fulfill your religious duties with an open heart.",
+  "lesson_bn": "আল্লাহর নির্ধারিত সীমারেখাকে সম্মান করুন এবং আন্তরিকতার সাথে শরয়ী দায়িত্ব পালন করুন।",
+  "real_life_en": "An old man must make an expiation for a wrong oath. He is too sick to fast for sixty days. He does not give up. Instead, he gladly buys meals for sixty needy neighbours. He feels happy to fulfill Allah's command in the way that fits his ability.",
+  "real_life_bn": "এক বৃদ্ধ ব্যক্তির ওপর কাফফারা ওয়াজিব হয়। ডায়াবেটিসের কারণে একাধারে দুই মাস রোজা রাখা তাঁর পক্ষে সম্ভব ছিল না। তিনি দায়িত্ব অবহেলা না করে আনন্দের সাথে এলাকার ষাটজন দরিদ্র মানুষকে পেট পুরে খাওয়ান এবং আল্লাহর নির্দেশ মেনে চলেন।",
+  "themes": [
+    "marriage",
+    "law",
+    "fasting",
+    "charity",
+    "taqwa"
+  ],
+  "kinds": [
+    "law",
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "If unable to free a slave, one must fast two consecutive months, and if unable to fast, one must feed sixty poor people.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "These rulings are divine limits set by Allah, and those who reject them face a painful punishment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "69:42",
+  "simple_en": "Nor is it the word of a soothsayer; little do you take heed. It contains no guesswork, spells, or falsehood, but pure light and truth from the Almighty.",
+  "simple_bn": "এবং এটি কোনো গণকের কথাও নয়; তোমরা খুব কমই উপদেশ গ্রহণ করো। এতে কোনো অনুমান বা অসত্য নেই, বরং এটি আল্লাহর নিখাদ সত্য বাণী।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كهن",
+      "lemma": "كاهِن",
+      "meaning_en": "a soothsayer or fortune-teller",
+      "meaning_bn": "গণক",
+      "why_en": "Dismisses accusations that the message came from clairvoyants or diviners."
+    },
+    {
+      "pos": 6,
+      "root": "ذكر",
+      "lemma": "تَذَكَّرَ",
+      "meaning_en": "you reflect and take heed",
+      "meaning_bn": "তোমরা উপদেশ গ্রহণ করো",
+      "why_en": "Points out their lack of serious reflection upon divine warnings."
+    }
+  ],
+  "lesson_en": "Do not mix God's guidance with false fortune telling.",
+  "lesson_bn": "ঐশী হেদায়েতকে ভণ্ড গণকদের অনুমান বা কুসংস্কারের সাথে গুলিয়ে ফেলা উচিত নয়।",
+  "real_life_en": "Some people waste time on horoscopes and psychics who make vague guesses. The Quran invites us to clear truth, freeing our minds from false superstitions.",
+  "real_life_bn": "হাত গণনা বা রাশিফলের মতো কুসংস্কারে মানুষ বিভ্রান্ত হয়। কুরআন মানুষকে বাস্তবমুখী চিন্তা ও আল্লাহর ওপর ভরসা করার শিক্ষা দিয়ে মনের বিভ্রান্তি দূর করে।",
+  "themes": [
+    "not fortune-telling",
+    "taking heed",
+    "rejection of superstition"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Quran is not the words of a soothsayer, yet little do people reflect.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

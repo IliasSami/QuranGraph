@@ -1,0 +1,100 @@
+{
+  "id": "12:38",
+  "simple_en": "Yusuf said he followed the faith of his fathers: Ibrahim, Ishaq, and Yaqub. They never associated partners with Allah. He explained that pure faith is a gift to humanity, but most people do not give thanks.",
+  "simple_bn": "ইউসুফ জানালেন যে তিনি তাঁর পিতৃপুরুষ ইবরাহীম, ইসহাক ও ইয়াকূবের দ্বীন অনুসরণ করেন। আল্লাহর সাথে কোনো কিছুকে শরিক করা তাঁদের শোভা পায় না। তাওহীদ মানবজাতির প্রতি আল্লাহর বড় অনুগ্রহ, কিন্তু অধিকাংশ মানুষ কৃতজ্ঞতা প্রকাশ করে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "تبع",
+      "lemma": "اتَّبَعَ",
+      "meaning_en": "I followed",
+      "meaning_bn": "আমি অনুসরণ করেছি",
+      "why_en": "Yusuf’s steadfast adherence to the prophetic lineage and monotheism."
+    },
+    {
+      "pos": 3,
+      "root": "أبو",
+      "lemma": "آباء",
+      "meaning_en": "my fathers",
+      "meaning_bn": "আমার পিতৃপুরুষগণ",
+      "why_en": "The noble chain of prophets: Ibrahim, Ishaq, and Yaqub."
+    },
+    {
+      "pos": 11,
+      "root": "شرك",
+      "lemma": "أَشْرَكَ",
+      "meaning_en": "we associate partners",
+      "meaning_bn": "আমরা শরিক করি",
+      "why_en": "The complete rejection of polytheism in worship and lordship."
+    },
+    {
+      "pos": 17,
+      "root": "فضل",
+      "lemma": "فَضْل",
+      "meaning_en": "bounty",
+      "meaning_bn": "অনুগ্রহ",
+      "why_en": "Guidance to pure monotheism is an immense divine favor."
+    },
+    {
+      "pos": 26,
+      "root": "شكر",
+      "lemma": "شَكَرَ",
+      "meaning_en": "they give thanks",
+      "meaning_bn": "তারা কৃতজ্ঞতা প্রকাশ করে",
+      "why_en": "Most people fail to appreciate the gift of divine guidance."
+    }
+  ],
+  "lesson_en": "Faith in the One God is the greatest gift. We show thanks by following Him.",
+  "lesson_bn": "এক আল্লাহর ওপর ঈমান সবচেয়ে বড় নিয়ামত। তাঁর বিধান মেনে চলাই হলো আসল কৃতজ্ঞতা।",
+  "real_life_en": "A family keeps their honest Muslim values in a fast-changing world. They thank Allah daily for faith, and they teach their children to live with truth and care.",
+  "real_life_bn": "একটি পরিবার আধুনিকতার জোয়ারেও ইসলামিক মূল্যবোধ ধরে রাখে। তারা ঈমানের জন্য আল্লাহর শুকরিয়া আদায় করে এবং সন্তানদের সত্য ও সৎপথে চলতে শেখায়।",
+  "context_en": "Yusuf connected his message to the noble heritage of prophets who taught pure monotheism.",
+  "context_bn": "ইউসুফ তাঁর দাওয়াতকে পূর্ববর্তী সম্মানিত নবীগণের তাওহীদী শিক্ষার সাথে যুক্ত করলেন।",
+  "themes": [
+    "tawhid",
+    "prophethood",
+    "gratitude"
+  ],
+  "kinds": [
+    "story",
+    "belief",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "Ibrahim",
+      "Ishaq",
+      "Yaqub"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Yusuf affirmed his adherence to the monotheistic faith of Ibrahim, Ishaq, and Yaqub.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He stated that guidance to Tawhid is a divine favor that most humans do not appreciate.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

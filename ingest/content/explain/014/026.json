@@ -1,0 +1,85 @@
+{
+  "id": "14:26",
+  "simple_en": "The example of an evil word is like a rotten tree pulled up from the earth's surface. It has no firm roots and no stability at all. Falsehood and cruel words blow away and bring no lasting peace.",
+  "simple_bn": "আর মন্দ বাক্যের উপমা হলো এক নিকৃষ্ট বিষবৃক্ষের মতো, যা ভূ-পৃষ্ঠ থেকে সমূলে উপড়ে ফেলা হয়েছে। যার কোনো স্থায়িত্ব নেই। মিথ্যা ও ক্ষতিকর কথার কোনো দৃঢ় ভিত্তি নেই এবং তা কোনো কল্যাণ বয়ে আনে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كلم",
+      "lemma": "كَلِمَة",
+      "meaning_en": "a word",
+      "meaning_bn": "বাক্য",
+      "why_en": "Words of disbelief, deceit, and malice."
+    },
+    {
+      "pos": 3,
+      "root": "خبث",
+      "lemma": "خَبِيث",
+      "meaning_en": "evil",
+      "meaning_bn": "নিকৃষ্ট",
+      "why_en": "Impure, poisonous, and vile."
+    },
+    {
+      "pos": 4,
+      "root": "شجر",
+      "lemma": "شَجَرَة",
+      "meaning_en": "like a tree",
+      "meaning_bn": "একটি গাছের মতো",
+      "why_en": "Analogous to an unstable plant."
+    },
+    {
+      "pos": 6,
+      "root": "جثث",
+      "lemma": "اجْتَثَّ",
+      "meaning_en": "uprooted",
+      "meaning_bn": "সমূলে উৎপাটিত",
+      "why_en": "Easily ripped from ground."
+    },
+    {
+      "pos": 13,
+      "root": "قرر",
+      "lemma": "قَرار",
+      "meaning_en": "stability",
+      "meaning_bn": "স্থায়িত্ব",
+      "why_en": "Lacking foundation or permanence."
+    }
+  ],
+  "lesson_en": "Keep your tongue free from falsehood. Lies have no deep roots and always fall apart.",
+  "lesson_bn": "মিথ্যা ও কটূক্তি থেকে জিহ্বাকে সংযত রাখুন। মিথ্যার কোনো মজবুত ভিত্তি নেই, তা দ্রুত ধ্বংস হয়ে যায়।",
+  "real_life_en": "A malicious rumor spreads in an office, causing temporary panic. When facts are examined, the gossip crumbles like an uprooted weed. Truth stands strong while slander fades away.",
+  "real_life_bn": "কর্মক্ষেত্রে এক সহকর্মী সম্পর্কে কুৎসা রটানো হয়। কিন্তু তদন্তে সত্য প্রকাশিত হওয়ার সাথে সাথে মিথ্যা কুৎসা শিকড়হীন গাছের মতো উপড়ে যায় এবং সত্য বিজয়ী হয়।",
+  "context_en": "Parable of the evil word of disbelief compared to an uprooted, unstable tree.",
+  "context_bn": "কুফরী ও অসৎবাক্যের উপমা: শিকড়হীন, ভঙ্গুর ও ভূপৃষ্ঠ থেকে বিচ্ছিন্ন বিষাক্ত বৃক্ষ।",
+  "themes": [
+    "parables",
+    "falsehood",
+    "speech"
+  ],
+  "kinds": [
+    "parable",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "An evil word is like an uprooted tree without stability, doomed to perish.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

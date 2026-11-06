@@ -1,0 +1,84 @@
+{
+ "id": "6:3",
+ "simple_en": "Allah is the only true God in the heavens and the earth. All beings submit to Him. He knows everything you hide in your heart and everything you say out loud. He also knows all the deeds you perform, and He will reward or judge you accordingly.",
+ "simple_bn": "আকাশমণ্ডলী ও জমিনে তিনিই একমাত্র সত্য উপাস্য। অন্তরে গোপন রাখা চিন্তা কিংবা প্রকাশ্যে বলা কথা—সবকিছুই তিনি জানেন। তোমরা ভালো বা মন্দ যা কিছু উপার্জন করো, তার প্রতিটি বিষয় তিনি অবগত আছেন এবং সে অনুযায়ী প্রতিদান দেবেন।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "علم",
+   "lemma": "عَلِمَ",
+   "meaning_en": "He knows",
+   "meaning_bn": "তিনি জানেন",
+   "why_en": "Highlights Allah's all-encompassing knowledge."
+  },
+  {
+   "pos": 8,
+   "root": "سرر",
+   "lemma": "سِرّ",
+   "meaning_en": "your secret",
+   "meaning_bn": "তোমাদের গোপন বিষয়",
+   "why_en": "Shows that even hidden thoughts are known to Allah."
+  },
+  {
+   "pos": 12,
+   "root": "كسب",
+   "lemma": "كَسَبَ",
+   "meaning_en": "you earn",
+   "meaning_bn": "তোমরা যা অর্জন করো",
+   "why_en": "Refers to all deeds, good or bad, that humans perform."
+  }
+ ],
+ "lesson_en": "Allah sees all that you do. Guard your secret thoughts and public actions.",
+ "lesson_bn": "আল্লাহ অন্তরের গোপন কথাও জানেন। তাই প্রকাশ্যে ও গোপনে সর্বদা আল্লাহভীতি বজায় রাখা উচিত।",
+ "real_life_en": "Live with integrity even when nobody is watching. Keep your online habits clean and avoid private sins. Remember that Allah sees both private intentions and public deeds.",
+ "real_life_bn": "একাকী থাকলেও নিজের চিন্তা ও কাজকে পবিত্র রাখুন। লোকচক্ষুর আড়ালে পাপ থেকে বেঁচে থাকুন। মনে রাখবেন, গোপন ও প্রকাশ্য সবকিছুই আল্লাহ সরাসরি দেখেন।",
+ "context_en": "Affirms Allah's supreme divinity across the universe and His complete knowledge of all human actions.",
+ "context_bn": "আসমান ও জমিনে আল্লাহর একচ্ছত্র সার্বভৌমত্ব এবং মানুষের গোপন ও প্রকাশ্য সমস্ত কর্ম সম্পর্কে তাঁর পূর্ণ জ্ঞান তুলে ধরা হয়েছে।",
+ "themes": [
+  "omniscience of Allah",
+  "divine knowledge",
+  "accountability",
+  "tawhid"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "the heavens",
+   "the earth"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah is the only true God worshipped across the heavens and the earth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah fully knows all private secrets, open statements, and deeds that people earn.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

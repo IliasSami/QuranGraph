@@ -1,0 +1,71 @@
+{
+  "id": "18:61",
+  "simple_en": "When they reached the junction between the two seas, they forgot their fish. It took its course into the sea, slipping away through a hidden passage beneath the water.",
+  "simple_bn": "অতঃপর তারা যখন দুই সাগরের মিলনস্থলে পৌঁছাল, তখন তারা তাদের মাছের কথা ভুলে গেল। মাছটি সাগরে সুড়ঙ্গের মতো পথ করে নেমে চলে গেল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "جمع",
+      "lemma": "مَجْمَع",
+      "meaning_en": "junction",
+      "meaning_bn": "মিলনস্থল",
+      "why_en": "The geographical meeting point of the two seas."
+    },
+    {
+      "pos": 6,
+      "root": "حوت",
+      "lemma": "حُوت",
+      "meaning_en": "their fish",
+      "meaning_bn": "তাদের মাছ",
+      "why_en": "The miraculous sign marking the appointed meeting with al-Khidr."
+    }
+  ],
+  "lesson_en": "God guides people through unusual events. Even human forgetfulness can serve a greater plan.",
+  "lesson_bn": "আল্লাহ অভাবনীয় উপায়ে পথ দেখান। মানুষের অনিচ্ছাকৃত ভুলও কখনো কখনো মহৎ কল্যাণের পথ খুলে দেয়।",
+  "real_life_en": "Do not despair when simple plans go off course. Trust that God may be redirecting you toward a greater blessing.",
+  "real_life_bn": "হঠাৎ কোনো পরিকল্পনা ভেস্তে গেলে হতাশ হবেন না। আল্লাহর ওপর ভরসা রাখুন, হয়তো এতেই কোনো কল্যাণ লুকিয়ে আছে।",
+  "themes": [
+    "miracle-of-fish",
+    "two-seas-junction",
+    "divine-guidance",
+    "forgetfulness"
+  ],
+  "kinds": [
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Yusha"
+    ],
+    "nations": [],
+    "places": [
+      "Junction-of-the-Two-Seas"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Escape-of-the-Fish"
+    ],
+    "things": [
+      "Fish"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "At the junction of the two seas, Moses and his companion forgot their fish, which swam miraculously into the sea.",
+      "claim_bn": "দুই সাগরের সঙ্গমস্থলে পৌঁছে তারা মাছের কথা ভুলে যায় এবং মাছটি সাগরে নিজের পথ করে নেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

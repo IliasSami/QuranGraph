@@ -1,0 +1,76 @@
+{
+  "id": "14:28",
+  "simple_en": "Have you seen those who traded Allah's favors for disbelief and ingratitude? By doing so, they led their people straight into the dwelling of destruction and ruin.",
+  "simple_bn": "তুমি কি তাদের দেখেছ যারা আল্লাহর নিয়ামতকে কুফরী দিয়ে বদলে নিয়েছে? তারা নিজেদের জাতিকে টেনে নামিয়েছে চরম ধ্বংসের আবাসে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "بدل",
+      "lemma": "بَدَّلَ",
+      "meaning_en": "they exchanged",
+      "meaning_bn": "তারা পরিবর্তন করেছে",
+      "why_en": "Replacing divine blessings with denial."
+    },
+    {
+      "pos": 6,
+      "root": "نعم",
+      "lemma": "نِعْمَة",
+      "meaning_en": "the favor of",
+      "meaning_bn": "নিয়ামতকে",
+      "why_en": "Divine favor including the Prophet and revelation."
+    },
+    {
+      "pos": 8,
+      "root": "كفر",
+      "lemma": "كُفْر",
+      "meaning_en": "disbelief",
+      "meaning_bn": "কুফরী দ্বারা",
+      "why_en": "Rejection and ingratitude."
+    },
+    {
+      "pos": 12,
+      "root": "بور",
+      "lemma": "بَوار",
+      "meaning_en": "of ruin",
+      "meaning_bn": "ধ্বংসের",
+      "why_en": "Total destruction and loss."
+    }
+  ],
+  "lesson_en": "Ungrateful leaders can lead entire communities to ruin. Honor the gifts of Allah.",
+  "lesson_bn": "অকৃতজ্ঞ নেতারা গোটা জাতিকে ধ্বংসের মুখে ঠেলে দেয়। আল্লাহর নিয়ামতের সঠিক মূল্যায়ন করুন।",
+  "real_life_en": "A corrupt official takes money from polluters. Soon dirty water makes children in the town sick. Selfish choices bring pain to many innocent homes.",
+  "real_life_bn": "এক অসৎ কর্মকর্তা ঘুষ নিয়ে কলকারখানার বর্জ্য ফেলার সুযোগ দেয়। ফলে এলাকার শিশুরা অসুস্থ হয়ে পড়ে। স্বার্থপর সিদ্ধান্তের কারণে বহু নিরীহ পরিবার কষ্টে পড়ে।",
+  "context_en": "Denunciation of leaders who responded to divine blessings with stubborn disbelief.",
+  "context_bn": "আল্লাহর নিয়ামতকে অস্বীকার করে নিজেদের জাতিকে ধ্বংসের দিকে নিয়ে যাওয়া কুরাইশ নেতাদের প্রতি ধিক্কার।",
+  "themes": [
+    "ingratitude",
+    "leadership",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who exchange Allah's favor for disbelief lead their followers into ruin.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

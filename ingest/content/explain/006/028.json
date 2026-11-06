@@ -1,0 +1,80 @@
+{
+  "id": "6:28",
+  "simple_en": "Their desire to believe is not sincere. The truth that they used to hide inside has now become clear to them. Even if they were returned to the world, they would go back to their evil ways and shirk. Their plea is simply a lie born out of fear.",
+  "simple_bn": "তাদের বিশ্বাস করার আকুলতা কোনো আন্তরিক ইচ্ছা নয়। বরং তারা পূর্বে অন্তরে যা গোপন করত, তা আজ তাদের সামনে স্পষ্ট হয়ে উঠেছে। যদি তাদের আবার দুনিয়াতে ফেরত পাঠানোও হতো, তবুও তারা সেই নিষিদ্ধ শিরক ও পাপে লিপ্ত হতো। মূলত তারা তাদের এই প্রতিশ্রুতিতে ঘোর মিথ্যাবাদী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "بدو",
+      "lemma": "بَدا",
+      "meaning_en": "became apparent",
+      "meaning_bn": "প্রকাশিত হলো",
+      "why_en": "Describes how the truth they concealed in this life becomes totally clear."
+    },
+    {
+      "pos": 11,
+      "root": "عود",
+      "lemma": "عادَ",
+      "meaning_en": "they would surely return",
+      "meaning_bn": "তারা অবশ্যই ফিরে যেত",
+      "why_en": "Reveals their deep-seated obstinacy even if given another chance."
+    },
+    {
+      "pos": 16,
+      "root": "كذب",
+      "lemma": "كاذِب",
+      "meaning_en": "surely liars",
+      "meaning_bn": "নিশ্চয় মিথ্যাবাদী",
+      "why_en": "Affirms that their plea to become believers is an insincere lie."
+    }
+  ],
+  "lesson_en": "True reform requires a sincere change of heart, not panic during trouble.",
+  "lesson_bn": "বিপদের মুখে পড়ে সাময়িক ভয় পাওয়া আর অন্তরের খাঁটি পরিবর্তন এক জিনিস নয়।",
+  "real_life_en": "A student caught cheating says he will never do it again. He only says this to avoid trouble. When the test ends, he cheats again. True change must come from the heart, not just fear of getting caught.",
+  "real_life_bn": "পরীক্ষায় অসদুপায় অবলম্বনের পর ধরা পড়ে অনেকে কেবল শাস্তি এড়াতে অনুশোচনার ভান করে। কিন্তু ভয় কেটে গেলে আবার অসততার পথেই ফিরে যায়। অন্তরে খাঁটি পরিবর্তন না থাকলে কেবল মুখের কথায় চরিত্র শোধরায় না।",
+  "context_en": "Reveals the deep hypocrisy of disbelievers who would revert to disbelief even if given another life.",
+  "context_bn": "কাফিরদের কপটতা উন্মোচন করে জানানো হয়েছে যে পুনরায় দুনিয়ায় পাঠালেও তারা তাদের অবাধ্যতাতেই ফিরে যেত।",
+  "themes": [
+    "hypocrisy",
+    "regret",
+    "stubbornness"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hellfire"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelievers' plea for return is driven by dread rather than genuine repentance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Even if sent back to worldly life, disbelievers would revert to the prohibited disbelief and idolatry.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "9:109",
+  "simple_en": "Is one who builds on fear of God and His pleasure better? Or is one who builds on the edge of a falling cliff that collapses into Hell? Allah does not guide unjust people.",
+  "simple_bn": "যে ব্যক্তি আল্লাহর ভয় ও সন্তুষ্টির ওপর নিজের ভিত্তি স্থাপন করে সে-ই উত্তম। কিন্তু যে ব্যক্তি ধসে পড়া খাদের কিনারায় ঘর বানায়, তা তাকে নিয়ে জাহান্নামের আগুনে পতিত হয়। আর আল্লাহ জালিম জাতিকে সৎপথে পরিচালিত করেন না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "بني",
+      "lemma": "بُنْيان",
+      "meaning_en": "his building / structure",
+      "meaning_bn": "তার ভবন / ভিত্তি",
+      "why_en": "Parable comparing lives built on virtue versus malice."
+    },
+    {
+      "pos": 16,
+      "root": "جرف",
+      "lemma": "جُرُف",
+      "meaning_en": "cliff / crumbling edge",
+      "meaning_bn": "খাদ / নদীগর্ভে ধসে পড়া কিনারা",
+      "why_en": "Precarious foundation without moral stability."
+    },
+    {
+      "pos": 18,
+      "root": "هور",
+      "lemma": "انْهارَ",
+      "meaning_en": "collapsed / crumbled down",
+      "meaning_bn": "ভেঙে পড়ল / ধসে গেল",
+      "why_en": "Catastrophic collapse of evil structures into Hell."
+    }
+  ],
+  "lesson_en": "Life built on piety stands firm, but life built on deceit collapses into ruin.",
+  "lesson_bn": "খোদাভীতি ও সততার ওপর গড়ে ওঠা জীবন অটল থাকে, কিন্তু প্রতারণার ওপর নির্মিত জীবন ধ্বংস হয়ে যায়।",
+  "real_life_en": "Build your family and career on justice and honesty. Schemes built on lies look clever for a short time, but they quickly crumble when tested.",
+  "real_life_bn": "নিজের ক্যারিয়ার ও পরিবার সততার ভিত্তির ওপর গড়ে তুলুন; মিথ্যার ওপর দাঁড়ানো কোনো ব্যবস্থাপনাই বেশিদিন টেকে না।",
+  "themes": [
+    "solid foundation",
+    "crumbling cliff",
+    "parable of buildings"
+  ],
+  "kinds": [
+    "parable",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hellfire"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "building",
+      "cliff"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Faith built on piety is likened to a firm foundation, while hypocrisy resembles a crumbling precipice tumbling into Hellfire.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "69:7",
+  "simple_en": "God sent this wind against them for seven nights and eight days without stop. If you had been there, you would have seen the people lying dead, like hollow date palm trunks uprooted from the earth.",
+  "simple_bn": "আল্লাহ তাদের ওপর এই ঝড় সাত রাত ও আট দিন বিরামহীনভাবে প্রবাহিত করেছিলেন। সেখানে উপস্থিত থাকলে দেখা যেত, মানুষগুলো যেন শিকড়হীন ফাঁপা খেজুর গাছের কাণ্ডের মতো জমিনে লুটিয়ে পড়ে আছে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سخر",
+      "lemma": "سَخَّرَ",
+      "meaning_en": "He unleashed and subjected",
+      "meaning_bn": "তিনি পরিচালিত করেছিলেন",
+      "why_en": "Shows that nature is completely obedient to the will of God."
+    },
+    {
+      "pos": 7,
+      "root": "حسم",
+      "lemma": "حُسُوم",
+      "meaning_en": "consecutive and relentless",
+      "meaning_bn": "বিরামহীনভাবে",
+      "why_en": "Emphasizes the continuous, unbroken punishment for days and nights."
+    },
+    {
+      "pos": 15,
+      "root": "خوي",
+      "lemma": "خاوِيَة",
+      "meaning_en": "hollow and empty",
+      "meaning_bn": "সারশূন্য ও ফাঁপা",
+      "why_en": "Depicts their complete lifelessness after being struck down."
+    }
+  ],
+  "lesson_en": "Physical strength cannot protect anyone from the judgment of God.",
+  "lesson_bn": "শারীরিক বল ও অহংকার কোনো কাজেই আসে না, যখন আল্লাহর ন্যায়বিচারের সময় উপস্থিত হয়।",
+  "real_life_en": "Athletes take pride in their tall frames and strong muscles. But life can end quickly. True strength lies in walking with humility and preparing good deeds before our time runs out.",
+  "real_life_bn": "শারীরিক গঠন বা বাহ্যিক শক্তি নিয়ে গর্ব করা অর্থহীন। যেকোনো সময় মানুষের জীবন প্রদীপ নিভে যেতে পারে, তাই সৎ কাজ দিয়ে জীবন সুন্দর করাই আসল উদ্দেশ্য।",
+  "themes": [
+    "Ad",
+    "transience of power",
+    "accountability"
+  ],
+  "kinds": [
+    "warning",
+    "story",
+    "parable"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "ad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah imposed the fierce wind on Ad for seven nights and eight days continuously, leaving them fallen like hollow palm trunks.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

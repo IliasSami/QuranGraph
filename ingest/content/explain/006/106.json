@@ -1,0 +1,82 @@
+{
+  "id": "6:106",
+  "simple_en": "Follow the divine revelation sent to you from your Lord. There is no true god except Him. Keep your focus on teaching the message of pure monotheism. Turn away from the polytheists and do not let their stubborn resistance disturb your heart.",
+  "simple_bn": "আপনার রবের পক্ষ থেকে যে ওহী অবতীর্ণ হয়েছে, আপনি নিষ্ঠার সাথে তারই অনুসরণ করুন। তিনি ছাড়া কোনো সত্য উপাস্য নেই। আপনি অংশীবাদীদের বিরুদ্ধাচরণ ও অনর্থক বিতর্ক থেকে মুখ ফিরিয়ে নিন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "تبع",
+      "lemma": "اتَّبَعَ",
+      "meaning_en": "follow",
+      "meaning_bn": "অনুসরণ করুন",
+      "why_en": "Commands steadfast obedience to the divine revelation."
+    },
+    {
+      "pos": 3,
+      "root": "وحي",
+      "lemma": "أَوْحَى",
+      "meaning_en": "was revealed",
+      "meaning_bn": "ওহী পাঠানো হয়েছে",
+      "why_en": "Highlights the divine origin and authority of the message."
+    },
+    {
+      "pos": 11,
+      "root": "عرض",
+      "lemma": "أَعْرَضَ",
+      "meaning_en": "turn away",
+      "meaning_bn": "মুখ ফিরিয়ে নিন",
+      "why_en": "Instructs the Prophet to disregard the mocking and stubborn opposition of polytheists."
+    }
+  ],
+  "lesson_en": "Hold fast to divine guidance and do not let hostile critics pull you away from the truth.",
+  "lesson_bn": "আল্লাহর দেওয়া বিধান দৃঢ়ভাবে আঁকড়ে ধরুন এবং বিরোধীদের অসদাচরণ উপেক্ষা করে নিজ দায়িত্ব পালন করুন।",
+  "real_life_en": "When you stand up for what is right, some people will mock your principles. Do not waste energy arguing with toxic critics. Focus quietly on your duties to Allah and leave foolish talk behind.",
+  "real_life_bn": "সততার পথে চলতে গেলে কিছু মানুষ কটুকথা বলবেই। তাদের সাথে কুতর্কে সময় নষ্ট করবেন না। নিজের কর্তব্য ও ইবাদতে অবিচল থাকুন এবং অহেতুক বিরোধীদের এড়িয়ে চলুন।",
+  "context_en": "Allah instructs His Messenger to stay firm on divine revelation and not be distressed by the mockery of idolaters.",
+  "context_bn": "নবিজিকে ওহীর ওপর দৃঢ় থাকার এবং মুশরিকদের কটূক্তি উপেক্ষা করে চলার নির্দেশ দেওয়া হয়েছে।",
+  "themes": [
+    "tawhid",
+    "revelation",
+    "steadfastness",
+    "patience"
+  ],
+  "kinds": [
+    "command",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet is commanded to follow the revelation from Allah, the only true God.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Believers are instructed to turn away from the stubborn opposition of idolaters.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,85 @@
+{
+  "id": "7:187",
+  "simple_en": "People ask you about the Day of Judgment and when it will arrive. Tell them that only my Lord knows its appointed time. It weighs heavily on the heavens and the earth, and it will come upon you suddenly.",
+  "simple_bn": "তারা আপনাকে কেয়ামত সম্পর্কে জিজ্ঞেস করে, তা কখন ঘটবে? বলুন, এর জ্ঞান কেবল আমার রবের কাছেই আছে। নির্ধারিত সময়ে তিনি ছাড়া কেউ তা প্রকাশ করতে পারবে না। তা আকাশ ও পৃথিবীতে এক ভয়াবহ ব্যাপার হবে এবং হঠাৎ করেই তোমাদের ওপর আসবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "they ask you",
+      "meaning_bn": "তারা আপনাকে জিজ্ঞেস করে",
+      "why_en": "Questions from skeptics asking about the timing of the Last Day."
+    },
+    {
+      "pos": 3,
+      "root": "سوع",
+      "lemma": "ساعَة",
+      "meaning_en": "the Hour",
+      "meaning_bn": "কেয়ামত / শেষ সময়",
+      "why_en": "The Day of Resurrection and cosmic reckoning."
+    },
+    {
+      "pos": 8,
+      "root": "علم",
+      "lemma": "عِلْم",
+      "meaning_en": "its knowledge",
+      "meaning_bn": "তার জ্ঞান",
+      "why_en": "The exact hour of Resurrection is known exclusively to God."
+    }
+  ],
+  "lesson_en": "The exact time of the Last Day is known to God alone, so we must always be prepared.",
+  "lesson_bn": "কেয়ামতের নির্দিষ্ট সময় কেবল আল্লাহর জ্ঞানে রয়েছে; তাই প্রতিটি মুহূর্ত সৎকাজে প্রস্তুত থাকা আবশ্যক।",
+  "real_life_en": "Do not waste time chasing wild predictions about the end of the world. Focus on how you live each day. Being kind, honest, and faithful is the best way to prepare for meeting God.",
+  "real_life_bn": "কেয়ামত কবে হবে তা নিয়ে অহেতুক জল্পনা না করে নিজের প্রস্তুতি নিন। প্রতিদিন ভালো কাজ করুন এবং সৎভাবে বাঁচুন।",
+  "context_en": "Responding to questions from the polytheists and Jews regarding the timing of the Day of Resurrection.",
+  "context_bn": "কেয়ামতের সময়কাল সম্পর্কে কাফির ও আহলে কিতাবদের প্রশ্নের জবাবে অদৃশ্যের জ্ঞানের একচ্ছত্র মালিকানার ঘোষণা।",
+  "themes": [
+    "the Day of Judgment",
+    "the unseen",
+    "divine knowledge",
+    "preparation for the hereafter"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "hereafter",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "questioners among Quraysh"
+    ],
+    "places": [
+      "heavens and earth"
+    ],
+    "unseen": [
+      "the Hour (al-Sa'ah)"
+    ],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The knowledge of the exact timing of the Hour belongs exclusively to Allah, and it will strike creation suddenly.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

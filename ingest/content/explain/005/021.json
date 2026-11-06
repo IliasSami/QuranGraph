@@ -1,0 +1,97 @@
+{
+ "id": "5:21",
+ "simple_en": "Moses told his people to enter the Holy Land. Allah had promised this land to them. Moses urged them to be brave and trust Allah. He warned them not to turn back in fear. Turning back would make them lose both this life and the next.",
+ "simple_bn": "মূসা (আলাইহিস সালাম) তাঁর সম্প্রদায়কে পবিত্র ভূমিতে প্রবেশের নির্দেশ দিলেন। আল্লাহ তাদের জন্য এই ভূমি লিখে দিয়েছিলেন। তিনি তাদের সাহসী হতে এবং আল্লাহর ওপর ভরসা রাখতে বললেন। তিনি সতর্ক করলেন যেন তারা ভয়ে পিছু না হটে। কারণ পিছু হটলে তারা দুনিয়া ও আখিরাতে ক্ষতিগ্রস্ত হবে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "قدس",
+   "lemma": "مُقَدَّسَة",
+   "meaning_en": "purified / holy",
+   "meaning_bn": "পবিত্র",
+   "why_en": "Describes the blessed status of Jerusalem and its surrounding land."
+  },
+  {
+   "pos": 6,
+   "root": "كتب",
+   "lemma": "كَتَبَ",
+   "meaning_en": "decreed / assigned",
+   "meaning_bn": "নির্ধারণ করেছেন",
+   "why_en": "Shows that victory was promised by Allah if they obeyed."
+  },
+  {
+   "pos": 10,
+   "root": "ردد",
+   "lemma": "ارْتَدَّ",
+   "meaning_en": "turn back / retreat",
+   "meaning_bn": "পিছু হটা",
+   "why_en": "Warns against fleeing from duty out of cowardice."
+  },
+  {
+   "pos": 14,
+   "root": "خسر",
+   "lemma": "خاسِر",
+   "meaning_en": "losers",
+   "meaning_bn": "ক্ষতিগ্রস্ত",
+   "why_en": "Highlights the tragic loss in both worlds from cowardice."
+  }
+ ],
+ "lesson_en": "Trust Allah and face hard duties with courage. Cowardice leads to painful loss.",
+ "lesson_bn": "আল্লাহর ওপর ভরসা রেখে সাহসের সাথে দায়িত্ব পালন করুন। কাপুরুষতা কেবল ক্ষতি ডেকে আনে।",
+ "real_life_en": "A young person faces pressure to abandon their values for fear of being left out. Instead of running away, they stand firm on truth. They trust Allah and refuse to let fear rob them of honor.",
+ "real_life_bn": "একজন তরুণ বন্ধুদের চাপে পড়েও অন্যায়ের কাছে মাথা নত করে না। সে ভয়ের কাছে নতি স্বীকার না করে সত্যের পথে অবিচল থাকে। সে আল্লাহর ওপর ভরসা করে সঠিক দায়িত্ব পালন করে।",
+ "context_en": "Follows Moses reminding his people of Allah's favors upon them, now calling them to take action and enter the land.",
+ "context_bn": "বনী ইসরাঈলকে আল্লাহর নিয়ামত স্মরণ করিয়ে দেওয়ার পর মূসা (আলাইহিস সালাম) তাদের পবিত্র ভূমিতে প্রবেশের আহ্বান জানান।",
+ "themes": [
+  "Children of Israel",
+  "stories of the prophets",
+  "trials",
+  "trust in Allah",
+  "guidance"
+ ],
+ "kinds": [
+  "command",
+  "warning",
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Moses (peace be upon him)"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [
+   "the Holy Land"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Moses called his people to enter the Holy Land which Allah had decreed for them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Moses warned them that retreating in fear would make them losers in this world and the Hereafter.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

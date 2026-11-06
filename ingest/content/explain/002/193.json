@@ -1,0 +1,99 @@
+{
+ "id": "2:193",
+ "simple_en": "Fight against them until religious persecution ceases and worship is freely devoted to Allah. The goal of this struggle is to remove tyranny and secure freedom of faith, not to take lives or property. If they stop their hostility, then all conflict must end. No aggression is permitted except against those who persist in doing wrong.",
+ "simple_bn": "তোমরা তাদের বিরুদ্ধে লড়াই চালিয়ে যাও যতক্ষণ না ধর্মীয় নিপীড়ন ও ফিতনা দূর হয় এবং আল্লাহর দ্বীন বাধাহীনভাবে প্রতিষ্ঠিত হয়। এই লড়াইয়ের লক্ষ্য রক্তপাত বা সম্পদ দখল নয়, বরং জুলুমের অবসান ঘটানো। অতএব তারা যদি শত্রুতা থেকে বিরত হয়, তবে সীমা লঙ্ঘনকারী যালেম ছাড়া আর কারও ওপর কোনো আক্রমণ চালানো যাবে না।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "فتن",
+   "lemma": "فِتْنَة",
+   "meaning_en": "persecution / coercion in religion",
+   "meaning_bn": "ফিতনা (ধর্মীয় অত্যাচার ও শিরক)",
+   "why_en": "Specifies the condition being eliminated: tyranny that forces believers away from worshipping Allah."
+  },
+  {
+   "pos": 7,
+   "root": "دين",
+   "lemma": "دِين",
+   "meaning_en": "the religion / worship",
+   "meaning_bn": "দ্বীন ও উপাসনা",
+   "why_en": "Indicates that worship must be practiced freely and sincerely for Allah alone."
+  },
+  {
+   "pos": 12,
+   "root": "عدو",
+   "lemma": "عُدْوان",
+   "meaning_en": "hostility / aggression",
+   "meaning_bn": "আক্রমণ বা শত্রুতা",
+   "why_en": "Prohibits any further fighting once the opponents desist from injustice."
+  },
+  {
+   "pos": 15,
+   "root": "ظلم",
+   "lemma": "ظالِم",
+   "meaning_en": "the wrongdoers",
+   "meaning_bn": "যালেমগণ",
+   "why_en": "Restricts punishment solely to those who persist in active aggression and oppression."
+  }
+ ],
+ "lesson_en": "Stand for justice to stop harm, and make peace the moment wrong actions end.",
+ "lesson_bn": "ন্যায়ের লড়াইয়ের উদ্দেশ্য কেবল জুলুম দূর করে বিশ্বাসের স্বাধীনতা প্রতিষ্ঠা করা, তাই শত্রুতা বন্ধ হলে কোনো আক্রমণ বৈধ নয়।",
+ "real_life_en": "When stepping in to defend someone being bullied at school or in a community group, your focus should be restoring peace and stopping the harm. Once the mistreatment stops, do not continue attacking the wrongdoer out of personal spite.",
+ "real_life_bn": "বিদ্যালয়ে বা সমাজে কোনো দুর্বল ব্যক্তি হেনস্তার শিকার হলে তাকে রক্ষার জন্য রুখে দাঁড়ান। জুলুম বন্ধ হয়ে গেলে এবং পরিবেশ শান্ত হলে আক্রমণকারীর সাথে ব্যক্তিগত শত্রুতা পুষে রাখবেন না বা তাকে নতুন করে হেনস্তা করবেন না।",
+ "context_en": "Clarifies the true spiritual and moral purpose of fighting, ensuring it is waged only to eliminate religious oppression.",
+ "context_bn": "যুদ্ধের প্রকৃত উদ্দেশ্য যে কেবল নিপীড়নের অবসান ঘটিয়ে আল্লাহর ইবাদতের পরিবেশ নিশ্চিত করা, তা স্পষ্টভাবে তুলে ধরা হয়েছে।",
+ "themes": [
+  "struggle in Allah's way",
+  "justice",
+  "peace",
+  "tawhid",
+  "trials"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Fighting is prescribed to end religious persecution (fitnah) and establish the freedom to worship Allah alone without tyranny.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "If enemies stop their hostility and oppression, all fighting against them must cease immediately.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "No further punitive measures are permitted except strictly against those who continue to perpetrate wrongdoing.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

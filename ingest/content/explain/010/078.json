@@ -1,0 +1,76 @@
+{
+  "id": "10:78",
+  "simple_en": "They said: Have you come to turn us away from what our fathers followed, so that the two of you may gain supremacy in the land? We will never believe in you both.",
+  "simple_bn": "তারা বলল: আমরা আমাদের পূর্বপুরুষদের যাতে পেয়েছি তুমি কি তা থেকে আমাদের বিচ্যুত করতে এসেছ, যাতে এ দেশে তোমাদের দুজনের আধিপত্য কায়েম হতে পারে? আমরা তোমাদের দুজনকে কখনোই বিশ্বাস করব না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "لفت",
+      "lemma": "تَلْفِتَ",
+      "meaning_en": "to turn us away",
+      "meaning_bn": "আমাদের বিচ্যুত করতে",
+      "why_en": "Accusing the prophets of diverting people from ancestral customs."
+    },
+    {
+      "pos": 7,
+      "root": "أبو",
+      "lemma": "آباء",
+      "meaning_en": "our fathers",
+      "meaning_bn": "আমাদের পূর্বপুরুষগণ",
+      "why_en": "Blind loyalty to inherited ancestral practices."
+    },
+    {
+      "pos": 10,
+      "root": "كبر",
+      "lemma": "كِبْرِياء",
+      "meaning_en": "greatness / supremacy",
+      "meaning_bn": "নেতৃত্ব / আধিপত্য",
+      "why_en": "Accusing Moses and Aaron of seeking political dominance."
+    }
+  ],
+  "lesson_en": "Unjust leaders often say that good people only want power for themselves.",
+  "lesson_bn": "স্বৈরাচারী সমাজ প্রায়ই সংস্কারকদের বিরুদ্ধে ক্ষমতা দখলের মিথ্যা অভিযোগ তুলে সত্যকে রুদ্ধ করতে চায়।",
+  "real_life_en": "Do not follow outdated traditions blindly when evidence shows they are wrong. Seek truth rather than relying on what people before you did.",
+  "real_life_bn": "পূর্বপুরুষদের ভুল প্রথা অন্ধভাবে অনুসরণ করবেন না; সত্য স্পষ্ট হলে তা আন্তরিকভাবে গ্রহণ করুন।",
+  "themes": [
+    "blind tradition",
+    "accusation of political ambition",
+    "stubborn defiance"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Musa (Moses)",
+      "Harun (Aaron)",
+      "Fir'awn (Pharaoh)"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Pharaoh's court accused Moses and Aaron of aiming to seize political power under the guise of religion.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

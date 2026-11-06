@@ -1,0 +1,81 @@
+{
+  "id": "9:70",
+  "simple_en": "Has there not reached them the news of those before them, the people of Noah, Ad, Thamud, the people of Abraham, the dwellers of Madyan, and the overturned cities? Their messengers brought them clear proofs. Allah did not wrong them, but they wronged themselves.",
+  "simple_bn": "তাদের কাছে কি তাদের পূর্ববর্তীদের সংবাদ পৌঁছেনি—নূহ, আদ ও সামূদের সম্প্রদায়, ইব্রাহীমের সম্প্রদায়, মাদইয়ানবাসী এবং উল্টে দেওয়া জনপদসমূহের? তাদের কাছে তাদের রাসূলগণ সুস্পষ্ট প্রমাণ নিয়ে এসেছিলেন। আল্লাহ তাদের ওপর জুলুম করেননি, বরং তারা নিজেরাই নিজেদের ওপর জুলুম করেছিল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نبأ",
+      "lemma": "نَبَأ",
+      "meaning_en": "news / historic account",
+      "meaning_bn": "সংবাদ / ইতিহাস",
+      "why_en": "Historical evidence preserving lessons of past civilizations."
+    },
+    {
+      "pos": 14,
+      "root": "مدن",
+      "lemma": "مَدْيَن",
+      "meaning_en": "Madyan",
+      "meaning_bn": "মাদইয়ান সম্প্রদায়",
+      "why_en": "Trading people destroyed after rejecting the Prophet Shu'ayb."
+    },
+    {
+      "pos": 15,
+      "root": "أفك",
+      "lemma": "مُؤْتَفِكَة",
+      "meaning_en": "the overturned cities",
+      "meaning_bn": "উল্টে দেওয়া জনপদ / লূত সম্প্রদায়ের শহর",
+      "why_en": "The ruined towns of Sodom and Gomorrah overthrown for transgressions."
+    }
+  ],
+  "lesson_en": "Past ruins remind us that arrogance against truth always ends in destruction.",
+  "lesson_bn": "অতীতের ধ্বংসপ্রাপ্ত জনপদগুলো আমাদের স্মরণ করিয়ে দেয় যে অহংকার কখনোই টিকে থাকে না।",
+  "real_life_en": "Study history with an open mind to see how pride and unfairness destroyed great rulers. Choose justice to preserve peace in your own time.",
+  "real_life_bn": "ইতিহাস থেকে শিক্ষা নিন; জুলুম ও অন্যায় কীভাবে অতীত জাতিগুলোকে ধ্বংস করেছে তা দেখে নিজের জীবনে সতর্ক হোন।",
+  "themes": [
+    "past nations",
+    "destroyed cities",
+    "justice of Allah"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Noah",
+      "Abraham"
+    ],
+    "nations": [
+      "people of Noah",
+      "Ad",
+      "Thamud",
+      "people of Abraham",
+      "dwellers of Madyan"
+    ],
+    "places": [
+      "Madyan"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Past rebellious nations were justly destroyed after rejecting the clear signs and proofs brought by their messengers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

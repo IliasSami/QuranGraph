@@ -1,0 +1,76 @@
+{
+  "id": "35:1",
+  "simple_en": "All praise belongs to Allah. He created the heavens and the earth without any previous model. He appointed the angels as messengers who carry out His divine commands. Some angels have two wings, some three, and some four. Allah adds to His creation whatever He wills. Truly, Allah has power over all things.",
+  "simple_bn": "সকল প্রশংসা মহান আল্লাহর। তিনি কোনো পূর্ব নমুনা ছাড়াই আসমান ও জমিন সৃষ্টি করেছেন। তিনি ফিরিশতাদের বার্তাবাহক বানিয়েছেন, যারা তাঁর আদেশ পালন করেন। তাদের কারো দুটি, কারো তিনটি এবং কারো চারটি ডানা রয়েছে। আল্লাহ তাঁর সৃষ্টিতে যা ইচ্ছা বৃদ্ধি করেন। নিশ্চয়ই আল্লাহ সবকিছুর ওপর ক্ষমতাবান।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "حمد",
+      "lemma": "حَمْد",
+      "meaning_en": "all praise",
+      "meaning_bn": "সকল প্রশংসা",
+      "why_en": "Shows that all gratitude and worship belong to Allah alone."
+    },
+    {
+      "pos": 3,
+      "root": "فطر",
+      "lemma": "فاطِر",
+      "meaning_en": "Originator / Creator",
+      "meaning_bn": "নিখুঁত সৃষ্টিকর্তা",
+      "why_en": "Highlights creating the universe from nothing without a prior model."
+    },
+    {
+      "pos": 6,
+      "root": "جعل",
+      "lemma": "جاعِل",
+      "meaning_en": "the angels",
+      "meaning_bn": "ফিরিশতাগণ",
+      "why_en": "Describes heavenly messengers chosen to execute divine orders."
+    }
+  ],
+  "lesson_en": "Allah creates with perfect power and sends His angels to fulfill His will.",
+  "lesson_bn": "আল্লাহ নিখুঁত শক্তিতে সৃষ্টি করেন এবং তাঁর নির্দেশ বাস্তবায়নে ফিরিশতাদের নিয়োজিত রেখেছেন।",
+  "real_life_en": "Look up at the sky and reflect on the universe. Remember that the One who guides the cosmos is fully able to help you in your daily needs.",
+  "real_life_bn": "আকাশের বিশালতার দিকে তাকিয়ে সৃষ্টির সৌন্দর্য নিয়ে ভাবুন। যিনি নিখিল বিশ্ব পরিচালনা করেন, তিনি আপনার জীবনের প্রতিটি প্রয়োজনে সাহায্য করতে সম্পূর্ণ সক্ষম।",
+  "themes": [
+    "praise",
+    "creation",
+    "angels",
+    "allah's power"
+  ],
+  "kinds": [
+    "praise",
+    "description-of-allah",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [
+      "allah",
+      "al-qadir"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "All praise belongs to Allah, the Creator of the heavens and earth, who made winged angels as messengers.",
+      "claim_bn": "সকল প্রশংসা আসমান ও জমিনের সৃষ্টিকর্তা আল্লাহর, যিনি পক্ষবিশিষ্ট ফিরিশতাদের বার্তাবাহক বানিয়েছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

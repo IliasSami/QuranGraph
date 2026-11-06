@@ -1,0 +1,74 @@
+{
+  "id": "48:8",
+  "simple_en": "Allah sent the Prophet Muhammad ﷺ with a holy task. He is a witness over people regarding their deeds. He brings happy news of Paradise to those who believe. He also gives a clear warning to those who turn away from the truth.",
+  "simple_bn": "আল্লাহ নবী মুহাম্মাদ ﷺ-কে এক মহান দায়িত্ব দিয়ে পাঠিয়েছেন। তিনি মানুষের কাজের সাক্ষী হিসেবে এসেছেন। তিনি মুমিনদের জান্নাতের সুসংবাদ দেন এবং যারা সত্য অস্বীকার করে তাদের শাস্তির ভয় দেখান।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "شهد",
+      "lemma": "شاهِد",
+      "meaning_en": "a witness",
+      "meaning_bn": "সাক্ষী",
+      "why_en": "It defines the Prophet's role in testifying to the actions of his people."
+    },
+    {
+      "pos": 4,
+      "root": "بشر",
+      "lemma": "مُبَشِّر",
+      "meaning_en": "a giver of glad tidings",
+      "meaning_bn": "সুসংবাদদাতা",
+      "why_en": "It highlights the joyful news of reward for the faithful."
+    },
+    {
+      "pos": 5,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "a warner",
+      "meaning_bn": "সতর্ককারী",
+      "why_en": "It shows the compassionate warning given to steer people away from ruin."
+    }
+  ],
+  "lesson_en": "The Prophet ﷺ came to guide us with glad news and loving warnings.",
+  "lesson_bn": "নবী ﷺ আমাদের সুসংবাদ দিয়ে সৎকাজে উৎসাহ দেন এবং অমঙ্গল থেকে সতর্ক করেন।",
+  "real_life_en": "When you guide your family or friends, use both encouragement and gentle warnings. Praise their good efforts and kindly remind them to avoid mistakes.",
+  "real_life_bn": "পরিবার বা বন্ধুদের কোনো ভালো পরামর্শ দেওয়ার সময় প্রশংসার পাশাপাশি সতর্কবার্তাও রাখুন। তাদের ভালো কাজের প্রশংসা করুন এবং অন্যায় কাজ থেকে দূরে থাকতে বলুন।",
+  "themes": [
+    "Prophet Muhammad ﷺ",
+    "prophethood",
+    "guidance"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet ﷺ was sent as a witness over humanity, a bringer of good tidings of Paradise, and a warner against punishment.",
+      "claim_bn": "নবী ﷺ-কে মানুষের উপর সাক্ষী, মু’মিনদের জন্য জান্নাতের সুসংবাদদাতা এবং কাফিরদের জন্য শাস্তির সতর্ককারী হিসেবে প্রেরণ করা হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

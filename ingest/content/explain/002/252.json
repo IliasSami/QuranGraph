@@ -1,0 +1,93 @@
+{
+ "id": "2:252",
+ "simple_en": "These are the verses of Allah. We recite them to you, O Prophet, in complete truth. Recounting these past stories proves that your revelation is from Allah. Truly, you are one of the messengers sent to guide mankind.",
+ "simple_bn": "এগুলো আল্লাহর সত্যবাণী ও সুস্পষ্ট নিদর্শন। হে নবী, আমরা সম্পূর্ণ সত্য সহকারে তা আপনার কাছে তিলাওয়াত করছি। অতীতের এই নির্ভুল ঐতিহাসিক ঘটনাবলি বর্ণনা করা প্রমাণ করে যে আপনার ওপর অবতীর্ণ ওহী আল্লাহর পক্ষ থেকেই এসেছে। নিশ্চয়ই আপনি প্রেরিত রাসুলদের একজন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "أيي",
+   "lemma": "آيَة",
+   "meaning_en": "signs / verses",
+   "meaning_bn": "নিদর্শনসমূহ বা আয়াতসমূহ",
+   "why_en": "Refers to the divine narratives and proof-texts revealed in the Quran."
+  },
+  {
+   "pos": 4,
+   "root": "تلو",
+   "lemma": "تَلَى",
+   "meaning_en": "We recite them",
+   "meaning_bn": "আমরা তিলাওয়াত করি",
+   "why_en": "Emphasizes that revelation comes directly from Allah through Jibril to the Prophet ﷺ."
+  },
+  {
+   "pos": 6,
+   "root": "حقق",
+   "lemma": "حَقّ",
+   "meaning_en": "in truth",
+   "meaning_bn": "সত্য সহকারে",
+   "why_en": "Affirms that these historical accounts contain absolute historical and theological accuracy."
+  },
+  {
+   "pos": 9,
+   "root": "رسل",
+   "lemma": "مُرْسَل",
+   "meaning_en": "the messengers",
+   "meaning_bn": "প্রেরিত রাসুলগণ",
+   "why_en": "Explicitly validates the prophethood and divine mission of Prophet Muhammad ﷺ."
+  }
+ ],
+ "lesson_en": "Trust the Quran as Allah's true word, and follow the Prophet ﷺ with an open heart.",
+ "lesson_bn": "কুরআনকে নির্ভেজাল সত্য ও আল্লাহর বাণী হিসেবে বিশ্বাস করুন এবং আস্থার সাথে রাসুলুল্লাহ ﷺ-এর সুন্নাহ অনুসরণ করুন।",
+ "real_life_en": "When you read Quranic stories about past nations, do not treat them as ancient myths. Recognize that they are preserved by Allah to teach practical wisdom and comfort your heart. Let their moral lessons guide how you live each day.",
+ "real_life_bn": "কুরআনে বর্ণিত অতীত জাতিসমূহের কাহিনীকে কেবল প্রাচীন গল্প মনে করবেন না। বিশ্বাস রাখুন এগুলো আল্লাহর পক্ষ থেকে সত্য শিক্ষা ও আত্মশুদ্ধির মাধ্যম, এবং দৈনন্দিন জীবনে এই শিক্ষাগুলো কাজে লাগান।",
+ "context_en": "Affirms the divine origin of the historical narratives just related about Bani Israel and directly confirms the prophethood of Muhammad ﷺ.",
+ "context_bn": "বনী ইসরাঈলের অতীত ঘটনার বর্ণনা সমাপ্ত করে এর সত্যতা এবং রাসুলুল্লাহ ﷺ-এর নবুওয়াতের চূড়ান্ত প্রমাণ তুলে ধরা হয়েছে।",
+ "themes": [
+  "revelation",
+  "prophethood",
+  "the Quran",
+  "Prophet Muhammad ﷺ",
+  "guidance"
+ ],
+ "kinds": [
+  "argument",
+  "belief",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "Muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The recited verses and narratives of past prophets are revealed by Allah in absolute truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Relating these detailed historical facts accurately confirms that Muhammad ﷺ is a true messenger of Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,65 @@
+{
+ "id": "38:29",
+ "simple_en": "This Quran is a blessed Book that Allah sent down to the Prophet ﷺ. Its purpose is for people to reflect deeply on its verses. It gives wisdom so that those with sound minds can remember the truth and act upon it.",
+ "simple_bn": "এই কুরআন এক বরকতময় কিতাব, যা আল্লাহ রাসূলুল্লাহ ﷺ এর ওপর নাযিল করেছেন। এর মূল উদ্দেশ্য হলো মানুষ যেন এর আয়াত নিয়ে গভীরভাবে চিন্তা করে এবং বিবেকবান ব্যক্তিরা যেন উপদেশ গ্রহণ করে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "برك",
+   "lemma": "مُبارَك",
+   "meaning_en": "blessed",
+   "meaning_bn": "বরকতময়",
+   "why_en": "Describes the vast goodness and guidance contained in the Quran."
+  },
+  {
+   "pos": 5,
+   "root": "دبر",
+   "lemma": "يَتَدَبَّرُ",
+   "meaning_en": "they reflect / ponder",
+   "meaning_bn": "তারা যেন চিন্তা করে",
+   "why_en": "Calls for deep contemplation on the meanings of the Quran."
+  }
+ ],
+ "lesson_en": "Ponder the verses of the Quran so its wisdom can shape your life.",
+ "lesson_bn": "কুরআনের অর্থ নিয়ে গভীরভাবে চিন্তা করা জীবনকে সঠিক পথে পরিচালিত করে।",
+ "real_life_en": "Do not merely read the Quran without thought. Pause after an ayah, learn its meaning, and ask yourself how you can apply it in your life today.",
+ "real_life_bn": "কেবল পাঠের জন্য কুরআন পড়বেন না। আয়াতের অর্থ জেনে ভাবুন এবং আজকের জীবনে তা কীভাবে প্রয়োগ করা যায় তা চেষ্টা করুন।",
+ "themes": [
+  "the Quran",
+  "reflection",
+  "revelation"
+ ],
+ "kinds": [
+  "belief",
+  "praise"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The Quran is a blessed revelation sent for mankind to ponder its signs and for people of understanding to take heed.",
+   "claim_bn": "কুরআন এক বরকতময় কিতাব, যা অবতীর্ণ হয়েছে এর আয়াত নিয়ে চিন্তা-ভাবনা এবং উপদেশ গ্রহণের জন্য।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "37:116",
+  "simple_en": "Allah aided Prophet Musa, Harun, and the believers against Pharaoh and his army. With divine help, truth won the day. The weak and oppressed believers became the ultimate victors.",
+  "simple_bn": "আল্লাহ ফিরাউন এবং তার বাহিনীর বিরুদ্ধে নবী মূসা, হারূন ও বিশ্বাসীদের সাহায্য করলেন। ঐশী সাহায্যে সত্য জয়ী হলো এবং মজলুম বিশ্বাসীরা শেষ পর্যন্ত বিজয়ী হলেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نصر",
+      "lemma": "نَصَرَ",
+      "meaning_en": "We helped them",
+      "meaning_bn": "আমরা তাদের সাহায্য করলাম",
+      "why_en": "Shows that divine victory supported the cause of the prophets."
+    },
+    {
+      "pos": 4,
+      "root": "غلب",
+      "lemma": "غالِب",
+      "meaning_en": "the victors",
+      "meaning_bn": "বিজয়ী",
+      "why_en": "The believers overcame their oppressors through Allah's aid."
+    }
+  ],
+  "lesson_en": "Truth wins over falsehood when Allah grants His support.",
+  "lesson_bn": "আল্লাহর সাহায্য থাকলে সত্য সবসময় অন্যায়ের বিরুদ্ধে বিজয়ী হয়।",
+  "real_life_en": "Never fear standing up for what is fair. Even if you feel alone or weak, doing the right thing with Allah's help brings real success.",
+  "real_life_bn": "ন্যায়ের পক্ষে থাকতে গিয়ে ভয় পাবেন না। নিজেকে দুর্বল মনে হলেও সততা নিয়ে এগিয়ে চলুন, শেষ পর্যন্ত সত্যেরই জয় হবে।",
+  "themes": [
+    "victory",
+    "divine help",
+    "truth"
+  ],
+  "kinds": [
+    "story",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "musa",
+      "harun"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah supported Musa and his people so that they overcame Pharaoh and became victorious.",
+      "claim_bn": "আল্লাহ মূসা ও তাঁর জাতিকে সাহায্য করেছিলেন, ফলে তাঁরাই বিজয়ী হয়েছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

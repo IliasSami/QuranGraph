@@ -1,0 +1,86 @@
+{
+ "id": "5:77",
+ "simple_en": "Say: O People of the Book, do not go beyond the limits in your faith. Do not speak lies about Allah or His prophets. Stop following the false ideas of people from the past. Those people lost their way, led many others astray, and left the straight road.",
+ "simple_bn": "আপনি বলুন: হে আহলে কিতাব! তোমরা তোমাদের ধর্মে অন্যায়ভাবে বাড়াবাড়ি কোরো না। নবীদের মর্যাদা নিয়ে বাড়াবাড়ি করে তাঁদের খোদার আসনে বসাবে না। আর পূর্ববর্তী এমন লোকদের খেয়ালখুশির অনুসরণ কোরো না, যারা নিজেরা পথভ্রষ্ট হয়েছিল, বহু মানুষকে পথভ্রষ্ট করেছিল এবং সত্যের সরল পথ থেকে বিচ্যুত হয়ে গিয়েছিল।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "غلو",
+   "lemma": "تَغْلُو",
+   "meaning_en": "exceed limits / exaggerate",
+   "meaning_bn": "বাড়াবাড়ি করো না",
+   "why_en": "Forbids religious extremism that distorts divine truth."
+  },
+  {
+   "pos": 12,
+   "root": "هوي",
+   "lemma": "أَهْواء",
+   "meaning_en": "desires / whims",
+   "meaning_bn": "খেয়াল-খুশি",
+   "why_en": "Warns against replacing revelation with personal opinions and passions."
+  },
+  {
+   "pos": 23,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "the path",
+   "meaning_bn": "সঠিক পথ",
+   "why_en": "Refers to the balanced straight way of truth that leads to salvation."
+  }
+ ],
+ "lesson_en": "Stay away from extreme views in religion. Keep to the clear, straight path.",
+ "lesson_bn": "দ্বীনের ব্যাপারে বাড়াবাড়ি পরিহার করুন এবং আল্লাহর অবতীর্ণ ভারসাম্যপূর্ণ সত্যের ওপর অবিচল থাকুন।",
+ "real_life_en": "Practice your faith with balance. Do not make up harsh rules that Allah never gave, and do not follow family traditions blindly. Walk the middle path taught by the Prophet ﷺ.",
+ "real_life_bn": "ধর্মীয় জীবনে চরমপন্থা পরিহার করুন এবং ভারসাম্য বজায় রাখুন। অন্ধভাবে কুসংস্কার বা পূর্বপুরুষদের মনগড়া প্রথা মেনে চলবেন না। কুরআন ও সহিহ সুন্নাহর ভিত্তিতে মধ্যমপন্থা অবলম্বন করে জীবন পরিচালনা করুন।",
+ "context_en": "Warns against the dangers of religious fanaticism and blindly following past traditions that distorted original revelation.",
+ "context_bn": "ধর্ম নিয়ে অন্ধ বাড়াবাড়ি করা এবং অতীত পূর্বপুরুষদের কুসংস্কারের অনুকরণ কীভাবে মানুষকে ধ্বংসের পথে নিয়ে যায়, তা এখানে সতর্ক করা হয়েছে।",
+ "themes": [
+  "Children of Israel",
+  "guidance",
+  "misguidance",
+  "ethics",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "prohibition",
+  "command",
+  "warning",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [
+   "People of the Book"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The People of the Scripture are warned against exceeding the proper limits in their religion by exaggerating the status of prophets.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "They are forbidden from following the corrupt whims of earlier misguided generations who led many others astray.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

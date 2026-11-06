@@ -1,0 +1,86 @@
+{
+  "id": "5:37",
+  "simple_en": "Inside the Fire, the disbelievers will long for any way out. They will try to escape the intense heat and pain. Yet they will never leave that place. The gates will remain shut upon them. Their punishment will never stop, and it will last forever.",
+  "simple_bn": "জাহান্নামের আগুনে নিক্ষিপ্ত হওয়ার পর কাফিররা সেখান থেকে বের হওয়ার জন্য ব্যাকুল হয়ে উঠবে। তারা তীব্র যন্ত্রণা ও দহন থেকে পালাতে চাইবে। কিন্তু তারা কখনোই সেখান থেকে বের হতে পারবে না। তাদের জন্য রয়েছে এক স্থায়ী ও অবিরাম শাস্তি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "خرج",
+      "lemma": "خَرَجَ",
+      "meaning_en": "they get out / emerge",
+      "meaning_bn": "তারা বের হবে",
+      "why_en": "Their desperate but impossible desire to escape the torment of Hell."
+    },
+    {
+      "pos": 5,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the Fire",
+      "meaning_bn": "আগুন / জাহান্নাম",
+      "why_en": "The place of final punishment for unrepentant disbelievers."
+    },
+    {
+      "pos": 12,
+      "root": "قوم",
+      "lemma": "مُقِيم",
+      "meaning_en": "enduring / perpetual",
+      "meaning_bn": "স্থায়ী / চিরন্তন",
+      "why_en": "Shows that the punishment never ends and has no relief."
+    }
+  ],
+  "lesson_en": "Seek refuge from the Fire today, because its punishment is endless and has no escape.",
+  "lesson_bn": "আজই জাহান্নামের আগুন থেকে পানাহ চান, কারণ সেখানকার শাস্তি স্থায়ী এবং সেখান থেকে কোনো মুক্তি নেই।",
+  "real_life_en": "A traveler checks their vehicle's brakes before setting out on a dangerous mountain road. In the same way, a wise believer fears the traps of sin and turns back to Allah now. They prepare for the life to come before death arrives.",
+  "real_life_bn": "বিপদসংকুল রাস্তায় চলার আগে মানুষ সাবধানে গাড়ি চালায় যাতে কোনো খাদে না পড়তে হয়। তেমনি মুমিন ব্যক্তি পাপের পথ পরিহার করে চলে, যাতে পরকালে জাহান্নামের চিরস্থায়ী বিপদে পড়তে না হয়।",
+  "context_en": "Depicts the unending torment of the people of Hell after stating that ransom is impossible.",
+  "context_bn": "আগের আয়াতে মুক্তিপণ নাকচ হওয়ার পর জাহান্নামীদের চিরস্থায়ী শাস্তি ও সেখান থেকে বের হতে না পারার বিবরণ।",
+  "themes": [
+    "Hell",
+    "punishment",
+    "hereafter",
+    "the Last Day",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "the Fire / Hell"
+    ],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The dwellers of Hell will desperately wish to escape from the Fire, but they will never be allowed out.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Their punishment in the Fire is permanent and never ceases.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

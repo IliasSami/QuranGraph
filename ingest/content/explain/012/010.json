@@ -1,0 +1,79 @@
+{
+  "id": "12:10",
+  "simple_en": "One of the brothers spoke up against murder. He urged them not to kill Joseph. Instead, he advised dropping him into the bottom of a dark well, where passing travelers might find him and take him away.",
+  "simple_bn": "তাদের মধ্য থেকে একজন বলল, তোমরা ইউসুফকে হত্যা করো না; যদি কিছু করতেই চাও তবে তাকে কোনো গভীর কূপে ফেলে দাও। কোনো কাফেলা বা পথিক দল তাকে তুলে নিয়ে যাবে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "قتل",
+      "lemma": "قَتَلَ",
+      "meaning_en": "do not kill",
+      "meaning_bn": "হত্যা করো না",
+      "why_en": "Restraining from outright murder."
+    },
+    {
+      "pos": 10,
+      "root": "جبب",
+      "lemma": "جُبّ",
+      "meaning_en": "the well",
+      "meaning_bn": "অন্ধকূপ / গভীর কুয়া",
+      "why_en": "The dry well chosen to conceal him."
+    },
+    {
+      "pos": 11,
+      "root": "لقط",
+      "lemma": "الْتَقَطَ",
+      "meaning_en": "will pick him up",
+      "meaning_bn": "তুলে নিয়ে যাবে",
+      "why_en": "Expecting travelers to find the boy."
+    },
+    {
+      "pos": 13,
+      "root": "سير",
+      "lemma": "سَيّارَة",
+      "meaning_en": "the caravan / travelers",
+      "meaning_bn": "পথিক দল / কাফেলা",
+      "why_en": "Passing merchants on trading routes."
+    }
+  ],
+  "lesson_en": "Even within a misguided crowd, speaking up against the worst harm can save a life.",
+  "lesson_bn": "ভুল পথে চলা দলের মাঝেও চরম ক্ষতি ও হত্যা রোধে আওয়াজ তোলা এক ধরনের শুভ উদ্যোগ।",
+  "real_life_en": "If you find yourself among people planning something unfair, do everything you can to de-escalate the harm. Never stay silent when someone's life or dignity is in danger.",
+  "real_life_bn": "কেউ অন্যায় কোনো সিদ্ধান্ত নিতে গেলে তাকে বিরত রাখুন বা ক্ষতির মাত্রা কমানোর চেষ্টা করুন। কারো ক্ষতি হতে দেখলে চুপ থাকবেন না।",
+  "themes": [
+    "lesser of two evils",
+    "story of Yusuf",
+    "plot against a prophet",
+    "caravan"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "One brother intervened against murdering Joseph, proposing instead that they cast him into a well to be retrieved by a passing caravan.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

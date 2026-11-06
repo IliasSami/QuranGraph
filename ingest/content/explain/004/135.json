@@ -1,0 +1,103 @@
+{
+ "id": "4:135",
+ "simple_en": "Believers must stand firmly for justice. Speak the truth for Allah, even against yourself, your parents, or close family. Do not favor someone just because they are rich or poor. Allah cares for both more than you do. Never let personal feelings twist the truth. Allah knows all that you do.",
+ "simple_bn": "হে মুমিনগণ! তোমরা ন্যায়বিচারে দৃঢ় প্রতিষ্ঠিত থাকো এবং আল্লাহর সন্তুষ্টির জন্য সত্য সাক্ষ্য দাও। সেই সাক্ষ্য যদি তোমাদের নিজেদের, পিতা-মাতার কিংবা নিকট আত্মীয়দের বিরুদ্ধেও যায়, তবুও সত্য প্রকাশ করো। যার বিরুদ্ধে সাক্ষ্য দেওয়া হচ্ছে সে ধনী হোক বা গরিব, আল্লাহ তাদের দুজনেরই অধিক শুভাকাঙ্ক্ষী। তোমরা কখনো ন্যায়বিচার ত্যাগ করে প্রবৃত্তির অনুসারী হোয়ো না। আর যদি তোমরা সাক্ষ্য বিকৃত করো বা তা গোপন করো, তবে নিশ্চয় আল্লাহ তোমাদের সব কাজের পূর্ণ খবর রাখেন।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "قوم",
+   "lemma": "قَوّام",
+   "meaning_en": "standing firmly or upholding consistently",
+   "meaning_bn": "দৃঢ় প্রতিষ্ঠাকারী",
+   "why_en": "Calls for an unwavering, continuous commitment to upholding justice under all circumstances."
+  },
+  {
+   "pos": 6,
+   "root": "قسط",
+   "lemma": "قِسْط",
+   "meaning_en": "justice and fairness",
+   "meaning_bn": "ন্যায়বিচার ও ইনসাফ",
+   "why_en": "Represents absolute impartiality, giving every person their rightful due."
+  },
+  {
+   "pos": 7,
+   "root": "شهد",
+   "lemma": "شَهِيد",
+   "meaning_en": "witnesses",
+   "meaning_bn": "সাক্ষীগণ",
+   "why_en": "Reminds believers that giving testimony is a sacred duty done solely for Allah."
+  },
+  {
+   "pos": 25,
+   "root": "هوي",
+   "lemma": "هَواء",
+   "meaning_en": "desire or whim",
+   "meaning_bn": "প্রবৃত্তি বা খেয়াল-খুশি",
+   "why_en": "Warns against letting emotional bias or personal interest corrupt the truth."
+  },
+  {
+   "pos": 29,
+   "root": "لوي",
+   "lemma": "يَلْ",
+   "meaning_en": "you twist or distort",
+   "meaning_bn": "তোমরা বিকৃত করো বা পেঁচালো কথা বলো",
+   "why_en": "Forbids twisting the facts or giving misleading statements when testifying."
+  }
+ ],
+ "lesson_en": "Always speak the truth, even if it goes against yourself or your loved ones.",
+ "lesson_bn": "নিজের বা নিকটাত্মীয়ের স্বার্থের বিরুদ্ধে গেলেও সর্বাবস্থায় সত্যের সাক্ষ্য দেওয়া ও ইনসাফ রক্ষা করা মুমিনের দায়িত্ব।",
+ "real_life_en": "If an accident or dispute occurs and your family member was at fault, tell the truth plainly. Do not protect them with lies or blame the other party unfairly. True loyalty to loved ones means helping them do what is right.",
+ "real_life_bn": "পরিবার বা বন্ধুদের কোনো বিরোধের মীমাংসা করার সময় নিজের লোকের পক্ষপাতিত্ব করবেন না। যার যা অপরাধ তা সততার সাথে স্বীকার করুন, কারণ মিথ্যার আশ্রয় নিয়ে কাউকে রক্ষা করা আল্লাহর সামনে বড় অন্যায়।",
+ "context_en": "This foundational verse establishes absolute justice as an essential pillar of Islamic faith and community life.",
+ "context_bn": "ইসলামের অন্যতম মৌলিক ভিত্তি হিসেবে সমাজে ন্যায়বিচার ও নিরপেক্ষ সাক্ষ্য প্রতিষ্ঠার নির্দেশ এই আয়াতে জোরালোভাবে দেওয়া হয়েছে।",
+ "themes": [
+  "justice",
+  "honesty",
+  "family",
+  "good character",
+  "taqwa"
+ ],
+ "kinds": [
+  "command",
+  "ethics",
+  "prohibition",
+  "law"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers must uphold justice and testify truthfully for Allah even against themselves, parents, or relatives.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Wealth or poverty must not influence testimony, because Allah is the best protector of both rich and poor.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Distorting testimony or withholding it out of personal desire is strictly forbidden, and Allah is aware of it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

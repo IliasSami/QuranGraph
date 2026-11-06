@@ -1,0 +1,81 @@
+{
+  "id": "6:119",
+  "simple_en": "Why should you not eat meat slaughtered with Allah's name? He has already explained in detail what is forbidden, except when severe hunger leaves you no choice. Many people mislead others through personal desires without knowledge. Your Lord knows best who crosses His limits.",
+  "simple_bn": "আল্লাহর নাম নেওয়া পশু খেতে তোমাদের কী বাধা থাকতে পারে? অথচ তোমাদের জন্য যা নিষিদ্ধ, তা তিনি বিশদভাবে বর্ণনা করে দিয়েছেন। তবে নিরুপায় অবস্থায় জীবন বাঁচানোর জন্য তা ভিন্ন। অনেকেই অজ্ঞতাবশত নিজেদের খেয়ালখুশি দিয়ে মানুষকে বিভ্রান্ত করে। নিশ্চয় আপনার প্রতিপালক সীমালঙ্ঘনকারীদের ভালোভাবেই জানেন।",
+  "key_words": [
+    {
+      "pos": 11,
+      "root": "فصل",
+      "lemma": "فَصَّلَ",
+      "meaning_en": "He has explained in detail",
+      "meaning_bn": "তিনি বিশদভাবে বর্ণনা করেছেন",
+      "why_en": "Shows that all prohibitions are clearly explained, leaving all else as fundamentally lawful."
+    },
+    {
+      "pos": 18,
+      "root": "ضرر",
+      "lemma": "اضْطُرَّ",
+      "meaning_en": "you are compelled by necessity",
+      "meaning_bn": "তোমরা নিরুপায় হয়ে পড়ো",
+      "why_en": "Establishes the compassionate legal exception permitting forbidden foods during extreme famine."
+    },
+    {
+      "pos": 30,
+      "root": "عدو",
+      "lemma": "مُعْتَدي",
+      "meaning_en": "the transgressors",
+      "meaning_bn": "সীমালঙ্ঘনকারীগণ",
+      "why_en": "Warns against those who cross divine boundaries by altering halal and haram based on desire."
+    }
+  ],
+  "lesson_en": "Allah made halal food plain and clear. Forbidden food is only excused when life is at risk.",
+  "lesson_bn": "আল্লাহ হালাল বস্তুকে সহজ ও উন্মুক্ত রেখেছেন; চরম বিপদে জীবন রক্ষা ছাড়া কোনো নিষিদ্ধ জিনিস স্পর্শ করো না।",
+  "real_life_en": "Do not let superstitious rules control your family meals. Learn what the Quran says about lawful and forbidden food. Respect the limits set by Allah. Do not make easy things hard, and do not make sinful things easy.",
+  "real_life_bn": "খাবার বা ধর্মীয় বিধানে মানুষের মনগড়া কুসংস্কার মেনে চলবেন না। কোনটি হালাল আর কোনটি হারাম তা জানতে প্রামাণ্য দ্বীনি বিধান জানুন। কোনো কিছুকে অকারণে কঠিন বা অকারণে শিথিল করে আল্লাহর নির্ধারিত সীমা লঙ্ঘন করবেন না।",
+  "context_en": "This verse refutes the pagan disputes about carrion and slaughter, establishing that all food is lawful unless specifically forbidden.",
+  "context_bn": "মৃত ও জবাই করা পশু নিয়ে মুশরিকদের ভ্রান্ত যুক্তির জবাবে হালাল খাদ্যের উন্মুক্ততা ও হারামের সুনির্দিষ্ট তালিকা স্পষ্ট করা হয়েছে।",
+  "themes": [
+    "dietary laws",
+    "halal and haram",
+    "necessity rules",
+    "transgression"
+  ],
+  "kinds": [
+    "law",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah clearly explained what is forbidden, which is only excused under extreme necessity to save life.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Misguided leaders lead people astray by following whims without knowledge, crossing divine boundaries.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

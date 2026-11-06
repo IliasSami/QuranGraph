@@ -1,0 +1,68 @@
+{
+  "id": "67:22",
+  "simple_en": "Who is better guided: one who walks falling on his face, or one who walks upright on a straight path? Faith gives clear direction, while disbelief brings confusion and loss.",
+  "simple_bn": "যে ব্যক্তি মুখের ওপর উপুড় হয়ে হোঁচট খেয়ে চলে সে কি অধিক সুপথগামী, নাকি যে ব্যক্তি সোজা হয়ে সরল পথে চলে সে? ঈমান মানুষকে জীবনের সুস্পষ্ট পথের দিশা দেয়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كبب",
+      "lemma": "مُكِبّ",
+      "meaning_en": "fallen on his face",
+      "meaning_bn": "মুখ থুবড়ে পড়ে",
+      "why_en": "Portrays the stumbling confusion of living without divine guidance."
+    },
+    {
+      "pos": 6,
+      "root": "هدي",
+      "lemma": "أَهْدَى",
+      "meaning_en": "more guided",
+      "meaning_bn": "অধিকতর সঠিক পথে",
+      "why_en": "Compares clarity of faith with the disorientation of doubt."
+    },
+    {
+      "pos": 9,
+      "root": "سوي",
+      "lemma": "سَوِيّ",
+      "meaning_en": "upright and balanced",
+      "meaning_bn": "সোজা ও স্বাভাবিকভাবে",
+      "why_en": "Describes the confidence and stability of the upright believer."
+    }
+  ],
+  "lesson_en": "Follow divine guidance so you can walk through life with clarity and confidence.",
+  "lesson_bn": "আল্লাহর দেখানো সরল পথ অনুসরণ করলে মানুষ নৈতিক বিভ্রান্তি থেকে বেঁচে সুস্থভাবে জীবনযাপন করতে পারে।",
+  "real_life_en": "A hiker tries to find his way through a thick forest in the dark without a torch. He trips constantly. His friend walks safely along the marked trail with a bright light. Divine guidance is that essential light.",
+  "real_life_bn": "অন্ধকারে আলো ছাড়া হাঁটলে বারবার হোঁচট খেতে হয়, কিন্তু আলো নিয়ে চললে পথ পরিষ্কার দেখা যায়। একইভাবে আল্লাহর বিধান মেনে চললে জীবনের সঠিক পথ খুঁজে পাওয়া সহজ হয়।",
+  "themes": [
+    "guidance",
+    "misguidance",
+    "reflection",
+    "faith"
+  ],
+  "kinds": [
+    "parable",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The one walking upright on a straight path is contrasted with the one stumbling on his face in misguidance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

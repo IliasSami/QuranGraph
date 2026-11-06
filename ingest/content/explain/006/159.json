@@ -1,0 +1,85 @@
+{
+  "id": "6:159",
+  "simple_en": "You have nothing to do with those who divide their religion and break into competing sects. They take part of the scripture and cast aside the rest, following their personal desires. Their matter rests entirely with Allah. On the Day of Judgment, He will inform them of all that they used to do and hold them accountable.",
+  "simple_bn": "নিশ্চয়ই যারা তাদের ধর্মকে টুকরো টুকরো করে বিভিন্ন দলে বিভক্ত হয়েছে, তাদের সাথে আপনার কোনো সম্পর্ক নেই। তারা ধর্মের কিছু অংশ গ্রহণ করেছে আর কিছু অংশ বর্জন করেছে। তাদের বিষয়টি পুরোপুরি আল্লাহর ওপর ন্যস্ত। অবশেষে তিনি কিয়ামতের দিন তাদের জানিয়ে দেবেন তারা কী করত এবং এর প্রতিদান দেবেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "فرق",
+      "lemma": "فَرَّقُ",
+      "meaning_en": "divided",
+      "meaning_bn": "বিভেদ সৃষ্টি করল",
+      "why_en": "Denounces splitting the unified religion into warring factions and sects."
+    },
+    {
+      "pos": 6,
+      "root": "شيع",
+      "lemma": "شِيعَة",
+      "meaning_en": "sects or factions",
+      "meaning_bn": "উপদল বা ফিরকা",
+      "why_en": "Refers to divided groups that prioritize partisan loyalty over revealed truth."
+    },
+    {
+      "pos": 16,
+      "root": "نبأ",
+      "lemma": "نَبَّأَ",
+      "meaning_en": "He will inform them",
+      "meaning_bn": "তিনি তাদের জানিয়ে দেবেন",
+      "why_en": "Affirms that Allah will expose all sectarian deeds on Judgement Day."
+    }
+  ],
+  "lesson_en": "Hold fast to the unified message of Islam. Reject sectarian conflict that divides believers into rival factions.",
+  "lesson_bn": "দ্বীনের মৌলিক ঐক্যে অবিচল থাকুন। মুসলিমদের মধ্যে বিভেদ সৃষ্টিকারী উপদল ও দলাদলি থেকে মুক্ত থাকুন।",
+  "real_life_en": "Do not join online arguments that divide Muslims into fighting groups. When minor disagreements happen, treat others with kindness and patience. Work to bring hearts together rather than calling people names.",
+  "real_life_bn": "ইন্টারনেটে বা সমাজে বিভিন্ন ফিরকা নিয়ে অনর্থক তর্কে জড়াবেন না। সাধারণ মতভেদ থাকলেও অন্য মুসলিমের প্রতি ভালোবাসা ও সম্মান বজায় রাখুন। বিভেদ না বাড়িয়ে ঐক্য ও সম্প্রীতি রক্ষা করাই মুমিনের বৈশিষ্ট্য।",
+  "context_en": "Allah reassures the Prophet of his complete innocence from those who fracture religion into sectarian factions.",
+  "context_bn": "দ্বীনকে খণ্ড-বিখণ্ড করে যারা উপদলে বিভক্ত হয়েছে তাদের থেকে রাসূল ﷺ সম্পূর্ণ মুক্ত বলে আল্লাহ ঘোষণা করেছেন।",
+  "themes": [
+    "unity",
+    "misguidance",
+    "judgment",
+    "accountability"
+  ],
+  "kinds": [
+    "warning",
+    "prohibition",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "Jews",
+      "Christians"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet is declared innocent of those who fracture their religion into sectarian groups.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "The ultimate judgment of those who cause religious division belongs to Allah alone on the Last Day.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

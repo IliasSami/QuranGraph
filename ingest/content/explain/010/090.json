@@ -1,0 +1,81 @@
+{
+  "id": "10:90",
+  "simple_en": "We carried the Children of Israel across the sea. Pharaoh and his armies pursued them in fierce rebellion and enmity. But when drowning overtook him, Pharaoh cried: I believe that there is no god except the One in whom the Children of Israel believe, and I am of those who submit.",
+  "simple_bn": "আর আমরা বনী ইসরাঈলকে সাগর পার করালাম; তখন ফিরআউন ও তার সৈন্যবাহিনী ঔদ্ধত্য ও শত্রুভাবাপন্ন হয়ে তাদের পিছু নিল। অবশেষে যখন সে ডুবতে লাগল তখন বলল: আমি বিশ্বাস করলাম যে, বনী ইসরাঈল যার ওপর ঈমান এনেছে তিনি ছাড়া কোনো সত্য ইলাহ নেই এবং আমিও আত্মসমর্পণকারীদের অন্তর্ভুক্ত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "بحر",
+      "lemma": "بَحْر",
+      "meaning_en": "the sea",
+      "meaning_bn": "সাগর",
+      "why_en": "The sea parted by divine power to save the Israelites."
+    },
+    {
+      "pos": 13,
+      "root": "غرق",
+      "lemma": "غَرَق",
+      "meaning_en": "drowning",
+      "meaning_bn": "ডুবে যাওয়া",
+      "why_en": "Engulfing waters overwhelming the tyrant Pharaoh."
+    },
+    {
+      "pos": 27,
+      "root": "سلم",
+      "lemma": "مُسْلِم",
+      "meaning_en": "those who submit (Muslims)",
+      "meaning_bn": "আত্মসমর্পণকারী (মুসলিমগণ)",
+      "why_en": "Belated deathbed claim of submission as life ended."
+    }
+  ],
+  "lesson_en": "A declaration of faith made only when death is staring you in the face is too late to save you.",
+  "lesson_bn": "মৃত্যুর মুখে পতিত হয়ে বাঁচার আশায় ঈমান প্রকাশ আল্লাহর দরবারে গ্রহণযোগ্য হয় না।",
+  "real_life_en": "Do not delay turning to God until an emergency strikes. Choose faith and good character while you still have your health and free choice.",
+  "real_life_bn": "জীবন ও সুস্থতা থাকতেই আল্লাহর অনুগত হোন; শেষ মুহূর্তে তওবার জন্য অপেক্ষা করবেন না।",
+  "themes": [
+    "crossing the sea",
+    "drowning of Pharaoh",
+    "rejected deathbed faith"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Musa (Moses)",
+      "Fir'awn (Pharaoh)"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Pharaoh's army"
+    ],
+    "places": [
+      "the Red Sea"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Parting of the Sea",
+      "Drowning of Pharaoh"
+    ],
+    "things": [
+      "the sea"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Pharaoh attempted to claim faith in the God of the Israelites only when the sea closed over him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

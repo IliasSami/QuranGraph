@@ -1,0 +1,73 @@
+{
+  "id": "9:60",
+  "simple_en": "Alms are only for the poor, the needy, those who collect them, and those whose hearts need comfort. They are also for freeing captives, those in debt, the cause of Allah, and the stranded traveler. This is a law from Allah, and Allah is Wise.",
+  "simple_bn": "যাকাত কেবল ফকীর, মিসকীন, যাকাত আদায়ের কর্মচারী, যাদের অন্তর জয় করা প্রয়োজন, দাসমুক্তি, ঋণগ্রস্ত ব্যক্তি, আল্লাহর পথে এবং নিঃস্ব মুসাফিরদের জন্য। এটি আল্লাহর পক্ষ থেকে নির্ধারিত বিধান; আর আল্লাহ সর্বজ্ঞ ও প্রজ্ঞাময়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "صدق",
+      "lemma": "صَدَقَة",
+      "meaning_en": "alms / obligatory charity",
+      "meaning_bn": "সদকা / যাকাত",
+      "why_en": "Institutionalized social safety net purifying wealth."
+    },
+    {
+      "pos": 3,
+      "root": "فقر",
+      "lemma": "فَقِير",
+      "meaning_en": "the poor",
+      "meaning_bn": "ফকীর / নিঃস্ব",
+      "why_en": "First primary category of citizens lacking basic survival needs."
+    },
+    {
+      "pos": 4,
+      "root": "سكن",
+      "lemma": "مِسْكِين",
+      "meaning_en": "the needy",
+      "meaning_bn": "মিসকীন / অভাবী",
+      "why_en": "Those whose modest earnings fall short of necessary expenses."
+    }
+  ],
+  "lesson_en": "Zakah is a sacred trust meant to lift up the poor and protect the weak.",
+  "lesson_bn": "যাকাত কোনো ব্যক্তিগত বদান্যতা নয়, বরং সমাজের দুর্বল ও অভাবী মানুষের অধিকার যা নিখুঁতভাবে আদায় করা ফরজ।",
+  "real_life_en": "Give your charity directly to poor families and people in debt. Your help can give them a fresh start in life.",
+  "real_life_bn": "নিজের যাকাত কেবল সঠিক খাতভুক্ত হকদারদের যেমন ঋণগ্রস্ত বা অভাবীদের হাতে পৌঁছে দিন, যাতে তাদের অর্থনৈতিক মুক্তি ঘটে।",
+  "themes": [
+    "eight categories of Zakah",
+    "charity",
+    "social welfare",
+    "divine legislation"
+  ],
+  "kinds": [
+    "law",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Knowing",
+      "Wise"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Quran strictly restricts Zakah expenditure to eight exclusive categories ordained by Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

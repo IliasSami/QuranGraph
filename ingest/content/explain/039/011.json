@@ -1,0 +1,74 @@
+{
+  "id": "39:11",
+  "simple_en": "Say: I have been commanded to worship Allah with pure sincerity, dedicating all my faith to Him alone. I do not associate any created being in my devotion. Sincere faith requires keeping the heart free from false motives and worldly praise.",
+  "simple_bn": "বলুন, আমাকে নির্দেশ দেওয়া হয়েছে যেন আমি একনিষ্ঠ আনুগত্যের সাথে আল্লাহর ইবাদত করি এবং আমার দ্বীনকে কেবল তাঁর জন্য নিবেদিত রাখি। আমি আমার ইবাদতে কোনো সৃষ্টিকে শরিক করি না। অন্তরের খাঁটি নিষ্ঠাই হলো ঈমানের প্রকৃত সারমর্ম।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": null,
+      "lemma": "إِنّ",
+      "meaning_en": "I have been commanded",
+      "meaning_bn": "আমি আদিষ্ট হয়েছি",
+      "why_en": "Clarifies that the Prophet acts under direct divine instruction."
+    },
+    {
+      "pos": 5,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "I worship",
+      "meaning_bn": "আমি ইবাদত করি",
+      "why_en": "Declares active submission in all prayers and righteous deeds."
+    },
+    {
+      "pos": 7,
+      "root": "خلص",
+      "lemma": "مُخْلِص",
+      "meaning_en": "sincere / devoting purely",
+      "meaning_bn": "একনিষ্ঠ হয়ে",
+      "why_en": "Demands worship purified of all hypocrisy and polytheism."
+    }
+  ],
+  "lesson_en": "Our primary duty in life is to worship Allah with an honest and sincere heart.",
+  "lesson_bn": "জীবনের প্রধানতম দায়িত্ব হলো একান্ত নিষ্ঠা ও পরিচ্ছন্ন অন্তরে কেবল আল্লাহরই ইবাদত করা।",
+  "real_life_en": "Give charity in secret without telling anyone. Doing good deeds quietly keeps your heart pure and humble.",
+  "real_life_bn": "গোপনে দান করুন বা কারো বিপদে সাহায্য করুন যাতে কেউ জানতে না পারে। লোকচক্ষুর আড়ালে নেক কাজ করলে নিয়তের সততা অক্ষুণ্ণ থাকে।",
+  "themes": [
+    "sincerity",
+    "worship",
+    "obedience",
+    "tawhid"
+  ],
+  "kinds": [
+    "command",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet was commanded to worship Allah sincerely, directing all religion solely to Him.",
+      "claim_bn": "রাসূলকে একনিষ্ঠভাবে দ্বীনকে আল্লাহর জন্য নিবেদিত রেখে ইবাদত করার নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

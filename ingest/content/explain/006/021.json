@@ -1,0 +1,81 @@
+{
+  "id": "6:21",
+  "simple_en": "No one does greater wrong than someone who lies about Allah or rejects His signs. People lie about Allah when they claim He has partners. They also do wrong when they reject the clear truth brought by His messengers. Those who commit this great injustice will never succeed in this life or the next.",
+  "simple_bn": "আল্লাহর চেয়ে বড় অন্যায়কারী আর কেউ নেই, যে তাঁর ওপর মিথ্যা আরোপ করে কিংবা তাঁর আয়াতসমূহকে অস্বীকার করে। যারা আল্লাহর সাথে অন্য কাউকে শরীক করে, তারা চরম মিথ্যা রচনা করে। আর যারা নবীর মাধ্যমে আসা সত্য বাণী প্রত্যাখ্যান করে, তারাও ঘোর অবিচারক। এই ধরনের জালিমরা কখনো পার্থিব জীবনে বা আখিরাতে সফলতা লাভ করতে পারে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ظلم",
+      "lemma": "أَظْلَم",
+      "meaning_en": "more unjust",
+      "meaning_bn": "অধিক অত্যাচারী",
+      "why_en": "Highlights the extreme injustice of lying against Allah."
+    },
+    {
+      "pos": 4,
+      "root": "فري",
+      "lemma": "افْتَرَى",
+      "meaning_en": "invented",
+      "meaning_bn": "উদ্ভাবন করল",
+      "why_en": "Describes inventing false claims about Allah and His religion."
+    },
+    {
+      "pos": 13,
+      "root": "فلح",
+      "lemma": "أَفْلَحَ",
+      "meaning_en": "succeeds",
+      "meaning_bn": "সফল হয়",
+      "why_en": "Confirms that those who commit injustice will never achieve true success."
+    }
+  ],
+  "lesson_en": "Do not lie about Allah. Rejecting the truth destroys your success.",
+  "lesson_bn": "আল্লাহর ওপর মিথ্যা আরোপ না করা এবং সত্যকে অস্বীকার করা থেকে বিরত থাকা আবশ্যক।",
+  "real_life_en": "A person spreads false claims about religious teachings to win an argument or gain followers. This misleads people and creates harm. Sincere believers speak only what is true and respect divine revelation.",
+  "real_life_bn": "নিজের স্বার্থ বা তর্কে জেতার জন্য ধর্মের নামে ভুল কথা ছড়ানো মহা অন্যায়। এতে মানুষ বিভ্রান্ত হয় এবং সমাজে বিশৃঙ্খলা বাড়ে। সচেতন মুমিন সর্বদা নির্ভরযোগ্য সত্য কথা বলে এবং মনগড়া ব্যাখ্যা থেকে দূরে থাকে।",
+  "context_en": "Exposes the severity of associating partners with Allah and rejecting revelation.",
+  "context_bn": "আল্লাহর সাথে শিরক করা এবং ওহী অস্বীকার করার ভয়াবহ পরিণতি তুলে ধরা হয়েছে।",
+  "themes": [
+    "tawhid",
+    "shirk",
+    "justice",
+    "truth"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The greatest injustice is attributing partners to Allah or rejecting the verses He revealed to His Messenger.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Wrongdoers who invent lies against Allah and deny His signs will never achieve true prosperity.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

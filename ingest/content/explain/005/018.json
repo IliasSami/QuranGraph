@@ -1,0 +1,90 @@
+{
+  "id": "5:18",
+  "simple_en": "The Jews and Christians claimed: 'We are Allah's children and His beloved.' Say: Why then does He punish you for your sins? Rather, you are ordinary humans from among those He created. He forgives whom He wills and punishes whom He wills. The dominion of the heavens and earth belongs to Allah, and to Him is the final return.",
+  "simple_bn": "ইহুদি ও খ্রিস্টানরা বলে, 'আমরা আল্লাহর সন্তান ও তাঁর প্রিয়পাত্র।' বলুন: তাহলে কেন তিনি তোমাদের পাপের জন্য তোমাদের শাস্তি দেন? বরং তোমরাও তাঁর সৃষ্টির অন্তর্ভুক্ত সাধারণ মানুষ। তিনি যাকে ইচ্ছে ক্ষমা করেন এবং যাকে ইচ্ছে শাস্তি দেন। আসমান, জমিন এবং এ দুয়ের মধ্যে যা কিছু আছে তার সমস্ত রাজত্ব আল্লাহরই, আর তাঁর দিকেই সকলের প্রত্যাবর্তন।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "حبب",
+      "lemma": "أَحِبّاؤ",
+      "meaning_en": "His beloved ones",
+      "meaning_bn": "তাঁর প্রিয়পাত্র",
+      "why_en": "Refutes their baseless claim of special divine favoritism exempting them from accountability."
+    },
+    {
+      "pos": 14,
+      "root": "بشر",
+      "lemma": "بَشَر",
+      "meaning_en": "human beings",
+      "meaning_bn": "সাধারণ মানুষ",
+      "why_en": "Reminds that all people are created humans judged equally on the basis of their deeds."
+    },
+    {
+      "pos": 30,
+      "root": "صير",
+      "lemma": "مَصِير",
+      "meaning_en": "the final return",
+      "meaning_bn": "চূড়ান্ত প্রত্যাবর্তন",
+      "why_en": "Emphasizes that every soul will return to Allah alone for final reckoning."
+    }
+  ],
+  "lesson_en": "Lineage grants no salvation. True honor comes only through faith and good deeds.",
+  "lesson_bn": "বংশমর্যাদায় মুক্তি মেলে না; একমাত্র ঈমান ও নেক আমলই আল্লাহর কাছে মর্যাদা এনে দেয়।",
+  "real_life_en": "Do not boast about your family or tribe. No one gets into Paradise based on their bloodline. Stay humble, treat others with respect, and do good deeds every day.",
+  "real_life_bn": "বংশ বা আভিজাত্য নিয়ে অহংকার করবেন না। বংশমর্যাদার কারণে কেউ জান্নাত পাবে না। বিনয়ী হোন, সবাইকে সম্মান করুন এবং প্রতিদিন সৎকাজ করার চেষ্টা করুন।",
+  "context_en": "Refutes sectarian claims of unconditional divine favoritism, establishing that all human beings are accountable to Allah.",
+  "context_bn": "নিজেদেরকে আল্লাহর বিশেষ প্রিয়পাত্র দাবি করার সাম্প্রদায়িক অহংকার খণ্ডন এবং আমলের ভিত্তিতে জবাবদিহিতার নীতি প্রতিষ্ঠা।",
+  "themes": [
+    "accountability",
+    "refutation of false claims",
+    "equality of creation",
+    "sovereignty of Allah",
+    "the Hereafter"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Jews",
+      "Christians"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Refutes the claim of Jews and Christians to be Allah's children and beloved by showing that Allah punishes them for their sins.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "All people are mortal humans created by Allah, who forgives or punishes according to His wisdom, and to Him is the final destiny.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

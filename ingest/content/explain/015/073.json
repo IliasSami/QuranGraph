@@ -1,0 +1,70 @@
+{
+  "id": "15:73",
+  "simple_en": "So the mighty blast seized them at sunrise. A terrifying sound from heaven struck the city and destroyed all those who defied the commands of Allah.",
+  "simple_bn": "অতঃপর সূর্যোদয়ের মুহূর্তে এক প্রচণ্ড গর্জন তাদের পাকড়াও করল। আকাশ থেকে আসা এক ভয়াবহ শব্দ পুরো শহরকে প্রকম্পিত করে অবাধ্য পাপীদের ধ্বংস করে দিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أخذ",
+      "lemma": "أَخَذَ",
+      "meaning_en": "seized them",
+      "meaning_bn": "তাদের পাকড়াও করল",
+      "why_en": "Sudden retribution catching them."
+    },
+    {
+      "pos": 2,
+      "root": "صيح",
+      "lemma": "صَيْحَة",
+      "meaning_en": "the shriek",
+      "meaning_bn": "প্রকাণ্ড গর্জন",
+      "why_en": "The devastating blast."
+    },
+    {
+      "pos": 3,
+      "root": "شرق",
+      "lemma": "مُشْرِق",
+      "meaning_en": "at sunrise",
+      "meaning_bn": "সূর্যোদয়ের সময়",
+      "why_en": "The precise time of destruction."
+    }
+  ],
+  "lesson_en": "Punishment can arrive in an instant. Live every morning mindful of your duties to Allah.",
+  "lesson_bn": "আল্লাহর শাস্তি এক নিমেষেই নেমে আসতে পারে। প্রতিটি সকাল আল্লাহর আনুগত্য ও সতর্কতার সাথে শুরু করুন।",
+  "real_life_en": "A town wakes up on a quiet morning. Suddenly the earth shakes and walls fall down. People see how weak we are without Allah to keep us safe.",
+  "real_life_bn": "হঠাৎ এক তীব্র ভূমিকম্পে পুরো শহরের বাড়িঘর কেঁপে ওঠে। মানুষ বুঝতে পারে আল্লাহর হেফাজত ছাড়া মানুষের জীবন কতটা দুর্বল ও ক্ষণস্থায়ী।",
+  "context_en": "The arrival of the lethal shriek that struck the people of Lot at sunrise.",
+  "context_bn": "সূর্যোদয়ের সময় এক প্রলয়ংকর গর্জনের মাধ্যমে লূতের কওমকে পাকড়াও করার ঘটনা।",
+  "themes": [
+    "punishment",
+    "justice",
+    "divine-power"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Lot"
+    ],
+    "unseen": [],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The tremendous blast seized the corrupt township precisely at sunrise.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

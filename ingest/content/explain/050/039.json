@@ -1,0 +1,78 @@
+{
+  "id": "50:39",
+  "simple_en": "Allah consoles the Prophet ﷺ: Bear patiently what the deniers say against you. Praise your Lord before sunrise and before sunset. Regular prayer and remembrance of Allah bring peace and strength to the heart.",
+  "simple_bn": "মহান আল্লাহ রাসুলুল্লাহ ﷺ কে সান্ত্বনা দিয়ে বলেন: কাফিরদের কটু কথায় ধৈর্য ধারণ করুন। সূর্যোদয়ের আগে এবং সূর্যাস্তের পূর্বে আপনার প্রতিপালকের প্রশংসার তাসবীহ পাঠ করুন। নিয়মিত নামাজ ও জিকির মানুষের মনকে শান্ত ও দৃঢ় রাখে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "be patient",
+      "meaning_bn": "ধৈর্য ধারণ করুন",
+      "why_en": "Enduring the insults and false claims of deniers with steadfast calm."
+    },
+    {
+      "pos": 5,
+      "root": "سبح",
+      "lemma": "سَبَّحَ",
+      "meaning_en": "glorify and praise",
+      "meaning_bn": "তাসবীহ পাঠ করুন বা প্রশংসা করুন",
+      "why_en": "Declaring Allah free of all flaws through prayer and remembrance."
+    },
+    {
+      "pos": 10,
+      "root": "شمس",
+      "lemma": "شَمْس",
+      "meaning_en": "the sun",
+      "meaning_bn": "সূর্য",
+      "why_en": "The marker for prayers before sunrise (Fajr) and before sunset (Asr)."
+    }
+  ],
+  "lesson_en": "When people hurt you with cruel words, turn to prayer. Praise Allah instead of reacting in anger.",
+  "lesson_bn": "অন্যের কটু কথায় কষ্ট পেলে ক্ষুব্ধ না হয়ে নামাজের মাধ্যমে আল্লাহর সাহায্য ও সান্ত্বনা খুঁজুন।",
+  "real_life_en": "If someone speaks unfairly about you, take a deep breath. Stay calm, and pray to Allah with a sincere heart.",
+  "real_life_bn": "কর্মক্ষেত্রে কেউ আপনার বিরুদ্ধে অন্যায় কথা বললে প্রতিশোধ না নিয়ে শান্ত থাকুন এবং সময়মতো নামাজ আদায় করুন।",
+  "context_en": "In the face of mockery and disbelief, the Prophet is instructed to find solace in prayer and praise.",
+  "context_bn": "বিরোধীদের বিদ্রূপের মুখে রাসুলুল্লাহ ﷺ কে ধৈর্য এবং সকাল-সন্ধ্যার নামাজের মাধ্যমে সান্ত্বনা খোঁজার নির্দেশ দেওয়া হয়েছে।",
+  "themes": [
+    "patience",
+    "prayer",
+    "remembrance of Allah",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "command",
+    "worship",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": [
+      "the sun"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Prophet is commanded to be patient and to glorify Allah before sunrise and before sunset.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

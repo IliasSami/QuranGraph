@@ -1,0 +1,64 @@
+{
+ "id": "77:19",
+ "simple_en": "Woe on that Day to those who deny Allah's warnings. Ruin and deep sorrow will fall on those who ignored the lessons of past nations and laughed at the truth.",
+ "simple_bn": "সেই দিনে সত্য অস্বীকারকারীদের জন্য চরম ধ্বংস ও দুর্ভোগ রয়েছে। যারা অতীতের ধ্বংসপ্রাপ্ত জাতিগুলোর ইতিহাস থেকে শিক্ষা নেয়নি এবং আল্লাহর সতর্কবার্তাকে মিথ্যা ভেবেছে, তারা চরম ক্ষতির মুখোমুখি হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "يوم",
+   "lemma": "يَوْم",
+   "meaning_en": "that Day",
+   "meaning_bn": "সেই দিনে",
+   "why_en": "The appointed Day when past deniers meet their recompense."
+  },
+  {
+   "pos": 3,
+   "root": "كذب",
+   "lemma": "مُكَذِّب",
+   "meaning_en": "the deniers",
+   "meaning_bn": "মিথ্যারোপকারীগণ",
+   "why_en": "Those who dismissed the clear warnings of the prophets."
+  }
+ ],
+ "lesson_en": "Ignoring past lessons leads to ruin on the Day of Judgment.",
+ "lesson_bn": "অতীতের শিক্ষা উপেক্ষা করা কিয়ামতের দিন চরম আফসোসের কারণ হবে।",
+ "real_life_en": "When an elder warns a young person about financial scams, ignoring that advice often leads to heavy loss. In a far greater way, ignoring Allah's warnings brings loss on the Last Day. Heeding good advice protects your life.",
+ "real_life_bn": "অভিজ্ঞ মুরুব্বি কোনো ভুলের ব্যাপারে সতর্ক করলে তা না মানলে ক্ষতির মুখে পড়তে হয়। একইভাবে আল্লাহর সতর্কবার্তা উপেক্ষা করলে আখিরাতে অপূরণীয় ক্ষতি হবে। তাই সময় থাকতেই সত্য মেনে চলুন।",
+ "themes": [
+  "punishment",
+  "the Last Day",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [
+   "day-of-judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Destruction and loss on that Day will be for those who denied Allah's warnings of punishment for criminals.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

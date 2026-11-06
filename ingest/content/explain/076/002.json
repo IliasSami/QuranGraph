@@ -1,0 +1,92 @@
+{
+ "id": "76:2",
+ "simple_en": "Allah created human beings from a mixed drop from father and mother. He gave people life in order to test them with His commands. He also gave them hearing and sight so they could listen to the truth and see the signs around them.",
+ "simple_bn": "আল্লাহ মানুষকে পিতা ও মাতার মিলিত শুক্রবিন্দু থেকে সৃষ্টি করেছেন। তিনি মানুষকে তাঁর আদেশ-নিষেধ দিয়ে পরীক্ষা করার জন্য জীবন দিয়েছেন। আর সত্য শুনতে ও নিদর্শন দেখতে পারার জন্য তিনি তাকে শ্রবণ ও দৃষ্টিশক্তি দিয়েছেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "We created",
+   "meaning_bn": "আমি সৃষ্টি করেছি",
+   "why_en": "Affirms that Allah alone is the Creator of humanity."
+  },
+  {
+   "pos": 6,
+   "root": "مشج",
+   "lemma": "أَمْشاج",
+   "meaning_en": "mixed drop",
+   "meaning_bn": "মিশ্রিত",
+   "why_en": "Describes the combination of fluids from which human life begins."
+  },
+  {
+   "pos": 7,
+   "root": "بلو",
+   "lemma": "ابْتَلَى",
+   "meaning_en": "We test him",
+   "meaning_bn": "পরীক্ষা করা",
+   "why_en": "States the very purpose of human life on earth."
+  },
+  {
+   "pos": 9,
+   "root": "سمع",
+   "lemma": "سَمِيع",
+   "meaning_en": "hearing",
+   "meaning_bn": "শ্রবণকারী",
+   "why_en": "The gift of hearing allows a person to receive Allah's message."
+  },
+  {
+   "pos": 10,
+   "root": "بصر",
+   "lemma": "بَصِير",
+   "meaning_en": "seeing",
+   "meaning_bn": "দর্শনকারী",
+   "why_en": "The gift of sight enables a person to reflect upon Allah's signs."
+  }
+ ],
+ "lesson_en": "Allah gave you hearing and sight as a trust, so use them to find and obey the truth.",
+ "lesson_bn": "আল্লাহ কান ও চোখ আমানত হিসেবে দিয়েছেন, তাই এগুলো দিয়ে সত্য জানুন এবং আল্লাহর আনুগত্য করুন।",
+ "real_life_en": "You use your eyes and ears every day on screens and in talks. Use your ears to listen to good advice and the Quran. Use your eyes to read useful things rather than looking at harmful content.",
+ "real_life_bn": "আমরা প্রতিদিন চোখ ও কান দিয়ে নানা কথা শুনি ও দেখি। ভালো কথা ও কুরআনের উপদেশ শুনতে কান ব্যবহার করুন। ক্ষতিকর জিনিস না দেখে উপকারী বিষয় দেখতে চোখকে কাজে লাগান।",
+ "themes": [
+  "creation",
+  "trials",
+  "reflection"
+ ],
+ "kinds": [
+  "creation",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah created human beings from a mixed drop of fluid to test them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Allah granted humans hearing and sight to carry out His commands and reflect on His signs.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

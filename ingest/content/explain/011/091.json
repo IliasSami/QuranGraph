@@ -1,0 +1,81 @@
+{
+  "id": "11:91",
+  "simple_en": "His people replied that they did not care to grasp his message. They saw him as weak and without personal clout. Were it not for the influence of his family clan, they would have stoned him to death without hesitation.",
+  "simple_bn": "তারা বলল, হে শুআইব, তুমি যা বলো তার অনেক কথাই আমরা বুঝি না, আর আমাদের মাঝে আমরা তোমাকে দুর্বল মনে করি। তোমার স্বজনরা না থাকলে আমরা অবশ্যই তোমাকে পাথর মেরে হত্যা করতাম। আর আমাদের কাছে তোমার কোনো সম্মান নেই।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "فقه",
+      "lemma": "يَفْقَهُ",
+      "meaning_en": "understand / comprehend",
+      "meaning_bn": "বুঝতে পারি",
+      "why_en": "Apathetic refusal to listen or ponder."
+    },
+    {
+      "pos": 11,
+      "root": "ضعف",
+      "lemma": "ضَعِيف",
+      "meaning_en": "weak",
+      "meaning_bn": "দুর্বল",
+      "why_en": "Viewing physical or worldly strength over spiritual truth."
+    },
+    {
+      "pos": 13,
+      "root": "رهط",
+      "lemma": "رَهْط",
+      "meaning_en": "family clan / group",
+      "meaning_bn": "পরিবার / গোত্র",
+      "why_en": "Tribal ties protecting him from violence."
+    },
+    {
+      "pos": 14,
+      "root": "رجم",
+      "lemma": "رَجَمْ",
+      "meaning_en": "stone to death",
+      "meaning_bn": "পাথর নিক্ষেপ করা",
+      "why_en": "Violent threat against the prophet."
+    }
+  ],
+  "lesson_en": "Proud people often judge truth by worldly power instead of what is right.",
+  "lesson_bn": "অহংকারী মানুষেরা সত্যের মূল্য না বুঝে কেবল পার্থিব ক্ষমতা ও বংশমর্যাদা নিয়ে বিচার করে।",
+  "real_life_en": "Do not judge the worth of truth by the wealth or social standing of the person speaking it. Look at the moral merit of the message itself.",
+  "real_life_bn": "বক্তার পদমর্যাদা বা বাহ্যিক অবস্থা দেখে সত্যকে অবহেলা করবেন না। বার্তার সততা ও সঠিকতার দিকে মনোযোগ দিন।",
+  "themes": [
+    "story of Shu'ayb",
+    "tribalism",
+    "threats against prophets",
+    "worldly arrogance"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb (peace be upon him)"
+    ],
+    "nations": [
+      "People of Madyan"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The leaders of Madyan rejected Shu'ayb's teaching, admitting that only tribal loyalty to his clan restrained them from stoning him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

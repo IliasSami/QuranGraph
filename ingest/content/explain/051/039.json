@@ -1,0 +1,77 @@
+{
+  "id": "51:39",
+  "simple_en": "Pharaoh turned away in pride, relying on his armies and court power. He dismissed Prophet Musa (peace be upon him) and claimed he was either a magician or a madman. His arrogance blinded him to the truth.",
+  "simple_bn": "কিন্তু ফিরআউন তার ক্ষমতার অহংকারে মুখ ফিরিয়ে নিল এবং বলল, এ ব্যক্তি একজন যাদুকর অথবা উন্মাদ।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ولي",
+      "lemma": "تَوَلَّى",
+      "meaning_en": "he turned away",
+      "meaning_bn": "সে মুখ ফিরিয়ে নিল",
+      "why_en": "Pharaoh's stubborn rejection of divine guidance."
+    },
+    {
+      "pos": 2,
+      "root": "ركن",
+      "lemma": "رُكْن",
+      "meaning_en": "his support and army",
+      "meaning_bn": "তার শক্তি ও দলবল",
+      "why_en": "Pharaoh relied proudly on his soldiers and political strength."
+    },
+    {
+      "pos": 4,
+      "root": "سحر",
+      "lemma": "ساحِر",
+      "meaning_en": "a magician",
+      "meaning_bn": "যাদুকর",
+      "why_en": "The false accusation Pharaoh made against Musa's miracles."
+    },
+    {
+      "pos": 6,
+      "root": "جنن",
+      "lemma": "مَجْنُون",
+      "meaning_en": "a madman",
+      "meaning_bn": "উন্মাদ বা পাগল",
+      "why_en": "Another baseless insult hurled at the prophet."
+    }
+  ],
+  "lesson_en": "Pride blinds the heart. Do not look down on those who tell the truth.",
+  "lesson_bn": "অহংকার মানুষের চোখ অন্ধ করে দেয়, ফলে সে সত্য প্রত্যাখ্যান করে শুভাকাঙ্ক্ষীকে অপমান করে।",
+  "real_life_en": "Do not let social status or wealth make you proud. Listen carefully to constructive criticism from anyone, regardless of their rank.",
+  "real_life_bn": "পদমর্যাদা বা সম্পদের বড়াই করে কাউকে তুচ্ছজ্ঞান করবেন না। সাধারণ মানুষের গঠনমূলক পরামর্শও বিনম্রভাবে শুনুন।",
+  "themes": [
+    "arrogance",
+    "disbelief",
+    "past nations"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "pharaoh",
+      "musa"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Pharaoh turned away with his forces, calling Musa a magician or a madman.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

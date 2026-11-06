@@ -1,0 +1,73 @@
+{
+  "id": "12:94",
+  "simple_en": "As the caravan left Egypt, Yaqub spoke to those around him in Canaan. He told them that he smelled the scent of Yusuf. He added that they might think he had lost his mind.",
+  "simple_bn": "যাত্রীদল মিসর থেকে রওনা হতেই কেনানে অবস্থানরত ইয়াকুব তাঁর সঙ্গীদের বললেন, আমি ইউসুফের ঘ্রাণ পাচ্ছি। তিনি এও বললেন, তোমরা হয়তো আমাকে বার্ধক্যজনিত বিভ্রান্ত ভাববে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "فصل",
+      "lemma": "فَصَلَ",
+      "meaning_en": "departed",
+      "meaning_bn": "রওনা হলো",
+      "why_en": "Marks the departure of the caravan from the borders of Egypt."
+    },
+    {
+      "pos": 8,
+      "root": "روح",
+      "lemma": "رِيح",
+      "meaning_en": "scent",
+      "meaning_bn": "ঘ্রাণ",
+      "why_en": "Yaqub senses the fragrance of his beloved son across vast distance."
+    },
+    {
+      "pos": 12,
+      "root": "فند",
+      "lemma": "تُفَنِّدُ",
+      "meaning_en": "think me weak in mind",
+      "meaning_bn": "আমাকে অপ্রকৃতিস্থ মনে করো",
+      "why_en": "Expresses his awareness that people would dismiss his insight as senility."
+    }
+  ],
+  "lesson_en": "True hope in Allah keeps the heart sensitive to divine relief even from afar.",
+  "lesson_bn": "আল্লাহর রহমতের প্রতি অবিচল আশা মানুষের অন্তরে দূর থেকেও সুসংবাদের অনুভূতি জাগিয়ে রাখে।",
+  "real_life_en": "A mother feels deep inside that her missing son is still alive. She ignores discouraging comments from neighbors, keeps praying, and stays ready to welcome him home.",
+  "real_life_bn": "এক মা অন্তরে বিশ্বাস রাখেন যে তাঁর নিখোঁজ সন্তান বেঁচে আছে। চারপাশের মানুষের হতাশার কথা উপেক্ষা করে তিনি নিয়মিত দোয়া চালিয়ে যান।",
+  "context_en": "Yaqub sensed the scent of Yusuf as soon as the caravan carrying the shirt departed.",
+  "context_bn": "জামা বহনকারী কাফেলা মিসর ত্যাগ করতেই ইয়াকুব ইউসুফের ঘ্রাণ অনুভব করলেন।",
+  "themes": [
+    "hope",
+    "patience",
+    "parental love"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Yaqub",
+      "Yusuf"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt",
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Yaqub declared that he smelled the scent of Yusuf as the caravan departed Egypt.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

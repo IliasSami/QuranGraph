@@ -1,0 +1,66 @@
+{
+  "id": "18:1",
+  "simple_en": "All praise belongs to God, who revealed the Book to His servant without any flaw or deviance in its words. Its message is clear and upright.",
+  "simple_bn": "যাবতীয় প্রশংসা একমাত্র আল্লাহর, যিনি তাঁর বান্দার ওপর এই কিতাব নাযিল করেছেন এবং এতে কোনো ধরনের বক্রতা বা ত্রুটি রাখেননি।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "حمد",
+      "lemma": "حَمْد",
+      "meaning_en": "all praise",
+      "meaning_bn": "যাবতীয় প্রশংসা",
+      "why_en": "Total gratitude due to the Creator for revelation."
+    },
+    {
+      "pos": 11,
+      "root": "عوج",
+      "lemma": "عِوَج",
+      "meaning_en": "deviance or crookedness",
+      "meaning_bn": "বক্রতা বা ত্রুটি",
+      "why_en": "The complete absence of contradiction or moral flaw."
+    }
+  ],
+  "lesson_en": "The Quran is upright and balanced. It guides human life on a straight path without any flaws.",
+  "lesson_bn": "কোরআন এক নিখুঁত ও ভারসাম্যপূর্ণ গ্রন্থ। এতে কোনো অসঙ্গতি বা অস্পষ্টতা নেই।",
+  "real_life_en": "Read the Quran when moral confusion surrounds you. Its straight teachings give clear answers to guide your daily choices.",
+  "real_life_bn": "নৈতিক বিভ্রান্তির মুখে কোরআনের শরণাপন্ন হন। এর সরল ও সত্য বাণী জীবনের জটিল সিদ্ধান্তগুলো সহজ করে দেয়।",
+  "themes": [
+    "alhamdulillah",
+    "quran-perfection",
+    "no-crookedness",
+    "revelation"
+  ],
+  "kinds": [
+    "praise",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Praise is due to Allah who revealed the Quran to His servant with zero crookedness or deviance.",
+      "claim_bn": "আল্লাহর প্রশংসা যিনি তাঁর বান্দার ওপর কোরআন অবতীর্ণ করেছেন যাতে কোনো বক্রতা নেই।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

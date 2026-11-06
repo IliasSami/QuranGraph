@@ -1,0 +1,99 @@
+{
+  "id": "5:45",
+  "simple_en": "In the Torah, Allah set the rule of equal payback for harm. A life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth, and equal payback for wounds. But if someone chooses to forgive, Allah wipes away their sins. Those who do not judge by Allah's law do great wrong.",
+  "simple_bn": "আল্লাহ তাওরাতে বনী ইসরাঈলের ওপর সমান প্রতিফল বা কিসাসের বিধান অবধারিত করেছিলেন। এতে ছিল প্রাণের বদলে প্রাণ, চোখের বদলে চোখ, নাকের বদলে নাক, কানের বদলে কান, দাঁতের বদলে দাঁত এবং প্রতিটি আঘাতের সমান বদলা। তবে কেউ ক্ষমা করে দিলে তা তার পাপের কাফফারা হবে। আর যারা আল্লাহর বিধান অনুযায়ী বিচার করে না, তারাই জালেম।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نفس",
+      "lemma": "نَفْس",
+      "meaning_en": "life / soul",
+      "meaning_bn": "প্রাণ বা জীবন",
+      "why_en": "Affirms the equal sanctity of every human life under divine law."
+    },
+    {
+      "pos": 16,
+      "root": "قصص",
+      "lemma": "قِصاص",
+      "meaning_en": "legal retribution",
+      "meaning_bn": "সমান প্রতিফল বা কিসাস",
+      "why_en": "The principle that punishment must be strictly proportional to the harm caused."
+    },
+    {
+      "pos": 18,
+      "root": "صدق",
+      "lemma": "تَصَدَّقَ",
+      "meaning_en": "gives in charity / pardons",
+      "meaning_bn": "দান করে বা ক্ষমা করে",
+      "why_en": "Describes the noble act of relinquishing retribution as an act of grace."
+    },
+    {
+      "pos": 21,
+      "root": "كفر",
+      "lemma": "كَفّارَة",
+      "meaning_en": "an expiation",
+      "meaning_bn": "কাফফারা বা পাপমোচন",
+      "why_en": "Shows that forgiving an offender serves as atonement for one's own sins."
+    }
+  ],
+  "lesson_en": "Justice gives equal rights to all. Choosing to forgive wipes away sins and brings mercy.",
+  "lesson_bn": "ন্যায়বিচার প্রতিষ্ঠা করা অধিকার নিশ্চিত করে, আর ক্ষমা করার মনোভাব আল্লাহর ক্ষমা ও পুণ্য এনে দেয়।",
+  "real_life_en": "If someone hurts you or damages your things, you can ask for what is fair. But if you choose to forgive, Allah will reward you. Forgiveness heals the heart.",
+  "real_life_bn": "কেউ যদি অনিচ্ছাকৃতভাবে আপনার ক্ষতি করে, তবে ক্ষতিপূরণ চাওয়ার অধিকার আপনার আছে। কিন্তু বড় মনের পরিচয় দিয়ে তাকে ক্ষমা করে দিলে নিজের পাপ মোচন হয় এবং আল্লাহর সন্তুষ্টি মেলে।",
+  "context_en": "Details the law of legal retribution laid down in the Torah and the spiritual virtue of voluntary pardon.",
+  "context_bn": "তাওরাতে অবধারিত কিসাস ও সমপরিমাণ শাস্তির বিধান এবং স্বেচ্ছায় ক্ষমা করার উচ্চ মর্যাদার আলোচনা।",
+  "themes": [
+    "justice",
+    "forgiveness",
+    "Children of Israel",
+    "good character"
+  ],
+  "kinds": [
+    "law",
+    "ethics",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Torah"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Torah prescribed proportional legal retribution for murder and physical injury.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Pardoning an offender voluntarily serves as an expiation of sins for the victim.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Failing to apply Allah's revealed justice is wrongful transgression.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

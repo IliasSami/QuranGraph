@@ -1,0 +1,76 @@
+{
+  "id": "20:12",
+  "simple_en": "God said: I am indeed your Lord. Remove your sandals, for you are standing in the sacred valley named Tuwa. Sanctity requires deep outward and inward reverence.",
+  "simple_bn": "আল্লাহ বললেন: আমিই তোমার প্রতিপালক। অতএব তোমার জুতোজোড়া খুলে ফেল, কারণ তুমি তুওয়া নামক পবিত্র উপত্যকায় অবস্থান করছ।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "خلع",
+      "lemma": "ٱخْلَعْ",
+      "meaning_en": "remove or take off",
+      "meaning_bn": "খুলে ফেল",
+      "why_en": "A direct command of physical humility before divine presence."
+    },
+    {
+      "pos": 5,
+      "root": "نعل",
+      "lemma": "نَعْل",
+      "meaning_en": "your sandals",
+      "meaning_bn": "তোমার জুতো",
+      "why_en": "Signifies stepping bare on consecrated sacred ground."
+    },
+    {
+      "pos": 8,
+      "root": "قدس",
+      "lemma": "مُقَدَّس",
+      "meaning_en": "sanctified and holy",
+      "meaning_bn": "পবিত্রকৃত",
+      "why_en": "Describes the blessed nature of the valley Tuwa."
+    }
+  ],
+  "lesson_en": "Show deep respect in sacred places. Stand with a clean and humble heart before God.",
+  "lesson_bn": "আল্লাহর নৈকট্য ও পবিত্র স্থানে উপস্থিত হতে হলে বিনয়, পবিত্রতা ও সঠিক আদব রক্ষা করা আবশ্যক।",
+  "real_life_en": "Show deep respect when entering houses of worship. Prepare both body and mind before prayer.",
+  "real_life_bn": "মসজিদে বা ইবাদতের স্থানে প্রবেশের সময় আদব রক্ষা করুন। নামাজের পূর্বে দেহ ও মন উভয়কে পবিত্র রাখুন।",
+  "themes": [
+    "sacred-places",
+    "humility",
+    "musa",
+    "reverence"
+  ],
+  "kinds": [
+    "command",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "Tuwa"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "sandals"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God instructed Moses to remove his sandals in the sacred valley of Tuwa out of reverence.",
+      "claim_bn": "আল্লাহ মূসাকে শ্রদ্ধাবোধের নিদর্শন হিসেবে তুওয়ার পবিত্র উপত্যকায় জুতো খোলার নির্দেশ দেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

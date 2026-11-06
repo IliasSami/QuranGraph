@@ -1,0 +1,67 @@
+{
+  "id": "18:83",
+  "simple_en": "The people ask you about Dhul-Qarnayn. Say, \"I will recite to you a clear account of his story, showing lessons of justice and upright power.\"",
+  "simple_bn": "আর তারা আপনাকে যুল-কারনাইন সম্পর্কে জিজ্ঞেস করে। বলুন, আমি অচিরেই তোমাদের কাছে তার ঘটনা থেকে শিক্ষণীয় বিষয় পড়ে শোনাব।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "قرن",
+      "lemma": "قَرْن",
+      "meaning_en": "the two horns or ages",
+      "meaning_bn": "যুল-কারনাইন",
+      "why_en": "Title of the righteous ruler gifted with great power."
+    },
+    {
+      "pos": 6,
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "I will recite",
+      "meaning_bn": "আমি তিলাওয়াত করব",
+      "why_en": "Prophetic recitation delivering divine historical lessons."
+    }
+  ],
+  "lesson_en": "Scripture teaches moral leadership. Good rulers use their strength to build justice and protect weak people.",
+  "lesson_bn": "ঐশী ইতিহাস ন্যায়পরায়ণ নেতৃত্বের শিক্ষা দেয়। সৎ শাসকরা ক্ষমতাকে ন্যায়বিচার প্রতিষ্ঠার কাজে লাগান।",
+  "real_life_en": "Read history to understand true leadership. Look for role models who used their authority to serve others.",
+  "real_life_bn": "ইতিহাস থেকে সৎ নেতৃত্বের শিক্ষা নিন। ক্ষমতা ও পদমর্যাদাকে মানুষের কল্যাণে কাজে লাগান।",
+  "themes": [
+    "dhul-qarnayn",
+    "righteous-ruler",
+    "historical-lessons",
+    "prophetic-revelation"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad",
+      "Dhul-Qarnayn"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Inquiry-about-Dhul-Qarnayn"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet Muhammad was questioned about Dhul-Qarnayn and commanded to recite an account of his travels.",
+      "claim_bn": "রাসূলুল্লাহ (সা.)-কে যুল-কারনাইন সম্পর্কে জিজ্ঞেস করা হলে তিনি তাঁর শিক্ষণীয় ইতিহাস শোনানোর ঘোষণা দেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

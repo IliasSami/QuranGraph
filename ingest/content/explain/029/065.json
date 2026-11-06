@@ -1,0 +1,69 @@
+{
+  "id": "29:65",
+  "simple_en": "When people sail on a ship and big waves hit them, they pray to God with all their heart. But as soon as He brings them safely to land, they forget and worship other things beside Him.",
+  "simple_bn": "মানুষ যখন জাহাজে চড়ে এবং উত্তাল তরঙ্গে বিপদে পড়ে, তখন তারা সমস্ত অন্তর দিয়ে কেবল আল্লাহকেই একনিষ্ঠভাবে ডাকে। কিন্তু তিনি যখন তাদের উদ্ধার করে নিরাপদে কূলে পৌঁছে দেন, তখনই তারা আবার অন্যদের আল্লাহর অংশীদার বানাতে শুরু করে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "ٱلْفُلْكِ",
+      "root": "فلك",
+      "lemma": "فُلْك",
+      "meaning_en": "the ship",
+      "meaning_bn": "জাহাজ বা নৌকা",
+      "why_en": "Facing perilous sea waves forces people to pray with pure sincerity."
+    },
+    {
+      "pos": 7,
+      "arabic": "مُخْلِصِينَ",
+      "root": "خلص",
+      "lemma": "مُخْلِص",
+      "meaning_en": "sincere",
+      "meaning_bn": "একনিষ্ঠভাবে",
+      "why_en": "Humans turn sincerely to God when in danger, exposing the falsehood of idols."
+    }
+  ],
+  "lesson_en": "Trouble reminds people of their need for God. Sincere faith should stay strong in easy days, not just in times of fear.",
+  "lesson_bn": "চরম বিপদ মানুষের ভেতরের সত্যকে উন্মোচন করে যে একমাত্র আল্লাহই রক্ষাকারী। কিন্তু শান্তি ফিরে এলে অনেকেই পুনরায় অকৃতজ্ঞ হয়ে পড়ে।",
+  "real_life_en": "Do not remember God only when you are in distress and trouble. Keep your prayers sincere and your gratitude strong during calm and prosperous days.",
+  "real_life_bn": "কেবল বিপদে পড়লে নয়, বরং সুস্থ ও ভালো থাকার সময়েও আল্লাহর প্রতি অনুগত থাকুন। সুখের দিনেও তাঁর কৃতজ্ঞতা প্রকাশ করা প্রকৃত মুমিনের বৈশিষ্ট্য।",
+  "themes": [
+    "sincerity-in-danger",
+    "ingratitude",
+    "monotheism",
+    "safety-on-land"
+  ],
+  "kinds": [
+    "parable",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "ship",
+      "sea",
+      "land"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "When boarding ships in danger people call upon God with sincere devotion, but upon reaching land safely they associate partners with Him.",
+      "claim_bn": "জাহাজে আরোহণের সময় বিপদে পড়ে তারা একনিষ্ঠভাবে আল্লাহকে ডাকে, কিন্তু যখন তিনি তাদের রক্ষা করে কূলে আনেন তখনই তারা শিরক করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

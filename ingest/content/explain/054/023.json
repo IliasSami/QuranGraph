@@ -1,0 +1,61 @@
+{
+  "id": "54:23",
+  "simple_en": "The people of Thamud rejected the warnings brought by their prophet Salih (peace be upon him). They treated divine guidance as false news and refused to obey his call.",
+  "simple_bn": "সামূদ জাতি তাদের কাছে প্রেরিত নবী সালেহ (আলাইহিস সালাম) এর সতর্কবার্তাকে মিথ্যা বলে উড়িয়ে দিয়েছিল। তারা নবীর দেওয়া হেদায়াত মানতে অস্বীকার করেছিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied",
+      "meaning_bn": "মিথ্যারোপ করেছিল",
+      "why_en": "Identifies the core sin of Thamud in rejecting their messenger's call."
+    },
+    {
+      "pos": 3,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "the warnings",
+      "meaning_bn": "সতর্কবার্তা",
+      "why_en": "Refers to the divine messages urging the people to repent and obey Allah."
+    }
+  ],
+  "lesson_en": "Rejecting a prophet means turning away from the truth of Allah.",
+  "lesson_bn": "আল্লাহর প্রেরিত রাসূলকে অস্বীকার করা প্রকারান্তরে আল্লাহর বাণীকেই অস্বীকার করার শামিল।",
+  "real_life_en": "A patient throws away the prescription given by a licensed doctor because he dislikes taking pills. His illness grows worse. Rejecting sound guidance only brings harm to oneself.",
+  "real_life_bn": "একজন রোগী অভিজ্ঞ চিকিৎসকের দেওয়া প্রেসক্রিপশন ছুঁড়ে ফেলে দিয়ে ভুল পথে চিকিৎসা নেয়। এর ফলে তার অসুখ আরও বেড়ে যায়। সঠিক পরামর্শ অস্বীকার করলে ক্ষতি নিজেরই হয়।",
+  "themes": [
+    "past nations",
+    "stories of the prophets",
+    "warning"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The tribe of Thamud denied what their prophet Salih warned them about.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

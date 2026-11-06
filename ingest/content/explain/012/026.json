@@ -1,0 +1,82 @@
+{
+  "id": "12:26",
+  "simple_en": "Joseph defended himself and said that she had tried to entice him. A wise witness from her own household testified. He said that if his shirt was torn from the front, then she spoke the truth and Joseph was the liar.",
+  "simple_bn": "ইউসুফ বললেন, সে-ই আমাকে প্রলুব্ধ করতে চেয়েছিল। আর মহিলার পরিবারের একজন সাক্ষী সাক্ষ্য দিল, যদি তার জামা সামনের দিক থেকে ছেঁড়া থাকে, তবে মহিলা সত্য বলেছে আর সে মিথ্যাবাদীদের অন্তর্ভুক্ত।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "رود",
+      "lemma": "راوَدُ",
+      "meaning_en": "sought to seduce me",
+      "meaning_bn": "আমাকে প্রলুব্ধ করতে চেয়েছিল",
+      "why_en": "Clear spoken testimony asserting innocence."
+    },
+    {
+      "pos": 7,
+      "root": "شهد",
+      "lemma": "شاهِد",
+      "meaning_en": "a witness",
+      "meaning_bn": "একজন সাক্ষী",
+      "why_en": "Impartial arbiter proposing logical examination."
+    },
+    {
+      "pos": 15,
+      "root": "قبل",
+      "lemma": "قُبُل",
+      "meaning_en": "the front",
+      "meaning_bn": "সামনের দিক",
+      "why_en": "Physical evidence indicating forward assault."
+    },
+    {
+      "pos": 19,
+      "root": "كذب",
+      "lemma": "كاذِب",
+      "meaning_en": "the liars",
+      "meaning_bn": "মিথ্যাবাদী",
+      "why_en": "Determining who spoke untruth."
+    }
+  ],
+  "lesson_en": "Clear signs and honest facts show the truth and clear innocent people of blame.",
+  "lesson_bn": "যুক্তিসঙ্গত পর্যবেক্ষণ ও সঠিক প্রমাণ নিরীক্ষণ মিথ্যা অভিযোগ থেকে সত্যকে উন্মোচন করে।",
+  "real_life_en": "When people fight or make claims, look at the facts with a calm mind. Do not blame anyone without clear proof.",
+  "real_life_bn": "কোনো বিরোধের ফায়সালা করার সময় তাড়াহুড়ো না করে সাক্ষ্যপ্রমাণ পরীক্ষা করুন। ন্যায়সঙ্গত তদন্তই সত্য প্রতিষ্ঠা করে।",
+  "themes": [
+    "fair trial",
+    "objective evidence",
+    "witness",
+    "defending innocence"
+  ],
+  "kinds": [
+    "story",
+    "law",
+    "ethics",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Wife of Al-Aziz"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "A member of the woman's household proposed an objective test of innocence based on whether Joseph's shirt was torn from front or back.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

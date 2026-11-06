@@ -1,0 +1,87 @@
+{
+  "id": "14:6",
+  "simple_en": "Moses said to his people: Remember the great favor of Allah upon you. He saved you from the followers of Pharaoh. They harmed you severely, killing your sons and keeping your daughters alive. That was a great trial from your Lord.",
+  "simple_bn": "মূসা তাঁর জাতিকে বললেন: তোমাদের প্রতি আল্লাহর নিয়ামতের কথা স্মরণ করো। তিনি তোমাদেরকে ফেরাউনের দলবলের হাত থেকে রক্ষা করেছিলেন। তারা তোমাদের ওপর নির্মম নির্যাতন চালাত, তোমাদের পুত্রদের হত্যা করত এবং কন্যাদের জীবিত রাখত। এতে তোমাদের রবের পক্ষ থেকে ছিল এক মহাপরীক্ষা।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "نعم",
+      "lemma": "نِعْمَة",
+      "meaning_en": "favor",
+      "meaning_bn": "অনুগ্রহ",
+      "why_en": "Divine blessings and deliverance."
+    },
+    {
+      "pos": 10,
+      "root": "نجو",
+      "lemma": "أَنْجى",
+      "meaning_en": "He saved you",
+      "meaning_bn": "তিনি তোমাদের রক্ষা করলেন",
+      "why_en": "Deliverance from tyranny."
+    },
+    {
+      "pos": 12,
+      "root": "أول",
+      "lemma": "آل",
+      "meaning_en": "people of",
+      "meaning_bn": "গোষ্ঠী",
+      "why_en": "The household and supporters of Pharaoh."
+    },
+    {
+      "pos": 17,
+      "root": "ذبح",
+      "lemma": "ذَبَّحَ",
+      "meaning_en": "and slaughtering",
+      "meaning_bn": "এবং জবাই করত",
+      "why_en": "The brutal slaughter of newborn boys."
+    },
+    {
+      "pos": 23,
+      "root": "بلو",
+      "lemma": "بَلاء",
+      "meaning_en": "a trial",
+      "meaning_bn": "পরীক্ষা",
+      "why_en": "A severe test of faith and endurance."
+    }
+  ],
+  "lesson_en": "Never forget the times when Allah delivered you from great fear and pain.",
+  "lesson_bn": "আল্লাহ যখন আপনাকে কঠিন ভয় ও বিপদ থেকে উদ্ধার করেছিলেন, সেই অনুগ্রহ কখনো ভুলবেন না।",
+  "real_life_en": "A family escapes from a war zone and rebuilds their lives in safety. Years later, they gather and thank Allah for protection and peace.",
+  "real_life_bn": "যুদ্ধবিধ্বস্ত এলাকা থেকে নিরাপদে পালিয়ে এসে এক পরিবার নতুন জীবন শুরু করে। বহু বছর পর তারা একত্রিত হয়ে সেই কঠিন দিনের কথা স্মরণ করে আল্লাহর শোকর আদায় করে।",
+  "context_en": "Moses reminding the Israelites of Allah saving them from Pharaoh's slaughter.",
+  "context_bn": "বনী ইসরাঈলকে ফেরাউনের নিষ্ঠুর দাসত্ব ও হত্যাযজ্ঞ থেকে রক্ষা করার অনুগ্রহ স্মরণ করানো।",
+  "themes": [
+    "prophets",
+    "deliverance",
+    "trials"
+  ],
+  "kinds": [
+    "story",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Fir'awn"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Moses reminded the Israelites how Allah rescued them from Pharaoh's persecution.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

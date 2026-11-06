@@ -1,0 +1,76 @@
+{
+  "id": "11:67",
+  "simple_en": "A terrible blast seized those who did wrong, leaving them dead in their homes by morning. Their dwellings could not shield them from the power of Allah.",
+  "simple_bn": "আর যারা সীমালঙ্ঘন করেছিল তাদের এক বিকট আওয়াজ পাকড়াও করল; ফলে সকালের মধ্যে তারা নিজ নিজ ঘরে উপুড় হয়ে মৃত অবস্থায় পড়ে রইল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ظلم",
+      "lemma": "ظَلَمَ",
+      "meaning_en": "they wronged / transgressed",
+      "meaning_bn": "তারা সীমালঙ্ঘন করল",
+      "why_en": "Oppression and obstinate rejection of divine signs."
+    },
+    {
+      "pos": 4,
+      "root": "صيح",
+      "lemma": "صَيْحَة",
+      "meaning_en": "the mighty shriek / blast",
+      "meaning_bn": "বিকট আওয়াজ / প্রচণ্ড গর্জন",
+      "why_en": "The deafening celestial sound destroying their lives."
+    },
+    {
+      "pos": 8,
+      "root": "جثم",
+      "lemma": "جاثِم",
+      "meaning_en": "fallen prone / lifeless corpses",
+      "meaning_bn": "উপুড় হয়ে পড়ে থাকা মৃতদেহ",
+      "why_en": "Lying motionless in death in their stone houses."
+    }
+  ],
+  "lesson_en": "No home or shelter can protect wrongdoers from the judgment of Allah.",
+  "lesson_bn": "আল্লাহর শাস্তি এলে কোনো সুদৃঢ় প্রাসাদ বা পাথরের ঘরও মানুষকে বাঁচাতে পারে না।",
+  "real_life_en": "Do not put all your security into bricks, mortar, or material assets. Build a strong relationship with Allah, which is the only protection that lasts forever.",
+  "real_life_bn": "ধনসম্পদ বা বিলাসবহুল বাড়ি মানুষকে আসল নিরাপত্তা দিতে পারে না; আল্লাহর আনুগত্যই চিরস্থায়ী শান্তির পথ।",
+  "themes": [
+    "destruction by the blast",
+    "fragility of human power",
+    "downfall of Thamud"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "People of Thamud"
+    ],
+    "places": [
+      "their homes"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Destruction of Thamud"
+    ],
+    "things": [
+      "the shriek / blast (as-Sayhah)"
+    ]
+  },
+  "claims": [
+    {
+      "text": "A deafening sound wave struck the wrongdoers of Thamud, leaving them lifeless within their homes by morning.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

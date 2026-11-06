@@ -1,0 +1,65 @@
+{
+  "id": "17:90",
+  "simple_en": "The skeptics made proud demands. They said, 'We will never believe you until you make a fresh spring gush out of the dry ground for us.'",
+  "simple_bn": "তারা বলল, 'আমরা কখনই আপনার প্রতি ঈমান আনব না যতক্ষণ না আপনি আমাদের জন্য শুষ্ক মাটি থেকে এক প্রবাহিত ঝরনাধারা বের করে দেবেন।'",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "فجر",
+      "lemma": "يَفْجُرَ",
+      "meaning_en": "cause to gush forth",
+      "meaning_bn": "প্রবাহিত করে দেওয়া",
+      "why_en": "Demanding miraculous springs in the arid desert."
+    },
+    {
+      "pos": 10,
+      "root": "نبع",
+      "lemma": "يَنبُوع",
+      "meaning_en": "a flowing spring",
+      "meaning_bn": "ঝরনা বা পানির ধারা",
+      "why_en": "A physical marvel conditioned on their faith."
+    }
+  ],
+  "lesson_en": "Asking for strange signs is an old excuse. People use it to run away from simple moral duty.",
+  "lesson_bn": "অবাস্তব অলৌকিক শর্ত আরোপ করা সত্য এড়িয়ে যাওয়ার প্রাচীন অজুহাত। সৎ অন্তরের মানুষের জন্য স্পষ্ট প্রমাণই যথেষ্ট।",
+  "real_life_en": "Do not demand signs before you obey God. True faith seeks what is right, not magic or favors.",
+  "real_life_bn": "আল্লাহর ওপর বিশ্বাসকে কোনো অলৌকিক শর্তের অধীন করবেন না। সত্যকে সত্য হিসেবে জেনে আন্তরিকভাবে আনুগত্য করুন।",
+  "themes": [
+    "miracle-demands",
+    "skepticism",
+    "quraysh"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [
+      "Quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Quraysh skeptics refused to believe unless the Prophet made a fresh spring gush out of the arid ground.",
+      "claim_bn": "কুরাইশরা শর্ত দিয়েছিল যে জমিন থেকে পানির ঝরনা প্রবাহিত না করলে তারা ঈমান আনবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

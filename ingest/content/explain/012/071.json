@@ -1,0 +1,69 @@
+{
+  "id": "12:71",
+  "simple_en": "The brothers turned back toward the callers with shock. They asked what was missing from the camp. They were sure they had done nothing wrong.",
+  "simple_bn": "ভাইয়েরা বিস্মিত হয়ে ঘোষকদের দিকে ফিরে তাকাল। নিজেদের নির্দোষিতা সম্পর্কে নিশ্চিত থাকায় তারা জানতে চাইল, তোমাদের কী হারিয়েছে?",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قبل",
+      "lemma": "أَقْبَلَ",
+      "meaning_en": "they turned toward them",
+      "meaning_bn": "তারা তাদের দিকে ফিরল",
+      "why_en": "Facing the accusers directly without guilt or hesitation."
+    },
+    {
+      "pos": 5,
+      "root": "فقد",
+      "lemma": "تَفْقِدُ",
+      "meaning_en": "you are missing",
+      "meaning_bn": "তোমরা হারিয়ে ফেলেছ",
+      "why_en": "Inquiring about the specific object of the search."
+    }
+  ],
+  "lesson_en": "Face false charges with calm courage and ask for the facts.",
+  "lesson_bn": "নির্দোষ মানুষ কোনো ভিত্তিহীন অভিযোগে ভীত না হয়ে শান্তভাবে প্রকৃত সত্য জানার চেষ্টা করে।",
+  "real_life_en": "A cashier is blamed by a customer for missing change. The calm cashier reviews the register receipt with the customer to find the truth.",
+  "real_life_bn": "এক দোকানদারের বিরুদ্ধে ভুল হিসাবের অভিযোগ তোলা হলে তিনি উত্তেজিত না হয়ে শান্ত থাকেন। তিনি ক্যাশমেমো মিলিয়ে দেখতে অনুরোধ করেন এবং সত্য তুলে ধরেন।",
+  "context_en": "Hearing the accusation of theft, the brothers stopped immediately to ask what was lost.",
+  "context_bn": "চুরির অপবাদ শুনে ভাইয়েরা থেমে গেল এবং সাহস নিয়ে জানতে চাইল কী জিনিস হারিয়েছে।",
+  "themes": [
+    "facing accusations",
+    "clarity",
+    "honesty"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "brothers of Yusuf",
+      "Egyptian guards"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers turned around and asked what was missing.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

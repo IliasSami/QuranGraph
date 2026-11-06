@@ -1,0 +1,81 @@
+{
+  "id": "5:111",
+  "simple_en": "Allah inspired the disciples of Isa (peace be upon him) to believe in Him and His messenger. They accepted faith with open hearts. They said they believed in the truth. They asked him to bear witness that they were Muslims, wholly devoted to Allah.",
+  "simple_bn": "আল্লাহ হাওয়ারীদের অন্তরে ইলহাম করলেন যেন তারা আল্লাহর প্রতি ও তাঁর রাসূল ঈসার প্রতি ঈমান আনে। তারা আনুগত্যের সাথে সাড়া দিল এবং সাক্ষ্য দিল যে তারা এক আল্লাহর কাছে সম্পূর্ণ আত্মসমর্পণকারী বা মুসলিম।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حور",
+      "lemma": "حَوارِيّ",
+      "meaning_en": "the disciples",
+      "meaning_bn": "হাওয়ারীগণ",
+      "why_en": "The devoted companions of Isa (peace be upon him) who aided his mission."
+    },
+    {
+      "pos": 10,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "we believed",
+      "meaning_bn": "আমরা ঈমান এনেছি",
+      "why_en": "Their prompt affirmation of faith in Allah and His messenger."
+    },
+    {
+      "pos": 13,
+      "root": "سلم",
+      "lemma": "مُسْلِم",
+      "meaning_en": "Muslims / submitted",
+      "meaning_bn": "আত্মসমর্পণকারী বা মুসলিম",
+      "why_en": "Declares that the religion of all true followers of prophets is Islam (submission to Allah)."
+    }
+  ],
+  "lesson_en": "All true followers of the prophets submitted to Allah as Muslims.",
+  "lesson_bn": "সকল নবীর প্রকৃত অনুসারীগণ এক আল্লাহর প্রতি অনুগত ও আত্মসমর্পণকারী মুসলিম ছিলেন।",
+  "real_life_en": "A sincere seeker searches for truth and, when finding it, accepts it without delay. She openly commits to living by faith and serving Allah alongside other believers.",
+  "real_life_bn": "সত্যের পথ খুঁজে পেলে কালবিলম্ব না করে তা গ্রহণ করা উচিত। হাওয়ারীদের মতো একজন বিশ্বাসী সর্বদা আল্লাহর নির্দেশের সামনে নিজেকে সম্পূর্ণ সমর্পণ করে জীবন পরিচালনা করে।",
+  "context_en": "Highlights the sincere response of the disciples when inspired to embrace true faith.",
+  "context_bn": "আল্লাহর ইলহাম পেয়ে হাওয়ারীদের খাঁটি বিশ্বাস ও আনুগত্য প্রকাশের বিবরণ।",
+  "themes": [
+    "faith",
+    "prophethood",
+    "guidance"
+  ],
+  "kinds": [
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Isa (peace be upon him)",
+      "the Disciples (Hawariyyun)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah inspired the disciples of Isa (peace be upon him) to believe in Him and His messenger.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "The disciples affirmed their faith and bore witness to being Muslims in complete submission to Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

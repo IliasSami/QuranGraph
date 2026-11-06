@@ -1,0 +1,81 @@
+{
+  "id": "20:85",
+  "simple_en": "God told Moses that his people were tested while he was away. A man named Samiri had led them into error by making an idol to worship.",
+  "simple_bn": "আল্লাহ মূসাকে জানালেন: তোমার প্রস্থানের পর আমরা তোমার সম্প্রদায়কে পরীক্ষায় ফেলেছি এবং সামিরি তাদের স্বর্ণের গোবৎস পূজায় লিপ্ত করে পথভ্রষ্ট করেছে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "فتن",
+      "lemma": "فَتَنَ",
+      "meaning_en": "We tested",
+      "meaning_bn": "আমরা পরীক্ষা করেছি",
+      "why_en": "Divine trial exposing weak and unstable faith."
+    },
+    {
+      "pos": 8,
+      "root": "ضلل",
+      "lemma": "أَضَلَّ",
+      "meaning_en": "he led them astray",
+      "meaning_bn": "সে তাদের বিভ্রান্ত করল",
+      "why_en": "Misleading people into idolatrous polytheism."
+    },
+    {
+      "pos": 9,
+      "root": "سمر",
+      "lemma": "سَّامِرِيّ",
+      "meaning_en": "the Samiri",
+      "meaning_bn": "সামিরি",
+      "why_en": "The instigator of the golden calf worship."
+    }
+  ],
+  "lesson_en": "Faith can slip fast when we do not take care. Guard your heart against false ways.",
+  "lesson_bn": "অন্তরে তাওহিদের শিকড় মজবুত না থাকলে অভিভাবক বা শিক্ষকের সামান্য অনুপস্থিতিতেও মানুষ বিভ্রান্ত হতে পারে।",
+  "real_life_en": "Build your faith on deep thought. Do not let peers pull you away from truth when leaders are gone.",
+  "real_life_bn": "নিজের ঈমানকে সরাসরি আল্লাহর সাথে যুক্ত করুন, যেন কোনো ব্যক্তির অনুপস্থিতিতে আপনার দ্বীনি পথচলা ব্যাহত না হয়।",
+  "themes": [
+    "trial-of-faith",
+    "samiri",
+    "golden-calf",
+    "musa"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Samiri"
+    ],
+    "nations": [
+      "Bani Isra'il"
+    ],
+    "places": [
+      "Mount Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Trial of Golden Calf"
+    ],
+    "things": [
+      "golden calf"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God revealed to Moses that the Samiri had led the Israelites into the sin of worshipping the calf.",
+      "claim_bn": "আল্লাহ মূসাকে জানান যে তাঁর অনুপস্থিতিতে সামিরি বনি ইসরাইলকে গোবৎস পূজার মাধ্যমে পথভ্রষ্ট করেছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

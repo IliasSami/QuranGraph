@@ -1,0 +1,82 @@
+{
+  "id": "7:66",
+  "simple_en": "The proud chiefs of 'Ad rejected Hud with insults. They said he was foolish for preaching against idols. They thought he was out of his mind. They also claimed he was lying about his mission from God.",
+  "simple_bn": "আ'দ সম্প্রদায়ের কাফির নেতৃবৃন্দ হূদ (আলাইহিস সালাম)-এর কথা শুনে অত্যন্ত ঔদ্ধত্যপূর্ণ আচরণ করল। তারা বলল যে তারা তাঁকে চরম নির্বুদ্ধিতা ও মূর্খতার মধ্যে দেখতে পাচ্ছে। তারা আরও দাবি করল যে তাদের ধারণা মতে তিনি একজন মিথ্যাবাদী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ملأ",
+      "lemma": "مَلَأ",
+      "meaning_en": "the eminent leaders or chiefs",
+      "meaning_bn": "প্রধান বা নেতৃবর্গ",
+      "why_en": "Identifies the wealthy and arrogant leaders who led the opposition."
+    },
+    {
+      "pos": 10,
+      "root": "سفه",
+      "lemma": "سَفاهَة",
+      "meaning_en": "foolishness or lack of wisdom",
+      "meaning_bn": "নির্বুদ্ধিতা বা মূর্খতা",
+      "why_en": "Reflects their disrespectful insult accusing the prophet of being foolish."
+    },
+    {
+      "pos": 14,
+      "root": "كذب",
+      "lemma": "كاذِب",
+      "meaning_en": "the liars",
+      "meaning_bn": "মিথ্যাবাদী দল",
+      "why_en": "Shows their slanderous charge claiming that Hud fabricated his revelation."
+    }
+  ],
+  "lesson_en": "Proud people mock the truth when they cannot answer it.",
+  "lesson_bn": "সত্যের স্পষ্ট যুক্তির সামনে হেরে গিয়ে অহংকারী ব্যক্তিরা সাধারণত অপবাদের আশ্রয় নেয়।",
+  "real_life_en": "When you stand for what is right, some people may mock you and question your intelligence. Do not let their insults make you waver. Stand firm with dignity and trust in God.",
+  "real_life_bn": "ন্যায্য কথা বললে অনেকে আপনার বুদ্ধি ও উদ্দেশ্য নিয়ে কটূক্তি করতে পারে। এমন তিরস্কারে মন খারাপ করবেন না। আত্মমর্যাদা বজায় রেখে সত্যের ওপর স্থির থাকুন।",
+  "context_en": "The disbelieving elites of 'Ad mock Hud with accusations of stupidity and falsehood instead of weighing his evidence.",
+  "context_bn": "আ'দ জাতির অহংকারী নেতারা হূদ (আলাইহিস সালাম)-এর প্রমাণের উত্তর না দিয়ে তাঁকে নির্বোধ ও মিথ্যাবাদী বলে অপবাদ দেয়।",
+  "themes": [
+    "arrogance",
+    "insult",
+    "Hud",
+    "'Ad",
+    "rejection"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Hud"
+    ],
+    "nations": [
+      "'Ad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelieving leaders of 'Ad accused Hud of being foolish for calling them to abandon their idols.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "They insolently alleged that Hud was among the liars regarding his claim to divine prophethood.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

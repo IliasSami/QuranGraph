@@ -1,0 +1,69 @@
+{
+  "id": "27:7",
+  "simple_en": "In the dark desert night, Moses noticed a distant fire. He told his family to wait while he went to seek directions for their travel or bring back a burning torch to give them warmth.",
+  "simple_bn": "মরুভূমির অন্ধকার রাতে মুসা দূর পাহাড়ে আগুন দেখতে পেয়েছিলেন। তিনি পরিবারের সবাইকে অপেক্ষা করতে বলে আগুন থেকে পথের সন্ধান নিতে অথবা পরিবারকে উষ্ণ রাখার জন্য জ্বলন্ত অঙ্গার আনতে গেলেন।",
+  "key_words": [
+    {
+      "pos": 7,
+      "arabic": "نَارًا",
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "a fire",
+      "meaning_bn": "আগুন",
+      "why_en": "The fire Moses saw in the desert."
+    },
+    {
+      "pos": 13,
+      "arabic": "بِشِهَابٍ",
+      "root": "شهب",
+      "lemma": "شِهاب",
+      "meaning_en": "a burning torch",
+      "meaning_bn": "জ্বলন্ত অঙ্গার",
+      "why_en": "A flaming brand to provide warmth and light."
+    }
+  ],
+  "lesson_en": "A good leader cares for the safety of his family. He seeks light and guidance when times are dark.",
+  "lesson_bn": "দায়িত্বশীল মানুষ সবসময় পরিবারের নিরাপত্তা ও প্রয়োজনের দিকে সতর্ক দৃষ্টি রাখে।",
+  "real_life_en": "Look after the needs of your family members with warmth and care. Take practical steps to provide for their safety and comfort.",
+  "real_life_bn": "পরিবারের সদস্যদের শারীরিক ও মানসিক সুরক্ষার যত্ন নিন। জীবনের কঠিন মুহূর্তে তাদের জন্য প্রয়োজনীয় উপায় খুঁজে আনুন।",
+  "themes": [
+    "musa",
+    "family",
+    "prophethood"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Moses"
+    ],
+    "nations": [],
+    "places": [
+      "Mount Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "fire",
+      "torch"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Moses perceived a fire in the desert and went to seek guidance or a burning torch for his family.",
+      "claim_bn": "মরুভূমির রাতে মুসা আগুন দেখে পরিবারের জন্য পথের খবর অথবা আগুন পোহানোর জন্য অঙ্গার আনতে গিয়েছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "34:7",
+  "simple_en": "The disbelievers made fun of the truth. They asked if anyone wanted to see a man who speaks of life after death. They laughed at the idea of being made new after turning into dust.",
+  "simple_bn": "কাফেররা বিদ্রূপ করে একে অপরকে বলত যে তারা কি এমন ব্যক্তির সন্ধান চায়, যে দাবি করে মানুষ মৃত্যুর পর আবার জীবিত হবে? তারা দেহ মাটিতে মিশে যাওয়ার পর নতুন সৃষ্টির ধারণাকে উপহাস করত।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "دلل",
+      "lemma": "دَلَّ",
+      "meaning_en": "direct you / show you",
+      "meaning_bn": "সন্ধান দেওয়া",
+      "why_en": "Captures the sarcastic tone of the disbelievers pointing toward the Prophet."
+    },
+    {
+      "pos": 12,
+      "root": "مزق",
+      "lemma": "مُمَزَّق",
+      "meaning_en": "disintegrated / torn to pieces",
+      "meaning_bn": "ছিন্নভিন্ন হয়ে যাওয়া",
+      "why_en": "Depicts the complete physical decay of bones and dust in the grave."
+    }
+  ],
+  "lesson_en": "People often mock the truth when they do not want to face it.",
+  "lesson_bn": "পরকালের সত্যকে এড়িয়ে চলার জন্য সত্য অস্বীকারকারীরা প্রায়ই উপহাসের আশ্রয় নেয়।",
+  "real_life_en": "When people make fun of your faith or moral values, do not feel down. Remember that truth outlasts mockery, just as it did in the past.",
+  "real_life_bn": "কেউ আপনার ধর্মীয় মূল্যবোধ নিয়ে উপহাস করলে ভেঙে পড়বেন না। ধৈর্য ধরুন, কারণ সত্য সব সময় উপহাসের ওপর বিজয়ী হয়।",
+  "themes": [
+    "disbelief",
+    "resurrection",
+    "hereafter",
+    "arrogance"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelievers mocked the Prophet for informing them that humans will be resurrected into a new creation after death and decay.",
+      "claim_bn": "কাফেররা মৃত্যুর পর দেহ মাটিতে মিশে যাওয়ার পর পুনরুত্থানের সংবাদ দেওয়ায় নবীকে নিয়ে উপহাস করত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

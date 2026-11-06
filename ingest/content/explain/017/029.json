@@ -1,0 +1,61 @@
+{
+  "id": "17:29",
+  "simple_en": "Do not keep your hand tied to your neck in stinginess, nor open it all the way in waste. If you do, you will sit blamed and empty-handed.",
+  "simple_bn": "তোমার হাত যেন কৃপণতাবশত গলার সাথে বাঁধা না থাকে এবং তা একেবারেই সম্পূর্ণ উন্মুক্তও করে দিও না। অন্যথায় তুমি নিন্দিত ও নিঃস্ব হয়ে বসে পড়বে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "غلل",
+      "lemma": "مَغْلُولَة",
+      "meaning_en": "shackled and tied",
+      "meaning_bn": "বাঁধা বা শৃঙ্খলিত",
+      "why_en": "Metaphor for extreme stinginess."
+    },
+    {
+      "pos": 3,
+      "root": "يدي",
+      "lemma": "يَد",
+      "meaning_en": "your hand",
+      "meaning_bn": "তোমার হাত",
+      "why_en": "The instrument of spending and giving."
+    }
+  ],
+  "lesson_en": "Balance is the golden rule of spending. Avoid both tight-fisted greed and reckless extravagance.",
+  "lesson_bn": "অর্থ ব্যয়ে মধ্যপন্থা অবলম্বন করাই সর্বোত্তম নীতি। কৃপণতা ও অপব্যয় উভয়ই মানুষের ক্ষতি ডেকে আনে।",
+  "real_life_en": "Keep a simple budget each month. Save enough for your home, and give small amounts of charity to help those in need.",
+  "real_life_bn": "আয়-ব্যয়ের ভারসাম্য বজায় রাখুন। পরিবার ও ভবিষ্যতের জন্য সঞ্চয় করার পাশাপাশি সাধ্যমতো দান করুন।",
+  "themes": [
+    "moderation",
+    "spending",
+    "balance"
+  ],
+  "kinds": [
+    "command",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers are commanded to practice moderation, avoiding stinginess and wasteful overspending.",
+      "claim_bn": "কৃপণতা এবং অতিরিক্ত অপব্যয় উভয় বর্জন করে ব্যয়ে মধ্যপন্থা অবলম্বনের নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "16:64",
+  "simple_en": "We sent down the Book to you only so you make clear what they argued about. It is guidance and mercy for people who believe.",
+  "simple_bn": "আমরা আপনার প্রতি কিতাব অবতীর্ণ করেছি কেবল এজন্য যাতে তারা যে বিষয়ে মতভেদ করত তা তাদের স্পষ্ট করে দেন এবং এটি মুমিনদের জন্য হেদায়েত ও রহমত।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "بين",
+      "lemma": "بَيَّنُ",
+      "meaning_en": "to make clear",
+      "meaning_bn": "স্পষ্ট করার জন্য",
+      "why_en": "Resolving doctrinal doubts through scripture."
+    },
+    {
+      "pos": 11,
+      "root": "هدي",
+      "lemma": "هُدًى",
+      "meaning_en": "guidance",
+      "meaning_bn": "হেদায়েত",
+      "why_en": "Scripture directing souls toward salvation."
+    }
+  ],
+  "lesson_en": "The Quran settles disputes about faith. It serves as light and mercy for believers.",
+  "lesson_bn": "কোরআন সকল ধর্মীয় মতভেদের চূড়ান্ত সমাধানকারী এবং বিশ্বাসীদের জন্য পথপ্রদর্শক ও বিশেষ রহমত।",
+  "real_life_en": "When you face moral confusion, turn to the Quran. Its clear teachings will restore peace to your heart.",
+  "real_life_bn": "জীবনের যেকোনো দ্বন্দ্বে কোরআনের বাণীর শরণাপন্ন হোন। এটি আপনাকে সঠিক পথের সন্ধান ও প্রশান্তি দেবে।",
+  "themes": [
+    "quran",
+    "guidance",
+    "mercy"
+  ],
+  "kinds": [
+    "command",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Book was revealed to clarify disagreements and serve as guidance and mercy for believers.",
+      "claim_bn": "মতভেদ নিরসন এবং মুমিনদের হেদায়েত ও রহমত হিসেবে এই কিতাব অবতীর্ণ করা হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

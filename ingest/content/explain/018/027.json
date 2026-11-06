@@ -1,0 +1,66 @@
+{
+  "id": "18:27",
+  "simple_en": "Recite what has been revealed to you from the Book of your Lord. No one can ever change His words, and you will find no refuge besides Him.",
+  "simple_bn": "আপনার প্রতি আপনার রবের পক্ষ থেকে যে কিতাব ওহী করা হয়েছে তা পাঠ করুন। তাঁর বাণী পরিবর্তনের কেউ নেই এবং তিনি ছাড়া কোনো আশ্রয় পাবেন না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "recite",
+      "meaning_bn": "পাঠ করুন",
+      "why_en": "Command to proclaim and reflect upon the divine Book."
+    },
+    {
+      "pos": 9,
+      "root": "بدل",
+      "lemma": "مُبَدِّل",
+      "meaning_en": "one who can change",
+      "meaning_bn": "পরিবর্তনকারী",
+      "why_en": "Divine words are protected and cannot be altered."
+    }
+  ],
+  "lesson_en": "God words are eternal and unchangeable. True safety is found only in following His pure guidance.",
+  "lesson_bn": "আল্লাহর বাণী চিরন্তন ও অপরিবর্তনীয়। একমাত্র তাঁর নির্দেশ অনুসরণেই মানুষের আসল মুক্তি।",
+  "real_life_en": "Turn to the Quran for timeless truth. When the world changes rapidly, build your life upon God unchanging words.",
+  "real_life_bn": "প্রতিদিন মনোযোগ দিয়ে কোরআন তিলাওয়াত করুন। পার্থিব পরিবর্তনের মাঝে আল্লাহর বাণীর ওপর নিজের জীবন গড়ে তুলুন।",
+  "themes": [
+    "quran-recitation",
+    "unchanging-words",
+    "divine-protection",
+    "seeking-refuge"
+  ],
+  "kinds": [
+    "command",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet is commanded to recite the Quran revealed by his Lord, whose words cannot be altered by anyone.",
+      "claim_bn": "আল্লাহর পক্ষ থেকে প্রেরিত বাণী পাঠের নির্দেশ দেওয়া হয়েছে এবং তাঁর কথার পরিবর্তন করার কেউ নেই।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

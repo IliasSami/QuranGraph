@@ -1,0 +1,63 @@
+{
+  "id": "25:4",
+  "simple_en": "Those who reject faith claim that the Quran is only a lie that the Prophet made up with help from others. By saying this, they speak great falsehood and commit a grave wrong against the truth.",
+  "simple_bn": "অবিশ্বাসীরা বলে যে, এই কুরআন এক চরম মিথ্যা ছাড়া আর কিছুই নয় যা রাসূল নিজে বানিয়েছেন এবং অন্য লোকেরা তাকে এতে সাহায্য করেছে। তাদের এই দাবি সম্পূর্ণ অন্যায় ও বানোয়াট।",
+  "key_words": [
+    {
+      "pos": 7,
+      "arabic": "إِفْكٌ",
+      "root": "أفك",
+      "lemma": "إِفْك",
+      "meaning_en": "a falsehood",
+      "meaning_bn": "চরম মিথ্যা বা বানোয়াট কথা",
+      "why_en": "A fabricated lie concocted to oppose divine truth."
+    },
+    {
+      "pos": 15,
+      "arabic": "ظُلْمًا",
+      "root": "ظلم",
+      "lemma": "ظُلْم",
+      "meaning_en": "injustice",
+      "meaning_bn": "অন্যায় বা অবিচার",
+      "why_en": "Transgression against truth and reality."
+    }
+  ],
+  "lesson_en": "Critics often make up excuses to reject divine truth. Making false claims against God's word is an act of deep injustice.",
+  "lesson_bn": "সত্যকে অস্বীকার করতে অবিশ্বাসীরা প্রায়ই ভিত্তিহীন অভিযোগ তোলে। আল্লাহর বাণীর বিরুদ্ধে অপবাদ দেওয়া এক গুরুতর অন্যায়।",
+  "real_life_en": "Read the Quran with an honest mind instead of repeating hostile rumors. Seek truth directly from divine guidance.",
+  "real_life_bn": "অন্যের মুখে শোনা গুজবে কান না দিয়ে নিজে কুরআন বুঝে পড়ুন। পক্ষপাতহীন মন নিয়ে সত্যের সন্ধান করুন।",
+  "themes": [
+    "quran",
+    "denial",
+    "justice"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Disbelievers claim the Quran is an invented lie assisted by others, but they have produced an injustice and a falsehood.",
+      "claim_bn": "কাফেররা দাবি করে যে কুরআন একটি মনগড়া মিথ্যা যাতে অন্যরা তাকে সাহায্য করেছে, অথচ তারা নিজেরাই চরম অন্যায় ও অসত্য নিয়ে এসেছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

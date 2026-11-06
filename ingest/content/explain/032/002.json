@@ -1,0 +1,61 @@
+{
+  "id": "32:2",
+  "simple_en": "This holy book is sent down without any doubt from the Lord of all creation. There is no error in its words and no falsehood in its teachings. It brings truth and light to every person who seeks guidance.",
+  "simple_bn": "এই পবিত্র গ্রন্থ নিখিল বিশ্বের প্রতিপালক আল্লাহর পক্ষ থেকে অবতীর্ণ। এর সত্যতা ও বাণীর মধ্যে কোনো প্রকার সন্দেহ বা অসঙ্গতি নেই। যারা সত্যের সন্ধান করে, এটি তাদের অন্তরে হিদায়াতের আলো দান করে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نزل",
+      "lemma": "تَنزِيل",
+      "meaning_en": "revelation / sending down",
+      "meaning_bn": "নাযিলকৃত কিতাব",
+      "why_en": "Affirms that the Quran is descended directly from God."
+    },
+    {
+      "pos": 4,
+      "root": "ريب",
+      "lemma": "رَيْب",
+      "meaning_en": "doubt / suspicion",
+      "meaning_bn": "কোনো প্রকার সন্দেহ",
+      "why_en": "Asserts the complete certainty and purity of the Quranic text."
+    }
+  ],
+  "lesson_en": "The Quran is a divine revelation free from all doubt, sent by the Lord of the worlds.",
+  "lesson_bn": "কুরআন বিশ্বজগতের রবের পক্ষ থেকে নাযিল হওয়া এক চিরন্তন ও সন্দেহাতীত সত্য কিতাব।",
+  "real_life_en": "Turn to the Quran whenever you face confusion. Trust its clear message to guide your steps toward what is right and good.",
+  "real_life_bn": "জীবনে কোনো বিভ্রান্তি দেখা দিলে কুরআনের শরণাপন্ন হন। সত্য ও ন্যায়ের পথে চলার জন্য এর সুস্পষ্ট নির্দেশনার ওপর ভরসা রাখুন।",
+  "themes": [
+    "quran",
+    "certainty",
+    "lordship-of-allah"
+  ],
+  "kinds": [
+    "belief",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The revelation of the Quran is free of all doubt and comes directly from the Lord of all creation.",
+      "claim_bn": "কুরআন যে সৃষ্টিকুলের রবের পক্ষ থেকে নাযিল হওয়া সন্দেহাতীত কিতাব, তা এই আয়াতে নিশ্চিত করা হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

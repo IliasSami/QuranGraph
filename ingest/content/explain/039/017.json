@@ -1,0 +1,80 @@
+{
+  "id": "39:17",
+  "simple_en": "Those who stay away from false deities and refuse to worship idols, turning back to Allah in true repentance, will receive joyful news. Give good tidings to My faithful servants who seek truth and dedicate their hearts to God alone.",
+  "simple_bn": "আর যারা তাগুত ও মিথ্যা উপাস্যের পূজা করা থেকে দূরে থাকে এবং একনিষ্ঠভাবে আল্লাহর দিকে ফিরে আসে, তাদের জন্য রয়েছে আনন্দের সুসংবাদ। অতএব সুসংবাদ দিন আমার সেই বান্দাদের, যারা সত্যান্বেষী এবং যাদের হৃদয় কেবল আল্লাহর অনুগত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جنب",
+      "lemma": "اجْتَنَبُ",
+      "meaning_en": "they avoided",
+      "meaning_bn": "তারা দূরে থেকেছে",
+      "why_en": "Highlights deliberate resistance and avoidance of all idolatrous ways."
+    },
+    {
+      "pos": 3,
+      "root": "طغي",
+      "lemma": "طاغُوت",
+      "meaning_en": "false deities / Taghut",
+      "meaning_bn": "তাগুত বা মিথ্যা উপাস্য",
+      "why_en": "Refers to all idols, tyrants, or beings worshiped alongside Allah."
+    },
+    {
+      "pos": 6,
+      "root": "نوب",
+      "lemma": "أَنابَ",
+      "meaning_en": "they turned in repentance",
+      "meaning_bn": "তারা অভিমুখী হয়েছে",
+      "why_en": "Describes the returning of the faithful soul to the Creator."
+    },
+    {
+      "pos": 10,
+      "root": "بشر",
+      "lemma": "بُشْرَى",
+      "meaning_en": "the glad tidings",
+      "meaning_bn": "সুসংবাদ",
+      "why_en": "Promises eternal joy and divine pleasure for the sincere monotheists."
+    }
+  ],
+  "lesson_en": "Leave false idols and turn to Allah. He gives good news to all who follow Him.",
+  "lesson_bn": "মিথ্যা উপাসনা ত্যাগ করে খাঁটি অন্তরে আল্লাহর দিকে ফিরে আসা মানুষের জন্য চিরন্তন আনন্দের সুসংবাদ নিয়ে আসে।",
+  "real_life_en": "Distance yourself from environments that promote disbelief or corrupt morals. Turn your attention to God and expect His blessings in return.",
+  "real_life_bn": "অন্যায় ও পাপের পরিবেশ থেকে নিজেকে দূরে রাখুন। একমাত্র আল্লাহর সন্তুষ্টির পথে ফিরে আসুন এবং তাঁর অফুরন্ত অনুগ্রহের আশা রাখুন।",
+  "themes": [
+    "rejecting falsehood",
+    "repentance",
+    "glad tidings",
+    "tawhid"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "promise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Those who avoid false gods and turn to Allah have glad tidings, and the Prophet is told to bring them good news.",
+      "claim_bn": "যারা তাগুত বর্জন করে আল্লাহর অভিমুখী হয় তাদের জন্য সুসংবাদ রয়েছে এবং তাদের সুসংবাদ দিতে বলা হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

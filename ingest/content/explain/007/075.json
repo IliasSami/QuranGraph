@@ -1,0 +1,84 @@
+{
+  "id": "7:75",
+  "simple_en": "The proud chiefs of Thamud spoke to the poor believers. They asked if they really thought Salih was a messenger from God. The humble believers stood firm. They said they believed with all their hearts in the message sent with Salih.",
+  "simple_bn": "সামূদ জাতির অহংকারী নেতারা তাদের মধ্যকার দুর্বল মুমিনদের লক্ষ্য করে কথা বলল। তারা জানতে চাইল, তারা কি সত্যিই বিশ্বাস করে যে সালিহ আল্লাহর প্রেরিত রাসূল। ঈমানদাররা নির্ভীকভাবে জানিয়ে দিল যে সালিহের আনীত বাণীতে তারা পূর্ণ বিশ্বাস রাখে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كبر",
+      "lemma": "اسْتَكْبَرَ",
+      "meaning_en": "were arrogant",
+      "meaning_bn": "অহংকার করেছিল",
+      "why_en": "Describes the wealthy leaders who felt too proud to accept the truth."
+    },
+    {
+      "pos": 8,
+      "root": "ضعف",
+      "lemma": "اسْتَضْعَفُ",
+      "meaning_en": "were oppressed or considered weak",
+      "meaning_bn": "দুর্বল ও নিপীড়িত ভাবা হয়েছিল",
+      "why_en": "Identifies the socially weak believers who embraced faith despite social pressure."
+    },
+    {
+      "pos": 23,
+      "root": "أمن",
+      "lemma": "مُؤْمِن",
+      "meaning_en": "believers",
+      "meaning_bn": "বিশ্বাসী বা মুমিন",
+      "why_en": "Highlights their brave and steadfast confession of faith in the divine message."
+    }
+  ],
+  "lesson_en": "Stand firm in your faith, even when proud people mock you.",
+  "lesson_bn": "অহংকারী মানুষের উপহাস সত্ত্বেও নিজের ঈমানের ওপর অবিচল থাকুন।",
+  "real_life_en": "Money and rank do not make a person better than others. When people mock your faith, do not give in. True honor comes from loving God and doing what is right.",
+  "real_life_bn": "অর্থবিত্ত বা পদমর্যাদা মানুষকে বড় করে না। কেউ আপনার দ্বীন নিয়ে উপহাস করলেও দমে যাবেন না। আল্লাহর ভালোবাসা ও ন্যায়ের পথে চলাই আসল সম্মান।",
+  "context_en": "A confrontation between the arrogant chiefs of Thamud and the vulnerable believers who bravely stand by Salih.",
+  "context_bn": "সামূদ জাতির অহংকারী নেতাদের ব্যঙ্গাত্মক প্রশ্ন এবং নিপীড়িত ঈমানদারদের সাহসী প্রত্যয় ঘোষণা।",
+  "themes": [
+    "faith",
+    "arrogance",
+    "courage",
+    "the oppressed",
+    "Thamud",
+    "Salih"
+  ],
+  "kinds": [
+    "story",
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Salih"
+    ],
+    "nations": [
+      "Thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The arrogant chiefs of Thamud challenged the oppressed believers about whether they truly believed in Salih's mission.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "The believers courageously declared that they had firm faith in the message Salih was sent with.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

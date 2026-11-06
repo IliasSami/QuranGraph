@@ -1,0 +1,78 @@
+{
+ "id": "3:143",
+ "simple_en": "Before the battle, many of you wished for a chance to fight and gain martyrdom like the martyrs of Badr. Now you have witnessed the harsh reality of war with your own eyes. True courage is not just wishing for honor beforehand. It means standing firm when the danger actually arrives.",
+ "simple_bn": "যুদ্ধের আগে তোমাদের অনেকেই বদরের শহীদদের মতো শাহাদাতের মর্যাদা পাওয়ার তীব্র আকাঙ্ক্ষা করছিলে। এখন তোমরা নিজেদের চোখে যুদ্ধের কঠিন বাস্তবতা এবং মৃত্যু প্রত্যক্ষ করেছ। দূর থেকে বীরত্বের কামনা করা সহজ, কিন্তু প্রকৃত সাহসিকতা হলো বিপদের মুখোমুখি দাঁড়িয়ে অবিচল থাকা।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "مني",
+   "lemma": "يَتَمَنَّ",
+   "meaning_en": "you used to wish for",
+   "meaning_bn": "তোমরা কামনা করতে",
+   "why_en": "Refers to the desire for martyrdom that some believers expressed before facing actual combat."
+  },
+  {
+   "pos": 4,
+   "root": "موت",
+   "lemma": "مَوْت",
+   "meaning_en": "death",
+   "meaning_bn": "মৃত্যু",
+   "why_en": "Points to meeting death for the sake of Allah as a martyr."
+  },
+  {
+   "pos": 12,
+   "root": "نظر",
+   "lemma": "نَظَرَ",
+   "meaning_en": "you were looking on",
+   "meaning_bn": "তোমরা দেখছিলে",
+   "why_en": "Emphasizes facing the stark reality of battle firsthand with one's own eyes."
+  }
+ ],
+ "lesson_en": "True faith is shown by staying firm when danger arrives, not just by wishing for it.",
+ "lesson_bn": "আদর্শের প্রকৃত প্রমাণ পাওয়া যায় বিপদের মুখোমুখি দাঁড়িয়ে দৃঢ় থাকার মাধ্যমে, কেবল মুখের কথায় নয়।",
+ "real_life_en": "You might offer to help a friend or join a big project. But when the work gets hard and the hours get long, you feel like quitting. A true believer keeps their word. Stay firm and finish what you started with a good heart.",
+ "real_life_bn": "কোনো সামাজিক দায়িত্ব নেওয়া বা আত্মীয়কে সাহায্য করার আগ্রহ প্রকাশ করা সহজ। কিন্তু কাজের চাপ ও ক্লান্তি বাড়লে অনেকে পিছিয়ে পড়ে। একজন মুমিন তার ভালো নিয়ত ধরে রাখে এবং পরিস্থিতি কঠিন হলেও দায়িত্ব বিশ্বস্ততার সাথে পালন করে।",
+ "context_en": "This ayah addresses believers who missed Badr and longed to show their bravery at Uhud, reminding them that claiming courage is different from proving it in crisis.",
+ "context_bn": "বদরে অংশ নিতে না পারা যে সকল সাহাবী উহুদে শাহাদাত লাভের তীব্র ইচ্ছা প্রকাশ করেছিলেন, তাঁদের স্মরণ করিয়ে দেওয়া হচ্ছে যে মুখে আশা করা আর বাস্তবে দৃঢ় থাকা এক নয়।",
+ "themes": [
+  "struggle in Allah's way",
+  "trials",
+  "patience",
+  "honesty",
+  "the believers' qualities",
+  "death"
+ ],
+ "kinds": [
+  "address",
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Battle of Uhud"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers wished for martyrdom before meeting the enemy, but were reminded to be steadfast when witnessing the reality of battle.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

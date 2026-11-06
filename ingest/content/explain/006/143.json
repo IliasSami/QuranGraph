@@ -1,0 +1,82 @@
+{
+  "id": "6:143",
+  "simple_en": "Allah created eight kinds of livestock in four pairs: two of sheep and two of goats. Tell the idolaters to explain their superstition. Did Allah forbid the two males, the two females, or what their wombs carry? If maleness or femaleness makes an animal forbidden, both should be banned. Produce sound proof based on knowledge if you speak the truth.",
+  "simple_bn": "আল্লাহ আট প্রকারের গবাদিপশু সৃষ্টি করেছেন: দুই প্রকারের ভেড়া এবং দুই প্রকারের ছাগল। আপনি মুশরিকদের যুক্তিহীন দাবি খণ্ডন করে প্রশ্ন করুন। আল্লাহ কি এগুলোর নর পশুকে হারাম করেছেন, নাকি মাদী পশুকে, নাকি তাদের পেটের বাচ্চাকে? যদি নর বা মাদী হওয়ার কারণে হারাম হতো, তবে উভয়ই নিষিদ্ধ হতো। সত্যবাদী হলে কোনো নির্ভরযোগ্য জ্ঞানের প্রমাণ পেশ করো।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "زوج",
+      "lemma": "زَوْج",
+      "meaning_en": "pairs",
+      "meaning_bn": "জোড়া",
+      "why_en": "Refers to the male and female pairs created within each livestock species."
+    },
+    {
+      "pos": 4,
+      "root": "ضأن",
+      "lemma": "ضَأْن",
+      "meaning_en": "sheep",
+      "meaning_bn": "ভেড়া",
+      "why_en": "Specifies sheep as one of the four pairs of cattle provided by Allah."
+    },
+    {
+      "pos": 17,
+      "root": "رحم",
+      "lemma": "أَرْحام",
+      "meaning_en": "wombs",
+      "meaning_bn": "গর্ভাশয়",
+      "why_en": "Highlights that offspring in the womb carry no natural basis for arbitrary bans."
+    }
+  ],
+  "lesson_en": "Divine laws come from Allah alone. Never follow human guesses or cultural myths in religion.",
+  "lesson_bn": "হালাল-হারামের বিধান আসমানি ওহির ওপর প্রতিষ্ঠিত হতে হবে। ভিত্তিহীন অনুমান দিয়ে কোনো কিছু নিষিদ্ধ করা যায় না।",
+  "real_life_en": "Base your faith on sound knowledge. When someone claims a food or action is forbidden, ask for clear proof. Do not accept baseless bans that make life hard without proof from the Quran and Sunnah.",
+  "real_life_bn": "ধর্মীয় ব্যাপারে কোনো কথা গ্রহণ করার আগে নির্ভরযোগ্য প্রমাণ দেখে নিন। কেউ কোনো খাবার বা অভ্যাসকে নিষিদ্ধ দাবি করলে কুরআন ও সুন্নাহর দলিল জানতে চান। ভিত্তিহীন অন্ধবিশ্বাস সমাজকে অনর্থক কষ্টে ফেলে।",
+  "context_en": "Allah uses logic to dismantle pagan traditions that declared certain male or female sheep and goats forbidden.",
+  "context_bn": "মুশরিকরা ভেড়া ও ছাগলের নর বা মাদীকে নিজেদের খেয়ালখুশিমতো নিষিদ্ধ করত। আল্লাহ তাদের এই যুক্তিহীনতা স্পষ্ট করেছেন।",
+  "themes": [
+    "argument",
+    "shirk",
+    "knowledge",
+    "creation"
+  ],
+  "kinds": [
+    "argument",
+    "address"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "sheep",
+      "goats"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah created four pairs of small livestock, comprising male and female sheep and goats.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "The Prophet is instructed to challenge the idolaters to justify their arbitrary bans with factual knowledge.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "10:36",
+  "simple_en": "Most of them follow nothing but guesswork. But guesswork can never replace the truth in any way. Indeed, Allah knows well all that they do.",
+  "simple_bn": "আর তাদের অধিকাংশ লোক কেবল অনুমানেরই অনুসরণ করে। অথচ সত্যের মোকাবিলায় অনুমান কোনো কাজেই আসে না। নিশ্চয় তারা যা করে আল্লাহ সে সম্পর্কে সম্যক অবগত।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "ظنن",
+      "lemma": "ظَنّ",
+      "meaning_en": "guesswork / conjecture",
+      "meaning_bn": "অনুমান / ধারণা",
+      "why_en": "Unsubstantiated myths and family customs passing as truth."
+    },
+    {
+      "pos": 9,
+      "root": "غني",
+      "lemma": "أَغْنَتْ",
+      "meaning_en": "can never replace / avail",
+      "meaning_bn": "কোনো উপকারে আসে না / স্থলাভিষিক্ত হয় না",
+      "why_en": "Inability of guesswork to establish factual certainty."
+    },
+    {
+      "pos": 11,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "Solid reality proven by scripture and sound reason."
+    }
+  ],
+  "lesson_en": "Base your life on verified truth, not on rumors and guesswork.",
+  "lesson_bn": "নিজের বিশ্বাস ও সিদ্ধান্তকে বাস্তব সত্যের ওপর দাঁড় করান, অনুমানের ওপর নয়।",
+  "real_life_en": "Do not trust rumors you hear on the internet or on the street. Check the facts for yourself before you judge anyone.",
+  "real_life_bn": "শোনা কথা বা গুজবের ওপর ভিত্তি করে কোনো সিদ্ধান্ত নেবেন না; সত্যতা যাচাই করে তবেই বিশ্বাস করুন।",
+  "themes": [
+    "guesswork versus truth",
+    "danger of conjecture",
+    "divine knowledge"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists",
+      "mankind"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "All-Knowing"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Polytheistic traditions rest entirely on arbitrary conjecture, which holds zero epistemological standing against verified truth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

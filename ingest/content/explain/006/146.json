@@ -1,0 +1,84 @@
+{
+  "id": "6:146",
+  "simple_en": "Allah banned certain foods for the Jews to punish their rebellion. He forbade animals without split hooves, such as camels. He also forbade the fat of cattle and sheep. He only permitted fat on the back, entrails, or bones. This was a penalty for their sins. Allah speaks the truth.",
+  "simple_bn": "আল্লাহ ইহুদিদের অবাধ্যতার শাস্তি হিসেবে কিছু হালাল জিনিস তাদের জন্য নিষিদ্ধ করেছিলেন। তিনি অবিভক্ত খুরবিশিষ্ট পশু যেমন উট তাদের জন্য হারাম করেছিলেন। তিনি গরু ও ছাগলের চর্বিও তাদের ওপর হারাম করেছিলেন, তবে পিঠের সাথে লেগে থাকা, নাড়িভুঁড়ির চর্বি বা হাড়ের সাথে মিশ্রিত চর্বি ছাড়া। তাদের সীমালঙ্ঘনের প্রতিফল হিসেবে এটি করা হয়েছিল, আর আল্লাহ সত্যবাদী।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "ظفر",
+      "lemma": "ظُفُر",
+      "meaning_en": "undivided hoof",
+      "meaning_bn": "নখবিশিষ্ট বা খুরবিহীন পশু",
+      "why_en": "Describes animals without divided hooves, such as camels and ostriches, forbidden to the Jews."
+    },
+    {
+      "pos": 13,
+      "root": "شحم",
+      "lemma": "شُحُوم",
+      "meaning_en": "fats",
+      "meaning_bn": "চর্বি",
+      "why_en": "Identifies animal fat that was made unlawful for the Jews as a disciplinary restriction."
+    },
+    {
+      "pos": 26,
+      "root": "بغي",
+      "lemma": "بَغْي",
+      "meaning_en": "their rebellion",
+      "meaning_bn": "তাদের সীমালঙ্ঘন",
+      "why_en": "States that these restrictions were a divine punishment for their transgression."
+    }
+  ],
+  "lesson_en": "Rebellion against divine guidance can bring deprivation of blessings. Obey Allah to preserve His favours.",
+  "lesson_bn": "আল্লাহর অবাধ্যতা ও সীমালঙ্ঘন অনেক সময় নিয়ামত ছিনিয়ে নেয়। আল্লাহর আনুগত্য করে তাঁর অনুগ্রহ ও বরকত রক্ষা করুন।",
+  "real_life_en": "Remember that persistent sins harm inner peace and remove blessings. When people break moral limits, trouble spreads in society. Obey Allah so that your daily food and work stay blessed.",
+  "real_life_bn": "জেনে রাখুন, ক্রমাগত পাপ ও অবাধ্যতা মানুষের জীবন থেকে বরকত ও শান্তি দূর করে দেয়। অন্যায় ও সীমালঙ্ঘনের কারণে সমাজে নানা সংকট তৈরি হয়। আল্লাহর আদেশ মেনে চললে জীবিকায় বরকত আসে এবং বিপদ দূর হয়।",
+  "context_en": "Allah clarifies that dietary restrictions placed upon the Jewish community were historical penalties for disobedience, unlike general food laws.",
+  "context_bn": "পূর্ববর্তী আয়াতে সাধারণ হালাল-হারামের পর আল্লাহ স্পষ্ট করেছেন যে ইহুদিদের ওপর কিছু বিধিনিষেধ ছিল তাদের অবাধ্যতার শাস্তি।",
+  "themes": [
+    "Children of Israel",
+    "past nations",
+    "punishment",
+    "justice"
+  ],
+  "kinds": [
+    "law",
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Children of Israel",
+      "Jews"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "cattle",
+      "sheep"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah forbade animals with undivided hooves and certain fats to the Jews as a penalty for their rebellion.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "This historical restriction proves that those bans were specific penalties rather than universal prohibitions.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

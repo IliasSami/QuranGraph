@@ -1,0 +1,65 @@
+{
+  "id": "27:34",
+  "simple_en": "The queen warned that kings ruin cities when they enter them by force. They bring low the honored people of the land. She wanted to avoid that harm.",
+  "simple_bn": "রানী সতর্ক করে বলল যে রাজা-বাদশাহরা যখন কোনো জনপদে যুদ্ধ করে প্রবেশ করে, তখন তা ধ্বংস করে দেয় এবং মর্যাদাবান ব্যক্তিদের লাঞ্ছিত করে। এটাই তাদের চিরাচরিত নিয়ম।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "ٱلْمُلُوكَ",
+      "root": "ملك",
+      "lemma": "مَلِك",
+      "meaning_en": "kings",
+      "meaning_bn": "রাজা-বাদশাহরা",
+      "why_en": "Rulers who conquer territories."
+    },
+    {
+      "pos": 7,
+      "arabic": "أَفْسَدُوهَا",
+      "root": "فسد",
+      "lemma": "أَفْسَدُ",
+      "meaning_en": "they ruin it",
+      "meaning_bn": "তারা তা বিপর্যস্ত করে",
+      "why_en": "Destruction and disruption caused by war."
+    }
+  ],
+  "lesson_en": "War brings grief and ruin to towns. A wise leader seeks peace whenever possible.",
+  "lesson_bn": "যুদ্ধ ডেকে আনে ধ্বংস ও মানুষের অবমাননা, তাই বুদ্ধিমান নেতৃত্ব সবসময় শান্তির পথ খোঁজে।",
+  "real_life_en": "Look for calm ways to solve disagreements. Protect the peace and safety of those in your care.",
+  "real_life_bn": "বিরোধ মেটাতে সংঘাতের পথ পরিহার করুন। আলোচনার মাধ্যমে শান্তি ও সম্মান বজায় রাখার চেষ্টা করুন।",
+  "themes": [
+    "war",
+    "kings",
+    "diplomacy"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Queen of Sheba"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Queen observed that conquering kings devastate lands and humiliate their honored inhabitants.",
+      "claim_bn": "রানী সতর্ক করে বলেছিল যে রাজারা যখন জোরপূর্বক কোনো জনপদে প্রবেশ করে তখন তা ধ্বংস করে ও সম্মানিতদের লাঞ্ছিত করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

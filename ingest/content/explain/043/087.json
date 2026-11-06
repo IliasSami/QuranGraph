@@ -1,0 +1,71 @@
+{
+ "id": "43:87",
+ "simple_en": "Ask the pagans who created them, and they admit that Allah made them. Why then do they turn away? If you know He made you, you should worship Him alone.",
+ "simple_bn": "আপনি যদি মুশরিকদের জিজ্ঞেস করেন যে তাদের কে সৃষ্টি করেছে, তবে তারা দ্বিধাহীনভাবে স্বীকার করবে যে আল্লাহই তাদের সৃষ্টি করেছেন। তবে কীভাবে তারা বিভ্রান্ত হয়ে তাঁর ইবাদত থেকে মুখ ফিরিয়ে নেয়। স্রষ্টাকে স্বীকার করার দাবিই হলো কেবল তাঁরই আনুগত্য করা।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "created them",
+   "meaning_bn": "তাদের সৃষ্টি করেছেন",
+   "why_en": "Even pagans recognized Allah as their primary Creator."
+  },
+  {
+   "pos": 6,
+   "root": "أله",
+   "lemma": "اللَّه",
+   "meaning_en": "Allah",
+   "meaning_bn": "আল্লাহ",
+   "why_en": "The proper name of the one true God acknowledged by all."
+  },
+  {
+   "pos": 8,
+   "root": "أفك",
+   "lemma": "أُفِكَ",
+   "meaning_en": "are they deluded (turned away)",
+   "meaning_bn": "তারা বিভ্রান্ত হচ্ছে",
+   "why_en": "Turning away from the recognized Creator is irrational foolishness."
+  }
+ ],
+ "lesson_en": "If you know that Allah made you, then you must worship Him alone.",
+ "lesson_bn": "আল্লাহই যখন আপনার স্রষ্টা, তখন একমাত্র তাঁরই ইবাদত করা আপনার অবশ্য কর্তব্য।",
+ "real_life_en": "Live up to what you know in your heart. You know Allah gave you your body and your breath, so use your energy today to obey Him and do good.",
+ "real_life_bn": "নিজের বিশ্বাসের প্রতি সৎ থাকুন। আল্লাহই যখন আপনাকে জীবন ও শক্তি দিয়েছেন, তখন সেই শক্তি তাঁর আনুগত্য ও মানুষের কল্যাণে ব্যয় করুন।",
+ "themes": [
+  "tawhid",
+  "creation",
+  "human nature"
+ ],
+ "kinds": [
+  "argument",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The idolaters concede that Allah created them, yet they are turned away from worshipping Him alone.",
+   "claim_bn": "মুশরিকরা স্বীকার করে যে আল্লাহই তাদের স্রষ্টা, তবুও তারা বিভ্রান্ত হয়ে তাঁর ইবাদত বর্জন করে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

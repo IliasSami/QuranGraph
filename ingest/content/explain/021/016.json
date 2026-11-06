@@ -1,0 +1,64 @@
+{
+  "id": "21:16",
+  "simple_en": "We did not create the heaven and the earth and everything between them in mere play. All creation was made with serious purpose and divine wisdom.",
+  "simple_bn": "আমি আসমান, জমিন এবং উভয়ের মধ্যবর্তী কোনো কিছুই অনর্থক খেল-তামাশার উদ্দেশ্যে সৃষ্টি করিনি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "We created",
+      "meaning_bn": "আমরা সৃষ্টি করেছি",
+      "why_en": "Act of purposeful divine creation."
+    },
+    {
+      "pos": 7,
+      "root": "لعب",
+      "lemma": "لاعِب",
+      "meaning_en": "in play",
+      "meaning_bn": "খেল-তামাশার ছলে",
+      "why_en": "Absence of aimless frivolity in creation."
+    }
+  ],
+  "lesson_en": "Life has real purpose. The universe was made with divine wisdom, not as mindless play.",
+  "lesson_bn": "মানবজীবনের একটি মহান উদ্দেশ্য রয়েছে। এই মহাবিশ্ব খেলনা নয়, বরং এক গভীর হিকমতের ওপর প্রতিষ্ঠিত।",
+  "real_life_en": "Reflect on the purpose of your existence. Strive to fill your days with actions that serve God and benefit fellow humans.",
+  "real_life_bn": "নিজের জীবনের আসল উদ্দেশ্য নিয়ে ভাবুন। প্রতিটি দিনকে আল্লাহর আনুগত্য এবং মানুষের সেবামূলক কাজে ব্যবহার করুন।",
+  "themes": [
+    "purpose-of-creation",
+    "divine-wisdom",
+    "heavens-and-earth"
+  ],
+  "kinds": [
+    "creation",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "heavens",
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God created the heavens, the earth, and everything between them with deliberate divine purpose, not in play.",
+      "claim_bn": "আল্লাহ আসমান, জমিন ও এর মধ্যবর্তী সব কিছু সুনির্দিষ্ট উদ্দেশ্যে সৃষ্টি করেছেন, অনর্থক খেল-তামাশা হিসেবে নয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

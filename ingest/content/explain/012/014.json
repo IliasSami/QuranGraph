@@ -1,0 +1,71 @@
+{
+  "id": "12:14",
+  "simple_en": "The sons replied with great confidence. They said that if a wolf could eat Joseph while they were a large, strong group of men, then they would indeed be useless and worthless losers.",
+  "simple_bn": "তারা বলল, আমরা একটি শক্তিশালী দল হওয়া সত্ত্বেও যদি নেকড়ে বাঘ তাকে খেয়ে ফেলে, তবে তো আমরা বড়ই অপদার্থ ও ক্ষতিগ্রস্ত হব।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ذأب",
+      "lemma": "ذِئْب",
+      "meaning_en": "the wolf",
+      "meaning_bn": "নেকড়ে বাঘ",
+      "why_en": "Dismissing the possibility of animal attack."
+    },
+    {
+      "pos": 6,
+      "root": "عصب",
+      "lemma": "عُصْبَة",
+      "meaning_en": "a strong group",
+      "meaning_bn": "শক্তিশালী দল",
+      "why_en": "Relying on their numbers and strength."
+    },
+    {
+      "pos": 9,
+      "root": "خسر",
+      "lemma": "خاسِر",
+      "meaning_en": "losers",
+      "meaning_bn": "ক্ষতিগ্রস্ত / অপদার্থ",
+      "why_en": "Incompetent and disgraced men."
+    }
+  ],
+  "lesson_en": "Pride in numbers can blind people to their own moral wrongs.",
+  "lesson_bn": "দৈহিক শক্তি বা সংখ্যার গর্ব মানুষকে প্রকৃত নৈতিক দুর্বলতা থেকে চোখ ফিরিয়ে রাখে।",
+  "real_life_en": "Do not place blind faith in physical power or groups of people. Character, honesty, and divine guidance are far more reliable than numbers.",
+  "real_life_bn": "কেবল দলবল বা বাহ্যিক শক্তিতে অন্ধ বিশ্বাস রাখবেন না। সততা ও নৈতিক চরিত্রই সবচেয়ে বড় শক্তি।",
+  "themes": [
+    "pride in numbers",
+    "false confidence",
+    "story of Yusuf"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Yaqub (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers asserted that their collective strength made it impossible for a wolf to harm Joseph without branding them complete failures.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

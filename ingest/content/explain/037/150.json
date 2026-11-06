@@ -1,0 +1,71 @@
+{
+  "id": "37:150",
+  "simple_en": "Allah questions the polytheists with a powerful challenge. Did they witness the creation of the angels to know they were female? Since they were never present when the angels were created, their claim is pure guesswork without evidence.",
+  "simple_bn": "আল্লাহ মুশরিকদের যুক্তিহীন দাবিকে চ্যালেঞ্জ করছেন। তারা কি ফেরেশতাদের সৃষ্টির সময় উপস্থিত থেকে দেখেছিল যে তারা নারী? যেহেতু তারা কিছুই প্রত্যক্ষ করেনি, তাই তাদের এই দাবি সম্পূর্ণ মিথ্যা ও ভিত্তিহীন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ملك",
+      "lemma": "مَلَك",
+      "meaning_en": "the angels",
+      "meaning_bn": "ফেরেশতাগণ",
+      "why_en": "Refers to the noble servants of Allah falsely described as females by pagans."
+    },
+    {
+      "pos": 4,
+      "root": "أنث",
+      "lemma": "أُنثَى",
+      "meaning_en": "females",
+      "meaning_bn": "নারী জাতি",
+      "why_en": "The false gender attribute assigned to the angels without knowledge."
+    },
+    {
+      "pos": 6,
+      "root": "شهد",
+      "lemma": "شاهِد",
+      "meaning_en": "witnesses",
+      "meaning_bn": "প্রত্যক্ষদর্শী",
+      "why_en": "Exposes that they have zero firsthand knowledge of the angels' creation."
+    }
+  ],
+  "lesson_en": "Do not speak about the unseen world without proof.",
+  "lesson_bn": "গায়েব বা অদৃশ্যের বিষয়ে কোনো প্রমাণ ছাড়া মন্তব্য করা সম্পূর্ণ নিষিদ্ধ।",
+  "real_life_en": "Never speak about religious matters without sure knowledge. Always ask for clear proof before you believe claims about the unseen.",
+  "real_life_bn": "দ্বীনের কোনো বিষয়ে স্পষ্ট জ্ঞান ও দলিল ছাড়া কথা বলবেন না। সত্য যাচাই না করে মনগড়া কোনো ধারণা বিশ্বাস করা বা ছড়ানো অনুচিত।",
+  "themes": [
+    "angels",
+    "unseen",
+    "false claims",
+    "evidence"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelievers did not witness the creation of the angels to claim they were female.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

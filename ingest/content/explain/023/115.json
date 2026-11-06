@@ -1,0 +1,63 @@
+{
+  "id": "23:115",
+  "simple_en": "Did you think that We created you without any purpose, and that you would not be brought back to Us for final reckoning? Life is not a meaningless game.",
+  "simple_bn": "তোমরা কি মনে করেছিলে যে আমরা তোমাদের অনর্থক সৃষ্টি করেছি এবং তোমাদের আমাদের কাছে ফিরিয়ে আনা হবে না?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "We created you",
+      "meaning_bn": "আমরা তোমাদের সৃষ্টি করেছি",
+      "why_en": "Divine purpose underpinning human existence."
+    },
+    {
+      "pos": 4,
+      "root": "عبث",
+      "lemma": "عَبَث",
+      "meaning_en": "without purpose",
+      "meaning_bn": "অনর্থক বা উদ্দেশ্যহীনভাবে",
+      "why_en": "Refuting the idea that human life is purposeless sport."
+    }
+  ],
+  "lesson_en": "Human life was made with a real purpose. We were not created in vain or without moral duties.",
+  "lesson_bn": "মানুষের সৃষ্টি কোনো উদ্দেশ্যহীন খেলা নয়। পরকালের জবাবদিহিতা ও ইবাদতই মানবজীবনের মূল উদ্দেশ্য।",
+  "real_life_en": "Live with a clear sense of moral purpose. Remember that every choice you make has lasting significance before God.",
+  "real_life_bn": "উদ্দেশ্যপূর্ণ ও দায়িত্বশীল জীবনযাপন করুন। প্রতিটি পদক্ষেপের জন্য আল্লাহর কাছে জবাবদিহি করতে হবে তা স্মরণে রাখুন।",
+  "themes": [
+    "purpose-of-creation",
+    "moral-accountability",
+    "divine-wisdom"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "return-to-allah"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God refutes the notion that human creation was an aimless pastime, asserting mandatory return for judgment.",
+      "claim_bn": "আল্লাহ স্পষ্টভাবে ঘোষণা করেছেন যে মানুষকে অনর্থক সৃষ্টি করা হয়নি এবং সবাইকে তাঁর কাছে ফিরে যেতে হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

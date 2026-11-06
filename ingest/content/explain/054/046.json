@@ -1,0 +1,61 @@
+{
+  "id": "54:46",
+  "simple_en": "Nay, the Hour of Resurrection is their appointed time of full reckoning. That Day will be far more disastrous and bitter than any worldly defeat they faced at Badr.",
+  "simple_bn": "বরং কিয়ামতের দিনই তাদের চূড়ান্ত শাস্তির আসল নির্ধারিত সময়। বদর যুদ্ধে তাদের যে পরাজয় হয়েছিল, কিয়ামতের সেই দিনটি তার চেয়ে বহুগুণে বেশি ভয়াবহ ও তিক্ত হবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "وعد",
+      "lemma": "مَوْعِد",
+      "meaning_en": "their appointed time",
+      "meaning_bn": "তাদের নির্ধারিত সময়",
+      "why_en": "Affirms that their true and complete retribution is postponed to the Last Day."
+    },
+    {
+      "pos": 6,
+      "root": "مرر",
+      "lemma": "أَمَرّ",
+      "meaning_en": "and more bitter",
+      "meaning_bn": "এবং অধিকতর তিক্ত",
+      "why_en": "Emphasizes the agonizing, unendurable bitterness of punishment in the Fire."
+    }
+  ],
+  "lesson_en": "Worldly setbacks are minor compared to the hardship of the Last Day.",
+  "lesson_bn": "দুনিয়ার যেকোনো ক্ষতির চেয়ে পরকালের চূড়ান্ত ক্ষতি কোটিগুণে বেশি কঠিন।",
+  "real_life_en": "A merchant loses some money in a bad trade. He reminds himself that losing worldly wealth is easy to bear compared to facing Allah without good deeds on Judgment Day.",
+  "real_life_bn": "ব্যবসায় কিছু টাকা লোকসান হওয়ায় এক ব্যক্তি মন খারাপ করে। তবে সে মনে করে যে পার্থিব এই ক্ষতি পরকালে আমলহীন হয়ে আল্লাহর সামনে দাঁড়ানোর চেয়ে অনেক হালকা।",
+  "themes": [
+    "the Last Day",
+    "judgment",
+    "Hell"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Hour is the true appointed time for the disbelievers' punishment, more catastrophic and bitter than worldly defeats.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

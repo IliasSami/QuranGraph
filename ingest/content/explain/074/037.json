@@ -1,0 +1,60 @@
+{
+ "id": "74:37",
+ "simple_en": "This warning is for anyone among you who wishes to move forward through good deeds or lag behind in sin. Each person chooses their own path. Your actions will determine your final place.",
+ "simple_bn": "এই সতর্কবার্তা তোমাদের মধ্যে যে কেউ নেক আমলের মাধ্যমে এগিয়ে যেতে চায়, অথবা পাপে লিপ্ত হয়ে পিছিয়ে পড়তে চায়, তার জন্য। প্রত্যেকে নিজ দায়িত্বে পথ বেছে নেয় এবং তার কাজের ভিত্তিতেই পরকালীন পরিণতি নির্ধারিত হয়।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "قدم",
+   "lemma": "تَقَدَّمَ",
+   "meaning_en": "to advance, step forward",
+   "meaning_bn": "এগিয়ে যাওয়া",
+   "why_en": "It refers to moving ahead through faith, obedience, and good deeds."
+  },
+  {
+   "pos": 7,
+   "root": "أخر",
+   "lemma": "تَأَخَّرَ",
+   "meaning_en": "to fall behind",
+   "meaning_bn": "পিছিয়ে পড়া",
+   "why_en": "It describes lagging behind through sins, neglect, and disobedience."
+  }
+ ],
+ "lesson_en": "In faith, you either move forward with good deeds or fall back into neglect.",
+ "lesson_bn": "ঈমানের ক্ষেত্রে মানুষ হয় ভালো কাজের মাধ্যমে সামনে বাড়ে, নয়তো অবহেলার কারণে পিছিয়ে পড়ে।",
+ "real_life_en": "Do not let your days slip away without making progress in your character and worship. Try each week to learn a new surah, give a small charity, or fix a bad habit.",
+ "real_life_bn": "কোনো উন্নতি ছাড়া দিন কাটিয়ে দেবেন না। প্রতি সপ্তাহে নতুন কোনো ভালো কাজ করার, দান করার বা নিজের একটি খারাপ অভ্যাস ত্যাগ করার চেষ্টা করুন।",
+ "themes": [
+  "faith",
+  "good character",
+  "trials"
+ ],
+ "kinds": [
+  "warning",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The warning applies to whoever chooses to advance through obedience or lag behind through sin.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

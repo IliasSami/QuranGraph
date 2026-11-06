@@ -1,0 +1,81 @@
+{
+ "id": "42:21",
+ "simple_en": "Do the idolaters have partners who set up religious rules that Allah never allowed? If Allah had not already decreed that judgment will take place on the Last Day, their case would have been settled right away. The wrongdoers will face a painful punishment.",
+ "simple_bn": "তাদের কি এমন কোনো অংশীদার আছে যারা তাদের জন্য এমন বিধান তৈরি করেছে যার অনুমতি আল্লাহ দেননি? যদি কিয়ামতের দিন ফায়সালার সিদ্ধান্ত পূর্বেই না থাকত, তবে এখনই তাদের শাস্তি হয়ে যেত। যালিমদের জন্য রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "شرك",
+   "lemma": "شَرِيك",
+   "meaning_en": "partners",
+   "meaning_bn": "অংশীদারগণ",
+   "why_en": "Exposes false deities and leaders who invent unlawful religious practices."
+  },
+  {
+   "pos": 4,
+   "root": "شرع",
+   "lemma": "شَرَعَ",
+   "meaning_en": "they ordained",
+   "meaning_bn": "তারা প্রবর্তন করেছে",
+   "why_en": "Condemns making religious rules without permission from Allah."
+  },
+  {
+   "pos": 15,
+   "root": "فصل",
+   "lemma": "فَصْل",
+   "meaning_en": "the decisive decree",
+   "meaning_bn": "ফায়সালার বাণী",
+   "why_en": "Refers to Allah's decree to delay judgment until the Day of Resurrection."
+  },
+  {
+   "pos": 22,
+   "root": "ألم",
+   "lemma": "أَلِيم",
+   "meaning_en": "painful",
+   "meaning_bn": "যন্ত্রণাদায়ক",
+   "why_en": "Warns of the agonizing end that awaits all persistent wrongdoers."
+  }
+ ],
+ "lesson_en": "Only Allah has the right to set religious laws and commands for mankind.",
+ "lesson_bn": "দ্বীনের বিধান দেওয়ার অধিকার একমাত্র মহান আল্লাহর, কোনো সৃষ্টির এ ক্ষমতা নেই।",
+ "real_life_en": "Follow the clear teachings of the Prophet ﷺ. Do not make up new ways to worship. Stay with what Allah and His Messenger have taught.",
+ "real_life_bn": "ইবাদতের ক্ষেত্রে কুরআন ও সহীহ সুন্নাহর অনুসরণ করুন। দ্বীনের মধ্যে এমন কোনো মনগড়া প্রথা চালু করবেন না যার কোনো ঐশী ভিত্তি নেই।",
+ "themes": [
+  "shirk",
+  "tawhid",
+  "justice",
+  "the Last Day"
+ ],
+ "kinds": [
+  "argument",
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "None has the right to legislate in religion without Allah's permission, and wrongdoers face painful punishment on the Day of Decision.",
+   "claim_bn": "আল্লাহর অনুমতি ছাড়া দ্বীনের বিধান দেওয়ার অধিকার কারো নেই এবং ফায়সালার দিনে যালিমরা কঠিন শাস্তির মুখোমুখি হবে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

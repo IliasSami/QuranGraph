@@ -1,0 +1,81 @@
+{
+ "id": "6:17",
+ "simple_en": "If Allah touches you with hardship like illness or poverty, no one in creation can remove it except Him. And if He blesses you with good health, ease, or wealth, no one can hold back His bounty. He has power over all things.",
+ "simple_bn": "আল্লাহ যদি আপনাকে কোনো বিপদ, রোগ বা অভাবের মুখোমুখি করেন, তবে তিনি ছাড়া তা দূর করার আর কেউ নেই। আর তিনি যদি আপনার কল্যাণ চান, তবে তিনি সবকিছুর ওপর পূর্ণ ক্ষমতাবান। কোনো শক্তিই তাঁর দান বন্ধ করতে পারে না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "ضرر",
+   "lemma": "ضُرّ",
+   "meaning_en": "adversity / harm",
+   "meaning_bn": "বিপদ বা ক্ষতি",
+   "why_en": "Refers to illness, poverty, or any worldly hardship."
+  },
+  {
+   "pos": 6,
+   "root": "كشف",
+   "lemma": "كاشِف",
+   "meaning_en": "remover / lifter",
+   "meaning_bn": "দূরকারী বা মোচনকারী",
+   "why_en": "Emphasizes that none can lift hardship except Allah."
+  },
+  {
+   "pos": 17,
+   "root": "قدر",
+   "lemma": "قَدِير",
+   "meaning_en": "All-Powerful",
+   "meaning_bn": "সর্বশক্তিমান",
+   "why_en": "Affirms Allah's absolute power to grant benefit and protection."
+  }
+ ],
+ "lesson_en": "Only Allah can remove harm or grant blessings. Rely solely upon Him.",
+ "lesson_bn": "বিপদ দূর করার এবং কল্যাণ দান করার ক্ষমতা একমাত্র আল্লাহর। তাই কেবল তাঁরই ওপর ভরসা রাখুন।",
+ "real_life_en": "When you face illness or money troubles, pray to Allah first. Take good medicine and work hard, but trust only Him. Never turn to lucky charms or fortune-tellers. Only Allah can cure harm and give relief.",
+ "real_life_bn": "অসুস্থতা বা আর্থিক সংকটে পড়লে বৈধ চিকিৎসার পাশাপাশি আল্লাহর কাছে খাঁটি দিলে দু'আ করুন। তাবিজ, গণক বা ভণ্ড সাধকদের কাছে ধর্না দেবেন না, কারণ মুক্তি কেবল আল্লাহর হাতে।",
+ "context_en": "Affirms that harm and benefit are controlled exclusively by Allah, refuting any reliance on false deities.",
+ "context_bn": "ক্ষতি দূরীকরণ ও কল্যাণ বর্ষণের একমাত্র মালিক যে আল্লাহ, তা সুস্পষ্ট করে সব ধরনের অংশীদারিত্বের বিশ্বাস বাতিল করা হয়েছে।",
+ "themes": [
+  "tawhid",
+  "relief from hardship",
+  "omnipotence of Allah",
+  "reliance on Allah"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "If Allah afflicts a person with harm or hardship, none can remove it except Him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "If Allah touches someone with good, He possesses absolute power over all things.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

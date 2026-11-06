@@ -1,0 +1,75 @@
+{
+  "id": "67:5",
+  "simple_en": "Allah decorated the nearest sky with shining stars like lamps. He also made shooting meteors from them to drive away listening devils. For these rebellious devils, God has prepared a burning blaze in the Hereafter.",
+  "simple_bn": "আল্লাহ নিকটবর্তী আসমানকে প্রদীপের মতো উজ্জ্বল তারকারাজি দিয়ে সাজিয়েছেন। তিনি এগুলোকে কান পেতে কথা শোনা শয়তানদের তাড়িয়ে দেওয়ার মাধ্যম করেছেন এবং পরকালে তাদের জন্য প্রস্তুত রেখেছেন জ্বলন্ত অগ্নির শাস্তি।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "صبح",
+      "lemma": "مِصْباح",
+      "meaning_en": "shining lamps",
+      "meaning_bn": "উজ্জ্বল প্রদীপমালা",
+      "why_en": "Refers to radiant stars that illuminate and beautify the night sky."
+    },
+    {
+      "pos": 7,
+      "root": "رجم",
+      "lemma": "رُجُوم",
+      "meaning_en": "missiles of fire",
+      "meaning_bn": "নিক্ষেপ করার উপকরণ",
+      "why_en": "Explains how shooting meteors repel devils seeking to steal heavenly secrets."
+    },
+    {
+      "pos": 12,
+      "root": "سعر",
+      "lemma": "سَعِير",
+      "meaning_en": "the blazing fire",
+      "meaning_bn": "জ্বলন্ত অগ্নি",
+      "why_en": "Specifies the severe punishment waiting for rebellious devils in the Hereafter."
+    }
+  ],
+  "lesson_en": "God made the night sky beautiful and protects the heavens from evil.",
+  "lesson_bn": "আল্লাহ আসমানকে সৌন্দর্যে ভরিয়ে দিয়েছেন এবং শয়তানি শক্তির হাত থেকে অদৃশ্যের সত্যকে রক্ষা করেন।",
+  "real_life_en": "A young person sees a shooting star streak across the night sky. Instead of making a superstitious wish, they remember God's power. They pray for protection against negative whispers and evil impulses.",
+  "real_life_bn": "রাতের আকাশে উল্কাপাত দেখে কোনো কুসংস্কারে বিশ্বাস না করে আল্লাহর কুদরত স্মরণ করা উচিত। শয়তানের কুমন্ত্রণা থেকে বেঁচে থাকতে সর্বদা আল্লাহর কাছে সুরক্ষা প্রার্থনা করা কর্তব্য।",
+  "themes": [
+    "creation",
+    "signs in nature",
+    "the unseen",
+    "Satan",
+    "punishment"
+  ],
+  "kinds": [
+    "creation",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "satan",
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the stars",
+      "the sky"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The lowest heaven is adorned with stars that also serve to repel eavesdropping devils, for whom a blazing fire is prepared.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "9:111",
+  "simple_en": "Allah has purchased from the believers their lives and their wealth in exchange for Paradise. They fight in the cause of Allah, so they slay and are slain. This is a true promise in the Torah, the Gospel, and the Quran. Who is more faithful to his promise than Allah? So rejoice in the bargain you made. That is the great triumph.",
+  "simple_bn": "নিশ্চয় আল্লাহ মুমিনদের থেকে তাদের জীবন ও সম্পদ কিনে নিয়েছেন এর বিনিময়ে যে, তাদের জন্য রয়েছে জান্নাত। তারা আল্লাহর পথে যুদ্ধ করে, ফলে তারা মারে ও মরে। তাওরাত, ইনজীল ও কুরআনে এ সম্পর্কে সত্য প্রতিশ্রুতি রয়েছে। আর নিজ অঙ্গীকার পালনে আল্লাহর চেয়ে অধিক বিশ্বস্ত কে? অতএব তোমরা যে কেনাবেচা করেছ তাতে আনন্দিত হও; আর এটাই হলো মহাসাফল্য।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "شري",
+      "lemma": "اشْتَرَى",
+      "meaning_en": "has purchased",
+      "meaning_bn": "ক্রয় করে নিয়েছেন",
+      "why_en": "Metaphor of the ultimate sacred covenant."
+    },
+    {
+      "pos": 10,
+      "root": "جنن",
+      "lemma": "جَنَّة",
+      "meaning_en": "Paradise",
+      "meaning_bn": "জান্নাত",
+      "why_en": "The supreme price paid by God to devoted souls."
+    },
+    {
+      "pos": 30,
+      "root": "بيع",
+      "lemma": "بَيْع",
+      "meaning_en": "bargain / transaction",
+      "meaning_bn": "কেনাবেচা / ব্যবসা",
+      "why_en": "Trading temporary mortal life for everlasting celestial joy."
+    }
+  ],
+  "lesson_en": "Giving your life to God for Paradise is the best trade you can ever make.",
+  "lesson_bn": "দুনিয়ার ক্ষণিক জীবনের ত্যাগের বিনিময়ে জান্নাত কেনাই জীবনের সবচেয়ে লাভজনক ব্যবসা।",
+  "real_life_en": "Dedicate your talents, money, and time to serving God and helping people. The eternal reward you earn will far outweigh any worldly sacrifice.",
+  "real_life_bn": "নিজের ধন ও মেধা ভালো কাজে উৎসর্গ করুন; এর বিনিময়ে আল্লাহ যে অফুরন্ত শান্তি রেখেছেন তা দুনিয়ার সব প্রাপ্তির চেয়ে বড়।",
+  "themes": [
+    "sacred transaction",
+    "Paradise",
+    "Torah, Gospel, and Quran"
+  ],
+  "kinds": [
+    "promise",
+    "glad-tidings",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [
+      "Paradise"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Torah",
+      "the Gospel",
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah confirmed a covenant purchasing the lives and wealth of believers in exchange for Paradise across all major revealed scriptures.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

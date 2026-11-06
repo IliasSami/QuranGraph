@@ -1,0 +1,70 @@
+{
+  "id": "56:46",
+  "simple_en": "They stubbornly persisted in the greatest sin. They worshiped idols and set up partners with Allah. Even when the truth was shown to them clearly, they refused to repent or turn away from their evil ways.",
+  "simple_bn": "তারা চরমতম পাপে জিদ ধরে অটল ছিল। তারা আল্লাহর সাথে অংশীদার সাব্যস্ত করত এবং মূর্তিপূজা করত। সত্য তাদের সামনে স্পষ্ট হওয়ার পরও তারা তওবা করতে এবং কুফরি ছাড়তে অস্বীকৃতি জানাত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "صرر",
+      "lemma": "أَصَرُّ",
+      "meaning_en": "they persisted stubbornly",
+      "meaning_bn": "তারা বদ্ধপরিকর ছিল",
+      "why_en": "Shows obstinate and defiant refusal to turn away from falsehood."
+    },
+    {
+      "pos": 4,
+      "root": "حنث",
+      "lemma": "حِنث",
+      "meaning_en": "great sin or violation",
+      "meaning_bn": "মহা পাপ",
+      "why_en": "Refers to the enormous crime of shirk and idolatry against Allah."
+    },
+    {
+      "pos": 5,
+      "root": "عظم",
+      "lemma": "عَظِيم",
+      "meaning_en": "enormous or great",
+      "meaning_bn": "বিশাল বা মহা",
+      "why_en": "Emphasizes the terrible weight and severity of associating partners with Allah."
+    }
+  ],
+  "lesson_en": "Turn back to Allah quickly, and do not stay in bad ways.",
+  "lesson_bn": "পাপ হওয়ামাত্রই দ্রুত তওবা করুন, আল্লাহর অবাধ্যতায় কখনো অটল থাকবেন না।",
+  "real_life_en": "A driver misses a highway turn and realizes he is going the wrong way. A wise driver turns around right away instead of speeding deeper into danger. A sinner should repent just as quickly.",
+  "real_life_bn": "ভুল রাস্তায় চলে গেছে বুঝতে পেরে বুদ্ধিমান চালক সাথে সাথে গাড়ি ঘুরিয়ে সঠিক রাস্তায় ফিরে আসে। একজন মুমিনও কোনো পাপ হয়ে গেলে দেরি না করে সাথে সাথে তওবা করে সৎপথে ফিরে আসে।",
+  "themes": [
+    "shirk",
+    "repentance",
+    "warning",
+    "tawhid"
+  ],
+  "kinds": [
+    "warning",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They used to persist stubbornly in disbelief in Allah and worshiping idols instead of Him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": "3:78",
+  "simple_en": "There is a group among them who twist their tongues while reading to make you think their words are part of the Scripture, when they are not. They boldly claim their words come from Allah, knowing full well that they do not. They knowingly invent lies against Allah.",
+  "simple_bn": "আর তাদের মধ্যে একদল এমনও রয়েছে, যারা কিতাব পাঠ করার সময় নিজেদের জিহ্বা বাঁকায় যাতে তোমরা সেটিকে কিতাবের অংশ মনে করো, অথচ তা কিতাবের অংশ নয়। তারা বলে: এটি আল্লাহর পক্ষ থেকে, অথচ তা আল্লাহর পক্ষ থেকে নয়। আর তারা জেনে-শুনেই আল্লাহর নামে মিথ্যা বলে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "فرق",
+      "lemma": "فَرِيق",
+      "meaning_en": "a group / party",
+      "meaning_bn": "একটি দল",
+      "why_en": "Identifies the corrupt faction guilty of deliberate textual deception."
+    },
+    {
+      "pos": 4,
+      "root": "لوي",
+      "lemma": "يَلْ",
+      "meaning_en": "they twist / distort",
+      "meaning_bn": "তারা বাঁকায় / বিকৃত করে",
+      "why_en": "Refers to distorting speech and pronunciation to mimic scripture."
+    },
+    {
+      "pos": 5,
+      "root": "لسن",
+      "lemma": "لِسان",
+      "meaning_en": "their tongues",
+      "meaning_bn": "তাদের জিহ্বা",
+      "why_en": "Points to vocal deceit used to deceive ordinary listeners."
+    },
+    {
+      "pos": 7,
+      "root": "حسب",
+      "lemma": "حَسِبَ",
+      "meaning_en": "so that you think it",
+      "meaning_bn": "যাতে তোমরা তা মনে করো",
+      "why_en": "Shows the calculated goal of passing off human fabrications as divine scripture."
+    }
+  ],
+  "lesson_en": "Do not make up words about Allah or change religious teachings.",
+  "lesson_bn": "দ্বীনের ব্যাপারে মনগড়া কথা বলা থেকে বিরত থাকুন এবং কখনো আল্লাহর ওপর মিথ্যারোপ করবেন না।",
+  "real_life_en": "Be very careful when you quote faith on your phone or in talk. Check if a saying is real before you say it is from Allah or His Messenger ﷺ. Spreading fake quotes ruins trust.",
+  "real_life_bn": "সামাজিক যোগাযোগ মাধ্যমে বা কথায় কথায় কোনো যাচাই ছাড়া 'এটা ইসলামে বলা আছে' বলে প্রচার করবেন না। নিশ্চিত না হয়ে ধর্মের নামে কথা বলা মারাত্মক অন্যায়।",
+  "context_en": "Exposes how a faction distorted their recitation to mislead listeners into believing man-made additions were divine scripture.",
+  "context_bn": "কিতাব পাঠের সময় কণ্ঠ বিকৃত করে মনগড়া বাক্যকে আল্লাহর বাণী বলে চালিয়ে দেওয়ার অপচেষ্টা উন্মোচন করা হয়েছে।",
+  "themes": [
+    "revelation",
+    "honesty",
+    "the Quran",
+    "disbelief",
+    "hypocrisy"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "People of the Book"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Torah"
+    ]
+  },
+  "claims": [
+    {
+      "text": "A group among the People of the Book twisted their tongues when reciting to make their fabrications sound like scripture.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They claimed their words were revealed by Allah while knowing full well that they were inventing lies against Him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

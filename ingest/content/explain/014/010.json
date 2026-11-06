@@ -1,0 +1,87 @@
+{
+  "id": "14:10",
+  "simple_en": "Their messengers said: Can there be any doubt about Allah, the Maker of the heavens and the earth? He calls you so He may forgive your sins and grant you time. But the people replied: You are only human beings like us, trying to stop what our fathers worshipped.",
+  "simple_bn": "তাদের রাসূলগণ বললেন: আসমান ও জমিনের স্রষ্টা আল্লাহ সম্পর্কে কি কোনো সন্দেহ থাকতে পারে? তিনি তোমাদের ডাকছেন যাতে তোমাদের পাপ ক্ষমা করতে পারেন এবং নির্ধারিত সময় পর্যন্ত অবকাশ দেন। তারা বলল: তোমরা তো আমাদের মতোই মানুষ, তোমরা আমাদেরকে আমাদের বাপ-দাদার উপাস্যদের থেকে ফেরাতে চাও।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "شكك",
+      "lemma": "شَكّ",
+      "meaning_en": "doubt",
+      "meaning_bn": "সন্দেহ",
+      "why_en": "Uncertainty regarding the Creator."
+    },
+    {
+      "pos": 6,
+      "root": "فطر",
+      "lemma": "فاطِر",
+      "meaning_en": "Creator",
+      "meaning_bn": "স্রষ্টা",
+      "why_en": "The Originator who created the cosmos without prior model."
+    },
+    {
+      "pos": 10,
+      "root": "غفر",
+      "lemma": "غَفَرَ",
+      "meaning_en": "that He may forgive",
+      "meaning_bn": "যাতে তিনি ক্ষমা করেন",
+      "why_en": "Divine willingness to pardon sins upon repentance."
+    },
+    {
+      "pos": 22,
+      "root": "بشر",
+      "lemma": "بَشَر",
+      "meaning_en": "a human",
+      "meaning_bn": "মানুষ",
+      "why_en": "Being an ordinary mortal."
+    },
+    {
+      "pos": 32,
+      "root": "سلط",
+      "lemma": "سُلْطان",
+      "meaning_en": "with an authority",
+      "meaning_bn": "সুস্পষ্ট প্রমাণসহ",
+      "why_en": "Demanding overwhelming supernatural proof."
+    }
+  ],
+  "lesson_en": "The existence and grace of Allah are clear in creation. Do not let stubborn habits blind you.",
+  "lesson_bn": "সৃষ্টিজগতের দিকে তাকালেই আল্লাহর অস্তিত্ব ও রহমত স্পষ্ট হয়ে ওঠে। কুসংস্কার যেন সত্যকে আড়াল না করে।",
+  "real_life_en": "A person is challenged about faith by a friend who demands miracles. He points to the starry sky, the balance of nature, and the miracle of life itself as proof.",
+  "real_life_bn": "এক বন্ধু অলৌকিক চিহ্ন দেখতে চেয়ে আল্লাহর অস্তিত্ব নিয়ে সংশয় প্রকাশ করে। তখন অন্যজন আকাশের নক্ষত্ররাজি ও প্রকৃতির বিস্ময়কর শৃঙ্খলার দিকে ইঙ্গিত করে স্রষ্টার নিদর্শন তুলে ধরে।",
+  "context_en": "Dialogue between messengers affirming Allah's oneness and their disbelieving peoples.",
+  "context_bn": "রাসূলদের তাওহীদের আহ্বান এবং স্বজাতির পক্ষ থেকে অন্ধ ঐতিহ্য প্রীতির অজুহাতে প্রত্যাখ্যান।",
+  "themes": [
+    "monotheism",
+    "creation",
+    "forgiveness"
+  ],
+  "kinds": [
+    "argument",
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Fatir"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Messengers reasoned that the Creator of heavens and earth invites people to forgiveness, not blind tradition.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

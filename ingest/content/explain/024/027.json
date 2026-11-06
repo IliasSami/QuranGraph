@@ -1,0 +1,62 @@
+{
+  "id": "24:27",
+  "simple_en": "O believers, do not enter houses other than your own until you ask permission and greet their people with peace. That is best for you to remember.",
+  "simple_bn": "হে মুমিনগণ, তোমরা নিজেদের ঘর ছাড়া অন্যদের ঘরে প্রবেশ করো না, যতক্ষণ না তোমরা অনুমতি নাও এবং ঘরের বাসিন্দাদের সালাম দাও। এটিই তোমাদের জন্য উত্তম, যাতে তোমরা উপদেশ গ্রহণ কর।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "بيت",
+      "lemma": "بَيْت",
+      "meaning_en": "houses",
+      "meaning_bn": "ঘরসমূহ বা বাড়িঘর",
+      "why_en": "Sanctuaries of private domestic life protected by divine boundaries."
+    },
+    {
+      "pos": 10,
+      "root": "أنس",
+      "lemma": "تَسْتَأْنِسُ",
+      "meaning_en": "you ask permission",
+      "meaning_bn": "তোমরা অনুমতি গ্রহণ কর",
+      "why_en": "Seeking courteous consent and greeting inhabitants with peace."
+    }
+  ],
+  "lesson_en": "Privacy is a basic right given by God. Greet people with words of peace before entering their homes.",
+  "lesson_bn": "ব্যক্তিগত গোপনীয়তা রক্ষা করা ইসলামের একটি মৌলিক শিক্ষা। কারো ঘরে প্রবেশের আগে সালাম দেওয়া ও অনুমতি নেওয়া সামাজিক সম্প্রীতি বাড়ায়।",
+  "real_life_en": "Always knock and ask before entering someone's room or home. Greet people with warmth and respect.",
+  "real_life_bn": "অন্যের ঘরে বা কামরায় প্রবেশের আগে সর্বদা অনুমতি চান এবং সালাম দিন। কারো ব্যক্তিগত স্থান ও সময়ের প্রতি শ্রদ্ধাশীল থাকুন।",
+  "themes": [
+    "rules-of-entry",
+    "seeking-permission",
+    "privacy-in-islam"
+  ],
+  "kinds": [
+    "command",
+    "ethics",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers are prohibited from entering homes other than their own without seeking courteous permission and offering greetings of peace.",
+      "claim_bn": "অন্যের ঘরে প্রবেশের পূর্বে সালাম প্রদান ও আন্তরিক অনুমতি গ্রহণের বিধান ইসলামী শিষ্টাচারের অন্যতম অংশ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

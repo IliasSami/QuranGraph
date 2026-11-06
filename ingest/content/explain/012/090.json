@@ -1,0 +1,104 @@
+{
+  "id": "12:90",
+  "simple_en": "They asked in amazement if he was indeed Yusuf. He answered that he was Yusuf, and Benjamin was his brother. Allah had blessed them with safety and honor. Whoever fears Allah and remains patient will find that Allah never wastes the reward of those who do good.",
+  "simple_bn": "তারা বিস্মিত হয়ে জিজ্ঞাসা করল, আপনিই কি ইউসুফ? তিনি বললেন, আমিই ইউসুফ, আর এ আমার ভাই। আল্লাহ আমাদের ওপর অনুগ্রহ করেছেন। নিশ্চয় যে ব্যক্তি তাকওয়া অবলম্বন করে এবং ধৈর্য ধরে, আল্লাহ এমন সৎকর্মশীলদের প্রতিদান কখনো নষ্ট করেন না।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "أخو",
+      "lemma": "أَخ",
+      "meaning_en": "my brother",
+      "meaning_bn": "আমার ভাই",
+      "why_en": "Standing reunited beside his full brother Benjamin."
+    },
+    {
+      "pos": 11,
+      "root": "منن",
+      "lemma": "مَنَّ",
+      "meaning_en": "has favored us",
+      "meaning_bn": "আমাদের অনুগ্রহ করেছেন",
+      "why_en": "Attributing all elevation and survival solely to Allah's grace."
+    },
+    {
+      "pos": 16,
+      "root": "وقي",
+      "lemma": "اتَّقَى",
+      "meaning_en": "fears Allah / is mindful",
+      "meaning_bn": "তাকওয়া অবলম্বন করে",
+      "why_en": "Staying mindful of God’s boundaries through trials."
+    },
+    {
+      "pos": 17,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "remains patient",
+      "meaning_bn": "ধৈর্য ধরে",
+      "why_en": "Enduring suffering without complaint or sin."
+    },
+    {
+      "pos": 23,
+      "root": "حسن",
+      "lemma": "مُحْسِن",
+      "meaning_en": "the doers of good",
+      "meaning_bn": "সৎকর্মশীলগণ",
+      "why_en": "Allah’s universal promise to preserve every righteous deed."
+    }
+  ],
+  "lesson_en": "Patience and obedience to God bring honor that no plot can stop.",
+  "lesson_bn": "ধৈর্য ও তাকওয়ার পথ ধরে চললে আল্লাহ এমন সম্মান দান করেন যা কোনো চক্রান্ত দিয়ে ঠেকানো যায় না।",
+  "real_life_en": "A worker faces office gossip for years without fighting back. Through honest hard work, they are promoted to team leader.",
+  "real_life_bn": "এক কর্মী প্রতিকূল পরিবেশ ও চক্রান্তের মধ্যেও ধৈর্য ধরে সততার সাথে দায়িত্ব পালন করেন। একসময় তাঁর মেধা ও নিষ্ঠা স্বীকৃত হয় এবং তিনি সর্বোচ্চ পদে আসীন হন।",
+  "context_en": "The emotional climax of the narrative, where Yusuf reveals his identity and declares the formula for success.",
+  "context_bn": "সুরার এই আবেগপূর্ণ মুহূর্তে ইউসুফ নিজের পরিচয় দিলেন এবং সাফল্য ও বিজয়ের মূল রহস্য তুলে ধরলেন।",
+  "themes": [
+    "reunion",
+    "reward of patience",
+    "taqwa",
+    "divine favor"
+  ],
+  "kinds": [
+    "story",
+    "promise",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "brothers of Yusuf",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers realized his identity and asked if he was indeed Yusuf.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Yusuf affirmed his identity and stated that Allah does not waste the reward of the patient and mindful.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "34:46",
+  "simple_en": "Say: I advise you of just one thing: stand up for Allah, in pairs or alone, and reflect sincerely. Your companion, the Prophet Muhammad ﷺ, is not insane. He is only a warner sent to save you from a severe punishment.",
+  "simple_bn": "বলুন: আমি তোমাদের একটি মাত্র বিষয়ে উপদেশ দিচ্ছি: তোমরা আল্লাহর উদ্দেশ্যে দুই-দুইজন করে অথবা একা দাঁড়িয়ে আন্তরিকভাবে চিন্তা কর। তোমাদের সঙ্গী মুহাম্মাদ ﷺ কোনো পাগল নন। তিনি এক কঠিন শাস্তির পূর্বে তোমাদের জন্য সতর্ককারী মাত্র।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "وعظ",
+      "lemma": "وَعَظْ",
+      "meaning_en": "I advise you",
+      "meaning_bn": "উপদেশ দিচ্ছি",
+      "why_en": "A sincere, compassionate call to awaken reason and conscience."
+    },
+    {
+      "pos": 12,
+      "root": null,
+      "lemma": "ما",
+      "meaning_en": "reflect / ponder",
+      "meaning_bn": "চিন্তা কর",
+      "why_en": "Calls for unbiased, calm contemplation free from crowd mentality."
+    },
+    {
+      "pos": 14,
+      "root": null,
+      "lemma": "مِن",
+      "meaning_en": "companion",
+      "meaning_bn": "সঙ্গী",
+      "why_en": "Reminds them that they have known the Prophet's honesty all his life."
+    }
+  ],
+  "lesson_en": "Step away from group pressure and reflect calmly on the truth with an open mind.",
+  "lesson_bn": "জনতার অন্ধ স্রোত থেকে সরে এসে শান্ত মাথায় নিরপেক্ষভাবে সত্য উপলব্ধি করার চেষ্টা করুন।",
+  "real_life_en": "When popular opinion pushes you to make fun of something sacred, pause. Think for yourself, seek facts honestly, and choose truth over peer pressure.",
+  "real_life_bn": "সবাই কোনো ভুল কাজ করলেই তা করতে যাবেন না। একা বসে শান্তভাবে চিন্তা করুন এবং বিবেকের আহ্বানে সাড়া দিন।",
+  "themes": [
+    "reflection",
+    "Prophet Muhammad ﷺ",
+    "guidance",
+    "warning"
+  ],
+  "kinds": [
+    "command",
+    "argument",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet asked his people to stand before Allah individually or in pairs to reflect calmly, affirming that he is a truthful warner, not insane.",
+      "claim_bn": "রাসূলুল্লাহ ﷺ মানুষকে পক্ষপাতহীনভাবে একা বা দুজনে মিলে সত্য নিয়ে চিন্তা করার এবং তাঁর সতর্কবার্তাকে উপলব্ধি করার আহ্বান জানিয়েছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,99 @@
+{
+ "id": "4:79",
+ "simple_en": "Any good that comes to you is a gift from the grace of Allah. Any harm that touches you comes from your own sins and mistakes. Allah has sent the Prophet ﷺ as a guide to all people. Allah is enough as a true witness to His message.",
+ "simple_bn": "হে মানুষ! তোমার কাছে যে কল্যাণ ও নিয়ামত পৌঁছে, তা কেবল আল্লাহর একান্ত দয়া ও অনুগ্রহের ফসল। আর যে বিপদ বা কষ্ট তোমার ওপর নেমে আসে, তা তোমার নিজেরই পাপ ও ভুলের পরিণতি। আল্লাহ আপনাকে সমগ্র মানবজাতির জন্য রাসূল হিসেবে পাঠিয়েছেন, আর এ বিষয়ে সাক্ষী হিসেবে আল্লাহই যথেষ্ট।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "حسن",
+   "lemma": "حَسَنَة",
+   "meaning_en": "good fortune or blessing",
+   "meaning_bn": "কল্যাণ বা অনুগ্রহ",
+   "why_en": "Refers to every gift, ease, and provision granted to human beings through divine mercy."
+  },
+  {
+   "pos": 10,
+   "root": "سوأ",
+   "lemma": "سَيِّئَة",
+   "meaning_en": "misfortune or hardship",
+   "meaning_bn": "অকল্যাণ বা বিপদ",
+   "why_en": "Points to painful trials that fall upon people as a direct consequence of their own sins."
+  },
+  {
+   "pos": 12,
+   "root": "نفس",
+   "lemma": "نَفْس",
+   "meaning_en": "your own self",
+   "meaning_bn": "তোমার নিজের সত্তা",
+   "why_en": "Attributes hardship directly to personal sins and wrongdoing, holding the person accountable."
+  },
+  {
+   "pos": 18,
+   "root": "شهد",
+   "lemma": "شَهِيد",
+   "meaning_en": "as a Witness",
+   "meaning_bn": "সাক্ষী হিসেবে",
+   "why_en": "Declares that Allah's witness to the truth of the Prophet's mission is supreme and sufficient."
+  }
+ ],
+ "lesson_en": "Thank Allah for every gift you have, and look at your own faults when trouble comes.",
+ "lesson_bn": "সকল ভালো প্রাপ্তির জন্য আল্লাহর শুকরিয়া আদায় করুন এবং কোনো বিপদ এলে নিজের ভুলত্রুটি খুঁজে তাওবা করুন।",
+ "real_life_en": "A young girl gets top marks on her test. She thanks Allah for giving her a sharp mind instead of feeling proud. When she forgets her work the next week, she admits that she stayed up late watching videos and vows to sleep on time.",
+ "real_life_bn": "কোনো কাজে সফলতা এলে নিজের অহংকার না দেখিয়ে আল্লাহর শুকরিয়া করুন, আর কোনো ব্যর্থতা এলে অন্যকে দোষ না দিয়ে নিজের ভুল সংশোধন করুন।",
+ "context_en": "Explains the proper spiritual attitude toward destiny: blessings are Allah's unearned grace, while hardships result from human wrongdoing.",
+ "context_bn": "তাকদীরের সূক্ষ্ম রহস্য তুলে ধরে জানানো হয়েছে যে সকল নেয়ামত আল্লাহর দয়া, আর যেকোনো অমঙ্গল মানুষের নিজের কৃতকর্মের ফল।",
+ "themes": [
+  "Allah's mercy",
+  "gratitude",
+  "repentance",
+  "prophethood",
+  "justice"
+ ],
+ "kinds": [
+  "belief",
+  "argument",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Ash-Shaheed"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Every good and blessing that reaches a person is from the pure grace and favor of Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Misfortune and hardship that afflict a person are consequences of their own misdeeds and sins.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Prophet Muhammad ﷺ is sent as a messenger to all humanity, and Allah suffices as a witness to his truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

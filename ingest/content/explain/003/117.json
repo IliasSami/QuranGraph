@@ -1,0 +1,92 @@
+{
+ "id": "3:117",
+ "simple_en": "The wealth that disbelievers spend in this worldly life is like a freezing wind containing bitter frost. It strikes the thriving harvest of people who wronged themselves and destroys it completely. In the same way, lack of faith ruins their deeds in the Hereafter. Allah never wronged them; rather, they wronged themselves through their own choices.",
+ "simple_bn": "সত্য অস্বীকারকারীরা এই পার্থিব জীবনে যা কিছু ব্যয় করে, তার উদাহরণ হলো এক তীব্র হিমশীতল ঝড়ো হাওয়া। যা নিজেদের ওপর অবিচারকারী কোনো জাতির সবুজ শস্যক্ষেতে আঘাত হেনে তা পুরোপুরি ধ্বংস করে দেয়। তেমনিভাবে ঈমানহীনতা তাদের সব আমল নিষ্ফল করে দেয়। আল্লাহ তাদের ওপর কোনো অবিচার করেননি, বরং তারা নিজেরাই নিজেদের প্রতি জুলুম করেছে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "نفق",
+   "lemma": "أَنفَقَ",
+   "meaning_en": "they spend",
+   "meaning_bn": "তারা ব্যয় করে",
+   "why_en": "Refers to charitable donations or worldly spending without the foundation of faith."
+  },
+  {
+   "pos": 11,
+   "root": "صرر",
+   "lemma": "صِرّ",
+   "meaning_en": "bitter cold / icy frost",
+   "meaning_bn": "তীব্র কনকনে ঠাণ্ডা বা তুষারঝড়",
+   "why_en": "A striking metaphor for how disbelief destroys the fruit of seemingly good deeds."
+  },
+  {
+   "pos": 13,
+   "root": "حرث",
+   "lemma": "حَرْث",
+   "meaning_en": "harvest / crop",
+   "meaning_bn": "শস্যক্ষেত",
+   "why_en": "Represents anticipated returns and worldly efforts that are suddenly ruined."
+  },
+  {
+   "pos": 17,
+   "root": "هلك",
+   "lemma": "أَهْلَكَ",
+   "meaning_en": "and destroyed it",
+   "meaning_bn": "অতঃপর তা ধ্বংস করে দিল",
+   "why_en": "Shows the complete annihilation of worldly deeds that lacked sincere faith in Allah."
+  }
+ ],
+ "lesson_en": "Good deeds without faith are like crops ruined by frost; true faith is the foundation that preserves your actions.",
+ "lesson_bn": "ঈমান ছাড়া কোনো নেক আমল টিকে থাকে না, তুষারঝড়ে ধ্বংস হওয়া ফসলের মতো তা অর্থহীন হয়ে যায়।",
+ "real_life_en": "When you give to charity, check your intention. Give to please Allah alone, not to show off to people. Sincere faith keeps your good deeds safe.",
+ "real_life_bn": "দান করার সময় নিজের নিয়ত পরীক্ষা করুন। মানুষের বাহবা পাওয়ার জন্য নয়, বরং কেবল আল্লাহর সন্তুষ্টির জন্য দান করুন। খাঁটি নিয়ত নেক আমলকে নষ্ট হওয়া থেকে রক্ষা করে।",
+ "context_en": "Provides a vivid parable illustrating the futility of the spending and deeds of those who reject faith mentioned in 3:116.",
+ "context_bn": "১১৬ নম্বর আয়াতে বর্ণিত অবিশ্বাসীদের ধন-সম্পদের ব্যর্থতাকে স্পষ্ট করার জন্য এখানে একটি হৃদয়গ্রাহী উপমা দেওয়া হয়েছে।",
+ "themes": [
+  "parable",
+  "charity",
+  "this world",
+  "justice",
+  "disbelief"
+ ],
+ "kinds": [
+  "parable",
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The spending of disbelievers in this world is like a freezing wind with intense frost that strikes and destroys the harvest of wrongdoers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah does not wrong them when their deeds are rendered void, but they wrong themselves through their disbelief and rejection of truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

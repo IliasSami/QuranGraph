@@ -1,0 +1,81 @@
+{
+  "id": "57:13",
+  "simple_en": "On that Day, the hypocrite men and women will see the believers moving ahead in the dark. They will cry out, asking the believers to wait so they can share some of their light. But they will be told to turn back and look for light. Then a high wall with a gate will be set between them. Inside the gate lies Allah's mercy, and outside lies harsh punishment.",
+  "simple_bn": "সেদিন মুনাফিক পুরুষ ও নারীরা মুমিনদের আলোতে এগিয়ে যেতে দেখে কাতর হয়ে ডাকবে এবং বলবে, আমাদের জন্য একটু থামো যাতে আমরা তোমাদের আলো থেকে কিছু নিতে পারি। কিন্তু তাদেরকে বলা হবে, তোমরা পেছনে ফিরে গিয়ে আলোর সন্ধান করো। তখন তাদের মাঝখানে একটি দরজা বিশিষ্ট প্রাচীর তৈরি করা হবে, যার ভেতরের দিকে থাকবে রহমত এবং বাইরের দিকে থাকবে শাস্তি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نفق",
+      "lemma": "مُنافِق",
+      "meaning_en": "the hypocrites",
+      "meaning_bn": "মুনাফিকগণ",
+      "why_en": "Those who showed outward faith in the world while hiding disbelief in their hearts."
+    },
+    {
+      "pos": 8,
+      "root": "قبس",
+      "lemma": "نَقْتَبِسْ",
+      "meaning_en": "we may take",
+      "meaning_bn": "আমরা কিছু আলো গ্রহণ করতে পারি",
+      "why_en": "Shows the desperate plea of the hypocrites to borrow light in the darkness."
+    },
+    {
+      "pos": 18,
+      "root": "سور",
+      "lemma": "سُور",
+      "meaning_en": "a wall",
+      "meaning_bn": "একটি প্রাচীর",
+      "why_en": "The barrier placed between the believers and the hypocrites on Judgment Day."
+    }
+  ],
+  "lesson_en": "Faith must be real in the heart, because borrowed faith cannot save anyone on the Last Day.",
+  "lesson_bn": "ঈমান অন্তরে খাঁটি হতে হবে, কারণ কিয়ামতের দিন কারো আলো ধার করে পার পাওয়া যাবে না।",
+  "real_life_en": "A student copies his friend's work all term and gets easy marks. But on exam day, he sits alone before the test paper. His friend cannot help him now. He realizes that only his own real knowledge can save him when the test begins.",
+  "real_life_bn": "এক ছাত্র পুরো সেমিস্টার জুড়ে সহপাঠীর খাতা দেখে অ্যাসাইনমেন্ট জমা দিয়ে ভালো নম্বর পায়। কিন্তু চূড়ান্ত মৌখিক পরীক্ষার দিনে সে শিক্ষকের সামনে একা বসে থাকে। তখন সে বুঝতে পারে যে নিজের অর্জিত বিদ্যা ছাড়া অন্যের সাহায্য দিয়ে আসল পরীক্ষায় পার পাওয়া যায় না।",
+  "themes": [
+    "hypocrisy",
+    "the Last Day",
+    "punishment",
+    "Allah's mercy"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites will plead with believers on the Last Day to share their light, but they will be refused.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "A dividing wall will separate believers who receive mercy from hypocrites who face punishment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

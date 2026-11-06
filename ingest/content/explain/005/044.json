@@ -1,0 +1,100 @@
+{
+  "id": "5:44",
+  "simple_en": "Allah revealed the Torah with clear guidance and light. The prophets who submitted to Allah judged by it for the Jewish people. Devout scholars and leaders also ruled by it, as they were entrusted to guard Allah's Scripture. Allah tells them: Do not fear people, but fear Me alone. Do not sell My verses for a petty earthly price. Whoever rejects Allah's law and refuses to judge by His revelation has fallen into disbelief.",
+  "simple_bn": "নিশ্চয়ই আল্লাহ তাওরাত নাযিল করেছিলেন, যার মধ্যে ছিল সঠিক পথের দিশা ও নূর। আল্লাহর অনুগত নবীগণ এই কিতাব অনুযায়ী ইহুদিদের বিচার করতেন। তেমনিভাবে ধর্মগুরু ও বিজ্ঞ পণ্ডিতরাও এর ভিত্তিতে ফায়সালা করতেন; কারণ তাদেরকে আল্লাহর কিতাবের সুরক্ষার দায়িত্ব দেওয়া হয়েছিল। আল্লাহ নির্দেশ দিয়েছেন: তোমরা মানুষকে ভয় পেয়ো না, কেবল আমাকেই ভয় করো। আর আমার আয়াতসমূহকে সামান্য পার্থিব স্বার্থের বিনিময়ে বিক্রি কোরো না। যারা আল্লাহর অবতীর্ণ বিধান অনুযায়ী বিচার করে না, তারাই কাফির।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "هدي",
+      "lemma": "هُدًى",
+      "meaning_en": "guidance",
+      "meaning_bn": "সঠিক পথের দিশা",
+      "why_en": "Names the divine purpose of revealed scripture in directing humanity toward good."
+    },
+    {
+      "pos": 6,
+      "root": "نور",
+      "lemma": "نُور",
+      "meaning_en": "light",
+      "meaning_bn": "আলো বা নূর",
+      "why_en": "Describes the clarity of divine law that illuminates truth and dispels confusion."
+    },
+    {
+      "pos": 17,
+      "root": "حفظ",
+      "lemma": "اسْتُحْفِظُ",
+      "meaning_en": "they were entrusted to preserve",
+      "meaning_bn": "তাদের সুরক্ষার দায়িত্ব দেওয়া হয়েছিল",
+      "why_en": "Points out the sacred trust placed upon scholars to protect religious teachings."
+    },
+    {
+      "pos": 27,
+      "root": "خشي",
+      "lemma": "خَشِيَ",
+      "meaning_en": "fear Me",
+      "meaning_bn": "আমাকে ভয় করো",
+      "why_en": "Direct command to revere Allah alone over the opinions and threats of people."
+    }
+  ],
+  "lesson_en": "Fear Allah above all people. Never trade divine truth for worldly wealth or status.",
+  "lesson_bn": "মানুষের চেয়ে আল্লাহকে বেশি ভয় করুন। সামান্য পার্থিব লাভের জন্য সত্যকে বিসর্জন দেবেন না।",
+  "real_life_en": "When you lead others, speak the truth without fear. Do not let peers pressure you to do wrong. Never give up your faith for money. Pleasing Allah brings true honor.",
+  "real_life_bn": "দায়িত্বপূর্ণ পদে থাকলে ভয়ডরহীনভাবে সত্যের ওপর অটল থাকুন। কোনো প্রভাবশালী ব্যক্তির চাপ বা আর্থিক লাভের আশায় ন্যায়ের পথ ছাড়বেন না। আল্লাহর সন্তুষ্টির কাছে দুনিয়ার সব লাভ তুচ্ছ।",
+  "context_en": "Emphasizes the sanctity of the Torah and the duty of scholars to implement divine law without fear of man.",
+  "context_bn": "তাওরাতের মর্যাদা এবং মানুষের ভয় উপেক্ষা করে আল্লাহর কিতাব বাস্তবায়নে আলেমদের গুরুদায়িত্বের বর্ণনা।",
+  "themes": [
+    "revelation",
+    "guidance",
+    "taqwa",
+    "Children of Israel",
+    "stories of the prophets"
+  ],
+  "kinds": [
+    "command",
+    "warning",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Torah"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Torah was revealed as guidance and light for the Children of Israel.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Prophets and trustworthy scholars were commanded to preserve and apply Allah's Book without fear of people.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Refusing to judge by Allah's revelation out of denial is disbelief.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "often-misquoted",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

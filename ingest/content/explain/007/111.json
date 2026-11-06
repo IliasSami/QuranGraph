@@ -1,0 +1,85 @@
+{
+ "id": "7:111",
+ "simple_en": "The leaders gave advice to Pharaoh. They told him to wait before punishing Musa and his brother Harun. Meanwhile, Pharaoh should send men across all cities of Egypt. These men would bring every skilled magician to face Musa in public.",
+ "simple_bn": "ফিরআউনের সভাসদরা তাকে একটি চাতুর্যপূর্ণ পরামর্শ দিল। তারা বলল, মূসা ও তাঁর ভাই হারূনকে কিছু সময় অবকাশ দিন এবং তাদের বিরুদ্ধে এখনই চরম ব্যবস্থা নেবেন না। এর ফাঁকে মিসরের প্রতিটি শহরে বার্তা সংগ্রাহক পাঠান। তারা দেশের সব দক্ষ জাদুকরকে একত্রিত করে মূসার মোকাবেলায় নিয়ে আসবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "رجو",
+   "lemma": "تُرْجِي",
+   "meaning_en": "postpone / put off him",
+   "meaning_bn": "তাকে অবকাশ দাও / মুলতবি রাখো",
+   "why_en": "The council advises delaying direct punishment until magicians are gathered."
+  },
+  {
+   "pos": 3,
+   "root": "أخو",
+   "lemma": "أَخ",
+   "meaning_en": "and his brother",
+   "meaning_bn": "এবং তার ভাইকে",
+   "why_en": "Refers to Prophet Harun (Aaron), who supported Musa in his mission."
+  },
+  {
+   "pos": 7,
+   "root": "حشر",
+   "lemma": "حاشِر",
+   "meaning_en": "gatherers / mobilizers",
+   "meaning_bn": "সংগ্রাহক বা সমবেতকারী",
+   "why_en": "Officials commissioned to summon all magicians across the Egyptian towns."
+  }
+ ],
+ "lesson_en": "Evil men make big plans, but the plan of Allah always wins in the end.",
+ "lesson_bn": "ষড়যন্ত্রকারীরা যতই লোকবল ও কৌশল একত্রিত করুক না কেন, আল্লাহর ইচ্ছার সামনে তাদের সব চেষ্টা ব্যর্থ হতে বাধ্য।",
+ "real_life_en": "People may plot against truth or fairness in your workplace or community. Do not worry about their numbers or connections. Stay truthful and patient. Falsehood cannot withstand the light of genuine truth.",
+ "real_life_bn": "কখনো কখনো অন্যায়কারী পক্ষ নিজেদের প্রভাব বাড়াতে জোটবদ্ধ হতে পারে। তাদের লোকবল বা চক্রান্ত দেখে ভীত হবেন না। সত্যের ওপর অবিচল থাকুন। আল্লাহর সাহায্যে শেষ পর্যন্ত সততারই জয় হয়।",
+ "context_en": "The ruling council advises Pharaoh to counter Musa's signs with the collective power of Egypt's magicians.",
+ "context_bn": "সভাসদরা ফিরআউনকে পরামর্শ দেয় মূসার মু'জিযার মোকাবেলায় সারা দেশের জাদুকরদের ডেকে আনার জন্য।",
+ "themes": [
+  "Pharaoh's council",
+  "Harun",
+  "assembling magicians",
+  "plots against truth"
+ ],
+ "kinds": [
+  "story",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "Pharaoh",
+   "Musa (Moses)",
+   "Harun (Aaron)"
+  ],
+  "nations": [],
+  "places": [
+   "cities of Egypt"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The advisors told Pharaoh to delay action against Musa and his brother Harun.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "They suggested sending emissaries to Egyptian cities to summon all practicing magicians.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,66 @@
+{
+ "id": "75:30",
+ "simple_en": "On that Day, the deceased person is driven to his Lord. The soul departs toward its Creator to receive its judgment. There is no other destination, and everyone must face the record of their earthly life.",
+ "simple_bn": "সেদিন মৃত ব্যক্তিকে তার প্রতিপালকের দিকেই হাঁকিয়ে নেওয়া হবে। আত্মা তার স্রষ্টার কাছে উপস্থিত হয়ে চূড়ান্ত ফয়সালার মুখোমুখি হবে। অন্য কোনো আশ্রয়ের সুযোগ নেই, প্রত্যেককেই তার কৃতকর্মের হিসাব দিতে হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "your Lord",
+   "meaning_bn": "আপনার রব",
+   "why_en": "The soul is driven toward its Master."
+  },
+  {
+   "pos": 4,
+   "root": "سوق",
+   "lemma": "مَساق",
+   "meaning_en": "the procession",
+   "meaning_bn": "হাঁকিয়ে নেওয়া",
+   "why_en": "The soul is taken to stand before Allah for its reckoning."
+  }
+ ],
+ "lesson_en": "Every soul will be brought before Allah, so live in a way that pleases Him.",
+ "lesson_bn": "প্রত্যেক আত্মাকেই আল্লাহর সামনে দাঁড়াতে হবে, তাই তাঁর সন্তুষ্টি অর্জনের জন্য জীবনযাপন করুন।",
+ "real_life_en": "Before you sleep each night, take a brief moment to review your day. Ask yourself if you spent your hours in a way you would be glad to show to Allah.",
+ "real_life_bn": "রাতে ঘুমানোর আগে সারা দিনের কাজের একটি ছোট্ট পর্যালোচনা করুন। নিজেকে জিজ্ঞেস করুন, আজকের দিনটি এমনভাবে কাটিয়েছেন কি না যা আল্লাহর সামনে পেশ করতে আনন্দ হবে।",
+ "themes": [
+  "the Last Day",
+  "judgment",
+  "resurrection"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "day-of-judgment"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [
+   "day-of-judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "On that Day, the deceased soul will be driven toward his Lord for reckoning.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

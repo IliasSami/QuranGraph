@@ -1,0 +1,76 @@
+{
+ "id": "71:22",
+ "simple_en": "The wealthy leaders devised a massive plot against Prophet Nuh. They used their influence and money to keep the masses away from the truth. They spread lies about him and incited the crowds against his message, working day and night to stop the worship of the One God.",
+ "simple_bn": "ধনী নেতারা নবী নূহের বিরুদ্ধে এক বিশাল চক্রান্ত শুরু করেছিল। তারা সাধারণ মানুষকে সত্য থেকে দূরে রাখতে নিজেদের প্রভাব ও অর্থ ব্যয় করল। তারা নূহের বিরুদ্ধে মিথ্যা রটিয়ে দিল এবং তাঁর দাওয়াত বন্ধ করতে দিনরাত ষড়যন্ত্রে লিপ্ত হলো।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "مكر",
+   "lemma": "مَكَرَ",
+   "meaning_en": "they plotted, conspired",
+   "meaning_bn": "আর তারা ষড়যন্ত্র করেছে",
+   "why_en": "Scheming secretly and openly against the prophet."
+  },
+  {
+   "pos": 2,
+   "root": "مكر",
+   "lemma": "مَكْر",
+   "meaning_en": "a plot, conspiracy",
+   "meaning_bn": "ষড়যন্ত্র",
+   "why_en": "The calculated effort to suppress the truth."
+  },
+  {
+   "pos": 3,
+   "root": "كبر",
+   "lemma": "كُبّار",
+   "meaning_en": "immense, huge",
+   "meaning_bn": "ভয়ানক, অনেক বড়",
+   "why_en": "An exaggerated form showing how large and severe their plotting was."
+  }
+ ],
+ "lesson_en": "Evil plots may look strong for a time, but Allah's plan will always prevail in the end.",
+ "lesson_bn": "অন্যায় ষড়যন্ত্র সাময়িকভাবে প্রবল মনে হলেও শেষ পর্যন্ত সত্য ও আল্লাহর পরিকল্পনাই জয়ী হয়।",
+ "real_life_en": "A corrupt group at a workplace spreads rumors to block an honest worker from getting promoted. The honest worker remains patient and does his duty. In time, the truth comes out and the plot fails completely.",
+ "real_life_bn": "কাজের জায়গায় কিছু অসৎ লোক একজন সৎ কর্মীর পদোন্নতি আটকাতে নানা গুজব রটায়। সেই সৎ কর্মী ধৈর্য ধরে নিজের কাজ করে যায়। কিছুদিন পর সত্য প্রকাশ পায় এবং ষড়যন্ত্রকারীদের মুখ উন্মোচিত হয়।",
+ "themes": [
+  "plotting",
+  "Noah",
+  "persecution"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "nuh"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The chieftains hatched a huge plot by inciting the people against Noah and spreading falsehood.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The disbelieving leaders conspired an immense conspiracy to protect their falsehood.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

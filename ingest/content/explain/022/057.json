@@ -1,0 +1,63 @@
+{
+  "id": "22:57",
+  "simple_en": "Those who disbelieved and rejected Our clear signs will face a shameful punishment. Their worldly pride will be broken. They will dwell in the blazing fire of Hell.",
+  "simple_bn": "আর যারা কুফরি করেছে এবং আমার আয়াতসমূহকে মিথ্যা বলেছে, তাদের জন্য রয়েছে চরম লাঞ্ছনাদায়ক শাস্তি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "and they denied",
+      "meaning_bn": "এবং অস্বীকার করেছিল",
+      "why_en": "Denying divine signs leads to complete humiliation."
+    },
+    {
+      "pos": 8,
+      "root": "هون",
+      "lemma": "مُهِين",
+      "meaning_en": "humiliating",
+      "meaning_bn": "লাঞ্ছনাদায়ক",
+      "why_en": "Humiliating punishment stripping deniers of all worldly pride."
+    }
+  ],
+  "lesson_en": "Rejecting divine signs brings shameful regret. Arrogant souls will lose all their worldly status.",
+  "lesson_bn": "আল্লাহর নিদর্শনসমূহকে অস্বীকার করলে চরম লাঞ্ছনা ভোগ করতে হবে। পার্থিব অহংকার পরকালে ধূলিসাৎ হয়ে যাবে।",
+  "real_life_en": "Treat sacred signs and truth with respect. Never let pride stop you from admitting when you are wrong.",
+  "real_life_bn": "সত্য ও পবিত্র বিধানকে শ্রদ্ধার সাথে গ্রহণ করুন। নিজের ভুল স্বীকার করার ক্ষেত্রে অহংকারকে বাধা হতে দেবেন না।",
+  "themes": [
+    "denial-of-truth",
+    "humiliation",
+    "hellfire"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hellfire"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Those who reject faith and deny divine signs are warned of an agonizing and humiliating retribution.",
+      "claim_bn": "কুফরি করা এবং ঐশী আয়াতসমূহকে মিথ্যা মনে করার শাস্তি হলো চরম অপমানজনক শাস্তি।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

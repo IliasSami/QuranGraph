@@ -1,0 +1,65 @@
+{
+  "id": "24:34",
+  "simple_en": "We have sent down clear verses that explain the truth to you. We gave lessons from earlier peoples who passed away before your time. We also gave good advice for those who revere God.",
+  "simple_bn": "আমরা তোমাদের প্রতি সুস্পষ্ট নির্দেশনাসমূহ নাজিল করেছি। তোমাদের পূর্ববর্তী অতীত জাতিসমূহের শিক্ষণীয় দৃষ্টান্ত এবং মুত্তাকীদের জন্য কার্যকর উপদেশ পাঠানো হয়েছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نزل",
+      "lemma": "أَنزَلَ",
+      "meaning_en": "We sent down",
+      "meaning_bn": "আমরা নাজিল করেছি",
+      "why_en": "Divine revelation bestowed upon humanity for clear guidance."
+    },
+    {
+      "pos": 5,
+      "root": "بين",
+      "lemma": "مُبَيِّنَة",
+      "meaning_en": "clear and clarifying",
+      "meaning_bn": "সুস্পষ্ট বা বিশদ বর্ণনাকারী",
+      "why_en": "Verses that explain divine laws and moral duties with clarity."
+    }
+  ],
+  "lesson_en": "Past history carries vital lessons for wise minds. Reverence for God opens the heart to benefit from divine advice.",
+  "lesson_bn": "অতীতের ইতিহাস বিবেকবান মানুষের জন্য মূল্যবান শিক্ষা বহন করে। আল্লাহর ভয় থাকলে মানুষ উপদেশ থেকে উপকৃত হতে পারে।",
+  "real_life_en": "Read Quranic stories to see how past nations rose and fell. Let these lessons guide your choices each day and keep you close to God.",
+  "real_life_bn": "কুরআনে বর্ণিত অতীত জাতিদের ঘটনাগুলো পড়ুন এবং তাদের ভুল থেকে শিক্ষা নিন। এই উপদেশগুলো নিজের প্রাত্যহিক জীবনে সঠিক পথ বেছে নিতে কাজে লাগান।",
+  "themes": [
+    "revelation",
+    "historical-lessons",
+    "admonition",
+    "piety"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "ethics",
+    "promise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "earlier-nations"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God has revealed clear verses, historic examples of past peoples, and admonitions that guide the God-fearing to righteousness.",
+      "claim_bn": "আল্লাহ সুস্পষ্ট আয়াতসমূহ, পূর্ববর্তী জাতিসমূহের দৃষ্টান্ত এবং খোদাভীরুদের জন্য কার্যকর উপদেশ নাজিল করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

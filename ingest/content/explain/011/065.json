@@ -1,0 +1,87 @@
+{
+  "id": "11:65",
+  "simple_en": "Yet they cruelly hamstrung and killed her. Salih said to them: Enjoy yourselves in your homes for just three days. That is a promised warning that will never fail.",
+  "simple_bn": "কিন্তু তারা উটনীটিকে হত্যা করল। তখন সালিহ বললেন: তোমরা তোমাদের ঘরে তিন দিন জীবন উপভোগ করে নাও। এটি এমন এক প্রতিশ্রুতি যা কখনো মিথ্যে হবে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "عقر",
+      "lemma": "عَقَرَ",
+      "meaning_en": "they hamstrung / killed",
+      "meaning_bn": "তারা পা কেটে হত্যা করল",
+      "why_en": "The defiant slaughter of the miraculous sign."
+    },
+    {
+      "pos": 3,
+      "root": "متع",
+      "lemma": "تَمَتَّعُ",
+      "meaning_en": "enjoy yourselves",
+      "meaning_bn": "তোমরা উপভোগ করো",
+      "why_en": "A brief final respite before total doom."
+    },
+    {
+      "pos": 6,
+      "root": "ثلث",
+      "lemma": "ثَلاثَة",
+      "meaning_en": "three",
+      "meaning_bn": "তিন",
+      "why_en": "The exact three days of respite granted."
+    },
+    {
+      "pos": 11,
+      "root": "كذب",
+      "lemma": "مَكْذُوب",
+      "meaning_en": "denied / false",
+      "meaning_bn": "মিথ্যে / ব্যর্থ",
+      "why_en": "The infallible certainty of divine retribution."
+    }
+  ],
+  "lesson_en": "Ignoring divine warnings brings sure ruin when the time of mercy ends.",
+  "lesson_bn": "আল্লাহর সীমা লঙ্ঘন করার দুঃসাহস মানুষকে দ্রুত নিশ্চিত ধ্বংসের মুখে এনে দাঁড় করায়।",
+  "real_life_en": "Do not treat moral boundaries lightly. When warned about a bad habit, stop right away before serious consequences catch up with you.",
+  "real_life_bn": "অন্যায় পথে চললে সময় থাকতেই ফিরে আসুন; সীমা ছাড়িয়ে গেলে সংশোধনের আর কোনো সুযোগ নাও মিলতে পারে।",
+  "themes": [
+    "slaughter of the she-camel",
+    "three days of respite",
+    "certainty of divine retribution"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Salih (peace be upon him)"
+    ],
+    "nations": [
+      "People of Thamud"
+    ],
+    "places": [
+      "their homes"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "The Three Days of Respite"
+    ],
+    "things": [
+      "she-camel of Allah"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Thamud slaughtered the she-camel despite the warning, leading Salih to announce three final days of life before unfailing destruction.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

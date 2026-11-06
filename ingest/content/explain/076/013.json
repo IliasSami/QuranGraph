@@ -1,0 +1,77 @@
+{
+ "id": "76:13",
+ "simple_en": "In Paradise, the believers will relax on comfortable, decorated couches. They will enjoy a perfect climate that is always pleasant. They will not feel the scorching heat of a sun, nor will they suffer from freezing cold.",
+ "simple_bn": "জান্নাতে মুমিনরা সুসজ্জিত পালঙ্কে হেলান দিয়ে বিশ্রাম নেবে। সেখানে তারা নাতিশীতোষ্ণ মনোরম পরিবেশ উপভোগ করবে। তারা তীব্র সূর্যের গরম অনুভব করবে না এবং কোনো কনকনে শীতের কষ্টও পাবে না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "وكأ",
+   "lemma": "مُتَّكِئ",
+   "meaning_en": "reclining, relaxing",
+   "meaning_bn": "হেলান দিয়ে থাকা",
+   "why_en": "Depicts total ease and contentment in the gardens of delight."
+  },
+  {
+   "pos": 4,
+   "root": "أرك",
+   "lemma": "أَرائِك",
+   "meaning_en": "couches, thrones",
+   "meaning_bn": "সুসজ্জিত পালঙ্ক",
+   "why_en": "Elevated and adorned couches made for heavenly rest."
+  },
+  {
+   "pos": 8,
+   "root": "شمس",
+   "lemma": "شَمْس",
+   "meaning_en": "sun, burning heat",
+   "meaning_bn": "সূর্যের তাপ",
+   "why_en": "There is no painful glare or scorching sun to disturb them."
+  },
+  {
+   "pos": 10,
+   "root": "زمهر",
+   "lemma": "زَمْهَرِير",
+   "meaning_en": "freezing cold",
+   "meaning_bn": "কঠিন শীতলতা",
+   "why_en": "There is no biting cold; the climate is gentle and mild."
+  }
+ ],
+ "lesson_en": "The rest and comfort of the believers in Paradise will be free from all distress and pain.",
+ "lesson_bn": "জান্নাতে মুমিনদের বিশ্রাম ও আরাম হবে সকল ধরনের কষ্ট ও প্রতিকূলতা থেকে মুক্ত।",
+ "real_life_en": "On hot summer days or cold winter nights, we easily feel tired. Life in this world always has harsh weather. Remembering the gentle air of Paradise brings peace to your heart. It gives you hope for an everlasting home where no heat or cold will ever harm you.",
+ "real_life_bn": "গ্রীষ্মের তীব্র রোদ বা শীতের তীব্র ঠান্ডায় আমরা প্রায়ই ক্লান্ত হয়ে পড়ি। দুনিয়ার জীবন সবসময়ই প্রতিকূল আবহাওয়ায় ঘেরা। জান্নাতের আরামদায়ক স্নিগ্ধ পরিবেশের কথা মনে রাখলে এমন একটি চিরস্থায়ী ঘরের আশা জাগে, যেখানে কোনো কষ্ট নেই।",
+ "themes": [
+  "Paradise",
+  "reward"
+ ],
+ "kinds": [
+  "glad-tidings",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "paradise"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The believers in Paradise will recline on couches without seeing scorching heat or extreme cold.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "9:98",
+  "simple_en": "Among the desert Arabs are some who see what they spend as a fine, and they wait for misfortunes to hit you. Upon them will be the misfortune of evil. Allah is All-Hearing and All-Knowing.",
+  "simple_bn": "বেদুইনদের মধ্যে এমন লোকও আছে যারা আল্লাহর পথে ব্যয় করাকে জরিমানা মনে করে এবং তোমাদের ওপর কোনো বিপদ আসার অপেক্ষা করে। তাদের ওপরই আসুক অকল্যাণের বিপদ! আর আল্লাহ সর্বশ্রোতা ও সর্বজ্ঞ।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "غرم",
+      "lemma": "مَغْرَم",
+      "meaning_en": "a fine / loss",
+      "meaning_bn": "ক্ষতিপূরণ / জরিমানা",
+      "why_en": "Viewing charity as an unfair tax rather than an act of worship."
+    },
+    {
+      "pos": 8,
+      "root": "ربص",
+      "lemma": "تَرَبَّصْ",
+      "meaning_en": "waits / expects",
+      "meaning_bn": "অপেক্ষা করে / ওঁত পেতে থাকে",
+      "why_en": "Maliciously hoping for military or social catastrophe to strike believers."
+    },
+    {
+      "pos": 12,
+      "root": "دور",
+      "lemma": "دائِرَة",
+      "meaning_en": "misfortune / turn of fate",
+      "meaning_bn": "বিপর্যয় / অমঙ্গল চক্র",
+      "why_en": "Evil schemes rebounding directly upon their plotters."
+    }
+  ],
+  "lesson_en": "Giving with anger brings no reward, and wishing harm on others hurts you first.",
+  "lesson_bn": "অনিচ্ছাসত্ত্বেও দান করা কোনো পুণ্য আনে না, আর অন্যের অমঙ্গল কামনা করলে সেই অমঙ্গল নিজের ওপরই ফিরে আসে।",
+  "real_life_en": "Give charity with a joyful heart, not with anger. Never wish for hard times to fall upon your rivals; bad intentions always come back to harm you.",
+  "real_life_bn": "দান করার সময় খুশি মনে দিন, বোঝা মনে করবেন না; আর অন্যের ক্ষতি কামনা করবেন না, কারণ মন্দ নিয়ত নিজেরই ক্ষতি করে।",
+  "themes": [
+    "reluctant charity",
+    "malice",
+    "plots rebounding"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Bedouins"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "All-Hearing",
+      "All-Knowing"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Some Bedouins viewed almsgiving as a financial penalty and eagerly anticipated defeat for Muslims, but evil returns upon its plotters.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

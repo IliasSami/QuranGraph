@@ -1,0 +1,77 @@
+{
+  "id": "10:35",
+  "simple_en": "Say: Is there any of your partner-gods who can guide to the truth? Say: Allah guides to the truth. Is He who guides to truth more worthy of being followed, or someone who cannot guide unless he is guided? What is wrong with you? How do you judge?",
+  "simple_bn": "বলুন: তোমাদের শরিকদের মধ্যে এমন কেউ আছে কি, যে সত্যের পথ দেখাতে পারে? বলুন: আল্লাহই সত্যের পথ দেখান। তবে কি যিনি সত্যের পথ দেখান তিনি অনুসরণযোগ্য, নাকি সে ব্যক্তি যাকে পথ না দেখালে নিজে পথ পায় না? তোমাদের কী হলো, তোমরা কেমন সিদ্ধান্ত নিচ্ছ?",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "هدي",
+      "lemma": "هَدَى",
+      "meaning_en": "guides to truth",
+      "meaning_bn": "সত্যের পথ দেখান",
+      "why_en": "Revealing moral wisdom and intellectual clarity."
+    },
+    {
+      "pos": 17,
+      "root": "حقق",
+      "lemma": "أَحَقّ",
+      "meaning_en": "more worthy",
+      "meaning_bn": "অধিক উপযুক্ত / যোগ্যতর",
+      "why_en": "Supreme right to human loyalty and obedience."
+    },
+    {
+      "pos": 19,
+      "root": "تبع",
+      "lemma": "اتَّبَعَ",
+      "meaning_en": "to be followed",
+      "meaning_bn": "অনুসরণ করা উচিত",
+      "why_en": "Following the Source of guidance rather than blind statues."
+    }
+  ],
+  "lesson_en": "Follow the One who shows the way, not idols that need to be carried.",
+  "lesson_bn": "যিনি নিজে সত্যের দিশারী তাঁরই অনুসরণ করা উচিত, এমন কারও নয় যাকে অন্যের সাহায্য ছাড়া পথ দেখানো যায় না।",
+  "real_life_en": "Choose teachers and leaders who show real wisdom and good character. Do not follow famous people who are confused themselves.",
+  "real_life_bn": "জীবনের পথপ্রদর্শক হিসেবে জ্ঞানী ও চরিত্রবান মানুষদের বেছে নিন; নিজে বিভ্রান্ত এমন কারও পেছনে অন্ধভাবে হাঁটবেন না।",
+  "themes": [
+    "guidance to truth",
+    "who is worthy of obedience",
+    "rational critique of polytheism"
+  ],
+  "kinds": [
+    "argument",
+    "ethics",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Rational thought dictates following the divine Source of truth rather than inert idols or mortals who cannot guide themselves.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

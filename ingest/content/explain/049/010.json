@@ -1,0 +1,82 @@
+{
+  "id": "49:10",
+  "simple_en": "All believers are brothers in faith. When two believers or two Muslim groups have a disagreement, step in to make peace between your brothers. Fear Allah and follow His commands so that you may receive His mercy.",
+  "simple_bn": "সকল মুমিন পরস্পর ভাই ভাই। তাই তোমাদের দুই ভাই বা দলের মধ্যে বিরোধ দেখা দিলে তাদের মাঝে মীমাংসা করে দাও। আল্লাহকে ভয় করো যাতে তোমরা তাঁর রহমত লাভ করতে পারো।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أخو",
+      "lemma": "إِخْوَة",
+      "meaning_en": "brothers",
+      "meaning_bn": "ভাই ভাই",
+      "why_en": "It establishes the spiritual brotherhood uniting all Muslims."
+    },
+    {
+      "pos": 4,
+      "root": "صلح",
+      "lemma": "أَصْلَحَ",
+      "meaning_en": "make peace",
+      "meaning_bn": "মীমাংসা করো",
+      "why_en": "It commands active reconciliation among believers."
+    },
+    {
+      "pos": 7,
+      "root": "وقي",
+      "lemma": "اتَّقَى",
+      "meaning_en": "fear / be conscious of",
+      "meaning_bn": "তাকওয়া অবলম্বন করো",
+      "why_en": "It reminds believers that fulfilling community rights is part of taqwa."
+    },
+    {
+      "pos": 10,
+      "root": "رحم",
+      "lemma": "رَحِمَ",
+      "meaning_en": "you may receive mercy",
+      "meaning_bn": "তোমরা অনুগৃহীত হও",
+      "why_en": "It promises Allah's mercy to those who foster unity."
+    }
+  ],
+  "lesson_en": "True brotherhood means making peace and helping people forgive.",
+  "lesson_bn": "পারস্পরিক ভ্রাতৃত্বের দাবি হলো বিবাদ মিটিয়ে মুমিনদের মাঝে শান্তি স্থাপন করা।",
+  "real_life_en": "If two relatives or coworkers stop speaking after a fight, help them talk. Do not take sides or spread gossip, but encourage them to forgive and make amends.",
+  "real_life_bn": "দুজন আত্মীয় বা সহকর্মীর মাঝে কথা বন্ধ থাকলে তাদের মধ্যে ভাব করিয়ে দিন। কারো পক্ষ না নিয়ে ক্ষমা ও সম্প্রীতির পরামর্শ দিন।",
+  "themes": [
+    "brotherhood",
+    "unity",
+    "peace",
+    "Allah's mercy",
+    "taqwa"
+  ],
+  "kinds": [
+    "command",
+    "ethics",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers are brothers, and Muslims are commanded to reconcile between quarreling brothers and fear Allah to receive mercy.",
+      "claim_bn": "মুমিনরা ভাই ভাই; তাই বিবাদমান ভাইদের মাঝে মীমাংসা করার এবং আল্লাহর রহমত কামনায় তাকওয়া অবলম্বনের নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

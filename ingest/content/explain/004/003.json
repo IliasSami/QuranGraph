@@ -1,0 +1,83 @@
+{
+ "id": "4:3",
+ "simple_en": "If you fear you cannot treat female orphans fairly regarding their bridal gift, do not marry them. Instead, you may marry other women of your choice: two, three, or up to four. However, if you fear you cannot be fair among multiple wives, marry only one. Remaining with one wife is best to avoid unfairness and injustice.",
+ "simple_bn": "যদি তোমরা আশঙ্কা করো যে এতিম মেয়েদের প্রাপ্য মোহরানা দিয়ে সুবিচার করতে পারবে না, তবে তাদের বিয়ে কোরো না। বরং অন্য নারীদের মধ্য থেকে পছন্দমতো দুই, তিন বা চারজনকে বিয়ে করতে পারো। কিন্তু যদি আশঙ্কা করো যে একাধিক স্ত্রীর মাঝে সমান ন্যায়বিচার করতে পারবে না, তবে মাত্র একজনকে বিয়ে করো। এক স্ত্রী রাখাই অবিচার থেকে বেঁচে থাকার জন্য সবচেয়ে নিরাপদ।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "قسط",
+   "lemma": "تُقْسِطُ",
+   "meaning_en": "you act justly",
+   "meaning_bn": "তোমরা সুবিচার করো",
+   "why_en": "Refers to giving orphan women their rightful bridal gift without taking advantage of their vulnerability."
+  },
+  {
+   "pos": 19,
+   "root": "عدل",
+   "lemma": "عَدَلَ",
+   "meaning_en": "you treat justly",
+   "meaning_bn": "তোমরা ন্যায়বিচার করো",
+   "why_en": "Treating wives with equal care and fairness in financial support and time is a strict requirement."
+  },
+  {
+   "pos": 28,
+   "root": "عول",
+   "lemma": "تَعُولُ",
+   "meaning_en": "you oppress (deviate from justice)",
+   "meaning_bn": "তোমরা অবিচার করো",
+   "why_en": "Marrying only one wife protects a person from failing to uphold equal justice and falling into sin."
+  }
+ ],
+ "lesson_en": "Fairness is a strict duty in marriage. Marrying only one wife helps prevent injustice.",
+ "lesson_bn": "বিবাহে ন্যায়বিচার ও ইনসাফ রক্ষা করা অপরিহার্য শর্ত, আর এক স্ত্রী গ্রহণ করাই অবিচার থেকে বাঁচার শ্রেষ্ঠ উপায়।",
+ "real_life_en": "Before taking on family duties, ask yourself if you can be truly fair. A man must never take more roles than he can handle with justice. Fairness to family is a sacred trust.",
+ "real_life_bn": "পারিবারিক দায়িত্ব নেওয়ার আগে সততার সাথে ভাবুন যে আপনি ন্যায় ও যত্নের সাথে সবার হক আদায় করতে পারবেন কি না। এমন কোনো বাড়তি দায়িত্ব নেওয়া উচিত নয় যা ইনসাফের সাথে পালন করার সামর্থ্য নেই। স্ত্রীর অধিকার সুন্দরভাবে রক্ষা করা আল্লাহর দেওয়া এক আমানত।",
+ "context_en": "Guardians in pre-Islamic times sometimes married wealthy orphan girls under their care without giving them fair bridal gifts, so Allah restricted this practice and tied marriage to strict justice.",
+ "context_bn": "জাহেলি যুগে অভিভাবকরা কখনো কখনো তাদের অধীনস্থ এতিম মেয়েদের ন্যায্য মোহর না দিয়ে বিয়ে করত। আল্লাহ এই অবিচার নিষিদ্ধ করেন এবং কঠোর ন্যায়বিচারের শর্তে বিবাহের নিয়ম নির্ধারণ করেন।",
+ "themes": [
+  "marriage",
+  "justice",
+  "orphans",
+  "family"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "ethics",
+  "prohibition"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "If guardians fear they cannot give orphan women their fair dowries, they are directed to marry other lawful women up to four.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "If a man fears he cannot treat multiple wives with equal justice, he is commanded to marry only one.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

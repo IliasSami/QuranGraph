@@ -1,0 +1,63 @@
+{
+  "id": "40:19",
+  "simple_en": "Allah knows the hidden look of the eye toward what is wrong. He knows every secret kept safe inside human chests. Nothing is hidden from His sight, whether it is a secret thought or an open act.",
+  "simple_bn": "আল্লাহ চোখের গোপন অপলক দৃষ্টি সম্পর্কেও জানেন এবং অন্তরসমূহ যা লুকিয়ে রাখে সে সম্পর্কেও তিনি সম্যক অবগত। কোনো গোপন চিন্তা, সূক্ষ্ম সংকল্প বা গোপন চাওয়া তাঁর দৃষ্টি এড়িয়ে যেতে পারে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "خون",
+      "lemma": "خائِنَة",
+      "meaning_en": "the deceitful glance / treachery",
+      "meaning_bn": "গোপন প্রতারণা বা অপলক দৃষ্টি",
+      "why_en": "Refers to furtive, forbidden looks that people hide from onlookers."
+    },
+    {
+      "pos": 5,
+      "root": "خفي",
+      "lemma": "أُخْفِيَ",
+      "meaning_en": "conceals / hides",
+      "meaning_bn": "গোপন করে",
+      "why_en": "Points to innermost secrets and intentions harbored inside hearts."
+    }
+  ],
+  "lesson_en": "Allah sees what you do and knows what you keep inside.",
+  "lesson_bn": "সর্বদা এই অনুভূতি জাগ্রত রাখুন যে আল্লাহ আপনার চোখের পলক ও অন্তরের প্রতিটি ভাবনা দেখছেন।",
+  "real_life_en": "When browsing online or alone in a room, guard your gaze and your heart. Remember that even if no human sees you, your Creator is fully aware of your choices.",
+  "real_life_bn": "একাকী থাকা অবস্থায় কিংবা ইন্টারনেটে কাজ করার সময় দৃষ্টি সংযত রাখুন। মনে রাখুন, মানুষের চোখ এড়ানো গেলেও আল্লাহর নজর এড়ানো কখনো সম্ভব নয়।",
+  "themes": [
+    "Allah's knowledge",
+    "taqwa",
+    "ethics",
+    "names and attributes of Allah"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "ethics",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah knows the deceitful glance of the eyes and whatever the breasts conceal.",
+      "claim_bn": "আল্লাহ চোখের গোপন অপলক দৃষ্টি এবং অন্তরে যা লুকিয়ে রাখা হয় তা সম্পূর্ণরূপে জানেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

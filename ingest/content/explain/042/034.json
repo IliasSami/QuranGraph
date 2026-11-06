@@ -1,0 +1,79 @@
+{
+ "id": "42:34",
+ "simple_en": "Or Allah could destroy those ships and drown them because of the sins people commit. Yet in His mercy, He pardons many faults and brings people safely to shore.",
+ "simple_bn": "কিংবা মানুষের পাপের কারণে তিনি জাহাজগুলোকে ধ্বংস করে ডুবিয়ে দিতে পারতেন। কিন্তু তিনি স্বীয় রহমতে বহু অপরাধ ক্ষমা করেন এবং তাদের নিরাপদে তীরে পৌঁছে দেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "وبق",
+   "lemma": "يُوبِقْ",
+   "meaning_en": "He destroys them",
+   "meaning_bn": "তিনি ধ্বংস করতেন",
+   "why_en": "Warns of Allah's ability to sink ships and punish transgressors."
+  },
+  {
+   "pos": 4,
+   "root": "كسب",
+   "lemma": "كَسَبَ",
+   "meaning_en": "they earned",
+   "meaning_bn": "তারা অর্জন করেছে",
+   "why_en": "Links destruction to human disobedience and moral corruption."
+  },
+  {
+   "pos": 5,
+   "root": "عفو",
+   "lemma": "عَفا",
+   "meaning_en": "and He pardons",
+   "meaning_bn": "এবং তিনি মার্জনা করেন",
+   "why_en": "Highlights Allah's forbearance in withholding deserved punishment."
+  },
+  {
+   "pos": 7,
+   "root": "كثر",
+   "lemma": "كَثِير",
+   "meaning_en": "much",
+   "meaning_bn": "অনেক কিছু",
+   "why_en": "Shows the wide scope of divine forgiveness granted to humanity."
+  }
+ ],
+ "lesson_en": "Allah shows great mercy and holds back the punishment we deserve.",
+ "lesson_bn": "আমাদের বহু ভুলত্রুটি সত্ত্বেও মহান আল্লাহ স্বীয় রহমতে আমাদের শাস্তি স্থগিত রাখেন।",
+ "real_life_en": "When you escape danger on the road or recover from a severe illness, realize that Allah spared you. Use your second chance to turn away from sin and do good.",
+ "real_life_bn": "কোনো দুর্ঘটনা বা রোগ থেকে বেঁচে গেলে আল্লাহর শোকর আদায় করুন। এই নতুন সুযোগকে কাজে লাগিয়ে পাপ ত্যাগ করুন এবং নেক আমল বাড়িয়ে দিন।",
+ "themes": [
+  "punishment",
+  "Allah's mercy",
+  "forgiveness"
+ ],
+ "kinds": [
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah could destroy ships due to human sins, yet He pardons many faults and protects travelers.",
+   "claim_bn": "মানুষের পাপের কারণে আল্লাহ জাহাজ ডুবিয়ে দিতে পারতেন, কিন্তু তিনি বহু অপরাধ ক্ষমা করেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

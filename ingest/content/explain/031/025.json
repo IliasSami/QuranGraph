@@ -1,0 +1,61 @@
+{
+  "id": "31:25",
+  "simple_en": "If you ask the disbelievers who created the heavens and the earth, they will admit that God created them. Say, all praise belongs to God. Yet most of them do not understand the clear meaning of what they admit.",
+  "simple_bn": "আপনি যদি তাদের জিজ্ঞেস করেন আসমান ও জমিন কে সৃষ্টি করেছে, তবে তারা নিশ্চয় বলবে আল্লাহ। বলুন, সকল প্রশংসা আল্লাহর জন্য। তবুও তাদের অধিকাংশই বিষয়টি উপলব্ধি করে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "created",
+      "meaning_bn": "সৃষ্টি করেছেন",
+      "why_en": "The act of divine creation acknowledged even by idolaters."
+    },
+    {
+      "pos": 10,
+      "root": "حمد",
+      "lemma": "حَمْد",
+      "meaning_en": "all praise",
+      "meaning_bn": "সকল প্রশংসা",
+      "why_en": "Praising God who possesses absolute lordship."
+    }
+  ],
+  "lesson_en": "If you believe God created the world, then worship Him alone.",
+  "lesson_bn": "আল্লাহকে একমাত্র স্রষ্টা হিসেবে স্বীকার করলে কেবল তাঁরই ইবাদত করা আবশ্যক।",
+  "real_life_en": "Let your belief in God shape your daily actions. If you believe He created you, submit to His guidance and place your full trust in Him.",
+  "real_life_bn": "মুখের কথার সাথে কাজের মিল রাখুন। আল্লাহকে জীবনের মালিক মানলে তাঁর বিধান অনুযায়ী জীবন পরিচালনা করুন।",
+  "themes": [
+    "monotheism",
+    "creation",
+    "praise"
+  ],
+  "kinds": [
+    "argument",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Even polytheists admit that God created the universe, yet most fail to understand the necessity of worshipping Him alone.",
+      "claim_bn": "মুশরিকরাও স্বীকার করে যে আসমান ও জমিন আল্লাহই সৃষ্টি করেছেন, তবুও তারা আল্লাহর একত্ববাদের দাবি উপলব্ধি করে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

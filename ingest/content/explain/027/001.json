@@ -1,0 +1,64 @@
+{
+  "id": "27:1",
+  "simple_en": "These opening letters show the divine origin of the Quran. God reveals these verses in plain speech. They form a clear Book that guides people and explains the truth.",
+  "simple_bn": "এই সূচনার বিচ্ছিন্ন অক্ষরগুলো কুরআনের অলৌকিক উৎস নির্দেশ করে। মহান আল্লাহ মানুষের বোধগম্য ভাষায় এই আয়াতগুলো অবতীর্ণ করেছেন। এটি এমন এক সুস্পষ্ট কিতাব যা সত্য ও মিথ্যার পার্থক্য স্পষ্টভাবে তুলে ধরে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "ٱلْقُرْءَانِ",
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "the Quran",
+      "meaning_bn": "কুরআন",
+      "why_en": "The recited divine revelation."
+    },
+    {
+      "pos": 6,
+      "arabic": "مُّبِينٍ",
+      "root": "بين",
+      "lemma": "مُبِين",
+      "meaning_en": "clear",
+      "meaning_bn": "সুস্পষ্ট",
+      "why_en": "Clear in guiding to truth and justice."
+    }
+  ],
+  "lesson_en": "The Quran is a clear guide from God. Its teachings bring light and truth to all who seek guidance.",
+  "lesson_bn": "কুরআন মহান আল্লাহর অবতীর্ণ সুস্পষ্ট বাণী। এর প্রতিটি শিক্ষা মানবজাতিকে সঠিক পথ প্রদর্শন করে।",
+  "real_life_en": "Read the Quran with an open heart. Reflect on its clear words so they can guide your daily choices and actions.",
+  "real_life_bn": "জীবনের প্রতিটি পদক্ষেপে সঠিক সিদ্ধান্ত নেওয়ার জন্য নিয়মিত কুরআন তিলাওয়াত করুন এবং এর সুস্পষ্ট উপদেশগুলো মনে রাখুন।",
+  "themes": [
+    "quran",
+    "revelation"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran consists of clear divine verses revealed to guide humanity with absolute truth.",
+      "claim_bn": "কুরআন হলো মহান আল্লাহর অবতীর্ণ সুস্পষ্ট আয়াত যা মানবজাতিকে সত্যের পথ প্রদর্শনের জন্য নাযিল হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

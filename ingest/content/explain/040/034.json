@@ -1,0 +1,90 @@
+{
+  "id": "40:34",
+  "simple_en": "The believer reminded them that Yusuf (peace be upon him) had brought clear proofs to Egypt long ago. Yet people kept doubting his message. When he passed away, they claimed that Allah would never send another messenger. In this way Allah leaves in error those who cross all limits in doubt.",
+  "simple_bn": "সেই মুমিন স্মরণ করিয়ে দিল যে, পূর্বে ইউসুফ (আলাইহিস সালাম) সুস্পষ্ট প্রমাণাদিসহ তোমাদের নিকট এসেছিলেন। তবুও তোমরা তাঁর বার্তায় সংশয় পোষণ করেছিলে। অবশেষে যখন তাঁর ইন্তেকাল হলো, তখন তোমরা বলেছিলে যে আল্লাহ আর কোনো রাসূল পাঠাবেন না। এভাবেই আল্লাহ সীমালঙ্ঘনকারী সংশয়বাদীদের বিভ্রান্তিতে রাখেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": null,
+      "lemma": "يُوسُف",
+      "meaning_en": "Yusuf (Joseph)",
+      "meaning_bn": "ইউসুফ (আলাইহিস সালাম)",
+      "why_en": "The noble prophet who brought divine guidance to Egypt generations earlier."
+    },
+    {
+      "pos": 10,
+      "root": "شكك",
+      "lemma": "شَكّ",
+      "meaning_en": "doubt",
+      "meaning_bn": "সংশয়",
+      "why_en": "Perpetual skepticism that blinds the heart to clear proofs."
+    },
+    {
+      "pos": 16,
+      "root": "هلك",
+      "lemma": "هَلَكَ",
+      "meaning_en": "he died / passed away",
+      "meaning_bn": "তিনি ইন্তেকাল করলেন",
+      "why_en": "Refers to the passing of Prophet Yusuf from earthly life."
+    },
+    {
+      "pos": 29,
+      "root": "سرف",
+      "lemma": "مُسْرِف",
+      "meaning_en": "transgressor",
+      "meaning_bn": "সীমালঙ্ঘনকারী",
+      "why_en": "One who exceeds moral bounds and rebels against truth."
+    },
+    {
+      "pos": 30,
+      "root": "ريب",
+      "lemma": "مُرْتاب",
+      "meaning_en": "doubter",
+      "meaning_bn": "সংশয়বাদী",
+      "why_en": "One who habitually questions divine guidance out of arrogance."
+    }
+  ],
+  "lesson_en": "Constant doubt blinds a person to clear guidance.",
+  "lesson_bn": "ক্রমাগত সংশয় ও একগুঁয়েমি মানুষকে সত্যের আলো গ্রহণ করতে বাধা দেয়।",
+  "real_life_en": "When honest teachers give you good advice, do not make excuses to reject it. Accept good guidance rather than claiming no one can teach you.",
+  "real_life_bn": "কোনো সৎ উপদেশ পেলে অযথা সন্দেহ করে তা প্রত্যাখ্যান করবেন না। মন উন্মুক্ত রেখে সত্য পরামর্শ গ্রহণ করতে শিখুন।",
+  "themes": [
+    "stories of the prophets",
+    "guidance",
+    "misguidance"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "yusuf"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Yusuf brought clear proofs earlier, yet they doubted, and when he died they claimed no messenger would succeed him.",
+      "claim_bn": "পূর্বে ইউসুফ (আলাইহিস সালাম) স্পষ্ট প্রমাণ এনেছিলেন, কিন্তু তারা সংশয়ে লিপ্ত ছিল এবং তাঁর ওফাতের পর বলেছিল আল্লাহ আর রাসূল পাঠাবেন না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

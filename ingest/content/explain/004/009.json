@@ -1,0 +1,81 @@
+{
+ "id": "4:9",
+ "simple_en": "People should fear for orphans just as they would fear for their own young, vulnerable children if they left them behind. Think how anxious you would be about your own weak children after your death. Therefore, fear Allah in dealing with orphans, and always speak words that are just and upright.",
+ "simple_bn": "মানুষের ভাবা উচিত, তারা নিজেরা যদি পেছনে অসহায় ও ছোট সন্তান রেখে মারা যেত, তবে তাদের ভবিষ্যৎ নিয়ে কতটা চিন্তিত হতো। সুতরাং এতিমদের দায়িত্ব পালনে তারা যেন আল্লাহকে ভয় করে এবং সবসময় ন্যায়সংগত ও সঠিক কথা বলে।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "ضعف",
+   "lemma": "ضِعاف",
+   "meaning_en": "vulnerable (weak)",
+   "meaning_bn": "অসহায় বা দুর্বল",
+   "why_en": "Young children who cannot yet support themselves and need protective care."
+  },
+  {
+   "pos": 11,
+   "root": "وقي",
+   "lemma": "اتَّقَى",
+   "meaning_en": "let them fear Allah",
+   "meaning_bn": "তারা যেন আল্লাহকে ভয় করে",
+   "why_en": "Guardians and executors must remember Allah's oversight when deciding the fate of others' children."
+  },
+  {
+   "pos": 15,
+   "root": "سدد",
+   "lemma": "سَدِيد",
+   "meaning_en": "just (right)",
+   "meaning_bn": "সঠিক ও ন্যায়সংগত কথা",
+   "why_en": "Speaking words of truth and justice without harming the heirs or encouraging unfair bequests."
+  }
+ ],
+ "lesson_en": "Treat the children of others with the same care and justice you would want for your own children.",
+ "lesson_bn": "অন্যের অসহায় সন্তানদের সাথে ঠিক তেমন যত্ন ও ন্যায়পরায়ণ আচরণ করুন যেমনটি আপনি নিজের সন্তানের জন্য প্রত্যাশা করেন।",
+ "real_life_en": "Imagine what kind of guardian you would want for your own young children if you passed away today. Treat any orphan or young child under your care with that exact tenderness and honesty. Always offer sound, fair advice when family wills are drafted.",
+ "real_life_bn": "আজ আপনি মারা গেলে আপনার অবুঝ সন্তানদের জন্য কেমন অভিভাবক কামনা করতেন, তা গভীরভাবে ভাবুন। আপনার দায়িত্বে থাকা যেকোনো এতিম শিশুর সাথে ঠিক সেইরকম স্নেহ ও সততার সাথে আচরণ করুন। অসিয়ত বা সম্পদ বণ্টনের বিষয়ে সবসময় ন্যায়সংগত পরামর্শ দিন।",
+ "themes": [
+  "orphans",
+  "family",
+  "taqwa",
+  "justice",
+  "ethics"
+ ],
+ "kinds": [
+  "command",
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Guardians and executors should treat orphans with the same protective concern they would feel for their own vulnerable children left behind.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "They are commanded to fear Allah and speak words that are upright, truthful, and just.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

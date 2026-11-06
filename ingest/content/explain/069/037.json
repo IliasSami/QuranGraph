@@ -1,0 +1,62 @@
+{
+  "id": "69:37",
+  "simple_en": "None will eat it except the willful sinners. Only those who knowingly chose evil and turned away from the truth will be forced to taste this food.",
+  "simple_bn": "পাপাচারীরা ছাড়া কেউ এটি খাবে না। যারা জেনে-বুঝে অবাধ্যতার পথে চলেছিল এবং সত্য প্রত্যাখ্যান করেছিল, কেবল তারাই এই খাবার খেতে বাধ্য হবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أكل",
+      "lemma": "أَكَلَ",
+      "meaning_en": "will eat it",
+      "meaning_bn": "তা খাবে",
+      "why_en": "Describes the forced ingestion of foul nourishment in retribution."
+    },
+    {
+      "pos": 4,
+      "root": "خطأ",
+      "lemma": "خاطِئ",
+      "meaning_en": "deliberate sinners",
+      "meaning_bn": "পাপাচারীরা",
+      "why_en": "Distinguishes willful rebels from those who make unintentional errors."
+    }
+  ],
+  "lesson_en": "God punishes only those who knowingly stay on the path of evil.",
+  "lesson_bn": "আল্লাহ কেবল তাদেরকেই শাস্তি দেন যারা জেনে-বুঝে পাপের পথে অটল থাকে।",
+  "real_life_en": "A boss forgives an honest mistake at work. But a worker who steals on purpose gets punished. God forgives mistakes but holds people accountable for willful rebellion.",
+  "real_life_bn": "অনিচ্ছাকৃত ভুল ক্ষমা পেয়ে যায়, কিন্তু ইচ্ছাকৃত অন্যায় শাস্তি ডেকে আনে। আল্লাহ মানুষের ভুলত্রুটি মাফ করে দেন, কিন্তু অহংকার করে পাপ চালিয়ে যাওয়া মানুষকে পাকড়াও করেন।",
+  "themes": [
+    "justice of punishment",
+    "deliberate sinners",
+    "retribution"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "None will consume this foul nourishment except the deliberate, persistent sinners.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

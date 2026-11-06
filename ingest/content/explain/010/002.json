@@ -1,0 +1,76 @@
+{
+  "id": "10:2",
+  "simple_en": "Is it a wonder to people that We revealed guidance to a man from among them? We told him to warn people and bring glad news to believers that they have an honorable standing with their Lord. The disbelievers say: This man is clearly a magician.",
+  "simple_bn": "মানুষের কাছে কি এটা খুব আশ্চর্যজনক মনে হয় যে আমরা তাদের মধ্য থেকেই এক ব্যক্তির কাছে ওহী পাঠিয়েছি? আমরা তাকে আদেশ করেছি মানুষকে সতর্ক করতে এবং মুমিনদের সুসংবাদ দিতে যে তাদের রবের কাছে তাদের জন্য রয়েছে উচ্চ মর্যাদা। অথচ কাফেররা বলে: এই ব্যক্তি তো স্পষ্ট এক যাদুকর।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "عجب",
+      "lemma": "عَجَب",
+      "meaning_en": "a wonder / surprise",
+      "meaning_bn": "আশ্চর্যজনক বিষয়",
+      "why_en": "Groundless astonishment that a fellow human was chosen as a prophet."
+    },
+    {
+      "pos": 18,
+      "root": "صدق",
+      "lemma": "صِدْق",
+      "meaning_en": "honorable standing / truth",
+      "meaning_bn": "উচ্চ মর্যাদা / সত্য অবস্থান",
+      "why_en": "Firm position of reward earned by sincere believers."
+    },
+    {
+      "pos": 25,
+      "root": "سحر",
+      "lemma": "ساحِر",
+      "meaning_en": "a magician / sorcerer",
+      "meaning_bn": "যাদুকর",
+      "why_en": "Slanderous label used by skeptics to dismiss compelling speech."
+    }
+  ],
+  "lesson_en": "God sends human teachers so we can relate to their example and learn practical virtue.",
+  "lesson_bn": "মহান আল্লাহ মানুষের মধ্য থেকেই শিক্ষক পাঠান যাতে আমরা তাঁদের আদর্শ অনুসরণ করতে পারি।",
+  "real_life_en": "Do not dismiss a valuable message just because it comes from an ordinary peer. Judge truth by its merit rather than by someone's social status.",
+  "real_life_bn": "পরিচিত কোনো সাধারণ মানুষ সত্য উপদেশ দিলে তা অহংকারের সাথে উড়িয়ে দেবেন না; ব্যক্তির চেয়ে কথার সত্যতাকে মূল্য দিন।",
+  "themes": [
+    "human messengers",
+    "honorable rank for believers",
+    "false accusations of magic"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "disbelievers",
+      "believers"
+    ],
+    "places": [
+      "Mecca"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Prophethood granted to a mortal man is completely natural, though polytheists falsely labeled prophetic eloquence as sorcery.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

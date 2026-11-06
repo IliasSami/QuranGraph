@@ -1,0 +1,80 @@
+{
+  "id": "55:42",
+  "simple_en": "Allah describes how criminals will be caught so that people stay away from evil paths. Which of your Lord's favors will you two deny? Knowing that bad deeds bring ruin helps keep you on the right path.",
+  "simple_bn": "আল্লাহ পাপাচারীদের পরিণতির কথা বর্ণনা করেছেন যাতে মুমিনরা অন্যায় পথ থেকে দূরে থাকে। অতএব তোমরা তোমাদের রবের কোন অনুগ্রহ অস্বীকার করবে? অন্যায়ের চূড়ান্ত পতন অবধারিত এই জ্ঞান মানুষকে পাপ থেকে রক্ষা করে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أيي",
+      "lemma": "أَيّ",
+      "meaning_en": "so which",
+      "meaning_bn": "অতএব কোনটি",
+      "why_en": "Prompting reflection upon the end of unrepentant evil."
+    },
+    {
+      "pos": 2,
+      "root": "ألو",
+      "lemma": "آلاء",
+      "meaning_en": "favors / blessings",
+      "meaning_bn": "অনুগ্রহসমূহ",
+      "why_en": "The blessing of clear deterrence stopping people from ruining their souls."
+    },
+    {
+      "pos": 3,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "of your Lord (both of you)",
+      "meaning_bn": "তোমাদের রবের",
+      "why_en": "The Just Lord who puts an end to tyranny and crime."
+    },
+    {
+      "pos": 4,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "do you two deny",
+      "meaning_bn": "তোমরা অস্বীকার করবে",
+      "why_en": "Warning both groups not to follow the ways of the condemned."
+    }
+  ],
+  "lesson_en": "Let the fear of a bad end inspire you to stay on the path of truth and fairness.",
+  "lesson_bn": "খারাপ পরিণতির ভয় অন্তরে রেখে সবসময় সত্য ও ন্যায়ের পথে অটল থাকুন।",
+  "real_life_en": "When you are tempted to lie or cheat for a quick gain, picture the standing on the Day of Judgment. Turning away from wrong choices for Allah's sake brings peace to your life.",
+  "real_life_bn": "সাময়িক লাভের জন্য অন্যায় করার প্রলোভন এলে শেষ দিবসের কথা স্মরণ করুন। আল্লাহর ভয়ে অন্যায় থেকে বিরত থাকাই জীবনে প্রকৃত সুখ এনে দেয়।",
+  "themes": [
+    "the Last Day",
+    "justice",
+    "gratitude"
+  ],
+  "kinds": [
+    "address",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "jinn"
+    ],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah addresses men and jinn regarding His favours after describing how the guilty are seized.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

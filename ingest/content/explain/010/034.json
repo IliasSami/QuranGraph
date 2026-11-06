@@ -1,0 +1,77 @@
+{
+  "id": "10:34",
+  "simple_en": "Say: Can any of your partner-gods originate creation and then repeat it? Say: Allah originates creation and then repeats it. How then can you be turned away?",
+  "simple_bn": "বলুন: তোমাদের শরিকদের মধ্যে এমন কেউ আছে কি, যে সৃষ্টির সূচনা করে এবং তারপর তার পুনরাবৃত্তি ঘটায়? বলুন: আল্লাহই সৃষ্টির সূচনা করেন এবং তিনিই পুনরায় তা সৃষ্টি করেন। অতএব তোমাদের কোথায় ফিরিয়ে নেওয়া হচ্ছে?",
+  "key_words": [
+    {
+      "pos": 12,
+      "root": "بدأ",
+      "lemma": "بَدَأَ",
+      "meaning_en": "originates creation",
+      "meaning_bn": "সৃষ্টির সূচনা করেন",
+      "why_en": "Brought the cosmos into being from nothing."
+    },
+    {
+      "pos": 15,
+      "root": "عود",
+      "lemma": "أُعِيدُ",
+      "meaning_en": "repeats it",
+      "meaning_bn": "তার পুনরাবৃত্তি ঘটান",
+      "why_en": "Resurrecting all beings for final judgment."
+    },
+    {
+      "pos": 17,
+      "root": "أفك",
+      "lemma": "أُفِكَ",
+      "meaning_en": "are you deluded / turned away",
+      "meaning_bn": "তোমাদের ফিরিয়ে নেওয়া হচ্ছে",
+      "why_en": "Blinded from undeniable creative reality."
+    }
+  ],
+  "lesson_en": "Only the One who created the universe has the power to bring life back again.",
+  "lesson_bn": "যিনি প্রথমবার সৃষ্টি করেছেন, একমাত্র তিনিই পুনরায় জীবন ফিরিয়ে দেওয়ার ক্ষমতা রাখেন।",
+  "real_life_en": "Whenever you doubt the resurrection, look at the miracles of birth and nature around you. The Creator of life can easily renew it after death.",
+  "real_life_bn": "পুনরুত্থান নিয়ে সংশয় হলে প্রকৃতির দিকে তাকান; যিনি প্রথমবার আপনাকে অস্তিত্ব দিয়েছেন তিনি মৃত্যুর পর আবার জীবন দিতে সক্ষম।",
+  "themes": [
+    "originating creation",
+    "repeating creation",
+    "resurrection"
+  ],
+  "kinds": [
+    "argument",
+    "creation",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [
+      "Resurrection"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Idols possess zero creative capacity, whereas Allah uniquely originates and resurrects all creation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

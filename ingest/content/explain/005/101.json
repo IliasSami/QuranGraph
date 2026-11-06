@@ -1,0 +1,84 @@
+{
+  "id": "5:101",
+  "simple_en": "Believers are told not to ask about matters that Allah left unmentioned. If such things are made clear, they might cause you hardship. Asking about them while the Quran is being revealed could bring strict rules. Allah has pardoned what occurred in the past. He is Most Forgiving and Patient.",
+  "simple_bn": "মুমিনদের নির্দেশ দেওয়া হয়েছে যেন তারা এমন বিষয়ে অপ্রয়োজনীয় প্রশ্ন না করে, যা প্রকাশ পেলে তাদের কষ্ট হবে। কুরআন নাযিলের সময় এমন প্রশ্ন তুললে নতুন কঠিন বিধান আসতে পারে। আল্লাহ পূর্বের ভুলত্রুটি ক্ষমা করেছেন। নিশ্চয় তিনি পরম ক্ষমাশীল ও পরম ধৈর্যশীল।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "do not ask",
+      "meaning_bn": "তোমরা প্রশ্ন করো না",
+      "why_en": "Forbids asking about unnecessary matters that bring difficulty."
+    },
+    {
+      "pos": 20,
+      "root": "عفو",
+      "lemma": "عَفا",
+      "meaning_en": "He pardoned",
+      "meaning_bn": "তিনি ক্ষমা করেছেন",
+      "why_en": "Shows Allah's mercy in forgiving past unnecessary questions."
+    },
+    {
+      "pos": 25,
+      "root": "حلم",
+      "lemma": "حَلِيم",
+      "meaning_en": "Forbearing",
+      "meaning_bn": "সহনশীল",
+      "why_en": "Describes Allah's patience in not rushing to punish His servants."
+    }
+  ],
+  "lesson_en": "Do not ask pointless questions that make religion hard to follow.",
+  "lesson_bn": "ধর্মের বিষয়ে অনর্থক প্রশ্ন করা থেকে বিরত থাকুন, যা অনাকাঙ্ক্ষিত জটিলতা তৈরি করে।",
+  "real_life_en": "A student asks too many odd questions about minor rules. This confuses the class and makes simple duties feel heavy. Focus on doing what is clear and useful.",
+  "real_life_bn": "কোনো কর্মী বা শিক্ষার্থী সামান্য বিষয়েও অতিরিক্ত প্রশ্ন তুলে সবার কাজে জটিলতা বাড়ায়। অপ্রয়োজনীয় তর্কে না জড়িয়ে স্পষ্ট ও প্রয়োজনীয় বিষয়গুলো পালনে মনোযোগী হওয়া উচিত।",
+  "context_en": "Teaches believers proper manners with revelation after establishing divine commands.",
+  "context_bn": "আল্লাহর বিধিবিধান বর্ণনার পর ওহীর প্রতি সঠিক আদব বজায় রাখার শিক্ষা দেওয়া হয়েছে।",
+  "themes": [
+    "revelation",
+    "command",
+    "forgiveness",
+    "knowledge"
+  ],
+  "kinds": [
+    "prohibition",
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Al-Ghafoor",
+      "Al-Haleem"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Believers are forbidden from asking about matters whose disclosure would bring distress or hardship.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Allah pardoned past inquiries and is Forgiving and Forbearing towards His servants.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "63:8",
+  "simple_en": "The hypocrites said that once they returned to Madinah, the honorable people would expel the humble ones. They thought their wealth gave them power. But all true honor belongs to Allah, to His Messenger, and to the believers, though the hypocrites do not know this fact.",
+  "simple_bn": "তারা বলে, আমরা যদি মদীনায় ফিরে যাই তবে আমাদের মধ্যে যারা সম্মানিত তারা অবশ্যই সেখান থেকে হীনদের বের করে দেবে। অথচ সমস্ত প্রকৃত সম্মান ও মর্যাদা একমাত্র আল্লাহ, তাঁর রাসূল এবং মুমিনদের জন্যই নির্ধারিত। কিন্তু মুনাফিকরা তা জানে না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "مدن",
+      "lemma": "مَدِينَة",
+      "meaning_en": "Madinah",
+      "meaning_bn": "মদীনা",
+      "why_en": "The blessed city where the Islamic community was established."
+    },
+    {
+      "pos": 7,
+      "root": "عزز",
+      "lemma": "أَعَزّ",
+      "meaning_en": "the more honorable and mighty",
+      "meaning_bn": "অধিকতর সম্মানিত ও শক্তিশালী",
+      "why_en": "The arrogant boast of the hypocrite leader referring to himself."
+    },
+    {
+      "pos": 11,
+      "root": "عزز",
+      "lemma": "عِزَّة",
+      "meaning_en": "all true honor and might",
+      "meaning_bn": "সকল সম্মান ও মর্যাদা",
+      "why_en": "Affirms that lasting dignity belongs solely to Allah, His Messenger, and the believers."
+    }
+  ],
+  "lesson_en": "Real honor comes from faith in Allah. Wealth and power cannot give true dignity.",
+  "lesson_bn": "জাগতিক অহংকার নয়, বরং আল্লাহর প্রতি ঈমান ও আনুগত্যই মানুষকে প্রকৃত সম্মান ও মর্যাদার অধিকারী করে।",
+  "real_life_en": "A wealthy tyrant looks down on poor workers and thinks money makes him superior. But when trouble strikes, his arrogance crumbles while the honest workers stand respected and calm. True dignity is earned through righteous living.",
+  "real_life_bn": "সমাজে অনেক সময় ধনসম্পদের কারণে কেউ নিজেকে সেরা মনে করে অন্যদের তুচ্ছজ্ঞান করে। কিন্তু অহংকার কখনো স্থায়ী সম্মান দিতে পারে না, কেবল চরিত্র ও সততাই প্রকৃত মর্যাদার চাবিকাঠি।",
+  "themes": [
+    "true honor belongs to Allah, Messenger, and believers",
+    "false pride of hypocrites",
+    "exile plot"
+  ],
+  "kinds": [
+    "warning",
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [
+      "madinah"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-aziz"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The hypocrites claimed the mighty would expel the lowly from Madinah, but true honor belongs to Allah, His Messenger, and the believers, which the hypocrites do not know.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

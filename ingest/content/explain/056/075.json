@@ -1,0 +1,69 @@
+{
+  "id": "56:75",
+  "simple_en": "Allah swears an oath by the places where stars set in the sky. The stars move in fixed paths across space. Their orderly motion shows the great wisdom and power of Allah.",
+  "simple_bn": "আল্লাহ আসমানে তারকারাজির অবস্থান ও তাদের কক্ষপথের শপথ করছেন। মহাকাশে নক্ষত্রমালার সুশৃঙ্খল গতিবিধি আল্লাহর অপার প্রজ্ঞা ও কুদরতের এক উজ্জ্বল নিদর্শন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قسم",
+      "lemma": "أَقْسَمُ",
+      "meaning_en": "I swear",
+      "meaning_bn": "আমি শপথ করছি",
+      "why_en": "Introduces a solemn divine oath to emphasize what follows."
+    },
+    {
+      "pos": 3,
+      "root": "وقع",
+      "lemma": "مَواقِع",
+      "meaning_en": "settings or positions",
+      "meaning_bn": "অবস্থানসমূহ",
+      "why_en": "Points to the precise stations and paths of celestial bodies."
+    },
+    {
+      "pos": 4,
+      "root": "نجم",
+      "lemma": "نَجْم",
+      "meaning_en": "the stars",
+      "meaning_bn": "নক্ষত্র বা তারকারাজি",
+      "why_en": "Refers to the brilliant lights placed in the heavens."
+    }
+  ],
+  "lesson_en": "Look up at the night sky and reflect on the majestic power of Allah.",
+  "lesson_bn": "রাতের আকাশের দিকে তাকিয়ে আল্লাহর অপার সৃষ্টি ও মহাশক্তির কথা চিন্তা করুন।",
+  "real_life_en": "A student looks through a telescope at twinkling stars in the night sky. He is amazed at their vast distances and orderly orbits. He realizes that a wise Creator guides the entire universe.",
+  "real_life_bn": "দূরবীন দিয়ে রাতের আকাশের নক্ষত্র দেখে এক ছাত্র মুগ্ধ হয়। তাদের বিশাল দূরত্ব ও সুশৃঙ্খল পথ দেখে সে বুঝতে পারে যে এক মহাশক্তিমান স্রষ্টাই এই মহাবিশ্ব পরিচালনা করছেন।",
+  "themes": [
+    "signs in nature",
+    "Allah's power",
+    "the Quran"
+  ],
+  "kinds": [
+    "oath",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah swears by the positions and settings of the stars in the heavens.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

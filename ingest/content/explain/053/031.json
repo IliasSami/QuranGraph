@@ -1,0 +1,84 @@
+{
+  "id": "53:31",
+  "simple_en": "Everything in the heavens and earth belongs to Allah alone. He owns, creates, and controls all of creation. He will hold everyone accountable for their deeds. Those who do evil will face the punishment they earned. Those who do good will receive the finest reward of Paradise.",
+  "simple_bn": "আসমান ও যমীনে যা কিছু আছে তার সবকিছুর মালিকানা একমাত্র আল্লাহর। তিনিই সব সৃষ্টি করেছেন এবং সবকিছু পরিচালনা করেন। প্রত্যেকেই নিজ কর্মের জন্য আল্লাহর কাছে জবাবদিহি করবে। অন্যায়কারীদের তিনি তাদের পাপের উপযুক্ত শাস্তি দেবেন এবং সৎকর্মশীলদের জান্নাতের শ্রেষ্ঠ পুরস্কারে ভূষিত করবেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "to Allah belongs",
+      "meaning_bn": "আল্লাহর জন্যই",
+      "why_en": "It confirms Allah's total ownership over all creation."
+    },
+    {
+      "pos": 10,
+      "root": "سوأ",
+      "lemma": "أَساءَ",
+      "meaning_en": "they did evil",
+      "meaning_bn": "তারা মন্দ কাজ করল",
+      "why_en": "Those who disobey Allah and spread wrongdoing."
+    },
+    {
+      "pos": 15,
+      "root": "حسن",
+      "lemma": "أَحْسَنَ",
+      "meaning_en": "they did good",
+      "meaning_bn": "তারা সৎকাজ করল",
+      "why_en": "The believers who perform righteous deeds sincerely."
+    },
+    {
+      "pos": 16,
+      "root": "حسن",
+      "lemma": "حُسْنَى",
+      "meaning_en": "the best reward (Paradise)",
+      "meaning_bn": "সর্বোত্তম পুরস্কার (জান্নাত)",
+      "why_en": "The greatest recompense granted by Allah to the righteous."
+    }
+  ],
+  "lesson_en": "Every deed counts before Allah. Good is rewarded and evil is punished with justice.",
+  "lesson_bn": "আল্লাহর কাছে প্রতিটি কাজের হিসাব রয়েছে। সৎকাজের পুরস্কার জান্নাত এবং অন্যায়ের শাস্তি নিশ্চিত।",
+  "real_life_en": "Do good deeds quietly, even when no one thanks you. Trust that Allah sees every kind word and act, and He will reward you in full.",
+  "real_life_bn": "অন্যেরা দেখতে না পেলেও নীরবে মানুষের উপকার করুন। বিশ্বাস রাখুন যে আল্লাহ প্রতিটি ভালো কাজ দেখছেন এবং পরকালে এর উত্তম প্রতিদান দেবেন।",
+  "context_en": "After declaring Allah's sovereignty, the ayah sets out the principle of divine justice.",
+  "context_bn": "আসমান ও যমীনের মালিকানার ঘোষণার পর কর্মের যথার্থ প্রতিদানের মূলনীতি এখানে ঘোষিত হয়েছে।",
+  "themes": [
+    "reward",
+    "punishment",
+    "justice",
+    "Paradise",
+    "creation"
+  ],
+  "kinds": [
+    "belief",
+    "promise",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "To Allah belongs all in the heavens and earth, to punish evil deeds and reward good with Paradise.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": "13:14",
+  "simple_en": "Sincere prayer belongs to Allah alone. The false gods that people call upon answer nothing. Praying to them is like a thirsty person stretching his hands toward water from afar, hoping it will reach his mouth on its own. False prayer is totally wasted.",
+  "simple_bn": "সত্যের আহ্বান ও দোয়া একমাত্র আল্লাহর জন্য। তাঁকে ছাড়া যাদের ডাকা হয় তারা কোনো প্রার্থনার জবাব দিতে পারে না। তাদের কাছে চাওয়া সে ব্যক্তির মতো যে দূর থেকে পানির দিকে হাত বাড়িয়ে রাখে যাতে পানি নিজে মুখে চলে আসে। কাফিরদের আহ্বান ব্যর্থতা ছাড়া কিছু নয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "دعو",
+      "lemma": "دَعْوَة",
+      "meaning_en": "supplication",
+      "meaning_bn": "আহ্বান ও দোয়া",
+      "why_en": "True invocation that reaches the Lord of all creation."
+    },
+    {
+      "pos": 3,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "The only petition grounded in genuine power and reality."
+    },
+    {
+      "pos": 9,
+      "root": "جوب",
+      "lemma": "اسْتَجابَ",
+      "meaning_en": "they respond",
+      "meaning_bn": "তারা সাড়া দেয়",
+      "why_en": "Inability of inanimate idols or created beings to answer prayers."
+    },
+    {
+      "pos": 14,
+      "root": "كفف",
+      "lemma": "كَفّ",
+      "meaning_en": "his two hands",
+      "meaning_bn": "তার দুহাত",
+      "why_en": "Parable of reaching out vainly toward distant water."
+    }
+  ],
+  "lesson_en": "Pray only to God. False idols can never hear or help you.",
+  "lesson_bn": "সকল দোয়া একমাত্র আল্লাহর কাছেই করা উচিত, কারণ কোনো সৃষ্টি মানুষের প্রার্থনা পূরণ করতে পারে না।",
+  "real_life_en": "A stressed student asks a lucky ring to help them pass a test. They soon realize a piece of metal cannot hear or think, so they turn to Allah in sincere prayer.",
+  "real_life_bn": "এক ছাত্র পরীক্ষার আগে একটি পাথরের আংটির কাছে শুভকামনা চায়। পরে সে বোঝে পাথর কিছুই করতে পারে না, তাই সে মন থেকে আল্লাহর কাছে দোয়া করে পড়াশোনায় মন দেয়।",
+  "context_en": "A vivid parable showing the absolute helplessness of false gods and the power of true prayer.",
+  "context_bn": "আল্লাহ ছাড়া অন্য কিছুর কাছে প্রার্থনা করার অন্তঃসারশূন্যতা বোঝাতে পানির উপমা।",
+  "themes": [
+    "pure supplication",
+    "monotheism",
+    "parables"
+  ],
+  "kinds": [
+    "parable",
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Praying to false idols is as futile as expecting water to enter one's mouth from afar.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

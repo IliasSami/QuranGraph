@@ -1,0 +1,74 @@
+{
+  "id": "39:55",
+  "simple_en": "Follow the best of what has been sent down to you from your Lord in the noble Quran. Practice its commands and avoid its prohibitions before the punishment strikes you suddenly while you do not perceive its coming.",
+  "simple_bn": "তোমাদের রবের পক্ষ থেকে যে সর্বোত্তম কিতাব নাযিল করা হয়েছে তা অনুসরণ কর। এর নির্দেশগুলো পালন কর এবং নিষেধগুলো বর্জন কর, তোমাদের ওপর আকস্মিকভাবে শাস্তি নেমে আসার আগেই, অথচ তোমরা তা টেরও পাবে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "تبع",
+      "lemma": "اتَّبَعَ",
+      "meaning_en": "follow",
+      "meaning_bn": "অনুসরণ কর",
+      "why_en": "Urges practical compliance with the lifestyle revealed in scripture."
+    },
+    {
+      "pos": 2,
+      "root": "حسن",
+      "lemma": "أَحْسَن",
+      "meaning_en": "the best of",
+      "meaning_bn": "সর্বোত্তম যা কিছু",
+      "why_en": "Refers to the Quran, the pinnacle of divine books and moral teachings."
+    },
+    {
+      "pos": 13,
+      "root": "بغت",
+      "lemma": "بَغْتَة",
+      "meaning_en": "suddenly",
+      "meaning_bn": "আকস্মিকভাবে বা অতর্কিত",
+      "why_en": "Highlights the swift, unexpected arrival of divine judgment."
+    }
+  ],
+  "lesson_en": "Follow the noble teachings of the Quran actively before life ends without warning.",
+  "lesson_bn": "হঠাৎ জীবন প্রদীপ নিভে যাওয়ার আগেই আন্তরিকভাবে কুরআনের মহান বিধান অনুসরণ করুন।",
+  "real_life_en": "Make the Quran your daily rule of life, not just an ornament on a shelf. Read a portion every day and put its wisdom into practice.",
+  "real_life_bn": "কুরআনকে কেবল তাকে সাজিয়ে রাখবেন না। প্রতিদিন কিছু আয়াত পাঠ করুন এবং এর সুন্দর উপদেশগুলো বাস্তব জীবনে প্রয়োগ করুন।",
+  "themes": [
+    "following the quran",
+    "the Quran",
+    "urgency",
+    "warning"
+  ],
+  "kinds": [
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Follow the best of what was revealed from your Lord before punishment overtakes you suddenly without warning.",
+      "claim_bn": "তোমাদের রবের পক্ষ থেকে যা নাযিল করা হয়েছে তার সর্বোত্তমটি অনুসরণ কর, অতর্কিত শাস্তি আসার আগেই।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

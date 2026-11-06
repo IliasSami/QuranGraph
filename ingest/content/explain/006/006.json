@@ -1,0 +1,84 @@
+{
+ "id": "6:6",
+ "simple_en": "Do these deniers not reflect on past history? Allah destroyed many strong nations before them. Those people had far more wealth, power, and land than the people of Mecca. Allah gave them abundant rainfall and lush rivers. But when they persisted in evil and rejected their prophets, Allah destroyed them for their sins and raised other peoples after them.",
+ "simple_bn": "তারা কি দেখে না যে, তাদের পূর্বে আল্লাহ কত শক্তিশালী জাতিকে ধ্বংস করেছেন? পৃথিবীতে তাদের এমন ক্ষমতা ও প্রাচুর্য দেওয়া হয়েছিল যা এদের দেওয়া হয়নি। তাদের জন্য প্রচুর বৃষ্টিপাত ও বাগানের তলদেশ দিয়ে প্রবহমান নদীর ব্যবস্থা করা হয়েছিল। কিন্তু পাপাচারে লিপ্ত হওয়ায় আল্লাহ তাদের ধ্বংস করেন এবং পরে নতুন প্রজন্মের উত্থান ঘটান।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "هلك",
+   "lemma": "أَهْلَكَ",
+   "meaning_en": "We destroyed",
+   "meaning_bn": "আমরা ধ্বংস করেছি",
+   "why_en": "Refers to the divine destruction of past arrogant nations."
+  },
+  {
+   "pos": 8,
+   "root": "قرن",
+   "lemma": "قَرْن",
+   "meaning_en": "a generation / nation",
+   "meaning_bn": "প্রজন্ম বা জাতি",
+   "why_en": "Denotes past civilizations that possessed great strength."
+  },
+  {
+   "pos": 26,
+   "root": "ذنب",
+   "lemma": "ذَنب",
+   "meaning_en": "their sins",
+   "meaning_bn": "তাদের পাপসমূহ",
+   "why_en": "Identifies persistent sins and defiance as the cause of their ruin."
+  }
+ ],
+ "lesson_en": "Material wealth cannot save a nation that turns to injustice and sin.",
+ "lesson_bn": "পার্থিব ধনসম্পদ বা ক্ষমতা কোনো জাতিকে আল্লাহর শাস্তি থেকে রক্ষা করতে পারে না।",
+ "real_life_en": "Never let money or power make you feel safe from God. Stay humble at all times. When a people turns to evil, their gifts can disappear fast. Always treat others with fairness.",
+ "real_life_bn": "সাফল্য ও প্রাচুর্য পেয়ে অহংকারী হবেন না। সমাজে অন্যায় ও দুর্নীতি বেড়ে গেলে অতীত জাতির মতো যেকোনো সময় আল্লাহর অনুগ্রহ ছিনিয়ে নেওয়া হতে পারে।",
+ "context_en": "Points the polytheists of Mecca to the ruins of earlier powerful civilizations destroyed for their rebellion against Allah.",
+ "context_bn": "মক্কার কুরাইশদের অতীত শক্তিশালী ও সমৃদ্ধ জাতিসমূহের ধ্বংসের ইতিহাস থেকে শিক্ষা নেওয়ার আহ্বান জানানো হয়েছে।",
+ "themes": [
+  "destruction of past nations",
+  "wealth and power",
+  "sins",
+  "history as warning"
+ ],
+ "kinds": [
+  "warning",
+  "story",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "past nations"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "rain",
+   "rivers"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah destroyed many earlier generations who possessed greater power and resources than the people of Mecca.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Their abundant rain and flowing rivers did not save them when Allah destroyed them for their sins.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

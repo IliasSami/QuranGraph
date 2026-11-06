@@ -1,0 +1,71 @@
+{
+  "id": "9:69",
+  "simple_en": "You are just like those before you. They were stronger than you in power and had more wealth and children. They enjoyed their share of worldly goods, and you have enjoyed your share just as they did. Their deeds became worthless in this world and the next.",
+  "simple_bn": "তোমরা ঠিক তোমাদের পূর্ববর্তীদের মতোই। তারা শক্তিতে তোমাদের চেয়ে প্রবল ছিল এবং তাদের ধনসম্পদ ও সন্তানসন্ততিও বেশি ছিল। তারা তাদের পার্থিব ভোগ উপভোগ করেছিল, আর তোমরাও তোমাদের অংশ নিয়ে মেতে উঠেছ। তাদের সব আমলই দুনিয়া ও আখেরাতে ধ্বংস হয়েছে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "شدد",
+      "lemma": "أَشَدّ",
+      "meaning_en": "mightier / stronger",
+      "meaning_bn": "অধিক শক্তিশালী",
+      "why_en": "Past ancient empires boasting military superiority."
+    },
+    {
+      "pos": 11,
+      "root": "متع",
+      "lemma": "اسْتَمْتَعَ",
+      "meaning_en": "enjoyed their portion",
+      "meaning_bn": "উপভোগ করেছিল",
+      "why_en": "Obsessing over physical pleasures to the neglect of eternal life."
+    },
+    {
+      "pos": 25,
+      "root": "حبط",
+      "lemma": "حَبِطَ",
+      "meaning_en": "became worthless / void",
+      "meaning_bn": "নষ্ট হয়ে গেল",
+      "why_en": "Nullification of worldly achievements lacking moral foundations."
+    }
+  ],
+  "lesson_en": "Great wealth and power cannot save corrupt societies from ruin.",
+  "lesson_bn": "অতীতের প্রতাপশালী জাতিগুলোও তাদের বিপুল শক্তি ও সম্পদ নিয়ে আল্লাহর শাস্তি থেকে বাঁচতে পারেনি।",
+  "real_life_en": "Do not be fooled by worldly power or wealth. A strong community needs justice and truth, not just money and tall buildings.",
+  "real_life_bn": "শুধু বৈষয়িক উন্নতি দেখে মুগ্ধ হবেন না; ন্যায়বিচার ও মানবিক মূল্যবোধ ছাড়া কোনো সমাজই দীর্ঘস্থায়ী হয় না।",
+  "themes": [
+    "lessons from the past",
+    "worthless deeds",
+    "temporal power"
+  ],
+  "kinds": [
+    "warning",
+    "story",
+    "parable"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Earlier civilizations possessed greater wealth and military might but were destroyed when they indulged in sin and rejected truth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

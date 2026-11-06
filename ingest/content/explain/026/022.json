@@ -1,0 +1,68 @@
+{
+  "id": "26:22",
+  "simple_en": "Moses questioned Pharaoh's claim of kindness. How could raising one boy be a favor? Pharaoh had enslaved a whole nation of Israelites and killed their sons.",
+  "simple_bn": "মূসা বললেন, আমার প্রতি তোমার যে অনুগ্রহের খোঁটা তুমি দিচ্ছ, তা তো এই যে তুমি পুরো বনী ইসরাঈলকে দাস বানিয়ে রেখেছ এবং তাদের সন্তানদের হত্যা করেছ।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "نِعْمَةٌ",
+      "root": "نعم",
+      "lemma": "نِعْمَة",
+      "meaning_en": "a favor",
+      "meaning_bn": "অনুগ্রহ",
+      "why_en": "Pharaoh's claimed blessing shown to be an insult."
+    },
+    {
+      "pos": 6,
+      "arabic": "عَبَّدتَّ",
+      "root": "عبد",
+      "lemma": "عَبَّد",
+      "meaning_en": "you enslaved",
+      "meaning_bn": "তুমি দাস বানিয়ে রেখেছ",
+      "why_en": "Systemic subjugation and oppression of Bani Isra'il."
+    }
+  ],
+  "lesson_en": "A king cannot claim credit for kindness to one boy while keeping a whole nation in chains.",
+  "lesson_bn": "এক ব্যক্তির ওপর সাময়িক অনুগ্রহ দেখিয়ে পুরো জাতির ওপর নির্যাতন চালানোকে বৈধ প্রমাণ করা যায় না।",
+  "real_life_en": "Look at the whole picture when judging claims of charity. A good deed does not excuse ongoing cruelty or injustice.",
+  "real_life_bn": "কোনো নেতার ব্যক্তিগত সামান্য দান দেখে তার সামগ্রিক অন্যায়কে উপেক্ষা করবেন না। ইনসাফের দৃষ্টিতে সবকিছু বিচার করুন।",
+  "themes": [
+    "justice",
+    "argumentation",
+    "oppression"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses refuted Pharaoh's claimed favor by pointing out the systemic enslavement of the Israelites.",
+      "claim_bn": "মূসা ফিরআউনের তথাকথিত অনুগ্রহের দাবি প্রত্যাখ্যান করে পুরো বনী ইসরাঈলের ওপর চলা দাসত্বের বাস্তবতা তুলে ধরেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

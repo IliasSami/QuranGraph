@@ -1,0 +1,64 @@
+{
+  "id": "22:3",
+  "simple_en": "Some people argue about God without any real knowledge or guidance. They foolishly follow every rebellious devil that leads people far away from the truth.",
+  "simple_bn": "মানুষের মধ্যে কেউ কেউ অজ্ঞতাবশত আল্লাহ সম্পর্কে বিতণ্ডায় লিপ্ত হয় এবং প্রতিটি অবাধ্য শয়তানের অনুসরণ করে চলে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "جدل",
+      "lemma": "جادَلُ",
+      "meaning_en": "disputes",
+      "meaning_bn": "বিতর্ক করে",
+      "why_en": "Arguing over divine matters without evidence."
+    },
+    {
+      "pos": 12,
+      "root": "مرد",
+      "lemma": "مَرِيد",
+      "meaning_en": "rebellious",
+      "meaning_bn": "চরম অবাধ্য",
+      "why_en": "Deviant devils misleading the ignorant."
+    }
+  ],
+  "lesson_en": "Arguing without facts is harmful and foolish. Following bad leaders leads a person into deep error.",
+  "lesson_bn": "জ্ঞান ছাড়া কোনো বিষয়ে তর্ক করা চরম মূর্খতা। অবাধ্য শয়তানের পদাঙ্ক অনুসরণ মানুষকে বিভ্রান্তির গভীরে ঠেলে দেয়।",
+  "real_life_en": "Do not speak on religion without facts. Learn with humility and avoid sharing false posts online.",
+  "real_life_bn": "যথাযথ জ্ঞান না থাকলে ধর্মীয় বিষয়ে মন্তব্য করবেন না। বিনয়ের সাথে শিখুন এবং ইন্টারনেটে ভিত্তিহীন মতবাদ ছড়ানো থেকে বিরত থাকুন।",
+  "themes": [
+    "disputing-without-knowledge",
+    "devils",
+    "ignorance",
+    "misguidance"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "devils"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Some people argue about God without knowledge and follow every rebellious, defiant devil.",
+      "claim_bn": "কিছু মানুষ জ্ঞান ছাড়াই আল্লাহ সম্পর্কে তর্ক করে এবং প্রতিটি অবাধ্য শয়তানের অন্ধ অনুসরণ করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

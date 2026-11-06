@@ -1,0 +1,63 @@
+{
+  "id": "23:70",
+  "simple_en": "Or do they say that he is possessed by madness? No, he brought them the clear truth, but most of them dislike the truth. They hate anything that goes against their selfish desires.",
+  "simple_bn": "নাকি তারা বলে যে তার মধ্যে কোনো উন্মাদনা আছে? বরং তিনি তো তাদের কাছে সত্য এনেছেন, কিন্তু তাদের অধিকাংশই সত্যকে অপছন্দ করে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "جنن",
+      "lemma": "جِنَّة",
+      "meaning_en": "madness",
+      "meaning_bn": "উন্মাদনা বা পাগলামি",
+      "why_en": "Baseless accusation of insanity fabricated against the Prophet."
+    },
+    {
+      "pos": 7,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "Absolute divine truth delivered by the Messenger."
+    }
+  ],
+  "lesson_en": "False claims cannot hide the truth. Many people dislike guidance because it goes against their habits.",
+  "lesson_bn": "মিথ্যা অপবাদ সত্যকে আড়াল করতে পারে না। অনেকের কুপ্রবৃত্তির সাথে সত্যের বিরোধ ঘটে বলেই তারা সত্যকে অপছন্দ করে।",
+  "real_life_en": "Accept the truth even when it feels hard. Value what is right above your personal comfort.",
+  "real_life_bn": "সত্য কথা শুনতে কষ্ট হলেও তা মেনে নিন। নিজের সুবিধা বা অভ্যাসের চেয়ে সত্য ও ন্যায়কে প্রাধান্য দিন।",
+  "themes": [
+    "false-accusations",
+    "dislike-of-truth",
+    "prophetic-mission"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Messenger brought absolute truth, but many rejected it solely because it conflicted with their desires, not because of madness.",
+      "claim_bn": "রাসুলুল্লাহ (সা.) সুস্পষ্ট সত্য নিয়ে এসেছিলেন, কিন্তু তাদের খেয়াল-খুশির বিরোধী হওয়ায় তারা তাঁকে অপবাদ দিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

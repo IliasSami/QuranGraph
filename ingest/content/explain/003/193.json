@@ -1,0 +1,102 @@
+{
+ "id": "3:193",
+ "simple_en": "'Our Lord, we heard a caller calling us to faith, saying, 'Believe in your Lord,' and we believed. Our Lord, forgive our sins and wipe away our evil deeds. Let us die among the righteous who love and obey You.'",
+ "simple_bn": "'হে আমাদের রব, আমরা এক আহ্বানকারীকে ঈমানের দিকে ডাকতে শুনেছি—তিনি বলছিলেন, তোমাদের রবের প্রতি ঈমান আনো। তাই আমরা ঈমান এনেছি। হে আমাদের রব, আমাদের পাপ ক্ষমা করুন, আমাদের ত্রুটিগুলো মুছে দিন এবং নেককারদের সাথে আমাদের মৃত্যু দান করুন।'",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "ندي",
+   "lemma": "مُنادِي",
+   "meaning_en": "a caller",
+   "meaning_bn": "একজন আহ্বানকারী",
+   "why_en": "Refers primarily to the Prophet Muhammad ﷺ (or the Quran) summoning people to faith."
+  },
+  {
+   "pos": 8,
+   "root": "أمن",
+   "lemma": "آمَنَ",
+   "meaning_en": "believe",
+   "meaning_bn": "ঈমান আনো",
+   "why_en": "The central call to accept the oneness of Allah and submit to His truth."
+  },
+  {
+   "pos": 12,
+   "root": "غفر",
+   "lemma": "غَفَرَ",
+   "meaning_en": "forgive",
+   "meaning_bn": "ক্ষমা করুন",
+   "why_en": "Pleading for the covering and pardon of major transgressions."
+  },
+  {
+   "pos": 15,
+   "root": "كفر",
+   "lemma": "كَفَّرَ",
+   "meaning_en": "wipe away / expiate",
+   "meaning_bn": "মোচন করুন বা মুছে দিন",
+   "why_en": "Asking Allah to erase lesser faults and shield them from punishment."
+  },
+  {
+   "pos": 20,
+   "root": "برر",
+   "lemma": "بَرّ",
+   "meaning_en": "the righteous",
+   "meaning_bn": "পুণ্যবানগণ",
+   "why_en": "Desiring companionship with virtuous souls in death and eternity."
+  }
+ ],
+ "lesson_en": "Answer the call to faith and ask Allah every day to forgive your sins.",
+ "lesson_bn": "ঈমানের ডাকে দ্রুত সাড়া দেওয়া এবং সবসময় আল্লাহর কাছে পাপমোচনের দোয়া করা মুমিনের বৈশিষ্ট্য।",
+ "real_life_en": "Whenever you hear the call to prayer or a reminder from the Quran, soften your heart. Ask Allah to forgive your hidden mistakes, clear your record, and surround you with good friends who remind you of Him.",
+ "real_life_bn": "আযানের সুর বা কুরআনের কোনো উপদেশ শুনলে অন্তরকে নরম করুন। ফেলে আসা ভুলের জন্য ক্ষমা চান এবং সৎ মানুষদের সংস্পর্শে থাকার তৌফিক কামনা করে দোয়া করুন।",
+ "context_en": "Articulates the believers' openhearted response to the prophetic message and their plea for moral cleansing.",
+ "context_bn": "নবীর আহ্বানে মুমিনদের অবিলম্বে ঈমান গ্রহণ এবং আল্লাহর কাছে তাদের গুনাহ মাফ ও নেককারদের সঙ্গী হওয়ার আকুল প্রার্থনার বর্ণনা।",
+ "themes": [
+  "dua",
+  "faith",
+  "forgiveness",
+  "repentance",
+  "death",
+  "prophethood"
+ ],
+ "kinds": [
+  "dua",
+  "belief",
+  "praise"
+ ],
+ "entities": {
+  "people": [
+   "Muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "death"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The believers testify that they listened and responded directly to the caller summoning them to faith in their Lord.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "They pray for forgiveness of major sins, expiation of minor misdeeds, and a death in the company of the righteous.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

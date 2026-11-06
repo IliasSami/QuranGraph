@@ -1,0 +1,79 @@
+{
+  "id": "10:79",
+  "simple_en": "Pharaoh said: Bring me every skilled and knowledgeable magician in the land. He wanted to stage a public spectacle to defeat the divine truth brought by Moses.",
+  "simple_bn": "আর ফিরআউন বলল: তোমরা আমার কাছে সমস্ত দক্ষ জাদুকরকে নিয়ে এসো।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أتي",
+      "lemma": "أَتَى",
+      "meaning_en": "bring me",
+      "meaning_bn": "আমার কাছে নিয়ে এসো",
+      "why_en": "Royal command summoning sorcerers across Egypt."
+    },
+    {
+      "pos": 5,
+      "root": "سحر",
+      "lemma": "ساحِر",
+      "meaning_en": "magician / sorcerer",
+      "meaning_bn": "জাদুকর",
+      "why_en": "Practitioners summoned to produce deceptive illusions."
+    },
+    {
+      "pos": 6,
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "knowledgeable / skilled",
+      "meaning_bn": "সুদক্ষ / পারদর্শী",
+      "why_en": "Masters of illusion gathered to counter prophetic proof."
+    }
+  ],
+  "lesson_en": "Unjust leaders use tricks and big shows when they cannot defeat the truth with facts.",
+  "lesson_bn": "অন্যায়ের ধারক-বাহকেরা সত্যের মুখোমুখি হতে না পেরে অপপ্রচার ও ছলচাতুরীর আশ্রয় নেয়।",
+  "real_life_en": "Recognize when public spectacles or media hype are used to mask injustice. Look beneath the surface for true facts and genuine integrity.",
+  "real_life_bn": "মিথ্যার জমকালো আয়োজন দেখে বিভ্রান্ত হবেন না; বাহ্যিক চাকচিক্যের চেয়ে সততা ও সত্যের মূল্য অনেক বেশি।",
+  "themes": [
+    "summoning magicians",
+    "state propaganda",
+    "Pharaoh's plot"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn (Pharaoh)",
+      "magicians of Egypt"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Summoning the magicians"
+    ],
+    "things": [
+      "magic"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Pharaoh attempted to counter Moses by summoning Egypt's most skilled magicians.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

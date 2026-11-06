@@ -1,0 +1,71 @@
+{
+  "id": "65:7",
+  "simple_en": "Let a man of wealth spend according to his riches. As for the one whose income is limited, let him spend from whatever Allah has provided him. Allah does not burden any soul beyond what He has given it. Soon, Allah will bring ease and relief after hardship.",
+  "simple_bn": "সচ্ছল ব্যক্তি যেন তার সচ্ছলতা অনুযায়ী ব্যয় করে। আর যার জীবিকা সীমিত, সে যেন আল্লাহ তাকে যা দিয়েছেন তা থেকেই ব্যয় করে। আল্লাহ কাউকে তার সাধ্যের বাইরে কোনো বোঝা চাপিয়ে দেন না। আল্লাহ শীঘ্রই কষ্টের পর স্বস্তি ও প্রাচুর্য দান করবেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "وسع",
+      "lemma": "سَعَة",
+      "meaning_en": "wealth and ample means",
+      "meaning_bn": "সচ্ছলতা ও প্রাচুর্য",
+      "why_en": "Instructs wealthy individuals to provide generously matching their blessings."
+    },
+    {
+      "pos": 24,
+      "root": "عسر",
+      "lemma": "عُسْر",
+      "meaning_en": "hardship and difficulty",
+      "meaning_bn": "কষ্ট ও অনটন",
+      "why_en": "Acknowledges tight financial circumstances that test faith and patience."
+    },
+    {
+      "pos": 25,
+      "root": "يسر",
+      "lemma": "يُسْر",
+      "meaning_en": "ease and abundance",
+      "meaning_bn": "স্বাচ্ছন্দ্য ও স্বস্তি",
+      "why_en": "Gives comforting hope that divine relief will follow periods of scarcity."
+    }
+  ],
+  "lesson_en": "Spend within your means, and trust that Allah will bring ease after hard times.",
+  "lesson_bn": "নিজের সামর্থ্য অনুযায়ী পরিবারের ভরণপোষণ দেওয়া উচিত, এবং দৃঢ় বিশ্বাস রাখা দরকার যে কষ্টের পরই স্বস্তি আসে।",
+  "real_life_en": "A delivery driver has low earnings this month. He buys simple food for his family and pays the utility bills, doing the best he can without debt. He stays hopeful and patient. The next week, his company offers extra weekend shifts, bringing relief.",
+  "real_life_bn": "কোনো মাসে আয় কম হলে হতাশ না হয়ে সাধ্যমতো পরিবার পরিচালনা করা উচিত। আল্লাহর ওপর ভরসা রেখে ধৈর্য ধরলে তিনি অচিরেই কষ্টের অবসান ঘটিয়ে স্বাচ্ছন্দ্য দান করেন।",
+  "themes": [
+    "spending according to means",
+    "no burden beyond capacity",
+    "ease after hardship"
+  ],
+  "kinds": [
+    "command",
+    "promise",
+    "ethics",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Financial support must match a person's means, Allah burdens no soul beyond what He gave it, and Allah will bring ease after hardship.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

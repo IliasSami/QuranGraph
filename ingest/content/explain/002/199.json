@@ -1,0 +1,108 @@
+{
+ "id": "2:199",
+ "simple_en": "Then depart from where all the people depart, which is Arafat, following the pure way of Prophet Ibrahim (peace be upon him). In pre-Islamic times, some tribes refused to stand with the crowd out of false pride. Islam removed all such privilege and united everyone as equals. Ask Allah for forgiveness for your shortcomings, for He is Ever-Forgiving and Most Merciful.",
+ "simple_bn": "অতঃপর সব মানুষ যেখান থেকে অর্থাৎ আরাফাত থেকে রওয়ানা হয়, তোমরাও সেখান থেকেই রওয়ানা হও। জাহেলী যুগে কুরাইশরা অহংকারবশত অন্যদের সাথে আরাফাতে না গিয়ে মুযদালিফায় থেমে যেত। ইসলাম এই আভিজাত্যের অহংকার চূর্ণ করে সবাইকে এক কাতারে দাঁড় করিয়েছে। হজ্জের ত্রুটি-বিচ্যুতির জন্য আল্লাহর কাছে ক্ষমা প্রার্থনা করো; নিশ্চয়ই আল্লাহ পরম ক্ষমাশীল ও অসীম দয়ালু।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "فيض",
+   "lemma": "أَفاضَ",
+   "meaning_en": "depart / move forward together",
+   "meaning_bn": "তোমরা রওয়ানা হও",
+   "why_en": "Commands joining the collective departure from Arafat without exceptionalism."
+  },
+  {
+   "pos": 6,
+   "root": "أنس",
+   "lemma": "ناس",
+   "meaning_en": "the people",
+   "meaning_bn": "সাধারণ মানুষ",
+   "why_en": "Refers to the collective assembly of pilgrims following the ancestral prophetic way of Ibrahim (peace be upon him)."
+  },
+  {
+   "pos": 7,
+   "root": "غفر",
+   "lemma": "اسْتَغْفَرَ",
+   "meaning_en": "and seek forgiveness",
+   "meaning_bn": "এবং ক্ষমা প্রার্থনা করো",
+   "why_en": "Directs pilgrims to conclude major acts of worship with humility and repentance for their shortcomings."
+  },
+  {
+   "pos": 11,
+   "root": "غفر",
+   "lemma": "غَفُور",
+   "meaning_en": "Ever-Forgiving",
+   "meaning_bn": "পরম ক্ষমাশীল",
+   "why_en": "Reassures that sincere seeking of forgiveness is met with divine pardon."
+  }
+ ],
+ "lesson_en": "Put away all false pride, stand with others as equals, and ask Allah to forgive your sins.",
+ "lesson_bn": "ইবাদতে কোনো সামাজিক বা বংশীয় অহংকারের স্থান নেই; সবাইকে সমান বিনয়ী হয়ে আল্লাহর ক্ষমা চাইতে হবে।",
+ "real_life_en": "When you enter the mosque, sit wherever there is space and do not ask people to move for you. Do not act better than anyone because of your job, family name, or wealth. True honor before Allah comes from a humble heart.",
+ "real_life_bn": "মসজিদে বা সামাজিক অনুষ্ঠানে ধনী-গরিবের কোনো কৃত্রিম ব্যবধান রাখবেন না। বংশ বা সম্পদের বড়াই করে বিশেষ সুবিধা দাবি না করে সবার সাথে সমানভাবে বসুন এবং নিজের ভুলের জন্য সর্বদা আল্লাহর ক্ষমা প্রার্থনা করুন।",
+ "context_en": "Abolishes the pre-Islamic practice of elite exception by mandating that everyone stand together at Arafat and seek forgiveness.",
+ "context_bn": "কুরাইশদের জাহেলী আভিজাত্যের প্রথা বাতিল করে সব মুসলমানকে একত্রে আরাফাতে অবস্থানের বিধান দেওয়া হয়েছে।",
+ "themes": [
+  "hajj",
+  "humility",
+  "forgiveness",
+  "unity",
+  "brotherhood"
+ ],
+ "kinds": [
+  "command",
+  "ethics",
+  "description-of-allah",
+  "promise"
+ ],
+ "entities": {
+  "people": [
+   "Ibrahim (peace be upon him)"
+  ],
+  "nations": [
+   "Quraysh"
+  ],
+  "places": [
+   "Arafat"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Ghafur",
+   "Ar-Rahim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Pilgrims are commanded to stand at and depart from Arafat together, ending the pre-Islamic elite practice of stopping at Muzdalifah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Standing at Arafat with all people follows the authentic sunnah of Prophet Ibrahim (peace be upon him).",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Believers must conclude major rites by seeking Allah's forgiveness for any shortcomings, relying on His mercy.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "9:1",
+  "simple_en": "Allah and His Messenger declare an end to treaties with idolaters who broke their pacts. The believers are no longer bound by these broken agreements.",
+  "simple_bn": "আল্লাহ ও তাঁর রাসূলের পক্ষ থেকে মুশরিকদের সাথে কৃত চুক্তি বাতিলের স্পষ্ট ঘোষণা দেওয়া হলো। যারা বারবার অঙ্গীকার ভঙ্গ করেছে, মুমিনরা তাদের চুক্তি থেকে দায়মুক্ত।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "برأ",
+      "lemma": "بَراءَة",
+      "meaning_en": "disassociation / immunity",
+      "meaning_bn": "সম্পর্কচ্ছেদ / দায়মুক্তি",
+      "why_en": "Formal declaration ending broken agreements."
+    },
+    {
+      "pos": 7,
+      "root": "عهد",
+      "lemma": "عاهَدَ",
+      "meaning_en": "you made a treaty",
+      "meaning_bn": "তোমরা চুক্তি করেছিলে",
+      "why_en": "Mutual agreements between early Muslims and tribal factions."
+    },
+    {
+      "pos": 9,
+      "root": "شرك",
+      "lemma": "مُشْرِك",
+      "meaning_en": "polytheists / idolaters",
+      "meaning_bn": "মুশরিক / বহুঈশ্বরবাদী",
+      "why_en": "Tribes worshiping false gods who breached their treaties."
+    }
+  ],
+  "lesson_en": "Promises must be kept, and broken vows lose their safety.",
+  "lesson_bn": "চুক্তি ও অঙ্গীকার রক্ষা করা উভয় পক্ষের কর্তব্য; যারা বারবার বিশ্বাসঘাতকতা করে, তাদের সাথে চুক্তি বজায় রাখা যায় না।",
+  "real_life_en": "If a partner breaks agreements again and again, end the deal fairly with clear words.",
+  "real_life_bn": "ব্যবসা বা প্রাতিষ্ঠানিক ক্ষেত্রে কোনো পক্ষ যদি বারবার লিখিত চুক্তি লঙ্ঘন করে ক্ষতি করতে থাকে, তবে নিয়ম মেনে স্পষ্টভাবে চুক্তি সমাপ্ত করতে হয়।",
+  "themes": [
+    "treaties",
+    "loyalty",
+    "justice",
+    "truth"
+  ],
+  "kinds": [
+    "law",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah and His Messenger dissolved treaties with idolaters who repeatedly violated their agreements.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "68:9",
+  "simple_en": "The deniers wish that you would compromise a little so they could compromise as well. They want to mix truth with falsehood to protect their social standing.",
+  "simple_bn": "তারা কামনা করে যে আপনি একটু নমনীয় হোন, তাহলে তারাও আপস করবে। তারা নিজেদের সুবিধা বজায় রাখতে সত্য ও মিথ্যার মাঝে সমঝোতা করতে চায়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ودد",
+      "lemma": "وَدَّ",
+      "meaning_en": "they wish",
+      "meaning_bn": "তারা কামনা করে",
+      "why_en": "Reveals the desire of deniers to soften the message of truth."
+    },
+    {
+      "pos": 3,
+      "root": "دهن",
+      "lemma": "يُدْهِنُ",
+      "meaning_en": "you would compromise",
+      "meaning_bn": "আপনি আপস করবেন",
+      "why_en": "Warns against weakening core beliefs to gain popularity."
+    }
+  ],
+  "lesson_en": "Hold fast to the truth, and do not water down your faith for worldly approval.",
+  "lesson_bn": "পার্থিব প্রশংসা বা সুবিধা পেতে গিয়ে সত্যকে দুর্বল বা বিকৃত করা অনুচিত।",
+  "real_life_en": "A clerk is told by his boss to hide a small tax error. He refuses to lie. He chooses honesty over pleasing his boss.",
+  "real_life_bn": "কর্মক্ষেত্রে অন্যায় কাজের সাথে আপস না করে সততা বজায় রাখা উচিত। সাময়িক সুবিধার জন্য সত্য গোপন করলে স্থায়ী সম্মান নষ্ট হয়।",
+  "themes": [
+    "honesty",
+    "faith",
+    "trials"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelievers desire mutual compromise where the truth is softened to accommodate their falsehood.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

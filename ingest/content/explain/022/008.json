@@ -1,0 +1,64 @@
+{
+  "id": "22:8",
+  "simple_en": "Some people argue about God without true knowledge, guidance, or an enlightening book. They stubbornly follow their own proud thoughts instead of seeking the clear truth.",
+  "simple_bn": "মানুষের মধ্যে কেউ কেউ এমন রয়েছে যারা কোনো জ্ঞান, পথনির্দেশ বা আলোকময় কিতাব ছাড়াই আল্লাহ সম্পর্কে বিতণ্ডা করে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "جدل",
+      "lemma": "جادَلُ",
+      "meaning_en": "disputes",
+      "meaning_bn": "বিতর্ক করে",
+      "why_en": "Baseless disputation against divine revelation."
+    },
+    {
+      "pos": 13,
+      "root": "نور",
+      "lemma": "مُنِير",
+      "meaning_en": "enlightening",
+      "meaning_bn": "আলোকময় বা উজ্জ্বল",
+      "why_en": "Luminous scripture bringing clear moral truth."
+    }
+  ],
+  "lesson_en": "Talk about faith requires good facts and proof. Arguing without study leads straight to pride and deep error.",
+  "lesson_bn": "ধর্মীয় বিষয়ে যুক্তি দিতে হলে সঠিক প্রমাণ ও ওহীর জ্ঞান প্রয়োজন। জ্ঞানহীন তর্ক কেবল অহংকার ও বিভ্রান্তি বৃদ্ধি করে।",
+  "real_life_en": "Avoid arguing about faith when you lack facts. Base your talks on good proof and honest study.",
+  "real_life_bn": "জ্ঞান না থাকলে ধর্মীয় বিষয়ে বিতর্কে জড়াবেন না। নির্ভরযোগ্য প্রমাণ ও বিনয়ের সাথে সত্য জানার চেষ্টা করুন।",
+  "themes": [
+    "argument-without-proof",
+    "arrogance",
+    "seeking-guidance",
+    "scripture"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "scripture"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Some dispute about God devoid of intellect, authentic guidance, or revealed scripture to support their claims.",
+      "claim_bn": "কিছু মানুষ বিবেক, হেদায়েত কিংবা কোনো আসমানি কিতাবের প্রমাণ ছাড়াই আল্লাহ সম্পর্কে বিতণ্ডায় লিপ্ত হয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

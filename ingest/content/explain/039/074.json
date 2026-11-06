@@ -1,0 +1,83 @@
+{
+  "id": "39:74",
+  "simple_en": "The dwellers of Paradise will say: All praise belongs to Allah, who has fulfilled His true promise to us. He made us inherit this blissful land, settling wherever we please in Paradise. How wonderful and excellent is the reward of those who worked righteous deeds.",
+  "simple_bn": "জান্নাতবাসীরা বলবে: সমস্ত প্রশংসা আল্লাহর, যিনি আমাদের প্রতি তাঁর ওয়াদা পূর্ণ করেছেন। তিনি আমাদের এই পুণ্যভূমির অধিকারী করেছেন, আমরা জান্নাতের যেখানে ইচ্ছা বসবাস করতে পারি। নেক আমলকারীদের প্রতিদান কতই না চমৎকার ও মহান।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حمد",
+      "lemma": "حَمْد",
+      "meaning_en": "all praise",
+      "meaning_bn": "সকল প্রশংসা",
+      "why_en": "The spontaneous expression of gratitude offered by believers entering bliss."
+    },
+    {
+      "pos": 5,
+      "root": "صدق",
+      "lemma": "صَدَقَ",
+      "meaning_en": "fulfilled / made true",
+      "meaning_bn": "সত্যে পরিণত করেছেন",
+      "why_en": "Celebrates the complete fulfillment of all divine promises."
+    },
+    {
+      "pos": 13,
+      "root": "شيأ",
+      "lemma": "شاءَ",
+      "meaning_en": "the reward",
+      "meaning_bn": "পুরস্কার বা প্রতিদান",
+      "why_en": "Points to Paradise as the supreme return for faithful effort."
+    },
+    {
+      "pos": 15,
+      "root": "أجر",
+      "lemma": "أَجْر",
+      "meaning_en": "the workers / doers of good",
+      "meaning_bn": "আমলকারীগণ",
+      "why_en": "Honors those who spent their earthly lives serving God and helping people."
+    }
+  ],
+  "lesson_en": "Allah always keeps His word. He gives believers a lasting home in Paradise.",
+  "lesson_bn": "আল্লাহ সর্বদা তাঁর প্রতিশ্রুতি পূর্ণ করেন এবং সৎকর্মশীলদের জান্নাতে চিরস্থায়ী ঠিকানা দান করেন।",
+  "real_life_en": "Keep working hard on your faith even when nobody notices. Allah sees every prayer and act of charity, and His reward will exceed all your expectations.",
+  "real_life_bn": "কেউ লক্ষ্য না করলেও নিষ্ঠার সাথে ইবাদত ও ভালো কাজ করে যান। আল্লাহ প্রতিটি আমল দেখেন এবং তাঁর দেওয়া পুরস্কার আপনার সকল আশাকে ছাড়িয়ে যাবে।",
+  "themes": [
+    "praise",
+    "fulfillment of promise",
+    "paradise",
+    "reward for deeds"
+  ],
+  "kinds": [
+    "praise",
+    "glad-tidings",
+    "promise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers will praise Allah for fulfilling His promise and making them inherit Paradise, an excellent reward for workers.",
+      "claim_bn": "মুমিনরা প্রতিশ্রুতি পূর্ণ করা ও জান্নাতের উত্তরাধিকারী করায় আল্লাহর প্রশংসা করবে, যা আমলকারীদের জন্য উত্তম পুরস্কার।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

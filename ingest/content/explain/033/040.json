@@ -1,0 +1,73 @@
+{
+  "id": "33:40",
+  "simple_en": "Muhammad ﷺ is not the biological father of any of your adult men. Instead, he is the Messenger of God and the seal of all prophets. No prophet will ever come after him. God has full knowledge of all things.",
+  "simple_bn": "মুহাম্মদ ﷺ তোমাদের কোনো পুরুষের পিতা নন। বরং তিনি আল্লাহর রাসূল এবং সর্বশেষ নবী। তাঁর পর আর কোনো নবী আসবেন না। আল্লাহ সর্ববিষয়ে পূর্ণ জ্ঞান রাখেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حمد",
+      "lemma": "مُحَمَّد",
+      "meaning_en": "Muhammad",
+      "meaning_bn": "মুহাম্মদ",
+      "why_en": "The chosen name of the final Messenger."
+    },
+    {
+      "pos": 10,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "the Messenger",
+      "meaning_bn": "রাসূল",
+      "why_en": "Affirms his noble office as the Messenger of God."
+    },
+    {
+      "pos": 12,
+      "root": "نبأ",
+      "lemma": "نَبِيّ",
+      "meaning_en": "the seal / final",
+      "meaning_bn": "সর্বশেষ বা সিলমোহর",
+      "why_en": "Establishes that no prophet will come after him."
+    }
+  ],
+  "lesson_en": "Prophet Muhammad ﷺ is the last messenger sent by God.",
+  "lesson_bn": "রাসূলুল্লাহ ﷺ হলেন সর্বশেষ নবী, তাঁর মাধ্যমেই নবুয়তের সমাপ্তি ঘটেছে।",
+  "real_life_en": "Follow the sunnah of the Prophet Muhammad ﷺ in your daily life. Seek no new religious teachings outside of what he conveyed from God.",
+  "real_life_bn": "নবী করীম ﷺ-এর সুন্নাহকে নিজের জীবনের প্রতিটি ক্ষেত্রে অনুসরণ করুন। দ্বীনের ব্যাপারে তাঁর নির্দেশনার বাইরে কোনো নতুন পথ খুঁজবেন না।",
+  "themes": [
+    "prophethood",
+    "Prophet Muhammad ﷺ",
+    "faith"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Muhammad is not the father of any man among you, but the Messenger of Allah and the seal of the prophets.",
+      "claim_bn": "মুহাম্মদ তোমাদের কোনো পুরুষের পিতা নন, বরং তিনি আল্লাহর রাসূল ও সর্বশেষ নবী, আর আল্লাহ সর্বজ্ঞ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,70 @@
+{
+  "id": "9:6",
+  "simple_en": "If an idolater asks you for protection, give him refuge so that he may hear the words of Allah. Then guide him safely to his home. This is because they are people who do not know the truth.",
+  "simple_bn": "মুশরিকদের কেউ যদি আপনার কাছে আশ্রয় চায়, তাকে আশ্রয় দিন যেন সে আল্লাহর বাণী শুনতে পায়। অতঃপর তাকে তার নিরাপদ আশ্রয়ে পৌঁছে দিন, কারণ তারা অজ্ঞ সম্প্রদায়।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "جور",
+      "lemma": "اسْتَجارَ",
+      "meaning_en": "seeks protection",
+      "meaning_bn": "আশ্রয় প্রার্থনা করে",
+      "why_en": "Requesting safe passage to understand the message."
+    },
+    {
+      "pos": 9,
+      "root": "كلم",
+      "lemma": "كَلام",
+      "meaning_en": "words / speech",
+      "meaning_bn": "বাণী / কালাম",
+      "why_en": "The spoken words of the Quran conveying divine truth."
+    }
+  ],
+  "lesson_en": "Give safety to anyone who wants to learn the truth.",
+  "lesson_bn": "যে কেউ সত্য জানতে আগ্রহী তাকে নিরাপত্তা ও সম্মান দিয়ে সত্য শোনার সুযোগ দেওয়া উচিত।",
+  "real_life_en": "When someone asks honest questions about your faith, give them a warm welcome and answer with care.",
+  "real_life_bn": "ভিন্নমতের কেউ যদি আন্তরিকভাবে কোনো বিষয় বুঝতে চায়, তবে তর্ক না করে তাকে সম্মান ও আন্তরিকতার সাথে বুঝিয়ে দেওয়া উচিত।",
+  "themes": [
+    "asylum",
+    "Quran",
+    "propagation",
+    "protection"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Enemies requesting refuge to hear the Quran must be granted full protection and safe return to their homes.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

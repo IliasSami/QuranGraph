@@ -1,0 +1,62 @@
+{
+  "id": "24:28",
+  "simple_en": "If you find no one home, do not enter until you have permission. And if you are told to go back, then go back. That is purer for you.",
+  "simple_bn": "যদি তোমরা ঘরে কাউকেও না পাও, তবে অনুমতি না পাওয়া পর্যন্ত সেখানে প্রবেশ করো না। আর যদি তোমাদের বলা হয় ফিরে যাও, তবে ফিরে যাবে। এটিই তোমাদের জন্য অধিকতর পবিত্র।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "أذن",
+      "lemma": "أَذِنَ",
+      "meaning_en": "permission is given",
+      "meaning_bn": "অনুমতি দেওয়া হয়",
+      "why_en": "Explicit consent required before entering private space."
+    },
+    {
+      "pos": 14,
+      "root": "رجع",
+      "lemma": "رَجَعَ",
+      "meaning_en": "return",
+      "meaning_bn": "ফিরে যাও",
+      "why_en": "Graciously departing when a host is unavailable or requests privacy."
+    }
+  ],
+  "lesson_en": "Respecting a host's boundary shows good manners. Turning back with a polite heart keeps peace.",
+  "lesson_bn": "অন্যের সুবিধা ও ইচ্ছাকে সম্মান জানানো শিষ্টাচারের পরিচায়ক। কারো পক্ষ থেকে সাক্ষাতের অসম্মতি পেলে হাসিমুখে ফিরে আসা অন্তরের পবিত্রতা বাড়ায়।",
+  "real_life_en": "Do not feel hurt if someone cannot host you today. Respect other people's time and private space.",
+  "real_life_bn": "কারো বাসায় গিয়ে দেখা না পেলে বা ফিরে যেতে বললে অসন্তুষ্ট হবেন না। অন্যের ব্যস্ততা ও পারিবারিক সীমানাকে শ্রদ্ধা করতে শিখুন।",
+  "themes": [
+    "respecting-boundaries",
+    "politeness",
+    "purity-of-heart"
+  ],
+  "kinds": [
+    "command",
+    "ethics",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "If permission is withheld or the occupant requests privacy, visitors must depart gracefully without taking offense.",
+      "claim_bn": "অনুমতি না পাওয়া গেলে বা গৃহকর্তা ফিরে যেতে অনুরোধ করলে স্বাচ্ছন্দ্যে ফিরে যাওয়াই অন্তরের জন্য অধিকতর পবিত্র ও উত্তম আচরণ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

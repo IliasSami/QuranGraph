@@ -1,0 +1,85 @@
+{
+  "id": "4:18",
+  "simple_en": "Repentance is not accepted from those who persist in sins until death approaches and then say, 'Now I repent.' Nor is repentance accepted from those who die as disbelievers. For these people, Allah has prepared a painful punishment.",
+  "simple_bn": "তওবা তাদের জন্য নয়, যারা সারাজীবন পাপ কাজ করে যায় এবং মৃত্যু মুখোমুখি হলে বলে, 'আমি এখন তওবা করছি।' আর তাদের জন্যও নয়, যারা অবিশ্বাসী অবস্থায় মারা যায়। এদের জন্য আল্লাহ যন্ত্রণাদায়ক শাস্তি প্রস্তুত রেখেছেন।",
+  "key_words": [
+    {
+      "pos": 10,
+      "root": "موت",
+      "lemma": "مَوْت",
+      "meaning_en": "death",
+      "meaning_bn": "মৃত্যু",
+      "why_en": "When death arrives and the veil is lifted, the door to free will and repentance closes."
+    },
+    {
+      "pos": 19,
+      "root": "كفر",
+      "lemma": "كافِر",
+      "meaning_en": "disbelievers",
+      "meaning_bn": "কাফের বা অবিশ্বাসী",
+      "why_en": "Those who persist in rejecting faith until their dying breath will find no forgiveness in the Hereafter."
+    },
+    {
+      "pos": 24,
+      "root": "ألم",
+      "lemma": "أَلِيم",
+      "meaning_en": "painful",
+      "meaning_bn": "যন্ত্রণাদায়ক",
+      "why_en": "Describes the agonizing punishment prepared in Hell for unrepentant disbelievers."
+    }
+  ],
+  "lesson_en": "Repent while you are in good health. Claiming to repent on your deathbed will not be accepted.",
+  "lesson_bn": "সুস্থ ও সজ্ঞান থাকা অবস্থায় তওবা করুন, কারণ মৃত্যুর দুয়ারে এসে তওবা করলে তা আর কোনো কাজে আসবে না।",
+  "real_life_en": "Do not let days turn into years while telling yourself that you will start praying or give up a bad habit later. None of us knows when our final hour will arrive. Seek Allah's forgiveness right now while your heart is still beating freely.",
+  "real_life_bn": "পরে নামাজ ধরব বা খারাপ অভ্যাস ছাড়ব বলে সময় নষ্ট করবেন না। আমরা কেউই জানি না কখন মৃত্যুর ডাক আসবে। জীবন ও স্বাস্থ্য থাকতে থাকতেই আল্লাহর কাছে ক্ষমা চেয়ে সঠিক পথে ফিরে আসুন।",
+  "themes": [
+    "repentance",
+    "death",
+    "punishment",
+    "Hell",
+    "the Last Day"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "Hell"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Repentance is not valid for those who persist in sins until the moment of death arrives and then claim to repent.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Nor is repentance accepted for those who die while persisting in disbelief, for whom a painful torment is prepared.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-maarif",
+        "g-bn-ahsanul-bayan"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

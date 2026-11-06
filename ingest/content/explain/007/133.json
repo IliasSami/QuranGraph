@@ -1,0 +1,84 @@
+{
+  "id": "7:133",
+  "simple_en": "Allah sent upon them five clear signs: the flood, locusts, lice, frogs, and blood. Each came as a distinct warning. Yet they remained proud and continued in their wicked crimes.",
+  "simple_bn": "অতঃপর আল্লাহ তাদের ওপর সুস্পষ্ট নিদর্শন হিসেবে প্লাবন, পঙ্গপাল, উকুন, ব্যাঙ এবং রক্ত পাঠালেন। কিন্তু এর পরও তারা অহংকার বজায় রাখল এবং পাপাচারে লিপ্ত এক অপরাধী জাতি হিসেবে রয়ে গেল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "طوف",
+      "lemma": "طُوفان",
+      "meaning_en": "the flood",
+      "meaning_bn": "প্লাবন / ঝড়বৃষ্টি",
+      "why_en": "The first plague that ruined their fields and homes."
+    },
+    {
+      "pos": 4,
+      "root": "جرد",
+      "lemma": "جَراد",
+      "meaning_en": "and locusts",
+      "meaning_bn": "পঙ্গপাল",
+      "why_en": "The swarm that devoured remaining vegetation and trees."
+    },
+    {
+      "pos": 6,
+      "root": "ضفدع",
+      "lemma": "ضَفادِع",
+      "meaning_en": "and frogs",
+      "meaning_bn": "ব্যাঙ",
+      "why_en": "The infestation of frogs filling their houses and food vessels."
+    }
+  ],
+  "lesson_en": "Ignoring small warnings leads to bigger trouble later.",
+  "lesson_bn": "ধারাবাহিক পাপ ও অহংকার অব্যাহত রাখলে একের পর এক সতর্কবার্তা ও শাস্তির আগমন ঘটে।",
+  "real_life_en": "Pay attention when small troubles repeatedly warn you to fix your habits. Do not ignore clear signals to change. Correct your course before minor problems turn into major disasters.",
+  "real_life_bn": "জীবনের ভুল কাজের সংকেতগুলো অবহেলা করবেন না। বড় কোনো বিপর্যয় আসার আগেই নিজের আচরণ ও পথ শুধরে নিন।",
+  "context_en": "This ayah enumerates the famous five plagues sent against Pharaoh's empire as differentiated signs.",
+  "context_bn": "এই আয়াতে ফির'আউনের জাতিকে সতর্ক করার জন্য ধারাবাহিকভাবে প্রেরিত পাঁচটি প্রলয়ংকরী নিদর্শনের বিবরণ দেওয়া হয়েছে।",
+  "themes": [
+    "divine plagues",
+    "warnings",
+    "arrogance",
+    "signs of Allah"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "people of Pharaoh"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "the five plagues of Egypt"
+    ],
+    "things": [
+      "flood",
+      "locusts",
+      "lice",
+      "frogs",
+      "blood"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah sent floods, locusts, lice, frogs, and blood as five distinct signs to Pharaoh's people, yet they persisted in arrogance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

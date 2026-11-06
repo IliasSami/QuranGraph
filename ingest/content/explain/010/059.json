@@ -1,0 +1,77 @@
+{
+  "id": "10:59",
+  "simple_en": "Say: Have you seen what provision God has sent down for you, of which you made some unlawful and some lawful? Say: Has God permitted you, or do you invent falsehood against God?",
+  "simple_bn": "বলুন: তোমরা কি লক্ষ্য করেছ আল্লাহ তোমাদের জন্য যে রিযিক পাঠিয়েছেন, তারপর তোমরা তার কিছু হালাল ও কিছু হারাম বানিয়ে নিয়েছ? বলুন: আল্লাহ কি তোমাদের অনুমতি দিয়েছেন, নাকি তোমরা আল্লাহর নামে মিথ্যা রচনা করছ?",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "رزق",
+      "lemma": "رِزْق",
+      "meaning_en": "provision / sustenance",
+      "meaning_bn": "রিযিক / জীবিকা",
+      "why_en": "Wholesome food and livestock provided by God."
+    },
+    {
+      "pos": 11,
+      "root": "حرم",
+      "lemma": "حَرام",
+      "meaning_en": "unlawful / forbidden",
+      "meaning_bn": "হারাম / নিষিদ্ধ",
+      "why_en": "Man-made taboos declaring pure provisions forbidden."
+    },
+    {
+      "pos": 20,
+      "root": "فري",
+      "lemma": "افْتَرَى",
+      "meaning_en": "you invent lies",
+      "meaning_bn": "তোমরা মিথ্যা রচনা কর",
+      "why_en": "Fabricating religious rulings without divine sanction."
+    }
+  ],
+  "lesson_en": "Only God sets what is lawful or forbidden. Making up religious rules is wrong.",
+  "lesson_bn": "হালাল ও হারামের বিধান দেওয়ার অধিকার কেবল আল্লাহর; খেয়ালখুশি মতো ধর্মীয় বিধান তৈরি করা মারাত্মক অপরাধ।",
+  "real_life_en": "Do not tell people what is forbidden without clear proof. Check the truth before making claims about religion.",
+  "real_life_bn": "সঠিক দলীল ও প্রামাণ্য জ্ঞান ছাড়া ধর্মীয় ব্যাপারে নিজের পক্ষ থেকে হালাল বা হারাম ফতোয়া দেওয়া পরিহার করুন।",
+  "themes": [
+    "authority of halal and haram",
+    "invented taboos",
+    "fabricating against God"
+  ],
+  "kinds": [
+    "argument",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "polytheists of Arabia"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "provision",
+      "livestock"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Arbitrary prohibitions invented by polytheists regarding crops and cattle are condemned as lies against Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

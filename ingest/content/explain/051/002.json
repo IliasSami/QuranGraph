@@ -1,0 +1,60 @@
+{
+  "id": "51:2",
+  "simple_en": "Allah swears by the heavy clouds that carry vast amounts of rain. These clouds move across long distances to give life to dry land. This amazing system shows divine care and wisdom in sustaining living things.",
+  "simple_bn": "আল্লাহ সেই মেঘমালার শপথ করছেন, যা প্রচুর পরিমাণে পানি বহন করে। এই মেঘ শুষ্ক মাটিকে সজীব করার জন্য বারিধারা নিয়ে আসে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "حمل",
+      "lemma": "حامِلَة",
+      "meaning_en": "the bearers",
+      "meaning_bn": "বহনকারী মেঘপুঞ্জ",
+      "why_en": "Clouds carrying huge volumes of water across the sky."
+    },
+    {
+      "pos": 2,
+      "root": "وقر",
+      "lemma": "وِقْر",
+      "meaning_en": "heavy burden",
+      "meaning_bn": "ভারী বোঝা",
+      "why_en": "The immense weight of water held within rain clouds."
+    }
+  ],
+  "lesson_en": "Rain is a blessing from God that brings vital life to the earth.",
+  "lesson_bn": "আল্লাহর পাঠানো বৃষ্টি পৃথিবীকে পুনরুজ্জীবিত করে এবং বান্দার জীবনে বরকত আনে।",
+  "real_life_en": "When rain falls after a dry spell, thank God for provision. Use water wisely and help those who lack clean drinking water.",
+  "real_life_bn": "বৃষ্টির দিনে আল্লাহর অনুগ্রহের জন্য শোকর আদায় করুন এবং পানির অপচয় না করে অভাবী মানুষের প্রতি সহযোগিতার হাত বাড়িয়ে দিন।",
+  "themes": [
+    "creation",
+    "signs in nature",
+    "Allah's mercy"
+  ],
+  "kinds": [
+    "oath",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah swears by the clouds that carry plenty of water to give rain to the earth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

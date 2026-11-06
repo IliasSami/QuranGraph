@@ -1,0 +1,90 @@
+{
+ "id": "3:24",
+ "simple_en": "They turned away from the truth because of a false belief. They claimed that the Fire of Hell would only touch them for a few days. They made up these comforting lies, and over time they began to believe them. These false hopes led them away from true faith.",
+ "simple_bn": "সত্য থেকে তাদের এই মুখ ফিরিয়ে নেওয়ার কারণ ছিল তাদের এক ভ্রান্ত ধারণা। তারা দাবি করত যে জাহান্নামের আগুন তাদেরকে মাত্র কয়েক দিন স্পর্শ করবে। নিজেদের মনগড়া এসব মিথ্যা তাদেরকে দ্বীনের ব্যাপারে বিভ্রান্ত করে রেখেছিল। এই ভিত্তিহীন ভরসা তাদেরকে সঠিক পথ থেকে দূরে সরিয়ে দেয়।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "مسس",
+   "lemma": "مَسَّ",
+   "meaning_en": "will touch us",
+   "meaning_bn": "আমাদের স্পর্শ করবে",
+   "why_en": "Conveys their trivialization of Hellfire as merely a brief discomfort."
+  },
+  {
+   "pos": 6,
+   "root": "نور",
+   "lemma": "نار",
+   "meaning_en": "the Fire",
+   "meaning_bn": "আগুন",
+   "why_en": "Refers to the punishment of Hell prepared for the unrepentant."
+  },
+  {
+   "pos": 9,
+   "root": "عدد",
+   "lemma": "مَعْدُودَة",
+   "meaning_en": "numbered",
+   "meaning_bn": "গণনা করা কয়েকটি",
+   "why_en": "Reflects their false claim that their punishment would be extremely short."
+  },
+  {
+   "pos": 15,
+   "root": "فري",
+   "lemma": "افْتَرَى",
+   "meaning_en": "they fabricated",
+   "meaning_bn": "তারা বানিয়ে নিত",
+   "why_en": "Exposes their false religious claims as self-invented illusions."
+  }
+ ],
+ "lesson_en": "Do not let false hope trick you into leaving good deeds behind.",
+ "lesson_bn": "অলীক আশার ওপর ভরসা করে নেক আমল ছেড়ে দেওয়া থেকে নিজেকে বিরত রাখুন।",
+ "real_life_en": "A boy skips his daily prayers and avoids good deeds. He tells himself that his good family will save him from harm. Good parents cannot take the place of your own deeds. True faith needs daily prayer, honest work, and a humble heart.",
+ "real_life_bn": "এক ছেলে নিয়মিত নামাজ ও ভালো কাজ এড়িয়ে চলে। সে মনে করে তার ভালো বংশের কারণে সে শাস্তি থেকে বেঁচে যাবে। কিন্তু পিতা-মাতার পুণ্য সন্তানের আমলের জায়গা নিতে পারে না। আসল ঈমানের জন্য প্রয়োজন প্রতিদিনের নামাজ, সততা ও বিনম্র হৃদয়।",
+ "context_en": "This ayah reveals the false assumption that caused them to reject guidance: an unfounded notion of special privilege that shielded them from divine accountability.",
+ "context_bn": "এই আয়াতে তাদের সত্য অস্বীকারের মূল কারণ উন্মোচিত হয়েছে: এমন এক অমূলক ধারণা যে তারা এক বিশেষ সুবিধাপ্রাপ্ত গোষ্ঠী এবং আল্লাহর শাস্তির আওতামুক্ত।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "arrogance",
+  "human nature"
+ ],
+ "kinds": [
+  "warning",
+  "belief",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "They claimed Hellfire would only touch them for a few numbered days, deceiving themselves in matters of faith.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Their invented beliefs gave them a false sense of security, encouraging disregard for divine commands.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

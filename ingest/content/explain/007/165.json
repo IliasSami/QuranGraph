@@ -1,0 +1,80 @@
+{
+  "id": "7:165",
+  "simple_en": "The sinners ignored the warnings. So Allah saved the good people who spoke out against evil. He punished the bad people for what they did.",
+  "simple_bn": "অতঃপর যে উপদেশ তাদের দেওয়া হয়েছিল তারা যখন তা সম্পূর্ণ ভুলে গেল, তখন যারা অসৎকাজে বাধা দিত আমরা তাদের রক্ষা করলাম। আর যারা সীমালংঘন করেছিল তাদের অবাধ্যতার কারণে এক কঠিন শাস্তিতে পাকড়াও করলাম।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نسي",
+      "lemma": "نَسِيَ",
+      "meaning_en": "they forgot / neglected",
+      "meaning_bn": "তারা ভুলে গেল / উপেক্ষা করল",
+      "why_en": "Deliberately casting aside sincere moral advice."
+    },
+    {
+      "pos": 6,
+      "root": "نجو",
+      "lemma": "أَنجَى",
+      "meaning_en": "We saved",
+      "meaning_bn": "আমরা রক্ষা করলাম",
+      "why_en": "Divine protection granted exclusively to those who opposed wrongdoing."
+    },
+    {
+      "pos": 8,
+      "root": "نهي",
+      "lemma": "نَهَى",
+      "meaning_en": "who forbid evil",
+      "meaning_bn": "যারা অসৎকাজে বাধা দিত",
+      "why_en": "Active moral intervention that earns divine deliverance."
+    }
+  ],
+  "lesson_en": "Allah protects those who speak out against wrongdoing.",
+  "lesson_bn": "সমাজে আযাব নেমে আসলে আল্লাহ কেবল তাদেরই রক্ষা করেন যারা অন্যায়ের প্রতিবাদ করত।",
+  "real_life_en": "Never stay passive when corrupt practices spread in your community. Stand up on the side of justice and speak against harm. Active moral courage earns God's special protection.",
+  "real_life_bn": "সমাজে অন্যায় দেখলে নীরব থাকবেন না। অন্যায়ের প্রতিবাদকারী দলের অংশ হোন, এতেই আল্লাহর রহমত পাওয়া যায়।",
+  "context_en": "The decisive divine intervention separating the active reformers from the punished transgressors.",
+  "context_bn": "সৎকাজে আদেশকারী দলের মুক্তি এবং অবাধ্যদের ওপর কঠোর শাস্তির বাস্তবায়ন।",
+  "themes": [
+    "deliverance of reformers",
+    "punishment of transgressors",
+    "divine justice",
+    "standing against evil"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "reformers",
+      "transgressors"
+    ],
+    "places": [
+      "coastal town"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "deliverance of those who forbid evil"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When the sinners disregarded the reminders, Allah rescued those who forbade evil and punished the transgressors severely.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

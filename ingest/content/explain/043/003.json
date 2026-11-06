@@ -1,0 +1,71 @@
+{
+ "id": "43:3",
+ "simple_en": "Allah made this Quran in the clear Arabic tongue. He chose this rich language so people could understand its signs. When people understand its words, they can take heed and follow its light.",
+ "simple_bn": "মহান আল্লাহ এই কুরআনকে সহজ ও স্পষ্ট আরবি ভাষায় অবতীর্ণ করেছেন। তিনি এই সমৃদ্ধ ভাষা বেছে নিয়েছেন যাতে মানুষ এর বাণী সহজে বুঝতে ও অনুধাবন করতে পারে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "قرأ",
+   "lemma": "قُرْءان",
+   "meaning_en": "a Quran (recitation)",
+   "meaning_bn": "কুরআন",
+   "why_en": "It is a recited Book meant to be heard and understood."
+  },
+  {
+   "pos": 4,
+   "root": "عرب",
+   "lemma": "عَرَبِيّ",
+   "meaning_en": "in Arabic",
+   "meaning_bn": "আরবি ভাষায়",
+   "why_en": "The Arabic language gives the message precision and eloquence."
+  },
+  {
+   "pos": 6,
+   "root": "عقل",
+   "lemma": "عَقَلُ",
+   "meaning_en": "you may understand",
+   "meaning_bn": "তোমরা বুঝতে পারো",
+   "why_en": "Understanding is the primary goal so that believers can act upon the text."
+  }
+ ],
+ "lesson_en": "The Quran was revealed in plain speech so that we may use our minds to understand it.",
+ "lesson_bn": "পবিত্র কুরআন সুস্পষ্ট ভাষায় নাযিল করা হয়েছে যাতে আমরা বুদ্ধি খাটিয়ে এর অর্থ উপলব্ধি করতে পারি।",
+ "real_life_en": "Do not just recite Quranic verses without thought. Take time every day to read the meaning and reflect on what Allah is teaching you.",
+ "real_life_bn": "কুরআন কেবল মুখে পাঠ করেই দায়িত্ব শেষ করবেন না। প্রতিদিন কিছুটা সময় অর্থ বোঝার পেছনে ব্যয় করুন এবং মহান আল্লাহর উপদেশ নিয়ে ভাবুন।",
+ "themes": [
+  "the Quran",
+  "reflection",
+  "knowledge"
+ ],
+ "kinds": [
+  "belief",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah revealed the Quran in Arabic so that its audience could comprehend its meaning and share it.",
+   "claim_bn": "আল্লাহ কুরআনকে আরবি ভাষায় অবতীর্ণ করেছেন যাতে মানুষ এর অর্থ অনুধাবন করতে ও প্রচার করতে পারে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

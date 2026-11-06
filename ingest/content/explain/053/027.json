@@ -1,0 +1,74 @@
+{
+  "id": "53:27",
+  "simple_en": "Those who deny the Day of Judgment make up disrespectful claims about the unseen. They call the angels female, claiming they are daughters of Allah. Allah is far above having children or partners. The angels are noble servants who carry out His orders with complete obedience.",
+  "simple_bn": "যারা পরকালের পুনরুত্থানে বিশ্বাস করে না, তারা অদৃশ্য জগৎ সম্পর্কে মিথ্যা দাবি করে। তারা ফেরেশতাদের নারী নাম দিয়ে আল্লাহর কন্যা বলে দাবি করত। মহান আল্লাহ সন্তান বা অংশীদার গ্রহণ থেকে বহু ঊর্ধ্বে। ফেরেশতারা আল্লাহর সম্মানিত সৃষ্টি, যারা নিষ্ঠার সাথে তাঁর হুকুম পালন করেন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أخر",
+      "lemma": "آخِر",
+      "meaning_en": "the Hereafter",
+      "meaning_bn": "আখিরাত বা পরকাল",
+      "why_en": "Lack of belief in the Last Day leads people into false dogmas."
+    },
+    {
+      "pos": 7,
+      "root": "ملك",
+      "lemma": "مَلَك",
+      "meaning_en": "the angels",
+      "meaning_bn": "ফেরেশতাগণ",
+      "why_en": "The creations wrongly described as females by the pagan Arabs."
+    },
+    {
+      "pos": 8,
+      "root": "سمو",
+      "lemma": "تَسْمِيَة",
+      "meaning_en": "naming",
+      "meaning_bn": "নামকরণ",
+      "why_en": "Giving false female labels to angels without divine knowledge."
+    }
+  ],
+  "lesson_en": "Only speak about unseen matters with clear words from Allah.",
+  "lesson_bn": "অদৃশ্য জগতের বিষয় নিয়ে মনগড়া ধারণা না করে কেবলমাত্র ওহীর প্রমাণের উপর নির্ভর করুন।",
+  "real_life_en": "Do not spread myths about angels or the unseen world. When you speak of faith, share only clear teachings from the Quran and Sunnah.",
+  "real_life_bn": "ফেরেশতা বা অদৃশ্য জগৎ সম্পর্কে কোনো কাল্পনিক গল্প ছড়াবেন না। দ্বীনের বিষয়ে নির্ভরযোগ্য দলিল ও সহীহ হাদীসের বাইরে কোনো কথা বলবেন না।",
+  "context_en": "The surah criticizes the pagan practice of assigning gender to the angels.",
+  "context_bn": "ফেরেশতাদের নারী নাম দিয়ে মুশরিকরা যে কুফরী করত তা এখানে তীব্রভাবে খণ্ডন করা হয়েছে।",
+  "themes": [
+    "angels",
+    "the unseen",
+    "disbelief",
+    "the Last Day"
+  ],
+  "kinds": [
+    "belief",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who disbelieve in the Hereafter give angels female names, claiming they are daughters of Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

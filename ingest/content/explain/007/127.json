@@ -1,0 +1,81 @@
+{
+  "id": "7:127",
+  "simple_en": "Pharaoh's noble leaders urged him to act. They warned that Moses and his people would spread mischief and abandon their idols. Pharaoh decided to slaughter their newborn baby boys and keep their women alive.",
+  "simple_bn": "ফির'আউনের দরবারের নেতারা তাকে উসকানি দিয়ে বলল, 'আপনি কি মূসা ও তার সম্প্রদায়কে রাজ্যে বিপর্যয় সৃষ্টি করতে এবং আপনার উপাস্যদের বর্জন করতে ছেড়ে দেবেন?' ফির'আউন বলল, 'আমরা তাদের পুত্রসন্তানদের হত্যা করব এবং কন্যাদের জীবিত রাখব।'",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ملأ",
+      "lemma": "مَلَأ",
+      "meaning_en": "the eminent leaders",
+      "meaning_bn": "নেতৃস্থানীয় ব্যক্তিবর্গ",
+      "why_en": "The corrupt ruling class who instigated further violence against believers."
+    },
+    {
+      "pos": 9,
+      "root": "فسد",
+      "lemma": "أَفْسَدُ",
+      "meaning_en": "to spread corruption",
+      "meaning_bn": "বিপর্যয় সৃষ্টি করতে",
+      "why_en": "Tyrants label calls to justice and monotheism as corruption."
+    },
+    {
+      "pos": 15,
+      "root": "قتل",
+      "lemma": "قُتِّلُ",
+      "meaning_en": "we will slaughter",
+      "meaning_bn": "আমরা হত্যা করব",
+      "why_en": "Pharaoh's brutal policy of systematic infanticide against the Israelites."
+    }
+  ],
+  "lesson_en": "Corrupt leaders fear losing power and urge rulers to harm good people.",
+  "lesson_bn": "স্বার্থান্বেষী শাসকমহল সত্যের প্রচারকে নিজেদের ক্ষমতার জন্য হুমকি মনে করে দমনপীড়ন বাড়িয়ে দেয়।",
+  "real_life_en": "Recognize when powerful groups use fear to justify harming the innocent. Do not let corrupt leaders twist the meaning of justice. Stand up against policies that hurt helpless families.",
+  "real_life_bn": "অন্যায়কারীরা নিজেদের স্বার্থ রক্ষায় নিরীহ মানুষের ওপর জুলুম চালায়। সমাজে দুর্বল ও অসহায়দের পাশে দাঁড়িয়ে অন্যায়ের প্রতিবাদ করুন।",
+  "context_en": "Following the magicians' public stance, Pharaoh's advisers panic and push for brutal state violence.",
+  "context_bn": "জাদুকরদের পরিবর্তনের পর জনমনে প্রভাব পড়ার ভয়ে ফির'আউনের অমাত্যরা বনী ইসরাঈলের ওপর নতুন করে অত্যাচারের পরামর্শ দেয়।",
+  "themes": [
+    "tyranny",
+    "persecution of believers",
+    "instigation by elites",
+    "arrogance"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn",
+      "Musa"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "resumption of infanticide against Israelites"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Pharaoh's council urged him to suppress Moses, leading Pharaoh to order the killing of newborn Hebrew boys.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

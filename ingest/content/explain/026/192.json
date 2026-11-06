@@ -1,0 +1,63 @@
+{
+  "id": "26:192",
+  "simple_en": "This holy Quran is not the word of a human poet. It is a divine message sent down by the Lord of all creation to guide mankind.",
+  "simple_bn": "এই পবিত্র কুরআন কোনো মানুষের রচনা নয়। এটি সমগ্র সৃষ্টিজগতের প্রতিপালক আল্লাহর পক্ষ থেকে অবতীর্ণ এক মহান ঐশী বাণী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "لَتَنزِيلُ",
+      "root": "نزل",
+      "lemma": "تَنزِيل",
+      "meaning_en": "a revelation",
+      "meaning_bn": "অবতীর্ণ বাণী",
+      "why_en": "Confirms the divine descent and sacred origin of the Quran."
+    },
+    {
+      "pos": 3,
+      "arabic": "رَبِّ",
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "the Lord",
+      "meaning_bn": "প্রতিপালক বা রব",
+      "why_en": "Attributes the holy book directly to the Lord of all creation."
+    }
+  ],
+  "lesson_en": "The Quran comes directly from the Lord of all creation. Its divine origin gives it great power and truth.",
+  "lesson_bn": "কুরআন সরাসরি নিখিল বিশ্বের স্রষ্টার পক্ষ থেকে এসেছে। এর ঐশী উৎস এটিকে দিয়েছে সর্বোচ্চ সত্যতা ও মর্যাদা।",
+  "real_life_en": "Approach the Quran with deep reverence. Read it as a personal message from God sent to guide your daily life.",
+  "real_life_bn": "কুরআনের প্রতি গভীর সম্মান প্রদর্শন করুন। একে প্রতিদিনের জীবনে সঠিক পথের দিশারি হিসেবে গ্রহণ করে পাঠ করুন।",
+  "themes": [
+    "quran",
+    "revelation",
+    "lordship"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran is the authentic revelation from the Lord of all creation.",
+      "claim_bn": "নিশ্চয় এই কুরআন নিখিল বিশ্বের প্রতিপালক আল্লাহর পক্ষ থেকে অবতীর্ণ করা হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

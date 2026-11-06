@@ -1,0 +1,112 @@
+{
+ "id": "2:283",
+ "simple_en": "If you are travelling and cannot find a writer, take a pledge in hand to back the loan. If you trust each other without a pledge, the borrower must honour that trust and fear Allah. Never hide the truth when asked to bear witness. Whoever hides the truth has a sinful heart, and Allah knows all that you do.",
+ "simple_bn": "যদি তোমরা সফরে থাকো এবং ঋণ লিখে রাখার মতো কোনো লেখক না পাও, তবে ঋণ পরিশোধের নিশ্চয়তা হিসেবে কোনো জিনিস বন্ধক রাখা বৈধ। আর যদি তোমরা পরস্পরকে বিশ্বাস করো এবং বন্ধক ছাড়াই লেনদেন করো, তবে যার ওপর ভরসা করা হয়েছে সে যেন যথাযথভাবে সেই আমানত ফিরিয়ে দেয় এবং তার রব আল্লাহকে ভয় করে। সত্য সাক্ষ্য কখনো গোপন করো না; যে ব্যক্তি তা গোপন করে, তার অন্তর ঘোর পাপী। তোমরা যা কিছুই করো না কেন, আল্লাহ সে সম্পর্কে সম্যক অবগত আছেন।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "رهن",
+   "lemma": "رِهان",
+   "meaning_en": "pledges / collateral",
+   "meaning_bn": "বন্ধক / জামানত",
+   "why_en": "Physical collateral held by the creditor to guarantee debt repayment when writing is impractical."
+  },
+  {
+   "pos": 9,
+   "root": "قبض",
+   "lemma": "مَقْبُوضَة",
+   "meaning_en": "taken into possession",
+   "meaning_bn": "হস্তগত / দখলীকৃত",
+   "why_en": "Indicates that the validity of the pledge is completed by handing over possession."
+  },
+  {
+   "pos": 14,
+   "root": "أدي",
+   "lemma": "يُؤَدِّ",
+   "meaning_en": "let him deliver / repay",
+   "meaning_bn": "সে যেন আদায় করে",
+   "why_en": "Commands the trusted borrower to fulfill the debt conscientiously."
+  },
+  {
+   "pos": 17,
+   "root": "أمن",
+   "lemma": "أَمانَت",
+   "meaning_en": "his trust",
+   "meaning_bn": "তার আমানত",
+   "why_en": "Frames the uncollateralized loan as a moral and spiritual trust before God."
+  },
+  {
+   "pos": 27,
+   "root": "أثم",
+   "lemma": "آثِم",
+   "meaning_en": "sinful",
+   "meaning_bn": "পাপী",
+   "why_en": "Highlights the deep moral corruption that takes place inside a heart that conceals the truth."
+  }
+ ],
+ "lesson_en": "Return every trust placed in you, and speak the honest truth without hiding what you saw.",
+ "lesson_bn": "আপনার ওপর অর্পিত আমানত সততার সাথে ফিরিয়ে দিন, এবং কখনো সত্য সাক্ষ্য গোপন করবেন না।",
+ "real_life_en": "A neighbour might lend you tools or money without asking for a contract. Treat that trust with great care. Return what you owe quickly before they have to ask. If you ever see a dispute between two friends, state the facts as they are, even if it is hard.",
+ "real_life_bn": "কোনো প্রতিবেশী যদি চুক্তিপত্র ছাড়াই বিশ্বাসের ওপর ভিত্তি করে আপনাকে কোনো জিনিস বা অর্থ ধার দেন, তবে সেই আস্থার মর্যাদা রক্ষা করুন। তার চাওয়ার আগেই তা দ্রুত ফিরিয়ে দিন। আবার পরিচিত মানুষদের মাঝে বিরোধ বাধলে অপ্রিয় হলেও সত্য সাক্ষ্য দিন।",
+ "context_en": "Addresses debt transactions during travel or when a scribe is unavailable, permitting collateral and strictly forbidding the concealment of testimony.",
+ "context_bn": "সফর অবস্থায় লেখক না পাওয়ার ক্ষেত্রে জামানত বা বন্ধকের বিকল্প ব্যবস্থা এবং সাক্ষ্য গোপন করার কঠোর নিষেধাজ্ঞা বর্ণনা করা হয়েছে।",
+ "themes": [
+  "honesty",
+  "keeping promises",
+  "justice",
+  "taqwa",
+  "Allah's knowledge",
+  "law"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Ar-Rabb",
+   "Al-Aleem"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "When traveling without a scribe, holding physical collateral in hand is permitted to secure debt obligations.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "When parties trade on mutual trust without collateral, the debtor is strictly commanded to discharge the trust and fear Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Withholding testimony is a grave inner sin that corrupts the heart, and Allah knows all human actions.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

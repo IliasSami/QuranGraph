@@ -1,0 +1,86 @@
+{
+  "id": "7:179",
+  "simple_en": "Allah created many among the jinn and mankind whose final place will be Hell. They have hearts that do not understand, eyes that do not see, and ears that do not hear. They are like cattle; rather, they are even more astray. They are the truly heedless ones.",
+  "simple_bn": "আর আমরা তো বহু জিন ও মানুষকে জাহান্নামের জন্য সৃষ্টি করেছি। তাদের হৃদয় আছে কিন্তু তা দিয়ে তারা উপলব্ধি করে না, চোখ আছে কিন্তু তা দিয়ে দেখে না এবং কান আছে কিন্তু তা দিয়ে শোনে না। তারা চতুষ্পদ জন্তুর মতো, বরং তার চেয়েও বেশি পথভ্রষ্ট। তারাই হচ্ছে প্রকৃত গাফেল।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "قلب",
+      "lemma": "قَلْب",
+      "meaning_en": "hearts",
+      "meaning_bn": "হৃদয়সমূহ",
+      "why_en": "The spiritual faculty of understanding and moral reasoning."
+    },
+    {
+      "pos": 24,
+      "root": "نعم",
+      "lemma": "نَعَم",
+      "meaning_en": "cattle / livestock",
+      "meaning_bn": "চতুষ্পদ জন্তু",
+      "why_en": "Creatures living purely on instinct without moral purpose."
+    },
+    {
+      "pos": 30,
+      "root": "غفل",
+      "lemma": "غافِل",
+      "meaning_en": "the heedless",
+      "meaning_bn": "গাফেল / অসচেতন",
+      "why_en": "People whose apathy towards truth causes their eternal doom."
+    }
+  ],
+  "lesson_en": "Failing to use your mind, eyes, and ears for moral truth lowers you below animals.",
+  "lesson_bn": "বিবেক, চোখ ও কানকে সত্য উপলব্ধির কাজে ব্যবহার না করলে মানুষ পশুর চেয়েও নিকৃষ্ট স্তরে নেমে যায়।",
+  "real_life_en": "Use the senses God gave you to seek wisdom and do good. Do not live only to eat, sleep, and chase base pleasures. Reflect on your life purpose so your heart stays alive.",
+  "real_life_bn": "শুধু খাওয়া-পরা আর ভোগের মধ্যে জীবন সীমাবদ্ধ রাখবেন না। নিজের বিবেক ও বুদ্ধিকে সৎকাজে ও সত্যের সন্ধানে ব্যবহার করুন।",
+  "context_en": "A profound diagnosis of spiritual apathy, describing how humans lose their higher purpose by neglecting truth.",
+  "context_bn": "আত্মিক অন্ধত্ব ও অসচেতনতার ভয়াবহ পরিণতি এবং বিবেকহীন মানুষের পশুসুলভ আচরণের বিশ্লেষণ।",
+  "themes": [
+    "spiritual blindness",
+    "heedlessness",
+    "purpose of senses",
+    "Hellfire",
+    "parable of cattle"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "the heedless among jinn and mankind"
+    ],
+    "places": [
+      "Hellfire (Jahannam)"
+    ],
+    "unseen": [
+      "Jinn",
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "hearts",
+      "eyes",
+      "ears",
+      "cattle"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Many jinn and humans will enter Hell because they shut their hearts, eyes, and ears to truth, behaving worse than grazing cattle.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

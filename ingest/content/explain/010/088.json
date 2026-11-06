@@ -1,0 +1,81 @@
+{
+  "id": "10:88",
+  "simple_en": "Moses said: Our Lord, You have given Pharaoh and his council luxury and wealth in this life, so they lead people astray from Your path. Our Lord, wipe out their wealth and harden their hearts so they do not believe until they see the painful punishment.",
+  "simple_bn": "আর মূসা বললেন: হে আমাদের রব, আপনি ফিরআউন ও তার পরিষদবর্গকে পার্থিব জীবনে শোভা ও বিপুল সম্পদ দিয়েছেন, যার ফলে হে আমাদের রব, তারা আপনার পথ থেকে মানুষকে বিপথগামী করে। হে আমাদের রব, তাদের ধন-সম্পদ ধ্বংস করে দিন এবং তাদের অন্তরসমূহকে কঠোর করে দিন, ফলে তারা যন্ত্রণাদায়ক শাস্তি না দেখা পর্যন্ত ঈমান আনবে না।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "زين",
+      "lemma": "زِينَة",
+      "meaning_en": "splendor / luxury",
+      "meaning_bn": "শোভা / সৌন্দর্য",
+      "why_en": "Glittering worldly wealth that misled the Egyptian nobles."
+    },
+    {
+      "pos": 9,
+      "root": "مول",
+      "lemma": "مال",
+      "meaning_en": "wealth / riches",
+      "meaning_bn": "ধন-সম্পদ",
+      "why_en": "Abundant material assets used to oppress others."
+    },
+    {
+      "pos": 18,
+      "root": "طمس",
+      "lemma": "اطْمِسْ",
+      "meaning_en": "wipe out / destroy",
+      "meaning_bn": "ধ্বংস করে দিন / নিশ্চিহ্ন করুন",
+      "why_en": "Moses praying for the destruction of the tyrant's economic power."
+    }
+  ],
+  "lesson_en": "Wealth turned into a weapon of tyranny will ultimately be wiped out by God's decree.",
+  "lesson_bn": "যে ধন-সম্পদ মানুষকে বিপথগামী ও অত্যাচারী বানায়, তা আল্লাহর গজবে ধ্বংস হয়ে যায়।",
+  "real_life_en": "Never use money to mislead others or buy dishonest influence. View wealth as a trust to be spent on good causes.",
+  "real_life_bn": "সম্পদকে অহংকার বা অন্যায়ের মাধ্যম বানাবেন না; একে সৎ কাজ ও মানুষের উপকারে ব্যবহার করুন।",
+  "themes": [
+    "prayer against tyrants",
+    "misuse of wealth",
+    "consequence of arrogance"
+  ],
+  "kinds": [
+    "dua",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa (Moses)",
+      "Fir'awn (Pharaoh)"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [
+      "Moses praying against Pharaoh's wealth"
+    ],
+    "things": [
+      "wealth and riches"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Moses prayed for the ruin of Pharaoh's lavish wealth because it was actively used to drive people from Allah's way.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

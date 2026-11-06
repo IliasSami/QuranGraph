@@ -1,0 +1,88 @@
+{
+  "id": "7:73",
+  "simple_en": "God sent the prophet Salih to the people of Thamud. Salih called them to worship God alone with sincerity. God gave them a living miracle in the form of a special she-camel. Salih instructed them to let her graze freely on God's earth. He warned them that harming her would bring painful punishment.",
+  "simple_bn": "আল্লাহ সামূদ জাতির কাছে তাদের ভাই সালিহ (আলাইহিস সালাম)-কে পাঠালেন। তিনি তাদের এক আল্লাহর ইবাদত করার আদেশ দিলেন এবং জানালেন যে আল্লাহ ছাড়া সত্য কোনো উপাস্য নেই। তাদের রবের পক্ষ থেকে অলৌকিক নিদর্শন হিসেবে একটি বিশেষ উষ্ট্রী এসেছিল। সালিহ বললেন, একে আল্লাহর জমিনে চরে খেতে দাও এবং কোনো ক্ষতি করো না, অন্যথায় যন্ত্রণাদায়ক শাস্তি তোমাদের গ্রাস করবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "صلح",
+      "lemma": "صالِح",
+      "meaning_en": "Salih",
+      "meaning_bn": "সালিহ (আলাইহিস সালাম)",
+      "why_en": "Identifies the prophet sent to guide the people of Thamud."
+    },
+    {
+      "pos": 20,
+      "root": "نوق",
+      "lemma": "ناقَة",
+      "meaning_en": "the she-camel",
+      "meaning_bn": "উষ্ট্রী",
+      "why_en": "The miraculous she-camel provided by God as a direct sign for Thamud."
+    },
+    {
+      "pos": 23,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "a sign or miracle",
+      "meaning_bn": "একটি স্পষ্ট নিদর্শন",
+      "why_en": "Demonstrates that the camel was a living miraculous proof of divine truth."
+    }
+  ],
+  "lesson_en": "Respect the signs of God and never violate His explicit limits.",
+  "lesson_bn": "আল্লাহর নিদর্শনসমূহকে সম্মান করুন এবং তাঁর সীমালঙ্ঘন করা থেকে বিরত থাকুন।",
+  "real_life_en": "Treat all living creatures with kindness. Never harm an innocent animal or person. Respect the limits God has set so you may stay safe.",
+  "real_life_bn": "আল্লাহর সৃষ্টির প্রতি সবসময় দয়া দেখান। কোনো নিরীহ প্রাণী বা মানুষকে আঘাত করবেন না। নিরাপদ থাকতে হলে আল্লাহর নির্ধারিত সীমারেখা মেনে চলুন।",
+  "context_en": "The account of Salih sent to Thamud, bringing the miraculous she-camel as a test and clear proof of divine authority.",
+  "context_bn": "সামূদ জাতির কাছে সালিহ (আলাইহিস সালাম)-এর আগমন এবং পরীক্ষা হিসেবে অলৌকিক উষ্ট্রীর বিবরণ।",
+  "themes": [
+    "Thamud",
+    "Salih",
+    "miracles",
+    "she-camel",
+    "monotheism",
+    "warning"
+  ],
+  "kinds": [
+    "story",
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Salih"
+    ],
+    "nations": [
+      "Thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the she-camel"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Salih called the people of Thamud to worship Allah alone and introduced the she-camel as a divine sign.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Salih warned Thamud to let the she-camel graze freely and not harm her lest painful punishment seize them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

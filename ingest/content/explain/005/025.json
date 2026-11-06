@@ -1,0 +1,95 @@
+{
+ "id": "5:25",
+ "simple_en": "Moses felt deep sorrow over his people's rebellion. He turned to his Lord in prayer. He stated that he could only control himself and his brother Aaron. He could not force the others to obey. So he asked Allah to judge and separate them from the disobedient crowd.",
+ "simple_bn": "সম্প্রদায়ের এমন প্রকাশ্য অবাধ্যতায় মূসা (আলাইহিস সালাম) গভীরভাবে ব্যথিত হলেন। তিনি তাঁর রবের দরবারে আরজি পেশ করলেন। তিনি বললেন, নিজের এবং ভাই হারূন ছাড়া আর কারো ওপর তাঁর নিয়ন্ত্রণ নেই। তাই তিনি আল্লাহর কাছে প্রার্থনা করলেন যেন আল্লাহ তাদের ও এই অবাধ্য জাতির মধ্যে ফায়সালা করে দেন।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "ملك",
+   "lemma": "مَلَكَتْ",
+   "meaning_en": "I control / possess",
+   "meaning_bn": "আমার কর্তৃত্ব আছে",
+   "why_en": "Expresses Moses's complete helplessness to force his people to obey."
+  },
+  {
+   "pos": 7,
+   "root": "نفس",
+   "lemma": "نَفْس",
+   "meaning_en": "myself / soul",
+   "meaning_bn": "নিজে / আমার প্রাণ",
+   "why_en": "Shows he could only answer for his own deeds and personal obedience."
+  },
+  {
+   "pos": 9,
+   "root": "فرق",
+   "lemma": "فَرَقْ",
+   "meaning_en": "separate / part us",
+   "meaning_bn": "বিচ্ছেদ করে দিন",
+   "why_en": "A prayer asking Allah to judge between the obedient and the defiant."
+  },
+  {
+   "pos": 13,
+   "root": "فسق",
+   "lemma": "فاسِق",
+   "meaning_en": "defiantly disobedient",
+   "meaning_bn": "ফাসিক / সত্যত্যাগী",
+   "why_en": "Characterizes those who break away from Allah's clear commands."
+  }
+ ],
+ "lesson_en": "You are only responsible for yourself and those you lead. Turn to Allah when people reject guidance.",
+ "lesson_bn": "আপনি কেবল নিজের আমলের জন্য দায়ী। মানুষ সত্য প্রত্যাখ্যান করলে সব ভার আল্লাহর হাতে সোপর্দ করুন।",
+ "real_life_en": "A sincere father tries his best to guide his relatives away from bad habits. When they mock his advice and refuse to stop, he does not lose his own faith. He prays to Allah and protects his own family from harm.",
+ "real_life_bn": "একজন সৎ মানুষ তার পরিচিতদের খারাপ পথ থেকে ফেরানোর চেষ্টা করে। কিন্তু তারা যখন উল্টো উপহাস করে, তখন সে হতাশ হয়ে নিজের আমল নষ্ট করে না। সে আল্লাহর কাছে দোয়া করে এবং নিজেকে সত্যের ওপর রাখে।",
+ "context_en": "Captures Moses's prayer to Allah after his people openly abandoned him and refused to fight.",
+ "context_bn": "সম্প্রদায়ের প্রকাশ্য বিদ্রোহের মুখে অসহায় হয়ে মূসা (আলাইহিস সালাম)-এর কাতর দোয়ার দৃশ্য।",
+ "themes": [
+  "dua",
+  "stories of the prophets",
+  "trials",
+  "patience",
+  "Children of Israel"
+ ],
+ "kinds": [
+  "dua",
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Moses (peace be upon him)",
+   "Aaron (peace be upon him)"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Lord"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Moses turned to Allah declaring that he had control only over himself and his brother Aaron.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Moses prayed to Allah to judge and separate them from the rebellious and disobedient people.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

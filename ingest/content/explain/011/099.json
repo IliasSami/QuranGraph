@@ -1,0 +1,76 @@
+{
+  "id": "11:99",
+  "simple_en": "A curse follows Pharaoh and his army in this world, and another curse awaits them on the Day of Resurrection. It is a terrible gift to receive.",
+  "simple_bn": "আর এ দুনিয়ায় তাদের পেছনে অভিশাপ লাগিয়ে দেওয়া হয়েছিল এবং কিয়ামতের দিনেও। কতই না নিকৃষ্ট এই পুরস্কার যা তাদেরকে দেওয়া হলো।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "لعن",
+      "lemma": "لَعْنَة",
+      "meaning_en": "curse",
+      "meaning_bn": "অভিশাপ",
+      "why_en": "Expulsion from divine mercy in both worlds."
+    },
+    {
+      "pos": 6,
+      "root": "قوم",
+      "lemma": "قِيامَة",
+      "meaning_en": "Resurrection",
+      "meaning_bn": "কিয়ামত",
+      "why_en": "The Day of public exposure and disgrace."
+    },
+    {
+      "pos": 8,
+      "root": "رفد",
+      "lemma": "رِفْد",
+      "meaning_en": "gift / reward",
+      "meaning_bn": "উপহার / দান",
+      "why_en": "Ironic term for the devastating curse bestowed upon them."
+    }
+  ],
+  "lesson_en": "Oppression brings shame in this life and severe pain in the life to come.",
+  "lesson_bn": "অত্যাচারীদের পরিণতি হলো দুনিয়াতে অপযশ ও অভিশাপ এবং পরকালে চরম অপমান।",
+  "real_life_en": "Strive to leave behind a legacy of goodwill, kindness, and honest service. Never seek short-term gain through injustice, which only leaves shame and regret.",
+  "real_life_bn": "এমন কাজ করুন যেন মানুষ আপনার মৃত্যুর পরও শ্রদ্ধার সাথে স্মরণ করে। জুলুম ও অহংকারের পরিণতি চিরস্থায়ী লাঞ্ছনা।",
+  "themes": [
+    "curse on oppressors",
+    "Day of Judgment",
+    "legacy of tyranny",
+    "divine justice"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn (Pharaoh)"
+    ],
+    "nations": [
+      "People of Fir'awn"
+    ],
+    "places": [],
+    "unseen": [
+      "Day of Resurrection"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Pharaoh's hosts were overtaken by a curse in this world and an eternal curse on the Day of Resurrection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

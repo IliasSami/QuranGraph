@@ -1,0 +1,61 @@
+{
+  "id": "68:40",
+  "simple_en": "Ask them, O Prophet: Which one of them will stand up as a guarantor for such a bold and baseless claim? Not a single person can guarantee it.",
+  "simple_bn": "হে নবী, আপনি তাদের জিজ্ঞাসা করুন: তাদের মধ্যে কে এই দাবির দায়িত্ব নেবে বা জামিনদার হবে?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "ask them",
+      "meaning_bn": "তাদের জিজ্ঞাসা করুন",
+      "why_en": "Directs the Prophet ﷺ to challenge their false confidence."
+    },
+    {
+      "pos": 4,
+      "root": "زعم",
+      "lemma": "زَعِيم",
+      "meaning_en": "a guarantor or sponsor",
+      "meaning_bn": "জামিনদার বা দায়িত্বশীল",
+      "why_en": "Challenges anyone to step forward and guarantee their baseless claims."
+    }
+  ],
+  "lesson_en": "Never make bold claims without proof or a trustworthy guarantor to back you up.",
+  "lesson_bn": "যে দাবির পেছনে কোনো সত্যতা বা নির্ভরযোগ্য জামিনদার নেই, তা কখনো বিশ্বাসযোগ্য হতে পারে না।",
+  "real_life_en": "A contractor promises to finish a bridge in two weeks. The town council asks for a financial guarantor. The contractor goes silent. Words mean nothing without credible backing.",
+  "real_life_bn": "দায়িত্বশীল কোনো প্রমাণ ছাড়া বড় বড় কথা বলা মানুষের মুখে মানায় না। প্রতিটি দাবির পক্ষে নির্ভরযোগ্য সাক্ষ্য থাকা প্রয়োজন।",
+  "themes": [
+    "honesty",
+    "argument",
+    "humility"
+  ],
+  "kinds": [
+    "argument",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet is instructed to ask the disbelievers who among them will guarantee their claims.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

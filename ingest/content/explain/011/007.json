@@ -1,0 +1,91 @@
+{
+  "id": "11:7",
+  "simple_en": "He created the heavens and the earth in six days, and His Throne was over the water. He made this universe to test which of you does the best deeds. Yet when you tell people they will be raised after death, the deniers dismiss it as obvious magic.",
+  "simple_bn": "তিনিই ছয় দিনে আসমান ও জমিন সৃষ্টি করেছেন, আর তখন তাঁর আরশ ছিল পানির ওপর; তোমাদের মধ্যে কে আমলে উত্তম তা পরীক্ষা করার জন্য। আর আপনি যদি বলেন মৃত্যুর পর তোমাদের পুনরুত্থিত করা হবে, তবে অস্বীকারকারীরা বলবে এটি সুস্পষ্ট জাদু ছাড়া কিছুই নয়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "created",
+      "meaning_bn": "সৃষ্টি করলেন",
+      "why_en": "Originating the heavens and the earth."
+    },
+    {
+      "pos": 10,
+      "root": "عرش",
+      "lemma": "عَرْش",
+      "meaning_en": "Throne",
+      "meaning_bn": "আরশ",
+      "why_en": "The glorious Throne of God, exalted above all creation."
+    },
+    {
+      "pos": 13,
+      "root": "بلو",
+      "lemma": "لِيَبْلُوَكُمْ",
+      "meaning_en": "that He might test you",
+      "meaning_bn": "তোমাদের পরীক্ষা করার জন্য",
+      "why_en": "The divine purpose of worldly life as an arena of moral testing."
+    },
+    {
+      "pos": 15,
+      "root": "حسن",
+      "lemma": "أَحْسَن",
+      "meaning_en": "best in conduct",
+      "meaning_bn": "আমলে শ্রেষ্ঠ",
+      "why_en": "Actions that are sincere to God and conform to divine guidance."
+    }
+  ],
+  "lesson_en": "Life on earth is a test of character and faith, not an endless playground.",
+  "lesson_bn": "দুনিয়ার জীবন কোনো অর্থহীন খেলা নয়; বরং এটি সর্বোত্তম আমল ও সচ্চরিত্রের এক মহান পরীক্ষা ক্ষেত্র।",
+  "real_life_en": "Focus on the quality of your deeds rather than merely collecting wealth or status. Strive to make your daily work sincere and beneficial to others.",
+  "real_life_bn": "কাজের বাহ্যিক আড়ম্বরের চেয়ে আন্তরিকতার দিকে নজর দিন; আপনার প্রতিটি কাজ যেন আল্লাহর সন্তুষ্টির জন্য হয়।",
+  "themes": [
+    "creation in six days",
+    "Throne over water",
+    "life as a test",
+    "denial of resurrection"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "heavens",
+      "earth"
+    ],
+    "unseen": [
+      "the Throne ('Arsh)",
+      "resurrection after death"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Creation",
+      "Resurrection"
+    ],
+    "things": [
+      "Throne",
+      "water"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah created the universe in six phases with His Throne over water to test humanity in virtue, though disbelievers reject resurrection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

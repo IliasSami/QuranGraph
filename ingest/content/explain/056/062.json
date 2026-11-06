@@ -1,0 +1,70 @@
+{
+  "id": "56:62",
+  "simple_en": "You already know how Allah created you the first time from a tiny drop. Since you know this initial creation, why do you not reflect? The One who made you from nothing can surely bring you back to life.",
+  "simple_bn": "তোমরা তো নিশ্চিতভাবে জানো কিভাবে আল্লাহ তোমাদের প্রথমবার সৃষ্টি করেছেন। প্রথম সৃষ্টির কথা জেনেও কেন তোমরা শিক্ষা নাও না? যিনি শূন্য থেকে তোমাদের বানিয়েছেন, তিনি অবশ্যই পুনরায় জীবিত করতে পারেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "you knew",
+      "meaning_bn": "তোমরা জেনেছ",
+      "why_en": "Appeals to their own certain knowledge of their human origin."
+    },
+    {
+      "pos": 3,
+      "root": "نشأ",
+      "lemma": "نَشْأَة",
+      "meaning_en": "creation or origination",
+      "meaning_bn": "প্রথম সৃষ্টি",
+      "why_en": "Refers to the first creation of humanity in the womb."
+    },
+    {
+      "pos": 6,
+      "root": "ذكر",
+      "lemma": "تَذَكَّرَ",
+      "meaning_en": "you remember or take heed",
+      "meaning_bn": "তোমরা উপদেশ গ্রহণ করো",
+      "why_en": "Encourages human intellect to draw the obvious logical conclusion about resurrection."
+    }
+  ],
+  "lesson_en": "Look at your own creation to find clear proof that the resurrection is real.",
+  "lesson_bn": "নিজের সৃষ্টির দিকে লক্ষ্য করুন, তবেই পরকালের পুনরুত্থানের স্পষ্ট প্রমাণ দেখতে পাবেন।",
+  "real_life_en": "A boy looks at photos from his infancy when he could not even sit up. Today he can run and read. Reflecting on how Allah grew him gives him complete trust in Allah's power to raise the dead.",
+  "real_life_bn": "একটি ছেলে তার ছোটবেলার ছবির দিকে তাকায় যখন সে হাঁটতেও পারত না। আজ সে দৌড়াতে ও পড়তে পারে। নিজের এই বৃদ্ধির কথা ভেবে সে বিশ্বাস করে যে আল্লাহ সহজেই মৃতকে জীবন দিতে পারেন।",
+  "themes": [
+    "creation",
+    "resurrection",
+    "reflection"
+  ],
+  "kinds": [
+    "argument",
+    "creation",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Human knowledge of their initial creation is proof that Allah is capable of resurrecting them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

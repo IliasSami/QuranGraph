@@ -1,0 +1,103 @@
+{
+ "id": "3:72",
+ "simple_en": "A group among the People of the Scripture devised a scheme. They told their followers: Pretend to believe in what was revealed to the Muslims at the start of the day, then reject it by the evening. They hoped that seeing scholars walk away would make new believers doubt their faith and give it up.",
+ "simple_bn": "কিতাবধারীদের এক দল বলল: মুমিনদের ওপর যা অবতীর্ণ হয়েছে তার প্রতি দিনের শুরুতে বাহ্যিকভাবে বিশ্বাস স্থাপন করো এবং দিনের শেষে তা অস্বীকার করো, যাতে তারা তাদের দ্বীন থেকে ফিরে আসে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "طوف",
+   "lemma": "طائِفَة",
+   "meaning_en": "a faction / group",
+   "meaning_bn": "একটি দল",
+   "why_en": "Identifies the conspiratorial group among Jewish leaders in Madinah."
+  },
+  {
+   "pos": 12,
+   "root": "وجه",
+   "lemma": "وَجْه",
+   "meaning_en": "the beginning (face)",
+   "meaning_bn": "শুরুতে / প্রথম ভাগে",
+   "why_en": "Refers to their tactic of outwardly accepting Islam in the morning."
+  },
+  {
+   "pos": 13,
+   "root": "نهر",
+   "lemma": "نَهار",
+   "meaning_en": "the day",
+   "meaning_bn": "দিন",
+   "why_en": "The daytime period chosen to execute their staged drama."
+  },
+  {
+   "pos": 15,
+   "root": "أخر",
+   "lemma": "آخِر",
+   "meaning_en": "its end (evening)",
+   "meaning_bn": "তার শেষভাগে (সন্ধ্যায়)",
+   "why_en": "Refers to publicly renouncing faith at sunset to manufacture doubt."
+  },
+  {
+   "pos": 17,
+   "root": "رجع",
+   "lemma": "رَجَعَ",
+   "meaning_en": "they may turn back",
+   "meaning_bn": "তারা যেন ফিরে যায়",
+   "why_en": "Exposes the ultimate aim: shaking the conviction of new Muslim converts."
+  }
+ ],
+ "lesson_en": "Do not let clever schemes or peer pressure shake your trust in Allah.",
+ "lesson_bn": "ঈমান নষ্ট করার সুচতুর ষড়যন্ত্র এবং মানুষের সাজানো আচরণ দেখে বিভ্রান্ত হবেন না।",
+ "real_life_en": "Sometimes critics put on a show of testing a belief only to walk away publicly and spread doubt. Recognize these mind games for what they are. Ground your principles in deep study, not in whether others approve.",
+ "real_life_bn": "কেউ কেউ উদ্দেশ্যপ্রণোদিতভাবে ভালো কোনো উদ্যোগে সামিল হয়ে পরে নাটকীয়ভাবে সরে গিয়ে অন্যদের নিরুৎসাহিত করার অপচেষ্টা করে। মানুষের এ রূপ সাজানো আচরণের ফাঁদে পা না দিয়ে নিজের আদর্শে অবিচল থাকুন।",
+ "context_en": "Exposes a coordinated psychological tactic used by opponents in Madinah to introduce doubt into the Muslim community.",
+ "context_bn": "মদিনার নওমুসলিমদের মনে সংশয় সৃষ্টির উদ্দেশ্যে কিতাবধারীদের সাজানো চক্রান্তের স্বরূপ উন্মোচন করা হয়েছে।",
+ "themes": [
+  "hypocrisy",
+  "faith",
+  "trials",
+  "disbelief",
+  "guidance"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "People of the Book",
+   "Jewish leaders of Madinah"
+  ],
+  "places": [
+   "Madinah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "A faction among the People of the Book urged their followers to feign belief in the morning and renounce it at evening.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Their strategy aimed to cause new believers to doubt their religion and abandon Islam.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

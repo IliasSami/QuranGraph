@@ -1,0 +1,83 @@
+{
+  "id": "6:71",
+  "simple_en": "Say: Shall we worship idols that can neither help nor harm us? Turning back to idolatry after Allah has guided us is like a traveler led astray by devils in a barren desert. He wanders lost and confused, while good companions call him back to safety. True guidance belongs to Allah alone. We are commanded to submit fully to the Lord of all creation.",
+  "simple_bn": "বলুন, আমরা কি আল্লাহ ছাড়া এমন কিছুর উপাসনা করব যা আমাদের কোনো উপকার বা ক্ষতি করতে পারে না? আল্লাহর হেদায়াত পাওয়ার পর শিরকের দিকে ফিরে যাওয়া সেই পথিকের মতো, যাকে শয়তানরা মরুভূমিতে বিভ্রান্ত করে দিশেহারা বানিয়ে দিয়েছে। তার সঙ্গীরা তাকে সঠিক পথের দিকে ডাকলেও সে সাড়া দেয় না। বলুন, আল্লাহর দেখানো পথই একমাত্র সত্য পথ। আমাদের নির্দেশ দেওয়া হয়েছে যেন আমরা সকল সৃষ্টির প্রতিপালকের কাছে সম্পূর্ণ আত্মসমর্পণ করি।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "نفع",
+      "lemma": "نَفَعَ",
+      "meaning_en": "benefits us",
+      "meaning_bn": "আমাদের উপকার করে",
+      "why_en": "Stresses the total powerlessness of idols to bring any advantage."
+    },
+    {
+      "pos": 10,
+      "root": "ضرر",
+      "lemma": "يَضُرَّ",
+      "meaning_en": "harms us",
+      "meaning_bn": "আমাদের ক্ষতি করে",
+      "why_en": "Affirms that false deities can cause no harm or defense."
+    },
+    {
+      "pos": 23,
+      "root": "حير",
+      "lemma": "حَيْران",
+      "meaning_en": "bewildered and lost",
+      "meaning_bn": "দিশেহারা ও বিভ্রান্ত",
+      "why_en": "Paints the vivid parable of a soul wandering aimlessly after abandoning guidance."
+    }
+  ],
+  "lesson_en": "Allah's guidance is the only reliable path. Do not turn back to error after tasting truth.",
+  "lesson_bn": "আল্লাহর হেদায়াতই একমাত্র সঠিক পথ। সত্যের সন্ধান পাওয়ার পর বিভ্রান্তির দিকে ফিরে যাবেন না।",
+  "real_life_en": "When you leave bad habits and choose faith, old companions may urge you to return to sin. Remember this parable of the lost traveler. Stay with righteous friends and hold firmly to Allah's path.",
+  "real_life_bn": "পাপের পথ ছেড়ে যখন আপনি দ্বীনের পথে চলেন, তখন অসৎ সঙ্গীরা আবার আপনাকে ভুল পথে টানতে পারে। মরুভূমিতে পথহারা মানুষের উপমাটি মনে রাখুন। সৎ সঙ্গীদের আঁকড়ে ধরে আল্লাহর আনুগত্যে অবিচল থাকুন।",
+  "context_en": "Polytheists invited Muslims to rejoin their ancestral pagan ways. This ayah provides a striking parable exposing the irrationality of apostasy.",
+  "context_bn": "মুশরিকরা মুসলমানদের তাদের পূর্বপুরুষদের মিথ্যা ধর্মে ফিরে যাওয়ার আহ্বান জানাচ্ছিল। এই আয়াতে একটি সুন্দর উপমার মাধ্যমে তাদের আহ্বানের অসারতা প্রকাশ করা হয়েছে।",
+  "themes": [
+    "guidance",
+    "tawhid",
+    "submission",
+    "parables",
+    "steadfastness"
+  ],
+  "kinds": [
+    "argument",
+    "parable",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "devils"
+    ],
+    "names_of_allah": [
+      "Rabb al-Alamin"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Worshipping idols that possess neither benefit nor harm is a regressive descent into ruin after receiving divine guidance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Apostasy and polytheism resemble a lost wanderer bewildered in a wilderness by devils while true companions call him to safety.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

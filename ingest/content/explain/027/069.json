@@ -1,0 +1,64 @@
+{
+  "id": "27:69",
+  "simple_en": "The Prophet was told to urge the people to travel through the earth and observe the ruins of past criminals. Seeing their fate shows how God punishes persistent wrongdoing.",
+  "simple_bn": "বলুন, তোমরা পৃথিবীতে ভ্রমণ কর এবং দেখ অপরাধীদের পরিণাম কেমন হয়েছিল। যারা আল্লাহর আয়াত অস্বীকার করেছিল, তাদের পরিণতি ছিল ধ্বংস।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "سِيرُوا۟",
+      "root": "سير",
+      "lemma": "سارَ",
+      "meaning_en": "travel",
+      "meaning_bn": "ভ্রমণ কর",
+      "why_en": "The Quranic command to explore historical sites of ruined nations."
+    },
+    {
+      "pos": 8,
+      "arabic": "عَٰقِبَةُ",
+      "root": "عقب",
+      "lemma": "عاقِبَة",
+      "meaning_en": "the criminals",
+      "meaning_bn": "অপরাধীদের",
+      "why_en": "Those who persistently sinned and rejected prophets."
+    }
+  ],
+  "lesson_en": "The past gives us clear lessons. Seeing what happened to past evil people warns us not to walk in their steps.",
+  "lesson_bn": "ইতিহাসের ধ্বংসাবশেষ ভ্রমণ করে শিক্ষা গ্রহণ করা ঈমান বৃদ্ধি করে। পাপ ও জুলুমের চূড়ান্ত ফল সবসময় পরাজয়।",
+  "real_life_en": "Travel with an open mind and reflect on the past. Learn from the mistakes of others so that you walk a better path.",
+  "real_life_bn": "ভ্রমণের সময় কেবল আনন্দ নয়, বরং অতীত ইতিহাসের শিক্ষা নিয়ে ভাবুন। পূর্ববর্তীদের ভুলের পুনরাবৃত্তি থেকে নিজেকে বাঁচিয়ে রাখুন।",
+  "themes": [
+    "travel",
+    "history",
+    "reflection"
+  ],
+  "kinds": [
+    "command",
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Say travel through the land and observe the end of the criminals who denied the truth.",
+      "claim_bn": "বলুন তোমরা যমীনে ভ্রমণ কর এবং দেখ সত্য প্রত্যাখ্যানকারী অপরাধীদের পরিণাম কেমন হয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

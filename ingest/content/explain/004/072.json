@@ -1,0 +1,83 @@
+{
+ "id": "4:72",
+ "simple_en": "Among your people are some who hold back and try to slow others down. When a loss or trial hits the believers, they feel glad in their selfish hearts. They say that Allah was good to them because they were not there to suffer with you.",
+ "simple_bn": "তোমাদের মধ্যে এমন কিছু কপট ব্যক্তি আছে, যারা দায়িত্ব পালনে গড়িমসি করে এবং অন্যদেরও নিরুৎসাহিত করতে চায়। কোনো অভিযানে মুমিনদের কোনো বিপদ বা ক্ষতি হলে সে স্বার্থপরের মতো বলে, ‘আল্লাহ আমার প্রতি অনুগ্রহ করেছেন যে আমি তাদের সাথে উপস্থিত ছিলাম না!’",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "بطأ",
+   "lemma": "يُبَطِّئَ",
+   "meaning_en": "who surely lags behind or delays others",
+   "meaning_bn": "যে অবশ্যই গড়িমসি করে বা পেছনে পড়ে থাকে",
+   "why_en": "Exposes the cowardly habit of hesitating and discouraging others from righteous action."
+  },
+  {
+   "pos": 7,
+   "root": "صوب",
+   "lemma": "مُصِيبَة",
+   "meaning_en": "a misfortune or hardship",
+   "meaning_bn": "কোনো বিপদ বা বিপর্যয়",
+   "why_en": "Refers to setbacks, injuries, or losses that test the sincerity of believers."
+  },
+  {
+   "pos": 17,
+   "root": "شهد",
+   "lemma": "شَهِيد",
+   "meaning_en": "present as a witness or participant",
+   "meaning_bn": "উপস্থিত বা চাক্ষুষ সাক্ষী",
+   "why_en": "Shows the hypocrite's relief at avoiding shared struggle, viewing cowardice as a blessing."
+  }
+ ],
+ "lesson_en": "Stand by your people during hard times instead of caring only for your own safety.",
+ "lesson_bn": "কঠিন পরিস্থিতিতে স্বার্থপরের মতো পিছুটান না দিয়ে আন্তরিকতার সাথে নিজের দায়িত্ব পালন করুন।",
+ "real_life_en": "A neighborhood cleanup project runs into cold rain and heavy mud. A true friend stays and keeps digging. He does not run home to brag about staying dry while his friends do the hard work.",
+ "real_life_bn": "কোনো সেবামূলক কাজ কঠিন রূপ নিলে নিজে নিরাপদে থাকার আনন্দে অন্যদের বিপদ দেখে তৃপ্তি প্রকাশ করবেন না, বরং এগিয়ে এসে তাদের পাশে দাঁড়ান।",
+ "context_en": "Contrasts the duty of disciplined solidarity with the behavior of hypocrites who evade collective burdens and gloat over setbacks.",
+ "context_bn": "আগের আয়াতে প্রস্তুতির নির্দেশের বিপরীতে এখানে মুনাফিকদের কাপুরুষোচিত পিছুটান এবং মুসলিমদের ক্ষতিতে তাদের আত্মতুষ্টির মুখোশ উন্মোচন করা হয়েছে।",
+ "themes": [
+  "hypocrisy",
+  "brotherhood",
+  "trials",
+  "unity"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "hypocrites"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "There are hypocrites who drag their feet and actively discourage others from joining collective struggles.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "When misfortune befalls the believers, the hypocrite rejoices selfishly that he was absent from the hardship.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

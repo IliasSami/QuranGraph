@@ -1,0 +1,89 @@
+{
+ "id": "42:7",
+ "simple_en": "Allah revealed this Quran in clear Arabic to Prophet Muhammad ﷺ. Its purpose is to warn the people of Makkah and all communities around the world. It gives warning about the Day of Assembly, which will surely happen. On that Day, one group will dwell in Paradise and another in the blazing Fire.",
+ "simple_bn": "মহান আল্লাহ আপনার প্রতি এই সুস্পষ্ট আরবি কুরআন ওহী করেছেন। এর উদ্দেশ্য হলো আপনি যেন মক্কাবাসী ও তার চারপাশের সকল মানুষকে সতর্ক করেন। আপনি তাদের সেই মহাসমাবেশের দিন সম্পর্কে সাবধান করবেন যাতে কোনো সন্দেহ নেই। সেদিন একদল থাকবে জান্নাতে এবং আরেকদল থাকবে জ্বলন্ত জাহান্নামে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "قرأ",
+   "lemma": "قُرْءان",
+   "meaning_en": "a Quran",
+   "meaning_bn": "কুরআন",
+   "why_en": "Points to the revealed Book sent as clear guidance for all humanity."
+  },
+  {
+   "pos": 8,
+   "root": "قري",
+   "lemma": "قَرْيَة",
+   "meaning_en": "the cities (Makkah)",
+   "meaning_bn": "জনপদসমূহ (মক্কা)",
+   "why_en": "Refers to Makkah as the mother of cities from which the message spreads."
+  },
+  {
+   "pos": 17,
+   "root": "فرق",
+   "lemma": "فَرِيق",
+   "meaning_en": "Paradise",
+   "meaning_bn": "জান্নাত",
+   "why_en": "Names the eternal home of bliss for believers who follow guidance."
+  },
+  {
+   "pos": 20,
+   "root": "فرق",
+   "lemma": "فَرِيق",
+   "meaning_en": "the blazing Fire",
+   "meaning_bn": "জ্বলন্ত অগ্নি",
+   "why_en": "Warns of the painful end awaiting those who reject the truth."
+  }
+ ],
+ "lesson_en": "Every soul will end up in either Paradise or Hell based on their faith and deeds.",
+ "lesson_bn": "আখিরাতের মহাসমাবেশে মানুষ তার ঈমান ও আমল অনুযায়ী জান্নাত অথবা জাহান্নামে স্থান পাবে।",
+ "real_life_en": "Think about your daily choices and where they lead. Strive to fill your days with prayer, honest work, and charity so that you may be among the companions of Paradise.",
+ "real_life_bn": "প্রতিদিনের কাজ করার সময় আখিরাতের কথা ভাবুন। সৎ নিয়ত, নামাজ ও পরোপকারের মাধ্যমে এমন কাজ করুন যা আপনাকে জান্নাতবাসী হতে সাহায্য করবে।",
+ "themes": [
+  "the Quran",
+  "prophethood",
+  "the Last Day",
+  "Paradise",
+  "Hell"
+ ],
+ "kinds": [
+  "warning",
+  "glad-tidings",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [
+   "makkah"
+  ],
+  "unseen": [
+   "paradise",
+   "hell"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The Arabic Quran was revealed to warn Makkah and mankind of the Day of Assembly, when people will divide into Paradise or Hell.",
+   "claim_bn": "আরবি কুরআন অবতীর্ণ করা হয়েছে মক্কা ও সমগ্র মানবজাতিকে কিয়ামতের সমাবেশ সম্পর্কে সতর্ক করতে, যেদিন একদল জান্নাতে যাবে ও একদল জাহান্নামে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,87 @@
+{
+  "id": "14:44",
+  "simple_en": "Warn mankind of the Day when punishment will reach them. The wrongdoers will plead: Our Lord, grant us a little more time. We will answer Your call and follow the messengers. But they will be told: Did you not swear before that you would never leave this world?",
+  "simple_bn": "মানুষকে সেই দিনের ভয় দেখান যেদিন তাদের ওপর শাস্তি এসে পড়বে। তখন জালিমরা অনুনয় করে বলবে: হে আমাদের রব, আমাদের অল্প কিছু সময় অবকাশ দিন। আমরা আপনার ডাকে সাড়া দেব এবং রাসূলদের অনুসরণ করব। তাদের বলা হবে: তোমরা কি ইতিপূর্বে শপথ করে বলোনি যে তোমাদের কোনো পতন হবে না?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نذر",
+      "lemma": "أَنْذَرَ",
+      "meaning_en": "and warn",
+      "meaning_bn": "সতর্ক করুন",
+      "why_en": "Prophetic duty to deliver clear warning."
+    },
+    {
+      "pos": 5,
+      "root": "عذب",
+      "lemma": "عَذاب",
+      "meaning_en": "the punishment",
+      "meaning_bn": "শাস্তি",
+      "why_en": "The promised divine retribution."
+    },
+    {
+      "pos": 10,
+      "root": "أخر",
+      "lemma": "أَخَّرَ",
+      "meaning_en": "delay us",
+      "meaning_bn": "আমাদের অবকাশ দিন",
+      "why_en": "Desperate begging for a second chance."
+    },
+    {
+      "pos": 15,
+      "root": "دعو",
+      "lemma": "دَعْوَة",
+      "meaning_en": "Your call",
+      "meaning_bn": "আপনার আহ্বান",
+      "why_en": "The call to faith and monotheism."
+    },
+    {
+      "pos": 26,
+      "root": "زول",
+      "lemma": "زَوال",
+      "meaning_en": "decline",
+      "meaning_bn": "পতন",
+      "why_en": "Denying death or loss of power."
+    }
+  ],
+  "lesson_en": "Do not wait for punishment to seek guidance. There will be no second chances after death.",
+  "lesson_bn": "বিপদ আসার আগেভাগেই সৎপথ অবলম্বন করুন। মৃত্যুর পর তওবা করার আর কোনো সুযোগ থাকবে না।",
+  "real_life_en": "A lazy student ignores all study alerts throughout the term. When final exam grades arrive and he fails, he begs the dean for extra days. But the deadline has passed.",
+  "real_life_bn": "এক অলস ছাত্র পরীক্ষার প্রস্তুতি না নিয়ে সময় নষ্ট করে। ফলাফল প্রকাশের পর ফেল করে সে শিক্ষকের কাছে আরও সময় প্রার্থনা করে। কিন্তু নির্ধারিত সময় পার হয়ে যাওয়ায় আর কিছুই করার থাকে না।",
+  "context_en": "Warning to heed the message now before sinners beg in vain for a second chance in the Hereafter.",
+  "context_bn": "মৃত্যুর পর পুনরায় পৃথিবীতে ফিরে আমল করার ব্যর্থ আকুতি জানানোর পূর্বেই সচেতন হওয়ার আহ্বান।",
+  "themes": [
+    "warning",
+    "hereafter",
+    "repentance"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "address"
+  ],
+  "entities": {
+    "events": [
+      "Day of Judgement"
+    ],
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The unjust will plead in vain for extra time on Judgment Day, reminded that they once denied accountability.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

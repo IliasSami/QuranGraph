@@ -1,0 +1,65 @@
+{
+  "id": "17:91",
+  "simple_en": "They demanded rich farms. They said, 'We will not believe until you own green date palms and grapes, and make rivers flow through them all.'",
+  "simple_bn": "কিংবা আপনার খেজুর ও আঙ্গুরের এক চমৎকার বাগান হবে এবং আপনি তার ফাঁকে ফাঁকে অজস্র ধারায় নদী প্রবাহিত করে দেবেন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "جنن",
+      "lemma": "جَنَّة",
+      "meaning_en": "a lush orchard or garden",
+      "meaning_bn": "বাগান",
+      "why_en": "A demanded display of private wealth and agriculture."
+    },
+    {
+      "pos": 9,
+      "root": "نهر",
+      "lemma": "نَهَر",
+      "meaning_en": "rivers",
+      "meaning_bn": "নদী-নালা",
+      "why_en": "Abundant running streams in a dry desert land."
+    }
+  ],
+  "lesson_en": "Prophets come to teach good morals and prayer. They do not come to show off wealth or gardens.",
+  "lesson_bn": "নবীরা আত্মশুদ্ধি ও হেদায়েতের বার্তা নিয়ে আসেন, দুনিয়াবি জাঁকজমক বা ধনী হওয়ার জাদু দেখাতে আসেন না।",
+  "real_life_en": "Judge teachers by their honesty and good deeds. Do not look at their cars, houses, or money.",
+  "real_life_bn": "কোনো মানুষকে তার বাহ্যিক ধনসম্পদ দিয়ে নয়, তার নৈতিক সততা ও চরিত্রের পবিত্রতা দেখে মূল্যায়ন করুন।",
+  "themes": [
+    "demands-for-wealth",
+    "worldly-mindset",
+    "prophethood"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [
+      "Quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Skeptics demanded that the Prophet own lush gardens of palms and grapes with running rivers as proof of his mission.",
+      "claim_bn": "অবিশ্বাসীরা নবীর কাছে খেজুর ও আঙ্গুরের বাগান এবং তাতে নদী প্রবাহিত করার শর্ত দিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

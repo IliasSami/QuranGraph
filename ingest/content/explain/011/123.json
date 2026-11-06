@@ -1,0 +1,88 @@
+{
+  "id": "11:123",
+  "simple_en": "To Allah belongs all the unseen knowledge of the heavens and the earth. Every single matter will return to Him for final judgment. So worship Him alone and put your full trust in Him. Your Lord is never unaware of anything you do.",
+  "simple_bn": "আসমানসমূহ ও যমীনের সমস্ত অদৃশ্য বিষয় কেবল আল্লাহরই জ্ঞানে রয়েছে, এবং সমস্ত বিষয় তাঁরই কাছে প্রত্যাবর্তিত হবে। কাজেই আপনি কেবল তাঁরই ইবাদত করুন এবং তাঁরই ওপর ভরসা রাখুন। আর তোমরা যা করো, সে সম্বন্ধে আপনার রব কখনোই উদাসীন নন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "غيب",
+      "lemma": "غَيْب",
+      "meaning_en": "unseen knowledge",
+      "meaning_bn": "অদৃশ্য বিষয়",
+      "why_en": "The realm beyond human perception known solely to Allah."
+    },
+    {
+      "pos": 6,
+      "root": "رجع",
+      "lemma": "رَجَعَ",
+      "meaning_en": "will be returned",
+      "meaning_bn": "প্রত্যাবর্তন করানো হবে",
+      "why_en": "The ultimate return of all affairs to God."
+    },
+    {
+      "pos": 9,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "worship Him",
+      "meaning_bn": "তাঁরই ইবাদত করুন",
+      "why_en": "Direct command to practice pure monotheism."
+    },
+    {
+      "pos": 10,
+      "root": "وكل",
+      "lemma": "تَوَكَّلْ",
+      "meaning_en": "rely upon Him",
+      "meaning_bn": "তাঁর ওপর ভরসা রাখুন",
+      "why_en": "Complete trust and reliance upon Allah (tawakkul)."
+    },
+    {
+      "pos": 14,
+      "root": "غفل",
+      "lemma": "غافِل",
+      "meaning_en": "unaware / heedless",
+      "meaning_bn": "উদাসীন / গাফিল",
+      "why_en": "God's perpetual vigilance over all actions."
+    }
+  ],
+  "lesson_en": "Worship God with a pure heart and trust Him in all things.",
+  "lesson_bn": "একনিষ্ঠভাবে আল্লাহর ইবাদত করুন, তাঁর ওপর ভরসা রাখুন এবং জানুন যে তিনি সবকিছু দেখছেন।",
+  "real_life_en": "Begin and end each day by remembering God. Entrust your worries to Him, knowing that He oversees the entire universe and cares for your smallest need.",
+  "real_life_bn": "প্রতিদিনের কাজ আল্লাহর ওপর ভরসা করে শুরু করুন। তিনি মহাবিশ্বের সবকিছুর খবর রাখেন, তাই আপনার উদ্বেগ তাঁর কাছে সমর্পণ করুন।",
+  "themes": [
+    "knowledge of the unseen",
+    "tawhid",
+    "tawakkul",
+    "all affairs return to Allah",
+    "closing of Surah Hud"
+  ],
+  "kinds": [
+    "worship",
+    "command",
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "All the unseen belongs to Allah, all decisions return to Him, and believers are commanded to devote worship and absolute reliance to Him alone.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

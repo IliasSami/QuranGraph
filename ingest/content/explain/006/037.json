@@ -1,0 +1,83 @@
+{
+  "id": "6:37",
+  "simple_en": "The disbelievers asked for a special sign to prove the message. Allah tells the Prophet to say that Allah has full power to send any sign. But most people do not understand His wisdom. If a sign came and they still refused to believe, sudden ruin would fall upon them.",
+  "simple_bn": "মুশরিকরা একগুঁয়েমি করে দাবি করেছিল যে নবীর ওপর কোনো বিশেষ অলৌকিক নিদর্শন কেন নাযিল হলো না। আল্লাহ রাসূলকে বলতে বলেন, নিশ্চয় আল্লাহ যেকোনো নিদর্শন পাঠাতে সম্পূর্ণ সক্ষম। কিন্তু অধিকাংশ মানুষ জানে না যে, নিশ্চিত নিদর্শন আসার পরও সত্য অস্বীকার করলে সাথে সাথে খোদায়ী ধ্বংস নেমে আসে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "a sign or miracle",
+      "meaning_bn": "একটি নিদর্শন",
+      "why_en": "Refers to the demanding of supernatural signs by disbelievers."
+    },
+    {
+      "pos": 11,
+      "root": "قدر",
+      "lemma": "قادِر",
+      "meaning_en": "All-Able",
+      "meaning_bn": "পূর্ণ ক্ষমতাবান",
+      "why_en": "Affirms Allah's boundless power to send down any sign He wills."
+    },
+    {
+      "pos": 19,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "they know",
+      "meaning_bn": "তারা জানে",
+      "why_en": "Points out their ignorance of the divine wisdom behind granting signs."
+    }
+  ],
+  "lesson_en": "Accept the clear truth in front of you. Do not ask for signs out of pride.",
+  "lesson_bn": "সামনে থাকা স্পষ্ট সত্যকে মেনে নিন; অহংকারবশত অলৌকিক নিদর্শনের দাবি তুলবেন না।",
+  "real_life_en": "A sick man ignores basic advice from his doctor. He keeps asking for rare proof while his health gets worse. Wise people accept clear facts and act quickly, instead of looking for excuses to delay.",
+  "real_life_bn": "চিকিৎসকের সাধারণ অথচ কার্যকর পরামর্শ উপেক্ষা করে জটিল পরীক্ষার দাবি তোলা অসুস্থ ব্যক্তির জন্য ক্ষতিকর। বুদ্ধিমান মানুষ সহজ সত্য মেনে দ্রুত পদক্ষেপ নেয়, অহেতুক বাহানা তুলে ভালো কাজে দেরি করে না।",
+  "context_en": "Responds to polytheists' demanding of signs by affirming Allah's omnipotence and wisdom.",
+  "context_bn": "মুশরিকদের অনর্থক অলৌকিক নিদর্শন চাওয়ার দাবির মুখে আল্লাহর অপার ক্ষমতা ও প্রজ্ঞার কথা ব্যক্ত করা হয়েছে।",
+  "themes": [
+    "signs",
+    "knowledge",
+    "divine-power"
+  ],
+  "kinds": [
+    "argument",
+    "address",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Ar-Rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Polytheists obstinately demand supernatural signs from the Prophet's Lord.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Allah is fully capable of sending down signs, but most people do not understand the wisdom behind their timing.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

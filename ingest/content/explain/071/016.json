@@ -1,0 +1,86 @@
+{
+ "id": "71:16",
+ "simple_en": "Allah placed the moon in the sky to give a gentle light through the dark night. He made the blazing sun like a shining lamp to provide heat and daylight for all living things. These two lights guide our days, months, and seasons, serving humanity through Allah's mercy.",
+ "simple_bn": "আল্লাহ রাতের আঁধারে মৃদু আলো দেওয়ার জন্য আকাশে চাঁদ স্থাপন করেছেন। আর জীবজগতের জন্য উত্তাপ ও দিনের আলো দিতে সূর্যকে জ্বলন্ত প্রদীপের মতো বানিয়েছেন। এই দুই আলো দিন, মাস ও ঋতুর হিসাব ঠিক রাখে এবং মানুষের জীবন সহজ করে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "قمر",
+   "lemma": "قَمَر",
+   "meaning_en": "the moon",
+   "meaning_bn": "চাঁদ",
+   "why_en": "The celestial body giving calm light to the night."
+  },
+  {
+   "pos": 4,
+   "root": "نور",
+   "lemma": "نُور",
+   "meaning_en": "a light",
+   "meaning_bn": "জ্যোতি, আলো",
+   "why_en": "Reflected illumination that brightens the dark."
+  },
+  {
+   "pos": 6,
+   "root": "شمس",
+   "lemma": "شَمْس",
+   "meaning_en": "the sun",
+   "meaning_bn": "সূর্য",
+   "why_en": "The central lamp that warms the earth and gives daylight."
+  },
+  {
+   "pos": 7,
+   "root": "سرج",
+   "lemma": "سِراج",
+   "meaning_en": "a glowing lamp",
+   "meaning_bn": "প্রদীপ, আলোকবর্তিকা",
+   "why_en": "It describes the intense heat and blazing brightness of the sun."
+  }
+ ],
+ "lesson_en": "Give thanks to Allah for the sun that warms your day and the moon that brightens your night.",
+ "lesson_bn": "দিনের আলো দেওয়া সূর্যের জন্য এবং রাতের আলো দেওয়া চাঁদের জন্য আল্লাহর কৃতজ্ঞতা প্রকাশ করুন।",
+ "real_life_en": "Farmers plan planting and harvest by the sun and moon. When morning light arrives, workers begin their day with energy. These daily blessings show how Allah cares for our needs without us even asking.",
+ "real_life_bn": "কৃষকেরা সূর্য ও চাঁদের গতি দেখে ফসল বোনা ও কাটার সময় ঠিক করেন। সকালের আলো ফুটলে মানুষ কাজের উৎসাহ পায়। এই প্রতিদিনের নিয়ামতগুলো মনে করিয়ে দেয় আল্লাহ না চাইতেই আমাদের কত যত্ন নেন।",
+ "themes": [
+  "sun",
+  "moon",
+  "creation",
+  "gratitude"
+ ],
+ "kinds": [
+  "creation",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "sun",
+   "moon"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah placed the moon as a light and the sun as an illuminating lamp for the benefit of creation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The sun and moon serve human life through light, warmth, and timekeeping.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

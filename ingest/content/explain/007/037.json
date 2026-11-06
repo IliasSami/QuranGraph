@@ -1,0 +1,86 @@
+{
+ "id": "7:37",
+ "simple_en": "Who is more unjust than one who tells lies about Allah or rejects His signs? They get their set share of worldly life. But when the angels come to take their souls, they ask where the false gods are. The dying admit their idols are gone, and confess their disbelief.",
+ "simple_bn": "যে ব্যক্তি আল্লাহর ওপর মিথ্যা অপবাদ দেয় কিংবা তাঁর আয়াতসমূহকে অস্বীকার করে, তার চেয়ে বড় জালেম আর কেউ হতে পারে না। পার্থিব জীবনে তারা তাদের নির্ধারিত রিজিক ও আয়ু ভোগ করবে। কিন্তু যখন মৃত্যুর ফেরেশতারা তাদের প্রাণ নিতে আসবে, তখন তারা জিজ্ঞেস করবে, \"কোথায় তারা, যাদের তোমরা ডাকতে?\" তারা বলবে, \"তারা হারিয়ে গেছে\" এবং স্বীকার করবে যে তারা কাফির ছিল।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ظلم",
+   "lemma": "أَظْلَم",
+   "meaning_en": "more unjust / more wrongful",
+   "meaning_bn": "অধিকতর জালেম",
+   "why_en": "Rhetorical question indicating that inventing lies against Allah is the ultimate injustice."
+  },
+  {
+   "pos": 4,
+   "root": "فري",
+   "lemma": "افْتَرَى",
+   "meaning_en": "invented / fabricated",
+   "meaning_bn": "মিথ্যা রচনা করল",
+   "why_en": "Denotes fabricating false doctrines or false gods beside Allah."
+  },
+  {
+   "pos": 20,
+   "root": "وفي",
+   "lemma": "تَوَفَّى",
+   "meaning_en": "taking their souls in death",
+   "meaning_bn": "তাদের প্রাণ হরণ করে",
+   "why_en": "Describes the angels of death arriving to take the disbeliever's soul."
+  }
+ ],
+ "lesson_en": "False gods vanish at death. Never lie about Allah or put your trust in idols.",
+ "lesson_bn": "মৃত্যুর মুখোমুখি হলে সকল মিথ্যা নির্ভরতা উধাও হয়ে যায়। একমাত্র আল্লাহর ওপর ভরসা রাখুন।",
+ "real_life_en": "Worldly wealth and status cannot save you when the angel of death arrives. What matters is true faith and righteous deeds. Do not place your ultimate hope in mortal leaders, wealth, or fake spiritual powers.",
+ "real_life_bn": "মৃত্যুর ফেরেশতা যখন উপস্থিত হবে, তখন ক্ষমতা বা সম্পদ কোনো কাজে আসবে না। কেবল খাঁটি ঈমানই মুক্তির পথ দেখাবে। কোনো নশ্বর শক্তি বা পার্থিব অহমিকাকে নিজের নির্ভরতা বানাবেন না।",
+ "context_en": "The terrifying moment of death for those who fabricate lies against Allah and discover the worthlessness of their false deities.",
+ "context_bn": "আল্লাহর ওপর মিথ্যা অপবাদকারীদের মৃত্যুর মুহূর্তের চিত্র: ফেরেশতাদের জেরা এবং অসহায়ভাবে নিজেদের কুফরি স্বীকার করার বিবরণ।",
+ "themes": [
+  "fabricating lies against Allah",
+  "moment of death",
+  "false gods",
+  "confession of disbelief"
+ ],
+ "kinds": [
+  "argument",
+  "warning",
+  "hereafter",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [
+   "transgressors"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels of death"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Inventing lies against Allah or rejecting His revelations is the greatest form of injustice.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Disbelievers receive their decreed earthly share, but at death angels confront them, and they confess their utter ruin.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

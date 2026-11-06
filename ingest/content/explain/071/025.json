@@ -1,0 +1,100 @@
+{
+ "id": "71:25",
+ "simple_en": "Because of their persistent sins and defiance, the floodwaters rose and drowned them in this world. Right after death, their souls entered the punishing fire of the unseen world. Not one of their idols or wealthy leaders could step forward to help them against the decree of Allah.",
+ "simple_bn": "তাদের ক্রমাগত পাপ আর অবাধ্যতার কারণে মহাপ্লাবনের পানিতে তাদের ডুবিয়ে ধ্বংস করা হলো। মৃত্যুর পরপরই তাদের আত্মা জাহান্নামের আগুনে প্রবেশ করানো হলো। সেদিন তাদের কোনো মূর্তি কিংবা প্রভাবশালী নেতা আল্লাহর শাস্তির হাত থেকে তাদের রক্ষা করতে পারল না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "خطأ",
+   "lemma": "خَطِيئَة",
+   "meaning_en": "their sins, wrongdoings",
+   "meaning_bn": "তাদের অপরাধ, পাপ",
+   "why_en": "The direct cause of their worldly drowning and punishment."
+  },
+  {
+   "pos": 3,
+   "root": "غرق",
+   "lemma": "أُغْرِقُ",
+   "meaning_en": "they were drowned",
+   "meaning_bn": "তাদেরকে ডুবিয়ে দেওয়া হলো",
+   "why_en": "The catastrophic end of Noah's stubborn nation in the flood."
+  },
+  {
+   "pos": 4,
+   "root": "دخل",
+   "lemma": "أُدْخِلَ",
+   "meaning_en": "they were put into, entered",
+   "meaning_bn": "প্রবেশ করানো হলো",
+   "why_en": "Immediate entry into the punishment of the fire after death."
+  },
+  {
+   "pos": 5,
+   "root": "نور",
+   "lemma": "نار",
+   "meaning_en": "the Fire",
+   "meaning_bn": "জাহান্নামের আগুন",
+   "why_en": "The severe punishment waiting in the afterlife."
+  },
+  {
+   "pos": 12,
+   "root": "نصر",
+   "lemma": "نَصِير",
+   "meaning_en": "helpers",
+   "meaning_bn": "সাহায্যকারী",
+   "why_en": "Total absence of anyone able to defend them against Allah."
+  }
+ ],
+ "lesson_en": "Sins bring ruin in this world and the next. No human helper can protect you from Allah's decree.",
+ "lesson_bn": "পাপ দুনিয়া ও পরকাল উভয় স্থানেই ধ্বংস ডেকে আনে। আল্লাহর শাস্তির বিরুদ্ধে কোনো মানুষ কাউকে সাহায্য করতে পারে না।",
+ "real_life_en": "A corrupt official relies on powerful friends to protect him from the law. When his crimes are exposed, every friend turns their back on him. True safety lies only in obeying Allah, not in human connections.",
+ "real_life_bn": "একজন দুর্নীতিবাজ কর্মকর্তা ভেবেছিল প্রভাবশালী বন্ধুরা তাকে রক্ষা করবে। অপরাধ ফাঁস হতেই সব বন্ধু মুখ ফিরিয়ে নিল। আসল নিরাপত্তা মানুষের পরিচয়ে নেই, বরং আল্লাহর আনুগত্যেই রয়েছে।",
+ "themes": [
+  "the Flood",
+  "punishment",
+  "Hell",
+  "Noah's people"
+ ],
+ "kinds": [
+  "warning",
+  "story",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [
+   "nuh"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "hell"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [
+   "the flood"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Because of their sins they were drowned by the flood and entered the fire immediately after death.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "They found no helpers besides Allah to rescue them from destruction.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

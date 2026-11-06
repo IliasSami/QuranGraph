@@ -1,0 +1,66 @@
+{
+  "id": "26:182",
+  "simple_en": "Shu'ayb told them to weigh all goods using fair and honest scales. Business dealings must always be straight, true, and free from deceit or cheating.",
+  "simple_bn": "শুআইব বললেন, তোমরা সঠিক ও নিখুঁত দাঁড়িপাল্লায় ওজন করে দাও। সমস্ত আর্থিক লেনদেন হতে হবে সম্পূর্ণ স্বচ্ছ, নির্ভুল এবং প্রতারণামুক্ত।",
+  "key_words": [
+    {
+      "pos": 1,
+      "arabic": "وَزِنُوا۟",
+      "root": "وزن",
+      "lemma": "وَزَنُ",
+      "meaning_en": "and weigh",
+      "meaning_bn": "এবং ওজন কর",
+      "why_en": "Commands fair and accurate weighing in all transactions."
+    },
+    {
+      "pos": 2,
+      "arabic": "بِٱلْقِسْطَاسِ",
+      "root": "قسطس",
+      "lemma": "قِسْطاس",
+      "meaning_en": "with the balance",
+      "meaning_bn": "সঠিক দাঁড়িপাল্লায়",
+      "why_en": "Specifies using upright and honest scales."
+    }
+  ],
+  "lesson_en": "Justice must guide our daily trade. Using honest scales builds trust in a community.",
+  "lesson_bn": "প্রতিদিনের ব্যবসা ও কেনাবেচায় ন্যায়বিচার প্রতিষ্ঠা করা অপরিহার্য। সঠিক পরিমাপ সমাজে বিশ্বাস সৃষ্টি করে।",
+  "real_life_en": "Check your tools, scales, and accounts to ensure fairness. Never take unfair gain by tweaking the numbers.",
+  "real_life_bn": "নিজের কাজের হিসাব এবং পরিমাপের উপকরণ সবসময় নির্ভুল রাখুন। অন্যায় লাভের আশায় কখনো ওজনে ফাঁকি দেবেন না।",
+  "themes": [
+    "justice",
+    "commerce",
+    "fairness"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Shu'ayb ordered his people to weigh with an honest and accurate balance.",
+      "claim_bn": "শুআইব তাঁর লোকদেরকে সঠিক ও ন্যায়সংগত দাঁড়িপাল্লায় ওজন করার নির্দেশ দিয়েছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,89 @@
+{
+ "id": "4:148",
+ "simple_en": "Allah does not like harmful words or foul speech to be said in public. He warns His servants against slander and abuse. But if a person suffers injustice, they may speak out to seek help or report the wrong. Allah is ever All-Hearing and All-Knowing.",
+ "simple_bn": "মন্দ কথা বা গালিগালাজ প্রকাশ্যে প্রচার করা আল্লাহ পছন্দ করেন না। তিনি অশ্লীল ভাষা ও পরনিন্দা থেকে বিরত থাকতে সতর্ক করেছেন। তবে যে ব্যক্তি যুলুমের শিকার হয়েছে, সে প্রতিকার চাওয়ার জন্য অন্যায়ের কথা প্রকাশ করতে পারে। আল্লাহ তোমাদের সব কথা শোনেন এবং তোমাদের নিয়ত সম্পর্কে অবগত আছেন।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "جهر",
+   "lemma": "جَهْر",
+   "meaning_en": "speaking openly or publicly",
+   "meaning_bn": "প্রকাশ্যে বলা বা প্রচার করা",
+   "why_en": "Limits publicizing hurtful words or sins to protect social decency."
+  },
+  {
+   "pos": 10,
+   "root": "ظلم",
+   "lemma": "ظَلَمَ",
+   "meaning_en": "he was wronged or oppressed",
+   "meaning_bn": "অত্যাচারিত বা যুলুমের শিকার হয়েছে",
+   "why_en": "Grants the victim of injustice the right to speak out and seek fair redress."
+  },
+  {
+   "pos": 13,
+   "root": "سمع",
+   "lemma": "سَمِيع",
+   "meaning_en": "All-Hearing",
+   "meaning_bn": "সর্বশ্রোতা",
+   "why_en": "Reminds the speaker that Allah hears both open complaints and hidden curses."
+  }
+ ],
+ "lesson_en": "Do not use bad words in public. Speak up only when fighting unfair harm.",
+ "lesson_bn": "মন্দ কথা ও অপবাদ ছড়ানো পরিহার করা উচিত, তবে অবিচারের শিকার হলে ন্যায়বিচার চাইতে সত্য তুলে ধরা বৈধ।",
+ "real_life_en": "Do not curse people or spread harmful gossip on social media. But if someone cheats you or steals from you, it is right to report the matter to those in authority. State the plain facts without telling lies.",
+ "real_life_bn": "সোশ্যাল মিডিয়ায় বা লোকসমক্ষে গীবত ও কটূক্তি করা থেকে বিরত থাকুন। কেউ আপনার ক্ষতি বা প্রতারণা করলে ক্ষোভ না উগরে নিয়মমাফিক সালিস বা আইনি সাহায্য নিন। কেবল সত্য ঘটনাটুকু বলুন, বাড়িয়ে বলবেন না।",
+ "context_en": "After addressing spiritual hypocrisy, this passage establishes moral ethics regarding speech and justice in interpersonal life.",
+ "context_bn": "মুনাফিকির ব্যাধি আলোচনার পর এখানে সমাজ জীবনে বাকসংযম এবং মজলুমের অধিকার রক্ষার গুরুত্বপূর্ণ সামাজিক বিধান দেওয়া হয়েছে।",
+ "themes": [
+  "ethics",
+  "justice",
+  "names and attributes of Allah",
+  "good character"
+ ],
+ "kinds": [
+  "prohibition",
+  "law",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "As-Sami",
+   "Al-Alim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah dislikes the public voicing of evil speech, foul language, and slander.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "A person who has been wronged is permitted to speak publicly about the injustice to complain and seek rights.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah is As-Sami, hearing all speech, and Al-Alim, knowing the intentions behind words.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,64 @@
+{
+ "id": "75:25",
+ "simple_en": "The disbelievers will know for sure that a terrible disaster is about to strike them. They will realize that a backbreaking punishment is waiting. All their false hopes will disappear as they face the reality of what they denied.",
+ "simple_bn": "অস্বীকারকারীরা নিশ্চিতভাবে বুঝতে পারবে যে তাদের ওপর এক ধ্বংসাত্মক বিপদ নেমে আসছে। তারা উপলব্ধি করবে যে তাদের জন্য এক কোমরভাঙা কঠিন শাস্তি প্রস্তুত রয়েছে। এতদিন তারা যা অস্বীকার করেছিল, তার মুখোমুখি হয়ে তাদের সমস্ত মিথ্যা আশা শেষ হয়ে যাবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ظنن",
+   "lemma": "ظَنَّ",
+   "meaning_en": "expecting, knowing",
+   "meaning_bn": "আশঙ্কা করবে",
+   "why_en": "Certain that a severe calamity is about to strike them."
+  },
+  {
+   "pos": 5,
+   "root": "فقر",
+   "lemma": "فاقِرَة",
+   "meaning_en": "backbreaking disaster",
+   "meaning_bn": "ধ্বংসকারী বিপর্যয়",
+   "why_en": "A devastating punishment that breaks the spine."
+  }
+ ],
+ "lesson_en": "Ignoring the warnings of Allah leads to a ruinous outcome with no way out.",
+ "lesson_bn": "আল্লাহর সতর্কবাণী অগ্রাহ্য করলে এমন এক অনিবার্য পরিণতির মুখোমুখি হতে হয় যা থেকে বাঁচার পথ থাকে না।",
+ "real_life_en": "When traffic signs warn of danger ahead, you slow down. The Quran's warnings are far more serious. Heed them now by steering clear of wrongdoing before regret is permanent.",
+ "real_life_bn": "রাস্তায় বিপদের সংকেত দেখলে আমরা গাড়ি সাবধানে চালাই। কুরআনের সতর্কবার্তা আরও অনেক বেশি গুরুত্বপূর্ণ। ভুল পথ ছেড়ে আজই সঠিক পথে ফিরে আসুন।",
+ "themes": [
+  "punishment",
+  "the Last Day",
+  "warning"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "day-of-judgment"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "day-of-judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The disbelievers will realize that a severe, backbreaking punishment is about to be inflicted upon them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

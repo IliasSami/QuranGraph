@@ -1,0 +1,62 @@
+{
+  "id": "21:95",
+  "simple_en": "It is an unbreakable rule that a destroyed town can never return to this world. Once divine destruction seizes a corrupt nation, its worldly life is over.",
+  "simple_bn": "যে জনপদকে আমি ধ্বংস করেছি তার জন্য এটি অসম্ভব যে তারা পুনরায় এই দুনিয়ায় ফিরে আসবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "حرم",
+      "lemma": "حَرام",
+      "meaning_en": "prohibited or impossible",
+      "meaning_bn": "অসম্ভব বা নিষিদ্ধ",
+      "why_en": "Irreversible divine decree on destroyed nations."
+    },
+    {
+      "pos": 7,
+      "root": "رجع",
+      "lemma": "يَرْجِعُونَ",
+      "meaning_en": "they return",
+      "meaning_bn": "তারা ফিরে আসবে",
+      "why_en": "No second chance in earthly life after destruction."
+    }
+  ],
+  "lesson_en": "Life on earth is a one-time opportunity. Once death or divine destruction strikes, there is no returning to mend past mistakes.",
+  "lesson_bn": "দুনিয়ার জীবন একবারের জন্যই সুযোগ। মৃত্যু বা ধ্বংস নেমে এলে ভুল সংশোধনের জন্য ফিরে আসার আর কোনো পথ থাকে না।",
+  "real_life_en": "Treasure your present life today. Do not assume you will ever get a second chance to fix your moral choices.",
+  "real_life_bn": "বর্তমান জীবনকে অমূল্য সম্পদ মনে করুন। ভুল শুধরে নেওয়ার জন্য দ্বিতীয় সুযোগ পাওয়া যাবে না, তাই এখনই সঠিক পথে চলুন।",
+  "themes": [
+    "irreversibility-of-death",
+    "destroyed-nations",
+    "no-return",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "It is an immutable decree that communities destroyed by divine punishment cannot return to earthly life.",
+      "claim_bn": "আল্লাহর বিধান অনুযায়ী ধ্বংসপ্রাপ্ত কোনো জাতি কখনোই পুনরায় পার্থিব জীবনে ফিরে আসতে পারবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,76 @@
+{
+ "id": "70:32",
+ "simple_en": "These people are trustworthy. When something is left in their care, they do not betray it. When they make a promise or an agreement, they keep it. Money, secrets and promises are all treated the same way: as something they must answer for.",
+ "simple_bn": "এই মানুষেরা আমানতদার। তাদের কাছে কিছু গচ্ছিত থাকলে তারা তার খিয়ানত করে না। তারা কোনো প্রতিশ্রুতি বা চুক্তি করলে তা রক্ষা করে। টাকা, গোপন কথা আর প্রতিশ্রুতি, সবকিছুকেই তারা সেই জিনিস মনে করে যার হিসাব তাদের দিতে হবে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "أمن",
+   "lemma": "أَمانَة",
+   "meaning_en": "their trusts",
+   "meaning_bn": "তাদের আমানত",
+   "why_en": "From the same root as faith and safety: what is entrusted to you is kept safe."
+  },
+  {
+   "pos": 4,
+   "root": "عهد",
+   "lemma": "عَهْد",
+   "meaning_en": "their covenant",
+   "meaning_bn": "তাদের অঙ্গীকার",
+   "why_en": "A binding agreement, whether with Allah or with people."
+  },
+  {
+   "pos": 5,
+   "root": "رعي",
+   "lemma": "راعي",
+   "meaning_en": "keepers, guardians",
+   "meaning_bn": "রক্ষণাবেক্ষণকারী",
+   "why_en": "The word pictures a shepherd watching over a flock, not a clerk filing papers."
+  }
+ ],
+ "lesson_en": "Be the person whose word and trust can be relied on, even when no one is checking.",
+ "lesson_bn": "এমন মানুষ হোন, যার কথার আর আমানতের উপর ভরসা করা যায়, কেউ দেখছে না এমন সময়েও।",
+ "real_life_en": "A neighbour leaves their house key with you while they travel. You do not lend it to anyone, and you do not mention it to others. They come back and find everything exactly as they left it.",
+ "real_life_bn": "প্রতিবেশী সফরে যাওয়ার আগে ঘরের চাবি আপনার কাছে রেখে গেলেন। আপনি সেটা অন্য কাউকে দেননি, আর কারও কাছে এ কথা বলেনওনি। ফিরে এসে তিনি দেখলেন, সবকিছু ঠিক আগের মতোই আছে।",
+ "context_en": "After guarding the private self, the surah turns to what other people have placed in your hands.",
+ "context_bn": "নিজের লজ্জাস্থান রক্ষার পর সূরাটি এখন সেই জিনিসের দিকে ফিরেছে, যা অন্য মানুষ আপনার হাতে রেখে যায়।",
+ "themes": [
+  "honesty",
+  "keeping promises",
+  "the believers' qualities"
+ ],
+ "kinds": [
+  "belief",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "These believers keep what is entrusted to them, such as wealth and secrets, and they do not break the agreements they make.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "If given a trust they do not cheat, and if they make a covenant they do not break it.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "28:23",
+  "simple_en": "Moses arrived at the wells of Madyan and saw men watering their flocks. Nearby, two women held their sheep back. Moses asked them why they waited. They said they must wait until the men finish, and their father is very old.",
+  "simple_bn": "মুসা যখন মাদইয়ানের কূপের কাছে পৌঁছাল, সেখানে একদল লোককে পশুদের পানি পান করাতে দেখল। তাদের পেছনে সে দুজন নারীকে দেখতে পেল যারা নিজেদের ছাগলগুলোকে আটকে রাখছিল। মুসা তাদের জিজ্ঞেস করল, তোমাদের কী সমস্যা? তারা বলল, রাখালরা পশুদের নিয়ে না যাওয়া পর্যন্ত আমরা পানি পান করাতে পারি না, আর আমাদের বাবা একজন বয়োবৃদ্ধ মানুষ।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "مَدْيَنَ",
+      "root": "مدن",
+      "lemma": "مَدْيَن",
+      "meaning_en": "water",
+      "meaning_bn": "কূপের পানি",
+      "why_en": "The watering well of Madyan where shepherds gathered."
+    },
+    {
+      "pos": 13,
+      "arabic": "دُونِهِمُ",
+      "root": "دون",
+      "lemma": "دُون",
+      "meaning_en": "keeping back",
+      "meaning_bn": "দূরে সরিয়ে রাখছিল",
+      "why_en": "The two women holding back their flock patiently."
+    }
+  ],
+  "lesson_en": "Respect and care for the vulnerable are marks of noble character. Help those who struggle to meet their daily needs.",
+  "lesson_bn": "অসহায় ও দুর্বল মানুষের সমস্যা অনুধাবন করা এবং তাদের সম্মান বজায় রাখা মহৎ চরিত্রের লক্ষণ।",
+  "real_life_en": "Notice when others are waiting or struggling in public places. Offer polite help to women, the elderly, and the weak.",
+  "real_life_bn": "জনসমাগমপূর্ণ স্থানে নারী ও বয়োজ্যেষ্ঠদের প্রতি শালীনতা ও সম্মান বজায় রাখুন। তাদের প্রয়োজনে ভদ্রভাবে এগিয়ে যান।",
+  "themes": [
+    "musa",
+    "madyan",
+    "chastity",
+    "kindness"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Two daughters of Madyan",
+      "Father of Madyan"
+    ],
+    "nations": [
+      "People of Madyan"
+    ],
+    "places": [
+      "Madyan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "well"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Moses arrived at the well of Madyan and found two women patiently holding back their sheep due to the crowd.",
+      "claim_bn": "মুসা মাদইয়ানের কূপে রাখালদের ভিড় দেখে এবং দুই নারীকে অসহায়ভাবে পশু আটকে রাখতে দেখতে পায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

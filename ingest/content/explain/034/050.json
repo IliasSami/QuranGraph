@@ -1,0 +1,76 @@
+{
+  "id": "34:50",
+  "simple_en": "Say: If I were to go astray, the loss would fall only upon myself. But if I am guided, it is solely because of what my Lord reveals to me. Indeed, He is All-Hearing and very Near to His servants.",
+  "simple_bn": "বলুন: আমি যদি বিপথগামী হই তবে সে ভুলের ক্ষতি আমার ওপরই বর্তাবে। আর আমি যদি সঠিক পথে থাকি তবে তা আমার প্রতিপালকের ওহীর মাধ্যমেই সম্ভব। নিশ্চয় তিনি সর্বশ্রোতা ও অতি নিকটবর্তী।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ضلل",
+      "lemma": "ضَلَّ",
+      "meaning_en": "I err / go astray",
+      "meaning_bn": "আমি বিভ্রান্ত হই",
+      "why_en": "Human error belongs to the self, not divine revelation."
+    },
+    {
+      "pos": 14,
+      "root": null,
+      "lemma": "إِنّ",
+      "meaning_en": "All-Hearing",
+      "meaning_bn": "সর্বশ্রোতা",
+      "why_en": "Allah's name As-Sami: He hears every prayer and whispered word."
+    },
+    {
+      "pos": 15,
+      "root": "سمع",
+      "lemma": "سَمِيع",
+      "meaning_en": "Near",
+      "meaning_bn": "অতি নিকটবর্তী",
+      "why_en": "Allah is close to His servants in knowledge, care, and response."
+    }
+  ],
+  "lesson_en": "All true guidance comes from Allah, and He is always near to listen to your prayers.",
+  "lesson_bn": "সকল হিদায়াত আল্লাহর পক্ষ থেকেই আসে এবং তিনি সর্বদা তাঁর বান্দাদের ডাক শোনেন।",
+  "real_life_en": "Whenever you feel lost or uncertain, turn to Allah in prayer. Whisper your needs to Him, knowing that He hears every word you say.",
+  "real_life_bn": "দ্বিধাদ্বন্দ্বে পড়লে সরাসরি আল্লাহর কাছে হিদায়াত চান। চুপিচুপি আপনার কষ্টের কথা বলুন, কারণ তিনি আপনার অত্যন্ত কাছে আছেন।",
+  "themes": [
+    "guidance",
+    "names and attributes of Allah",
+    "dua",
+    "revelation"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah",
+    "dua"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb",
+      "as-sami"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Guidance comes through divine revelation from Allah, who is All-Hearing and Near to His creation.",
+      "claim_bn": "হিদায়াত কেবল আল্লাহর ওহীর মাধ্যমেই অর্জিত হয়, আর তিনি সর্বশ্রোতা ও অতি নিকটবর্তী।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

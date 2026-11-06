@@ -1,0 +1,81 @@
+{
+ "id": "72:19",
+ "simple_en": "When the noble servant of Allah, Prophet Muhammad, stood up in prayer to recite the Quran, crowds of jinn rushed to listen. They crowded so close together that they almost piled on top of one another. The power and beauty of the Quran drew them in awe.",
+ "simple_bn": "আল্লাহর সম্মানিত বান্দা নবী মুহাম্মদ যখন নামাজে দাঁড়িয়ে কুরআন তিলাওয়াত করছিলেন, তখন জিনদের এক বিশাল দল তা শোনার জন্য ছুটে এলো। তারা এত ঘন হয়ে ভিড় জমাল যে একজন আরেকজনের ওপর হুমড়ি খেয়ে পড়ার উপক্রম হলো। কুরআনের বাণী তাদের মুগ্ধতায় আচ্ছন্ন করে রেখেছিল।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "عبد",
+   "lemma": "عَبْد",
+   "meaning_en": "the servant",
+   "meaning_bn": "বান্দা",
+   "why_en": "The Prophet honored by his title as Allah's servant."
+  },
+  {
+   "pos": 6,
+   "root": "دعو",
+   "lemma": "دَعا",
+   "meaning_en": "calling upon Him, praying",
+   "meaning_bn": "তাঁকে ডাকার জন্য, ইবাদত করার জন্য",
+   "why_en": "Standing in worship before Allah."
+  },
+  {
+   "pos": 10,
+   "root": "لبد",
+   "lemma": "لِبَد",
+   "meaning_en": "a dense crowd, compacted mass",
+   "meaning_bn": "ভিড় জমাল, দলবদ্ধভাবে ঝাঁপিয়ে পড়ার মতো ভিড়",
+   "why_en": "The thick crush of listeners pressing in around the Prophet."
+  }
+ ],
+ "lesson_en": "Open your heart to the Quran as those listeners did when they first heard its truth.",
+ "lesson_bn": "প্রথমবার শুনে সেই জিনরা যেভাবে মুগ্ধ হয়েছিল, আপনিও সেভাবে কুরআনের বাণীর প্রতি নিজের হৃদয় খুলে দিন।",
+ "real_life_en": "When the Quran is read with care in a busy shop, people often stop talking to listen. The words of Allah bring deep peace. They touch human hearts and unseen creatures alike.",
+ "real_life_bn": "ব্যস্ত দোকানে সুন্দর কণ্ঠে কুরআন পড়া হলে মানুষ কথা থামিয়ে তা শুনতে থাকে। আল্লাহর বাণী মনে গভীর শান্তি এনে দেয়। তা মানুষের অন্তর ও অদৃশ্য সৃষ্টি উভয়কেই স্পর্শ করে।",
+ "themes": [
+  "Prophet Muhammad",
+  "the Quran",
+  "jinn",
+  "prayer"
+ ],
+ "kinds": [
+  "story",
+  "worship"
+ ],
+ "entities": {
+  "people": [
+   "muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "When the servant of Allah stood up to worship Him, the jinn crowded tightly around him to hear the Quran.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The jinn gathered in a dense mass in awe of the recitation.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

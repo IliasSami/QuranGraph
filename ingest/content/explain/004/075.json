@@ -1,0 +1,86 @@
+{
+ "id": "4:75",
+ "simple_en": "Why would you not stand up in Allah's cause to rescue the weak? Cruel men in Makkah trapped helpless men, women, and children. The victims prayed to Allah to take them out of that harsh city. They begged Him to send a loving protector and helper to set them free.",
+ "simple_bn": "তোমাদের কী হলো যে তোমরা আল্লাহর পথে এবং সেইসব অসহায় পুরুষ, নারী ও শিশুদের মুক্তির জন্য লড়াই করবে না? অত্যাচারী পৌত্তলিকদের কারণে তারা মক্কায় নির্যাতিত হচ্ছিল এবং কাতরভাবে প্রার্থনা করছিল: ‘হে আমাদের রব! এই জালিমদের জনপদ থেকে আমাদের উদ্ধার করুন এবং আপনার পক্ষ থেকে আমাদের জন্য কোনো অভিভাবক ও সাহায্যকারী পাঠান!’",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "ضعف",
+   "lemma": "مُسْتَضْعَف",
+   "meaning_en": "and the oppressed or helpless",
+   "meaning_bn": "এবং অসহায় দুর্বলগণ",
+   "why_en": "Identifies vulnerable people who have no power or means to protect themselves from oppression."
+  },
+  {
+   "pos": 20,
+   "root": "ظلم",
+   "lemma": "ظالِم",
+   "meaning_en": "the oppressive or wrongdoing",
+   "meaning_bn": "অত্যাচারী বা জালেম",
+   "why_en": "Describes the cruel persecutors who denied freedom and tormented innocent believers."
+  },
+  {
+   "pos": 31,
+   "root": "نصر",
+   "lemma": "نَصِير",
+   "meaning_en": "a helper or protector",
+   "meaning_bn": "সাহায্যকারী",
+   "why_en": "Refers to the divine aid and courageous protectors sent by Allah to rescue the downtrodden."
+  }
+ ],
+ "lesson_en": "Stand up for the weak and help those who suffer from cruel treatment.",
+ "lesson_bn": "অসহায় ও নিপীড়িত মানুষের পাশে দাঁড়ান এবং অন্যায়ের হাত থেকে তাদের রক্ষায় এগিয়ে আসুন।",
+ "real_life_en": "An honest lawyer offers free help to poor families who face illegal eviction. She speaks up in court for those who cannot defend themselves. She sees her work as a duty to protect the weak.",
+ "real_life_bn": "আপনার সমাজে কোনো দুর্বল বা অসহায় পরিবার অন্যায় জুলুমের শিকার হলে নীরব না থেকে তাদের পক্ষে দাঁড়ান এবং প্রয়োজনীয় আইনি ও মানবিক সহায়তা দিন।",
+ "context_en": "Explains the noble moral purpose of fighting in Islam: rescuing defenseless believers trapped under persecution in Makkah.",
+ "context_bn": "ইসলামে যুদ্ধের অন্যতম প্রধান উদ্দেশ্য যে অসহায় ও নির্যাতিত মানবতাকে জুলুমের হাত থেকে রক্ষা করা, তা এই আয়াতে জোরালোভাবে তুলে ধরা হয়েছে।",
+ "themes": [
+  "justice",
+  "struggle in Allah's way",
+  "dua",
+  "brotherhood"
+ ],
+ "kinds": [
+  "command",
+  "argument",
+  "dua"
+ ],
+ "entities": {
+  "people": [
+   "oppressed believers"
+  ],
+  "nations": [],
+  "places": [
+   "Makkah"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are urged to fight in Allah's cause to rescue oppressed men, women, and children from persecution.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The helpless believers in Makkah prayed to Allah for deliverance from their oppressive town and for a protector and helper.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

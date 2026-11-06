@@ -1,0 +1,95 @@
+{
+ "id": "2:235",
+ "simple_en": "It is permissible to hint at marriage to a woman observing her waiting period, or to keep that desire in your heart. Allah knows that people will think about marriage, so He allows polite hints without direct proposals. However, you must not make secret promises or conclude any marriage contract until her waiting period has ended. Keep your speech honorable and modest. Know that Allah sees what is inside your soul, so be mindful of Him. He is Ever-Forgiving and Most Forbearing.",
+ "simple_bn": "ইদ্দত পালনকারিণী কোনো নারীকে অস্পষ্ট বা ইঙ্গিতপূর্ণ ভাষায় বিয়ের প্রস্তাব দিলে কিংবা মনে মনে বিয়ের ইচ্ছা গোপন রাখলে কোনো পাপ নেই। আল্লাহ জানেন যে তোমরা তাদের কথা ভাববে, তাই তিনি সরাসরি প্রস্তাব না দিয়ে ভদ্র ইঙ্গিত দেওয়া বৈধ করেছেন। কিন্তু তাদের সাথে গোপনে কোনো অঙ্গীকার করবে না, কেবল শালীন ও নিয়মমাফিক কথা বলবে। নির্ধারিত ইদ্দত পূর্ণ হওয়ার আগে কোনোভাবেই বিয়ের চুক্তি চূড়ান্ত করবে না। জেনে রাখো, তোমাদের অন্তরে যা কিছু রয়েছে আল্লাহ তা জানেন, তাই তাঁকে ভয় করো। নিশ্চয়ই আল্লাহ পরম ক্ষমাশীল ও পরম ধৈর্যশীল।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "عرض",
+   "lemma": "عَرَّضْ",
+   "meaning_en": "hint (allude indirectly)",
+   "meaning_bn": "ইঙ্গিত দেওয়া",
+   "why_en": "Permits indirect references to marriage during the waiting period without an explicit proposal."
+  },
+  {
+   "pos": 21,
+   "root": "سرر",
+   "lemma": "سِرّ",
+   "meaning_en": "in secret",
+   "meaning_bn": "গোপনে",
+   "why_en": "Prohibits making hidden agreements or secret commitments during the waiting period."
+  },
+  {
+   "pos": 29,
+   "root": "عقد",
+   "lemma": "عُقْدَة",
+   "meaning_en": "the bond (contract)",
+   "meaning_bn": "বন্ধন (চুক্তি)",
+   "why_en": "Forbids formalizing or concluding the marriage contract until the iddah has officially expired."
+  }
+ ],
+ "lesson_en": "Keep marriage talks honest and open, and do not make secret deals.",
+ "lesson_bn": "বিয়ের ক্ষেত্রে স্পষ্টতা ও সততা বজায় রাখুন, এবং গোপনে অনৈতিক প্রতিশ্রুতি দেওয়া থেকে বিরত থাকুন।",
+ "real_life_en": "A man wishes to marry a widow who is still in her waiting time. Instead of sending secret texts or making private promises, he waits politely. He may mention his general interest to her family and waits until her term ends.",
+ "real_life_bn": "কোনো ব্যক্তি ইদ্দতরত এক নারীকে বিয়ে করতে আগ্রহী হতে পারে। এমন অবস্থায় গোপনে বার্তা পাঠানো বা ব্যক্তিগত প্রতিশ্রুতি দেওয়া অনুচিত। সে কেবল ভদ্রভাবে অভিভাবককে নিজের আগ্রহের ইঙ্গিত দিতে পারে এবং পূর্ণ ইদ্দত শেষ হওয়ার পরেই প্রস্তাব পেশ করতে পারে।",
+ "context_en": "Regulates courtship rules during the waiting period to safeguard decorum and the sanctity of marriage.",
+ "context_bn": "ইদ্দত চলাকালীন নারীর মর্যাদা রক্ষা এবং বিয়ের পবিত্রতা বজায় রাখার জন্য এই বিধান দেওয়া হয়েছে।",
+ "themes": [
+  "marriage",
+  "honesty",
+  "Allah's knowledge",
+  "forgiveness"
+ ],
+ "kinds": [
+  "prohibition",
+  "command",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Ghafur",
+   "Al-Halim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "It is permissible to make an indirect hint of marriage or conceal the intention in one's heart during the waiting period of a widow or irrevocably divorced woman.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Men are forbidden from making secret promises or illicit commitments with women while they are observing the waiting period.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Concurring or finalizing a marriage contract is strictly prohibited until the prescribed waiting period has expired.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

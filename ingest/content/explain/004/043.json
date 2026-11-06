@@ -1,0 +1,100 @@
+{
+ "id": "4:43",
+ "simple_en": "Do not approach prayer while drunk until you understand what you say. Also avoid prayer while in a state of major ritual impurity until you wash, unless passing through. If you are sick or find no water, perform tayammum with clean earth. Allah is ever Pardoning and Forgiving.",
+ "simple_bn": "মুমিনদের নির্দেশ দেওয়া হয়েছে তারা যেন নেশাগ্রস্ত অবস্থায় সালাতের কাছে না যায়, যাতে তারা কী পাঠ করছে তা বুঝতে পারে। এছাড়া অপবিত্র অবস্থায় গোসল না করে মসজিদে অবস্থান বা সালাত আদায় করতে নিষেধ করা হয়েছে। যদি কেউ অসুস্থ হয়, সফরে থাকে, কিংবা প্রয়োজন সেরে পানি না পায়, তবে সে যেন পবিত্র মাটি দিয়ে তায়াম্মুম করে মুখ ও হাত মুছে নেয়। আল্লাহ অত্যন্ত ক্ষমাশীল ও মার্জনাকারী।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "سكر",
+   "lemma": "سُكارَى",
+   "meaning_en": "intoxicated",
+   "meaning_bn": "নেশাগ্রস্ত অবস্থায়",
+   "why_en": "Marks an important step in the phased prohibition of alcohol prior to its total ban."
+  },
+  {
+   "pos": 14,
+   "root": "جنب",
+   "lemma": "جُنُب",
+   "meaning_en": "in a state of major impurity",
+   "meaning_bn": "অপবিত্র বা নাপাক অবস্থায়",
+   "why_en": "Refers to major ritual impurity (janabah) requiring ghusl before formal worship."
+  },
+  {
+   "pos": 38,
+   "root": "يمم",
+   "lemma": "تَيَمَّمُ",
+   "meaning_en": "perform tayammum",
+   "meaning_bn": "তায়াম্মুম করো",
+   "why_en": "Establishes the ritual of purifying oneself using clean earth when water is unavailable."
+  }
+ ],
+ "lesson_en": "Stand before Allah with a clear, sober mind and ensure you are in a state of ritual cleanliness.",
+ "lesson_bn": "সচেতন ও পবিত্র মনে সালাতে দাঁড়ান এবং অপারগ অবস্থায় আল্লাহর সহজ করে দেওয়া বিধানের শুকরিয়া আদায় করুন।",
+ "real_life_en": "Come to prayer with a clear and sober mind. If water is not available while traveling, use clean sand or earth for tayammum as taught by the Prophet ﷺ.",
+ "real_life_bn": "সফরে বা কোনো দুর্গম স্থানে যদি সালাতের জন্য পানি না পাওয়া যায়, তবে সালাত ছেড়ে দেবেন না। বরং পবিত্র মাটি দিয়ে তায়াম্মুম করে সময়মতো সালাত আদায় করে নিন।",
+ "context_en": "This verse prohibited prayer while intoxicated during the gradual phasing out of alcohol, and introduced the allowance of tayammum when water is unavailable.",
+ "context_bn": "মদ সম্পূর্ণ নিষিদ্ধ হওয়ার আগের পর্যায়ে এই আয়াতে নেশাগ্রস্ত অবস্থায় সালাত নিষেধ করা হয় এবং পানি না পেলে তায়াম্মুমের বিধান চালু করা হয়।",
+ "themes": [
+  "prayer",
+  "worship",
+  "forgiveness",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "worship"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Afuww",
+   "Al-Ghafur"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers were forbidden from approaching prayer while intoxicated so that they would understand what they say, prior to the total prohibition of intoxicants.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "A person in a state of major ritual impurity (janabah) must bathe before praying or lingering in a mosque, unless passing through.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "If water is absent or harmful due to illness or travel, tayammum with clean earth by wiping the face and hands is permitted.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Allah is Pardoning (Al-Afuww) and Forgiving (Al-Ghafur), making religion easy for His servants.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

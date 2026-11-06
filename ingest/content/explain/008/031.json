@@ -1,0 +1,81 @@
+{
+  "id": "8:31",
+  "simple_en": "When Our verses are recited to them, the mockers say, 'We have heard. If we wanted, we could easily invent words like this. These are nothing but fables of ancient peoples.'",
+  "simple_bn": "আর যখন তাদের কাছে আমাদের আয়াতসমূহ তিলাওয়াত করা হয়, তখন তারা বলে, 'আমরা তো শুনলাম; ইচ্ছা করলে আমরাও এর মতো বলতে পারি, এগুলো তো প্রাচীন কালের উপকথা ছাড়া কিছুই নয়।'",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "Our verses / signs",
+      "meaning_bn": "আমাদের আয়াতসমূহ",
+      "why_en": "The clear words of revelation reciting divine wisdom."
+    },
+    {
+      "pos": 16,
+      "root": "سطر",
+      "lemma": "أَساطِير",
+      "meaning_en": "fables / legends",
+      "meaning_bn": "উপকথা / রূপকথা",
+      "why_en": "Derogatory label used by pagan leaders to dismiss revelation as ancient myths."
+    },
+    {
+      "pos": 17,
+      "root": "أول",
+      "lemma": "أَوَّل",
+      "meaning_en": "the ancient peoples / former ones",
+      "meaning_bn": "পূর্ববর্তীদের",
+      "why_en": "Referring to past generations whose historical accounts were preserved in the Quran."
+    }
+  ],
+  "lesson_en": "Stubborn pride stops people from seeing the truth in God's words.",
+  "lesson_bn": "অহংকারী মন সত্যবাণীর অনুপম গভীরতা বুঝতে পারে না এবং তাকে প্রাচীন রূপকথা বলে উড়িয়ে দেয়।",
+  "real_life_en": "Never brush off good moral teachings as old or out of date. Rules about justice, kindness, and truth always matter. Read holy books with an open heart.",
+  "real_life_bn": "পবিত্র ও নৈতিক শিক্ষাকে সেকেলে বলে উড়িয়ে দেবেন না। চিরন্তন সত্যের শিক্ষা সব যুগের মানুষের জন্যই পরম হিতকর।",
+  "context_en": "Quoting the arrogant scoffing of Meccan polytheists (like an-Nadr ibn al-Harith) who claimed the Quran was merely borrowed folklore.",
+  "context_bn": "কুরআনকে প্রাচীন মানুষের রূপকথা বলে ব্যঙ্গকারী নযর ইবনুল হারিছ ও মক্কার কাফিরদের ঔদ্ধত্যের বিবরণ।",
+  "themes": [
+    "mockery of revelation",
+    "denial of the Quran",
+    "arrogance",
+    "fables of the ancients"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "an-Nadr ibn al-Harith"
+    ],
+    "nations": [
+      "pagan Quraysh"
+    ],
+    "places": [
+      "Mecca"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran",
+      "ancient tales"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Pagan opponents like an-Nadr dismissed the Quranic narratives as myths of the ancients, boasting falsely that they could compose comparable speech.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": "Attributed to an-Nadr ibn al-Harith who traveled to Persia and claimed his stories were comparable to the Quran.",
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

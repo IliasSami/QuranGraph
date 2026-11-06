@@ -1,0 +1,65 @@
+{
+  "id": "23:74",
+  "simple_en": "And indeed, those who do not believe in the life to come are deviating from that straight path. Their disbelief leads them into confusion and moral ruin.",
+  "simple_bn": "আর যারা পরকালের প্রতি বিশ্বাস রাখে না, তারা অবশ্যই এই সরল পথ থেকে বিচ্যুত।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أخر",
+      "lemma": "آخِر",
+      "meaning_en": "the Hereafter",
+      "meaning_bn": "পরকাল",
+      "why_en": "The Day of Judgment essential for moral accountability."
+    },
+    {
+      "pos": 8,
+      "root": "نكب",
+      "lemma": "ناكِب",
+      "meaning_en": "deviating",
+      "meaning_bn": "বিচ্যুত বা সরে যাওয়া",
+      "why_en": "Straying away from the straight path of truth."
+    }
+  ],
+  "lesson_en": "Denying the next life causes moral deviation. Faith in the hereafter keeps human actions just and responsible.",
+  "lesson_bn": "পরকালে অবিশ্বাসের কারণেই মানুষ সত্য পথ থেকে ছিটকে পড়ে। আখেরাতের বিশ্বাসই মানুষকে অন্যায় থেকে বিরত রাখে।",
+  "real_life_en": "Remind yourself often that every action will be judged. Let faith in the next life shape how you treat others.",
+  "real_life_bn": "মনে রাখুন যে একদিন প্রতিটি কাজের হিসাব দিতে হবে। পরকালের জবাবদিহিতা সামনে রেখে মানুষের সাথে আচরণ করুন।",
+  "themes": [
+    "afterlife",
+    "deviation",
+    "moral-accountability"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hereafter"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "day-of-judgment"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Rejection of the Hereafter fundamentally diverts individuals from the straight path of righteous conduct.",
+      "claim_bn": "পরকাল অস্বীকার করা মানুষকে সত্য পথ থেকে বিচ্যুত করে ফেলে এবং তার নৈতিক ভিত্তি দুর্বল করে দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "26:167",
+  "simple_en": "They said: If you do not stop this talk, O Lot, you will be driven out of our town. They could not bear to hear words of purity in their midst.",
+  "simple_bn": "তারা বলল: হে লূত, তুমি যদি এই নিষেধ করা বন্ধ না করো, তবে তোমাকে অবশ্যই আমাদের এলাকা থেকে বহিষ্কার করা হবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "نهي",
+      "lemma": "انتَهَى",
+      "meaning_en": "you do not desist",
+      "meaning_bn": "যদি তুমি বিরত না হও",
+      "why_en": "Their demand that Lot cease preaching moral purity."
+    },
+    {
+      "pos": 8,
+      "root": "خرج",
+      "lemma": "مُخْرَج",
+      "meaning_en": "those expelled",
+      "meaning_bn": "বহিষ্কৃত",
+      "why_en": "Their threat to exile Lot and his followers from the city."
+    }
+  ],
+  "lesson_en": "Corrupt people often threaten those who stand for purity.",
+  "lesson_bn": "চরিত্রহীন সমাজ সৎ মানুষকে সহ্য করতে পারে না এবং হুমকি দিয়ে দমন করতে চায়। সত্যের পথে চলতে গেলে প্রতিকূলতা আসা স্বাভাবিক।",
+  "real_life_en": "Do not back down when people oppose your values. Stand firm on the truth and place your trust in God.",
+  "real_life_bn": "সত্য ও ন্যায়ের পক্ষে কথা বললে কেউ বিরোধিতা করলেও ভয় পাবেন না। কোনো হুমকির মুখে দুর্বল না হয়ে আল্লাহর ওপর আস্থা রাখুন এবং অবিচল থাকুন।",
+  "themes": [
+    "hostility",
+    "threats",
+    "persecution"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "lut"
+    ],
+    "nations": [
+      "qawm-lut"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "His people threatened Lot with forceful banishment from their land if he did not cease forbidding their unnatural acts and rebuking them.",
+      "claim_bn": "তাঁর সম্প্রদায় লূতকে হুমকি দিয়ে বলল যে তিনি যদি এই উপদেশ দেওয়া বন্ধ না করেন, তবে তাঁকে নিশ্চিতভাবে শহর থেকে বের করে দেওয়া হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

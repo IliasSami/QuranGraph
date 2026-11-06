@@ -1,0 +1,74 @@
+{
+  "id": "61:5",
+  "simple_en": "Prophet Musa asked his people why they caused him pain and trouble when they knew he was Allah's messenger to them. When they chose to turn away from the truth, Allah let their hearts turn further away. Allah does not guide people who choose rebellion and disobedience.",
+  "simple_bn": "মূসা তাঁর জাতিকে বলেছিলেন, তোমরা আমাকে কেন কষ্ট দিচ্ছ যখন তোমরা নিশ্চিত জানো যে আমি তোমাদের কাছে আল্লাহর প্রেরিত রাসূল? কিন্তু যখন তারা জেনে-বুঝে সত্য পথ থেকে বিচ্যুত হলো, তখন আল্লাহ তাদের হৃদয়কে আরও বিভ্রান্তির দিকে ঘুরিয়ে দিলেন। আল্লাহ অবাধ্য জাতিকে সৎপথে পরিচালিত করেন না।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "أذي",
+      "lemma": "أُوذِيَ",
+      "meaning_en": "why do you harm me",
+      "meaning_bn": "তোমরা কেন আমাকে কষ্ট দিচ্ছ",
+      "why_en": "Musa's rebuke to his people who harmed him despite knowing his prophethood."
+    },
+    {
+      "pos": 15,
+      "root": "زيغ",
+      "lemma": "زاغَ",
+      "meaning_en": "they deviated and turned away",
+      "meaning_bn": "তারা বক্রতা অবলম্বন করল",
+      "why_en": "Highlights willful turning away from clear guidance."
+    },
+    {
+      "pos": 23,
+      "root": "فسق",
+      "lemma": "فاسِق",
+      "meaning_en": "rebellious transgressors",
+      "meaning_bn": "নাফরমান ও ফাসিক সম্প্রদায়",
+      "why_en": "Describes people who persistently disobey and step outside divine limits."
+    }
+  ],
+  "lesson_en": "When a person rejects clear truth on purpose, their heart turns hard and loses God’s light.",
+  "lesson_bn": "সত্য স্পষ্ট হওয়ার পরও জেনে-বুঝে তা প্রত্যাখ্যান করলে অন্তর কঠিন হয়ে যায় এবং হেদায়েতের নূর হারিয়ে যায়।",
+  "real_life_en": "A driver sees sharp warning signs on a dark road. He chooses to ignore them and drives fast. Soon, he loses his way. It is always wise to stop and turn back when you see you are wrong.",
+  "real_life_bn": "ভুল পথ জেনেও কেউ যদি জেদ ধরে সে পথেই চলতে থাকে, তবে এক সময় ফিরে আসার রাস্তা বন্ধ হয়ে যায়। সত্য জানার পর অহংকার ত্যাগ করে তা মেনে নেওয়াই বুদ্ধিমানের কাজ।",
+  "themes": [
+    "story of Musa",
+    "consequence of obstinacy",
+    "divine guidance and deviation"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "musa"
+    ],
+    "nations": [
+      "bani-israil"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Moses admonished his people for harming him despite knowing he was Allah's messenger, and when they deviated, Allah turned their hearts from guidance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,62 @@
+{
+ "id": "43:2",
+ "simple_en": "Allah swears by the clear Book. The Quran makes the truth plain for all people. It shows the right way in faith and morals. Its words are simple to grasp and guide people to peace.",
+ "simple_bn": "মহান আল্লাহ সুস্পষ্ট কিতাবের শপথ করছেন। পবিত্র কুরআন সত্য ও সঠিক পথকে সবার জন্য পরিষ্কারভাবে তুলে ধরে। এটি বিশ্বাস ও চরিত্রের সঠিক দিকনির্দেশনা প্রদান করে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "and by the Book",
+   "meaning_bn": "কিতাবের শপথ",
+   "why_en": "Allah swears by His Book to highlight its greatness and clarity."
+  },
+  {
+   "pos": 2,
+   "root": "بين",
+   "lemma": "مُبِين",
+   "meaning_en": "the clear",
+   "meaning_bn": "সুস্পষ্ট",
+   "why_en": "The Quran explains guidance clearly so that truth is distinct from falsehood."
+  }
+ ],
+ "lesson_en": "The Quran makes the path of truth clear and bright for everyone who seeks it.",
+ "lesson_bn": "পবিত্র কুরআন এমন এক সুস্পষ্ট আলোকবর্তিকা যা সত্যের পথকে সবার জন্য উজ্জ্বল করে তোলে।",
+ "real_life_en": "When life feels confusing, turn to the clear verses of the Quran. Read with an open heart to find simple direction for your daily choices.",
+ "real_life_bn": "জীবনের কোনো বিষয়ে সংশয় দেখা দিলে কুরআনের স্পষ্ট বাণীর কাছে ফিরে যান। মন দিয়ে এর অর্থ বুঝলে দৈনন্দিন জীবনের সঠিক পথ খুঁজে পাওয়া সহজ হবে।",
+ "themes": [
+  "the Quran",
+  "guidance"
+ ],
+ "kinds": [
+  "oath",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah takes an oath by the clear Quran that explains the path of truth and guidance.",
+   "claim_bn": "আল্লাহ সুস্পষ্ট কুরআনের শপথ করেছেন যা সত্য ও হিদায়াতের পথ পরিষ্কারভাবে ব্যাখ্যা করে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "20:10",
+  "simple_en": "Moses saw a fire from a distance and told his family to wait. He hoped to bring back a burning torch or find helpful guidance along the path.",
+  "simple_bn": "মূসা দূর থেকে একটি আগুন দেখতে পেয়ে তাঁর পরিবারকে অপেক্ষা করতে বললেন। তিনি আশা করেছিলেন সেখান থেকে কিছু জ্বলন্ত কাঠ আনতে পারবেন অথবা পথের সন্ধান পাবেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نور",
+      "lemma": "نَار",
+      "meaning_en": "a fire",
+      "meaning_bn": "একটি আগুন",
+      "why_en": "The physical light that drew Moses toward the sacred revelation."
+    },
+    {
+      "pos": 13,
+      "root": "قبس",
+      "lemma": "قَبَس",
+      "meaning_en": "a burning brand or torch",
+      "meaning_bn": "জ্বলন্ত মশাল",
+      "why_en": "Shows his practical concern to warm and guide his family."
+    },
+    {
+      "pos": 18,
+      "root": "هدي",
+      "lemma": "هُدًى",
+      "meaning_en": "guidance or direction",
+      "meaning_bn": "পথনির্দেশ",
+      "why_en": "Moses sought physical direction, yet received spiritual guidance."
+    }
+  ],
+  "lesson_en": "A person may look for fire and find great truth. God guides in simple ways.",
+  "lesson_bn": "মানুষ সামান্য আলোর খোঁজে বের হয়েও আল্লাহর অনুগ্রহে মহাসত্য ও হেদায়েতের সন্ধান পেতে পারে।",
+  "real_life_en": "Care for your family each day. God brings good gifts even while you do small chores.",
+  "real_life_bn": "পরিবারের প্রতি নিজের দায়িত্ব নিষ্ঠার সাথে পালন করুন। সাধারণ কাজের মাধ্যমেই আল্লাহ অনেক সময় বিশেষ রহমতের দুয়ার খুলে দেন।",
+  "themes": [
+    "musa",
+    "seeking-guidance",
+    "family-care"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "fire",
+      "torch"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Moses saw a fire at night and went toward it seeking warmth and direction for his family.",
+      "claim_bn": "মূসা রাতে আলো দেখতে পেয়ে পরিবারের জন্য উষ্ণতা ও পথের খোঁজে আগুনের দিকে অগ্রসর হয়েছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

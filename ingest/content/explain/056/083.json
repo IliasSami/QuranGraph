@@ -1,0 +1,59 @@
+{
+  "id": "56:83",
+  "simple_en": "Consider when the soul of a dying person reaches the throat at the last breath. The person lies helpless as life departs from the body. All human remedies and medicines come to a complete end.",
+  "simple_bn": "ভেবে দেখুন সেই মুহূর্তের কথা, যখন মুমূর্ষু ব্যক্তির আত্মা তার কণ্ঠনালীতে এসে পৌঁছায়। জীবন যখন দেহ ত্যাগ করতে থাকে, তখন মানুষ সম্পূর্ণ অসহায় হয়ে পড়ে। মানুষের সমস্ত চেষ্টা ও চিকিৎসা সেখানে ব্যর্থ হয়ে যায়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "بلغ",
+      "lemma": "بَلَغَ",
+      "meaning_en": "it reaches",
+      "meaning_bn": "পৌঁছায়",
+      "why_en": "Marks the final stage of physical departure when the soul rises to the throat."
+    },
+    {
+      "pos": 4,
+      "root": "حلق",
+      "lemma": "حُلْقُوم",
+      "meaning_en": "the throat",
+      "meaning_bn": "কণ্ঠনালী",
+      "why_en": "Identifies the throat as the critical point where worldly life ends."
+    }
+  ],
+  "lesson_en": "Remember that life is short and death will come to every soul.",
+  "lesson_bn": "স্মরণ রাখুন জীবন ক্ষণস্থায়ী এবং প্রতিটি প্রাণীকে মৃত্যুর স্বাদ গ্রহণ করতেই হবে।",
+  "real_life_en": "Family members gather quietly around the bed of an elderly grandfather. They watch his shallow breathing. They realize that no wealth or doctor can hold back his departing soul.",
+  "real_life_bn": "পরিবারের সদস্যরা একজন অসুস্থ বৃদ্ধের বিছানার পাশে চুপচাপ দাঁড়িয়ে থাকে। তারা তার নিঃশ্বাস ধীরে হয়ে যাওয়া দেখে। তারা বোঝে কোনো অর্থ বা ডাক্তার এই চলে যাওয়া প্রাণকে আটকে রাখতে পারে না।",
+  "themes": [
+    "death",
+    "human nature",
+    "the Last Day"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The soul reaches the throat at the moment of death when worldly life ends.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,94 @@
+{
+  "id": "6:19",
+  "simple_en": "Say to the idolaters, 'Whose testimony is the greatest?' Say, 'Allah is the supreme witness between me and you. He revealed this Quran to me so I may warn you, and warn everyone it reaches until the end of time. How can you claim there are other gods beside Allah?' Say, 'I will never say that. He is the Only One God, and I am completely free from the false partners you worship.'",
+  "simple_bn": "মুশরিকদের বলুন, 'কার সাক্ষ্য সবচেয়ে বড়?' বলুন, 'আমার ও তোমাদের মধ্যে আল্লাহই শ্রেষ্ঠ সাক্ষী। তিনি আমার কাছে এই কুরআন ওহী হিসেবে পাঠিয়েছেন, যাতে এর দ্বারা আমি তোমাদেরকে এবং যার কাছেই এ বার্তা পৌঁছাবে তাকে সতর্ক করতে পারি। তোমরা কি সত্যি সাক্ষ্য দাও যে আল্লাহর সাথে অন্য উপাস্য আছে?' বলুন, 'আমি এমন মিথ্যা সাক্ষ্য কখনো দেব না। তিনি তো একমাত্র উপাস্য, আর তোমরা যেসব অংশীদার বানাও তা থেকে আমি সম্পূর্ণ মুক্ত।'",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "شهد",
+      "lemma": "شَهادَة",
+      "meaning_en": "testimony / witness",
+      "meaning_bn": "সাক্ষ্য",
+      "why_en": "Affirms that Allah's testimony is the greatest and most truthful proof."
+    },
+    {
+      "pos": 15,
+      "root": "نذر",
+      "lemma": "أَنذَرَ",
+      "meaning_en": "that I may warn you",
+      "meaning_bn": "যাতে আমি তোমাদের সতর্ক করি",
+      "why_en": "Describes the primary mission of the Quran to warn humanity."
+    },
+    {
+      "pos": 35,
+      "root": "برأ",
+      "lemma": "بَرِيء",
+      "meaning_en": "free / clear",
+      "meaning_bn": "সম্পূর্ণ মুক্ত",
+      "why_en": "Declares complete disassociation from polytheism and false partners."
+    }
+  ],
+  "lesson_en": "The Quran is a timeless warning for all people. Stand firm on the Oneness of Allah.",
+  "lesson_bn": "কুরআন সমগ্র মানবজাতির জন্য চিরন্তন সতর্কবার্তা। তাওহীদের ওপর অবিচল থেকে সব ধরনের শিরক বর্জন করুন।",
+  "real_life_en": "Share the message of the Quran with kindness. Even when people around you follow false ways, hold firm to your faith. Trust in the One True God and never compromise on truth.",
+  "real_life_bn": "কুরআনের বাণী মানুষের কাছে পৌঁছে দিন। পারিপার্শ্বিক প্রভাবে শিরক বা ভুল বিশ্বাসের স্রোতে গা ভাসাবেন না। আল্লাহর একত্ববাদের ওপর অটল থেকে নিজের ঈমান রক্ষা করুন।",
+  "context_en": "Directs the Prophet ﷺ to cite Allah as the ultimate witness to his prophethood and the universal message of the Quran.",
+  "context_bn": "রাসূলুল্লাহ ﷺ-এর নবুওয়াতের সত্যতা এবং কুরআনের সার্বজনীন দাওয়াতের ওপর মহান আল্লাহকে শ্রেষ্ঠতম সাক্ষী হিসেবে উপস্থাপন করা হয়েছে।",
+  "themes": [
+    "tawhid",
+    "witness of Allah",
+    "the Quran as universal warning",
+    "rejection of shirk"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "One God"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah is the greatest witness between the Prophet and humanity regarding the truth of revelation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "The Quran was revealed to warn the direct audience as well as every person and jinn it reaches until Judgment Day.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "The Prophet declared total disassociation from all partners that idolaters associate with the One True God.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

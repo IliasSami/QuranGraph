@@ -1,0 +1,70 @@
+{
+  "id": "61:8",
+  "simple_en": "Opponents of faith try to blow out the light of Allah with their mouths, using false words and rumours. But their effort is completely useless. Allah has promised to complete and protect His light, even if those who deny the truth hate it.",
+  "simple_bn": "সত্য অস্বীকারকারীরা নিজেদের মুখের তুচ্ছ ফুৎকার দিয়ে আল্লাহর নূরকে নিভিয়ে দিতে চায়। কিন্তু তাদের অপচেষ্টা কখনোই সফল হবে না। আল্লাহ তাঁর সত্যের আলোকে পূর্ণতায় পৌঁছাবেন, যদিও কাফিররা তা একেবারেই পছন্দ করে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "طفأ",
+      "lemma": "أَطْفَأَ",
+      "meaning_en": "to extinguish and put out",
+      "meaning_bn": "নিভিয়ে দিতে",
+      "why_en": "Depicts the futile attempt to snuff out divine guidance."
+    },
+    {
+      "pos": 3,
+      "root": "نور",
+      "lemma": "نُور",
+      "meaning_en": "light",
+      "meaning_bn": "আলো",
+      "why_en": "Symbolizes the radiant truth of Islam and the Quran."
+    },
+    {
+      "pos": 7,
+      "root": "تمم",
+      "lemma": "مُتِمّ",
+      "meaning_en": "perfecter and completer",
+      "meaning_bn": "পূর্ণতাদানকারী",
+      "why_en": "Declares Allah's absolute guarantee to make His truth triumph completely."
+    }
+  ],
+  "lesson_en": "People cannot put out the light of truth. Allah will make His light shine bright for all.",
+  "lesson_bn": "মানুষের অপপ্রচারে কখনো সত্যকে দাবিয়ে রাখা যায় না, আল্লাহর দ্বীন সর্বত্র বিজয়ী হবেই।",
+  "real_life_en": "A person cannot blow out the sun by blowing breath into the sky. In the same way, critics who spread false rumours against good values cannot stop goodness from shining. Sincere faith stands undefeated through every storm.",
+  "real_life_bn": "সূর্যের দিকে ধুলোবালি ছুড়ে মারলে তা যেমন সূর্যের আলো ঢাকতে পারে না, তেমনি মিথ্যা অপবাদ দিয়ে সত্যের প্রচার বন্ধ করা যায় না। আত্মবিশ্বাসের সাথে সত্যের পথে অবিচল থাকা উচিত।",
+  "themes": [
+    "light of Allah",
+    "divine promise of victory",
+    "futility of opposing truth"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers intend to extinguish the light of Allah with their spoken falsehoods, but Allah will perfect His light despite their hatred.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "21:62",
+  "simple_en": "The leaders brought Abraham before the watching crowd. They asked him directly: Did you do this to our gods, O Abraham? They demanded a clear answer.",
+  "simple_bn": "ইবরাহীম সমবেত জনতার সামনে দাঁড়ালে তারা প্রশ্ন করল: হে ইবরাহীম, তুমিই কি আমাদের উপাস্যদের সাথে এমন আচরণ করেছ?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "فعل",
+      "lemma": "فَعَلَ",
+      "meaning_en": "you did this",
+      "meaning_bn": "তুমি এমন করেছ",
+      "why_en": "Direct interrogation regarding the smashed idols."
+    },
+    {
+      "pos": 5,
+      "root": "أله",
+      "lemma": "إِلٰه",
+      "meaning_en": "our gods",
+      "meaning_bn": "আমাদের উপাস্যসমূহ",
+      "why_en": "Helpless idols whose honor the crowd sought to defend."
+    }
+  ],
+  "lesson_en": "Face hard questions with a steady heart. Abraham stood calm and brave before the whole assembly.",
+  "lesson_bn": "ভুলের মুখোমুখি হতে স্থির মানসিকতার প্রয়োজন হয়। ইবরাহীম পূর্ণ আত্মবিশ্বাস নিয়ে তাদের প্রশ্নের সম্মুখীন হয়েছিলেন।",
+  "real_life_en": "Face direct questions with calmness and honesty. When challenged about your faith, let clear thinking guide your reply.",
+  "real_life_bn": "সরাসরি প্রশ্নের মুখোমুখি হলে শান্ত ও সৎ থাকুন। বিশ্বাসের বিষয়ে কেউ প্রশ্ন তুললে প্রজ্ঞার সাথে উত্তর দিন।",
+  "themes": [
+    "ibrahim",
+    "interrogation",
+    "moral-courage",
+    "trial"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The assembly interrogated Abraham directly, asking if he was responsible for destroying their idols.",
+      "claim_bn": "জনতা সরাসরি ইবরাহীমকে জিজ্ঞাসাবাদ করে জানতে চাইল তিনিই তাদের মূর্তিদের ধ্বংস করেছেন কিনা।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

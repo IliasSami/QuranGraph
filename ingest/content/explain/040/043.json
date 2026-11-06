@@ -1,0 +1,83 @@
+{
+  "id": "40:43",
+  "simple_en": "The idols you call me to have no power in this life or the next. We will all return to Allah, and those who waste their lives in sin will enter the Fire.",
+  "simple_bn": "কোনো সন্দেহ নেই যে তোমরা আমাকে যার দিকে ডাকছ, ইহকাল বা পরকালে তার কোনো ক্ষমতা বা প্রার্থনার অধিকার নেই। আমাদের সবার প্রত্যাবর্তন একমাত্র আল্লাহরই কাছে, আর সীমালঙ্ঘনকারীরাই হবে জাহান্নামের অধিবাসী।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "دعو",
+      "lemma": "دَعْوَة",
+      "meaning_en": "invocation / claim",
+      "meaning_bn": "ডাকা বা প্রার্থনার অধিকার",
+      "why_en": "False idols have no power to hear, answer, or grant anything."
+    },
+    {
+      "pos": 15,
+      "root": "ردد",
+      "lemma": "مَرَدّ",
+      "meaning_en": "our return",
+      "meaning_bn": "আমাদের প্রত্যাবর্তন",
+      "why_en": "All creation will be brought back to stand before Allah."
+    },
+    {
+      "pos": 19,
+      "root": "سرف",
+      "lemma": "مُسْرِف",
+      "meaning_en": "the transgressors",
+      "meaning_bn": "সীমালঙ্ঘনকারীরা",
+      "why_en": "Those who waste their lives in rebellion against God."
+    },
+    {
+      "pos": 22,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the Fire",
+      "meaning_bn": "জাহান্নাম",
+      "why_en": "The final dwelling place of persistent wrongdoers."
+    }
+  ],
+  "lesson_en": "False gods cannot hear prayers or give help.",
+  "lesson_bn": "মিথ্যা উপাস্য ও বাতিল শক্তি ইহকাল বা পরকালে কোনো প্রার্থনার জবাব দিতে পারে না।",
+  "real_life_en": "Never pin your ultimate hopes on human beings or material wealth. Turn all your hopes to Allah, for everyone will return to Him for judgment.",
+  "real_life_bn": "মানুষের প্রশংসা বা জাগতিক সম্পদের ওপর চূড়ান্ত নির্ভরতা রাখবেন না। একমাত্র আল্লাহর ওপর আশা রাখুন, কারণ সবার চূড়ান্ত গন্তব্য তাঁরই কাছে।",
+  "themes": [
+    "tawhid",
+    "Hell",
+    "judgment",
+    "shirk"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Idols possess no invocation in either world; our return is to Allah, and the transgressors are inmates of the Fire.",
+      "claim_bn": "মিথ্যা উপাস্যের কোনো কর্তৃত্ব বা প্রার্থনার অধিকার নেই; আমাদের প্রত্যাবর্তন আল্লাহর কাছে এবং সীমালঙ্ঘনকারীরাই জাহান্নামী।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

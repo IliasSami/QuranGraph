@@ -1,0 +1,77 @@
+{
+  "id": "9:3",
+  "simple_en": "A public announcement was made on the day of the great pilgrimage. Allah and His Messenger have no part with the idolaters. If they turn back from error, it is best for them. If they turn away, they cannot escape Allah judgment.",
+  "simple_bn": "মহান হজের দিনে মানুষের কাছে ঘোষণা করা হলো যে আল্লাহ ও তাঁর রাসূল মুশরিকদের দায় থেকে মুক্ত। তারা যদি তাওবাহ করে তবে তা তাদের জন্য কল্যাণকর; আর মুখ ফিরিয়ে নিলে তারা আল্লাহর শাস্তি এড়াতে পারবে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أذن",
+      "lemma": "أَذان",
+      "meaning_en": "proclamation / announcement",
+      "meaning_bn": "ঘোষণা / বার্তা",
+      "why_en": "Public declaration delivered at the largest gathering in Arabia."
+    },
+    {
+      "pos": 9,
+      "root": "كبر",
+      "lemma": "أَكْبَر",
+      "meaning_en": "greater / supreme",
+      "meaning_bn": "মহান / শ্রেষ্ঠ",
+      "why_en": "The Day of Sacrifice during the final pilgrimage gathering."
+    },
+    {
+      "pos": 17,
+      "root": "توب",
+      "lemma": "تابَ",
+      "meaning_en": "you repent / turn back",
+      "meaning_bn": "তোমরা তাওবাহ করো",
+      "why_en": "The open door to divine mercy through sincere repentance."
+    }
+  ],
+  "lesson_en": "Open truth gives people a clear chance to turn back to good.",
+  "lesson_bn": "সত্যের প্রকাশ্য ঘোষণা চূড়ান্ত শাস্তির আগে ভুল সংশোধনের পথ উন্মুক্ত করে দেয়।",
+  "real_life_en": "Tell your team the rules in plain words at a big meeting. Then no one is left in the dark.",
+  "real_life_bn": "পরিবার বা সংস্থায় কোনো গুরুত্বপূর্ণ নীতি পরিবর্তনের সময় তা খোলামেলা সবার সামনে ঘোষণা করা উচিত, যেন কেউ বিভ্রান্ত না হয়।",
+  "themes": [
+    "Hajj",
+    "public proclamation",
+    "repentance"
+  ],
+  "kinds": [
+    "warning",
+    "promise",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Day of Greater Pilgrimage"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The proclamation dissolving alliances with idolaters was announced to all pilgrims on the Day of Greater Hajj.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

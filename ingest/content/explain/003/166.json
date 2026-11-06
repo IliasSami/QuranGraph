@@ -1,0 +1,87 @@
+{
+ "id": "3:166",
+ "simple_en": "Whatever pain befell the Muslims when the two armies clashed at Uhud happened by Allah's will. Nothing takes place without His knowledge and permission. This trial had a noble purpose. It made clear who was firm in faith and who was only claiming it with words. Hard times test the heart and bring out true faith.",
+ "simple_bn": "উহুদের প্রান্তরে দুই দলের মুখোমুখি সংঘর্ষের দিন যা কিছু ঘটেছিল, তা আল্লাহর হুকুম ও ইচ্ছাতেই হয়েছিল। তাঁর অনুমতি ছাড়া কিছুই ঘটে না। এই কঠিন পরীক্ষার পেছনে এক মহৎ উদ্দেশ্য ছিল। এর মাধ্যমে আল্লাহ প্রকাশ করে দিলেন কারা বিপদে অবিচল থাকা খাঁটি মুমিন আর কারা শুধু মুখে দাবি করত।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "لقي",
+   "lemma": "الْتَقَى",
+   "meaning_en": "met / encountered",
+   "meaning_bn": "পরস্পর মুখোমুখি হয়েছিল",
+   "why_en": "Marks the decisive clash of the two armies on the day of Uhud."
+  },
+  {
+   "pos": 6,
+   "root": "أذن",
+   "lemma": "إِذْن",
+   "meaning_en": "permission / decree",
+   "meaning_bn": "অনুমতি বা হুকুম",
+   "why_en": "Affirms that nothing in creation occurs without Allah's permission and decree."
+  },
+  {
+   "pos": 9,
+   "root": "أمن",
+   "lemma": "مُؤْمِن",
+   "meaning_en": "the true believers",
+   "meaning_bn": "প্রকৃত মুমিনগণ",
+   "why_en": "Highlights the purpose of hardship: testing and showing true faith."
+  }
+ ],
+ "lesson_en": "Hard times come by Allah's will to test our faith and show who is true.",
+ "lesson_bn": "জীবনের কঠিন পরীক্ষাগুলো আল্লাহর ইচ্ছায় আসে যাতে খাঁটি ঈমান ও আন্তরিকতা প্রকাশ পায়।",
+ "real_life_en": "When a family loses a job or faces illness, it tests their patience. True faith shines when times get tough. Believers stay patient, pray for ease, and keep trusting Allah.",
+ "real_life_bn": "পরিবারে অভাব বা অসুস্থতা এলে মানুষের ধৈর্য পরীক্ষা হয়। যারা খাঁটি বিশ্বাসী, তারা ভেঙে না পড়ে আল্লাহর ওপর ভরসা রাখে এবং সালাত ও দোয়ার মাধ্যমে সাহায্য প্রার্থনা করে।",
+ "context_en": "Explaining that the clash at Uhud was not random bad luck, but took place under divine will to distinguish true believers.",
+ "context_bn": "উহুদের সংঘর্ষ কোনো আকস্মিক দুর্ঘটনা ছিল না, বরং আল্লাহর ইচ্ছায় মুমিনদের ঈমান যাচাইয়ের জন্য এই পরীক্ষা হয়েছিল।",
+ "themes": [
+  "trust in Allah",
+  "trials",
+  "faith",
+  "Allah's knowledge",
+  "patience"
+ ],
+ "kinds": [
+  "belief",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Uhud"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "Battle of Uhud"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The suffering that befell the Muslims when the two armies clashed at Uhud occurred by Allah's permission and decree.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah permitted the trial at Uhud in order to make manifest the true believers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "11:100",
+  "simple_en": "These are true stories of past towns that We tell you. Some of them still stand today, while others have been wiped out like a cut field.",
+  "simple_bn": "এগুলো হলো অতীত জনপদসমূহের কিছু বৃত্তান্ত, যা আমরা আপনাকে শোনাচ্ছি। এগুলোর কিছু এখনো বিদ্যমান রয়েছে এবং কিছু নির্মূল হয়ে ধ্বংসস্তূপে পরিণত হয়েছে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نبأ",
+      "lemma": "نَبَأ",
+      "meaning_en": "news / accounts",
+      "meaning_bn": "বৃত্তান্ত / সংবাদ",
+      "why_en": "True historical accounts revealed for reflection."
+    },
+    {
+      "pos": 4,
+      "root": "قري",
+      "lemma": "قَرْيَة",
+      "meaning_en": "cities / towns",
+      "meaning_bn": "জনপদসমূহ",
+      "why_en": "The settlements of earlier destroyed peoples."
+    },
+    {
+      "pos": 8,
+      "root": "قوم",
+      "lemma": "قائِم",
+      "meaning_en": "standing",
+      "meaning_bn": "বিদ্যমান / দাঁড়িয়ে থাকা",
+      "why_en": "Remaining ruins visible to travelers."
+    },
+    {
+      "pos": 9,
+      "root": "حصد",
+      "lemma": "حَصِيد",
+      "meaning_en": "mowed down / reaped",
+      "meaning_bn": "নির্মূল / কর্তিত ফসল",
+      "why_en": "Completely razed to the ground."
+    }
+  ],
+  "lesson_en": "History contains powerful lessons for those who reflect upon the rise and fall of nations.",
+  "lesson_bn": "অতীতের ধ্বংসপ্রাপ্ত জনপদগুলোর ইতিহাস মানুষের জন্য বিরাট এক শিক্ষণীয় বিষয়।",
+  "real_life_en": "Reflect deeply on human history and the fate of proud civilizations. When you see old ruins, remember that humble obedience to God outlasts all worldly power.",
+  "real_life_bn": "ইতিহাস থেকে শিক্ষা গ্রহণ করুন। প্রাচীন সভ্যতার ধ্বংসাবশেষ মনে করিয়ে দেয় যে, অহংকার নয় বরং বিনম্র সৎকর্মই মানুষের আসল সম্বল।",
+  "themes": [
+    "historical reflection",
+    "signs in the earth",
+    "lessons from nations",
+    "revelation"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "parable",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah recounts the narratives of destroyed civilizations, some whose ruins remain and others completely obliterated.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "24:6",
+  "simple_en": "Those who accuse their own spouses without having other witnesses must swear four times by God. They must testify that they are telling the exact truth.",
+  "simple_bn": "যারা নিজেদের স্ত্রীদের বিরুদ্ধে অপবাদ দেয় এবং নিজেরা ছাড়া তাদের আর কোনো সাক্ষী থাকে না, তাদের প্রত্যেকে আল্লাহর নামে চারবার শপথ করে সাক্ষ্য দেবে যে সে অবশ্যই সত্যবাদী।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "زوج",
+      "lemma": "زَوْج",
+      "meaning_en": "their spouses",
+      "meaning_bn": "তাদের স্ত্রীদের",
+      "why_en": "The sacred bond of marriage subject to specific legal rulings in disputes."
+    },
+    {
+      "pos": 7,
+      "root": "شهد",
+      "lemma": "شَهِيد",
+      "meaning_en": "witnesses",
+      "meaning_bn": "সাক্ষীগণ",
+      "why_en": "Individuals providing formal testimony to establish factual truth."
+    }
+  ],
+  "lesson_en": "Oaths sworn before God settle family matters when no outside witnesses can be found.",
+  "lesson_bn": "পারিবারিক সম্পর্কের সংবেদনশীল বিষয়ে বাহ্যিক সাক্ষী না থাকলে আল্লাহর নামে শপথের মাধ্যমে সত্য যাচাই করা হয়।",
+  "real_life_en": "Be honest in your marriage at all times. Speak the truth before God in family matters.",
+  "real_life_bn": "দাম্পত্য জীবনে সর্বদা সততা ও বিশ্বস্ততা বজায় রাখুন। পারিবারিক যে কোনো সমস্যায় সত্য ও ন্যায়ের পথে অবিচল থাকুন।",
+  "themes": [
+    "lian",
+    "marital-oath",
+    "justice"
+  ],
+  "kinds": [
+    "law",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "A husband who accuses his wife without independent witnesses must swear four solemn oaths before God affirming the truth of his charge.",
+      "claim_bn": "কোনো স্বামী সাক্ষী ছাড়া স্ত্রীর বিরুদ্ধে অপবাদ দিলে তাকে আল্লাহর নামে চারবার শপথ করে সত্যবাদী হওয়ার সাক্ষ্য দিতে হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

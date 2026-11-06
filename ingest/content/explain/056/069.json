@@ -1,0 +1,70 @@
+{
+  "id": "56:69",
+  "simple_en": "Did you bring that rain down from the clouds, or is Allah the One who sends it? Human beings cannot gather heavy rain clouds or make drops fall from the sky. Allah alone guides the wind and pours rain upon the dry earth.",
+  "simple_bn": "তোমরা কি মেঘমালা থেকে সেই বৃষ্টি বর্ষণ করো, না কি আল্লাহই তা বর্ষণকারী? কোনো মানুষের পক্ষে আসমানে মেঘ জড়ো করা বা বৃষ্টির ফোঁটা ফেলা সম্ভব নয়। আল্লাহ একাই বাতাস পরিচালনা করে শুকনো জমিনে বৃষ্টি বর্ষণ করেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نزل",
+      "lemma": "أَنزَلَ",
+      "meaning_en": "you sent it down",
+      "meaning_bn": "তোমরা তা বর্ষণ করেছ",
+      "why_en": "Highlights human inability to create or control rainfall."
+    },
+    {
+      "pos": 4,
+      "root": "مزن",
+      "lemma": "مُزْن",
+      "meaning_en": "rain clouds",
+      "meaning_bn": "মেঘমালা",
+      "why_en": "Refers to the moisture-filled clouds floating high in the sky."
+    },
+    {
+      "pos": 7,
+      "root": "نزل",
+      "lemma": "مُنزِل",
+      "meaning_en": "the senders down",
+      "meaning_bn": "বর্ষণকারী",
+      "why_en": "Affirms that Allah alone controls the descent of fresh rain."
+    }
+  ],
+  "lesson_en": "Rain falls by Allah's command alone, so pray to Him when facing drought.",
+  "lesson_bn": "বৃষ্টি কেবল আল্লাহর নির্দেশেই বর্ষিত হয়, তাই অনাবৃষ্টির সময় তাঁর কাছেই প্রার্থনা করুন।",
+  "real_life_en": "When crops dry up in summer, a whole village gathers in an open field to pray for rain. Days later, grey clouds gather and rain pours down. They know that only Allah can open the sky.",
+  "real_life_bn": "গ্রীষ্মে খরায় ফসল শুকিয়ে গেলে গ্রামের সবাই খোলা মাঠে সমবেত হয়ে বৃষ্টির নামাজ পড়ে। কয়েকদিন পর আকাশে মেঘ জমে বৃষ্টি নামলে সবাই বোঝে যে কেবল আল্লাহই আসমানের দুয়ার খুলতে পারেন।",
+  "themes": [
+    "signs in nature",
+    "Allah's power",
+    "dua"
+  ],
+  "kinds": [
+    "argument",
+    "creation",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "It is Allah who sends down rain from the clouds, not human beings.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

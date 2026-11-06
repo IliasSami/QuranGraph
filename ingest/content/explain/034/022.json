@@ -1,0 +1,75 @@
+{
+  "id": "34:22",
+  "simple_en": "Say to the idolaters: Call upon those you claim as gods besides Allah. They do not own even an atom's weight in the heavens or on the earth. They have no share in creating or managing them, and Allah has no helper among them.",
+  "simple_bn": "মুশরিকদের বলুন: তোমরা আল্লাহ ছাড়া যাদের উপাস্য মনে করতে তাদের ডাক। তারা আসমান ও যমীনে অণু পরিমাণ কিছুরও মালিক নয়। এগুলোর সৃষ্টি বা পরিচালনায় তাদের কোনো অংশীদারি নেই এবং তাদের মধ্য থেকে আল্লাহর কোনো সাহায্যকারীও নেই।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "call upon / invoke",
+      "meaning_bn": "তোমরা ডাক",
+      "why_en": "Exposes the futility of praying to powerless false deities."
+    },
+    {
+      "pos": 12,
+      "root": null,
+      "lemma": "فِي",
+      "meaning_en": "an atom's weight",
+      "meaning_bn": "অণু পরিমাণ",
+      "why_en": "Demonstrates that false gods lack even the smallest measure of ownership."
+    },
+    {
+      "pos": 26,
+      "root": "ظهر",
+      "lemma": "ظَهِير",
+      "meaning_en": "assistant / helper",
+      "meaning_bn": "সাহায্যকারী",
+      "why_en": "Negates any partner or assistant assisting Allah in ruling creation."
+    }
+  ],
+  "lesson_en": "Direct all worship and prayers only to Allah, for He alone holds all power.",
+  "lesson_bn": "সকল ইবাদত ও প্রার্থনা কেবল আল্লাহর উদ্দেশেই নিবেদন করুন, কারণ তিনিই একমাত্র ক্ষমতার অধিকারী।",
+  "real_life_en": "When you feel scared, pray directly to Allah. No person or lucky charm can help you or save you without His will.",
+  "real_life_bn": "বিপদে পড়লে সরাসরি আল্লাহর কাছে দুআ করুন। কোনো মানুষ বা তাবিজ আল্লাহর ইচ্ছা ছাড়া আপনার কোনো উপকার বা ক্ষতি করতে পারে না।",
+  "themes": [
+    "tawhid",
+    "shirk",
+    "worship",
+    "Allah's power"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "False deities possess not an atom's weight in the heavens or earth, hold no partnership in creation, and offer no assistance to Allah.",
+      "claim_bn": "আল্লাহ ছাড়া উপাস্যদের আসমান ও যমীনে অণু পরিমাণ মালিকানা নেই, কোনো অংশীদারিত্ব নেই এবং আল্লাহর কোনো সাহায্যকারীর প্রয়োজন নেই।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

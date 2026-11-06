@@ -1,0 +1,69 @@
+{
+  "id": "34:8",
+  "simple_en": "The disbelievers wondered if the Prophet was inventing lies about Allah or if he was insane. Allah rejects both claims. In truth, those who deny the Hereafter are heading for punishment and are deeply lost in error.",
+  "simple_bn": "কাফেররা বলত যে নবী কি আল্লাহর ওপর মিথ্যা আরোপ করছেন নাকি তিনি উন্মাদ। আল্লাহ তাদের এই অমূলক দাবি প্রত্যাখ্যান করেছেন। প্রকৃতপক্ষে যারা পরকালকে অস্বীকার করে তারাই কঠিন শাস্তির মুখোমুখি হবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "فري",
+      "lemma": "افْتَرَى",
+      "meaning_en": "invented / fabricated",
+      "meaning_bn": "মিথ্যা আরোপ করেছে",
+      "why_en": "The false charge made by deniers accusing the Prophet of lying."
+    },
+    {
+      "pos": 7,
+      "root": "جنن",
+      "lemma": "جِنَّة",
+      "meaning_en": "madness / insanity",
+      "meaning_bn": "উন্মাদনা / পাগলামি",
+      "why_en": "A baseless label used by deniers to dismiss divine revelation."
+    }
+  ],
+  "lesson_en": "Denying life after death blinds a person to reality and leads to deep confusion.",
+  "lesson_bn": "পরকাল অস্বীকার করা মানুষকে বাস্তবতা থেকে দূরে সরিয়ে দেয় এবং চরম পথভ্রষ্টতার দিকে নিয়ে যায়।",
+  "real_life_en": "Keep your heart open to truth even when it challenges your comfort. Denying facts does not make them go away.",
+  "real_life_bn": "মনের অহংকার দূর করে সত্যকে গ্রহণ করুন। বাস্তবতাকে অস্বীকার করলেই সত্য পরিবর্তিত হয়ে যায় না।",
+  "themes": [
+    "disbelief",
+    "prophethood",
+    "hereafter",
+    "guidance"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelievers falsely accused the Prophet of lying or madness, but in truth those who deny the Hereafter are in punishment and far error.",
+      "claim_bn": "কাফেররা নবীকে মিথ্যাবাদী বা পাগল বলে অপবাদ দিয়েছিল, অথচ যারা পরকাল অস্বীকার করে তারাই পথভ্রষ্ট ও শাস্তির যোগ্য।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

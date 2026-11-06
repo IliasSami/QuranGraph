@@ -1,0 +1,87 @@
+{
+ "id": "7:118",
+ "simple_en": "The truth won for everyone to see. The miracle of Musa proved that he was a true messenger. At the same time, the tricks of the magicians were shown to be hollow lies. All their deceit vanished in moments.",
+ "simple_bn": "এর ফলে প্রকাশ্য ময়দানে সত্য সুস্পষ্টভাবে প্রতিষ্ঠিত হলো এবং জয়যুক্ত হলো। মূসা (আলাইহিস সালাম)-এর মু'জিযা প্রমাণ করল যে তিনি সত্যিই আল্লাহর প্রেরিত রাসূল। আর জাদুকররা এতোক্ষণ ধরে যে জাদুর মায়াজাল তৈরি করেছিল, তা এক নিমিষে পুরোপুরি মিথ্যা ও অসার প্রমাণিত হলো।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "وقع",
+   "lemma": "وَقَعَ",
+   "meaning_en": "so was established / prevailed",
+   "meaning_bn": "সুতরাং প্রতিষ্ঠিত হলো",
+   "why_en": "The indisputable victory and manifestation of divine truth."
+  },
+  {
+   "pos": 2,
+   "root": "حقق",
+   "lemma": "حَقّ",
+   "meaning_en": "the truth",
+   "meaning_bn": "সত্য",
+   "why_en": "The divine message of Musa and the reality of his miracles."
+  },
+  {
+   "pos": 3,
+   "root": "بطل",
+   "lemma": "بَطَلَ",
+   "meaning_en": "and became null / void",
+   "meaning_bn": "এবং বাতিল হয়ে গেল",
+   "why_en": "The complete dismantling and exposure of the sorcery as fake."
+  }
+ ],
+ "lesson_en": "Falsehood may look convincing for a while, but real truth always triumphs and nullifies lies.",
+ "lesson_bn": "মিথ্যার প্রদর্শন সাময়িক বিভ্রান্তি তৈরি করতে পারলেও পরম সত্য প্রকাশিত হলে অসত্য সম্পূর্ণরূপে বিলুপ্ত হয়ে যায়।",
+ "real_life_en": "When people spread rumors about you, be patient and honest. Lies cannot stand against simple facts. The truth will shine in time and clear your name.",
+ "real_life_bn": "মিথ্যা অপবাদ বা গুজবের মুখে ভেঙে পড়বেন না। সত্য আচরণ ও ধৈর্যের মাধ্যমে মোকাবেলা করুন। অসত্য কখনো দীর্ঘস্থায়ী হয় না, আর সত্যের আলো সব সময় সব অন্ধকার দূর করে টিকে থাকে।",
+ "context_en": "Describes the definitive triumph of divine truth and the total collapse of sorcery in the assembly.",
+ "context_bn": "মু'জিযার মাধ্যমে সত্য প্রতিষ্ঠিত হওয়া এবং জাদুর সমস্ত ভেলকিবাজি অসার প্রমাণিত হওয়ার মুহূর্তটি তুলে ধরা হয়েছে।",
+ "themes": [
+  "triumph of truth",
+  "defeat of falsehood",
+  "divine justice",
+  "reality vs illusion"
+ ],
+ "kinds": [
+  "story",
+  "argument",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Musa (Moses)",
+   "magicians"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "triumph of truth"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The divine truth of Musa's message was decisively established.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "All the magical illusions that the sorcerers had manufactured were exposed and rendered null and void.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

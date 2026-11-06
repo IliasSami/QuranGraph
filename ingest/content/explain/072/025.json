@@ -1,0 +1,88 @@
+{
+ "id": "72:25",
+ "simple_en": "When the disbelievers mockingly asked when the punishment would come, the Prophet was told to admit his limits. He said: I do not know if the promised Day is close at hand or if my Lord has set a long time for it. That knowledge belongs to Allah alone.",
+ "simple_bn": "কাফিররা যখন উপহাস করে জিজ্ঞাসা করত শাস্তি কবে আসবে, তখন নবীকে তাঁর জ্ঞানের সীমা স্বীকার করতে বলা হয়। তিনি বলেন, তোমাদের প্রতিশ্রুত সেই দিন কি কাছে নাকি আমার রব এর জন্য দীর্ঘ সময় রেখেছেন, তা আমি জানি না। সেই জ্ঞানের মালিক কেবল আল্লাহ।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قول",
+   "lemma": "قالَ",
+   "meaning_en": "say",
+   "meaning_bn": "বলুন",
+   "why_en": "Instructing the Prophet to speak plainly."
+  },
+  {
+   "pos": 3,
+   "root": "دري",
+   "lemma": "تَدْرِي",
+   "meaning_en": "I do not know",
+   "meaning_bn": "আমি জানি না",
+   "why_en": "Humble admission of the limits of human knowledge."
+  },
+  {
+   "pos": 4,
+   "root": "قرب",
+   "lemma": "قَرِيب",
+   "meaning_en": "is it near",
+   "meaning_bn": "আসন্ন কি",
+   "why_en": "The question of when the promised punishment will arrive."
+  },
+  {
+   "pos": 11,
+   "root": "أمد",
+   "lemma": "أَمَد",
+   "meaning_en": "a long period, appointed term",
+   "meaning_bn": "দীর্ঘ মেয়াদ",
+   "why_en": "A distant time fixed by divine decree."
+  }
+ ],
+ "lesson_en": "Do not pretend to know what only Allah knows. Admit your limits with honesty and humility.",
+ "lesson_bn": "যা কেবল আল্লাহ জানেন, তা নিজের জানার ভান করবেন না। সততা ও বিনয়ের সাথে নিজের জ্ঞানের সীমাবদ্ধতা স্বীকার করুন।",
+ "real_life_en": "A weather man reads maps and tries to guess tomorrow's rain. Yet clouds can shift in an hour. A wise person knows that future days rest in Allah's hands, not in human guesses.",
+ "real_life_bn": "আবহাওয়াবিদ মানচিত্র দেখে আগামীকালের বৃষ্টির অনুমান করার চেষ্টা করেন। কিন্তু এক ঘণ্টার মধ্যে আকাশে মেঘ বদলে যেতে পারে। একজন জ্ঞানী মানুষ জানেন যে আগামী দিনের সবকিছু মানুষের অনুমানে নয়, আল্লাহর হাতে থাকে।",
+ "themes": [
+  "the unseen",
+  "knowledge of the Hour",
+  "humility"
+ ],
+ "kinds": [
+  "command",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "rabb"
+  ],
+  "events": [
+   "day of judgement"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Prophet stated that he did not know whether the promised punishment was near or set for a distant time.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The exact timing of the final Hour is known only to Allah.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "23:12",
+  "simple_en": "We created the first human being from an extract of clay. From humble earth, God shaped a noble creation. This reminds us of our modest origins.",
+  "simple_bn": "আর নিশ্চয়ই আমি মানুষকে মাটির মূল উপাদান বা নির্যাস থেকে সৃষ্টি করেছি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "We created",
+      "meaning_bn": "আমি সৃষ্টি করেছি",
+      "why_en": "God's initial creation of human origin from earthly materials."
+    },
+    {
+      "pos": 7,
+      "root": "طين",
+      "lemma": "طِين",
+      "meaning_en": "clay",
+      "meaning_bn": "মাটি",
+      "why_en": "Humbling reminder of human physical origin from basic earth."
+    }
+  ],
+  "lesson_en": "Human life began from basic clay. Remembering our humble origin keeps us free from pride.",
+  "lesson_bn": "মানুষের সৃষ্টির সূচনা মাটি থেকে। নিজেদের এই সাধারণ উৎসের কথা মনে রাখলে অহংকার জন্ম নেয় না।",
+  "real_life_en": "Stay humble no matter how much wealth or status you gain. Remember that all humans share one common origin.",
+  "real_life_bn": "জীবনে যতই ক্ষমতা বা সম্পদ আসুক না কেন, বিনয়ী থাকুন। মনে রাখুন সব মানুষ এক সাধারণ মাটি থেকেই সৃষ্ট।",
+  "themes": [
+    "creation-of-man",
+    "clay",
+    "human-origins"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Adam"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Clay"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Human creation originated from a refined extract of earthly clay, demonstrating divine craftsmanship.",
+      "claim_bn": "আল্লাহ মানুষকে মাটির মূল নির্যাস থেকে এক চমৎকার অবয়বে সৃষ্টি করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

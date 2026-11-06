@@ -1,0 +1,74 @@
+{
+  "id": "7:197",
+  "simple_en": "Those false deities whom people pray to besides Allah cannot help anyone in need. They cannot even help themselves or stop their own ruin and destruction.",
+  "simple_bn": "আর আল্লাহকে ছেড়ে তোমরা যাদের ডাকো, তারা তোমাদের কোনো সাহায্য করতে পারে না এবং নিজেদেরও কোনো সাহায্য করতে পারে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "you call upon",
+      "meaning_bn": "তোমরা ডাকো",
+      "why_en": "Directing prayers toward helpless beings."
+    },
+    {
+      "pos": 7,
+      "root": "نصر",
+      "lemma": "نَصْر",
+      "meaning_en": "your help",
+      "meaning_bn": "তোমাদের সাহায্য",
+      "why_en": "Inability of idols to benefit anyone."
+    },
+    {
+      "pos": 10,
+      "root": "نصر",
+      "lemma": "نَصَرَ",
+      "meaning_en": "they help themselves",
+      "meaning_bn": "তারা নিজেদের সাহায্য করে",
+      "why_en": "Idols are completely helpless even to defend themselves."
+    }
+  ],
+  "lesson_en": "False beliefs always fail when people need real help.",
+  "lesson_bn": "মিথ্যা বিশ্বাস ও অলীক শক্তি বিপদের সময় মানুষকে কোনো সাহায্য করতে পারে না।",
+  "real_life_en": "Put your trust in things that are real and true. Relying on wealth, status, or superstition cannot save your soul or solve deep spiritual pain. Trust the eternal God who never fails.",
+  "real_life_bn": "বাস্তব সত্যের ওপর জীবন গড়ুন। পদমর্যাদা বা অর্থবিত্ত অন্তরের গভীর সংকটে শান্তি দিতে পারে না; একমাত্র স্রষ্টাই পরম সহায়।",
+  "context_en": "Reiterating the absolute helplessness of idols to protect their devotees or protect themselves from harm.",
+  "context_bn": "মিথ্যা উপাস্যদের অক্ষমতার পুনরাবৃত্তি করে তাওহীদের গুরুত্ব পুনর্ব্যক্ত করা।",
+  "themes": [
+    "tawhid",
+    "futility of idols",
+    "seeking true protection"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Idols possess neither the capacity to assist their worshippers nor to preserve themselves from ruin.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

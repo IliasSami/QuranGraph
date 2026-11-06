@@ -1,0 +1,85 @@
+{
+ "id": "4:76",
+ "simple_en": "Those who believe strive in the path of Allah to spread truth and justice. Those who disbelieve fight in the path of evil powers. Stand firm against the helpers of Satan. Do not fear their tricks, for the plots of Satan are always weak against Allah's power.",
+ "simple_bn": "যারা সত্যিকার মুমিন, তারা সত্য ও ন্যায় প্রতিষ্ঠার লক্ষ্যে আল্লাহর পথে সংগ্রাম করে। পক্ষান্তরে যারা সত্য প্রত্যাখ্যান করে, তারা তাগুত ও অন্যায়ের পথে লড়াই করে। সুতরাং শয়তানের অনুসারীদের বিরুদ্ধে দৃঢ় থাকুন; জেনে রাখুন, আল্লাহর শক্তির সামনে শয়তানের সব চক্রান্ত ও অপকৌশল একেবারেই দুর্বল।",
+ "key_words": [
+  {
+   "pos": 12,
+   "root": "طغي",
+   "lemma": "طاغُوت",
+   "meaning_en": "false authorities or tyranny",
+   "meaning_bn": "তাগুত বা সীমালঙ্ঘনকারী শক্তি",
+   "why_en": "Contrasts fighting for Allah with fighting in the service of tyranny."
+  },
+  {
+   "pos": 17,
+   "root": "كيد",
+   "lemma": "كَيْد",
+   "meaning_en": "the plot or scheme",
+   "meaning_bn": "ষড়যন্ত্র বা অপকৌশল",
+   "why_en": "Refers to the deceptive plans and tricks devised by Satan."
+  },
+  {
+   "pos": 20,
+   "root": "ضعف",
+   "lemma": "ضَعِيف",
+   "meaning_en": "inherently weak",
+   "meaning_bn": "একেবারেই দুর্বল",
+   "why_en": "Reassures the believers that Satan's cunning has no power against Allah."
+  }
+ ],
+ "lesson_en": "Stand firm on the side of truth, and do not fear evil tricks that soon fade.",
+ "lesson_bn": "সর্বদা সত্যের পক্ষে অবিচল থাকুন এবং অন্যায়ের ষড়যন্ত্রকে ভয় পাবেন না, কারণ বাতিলের ভিত্তি অত্যন্ত দুর্বল।",
+ "real_life_en": "An honest clerk at a city office sees fraud in building permits. People threaten to get him fired if he speaks up. He trusts in Allah, reports the crime, and knows that evil plots fall apart before the truth.",
+ "real_life_bn": "কর্মক্ষেত্রে বা সমাজে কোনো অন্যায়ের বিরুদ্ধে কথা বলার সময় অসৎ চক্রের হুমকি দেখে ভীত হবেন না। সত্যের ওপর ভরসা রাখলে মিথ্যার প্রভাব একসময় বিলীন হয়ে যায়।",
+ "context_en": "Contrasts the noble divine motivation of believers with the corrupt aims of disbelievers, assuring that Satan's schemes will crumble.",
+ "context_bn": "মুমিন ও কাফেরদের লড়াইয়ের মৌলিক পার্থক্যের রূপরেখা তুলে ধরে শয়তানী শক্তির অন্তর্নিহিত দুর্বলতা প্রকাশ করা হয়েছে।",
+ "themes": [
+  "struggle in Allah's way",
+  "Satan",
+  "justice",
+  "faith",
+  "misguidance"
+ ],
+ "kinds": [
+  "command",
+  "argument",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Satan"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers fight for the sake of Allah while disbelievers fight in the cause of tyranny (taghut).",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Believers are commanded to confront the allies of Satan, whose schemes are fundamentally weak against Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "25:5",
+  "simple_en": "The deniers say that the Quran is made of old tales. They claim the Prophet had them written down. They say these tales are read to him morning and evening.",
+  "simple_bn": "তারা আরও বলে যে, এগুলো প্রাচীন যুগের উপকথা ছাড়া কিছু নয়। তারা দাবি করে যে রাসূল এগুলো লিখিয়ে নিয়েছেন এবং সকাল-সন্ধ্যা এগুলো তার সামনে পাঠ করা হয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "أَسَٰطِيرُ",
+      "root": "سطر",
+      "lemma": "أَساطِير",
+      "meaning_en": "legends",
+      "meaning_bn": "প্রাচীন উপকথা বা রূপকথা",
+      "why_en": "Myths and ancient tales falsely ascribed to revelation."
+    },
+    {
+      "pos": 6,
+      "arabic": "تُمْلَىٰ",
+      "root": "ملو",
+      "lemma": "أَمْلَى",
+      "meaning_en": "morning",
+      "meaning_bn": "প্রভাতকাল বা সকালবেলা",
+      "why_en": "The early part of the day indicating continuous effort."
+    }
+  ],
+  "lesson_en": "Critics call God's word old tales so they can ignore it. They invent excuses to run from the truth.",
+  "lesson_bn": "সত্য অস্বীকারকারীরা নিজেদের সংশোধন এড়াতে প্রায়ই ঐশী বাণীকে পুরোনো গল্প বলে উড়িয়ে দেয়।",
+  "real_life_en": "Read the Quran to learn its good lessons. Do not treat it as ancient history. Apply its teachings to your life.",
+  "real_life_bn": "কুরআনের আয়াতগুলোকে কেবল অতীত ইতিহাস মনে করবেন না। এর নৈতিক শিক্ষাগুলো নিজের জীবনে ধারণ করুন।",
+  "themes": [
+    "quran",
+    "denial",
+    "prophethood"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Critics dismiss the Quran as ancient legends dictated morning and evening.",
+      "claim_bn": "অবিশ্বাসীরা কুরআনকে অতীতকালের রূপকথা বলে উড়িয়ে দেওয়ার চেষ্টা করত যা সকাল-সন্ধ্যায় পড়ে শোনানো হতো।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

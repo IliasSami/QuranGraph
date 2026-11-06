@@ -1,0 +1,75 @@
+{
+  "id": "50:43",
+  "simple_en": "It is Allah alone who gives life to every creature. He brings death at the set time. There is no other giver of life besides Him. To Him alone is the final return of all humanity.",
+  "simple_bn": "মহান আল্লাহই একমাত্র সত্তা যিনি জীবন দান করেন এবং তিনিই নির্ধারিত সময়ে মৃত্যু ঘটান। তিনি ব্যতীত কোনো জীবনদাতা বা সংহারক নেই, এবং শেষ পর্যন্ত সবার প্রত্যাবর্তন একমাত্র তাঁরই কাছে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حيي",
+      "lemma": "أَحْيا",
+      "meaning_en": "We give life",
+      "meaning_bn": "আমরা জীবন দান করি",
+      "why_en": "Granting life out of nothing to all living creatures."
+    },
+    {
+      "pos": 4,
+      "root": "موت",
+      "lemma": "أَماتَ",
+      "meaning_en": "We cause death",
+      "meaning_bn": "আমরা মৃত্যু ঘটাই",
+      "why_en": "Ending worldly life at the appointed time."
+    },
+    {
+      "pos": 6,
+      "root": "صير",
+      "lemma": "مَصِير",
+      "meaning_en": "the final destination",
+      "meaning_bn": "চূড়ান্ত প্রত্যাবর্তন",
+      "why_en": "Every soul returns solely to Allah for the final judgment."
+    }
+  ],
+  "lesson_en": "Your life began with Allah and will return to Him. Use your time on earth to serve Him.",
+  "lesson_bn": "আপনার জীবনের শুরু ও শেষ আল্লাহর হাতে, তাই মধ্যবর্তী সময়টুকু তাঁর সন্তুষ্টি অর্জনে কাজে লাগান।",
+  "real_life_en": "When a baby is born or someone passes away, pause and reflect. Remember that both life and death are completely in Allah's hands.",
+  "real_life_bn": "কোনো শিশুর জন্ম কিংবা পরিচিত কারও মৃত্যুর সংবাদ শুনলে মনে করিয়ে দিন যে জীবন ও মৃত্যু একান্তই আল্লাহর নিয়ন্ত্রণে।",
+  "context_en": "Allah reaffirms that the cycles of life, death, and final destiny rest entirely with Him.",
+  "context_bn": "জীবন দান, মৃত্যু ঘটানো এবং চূড়ান্ত প্রত্যাবর্তনের একমাত্র মালিক যে মহান আল্লাহ, তা এখানে পুনর্ব্যক্ত করা হয়েছে।",
+  "themes": [
+    "creation",
+    "death",
+    "resurrection",
+    "names and attributes of Allah"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "belief",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah alone gives life and causes death, and to Him is the final return of all creation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

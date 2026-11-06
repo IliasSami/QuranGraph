@@ -1,0 +1,75 @@
+{
+  "id": "35:7",
+  "simple_en": "Those who reject faith will face a painful punishment. But those who believe and do good deeds will have great forgiveness. Allah will grant them a huge reward in Paradise.",
+  "simple_bn": "যারা কুফরী করে, তাদের জন্য রয়েছে কঠিন শাস্তি। আর যারা ঈমান আনে ও নেক আমল করে, তাদের জন্য রয়েছে ক্ষমা এবং মহা পুরস্কার।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "disbelieved",
+      "meaning_bn": "কুফরী করেছে",
+      "why_en": "Contrasts the tragic outcome of ingratitude with the joy of faith."
+    },
+    {
+      "pos": 10,
+      "root": null,
+      "lemma": null,
+      "meaning_en": "forgiveness",
+      "meaning_bn": "ক্ষমা",
+      "why_en": "Shows Allah's boundless mercy in wiping away human faults."
+    },
+    {
+      "pos": 12,
+      "root": "أجر",
+      "lemma": "أَجْر",
+      "meaning_en": "a great reward",
+      "meaning_bn": "মহা পুরস্কার",
+      "why_en": "Promises eternal honor and joy in Paradise for believers."
+    }
+  ],
+  "lesson_en": "Faith and righteous deeds lead to forgiveness, while persistent disbelief brings ruin.",
+  "lesson_bn": "ঈমান ও সৎকাজ মানুষকে আল্লাহর ক্ষমা এনে দেয়, আর কুফরী ডেকে আনে চরম ধ্বংস।",
+  "real_life_en": "Even when life feels hard, hold firmly to your faith and keep doing small acts of kindness. Trust that Allah records every good deed for your eternal reward.",
+  "real_life_bn": "প্রতিদিনের জীবনে ছোটখাটো ভালো কাজ করতে থাকুন। বিশ্বাস রাখুন যে আল্লাহ আপনার প্রতিটি সৎ আমল সংরক্ষণ করছেন এবং এর উত্তম প্রতিদান দেবেন।",
+  "themes": [
+    "faith",
+    "disbelief",
+    "forgiveness",
+    "reward",
+    "punishment"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell",
+      "paradise"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Those who disbelieve face severe punishment, while believers who do good deeds receive forgiveness and a great reward.",
+      "claim_bn": "কাফিরদের জন্য রয়েছে কঠিন শাস্তি, আর মুমিনদের জন্য রয়েছে ক্ষমা ও মহা পুরস্কার।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

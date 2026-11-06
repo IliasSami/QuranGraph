@@ -1,0 +1,84 @@
+{
+  "id": "12:5",
+  "simple_en": "His father Jacob advised him not to tell this dream to his brothers. He feared they would become jealous and plot harm against him, because Satan is an open enemy to mankind.",
+  "simple_bn": "পিতা ইয়াকূব স্নেহভরে বললেন, হে আমার প্রিয় সন্তান, তোমার এই স্বপ্নের কথা তোমার ভাইদের কাছে প্রকাশ করো না। পাছে তারা ঈর্ষান্বিত হয়ে তোমার বিরুদ্ধে ষড়যন্ত্র করে। নিশ্চয় শয়তান মানুষের প্রকাশ্য শত্রু।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "بني",
+      "lemma": "بُنَىّ",
+      "meaning_en": "O my dear son",
+      "meaning_bn": "হে আমার প্রিয় বৎস",
+      "why_en": "Tender, affectionate parental warning."
+    },
+    {
+      "pos": 8,
+      "root": "كيد",
+      "lemma": "كِيدُ",
+      "meaning_en": "they will plot",
+      "meaning_bn": "তারা ষড়যন্ত্র করবে",
+      "why_en": "The danger of envy driving family betrayal."
+    },
+    {
+      "pos": 12,
+      "root": "شطن",
+      "lemma": "شَيْطان",
+      "meaning_en": "Satan",
+      "meaning_bn": "শয়তান",
+      "why_en": "The whisperer inciting jealousy and animosity."
+    },
+    {
+      "pos": 14,
+      "root": "عدو",
+      "lemma": "عَدُوّ",
+      "meaning_en": "an enemy",
+      "meaning_bn": "শত্রু",
+      "why_en": "Satan's persistent hostility toward humanity."
+    }
+  ],
+  "lesson_en": "Keep blessings private when sharing them might stir envy or harm from others.",
+  "lesson_bn": "ঈর্ষা বা ক্ষতির আশঙ্কা থাকলে নিয়ামতের কথা সবার কাছে প্রকাশ না করাই বুদ্ধিমানের কাজ।",
+  "real_life_en": "Be discreet about your future plans and special blessings. Share your good news only with those who truly love and support you, avoiding needless jealousy.",
+  "real_life_bn": "নিজের ব্যক্তিগত অর্জন বা ভবিষ্যৎ পরিকল্পনা সবার কাছে প্রকাশ করবেন না। শুভাকাঙ্ক্ষীদের সাথেই আনন্দ ভাগ করুন যাতে ঈর্ষা এড়িয়ে চলা যায়।",
+  "themes": [
+    "story of Yusuf",
+    "parental wisdom",
+    "guarding against envy",
+    "tricks of Satan"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "prohibition",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Yaqub (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Satan"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Jacob warned Joseph against recounting his dream to his brothers, cautioning that Satan would exploit sibling jealousy into a hostile plot.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

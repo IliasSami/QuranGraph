@@ -1,0 +1,77 @@
+{
+  "id": "10:28",
+  "simple_en": "We will gather all people together on that Day. Then We will tell the idolaters: Stay where you are, you and your idols. We will separate them, and their idols will say: You never worshipped us.",
+  "simple_bn": "আর যেদিন আমরা তাদের সকলকে একত্রিত করব, সেদিন মুশরিকদের বলব: তোমরা এবং তোমাদের শরিকরা নিজ নিজ জায়গায় দাঁড়াও। অতঃপর আমরা তাদের পরস্পর থেকে বিচ্ছিন্ন করে দেব এবং তাদের উপাস্যরা বলবে: তোমরা তো আসলে আমাদের পূজা করতে না!",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حشر",
+      "lemma": "حَشَرَ",
+      "meaning_en": "We gather them",
+      "meaning_bn": "আমরা তাদের একত্রিত করব",
+      "why_en": "Universal gathering of all souls on the Day of Judgment."
+    },
+    {
+      "pos": 10,
+      "root": "شرك",
+      "lemma": "شَرِيك",
+      "meaning_en": "your partner-gods",
+      "meaning_bn": "তোমাদের শরিকরা / উপাস্যরা",
+      "why_en": "False idols, spirits, and saints worshipped in place of God."
+    },
+    {
+      "pos": 18,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "used to worship",
+      "meaning_bn": "পূজা করতে / ইবাদত করতে",
+      "why_en": "The disowning of worshipers by the very objects they adored."
+    }
+  ],
+  "lesson_en": "False gods and idols will disown their followers on the Day of Judgment.",
+  "lesson_bn": "কিয়ামতের কঠিন দিনে সব মিথ্যা উপাস্য তাদের অনুসারীদের সম্পূর্ণ অস্বীকার করবে।",
+  "real_life_en": "Do not put your ultimate trust in celebrities, leaders, or money. On the Day of Judgment, no created thing can save you from God.",
+  "real_life_bn": "কোনো মানুষ বা পার্থিব বস্তুর অন্ধ ভক্ত হবেন না; চরম বিপদের দিনে একমাত্র আল্লাহ ছাড়া কেউ সাহায্য করতে পারবে না।",
+  "themes": [
+    "gathering on Judgment Day",
+    "idols disowning worshipers",
+    "separation of parties"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [
+      "Day of Judgment"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Day of Gathering"
+    ],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "On the Day of Gathering, entities worshiped as partners will disassociate themselves completely from their human devotees.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "35:24",
+  "simple_en": "We have sent you, O Prophet, with the truth as a bringer of glad tidings to believers and a warner to rejectors. And there was never any community in history except that a warner passed through it to guide them.",
+  "simple_bn": "আমরা আপনাকে সত্য সহকারে পাঠিয়েছি মুমিনদের জন্য সুসংবাদদাতা এবং অস্বীকারকারীদের জন্য সতর্ককারীরূপে। আর এমন কোনো জাতি ছিল না যাদের কাছে কোনো না কোনো সতর্ককারী পাঠানো হয়নি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "بشر",
+      "lemma": "بَشِير",
+      "meaning_en": "bringer of glad tidings",
+      "meaning_bn": "সুসংবাদদাতা",
+      "why_en": "Delivers the promise of Paradise and forgiveness to the faithful."
+    },
+    {
+      "pos": 5,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "a warner",
+      "meaning_bn": "সতর্ককারী",
+      "why_en": "Alerts people against the peril of sins and rebellion against God."
+    },
+    {
+      "pos": 8,
+      "root": "أمم",
+      "lemma": "أُمَّة",
+      "meaning_en": "a community / nation",
+      "meaning_bn": "জাতি বা সম্প্রদায়",
+      "why_en": "Affirms that divine justice reached every people throughout history."
+    }
+  ],
+  "lesson_en": "Allah sent messengers to every past people to bring good news and give clear warnings.",
+  "lesson_bn": "আল্লাহ প্রতিটি জাতির কাছে সত্যের বাণী ও সতর্কবার্তা পৌঁছানোর জন্য রাসূল পাঠিয়েছেন।",
+  "real_life_en": "Reflect on how lucky you are to have access to the Quran and the teachings of the Prophet. Value this guidance by learning it and practicing it daily.",
+  "real_life_bn": "আল্লাহর দেওয়া হেদায়েতের অমূল্য নিআমতের গুরুত্ব উপলব্ধি করুন। নিয়মিত কুরআন পাঠ ও রাসুলের সুন্নাহ অনুসরণের মাধ্যমে জীবনকে পরিচালিত করুন।",
+  "themes": [
+    "prophethood",
+    "glad-tidings",
+    "warning",
+    "past nations"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "warning",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet was sent with the truth to give good news and warning, and every nation received a warner.",
+      "claim_bn": "রাসূলকে সত্যসহ সুসংবাদদাতা ও সতর্ককারী হিসেবে পাঠানো হয়েছে এবং পূর্বে প্রতিটি জাতির কাছেই সতর্ককারী পাঠানো হয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

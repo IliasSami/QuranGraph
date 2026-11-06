@@ -1,0 +1,65 @@
+{
+ "id": "45:11",
+ "simple_en": "This Quran is true guidance for all people. It points the way to righteousness and peace. Those who reject the revelations of their Lord will face a painful punishment of the worst kind.",
+ "simple_bn": "এই কুরআন এক সুস্পষ্ট হেদায়াত। এটি মানুষকে সত্য ও কল্যাণের পথ দেখায়। আর যারা তাদের রবের আয়াতকে অস্বীকার করে, তাদের জন্য রয়েছে অত্যন্ত যন্ত্রণাদায়ক ও নিকৃষ্ট ধরনের শাস্তি।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "هدي",
+   "lemma": "هُدًى",
+   "meaning_en": "guidance",
+   "meaning_bn": "সৎপথের দিশারী",
+   "why_en": "The Quran provides clear direction toward truth, righteousness, and peace."
+  },
+  {
+   "pos": 10,
+   "root": "رجز",
+   "lemma": "رِجْز",
+   "meaning_en": "foul torment / worst punishment",
+   "meaning_bn": "নিকৃষ্টতম ও তীব্র শাস্তি",
+   "why_en": "A severe and painful punishment reserved for stubborn deniers."
+  }
+ ],
+ "lesson_en": "Following the Quran leads to safety. Rejecting its clear signs leads to painful torment.",
+ "lesson_bn": "কুরআনের নির্দেশনা মেনে চললে শান্তি মেলে, আর তা অমান্য করলে নেমে আসে ঘোর বিপদ।",
+ "real_life_en": "Turn to the Quran whenever you feel lost or uncertain about what is right. Its timeless teachings bring clear light and peace to your daily choices.",
+ "real_life_bn": "জীবনের সিদ্ধান্ত নিতে বিভ্রান্তি দেখা দিলে কুরআনের শিক্ষার দিকে দৃষ্টি দিন। এর প্রজ্ঞাময় বাণী আপনার মনকে শান্ত করবে এবং সঠিক পথ দেখাবে।",
+ "themes": [
+  "the Quran",
+  "guidance",
+  "warning",
+  "disbelief"
+ ],
+ "kinds": [
+  "belief",
+  "warning",
+  "glad-tidings"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "ar-rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The Quran is divine guidance, and those who disbelieve in the verses of their Lord will receive a painful punishment.",
+   "claim_bn": "এই কুরআন ঐশী হেদায়াত, এবং যারা তাদের প্রতিপালকের আয়াতকে অস্বীকার করে তাদের জন্য রয়েছে কষ্টদায়ক শাস্তি।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

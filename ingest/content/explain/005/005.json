@@ -1,0 +1,96 @@
+{
+  "id": "5:5",
+  "simple_en": "Today, all wholesome foods are made lawful for you. The slaughtered meat of the People of the Scripture is lawful for you, and your food is lawful for them. You may also marry chaste believing women, as well as chaste women from those given Scripture before you. Give them their dowries and seek lawful marriage. Avoid open sin or secret lovers. Whoever rejects faith ruins their good deeds and is a total loser in the Hereafter.",
+  "simple_bn": "আজ তোমাদের জন্য সব পবিত্র খাদ্য হালাল করা হলো। আহলে কিতাব তথা ইহুদি ও খ্রিস্টানদের জবাইকৃত পশু তোমাদের জন্য হালাল এবং তোমাদের খাবারও তাদের জন্য হালাল। তেমনি স্বাধীন সচ্চরিত্রা মুমিন নারী এবং তোমাদের পূর্বে কিতাবপ্রাপ্তদের সচ্চরিত্রা নারীদের বিবাহ করা তোমাদের জন্য বৈধ। তবে শর্ত হলো তাদের প্রাপ্য মোহরানা পরিশোধ করতে হবে এবং পবিত্র বৈবাহিক বন্ধনে আবদ্ধ হতে হবে, কোনো ব্যভিচার বা গোপন প্রেমলীলায় লিপ্ত হওয়া যাবে না। যে ব্যক্তি ঈমান অস্বীকার করে তার সকল আমল নষ্ট হয়ে যায় এবং আখিরাতে সে ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "طيب",
+      "lemma": "طَيِّبَة",
+      "meaning_en": "wholesome foods",
+      "meaning_bn": "পবিত্র বস্তুসমূহ",
+      "why_en": "Reiterates the divine permission for all good and beneficial provisions."
+    },
+    {
+      "pos": 14,
+      "root": "حصن",
+      "lemma": "مُحْصَنَة",
+      "meaning_en": "chaste free women",
+      "meaning_bn": "সচ্চরিত্রা নারী",
+      "why_en": "Emphasizes the standard of moral purity and chastity required in marriage."
+    },
+    {
+      "pos": 26,
+      "root": "أجر",
+      "lemma": "أَجْر",
+      "meaning_en": "bridal gifts (mahr)",
+      "meaning_bn": "তাদের মোহরানা",
+      "why_en": "Payment of the bridal dowry is an obligatory financial right of the bride."
+    }
+  ],
+  "lesson_en": "Seek lawful food and chaste marriage, and protect your faith from ruin.",
+  "lesson_bn": "হালাল খাদ্য গ্রহণ ও পবিত্র বৈবাহিক জীবন যাপন করুন এবং নিজের ঈমানকে রক্ষা করুন।",
+  "real_life_en": "Look for good character when you marry. Pay the agreed bridal gift with a glad heart. Build your home on faith and love. Stay away from secret lovers and all sinful deeds.",
+  "real_life_bn": "বিয়ে করার সময় সততা, চরিত্র ও সঠিক নিয়তের দিকে খেয়াল রাখুন। আনন্দের সাথে স্ত্রীর মোহরানা পরিশোধ করুন। ভালোবাসা ও বিশ্বাসের ওপর সংসার গড়ে তুলুন। যেকোনো গোপন বা অবৈধ সম্পর্ক থেকে সম্পূর্ণ দূরে থাকুন।",
+  "context_en": "Permits the food and marriage of chaste women from the People of the Scripture, emphasizing moral purity and warning that rejection of faith voids all good deeds.",
+  "context_bn": "আহলে কিতাবদের খাবার ও সচ্চরিত্রা নারীদের বিবাহের বৈধতা ঘোষণা, নৈতিক পবিত্রতার ওপর জোর এবং কুফরিতে আমল নষ্ট হওয়ার সতর্কবার্তা।",
+  "themes": [
+    "halal and haram",
+    "family and marriage",
+    "interfaith relations",
+    "chastity",
+    "the Hereafter"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "prohibition",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "People of the Scripture"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The slaughtered meat of the People of the Scripture is lawful for Muslims, and Muslims' food is lawful for them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Muslim men are permitted to marry chaste Muslim women and chaste women from the People of the Scripture with proper dowry in honorable wedlock.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    },
+    {
+      "text": "Rejecting faith invalidates all righteous deeds, leading to ultimate loss in the Hereafter.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

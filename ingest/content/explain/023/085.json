@@ -1,0 +1,63 @@
+{
+  "id": "23:85",
+  "simple_en": "They will certainly answer: Everything belongs to God. Say to them: Will you not then remember, take heed, and turn to Him in true faith?",
+  "simple_bn": "তারা অবশ্যই বলবে, সমস্তই আল্লাহর। বলুন, তবুও কি তোমরা শিক্ষা ও উপদেশ গ্রহণ করবে না?",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "to God",
+      "meaning_bn": "আল্লাহর",
+      "why_en": "Universal admission that sovereign ownership belongs to God."
+    },
+    {
+      "pos": 5,
+      "root": "ذكر",
+      "lemma": "تَذَكَّرَ",
+      "meaning_en": "you take heed",
+      "meaning_bn": "তোমরা উপদেশ গ্রহণ করবে",
+      "why_en": "Awakening from heedlessness through logical reflection."
+    }
+  ],
+  "lesson_en": "Even critics admit that God owns all things. Acknowledging God's ownership should lead to humble obedience.",
+  "lesson_bn": "অবিশ্বাসীরাও স্বীকার করে যে সবকিছুর মালিক আল্লাহ। এই স্বীকৃতির স্বাভাবিক দাবি হলো একনিষ্ঠভাবে তাঁরই আনুগত্য করা।",
+  "real_life_en": "Let your daily actions match what your tongue professes. If you believe God owns all, submit to His guidance.",
+  "real_life_bn": "মুখে যা স্বীকার করেন কাজেও তা প্রমাণ করুন। যখন বিশ্বাস করেন সব আল্লাহর, তখন তাঁর নির্দেশ মেনে চলুন।",
+  "themes": [
+    "admission-of-ownership",
+    "taking-heed",
+    "logical-consequence"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The opponents admit that the earth belongs to God, which logically compels them to heed divine guidance.",
+      "claim_bn": "বিরোধীরা স্বীকার করতে বাধ্য হয় যে সবকিছুর মালিক আল্লাহ, অথচ তারা এই সত্য থেকে উপদেশ গ্রহণ করে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

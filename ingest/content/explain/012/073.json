@@ -1,0 +1,94 @@
+{
+  "id": "12:73",
+  "simple_en": "The brothers swore by Allah that the officials knew they had not come to cause mischief in the land. They declared that they had never been thieves and had always behaved honorably.",
+  "simple_bn": "ভাইয়েরা আল্লাহর নামে শপথ করে বলল, আপনারা ভালো করেই জানেন আমরা এ দেশে বিশৃঙ্খলা সৃষ্টি করতে আসিনি এবং আমরা কখনোই চোর ছিলাম না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "by Allah",
+      "meaning_bn": "আল্লাহর কসম",
+      "why_en": "An oath affirming their innocence and upright upbringing."
+    },
+    {
+      "pos": 7,
+      "root": "فسد",
+      "lemma": "أَفْسَدُ",
+      "meaning_en": "to cause corruption",
+      "meaning_bn": "বিশৃঙ্খলা বা অশান্তি সৃষ্টি করা",
+      "why_en": "Rejecting any criminal motive or corrupt intent."
+    },
+    {
+      "pos": 9,
+      "root": "أرض",
+      "lemma": "أَرْض",
+      "meaning_en": "the land",
+      "meaning_bn": "এই জমিন বা ভূখণ্ড",
+      "why_en": "Referring to the orderly society of Egypt."
+    },
+    {
+      "pos": 12,
+      "root": "سرق",
+      "lemma": "سارِق",
+      "meaning_en": "thieves",
+      "meaning_bn": "চোর",
+      "why_en": "Firm denial of the dishonorable crime of stealing."
+    }
+  ],
+  "lesson_en": "Live an honest life so your good name speaks for you in times of doubt.",
+  "lesson_bn": "দৈনন্দিন জীবনে সৎ থাকুন যাতে কোনো অপবাদ এলে আপনার নিষ্পাপতা স্পষ্ট হয়ে ওঠে।",
+  "real_life_en": "A student is accused of taking school supplies. The teachers drop the case because the student has a long record of honesty.",
+  "real_life_bn": "এক ছাত্রের ওপর স্কুলের জিনিসপত্র সরানোর অভিযোগ উঠলে শিক্ষকরা তা বিশ্বাস করেন না। তাঁর দীর্ঘদিনের সততা দেখে সবাই বুঝতে পারেন যে কোথাও ভুল বোঝাবুঝি হয়েছে।",
+  "context_en": "Outraged by the accusation, the brothers pointed to their orderly conduct to defend their honor.",
+  "context_bn": "অপবাদে ব্যথিত হয়ে ভাইয়েরা নিজেদের অতীত সৎ আচরণের উদাহরণ দিয়ে নির্দোষিতা দাবি করল।",
+  "themes": [
+    "honor",
+    "denial of crime",
+    "reputation"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "brothers of Yusuf",
+      "Egyptian officials"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers swore by Allah that they did not come to cause corruption.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They affirmed that they were not thieves.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

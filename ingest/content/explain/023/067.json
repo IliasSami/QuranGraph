@@ -1,0 +1,63 @@
+{
+  "id": "23:67",
+  "simple_en": "You acted arrogantly toward the sanctuary and the truth. You spent your nights talking foolishly and speaking evil words. You wasted your hours in useless mockery.",
+  "simple_bn": "অহংকারবশত এ বিষয়ে রাতের বেলা গল্পগুজবে মেতে তোমরা মন্দ কথা বলতে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "كبر",
+      "lemma": "مُسْتَكْبِر",
+      "meaning_en": "acting arrogantly",
+      "meaning_bn": "দম্ভভরে ও অহংকার করে",
+      "why_en": "Haughty attitude displayed toward the Prophet and the Sacred House."
+    },
+    {
+      "pos": 3,
+      "root": "سمر",
+      "lemma": "سامِر",
+      "meaning_en": "conversing by night",
+      "meaning_bn": "রাতের গল্পগুজবকারী",
+      "why_en": "Gathering late at night to mock the Quran and spread rumors."
+    }
+  ],
+  "lesson_en": "Arrogance and careless talk harm the soul. Spending nights in mocking the truth brings great regret.",
+  "lesson_bn": "অহংকার ও মিথ্যা পরচর্চা মানুষের চরিত্র ধ্বংস করে। সত্য নিয়ে উপহাস ও অহেতুক আড্ডা পরিণামে অনুশোচনা বয়ে আনে।",
+  "real_life_en": "Use your evenings and spare time for beneficial matters. Avoid late night talk that hurts others or mocks good values.",
+  "real_life_bn": "রাতের সময়কে ভালো কাজে ও বিশ্রামায় ব্যবহার করুন। অর্থহীন আড্ডায় সময় নষ্ট বা অন্যের গিবত করা থেকে বিরত থাকুন।",
+  "themes": [
+    "arrogance",
+    "foolish-talk",
+    "night-conversations"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "makkah"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The opponents displayed haughtiness toward the sanctuary, gathering in nocturnal sessions to speak ill of revelation.",
+      "claim_bn": "বিরোধীরা অহংকারভরে রাতের আড্ডায় মেতে থাকত এবং কোরআন নিয়ে কটূক্তি ও উপহাস করত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

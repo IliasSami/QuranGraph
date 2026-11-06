@@ -1,0 +1,77 @@
+{
+  "id": "8:75",
+  "simple_en": "Those who believed later, left home, and fought by your side belong to your fold. But by God's law, blood kin have the closest ties to one another. God knows all things.",
+  "simple_bn": "আর যারা পরে ঈমান এনেছে, হিজরত করেছে এবং তোমাদের সাথে সংগ্রাম করেছে, তারাও তোমাদের অন্তর্ভুক্ত। তবে আল্লাহর বিধানে রক্তসম্পর্কীয় আত্মীয়রা পরস্পরের প্রতি বেশি হকদার। নিশ্চয়ই আল্লাহ সর্বজ্ঞ।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "بعد",
+      "lemma": "بَعْد",
+      "meaning_en": "afterwards",
+      "meaning_bn": "পরবর্তীকালে",
+      "why_en": "Believers who emigrated at later stages."
+    },
+    {
+      "pos": 5,
+      "root": "هجر",
+      "lemma": "هاجَرَ",
+      "meaning_en": "emigrated",
+      "meaning_bn": "হিজরত করেছে",
+      "why_en": "Joining the community through migration."
+    },
+    {
+      "pos": 11,
+      "root": "رحم",
+      "lemma": "أَرْحام",
+      "meaning_en": "blood relatives / kin",
+      "meaning_bn": "রক্তের সম্পর্ক বা আত্মীয়",
+      "why_en": "Restoring inheritance rights to biological family."
+    }
+  ],
+  "lesson_en": "All believers are kin in faith, but blood relatives come first in care and aid.",
+  "lesson_bn": "বিশ্বাসীরা সবাই একই উম্মতের অংশ, তবে উত্তরাধিকার ও পারিবারিক দায়িত্বে রক্তের আত্মীয়দের অগ্রাধিকার নির্ধারিত।",
+  "real_life_en": "Welcome new friends with open arms. At the same time, take good care of your own kin. Never turn your back on your parents or family in need.",
+  "real_life_bn": "নতুন বন্ধুদের আপন করে নিন, তবে নিজের পরিবার ও আত্মীয়দের দায়িত্ব অবহেলা করবেন না। রক্তের সম্পর্ক রক্ষা করা ঈমানের অন্যতম দাবি।",
+  "context_en": "Confirming full status for later converts while replacing temporary treaty-based inheritance with natural kinship laws.",
+  "context_bn": "পরবর্তীকালে হিজরতকারীদের সমমর্যাদা প্রদান এবং ভাইয়ে-ভাইয়ে উত্তরাধিকারের সাময়িক ব্যবস্থা বাতিল করে রক্তের আত্মীয়দের হক পুনঃপ্রতিষ্ঠা।",
+  "themes": [
+    "inclusivity of faith",
+    "family ties",
+    "inheritance laws",
+    "divine knowledge"
+  ],
+  "kinds": [
+    "law",
+    "ethics",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "later believers",
+      "kinfolk"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Al-Alim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Later emigrants enjoy full communal rights, while inheritance rights are legally restored to blood relatives.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

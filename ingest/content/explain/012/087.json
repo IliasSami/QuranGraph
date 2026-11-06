@@ -1,0 +1,97 @@
+{
+  "id": "12:87",
+  "simple_en": "Yaqub told his sons to go back and search carefully for news of Yusuf and his brother. He told them never to lose hope in God's mercy. Only people who deny the truth lose hope in Allah's mercy.",
+  "simple_bn": "ইয়াকূব বললেন, হে আমার ছেলেরা, তোমরা যাও এবং ইউসুফ ও তার ভাইয়ের সন্ধান কর। আল্লাহর রহমত থেকে কখনো নিরাশ হয়ো না। নিশ্চয় অবিশ্বাসী সম্প্রদায় ছাড়া কেউ আল্লাহর রহমত থেকে নিরাশ হয় না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حسس",
+      "lemma": "تَحَسَّسُ",
+      "meaning_en": "find out / search gently",
+      "meaning_bn": "খোঁজখবর নাও বা অনুসন্ধান কর",
+      "why_en": "Encouraging practical, careful investigation to locate his sons."
+    },
+    {
+      "pos": 8,
+      "root": "يأس",
+      "lemma": "يَئِسَ",
+      "meaning_en": "do not despair",
+      "meaning_bn": "নিরাশ হয়ো না",
+      "why_en": "A fundamental spiritual command against surrendering to hopelessness."
+    },
+    {
+      "pos": 10,
+      "root": "روح",
+      "lemma": "رَوْح",
+      "meaning_en": "relief / mercy",
+      "meaning_bn": "আল্লাহর রহমত ও মুক্তি",
+      "why_en": "Divine mercy that brings joy and ease after severe hardship."
+    },
+    {
+      "pos": 20,
+      "root": "كفر",
+      "lemma": "كافِر",
+      "meaning_en": "the disbelieving",
+      "meaning_bn": "অবিশ্বাসীগণ",
+      "why_en": "Denying God’s power and compassion leads to total despair."
+    }
+  ],
+  "lesson_en": "Never lose hope in Allah's mercy, for He can bring light into the darkest moments.",
+  "lesson_bn": "আল্লাহর রহমত থেকে কখনো নিরাশ হবেন না, কারণ তিনি চরম অন্ধকারের মধ্যেও আলো ফোটাতে পারেন।",
+  "real_life_en": "A patient fights a hard illness for months. Even when tired, they keep praying and taking medicine, trusting in God's cure.",
+  "real_life_bn": "মারাত্মক রোগে আক্রান্ত ব্যক্তি চিকিৎসকদের আশঙ্কাজনক কথায় ভেঙে না পড়ে চিকিৎসা চালিয়ে যান এবং আল্লাহর রহমতের ওপর পূর্ণ বিশ্বাস রেখে সুস্থতার দোয়া করেন।",
+  "context_en": "Inspiring renewed hope, Yaqub ordered his sons to return to Egypt and look for both lost brothers.",
+  "context_bn": "নতুন করে আশার সঞ্চার করে ইয়াকূব ছেলেদের মিসরে ফিরে গিয়ে উভয় ভাইয়ের সন্ধান করার নির্দেশ দিলেন।",
+  "themes": [
+    "hope",
+    "never despairing",
+    "Allah's mercy"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Yaqub",
+      "brothers of Yusuf",
+      "Yusuf",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Canaan",
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Yaqub told his sons to seek news of Yusuf and his brother.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He commanded them never to despair of the mercy and relief of Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

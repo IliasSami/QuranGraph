@@ -1,0 +1,97 @@
+{
+ "id": "4:89",
+ "simple_en": "They wish that you would disbelieve just as they disbelieved, so that you would all be equal. Do not take allies from among them until they prove their faith by migrating in the path of Allah. If they turn hostile and betray you, capture and fight them wherever you encounter them. Never take any of them as an ally or helper.",
+ "simple_bn": "তারা চায় যে তারা যেভাবে কুফরি করেছে তোমরাও সেভাবে কুফরি করো, যাতে তোমরা তাদের সমান হয়ে যাও। কাজেই তারা আল্লাহর পথে হিজরত না করা পর্যন্ত তাদের মধ্য থেকে কাউকে বন্ধু বা অভিভাবক বানাবে না। কিন্তু তারা যদি পৃষ্ঠপ্রদর্শন করে শত্রুতা চালায়, তবে তাদেরকে যেখানে পাও পাকড়াও করো এবং হত্যা করো। আর তাদের কাউকে বন্ধু বা সাহায্যকারী হিসেবে গ্রহণ করো না।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "سوي",
+   "lemma": "سَواء",
+   "meaning_en": "equal in disbelief",
+   "meaning_bn": "কুফরিতে সমান",
+   "why_en": "Reveals their secret wish that believers abandon their faith to become like them."
+  },
+  {
+   "pos": 11,
+   "root": "ولي",
+   "lemma": "وَلِيّ",
+   "meaning_en": "close allies or protectors",
+   "meaning_bn": "অন্তরঙ্গ বন্ধু বা অভিভাবক",
+   "why_en": "Prohibits taking treacherous enemies as close allies or confidants."
+  },
+  {
+   "pos": 13,
+   "root": "هجر",
+   "lemma": "هاجَرَ",
+   "meaning_en": "they emigrate",
+   "meaning_bn": "হিজরত করে",
+   "why_en": "Sets migration to the community as a practical test of true faith."
+  },
+  {
+   "pos": 28,
+   "root": "نصر",
+   "lemma": "نَصِير",
+   "meaning_en": "a helper",
+   "meaning_bn": "সাহায্যকারী",
+   "why_en": "Warns against relying on deceptive foes for defense or aid."
+  }
+ ],
+ "lesson_en": "Do not entrust your secrets to those who secretly wish you would abandon your faith.",
+ "lesson_bn": "যারা আপনার দ্বীন ও সততা ধ্বংস করতে চায়, তাদেরকে কখনো অন্তরঙ্গ বন্ধু বা পরামর্শক বানাবেন না।",
+ "real_life_en": "Stay away from friends who mock your prayers or urge you to do bad things. Choose friends who love Allah and help you live with good manners.",
+ "real_life_bn": "এমন সঙ্গীদের থেকে দূরে থাকুন যারা আপনার ধর্মীয় অনুশাসন নিয়ে উপহাস করে এবং অসৎ কাজে জড়াতে প্ররোচিত করে। ভালো সঙ্গ বেছে নিন।",
+ "context_en": "Specifies how to treat treacherous hypocrites who refused peaceful migration and actively aided enemies in warfare.",
+ "context_bn": "যুদ্ধকালে যে সমস্ত মুনাফিক হিজরত অস্বীকার করে মুসলিমদের বিরুদ্ধে শত্রুদের সাথে ষড়যন্ত্রে লিপ্ত হয়েছিল, তাদের ব্যাপারে এই নির্দেশ দেওয়া হয়।",
+ "themes": [
+  "hypocrisy",
+  "disbelief",
+  "migration",
+  "struggle in Allah's way"
+ ],
+ "kinds": [
+  "prohibition",
+  "command",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Hypocrites desire that believers abandon their faith to become equal in disbelief.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Believers are prohibited from taking them as allies until they prove their sincerity by migrating in Allah's path.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "If they openly turn to active warfare and betrayal, they are to be captured and fought as combatants.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

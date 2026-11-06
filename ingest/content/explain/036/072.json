@@ -1,0 +1,70 @@
+{
+  "id": "36:72",
+  "simple_en": "Allah made these animals gentle and easy to guide. Humans ride on some of them to travel and carry goods, and they eat meat from them for food.",
+  "simple_bn": "আল্লাহ এই শক্তিশালী পশুগুলোকে মানুষের অনুগত করে দিয়েছেন। ফলে এগুলোর কোনোটিকে তারা বাহন হিসেবে ব্যবহার করে এবং কোনোটির গোশত তারা আহার করে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ذلل",
+      "lemma": "ذُلِّلَتْ",
+      "meaning_en": "and We tamed them",
+      "meaning_bn": "এবং আমরা তাদের বশীভূত করেছি",
+      "why_en": "Describes making large, powerful creatures compliant to human command."
+    },
+    {
+      "pos": 4,
+      "root": "ركب",
+      "lemma": "رَكُوب",
+      "meaning_en": "their mounts",
+      "meaning_bn": "তাদের বাহন",
+      "why_en": "Animals used for riding and carrying loads across distances."
+    },
+    {
+      "pos": 6,
+      "root": "أكل",
+      "lemma": "أَكَلَ",
+      "meaning_en": "they eat",
+      "meaning_bn": "তারা আহার করে",
+      "why_en": "Lawful meat provided as essential nourishment for humanity."
+    }
+  ],
+  "lesson_en": "Allah tamed large beasts to give us food and easy travel.",
+  "lesson_bn": "আল্লাহ মানুষের খাদ্য ও যাতায়াতের সুবিধার জন্য বড় বড় পশুকে অনুগত বানিয়েছেন।",
+  "real_life_en": "Treat animals with care and mercy. Remember that if Allah had not made them gentle, we could never control them on our own.",
+  "real_life_bn": "গৃহপালিত পশুর প্রতি সদয় আচরণ করুন। আল্লাহ যদি তাদের শান্ত স্বভাবের না বানাতেন, তবে মানুষ কখনই তাদের বশ করতে পারত না।",
+  "themes": [
+    "livestock",
+    "bounty",
+    "sustenance",
+    "mercy"
+  ],
+  "kinds": [
+    "creation",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah subjected livestock to mankind, making some of them suitable for riding and some for food.",
+      "claim_bn": "আল্লাহ পশুকে মানুষের অনুগত করেছেন, যার কিছু তারা সওয়ারি হিসেবে ব্যবহার করে এবং কিছু আহার করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

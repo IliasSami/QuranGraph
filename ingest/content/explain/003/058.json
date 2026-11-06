@@ -1,0 +1,87 @@
+{
+  "id": "3:58",
+  "simple_en": "Allah tells the Prophet Muhammad ﷺ that these true stories of Isa and Maryam are recited to him. They are clear signs from God and a wise reminder from the Quran. They teach us the plain truth without myths or human errors.",
+  "simple_bn": "আল্লাহ নবী মুহাম্মদ ﷺ-কে বলছেন যে, ঈসা ও মারইয়াম সম্পর্কিত এই সত্য বিবরণ ওহীর মাধ্যমে তাঁকে শোনানো হচ্ছে। এগুলো আল্লাহর স্পষ্ট নিদর্শন এবং কুরআনের এক প্রজ্ঞাময় উপদেশ। এই বাণী কোনো ভুল বা গল্প ছাড়াই মানুষকে নির্ভুল সত্য শিক্ষা দেয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "We recite it",
+      "meaning_bn": "আমরা তা তিলাওয়াত করছি",
+      "why_en": "Shows that this history is directly recited by divine command to the Prophet ﷺ."
+    },
+    {
+      "pos": 5,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "the signs",
+      "meaning_bn": "নিদর্শনসমূহ",
+      "why_en": "Verses of the Quran that prove its divine source and guide the mind."
+    },
+    {
+      "pos": 7,
+      "root": "حكم",
+      "lemma": "حَكِيم",
+      "meaning_en": "the Wise",
+      "meaning_bn": "প্রজ্ঞাময়",
+      "why_en": "Describes the Quran as full of sound wisdom and free from any defect."
+    }
+  ],
+  "lesson_en": "The Quran is a wise guide that tells the pure truth about earlier prophets.",
+  "lesson_bn": "কুরআন হলো এক প্রজ্ঞাময় পথপ্রদর্শক, যা পূর্ববর্তী নবীদের সম্পর্কে সত্য প্রকাশ করে।",
+  "real_life_en": "When people argue about the lives of ancient prophets, turn to the Quran. It gives you clear, wise answers and keeps you safe from false myths.",
+  "real_life_bn": "আগের নবীদের জীবন নিয়ে নানা তর্ক বা বিভ্রান্তি দেখলে কুরআন খুলে পড়ুন। কুরআন আপনাকে প্রজ্ঞাপূর্ণ ও স্পষ্ট সত্য জানিয়ে সব ধরনের মিথ্যা থেকে রক্ষা করবে।",
+  "context_en": "After telling the story of Isa, Allah affirms the truth and wisdom of the Quran.",
+  "context_bn": "ঈসার জীবনবৃত্তান্ত সমাপ্ত করে আল্লাহ কুরআনের সত্যতা ও প্রজ্ঞার প্রশংসা করেছেন।",
+  "themes": [
+    "the Quran",
+    "prophethood",
+    "knowledge"
+  ],
+  "kinds": [
+    "argument",
+    "description-of-allah",
+    "praise"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The detailed accounts of Isa and Maryam are divine verses recited to the Prophet Muhammad ﷺ.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "The Quran is characterized as the wise reminder, completely free from falsehood or defect.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

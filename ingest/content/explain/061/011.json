@@ -1,0 +1,72 @@
+{
+  "id": "61:11",
+  "simple_en": "The great trade is to believe in Allah and His Messenger. You must strive in His cause with your wealth and your lives. Giving your money and effort for the truth is best for you, if you only knew.",
+  "simple_bn": "সেই লাভজনক বাণিজ্য হলো, তোমরা খাঁটি মনে আল্লাহ ও তাঁর রাসূলের প্রতি ঈমান আনবে এবং নিজেদের জান ও মাল দিয়ে আল্লাহর সন্তুষ্টির পথে প্রচেষ্টা চালাবে। যদি তোমরা আসল সত্য উপলব্ধি করতে পারো, তবে এটিই তোমাদের জন্য পরম কল্যাণকর।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "you believe and keep faith",
+      "meaning_bn": "তোমরা ঈমান আনবে",
+      "why_en": "The bedrock of this divine transaction: true faith in God and His Messenger."
+    },
+    {
+      "pos": 4,
+      "root": "جهد",
+      "lemma": "جاهَدَ",
+      "meaning_en": "you strive and struggle",
+      "meaning_bn": "তোমরা প্রচেষ্টা চালাবে ও জিহাদ করবে",
+      "why_en": "Active dedication in the cause of truth with personal resources."
+    },
+    {
+      "pos": 8,
+      "root": "مول",
+      "lemma": "مال",
+      "meaning_en": "your wealth",
+      "meaning_bn": "তোমাদের ধন-সম্পদ",
+      "why_en": "Spending material resources generously to support the truth."
+    }
+  ],
+  "lesson_en": "True faith demands action: spend your money and energy for what pleases Allah.",
+  "lesson_bn": "খাঁটি ঈমানের প্রকাশ ঘটে বাস্তব ত্যাগে, তাই আল্লাহর সন্তুষ্টির জন্য সম্পদ ও সময় ব্যয় করা উচিত।",
+  "real_life_en": "A man helps poor families with his money. He also gives his free time to teach children. He does this only to please God. Using your time and wealth to help others brings great reward in the next life.",
+  "real_life_bn": "অভাবী মানুষকে সাহায্য করা কিংবা অসহায়দের পাশে দাঁড়ানো মুমিনের নিয়মিত দায়িত্ব। নিজের অর্থ ও শ্রম দিয়ে পরোপকার করাই আল্লাহর দরবারে চিরস্থায়ী সঞ্চয় হিসেবে জমা থাকে।",
+  "themes": [
+    "faith in Allah and Messenger",
+    "striving with wealth and life",
+    "the best trade"
+  ],
+  "kinds": [
+    "command",
+    "belief",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The saving trade is to believe in Allah and His Messenger and to strive in His cause with wealth and lives, which is best for believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

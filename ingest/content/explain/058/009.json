@@ -1,0 +1,91 @@
+{
+  "id": "58:9",
+  "simple_en": "O believers, when you speak in private, do not talk about sin, hatred, or defying the Messenger. Instead, talk about good deeds, charity, and obedience to Allah. Fear Allah, before whom you will all be gathered.",
+  "simple_bn": "হে মুমিনগণ, তোমরা যখন গোপনে কোনো পরামর্শ করো, তখন যেন পাপকাজ, সীমালঙ্ঘন ও রাসূলের অবাধ্যতার বিষয়ে কোনো কথা না হয়। বরং তোমরা নেককাজ ও তাকওয়ার বিষয়ে পরামর্শ করো। আর আল্লাহকে ভয় করো, যাঁর কাছে তোমাদের সবাইকে সমবেত করা হবে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نجو",
+      "lemma": "تَনাجَيْ",
+      "meaning_en": "you converse privately",
+      "meaning_bn": "তোমরা গোপন পরামর্শ করো",
+      "why_en": "Addresses the etiquette of holding private meetings among believers."
+    },
+    {
+      "pos": 13,
+      "root": "برر",
+      "lemma": "بِرّ",
+      "meaning_en": "righteousness",
+      "meaning_bn": "সৎকাজ",
+      "why_en": "Directing private talks toward helping people and doing good deeds."
+    },
+    {
+      "pos": 14,
+      "root": "وقي",
+      "lemma": "تَقْوَى",
+      "meaning_en": "piety",
+      "meaning_bn": "তাকওয়া",
+      "why_en": "Consulting on matters that protect from sin and build Allah's pleasure."
+    },
+    {
+      "pos": 19,
+      "root": "حشر",
+      "lemma": "حَشَرَ",
+      "meaning_en": "you will be gathered",
+      "meaning_bn": "তোমাদেরকে সমবেত করা হবে",
+      "why_en": "Reminds believers of the Day when all will stand before Allah for judgment."
+    }
+  ],
+  "lesson_en": "Use private talks for good. Plan acts of kindness and obedience to Allah.",
+  "lesson_bn": "নিজের একান্ত বৈঠকগুলোকে মানুষের উপকার, দানশীলতা ও আল্লাহর আনুগত্যে কাজে লাগান।",
+  "real_life_en": "A few friends meet in a room. Instead of gossiping about neighbours, they plan how to pay school fees for an orphan. Their quiet meeting brings blessings because it focuses on helping someone in need.",
+  "real_life_bn": "কয়েকজন বন্ধু একান্তে বসে আড্ডা দিচ্ছিল। পরনিন্দা বা কুৎসা না রটিয়ে তারা আলোচনা করে কীভাবে একজন দরিদ্র সহপাঠীর পড়ালেখার খরচ জোগাড় করা যায়। তাদের এই গোপন আলোচনা এক মহা কল্যাণের উসিলা হয়ে ওঠে কারণ তা ছিল সৎকাজের জন্য।",
+  "themes": [
+    "ethics",
+    "unity",
+    "brotherhood",
+    "taqwa",
+    "the believers' qualities"
+  ],
+  "kinds": [
+    "command",
+    "prohibition",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are forbidden from holding secret consultations about sin, enmity, or disobedience to the Messenger.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Believers are commanded to consult on righteousness, piety, and fear of Allah before whom they will be gathered.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

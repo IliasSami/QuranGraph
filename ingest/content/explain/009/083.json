@@ -1,0 +1,75 @@
+{
+  "id": "9:83",
+  "simple_en": "Allah may bring you back to some of them. If they ask to march out with you, say: You will never go with me. You will never fight an enemy by my side. You chose to sit at home the first time, so stay with those who sit behind.",
+  "simple_bn": "আল্লাহ যদি আপনাকে তাদের কোনো দলের কাছে ফিরিয়ে আনেন, আর তারা আপনার সাথে অভিযানে বের হওয়ার অনুমতি চায়, তবে আপনি তাদের মুখের ওপর না বলে দিন। বলুন: তোমরা কখনই আমার সাথে বের হতে পারবে না এবং কোনো শত্রুর বিরুদ্ধে লড়াই করতে পারবে না। তোমরা তো প্রথমবার ঘরে বসে থাকাই পছন্দ করেছিলে; সুতরাং এখনও ঘরে বসে থাকাদের সাথেই বসে থাকো।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "أذن",
+      "lemma": "اسْتَأْذَنَ",
+      "meaning_en": "they ask your permission",
+      "meaning_bn": "তারা আপনার অনুমতি চাইল",
+      "why_en": "Opportunistic requests to gain war booty without true faith."
+    },
+    {
+      "pos": 15,
+      "root": "قتل",
+      "lemma": "قاتَلَ",
+      "meaning_en": "you will fight",
+      "meaning_bn": "তোমরা যুদ্ধ করবে",
+      "why_en": "Barring untrustworthy defectors from future critical missions."
+    },
+    {
+      "pos": 20,
+      "root": "قعد",
+      "lemma": "قُعُود",
+      "meaning_en": "sitting back",
+      "meaning_bn": "বসে থাকা",
+      "why_en": "Their initial choice to abandon their moral duty."
+    }
+  ],
+  "lesson_en": "Those who run from duty lose the trust of their people.",
+  "lesson_bn": "বিশ্বাসঘাতকতা ও কাপুরুষতা মানুষকে সম্মানের দায়িত্ব ও নেতৃত্ব থেকে বঞ্চিত করে।",
+  "real_life_en": "If a coworker quits when work gets hard, do not give them big tasks later. Reliable friends prove their worth through action.",
+  "real_life_bn": "গুরুত্বপূর্ণ সময়ে যে সহযোগী দায়িত্ব ফেলে পালিয়ে যায়, তাকে পরে বড় কোনো দায়িত্ব দেবেন না; নির্ভরযোগ্যতা কাজের মাধ্যমেই প্রমাণ করতে হয়।",
+  "themes": [
+    "loss of trust",
+    "consequences of desertion",
+    "firm boundaries"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites who abandoned Tabuk were banned as a disciplinary measure from joining future military expeditions with the Prophet.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

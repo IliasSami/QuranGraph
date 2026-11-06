@@ -1,0 +1,101 @@
+{
+ "id": "4:11",
+ "simple_en": "Allah commands you regarding the inheritance of your children and parents. When sons and daughters inherit together, a son receives the share of two daughters. If there are only daughters and they are two or more, they receive two-thirds, while an only daughter receives half. Each parent receives a sixth if the deceased leaves children. If there are no children, the mother receives a third, or a sixth if there are siblings. All shares are distributed after debts are paid and valid wills are fulfilled. Allah knows best who brings you true benefit, and He is All-Knowing and All-Wise.",
+ "simple_bn": "আল্লাহ তোমাদের সন্তান ও পিতামাতার উত্তরাধিকার নিয়ে সুস্পষ্ট বিধান দিচ্ছেন। ছেলে ও মেয়ে একসাথে থাকলে একজন ছেলের অংশ দুইজন মেয়ের অংশের সমান। কেবল দুই বা ততোধিক মেয়ে থাকলে তারা মোট সম্পদের তিন ভাগের দুই ভাগ পাবে, আর একজন মাত্র মেয়ে হলে সে অর্ধেক পাবে। মৃত ব্যক্তির সন্তান থাকলে পিতামাতার প্রত্যেকে ছয় ভাগের এক ভাগ পাবে। সন্তান না থাকলে মা পাবে তিন ভাগের এক ভাগ, আর ভাইবোন থাকলে মা পাবে ছয় ভাগের এক ভাগ। এই বণ্টন হবে সকল ঋণ পরিশোধ ও অসিয়ত পূরণের পর। তোমাদের পিতা বা সন্তানের মধ্যে কে বেশি উপকারে আসবে তা তোমরা জানো না, তাই আল্লাহই এই বিধান নির্ধারণ করেছেন। নিশ্চয় আল্লাহ সর্বজ্ঞ ও পরম প্রজ্ঞাময়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "وصي",
+   "lemma": "أَوْصا",
+   "meaning_en": "a bequest (will)",
+   "meaning_bn": "অসিয়ত",
+   "why_en": "A voluntary bequest made before death, limited to one-third of the estate and executed after debts."
+  },
+  {
+   "pos": 55,
+   "root": "دين",
+   "lemma": "دَيْن",
+   "meaning_en": "debt",
+   "meaning_bn": "ঋণ বা দেনা",
+   "why_en": "The deceased person's debts must be settled in full before any inheritance or bequest is distributed."
+  },
+  {
+   "pos": 64,
+   "root": "فرض",
+   "lemma": "فَرِيضَة",
+   "meaning_en": "an ordained duty",
+   "meaning_bn": "বাধ্যতামূলক বিধান",
+   "why_en": "The inheritance proportions are commanded directly by Allah, leaving no room for human bias."
+  },
+  {
+   "pos": 70,
+   "root": "علم",
+   "lemma": "عَلِيم",
+   "meaning_en": "All-Knowing",
+   "meaning_bn": "সর্বজ্ঞ",
+   "why_en": "Allah knows who truly benefits us among our parents and children and divides wealth with complete knowledge."
+  }
+ ],
+ "lesson_en": "Pay off all debts first, and follow Allah's precise shares for children and parents without bias.",
+ "lesson_bn": "উত্তরাধিকার বণ্টনের আগে মৃতের সকল ঋণ শোধ করুন এবং আল্লাহর নির্ধারিত নীতি অনুযায়ী পক্ষপাতহীনভাবে বণ্টন করুন।",
+ "real_life_en": "Draft your will according to Islamic rules. Do not favor one child over another based on emotion. Allah knows best who brings you true benefit, so follow His commands.",
+ "real_life_bn": "পরিবারের কেউ মারা গেলে প্রথমে তার কাফন-দাফন ও সকল দেনা-পাওনা শোধ করুন। বৈধ অসিয়ত থাকলে তা সর্বোচ্চ এক-তৃতীয়াংশ পর্যন্ত পূরণ করুন। এরপর ইসলামি নিয়ম অনুযায়ী ছেলে, মেয়ে ও পিতামাতার মাঝে অংশ বণ্টন করুন এবং ব্যক্তিগত পছন্দ-অপছন্দের ভিত্তিতে কারো অধিকার পরিবর্তন করবেন না।",
+ "themes": [
+  "wealth",
+  "family",
+  "parents",
+  "justice",
+  "law",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Alim",
+   "Al-Hakim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah decrees inheritance shares: a male child receives twice the share of a female; two or more daughters receive two-thirds; one daughter receives half.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Each parent receives a sixth if the deceased leaves children; if childless, the mother receives a third (or a sixth if there are multiple siblings).",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "All distribution occurs only after settling debts and fulfilling valid bequests, established by the All-Knowing, All-Wise Creator.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

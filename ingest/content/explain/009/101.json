@@ -1,0 +1,78 @@
+{
+  "id": "9:101",
+  "simple_en": "Among the desert Arabs around you, and among the people of Medina, there are hypocrites who have grown obstinate in their deceit. You do not know them, but We know them. We will punish them twice, then they will be returned to a tremendous punishment.",
+  "simple_bn": "তোমাদের চারপাশের বেদুইনদের মধ্যে এবং মদীনাবাসীদের মধ্যেও কিছু মুনাফিক রয়েছে, যারা কপটতায় সিদ্ধহস্ত। আপনি তাদের চেনেন না, আমরা তাদের চিনি। আমরা তাদের দুইবার শাস্তি দেব; তারপর তাদের মহা শাস্তির দিকে ফিরিয়ে নেওয়া হবে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نفق",
+      "lemma": "مُنافِق",
+      "meaning_en": "hypocrites",
+      "meaning_bn": "মুনাফিকগণ",
+      "why_en": "People living in proximity who concealed disbelief."
+    },
+    {
+      "pos": 9,
+      "root": "مرد",
+      "lemma": "مَرَدُ",
+      "meaning_en": "persisted / grew obstinate",
+      "meaning_bn": "অনমনীয় হলো / বাড়াবাড়ি করল",
+      "why_en": "Deeply ingrained habit of duplicity."
+    },
+    {
+      "pos": 17,
+      "root": "مرر",
+      "lemma": "مَرَّة",
+      "meaning_en": "twice",
+      "meaning_bn": "দুইবার",
+      "why_en": "Suffering worldly disgrace and torment in the grave before Hell."
+    }
+  ],
+  "lesson_en": "Hypocrisy hidden from human eyes is fully known to God.",
+  "lesson_bn": "মানুষের চোখ ফাঁকি দিয়ে কপটতা করা সম্ভব হলেও আল্লাহর দৃষ্টি থেকে কোনো কিছুই গোপন থাকে না।",
+  "real_life_en": "Do not pretend to be loyal when you secretly work against your colleagues. Hidden malice damages your own character and will be exposed.",
+  "real_life_bn": "সহকর্মীদের সাথে মুখে বন্ধুত্ব রেখে গোপনে শত্রুতা করবেন না; মনের কপটতা মানুষের নিজের চরিত্রকেই ধ্বংস করে।",
+  "themes": [
+    "hidden hypocrisy",
+    "divine knowledge",
+    "double punishment"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "Bedouins",
+      "hypocrites"
+    ],
+    "places": [
+      "Medina"
+    ],
+    "unseen": [
+      "torment of the grave",
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Some hypocrites in Medina and surrounding deserts were adept at concealment, but Allah knows them and decreed multiple punishments.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

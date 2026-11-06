@@ -1,0 +1,76 @@
+{
+  "id": "10:84",
+  "simple_en": "Moses said: O my people, if you have faith in God, put your trust in Him. Rely on Him if you have surrendered to His will.",
+  "simple_bn": "আর মূসা বললেন: হে আমার সম্প্রদায়, যদি তোমরা আল্লাহর ওপর ঈমান এনে থাক, তবে তাঁরই ওপর ভরসা কর, যদি তোমরা সত্যিই আত্মসমর্পণকারী হয়ে থাক।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "you believed",
+      "meaning_bn": "তোমরা ঈমান এনেছ",
+      "why_en": "Inner conviction in divine truth and promises."
+    },
+    {
+      "pos": 9,
+      "root": "وكل",
+      "lemma": "تَوَكَّلَ",
+      "meaning_en": "put your trust",
+      "meaning_bn": "তোমরা ভরসা কর",
+      "why_en": "Placing full reliance on God during mortal danger."
+    },
+    {
+      "pos": 12,
+      "root": "سلم",
+      "lemma": "مُسْلِم",
+      "meaning_en": "submitted / Muslims",
+      "meaning_bn": "আত্মসমর্পণকারী",
+      "why_en": "Demonstrating true faith through voluntary submission."
+    }
+  ],
+  "lesson_en": "True faith shows itself through reliance on God when trials and dangers surround you.",
+  "lesson_bn": "বিপদের সময় আল্লাহর ওপর অবিচল ভরসাই খাঁটি ঈমানের সবচেয়ে বড় প্রমাণ।",
+  "real_life_en": "When life feels threatening or uncertain, pair sensible action with deep trust in God. Let your reliance on Him drive out crippling worry.",
+  "real_life_bn": "কঠিন পরিস্থিতিতে নিজের সাধ্যমতো চেষ্টা করুন এবং ফলাফলের জন্য একমাত্র আল্লাহর ওপর ভরসা রাখুন।",
+  "themes": [
+    "trust in God (tawakkul)",
+    "true submission",
+    "facing danger with faith"
+  ],
+  "kinds": [
+    "command",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Musa (Moses)"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Moses commanded the Israelites to ground their faith in complete reliance upon Allah during oppression.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

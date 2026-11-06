@@ -1,0 +1,59 @@
+{
+  "id": "55:8",
+  "simple_en": "Allah placed the balance so that people do not cross moral boundaries. You must never cheat in trade or violate the rights of others. Practicing justice protects society from greed and oppression.",
+  "simple_bn": "আল্লাহ ন্যায়বিচারের দাঁড়িপাল্লা স্থাপন করেছেন যাতে মানুষ নৈতিক সীমা লঙ্ঘন না করে। ব্যবসায় কখনো ফাঁকি দেবেন না এবং অন্যের অধিকার নষ্ট করবেন না। ন্যায়বিচার চর্চা সমাজকে লোভ ও অত্যাচার থেকে রক্ষা করে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "طغي",
+      "lemma": "طَغَى",
+      "meaning_en": "you transgress / exceed bounds",
+      "meaning_bn": "তোমরা সীমালঙ্ঘন কর",
+      "why_en": "Warning against crossing the limits of fairness and honesty."
+    },
+    {
+      "pos": 4,
+      "root": "وزن",
+      "lemma": "مِيزان",
+      "meaning_en": "the balance / scale",
+      "meaning_bn": "দাঁড়িপাল্লা / মানদণ্ড",
+      "why_en": "The standard of honest measurement and equity."
+    }
+  ],
+  "lesson_en": "Never take more than your fair share or deprive someone else of their rightful due.",
+  "lesson_bn": "কখনো নিজের প্রাপ্য থেকে বেশি নেবেন না এবং কাউকে তার অধিকার থেকে বঞ্চিত করবেন না।",
+  "real_life_en": "When selling an item online or sharing group work in class, represent your work truthfully. Do not take credit for tasks done by others or hide defects in items you sell.",
+  "real_life_bn": "কোনো পণ্য বিক্রি করার সময় বা ক্লাসের যৌথ কাজে নিজের ভূমিকা সৎভাবে তুলে ধরুন। অন্যের কাজের কৃতিত্ব নিজে নেবেন না এবং পণ্যের কোনো দোষ গোপন করবেন না।",
+  "themes": [
+    "justice",
+    "honesty",
+    "ethics"
+  ],
+  "kinds": [
+    "command",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah established justice so that people do not act unjustly in the balance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

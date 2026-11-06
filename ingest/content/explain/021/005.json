@@ -1,0 +1,64 @@
+{
+  "id": "21:5",
+  "simple_en": "They made confused claims about the message. They called it muddled dreams or poetry, and asked for miraculous signs like those given to prophets of the past.",
+  "simple_bn": "তারা বাণীটি নিয়ে বিভ্রান্তিকর দাবি করল। তারা একে অসংলগ্ন স্বপ্ন বা কবিতা বলে আখ্যা দিল এবং অতীতের নবীদের মতো অলৌকিক নিদর্শন দেখতে চাইল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حلم",
+      "lemma": "حُلُم",
+      "meaning_en": "dreams",
+      "meaning_bn": "স্বপ্নসমূহ",
+      "why_en": "Dismissing revelation as confused nocturnal visions."
+    },
+    {
+      "pos": 9,
+      "root": "شعر",
+      "lemma": "شاعِر",
+      "meaning_en": "a poet",
+      "meaning_bn": "কবি",
+      "why_en": "Baseless accusation labeling prophetic revelation as human verse."
+    }
+  ],
+  "lesson_en": "Doubt makes people invent excuses. When someone rejects truth, no proof will satisfy them.",
+  "lesson_bn": "সংশয় মানুষকে অজুহাত খুঁজতে বাধ্য করে। মন থেকে সত্য অস্বীকার করলে কোনো প্রমাণেই তৃপ্তি মেলে না।",
+  "real_life_en": "Focus on clear evidence and reason. Do not let shifting excuses prevent you from accepting honest advice.",
+  "real_life_bn": "স্পষ্ট প্রমাণ ও যুক্তির ওপর নির্ভর করুন। সত্য কথা গ্রহণ করার ক্ষেত্রে অজুহাত তৈরি করবেন না।",
+  "themes": [
+    "accusations",
+    "miracles",
+    "prophethood",
+    "skepticism"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Disbelievers inconsistently labeled the Quran as dreams, lies, or poetry, while demanding miraculous physical signs.",
+      "claim_bn": "কাফিররা বিরোধিতার বশে কুরআনকে কখনো স্বপ্ন, মিথ্যা বা কবিতা বলে দাবি করত এবং অলৌকিক চিহ্নের দাবি জানাত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

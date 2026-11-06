@@ -1,0 +1,63 @@
+{
+  "id": "21:2",
+  "simple_en": "Whenever a fresh reminder from their Lord comes to them, they listen to it in play. They make fun of the sacred message instead of taking it to heart.",
+  "simple_bn": "যখনই তাদের প্রতিপালকের পক্ষ থেকে কোনো নতুন উপদেশ আসে, তখনই তারা তা খেল-তামাশার ছলে শোনে। তারা এর মহৎ বাণী অন্তরে ধারণ করে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "reminder",
+      "meaning_bn": "উপদেশ বা স্মারক",
+      "why_en": "Divine revelation intended to awaken human conscience."
+    },
+    {
+      "pos": 11,
+      "root": "لعب",
+      "lemma": "يَلْعَبْ",
+      "meaning_en": "they play",
+      "meaning_bn": "তারা খেলাধুলা করে",
+      "why_en": "Treating solemn truth with flippant mock."
+    }
+  ],
+  "lesson_en": "Listen to God's words with deep focus. Never treat sacred guidance as entertainment.",
+  "lesson_bn": "আল্লাহর বাণী গভীর মনোযোগের সাথে শুনুন। ধর্মীয় শিক্ষাকে কখনো তামাশার বিষয় বানাবেন না।",
+  "real_life_en": "When you hear the Quran recited, listen with quiet respect. Reflect on its guidance rather than getting distracted.",
+  "real_life_bn": "কুরআন তিলাওয়াত শুনলে শান্তভাবে মনোনিবেশ করুন। মনোযোগ নষ্ট না করে এর অর্থ নিয়ে গভীরভাবে ভাবুন।",
+  "themes": [
+    "revelation",
+    "mockery",
+    "heedlessness"
+  ],
+  "kinds": [
+    "warning",
+    "address"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Disbelievers listen to newly revealed verses flippantly, turning divine reminders into amusement.",
+      "claim_bn": "অবিশ্বাসীরা অবতীর্ণ আয়াতগুলোকে গুরুত্ব না দিয়ে খেল-তামাশার ছলে শুনে উপহাস করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

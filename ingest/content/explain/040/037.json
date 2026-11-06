@@ -1,0 +1,88 @@
+{
+  "id": "40:37",
+  "simple_en": "Pharaoh claimed he wanted to see the God of Musa, though he was sure Musa was a liar. In this foolish way, Pharaoh's evil deed was made pleasing to him, and he was blocked from the straight path. All his plots ended in utter ruin.",
+  "simple_bn": "সে বলল, যাতে আমি আসমানের দ্বারে পৌঁছে মূসার উপাস্যকে দেখতে পারি, যদিও আমি মনে করি সে একজন মিথ্যাবাদী। এভাবেই ফিরআউনের মন্দ কাজ তার কাছে সুন্দর করে দেখানো হয়েছিল এবং সে সঠিক পথ থেকে বাধাগ্রস্ত হয়েছিল। আর ফিরআউনের সমস্ত ষড়যন্ত্র কেবল ধ্বংসেই পর্যবসিত হয়েছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سمو",
+      "lemma": "سَماء",
+      "meaning_en": "the heavens",
+      "meaning_bn": "আসমানসমূহ",
+      "why_en": "The skies that Pharaoh foolishly claimed he could ascend to."
+    },
+    {
+      "pos": 5,
+      "root": "أله",
+      "lemma": "إِلٰه",
+      "meaning_en": "God / deity",
+      "meaning_bn": "উপাস্য",
+      "why_en": "Pharaoh's insolent mockery regarding the Creator of the heavens and earth."
+    },
+    {
+      "pos": 6,
+      "root": null,
+      "lemma": "مُوسَى",
+      "meaning_en": "Musa",
+      "meaning_bn": "মূসা",
+      "why_en": "The truthful prophet whose message Pharaoh ridiculed."
+    },
+    {
+      "pos": 11,
+      "root": "زين",
+      "lemma": "زَيَّنَ",
+      "meaning_en": "was made pleasing",
+      "meaning_bn": "শোভনীয় করা হয়েছিল",
+      "why_en": "The tragic delusion where an evildoer falls in love with his own sins."
+    },
+    {
+      "pos": 23,
+      "root": "تبب",
+      "lemma": "تَباب",
+      "meaning_en": "ruin / loss",
+      "meaning_bn": "ক্ষতি বা ধ্বংস",
+      "why_en": "The unavoidable failure and destruction of arrogant plots."
+    }
+  ],
+  "lesson_en": "Evil deeds seem attractive to a mind blinded by self-worship and pride.",
+  "lesson_bn": "অহংকারে অন্ধ ব্যক্তির কাছে নিজের অন্যায় কাজও চমৎকার মনে হয়।",
+  "real_life_en": "Guard against justifying bad actions to yourself. Check your choices against truth and ask trusted friends for honest feedback.",
+  "real_life_bn": "নিজের ভুল কাজকে সঠিক বলে প্রমাণ করার চেষ্টা করবেন না। বিশ্বস্ত শুভাকাঙ্ক্ষীদের মতামত নিয়ে নিজেকে সংশোধন করুন।",
+  "themes": [
+    "arrogance",
+    "misguidance",
+    "stories of the prophets"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "pharaoh",
+      "musa"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh sought to reach Musa's God while declaring Musa a liar; his evil deed was adorned for him and his scheme ruined.",
+      "claim_bn": "ফিরআউন মূসার রবকে দেখার মিথ্যা দাবি করেছিল; তার পাপ তার চোখে শোভনীয় করা হয়েছিল এবং তার চক্রান্ত ধ্বংস হয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

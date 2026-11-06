@@ -1,0 +1,81 @@
+{
+  "id": "49:11",
+  "simple_en": "Allah forbids believers from mocking one another. A group of men should not ridicule other men, nor should women mock other women. The one being mocked may be far better in the sight of Allah. Do not find fault in one another, and do not call each other hurtful nicknames. Calling people bad names after accepting faith is wicked. Whoever does not repent of these sins is doing great wrong.",
+  "simple_bn": "আল্লাহ মুমিনদের একে অপরকে নিয়ে উপহাস করতে নিষেধ করেছেন। কোনো পুরুষ যেন অন্য পুরুষকে নিয়ে এবং কোনো নারী যেন অন্য নারীকে নিয়ে উপহাস না করে। হতে পারে যাকে উপহাস করা হচ্ছে সে আল্লাহর কাছে উপহাসকারীর চেয়ে অনেক উত্তম। তোমরা একে অপরকে দোষারোপ করো না এবং মন্দ নামে ডেকো না। ঈমান আনার পর কাউকে মন্দ নামে ডাকা জঘন্য পাপ। যারা এমন কাজ থেকে তওবা করে না, তারাই প্রকৃত জালেম।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "سخر",
+      "lemma": "سَخِرَ",
+      "meaning_en": "ridicule / mock",
+      "meaning_bn": "উপহাস করা",
+      "why_en": "It strictly forbids mocking others based on appearance or status."
+    },
+    {
+      "pos": 24,
+      "root": "لمز",
+      "lemma": "يَلْمِزُ",
+      "meaning_en": "defame / insult",
+      "meaning_bn": "দোষারোপ করা বা কটাক্ষ করা",
+      "why_en": "It bans pointing out faults to demean another believer."
+    },
+    {
+      "pos": 27,
+      "root": "نبز",
+      "lemma": "تَنابَزُ",
+      "meaning_en": "call each other by offensive names",
+      "meaning_bn": "মন্দ নামে ডাকা",
+      "why_en": "It prohibits using insulting or hurtful nicknames."
+    },
+    {
+      "pos": 39,
+      "root": "ظلم",
+      "lemma": "ظالِم",
+      "meaning_en": "the wrongdoers",
+      "meaning_bn": "জালেমগণ",
+      "why_en": "It warns that unrepented cruelty harms one's own soul."
+    }
+  ],
+  "lesson_en": "Do not mock people or call them bad names, for it hurts unity.",
+  "lesson_bn": "অন্যকে উপহাস করা এবং খারাপ নামে ডাকা গুরুতর পাপ যা সমাজের ঐক্য ধ্বংস করে।",
+  "real_life_en": "Never tease someone about their clothes or voice. Call people by names they like, and treat everyone with kindness.",
+  "real_life_bn": "কারো গায়ের রং, পোশাক বা উচ্চারণ নিয়ে কখনো ঠাট্টা করবেন না। মানুষকে সুন্দর নামে ডাকুন এবং সবার সাথে সম্মানজনক আচরণ করুন।",
+  "themes": [
+    "good character",
+    "brotherhood",
+    "justice",
+    "repentance"
+  ],
+  "kinds": [
+    "prohibition",
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers are prohibited from mocking one another, defaming people, or using offensive nicknames, and failing to repent is oppression.",
+      "claim_bn": "মুমিনদের একে অপরকে উপহাস করতে, দোষারোপ করতে বা খারাপ নামে ডাকতে নিষেধ করা হয়েছে, আর তওবা না করা জুলুমের শামিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

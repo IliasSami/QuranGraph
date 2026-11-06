@@ -1,0 +1,72 @@
+{
+ "id": "47:1",
+ "simple_en": "This verse speaks about those who deny Allah and block people from His path. They turn their backs on the truth and mislead others. Because they reject faith, Allah causes all their good deeds to go to waste. In the end, they will have no reward in the Hereafter.",
+ "simple_bn": "এই আয়াতে তাদের কথা বলা হয়েছে যারা আল্লাহকে অস্বীকার করে এবং মানুষকে তাঁর পথ থেকে দূরে রাখে। তারা সত্যের দিক থেকে মুখ ফিরিয়ে নেয় এবং অন্যদের ভুল পথে পরিচালিত করে। অবিশ্বাসের কারণে মহান আল্লাহ তাদের সব ভালো কাজ নিষ্ফল করে দেন। পরকালে তারা এর কোনো প্রতিদান পাবে না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "كفر",
+   "lemma": "كَفَرَ",
+   "meaning_en": "they disbelieved",
+   "meaning_bn": "তারা কুফরী করেছে",
+   "why_en": "It points out the core rejection of truth that ruins deeds."
+  },
+  {
+   "pos": 3,
+   "root": "صدد",
+   "lemma": "صَدَّ",
+   "meaning_en": "they turned away / averted",
+   "meaning_bn": "তারা নিবৃত্ত করেছে",
+   "why_en": "It shows how disbelievers also actively stopped others from guidance."
+  },
+  {
+   "pos": 7,
+   "root": "ضلل",
+   "lemma": "أَضَلَّ",
+   "meaning_en": "He made lost / void",
+   "meaning_bn": "তিনি ব্যর্থ করে দিয়েছেন",
+   "why_en": "Allah strips away the reward of deeds done without faith."
+  }
+ ],
+ "lesson_en": "Good deeds have no true value without faith in Allah.",
+ "lesson_bn": "আল্লাহর প্রতি ঈমান ছাড়া সৎকাজের কোনো চিরস্থায়ী প্রতিদান থাকে না।",
+ "real_life_en": "When you do a kind act, check your intention first. Help others only to please Allah, not to win human praise or personal gain.",
+ "real_life_bn": "কাউকে সাহায্য করার সময় নিজের নিয়ত ঠিক রাখুন। মানুষের প্রশংসা পাওয়ার জন্য নয়, কেবল আল্লাহর সন্তুষ্টির জন্যই ভালো কাজ করুন।",
+ "themes": [
+  "disbelief",
+  "faith",
+  "the Last Day",
+  "guidance"
+ ],
+ "kinds": [
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah makes worthless the deeds of those who reject faith and prevent people from following His path.",
+   "claim_bn": "যারা কুফরী করে এবং মানুষকে আল্লাহর পথ থেকে দূরে রাখে, আল্লাহ তাদের কাজগুলো বিনষ্ট করে দেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

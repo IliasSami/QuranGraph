@@ -1,0 +1,84 @@
+{
+ "id": "5:30",
+ "simple_en": "Cain allowed his inner desires to blind him. His soul made the terrible crime of killing his brother seem easy. He gave in to his envy and killed him. By doing this evil deed, he lost his peace in this life and earned ruin in the next.",
+ "simple_bn": "কাবীলের অন্তরের কুপ্রবৃত্তি তাকে অন্ধ করে দিল। তার নফস নিজের ভাইকে হত্যা করার মতো জঘন্য কাজকেও তার সামনে সহজ করে দেখাল। সে হিংসার বশে ভাইকে হত্যা করল। এর মাধ্যমে সে দুনিয়া ও আখিরাতে চরম ক্ষতিগ্রস্তদের অন্তর্ভুক্ত হয়ে পড়ল।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "طوع",
+   "lemma": "طَوَّعَتْ",
+   "meaning_en": "prompted / facilitated",
+   "meaning_bn": "সহজ করে দিল",
+   "why_en": "Shows how an uncontrolled soul makes a monstrous sin seem easy."
+  },
+  {
+   "pos": 4,
+   "root": "قتل",
+   "lemma": "قَتْل",
+   "meaning_en": "murder",
+   "meaning_bn": "হত্যা",
+   "why_en": "The horrifying act of fratricide, the first murder in human history."
+  },
+  {
+   "pos": 9,
+   "root": "خسر",
+   "lemma": "خاسِر",
+   "meaning_en": "the losers",
+   "meaning_bn": "ক্ষতিগ্রস্তরা",
+   "why_en": "The ultimate loss of peace, faith, and salvation that follows crime."
+  }
+ ],
+ "lesson_en": "Control your anger and jealousy. Envy destroys peace and ruins lives.",
+ "lesson_bn": "ক্রোধ ও হিংসা নিয়ন্ত্রণ করুন। হিংসা অন্তরের শান্তি নষ্ট করে এবং জীবন ধ্বংস করে।",
+ "real_life_en": "A young person feels bitter jealousy when their sibling receives an award. If they let that jealousy grow, it can destroy their family bond. They must silence that toxic voice and pray for their sibling's success instead.",
+ "real_life_bn": "ভাইয়ের সাফল্যে হিংসা অনুভব করে এক ব্যক্তি তার ক্ষতি করার কথা ভাবে। কিন্তু সে সময়মতো নিজেকে সংযত করে। সে বুঝতে পারে, অন্তরের হিংসাকে প্রশ্রয় দিলে কেবল নিজেরই ক্ষতি হবে এবং সম্পর্ক ভেঙে যাবে।",
+ "context_en": "Describes the tragic moment Cain gave in to his soul's evil urge and committed the first murder.",
+ "context_bn": "কুপ্রবৃত্তির তাড়নায় কাবীলের দ্বারা প্রথম মানবহত্যার মতো মর্মান্তিক অপরাধ সংঘটিত হওয়ার বিবরণ।",
+ "themes": [
+  "human nature",
+  "sin",
+  "trials",
+  "stories of the prophets",
+  "warning"
+ ],
+ "kinds": [
+  "story",
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Cain",
+   "Abel"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Cain's evil-prompting soul persuaded him to murder his brother Abel, and he killed him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "By committing this murder, Cain became one of the ultimate losers in this world and the Hereafter.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

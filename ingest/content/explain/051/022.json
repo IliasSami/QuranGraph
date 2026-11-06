@@ -1,0 +1,67 @@
+{
+  "id": "51:22",
+  "simple_en": "In the heaven above is your provision and all that you have been promised. Rain descends from the sky to grow food for humanity and beasts. Your sustenance and final reward are all safe with God.",
+  "simple_bn": "আকাশে রয়েছে তোমাদের জীবিকার উৎস এবং প্রতিশ্রুত সকল বিষয়। আসমান থেকে বৃষ্টি বর্ষিত হয়ে মানুষের খাদ্যের সংস্থান করে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سمو",
+      "lemma": "سَماء",
+      "meaning_en": "the heaven or sky",
+      "meaning_bn": "আসমান",
+      "why_en": "The heavenly source of rain, light, and divine decrees."
+    },
+    {
+      "pos": 3,
+      "root": "رزق",
+      "lemma": "رِزْق",
+      "meaning_en": "your provision",
+      "meaning_bn": "তোমাদের জীবিকা বা রিযিক",
+      "why_en": "All worldly and spiritual sustenance provided by God."
+    },
+    {
+      "pos": 5,
+      "root": "وعد",
+      "lemma": "وَعَدَ",
+      "meaning_en": "you are promised",
+      "meaning_bn": "তোমাদেরকে ওয়াদা করা হয়েছে",
+      "why_en": "The promised rewards and ultimate recompense in the Hereafter."
+    }
+  ],
+  "lesson_en": "All provision comes from God, so place your trust in Him alone.",
+  "lesson_bn": "সকল রিযিকের চাবিকাঠি একমাত্র আল্লাহর হাতে, তাই তাঁর ওপরই পূর্ণ ভরসা রাখা উচিত।",
+  "real_life_en": "When money feels tight, avoid panic and turn to prayer. Work with sincerity and trust that your basic needs are in the hands of God.",
+  "real_life_bn": "জীবিকার টানাটানি হলে হতাশ হবেন না। আল্লাহর ওপর ভরসা রেখে সততার সাথে চেষ্টা চালিয়ে যান এবং হালাল উপার্জনে সন্তুষ্ট থাকুন।",
+  "themes": [
+    "trust in Allah",
+    "creation",
+    "reward"
+  ],
+  "kinds": [
+    "belief",
+    "creation",
+    "promise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "In the heavens is worldly and religious provision, along with the promised rewards of the afterlife.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

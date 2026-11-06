@@ -1,0 +1,72 @@
+{
+  "id": "10:48",
+  "simple_en": "And they say mockingly: When will this promised judgment happen, if what you say is true? Their arrogant demand shows their refusal to take the warning seriously.",
+  "simple_bn": "আর তারা ব্যঙ্গ করে বলে: এই প্রতিশ্রুত শাস্তি কখন আসবে, যদি তোমরা সত্যবাদী হও?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "they say",
+      "meaning_bn": "তারা বলে",
+      "why_en": "Skeptical questioning aimed at mocking prophetic warnings."
+    },
+    {
+      "pos": 4,
+      "root": "وعد",
+      "lemma": "وَعْد",
+      "meaning_en": "promise / warned event",
+      "meaning_bn": "প্রতিশ্রুতি / প্রতিশ্রুত শাস্তি",
+      "why_en": "The Day of Judgment and threatened retribution."
+    },
+    {
+      "pos": 7,
+      "root": "صدق",
+      "lemma": "صادِق",
+      "meaning_en": "truthful",
+      "meaning_bn": "সত্যবাদী",
+      "why_en": "Challenging the honesty and truthfulness of believers."
+    }
+  ],
+  "lesson_en": "Mocking solemn truths and demanding sudden proofs only harms the person who doubts.",
+  "lesson_bn": "সত্যের বাণীকে উপহাস করে দ্রুত পরিণতি দাবি করা অহংকারী মনের লক্ষণ।",
+  "real_life_en": "Do not treat serious life warnings with sarcasm. Prepare for your future rather than demanding instant proof of things you cannot foresee.",
+  "real_life_bn": "উপদেশকে তাচ্ছিল্য না করে জীবনের আসল লক্ষ্যের প্রস্তুতি নিন, কারণ সতর্কবার্তা অবহেলা করলে ক্ষতি নিজেরই হয়।",
+  "themes": [
+    "mockery of judgment",
+    "skepticism",
+    "impatience of deniers"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "disbelievers"
+    ],
+    "places": [],
+    "unseen": [
+      "Day of Judgment"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers challenged the timing of divine judgment out of obstinate skepticism rather than genuine inquiry.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

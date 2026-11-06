@@ -1,0 +1,67 @@
+{
+  "id": "18:72",
+  "simple_en": "The wise teacher said to Moses, \"Did I not tell you before? You will never be able to stay patient with me and my actions.\"",
+  "simple_bn": "তিনি বললেন, আমি কি আগেই আপনাকে বলিনি যে, আপনি আমার সঙ্গে কিছুতেই ধৈর্য ধারণ করতে পারবেন না?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "I say",
+      "meaning_bn": "আমি কি বলিনি",
+      "why_en": "Gentle reminder of the condition set for their companionship."
+    },
+    {
+      "pos": 8,
+      "root": "صبر",
+      "lemma": "صَبْر",
+      "meaning_en": "patience",
+      "meaning_bn": "ধৈর্য",
+      "why_en": "Reiterating the rarity of patience with unseen wisdom."
+    }
+  ],
+  "lesson_en": "Gentle reminders help people see their limits. Remembering past promises helps keep you on track.",
+  "lesson_bn": "নম্র স্মরণ করিয়ে দেওয়া মানুষকে নিজের দুর্বলতা বুঝতে সাহায্য করে। অঙ্গীকার মনে রাখলে আত্মনিয়ন্ত্রণ ফিরে আসে।",
+  "real_life_en": "Accept constructive feedback with grace when you break an agreement. Use reminders to renew your focus and patience.",
+  "real_life_bn": "কেউ আপনার ভুল ধরিয়ে দিলে বা প্রতিশ্রুতি মনে করিয়ে দিলে রাগ করবেন না। নিজেকে শুধরে নিয়ে শান্তভাবে এগিয়ে যান।",
+  "themes": [
+    "reminder-of-covenant",
+    "testing-patience",
+    "teacher-rebuke",
+    "human-haste"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "al-Khidr"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "First-Reminder"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Al-Khidr reminded Moses of his prior warning regarding his inability to endure his actions patiently.",
+      "claim_bn": "খিজির মূসা (আ.)-কে তাঁর পূর্ব সতর্কবার্তা মনে করিয়ে দিলেন যে তিনি ধৈর্য ধরতে পারবেন না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

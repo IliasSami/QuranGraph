@@ -1,0 +1,74 @@
+{
+  "id": "9:25",
+  "simple_en": "Allah already gave you victory in many battles and on the day of Hunayn. That day your great numbers made you proud, but numbers did not help you at all. The vast earth felt small, and you turned back in retreat.",
+  "simple_bn": "আল্লাহ তো বহু ক্ষেত্রে তোমাদের বিজয়ী করেছেন, বিশেষ করে হুনায়নের দিনে। তখন তোমাদের সংখ্যাধিক্য তোমাদের অহংকারী করেছিল, কিন্তু তা কাজে আসেনি; বরং প্রশস্ত পৃথিবী তোমাদের জন্য সংকীর্ণ হয়েছিল এবং তোমরা পিছু হটেছিলে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نصر",
+      "lemma": "نَصَرَ",
+      "meaning_en": "gave victory / helped",
+      "meaning_bn": "সাহায্য করেছেন / বিজয়ী করেছেন",
+      "why_en": "True triumph comes solely from divine support, not self-reliance."
+    },
+    {
+      "pos": 7,
+      "root": "يوم",
+      "lemma": "يَوْم",
+      "meaning_en": "day",
+      "meaning_bn": "দিবস / দিন",
+      "why_en": "The historic Battle of Hunayn testing the believers' humility."
+    },
+    {
+      "pos": 10,
+      "root": "عجب",
+      "lemma": "أَعْجَبَ",
+      "meaning_en": "pleased / impressed you",
+      "meaning_bn": "তোমাদের মুগ্ধ করেছিল",
+      "why_en": "Pride in large troop numbers clouding reliance on Allah."
+    }
+  ],
+  "lesson_en": "Victory comes from relying on Allah, not from mere numbers or pride.",
+  "lesson_bn": "সাফল্য সংখ্যাধিক্য বা বাহ্যিক শক্তিতে নয়, বরং আল্লাহর ওপর খাঁটি ভরসা ও বিনম্রতায় আসে।",
+  "real_life_en": "Never grow arrogant when your team has more resources than a competitor. Stay humble, prepare well, and trust in divine help.",
+  "real_life_bn": "দল ভারী বা সম্পদ বেশি দেখে কখনো অহংকার করবেন না; বরং বিনীত থেকে ভালোভাবে কাজ করুন এবং আল্লাহর সাহায্য চান।",
+  "themes": [
+    "Battle of Hunayn",
+    "humility",
+    "reliance on Allah"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Battle of Hunayn"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "At Hunayn, believers were initially overwhelmed when they relied on their superior numbers instead of divine help.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

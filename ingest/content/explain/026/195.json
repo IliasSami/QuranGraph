@@ -1,0 +1,63 @@
+{
+  "id": "26:195",
+  "simple_en": "God revealed this book in a clear Arabic tongue. Its words are plain, rich, and easy to understand for anyone who sincerely seeks the truth.",
+  "simple_bn": "আল্লাহ এই পবিত্র কিতাব স্পষ্ট ও প্রাঞ্জল আরবি ভাষায় অবতীর্ণ করেছেন। এর ভাষা অত্যন্ত পরিষ্কার ও সহজ যেন সত্যান্বেষী যে কেউ তা সহজে বুঝতে পারে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "arabic": "بِلِسَانٍ",
+      "root": "لسن",
+      "lemma": "لِسان",
+      "meaning_en": "in a tongue",
+      "meaning_bn": "ভাষায়",
+      "why_en": "The linguistic medium chosen for the revelation."
+    },
+    {
+      "pos": 2,
+      "arabic": "عَرَبِىٍّ",
+      "root": "عرب",
+      "lemma": "عَرَبِيّ",
+      "meaning_en": "Arabic",
+      "meaning_bn": "আরবি",
+      "why_en": "The Arabic language known for its clarity and expressiveness."
+    }
+  ],
+  "lesson_en": "Divine guidance is given in clear and accessible language so that truth is plain to all seekers.",
+  "lesson_bn": "ঐশী হেদায়েত সুস্পষ্ট ভাষায় দেওয়া হয়েছে যেন তা সর্বস্তরের মানুষের কাছে পরিষ্কারভাবে বোধগম্য হয়।",
+  "real_life_en": "Speak simple and clear words when you teach others. Plain speech helps people understand good values without confusion.",
+  "real_life_bn": "অন্যদের সাথে কথা বলার সময় সহজ ও স্পষ্ট ভাষা ব্যবহার করুন। জটিলতা পরিহার করলে কথা সহজে হৃদয়ে পৌঁছায়।",
+  "themes": [
+    "arabic",
+    "clarity",
+    "quran"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran was revealed in a clear Arabic language.",
+      "claim_bn": "আল্লাহ এই কুরআনকে সুস্পষ্ট ও প্রাঞ্জল আরবি ভাষায় অবতীর্ণ করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

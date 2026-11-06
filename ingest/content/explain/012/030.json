@@ -1,0 +1,92 @@
+{
+  "id": "12:30",
+  "simple_en": "Word spread through the city, and elite women began gossiping. They criticized the wife of the minister for trying to seduce her servant boy. They said that passionate desire had overwhelmed her heart, and she was in clear error.",
+  "simple_bn": "আর শহরের নারীরা বলাবলি করতে লাগল, আযীযের স্ত্রী তার দাসকে প্রলুব্ধ করার চেষ্টা করছে; তার প্রেম তার অন্তরে গভীরভাবে আসন গেড়েছে। আমরা তো তাকে স্পষ্ট ভ্রান্তির মধ্যেই দেখছি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نسو",
+      "lemma": "نِساء",
+      "meaning_en": "women",
+      "meaning_bn": "নারীরা",
+      "why_en": "The high-society women spreading gossip."
+    },
+    {
+      "pos": 4,
+      "root": "مدن",
+      "lemma": "مَدِينَة",
+      "meaning_en": "the city",
+      "meaning_bn": "শহর / নগর",
+      "why_en": "The urban capital of ancient Egypt."
+    },
+    {
+      "pos": 6,
+      "root": "عزز",
+      "lemma": "عَزِيز",
+      "meaning_en": "al-Aziz / the minister",
+      "meaning_bn": "আযীয / মন্ত্রী",
+      "why_en": "The high political title in the Egyptian court."
+    },
+    {
+      "pos": 12,
+      "root": "شغف",
+      "lemma": "شَغَفَ",
+      "meaning_en": "impassioned / pierced the heart",
+      "meaning_bn": "গভীরভাবে আসন গেড়েছে / মোহাচ্ছন্ন করেছে",
+      "why_en": "Overwhelming infatuation reaching the inner heart."
+    },
+    {
+      "pos": 17,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "error",
+      "meaning_bn": "ভ্রান্তি",
+      "why_en": "Public moral rebuke from peers."
+    }
+  ],
+  "lesson_en": "Idle talk spreads fast in a town, but good people guard their tongues.",
+  "lesson_bn": "সমাজে কোনো অপকর্মের কথা ছড়িয়ে পড়লে তা নিয়ে আলোচনা ও পরচর্চা দ্রুত বিস্তার লাভ করে।",
+  "real_life_en": "Guard your tongue against gossip and spreading rumors about other people's family troubles. Focus on rectifying your own heart instead of broadcasting the faults of others.",
+  "real_life_bn": "কারো ব্যক্তিগত সমস্যা বা স্ক্যান্ডাল নিয়ে পরচর্চা করবেন না। অন্যের দোষ না খুঁজে নিজের জীবন শুধরে নেওয়ার দিকে নজর দিন।",
+  "themes": [
+    "gossip",
+    "high society of Egypt",
+    "story of Yusuf",
+    "infatuation"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Wife of Al-Aziz",
+      "Al-Aziz of Egypt (Potiphar)"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The women of the city gossiped about the minister's wife attempting to seduce her servant boy, openly criticizing her obsession.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

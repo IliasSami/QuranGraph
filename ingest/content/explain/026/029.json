@@ -1,0 +1,66 @@
+{
+  "id": "26:29",
+  "simple_en": "Pharaoh became angry when he could not win the debate. He warned Moses that if he took any god other than him, he would cast him into prison.",
+  "simple_bn": "ফিরআউন ক্ষিপ্ত হয়ে বলল, তুমি যদি আমাকে ছাড়া অন্য কাউকে উপাস্য হিসেবে গ্রহণ করো, তবে আমি অবশ্যই তোমাকে বন্দিশালায় নিক্ষেপ করব।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "إِلَٰهًا",
+      "root": "أله",
+      "lemma": "إِلٰه",
+      "meaning_en": "a god",
+      "meaning_bn": "উপাস্য বা ইলাহ",
+      "why_en": "An object of worship and ultimate loyalty."
+    },
+    {
+      "pos": 8,
+      "arabic": "ٱلْمَسْجُونِينَ",
+      "root": "سجن",
+      "lemma": "مَسْجُون",
+      "meaning_en": "the imprisoned",
+      "meaning_bn": "বন্দীদের অন্তর্ভুক্ত",
+      "why_en": "Those thrown into dark confinement by tyrannical decree."
+    }
+  ],
+  "lesson_en": "Rulers who cannot answer the truth rely on threats. They use prison to silence good people.",
+  "lesson_bn": "যুক্তিতে হেরে গিয়ে জালেমরা কারারুদ্ধ করার হুমকি এবং দমন-পীড়নের মাধ্যমে সত্যের কণ্ঠরোধ করতে চায়।",
+  "real_life_en": "Fear God rather than worldly threats. Stay true to your faith even when facing pressure or intimidation from bullies.",
+  "real_life_bn": "সত্যের ওপর অটল থাকতে গিয়ে মানুষের হুমকির মুখে পড়লেও আল্লাহকে ভয় করুন। অন্যায়ের কাছে মাথা নত করবেন না।",
+  "themes": [
+    "tyranny",
+    "threat",
+    "courage"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Threatened by the truth, Pharaoh vowed to cast Moses into prison if he took another deity.",
+      "claim_bn": "যুক্তিতে ব্যর্থ হয়ে ফিরআউন মূসাকে হুমকি দেয় যে অন্য কোনো ইলাহকে মানলে তাকে কারারুদ্ধ করা হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

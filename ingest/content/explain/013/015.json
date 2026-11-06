@@ -1,0 +1,80 @@
+{
+  "id": "13:15",
+  "simple_en": "Everything in the heavens and on earth bows down in submission to Allah. Believers submit with willing hearts, while others submit to His physical laws whether they like it or not. Even their shadows lengthen and bow in the mornings and evenings.",
+  "simple_bn": "আসমান ও যমীনের সবকিছু ইচ্ছায় বা অনিচ্ছায় আল্লাহর প্রতি সিজদাবনত হয়। এমনকি সকাল ও সন্ধ্যায় তাদের ছায়াগুলোও আল্লাহর আনুগত্যে অবনমিত হয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سجد",
+      "lemma": "يَسْجُدُ",
+      "meaning_en": "prostrates",
+      "meaning_bn": "সিজদা করে",
+      "why_en": "Universal obedience and bowing down of all created elements."
+    },
+    {
+      "pos": 7,
+      "root": "طوع",
+      "lemma": "طَوْع",
+      "meaning_en": "willingly",
+      "meaning_bn": "ইচ্ছায়",
+      "why_en": "Devoted obedience rendered by angels and faithful believers."
+    },
+    {
+      "pos": 8,
+      "root": "كره",
+      "lemma": "كَرْه",
+      "meaning_en": "by compulsion",
+      "meaning_bn": "অনিচ্ছায়",
+      "why_en": "Involuntary submission to divine physical laws by all creatures."
+    },
+    {
+      "pos": 9,
+      "root": "ظلل",
+      "lemma": "ظِلّ",
+      "meaning_en": "their shadows",
+      "meaning_bn": "তাদের ছায়াগুলো",
+      "why_en": "Physical elongation of shadows marking cosmic submission."
+    }
+  ],
+  "lesson_en": "Bow to God with a willing heart. All creation obeys His rule.",
+  "lesson_bn": "সমগ্র প্রকৃতি যখন আল্লাহর নিয়মে পরিচালিত, তখন আমাদেরও স্বেচ্ছায় তাঁর অনুগত হওয়া উচিত।",
+  "real_life_en": "A man walks home at sunset. He sees his long shadow on the ground. He recalls that all things bow to God, so he goes to pray.",
+  "real_life_bn": "সূর্যাস্তের সময় বাড়ি ফেরার পথে এক ব্যক্তি মাটির দিকে তাকিয়ে নিজের দীর্ঘ ছায়া দেখে। সে স্মরণ করে প্রকৃতি কীভাবে আল্লাহর আদেশে মাথানত করে, ফলে সে দ্রুত মাগরিবের সালাত আদায়ে যায়।",
+  "context_en": "The universal prostration and physical submission of all creation to Allah.",
+  "context_bn": "আসমান-জমিনের সকল সৃষ্টির এবং তাদের ছায়ার সার্বজনীন সিজদা ও আনুগত্য।",
+  "themes": [
+    "prostration",
+    "submission",
+    "shadows"
+  ],
+  "kinds": [
+    "worship",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "heavens",
+      "the earth",
+      "shadows"
+    ]
+  },
+  "claims": [
+    {
+      "text": "All things in the heavens and earth prostrate to Allah willingly or unwillingly, along with their shadows.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

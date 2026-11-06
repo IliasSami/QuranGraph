@@ -1,0 +1,92 @@
+{
+ "id": "42:51",
+ "simple_en": "Allah does not speak to humans directly face to face. He sends revelation to the heart, or speaks from behind a veil, or sends an angel with His message. He is the Most High, the All-Wise.",
+ "simple_bn": "কোনো মানুষের পক্ষে সরাসরি আল্লাহর সাথে কথা বলা সম্ভব নয়। তিনি ওহীর মাধ্যমে, কিংবা পর্দার আড়াল থেকে, অথবা ফেরেশতা রাসূল পাঠিয়ে স্বীয় অনুমতিক্রমে কথা বলেন। নিশ্চয় তিনি সুউচ্চ ও পরম প্রজ্ঞাময়।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "بشر",
+   "lemma": "بَشَر",
+   "meaning_en": "to a human being",
+   "meaning_bn": "কোনো মানুষের পক্ষে",
+   "why_en": "Establishes that direct speech from Allah is beyond normal human capacity."
+  },
+  {
+   "pos": 5,
+   "root": "كلم",
+   "lemma": "كَلَّمَ",
+   "meaning_en": "He speaks to him",
+   "meaning_bn": "তিনি তার সাথে কথা বলবেন",
+   "why_en": "Affirms the reality of Allah communicating with His chosen prophets."
+  },
+  {
+   "pos": 8,
+   "root": "وحي",
+   "lemma": "وَحْى",
+   "meaning_en": "revelation / inspiration",
+   "meaning_bn": "ওহী / ইলহাম",
+   "why_en": "Describes direct divine inspiration cast into the heart of a prophet."
+  },
+  {
+   "pos": 12,
+   "root": "حجب",
+   "lemma": "حِجاب",
+   "meaning_en": "a veil / screen",
+   "meaning_bn": "পর্দা / আড়াল",
+   "why_en": "Refers to speech heard by prophets like Musa without seeing Allah."
+  },
+  {
+   "pos": 15,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "a messenger (angel)",
+   "meaning_bn": "একজন বার্তাবাহক (ফেরেশতা)",
+   "why_en": "Names angelic emissaries who convey divine revelation by permission."
+  }
+ ],
+ "lesson_en": "Allah sends His words to the prophets in ways that show His power and wisdom.",
+ "lesson_bn": "মহান আল্লাহ স্বীয় মহিমার উপযুক্ত পন্থায় ওহীর মাধ্যমে তাঁর মনোনীত নবীদের সাথে কথা বলেন।",
+ "real_life_en": "Reflect on how Allah guided mankind through revelation. Honor the teachings brought by the prophets, and follow the Quran as the final word from the Lord of all creation.",
+ "real_life_bn": "আল্লাহ কীভাবে ওহীর মাধ্যমে মানবজাতিকে পথ দেখিয়েছেন তা নিয়ে চিন্তা করুন। নবীদের আনীত শিক্ষার প্রতি শ্রদ্ধা রাখুন এবং কুরআনকে জীবনের মূল নির্দেশিকা হিসেবে মান্য করুন।",
+ "themes": [
+  "revelation",
+  "prophethood",
+  "angels",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels"
+  ],
+  "names_of_allah": [
+   "allah",
+   "al-aliyy",
+   "al-hakim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah speaks to humans through direct revelation, from behind a veil, or by sending an angelic messenger, and He is Most High, All-Wise.",
+   "claim_bn": "আল্লাহ মানুষের সাথে ওহীর মাধ্যমে, পর্দার আড়াল থেকে অথবা ফেরেশতা রাসূল পাঠিয়ে কথা বলেন এবং তিনি সুউচ্চ ও প্রজ্ঞাবান।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

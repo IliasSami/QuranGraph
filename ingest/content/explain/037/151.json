@@ -1,0 +1,60 @@
+{
+  "id": "37:151",
+  "simple_en": "The disbelievers invent great lies about God. What they say about Him has no basis in truth. They have no holy book to back their words. Their claims come only from their own false thoughts.",
+  "simple_bn": "আল্লাহ সবাইকে সাবধান করছেন যে মুশরিকদের কথা সম্পূর্ণ বানোয়াট মিথ্যার ওপর প্রতিষ্ঠিত। আল্লাহর মহিমান্বিত সত্তা সম্পর্কে তাদের কোনো জ্ঞান নেই, তারা কেবল নিজেদের মনগড়া অপবাদ সমাজে ছড়িয়ে দেয়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أفك",
+      "lemma": "إِفْك",
+      "meaning_en": "their falsehood / lies",
+      "meaning_bn": "তাদের মনগড়া মিথ্যা",
+      "why_en": "Describes the fabricated slander they invented against Allah."
+    },
+    {
+      "pos": 5,
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "they say",
+      "meaning_bn": "তারা বলে",
+      "why_en": "Points to their vocal spreading of baseless claims."
+    }
+  ],
+  "lesson_en": "Stay away from spreading lies and false ideas.",
+  "lesson_bn": "ভিত্তিহীন মিথ্যা প্রচার করা মারাত্মক অন্যায় ও বিভ্রান্তিকর কাজ।",
+  "real_life_en": "Check the facts before you share religious claims with others. Lies spread fast when people repeat words without checking the truth.",
+  "real_life_bn": "কোনো ধর্মীয় বিষয়ে কথা বলার আগে সঠিক উৎস নিশ্চিত করুন। প্রমাণের অভাব থাকলে মানুষের মনগড়া কথায় কান দেওয়া উচিত নয়।",
+  "themes": [
+    "falsehood",
+    "slander",
+    "invented beliefs"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The idolaters speak out of pure falsehood and fabrications against Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

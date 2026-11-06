@@ -1,0 +1,72 @@
+{
+  "id": "67:26",
+  "simple_en": "Say: The exact knowledge of the Hour is with Allah alone. No one else knows its timing. My role is only to deliver a clear and plain warning to you.",
+  "simple_bn": "বলুন: কেয়ামতের প্রকৃত জ্ঞান কেবল আল্লাহর কাছেই রয়েছে। আর আমি তো কেবল একজন স্পষ্ট সতর্ককারী মাত্র।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "علم",
+      "lemma": "عِلْم",
+      "meaning_en": "the knowledge",
+      "meaning_bn": "প্রকৃত জ্ঞান",
+      "why_en": "Confirms that the exact timing of the Last Day is known only to God."
+    },
+    {
+      "pos": 8,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "a warner",
+      "meaning_bn": "সতর্ককারী",
+      "why_en": "Defines the prophetic mission as delivering truth rather than predicting dates."
+    },
+    {
+      "pos": 9,
+      "root": "بين",
+      "lemma": "مُبِين",
+      "meaning_en": "clear and plain",
+      "meaning_bn": "সুস্পষ্ট",
+      "why_en": "Emphasizes that divine guidance was conveyed openly without ambiguity."
+    }
+  ],
+  "lesson_en": "Accept that unseen knowledge belongs to God, and take prophetic guidance to heart.",
+  "lesson_bn": "অদৃশ্যের পরিপূর্ণ জ্ঞান একমাত্র আল্লাহরই রয়েছে, তাই নবীর দেখানো পথ অনুসরণ করাই আমাদের দায়িত্ব।",
+  "real_life_en": "Someone reads sensational online predictions about the end of the world. He remembers that only God knows the future. He stays calm, ignores baseless rumors, and focuses on his prayers.",
+  "real_life_bn": "ইন্টারনেটে কেয়ামতের মনগড়া সময়সীমা নিয়ে নানা জল্পনাকল্পনা দেখে বিভ্রান্ত হওয়া অনুচিত। এই জ্ঞান কেবল আল্লাহর কাছে, তাই নিজের ঈমান ও আমল ঠিক রাখাই প্রধান কর্তব্য।",
+  "themes": [
+    "Allah's knowledge",
+    "prophethood",
+    "the Last Day"
+  ],
+  "kinds": [
+    "command",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The knowledge of the Hour rests exclusively with Allah, and the Prophet is a clear warner.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

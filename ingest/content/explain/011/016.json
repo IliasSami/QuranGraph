@@ -1,0 +1,85 @@
+{
+  "id": "11:16",
+  "simple_en": "Those who lived solely for this world will find nothing waiting for them in the Hereafter except the Fire. All the deeds they carried out on earth will be ruined, and their efforts will prove worthless.",
+  "simple_bn": "এরাই তারা, যাদের জন্য পরকালে জাহান্নামের আগুন ছাড়া আর কিছুই থাকবে না। তারা দুনিয়াতে যা কিছু করেছিল তা সব বিনষ্ট হবে এবং তাদের আমল হবে নিষ্ফল।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "أخر",
+      "lemma": "آخِر",
+      "meaning_en": "Hereafter",
+      "meaning_bn": "আখিরাত / পরকাল",
+      "why_en": "The eternal realm of ultimate reward or punishment."
+    },
+    {
+      "pos": 8,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the Fire",
+      "meaning_bn": "জাহান্নামের আগুন",
+      "why_en": "The intense penalty reserved for deniers of the truth."
+    },
+    {
+      "pos": 9,
+      "root": "حبط",
+      "lemma": "حَبِطَ",
+      "meaning_en": "worthless / ruined",
+      "meaning_bn": "বিনষ্ট হলো",
+      "why_en": "The nullification of good deeds done without true faith."
+    },
+    {
+      "pos": 13,
+      "root": "بطل",
+      "lemma": "باطِل",
+      "meaning_en": "futile / void",
+      "meaning_bn": "নিষ্ফল / অকার্যকর",
+      "why_en": "Yielding no eternal benefit before God."
+    }
+  ],
+  "lesson_en": "Good deeds must be rooted in sincere faith to have real and lasting value before Allah.",
+  "lesson_bn": "ঈমান ও সঠিক নিয়ত ছাড়া কোনো নেক আমলই পরকালে মুক্তি দিতে পারবে না।",
+  "real_life_en": "Check your daily motives. Pray, help your family, and serve your community to please Allah rather than to show off to people.",
+  "real_life_bn": "লোকদেখানো প্রশংসা পাওয়ার উদ্দেশ্যে দান বা ভালো কাজ করবেন না; খাঁটি নিয়তে কাজ করলে পরকালে উত্তম প্রতিদান পাবেন।",
+  "themes": [
+    "Hereafter",
+    "loss of good deeds",
+    "hellfire",
+    "sincerity of intention"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "Hellfire"
+    ],
+    "unseen": [
+      "the Fire (an-Nar)",
+      "Hereafter"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Worldly deeds devoid of faith and intention for the Hereafter are rendered void, yielding only Hellfire on the Day of Judgment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

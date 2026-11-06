@@ -1,0 +1,93 @@
+{
+ "id": "7:20",
+ "simple_en": "Satan crept in and whispered deceitful thoughts to Adam and Eve. His evil goal was to uncover their private parts, which were covered from view. He lied to them about Allah's command. He claimed that Allah only forbade the tree to prevent them from becoming angels or living forever in Paradise.",
+ "simple_bn": "শয়তান আদম ও হাওয়ার মনে কুমন্ত্রণা দিল। তার অসৎ উদ্দেশ্য ছিল তাদের লজ্জাস্থান প্রকাশ করে দেওয়া, যা তাদের কাছ থেকে গোপন ছিল। সে তাদের কাছে মিথ্যা দাবি করল যে, আল্লাহ কেবল এজন্যই গাছটি নিষেধ করেছেন যেন তারা ফেরেশতা না হয়ে যায় অথবা জান্নাতে চিরস্থায়ী না হয়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "وسوس",
+   "lemma": "وَسْوَسَ",
+   "meaning_en": "he whispered evil",
+   "meaning_bn": "সে কুমন্ত্রণা দিল",
+   "why_en": "Describes the subtle, deceitful whispers used by Satan to tempt."
+  },
+  {
+   "pos": 10,
+   "root": "سوأ",
+   "lemma": "سَوْءَة",
+   "meaning_en": "their private parts",
+   "meaning_bn": "তাদের লজ্জাস্থান",
+   "why_en": "Satan aimed to strip them of modesty and uncover what was concealed."
+  },
+  {
+   "pos": 25,
+   "root": "خلد",
+   "lemma": "خالِد",
+   "meaning_en": "the immortals",
+   "meaning_bn": "চিরঞ্জীব বা চিরস্থায়ী ব্যক্তিগণ",
+   "why_en": "The false promise of eternal life that Satan used as bait."
+  }
+ ],
+ "lesson_en": "Satan tempts with false promises to strip people of their modesty and dignity.",
+ "lesson_bn": "শয়তান মানুষের লজ্জা ও শালীনতা নষ্ট করতে লোভনীয় মিথ্যার আশ্রয় নেয়।",
+ "real_life_en": "Watch out for Satan's traps. Bad deeds often look fun and harmless at first. When an evil thought crosses your mind, say Audhu Billah and turn away. Protect your modesty at all times.",
+ "real_life_bn": "পাপের প্ররোচনা সবসময় চাকচিক্যময় রূপ নিয়ে আসে। অবৈধ কাজকে যখন আকর্ষণীয় মনে হবে, তখনই সতর্ক হোন। নিজের শালীনতা ও নীতিবোধ বিসর্জন না দিয়ে আল্লাহর আশ্রয় প্রার্থনা করুন।",
+ "context_en": "Satan uses deceitful whispers to trick Adam and Eve, attempting to strip them of modesty and mislead them regarding Allah's prohibition.",
+ "context_bn": "শয়তান আদম ও হাওয়াকে ধোঁকা দিতে কুমন্ত্রণা দেয় এবং তাদের লজ্জাস্থান উন্মুক্ত ও আল্লাহর নিষেধ অমান্য করানোর চক্রান্ত করে।",
+ "themes": [
+  "whispers of Satan",
+  "deception",
+  "modesty",
+  "the forbidden tree",
+  "Adam and Eve"
+ ],
+ "kinds": [
+  "story",
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve"
+  ],
+  "nations": [],
+  "places": [
+   "Paradise"
+  ],
+  "unseen": [
+   "Satan",
+   "angels"
+  ],
+  "names_of_allah": [
+   "Lord"
+  ],
+  "events": [],
+  "things": [
+   "the forbidden tree"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Satan whispered deceit to Adam and Eve aiming to expose their private parts which had been hidden from them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Satan falsely told them that the tree was forbidden only to prevent them from becoming angels or living eternally in Paradise.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

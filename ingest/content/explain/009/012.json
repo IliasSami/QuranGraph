@@ -1,0 +1,71 @@
+{
+  "id": "9:12",
+  "simple_en": "If they break their solemn oaths after making a treaty and insult your religion, then fight the leaders of disbelief. Their oaths carry no value. Opposing them may cause them to stop.",
+  "simple_bn": "চুক্তি করার পর যদি তারা নিজেদের শপথ ভঙ্গ করে এবং তোমাদের দীন নিয়ে কটূক্তি করে, তবে কুফরির নেতাদের বিরুদ্ধে লড়াই করো। কারণ তাদের কোনো শপথের মূল্য নেই, যেন তারা ক্ষান্ত হয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نكث",
+      "lemma": "نَكَثَ",
+      "meaning_en": "they broke",
+      "meaning_bn": "তারা ভেঙে দিল / লঙ্ঘন করল",
+      "why_en": "Deliberate violation of ratified covenants and public peace."
+    },
+    {
+      "pos": 7,
+      "root": "طعن",
+      "lemma": "طَعَنُ",
+      "meaning_en": "defamed / attacked",
+      "meaning_bn": "কটূক্তি করল / বিদ্রূপ করল",
+      "why_en": "Slandering the faith to provoke conflict and weaken believers."
+    },
+    {
+      "pos": 11,
+      "root": "أمم",
+      "lemma": "إِمام",
+      "meaning_en": "leaders",
+      "meaning_bn": "নেতা / অগ্রনায়ক",
+      "why_en": "Instigators orchestrating systematic treaty violations."
+    }
+  ],
+  "lesson_en": "Confront false leaders who break oaths and mock the truth.",
+  "lesson_bn": "যারা প্রতিশ্রুতি ভঙ্গ করে এবং আদর্শিক আক্রমণ চালায়, তাদের অগ্রনেতাদের দমন না করলে বিশৃঙ্খলা থামে না।",
+  "real_life_en": "Take legal steps against dishonest leaders who break oaths and tell lies about your group.",
+  "real_life_bn": "প্রতিষ্ঠানের সুনাম নষ্টকারী ও চুক্তিভঙ্গকারী কুচক্রী মূল হোতাদের বিরুদ্ধে দৃঢ় আইনানুগ ব্যবস্থা নেওয়া দরকার, যেন অন্যরা সতর্ক হয়।",
+  "themes": [
+    "oaths",
+    "leadership of disbelief",
+    "defense of faith"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "disbelievers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Fighting was commanded against pagan leaders who breached covenants and openly mocked Islam, to deter further rebellion.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

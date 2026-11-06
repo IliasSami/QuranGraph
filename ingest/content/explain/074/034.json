@@ -1,0 +1,62 @@
+{
+ "id": "74:34",
+ "simple_en": "Allah swears by the bright morning as its light spreads over the earth. Daylight brings life, warmth, and clarity after darkness. It shows that truth will always shine over falsehood.",
+ "simple_bn": "আল্লাহ শপথ করছেন সকালের, যখন তা আলো ছড়িয়ে দেয়। অন্ধকারের পর সকালের আলো পৃথিবীতে জীবন, উষ্ণতা ও স্পষ্টতা ফিরিয়ে আনে। এটি প্রকাশ করে যে মিথ্যার ওপর সত্যের আলো সর্বদা বিজয়ী হবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "صبح",
+   "lemma": "صُبْح",
+   "meaning_en": "and the morning",
+   "meaning_bn": "আর সকালের",
+   "why_en": "Morning represents clarity, renewal, and the emergence of bright light."
+  },
+  {
+   "pos": 3,
+   "root": "سفر",
+   "lemma": "أَسْفَرَ",
+   "meaning_en": "when it brightens",
+   "meaning_bn": "যখন তা আলোকিত হয়",
+   "why_en": "It describes the shining forth of dawn across the horizon."
+  }
+ ],
+ "lesson_en": "Start each new morning with gratitude and renewed hope in Allah's mercy.",
+ "lesson_bn": "প্রতিদিন সকালে কৃতজ্ঞতার সাথে নতুন করে আল্লাহর রহমতের আশা নিয়ে দিন শুরু করুন।",
+ "real_life_en": "Wake up early with the morning light and begin your day with prayer. A calm start filled with the remembrance of Allah brings peace and focus to your daily tasks.",
+ "real_life_bn": "ভোরে ঘুম থেকে উঠুন এবং সালাত দিয়ে দিনের সূচনা করুন। আল্লাহর স্মরণ দিয়ে দিন শুরু করলে মনের মধ্যে শান্তি আসে এবং কাজে বরকত পাওয়া যায়।",
+ "themes": [
+  "creation",
+  "signs in nature",
+  "gratitude"
+ ],
+ "kinds": [
+  "oath",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah swears by the dawn as its light spreads and illuminates the world.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

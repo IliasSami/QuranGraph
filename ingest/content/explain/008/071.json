@@ -1,0 +1,81 @@
+{
+  "id": "8:71",
+  "simple_en": "If they plan to betray you, know that they betrayed God before. Yet He gave you power over them. God knows all things, and He is Wise.",
+  "simple_bn": "আর যদি তারা তোমার সাথে বিশ্বাসঘাতকতা করতে চায়, তবে জেনে রাখো, তারা এর আগেও আল্লাহর সাথে বিশ্বাসঘাতকতা করেছিল। ফলে তিনি তাদের ওপর তোমাকে বিজয়ী করেছিলেন। নিশ্চয়ই আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "خون",
+      "lemma": "خِيانَة",
+      "meaning_en": "betrayal / treachery",
+      "meaning_bn": "বিশ্বাসঘাতকতা",
+      "why_en": "Intent to break faith after release."
+    },
+    {
+      "pos": 5,
+      "root": "خون",
+      "lemma": "خانُ",
+      "meaning_en": "they betrayed",
+      "meaning_bn": "তারা বিশ্বাসঘাতকতা করেছিল",
+      "why_en": "Past idolatry and rejection of divine covenant."
+    },
+    {
+      "pos": 9,
+      "root": "مكن",
+      "lemma": "أَمْكَنَ",
+      "meaning_en": "He empowered you",
+      "meaning_bn": "তিনি পরাস্ত করার সুযোগ দিলেন",
+      "why_en": "Granting mastery over the traitors."
+    }
+  ],
+  "lesson_en": "Those who break faith with God can never defeat the people of truth.",
+  "lesson_bn": "যারা আল্লাহর সাথে গাদ্দারি করে, তারা শেষ পর্যন্ত মুমিনদের হাতেই লাঞ্ছিত ও পরাজিত হয়।",
+  "real_life_en": "Do not lose sleep over dishonest rivals plotting against you. Stay true to honest principles. God strips false schemers of power and protects sincere workers.",
+  "real_life_bn": "প্রতারকদের চক্রান্ত নিয়ে ভীত হবেন না। সত্য ও সততার পথে থাকুন, কারণ আল্লাহ অন্যায়কারীদের চক্রান্ত নস্যাৎ করে দেন।",
+  "context_en": "Warning released captives against relapsing into treason, reminding them that Allah previously humbled them at Badr.",
+  "context_bn": "মুক্তিপ্রাপ্ত বন্দীদের পুনরায় বিশ্বাসঘাতকতা না করার হুঁশিয়ারি এবং বদরের পরাজয় থেকে শিক্ষা নেওয়ার তাগিদ।",
+  "themes": [
+    "betrayal",
+    "divine justice",
+    "trust in Allah",
+    "sovereignty"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "captives of Badr"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Al-Alim",
+      "Al-Hakim"
+    ],
+    "events": [
+      "Battle of Badr"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah gave the believers mastery over those who previously betrayed Him, and He will foil any renewed treachery.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

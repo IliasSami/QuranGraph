@@ -1,0 +1,83 @@
+{
+  "id": "12:28",
+  "simple_en": "When her husband saw that the shirt was indeed torn from the back, he realized the truth. He said that this was part of women's scheming. Truly, their deceit can be very powerful.",
+  "simple_bn": "অতঃপর গৃহস্বামী যখন দেখল যে জামাটি পেছন থেকেই ছেঁড়া, তখন সে বলল, নিশ্চয় এটি তোমাদের নারীদেরই এক চক্রান্ত; বস্তুত তোমাদের চক্রান্ত তো অতি মারাত্মক।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "قمص",
+      "lemma": "قَمِيص",
+      "meaning_en": "his shirt",
+      "meaning_bn": "তার জামা",
+      "why_en": "Physical artifact establishing the truth."
+    },
+    {
+      "pos": 6,
+      "root": "دبر",
+      "lemma": "دُبُر",
+      "meaning_en": "the back",
+      "meaning_bn": "পেছন দিক",
+      "why_en": "Decisive physical orientation of the tear."
+    },
+    {
+      "pos": 10,
+      "root": "كيد",
+      "lemma": "كَيْد",
+      "meaning_en": "plot / scheme",
+      "meaning_bn": "চক্রান্ত / কৌশল",
+      "why_en": "Fabricating false blame to trap the innocent."
+    },
+    {
+      "pos": 13,
+      "root": "عظم",
+      "lemma": "عَظِيم",
+      "meaning_en": "great / formidable",
+      "meaning_bn": "মারাত্মক / বিশাল",
+      "why_en": "The potent danger of deceitful plotting."
+    }
+  ],
+  "lesson_en": "Real proof shows the truth and saves the innocent from false blame.",
+  "lesson_bn": "স্পষ্ট প্রমাণ ষড়যন্ত্র ফাঁস করে দেয় এবং নিরপরাধ ব্যক্তিকে মিথ্যা অপবাদ থেকে রক্ষা করে।",
+  "real_life_en": "Be mindful of how people may spin stories to avoid accountability. Trust objective facts over defensive excuses when seeking the truth.",
+  "real_life_bn": "কেউ দোষ এড়াতে কূটকৌশলের আশ্রয় নিলে সতর্ক হোন। আবেগ বা কথার ফুলঝুরির চেয়ে বাস্তব সত্যকে গুরুত্ব দিন।",
+  "themes": [
+    "exposing deceit",
+    "story of Yusuf",
+    "justice in Egypt"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Wife of Al-Aziz",
+      "Al-Aziz of Egypt (Potiphar)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Shirt of Yusuf"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Seeing the shirt torn from the back, the husband recognized his wife's guilt, attributing the false accusation to feminine scheming.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

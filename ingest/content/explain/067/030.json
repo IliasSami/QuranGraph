@@ -1,0 +1,69 @@
+{
+  "id": "67:30",
+  "simple_en": "Say: Tell me, if your water was to sink deep underground beyond your reach, who could bring you flowing, fresh water? No one other than Allah can provide that life-giving blessing.",
+  "simple_bn": "বলুন: তোমরা কি ভেবে দেখেছ, যদি তোমাদের পানি ভূগর্ভে শুকিয়ে তলিয়ে যায়, তবে কে তোমাদের জন্য প্রবাহিত নির্মল পানি এনে দেবে? আল্লাহ ছাড়া কেউ নয়।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "موه",
+      "lemma": "ماء",
+      "meaning_en": "your water",
+      "meaning_bn": "তোমাদের পানি",
+      "why_en": "Refers to the vital fluid essential for all biological life."
+    },
+    {
+      "pos": 6,
+      "root": "غور",
+      "lemma": "غَوْر",
+      "meaning_en": "sunken deep into the earth",
+      "meaning_bn": "ভূগর্ভে তলিয়ে যাওয়া",
+      "why_en": "Illustrates the helpless crisis if subterranean aquifers vanish beyond reach."
+    },
+    {
+      "pos": 10,
+      "root": "عين",
+      "lemma": "مَعِين",
+      "meaning_en": "flowing, sweet water",
+      "meaning_bn": "প্রবাহিত নির্মল পানি",
+      "why_en": "Reminds that fresh, potable springs are a continuous divine gift."
+    }
+  ],
+  "lesson_en": "Water is a vital gift from God, so thank Him and never waste His blessings.",
+  "lesson_bn": "বিশুদ্ধ পানি আল্লাহর এক বিশেষ দান, তাই এই নিয়ামতের অপচয় না করে কৃতজ্ঞতা প্রকাশ করা উচিত।",
+  "real_life_en": "When the water pipes stop working for two days, a family cannot cook or clean. The moment fresh water flows again, they smile and thank God. They see how much they need water every single day.",
+  "real_life_bn": "পানির কল বন্ধ থাকলে মানুষ বুঝতে পারে যে সামান্য পানির জন্য আমরা কতটা পরনির্ভরশীল। তাই পানি ব্যবহারের সময় অপচয় না করে আল্লাহর অনুগ্রহ স্মরণ করা কর্তব্য।",
+  "themes": [
+    "gratitude",
+    "creation",
+    "signs in nature",
+    "Allah's power"
+  ],
+  "kinds": [
+    "argument",
+    "creation",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "If water sinks deep into the earth, none besides Allah can bring forth flowing water for creation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

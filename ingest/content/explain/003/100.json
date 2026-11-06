@@ -1,0 +1,84 @@
+{
+ "id": "3:100",
+ "simple_en": "Believers are warned not to follow the advice of those who oppose their faith. Some groups among the People of the Scripture sought to stir up old divisions and pull Muslims back into disbelief. Listening to hostile voices can destroy unity and weaken faith. Believers must stay united and guard their hearts.",
+ "simple_bn": "মুমিনদের সতর্ক করা হয়েছে যেন তারা বিরুদ্ধবাদীদের কোনো দলের কথায় বিভ্রান্ত না হয়। কিতাবধারীদের কেউ কেউ মুসলমানদের মধ্যে পুরোনো দ্বন্দ্ব উসকে দিয়ে তাদের আবার কুফরির দিকে ফিরিয়ে নিতে চেয়েছিল। বিদ্বেষপূর্ণ কথায় কান দিলে ভ্রাতৃত্ব নষ্ট হয় এবং ঈমান দুর্বল হয়ে পড়ে। তাই মুমিনদের উচিত নিজেদের ঐক্য রক্ষা করা এবং ঈমানের ওপর অবিচল থাকা।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "طوع",
+   "lemma": "أَطاعَ",
+   "meaning_en": "you obey",
+   "meaning_bn": "তোমরা আনুগত্য করো বা মেনে নাও",
+   "why_en": "Warns against uncritically following advice from factions hostile to faith."
+  },
+  {
+   "pos": 6,
+   "root": "فرق",
+   "lemma": "فَرِيق",
+   "meaning_en": "a group / party",
+   "meaning_bn": "একটি দল",
+   "why_en": "Identifies particular factions that schemed to undermine the Muslim community."
+  },
+  {
+   "pos": 11,
+   "root": "ردد",
+   "lemma": "رَدَّ",
+   "meaning_en": "they will turn you back",
+   "meaning_bn": "তারা তোমাদের ফিরিয়ে দেবে",
+   "why_en": "Shows the harmful aim of hostile opponents: regressing believers back into disbelief."
+  }
+ ],
+ "lesson_en": "Protect your faith and keep your community united against those who stir up trouble.",
+ "lesson_bn": "বাইরের মানুষের তৈরি করা বিভেদ ও প্ররোচনা থেকে নিজের ঈমান এবং সমাজের ঐক্য রক্ষা করুন।",
+ "real_life_en": "Social media often has posts meant to make groups fight. Do not join in these heated arguments. Check the facts first, and always try to bring peace between people.",
+ "real_life_bn": "সামাজিক যোগাযোগমাধ্যমে প্রায়ই এমন বক্তব্য ছড়ানো হয় যা মানুষের মধ্যে বিভেদ ও হিংসা তৈরি করে। বিচক্ষণ ব্যক্তি সেই উসকানিতে পা না দিয়ে সত্য যাচাই করে এবং পারস্পরিক ঐক্য বজায় রাখে।",
+ "context_en": "Following the warning to opponents who tried to block faith, this ayah turns to believers and warns them against being deceived by sectarian plots.",
+ "context_bn": "বিরুদ্ধবাদীদের চক্রান্তের বর্ণনার পর এই আয়াতে সরাসরি মুমিনদের সম্বোধন করে সতর্ক করা হয়েছে যেন তারা চক্রান্তকারীদের ফাঁদে পা দিয়ে নিজেদের ঈমান ও ঐক্য না হারায়।",
+ "themes": [
+  "brotherhood",
+  "unity",
+  "faith",
+  "disbelief",
+  "trials"
+ ],
+ "kinds": [
+  "warning",
+  "prohibition",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "People of the Book"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are warned against following factions among the People of the Scripture who desire to turn them back to disbelief after faith.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Yielding to the counsel of those who oppose Islam leads to loss of faith and unity.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

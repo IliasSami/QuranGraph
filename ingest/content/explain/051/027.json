@@ -1,0 +1,61 @@
+{
+  "id": "51:27",
+  "simple_en": "He set the roasted calf close before them with gentle manners. He then asked them politely, 'Will you not eat?' His words were humble and invited them kindly to enjoy the meal.",
+  "simple_bn": "তিনি খাবারটি তাঁদের সামনে এগিয়ে দিলেন এবং অত্যন্ত বিনয়ের সাথে বললেন, আপনারা কি খাবার গ্রহণ করবেন না?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قرب",
+      "lemma": "قَرَّبَ",
+      "meaning_en": "he placed it close",
+      "meaning_bn": "কাছে এগিয়ে দিলেন",
+      "why_en": "Bringing food close to guests so they do not have to reach far."
+    },
+    {
+      "pos": 5,
+      "root": "أكل",
+      "lemma": "أَكَلَ",
+      "meaning_en": "you eat",
+      "meaning_bn": "তোমরা খাবে",
+      "why_en": "Polite inquiry inviting the guests to partake of the meal."
+    }
+  ],
+  "lesson_en": "Kind words and gentle manners make guests feel truly welcome.",
+  "lesson_bn": "নম্র ব্যবহার ও আন্তরিক কথার মাধ্যমে মেহমানকে সহজ ও স্বাচ্ছন্দ্য বোধ করানো শিষ্টাচারের অংশ।",
+  "real_life_en": "Place food within easy reach of everyone at the table. Encourage people gently to eat and make sure all guests feel included.",
+  "real_life_bn": "খাবারের পাত্র মেহমানের নাগালের মধ্যে রাখুন এবং বিনয়ের সাথে খেতে অনুরোধ করুন। যাতে কেউ কোনো দ্বিধা বা সংকোচ বোধ না করে।",
+  "themes": [
+    "stories of the prophets",
+    "good character"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Ibrahim placed the calf close to them and politely invited them to eat.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

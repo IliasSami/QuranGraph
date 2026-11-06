@@ -1,0 +1,73 @@
+{
+  "id": "11:111",
+  "simple_en": "Your Lord will surely pay each person in full for their deeds. Nothing is missed or lost. Indeed, Allah is fully Aware of all that people do.",
+  "simple_bn": "আর নিশ্চয় আপনার রব তাদের প্রত্যেককে তাদের কৃতকর্মের পূর্ণ প্রতিদান দেবেন। নিশ্চয় তারা যা করে, সে সম্বন্ধে তিনি সম্যক অবগত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "وفي",
+      "lemma": "وَفَّى",
+      "meaning_en": "will fully compensate",
+      "meaning_bn": "পূর্ণ প্রতিদান দেবেন",
+      "why_en": "Recompensing every single action exactly."
+    },
+    {
+      "pos": 6,
+      "root": "عمل",
+      "lemma": "عَمَل",
+      "meaning_en": "their deeds",
+      "meaning_bn": "তাদের কাজকর্ম",
+      "why_en": "Human deeds recorded for reckoning."
+    },
+    {
+      "pos": 10,
+      "root": "خبر",
+      "lemma": "خَبِير",
+      "meaning_en": "All-Aware",
+      "meaning_bn": "সম্যক অবগত",
+      "why_en": "Complete divine knowledge of hidden motives and deeds."
+    }
+  ],
+  "lesson_en": "God knows every action and will reward or penalize each person with complete fairness.",
+  "lesson_bn": "আল্লাহ প্রতিটি কর্ম সম্পর্কে অবগত এবং তিনি সবাইকে তাদের কাজের যথাযথ প্রতিদান দেবেন।",
+  "real_life_en": "Live with the comforting knowledge that no good deed is ever forgotten. Even small acts of kindness or quiet patience will receive full reward from God.",
+  "real_life_bn": "যেকোনো ভালো কাজ মন দিয়ে করুন। ছোট হোক বা বড়, কোনো সৎকাজই আল্লাহর কাছে হারিয়ে যায় না; তিনি উপযুক্ত প্রতিদান দেবেন।",
+  "themes": [
+    "divine recompense",
+    "names of Allah",
+    "All-Aware",
+    "accountability"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Al-Khabeer (The All-Aware)"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah will recompense all servants fully for their actions, being comprehensively Aware of all they do.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

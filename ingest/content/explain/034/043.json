@@ -1,0 +1,72 @@
+{
+  "id": "34:43",
+  "simple_en": "When Allah's clear verses are read to them, the deniers speak out. They say: This man only wants to turn you from what your fathers worshipped. They call the Quran a lie and claim the truth is pure magic.",
+  "simple_bn": "যখন তাদের কাছে আল্লাহর সুস্পষ্ট আয়াত তিলাওয়াত করা হয়, তখন কাফেররা বলে: এ ব্যক্তি তোমাদের পূর্বপুরুষদের পূজা থেকে দূরে সরাতে চায়। তারা কুরআনকে মিথ্যা অপবাদ দেয় এবং সত্যকে স্পষ্ট যাদু বলে আখ্যায়িত করে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "بين",
+      "lemma": "بَيِّنَة",
+      "meaning_en": "clear evidences / clear verses",
+      "meaning_bn": "সুস্পষ্ট আয়াতসমূহ",
+      "why_en": "The Quran's verses are completely clear and self-evident in truth."
+    },
+    {
+      "pos": 14,
+      "root": null,
+      "lemma": "عَن",
+      "meaning_en": "worshipped",
+      "meaning_bn": "ইবাদত করত / পূজা করত",
+      "why_en": "The misguided devotion to ancestral customs instead of divine guidance."
+    },
+    {
+      "pos": 28,
+      "root": null,
+      "lemma": "لَمّا",
+      "meaning_en": "magic / sorcery",
+      "meaning_bn": "যাদু",
+      "why_en": "A false charge used by deniers when they could not match the Quran."
+    }
+  ],
+  "lesson_en": "Do not let blind tradition keep you from accepting clear truth and guidance.",
+  "lesson_bn": "অন্ধ কুসংস্কার বা পূর্বপুরুষের রীতির বশে স্পষ্ট সত্যকে প্রত্যাখ্যান করবেন না।",
+  "real_life_en": "Look at your family habits with open eyes. If an old habit goes against faith, choose what pleases Allah rather than pleasing the crowd.",
+  "real_life_bn": "নিজের সামাজিক প্রথাগুলোকে দ্বীনের আলোকে বিবেচনা করুন। কোনো সংস্কৃতি কুরআন ও সুন্নাহর বিরোধী হলে সমাজের ভয়ে তা আঁকড়ে থাকবেন না।",
+  "themes": [
+    "the Quran",
+    "disbelief",
+    "prophethood",
+    "guidance"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "When clear verses are recited, disbelievers reject the Prophet, accusing him of opposing ancestral ways and claiming the Quran is invented magic.",
+      "claim_bn": "স্পষ্ট আয়াত শোনার পর কাফেররা নবীকে পূর্বপুরুষদের পথ থেকে বিচ্যুতকারী আখ্যা দেয় এবং কুরআনকে যাদু বলে মিথ্যারোপ করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

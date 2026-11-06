@@ -1,0 +1,78 @@
+{
+  "id": "5:107",
+  "simple_en": "If it is found that the first two witnesses lied or took property unfairly, two of the closest heirs take their place. The two heirs then swear by Allah that their testimony is truer than the claim of the first two. They also swear they have not crossed the limits of truth, or else they would be wrongdoers.",
+  "simple_bn": "যদি পরে প্রমাণিত হয় যে প্রথম দুজন সাক্ষী মিথ্যা বলেছে বা খেয়ানত করেছে, তবে ক্ষতিগ্রস্তদের নিকটতম উত্তরাধিকারীদের মধ্য থেকে দুজন তাদের স্থলাভিষিক্ত হবে। তারা আল্লাহর নামে শপথ করে বলবে যে তাদের সাক্ষ্যই প্রথম দুজনের চেয়ে অধিক সত্য এবং তারা সীমালঙ্ঘন করেনি।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "أثم",
+      "lemma": "إِثْم",
+      "meaning_en": "sin / perjury",
+      "meaning_bn": "পাপ বা আত্মসাৎ",
+      "why_en": "Identifies the betrayal of trust when witnesses give false testimony."
+    },
+    {
+      "pos": 14,
+      "root": "ولي",
+      "lemma": "أَوْلَيان",
+      "meaning_en": "the two closest",
+      "meaning_bn": "নিকটতম দুইজন",
+      "why_en": "Designates the deceased's closest heirs who step forward to rectify false claims."
+    },
+    {
+      "pos": 18,
+      "root": "حقق",
+      "lemma": "أَحَقّ",
+      "meaning_en": "more worthy of truth",
+      "meaning_bn": "অধিকতর সত্য",
+      "why_en": "Emphasizes the standard of upholding authentic truth over false oaths."
+    }
+  ],
+  "lesson_en": "False testimony must be corrected by truthful heirs swearing to uphold justice.",
+  "lesson_bn": "মিথ্যা সাক্ষ্যের মাধ্যমে অধিকার হরণ করা হলে সত্যনিষ্ঠ শপথের মাধ্যমে ন্যাবিচার প্রতিষ্ঠা করতে হবে।",
+  "real_life_en": "An executor hides part of an estate for himself. When the fraud is exposed, the rightful heirs present clear evidence to the judge to recover what was stolen. Truth protects family rights.",
+  "real_life_bn": "কারো মৃত্যুর পর যদি অসাধু ব্যক্তি তার সম্পদ আত্মসাৎ করতে চায়, তবে সত্য সাক্ষ্য ও শপথের মাধ্যমে উত্তরাধিকারীরা তাদের ন্যায্য অধিকার ফিরিয়ে আনে।",
+  "context_en": "Explains how to rectify false claims and perjury in estate disputes through heir oaths.",
+  "context_bn": "সম্পদ সংক্রান্ত বিবাদে সাক্ষীদের অসততা প্রকাশ পেলে উত্তরাধিকারীদের শপথের মাধ্যমে তা সংশোধনের বিধান।",
+  "themes": [
+    "justice",
+    "honesty",
+    "trust in Allah"
+  ],
+  "kinds": [
+    "law",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "If the original witnesses are found guilty of perjury or dishonesty, two closest relatives of the deceased take their place.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "The heirs swear an oath by Allah that their claim is truer, preventing injustice and protecting the inheritance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

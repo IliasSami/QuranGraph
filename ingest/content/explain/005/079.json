@@ -1,0 +1,81 @@
+{
+ "id": "5:79",
+ "simple_en": "They never stopped one another from doing wrong deeds. Sin was done openly, and no one spoke up against it. By keeping quiet, the whole group shared in the sin. What they did was truly evil.",
+ "simple_bn": "তারা যেসব গর্হিত ও অন্যায় কাজ করত, তা থেকে একে অন্যকে বারণ করত না। সমাজে প্রকাশ্যে পাপকাজ ঘটলেও কেউ প্রতিবাদ করত না বা বাধা দিত না। অন্যায় দেখে নিশ্চুপ থাকার এই সংস্কৃতি গোটা সমাজকে ধ্বংসের দিকে নিয়ে গিয়েছিল। তাদের এই নির্লিপ্ত আচরণ ছিল অত্যন্ত নিকৃষ্ট।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "نهي",
+   "lemma": "يَتَناهَ",
+   "meaning_en": "they forbade one another",
+   "meaning_bn": "তারা একে অন্যকে বারণ করত",
+   "why_en": "Points to mutual social responsibility to discourage evil deeds."
+  },
+  {
+   "pos": 5,
+   "root": "نكر",
+   "lemma": "مُنكَر",
+   "meaning_en": "evil / wrong deed",
+   "meaning_bn": "গর্হিত কাজ / অপকর্ম",
+   "why_en": "Refers to any act recognized by revelation and intellect as evil."
+  },
+  {
+   "pos": 7,
+   "root": "بأس",
+   "lemma": "بِئْسَ",
+   "meaning_en": "surely evil is",
+   "meaning_bn": "কতই না নিকৃষ্ট",
+   "why_en": "Expresses intense divine condemnation of their passive indifference to sin."
+  }
+ ],
+ "lesson_en": "Speak up against wrong deeds. A group that ignores evil brings harm upon itself.",
+ "lesson_bn": "অন্যায় কাজ দেখে বাধা দিন। সমাজে পাপের প্রতিবাদ না করলে সবার ওপর বিপদ নেমে আসে।",
+ "real_life_en": "If you see family members or friends doing something wrong, do not just look away. Speak with gentleness and care to help them stop. Helping people do good is a duty for everyone.",
+ "real_life_bn": "বন্ধু বা সহকর্মীদের মাঝে কোনো অন্যায় চর্চা দেখলে চোখ বন্ধ করে থাকবেন না। প্রজ্ঞা ও আন্তরিকতার সাথে ভালো কাজের পরামর্শ দিন এবং মন্দ কাজ থেকে বিরত রাখুন। সমাজকে সুন্দর রাখা প্রতিটি মানুষের দায়িত্ব।",
+ "context_en": "Identifies the primary social cause of their downfall: a total collapse of mutual accountability and moral courage.",
+ "context_bn": "বনী ইসরাঈলের ধ্বংস ও অভিশপ্ত হওয়ার অন্যতম প্রধান সামাজিক কারণ ছিল অন্যায়ের বিরুদ্ধে প্রতিবাদ না করা এবং পারস্পরিক অসৎ কাজে নীরব থাকা।",
+ "themes": [
+  "ethics",
+  "good character",
+  "Children of Israel",
+  "warning"
+ ],
+ "kinds": [
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The transgressors among the Children of Israel failed to forbid or stop one another from committing sins.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Remaining passive and indifferent while evil spreads openly is condemned by Allah as a vile practice.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,93 @@
+{
+ "id": "5:34",
+ "simple_en": "A door of mercy remains open for those who do wrong. Suppose bandits stop their crimes and turn themselves in before they are caught. In that case, the state drops their public penalty. They must still return any stolen wealth to its owner. Allah is Most Forgiving and Most Merciful to all who reform.",
+ "simple_bn": "অপরাধীদের জন্যও তওবার দরজা সবসময় খোলা থাকে। যদি ডাকাতরা গ্রেপ্তার হওয়ার আগেই নিজেদের ভুল বুঝে অপরাধ ত্যাগ করে এবং আত্মসমর্পণ করে, তবে তাদের বিরুদ্ধে প্রকাশ্য দণ্ড মওকুফ করা হয়। তবে কারও চুরি করা সম্পদ থাকলে তা মালিককে ফেরত দিতে হবে। যারা নিজেদের সংশোধন করে, নিশ্চয় আল্লাহ তাদের প্রতি অতি ক্ষমাশীল ও পরম দয়ালু।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "توب",
+   "lemma": "تابَ",
+   "meaning_en": "they repented",
+   "meaning_bn": "তওবা করেছে",
+   "why_en": "Turning away from crime and returning to obedience before being caught."
+  },
+  {
+   "pos": 7,
+   "root": "قدر",
+   "lemma": "قَدَرَ",
+   "meaning_en": "you overpower / capture them",
+   "meaning_bn": "তোমরা তাদের আয়ত্তে আনো",
+   "why_en": "The legal boundary: voluntary surrender before arrest drops specific severe penalties."
+  },
+  {
+   "pos": 12,
+   "root": "غفر",
+   "lemma": "غَفُور",
+   "meaning_en": "Most Forgiving",
+   "meaning_bn": "অতি ক্ষমাশীল",
+   "why_en": "Allah pardons the rebel who surrenders and seeks mercy."
+  },
+  {
+   "pos": 13,
+   "root": "رحم",
+   "lemma": "رَحِيم",
+   "meaning_en": "Most Merciful",
+   "meaning_bn": "পরম দয়ালু",
+   "why_en": "Highlights Allah's compassion toward those who turn back to peace."
+  }
+ ],
+ "lesson_en": "Turn back to Allah in sincere repentance before it is too late.",
+ "lesson_bn": "সময় থাকতে এবং পাকড়াও হওয়ার আগেই আন্তরিকভাবে তওবা করে সৎপথে ফিরে আসুন।",
+ "real_life_en": "A young man joins a theft ring but feels sickened by his actions. Before the police identify him, he quits the gang and turns himself in. He returns what he took and seeks an honest living.",
+ "real_life_bn": "এক ব্যক্তি খারাপ সঙ্গীদের সাথে অসৎ কাজে জড়িয়ে পড়েছিল। কিন্তু গ্রেপ্তার হওয়ার আগেই সে অনুতপ্ত হয়ে খারাপ দল ত্যাগ করে এবং ক্ষতিপূরণ দেয়। আন্তরিক তওবা মানুষকে অন্ধকার থেকে আলোয় ফিরিয়ে আনে।",
+ "context_en": "Provides an exception to the harsh penalties of the previous ayah for bandits who surrender and repent before arrest.",
+ "context_bn": "পূর্ববর্তী আয়াতে উল্লেখিত কঠোর শাস্তির বিপরীতে গ্রেপ্তার হওয়ার আগে স্বেচ্ছায় তওবাকারীদের জন্য ক্ষমার সুযোগের বিধান।",
+ "themes": [
+  "repentance",
+  "forgiveness",
+  "Allah's mercy",
+  "law",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "law",
+  "promise",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Ghafur",
+   "Ar-Rahim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Criminals who repent and surrender before the authorities overpower them are spared the severe state penalties.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah is Most Forgiving and Most Merciful toward those who sincerely turn away from crime.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

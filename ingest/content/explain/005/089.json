@@ -1,0 +1,80 @@
+{
+ "id": "5:89",
+ "simple_en": "Allah does not hold you accountable for casual, unintended words in your oaths. But He holds you responsible for oaths you swear with deliberate intent. If you break such an oath, the expiation is to feed ten needy people with average family food, clothe them, or free a slave. If you cannot afford that, fast for three days. Guard your oaths, and thank Allah for making His rules clear.",
+ "simple_bn": "তোমাদের অনিচ্ছাকৃত নিরর্থক শপথের জন্য আল্লাহ তোমাদের দায়ী করবেন না। তবে আন্তরিকভাবে দৃঢ় সংকল্পের সাথে করা শপথ ভঙ্গ করলে তিনি জবাবদিহি করবেন। এর কাফফারা হলো দশজন অভাবীকে তোমাদের পরিবারের মধ্যম মানের খাবার খাওয়ানো, তাদের পোশাক দেওয়া অথবা একজন দাস মুক্ত করা। যার সামর্থ্য নেই, সে তিন দিন রোযা রাখবে। তোমরা তোমাদের শপথের মর্যাদা রক্ষা করো, যেন কৃতজ্ঞতা প্রকাশ করতে পারো।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "لغو",
+   "lemma": "لَغْو",
+   "meaning_en": "for unintentional / idle talk",
+   "meaning_bn": "অনিচ্ছাকৃত বা নিরর্থক কথার জন্য",
+   "why_en": "Habitual phrases spoken without conscious intent are excused by divine mercy."
+  },
+  {
+   "pos": 10,
+   "root": "عقد",
+   "lemma": "عَقَّد",
+   "meaning_en": "you made binding / intended",
+   "meaning_bn": "তোমরা দৃঢ় বা ইচ্ছাকৃতভাবে করেছ",
+   "why_en": "Deliberate vows carry moral responsibility and legal expiation when broken."
+  },
+  {
+   "pos": 12,
+   "root": "كفر",
+   "lemma": "كَفّارَة",
+   "meaning_en": "so its expiation",
+   "meaning_bn": "অতএব তার কাফফারা বা প্রায়শ্চিত্ত",
+   "why_en": "The prescribed charitable actions or fasting that atone for a broken oath."
+  }
+ ],
+ "lesson_en": "Keep your promises. If you break an oath, feed the needy or fast as required.",
+ "lesson_bn": "শপথের মর্যাদা রক্ষা করা উচিত এবং অনিচ্ছাকৃতভাবে ভঙ্গ হলে নির্ধারিত কাফফারা আদায় করা কর্তব্য।",
+ "real_life_en": "A man swore an oath to finish a job by Friday, but an emergency prevented it. Knowing he broke a serious oath, he feeds ten needy people at the local shelter as expiation.",
+ "real_life_bn": "এক ব্যক্তি একটি কাজের ব্যাপারে কসম খেয়েছিলেন, কিন্তু সঙ্গত কারণে তা পূরণ করতে পারেননি। শপথ ভঙ্গের দায়িত্ব উপলব্ধি করে তিনি দশজন দরিদ্র মানুষকে খাবার খাইয়ে কাফফারা আদায় করেন।",
+ "context_en": "Sets down the legal ruling and expiation for broken intentional oaths.",
+ "context_bn": "ইচ্ছাকৃত শপথ রক্ষা এবং শপথ ভঙ্গ হলে তার কাফফারার বিধান বিস্তারিতভাবে উপস্থাপন।",
+ "themes": [
+  "keeping promises",
+  "charity",
+  "fasting",
+  "gratitude"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Unintentional slips in oaths are pardoned, but deliberate oaths carry accountability.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The expiation for a broken oath is feeding ten needy people, clothing them, freeing a slave, or fasting three days if unable.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

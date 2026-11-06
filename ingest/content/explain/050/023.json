@@ -1,0 +1,71 @@
+{
+  "id": "50:23",
+  "simple_en": "The angel appointed to accompany the person will step forward. He will say: Here is the record of his deeds that I kept ready. Nothing was added and nothing was left out.",
+  "simple_bn": "সেই ব্যক্তির সাথে নিয়োজিত ফেরেশতা বলবেন, এই যে আমার কাছে তার আমলনামা প্রস্তুত রয়েছে, যাতে কোনো কিছু বাড়ানো বা কমানো হয়নি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قرن",
+      "lemma": "قَرِين",
+      "meaning_en": "his companion (angel)",
+      "meaning_bn": "তার সঙ্গী (ফেরেশতা)",
+      "why_en": "The recording angel who accompanied the person throughout life."
+    },
+    {
+      "pos": 6,
+      "root": "عتد",
+      "lemma": "عَتِيد",
+      "meaning_en": "ready and prepared",
+      "meaning_bn": "প্রস্তুত বিদ্যমান",
+      "why_en": "The complete record preserved without any deletion or alteration."
+    }
+  ],
+  "lesson_en": "Every choice you make is being written down. That file will be handed over to Allah.",
+  "lesson_bn": "আপনার প্রতিটি সিদ্ধান্ত এমন এক ফাইলে নথিভুক্ত হচ্ছে, যা হাশরের দিন আল্লাহর সামনে পেশ করা হবে।",
+  "real_life_en": "Live in a clean and honest way. You should feel happy if every hour of your life were shown to others.",
+  "real_life_bn": "এমনভাবে জীবনযাপন করুন যেন আপনার জীবনের প্রতিটি ঘণ্টার আমল সবার সামনে পড়ে শোনালেও আপনি লজ্জিত না হন।",
+  "context_en": "The recording angel presents the complete ledger of deeds before the divine court.",
+  "context_bn": "আমললিপিকারী ফেরেশতা আল্লাহর সামনে মানুষের কৃতকর্মের পূর্ণাঙ্গ হিসাব পেশ করবেন।",
+  "themes": [
+    "angels",
+    "record of deeds",
+    "judgment",
+    "the unseen"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels",
+      "recording-angels",
+      "record-of-deeds"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The accompanying angel presents the prepared record of the person's deeds without change.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

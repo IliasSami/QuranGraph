@@ -1,0 +1,81 @@
+{
+ "id": "45:5",
+ "simple_en": "Night and day follow each other in order. Allah sends down rain from the sky to bring dead earth back to life. He directs the winds across the land. All of these are clear signs for people who use their minds. They show that Allah has the power to give life, provide food, and raise the dead.",
+ "simple_bn": "রাত ও দিনের আবর্তন, বৃষ্টির মাধ্যমে মৃত জমিনকে সজীব করা এবং বাতাসের গতি পরিবর্তনের মধ্যে বোধসম্পন্ন মানুষের জন্য বড় নিদর্শন রয়েছে। এই প্রাকৃতিক নিয়ম প্রমাণ করে যে আল্লাহ এক এবং তিনি মৃতকে পুনরুজ্জীবিত করতে সক্ষম।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "خلف",
+   "lemma": "اخْتِلاف",
+   "meaning_en": "alternation / change",
+   "meaning_bn": "পরিবর্তন ও পরিক্রমা",
+   "why_en": "The regular shift between day and night shows divine order in the cosmos."
+  },
+  {
+   "pos": 10,
+   "root": "رزق",
+   "lemma": "رِزْق",
+   "meaning_en": "provision (rain)",
+   "meaning_bn": "জীবিকা (বৃষ্টির পানি)",
+   "why_en": "Rain is the source of life and crops that sustain all creatures."
+  },
+  {
+   "pos": 16,
+   "root": "صرف",
+   "lemma": "تَصْرِيف",
+   "meaning_en": "directing / turning",
+   "meaning_bn": "পরিচালনা / গতি পরিবর্তন",
+   "why_en": "The changing winds carry clouds and help plant life grow."
+  },
+  {
+   "pos": 20,
+   "root": "عقل",
+   "lemma": "عَقَلُ",
+   "meaning_en": "those who reason",
+   "meaning_bn": "যারা বুদ্ধি খাটায়",
+   "why_en": "People who use their reason see the Creator behind these natural cycles."
+  }
+ ],
+ "lesson_en": "The cycles of nature show that Allah can provide for us and raise the dead.",
+ "lesson_bn": "প্রকৃতির নিয়ম ও বৃষ্টি প্রমাণ করে যে আল্লাহ সবকিছুর রিজিকদাতা এবং পুনরুত্থানে সক্ষম।",
+ "real_life_en": "When rain falls on dry earth and green grass sprouts, remember the Day of Resurrection. Just as Allah brings barren soil back to life, He will raise us after death.",
+ "real_life_bn": "শুষ্ক জমিতে বৃষ্টি পড়ার পর সতেজ ঘাস গজাতে দেখলে আখেরাতের কথা স্মরণ করুন। যে আল্লাহ মৃত জমিনকে জীবিত করেন, তিনি মানুষকেও পুনরুত্থিত করবেন।",
+ "themes": [
+  "signs in nature",
+  "creation",
+  "resurrection",
+  "Allah's power"
+ ],
+ "kinds": [
+  "belief",
+  "creation",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The alternation of day and night, life-giving rain, and the movement of winds are proofs of Allah's oneness and power to resurrect.",
+   "claim_bn": "দিন-রাতের পরিক্রমা, বৃষ্টির পানি দিয়ে মৃত জমিন জীবিত করা এবং বাতাসের গতি পরিবর্তনের মধ্যে আল্লাহর ক্ষমতা ও পুনরুত্থানের প্রমাণ রয়েছে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

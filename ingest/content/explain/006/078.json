@@ -1,0 +1,85 @@
+{
+  "id": "6:78",
+  "simple_en": "When Abraham saw the sun rising in full radiance, he said: Is this my Lord? This is bigger and brighter than the stars and moon. But when evening came and the sun set, his argument was complete. He said: O my people, I am entirely free from the partners you associate with Allah.",
+  "simple_bn": "অতঃপর যখন তিনি সূর্যকে দীপ্তিময় হয়ে উদিত হতে দেখলেন, তখন বললেন: এটি কি আমার প্রতিপালক? এটি তো নক্ষত্র ও চাঁদের চেয়েও বড়। কিন্তু যখন সূর্যও ডুবে গেল, তখন তাঁর যুক্তি পূর্ণ হলো। তিনি বললেন: হে আমার সম্প্রদায়! তোমরা আল্লাহর সাথে যেসব অংশীদার সাব্যস্ত করো, আমি তা থেকে সম্পূর্ণ মুক্ত।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "شمس",
+      "lemma": "شَمْس",
+      "meaning_en": "the sun",
+      "meaning_bn": "সূর্য",
+      "why_en": "The largest and most radiant celestial body visible to man."
+    },
+    {
+      "pos": 9,
+      "root": "كبر",
+      "lemma": "أَكْبَر",
+      "meaning_en": "greater or biggest",
+      "meaning_bn": "তুলনামূলক বড় বা বৃহত্তম",
+      "why_en": "Notes the sun's greater size and brightness compared to stars and moon."
+    },
+    {
+      "pos": 15,
+      "root": "برأ",
+      "lemma": "بَرِيء",
+      "meaning_en": "completely free and clear",
+      "meaning_bn": "সম্পর্কহীন বা মুক্ত",
+      "why_en": "Declares total disavowal of idolatry and false celestial gods."
+    }
+  ],
+  "lesson_en": "Even the mighty sun rises and sets by Allah's command. Worship only the Maker of light.",
+  "lesson_bn": "সূর্যের মতো বিশাল সৃষ্টিও অস্তমিত হতে বাধ্য। তাই কোনো সৃষ্টির নয়, কেবল এদের মহান স্রষ্টারই ইবাদত করুন।",
+  "real_life_en": "Do not be dazzled by overwhelming power or worldly grandeur. Just like the sun, every great power on earth is bound by limits. Fear and revere only Allah, the supreme Creator of all splendor.",
+  "real_life_bn": "দুনিয়ার কোনো প্রতাপশালী ব্যক্তি বা বিশাল শক্তির জাঁকজমক দেখে বিমোহিত হবেন না। সূর্যের মতো মহাশক্তিধর সৃষ্টিও আল্লাহর আদেশের অধীন। নিজের অন্তরকে সব মিথ্যা ভীতি থেকে মুক্ত করে কেবল এক আল্লাহর সামনে নত করুন।",
+  "context_en": "Abraham culminates his debate by examining the sun, the largest celestial body, definitively shattering the case for star worship.",
+  "context_bn": "নক্ষত্র ও চাঁদের পর সর্ববৃহৎ দৃশ্যমান বস্তু সূর্যের অস্তগমন দেখিয়ে ইবরাহীম (আ.) শিরকের বিরুদ্ধে চূড়ান্ত যুক্তি স্থাপন করেন।",
+  "themes": [
+    "tawhid",
+    "reasoning",
+    "Abraham",
+    "sun",
+    "disavowal of shirk"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim"
+    ],
+    "nations": [
+      "people of Ibrahim"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the sun"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Abraham pointed to the rising sun as the largest and brightest celestial body to test his people's logic.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "When the sun also set, Abraham openly declared his total disassociation from all polytheistic partners.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

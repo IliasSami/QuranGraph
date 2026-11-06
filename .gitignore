@@ -8,3 +8,4 @@ web/.wrangler/
 *.DS_Store
 __pycache__/
 .claude/
+web/public/audio/bn/*.mp3

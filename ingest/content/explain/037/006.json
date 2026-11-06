@@ -1,0 +1,54 @@
+{
+  "id": "37:6",
+  "simple_en": "Allah has adorned the lowest sky closest to earth with bright, shining stars. These glittering lights bring beauty to the night and fill hearts with wonder. They also serve as guideposts for travelers across land and sea.",
+  "simple_bn": "আল্লাহ পৃথিবীর নিকটবর্তী আসমানকে উজ্জ্বল তারকারাজি দিয়ে সুশোভিত করেছেন। রাতের আকাশে মিটমিট করা এই তারাগুলো এক অপরূপ সৌন্দর্য সৃষ্টি করে। এগুলো রাতের অন্ধকারে পথচলা মানুষের দিকনির্দেশক হিসেবেও কাজ করে।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "كوكب",
+      "lemma": "كَوْكَب",
+      "meaning_en": "the stars",
+      "meaning_bn": "নক্ষত্ররাজি",
+      "why_en": "Mentions the brilliant celestial bodies that beautify the night sky and serve as guiding lights."
+    }
+  ],
+  "lesson_en": "Allah created the night sky with beauty and purpose for people to reflect upon.",
+  "lesson_bn": "আল্লাহর সৃষ্টিতে সৌন্দর্য ও প্রয়োজনীয়তা নিখুঁতভাবে মিশে রয়েছে।",
+  "real_life_en": "Step outside on a clear night and look up at the shining stars. Appreciating natural beauty draws you closer to the Creator who made it all.",
+  "real_life_bn": "মেঘমুক্ত রাতের আকাশে তারাদের রূপ দেখে মহান সৃষ্টিকর্তার প্রশংসা করুন। প্রকৃতির সৌন্দর্য মানুষকে আল্লাহর সৃষ্টির মাহাত্ম্য বুঝতে সাহায্য করে।",
+  "themes": [
+    "stars",
+    "creation",
+    "beauty",
+    "sky"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah beautified the nearest heaven to earth with the brilliant adornment of stars.",
+      "claim_bn": "আল্লাহ পৃথিবীর নিকটবর্তী আকাশকে সুন্দর নক্ষত্ররাজি দ্বারা সুশোভিত করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

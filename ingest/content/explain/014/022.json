@@ -1,0 +1,89 @@
+{
+  "id": "14:22",
+  "simple_en": "When judgment is complete, Satan will say: Allah gave you a true promise, while I made promises and failed you. I had no power over you except that I invited you, and you chose to follow me. So do not blame me, blame yourselves. I cannot save you, and you cannot save me. I reject how you associated me with Allah before. The wrongdoers will face a painful punishment.",
+  "simple_bn": "যখন বিচার সমাপ্ত হবে তখন শয়তান বলবে: আল্লাহ তোমাদের সত্য প্রতিশ্রুতি দিয়েছিলেন, আর আমি প্রতিশ্রুতি দিয়ে ভঙ্গ করেছি। তোমাদের ওপর আমার কোনো জোরজুলুম ছিল না, কেবল আমি তোমাদের ডেকেছিলাম আর তোমরা আমার ডাকে সাড়া দিয়েছিলে। তাই আমাকে দোষারোপ কোরো না, নিজেদেরই ভর্ৎসনা করো। আজ আমি তোমাদের বাঁচাতে পারব না, আর তোমরাও আমাকে বাঁচাতে পারবে না। তোমরা পূর্বে আমাকে আল্লাহর শরিক বানিয়েছিলে, আমি তা অস্বীকার করছি। নিশ্চয় জালিমদের জন্য রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "شطن",
+      "lemma": "شَيْطان",
+      "meaning_en": "Satan",
+      "meaning_bn": "শয়তান",
+      "why_en": "Iblis the deceiver."
+    },
+    {
+      "pos": 10,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "of truth",
+      "meaning_bn": "সত্য",
+      "why_en": "Allah's faithful promise."
+    },
+    {
+      "pos": 12,
+      "root": "خلف",
+      "lemma": "أَخْلَفَ",
+      "meaning_en": "so I failed you",
+      "meaning_bn": "আমি তা ভঙ্গ করলাম",
+      "why_en": "Satan breaking false promises."
+    },
+    {
+      "pos": 25,
+      "root": "لوم",
+      "lemma": "لامَ",
+      "meaning_en": "do not blame me",
+      "meaning_bn": "আমাকে দোষ দিও না",
+      "why_en": "Refusal of responsibility."
+    },
+    {
+      "pos": 37,
+      "root": "شرك",
+      "lemma": "أَشْرَكَ",
+      "meaning_en": "you associated me",
+      "meaning_bn": "তোমরা আমাকে শরিক করেছিলে",
+      "why_en": "Denouncing idolatry and false worship."
+    }
+  ],
+  "lesson_en": "Satan only whispers to tempt people. You make the choice. Take full ownership of your deeds today.",
+  "lesson_bn": "শয়তান কেবল কুমন্ত্রণা দেয়, পাপের সিদ্ধান্ত মানুষ নিজেই নেয়। তাই আজই নিজের কাজের দায়িত্ব নিন এবং তওবা করুন।",
+  "real_life_en": "A gambler loses his family savings and blames friends who urged him to play. An honest counselor reminds him that nobody forced his hand. He must own his error, ask Allah for forgiveness, and rebuild his life.",
+  "real_life_bn": "জুয়ায় সব হারিয়ে এক ব্যক্তি তার অসৎ সঙ্গীদের দোষ দেয়। কিন্তু একজন শুভাকাঙ্ক্ষী তাকে বোঝান যে সিদ্ধান্তটি তার নিজেরই ছিল। সে নিজের ভুল স্বীকার করে তওবা করে সৎপথে ফিরে আসে।",
+  "context_en": "The sermon of Iblis in Hell disowning his followers after the judgment is passed.",
+  "context_bn": "জাহান্নামে শয়তানের চরম সত্য ভাষণ, যেখানে সে তার অনুসারীদের ধোঁকা দেওয়ার কথা স্বীকার করে তাদের দায় নিজেদের ওপরই চাপিয়ে দেবে।",
+  "themes": [
+    "hereafter",
+    "deception",
+    "free-will",
+    "repentance"
+  ],
+  "kinds": [
+    "hereafter",
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Satan",
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Satan will admit his deceit in Hell and disown those who followed him instead of Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

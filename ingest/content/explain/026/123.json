@@ -1,0 +1,65 @@
+{
+  "id": "26:123",
+  "simple_en": "The people of 'Ad denied the messengers of God. When they rejected their own prophet Hud, they rejected the call of all prophets. They refused to hear the message of truth.",
+  "simple_bn": "‘আদ সম্প্রদায় আল্লাহর প্রেরিত রাসূলদের প্রতি মিথ্যারোপ করেছিল। নিজেদের নবী হূদকে অস্বীকার করার মাধ্যমে তারা মূলত সকল রাসূলের আনীত সত্যের শিক্ষাকেই অস্বীকার করেছিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied",
+      "meaning_bn": "মিথ্যারোপ করেছিল",
+      "why_en": "Their rejection of the divine message delivered by God's messenger."
+    },
+    {
+      "pos": 3,
+      "root": "رسل",
+      "lemma": "مُرْسَل",
+      "meaning_en": "the messengers",
+      "meaning_bn": "রাসূলগণ",
+      "why_en": "The prophets sent by God with universal guidance."
+    }
+  ],
+  "lesson_en": "Rejecting one true prophet is like rejecting all of them. Pride keeps the heart from truth.",
+  "lesson_bn": "একজন সত্য নবীকে অস্বীকার করা মানে সকল নবীর শিক্ষাকে অস্বীকার করা। অহংকার মানুষকে সত্যের আলো থেকে দূরে সরিয়ে দেয়।",
+  "real_life_en": "Listen to good advice with an open mind. Do not let family pride or wealth stop you from accepting the truth.",
+  "real_life_bn": "বংশ বা সামাজিক অহংকারের বশে কোনো ভালো উপদেশ উপেক্ষা করবেন না। সত্য কথা যে ব্যক্তিই বলুক না কেন, তা বিনয়ের সাথে গ্রহণ করতে শিখুন।",
+  "themes": [
+    "prophethood",
+    "denial",
+    "earlier-nations"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "hud"
+    ],
+    "nations": [
+      "aad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The people of 'Ad denied the messengers of God when they rejected their own prophet Hud, since denying one prophet is equivalent to denying them all.",
+      "claim_bn": "‘আদ সম্প্রদায় নিজেদের নবী হূদের প্রতি মিথ্যারোপ করার মাধ্যমে মূলত সকল রাসূলকেই অস্বীকার করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

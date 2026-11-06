@@ -1,0 +1,71 @@
+{
+  "id": "26:121",
+  "simple_en": "The story of Noah and his people holds a clear sign. God saved the believers in the ark. He sent the flood to end the wrongdoers. Yet most people still did not believe.",
+  "simple_bn": "নূহ ও তাঁর সম্প্রদায়ের এই ঘটনার মধ্যে আল্লাহর ক্ষমতা ও ইনসাফের সুস্পষ্ট নিদর্শন রয়েছে। আল্লাহ মুমিনদের রক্ষা করেছিলেন এবং সত্য প্রত্যাখ্যানকারীদের নিমজ্জিত করেছিলেন। কিন্তু অধিকাংশ মানুষই শিক্ষা নেয়নি এবং ঈমান আনেনি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "a sign",
+      "meaning_bn": "নিদর্শন",
+      "why_en": "A clear divine sign and proof of God's power and justice."
+    },
+    {
+      "pos": 8,
+      "root": "أمن",
+      "lemma": "مُؤْمِن",
+      "meaning_en": "believers",
+      "meaning_bn": "মুমিন বা বিশ্বাসী",
+      "why_en": "The state of true faith that saves a person from ruin."
+    }
+  ],
+  "lesson_en": "God shows clear signs to all people. Do not follow the crowd into error.",
+  "lesson_bn": "ধ্বংসের ইতিহাস থেকে উপদেশ গ্রহণ করাই বুদ্ধিমানের কাজ। অধিকাংশ মানুষ ভুল পথে থাকলেও সত্যকে আঁকড়ে ধরা উচিত।",
+  "real_life_en": "Do not judge truth by numbers. Even if many people neglect what is right, keep your faith strong. Stand firm in doing good for God.",
+  "real_life_bn": "সমাজে কোনো অন্যায় জনপ্রিয় হলেও তা অনুসরণ করবেন না। সত্য ও সততার পথে চলতে গিয়ে নিজেকে একা মনে হলেও সৎ কাজের ওপর অবিচল থাকুন।",
+  "themes": [
+    "divine-justice",
+    "divine-signs",
+    "belief",
+    "disbelief"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "nuh"
+    ],
+    "nations": [
+      "disbelievers",
+      "believers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "The Great Flood"
+    ],
+    "things": [
+      "The Ark"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "In the story of Noah, the saving of the believers in the ark and the destruction of the disbelievers is a profound sign, yet most people remained without faith.",
+      "claim_bn": "নূহ ও তাঁর মুমিন সাথীদের রক্ষা পাওয়া এবং কাফেরদের ধ্বংস হওয়ার মধ্যে স্পষ্ট নিদর্শন রয়েছে, তবে অধিকাংশ মানুষই ঈমান আনেনি।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

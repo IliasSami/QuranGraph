@@ -1,0 +1,71 @@
+{
+ "id": "44:55",
+ "simple_en": "In Paradise, the believers will call for whatever delicious fruit they desire. Every fruit will be brought to them with ease. They will be safe from any illness, harm, or lack.",
+ "simple_bn": "জান্নাতে মুমিনরা যে কোনো সুস্বাদু ফলের ইচ্ছা প্রকাশ করলেই তা তাদের সামনে উপস্থিত করা হবে। তারা কোনো ক্ষতি, অসুস্থতা বা ফুরিয়ে যাওয়ার ভয় ছাড়াই তা উপভোগ করবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "دعو",
+   "lemma": "دَعا",
+   "meaning_en": "they call for",
+   "meaning_bn": "তারা আনতে বলবে",
+   "why_en": "Their wishes are fulfilled instantly by attendants in Paradise."
+  },
+  {
+   "pos": 4,
+   "root": "فكه",
+   "lemma": "فاكِهَة",
+   "meaning_en": "fruit",
+   "meaning_bn": "ফলমূল",
+   "why_en": "Paradise contains endless varieties of exquisite, fresh fruits."
+  },
+  {
+   "pos": 5,
+   "root": "أمن",
+   "lemma": "آمِن",
+   "meaning_en": "safe and secure",
+   "meaning_bn": "নিরাপদে বা নিশ্চিত মনে",
+   "why_en": "These provisions never run out and never cause indigestion or harm."
+  }
+ ],
+ "lesson_en": "In Paradise, every wish comes true. Believers live in peace and safety.",
+ "lesson_bn": "জান্নাতে প্রতিটি সৎ ইচ্ছা সম্পূর্ণ নিরাপত্তা ও শান্তির সাথে পূরণ করা হবে।",
+ "real_life_en": "Be happy even when you cannot buy every sweet treat today. Live to please Allah, knowing that endless good food waits in Paradise.",
+ "real_life_bn": "পার্থিব জীবনে সব শখ পূরণ না হলেও সন্তুষ্ট থাকুন। আল্লাহর সন্তুষ্টির জন্য কাজ করুন, কারণ জান্নাতে অনন্ত আনন্দ অপেক্ষা করছে।",
+ "themes": [
+  "Paradise",
+  "reward",
+  "gratitude"
+ ],
+ "kinds": [
+  "glad-tidings",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "paradise"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The dwellers of Paradise will call for every fruit they wish, completely safe from scarcity or harm.",
+   "claim_bn": "জান্নাতবাসীরা তাদের পছন্দের যে কোনো ফল নিরাপদে চেয়ে নেবে এবং তা কখনো শেষ হবে না।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

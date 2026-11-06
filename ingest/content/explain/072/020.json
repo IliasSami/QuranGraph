@@ -1,0 +1,86 @@
+{
+ "id": "72:20",
+ "simple_en": "The Prophet is commanded to declare his pure faith openly to all people. He says: I pray only to my Lord, the Creator of all that exists. I do not join any partner with Him, neither idol nor angel nor man. My worship belongs to Him alone.",
+ "simple_bn": "নবীকে নির্দেশ দেওয়া হয়েছে যেন তিনি সবার সামনে নিজের খাঁটি বিশ্বাসের কথা স্পষ্ট করে ঘোষণা করেন। তিনি বলেন, আমি কেবল আমার প্রতিপালককেই ডাকি, যিনি নিখিল বিশ্বের স্রষ্টা। তাঁর ইবাদতে আমি কাউকে শরিক করি না, কোনো মূর্তি বা কোনো সৃষ্টিকে নয়। আমার সমস্ত উপাসনা কেবল তাঁরই জন্য।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قول",
+   "lemma": "قالَ",
+   "meaning_en": "say",
+   "meaning_bn": "বলুন",
+   "why_en": "A direct command to make this public declaration."
+  },
+  {
+   "pos": 3,
+   "root": "دعو",
+   "lemma": "دَعا",
+   "meaning_en": "I invoke, pray to",
+   "meaning_bn": "আমি ডাকি",
+   "why_en": "Directing all worship and prayers."
+  },
+  {
+   "pos": 4,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "my Lord",
+   "meaning_bn": "আমার রব",
+   "why_en": "The Master and Sustainer."
+  },
+  {
+   "pos": 6,
+   "root": "شرك",
+   "lemma": "أَشْرَكَ",
+   "meaning_en": "I do not associate partner",
+   "meaning_bn": "আমি শরিক করি না",
+   "why_en": "Rejecting polytheism in all its forms."
+  }
+ ],
+ "lesson_en": "State your faith with confidence. Worship Allah alone and never share His rights with any creature.",
+ "lesson_bn": "দৃঢ়তার সাথে নিজের ঈমান প্রকাশ করুন। কেবল এক আল্লাহর ইবাদত করুন এবং তাঁর অধিকারে কাউকে অংশীদার করবেন না।",
+ "real_life_en": "At a party, friends urge a young man to join in wrong customs. Calmly and kindly, he tells them what he believes. He stays true to his faith. Standing firm for truth wins real respect.",
+ "real_life_bn": "একটি অনুষ্ঠানে বন্ধুদের চাপের মুখেও এক যুবক অন্যায় কোনো কাজে যোগ দেয় না। সে শান্ত ও সুন্দরভাবে নিজের বিশ্বাসের কথা জানায়। সে নিজের ধর্মে অবিচল থাকে। সত্যের পক্ষে দাঁড়ালে মানুষ প্রকৃত সম্মান পায়।",
+ "themes": [
+  "monotheism",
+  "tawheed",
+  "worship"
+ ],
+ "kinds": [
+  "command",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Prophet was commanded to declare that he calls upon his Lord alone and associates no partner with Him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Pure devotion belongs exclusively to the Lord of creation.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

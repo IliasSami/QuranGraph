@@ -1,0 +1,65 @@
+{
+  "id": "26:19",
+  "simple_en": "Pharaoh brought up the death of the Egyptian man. He accused Moses of being ungrateful for the royal care he had received as a child.",
+  "simple_bn": "ফিরআউন আরও বলল, তুমি তো সেই অন্যায় কাজ করেছিলে যা তুমি করেছিলে, আর তুমি ছিলে আমার প্রতি কৃতঘ্ন ও অনুগ্রহ অস্বীকারকারী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "فَعْلَتَكَ",
+      "root": "فعل",
+      "lemma": "فَعْلَت",
+      "meaning_en": "your deed",
+      "meaning_bn": "তোমার কাজ",
+      "why_en": "Referring to the killing of the Egyptian man."
+    },
+    {
+      "pos": 7,
+      "arabic": "ٱلْكَٰفِرِينَ",
+      "root": "كفر",
+      "lemma": "كافِر",
+      "meaning_en": "the ungrateful",
+      "meaning_bn": "অকৃতজ্ঞদের অন্তর্ভুক্ত",
+      "why_en": "Accusing Moses of ingratitude for royal upbringing."
+    }
+  ],
+  "lesson_en": "Opponents often bring up past errors to distract from the message of truth.",
+  "lesson_bn": "বিরোধীরা মূল আদর্শিক আলোচনা থেকে দৃষ্টি সরাতে অতীতের দুর্বলতাকে হাতিয়ার হিসেবে ব্যবহার করে।",
+  "real_life_en": "Stay calm when others bring up your past to attack your character. Focus on truth and maintain your integrity.",
+  "real_life_bn": "কেউ আপনার অতীত নিয়ে কথা বলে মনোবল ভাঙতে চাইলে ধৈর্য ধরুন। নিজের বর্তমান সততা বজায় রাখুন।",
+  "themes": [
+    "accusation",
+    "patience",
+    "prophets"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh accused Moses of committing a crime and being ungrateful for his royal upbringing.",
+      "claim_bn": "ফিরআউন মূসাকে কিবতী হত্যার কথা স্মরণ করিয়ে দিয়ে অকৃতজ্ঞতার অপবাদ দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

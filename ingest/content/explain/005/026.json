@@ -1,0 +1,97 @@
+{
+ "id": "5:26",
+ "simple_en": "Allah answered the prayer of Moses. He decreed that the Israelites would not enter the Holy Land for forty years. During this time, they wandered lost in the desert without reaching their goal. Allah told Moses not to grieve over their state. Their punishment was the direct result of their own sins.",
+ "simple_bn": "আল্লাহ মূসা (আলাইহিস সালাম)-এর দোয়ার জবাবে ফায়সালা জানালেন। তিনি বনী ইসরাঈলের জন্য চল্লিশ বছর সেই পবিত্র ভূমিতে প্রবেশ নিষিদ্ধ করলেন। এই সময়ে তারা মরুভূমিতে দিকভ্রান্ত হয়ে ঘুরে বেড়াবে। আল্লাহ মূসা (আলাইহিস সালাম)-কে সান্ত্বনা দিলেন যেন তিনি এই অবাধ্য সম্প্রদায়ের পরিণতির জন্য দুঃখ না করেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "حرم",
+   "lemma": "مُحَرَّمَة",
+   "meaning_en": "forbidden",
+   "meaning_bn": "নিষিদ্ধ",
+   "why_en": "The divine decree barring them from the promised land as a penalty."
+  },
+  {
+   "pos": 5,
+   "root": "ربع",
+   "lemma": "أَرْبَع",
+   "meaning_en": "forty",
+   "meaning_bn": "চল্লিশ",
+   "why_en": "The span of years during which a new, steadfast generation would grow."
+  },
+  {
+   "pos": 7,
+   "root": "تيه",
+   "lemma": "يَتِيهُ",
+   "meaning_en": "wandering lost",
+   "meaning_bn": "দিকভ্রান্ত হয়ে ঘোরা",
+   "why_en": "Describes their confused, aimless wandering in the Sinai desert."
+  },
+  {
+   "pos": 11,
+   "root": "أسو",
+   "lemma": "تَأْسَ",
+   "meaning_en": "grieve / sorrow",
+   "meaning_bn": "দুঃখ করা",
+   "why_en": "Comforts Moses so he does not feel pain over their deserved punishment."
+  }
+ ],
+ "lesson_en": "Sin leads to loss and regret. Obey Allah to keep your blessings safe.",
+ "lesson_bn": "পাপ মানুষকে ক্ষতিগ্রস্ত ও অনুতপ্ত করে। নিয়ামত ধরে রাখতে সর্বদা আল্লাহর আনুগত্য করুন।",
+ "real_life_en": "A group of workers rejects wise rules and acts with pride. As a result, they lose their jobs and struggle for years to find stability. We must never feel bitter when bad choices lead to their natural consequences.",
+ "real_life_bn": "একদল কর্মী অহংকার করে সঠিক নিয়ম মানতে অস্বীকার করায় প্রতিষ্ঠান থেকে বরখাস্ত হয়। বছরের পর বছর তারা কষ্টে দিন কাটায়। ভুল কাজের জন্য শাস্তি আসলে তা থেকে শিক্ষা নেওয়া উচিত।",
+ "context_en": "Concludes the story of the Israelites' refusal to enter the Holy Land with Allah's decree of forty years of wandering.",
+ "context_bn": "পবিত্র ভূমিতে প্রবেশের অবাধ্যতার ফলে বনী ইসরাঈলের ওপর চল্লিশ বছরের মরু-বাসের শাস্তির ঘোষণা।",
+ "themes": [
+  "punishment",
+  "patience",
+  "justice",
+  "stories of the prophets",
+  "Children of Israel"
+ ],
+ "kinds": [
+  "promise",
+  "warning",
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Moses (peace be upon him)"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [
+   "the wilderness / Sinai desert"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah declared the Holy Land forbidden to the rebellious Israelites for forty years.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "During these forty years they wandered lost in the wilderness, and Allah told Moses not to grieve for them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

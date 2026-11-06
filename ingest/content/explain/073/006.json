@@ -1,0 +1,68 @@
+{
+ "id": "73:6",
+ "simple_en": "Waking up at night to pray has a deep effect on a person. During the night, the heart and the tongue agree more easily. There are fewer distractions from the world. A person can recite the Quran with clear focus, and the words settle deep into the soul.",
+ "simple_bn": "রাতের বেলা ঘুম থেকে উঠে সালাত আদায় করার প্রভাব অনেক গভীর। এ সময় মন ও জবান এক হয়ে যায় এবং চারপাশের ব্যস্ততা কমে আসে। ফলে মানুষ সম্পূর্ণ মনোযোগ দিয়ে তিলাওয়াত করতে পারে এবং কুরআনের বাণী সরাসরি হৃদয়ে প্রবেশ করে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نشأ",
+   "lemma": "ناشِئَة",
+   "meaning_en": "hours of the night",
+   "meaning_bn": "রাতের বেলা ওঠা",
+   "why_en": "It refers to waking up during the night for worship."
+  },
+  {
+   "pos": 6,
+   "root": "وطأ",
+   "lemma": "وَطْء",
+   "meaning_en": "concurrence, agreement",
+   "meaning_bn": "মনের একাগ্রতা",
+   "why_en": "The heart and tongue work together more easily during the night."
+  },
+  {
+   "pos": 7,
+   "root": "قوم",
+   "lemma": "أَقْوَم",
+   "meaning_en": "more upright, more correct",
+   "meaning_bn": "অধিক উপযোগী",
+   "why_en": "Night recitation is clearer and less distracted by worldly affairs."
+  }
+ ],
+ "lesson_en": "Worship during the quiet night brings harmony between your speech and your heart.",
+ "lesson_bn": "রাতের নির্জন ইবাদত অন্তর ও কথার মধ্যে গভীর ঐক্য ও একাগ্রতা এনে দেয়।",
+ "real_life_en": "If it is hard to focus during the day, try reading late at night. The quiet helps your mind stay calm. You can think about what you read.",
+ "real_life_bn": "দিনের বেলা নানা ব্যস্ততা বা ফোনের শব্দের কারণে কাজে মনোযোগ দেওয়া কঠিন হলে শেষ রাতের নীরবতা কাজে লাগান। নিস্তব্ধ পরিবেশে যেকোনো ভালো বিষয়ে মনোযোগ দেওয়া অনেক সহজ হয়।",
+ "themes": [
+  "prayer",
+  "worship",
+  "the Quran"
+ ],
+ "kinds": [
+  "worship",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Waking for night prayer brings greater harmony between the heart and tongue, and makes speech more upright and focused.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": "12:43",
+  "simple_en": "One night the king of Egypt had a dream. He saw seven fat cows eaten by seven thin cows. He also saw seven green ears of grain and seven dry ones. He asked his court advisors to explain the dream if they knew how.",
+  "simple_bn": "একদিন মিসরের রাজা এক অদ্ভুত স্বপ্ন দেখলেন। তিনি দেখলেন সাতটি মোটাতাজা গাভীকে সাতটি শীর্ণ গাভী খেয়ে ফেলছে, আর সাতটি সবুজ শস্যশীষের সাথে রয়েছে সাতটি শুকনা শীষ। তিনি সভাসদদের ডেকে স্বপ্নের ব্যাখ্যা দিতে বললেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ملك",
+      "lemma": "مَلِك",
+      "meaning_en": "the king",
+      "meaning_bn": "রাজা",
+      "why_en": "The ruler of Egypt whose dream became the turning point in Yusuf’s life."
+    },
+    {
+      "pos": 6,
+      "root": "بقر",
+      "lemma": "بَقَرَة",
+      "meaning_en": "cows",
+      "meaning_bn": "গাভীসমূহ",
+      "why_en": "Symbols in the dream representing years of agricultural abundance and drought."
+    },
+    {
+      "pos": 12,
+      "root": "سنبل",
+      "lemma": "سُنبُلَة",
+      "meaning_en": "spikes of grain",
+      "meaning_bn": "শস্যের শীষ",
+      "why_en": "Representing fertile crop seasons followed by barren famine."
+    },
+    {
+      "pos": 24,
+      "root": "عبر",
+      "lemma": "تَعْبُرُ",
+      "meaning_en": "you interpret",
+      "meaning_bn": "তোমরা ব্যাখ্যা কর",
+      "why_en": "The king’s challenge to his court to decipher the strange dream."
+    }
+  ],
+  "lesson_en": "God can use sudden events in society to bring about good and lift the humble.",
+  "lesson_bn": "আল্লাহ সমাজে বড় পরিবর্তন ঘটিয়ে সৎকর্মশীল বান্দাদের মর্যাদায় অধিষ্ঠিত করেন।",
+  "real_life_en": "A town faces a sudden water shortage. A thoughtful planner offers a clear way to save water. The town avoids crisis because someone looked ahead with care.",
+  "real_life_bn": "একটি এলাকায় পানির সংকট দেখা দিলে এক দূরদর্শী ব্যক্তি সুন্দর সমাধানের পথ দেখান। তাঁর দূরদর্শিতার কারণে মানুষ বড় সংকট থেকে রক্ষা পায়।",
+  "context_en": "Years later, Allah sent the king a dream that court advisors could not solve, opening the door for Yusuf.",
+  "context_bn": "কয়েক বছর পর আল্লাহ রাজাকে এক স্বপ্ন দেখালেন যা পারিষদরা বুঝতে ব্যর্থ হলো এবং ইউসুফের মুক্তির পথ তৈরি হলো।",
+  "themes": [
+    "divine wisdom",
+    "dream interpretation",
+    "signs of Allah"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "king of Egypt",
+      "court advisors",
+      "Yusuf"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "cows",
+      "grain",
+      "dream"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The king saw seven fat cows eaten by seven lean cows, and seven green and seven dry ears of grain.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He asked his nobles to explain the meaning of his vision.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

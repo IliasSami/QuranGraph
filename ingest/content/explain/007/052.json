@@ -1,0 +1,83 @@
+{
+  "id": "7:52",
+  "simple_en": "Allah gave people a clear Book, the Quran. He explained it with full knowledge. It shows the right way and brings mercy to those who believe. People who follow its truth find light in their lives and safety from harm.",
+  "simple_bn": "আল্লাহ মানবজাতির কাছে এক মহান কিতাব কোরআন পাঠিয়েছেন, যা তিনি তাঁর নিখুঁত জ্ঞানের ভিত্তিতে বিশদভাবে ব্যাখ্যা করেছেন। মানুষের হেদায়াতের জন্য যা কিছু প্রয়োজন, এতে তার সুস্পষ্ট বিবরণ রয়েছে। যারা এতে ঈমান আনে ও অনুসরণ করে, তাদের জন্য এটি পথপ্রদর্শক এবং বিশেষ রহমত।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "a Book",
+      "meaning_bn": "একটি কিতাব (কোরআন)",
+      "why_en": "Refers to the Quran, the ultimate revealed guide for mankind."
+    },
+    {
+      "pos": 4,
+      "root": "فصل",
+      "lemma": "فَصَّلَ",
+      "meaning_en": "We detailed it",
+      "meaning_bn": "আমরা তা বিশদভাবে বর্ণনা করেছি",
+      "why_en": "Highlights that the divine message is clear, thorough, and fully explained."
+    },
+    {
+      "pos": 8,
+      "root": "رحم",
+      "lemma": "رَحْمَة",
+      "meaning_en": "and a mercy",
+      "meaning_bn": "এবং অনুগ্রহ / রহমত",
+      "why_en": "Emphasizes the compassionate nature of divine revelation for believers."
+    }
+  ],
+  "lesson_en": "The Quran is built on divine wisdom. Read it with faith to find true light.",
+  "lesson_bn": "কোরআন আল্লাহর নিখুঁত জ্ঞানের আলোকে অবতীর্ণ। হেদায়াত ও রহমত পেতে গভীর শ্রদ্ধার সাথে কোরআন পাঠ করুন।",
+  "real_life_en": "A student feels confused by conflicting ideas in daily life. Reading a short passage from the Quran each morning gives clear guidance. It helps the student choose what is right.",
+  "real_life_bn": "নানা মতবাদ ও নৈতিক বিভ্রান্তির ভিড়ে একজন ব্যক্তি যখন দিকহারা বোধ করে, তখন কোরআনের সরল ও স্পষ্ট নির্দেশনা তাকে সত্য পথের সন্ধান দেয় এবং মানসিক শান্তি নিশ্চিত করে।",
+  "context_en": "After warning those who ignored the truth, Allah confirms that His message was sent with complete clarity and perfect knowledge.",
+  "context_bn": "সত্য অস্বীকারকারীদের পরিণতির পর আল্লাহ পরিষ্কার করে জানান যে তিনি তাঁর কিতাবকে স্পষ্ট জ্ঞান ও প্রজ্ঞার সাথে অবতীর্ণ করেছেন।",
+  "themes": [
+    "the Quran",
+    "revelation",
+    "guidance",
+    "Allah's mercy",
+    "Allah's knowledge"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "belief",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah gave mankind a Book detailed with comprehensive divine knowledge.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "The Quran is a source of guidance and mercy for those who believe.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,95 @@
+{
+ "id": "71:28",
+ "simple_en": "The surah ends with a deep prayer from Prophet Nuh. He asked Allah to forgive him and his parents. He also prayed for anyone who came into his home with faith. Then he asked Allah to forgive all believing men and women, and to end the harm of wicked people.",
+ "simple_bn": "সূরাটি শেষ হয়েছে নবী নূহের এক গভীর প্রার্থনার মাধ্যমে। তিনি নিজের ও তাঁর পিতা-মাতার ক্ষমার জন্য দোয়া করলেন। বিশ্বাস নিয়ে তাঁর ঘরে আসা প্রত্যেকের জন্যও তিনি প্রার্থনা করলেন। তারপর তিনি সব মুমিন নারী-পুরুষের জন্য ক্ষমা চাইলেন এবং পাপাচারীদের অনিষ্ট শেষ করার দোয়া করলেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "my Lord",
+   "meaning_bn": "আমার রব",
+   "why_en": "An intimate address opening his sincere supplication."
+  },
+  {
+   "pos": 2,
+   "root": "غفر",
+   "lemma": "غَفَرَ",
+   "meaning_en": "forgive",
+   "meaning_bn": "ক্ষমা করুন",
+   "why_en": "Seeking pardon and protection from all sins."
+  },
+  {
+   "pos": 4,
+   "root": "ولد",
+   "lemma": "والِدَي",
+   "meaning_en": "my parents",
+   "meaning_bn": "আমার পিতা-মাতা",
+   "why_en": "Honoring parents by praying for their forgiveness."
+  },
+  {
+   "pos": 9,
+   "root": "أمن",
+   "lemma": "مُؤْمِن",
+   "meaning_en": "the believing men",
+   "meaning_bn": "মুমিন পুরুষগণ",
+   "why_en": "Supplicating for all men of faith across all times."
+  },
+  {
+   "pos": 10,
+   "root": "أمن",
+   "lemma": "مُؤْمِنَة",
+   "meaning_en": "the believing women",
+   "meaning_bn": "মুমিন নারীগণ",
+   "why_en": "Explicit inclusion of all women of faith in his prayer."
+  }
+ ],
+ "lesson_en": "Pray for your own sins. Pray for your parents, and pray for all believers.",
+ "lesson_bn": "নিজের ভুলের জন্য ক্ষমা চান। পিতা-মাতার জন্য দোয়া করুন এবং সকল মুমিনের জন্য প্রার্থনা করুন।",
+ "real_life_en": "Before going to sleep, a person lifts his hands and asks Allah to forgive his mother and father, his friends, and all Muslims around the world. Praying for others brings peace and light to the heart.",
+ "real_life_bn": "ঘুমাতে যাওয়ার আগে একজন মানুষ হাত তুলে নিজের বাবা-মা, বন্ধুবান্ধব এবং পৃথিবীর সব মুসলমানের ক্ষমার জন্য দোয়া করে। অন্যের জন্য দোয়া করলে নিজের মনও প্রশান্তিতে ভরে ওঠে।",
+ "themes": [
+  "forgiveness",
+  "parents",
+  "believing community",
+  "dua"
+ ],
+ "kinds": [
+  "dua",
+  "praise"
+ ],
+ "entities": {
+  "people": [
+   "nuh"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Noah prayed for forgiveness for himself, his parents, believers who entered his house, and all believing men and women.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "He supplicated for the destruction of the stubborn oppressors.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

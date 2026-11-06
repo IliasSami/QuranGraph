@@ -1,0 +1,105 @@
+{
+ "id": "3:67",
+ "simple_en": "Abraham was not a Jew or a Christian. He was an upright man who gave himself to Allah as a Muslim. He never set up partners with Allah. He did not join the idol worshippers who falsely claimed his name.",
+ "simple_bn": "ইব্রাহীম (আলাইহিস সালাম) ইহুদি বা খ্রিস্টান ছিলেন না। বরং তিনি ছিলেন সকল অসত্য পথ থেকে বিমুখ একনিষ্ঠ মুসলিম। আর তিনি কখনো অংশীবাদী বা মুশরিকদের অন্তর্ভুক্ত ছিলেন না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "هود",
+   "lemma": "يَهُود",
+   "meaning_en": "a Jew",
+   "meaning_bn": "ইহুদি",
+   "why_en": "Refutes the claim that Abraham followed Judaism which arose after his time."
+  },
+  {
+   "pos": 6,
+   "root": "نصر",
+   "lemma": "نَصْرانِيّ",
+   "meaning_en": "a Christian",
+   "meaning_bn": "খ্রিস্টান",
+   "why_en": "Refutes the claim that Abraham followed Christianity which emerged after Jesus."
+  },
+  {
+   "pos": 9,
+   "root": "حنف",
+   "lemma": "حَنِيف",
+   "meaning_en": "upright monotheist (Hanif)",
+   "meaning_bn": "একনিষ্ঠ / হানীফ",
+   "why_en": "Signifies turning away from all false doctrines straight toward pure monotheism."
+  },
+  {
+   "pos": 10,
+   "root": "سلم",
+   "lemma": "مُسْلِم",
+   "meaning_en": "a Muslim (submitted to Allah)",
+   "meaning_bn": "মুসলিম / আত্মসমর্পণকারী",
+   "why_en": "Affirms his absolute surrender and obedience to Allah alone."
+  }
+ ],
+ "lesson_en": "True faith is total surrender to Allah alone.",
+ "lesson_bn": "সত্য ধর্ম কোনো বংশীয় পরিচয় নয়, বরং এক আল্লাহর সামনে নিঃশর্ত আত্মসমর্পণের নাম।",
+ "real_life_en": "Do not reduce faith to family names or tribal pride. Follow Abraham by turning your heart to Allah alone. Live with honest devotion every day.",
+ "real_life_bn": "ধর্মকে নিছক পারিবারিক বা সামাজিক পরিচয়ে সীমাবদ্ধ রাখবেন না। ইব্রাহীম (আলাইহিস সালাম)-এর মতো খাঁটি বিশ্বাস ও আন্তরিক আনুগত্য দিয়ে জীবন পরিচালনা করাই একজন প্রকৃত মুসলিমের পরিচয়।",
+ "context_en": "Directly defines Abraham's true spiritual identity as an upright monotheist submitted to Allah, refuting sectarian claims.",
+ "context_bn": "ইব্রাহীম (আলাইহিস সালাম)-এর প্রকৃত পরিচয় স্পষ্টভাবে তুলে ধরে যাবতীয় দলীয় বা সাম্প্রদায়িক দাবি নাকচ করা হয়েছে।",
+ "themes": [
+  "tawhid",
+  "faith",
+  "shirk",
+  "stories of the prophets",
+  "guidance"
+ ],
+ "kinds": [
+  "belief",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "Ibrahim (Abraham)"
+  ],
+  "nations": [
+   "Jews",
+   "Christians",
+   "Arab polytheists"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Abraham was neither Jewish nor Christian in creed.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Abraham was an upright monotheist (Hanif) who fully submitted to Allah as a Muslim.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Abraham was completely free from polytheism, refuting the pagan Arabs who claimed him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

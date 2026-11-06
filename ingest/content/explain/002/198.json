@@ -1,0 +1,104 @@
+{
+ "id": "2:198",
+ "simple_en": "You are not blamed if you seek honest profit by trading during the days of Hajj. When you leave Arafat after sunset, remember Allah at al-Mash'ar al-Haram in Muzdalifah. Remember Him with thanks because He guided you to the right path. Before this guidance came, you did not know the truth.",
+ "simple_bn": "হজ্জের সফরে ব্যবসা-বাণিজ্যের মাধ্যমে তোমাদের প্রতিপালকের অনুগ্রহ সন্ধান করায় কোনো দোষ নেই। অতঃপর যখন তোমরা আরাফাত থেকে রওয়ানা হবে, তখন মুযদালিফার মাশআরে হারামের নিকট পৌঁছে আল্লাহকে স্মরণ করো। তিনি যেভাবে তোমাদের সঠিক পথ প্রদর্শন করেছেন, ঠিক সেভাবে কৃতজ্ঞতার সাথে তাঁর যিকর করো; যদিও এর আগে তোমরা পথভ্রষ্টদের অন্তর্ভুক্ত ছিলে।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "فضل",
+   "lemma": "فَضْل",
+   "meaning_en": "bounty / lawful profit",
+   "meaning_bn": "অনুগ্রহ (হালাল রিযিক ও ব্যবসা)",
+   "why_en": "Clarifies that engaging in honest commerce during Hajj season is permissible and not sinful."
+  },
+  {
+   "pos": 10,
+   "root": "فيض",
+   "lemma": "أَفاضَ",
+   "meaning_en": "you surge / depart",
+   "meaning_bn": "তোমরা রওয়ানা হও বা নেমে আসো",
+   "why_en": "Describes the unified departure of the massive assembly from Arafat at sunset."
+  },
+  {
+   "pos": 12,
+   "root": "عرف",
+   "lemma": "عَرَفات",
+   "meaning_en": "Arafat",
+   "meaning_bn": "আরাফাত প্রান্তর",
+   "why_en": "The essential location of standing (wuquf), which constitutes the central pillar of Hajj."
+  },
+  {
+   "pos": 16,
+   "root": "شعر",
+   "lemma": "مَشْعَر",
+   "meaning_en": "sacred monument / site",
+   "meaning_bn": "মাশআর (পবিত্র নিদর্শনস্থল)",
+   "why_en": "Refers to the holy sanctuary at Muzdalifah designated for night prayer and supplication."
+  }
+ ],
+ "lesson_en": "Earn an honest living, and thank Allah with a full heart for the gift of faith.",
+ "lesson_bn": "হালাল উপার্জনের পাশাপাশি একনিষ্ঠ ইবাদতের ভারসাম্য বজায় রাখা এবং হিদায়াতের জন্য আল্লাহর কৃতজ্ঞতা স্বীকার করাই মুমিনের পরিচয়।",
+ "real_life_en": "If you run a small stall selling books or food near a big Islamic gathering, your trade is good and lawful. Just close your shop when the call to prayer begins, pray with the group, and never let business make you forget Allah.",
+ "real_life_bn": "ধর্মীয় সফরে বা কোনো দ্বীনি সম্মেলনে গিয়ে হালাল ব্যবসা করা বা প্রয়োজনীয় কেনাকাটা করাতে কোনো বাধা নেই। তবে খেয়াল রাখতে হবে যেন ব্যবসা-বাণিজ্য সালাত, যিকর ও আধ্যাত্মিক একাগ্রতা থেকে আপনাকে উদাসীন না করে ফেলে।",
+ "context_en": "Permits lawful trade during Hajj and traces the movement of pilgrims from Arafat to Muzdalifah in remembrance of Allah.",
+ "context_bn": "হজ্জের সময়ে হালাল জীবিকা অর্জনের অনুমতি দিয়ে আরাফাত থেকে মুযদালিফায় যাওয়ার নিয়ম ও আল্লাহর যিকরের নির্দেশ দেওয়া হয়েছে।",
+ "themes": [
+  "hajj",
+  "guidance",
+  "remembrance of Allah",
+  "gratitude",
+  "wealth"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "worship",
+  "praise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Arafat",
+   "Muzdalifah",
+   "al-Mashar al-Haram"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Engaging in lawful trade and seeking livelihood during the Hajj season is permitted without any sin.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Pilgrims must remember Allah, glorify Him, and make supplication at al-Mash'ar al-Haram in Muzdalifah after departing Arafat.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Believers are reminded to thank Allah for delivering them from pre-Islamic ignorance to the light of divine guidance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

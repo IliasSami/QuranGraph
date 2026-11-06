@@ -1,0 +1,62 @@
+{
+  "id": "19:20",
+  "simple_en": "She said in wonder: How can I have a boy when no man has touched me? I have never been married, and I am not unchaste.",
+  "simple_bn": "সে বিস্ময়ের সাথে বলল: কেমন করে আমার পুত্র সন্তান হবে যখন কোনো পুরুষ আমাকে স্পর্শ করেনি এবং আমি কোনো চরিত্রহীন নারীও নই।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "مسس",
+      "lemma": "مَسَّ",
+      "meaning_en": "has touched me",
+      "meaning_bn": "আমাকে স্পর্শ করেছে",
+      "why_en": "Referring to physical relations within marriage."
+    },
+    {
+      "pos": 11,
+      "root": "بغي",
+      "lemma": "بَغِيّ",
+      "meaning_en": "unchaste or immoral",
+      "meaning_bn": "ব্যভিচারিণী বা অসতী",
+      "why_en": "Affirming her complete purity and moral uprightness."
+    }
+  ],
+  "lesson_en": "Maryam guarded her honor with care. Pure living is beloved to God.",
+  "lesson_bn": "মারইয়াম নিজের পবিত্রতা ও চারিত্রিক সততার ঘোষণা দেন। স্বাভাবিক বৈষয়িক নিয়মের বাইরে অলৌকিক ঘটনার কথা শুনে বিস্মিত হওয়া স্বাভাবিক।",
+  "real_life_en": "Guard your moral character and reputation at all costs. Pure living remains a crown of honor in the sight of God.",
+  "real_life_bn": "সর্বাবস্থায় নিজের আত্মসম্মান ও চরিত্র রক্ষা করুন। পবিত্র জীবনযাপন আল্লাহর কাছে পরম মর্যাদার প্রতীক।",
+  "themes": [
+    "chastity",
+    "moral-purity",
+    "miraculous-conception"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Mary"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Maryam expressed natural astonishment, confirming she was neither married nor unchaste.",
+      "claim_bn": "মারইয়াম নিজের সতীত্ব ঘোষণা করে জানান যে তিনি অবিবাহিতা ও অসতী নন, তাই কীভাবে সন্তান হবে তা জানতে চান।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

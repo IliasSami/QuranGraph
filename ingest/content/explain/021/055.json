@@ -1,0 +1,64 @@
+{
+  "id": "21:55",
+  "simple_en": "The people asked in surprise: Have you brought us the serious truth, or are you just playing a game with us? They could not imagine anyone questioning their idols.",
+  "simple_bn": "লোকেরা অবাক হয়ে প্রশ্ন করল: তুমি কি আমাদের কাছে কোনো বাস্তব সত্য নিয়ে এসেছ, নাকি তুমি আমাদের সাথে কৌতুক করছ?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "Serious reality of divine monotheism."
+    },
+    {
+      "pos": 7,
+      "root": "لعب",
+      "lemma": "لاعِب",
+      "meaning_en": "those who jest",
+      "meaning_bn": "কৌতুককারী বা খেলোয়াড়",
+      "why_en": "Trivializing prophetic sincerity as humor."
+    }
+  ],
+  "lesson_en": "People often assume that challenging norms is just a joke. Stand firm when others fail to take moral questions seriously.",
+  "lesson_bn": "মানুষ অনেক সময় গভীর সত্যকেও রসিকতা বলে উড়িয়ে দিতে চায়। অন্যরা অবহেলা করলেও সত্যের ওপর অবিচল থাকুন।",
+  "real_life_en": "Do not be put off when people treat your good intentions lightly. Stay serious about your faith and demonstrate its truth through action.",
+  "real_life_bn": "অন্যরা আপনার ভালো কাজ নিয়ে ঠাট্টা করলেও থেমে যাবেন না। নিজের সৎ আদর্শে অটল থেকে কাজের মাধ্যমে সত্য প্রমাণ করুন।",
+  "themes": [
+    "skepticism",
+    "truth-vs-jest",
+    "ibrahim",
+    "firmness"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The polytheists questioned whether Abraham was serious in his challenge or merely mocking them.",
+      "claim_bn": "মুশরিকরা ইবরাহীমকে জিজ্ঞাসা করেছিল তিনি কি সত্য নিয়ে কথা বলছেন নাকি তাদের সাথে তামাশা করছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

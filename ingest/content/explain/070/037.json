@@ -1,0 +1,76 @@
+{
+ "id": "70:37",
+ "simple_en": "The disbelievers gathered on the right and left of the Prophet. They sat in small circles. They whispered to each other and mocked what they heard. Instead of opening their hearts to faith, they united in denial. They wanted to turn people away from the truth.",
+ "simple_bn": "সত্য অস্বীকারকারীরা নবীর ডানে ও বামে দল বেঁধে ঘিরে বসত। তারা ছোট ছোট দলে ভাগ হয়ে নিজেদের মধ্যে ফিসফিস করত এবং কুরআনের বাণী নিয়ে উপহাস করত। মন খুলে সত্য গ্রহণের বদলে তারা দল পাকিয়ে হিদায়েতের পথ আটকাতে চেষ্টা করত।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "يمن",
+   "lemma": "يَمِين",
+   "meaning_en": "the right",
+   "meaning_bn": "ডান দিক",
+   "why_en": "They surrounded the Prophet from his right side."
+  },
+  {
+   "pos": 4,
+   "root": "شمل",
+   "lemma": "شِمال",
+   "meaning_en": "the left",
+   "meaning_bn": "বাম দিক",
+   "why_en": "They crowded on his left side as well."
+  },
+  {
+   "pos": 5,
+   "root": "عزو",
+   "lemma": "عِزِين",
+   "meaning_en": "separate groups, circles",
+   "meaning_bn": "দলে দলে, বিভিন্ন দলে",
+   "why_en": "Plural form showing multiple circles of people sitting to whisper and mock."
+  }
+ ],
+ "lesson_en": "Do not join groups that meet only to mock good people and belittle the truth.",
+ "lesson_bn": "ভালো মানুষদের নিয়ে উপহাস করতে এবং সত্যকে ছোট করতে দল গঠন করবেন না।",
+ "real_life_en": "At school or work, a small group of colleagues sits together at lunch just to gossip about others. Walk away from those circles. Spend your time with people who speak well and encourage honest work.",
+ "real_life_bn": "কাজের জায়গায় বা বিদ্যালয়ে কিছু মানুষ এক হয়ে কেবল অন্যদের নামে বদনাম করতে বসে। এমন দলের সঙ্গ এড়িয়ে চলুন। যারা ভালো কথা বলে এবং সৎ কাজে উৎসাহ দেয়, তাদের সঙ্গে সময় কাটান।",
+ "themes": [
+  "mockery",
+  "disbelief",
+  "community"
+ ],
+ "kinds": [
+  "warning",
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The idolaters gathered around the Prophet from his right and left in distinct groups.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "They sat in divided circles to oppose and mock the message.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

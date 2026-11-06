@@ -1,0 +1,74 @@
+{
+  "id": "15:80",
+  "simple_en": "The people of Thamud rejected the messengers. When they denied Prophet Salih, they rejected all the prophets sent by Allah. Disbelief leads to dark ruin.",
+  "simple_bn": "আর হিজরবাসীরাও, অর্থাৎ সামূদ জাতিও, আল্লাহর রাসূলদের প্রতি মিথ্যা আরোপ করেছিল। তারা তাদের নবী সালিহকে অস্বীকার করার মাধ্যমে মূলত সকল রাসূলকেই অস্বীকার করেছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied",
+      "meaning_bn": "মিথ্যা আরোপ করেছিল",
+      "why_en": "Rejecting prophetic warning."
+    },
+    {
+      "pos": 3,
+      "root": "صحب",
+      "lemma": "أَصْحاب",
+      "meaning_en": "the companions",
+      "meaning_bn": "অধিবাসীরা",
+      "why_en": "Inhabitants of the rocky valley of al-Hijr."
+    },
+    {
+      "pos": 5,
+      "root": "رسل",
+      "lemma": "مُرْسَل",
+      "meaning_en": "the messengers",
+      "meaning_bn": "রাসূলগণের",
+      "why_en": "Prophets sent with divine guidance."
+    }
+  ],
+  "lesson_en": "To deny one prophet is to deny them all. A true believer accepts all guidance from Allah.",
+  "lesson_bn": "একজন সত্য নবীকে অস্বীকার করা মূলত সকল নবীকেই অস্বীকার করার শামিল। খাঁটি ঈমান কোনো বাছবিচার ছাড়াই সমস্ত ঐশী বাণীর ওপর বিশ্বাস স্থাপন করে।",
+  "real_life_en": "A boy respects all his teachers at school, not just his favorite one. Treating all mentors with honor shows good manners.",
+  "real_life_bn": "এক ছাত্র স্কুলের সব শিক্ষকের প্রতিই সমান শ্রদ্ধা প্রদর্শন করে। কোনো একজনকে অগ্রাহ্য না করে সবাইকে সম্মান দেখানোই প্রকৃত শিষ্টাচারের পরিচয়।",
+  "context_en": "Introducing the history of the people of al-Hijr, the tribe of Thamud who rejected Prophet Salih.",
+  "context_bn": "হিজরবাসী বা সামূদ জাতির নবী সালিহ আলাইহিস সালামকে অস্বীকার করার ঐতিহাসিক ভূমিকা।",
+  "themes": [
+    "prophets",
+    "thamud",
+    "warning"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Salih"
+    ],
+    "nations": [
+      "Thamud"
+    ],
+    "places": [
+      "Al-Hijr"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people of al-Hijr, the tribe of Thamud, rejected the messengers sent by Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

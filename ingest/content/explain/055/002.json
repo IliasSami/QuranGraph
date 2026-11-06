@@ -1,0 +1,61 @@
+{
+  "id": "55:2",
+  "simple_en": "Out of His mercy, Allah taught mankind the Quran. He made its words easy to recite and memorize. He also made its noble guidance simple to understand so people may find light and live rightly.",
+  "simple_bn": "আল্লাহ তাঁর রহমতের অংশ হিসেবে মানুষকে কুরআন শিক্ষা দিয়েছেন। তিনি এর তিলাওয়াত ও মুখস্থ করা সহজ করে দিয়েছেন। এর অর্থ ও সুন্দর হেদায়েতকে সহজবোধ্য করেছেন যাতে মানুষ সঠিক পথে চলতে পারে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "علم",
+      "lemma": "عَلَّمَ",
+      "meaning_en": "He taught",
+      "meaning_bn": "তিনি শিক্ষা দিয়েছেন",
+      "why_en": "Teaching the Quran is the greatest gift of guidance given to humanity."
+    },
+    {
+      "pos": 2,
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "the Quran",
+      "meaning_bn": "কুরআন",
+      "why_en": "The final revelation preserved for human guidance."
+    }
+  ],
+  "lesson_en": "Read the Quran each day. Allah made it easy to learn and live by.",
+  "lesson_bn": "প্রতিদিন কুরআন পড়ুন। আল্লাহ তা শেখা ও মেনে চলা সহজ করে দিয়েছেন।",
+  "real_life_en": "Set aside ten minutes every morning to read a few verses with their meaning. Learning even one lesson will guide your choices throughout the day.",
+  "real_life_bn": "প্রতিদিন সকালে মাত্র দশ মিনিট সময় নিয়ে অর্থসহ কয়েকটি আয়াত পড়ুন। একটি শিক্ষা সারাদিন আপনাকে সঠিক পথে চলতে সাহায্য করবে।",
+  "themes": [
+    "the Quran",
+    "revelation",
+    "guidance"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah taught the Quran by making its memorization and understanding easy for mankind.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

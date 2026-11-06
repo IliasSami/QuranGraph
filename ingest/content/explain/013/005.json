@@ -1,0 +1,80 @@
+{
+  "id": "13:5",
+  "simple_en": "It is strange when deniers reject the return of life. They ask how dust can ever become a new human being again. The One who created them from nothing can surely bring them back. Their stubborn disbelief leads to chains and the fire of Hell.",
+  "simple_bn": "সত্য অস্বীকারকারীদের কথায় বিস্ময় জাগে। তারা বলে, আমরা মাটিতে মিশে যাওয়ার পরও কি আবার নতুন সৃষ্টি হব? যিনি তাদের অনস্তিত্ব থেকে সৃষ্টি করেছেন তিনি নিশ্চয়ই তাদের ফিরিয়ে আনতে সক্ষম। এমন অবিশ্বাসের কারণে তারা জাহান্নামের চিরস্থায়ী অধিবাসী হবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عجب",
+      "lemma": "عَجِبُ",
+      "meaning_en": "you are astonished",
+      "meaning_bn": "তুমি বিস্মিত হও",
+      "why_en": "Expresses justified wonder at the irrationality of denying resurrection."
+    },
+    {
+      "pos": 7,
+      "root": "ترب",
+      "lemma": "تُراب",
+      "meaning_en": "dust",
+      "meaning_bn": "মাটি",
+      "why_en": "The physical state of decayed bodies before second creation."
+    },
+    {
+      "pos": 11,
+      "root": "جدد",
+      "lemma": "جَدِيد",
+      "meaning_en": "new creation",
+      "meaning_bn": "নতুন সৃষ্টি",
+      "why_en": "The complete bodily resurrection on the Last Day."
+    },
+    {
+      "pos": 19,
+      "root": "عنق",
+      "lemma": "عُنُق",
+      "meaning_en": "their necks",
+      "meaning_bn": "তাদের গলায়",
+      "why_en": "Chains placed as punishment upon unrepentant deniers."
+    }
+  ],
+  "lesson_en": "The Creator who made life from nothing can easily restore it after death.",
+  "lesson_bn": "যিনি প্রথমবার সৃষ্টি করেছেন তাঁর পক্ষে মৃত্যুর পর পুনরায় জীবিত করা অত্যন্ত সহজ।",
+  "real_life_en": "A boy builds a tower of blocks that falls over. He easily puts the blocks back in place. In the same way, God easily restores our bodies after death.",
+  "real_life_bn": "এক শিশু কাঠের টুকরো দিয়ে একটি খেলনা ঘর বানায় যা পড়ে ভেঙে যায়। সে সহজেই তা আবার আগের মতো গড়ে ফেলে। তেমনি আল্লাহও মৃত্যুর পর আমাদের দেহ অনায়াসে ফিরিয়ে দেবেন।",
+  "context_en": "Refuting the deniers who doubted the physical resurrection of decayed bodies.",
+  "context_bn": "দেহের মৃত্যুর পর পুনরুত্থান অসম্ভব মনে করা কাফিরদের যুক্তি খণ্ডন।",
+  "themes": [
+    "resurrection",
+    "accountability",
+    "creation"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell",
+      "resurrection"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who doubt resurrection forget that the Creator can recreate what He initially made.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

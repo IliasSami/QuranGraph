@@ -1,0 +1,62 @@
+{
+  "id": "36:13",
+  "simple_en": "Present to them a clear lesson through the story of the people of the town. Messengers from Allah came to this town to invite its people to worship Allah alone. Yet the people refused to listen and rejected their call.",
+  "simple_bn": "তাদের সামনে একটি জনপদের অধিবাসীদের দৃষ্টান্ত তুলে ধরুন। যখন সেখানে আল্লাহর পক্ষ থেকে রাসূলগণ এসেছিলেন এবং তাদেরকে তাওহিদের দিকে আহ্বান করেছিলেন। কিন্তু সেই জনপদের লোকেরা তাঁদের কথা শুনতে অস্বীকার করেছিল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "مثل",
+      "lemma": "مَثَل",
+      "meaning_en": "an example / parable",
+      "meaning_bn": "দৃষ্টান্ত বা উদাহরণ",
+      "why_en": "Presents a historic story as an eye-opening lesson for deniers."
+    },
+    {
+      "pos": 5,
+      "root": "قري",
+      "lemma": "قَرْيَة",
+      "meaning_en": "the town",
+      "meaning_bn": "জনপদ বা শহর",
+      "why_en": "Refers to the ancient city to which the messengers were sent."
+    }
+  ],
+  "lesson_en": "Stories of old times teach us to listen to the truth.",
+  "lesson_bn": "অতীতের ইতিহাস অবহেলাকারীদের জন্য এক গভীর শিক্ষণীয় বার্তা বহন করে।",
+  "real_life_en": "Read stories of past nations to learn from their mistakes. When people let pride rule their actions, they bring harm upon themselves and their community.",
+  "real_life_bn": "অতীতের ঘটনাবলি থেকে শিক্ষা গ্রহণ করুন। মানুষ যখন অহংকারের বশে সত্যকে অগ্রাহ্য করে, তখন তারা নিজেদের ওপর এবং সমাজের ওপর বিপদ ডেকে আনে।",
+  "themes": [
+    "stories of the prophets",
+    "reflection",
+    "warning"
+  ],
+  "kinds": [
+    "parable",
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah instructed the Prophet to cite the example of the people of the town when messengers came to them.",
+      "claim_bn": "আল্লাহ তাঁর নবীকে সেই জনপদের অধিবাসীদের দৃষ্টান্ত বর্ণনা করার নির্দেশ দিয়েছেন যখন তাদের কাছে রাসূলগণ এসেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

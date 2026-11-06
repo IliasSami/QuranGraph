@@ -1,0 +1,64 @@
+{
+  "id": "28:52",
+  "simple_en": "Those people of earlier scriptures who were given knowledge and kept true faith recognize the truth of the Quran. When they hear it, they believe in it and welcome its message with open hearts.",
+  "simple_bn": "কুরআন অবতীর্ণ হওয়ার পূর্বে যাদের আল্লাহ আসমানী কিতাবের জ্ঞান দিয়েছিলেন এবং যারা নিজেদের বিশ্বাসে অবিচল ছিল, তারা এই কুরআনের ওপরও ঈমান আনে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "ٱلْكِتَٰبَ",
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Scripture",
+      "meaning_bn": "কিতাব",
+      "why_en": "The previous revelations given to Jewish and Christian believers."
+    },
+    {
+      "pos": 8,
+      "arabic": "يُؤْمِنُونَ",
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "they believe",
+      "meaning_bn": "তারা ঈমান আনে",
+      "why_en": "Sincere people of previous scriptures who embrace the Quran."
+    }
+  ],
+  "lesson_en": "Honest people recognize divine truth across scriptures. Sincere knowledge leads a person straight to faith.",
+  "lesson_bn": "সত্যিকারের জ্ঞানী ব্যক্তি সর্বদা সত্যকে চিনে নিতে পারে। পূর্ববর্তী কিতাবের অনুসারীদের মধ্যে যারা একনিষ্ঠ, তারা কুরআনকে আল্লাহর বাণী বলে স্বীকার করে।",
+  "real_life_en": "Seek knowledge with a humble heart. When you see what is true, accept it even if it changes your views.",
+  "real_life_bn": "নম্র অন্তরে জ্ঞানের সন্ধান করুন। নিজের পূর্বধারণা ভেঙে দিলেও যখনই কোনো সত্য প্রমাণিত হয়, তখন তা সাদরে গ্রহণ করুন।",
+  "themes": [
+    "faith",
+    "scriptures",
+    "knowledge",
+    "believers"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Those who received earlier scriptures and maintained sincere knowledge believe in the Quran.",
+      "claim_bn": "যাদের ইতিপূর্বে কিতাব দেওয়া হয়েছিল এবং সত্যনিষ্ঠ ছিল, তারা এই কুরআনের ওপরও ঈমান আনে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

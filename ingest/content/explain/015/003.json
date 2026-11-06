@@ -1,0 +1,84 @@
+{
+  "id": "15:3",
+  "simple_en": "Leave them to eat and enjoy themselves for a short while. False hopes distract their minds from what is real. Soon enough they will know the truth of their choices.",
+  "simple_bn": "তাদের ছেড়ে দিন, তারা কিছুক্ষণ পানাহার করুক এবং ভোগ-বিলাসে মেতে থাকুক। মিথ্যা আশা তাদের মোহাচ্ছন্ন রাখুক, অচিরেই তারা তাদের পরিণাম জানতে পারবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "وذر",
+      "lemma": "وَذَرَ",
+      "meaning_en": "leave them",
+      "meaning_bn": "তাদের ছেড়ে দিন",
+      "why_en": "Leaving the stubborn to their chosen path."
+    },
+    {
+      "pos": 2,
+      "root": "أكل",
+      "lemma": "أَكَلَ",
+      "meaning_en": "let them eat",
+      "meaning_bn": "তারা খেতে থাকুক",
+      "why_en": "Worldly indulgence like cattle."
+    },
+    {
+      "pos": 3,
+      "root": "متع",
+      "lemma": "تَمَتَّعَ",
+      "meaning_en": "and enjoy themselves",
+      "meaning_bn": "এবং ভোগ করতে থাকুক",
+      "why_en": "Fleeting pleasures of the world."
+    },
+    {
+      "pos": 5,
+      "root": "أمل",
+      "lemma": "أَمَل",
+      "meaning_en": "hope",
+      "meaning_bn": "মিথ্যা আশা",
+      "why_en": "Delusional expectations of endless worldly life."
+    },
+    {
+      "pos": 7,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "they will know",
+      "meaning_bn": "তারা জানতে পারবে",
+      "why_en": "Certain realization upon punishment."
+    }
+  ],
+  "lesson_en": "Do not let long worldly hopes distract you from your real purpose in life.",
+  "lesson_bn": "দুনিয়ার দীর্ঘ আশা যেন আপনাকে জীবনের আসল উদ্দেশ্য থেকে গাফেল না করে দেয়।",
+  "real_life_en": "A young professional postpones worship, telling himself he will practice faith after he buys a big house. Weeks turn into years. He wakes up to realize that time is slipping away fast.",
+  "real_life_bn": "বড় বাড়ি ও গাড়ি কেনার পর দ্বীন পালন করবে—এই ভেবে এক যুবক ইবাদত পিছিয়ে দেয়। এভাবে বছর কেটে যায়। একসময় সে বুঝতে পারে আয়ু দ্রুত ফুরিয়ে যাচ্ছে।",
+  "context_en": "Counsel to the Prophet to leave stubborn mockers to their temporary indulgence.",
+  "context_bn": "হঠকারী অস্বীকারকারীদের সাময়িক পার্থিব ভোগ-বিলাসে ছেড়ে দেওয়ার নির্দেশ এবং তাদের আসন্ন শাস্তির কথা।",
+  "themes": [
+    "warning",
+    "worldliness",
+    "accountability"
+  ],
+  "kinds": [
+    "warning",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers are absorbed in eating and false hopes, but will soon face reality.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

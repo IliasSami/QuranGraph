@@ -1,0 +1,81 @@
+{
+ "id": "72:13",
+ "simple_en": "The jinn said that when they heard the Quran, which guides to the straightest way, they believed in it. They added that whoever believes in his Lord has nothing to fear. His good deeds will not be cut down, and no wrong will be loaded on him.",
+ "simple_bn": "জিনরা বলল, যে কুরআন সবচেয়ে সোজা পথ দেখায়, তা শোনার পরই তারা তাতে ঈমান আনল। তারা আরও বলল, যে নিজের রবের উপর ঈমান আনে, তার কোনো ভয় নেই। তার নেক কাজের ফল কমবে না, আর তাকে অন্যায়ভাবে বাড়তি বোঝাও চাপানো হবে না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "هدي",
+   "lemma": "هُدًى",
+   "meaning_en": "the guidance",
+   "meaning_bn": "হেদায়েত",
+   "why_en": "It is the name the jinn give to the Quran itself, because it shows the way to what is right."
+  },
+  {
+   "pos": 12,
+   "root": "بخس",
+   "lemma": "بَخْس",
+   "meaning_en": "loss, reduction",
+   "meaning_bn": "ক্ষতি, কমিয়ে দেওয়া",
+   "why_en": "It names the first fear of a believer: that his reward will be made smaller."
+  },
+  {
+   "pos": 14,
+   "root": "رهق",
+   "lemma": "رَهَق",
+   "meaning_en": "injustice, disgrace",
+   "meaning_bn": "অন্যায়, অপমান",
+   "why_en": "It names the second fear: that he will be burdened with what he did not do."
+  }
+ ],
+ "lesson_en": "Faith in your Lord removes both fears: that your good work will be wasted, and that you will be punished for what you never did.",
+ "lesson_bn": "রবের উপর ঈমান দুটি ভয় দূর করে—নেক কাজের ফল নষ্ট হয়ে যাওয়ার ভয়, আর自己没有 করা অন্যায়ের শাস্তি পাওয়ার ভয়।",
+ "real_life_en": "You help a sick aunt for months and nobody thanks you, so you start to wonder if it was worth it. Keep going. Her thanks is not the payment. Allah records the deed and does not shrink it.",
+ "real_life_bn": "মাসের পর মাস অসুস্থ ফুফুকে সেবা দিলেন, কেউ ধন্যবাদ দিল না, তাই মনে প্রশ্ন জাগে, এত পরিশ্রম কি বৃথা? চালিয়ে যান। তার ধন্যবাদই পারিশ্রমিক নয়। আল্লাহ কাজটি লিখে রাখেন, তা কমিয়ে দেন না।",
+ "themes": [
+  "jinn",
+  "the Quran",
+  "faith",
+  "reward"
+ ],
+ "kinds": [
+  "belief",
+  "glad-tidings"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn"
+  ],
+  "names_of_allah": [
+   "ar-rabb"
+  ],
+  "events": [],
+  "things": [
+   "quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "When the jinn heard the Quran, which guides to what is most upright, they believed in it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Whoever believes in his Lord will not fear any reduction of his good deeds or any punishment added to his sins.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

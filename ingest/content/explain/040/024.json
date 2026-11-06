@@ -1,0 +1,90 @@
+{
+  "id": "40:24",
+  "simple_en": "Musa (peace be upon him) went to Pharaoh, Haman, and Qarun. They were too proud to accept the truth. They called him a lying magician.",
+  "simple_bn": "মূসা (আলাইহিস সালাম)-কে ফিরআউন, তার মন্ত্রী হামান এবং ধনী কারূনের নিকট পাঠানো হয়েছিল। কিন্তু তারা সত্য মেনে নেওয়ার পরিবর্তে অহংকার করে তাকে জাদুকর ও মিথ্যাবাদী আখ্যা দিয়েছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": null,
+      "lemma": "فِرْعَوْن",
+      "meaning_en": "Pharaoh",
+      "meaning_bn": "ফিরআউন",
+      "why_en": "The tyrannical ruler of Egypt who claimed divinity."
+    },
+    {
+      "pos": 3,
+      "root": null,
+      "lemma": "هامان",
+      "meaning_en": "Haman",
+      "meaning_bn": "হামান",
+      "why_en": "The influential minister and chief aide to Pharaoh."
+    },
+    {
+      "pos": 4,
+      "root": null,
+      "lemma": "قارُون",
+      "meaning_en": "Qarun (Korah)",
+      "meaning_bn": "কারূন",
+      "why_en": "The arrogant and excessively wealthy man who rebelled."
+    },
+    {
+      "pos": 6,
+      "root": "سحر",
+      "lemma": "ساحِر",
+      "meaning_en": "magician",
+      "meaning_bn": "জাদুকর",
+      "why_en": "A false accusation hurled against Prophet Musa's miracles."
+    },
+    {
+      "pos": 7,
+      "root": "كذب",
+      "lemma": "كَذّاب",
+      "meaning_en": "great liar",
+      "meaning_bn": "চরম মিথ্যাবাদী",
+      "why_en": "Reflects their obstinate rejection of the divine message."
+    }
+  ],
+  "lesson_en": "Proud people mock the truth instead of thinking about the proof.",
+  "lesson_bn": "অহংকার মানুষকে সত্যের বাহকদের অপমান করতে প্ররোচিত করে।",
+  "real_life_en": "When people mock your good advice, do not become bitter. Remember that even the greatest prophets were insulted by those who loved power and wealth.",
+  "real_life_bn": "কেউ আপনার সৎ উপদেশ নিয়ে উপহাস করলে ধৈর্য ধারণ করুন। মনে রাখবেন, ক্ষমতা ও ধনের মোহে অন্ধ ব্যক্তিরা মহান নবীদেরও অপমান করেছিল।",
+  "themes": [
+    "stories of the prophets",
+    "arrogance",
+    "wealth"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "musa",
+      "pharaoh",
+      "haman",
+      "qarun"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh, Haman, and Qarun rejected Musa, calling him a lying magician.",
+      "claim_bn": "ফিরআউন, হামান ও কারূন মূসা (আলাইহিস সালাম)-কে অস্বীকার করে তাকে মিথ্যাবাদী জাদুকর বলেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

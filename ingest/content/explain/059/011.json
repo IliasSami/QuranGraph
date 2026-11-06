@@ -1,0 +1,65 @@
+{
+  "id": "59:11",
+  "simple_en": "The hypocrites made grand promises to their friends among the disbelievers of the People of the Book. They said: If you are expelled, we will leave with you, and we will never obey anyone against you. If you are attacked, we will help you. But Allah testifies that they are complete liars.",
+  "simple_bn": "মুনাফিকরা কিতাবীদের অন্তর্ভুক্ত তাদের মিত্রদের মিথ্যা আশ্বাস দিয়েছিল। তারা বলত, তোমরা বিতাড়িত হলে আমরাও তোমাদের সাথে বের হব এবং কারো কথা শুনব না। কিন্তু আল্লাহ সাক্ষ্য দিচ্ছেন যে তারা সম্পূর্ণ মিথ্যাবাদী।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نفق",
+      "lemma": "نافَقُ",
+      "meaning_en": "practiced hypocrisy",
+      "meaning_bn": "মুনাফেকি করেছিল",
+      "why_en": "Exposes the two-faced group that made promises it never intended to keep."
+    },
+    {
+      "pos": 28,
+      "root": "كذب",
+      "lemma": "كاذِب",
+      "meaning_en": "liars",
+      "meaning_bn": "মিথ্যুক",
+      "why_en": "Allah's definitive testimony regarding the deceit of hypocrites."
+    }
+  ],
+  "lesson_en": "Do not rely on false allies who make bold promises behind closed doors.",
+  "lesson_bn": "গোপন আশ্বাসে মিষ্টি কথা বলা ভণ্ড মানুষের কথায় কখনো ভরসা করতে নেই।",
+  "real_life_en": "A coworker promises to back you up in a meeting if trouble happens. But when the manager walks in with questions, he stays silent or runs away. Allah warns us that people who lack true faith quickly abandon their pledges when pressure arrives.",
+  "real_life_bn": "কোনো সহকর্মী হয়তো বিপদের সময় পাশে থাকার বড় বড় কথা বলে। কিন্তু সমস্যা দেখা দিলে সে সবার আগে সরে পড়ে। সততাহীন মানুষের প্রতিশ্রুতি কখনো বিশ্বাস করতে নেই।",
+  "themes": [
+    "hypocrisy",
+    "false promises",
+    "deceit exposed"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [
+      "people-of-the-book"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The hypocrites pledged secret support and companionship in exile to Banu an-Nadir, but Allah testified to their lies.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

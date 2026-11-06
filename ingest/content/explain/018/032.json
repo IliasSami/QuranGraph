@@ -1,0 +1,62 @@
+{
+  "id": "18:32",
+  "simple_en": "Give them the parable of two men. To one of them We gave two lush gardens of grapes, bordered them with date palms, and placed rich crops between them.",
+  "simple_bn": "আপনি তাদের কাছে দুই ব্যক্তির দৃষ্টান্ত পেশ করুন। তাদের একজনকে আমরা দুটি আঙুরের বাগান দিয়েছিলাম, খেজুর গাছ দিয়ে সেগুলো ঘিরে রেখেছিলাম এবং মাঝখানে শস্যক্ষেত দিয়েছিলাম।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "مثل",
+      "lemma": "مَثَل",
+      "meaning_en": "parable or example",
+      "meaning_bn": "উপমা বা দৃষ্টান্ত",
+      "why_en": "Parables illustrate profound moral lessons through vivid stories."
+    },
+    {
+      "pos": 9,
+      "root": "عنب",
+      "lemma": "أَعْناب",
+      "meaning_en": "grapes",
+      "meaning_bn": "আঙুর",
+      "why_en": "Lush vineyards representing worldly prosperity."
+    }
+  ],
+  "lesson_en": "Parables teach timeless wisdom. Worldly wealth is a gift from God, given to test our gratitude and humility.",
+  "lesson_bn": "কোরআনের দৃষ্টান্ত থেকে শিক্ষা নিন। পার্থিব সম্পদ অহংকার করার জন্য নয়, বরং কৃতজ্ঞতা প্রকাশের একটি পরীক্ষা।",
+  "real_life_en": "Reflect on stories in scripture to guide your life. When God gives you success, look at it as a test of your character.",
+  "real_life_bn": "আল্লাহর দেওয়া সাফল্যকে নিজের অহংকারের কারণ বানাবেন না। সমৃদ্ধি এলে নিজেকে বিনীত রাখুন এবং শোকর আদায় করুন।",
+  "themes": [
+    "parable-of-two-men",
+    "wealth-as-test",
+    "divine-bounty",
+    "humility"
+  ],
+  "kinds": [
+    "parable",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran presents the parable of two men, one gifted with two rich vineyards bordered by palms and crops.",
+      "claim_bn": "কোরআনে দুই ব্যক্তির দৃষ্টান্ত দেওয়া হয়েছে যার একজনকে দুটি সমৃদ্ধ আঙুর ও খেজুরের বাগান দেওয়া হয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

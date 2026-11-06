@@ -1,0 +1,70 @@
+{
+  "id": "20:91",
+  "simple_en": "The stubborn people told Aaron that they would not stop worshipping the golden calf. They said they would keep bowing to it until Moses came back to them.",
+  "simple_bn": "অবাধ্য লোকেরা হারুনকে সাফ জানিয়ে দিল: মূসা আমাদের কাছে ফিরে না আসা পর্যন্ত আমরা কখনোই এর পূজা করা বন্ধ করব না। তারা একগুঁয়েমির সাথে পাপে অটল রইল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "برح",
+      "lemma": "بَرِحَ",
+      "meaning_en": "we will not cease",
+      "meaning_bn": "আমরা ক্ষান্ত হব না বা থামব না",
+      "why_en": "Arrogant defiance and refusal to compromise."
+    },
+    {
+      "pos": 5,
+      "root": "عكف",
+      "lemma": "عَاكِف",
+      "meaning_en": "devoted in worship",
+      "meaning_bn": "পূজায় নিমগ্ন বা অবিচল",
+      "why_en": "Persistent idol worship despite clear warnings."
+    }
+  ],
+  "lesson_en": "Stubborn pride shuts the ears. Sincere words mean nothing to closed minds.",
+  "lesson_bn": "একগুঁয়েমি ও কুসংস্কার মানুষকে এতটাই অন্ধ করে দেয় যে তারা সঠিক নেতার আন্তরিক উপদেশও উড়িয়ে দেয়।",
+  "real_life_en": "Do not persist in wrong habits just to win arguments. Be humble enough to change your mind when shown truth.",
+  "real_life_bn": "জেদের বশে ভুল কাজে অবিচল থাকবেন না। সত্য ও সঠিক যুক্তি সামনে এলে নিজের ভুল সংশোধন করে নিন।",
+  "themes": [
+    "stubbornness",
+    "defiance",
+    "golden-calf"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Harun",
+      "Musa"
+    ],
+    "nations": [
+      "Bani Isra'il"
+    ],
+    "places": [
+      "Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "golden calf"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Israelites refused Aaron's counsel, declaring they would worship the calf until Moses returned.",
+      "claim_bn": "বনি ইসরাইল হারুনের উপদেশ প্রত্যাখ্যান করে মূসা না ফেরা পর্যন্ত বাছুর পূজায় অনড় থাকার ঘোষণা দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

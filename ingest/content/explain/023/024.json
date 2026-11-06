@@ -1,0 +1,67 @@
+{
+  "id": "23:24",
+  "simple_en": "The proud chiefs of his nation rejected him with scorn. They said he was just a mortal seeking power. They asked why angels were not sent down instead.",
+  "simple_bn": "তখন তার সম্প্রদায়ের কাফের নেতারা বলেছিল: এ তো তোমাদের মতোই একজন মানুষ ছাড়া কিছু নয়, যে তোমাদের ওপর শ্রেষ্ঠত্ব পেতে চায়। আর আল্লাহ চাইলে তো ফেরেশতা পাঠাতেন। আমরা তো আমাদের পূর্বপুরুষদের যুগে এমন কথা কখনো শুনিনি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ملأ",
+      "lemma": "مَلَأ",
+      "meaning_en": "the eminent chiefs",
+      "meaning_bn": "প্রধান বা নেতৃস্থানীয় ব্যক্তিরা",
+      "why_en": "Arrogant community leaders rejecting the message out of jealousy."
+    },
+    {
+      "pos": 14,
+      "root": "فضل",
+      "lemma": "يَتَفَضَّلَ",
+      "meaning_en": "to claim superiority",
+      "meaning_bn": "শ্রেষ্ঠত্ব অর্জন করতে",
+      "why_en": "False accusation that the Prophet sought worldly dominance."
+    }
+  ],
+  "lesson_en": "Proud leaders often reject the truth out of envy. They ask for signs rather than listening to wise words.",
+  "lesson_bn": "অহংকারী নেতারা হিংসাবশত সত্যকে অস্বীকার করে। তারা আত্মশুদ্ধির চেয়ে অলৌকিক অজুহাত খুঁজতেই বেশি ব্যস্ত থাকে।",
+  "real_life_en": "Do not judge the value of advice by worldly rank. Listen to truth with an open mind, no matter who speaks it.",
+  "real_life_bn": "বক্তা কে তা না দেখে তার কথা কতটা সত্য তা দেখুন। অহংকার পরিহার করে ভালো উপদেশ গ্রহণ করুন।",
+  "themes": [
+    "arrogance-of-chiefs",
+    "rejection-of-prophets",
+    "excuses-of-deniers"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Noah"
+    ],
+    "nations": [
+      "People of Noah"
+    ],
+    "places": [],
+    "unseen": [
+      "Angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The pagan chiefs rejected Noah, falsely accusing him of seeking personal leadership and demanding angel emissaries.",
+      "claim_bn": "কাফের নেতারা নূহ আলাইহিস সালামের বিরুদ্ধে নেতৃত্ব লাভের অভিযোগ তুলেছিল এবং কেন ফেরেশতা পাঠানো হয়নি তা নিয়ে বিতর্ক করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

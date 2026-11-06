@@ -1,0 +1,63 @@
+{
+  "id": "16:114",
+  "simple_en": "Eat from the lawful and good food that Allah provided for you. Be truly grateful for His favors if it is Him that you worship sincerely.",
+  "simple_bn": "আল্লাহ তোমাদের যেসব হালাল ও উত্তম রিজিক দিয়েছেন তা থেকে আহার করো এবং আল্লাহর নেয়ামতের শুকরিয়া আদায় করো, যদি তোমরা কেবল তাঁরই ইবাদত করো।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "حلل",
+      "lemma": "حَلال",
+      "meaning_en": "lawful",
+      "meaning_bn": "হালাল",
+      "why_en": "Permissible foods sanctioned by divine law."
+    },
+    {
+      "pos": 6,
+      "root": "طيب",
+      "lemma": "طَيِّب",
+      "meaning_en": "wholesome",
+      "meaning_bn": "উত্তম ও পবিত্র",
+      "why_en": "Nutritious and clean sustenance."
+    }
+  ],
+  "lesson_en": "Consuming lawful food and giving thanks are core acts of genuine worship.",
+  "lesson_bn": "হালাল ও পবিত্র খাবার গ্রহণ করা এবং আল্লাহর কৃতজ্ঞতা প্রকাশ করা একনিষ্ঠ ইবাদতের অন্যতম প্রধান শর্ত।",
+  "real_life_en": "Earn an honest living and feed your family halal meals. Thank God after every plate of food.",
+  "real_life_bn": "সততার সাথে উপার্জন করুন এবং পরিবারকে হালাল খাবার খাওয়ান। প্রতিটি খাবারের পর স্রষ্টার কৃতজ্ঞতা জানান।",
+  "themes": [
+    "halal",
+    "food",
+    "gratitude"
+  ],
+  "kinds": [
+    "command",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "food"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Believers are commanded to eat what is lawful and good and to be grateful for Allah's favor.",
+      "claim_bn": "আল্লাহর দেওয়া হালাল ও পবিত্র রিজিক ভক্ষণ করতে এবং তাঁর নেয়ামতের শুকরিয়া আদায় করতে নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

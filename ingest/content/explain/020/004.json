@@ -1,0 +1,65 @@
+{
+  "id": "20:4",
+  "simple_en": "This holy book is a direct revelation from God. He created the broad earth below and He raised the high heavens above with great power and wisdom.",
+  "simple_bn": "এই কিতাব মহান সৃষ্টিকর্তার পক্ষ থেকে নাজিলকৃত। যিনি বিশাল পৃথিবী সৃষ্টি করেছেন এবং সুউচ্চ আসমানসমূহ তৈরি করেছেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نزل",
+      "lemma": "تَنزِيل",
+      "meaning_en": "a revelation",
+      "meaning_bn": "অবতীর্ণ বাণী",
+      "why_en": "Highlights the authoritative heavenly source of the Quran."
+    },
+    {
+      "pos": 6,
+      "root": "علو",
+      "lemma": "عُلْيَا",
+      "meaning_en": "high and sublime",
+      "meaning_bn": "সুউচ্চ",
+      "why_en": "Describes the immense heights of the created cosmos."
+    }
+  ],
+  "lesson_en": "God made the earth and skies. The same Lord sent this book to guide us.",
+  "lesson_bn": "যিনি আকাশ ও পৃথিবী সৃষ্টি করেছেন, তিনিই সঠিক পথের দিশা হিসেবে এই বাণী অবতীর্ণ করেছেন।",
+  "real_life_en": "Look up at the wide sky and reflect. The Lord who maintains cosmic order also cares for your life.",
+  "real_life_bn": "মহাকাশ ও পৃথিবীর সৃষ্টির দিকে তাকিয়ে ভাবুন। যিনি এই বিশাল মহাবিশ্ব চালান, তিনি আপনার প্রতিটি প্রয়োজন জানেন।",
+  "themes": [
+    "creation",
+    "divine-power",
+    "revelation"
+  ],
+  "kinds": [
+    "creation",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the earth",
+      "heavens",
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran descends from the Creator who fashioned the earth and the high heavens.",
+      "claim_bn": "কুরআন সেই মহান প্রতিপালকের নিকট থেকে নাজিল হয়েছে যিনি পৃথিবী ও সুউচ্চ আসমান সৃষ্টি করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

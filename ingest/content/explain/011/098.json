@@ -1,0 +1,85 @@
+{
+  "id": "11:98",
+  "simple_en": "On the Day of Resurrection, Pharaoh will lead his followers straight into the Fire of Hell. It is an awful place to be led into.",
+  "simple_bn": "কিয়ামতের দিন ফিরআউন তার সম্প্রদায়ের অগ্রভাগে থাকবে এবং সে তাদেরকে জাহান্নামের আগুনে উপনীত করবে। আর তা উপনীত হওয়ার কতই না নিকৃষ্ট স্থান।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قدم",
+      "lemma": "قَدِمْ",
+      "meaning_en": "precede / lead",
+      "meaning_bn": "সামনে থাকবে / নেতৃত্ব দেবে",
+      "why_en": "Leading followers into punishment just as in life."
+    },
+    {
+      "pos": 4,
+      "root": "قوم",
+      "lemma": "قِيامَة",
+      "meaning_en": "Resurrection",
+      "meaning_bn": "কিয়ামত",
+      "why_en": "The Day when all deeds are reckoned."
+    },
+    {
+      "pos": 6,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the Fire",
+      "meaning_bn": "আগুন / জাহান্নাম",
+      "why_en": "The punishment prepared for tyrants."
+    },
+    {
+      "pos": 8,
+      "root": "ورد",
+      "lemma": "وِرْد",
+      "meaning_en": "watering place / entry",
+      "meaning_bn": "উপনীত হওয়ার স্থান",
+      "why_en": "Metaphor of bringing thirsty herds into hellfire."
+    }
+  ],
+  "lesson_en": "Those who lead others into sin in this life will lead them into punishment in the next life.",
+  "lesson_bn": "দুনিয়ায় যারা মানুষকে অন্যায়ের দিকে পরিচালিত করে, পরকালেও তারা তাদের শাস্তির দিকে নিয়ে যাবে।",
+  "real_life_en": "Choose your mentors and role models with extreme care. Following righteous guides brings peace and light, while following arrogant leaders leads to ultimate regret.",
+  "real_life_bn": "কাকে অনুসরণ করছেন সে ব্যাপারে সতর্ক থাকুন। অসৎ নেতার সঙ্গ পরকালে কঠিন অনুশোচনার কারণ হবে।",
+  "themes": [
+    "Day of Judgment",
+    "false leaders",
+    "Hellfire",
+    "accountability"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn (Pharaoh)"
+    ],
+    "nations": [
+      "People of Fir'awn"
+    ],
+    "places": [],
+    "unseen": [
+      "Day of Resurrection",
+      "Hellfire"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Pharaoh will march at the front of his people on the Day of Resurrection, plunging them into the Fire.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

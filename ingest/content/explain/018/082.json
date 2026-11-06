@@ -1,0 +1,72 @@
+{
+  "id": "18:82",
+  "simple_en": "The wall belonged to two orphan boys in the city. A treasure was buried beneath it. Because their father was righteous, God preserved it until their maturity.",
+  "simple_bn": "আর প্রাচীরটি ছিল শহরের দুই এতিম কিশোরের এবং এর নিচে ছিল তাদের গুপ্তধন। তাদের পিতা ছিলেন একজন সৎ ব্যক্তি, তাই আপনার রব চাইলেন তারা বড় হয়ে তা উদ্ধার করুক।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جدر",
+      "lemma": "جِدار",
+      "meaning_en": "the wall",
+      "meaning_bn": "প্রাচীর বা দেয়াল",
+      "why_en": "The protective barrier concealing the orphans inheritance."
+    },
+    {
+      "pos": 5,
+      "root": "يتم",
+      "lemma": "يَتِيم",
+      "meaning_en": "two orphans",
+      "meaning_bn": "দুই এতিম",
+      "why_en": "Vulnerable children protected by their deceased fathers piety."
+    }
+  ],
+  "lesson_en": "A parents piety brings divine protection to their children. God guards the rights of vulnerable orphans.",
+  "lesson_bn": "পিতামাতার নেক আমল সন্তানদের ওপর আল্লাহর সুরক্ষা বয়ে আনে। এতিমদের অধিকার আল্লাহ নিজেই রক্ষা করেন।",
+  "real_life_en": "Live a righteous and honest life today. Your good deeds may protect your children long after you are gone.",
+  "real_life_bn": "সততা ও আল্লাহভীতির সাথে জীবনযাপন করুন। আপনার নেক আমল আপনার সন্তানদের ভবিষ্যৎ নিরাপদে রাখবে।",
+  "themes": [
+    "orphans-treasure",
+    "righteous-father",
+    "divine-preservation",
+    "mercy-from-lord"
+  ],
+  "kinds": [
+    "story",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "al-Khidr",
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "The-City"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Explanation-of-the-Wall"
+    ],
+    "things": [
+      "Treasure",
+      "Wall"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Al-Khidr explained he repaired the wall to protect a treasure for two orphan boys whose father had been righteous.",
+      "claim_bn": "খিজির দেয়াল মেরামত করেছিলেন দুই এতিম বালকের গুপ্তধন রক্ষা করতে কারণ তাদের পিতা নেককার ছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

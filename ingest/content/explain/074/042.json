@@ -1,0 +1,62 @@
+{
+ "id": "74:42",
+ "simple_en": "The believers will ask the dwellers of the Fire, \"What brought you into Saqar?\" They ask them to name the specific sins that led them into this terrifying place of torment.",
+ "simple_bn": "জান্নাতবাসীরা জাহান্নামীদের জিজ্ঞেস করবে, “কোন জিনিস তোমাদেরকে সাকারে নিয়ে এলো?” তারা তাদের কাছে সেই সব পাপের কথা জানতে চাইবে যার কারণে তারা এমন আগুনে নিক্ষিপ্ত হলো।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سلك",
+   "lemma": "سَلَكَ",
+   "meaning_en": "led you, drove you",
+   "meaning_bn": "তোমাদেরকে নিয়ে এলো",
+   "why_en": "It asks what course of action caused them to end up in the Fire."
+  },
+  {
+   "pos": 4,
+   "root": null,
+   "lemma": "سَقَر",
+   "meaning_en": "Saqar (Hell)",
+   "meaning_bn": "সাকার (জাহান্নাম)",
+   "why_en": "The specific deep level of Hell where they are suffering."
+  }
+ ],
+ "lesson_en": "Every punishment has a clear cause, so learn what leads to ruin and steer clear of it.",
+ "lesson_bn": "প্রতিটি পরিণতির পেছনে নির্দিষ্ট কারণ থাকে, তাই যে কাজ মানুষকে ধ্বংসের দিকে নেয় তা বর্জন করুন।",
+ "real_life_en": "When you read about past mistakes in the lives of others, take a lesson from them. Avoid the actions that brought them pain so you do not suffer the same regret.",
+ "real_life_bn": "অন্যের ভুল বা খারাপ পরিণতি দেখে নিজের জন্য শিক্ষা নিন। যে কাজের জন্য মানুষ ক্ষতিগ্রস্ত হয়েছে, সেই কাজ থেকে আগে থেকেই নিজেকে দূরে রাখুন।",
+ "themes": [
+  "Hell",
+  "judgment",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "saqar"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The people of Paradise question the people in Hell about what sins caused them to enter Saqar.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

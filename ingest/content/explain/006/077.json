@@ -1,0 +1,83 @@
+{
+  "id": "6:77",
+  "simple_en": "When Abraham saw the bright moon rising, he said: Is this my Lord? Yet when it set, its light vanished just like the star. Abraham declared: Unless my true Lord guides me, I would surely be among those who lose their way. True guidance comes only from Allah.",
+  "simple_bn": "অতঃপর যখন তিনি চাঁদকে উজ্জ্বলভাবে উদিত হতে দেখলেন, তখন বললেন: এটি কি আমার প্রতিপালক? কিন্তু যখন সেটিও অস্ত গেল, তখন তিনি বললেন: আমার প্রতিপালক যদি আমাকে সঠিক পথ না দেখাতেন, তবে আমি নিশ্চয়ই পথভ্রষ্টদের অন্তর্ভুক্ত হয়ে যেতাম। তিনি প্রমাণ করলেন যে, চাঁদও একটি বশীভূত সৃষ্টি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "قمر",
+      "lemma": "قَمَر",
+      "meaning_en": "the moon",
+      "meaning_bn": "চাঁদ",
+      "why_en": "Refers to the luminous night light venerated by celestial worshippers."
+    },
+    {
+      "pos": 4,
+      "root": "بزغ",
+      "lemma": "بازِغ",
+      "meaning_en": "rising or shining",
+      "meaning_bn": "উজ্জ্বলভাবে উদীয়মান",
+      "why_en": "Describes the radiant emergence of the moon."
+    },
+    {
+      "pos": 18,
+      "root": "ضلل",
+      "lemma": "ضالّ",
+      "meaning_en": "those who go astray",
+      "meaning_bn": "পথভ্রষ্ট সম্প্রদায়",
+      "why_en": "Warns against misguidance when relying on created things rather than divine light."
+    }
+  ],
+  "lesson_en": "Even bright celestial lights fade away. Seek true guidance from Allah to avoid straying into darkness.",
+  "lesson_bn": "চাঁদের স্নিগ্ধ আলোও অস্ত যায়। পথভ্রষ্টতা থেকে বাঁচতে সর্বদা আল্লাহর হেদায়াত প্রার্থনা করুন।",
+  "real_life_en": "Do not rely solely on human intellect or popular trends to find moral truth. Even impressive ideas can mislead if detached from divine revelation. Constantly pray for Allah's guidance to keep your heart steady upon truth.",
+  "real_life_bn": "ভালো-মন্দের পার্থক্য বুঝতে কেবল পার্থিব যুক্তি বা প্রচলিত ধারণার ওপর নির্ভর করবেন না। মানুষ সহজেই ভুল ধারণার শিকার হতে পারে। অন্তরের স্থিরতা ও সঠিক পথে চলার জন্য প্রতিদিন এক আল্লাহর কাছে হেদায়াতের দুআ করুন।",
+  "context_en": "Moving from a star to the brighter moon, Abraham continued his reasoned argument showing the flaw of worshipping changing creations.",
+  "context_bn": "নক্ষত্রের পর অধিকতর উজ্জ্বল চাঁদকে উপস্থাপন করে ইবরাহীম (আ.) দেখালেন যে, এটিও অস্তগামী ও পরাধীন সৃষ্টি।",
+  "themes": [
+    "guidance",
+    "tawhid",
+    "reasoning",
+    "Abraham",
+    "refutation of shirk"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the moon"
+    ]
+  },
+  "claims": [
+    {
+      "text": "When Abraham observed the luminous moon rising, he examined its apparent brightness before his people.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Upon the moon's setting, Abraham affirmed that without divine guidance from his true Lord, one is lost among the astray.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

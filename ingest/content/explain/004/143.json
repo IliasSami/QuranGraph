@@ -1,0 +1,79 @@
+{
+ "id": "4:143",
+ "simple_en": "The hypocrites waver back and forth between faith and disbelief. They do not join the believers with their hearts, nor do they stand openly with the disbelievers. Whoever Allah leaves to stray because of their corrupt ways, you will never find for them a path to the truth.",
+ "simple_bn": "মুনাফিকরা ঈমান ও কুফরের মাঝে দোটানায় দোদুল্যমান থাকে। তারা না পুরোপুরি মুমিনদের সাথে থাকে, না প্রকাশ্য কাফিরদের দলে যায়। তাদের কোনো স্থির নীতি নেই। আর নিজের কপটতার কারণে আল্লাহ যাকে পথভ্রষ্ট করেন, তার জন্য হিদায়াতের কোনো পথ তুমি পাবে না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ذبذب",
+   "lemma": "مُذَبْذَب",
+   "meaning_en": "wavering between two sides",
+   "meaning_bn": "দোটানায় দোদুল্যমান",
+   "why_en": "Captures the constant indecision and lack of genuine conviction in the hypocrite."
+  },
+  {
+   "pos": 11,
+   "root": "ضلل",
+   "lemma": "أَضَلَّ",
+   "meaning_en": "He leaves to stray",
+   "meaning_bn": "তিনি পথভ্রষ্ট করেন",
+   "why_en": "Shows that turning away from truth leads to losing Allah's guidance."
+  },
+  {
+   "pos": 16,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "a way or path",
+   "meaning_bn": "কোনো পথ",
+   "why_en": "Points out that no human effort can guide someone whom Allah has left astray."
+  }
+ ],
+ "lesson_en": "Commit your heart fully to the truth instead of swaying between two sides.",
+ "lesson_bn": "দ্বিধাদ্বন্দ্বে না ভুগে সত্য ও ন্যায়ের পথে নিজের অবস্থান সুস্পষ্ট ও দৃঢ় রাখা জরুরি।",
+ "real_life_en": "Do not change your principles to fit whichever crowd you are with. Speak the truth and be honest about your faith. A true believer remains upright and steady at school, at work, and with friends.",
+ "real_life_bn": "আড্ডা বা কর্মক্ষেত্রে সুবিধাজনক অবস্থান নিতে গিয়ে নিজের আদর্শ বদলাবেন না। সব পরিস্থিতিতে সৎ থাকুন এবং দৃঢ়তার সাথে ভালো কাজের পক্ষে অবস্থান নিন।",
+ "context_en": "This verse describes the inner psychological instability of hypocrites who remain trapped between belief and disbelief.",
+ "context_bn": "মুনাফিকদের মনস্তাত্ত্বিক দোদুল্যমানতার বর্ণনা দিয়ে বলা হয়েছে যে তারা কোনো নির্দিষ্ট আদর্শের ওপর স্থির থাকতে পারে না।",
+ "themes": [
+  "hypocrisy",
+  "guidance",
+  "misguidance",
+  "faith"
+ ],
+ "kinds": [
+  "warning",
+  "belief",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Hypocrites are in a state of hesitation and confusion, committed neither to believers nor to open disbelievers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Whoever Allah leaves in misguidance due to their rejection of truth cannot be guided by anyone else.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

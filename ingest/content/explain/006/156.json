@@ -1,0 +1,83 @@
+{
+  "id": "6:156",
+  "simple_en": "Allah revealed the Quran so you cannot make excuses. You cannot say books were only sent to Jews and Christians before you. You cannot say you did not know their language. Now the Quran has come to you in plain words.",
+  "simple_bn": "আল্লাহ এই কুরআন নাযিল করেছেন যেন তোমরা বলতে না পারো যে, কিতাব কেবল আমাদের পূর্ববর্তী দুই দল—ইহুদি ও নাসারাদের ওপরই নাযিল হয়েছিল। আর আমরা তো তাদের ভাষা ও কিতাবের পঠন-পাঠন সম্পর্কে সম্পূর্ণ অজ্ঞ ছিলাম। এখন তোমাদের নিজের ভাষায় কিতাব এসেছে, তাই অজ্ঞতার কোনো অজুহাত আর খাটবে না।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "طوف",
+      "lemma": "طائِفَة",
+      "meaning_en": "two groups",
+      "meaning_bn": "দুই দল",
+      "why_en": "Refers specifically to the Jews and Christians who received earlier scriptures."
+    },
+    {
+      "pos": 13,
+      "root": "درس",
+      "lemma": "دِراسَت",
+      "meaning_en": "their study",
+      "meaning_bn": "তাদের পঠন-পাঠন",
+      "why_en": "Describes the reading and teaching of prior scriptures in foreign tongues."
+    },
+    {
+      "pos": 14,
+      "root": "غفل",
+      "lemma": "غافِل",
+      "meaning_en": "unaware or heedless",
+      "meaning_bn": "অজ্ঞ বা অসচেতন",
+      "why_en": "Highlights the excuse Arabs might make about not understanding past revelations."
+    }
+  ],
+  "lesson_en": "Clear revelation leaves no excuse for neglecting faith. Listen to Allah's words and obey Him.",
+  "lesson_bn": "সহজ ও বোধগম্য ভাষায় আল্লাহর বাণী পৌঁছানোর পর উদাসীনতার আর কোনো সুযোগ থাকে না।",
+  "real_life_en": "Take advantage of having translations and explanations of the Quran readily available. You no longer have any excuse to remain ignorant of God's commands. Dedicate a few minutes each day to learn the meaning of the verses you recite in prayer.",
+  "real_life_bn": "সহজ ভাষায় কুরআনের অনুবাদ ও ব্যাখ্যা এখন হাতের নাগালে। দ্বীনের জ্ঞান না থাকার অজুহাত দেওয়া আর সাজে না। প্রতিদিন কয়েক মিনিট সময় দিয়ে সালাতে পঠিত আয়াতের অর্থ বোঝার চেষ্টা করুন এবং দ্বীনের জ্ঞান অর্জন করুন।",
+  "context_en": "Allah explains the divine wisdom behind revealing the Arabic Quran to the Arabs, cutting off any excuse of ignorance.",
+  "context_bn": "আরবদের নিজেদের ভাষায় কুরআন নাযিলের হেকমত তুলে ধরে আল্লাহ অজ্ঞতার সকল অজুহাত নাকচ করেছেন।",
+  "themes": [
+    "the Quran",
+    "revelation",
+    "past nations",
+    "knowledge"
+  ],
+  "kinds": [
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Jews",
+      "Christians",
+      "Quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quran was revealed so the Arabs could not claim scriptures were only sent to Jews and Christians.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "It removes the excuse of being unaware of previous divine books due to language barriers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

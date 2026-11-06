@@ -1,0 +1,93 @@
+{
+  "id": "33:33",
+  "simple_en": "The wives of the Prophet Muhammad ﷺ are told to stay in their homes with dignity. They must not show off their beauty as people did in old days of ignorance. They must pray, pay zakat, and obey God and His Messenger. God only wants to clear all harm from the Prophet household and make them pure.",
+  "simple_bn": "নবীপত্নীগণকে নিজ গৃহে মর্যাদার সাথে অবস্থান করতে এবং জাহেলী যুগের মতো সৌন্দর্য প্রদর্শন না করার নির্দেশ দেওয়া হয়েছে। তারা সালাত কায়েম করবেন, যাকাত দেবেন এবং আল্লাহ ও তাঁর রাসূলের অনুগত থাকবেন। আল্লাহ কেবল চান নবী-পরিবার থেকে সকল অপবিত্রতা দূর করতে এবং তাঁদের সম্পূর্ণভাবে পবিত্র রাখতে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قرر",
+      "lemma": "تَقَرَّ",
+      "meaning_en": "remain peacefully",
+      "meaning_bn": "অবস্থান করো",
+      "why_en": "Commands dignity and calm residence within the home."
+    },
+    {
+      "pos": 5,
+      "root": "برج",
+      "lemma": "تَبَرَّجْ",
+      "meaning_en": "display your beauty / adornment",
+      "meaning_bn": "সৌন্দর্য প্রদর্শন করো না",
+      "why_en": "Forbids the provocative public display of beauty common before Islam."
+    },
+    {
+      "pos": 17,
+      "root": "رود",
+      "lemma": "أَرادَ",
+      "meaning_en": "impurity / spiritual blemish",
+      "meaning_bn": "অপবিত্রতা",
+      "why_en": "Refers to all spiritual defects, sin, and harm that God removes."
+    },
+    {
+      "pos": 19,
+      "root": "ذهب",
+      "lemma": "أَذْهَبَ",
+      "meaning_en": "the Household",
+      "meaning_bn": "নবী-পরিবার",
+      "why_en": "Specifically addresses the honored family and household of the Prophet ﷺ."
+    },
+    {
+      "pos": 20,
+      "root": null,
+      "lemma": "عَن",
+      "meaning_en": "purify you",
+      "meaning_bn": "তোমাদের পবিত্র করতে",
+      "why_en": "Declares God's will to grant the Prophet's household complete spiritual purity."
+    }
+  ],
+  "lesson_en": "Prayer, charity, and modest ways bring peace and pure light to every home.",
+  "lesson_bn": "শালীনতা রক্ষা, নিয়মিত সালাত, যাকাত ও আল্লাহর আনুগত্যের মাধ্যমে পরিবারে পরম পবিত্রতা ও শান্তি নেমে আসে।",
+  "real_life_en": "Make your house a place of prayer and calm life. Do not chase vain trends online to show off your looks. Focus on a pure heart and good deeds.",
+  "real_life_bn": "নিজের ঘরকে সালাত ও শালীনতার কেন্দ্র হিসেবে গড়ে তুলুন। লোকদেখানো দেখনদারি পরিহার করে সৎ চরিত্র ও আন্তরিক ইবাদতের প্রতি মনোযোগী হোন।",
+  "themes": [
+    "family",
+    "Prophet Muhammad ﷺ",
+    "prayer",
+    "zakat",
+    "good character",
+    "modesty"
+  ],
+  "kinds": [
+    "command",
+    "prohibition",
+    "praise"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah instructs the Prophet's household to remain modestly at home, establish prayer, give zakat, obey divine commands, and purifies them from all blemishes.",
+      "claim_bn": "আল্লাহ নবী-পরিবারকে শালীনতার সাথে ঘরে অবস্থান, সালাত কায়েম, যাকাত প্রদান এবং আল্লাহর আনুগত্যের নির্দেশ দিয়ে সকল অপবিত্রতা থেকে মুক্ত রাখার ইচ্ছা ব্যক্ত করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

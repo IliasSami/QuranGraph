@@ -1,0 +1,112 @@
+{
+ "id": "2:214",
+ "simple_en": "Do you think you will enter Paradise without facing trials like earlier believers? Past nations faced deep poverty and severe illness. They were shaken by fear and enemy threats. The test was so hard that the messenger and his followers asked when Allah's help would come. Allah told them that His help is always near.",
+ "simple_bn": "আল্লাহ মুমিনদের স্মরণ করিয়ে দিচ্ছেন যে, পূর্ববর্তী জাতিসমূহের মতো পরীক্ষা ছাড়া জান্নাত লাভ করা যায় না। অতীতের ঈমানদারগণ চরম অভাব-অনটন, রোগব্যাধি ও নানাবিধ বিপদের সম্মুখীন হয়েছিলেন। শত্রুর ভয় ও উৎপীড়ন তাদের এমনভাবে নাড়িয়ে দিয়েছিল যে, স্বয়ং রাসূল ও তাঁর সঙ্গী মুমিনরা বলে উঠেছিলেন, আল্লাহর সাহায্য কখন আসবে? তখন আল্লাহ তাদের আশ্বস্ত করে ঘোষণা করেন যে, নিশ্চয়ই আল্লাহর সাহায্য অতি নিকটে।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "جنن",
+   "lemma": "جَنَّة",
+   "meaning_en": "Paradise",
+   "meaning_bn": "জান্নাত",
+   "why_en": "The ultimate goal of believers, attained through steadfast patience and sincere faith."
+  },
+  {
+   "pos": 14,
+   "root": "بأس",
+   "lemma": "بَأْساء",
+   "meaning_en": "adversity (poverty)",
+   "meaning_bn": "দারিদ্র্য ও কষ্ট",
+   "why_en": "Refers to severe material poverty and hardships that test endurance."
+  },
+  {
+   "pos": 15,
+   "root": "ضرر",
+   "lemma": "ضَرّاء",
+   "meaning_en": "illness (physical suffering)",
+   "meaning_bn": "ব্যাধি ও শারীরিক দুর্দশা",
+   "why_en": "Refers to bodily sickness, pain, and physical distress suffered by past believers."
+  },
+  {
+   "pos": 16,
+   "root": "زلزل",
+   "lemma": "زُلْزِلُ",
+   "meaning_en": "they were shaken",
+   "meaning_bn": "তারা ভীত-কম্পিত হয়েছিল",
+   "why_en": "Portrays the intense emotional shaking and fear caused by relentless trials."
+  },
+  {
+   "pos": 24,
+   "root": "نصر",
+   "lemma": "نَصْر",
+   "meaning_en": "help (victory)",
+   "meaning_bn": "সাহায্য ও বিজয়",
+   "why_en": "The promised divine intervention that arrives when human endurance reaches its peak."
+  }
+ ],
+ "lesson_en": "Stay patient in trials, because Allah's help is always near.",
+ "lesson_bn": "ধৈর্য ও প্রার্থনার সাথে কঠিন সময় মোকাবিলা করুন, কারণ পরীক্ষার পরই আল্লাহর প্রতিশ্রুত সাহায্য আসে।",
+ "real_life_en": "When you face sickness, debt, or big worries, do not think Allah has forgotten you. Great people before us faced even harder days and stayed patient. Keep praying and doing good deeds, knowing that relief is coming.",
+ "real_life_bn": "হঠাৎ অসুস্থতা, ব্যবসায় ক্ষতি কিংবা পারিবারিক সংকটে পড়লে নিরাশ হবেন না। স্মরণ রাখবেন যে অতীতের নেককার মানুষরাও কঠিন পরীক্ষার মুখোমুখি হয়েছিলেন। ধৈর্য ধারণ করে আল্লাহর কাছে দোয়া করতে থাকুন, সুদিন অবশ্যই আসবে।",
+ "context_en": "Consoles the believers facing persecution and poverty by reminding them of the universal divine pattern that great reward follows patient endurance through trial.",
+ "context_bn": "অত্যাচার ও দারিদ্র্যের শিকার মুমিনদের সান্ত্বনা দিয়ে বলা হয়েছে যে, কঠিন পরীক্ষার মাধ্যমেই বিশ্বাস খাঁটি হয় এবং তারপরই আল্লাহর বিজয় আসে।",
+ "themes": [
+  "trials",
+  "patience",
+  "trust in Allah",
+  "Paradise",
+  "past nations"
+ ],
+ "kinds": [
+  "promise",
+  "warning",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "past nations"
+  ],
+  "places": [],
+  "unseen": [
+   "Paradise"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Entering Paradise is not achieved without facing trials and tests similar to those endured by past faithful communities.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Past believers endured severe economic poverty, bodily disease, and alarming distress that shook their resolve.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Under extreme strain, the messenger and the believers urgently sought divine help, and Allah confirmed His help is near.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

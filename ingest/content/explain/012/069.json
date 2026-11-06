@@ -1,0 +1,93 @@
+{
+  "id": "12:69",
+  "simple_en": "When they arrived, Yusuf took Benjamin aside in private. He told him that he was his long-lost brother. He said not to feel sad about what the others had done in the past.",
+  "simple_bn": "তারা ইউসুফের কাছে পৌঁছালে তিনি নিজের ভাই বিন ইয়ামীনকে কাছে টেনে নিলেন। ইউসুফ গোপনে নিজের পরিচয় প্রকাশ করে বললেন, আমিই তোমার সেই হারিয়ে যাওয়া ভাই। তিনি ভাইকে অভয় দিয়ে বললেন, তারা অতীতে যা করেছে তার জন্য কোনো দুঃখ করো না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أوي",
+      "lemma": "آوَى",
+      "meaning_en": "he took to himself / lodged",
+      "meaning_bn": "কাছে টেনে নিলেন বা আশ্রয় দিলেন",
+      "why_en": "Yusuf’s tender embrace of his beloved full brother."
+    },
+    {
+      "pos": 7,
+      "root": "أخو",
+      "lemma": "أَخ",
+      "meaning_en": "his brother",
+      "meaning_bn": "তাঁর ভাই",
+      "why_en": "Benjamin, with whom he shared both mother and father."
+    },
+    {
+      "pos": 11,
+      "root": "أخو",
+      "lemma": "أَخ",
+      "meaning_en": "your brother",
+      "meaning_bn": "তোমার ভাই",
+      "why_en": "Declaring his true identity directly to Benjamin."
+    },
+    {
+      "pos": 13,
+      "root": "بأس",
+      "lemma": "تَبْتَئِسْ",
+      "meaning_en": "do not grieve",
+      "meaning_bn": "দুঃখ করো না",
+      "why_en": "Comforting him after years of mistreatment by the older brothers."
+    }
+  ],
+  "lesson_en": "Being with family brings deep comfort and heals old pain.",
+  "lesson_bn": "আপনজনের পুনর্মিলন মনের দীর্ঘদিনের কষ্ট ও পুরানো ক্ষত মুছে দেয়।",
+  "real_life_en": "Two brothers separated by war meet again after years. They hug with tears and forgive old fights, happy to be together.",
+  "real_life_bn": "সংঘাতের কারণে বহু বছর বিচ্ছিন্ন থাকা দুই ভাই আবার একত্রিত হন। তারা অতীতের সব বিবাদ ভুলে একে অপরকে জড়িয়ে ধরে মনে শান্তি খুঁজে পান।",
+  "context_en": "In private, Yusuf revealed himself to Benjamin to reassure him before initiating his next plan.",
+  "context_bn": "পরবর্তী পরিকল্পনা বাস্তবায়নের আগে ইউসুফ গোপনে বিন ইয়ামীনকে নিজের পরিচয় জানিয়ে আশ্বস্ত করলেন।",
+  "themes": [
+    "reunion",
+    "brotherly love",
+    "comfort",
+    "forgiveness"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "Benjamin",
+      "brothers of Yusuf"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Yusuf took his full brother Benjamin aside and revealed his identity to him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He told Benjamin not to sorrow over what the brothers had done.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

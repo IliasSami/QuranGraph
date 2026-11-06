@@ -1,0 +1,66 @@
+{
+  "id": "27:92",
+  "simple_en": "The Prophet was commanded to read the Quran to the people. Whoever follows the right way does so for his own good. To whoever turns away, the Prophet says he is only a warner.",
+  "simple_bn": "আমাকে আরও আদেশ দেওয়া হয়েছে কুরআন তিলাওয়াত করতে। অতঃপর যে সৎপথ অনুসরণ করবে, সে নিজের কল্যাণের জন্যই তা করবে। আর যে ভুল পথে যাবে, আপনি বলুন আমি তো শুধু একজন সতর্ককারী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "أَتْلُوَا۟",
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "recite",
+      "meaning_bn": "তিলাওয়াত করতে",
+      "why_en": "Conveying the Quranic message through clear recitation."
+    },
+    {
+      "pos": 3,
+      "arabic": "ٱلْقُرْءَانَ",
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "the Quran",
+      "meaning_bn": "কুরআন",
+      "why_en": "The final revealed book of guidance."
+    }
+  ],
+  "lesson_en": "Accepting guidance brings personal benefit and peace. A teacher shares the truth with care, but cannot force anyone to believe.",
+  "lesson_bn": "কুরআনের দাওয়াত গ্রহণ করা মানুষের নিজের জন্যই লাভজনক। সত্য প্রচারকের কাজ সতর্ক করা, কাউকে জোর করে বিশ্বাসী বানানো নয়।",
+  "real_life_en": "Engage regularly with the Quran to guide your thoughts and actions. Remember that choosing righteousness benefits your own soul first.",
+  "real_life_bn": "কুরআন অধ্যয়ন ও অনুশীলনে মনোযোগী হোন। অন্যকে ভালোবাসার সাথে সত্যের দাওয়াত দিন, কিন্তু ফলাফল আল্লাহর হাতে ছেড়ে দিন।",
+  "themes": [
+    "quran",
+    "guidance",
+    "prophethood"
+  ],
+  "kinds": [
+    "command",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet was commanded to recite the Quran, clarifying that guidance benefits oneself while he is only a warner.",
+      "claim_bn": "নবীকে কুরআন তিলাওয়াত করার আদেশ দেওয়া হয়েছে এবং বলা হয়েছে যে সৎপথ অনুসরণ করে সে নিজের জন্যই করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

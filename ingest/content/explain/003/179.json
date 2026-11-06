@@ -1,0 +1,95 @@
+{
+ "id": "3:179",
+ "simple_en": "Allah would not leave the believers mixed with the hypocrites without separating them. He sends trials and duties to make the good stand apart from the corrupt. Allah does not open the secrets of the unseen to everyone. Instead, He chooses His messengers to carry what people need to know. Put your trust in Allah and His messengers, and you will receive a great reward.",
+ "simple_bn": "মুমিন ও মুনাফিকদের চিরকাল এক অবস্থায় মিশে থাকতে দেওয়া আল্লাহর নিয়ম নয়। তিনি বিভিন্ন পরীক্ষা ও দায়িত্বের মাধ্যমে অসৎ ও কপটদের থেকে সৎ ও নিষ্ঠাবানদের আলাদা করে দেন। আল্লাহ সাধারণ মানুষকে গায়েবের সব রহস্য উন্মুক্ত করেন না, বরং তাঁর রাসূলদের মধ্য থেকে যাকে ইচ্ছা মনোনীত করেন। অতএব আল্লাহ ও তাঁর রাসূলদের ওপর ঈমান আনুন। আপনারা ঈমান ও তাকওয়া বজায় রাখলে মহাপুরস্কার পাবেন।",
+ "key_words": [
+  {
+   "pos": 11,
+   "root": "ميز",
+   "lemma": "يَمِيزَ",
+   "meaning_en": "He separates / distinguishes",
+   "meaning_bn": "পৃথক করেন",
+   "why_en": "Explains how trials serve to filter out the insincere from the genuine believers."
+  },
+  {
+   "pos": 12,
+   "root": "خبث",
+   "lemma": "خَبِيث",
+   "meaning_en": "the bad / evil (the hypocrite)",
+   "meaning_bn": "অপবিত্র বা অসৎ",
+   "why_en": "Refers to corrupt hypocrites who pretend faith while concealing malice."
+  },
+  {
+   "pos": 20,
+   "root": "غيب",
+   "lemma": "غَيْب",
+   "meaning_en": "the unseen",
+   "meaning_bn": "অদৃশ্য বা গায়েব",
+   "why_en": "Affirms that knowledge of the unseen belongs exclusively to Allah."
+  }
+ ],
+ "lesson_en": "Trials in life reveal who is sincere, so hold tight to faith and taqwa when tests arrive.",
+ "lesson_bn": "জীবনের পরীক্ষাগুলোই মানুষের আসল রূপ প্রকাশ করে, তাই পরীক্ষার মুহূর্তে ঈমান ও তাকওয়ার ওপর অটল থাকুন।",
+ "real_life_en": "Gold is placed in fire to burn away impurities and leave pure metal behind. Hard times in life work the same way. When things get difficult, the insincere walk away, while true friends of Allah stay loyal and grow stronger.",
+ "real_life_bn": "স্বর্ণকে খাঁটি করতে যেমন আগুনে পোড়ানো হয়, তেমনি কঠিন পরিস্থিতি মানুষের আসল আন্তরিকতা যাচাই করে। দুঃখের দিনে কপট ব্যক্তিরা দূরে সরে যায়, আর খাঁটি মুমিনরা ঈমানে আরও দৃঢ় হয়।",
+ "context_en": "Explaining why Allah sent the trial of Uhud: to purify the ranks and separate true faith from hypocrisy.",
+ "context_bn": "উহুদের কঠিন পরীক্ষার পেছনে ঐশ্বরিক উদ্দেশ্য ব্যাখ্যা করা হয়েছে: খাঁটি মুমিনদের থেকে কপট মুনাফিকদের আলাদা করা।",
+ "themes": [
+  "trials",
+  "faith",
+  "the unseen",
+  "prophethood",
+  "taqwa",
+  "reward"
+ ],
+ "kinds": [
+  "command",
+  "promise",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the unseen"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah tests believers through hardships to distinguish the impure hypocrite from the pure believer.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah does not grant ordinary people direct knowledge of the unseen, but reveals what He wills to His chosen messengers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Those who have faith and guard themselves through taqwa are promised a great reward.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,94 @@
+{
+  "id": "12:75",
+  "simple_en": "The brothers replied that according to their law, the one in whose pack the bowl was found would be kept as a slave by the owner. They stated that this was how they punished wrongdoers.",
+  "simple_bn": "ভাইয়েরা উত্তর দিল, যার থলিতে পাত্রটি পাওয়া যাবে, সে নিজেই এর শাস্তি হিসেবে দাস হিসেবে আটকে থাকবে। তারা বলল, আমরা জালেমদের এভাবেই শাস্তি দিয়ে থাকি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جزي",
+      "lemma": "جَزاء",
+      "meaning_en": "its penalty",
+      "meaning_bn": "তার শাস্তি",
+      "why_en": "The legal consequence established in their patriarchal law."
+    },
+    {
+      "pos": 4,
+      "root": "وجد",
+      "lemma": "وَجَدَ",
+      "meaning_en": "is found",
+      "meaning_bn": "পাওয়া যাবে",
+      "why_en": "Conditioned upon discovering the stolen item."
+    },
+    {
+      "pos": 6,
+      "root": "رحل",
+      "lemma": "رَحْل",
+      "meaning_en": "his pack / saddlebag",
+      "meaning_bn": "তার থলি বা মালপত্র",
+      "why_en": "The specific baggage holding the cup."
+    },
+    {
+      "pos": 11,
+      "root": "ظلم",
+      "lemma": "ظالِم",
+      "meaning_en": "the wrongdoers",
+      "meaning_bn": "সীমালঙ্ঘনকারী বা অপরাধী",
+      "why_en": "Thieves were classified as unjust persons deserving servitude."
+    }
+  ],
+  "lesson_en": "Fair rules must apply to all people in the same way.",
+  "lesson_bn": "ন্যায্য নিয়ম সবার জন্য সমান হওয়া উচিত এবং নিজের প্রচারিত নীতি মেনে চলার মানসিকতা থাকতে হয়।",
+  "real_life_en": "A coach sets a rule that any player who breaks curfew sits out the championship match. Even when the star player breaks the rule, the coach bench them to preserve fairness.",
+  "real_life_bn": "কোচ নিয়ম করেন যে নিয়ম ভাঙলে মূল ম্যাচে খেলা যাবে না। সেরা খেলোয়াড় ভুল করলেও কোচ কোনো ছাড় না দিয়ে নিয়ম বজায় রাখেন।",
+  "context_en": "The brothers stated that their traditional penalty was enslavement of the thief, precisely what Yusuf needed.",
+  "context_bn": "ভাইয়েরা নিজেদের পারিবারিক রীতি অনুযায়ী চোরকে দাস হিসেবে রেখে দেওয়ার শাস্তি উল্লেখ করল।",
+  "themes": [
+    "justice",
+    "law of retribution",
+    "consequences of actions"
+  ],
+  "kinds": [
+    "story",
+    "law"
+  ],
+  "entities": {
+    "people": [
+      "brothers of Yusuf",
+      "Egyptian officials"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "measuring bowl",
+      "saddlebag"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The brothers answered that the thief himself would be retained as the penalty.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They said this was how they punished wrongdoers in their own law.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

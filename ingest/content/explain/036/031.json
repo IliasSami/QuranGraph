@@ -1,0 +1,69 @@
+{
+  "id": "36:31",
+  "simple_en": "Have they not seen how many generations Allah destroyed before them? Those destroyed peoples never return to this world again. Their time to repent has passed forever.",
+  "simple_bn": "তারা কি লক্ষ্য করেনি যে তাদের পূর্বে আমি কত মানবগোষ্ঠীকে ধ্বংস করেছি? সেই ধ্বংসপ্রাপ্ত মানুষেরা কখনোই আর এই পৃথিবীতে ফিরে আসবে না। তাদের তওবা করার সময় চিরতরে শেষ হয়ে গেছে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "We destroyed",
+      "meaning_bn": "আমরা ধ্বংস করেছি",
+      "why_en": "Reminds people of the historic ruin brought upon unrepentant nations."
+    },
+    {
+      "pos": 7,
+      "root": "قرن",
+      "lemma": "قَرْن",
+      "meaning_en": "generations",
+      "meaning_bn": "মানবগোষ্ঠী বা প্রজন্ম",
+      "why_en": "Points to past empires and civilizations that vanished."
+    },
+    {
+      "pos": 11,
+      "root": "رجع",
+      "lemma": "رَجَعَ",
+      "meaning_en": "they return",
+      "meaning_bn": "তারা ফিরে আসে",
+      "why_en": "Affirms that death in this world is final until the resurrection."
+    }
+  ],
+  "lesson_en": "Past generations were wiped out for their sins and can never return to fix them.",
+  "lesson_bn": "অতীতের বহু জাতি পাপের কারণে ধ্বংস হয়েছে এবং তারা আর কখনো ভুল শুধরে নেওয়ার সুযোগ পাবে না।",
+  "real_life_en": "Visit ancient ruins or graveyards and reflect on how quickly generations pass. Use your healthy days today, because once death arrives, there is no coming back.",
+  "real_life_bn": "কবরস্থান বা ঐতিহাসিক নিদর্শন দেখে ভাবুন কত মানুষ দুনিয়া ছেড়ে চলে গেছে। হাতে থাকা সময়কে কাজে লাগান, কারণ মৃত্যুর পর আর ফিরে আসা সম্ভব নয়।",
+  "themes": [
+    "past nations",
+    "death",
+    "reflection"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Many past generations were destroyed before them and they will never return to this world.",
+      "claim_bn": "তাদের পূর্বে বহু প্রজন্মকে ধ্বংস করা হয়েছে এবং তারা কখনোই আর ফিরে আসবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

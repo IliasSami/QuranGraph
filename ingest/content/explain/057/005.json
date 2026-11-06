@@ -1,0 +1,73 @@
+{
+  "id": "57:5",
+  "simple_en": "To Allah alone belongs the kingdom of the heavens and the earth. He controls everything that exists. To Him all matters return in the end, and on the Day of Judgment He will judge all creations fairly for their deeds.",
+  "simple_bn": "আসমান ও যমীনের সার্বিক কর্তৃত্ব একমাত্র আল্লাহর। অস্তিত্বশীল সবকিছুই তাঁর নিয়ন্ত্রণাধীন। পরিশেষে সমস্ত বিষয় একমাত্র আল্লাহর কাছেই প্রত্যাবর্তিত হবে এবং কিয়ামতের দিন তিনি ন্যায়বিচারের সাথে সবার হিসাব গ্রহণ করবেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ملك",
+      "lemma": "مُلْك",
+      "meaning_en": "dominion",
+      "meaning_bn": "সার্বভৌমত্ব",
+      "why_en": "Affirms Allah's complete and exclusive ownership over all creation."
+    },
+    {
+      "pos": 7,
+      "root": "رجع",
+      "lemma": "رَجَعَ",
+      "meaning_en": "are returned",
+      "meaning_bn": "প্রত্যাবর্তিত হবে",
+      "why_en": "Points to the final return of all creatures and matters to Allah for judgment."
+    }
+  ],
+  "lesson_en": "Remember that all affairs end with Allah, so place your hopes in His fair judgment.",
+  "lesson_bn": "মনে রাখবেন যে সমস্ত বিষয় আল্লাহর দিকেই ফিরে যাবে, তাই সবসময় তাঁর ন্যায়বিচারের উপর আশা রাখুন।",
+  "real_life_en": "A business partner faces unfair treatment in a contract dispute and cannot find justice in court. He does not despair or turn to cheating. He remembers that all matters return to Allah, who will give everyone their full right.",
+  "real_life_bn": "ব্যবসায়িক চুক্তিতে এক ব্যক্তি অবিচারের শিকার হন এবং স্থানীয় আদালতে কোনো প্রতিকার পান না। তিনি হতাশ না হয়ে ধৈর্য ধারণ করেন, কারণ তিনি বিশ্বাস করেন যে সব বিষয় আল্লাহর কাছে ফিরে যাবে এবং তিনি সবাইকে তার প্রাপ্য বুঝিয়ে দেবেন।",
+  "themes": [
+    "tawhid",
+    "judgment",
+    "the Last Day"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": [
+      "the sky",
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "To Allah belongs the dominion of the heavens and the earth, and to Him all matters return.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Allah will hold creation accountable on the Day of Judgment and requite them for their deeds.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

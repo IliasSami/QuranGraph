@@ -1,0 +1,70 @@
+{
+  "id": "27:13",
+  "simple_en": "Moses showed clear signs to Pharaoh and his people to prove the truth. Yet they refused to believe. Out of stubborn pride, they called the signs magic.",
+  "simple_bn": "যখন সেই প্রত্যক্ষ ও স্পষ্ট অলৌকিক নিদর্শনগুলো ফিরআউন এবং তার সভাসদদের সামনে এলো, তখন তারা সেগুলো অস্বীকার করল। উদ্ধত হয়ে তারা সত্যকে প্রত্যাখ্যান করে একে প্রকাশ্য জাদু বলে আখ্যা দিল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "مُبْصِرَةً",
+      "root": "بصر",
+      "lemma": "مُبْصِرَة",
+      "meaning_en": "visible",
+      "meaning_bn": "দৃশ্যমান ও স্পষ্ট",
+      "why_en": "Clear miracles visible to every eye."
+    },
+    {
+      "pos": 7,
+      "arabic": "سِحْرٌ",
+      "root": "سحر",
+      "lemma": "سِحْر",
+      "meaning_en": "magic",
+      "meaning_bn": "জাদু",
+      "why_en": "The false claim used to dismiss divine truth."
+    }
+  ],
+  "lesson_en": "Arrogant hearts reject the clearest evidence. Stubborn pride blinds people from accepting the truth.",
+  "lesson_bn": "আত্মম্ভরিতা মানুষকে স্পষ্টতম সত্য ও প্রমাণ অস্বীকার করার অন্ধত্বে নিমজ্জিত করে।",
+  "real_life_en": "Keep an open mind when faced with clear evidence. Never let stubbornness stop you from admitting what is right.",
+  "real_life_bn": "সুস্পষ্ট প্রমাণ সামনে এলে তা অকপটে গ্রহণ করুন। অহংকারবশত সত্যকে উপেক্ষা করবেন না।",
+  "themes": [
+    "pharaoh",
+    "denial",
+    "miracles"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "miracles"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh and his people rejected the clear miraculous signs of Moses, calling them obvious magic.",
+      "claim_bn": "ফির‘আউনের লোকেরা মুসার সুস্পষ্ট অলৌকিক নিদর্শনসমূহ দেখে অহংকারবশত সেগুলোকে প্রকাশ্য জাদু বলে প্রত্যাখ্যান করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

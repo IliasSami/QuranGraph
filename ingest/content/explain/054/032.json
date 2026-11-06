@@ -1,0 +1,61 @@
+{
+  "id": "54:32",
+  "simple_en": "Allah has made the Quran easy to recite, remember, and understand for everyone. Its warnings from history are plain and moving. Is there anyone ready to reflect and take heed?",
+  "simple_bn": "আল্লাহ কুরআন মাজিদকে মুখস্থ করা, তিলাওয়াত করা এবং উপদেশ গ্রহণের জন্য সহজ করে দিয়েছেন। এর ঐতিহাসিক শিক্ষাগুলো অত্যন্ত জীবন্ত ও হৃদয়গ্রাহী। উপদেশ নেওয়ার মতো কেউ কি আছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "يسر",
+      "lemma": "يَسَّرَ",
+      "meaning_en": "We have made easy",
+      "meaning_bn": "আমরা সহজ করে দিয়েছি",
+      "why_en": "Reaffirms the accessibility and divine clarity of the Quranic text."
+    },
+    {
+      "pos": 4,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "for remembrance",
+      "meaning_bn": "উপদেশ গ্রহণের জন্য",
+      "why_en": "Reminds that the Quran serves to guide heart and conscience toward goodness."
+    }
+  ],
+  "lesson_en": "Open your heart to the clear lessons and ease of the Quran.",
+  "lesson_bn": "কুরআনের সুস্পষ্ট উপদেশগুলো গ্রহণ করতে নিজের অন্তর উন্মুক্ত করুন।",
+  "real_life_en": "A college student sets aside fifteen minutes before sleep to read the Quran in plain words. The quiet reflection helps him reset his priorities and sleep with a peaceful mind.",
+  "real_life_bn": "একজন বিশ্ববিদ্যালয় পড়ুয়া ছাত্র রাতে ঘুমানোর আগে প্রতিদিন পনেরো মিনিট কুরআনের সরল অর্থ পড়ে। এই অল্প সময়ের ভাবনা তার মনকে শান্ত রাখে এবং জীবনের লক্ষ্য ঠিক রাখতে সাহায্য করে।",
+  "themes": [
+    "the Quran",
+    "reflection",
+    "guidance"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah made the Quran easy to remember and learn lessons from, calling on all to reflect.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "13:6",
+  "simple_en": "The mockers asked the Prophet to bring divine punishment quickly instead of seeking mercy. Past nations were destroyed for their defiance. Allah offers boundless forgiveness to people despite their sins, but He is also stern when judgment falls.",
+  "simple_bn": "বিরোধীরা আল্লাহর অনুগ্রহ না চেয়ে অহংকারবশত দ্রুত শাস্তি দাবি করত। অথচ তাদের পূর্বে বহু জাতিকে এভাবেই পাকড়াও করা হয়েছিল। মানুষের অপরাধ সত্ত্বেও আল্লাহ অত্যন্ত ক্ষমাশীল, আবার অবাধ্যদের জন্য তাঁর শাস্তিও অত্যন্ত কঠোর।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "عجل",
+      "lemma": "اسْتَعْجَلَ",
+      "meaning_en": "they urge to hasten",
+      "meaning_bn": "তারা দ্রুত চায়",
+      "why_en": "Arrogant challenging of divine punishment before seeking grace."
+    },
+    {
+      "pos": 2,
+      "root": "سوأ",
+      "lemma": "سَيِّئَة",
+      "meaning_en": "evil or punishment",
+      "meaning_bn": "মন্দ বা শাস্তি",
+      "why_en": "The penalty they foolishly demanded as proof."
+    },
+    {
+      "pos": 13,
+      "root": "غفر",
+      "lemma": "مَغْفِرَة",
+      "meaning_en": "forgiveness",
+      "meaning_bn": "ক্ষমাশীলতা",
+      "why_en": "Allah's forbearance in delaying punishment and granting time to repent."
+    },
+    {
+      "pos": 20,
+      "root": "عقب",
+      "lemma": "عِقاب",
+      "meaning_en": "penalty",
+      "meaning_bn": "শাস্তি",
+      "why_en": "Stern retribution that falls upon those who persist in wickedness."
+    }
+  ],
+  "lesson_en": "Seek Allah's mercy promptly and never mock divine warnings.",
+  "lesson_bn": "আল্লাহর সতর্কবার্তাকে উপহাস না করে অবিলম্বে তাঁর ক্ষমার আশ্রয় নেওয়া উচিত।",
+  "real_life_en": "A reckless swimmer laughs at danger signs on a stormy beach and dives into the waves. Instead of tempting danger, a wise person heeds the warning and stays safe.",
+  "real_life_bn": "এক ব্যক্তি সাগরে ঝড়ের সতর্কতা পেয়েও বিপদের তোয়াক্কা না করে পানিতে নামে। বুদ্ধিমান মানুষ সতর্কবার্তা উপেক্ষা না করে নিজের সুরক্ষার ব্যবস্থা নেয়।",
+  "context_en": "Warning the Quraysh against demanding instant retribution instead of repenting.",
+  "context_bn": "কুরাইশদের শাস্তি চাওয়ার ঔদ্ধত্যের জবাব এবং আল্লাহর ক্ষমা ও শাস্তির বর্ণনা।",
+  "themes": [
+    "divine patience",
+    "forgiveness",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah delays punishment out of mercy, though His retribution is severe when it strikes.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,74 @@
+{
+  "id": "10:32",
+  "simple_en": "That is Allah, your true Lord. Beyond the plain truth, what is left except dark error? How then can you turn away from the light?",
+  "simple_bn": "তিনিই আল্লাহ, তোমাদের সত্য রব। অতএব সত্যের পর বিভ্রান্তি ছাড়া আর কী থাকে? সুতরাং তোমাদের কোথায় ফিরিয়ে নেওয়া হচ্ছে?",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "Pure monotheism grounded in reality."
+    },
+    {
+      "pos": 9,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "error / falsehood",
+      "meaning_bn": "বিভ্রান্তি / পথভ্রষ্টতা",
+      "why_en": "Everything outside divine truth is misguidance."
+    },
+    {
+      "pos": 11,
+      "root": "صرف",
+      "lemma": "صَرَفَ",
+      "meaning_en": "are you turned away",
+      "meaning_bn": "তোমাদের ফিরিয়ে নেওয়া হচ্ছে",
+      "why_en": "Abandoning clear light for dark superstitions."
+    }
+  ],
+  "lesson_en": "Once the truth is clear, anything else is only confusion and loss.",
+  "lesson_bn": "সত্য প্রকাশিত হওয়ার পর তা অস্বীকার করা সুস্পষ্ট বিভ্রান্তি ছাড়া আর কিছুই নয়।",
+  "real_life_en": "When sound evidence shows you the right choice, do not second-guess yourself. Choose the truth and leave all doubts behind.",
+  "real_life_bn": "সঠিক পথ চেনার পর দ্বিধাদ্বন্দ্বে ভুগবেন না; সত্যকে দৃঢ়ভাবে আঁকড়ে ধরুন এবং বিভ্রান্তিকর মতামত এড়িয়ে চলুন।",
+  "themes": [
+    "Allah the true Lord",
+    "truth versus error",
+    "unjustified deviation"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "mankind"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "True Lord"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Once Allah's absolute Lordship is verified as truth, any alternative belief represents pure theological misguidance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

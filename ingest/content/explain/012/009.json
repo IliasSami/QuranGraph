@@ -1,0 +1,82 @@
+{
+  "id": "12:9",
+  "simple_en": "The brothers plotted to harm Joseph. Some said to kill him, while others said to throw him in a far land. They thought their father would then love only them, and they could repent later.",
+  "simple_bn": "তারা বলল, তোমরা ইউসুফকে হত্যা করো অথবা তাকে কোনো দূর দেশে ফেলে আসো, যাতে তোমাদের পিতার মনোযোগ কেবল তোমাদের দিকেই নিবদ্ধ থাকে। আর এ কাজের পর তোমরা তওবা করে সৎকর্মশীল হয়ে যাবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قتل",
+      "lemma": "قَتَلَ",
+      "meaning_en": "kill",
+      "meaning_bn": "হত্যা করো",
+      "why_en": "Extreme evil born of uncurbed envy."
+    },
+    {
+      "pos": 4,
+      "root": "طرح",
+      "lemma": "اطْرَحُ",
+      "meaning_en": "cast him out",
+      "meaning_bn": "ফেলে আসো",
+      "why_en": "Abandoning a brother in a foreign land."
+    },
+    {
+      "pos": 8,
+      "root": "وجه",
+      "lemma": "وَجْه",
+      "meaning_en": "face / attention",
+      "meaning_bn": "মনোযোগ / সান্নিধ্য",
+      "why_en": "Selfish desire for sole parental affection."
+    },
+    {
+      "pos": 14,
+      "root": "صلح",
+      "lemma": "صالِح",
+      "meaning_en": "righteous people",
+      "meaning_bn": "সৎকর্মশীল দল",
+      "why_en": "Deluded rationalization of repenting after committing a crime."
+    }
+  ],
+  "lesson_en": "Planning to sin with the intention of repenting later is a dangerous trap of the ego.",
+  "lesson_bn": "পরে তওবা করে ভালো হয়ে যাব—এই চিন্তা করে পাপকাজে লিপ্ত হওয়া শয়তানের এক মারাত্মক ধোঁকা।",
+  "real_life_en": "Never justify doing something wrong by telling yourself that you will fix it or ask forgiveness later. Moral compromise harms your soul from the very first step.",
+  "real_life_bn": "পরে অনুশোচনা করব ভেবে কোনো অন্যায় কাজে পা বাড়াবেন না। শুরুতেই অন্যায়ের প্রতিরোধ করাই প্রকৃত আত্মশুদ্ধি।",
+  "themes": [
+    "plotting evil",
+    "false repentance",
+    "danger of envy",
+    "story of Yusuf"
+  ],
+  "kinds": [
+    "story",
+    "prohibition",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Yaqub (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers plotted to kill or exile Joseph to monopolize their father's favor, deluding themselves that they would repent afterward.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

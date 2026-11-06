@@ -1,0 +1,104 @@
+{
+  "id": "12:80",
+  "simple_en": "The brothers lost hope and talked in private. The eldest recalled their oath to their father and what happened to Yusuf. He chose to stay in Egypt until his father gave leave or God decided.",
+  "simple_bn": "ইউসুফকে রাজি করাতে ব্যর্থ হয়ে তারা একান্তে পরামর্শে বসল। তাদের বড় ভাই মনে করিয়ে দিল যে তারা আল্লাহর নামে শপথ করেছিল এবং অতীতে ইউসুফের প্রতিও অন্যায় করেছিল। সে ঘোষণা করল যে পিতা অনুমতি না দেওয়া পর্যন্ত বা আল্লাহ কোনো ফায়সালা না করা পর্যন্ত সে মিসর ছাড়বে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "يأس",
+      "lemma": "اسْتَيْأَسَ",
+      "meaning_en": "they despaired / lost hope",
+      "meaning_bn": "তারা নিরাশ হলো",
+      "why_en": "Realizing that the minister would never release Benjamin."
+    },
+    {
+      "pos": 5,
+      "root": "نجو",
+      "lemma": "نَجِيّ",
+      "meaning_en": "in private conference",
+      "meaning_bn": "একান্তে পরামর্শে",
+      "why_en": "Withdrawing secretly to decide their next steps."
+    },
+    {
+      "pos": 7,
+      "root": "كبر",
+      "lemma": "كَبِير",
+      "meaning_en": "the eldest of them",
+      "meaning_bn": "তাদের মধ্যে সবচেয়ে বড়জন",
+      "why_en": "The oldest brother taking a stand of remorse and responsibility."
+    },
+    {
+      "pos": 15,
+      "root": "وثق",
+      "lemma": "مَوْثِق",
+      "meaning_en": "a solemn pledge",
+      "meaning_bn": "দৃঢ় অঙ্গীকার বা শপথ",
+      "why_en": "The binding covenant sworn to Yaqub in God's name."
+    },
+    {
+      "pos": 37,
+      "root": "حكم",
+      "lemma": "حاكِم",
+      "meaning_en": "the judges",
+      "meaning_bn": "বিচারকগণ",
+      "why_en": "Allah is the best judge who determines the outcome of all trials."
+    }
+  ],
+  "lesson_en": "Admit your past mistakes. Step forward and take real duty for your acts.",
+  "lesson_bn": "কঠিন পরিস্থিতি থেকে পালিয়ে না গিয়ে অতীতের ভুল স্বীকার করুন এবং ব্যক্তিগত দায়িত্ব কাঁধে তুলে নিন।",
+  "real_life_en": "A builder makes a mistake on a home project. Rather than blaming helpers, the builder stays late to rebuild the wall properly.",
+  "real_life_bn": "কাজের বড় ভুল হলে দলের প্রধান অন্যদের ওপর দোষ না চাপিয়ে নিজে অতিরিক্ত সময় দিয়ে সমস্যা সমাধান করেন এবং নিজের দায়িত্বের সততা প্রমাণ করেন।",
+  "context_en": "Despairing of Benjamin's release, the eldest brother chose to remain in Egypt out of remorse toward Yaqub.",
+  "context_bn": "বিন ইয়ামীনকে ছাড়াতে না পেরে অনুশোচনায় দগ্ধ হয়ে বড় ভাই পিতার অনুমতি ছাড়া মিসর না ছাড়ার সিদ্ধান্ত নিল।",
+  "themes": [
+    "repentance",
+    "responsibility",
+    "solemn covenants"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "eldest brother",
+      "brothers of Yusuf",
+      "Yaqub",
+      "Yusuf",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers conferred privately after losing hope of Benjamin's release.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "The eldest brother refused to leave Egypt until his father permitted or Allah decided.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

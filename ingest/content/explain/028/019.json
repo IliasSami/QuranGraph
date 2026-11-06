@@ -1,0 +1,69 @@
+{
+  "id": "28:19",
+  "simple_en": "Moses stepped forward to stop the fight and seize the enemy. The man thought Moses was attacking him and shouted: Do you want to kill me just like you killed a person yesterday? You only want to be a bully in the land instead of a peacemaker.",
+  "simple_bn": "মুসা যখন উভয়ের শত্রুকে পাকড়াও করতে উদ্যত হলো, তখন সে বলল, হে মুসা, তুমি কি আমাকে হত্যা করতে চাও যেমন গতকাল এক ব্যক্তিকে হত্যা করেছিলে? তুমি তো জমিনে স্বৈরাচারী হতে চাও, কোনো সংস্কারক হতে চাও না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "arabic": "يَبْطِشَ",
+      "root": "بطش",
+      "lemma": "بَطَشْ",
+      "meaning_en": "to strike",
+      "meaning_bn": "আঘাত করতে",
+      "why_en": "Intending to restrain the hostile aggressor."
+    },
+    {
+      "pos": 21,
+      "arabic": "إِلَّآ",
+      "root": null,
+      "lemma": "إِلّا",
+      "meaning_en": "a tyrant",
+      "meaning_bn": "স্বৈরাচারী",
+      "why_en": "The false accusation of seeking tyranny."
+    }
+  ],
+  "lesson_en": "Good intentions can be twisted by enemies. A true believer aims to bring peace, not tyranny.",
+  "lesson_bn": "সৎ উদ্দেশ্যকেও বিরোধী পক্ষ অসৎ রূপ দিতে পারে। একজন খাঁটি মুমিন সবসময় সমাজে শান্তি ও সংশোধন চায়।",
+  "real_life_en": "Always strive to resolve conflicts with fairness. Do not let angry words drive you to act harshly.",
+  "real_life_bn": "বিরোধ নিষ্পত্তির সময় ধৈর্যশীল ও ভারসাম্যপূর্ণ থাকুন। শত্রুর উসকানিমূলক কথায় প্ররোচিত হবেন না।",
+  "themes": [
+    "musa",
+    "conflict",
+    "reform"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Moses"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "When Moses stepped forward to stop the fight, the man accused him of seeking tyranny rather than reform.",
+      "claim_bn": "মুসা শত্রুকে প্রতিহত করতে চাইলে সে মুসাকে স্বৈরাচারী ও হত্যাকারী হিসেবে অভিযুক্ত করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

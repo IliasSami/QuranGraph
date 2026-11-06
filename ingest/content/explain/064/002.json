@@ -1,0 +1,63 @@
+{
+  "id": "64:2",
+  "simple_en": "Allah is the One who created you all from nothing. Yet among you are some who reject faith, and among you are some who believe. Allah sees everything you do. None of your actions are hidden from Him.",
+  "simple_bn": "আল্লাহই তোমাদের সবাইকে সৃষ্টি করেছেন। এরপর তোমাদের মধ্যে কেউ অবিশ্বাসী হয়, আবার কেউ ঈমানদার হয়। তোমরা যা কিছু করো, আল্লাহ তার সবকিছুই দেখেন। তোমাদের কোনো কাজই তাঁর কাছে গোপন থাকে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "He created you",
+      "meaning_bn": "তিনি তোমাদের সৃষ্টি করেছেন",
+      "why_en": "Reminds humans of their origin as created beings accountable to their Maker."
+    },
+    {
+      "pos": 11,
+      "root": "بصر",
+      "lemma": "بَصِير",
+      "meaning_en": "All-Seeing",
+      "meaning_bn": "সর্বদ্রষ্টা",
+      "why_en": "Emphasizes that every deed is observed by Allah and will be judged fairly."
+    }
+  ],
+  "lesson_en": "Choose faith and do good deeds, for Allah observes your choices every moment.",
+  "lesson_bn": "সৎ পথ ও ঈমান বেছে নেওয়া উচিত, কারণ আল্লাহ মানুষের প্রতিটি পদক্ষেপ ও সিদ্ধান্ত প্রত্যক্ষ করেন।",
+  "real_life_en": "A young clerk handles cash late at night when the shop is empty. He knows nobody is watching him, but he remembers that Allah sees all things. He counts the money honestly and closes the drawer.",
+  "real_life_bn": "দোকানে কেউ না থাকলেও ক্যাশ বাক্সের টাকা নিরাপদে গুনে রাখেন এক তরুণ কর্মচারী। তিনি জানেন যে মানুষ না দেখলেও আল্লাহ সবকিছু দেখছেন। এই বিশ্বাস তাকে সততার ওপর অবিচল রাখে।",
+  "themes": [
+    "creation",
+    "belief and disbelief",
+    "divine sight"
+  ],
+  "kinds": [
+    "belief",
+    "warning",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-basir"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah created humankind, and among them are disbelievers and believers, and Allah sees all that people do.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

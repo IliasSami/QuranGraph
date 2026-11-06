@@ -1,0 +1,71 @@
+{
+  "id": "26:47",
+  "simple_en": "The magicians stated openly that they believed in the Lord of all creation. They turned away from Pharaoh and accepted the true faith with sincere hearts.",
+  "simple_bn": "তারা প্রকাশ্যে ঘোষণা করল, আমরা সমস্ত সৃষ্টির প্রতিপালকের প্রতি নিখাদ ঈমান আনয়ন করলাম।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "ءَامَنَّا",
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "we believed",
+      "meaning_bn": "আমরা ঈমান আনলাম",
+      "why_en": "Instantaneous conviction in the truth of monotheism."
+    },
+    {
+      "pos": 4,
+      "arabic": "ٱلْعَٰلَمِينَ",
+      "root": "علم",
+      "lemma": "عالَم",
+      "meaning_en": "the worlds",
+      "meaning_bn": "সৃষ্টিকুল",
+      "why_en": "The supreme Lord governing all existence."
+    }
+  ],
+  "lesson_en": "Faith can enter a person heart in a single moment when the truth is seen.",
+  "lesson_bn": "এক মুহূর্তের আন্তরিক উপলব্ধিতেও মানুষ কুফরির অন্ধকার থেকে ঈমানের আলোয় প্রবেশ করতে পারে।",
+  "real_life_en": "Never think someone is beyond guidance. A sincere encounter with truth can change any life in an instant.",
+  "real_life_bn": "কাউকে হেদায়েত থেকে দূরে ভেবে নিরাশ হবেন না। আন্তরিক তাওহীদ মানুষের জীবনে আমূল পরিবর্তন আনে।",
+  "themes": [
+    "faith",
+    "tawheed",
+    "public-declaration"
+  ],
+  "kinds": [
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Aaron",
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Rabb al-Alamin"
+    ],
+    "events": [
+      "Contest with the Magicians"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The magicians openly declared their faith in the Lord of all creation.",
+      "claim_bn": "যাদুকরেরা সর্বসমক্ষে ঘোষণা করল যে তারা সকল সৃষ্টির প্রতিপালক আল্লাহর প্রতি ঈমান এনেছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "18:68",
+  "simple_en": "The wise teacher said to Moses, \"How can you stay patient with things you do not understand? You do not know the hidden reasons behind them.\"",
+  "simple_bn": "আর যে বিষয়ে আপনার কোনো সম্যক জ্ঞান নেই, সে বিষয়ে আপনি ধৈর্য ধারণ করবেন কীভাবে?",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "you have patience",
+      "meaning_bn": "ধৈর্য ধারণ করবেন",
+      "why_en": "Patience over events whose wisdom is not yet revealed."
+    },
+    {
+      "pos": 8,
+      "root": "خبر",
+      "lemma": "خُبْر",
+      "meaning_en": "knowledge or understanding",
+      "meaning_bn": "জ্ঞান বা সম্যক ধারণা",
+      "why_en": "Comprehending the hidden purpose of divine decrees."
+    }
+  ],
+  "lesson_en": "Humans naturally question what they cannot understand. True patience means trusting God when the wisdom is hidden.",
+  "lesson_bn": "মানুষ যা জানে না সে বিষয়ে অস্থির হয়ে পড়ে। প্রকৃত ধৈর্য হলো ঘটনার কারণ জানা না থাকলেও আল্লাহর প্রতি ভরসা রাখা।",
+  "real_life_en": "Do not rush to judge situations before you know the full picture. Practice quiet patience when life feels puzzling.",
+  "real_life_bn": "পুরো তথ্য না জেনে কোনো ব্যাপারে চূড়ান্ত মতামত দেবেন না। জীবনের জটিল মুহূর্তে শান্ত থাকুন ও প্রজ্ঞার অপেক্ষা করুন।",
+  "themes": [
+    "limited-knowledge",
+    "patience-with-the-unknown",
+    "divine-secrets",
+    "trust-in-wisdom"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "al-Khidr"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Al-Khidr highlighted that enduring patience is difficult when one lacks comprehensive knowledge of an affair.",
+      "claim_bn": "যে বিষয়ের অন্তর্নিহিত কারণ জানা নেই, সে বিষয়ে মানুষ ধৈর্য ধরে রাখা অসম্ভব হয়ে পড়ে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

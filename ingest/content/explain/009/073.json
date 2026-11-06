@@ -1,0 +1,75 @@
+{
+  "id": "9:73",
+  "simple_en": "O Prophet, strive against the deniers and the hypocrites, and be firm with them. Their home will be the Fire of Hell, which is a terrible destination.",
+  "simple_bn": "হে নবী, আপনি কাফের ও মুনাফিকদের বিরুদ্ধে সংগ্রাম করুন এবং তাদের ব্যাপারে কঠোর হোন। তাদের শেষ আশ্রয়স্থল হলো জাহান্নাম, যা কতই না নিকৃষ্ট গন্তব্য!",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "جهد",
+      "lemma": "جاهَدَ",
+      "meaning_en": "strive / struggle",
+      "meaning_bn": "সংগ্রাম করুন / প্রচেষ্টা চালান",
+      "why_en": "Intellectual and defensive striving against falsehood."
+    },
+    {
+      "pos": 6,
+      "root": "غلظ",
+      "lemma": "اغْلُظْ",
+      "meaning_en": "be firm / stern",
+      "meaning_bn": "কঠোর হোন",
+      "why_en": "Standing firm without compromising justice."
+    },
+    {
+      "pos": 11,
+      "root": "صير",
+      "lemma": "مَصِير",
+      "meaning_en": "destination / end",
+      "meaning_bn": "গন্তব্য / শেষ পরিণতি",
+      "why_en": "The tragic fate awaiting stubborn enemies of truth."
+    }
+  ],
+  "lesson_en": "A good leader must stay strong against deceit and stand up for justice.",
+  "lesson_bn": "কপটতা ও অন্যায়ের বিরুদ্ধে আপসহীন দৃঢ়তা বজায় রাখাই সমাজকে রক্ষা করার মূল চাবিকাঠি।",
+  "real_life_en": "When standing up for basic ethics or safety in your organization, be clear and firm. Do not give in to deceitful pressure.",
+  "real_life_bn": "অন্যায় বা অনিয়মের বিরুদ্ধে কথা বলার সময় দৃঢ় থাকুন; কোনো সুবিধাবাদী চাপের মুখে নতি স্বীকার করবেন না।",
+  "themes": [
+    "firmness against corruption",
+    "defense of faith",
+    "leadership"
+  ],
+  "kinds": [
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "disbelievers",
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet Muhammad ﷺ was commanded to strive firmly against overt disbelievers and covert hypocrites.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

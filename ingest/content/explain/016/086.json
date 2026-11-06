@@ -1,0 +1,65 @@
+{
+  "id": "16:86",
+  "simple_en": "When idolaters see their false idols, they will call out: Our Lord, these are the partners we worshiped. But the idols will throw back: You are liars.",
+  "simple_bn": "মুশরিকরা যখন তাদের উপাস্যদের দেখবে তখন বলবে, হে রব, এরা সেই শরিক যাদের আমরা ডাকতাম। তখন মূর্তিরা তাদের ওপর কথা ছুড়ে দিয়ে বলবে: তোমরা মিথ্যাবাদী।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "شرك",
+      "lemma": "شَرِيك",
+      "meaning_en": "their partners",
+      "meaning_bn": "তাদের শরীকগণ",
+      "why_en": "Idols and entities set up alongside God."
+    },
+    {
+      "pos": 19,
+      "root": "كذب",
+      "lemma": "كاذِب",
+      "meaning_en": "liars",
+      "meaning_bn": "মিথ্যাবাদী",
+      "why_en": "False gods repudiating the worshipers."
+    }
+  ],
+  "lesson_en": "False gods turn on their people on the Last Day. They call their own followers liars.",
+  "lesson_bn": "কিয়ামতের দিন মিথ্যা উপাস্যরা তাদের পূজারিদের অস্বীকার করবে এবং তাদের মিথ্যাবাদী বলে ঘোষণা দেবে।",
+  "real_life_en": "Do not build your life around things that will abandon you. Only God stands with you through all eternity.",
+  "real_life_bn": "নশ্বর কারো ওপর এমন নির্ভরতা রাখবেন না যা বিপদে ত্যাগ করবে। কেবল আল্লাহর সাথেই অটুট সম্পর্ক রাখুন।",
+  "themes": [
+    "shirk",
+    "idolatry",
+    "betrayal"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Idols will reject their worshipers on the Day of Resurrection and declare them to be liars.",
+      "claim_bn": "কিয়ামতের দিন কল্পিত অংশীদাররা মুশরিকদের দাবি প্রত্যাখ্যান করে বলবে তোমরা মিথ্যাবাদী।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

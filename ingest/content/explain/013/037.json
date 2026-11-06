@@ -1,0 +1,81 @@
+{
+  "id": "13:37",
+  "simple_en": "Allah sent down the Quran as a clear guide in Arabic. If you follow vain whims after truth has reached you, no one can shield you from God.",
+  "simple_bn": "আল্লাহ এই কুরআনকে আরবি ভাষায় এক সুস্পষ্ট বিধান ও সিদ্ধান্তরূপে নাযিল করেছেন। জ্ঞান আসার পর আপনি যদি তাদের খেয়ালখুশির অনুসরণ করেন, তবে আল্লাহর বিরুদ্ধে আপনার কোনো অভিভাবক বা রক্ষাকারী থাকবে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حكم",
+      "lemma": "حُكْم",
+      "meaning_en": "a judgment / law",
+      "meaning_bn": "সুস্পষ্ট বিধান",
+      "why_en": "A binding legal and moral code distinguishing right from wrong."
+    },
+    {
+      "pos": 4,
+      "root": "عرب",
+      "lemma": "عَرَبِيّ",
+      "meaning_en": "Arabic",
+      "meaning_bn": "আরবি",
+      "why_en": "Clear, eloquent language chosen for universal revelation."
+    },
+    {
+      "pos": 7,
+      "root": "هوي",
+      "lemma": "أَهْواء",
+      "meaning_en": "their desires",
+      "meaning_bn": "তাদের খেয়ালখুশি",
+      "why_en": "Capricious personal whims that oppose divine revelation."
+    },
+    {
+      "pos": 19,
+      "root": "وقي",
+      "lemma": "واق",
+      "meaning_en": "protector",
+      "meaning_bn": "রক্ষাকারী",
+      "why_en": "No defense exists against divine judgment if truth is compromised."
+    }
+  ],
+  "lesson_en": "Stand firm on divine truth and never bend rules to satisfy popular whims.",
+  "lesson_bn": "ঐশী সত্যের ওপর অবিচল থাকুন এবং মানুষের মন জয় করতে মূলনীতি জলাঞ্জলি দেবেন না।",
+  "real_life_en": "A principal refuses to change test scores for a rich friend. He keeps his rules straight because duty matters more than favors.",
+  "real_life_bn": "এক প্রধান শিক্ষক এক প্রভাবশালীর চাপে ছাত্রের পরীক্ষার নম্বর বাড়াতে অস্বীকৃতি জানান। তিনি ন্যায়ের ওপর অবিচল থেকে সত্যের পথে দায়িত্ব পালন করেন।",
+  "context_en": "The decisive authority of the Arabic Quran and warning against compromising with vain desires.",
+  "context_bn": "আরবি কুরআনের চূড়ান্ত প্রামাণিকতা এবং মানুষের মনগড়া ইচ্ছার আনুগত্য থেকে সতর্কীকরণ।",
+  "themes": [
+    "divine law",
+    "arabic quran",
+    "firmness in truth"
+  ],
+  "kinds": [
+    "law",
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quran was revealed as Arabic law, and compromising it for human desires leaves no protector against Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

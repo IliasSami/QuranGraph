@@ -1,0 +1,80 @@
+{
+  "id": "7:126",
+  "simple_en": "The magicians pointed out why Pharaoh hated them. He was punishing them only because they believed in God's clear signs. They turned to Allah in prayer, asking for patience and a peaceful death in true faith.",
+  "simple_bn": "জাদুকররা বলল, 'তুমি কেবল এজন্যই আমাদের শাস্তি দিচ্ছ যে আমরা আমাদের রবের স্পষ্ট নিদর্শনে ঈমান এনেছি।' এরপর তারা আল্লাহর কাছে দোয়া করল, 'হে আমাদের রব, আমাদের ধৈর্য দান করুন এবং মুসলিম হিসেবে মৃত্যু দিন।'",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نقم",
+      "lemma": "نَقَمُ",
+      "meaning_en": "you resent / take revenge",
+      "meaning_bn": "তুমি শাস্তি দিচ্ছ / প্রতিশোধ নিচ্ছ",
+      "why_en": "Clarifies that their only alleged crime was accepting divine truth."
+    },
+    {
+      "pos": 7,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "in the signs",
+      "meaning_bn": "নিদর্শনসমূহে",
+      "why_en": "Refers to the unmistakable miracles shown through Moses."
+    },
+    {
+      "pos": 14,
+      "root": "صبر",
+      "lemma": "صَبْر",
+      "meaning_en": "patience",
+      "meaning_bn": "ধৈর্য",
+      "why_en": "Their urgent prayer for inner endurance to withstand horrific torture."
+    }
+  ],
+  "lesson_en": "In moments of severe trial, pray for patience and steadfastness in faith until death.",
+  "lesson_bn": "কঠিন পরীক্ষার মুখোমুখি হলে আল্লাহর কাছে অটল ধৈর্য এবং ঈমানের সাথে মৃত্যু কামনা করতে হবে।",
+  "real_life_en": "When tests push you to your limits, seek help through sincere prayer. Ask God to grant you steady patience. True victory is leaving this world with your faith intact.",
+  "real_life_bn": "জীবনে চরম বিপদ আসলে ভেঙে না পড়ে আল্লাহর কাছে সবরের জন্য প্রার্থনা করুন। ঈমানের সাথে জীবন শেষ করতে পারাই জীবনের শ্রেষ্ঠ সাফল্য।",
+  "context_en": "Facing imminent execution, the believers turn completely to Allah with a timeless supplication for endurance.",
+  "context_bn": "মৃত্যুর মুখে দাঁড়িয়ে নবদীক্ষিত ঈমানদাররা পার্থিব সাহায্য না চেয়ে আল্লাহর দরবারে অটল থাকার ফরিয়াদ জানায়।",
+  "themes": [
+    "dua",
+    "patience",
+    "steadfastness",
+    "faith under trial"
+  ],
+  "kinds": [
+    "dua",
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "magicians of Pharaoh"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [
+      "prayer for patience before execution"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The magicians asked Allah to pour immense patience over them so they could die as submitted believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,94 @@
+{
+  "id": "5:36",
+  "simple_en": "Those who die without faith face a bleak end on Judgment Day. Suppose they owned all the treasures on earth twice over. If they offered all of it to escape punishment, Allah would never accept it. Worldly wealth cannot buy salvation in the next life. A painful penalty awaits them.",
+  "simple_bn": "যারা কুফরি অবস্থায় মারা যাবে, কিয়ামতের দিন তারা চরম অসহায় হয়ে পড়বে। যদি তাদের কাছে পৃথিবীর সমস্ত ধন-সম্পদ এবং তার সমপরিমাণ আরও সম্পদ থাকে এবং তারা তা মুক্তিপণ হিসেবে দিতে চায়, তবুও তা গ্রহণ করা হবে না। পরকালে সম্পদ দিয়ে মুক্তি কেনা যায় না। তাদের জন্য অপেক্ষা করছে যন্ত্রণাদায়ক শাস্তি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "disbelieved",
+      "meaning_bn": "কুফরী করেছে",
+      "why_en": "Rejecting Allah and His messengers leaves a person with no protection."
+    },
+    {
+      "pos": 13,
+      "root": "فدي",
+      "lemma": "افْتَدَى",
+      "meaning_en": "to ransom themselves",
+      "meaning_bn": "মুক্তিপণ হিসেবে দিতে চাইবে",
+      "why_en": "The useless attempt to trade worldly wealth for salvation on Judgment Day."
+    },
+    {
+      "pos": 18,
+      "root": "قوم",
+      "lemma": "قِيامَة",
+      "meaning_en": "the Resurrection",
+      "meaning_bn": "কিয়ামত",
+      "why_en": "The final Day when worldly riches have zero value before Allah's justice."
+    },
+    {
+      "pos": 24,
+      "root": "ألم",
+      "lemma": "أَلِيم",
+      "meaning_en": "painful",
+      "meaning_bn": "যন্ত্রণাদায়ক",
+      "why_en": "Describes the severe torment awaiting those who die without faith."
+    }
+  ],
+  "lesson_en": "Worldly wealth cannot save you in the Hereafter. Only sincere faith and good deeds matter.",
+  "lesson_bn": "আখেরাতে ধন-সম্পদ কোনো কাজে আসবে না। কেবল খাঁটি ঈমান ও নেক আমলই মুক্তির উপায়।",
+  "real_life_en": "A wealthy person spends a lifetime gathering money but ignores faith and prayer. At the time of death, no amount of cash can buy an extra minute of life. True security lies in serving Allah, not in piling up gold.",
+  "real_life_bn": "একজন ধনী ব্যক্তি সারাজীবন কেবল সম্পদ বাড়াতে ব্যস্ত থাকে, কিন্তু নামাজ ও ঈমানের পরোয়া করে না। মৃত্যুর পর তার ব্যাংক ব্যালেন্স কোনো কাজে আসে না। দুনিয়ার প্রাচুর্য নয়, আল্লাহর আনুগত্যই আসল সম্বল।",
+  "context_en": "Warns that no worldly riches can ransom a disbeliever from the painful punishment of the Day of Resurrection.",
+  "context_bn": "কিয়ামতের দিন কোনো সম্পদ বা মুক্তিপণ দিয়ে যে আযাব থেকে বাঁচা যাবে না, সে সম্পর্কে কাফিরদের জন্য চরম হুঁশিয়ারি।",
+  "themes": [
+    "the Last Day",
+    "judgment",
+    "punishment",
+    "Hell",
+    "wealth",
+    "disbelief"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "the Day of Judgment",
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers cannot ransom themselves on Judgment Day even if they owned all the wealth on earth doubled.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "No worldly wealth will be accepted as a ransom from those who died in disbelief, and their punishment is painful.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

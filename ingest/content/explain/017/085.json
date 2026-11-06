@@ -1,0 +1,65 @@
+{
+  "id": "17:85",
+  "simple_en": "They ask you about the soul. Say, 'The soul is by the command of my Lord. You people have been given only a very small amount of knowledge.'",
+  "simple_bn": "তারা আপনাকে রূহ বা আত্মা সম্পর্কে প্রশ্ন করে। বলুন, 'রূহ আমার প্রতিপালকের আদেশঘটিত বিষয়। আর তোমাদেরকে অতি সামান্য জ্ঞানই দান করা হয়েছে।'",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "روح",
+      "lemma": "رُوح",
+      "meaning_en": "the soul or spirit",
+      "meaning_bn": "রূহ বা আত্মা",
+      "why_en": "The divine breath giving life to human bodies."
+    },
+    {
+      "pos": 12,
+      "root": "علم",
+      "lemma": "عِلْم",
+      "meaning_en": "knowledge",
+      "meaning_bn": "জ্ঞান",
+      "why_en": "Human intellectual limits compared to infinite divine knowledge."
+    }
+  ],
+  "lesson_en": "Human knowledge is very small. The deep secrets of life belong only to God.",
+  "lesson_bn": "মানুষের জ্ঞান অতি সীমিত। জীবনের গভীর রহস্যগুলো কেবল আল্লাহর অসীম প্রজ্ঞার অধীনে সংরক্ষিত।",
+  "real_life_en": "Stay humble no matter how much science or technology advances. Recognize that human wisdom is only a tiny drop in God's vast ocean of knowledge.",
+  "real_life_bn": "বিজ্ঞানে যত অগ্রগতিই হোক না কেন, অহংকার করবেন না। মনে রাখবেন সৃষ্টিজগতের অগাধ জ্ঞানের তুলনায় মানুষের জ্ঞান এক ফোঁটা পানির মতো।",
+  "themes": [
+    "the-soul",
+    "limits-of-knowledge",
+    "divine-command"
+  ],
+  "kinds": [
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "the Soul"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The soul is an affair known only to Allah, and humanity has been granted very limited knowledge.",
+      "claim_bn": "রূহ আল্লাহর নির্দেশের অন্তর্ভুক্ত এক গোপন বিষয় এবং মানুষকে খুব সামান্য জ্ঞানই দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

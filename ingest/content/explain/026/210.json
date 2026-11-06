@@ -1,0 +1,64 @@
+{
+  "id": "26:210",
+  "simple_en": "The devils did not bring down this holy Quran. Evil spirits had no part at all in bringing God's pure words down to the Prophet.",
+  "simple_bn": "শয়তানরা এই পবিত্র কুরআন নিয়ে অবতীর্ণ হয়নি। এই পবিত্র ঐশী বাণী পৌঁছে দেওয়ার ব্যাপারে দুষ্ট আত্মার কোনো অংশ নেই।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "تَنَزَّلَتْ",
+      "root": "نزل",
+      "lemma": "تَنَزَّلَتْ",
+      "meaning_en": "descended",
+      "meaning_bn": "অবতীর্ণ করেছে",
+      "why_en": "Bringing down words of revelation from heaven."
+    },
+    {
+      "pos": 4,
+      "arabic": "ٱلشَّيَٰطِينُ",
+      "root": "شطن",
+      "lemma": "شَيْطان",
+      "meaning_en": "the devils",
+      "meaning_bn": "শয়তানরা",
+      "why_en": "Evil spirits who deceive mankind and promote falsehood."
+    }
+  ],
+  "lesson_en": "The Quran is free from devilish words. God's message is pure and guarded from evil spirits.",
+  "lesson_bn": "কুরআন শয়তানি প্রভাব থেকে সম্পূর্ণ মুক্ত ও সুরক্ষিত। আল্লাহর বাণী পরম পবিত্র ও সংরক্ষিত।",
+  "real_life_en": "Trust the Quran completely as divine truth. Do not let superstitious doubts weaken your confidence in God's book.",
+  "real_life_bn": "কুরআনের বিশুদ্ধতার ওপর গভীর বিশ্বাস রাখুন। কোনো প্রকার কুসংস্কার বা সন্দেহের বশে ঈমানকে দুর্বল হতে দেবেন না।",
+  "themes": [
+    "quran",
+    "purity",
+    "protection"
+  ],
+  "kinds": [
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "devils"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The devils did not bring down the Quran upon the Prophet.",
+      "claim_bn": "শয়তানরা এই কুরআন নিয়ে অবতরণ করেনি এবং তাদের এতে কোনো হাত নেই।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

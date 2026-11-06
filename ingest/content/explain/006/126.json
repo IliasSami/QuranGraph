@@ -1,0 +1,87 @@
+{
+  "id": "6:126",
+  "simple_en": "This religion of Islam is the straight path of your Lord. It contains no crookedness or confusion. Allah has made His verses clear and detailed for those who reflect and take heed. Those who use their minds will recognize the truth and follow its guidance.",
+  "simple_bn": "এই ইসলামই আপনার প্রতিপালকের সরল ও সঠিক পথ, যাতে কোনো বক্রতা বা অস্পষ্টতা নেই। যারা উপদেশ গ্রহণ করতে চায় এবং চিন্তা-ভাবনা করে, তাদের জন্য আমি আয়াতগুলোকে বিশদভাবে ব্যাখ্যা করেছি। বিবেকবান মানুষ এর থেকে শিক্ষা নিয়ে সত্যের ওপর অবিচল থাকে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "صرط",
+      "lemma": "صِراط",
+      "meaning_en": "path / way",
+      "meaning_bn": "পথ",
+      "why_en": "Refers to the complete way of life and faith ordained by Allah."
+    },
+    {
+      "pos": 4,
+      "root": "قوم",
+      "lemma": "مُسْتَقِيم",
+      "meaning_en": "straight / upright",
+      "meaning_bn": "সরল ও সঠিক",
+      "why_en": "Emphasizes that divine revelation has no deviation or crookedness."
+    },
+    {
+      "pos": 9,
+      "root": "ذكر",
+      "lemma": "تَذَكَّرَ",
+      "meaning_en": "they remember / take heed",
+      "meaning_bn": "তারা উপদেশ গ্রহণ করে",
+      "why_en": "Points to open-minded seekers who reflect upon divine signs and learn from them."
+    }
+  ],
+  "lesson_en": "The path of Allah is perfectly straight. Clear signs are always available for those willing to reflect.",
+  "lesson_bn": "আল্লাহর পথ সম্পূর্ণ সরল ও স্পষ্ট। যারা অন্তরে সত্যের সন্ধান করে, তারা এই নিদর্শনগুলো থেকে দিকনির্দেশনা লাভ করে।",
+  "real_life_en": "Stay on the straight path by following the Quran and the Prophet's teachings. When conflicting opinions confuse you, return to clear divine guidance. Make time every day to read the verses and apply their lessons.",
+  "real_life_bn": "কুরআন ও সুন্নাহর দিকনির্দেশনা আঁকড়ে ধরে সরল পথে অবিচল থাকুন। দুনিয়ার নানা মতবাদের ভিড়ে বিভ্রান্ত না হয়ে স্পষ্ট ওহির বিধানে ফিরে আসুন। প্রতিদিন মনোযোগ দিয়ে কুরআন তিলাওয়াত করুন এবং তা বাস্তব জীবনে প্রয়োগ করুন।",
+  "context_en": "After describing guidance and misguidance, Allah affirms that the message given to the Prophet is the straight path.",
+  "context_bn": "হেদায়েতের স্বরূপ বর্ণনার পর আল্লাহ নিশ্চিত করছেন যে, তাঁর প্রেরিত দ্বীনই একমাত্র সরল ও নির্ভুল পথ।",
+  "themes": [
+    "straight path",
+    "reflection",
+    "clarity of revelation",
+    "tawhid"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "glad-tidings",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "those who remember / reflect"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Lord (Rabb)"
+    ],
+    "events": [],
+    "things": [
+      "the path",
+      "signs / verses"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The religion of Islam is the straight path of Allah with no deviation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Allah has made His signs detailed and clear for people who reflect and take heed.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

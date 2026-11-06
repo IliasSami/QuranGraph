@@ -1,0 +1,98 @@
+{
+  "id": "12:64",
+  "simple_en": "Yaqub asked if he could trust them with Benjamin. He had trusted them with Yusuf before, and they broke their word. Still, he placed his trust in God. Allah is the best guardian and the most merciful of all.",
+  "simple_bn": "ইয়াকূব বললেন, আমি কি তাঁর ব্যাপারে তোমাদের তেমনই বিশ্বাস করব যেমন আগে ইউসুফের ক্ষেত্রে করেছিলাম? তিনি সব ভরসা আল্লাহর ওপর ন্যস্ত করে বললেন, আল্লাহই সর্বশ্রেষ্ঠ রক্ষক এবং তিনি পরম দয়ালু।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أمن",
+      "lemma": "أَمِنَ",
+      "meaning_en": "should I entrust you",
+      "meaning_bn": "আমি কি তোমাদের বিশ্বাস করব",
+      "why_en": "Reflects the deep emotional scar from their betrayal of Yusuf."
+    },
+    {
+      "pos": 13,
+      "root": "خير",
+      "lemma": "خَيْر",
+      "meaning_en": "the best",
+      "meaning_bn": "সর্বশ্রেষ্ঠ",
+      "why_en": "Affirms that divine protection surpasses any human promise."
+    },
+    {
+      "pos": 14,
+      "root": "حفظ",
+      "lemma": "حافِظ",
+      "meaning_en": "guardian / protector",
+      "meaning_bn": "রক্ষক",
+      "why_en": "Allah alone guards against all harm and deceit."
+    },
+    {
+      "pos": 16,
+      "root": "رحم",
+      "lemma": "أَرْحَم",
+      "meaning_en": "the most merciful",
+      "meaning_bn": "পরম দয়ালু",
+      "why_en": "Acknowledges God’s boundless compassion toward grieving hearts."
+    }
+  ],
+  "lesson_en": "Human promises may fail, but Allah is always the best and most faithful guardian.",
+  "lesson_bn": "মানুষের প্রতিশ্রুতি ভঙ্গ হতে পারে, কিন্তু আল্লাহই হলেন সর্বোত্তম ও বিশ্বস্ত রক্ষক।",
+  "real_life_en": "A parent sends their child to study far away in another country. After giving advice and safety gear, the parent prays with peace in their heart, entrusting their child to Allah's care.",
+  "real_life_bn": "এক অভিভাবক সন্তানকে দূরে পড়াশোনার জন্য পাঠান। সব ধরনের সাবধানতা অবলম্বনের পর তিনি শান্ত মনে আল্লাহর ওপর ভরসা করে দোয়া করেন।",
+  "context_en": "Remembering the loss of Yusuf, Yaqub hesitated to trust his sons, seeking refuge in Allah alone.",
+  "context_bn": "ইউসুফের বিচ্ছেদের বেদনা মনে করে ইয়াকূব ছেলেদের কথায় পূর্ণ আস্থা না রেখে আল্লাহর ওপর ভরসা করলেন।",
+  "themes": [
+    "trust in Allah",
+    "divine protection",
+    "parental love"
+  ],
+  "kinds": [
+    "story",
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Yaqub",
+      "brothers of Yusuf",
+      "Yusuf",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "al-Hafiz",
+      "Arham ar-Rahimin"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Yaqub recalled how they had broken their promise regarding Yusuf.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He declared that Allah is the best guardian and the most merciful.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,64 @@
+{
+ "id": "47:24",
+ "simple_en": "Do they not ponder over the Quran with deep care? Or are there heavy locks placed upon their hearts that block out its light? Reflecting on the Quran with an open mind softens the heart and leads it to truth.",
+ "simple_bn": "তারা কি কুরআনের অর্থ নিয়ে গভীরভাবে চিন্তা করে না? নাকি তাদের অন্তরে তালা লাগানো রয়েছে যা এর আলো প্রবেশ করতে দেয় না? খোলা মনে কুরআন নিয়ে চিন্তা করলে অন্তর নরম হয় এবং সত্যের দিশা পাওয়া যায়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "دبر",
+   "lemma": "يَتَدَبَّرُ",
+   "meaning_en": "they ponder / reflect deeply",
+   "meaning_bn": "তারা গভীর চিন্তা করে",
+   "why_en": "Tadabbur means looking deeply into the meanings and wisdom of the Quran."
+  },
+  {
+   "pos": 7,
+   "root": "قفل",
+   "lemma": "أَقْفال",
+   "meaning_en": "locks",
+   "meaning_bn": "তালাসমূহ",
+   "why_en": "Arrogance and prejudice act like locks that shut out divine light."
+  }
+ ],
+ "lesson_en": "Reflect deeply on the Quran so that its light can open your heart.",
+ "lesson_bn": "কুরআনের বাণী নিয়ে গভীরভাবে চিন্তা করুন যাতে আপনার অন্তরের দুয়ার খুলে যায়।",
+ "real_life_en": "Do not just read the Arabic words of the Quran quickly. Pause to read the meaning and ask yourself how you can practice each verse in your life.",
+ "real_life_bn": "কুরআন দ্রুত তিলাওয়াত করে শেষ না করে অর্থ বোঝার চেষ্টা করুন। নিজেকে জিজ্ঞেস করুন কীভাবে এই আয়াতের শিক্ষা নিজের জীবনে বাস্তবায়ন করবেন।",
+ "themes": [
+  "the Quran",
+  "reflection",
+  "spiritual-cure",
+  "guidance"
+ ],
+ "kinds": [
+  "command",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "claim_en": "Allah calls upon people to reflect on the Quran, rebuking those whose hearts are locked against guidance.",
+   "claim_bn": "আল্লাহ মানুষকে কুরআন নিয়ে চিন্তা করার আহ্বান জানিয়েছেন এবং যাদের অন্তরে তালা রয়েছে তাদের নিন্দা করেছেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

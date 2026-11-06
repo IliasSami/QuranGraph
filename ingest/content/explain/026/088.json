@@ -1,0 +1,63 @@
+{
+  "id": "26:88",
+  "simple_en": "On the Day of Judgment, neither money nor children can save anyone from punishment. Worldly wealth and status will have no power on that Day.",
+  "simple_bn": "সেই দিন ধন-সম্পদ ও সন্তান-সন্ততি কোনো উপকারে আসবে না। পার্থিব কোনো সহায়-সম্বল বা আত্মীয়তার প্রভাব সেখানে কাউকে বাঁচাতে পারবে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نفع",
+      "lemma": "نَفَعَ",
+      "meaning_en": "will benefit",
+      "meaning_bn": "উপকারে আসবে",
+      "why_en": "Material wealth and worldly relations provide zero protection from divine judgment."
+    },
+    {
+      "pos": 4,
+      "root": "مول",
+      "lemma": "مال",
+      "meaning_en": "wealth",
+      "meaning_bn": "ধন-সম্পদ",
+      "why_en": "Worldly possessions cannot ransom a soul or buy salvation in the hereafter."
+    }
+  ],
+  "lesson_en": "Material wealth and family influence cannot buy salvation. Only faith and righteous actions carry weight on that Day.",
+  "lesson_bn": "পরকালে অর্থ ও বংশমর্যাদা মানুষের কোনো কাজে আসে না। সেখানে কেবল ঈমান ও আমলই মুক্তির উপায় হবে।",
+  "real_life_en": "Do not base your self-worth on your bank balance or social connections. Invest your time and resources in good deeds that will profit you after death.",
+  "real_life_bn": "টাকাপয়সা বা সামাজিক প্রতিপত্তির অহংকার করবেন না। নিজের সম্পদ আল্লাহর সন্তুষ্টির কাজে ব্যয় করুন যা মৃত্যুর পরেও উপকারে আসবে।",
+  "themes": [
+    "wealth",
+    "children",
+    "day-of-judgment"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "day-of-judgment"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "On the Day of Judgment, neither wealth nor children can profit a person or avert punishment.",
+      "claim_bn": "কিয়ামতের দিনে ধন-সম্পদ কিংবা সন্তান-সন্ততি কোনো মানুষের কোনো উপকারে আসবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

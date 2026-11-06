@@ -1,0 +1,79 @@
+{
+  "id": "55:39",
+  "simple_en": "On that Day, no man or jinn needs to be asked about their sins to learn what they did. Allah knows all deeds in full. The angels have already written every action in their records.",
+  "simple_bn": "সেই মহান বিচার দিবসে কোনো মানুষ বা জিনকে তাদের অপরাধ জানার জন্য প্রশ্ন করার প্রয়োজন হবে না। আল্লাহ প্রতিটি ছোট-বড় কাজ খুব ভালো করেই জানেন, আর ফেরেশতারাও প্রতিটি কর্ম নিখুঁতভাবে লিখে রেখেছেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "will be asked",
+      "meaning_bn": "প্রশ্ন করা হবে",
+      "why_en": "No questioning needed to learn facts, since all is fully known."
+    },
+    {
+      "pos": 5,
+      "root": "ذنب",
+      "lemma": "ذَنب",
+      "meaning_en": "his sin / misdeed",
+      "meaning_bn": "তার অপরাধ / গুনাহ",
+      "why_en": "The transgressions recorded in the registers of deeds."
+    },
+    {
+      "pos": 6,
+      "root": "أنس",
+      "lemma": "إِنس",
+      "meaning_en": "man",
+      "meaning_bn": "মানুষ",
+      "why_en": "Human beings standing before divine scrutiny."
+    },
+    {
+      "pos": 8,
+      "root": "جنن",
+      "lemma": "جانّ",
+      "meaning_en": "jinn",
+      "meaning_bn": "জিন",
+      "why_en": "Jinn held accountable alongside mankind."
+    }
+  ],
+  "lesson_en": "Live with the awareness that Allah sees every secret deed and knows your true state.",
+  "lesson_bn": "এই বিশ্বাস নিয়ে চলুন যে আল্লাহ প্রতিটি গোপন কাজ দেখেন এবং আপনার আসল অবস্থা জানেন।",
+  "real_life_en": "When you are alone in your room, remember that Allah sees you. Avoid doing bad things in secret that you would be ashamed to do in public.",
+  "real_life_bn": "কেউ যখন আপনাকে দেখছে না, তখনও মনে রাখবেন আল্লাহ সবকিছু দেখছেন। গোপনে এমন কোনো কাজ করবেন না যা প্রকাশ্যে করতে আপনি লজ্জিত হতেন।",
+  "themes": [
+    "the Last Day",
+    "judgment",
+    "Allah's knowledge"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "jinn"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "On that Day no man or jinn will be asked about their sins to find out facts, because Allah already knows their deeds.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

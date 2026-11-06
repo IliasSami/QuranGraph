@@ -1,0 +1,81 @@
+{
+ "id": "4:44",
+ "simple_en": "Look at those who were given a share of the earlier scripture. Instead of embracing the truth, they trade away true guidance for error. Worse still, they actively wish for the believers to lose their way and leave the straight path.",
+ "simple_bn": "লক্ষ্য করুন সেই লোকদের প্রতি, যাদের পূর্ববর্তী কিতাবের জ্ঞান দেওয়া হয়েছিল। তারা সঠিক পথ ছেড়ে নিজেদের জন্য ভ্রষ্টতা কিনে নিয়েছে। শুধু তাই নয়, তারা মনেপ্রাণে চায় মুমিনরাও যেন সরল সঠিক পথ থেকে বিচ্যুত হয়ে তাদের মতো বিভ্রান্ত হয়ে পড়ে।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "نصب",
+   "lemma": "نَصِيب",
+   "meaning_en": "a portion",
+   "meaning_bn": "একটি অংশ",
+   "why_en": "Indicates that they possessed real scripture yet failed to act upon its message."
+  },
+  {
+   "pos": 9,
+   "root": "شري",
+   "lemma": "اشْتَرَى",
+   "meaning_en": "they purchase",
+   "meaning_bn": "তারা ক্রয় করে",
+   "why_en": "Uses the metaphor of buying to describe choosing falsehood over true guidance."
+  },
+  {
+   "pos": 10,
+   "root": "ضلل",
+   "lemma": "ضَلالَة",
+   "meaning_en": "misguidance",
+   "meaning_bn": "বিভ্রান্তি বা পথভ্রষ্টতা",
+   "why_en": "Shows the tragic trade they made by preferring deviation to revelation."
+  }
+ ],
+ "lesson_en": "Hold firmly to divine guidance and do not let critics or doubters pull you away from the truth.",
+ "lesson_bn": "সত্য ও হিদায়াতকে দৃঢ়ভাবে আঁকড়ে ধরুন এবং কোনো বিভ্রান্তকারী যেন আপনাকে সঠিক পথ থেকে টলাতে না পারে সে বিষয়ে সতর্ক থাকুন।",
+ "real_life_en": "Do not spend your money on corrupt media or evil teachings. Choose good books and truthful teachers. Protecting your mind from falsehood keeps your faith steady.",
+ "real_life_bn": "বন্ধুবান্ধব বা সামাজিক যোগাযোগ মাধ্যমে কেউ যদি দ্বীনী মূল্যবোধ ছেড়ে অসৎ পথে চলার প্ররোচনা দেয়, তবে দৃঢ় থাকুন। সাময়িক জনপ্রিয়তার লোভে কখনো সত্য ও ন্যায়ের পথ ছাড়বেন না।",
+ "context_en": "Following commands of worship, the passage turns to exposing the attitude of opponents who rejected faith.",
+ "context_bn": "ইবাদতের নির্দেশের পর এখানে সেই সম্প্রদায়ের আলোচনা এসেছে যারা সত্য ত্যাগ করে পথভ্রষ্টতা বেছে নিয়েছে।",
+ "themes": [
+  "guidance",
+  "misguidance",
+  "Children of Israel",
+  "faith"
+ ],
+ "kinds": [
+  "warning",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those given a portion of the Scripture traded guidance for misguidance and falsehood.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "They actively desired that the believers would also deviate from the straight path.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

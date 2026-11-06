@@ -1,0 +1,72 @@
+{
+  "id": "67:9",
+  "simple_en": "The dwellers of Hell will reply: Yes, a warner came to us, but we rejected him. We said that Allah revealed nothing and that the prophets were in great error. They will openly admit their tragic blindness.",
+  "simple_bn": "জাহান্নামীরা উত্তর দেবে: হ্যাঁ, আমাদের কাছে অবশ্যই সতর্ককারী এসেছিলেন, কিন্তু আমরা তাঁদের মিথ্যাবাদী বলেছি। আমরা বলেছিলাম যে আল্লাহ কিছুই নাজিল করেননি এবং তোমরাই চরম বিভ্রান্তিতে আছ।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "a warner",
+      "meaning_bn": "সতর্ককারী পয়গম্বর",
+      "why_en": "Acknowledges that messengers delivered the message truthfully."
+    },
+    {
+      "pos": 6,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "we rejected and denied",
+      "meaning_bn": "আমরা মিথ্যারোপ করেছি",
+      "why_en": "Captures the honest confession of deniers when faced with the truth."
+    },
+    {
+      "pos": 17,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "misguidance",
+      "meaning_bn": "বিভ্রান্তি",
+      "why_en": "Shows how deniers falsely blamed righteous prophets of being astray."
+    }
+  ],
+  "lesson_en": "Listen with an open heart when someone gives you good advice.",
+  "lesson_bn": "সৎ উপদেশদাতাকে উপহাস না করে বিনয়ের সাথে সত্য গ্রহণ করাই বিচক্ষণতার লক্ষণ।",
+  "real_life_en": "A teenager mocks a friend who tells him to avoid vaping. Years later, battling poor health, he regrets not listening. He realizes his friend was speaking out of genuine care.",
+  "real_life_bn": "শুভাকাঙ্ক্ষীর উপকারী কথাকে তুচ্ছজ্ঞান করা উচিত নয়। অহংকার ছেড়ে সৎ পরামর্শ মেনে চললে অনেক ক্ষতি ও অনাকাঙ্ক্ষিত আফসোস থেকে রক্ষা পাওয়া যায়।",
+  "themes": [
+    "disbelief",
+    "repentance",
+    "prophethood",
+    "Hell"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelievers confess that warners arrived, but they denied them and claimed Allah revealed nothing.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

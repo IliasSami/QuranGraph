@@ -1,0 +1,82 @@
+{
+  "id": "33:45",
+  "simple_en": "God sent the Prophet Muhammad ﷺ with a noble mission. He is a witness to the truth for all nations. He brings good news of Paradise to those who do good, and he warns against the danger of disbelief and sin.",
+  "simple_bn": "মহান আল্লাহ নবী মুহাম্মদ ﷺ-কে সমগ্র সৃষ্টির জন্য সাক্ষী হিসেবে পাঠিয়েছেন। তিনি মুমিনদের জান্নাতের সুসংবাদ দেন এবং অন্যায়কারীদের কঠোর শাস্তি সম্পর্কে সতর্ক করেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نبأ",
+      "lemma": "نَبِيّ",
+      "meaning_en": "the Prophet",
+      "meaning_bn": "হে নবী",
+      "why_en": "Honorable address to the Messenger of God."
+    },
+    {
+      "pos": 5,
+      "root": "شهد",
+      "lemma": "شاهِد",
+      "meaning_en": "a witness",
+      "meaning_bn": "সাক্ষী হিসেবে",
+      "why_en": "Bearing witness over humanity regarding the truth."
+    },
+    {
+      "pos": 6,
+      "root": "بشر",
+      "lemma": "مُبَشِّر",
+      "meaning_en": "a bringer of good news",
+      "meaning_bn": "সুসংবাদদাতা হিসেবে",
+      "why_en": "Bringing glad tidings of Paradise to believers."
+    },
+    {
+      "pos": 7,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "and a warner",
+      "meaning_bn": "এবং সতর্ককারী হিসেবে",
+      "why_en": "Warning people against the punishment of disbelief."
+    }
+  ],
+  "lesson_en": "The Prophet ﷺ brought glad tidings of mercy and clear warnings against harmful choices.",
+  "lesson_bn": "রাসূলুল্লাহ ﷺ সুসংবাদ ও সতর্কবার্তা নিয়ে এসে মানুষকে সত্যের দিশা দিয়েছেন।",
+  "real_life_en": "Encourage people toward good by sharing hope and good news. Warn those you love gently when you see them heading toward harm.",
+  "real_life_bn": "পরিবার ও বন্ধুদের ভালো কাজে উৎসাহিত করুন। কেউ ভুলের পথে পা বাড়ালে তাকে স্নেহ ও নম্রতার সাথে সতর্ক করুন।",
+  "themes": [
+    "prophethood",
+    "Prophet Muhammad ﷺ",
+    "guidance"
+  ],
+  "kinds": [
+    "address",
+    "description-of-allah",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah sent the Prophet as a witness over creation, a bringer of glad tidings, and a warner against divine punishment.",
+      "claim_bn": "আল্লাহ তাঁর নবীকে সমগ্র সৃষ্টির জন্য সাক্ষী, সুসংবাদদাতা ও সতর্ককারীরূপে প্রেরণ করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

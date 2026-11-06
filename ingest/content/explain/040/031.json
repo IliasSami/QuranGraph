@@ -1,0 +1,85 @@
+{
+  "id": "40:31",
+  "simple_en": "He reminded them of what happened to the people of Nuh, the tribe of Ad, the people of Thamud, and those who came after them. Allah never wishes any injustice for His servants. He only punishes people for their own wrong choices.",
+  "simple_bn": "সে তাদের নূহের সম্প্রদায়, আদ, সামূদ এবং তাদের পরবর্তী জাতিসমূহের পরিণামের কথা স্মরণ করিয়ে দিল। আল্লাহ তাঁর বান্দাদের প্রতি কোনো জুলুম করতে চান না। তিনি কেবল তাদের নিজেদের কৃতকর্মের কারণেই শাস্তি দেন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": null,
+      "lemma": "نُوح",
+      "meaning_en": "Nuh (Noah)",
+      "meaning_bn": "নূহ (আলাইহিস সালাম)",
+      "why_en": "The ancient prophet whose rebellious people perished in the great flood."
+    },
+    {
+      "pos": 5,
+      "root": "عود",
+      "lemma": "عاد",
+      "meaning_en": "Ad",
+      "meaning_bn": "আদ সম্প্রদায়",
+      "why_en": "The mighty ancient nation that was destroyed by a furious wind."
+    },
+    {
+      "pos": 6,
+      "root": null,
+      "lemma": "ثَمُود",
+      "meaning_en": "Thamud",
+      "meaning_bn": "সামূদ সম্প্রদায়",
+      "why_en": "The proud people who carved homes in rock and were seized by the blast."
+    },
+    {
+      "pos": 13,
+      "root": "ظلم",
+      "lemma": "ظُلْم",
+      "meaning_en": "injustice",
+      "meaning_bn": "জুলুম বা অবিচার",
+      "why_en": "Affirms that Allah never wrongs any of His created servants."
+    }
+  ],
+  "lesson_en": "Allah is fair to all and never wrongs His servants.",
+  "lesson_bn": "আল্লাহ বান্দার প্রতি অবিচার করেন না, বরং প্রতিটি কর্মের ন্যায়সঙ্গত প্রতিদান দেন।",
+  "real_life_en": "Own up to your faults instead of blaming others. Allah is always fair. Ask Him for pardon and try your best to do good.",
+  "real_life_bn": "নিজের ভুলের জন্য অন্যকে দোষ না দিয়ে আত্মসংশোধন করুন। আল্লাহ পরম ন্যায়পরায়ণ, তাই তাঁর কাছে ক্ষমা চেয়ে সৎপথে চলুন।",
+  "themes": [
+    "past nations",
+    "justice",
+    "stories of the prophets"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "nuh"
+    ],
+    "nations": [
+      "ad",
+      "thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "He cited the destruction of Nuh's people, Ad, and Thamud, affirming that Allah desires no injustice for His servants.",
+      "claim_bn": "তিনি নূহের কওম, আদ ও সামূদের পরিণতির কথা উল্লেখ করে বলেন যে আল্লাহ বান্দাদের ওপর জুলুম চান না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "19:16",
+  "simple_en": "Mention in the Book the story of Maryam. Remember when she left her family for a quiet place in the east to pray in peace.",
+  "simple_bn": "আর এই কিতাবে মারইয়ামের কথা স্মরণ করুন। যখন সে তার পরিবার থেকে পৃথক হয়ে একান্ত ইবাদতের উদ্দেশ্যে পূর্ব দিকের এক স্থানে নিরালায় গেল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ذكر",
+      "lemma": "ذَكَرَ",
+      "meaning_en": "mention or remember",
+      "meaning_bn": "স্মরণ করুন বা বর্ণনা করুন",
+      "why_en": "Calling upon the Prophet to convey her inspiring story."
+    },
+    {
+      "pos": 10,
+      "root": "شرق",
+      "lemma": "شَرْقِيّ",
+      "meaning_en": "eastern",
+      "meaning_bn": "পূর্ব দিকের",
+      "why_en": "The direction she took to seclude herself from people."
+    }
+  ],
+  "lesson_en": "Quiet prayer builds a strong heart. Maryam showed deep devotion through private worship.",
+  "lesson_bn": "একান্ত ইবাদতের জন্য নিভৃত পরিবেশ আত্মিক একাগ্রতা বাড়ায়। মারইয়ামের ঘটনা একনিষ্ঠ উপাসনা ও ত্যাগের অনন্য দৃষ্টান্ত।",
+  "real_life_en": "Set aside time away from distractions to reflect on your faith. Value quiet spaces where you can worship your Creator.",
+  "real_life_bn": "পার্থিব কোলাহল থেকে দূরে সরে গিয়ে নিজের ঈমান নিয়ে ভাবুন। নিভৃতে আল্লাহর ইবাদত করার সময় নির্ধারণ করুন।",
+  "themes": [
+    "story-of-maryam",
+    "solitary-worship",
+    "spiritual-retreat"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Mary"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet is instructed to recount Maryam's withdrawal to an eastern sanctuary for devotion.",
+      "claim_bn": "কুরআনে মারইয়ামের নির্জন স্থানে গিয়ে একান্ত ইবাদতে মগ্ন হওয়ার ঘটনা স্মরণ করার নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,71 @@
+{
+  "id": "29:46",
+  "simple_en": "Speak with the People of the Book in the best and kindest way. Do not argue harshly, unless they treat you with cruelty. Tell them that we believe in what was sent to us and what was sent to you. Our God and your God is One, and we submit to Him in peace.",
+  "simple_bn": "মুমিনদের নির্দেশ দেওয়া হয়েছে যেন তারা কিতাবীদের সাথে কেবল সর্বোত্তম ও মার্জিত পদ্ধতিতে আলোচনা করে। তবে তাদের মধ্যে যারা সীমালঙ্ঘন ও অবিচার করে, তাদের বিষয়টি ভিন্ন। তোমরা বলো, আমরা আমাদের কিতাবে এবং তোমাদের কিতাবে বিশ্বাস করি। আমাদের উপাস্য ও তোমাদের উপাস্য এক, এবং আমরা তাঁরই অনুগত বান্দা।",
+  "key_words": [
+    {
+      "pos": 8,
+      "arabic": "أَحْسَنُ",
+      "root": "حسن",
+      "lemma": "أَحْسَن",
+      "meaning_en": "best / finest manner",
+      "meaning_bn": "উত্তম পন্থা",
+      "why_en": "Instruction to engage with People of the Book in the gentlest, most courteous way."
+    },
+    {
+      "pos": 25,
+      "arabic": "مُسْلِمُونَ",
+      "root": "سلم",
+      "lemma": "مُسْلِم",
+      "meaning_en": "submitted / Muslims",
+      "meaning_bn": "আত্মসমর্পণকারী",
+      "why_en": "Declares complete devotion and submission to the One God."
+    }
+  ],
+  "lesson_en": "Talk about faith with kindness and respect. The call to worship one God is the heart of all true revelation.",
+  "lesson_bn": "ধর্মীয় আলোচনা সবসময় বিনম্র, যুক্তিপূর্ণ ও মর্যাদাপূর্ণ হওয়া উচিত। এক আল্লাহর প্রতি আনুগত্যই সমস্ত আসমানী বাণীর মূলভিত্তি।",
+  "real_life_en": "Speak with patience and respect when sharing your faith with others. Focus on shared moral truths rather than starting heated arguments.",
+  "real_life_bn": "ভিন্ন মতাবলম্বীদের সাথে কথা বলার সময় শান্ত ও ভদ্র ভাষা ব্যবহার করুন। অহেতুক তর্কে না জড়িয়ে মৌলিক নৈতিক সত্যগুলোকে সুন্দরভাবে তুলে ধরুন।",
+  "themes": [
+    "interfaith-dialogue",
+    "people-of-the-book",
+    "gentleness",
+    "tawheed"
+  ],
+  "kinds": [
+    "command",
+    "ethics",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "People of the Scripture"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Torah",
+      "the Gospel",
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Believers must dialogue with People of the Book in the best manner, declaring belief in all revelation and submission to the One God.",
+      "claim_bn": "কিতাবীদের সাথে কেবল উত্তম পন্থায় বিতর্ক করা এবং এক আল্লাহর প্রতি অবিচল আনুগত্য ঘোষণা করার নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

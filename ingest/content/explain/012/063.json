@@ -1,0 +1,94 @@
+{
+  "id": "12:63",
+  "simple_en": "When they reached home, the sons told their father that future grain was denied unless Benjamin went with them. They begged him to send their brother so they could get food, promising to guard him carefully.",
+  "simple_bn": "বাড়ি ফিরে ভাইয়েরা পিতাকে জানাল যে ছোট ভাইকে সাথে না নিলে তাদের খাদ্য দেওয়া হবে না। তারা ছোট ভাইকে সাথে পাঠানোর অনুরোধ করল যাতে তারা খাদ্য সংগ্রহ করতে পারে এবং তাকে সাবধানে রাখার প্রতিশ্রুতি দিল।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "منع",
+      "lemma": "مَنَعَ",
+      "meaning_en": "has been denied",
+      "meaning_bn": "বন্ধ করে দেওয়া হয়েছে",
+      "why_en": "The condition set by the Egyptian ruler restricting their rations."
+    },
+    {
+      "pos": 9,
+      "root": "كيل",
+      "lemma": "كَيْل",
+      "meaning_en": "the measure of grain",
+      "meaning_bn": "পরিমাপ বা খাদ্যশস্য",
+      "why_en": "The essential food provisions needed during the severe drought."
+    },
+    {
+      "pos": 10,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "send with us",
+      "meaning_bn": "আমাদের সাথে পাঠান",
+      "why_en": "Their urgent plea to Yaqub to allow Benjamin to travel."
+    },
+    {
+      "pos": 16,
+      "root": "حفظ",
+      "lemma": "حافِظ",
+      "meaning_en": "guardians",
+      "meaning_bn": "রক্ষক",
+      "why_en": "Repeating the same protective pledge they once made for Yusuf."
+    }
+  ],
+  "lesson_en": "Past mistakes can make others doubt your word, even when you speak the truth.",
+  "lesson_bn": "অতীতের ভুলের কারণে মানুষ সত্য বললেও অন্যের মনে সন্দেহের সৃষ্টি হতে পারে।",
+  "real_life_en": "A driver who once had a crash asks to borrow the family car. The family hesitates, even though the driver now drives with care.",
+  "real_life_bn": "অতীতে গাড়ি দুর্ঘটনায় পড়া এক ব্যক্তি কাজের প্রয়োজনে আবার গাড়ি চান। তিনি এখন সতর্ক হলেও অতীতের ভুলের কারণে পরিবারের সদস্যরা ইতস্তত করেন।",
+  "context_en": "Returning to Canaan, the brothers informed Yaqub of the minister's strict demand regarding Benjamin.",
+  "context_bn": "কানআনে ফিরে ভাইয়েরা ইয়াকূব (আলাইহিস সালাম)-কে মিসরের শাসকের দেওয়া শর্তের কথা জানাল।",
+  "themes": [
+    "trust",
+    "family dynamics",
+    "food crisis"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "brothers of Yusuf",
+      "Yaqub",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "grain"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The sons told Yaqub that grain was withheld unless they brought Benjamin.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They promised to protect their brother if allowed to take him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

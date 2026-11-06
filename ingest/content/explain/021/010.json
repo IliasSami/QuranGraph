@@ -1,0 +1,64 @@
+{
+  "id": "21:10",
+  "simple_en": "We have sent down to you a Book in which is your honor and reminder. Will you not use your intellect to understand its great value?",
+  "simple_bn": "আমি তোমাদের প্রতি এমন এক কিতাব অবতীর্ণ করেছি যাতে রয়েছে তোমাদের সম্মান ও উপদেশ। তবে কি তোমরা বিবেক খাঁটিয়ে তা বুঝবে না?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "a Book",
+      "meaning_bn": "কিতাব",
+      "why_en": "The Holy Quran revealed as divine guide."
+    },
+    {
+      "pos": 8,
+      "root": "عقل",
+      "lemma": "عَقَلُ",
+      "meaning_en": "you reason",
+      "meaning_bn": "তোমরা বিবেক প্রয়োগ করো",
+      "why_en": "Call to exercise rational intellect."
+    }
+  ],
+  "lesson_en": "The Quran is a source of honor and wisdom. Use your mind to reflect upon its clear guidance.",
+  "lesson_bn": "কুরআন সম্মান ও জ্ঞানের মহান উৎস। এর উপদেশ হৃদয়ে ধারণ করতে নিজের বিবেক-বুদ্ধি ব্যবহার করুন।",
+  "real_life_en": "Make the Quran your daily guide. Living by its principles elevates your character and brings true honor to your life.",
+  "real_life_bn": "কুরআনকে দৈনন্দিন জীবনের পথপ্রদর্শক বানান। এর আদর্শ মেনে চললে জীবনে মর্যাদা ও শান্তি প্রতিষ্ঠিত হবে।",
+  "themes": [
+    "quran",
+    "honor",
+    "intellect",
+    "reminder"
+  ],
+  "kinds": [
+    "address",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God revealed the Quran containing honor and reminder for humanity, questioning why they do not use reason.",
+      "claim_bn": "আল্লাহ এমন কিতাব অবতীর্ণ করেছেন যাতে মানুষের মর্যাদা রয়েছে, এবং তাদের বিবেক প্রয়োগ করার আহ্বান জানিয়েছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,89 @@
+{
+  "id": "13:2",
+  "simple_en": "Allah raised the vast heavens without any pillars you can see. He established Himself above the Throne. He set the sun and moon on fixed paths until a set time. He runs all affairs and explains His signs so you trust the meeting with your Lord.",
+  "simple_bn": "আল্লাহ আসমানকে কোনো দৃশ্যমান খুঁটি ছাড়াই উচ্চে স্থাপন করেছেন। অতঃপর তিনি আরশের উপর সমুন্নত হয়েছেন। তিনি সূর্য ও চাঁদকে নিয়মাধীন করেছেন, যার প্রতিটি নির্দিষ্ট সময় পর্যন্ত আবর্তিত হয়। তিনি সব কাজ পরিচালনা করেন এবং নিদর্শনসমূহ বিশদ করেন যাতে তোমরা রবের সাথে সাক্ষাতের ব্যাপারে নিশ্চিত হও।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "رفع",
+      "lemma": "رَفَعَ",
+      "meaning_en": "raised",
+      "meaning_bn": "উচ্চে স্থাপন করেছেন",
+      "why_en": "Describes the raising of celestial vaults without visible supports."
+    },
+    {
+      "pos": 6,
+      "root": "عمد",
+      "lemma": "عَمَد",
+      "meaning_en": "pillars",
+      "meaning_bn": "খুঁটি",
+      "why_en": "Points to the unseen divine power holding cosmic bodies in place."
+    },
+    {
+      "pos": 11,
+      "root": "عرش",
+      "lemma": "عَرْش",
+      "meaning_en": "the Throne",
+      "meaning_bn": "আরশ",
+      "why_en": "Affirms Allah's supreme ascendancy and absolute authority."
+    },
+    {
+      "pos": 13,
+      "root": "شمس",
+      "lemma": "شَمْس",
+      "meaning_en": "the sun",
+      "meaning_bn": "সূর্য",
+      "why_en": "Subjected to run in its precise orbital course for human benefit."
+    },
+    {
+      "pos": 14,
+      "root": "قمر",
+      "lemma": "قَمَر",
+      "meaning_en": "the moon",
+      "meaning_bn": "চাঁদ",
+      "why_en": "Running for a designated term to measure months and years."
+    }
+  ],
+  "lesson_en": "Observe the cosmic order to know the wisdom and power of the Creator.",
+  "lesson_bn": "মহাজাগতিক শৃঙ্খলা পর্যবেক্ষণ করলে স্রষ্টার অপরিসীম ক্ষমতা ও প্রজ্ঞার পরিচয় পাওয়া যায়।",
+  "real_life_en": "A student looks at the stars through a telescope. The planets move on set paths with no clash. She sees great order in the sky and praises God.",
+  "real_life_bn": "এক শিক্ষার্থী দূরবীন দিয়ে নক্ষত্রমণ্ডল পর্যবেক্ষণ করে। গ্রহগুলো কোনো সংঘাত ছাড়াই নিজ কক্ষপথে আবর্তিত হয়। সে মহাবিশ্বের এই শৃঙ্খলা দেখে স্রষ্টার প্রশংসা করে।",
+  "context_en": "Cosmic evidence establishing Allah's Lordship and the reality of the final meeting.",
+  "context_bn": "আল্লাহর সার্বভৌমত্ব এবং পরকালের সাক্ষাতের অকাট্য মহাজাগতিক প্রমাণ।",
+  "themes": [
+    "creation",
+    "cosmic order",
+    "resurrection"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "heavens",
+      "the sun",
+      "the moon",
+      "Throne"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah raised the heavens, subjected the sun and moon, and manages all cosmic affairs.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

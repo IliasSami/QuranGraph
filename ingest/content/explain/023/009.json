@@ -1,0 +1,61 @@
+{
+  "id": "23:9",
+  "simple_en": "They carefully guard their prayers and perform them on time. They observe every prayer with devotion and respect. They never neglect their daily duty to God.",
+  "simple_bn": "এবং যারা যত্ন সহকারে নিজেদের সকল নামাজের পূর্ণ হেফাজত করে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "صلو",
+      "lemma": "صَلاة",
+      "meaning_en": "their prayers",
+      "meaning_bn": "তাদের নামাজসমূহ",
+      "why_en": "Maintaining the prescribed prayers consistently on time."
+    },
+    {
+      "pos": 5,
+      "root": "حفظ",
+      "lemma": "يُحافِظُ",
+      "meaning_en": "they guard or maintain",
+      "meaning_bn": "তারা যত্ন সহকারে রক্ষা করে",
+      "why_en": "Protecting prayer times, conditions, and inner devotion."
+    }
+  ],
+  "lesson_en": "Consistent prayer anchors the spiritual life of a believer. Guarding prayer times builds discipline and peace.",
+  "lesson_bn": "নিয়মিত নামাজ মানুষের আত্মিক জীবনকে সুদৃঢ় করে। সময়মতো নামাজ আদায় করা শৃঙ্খলা ও শান্তি আনে।",
+  "real_life_en": "Plan your daily schedule around your prayer times. Treat your appointments with God as your highest priority.",
+  "real_life_bn": "নামাজের সময় অনুযায়ী আপনার কাজের পরিকল্পনা করুন। আল্লাহর সাথে সাক্ষাতের সময়কে দিনের সবচেয়ে গুরুত্বপূর্ণ অগ্রাধিকার দিন।",
+  "themes": [
+    "guarding-prayer",
+    "prayer-times",
+    "discipline"
+  ],
+  "kinds": [
+    "worship",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers diligently safeguard the regularity, conditions, and timings of their prescribed daily prayers.",
+      "claim_bn": "মুমিনরা তাদের দৈনিক নামাজের সময়, নিয়মকানুন ও একাগ্রতা যত্ন সহকারে রক্ষা করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

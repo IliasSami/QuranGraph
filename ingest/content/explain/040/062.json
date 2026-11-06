@@ -1,0 +1,66 @@
+{
+  "id": "40:62",
+  "simple_en": "That is Allah, your Lord and Master, the Creator of every single thing. There is no deity worthy of worship except Him. How then are you turned away from the truth?",
+  "simple_bn": "তিনিই আল্লাহ, তোমাদের প্রতিপালক, প্রতিটি বস্তুর একক স্রষ্টা। তিনি ছাড়া সত্য কোনো উপাস্য নেই। তবে তোমরা কীভাবে সত্য পথ থেকে বিভ্রান্ত হচ্ছ?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "خلق",
+      "lemma": "خالِق",
+      "meaning_en": "Creator",
+      "meaning_bn": "স্রষ্টা",
+      "why_en": "The sole Originator of all existing things."
+    },
+    {
+      "pos": 12,
+      "root": "أفك",
+      "lemma": "أُفِكَ",
+      "meaning_en": "are you turned away",
+      "meaning_bn": "তোমরা বিভ্রান্ত হচ্ছ",
+      "why_en": "Rhetorical question rebuking those who turn from monotheism to idols."
+    }
+  ],
+  "lesson_en": "The Creator of all things alone is worthy of pure worship and total devotion.",
+  "lesson_bn": "যিনি সবকিছুর স্রষ্টা, একমাত্র তিনিই খাঁটি ইবাদত ও আনুগত্য পাওয়ার যোগ্য।",
+  "real_life_en": "Remember that everything around you was made by Allah. Let this truth keep your heart grounded in worship of Him alone.",
+  "real_life_bn": "চারপাশে তাকিয়ে উপলব্ধি করুন যে প্রতিটি জিনিসই আল্লাহর সৃষ্টি। এই বিশ্বাস অন্তরে রেখে একমাত্র তাঁরই আনুগত্য করুন।",
+  "themes": [
+    "tawhid",
+    "creation",
+    "names and attributes of Allah"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "ar-rabb",
+      "al-khaliq"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "That is Allah, your Lord, Creator of everything with no god but Him; how then are you deluded.",
+      "claim_bn": "তিনিই আল্লাহ তোমাদের রব, সকল কিছুর স্রষ্টা এবং তিনি ছাড়া কোনো উপাস্য নেই; তবে কেন বিভ্রান্ত হচ্ছ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,82 @@
+{
+  "id": "6:35",
+  "simple_en": "The Prophet cared deeply about saving people. Their refusal made him very sad. Allah tells him that even if he climbed into the sky or dug into the earth, stubborn deniers would still turn away. If Allah had willed, He could have guided everyone. Trust in Allah's wisdom and do not let grief overcome you.",
+  "simple_bn": "মানুষ যাতে সত্য গ্রহণ করে, সে জন্য রাসূলের ব্যাকুলতা ছিল অপরিসীম। তাদের বিমুখতা তাঁকে দারুণ ব্যথিত করত। আল্লাহ তাঁকে জানান, সুড়ঙ্গ খুঁড়ে বা আকাশে সিঁড়ি লাগিয়ে নতুন অলৌকিক নিদর্শন আনলেও অহংকারী ব্যক্তিরা বিশ্বাস করত না। আল্লাহ চাইলে সবাইকে হেদায়াত দিতে পারতেন। তাই আল্লাহর প্রজ্ঞার ওপর ভরসা রেখে দুঃখভারাক্রান্ত হওয়া উচিত নয়।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "عرض",
+      "lemma": "إِعْراض",
+      "meaning_en": "their turning away",
+      "meaning_bn": "তাদের মুখ ফিরিয়ে নেওয়া",
+      "why_en": "Describes the painful indifference of the disbelievers towards revelation."
+    },
+    {
+      "pos": 24,
+      "root": "هدي",
+      "lemma": "هُدًى",
+      "meaning_en": "the guidance",
+      "meaning_bn": "হিদায়াত বা সঠিক পথ",
+      "why_en": "Points to Allah's ability to unite all people upon divine guidance if He willed."
+    },
+    {
+      "pos": 28,
+      "root": "جهل",
+      "lemma": "جاهِل",
+      "meaning_en": "the ignorant",
+      "meaning_bn": "অজ্ঞ বা নির্বোধ",
+      "why_en": "Warns against despairing over people's choices against Allah's overarching wisdom."
+    }
+  ],
+  "lesson_en": "Guidance belongs to Allah. Do not let other people's choices break your heart.",
+  "lesson_bn": "হেদায়াত একমাত্র আল্লাহর ইচ্ছার ওপর নির্ভরশীল; তাই মানুষের অবাধ্যতায় অন্তরে হতাশা স্থান দেওয়া অনুচিত।",
+  "real_life_en": "A parent tries hard to help a wayward son. The son still makes poor choices. The parent feels deep sorrow. Do your duty with love and prayer, and leave the result to Allah.",
+  "real_life_bn": "পথভ্রষ্ট সন্তানকে ভালো করার জন্য পিতামাতা আন্তরিক চেষ্টা করেন। কিন্তু সে অবাধ্য হয়ে থাকলে পিতামাতা গভীর বেদনায় ভোগেন। মুমিনের দায়িত্ব ভালোবাসা ও দোয়ার সাথে চেষ্টা করা এবং ফলাফলের জন্য আল্লাহর ওপর ভরসা রাখা।",
+  "context_en": "Addresses the Prophet's intense grief over his people's disbelief and affirms divine sovereignty over guidance.",
+  "context_bn": "কাফিরদের অবাধ্যতায় রাসূলুল্লাহর গভীর ব্যথার প্রেক্ষিতে হেদায়াতের বিষয়ে আল্লাহর ইচ্ছার সার্বভৌমত্ব স্পষ্ট করা হয়েছে।",
+  "themes": [
+    "prophethood",
+    "divine-will",
+    "guidance"
+  ],
+  "kinds": [
+    "address",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Even extraordinary efforts to produce underground or celestial signs cannot compel stubborn deniers to believe.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "If Allah had willed, He would have gathered all humanity upon guidance according to His wisdom.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

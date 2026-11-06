@@ -1,0 +1,79 @@
+{
+  "id": "8:60",
+  "simple_en": "Gather all the power and steeds you can to guard your land. This keeps away the foes of God and your foes, and others you do not yet know. Whatever you spend for God's way will come back to you in full. You will never be wronged.",
+  "simple_bn": "তোমরা তাদের মোকাবিলার জন্য সাধ্যমতো শক্তি ও প্রস্তুত বাহিনী তৈরি রাখো, যা দিয়ে আল্লাহর শত্রু ও নিজেদের শত্রুদের প্রতিহত করতে পারবে। আর আল্লাহর পথে যা খরচ করবে তার পূর্ণ প্রতিদান দেওয়া হবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "عدد",
+      "lemma": "أَعَدَّ",
+      "meaning_en": "prepare",
+      "meaning_bn": "প্রস্তুত রাখো",
+      "why_en": "Proactive defense preparedness."
+    },
+    {
+      "pos": 6,
+      "root": "قوي",
+      "lemma": "قُوَّة",
+      "meaning_en": "strength / power",
+      "meaning_bn": "শক্তি",
+      "why_en": "Military capability and strategic technology."
+    },
+    {
+      "pos": 8,
+      "root": "ربط",
+      "lemma": "رِباط",
+      "meaning_en": "steeds of war / tethered horses",
+      "meaning_bn": "অশ্ববাহিনী বা প্রতিরক্ষা সরঞ্জাম",
+      "why_en": "Mobilized defensive resources."
+    }
+  ],
+  "lesson_en": "Being ready to defend your home stops bad men from attacking.",
+  "lesson_bn": "আত্মরক্ষার জন্য পর্যাপ্ত শক্তি ও প্রস্তুতি গ্রহণ শত্রুকে আগ্রাসন থেকে নিবৃত্ত রাখে এবং শান্তি রক্ষা করে।",
+  "real_life_en": "Do not wait for hard days to start getting ready. Learn good skills and save for rainy days. Wise plans keep your family safe when trouble comes.",
+  "real_life_bn": "বিপদের অপেক্ষা না করে আগে থেকেই ব্যক্তিগত ও পারিবারিকভাবে প্রস্তুতি নিয়ে রাখুন। সঠিক প্রস্তুতি ভবিষ্যৎ সংকট মোকাবিলায় শক্তি যোগায়।",
+  "context_en": "Commanding the Muslim community to maintain robust defense readiness and invest resources to prevent future aggression.",
+  "context_bn": "ইসলামী রাষ্ট্র ও সমাজের নিরাপত্তার জন্য প্রতিরক্ষা ব্যবস্থা সুদৃঢ় রাখা এবং আল্লাহর পথে ব্যয় করার নির্দেশ।",
+  "themes": [
+    "defense readiness",
+    "deterrence",
+    "spending in Allah's cause",
+    "national security"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "ethics",
+    "promise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers",
+      "hostile enemies"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "war steeds",
+      "military equipment"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Believers are instructed to muster all possible strength to deter hostile forces, with full reward for all resources spent.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

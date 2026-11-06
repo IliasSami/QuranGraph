@@ -1,0 +1,74 @@
+{
+  "id": "18:96",
+  "simple_en": "\"Bring me blocks of iron.\" When he leveled the space between the cliffs, he said, \"Blow.\" When it glowed like fire, he poured molten copper over it.",
+  "simple_bn": "তোমরা আমার কাছে লোহার বড় বড় খণ্ড নিয়ে এসো। অবশেষে যখন মধ্যবর্তী ফাঁকা স্থান পূর্ণ হয়ে দুই পাহাড় সমান হলো, সে বলল, হাঁপর দিয়ে ফুঁক দাও। যখন তা আগুনের মতো লাল হলো, সে বলল, গলিত তামা নিয়ে এসো, আমি এর ওপর ঢেলে দেব।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حدد",
+      "lemma": "حَدِيد",
+      "meaning_en": "iron",
+      "meaning_bn": "লোহা",
+      "why_en": "Core structural material utilized for strength."
+    },
+    {
+      "pos": 19,
+      "root": "قطر",
+      "lemma": "قِطْر",
+      "meaning_en": "molten copper",
+      "meaning_bn": "গলিত তামা",
+      "why_en": "Protective alloy poured to fuse and seal the iron blocks."
+    }
+  ],
+  "lesson_en": "Good skills and strong tools build solid walls. Righteous leaders use science and teamwork to protect people.",
+  "lesson_bn": "দক্ষ কারিগরি জ্ঞান ও উপযুক্ত উপকরণের মেলবন্ধনে মজবুত সুরক্ষাব্যবস্থা গড়ে ওঠে। সৎ নেতারা বিজ্ঞান ও ঐক্যের সদ্ব্যবহার করেন।",
+  "real_life_en": "Do your work with high craft and quality materials. Combine practical skill with honest intention.",
+  "real_life_bn": "যেকোনো কাজ গুণগত মান বজায় রেখে দক্ষতার সাথে সম্পন্ন করুন। সঠিক উপকরণ ও পরিশ্রমের মাধ্যমে সেরা ফলাফল অর্জন করুন।",
+  "themes": [
+    "metallurgy-and-engineering",
+    "iron-and-copper-rampart",
+    "practical-craftsmanship",
+    "teamwork"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Dhul-Qarnayn"
+    ],
+    "nations": [
+      "Mountain-People"
+    ],
+    "places": [
+      "The-Two-Cliffs"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Construction-of-the-Barrier"
+    ],
+    "things": [
+      "Iron-Blocks",
+      "Molten-Copper",
+      "Wall"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Dhul-Qarnayn engineered a formidable barrier using heated iron blocks fused with molten copper.",
+      "claim_bn": "যুল-কারনাইন লোহা এবং গলিত তামার সমন্বয়ে এক দুর্ভেদ্য প্রাচীর নির্মাণ করলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

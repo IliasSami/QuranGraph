@@ -1,0 +1,84 @@
+{
+  "id": "14:3",
+  "simple_en": "These people love this worldly life more than the life to come. They turn others away from the path of Allah and try to make it look crooked. Because of this, they are lost in deep error.",
+  "simple_bn": "এরা পরকালের চেয়ে পার্থিব জীবনকে বেশি ভালোবাসে। তারা মানুষকে আল্লাহর পথ থেকে দূরে সরিয়ে রাখে এবং সেই পথকে বাঁকা করতে চায়। এরা চরম বিভ্রান্তির মধ্যে ডুবে রয়েছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حبب",
+      "lemma": "اسْتَحَبَّ",
+      "meaning_en": "they prefer",
+      "meaning_bn": "তারা অধিক ভালোবাসে",
+      "why_en": "Shows a deliberate choice of short gains over lasting truth."
+    },
+    {
+      "pos": 4,
+      "root": "دنو",
+      "lemma": "دُنْيا",
+      "meaning_en": "the world",
+      "meaning_bn": "পার্থিব জীবন",
+      "why_en": "Refers to temporary earthly life."
+    },
+    {
+      "pos": 6,
+      "root": "أخر",
+      "lemma": "آخِرَة",
+      "meaning_en": "the Hereafter",
+      "meaning_bn": "আখিরাত",
+      "why_en": "The eternal world of ultimate reckoning."
+    },
+    {
+      "pos": 7,
+      "root": "صدد",
+      "lemma": "صَدَّ",
+      "meaning_en": "and they avert",
+      "meaning_bn": "এবং তারা বাধা দেয়",
+      "why_en": "Describes obstructing others from faith."
+    },
+    {
+      "pos": 12,
+      "root": "عوج",
+      "lemma": "عِوَج",
+      "meaning_en": "crookedness",
+      "meaning_bn": "বক্রতা",
+      "why_en": "Attempting to distort the straight path of truth."
+    }
+  ],
+  "lesson_en": "Do not trade lasting peace in the Hereafter for quick worldly gains.",
+  "lesson_bn": "সাময়িক দুনিয়াবি লাভের জন্য পরকালের চিরস্থায়ী শান্তি বিসর্জন দেবেন না।",
+  "real_life_en": "A professional is offered money to hide a dangerous safety flaw at work. He refuses the bribe. He knows that pleasing Allah matters far more than fast cash.",
+  "real_life_bn": "কর্মক্ষেত্রে একটি বড় ত্রুটি গোপন করার জন্য এক কর্মকর্তাকে ঘুষ দেওয়া হয়। তিনি তা প্রত্যাখ্যান করেন। কারণ তিনি জানেন আল্লাহর সন্তুষ্টি সাময়িক লাভের চেয়ে অনেক বড়।",
+  "context_en": "Description of disbelievers prioritizing worldly desires over eternal truth.",
+  "context_bn": "সত্য অস্বীকারকারীদের পরিচয়, যারা পরকালের বদলে পার্থিব স্বার্থকে প্রাধান্য দেয়।",
+  "themes": [
+    "hereafter",
+    "worldliness",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who prioritize the world over the Hereafter and mislead others are in deep error.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

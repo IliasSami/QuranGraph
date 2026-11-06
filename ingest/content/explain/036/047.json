@@ -1,0 +1,73 @@
+{
+  "id": "36:47",
+  "simple_en": "The disbelievers are told to give charity to the poor from the wealth Allah gave them. Instead of helping, they mock the believers. They say that if Allah wanted to feed the poor, He would feed them Himself. They make up excuses for their greed and call the believers misguided.",
+  "simple_bn": "কাফিরদের যখন বলা হয় যে আল্লাহ তোমাদের যে রিযিক দিয়েছেন তা থেকে অভাবীদের দান করো, তখন তারা মুমিনদের উপহাস করে। তারা বলে যে আল্লাহ ইচ্ছা করলেই যাদের খাওয়াতে পারতেন, আমরা কেন তাদের খাওয়াব। এভাবে তারা নিজের কৃপণতার পক্ষে অপযুক্তি দেয় এবং মুমিনদের বিভ্রান্ত বলে দাবি করে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "نفق",
+      "lemma": "أَنفَقَ",
+      "meaning_en": "spend / give charity",
+      "meaning_bn": "ব্যয় করো বা দান করো",
+      "why_en": "A divine command to support the needy from one's wealth."
+    },
+    {
+      "pos": 6,
+      "root": "رزق",
+      "lemma": "رَزَقَ",
+      "meaning_en": "provided you",
+      "meaning_bn": "তোমাদেরকে রিযিক দিয়েছেন",
+      "why_en": "Reminds humans that all sustenance comes purely from Allah."
+    },
+    {
+      "pos": 23,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "error / straying",
+      "meaning_bn": "বিভ্রান্তি বা পথভ্রষ্টতা",
+      "why_en": "The false accusation the disbelievers hurled at the believers."
+    }
+  ],
+  "lesson_en": "Wealth is a trust from Allah. Making excuses to avoid giving charity is a sin.",
+  "lesson_bn": "ধনসম্পদ আল্লাহর পক্ষ থেকে একটি পরীক্ষা, আর ভাগ্যের দোহাই দিয়ে কৃপণতা জায়েজ করা অন্যায়।",
+  "real_life_en": "Help those in need whenever you can. Never use clever excuses to hold back charity when someone asks for help.",
+  "real_life_bn": "কাউকে সাহায্য করার সামর্থ্য থাকলে কোনো অজুহাত দেখাবেন না। মনে রাখবেন, আল্লাহ ধনীদের পরীক্ষার জন্যই দান করার নির্দেশ দিয়েছেন।",
+  "themes": [
+    "charity",
+    "greed",
+    "wealth",
+    "arrogance"
+  ],
+  "kinds": [
+    "prohibition",
+    "ethics",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "When told to spend from Allah's provision, disbelievers mockingly argue against feeding those whom Allah could feed if He willed.",
+      "claim_bn": "আল্লাহর দেওয়া রিযিক থেকে দান করতে বলা হলে কাফিররা উপহাস করে বলে যে আল্লাহ ইচ্ছা করলেই যাদের খাওয়াতে পারতেন আমরা কেন তাদের খাওয়াব।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

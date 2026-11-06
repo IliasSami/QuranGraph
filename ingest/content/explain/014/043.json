@@ -1,0 +1,86 @@
+{
+  "id": "14:43",
+  "simple_en": "They will rush forward with heads raised high in fear. Their eyes will be frozen, unable to look away, and their hearts will feel completely empty. The terror of that Day leaves no room for pride.",
+  "simple_bn": "তারা ভয়ে মাথা উঁচিয়ে দ্রুত ছুটতে থাকবে। তাদের আতঙ্কিত দৃষ্টি পলকহীনভাবে স্থির থাকবে এবং তাদের অন্তর ভয়ে শূন্য হয়ে যাবে। কিয়ামতের সেই মহাত্রাস মানুষের সমস্ত দম্ভ চূর্ণ করে দেবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "هطع",
+      "lemma": "مُهْطِع",
+      "meaning_en": "racing ahead",
+      "meaning_bn": "ছুটতে থাকবে",
+      "why_en": "Hastening in terror toward the summoner."
+    },
+    {
+      "pos": 2,
+      "root": "قنع",
+      "lemma": "مُقْنِع",
+      "meaning_en": "raised up",
+      "meaning_bn": "উঁচিয়ে রাখা",
+      "why_en": "Heads lifted upwards in dread."
+    },
+    {
+      "pos": 3,
+      "root": "رأس",
+      "lemma": "رَأْس",
+      "meaning_en": "their heads",
+      "meaning_bn": "তাদের মাথা",
+      "why_en": "Held high in shock."
+    },
+    {
+      "pos": 7,
+      "root": "طرف",
+      "lemma": "طَرْف",
+      "meaning_en": "their glance",
+      "meaning_bn": "তাদের দৃষ্টি",
+      "why_en": "Gaze frozen without blinking."
+    },
+    {
+      "pos": 9,
+      "root": "هوي",
+      "lemma": "هَواء",
+      "meaning_en": "void",
+      "meaning_bn": "শূন্য",
+      "why_en": "Hearts emptied of all thought by shock."
+    }
+  ],
+  "lesson_en": "Get ready today for the Day of Judgment. On that Day, all human pride will vanish fast.",
+  "lesson_bn": "সেই ভীতিকর দিনের জন্য আজই প্রস্তুতি নিন, যেদিন পার্থিব সকল অহংকার এক নিমেষে বিলীন হয়ে যাবে।",
+  "real_life_en": "A proud man is caught in a serious crime and taken to court. His smile fades into shock. He stands silent in fear as all his secret wrongs are read out loud.",
+  "real_life_bn": "এক দাম্ভিক ব্যক্তি অসৎ কাজে ধরা পড়ে আদালতের সামনে দাঁড়ায়। তার হাসিমুখ আতঙ্কে মলিন হয়ে যায়। যখন তার সব গোপন অপরাধ ফাঁস হয়, তখন সে ভয়ে নিশ্চল দাঁড়িয়ে থাকে।",
+  "context_en": "Terrifying psychological and physical description of the disbelievers on the Day of Judgment.",
+  "context_bn": "কিয়ামতের দিন সত্য অস্বীকারকারীদের শারীরিক ও মানসিক ভীতি-বিহ্বলতার বাস্তব চিত্র।",
+  "themes": [
+    "hereafter",
+    "fear-of-allah",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "events": [
+      "Day of Judgement"
+    ],
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "On Judgment Day, the wrongdoers will rush with raised heads, unblinking eyes, and empty hearts.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

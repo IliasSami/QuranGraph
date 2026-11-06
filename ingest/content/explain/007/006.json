@@ -1,0 +1,90 @@
+{
+ "id": "7:6",
+ "simple_en": "On the Day of Judgment, Allah will question every community. He will ask them how they responded to His prophets. He will also question the noble messengers themselves. They will testify about how they delivered the message. No one will escape this fair accounting.",
+ "simple_bn": "কিয়ামতের দিন মহান আল্লাহ প্রত্যেক জাতিকে জিজ্ঞাসাবাদ করবেন। তিনি তাদের জিজ্ঞেস করবেন, নবীদের আহ্বানে তারা কেমন সাড়া দিয়েছিল। একইভাবে তিনি সম্মানিত রাসূলগণকেও প্রশ্ন করবেন যে, তারা বাণী ঠিকমতো পৌঁছে দিয়েছিলেন কি না। কেউই সেদিন এই ন্যায়সঙ্গত হিসাব থেকে রেহাই পাবে না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "سأل",
+   "lemma": "سَأَلَ",
+   "meaning_en": "We will surely question",
+   "meaning_bn": "আমরা অবশ্যই প্রশ্ন করব",
+   "why_en": "Emphasizes the certainty of the questioning on the Day of Judgment."
+  },
+  {
+   "pos": 3,
+   "root": "رسل",
+   "lemma": "أَرْسَلَ",
+   "meaning_en": "were sent to",
+   "meaning_bn": "প্রেরণ করা হয়েছিল",
+   "why_en": "Refers to the nations who received divine guidance through prophets."
+  },
+  {
+   "pos": 6,
+   "root": "رسل",
+   "lemma": "مُرْسَل",
+   "meaning_en": "the messengers",
+   "meaning_bn": "রাসূলগণ",
+   "why_en": "Refers to the noble prophets who will testify regarding the delivery of the message."
+  }
+ ],
+ "lesson_en": "Every person will answer to Allah for how they treated His message.",
+ "lesson_bn": "আল্লাহর কাছে প্রতিটি মানুষ তার আমল ও আনুগত্যের জবাবদিহি করতে বাধ্য থাকবে।",
+ "real_life_en": "Remember that your faith and actions will be examined by your Lord. When you learn a truth from the Quran, act upon it. Never ignore guidance, for you will stand before Allah to answer for it.",
+ "real_life_bn": "সবসময় স্মরণ রাখুন যে আপনার প্রতিটি কাজের হিসাব নেওয়া হবে। কুরআনের কোনো সত্য বিধান জানার পর তা অবহেলা করবেন না। নিজের বিশ্বাস ও আমলকে পরকালের জবাবদিহিতার জন্য প্রস্তুত রাখুন।",
+ "context_en": "On the Day of Judgment, accountability will be universal, encompassing both the communities and the prophets who warned them.",
+ "context_bn": "কিয়ামতের দিন জবাবদিহিতা হবে সার্বজনীন, যেখানে উম্মত এবং রাসূল উভয় পক্ষকেই জিজ্ঞাসাবাদ করা হবে।",
+ "themes": [
+  "Day of Judgment",
+  "accountability",
+  "messengers",
+  "testimony"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "the messengers"
+  ],
+  "nations": [
+   "communities of the world"
+  ],
+  "places": [],
+  "unseen": [
+   "Day of Judgment"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "the questioning"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah will question all nations on the Day of Resurrection regarding how they responded to the messengers sent to them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah will also question the messengers about how they conveyed His revelation to their peoples.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

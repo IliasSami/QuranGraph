@@ -1,0 +1,84 @@
+{
+ "id": "7:114",
+ "simple_en": "Pharaoh gladly agreed to their demand. He told them they would definitely receive their reward. He also promised them high honor. He said they would join his inner circle and enjoy special status in his court.",
+ "simple_bn": "ফিরআউন সানন্দে তাদের প্রস্তাবে রাজি হলো। সে তাদের আশ্বস্ত করে বলল, তোমরা অবশ্যই কাঙ্ক্ষিত পুরস্কার পাবে। শুধু তাই নয়, সে তাদের বিশেষ সম্মানের আশ্বাস দিল। সে ঘোষণা করল যে তারা তার ঘনিষ্ঠ পরিষদবর্গের অন্তর্ভুক্ত হবে এবং রাজদরবারে উচ্চ মর্যাদা ও ক্ষমতা ভোগ করবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قول",
+   "lemma": "قالَ",
+   "meaning_en": "he said",
+   "meaning_bn": "সে বলল",
+   "why_en": "Pharaoh enthusiastically responds to the magicians' request."
+  },
+  {
+   "pos": 2,
+   "root": null,
+   "lemma": "نَعَم",
+   "meaning_en": "yes",
+   "meaning_bn": "হ্যাঁ",
+   "why_en": "Pharaoh confirms their material reward without hesitation."
+  },
+  {
+   "pos": 5,
+   "root": "قرب",
+   "lemma": "مُقَرَّب",
+   "meaning_en": "those brought near",
+   "meaning_bn": "নৈকট্যপ্রাপ্ত ব্যক্তিবর্গ",
+   "why_en": "The highest political honor of becoming part of the ruler's inner circle."
+  }
+ ],
+ "lesson_en": "Rulers often offer gifts and rank to buy help for lies.",
+ "lesson_bn": "ক্ষমতাশালীরা নিজেদের অসৎ উদ্দেশ্য সাধনে মানুষকে পদমর্যাদা ও নৈকট্যের লোভ দেখিয়ে কাছে টানে।",
+ "real_life_en": "Do not let high rank or gifts tempt you into doing wrong. True honor comes from pleasing Allah and being honest, not from high status with rich bosses.",
+ "real_life_bn": "পদোন্নতি বা প্রভাবশালী ব্যক্তিদের সান্নিধ্য পাওয়ার লোভে কখনো অন্যায় কাজে জড়াবেন না। কোনো শাসকের নৈকট্যের চেয়ে আল্লাহর সন্তুষ্টি অর্জন বহুগুণ শ্রেষ্ঠ। সর্বদা সততা ও নীতিবোধকে অগ্রাধিকার দিন।",
+ "context_en": "Pharaoh confirms the prize, promising wealth and political intimacy to the magicians if they prevail.",
+ "context_bn": "ফিরআউন জাদুকরদের পুরস্কারের দাবি মেনে নিয়ে তাদেরকে নিজের দরবারে বিশেষ নৈকট্যদানের প্রতিশ্রুতি দেয়।",
+ "themes": [
+  "Pharaoh",
+  "worldly temptation",
+  "closeness to power",
+  "false promises"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Pharaoh",
+   "magicians"
+  ],
+  "nations": [],
+  "places": [
+   "court of Pharaoh"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Pharaoh affirmed that the magicians would receive their requested reward.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Pharaoh added that they would be elevated into his close inner circle of dignitaries.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

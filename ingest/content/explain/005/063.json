@@ -1,0 +1,82 @@
+{
+ "id": "5:63",
+ "simple_en": "Why do their teachers not stop them from telling lies? Why do their leaders let them eat stolen money? Religious guides must speak up against bad deeds. Remaining silent makes them share in the guilt. What they do is truly evil.",
+ "simple_bn": "তাদের ধর্মগুরু ও আলেমরা কেন তাদেরকে মিথ্যা বলা এবং হারাম সম্পদ খাওয়া থেকে নিষেধ করে না? অন্যায় দেখেও পণ্ডিতদের চুপ করে থাকা মহা অপরাধ। আলেমদের দায়িত্ব হলো মানুষকে পাপ থেকে বিরত রাখা। সত্য গোপন করে তাদের এই নীরব ভূমিকা পালন করা অত্যন্ত গর্হিত কাজ।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نهي",
+   "lemma": "نَهَى",
+   "meaning_en": "forbid them",
+   "meaning_bn": "তাদেরকে নিষেধ করে",
+   "why_en": "Points to the duty of religious leaders to stop injustice and falsehood."
+  },
+  {
+   "pos": 3,
+   "root": "ربب",
+   "lemma": "رَبّانِيِّن",
+   "meaning_en": "the rabbis / godly teachers",
+   "meaning_bn": "রাব্বানী / ধর্মগুরুগণ",
+   "why_en": "Refers to teachers and scholars charged with guiding the community."
+  },
+  {
+   "pos": 13,
+   "root": "صنع",
+   "lemma": "صَنَعُ",
+   "meaning_en": "they practice / produce",
+   "meaning_bn": "তারা করে চলেছে",
+   "why_en": "Condemns the persistent passive complicity of silent scholars."
+  }
+ ],
+ "lesson_en": "People of knowledge must speak up against injustice and forbid wrong deeds.",
+ "lesson_bn": "জ্ঞানী ও আলেমদের দায়িত্ব হলো অন্যায়ের বিরুদ্ধে কথা বলা এবং মানুষকে পাপকাজ থেকে বারণ করা।",
+ "real_life_en": "If you see family members or colleagues harming others or engaging in bribery, do not stay silent. Offer kind, wise advice to guide them away from sin. Turning a blind eye only helps wrongdoing spread.",
+ "real_life_bn": "পরিবারে বা কর্মক্ষেত্রে কাউকে অন্যায় বা দুর্নীতি করতে দেখলে নীরবে সমর্থন করবেন না। প্রজ্ঞা ও সুন্দর ভাষায় তাকে সতর্ক করুন। অন্যায় দেখে নিশ্চুপ থাকলে সমাজে অপরাধের বিস্তার ঘটে।",
+ "context_en": "After rebuking the common people for their sins in the previous ayah, Allah now rebukes their scholars for failing to guide them.",
+ "context_bn": "আগের আয়াতে সাধারণ মানুষের পাপের নিন্দা করার পর, এই আয়াতে তাদের আলেমদের দায়িত্বহীনতা ও নীরবতার কঠোর সমালোচনা করা হয়েছে।",
+ "themes": [
+  "knowledge",
+  "ethics",
+  "justice",
+  "good character",
+  "warning"
+ ],
+ "kinds": [
+  "warning",
+  "ethics",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Rabbis and scholars are rebuked for remaining silent while their people speak falsehood and consume unlawful gain.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Remaining silent in the face of widespread corruption is an evil deed for people of knowledge.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,97 @@
+{
+  "id": "12:62",
+  "simple_en": "Yusuf quietly told his servants to put his brothers' payment back into their travel bags. He wanted them to find their money when they unpacked at home, so that they would feel compelled to return.",
+  "simple_bn": "ইউসুফ গোপনে তাঁর খাদেমদের নির্দেশ দিলেন তাদের কেনাবেচার পণ্য বা অর্থ তাদের মালপত্রের ভেতরে রেখে দিতে। তিনি চাইলেন বাড়ি ফিরে তারা যখন তা দেখতে পাবে, তখন যেন পুনরায় ফিরে আসতে বাধ্য হয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "فتي",
+      "lemma": "فِتْيَة",
+      "meaning_en": "his servants",
+      "meaning_bn": "তাঁর খাদেমগণ",
+      "why_en": "The royal assistants who loaded the grain onto camels."
+    },
+    {
+      "pos": 4,
+      "root": "بضع",
+      "lemma": "بِضاعَة",
+      "meaning_en": "their merchandise",
+      "meaning_bn": "তাদের পণ্যদ্রব্য",
+      "why_en": "The trade goods they had brought to exchange for grain."
+    },
+    {
+      "pos": 6,
+      "root": "رحل",
+      "lemma": "رَحْل",
+      "meaning_en": "their saddlebags",
+      "meaning_bn": "তাদের মালপত্র বা থলি",
+      "why_en": "The travel bags where Yusuf had their payment secretly placed."
+    },
+    {
+      "pos": 14,
+      "root": "رجع",
+      "lemma": "رَجَعَ",
+      "meaning_en": "they may return",
+      "meaning_bn": "তারা ফিরে আসবে",
+      "why_en": "Yusuf’s wise plan to bring his family back to Egypt."
+    }
+  ],
+  "lesson_en": "Kind gifts and smart plans can help bring families back together.",
+  "lesson_bn": "উদারতা ও বিচক্ষণ পরিকল্পনার মাধ্যমে দূর হয়ে যাওয়া পারিবারিক সম্পর্ক জোড়া লাগানো যায়।",
+  "real_life_en": "An uncle quietly pays off an estranged nephew's school fees without embarrassing him. The kind gesture softens hearts and leads to a happy family reunion.",
+  "real_life_bn": "এক ব্যক্তি অভিমান করে থাকা ভাইয়ের ছেলের স্কুলের বেতন গোপনে পরিশোধ করেন। এই উদারতা সবার মন নরম করে এবং পরিবার আবার একত্রিত হয়।",
+  "context_en": "Yusuf used their returned goods as an extra incentive to ensure they would bring Benjamin back.",
+  "context_bn": "ইউসুফ তাদের অর্থ ফেরত পাঠিয়ে এমন ব্যবস্থা করলেন যাতে তারা বিন ইয়ামীনকে নিয়ে ফিরতে বাধ্য হয়।",
+  "themes": [
+    "generosity",
+    "family ties",
+    "wisdom in planning"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "servants of Yusuf",
+      "brothers of Yusuf"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "merchandise",
+      "saddlebags",
+      "grain"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf ordered his servants to put the brothers' merchandise back in their bags.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He hoped they would recognize it when returning home and come back.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

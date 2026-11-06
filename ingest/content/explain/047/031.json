@@ -1,0 +1,71 @@
+{
+ "id": "47:31",
+ "simple_en": "Allah will surely test you with duties and trials in life. These tests make clear who among you strives sincerely in His cause and stays patient through hardship. He tests your news and actions so the reality of your faith is proven.",
+ "simple_bn": "আল্লাহ অবশ্যই জীবনে নানা দায়িত্ব ও পরীক্ষার মাধ্যমে তোমাদের পরীক্ষা করবেন। এই পরীক্ষার মাধ্যমে প্রকাশ পাবে কে নিষ্ঠার সাথে তাঁর পথে প্রচেষ্টা চালায় এবং বিপদে ধৈর্য ধরে। তিনি তোমাদের আমল যাচাই করেন যাতে ঈমানের সত্যতা প্রমাণিত হয়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "بلو",
+   "lemma": "بَلَوْ",
+   "meaning_en": "We will surely test you",
+   "meaning_bn": "আমরা অবশ্যই তোমাদের পরীক্ষা করব",
+   "why_en": "Trials reveal the true reality of a person's faith and character."
+  },
+  {
+   "pos": 4,
+   "root": "جهد",
+   "lemma": "مُجاهِد",
+   "meaning_en": "those who strive",
+   "meaning_bn": "মুজাহিদগণ বা প্রচেষ্টাকারী",
+   "why_en": "Sincere effort in the face of difficulty earns high honor from Allah."
+  },
+  {
+   "pos": 6,
+   "root": "صبر",
+   "lemma": "صابِر",
+   "meaning_en": "the patient / steadfast",
+   "meaning_bn": "ধৈর্যশীলগণ",
+   "why_en": "Patience through hardship is the true test of spiritual devotion."
+  }
+ ],
+ "lesson_en": "Life's trials are meant to show who remains patient and true to Allah.",
+ "lesson_bn": "জীবনের পরীক্ষাগুলো আসে এটি প্রমাণ করতে যে কে ধৈর্যশীল এবং আল্লাহর প্রতি অনুগত থাকে।",
+ "real_life_en": "When a difficult situation tests your patience, do not complain or give up. Take it as an opportunity from Allah to show your true faith and resolve.",
+ "real_life_bn": "কোনো কঠিন পরিস্থিতিতে পড়লে ভেঙে পড়বেন না বা হতাশ হবেন না। এটিকে নিজের ধৈর্য ও ঈমানের দৃঢ়তা প্রমাণের এক সুবর্ণ সুযোগ হিসেবে গ্রহণ করুন।",
+ "themes": [
+  "trials",
+  "patience",
+  "struggle in Allah's way"
+ ],
+ "kinds": [
+  "warning",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "al-alim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah tests believers to make evident those who strive and remain patient in the face of hardship.",
+   "claim_bn": "আল্লাহ মুমিনদের পরীক্ষা করেন যাতে প্রচেষ্টাকারী ও ধৈর্যশীলদের স্পষ্ট করা যায়।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

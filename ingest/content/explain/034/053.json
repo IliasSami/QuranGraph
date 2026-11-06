@@ -1,0 +1,70 @@
+{
+  "id": "34:53",
+  "simple_en": "They rejected the truth while they lived on earth. They made blind guesses about the unseen world with no proof. They laughed at the Day of Reckoning, but now it is too late.",
+  "simple_bn": "তারা ইতিপূর্বে দুনিয়ার জীবনে সত্যকে অস্বীকার করেছিল। তারা কোনো জ্ঞান বা প্রমাণ ছাড়াই দূর থেকে অদৃশ্য জগৎ সম্পর্কে অনুমানের তীর ছুঁড়ত এবং পরকাল নিয়ে উপহাস করত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "disbelieved",
+      "meaning_bn": "অস্বীকার করেছিল",
+      "why_en": "Their deliberate rejection during their lifetime when faith mattered."
+    },
+    {
+      "pos": 6,
+      "root": "قذف",
+      "lemma": "قَذَفَ",
+      "meaning_en": "they shoot / conjecture blindly",
+      "meaning_bn": "তারা বাক্য ছুঁড়ে মারত / অনুমান করত",
+      "why_en": "Making wild guesses about the unseen without revelation."
+    },
+    {
+      "pos": 8,
+      "root": null,
+      "lemma": "مِن",
+      "meaning_en": "the unseen",
+      "meaning_bn": "গায়েব / অদৃশ্য",
+      "why_en": "Matters of the afterlife that can only be known through divine revelation."
+    }
+  ],
+  "lesson_en": "Do not guess about the unseen world. Take your facts from what God has sent.",
+  "lesson_bn": "ঐশী জ্ঞান ছাড়া অদৃশ্য বিষয় নিয়ে ভিত্তিহীন অনুমান করা মানুষকে ধ্বংসের দিকে নিয়ে যায়।",
+  "real_life_en": "Trust what Allah tells you about the life to come. Do not follow wild guesses or made-up ideas that lead you away from truth.",
+  "real_life_bn": "আখিরাত ও অদৃশ্যের বিষয়ে আল্লাহর বাণীর ওপর বিশ্বাস রাখুন। নিছক মানুষের তৈরি অনুমানের পেছনে ছুটে নিজের ঈমান নষ্ট করবেন না।",
+  "themes": [
+    "the unseen",
+    "disbelief",
+    "the Last Day",
+    "knowledge"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "They had rejected faith in the worldly life and made wild, baseless assumptions about the unseen without guidance.",
+      "claim_bn": "তারা দুনিয়ার জীবনে কুফরি করেছিল এবং কোনো জ্ঞান ছাড়াই গায়েবের ব্যাপারে অন্ধ অনুমান ছুঁড়ত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

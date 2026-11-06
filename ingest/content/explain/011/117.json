@@ -1,0 +1,70 @@
+{
+  "id": "11:117",
+  "simple_en": "Your Lord would never destroy any town without just cause. He will not ruin people as long as they do good and set things right.",
+  "simple_bn": "আর আপনার রব কোনো জনপদকে অন্যায়ভাবে ধ্বংস করার মতো নন, যখন তার অধিবাসীরা সংশোধনকামী ও সৎকর্মে নিয়োজিত থাকে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "to destroy",
+      "meaning_bn": "ধ্বংস করতে",
+      "why_en": "Annihilation of entire settlements."
+    },
+    {
+      "pos": 6,
+      "root": "ظلم",
+      "lemma": "ظُلْم",
+      "meaning_en": "injustice / unjustly",
+      "meaning_bn": "অন্যায়ভাবে",
+      "why_en": "Arbitrary or undeserved ruin."
+    },
+    {
+      "pos": 8,
+      "root": "صلح",
+      "lemma": "مُصْلِح",
+      "meaning_en": "reformers",
+      "meaning_bn": "সংশোধনকারী / সংস্কারক",
+      "why_en": "Those actively improving societal ethics."
+    }
+  ],
+  "lesson_en": "God will not destroy a town whose people do good and treat each other fairly.",
+  "lesson_bn": "যে সমাজের মানুষ নিজেদের সংশোধন করে ও ন্যায়ের চর্চা করে, আল্লাহ তাদের কখনো ধ্বংস করেন না।",
+  "real_life_en": "Work to make your home and town better. Helping others and living fairly brings God's peace and keeps trouble away.",
+  "real_life_bn": "নিজেকে ও সমাজকে ইতিবাচক পরিবর্তনের পথে রাখুন। সংশোধন ও ন্যায়ের পরিবেশ সমাজকে বিপদ থেকে রক্ষা করে।",
+  "themes": [
+    "reform (islah)",
+    "justice",
+    "divine mercy",
+    "preservation of societies"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "promise",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah does not annihilate towns while their inhabitants are actively working to reform societal wrongs and uphold justice.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

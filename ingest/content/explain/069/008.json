@@ -1,0 +1,61 @@
+{
+  "id": "69:8",
+  "simple_en": "Do you now see any remnant left of them? Not a single person from that proud nation survived the punishment. All their wealth, homes, and power vanished from the earth.",
+  "simple_bn": "এখন আপনি কি তাদের কারও কোনো অস্তিত্ব দেখতে পান? সেই উদ্ধত জাতির একজনও অবশিষ্ট রইল না। তাদের সমস্ত ক্ষমতা, প্রাচুর্য ও বাসস্থান মাটির সাথে মিশে গেছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رأي",
+      "lemma": "رَأَى",
+      "meaning_en": "do you see",
+      "meaning_bn": "আপনি কি দেখেন",
+      "why_en": "Invites reflection on the visible historical traces of destroyed peoples."
+    },
+    {
+      "pos": 5,
+      "root": "بقي",
+      "lemma": "باقِيَة",
+      "meaning_en": "any survivor or remnant",
+      "meaning_bn": "কোনো অবশিষ্ট",
+      "why_en": "Underlines the absolute and total extinction of that community."
+    }
+  ],
+  "lesson_en": "Earthly rulers pass away, but the truth of God stays forever.",
+  "lesson_bn": "দুনিয়ার বড় বড় সাম্রাজ্য বিলীন হয়ে যায়, কিন্তু আল্লাহর সত্য চিরকাল প্রতিষ্ঠিত থাকে।",
+  "real_life_en": "A tourist walks through ancient ruins and sees broken stone pillars. Those ancient kings seemed invincible in their time, yet nothing remains. This sight reminds us to build for the next life.",
+  "real_life_bn": "প্রাচীন ধ্বংসাবশেষ ঘুরে দেখলে বোঝা যায় বড় বড় শাসকরাও একসময় হারিয়ে গেছে। এই দৃশ্য মানুষকে স্মরণ করিয়ে দেয় যে ক্ষণস্থায়ী ক্ষমতার চেয়ে পরকালের প্রস্তুতি অনেক বেশি মূল্যবান।",
+  "themes": [
+    "remnants",
+    "ruins",
+    "divine justice"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "ad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Not a single survivor or trace was left of the nation of Ad after their destruction.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

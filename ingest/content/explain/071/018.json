@@ -1,0 +1,78 @@
+{
+ "id": "71:18",
+ "simple_en": "When a person dies, his body returns to the earth to rest in the grave. Then, on the Day of Judgement, Allah will bring everyone out of the ground alive once more. The One who created humans from the earth the first time will easily raise them again for judgment.",
+ "simple_bn": "মৃত্যুর পর মানুষের শরীর আবার মাটিতে ফিরে যায় এবং কবরে শায়িত হয়। এরপর কিয়ামতের দিন আল্লাহ সবাইকে মাটি থেকে জীবিত করে বের করে আনবেন। যিনি প্রথমবার মানুষকে মাটি থেকে সৃষ্টি করেছেন, তিনি খুব সহজেই তাদের হিসাবের জন্য আবার জীবিত করবেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "عود",
+   "lemma": "أُعِيدُ",
+   "meaning_en": "He returns you",
+   "meaning_bn": "তিনি তোমাদের ফিরিয়ে নেবেন",
+   "why_en": "Returning the human body to the earth at death."
+  },
+  {
+   "pos": 4,
+   "root": "خرج",
+   "lemma": "أَخْرَجَ",
+   "meaning_en": "and He will bring you out",
+   "meaning_bn": "এবং বের করে নেবেন",
+   "why_en": "Raising all people from their graves on the Last Day."
+  },
+  {
+   "pos": 5,
+   "root": "خرج",
+   "lemma": "إِخْراج",
+   "meaning_en": "a sure extraction, bringing forth",
+   "meaning_bn": "নিশ্চিতভাবে বের করে নেওয়া",
+   "why_en": "An emphatic noun confirming that the resurrection is certain."
+  }
+ ],
+ "lesson_en": "Your return to the dust is certain, and your rising for judgment is just as sure.",
+ "lesson_bn": "মাটিতে ফিরে যাওয়া যেমন নিশ্চিত, তেমনি হিসাবের জন্য পুনরুত্থিত হওয়াও সম্পূর্ণ সত্য।",
+ "real_life_en": "A man buries his close friend in the ground. The quiet grave reminds him that life is short. He goes home and turns to good deeds before his own time comes.",
+ "real_life_bn": "এক ব্যক্তি তার ঘনিষ্ঠ বন্ধুকে মাটিতে দাফন করল। শান্ত কবর তাকে মনে করিয়ে দিল দুনিয়ার জীবন কত সংক্ষিপ্ত। সে বাড়ি ফিরে সময় ফুরিয়ে যাওয়ার আগেই ভালো কাজে মনোনিবেশ করল।",
+ "themes": [
+  "death",
+  "resurrection",
+  "the grave"
+ ],
+ "kinds": [
+  "hereafter",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "resurrection"
+  ],
+  "things": [
+   "earth"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah returns humans to the earth at death and will extract them again at the resurrection.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Resurrection from the earth is as certain as the initial creation from it.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

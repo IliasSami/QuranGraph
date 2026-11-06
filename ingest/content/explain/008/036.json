@@ -1,0 +1,85 @@
+{
+  "id": "8:36",
+  "simple_en": "The disbelievers spend their wealth freely to turn people away from the path of Allah. They will spend it all, but it will become a source of bitter regret for them. They will be defeated, and gathered into Hell.",
+  "simple_bn": "নিশ্চয়ই যারা সত্য অস্বীকার করেছে, তারা আল্লাহর পথ থেকে মানুষকে বিরত রাখার জন্য অকাতরে অর্থ ব্যয় করে। অচিরেই তারা তা ব্যয় করবে, অতঃপর তা তাদের জন্য গভীর অনুশোচনার কারণ হবে এবং তারা পরাজিত হবে; আর সত্য অস্বীকারকারীদের জাহান্নামে একত্র করা হবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "نفق",
+      "lemma": "أَنفَقَ",
+      "meaning_en": "they spend",
+      "meaning_bn": "তারা ব্যয় করে",
+      "why_en": "Financing wars and propaganda against truth."
+    },
+    {
+      "pos": 14,
+      "root": "حسر",
+      "lemma": "حَسْرَة",
+      "meaning_en": "deep regret / sorrow",
+      "meaning_bn": "অনুশোচনা / আক্ষেপ",
+      "why_en": "Bitter anguish over squandered resources that yield total defeat."
+    },
+    {
+      "pos": 16,
+      "root": "غلب",
+      "lemma": "غَلَبُ",
+      "meaning_en": "they will be overcome / defeated",
+      "meaning_bn": "তারা পরাজিত হবে",
+      "why_en": "The inevitable military and moral collapse of anti-truth movements."
+    }
+  ],
+  "lesson_en": "Money spent fighting against truth brings only pain and bitter loss.",
+  "lesson_bn": "সত্য ও ন্যায়ের পথ রুদ্ধ করতে যত অর্থই ব্যয় করা হোক না কেন, তা পরিশেষে কেবল ক্ষতি ও আক্ষেপই বাড়ায়।",
+  "real_life_en": "Never spend your money supporting dishonest causes or trying to ruin good people. Money spent on harmful goals will only bring you heartache and failure. Invest your wealth in honesty, kindness, and charity.",
+  "real_life_bn": "অসৎ কাজে বা অন্যের ক্ষতি করার জন্য অর্থ ব্যয় করবেন না। অন্যায়ের পেছনে ঢালা পয়সা কোনোদিন শান্তি আনে না, বরং ধ্বংস ডেকে আনে।",
+  "context_en": "Revealed concerning the wealthy Quraysh leaders who funded the army of Uhud and Badr with their commercial profits to destroy Islam.",
+  "context_bn": "ইসলামের আলো নিভিয়ে দেওয়ার জন্য কাফির নেতাদের বিপুল অর্থব্যয় এবং পরিশেষে তাদের শোচনীয় পরাজয়ের ভবিষ্যদ্বাণী।",
+  "themes": [
+    "spending against truth",
+    "futility of evil wealth",
+    "regret in the hereafter",
+    "inevitable victory of Islam"
+  ],
+  "kinds": [
+    "warning",
+    "promise",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [
+      "Abu Sufyan"
+    ],
+    "nations": [
+      "wealthy Quraysh chiefs"
+    ],
+    "places": [
+      "Hellfire"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "financing the Battle of Badr and Uhud"
+    ],
+    "things": [
+      "wealth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Wealth expended to obstruct the path of Allah will result in bitter regret and military defeat in this world, followed by confinement in Hell.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": "The Meccan leaders financing their army from the trade caravan profits after Badr.",
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

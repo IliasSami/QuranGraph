@@ -1,0 +1,72 @@
+{
+  "id": "28:33",
+  "simple_en": "Moses spoke to his Lord with honesty, admitting his fear. He explained that he had killed an Egyptian by mistake and was afraid that Pharaoh's people would kill him in revenge.",
+  "simple_bn": "মুসা বলল, হে আমার রব, আমি তাদের এক ব্যক্তিকে হত্যা করেছিলাম, তাই আমি আশঙ্কা করছি যে তারা আমাকে হত্যা করবে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "arabic": "مِنْهُمْ",
+      "root": null,
+      "lemma": "مِن",
+      "meaning_en": "a person",
+      "meaning_bn": "এক ব্যক্তি",
+      "why_en": "Recalling the Egyptian slain by accident."
+    },
+    {
+      "pos": 9,
+      "arabic": "يَقْتُلُونِ",
+      "root": "قتل",
+      "lemma": "قَتَلَ",
+      "meaning_en": "they will kill me",
+      "meaning_bn": "তারা আমাকে হত্যা করবে",
+      "why_en": "Admitting human apprehension of revenge."
+    }
+  ],
+  "lesson_en": "Be honest with God about your weaknesses and fears. Sincere prayer admits human limits.",
+  "lesson_bn": "আল্লাহর দরবারে নিজের সীমাবদ্ধতা ও বাস্তব ভয় দ্বিধাহীনভাবে প্রকাশ করাই বিনম্রতার প্রমাণ।",
+  "real_life_en": "Share your honest fears with God when facing hard tasks. He knows your heart and can grant you courage.",
+  "real_life_bn": "কোনো বড় কাজের দায়িত্ব গ্রহণের সময় নিজের ভয় ও দুর্বলতা আল্লাহর কাছে তুলে ধরে সাহায্য চান।",
+  "themes": [
+    "musa",
+    "fear",
+    "dua",
+    "reliance"
+  ],
+  "kinds": [
+    "story",
+    "dua"
+  ],
+  "entities": {
+    "people": [
+      "Moses"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Lord"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses voiced his human concern to God, fearing retaliation for the Egyptian who had died.",
+      "claim_bn": "মুসা মিশরীয়দের পক্ষ থেকে প্রতিশোধমূলক হত্যার আশঙ্কার কথা আল্লাহর কাছে বিনীতভাবে ব্যক্ত করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

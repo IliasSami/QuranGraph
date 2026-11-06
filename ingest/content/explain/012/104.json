@@ -1,0 +1,72 @@
+{
+  "id": "12:104",
+  "simple_en": "The Prophet asked for no pay or wealth from people. He called them only for their own good. The Quran is a reminder for all people on earth.",
+  "simple_bn": "নবীজী এই দাওয়াতের জন্য মানুষের কাছে কোনো পারিশ্রমিক বা বৈষয়িক স্বার্থ দাবি করেননি। তাঁর আহ্বান ছিল মানুষের সার্বিক কল্যাণের জন্য। কুরআনের এই বার্তা সমগ্র মানবজাতির জন্য এক মহান উপদেশ।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "you ask them",
+      "meaning_bn": "তুমি তাদের কাছে চাও",
+      "why_en": "The Prophet makes no personal demands of any kind upon those he invites."
+    },
+    {
+      "pos": 5,
+      "root": "أجر",
+      "lemma": "أَجْر",
+      "meaning_en": "payment or reward",
+      "meaning_bn": "প্রতিদান",
+      "why_en": "Absence of material self-interest demonstrates genuine truthfulness."
+    },
+    {
+      "pos": 9,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "reminder",
+      "meaning_bn": "উপদেশ",
+      "why_en": "The Quran awakens inherent human conscience and reason."
+    }
+  ],
+  "lesson_en": "Help others with a clean heart. Seek your reward from Allah.",
+  "lesson_bn": "মানুষের কল্যাণে নিবেদিত কাজে পার্থিব লাভ বা প্রশংসার আশা না করে আল্লাহর সন্তুষ্টি খোঁজাই উচিত।",
+  "real_life_en": "A young tutor teaches poor kids on weekends for free. He wants to help them learn. He seeks no cash or praise from anyone.",
+  "real_life_bn": "একজন তরুণ প্রতি ছুটির দিনে পাড়ার পিছিয়ে পড়া শিশুদের বিনামূল্যে পড়ায়। কোনো পারিশ্রমিক ছাড়াই কেবল শিশুদের ভবিষ্যৎ সুন্দর করার উদ্দেশ্যে সে এই নিঃস্বার্থ সেবা দেয়।",
+  "context_en": "Allah noted that the Prophet conveyed the message selflessly without asking for payment.",
+  "context_bn": "আল্লাহ তুলে ধরলেন যে নবীজী কোনো বিনিময় ছাড়াই মানুষকে উপদেশ প্রদান করেছেন।",
+  "themes": [
+    "sincerity",
+    "universal guidance",
+    "selflessness"
+  ],
+  "kinds": [
+    "belief",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Prophet asked for no worldly reward, for the Quran is a reminder for all creation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

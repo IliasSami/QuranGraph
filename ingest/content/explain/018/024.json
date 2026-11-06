@@ -1,0 +1,66 @@
+{
+  "id": "18:24",
+  "simple_en": "Always add, 'If God wills.' If you ever forget to say it, remember your Lord at once, and pray, 'May my Lord guide me to what is even closer to right conduct.'",
+  "simple_bn": "সবসময় বলুন, 'যদি আল্লাহ চান।' আর যদি বলতে ভুলে যান তবে সাথে সাথে আপনার রবকে স্মরণ করুন এবং বলুন, 'সম্ভবত আমার প্রতিপালক আমাকে সঠিক পথের আরও নিকটবর্তী করবেন।'",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "شيأ",
+      "lemma": "شاءَ",
+      "meaning_en": "He wills",
+      "meaning_bn": "তিনি চান বা ইচ্ছা করেন",
+      "why_en": "The supreme divine will controlling every event."
+    },
+    {
+      "pos": 5,
+      "root": "ذكر",
+      "lemma": "ذَكَرَ",
+      "meaning_en": "remember",
+      "meaning_bn": "স্মরণ করুন",
+      "why_en": "Rectifying forgetfulness through immediate remembrance of God."
+    }
+  ],
+  "lesson_en": "Saying Inshallah connects your daily goals to God. When you forget, turn back immediately in prayer and ask for guidance.",
+  "lesson_bn": "ইনশাআল্লাহ বলা প্রতিটি কাজকে আল্লাহর ওপর ন্যস্ত করার নিদর্শন। ভুলে গেলে সাথে সাথে আল্লাহকে স্মরণ করে সঠিক পথের দোয়া করতে হয়।",
+  "real_life_en": "Say Inshallah whenever you schedule an appointment or promise to meet a friend. It keeps your plans blessed and your heart humble.",
+  "real_life_bn": "যেকোনো প্রতিশ্রুতি বা কাজের তারিখ দেওয়ার সময় ইনশাআল্লাহ বলুন। এতে কাজের মধ্যে আল্লাহর বরকত আসে।",
+  "themes": [
+    "inshallah",
+    "remembrance",
+    "repentance-from-forgetfulness",
+    "guidance"
+  ],
+  "kinds": [
+    "command",
+    "dua"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Promises of future action must be conditioned with 'If Allah wills', and if forgotten, one must remember Allah and pray for guidance.",
+      "claim_bn": "'ইনশাআল্লাহ' বলে ভবিষ্যৎ কাজের পরিকল্পনা করতে হবে এবং ভুলে গেলে সাথে সাথে আল্লাহকে স্মরণ করে সৎপথের দোয়া করতে হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

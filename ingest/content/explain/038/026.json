@@ -1,0 +1,73 @@
+{
+ "id": "38:26",
+ "simple_en": "Allah told Dawud (peace be upon him) that He made him a leader on earth. He commanded him to judge between people with truth. He warned him never to follow selfish desires, because following desire leads people astray from the path of Allah. Those who forget the Day of Account face a severe punishment.",
+ "simple_bn": "আল্লাহ দাউদ (আলাইহিস সালাম) কে বললেন, আমি তোমাকে জমিনে খলিফা বানিয়েছি। অতএব তুমি মানুষের মাঝে সত্য ও ন্যায়ের সাথে ফয়সালা করো। কখনোই খেয়ালখুশির অনুসরণ কোরো না, কারণ তা আল্লাহর পথ থেকে বিচ্যুত করে দেয়। যারা হিসাবের দিন ভুলে যায় তাদের জন্য কঠিন শাস্তি রয়েছে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "خلف",
+   "lemma": "خَلِيفَة",
+   "meaning_en": "a successor / leader",
+   "meaning_bn": "খলিফা বা প্রতিনিধি",
+   "why_en": "The sacred trust of leadership and governance given to Dawud."
+  },
+  {
+   "pos": 10,
+   "root": "حقق",
+   "lemma": "حَقّ",
+   "meaning_en": "with truth",
+   "meaning_bn": "ন্যায়ের সাথে",
+   "why_en": "The duty of judging fairly by Allah's law without bias."
+  },
+  {
+   "pos": 13,
+   "root": "هوي",
+   "lemma": "هَواء",
+   "meaning_en": "desire / passion",
+   "meaning_bn": "খেয়ালখুশি বা প্রবৃত্তি",
+   "why_en": "Warns against personal bias and selfish urges in positions of trust."
+  }
+ ],
+ "lesson_en": "Rule with justice and fairness. Never let selfish wishes guide your choices.",
+ "lesson_bn": "নেতৃত্বের দায়িত্ব পালনে সর্বদা ইনসাফ বজায় রাখা এবং খেয়ালখুশি বর্জন করা আবশ্যক।",
+ "real_life_en": "When you settle a quarrel between your children or coworkers, do not favor the one you like more. Stand for what is right, even if it goes against your feelings.",
+ "real_life_bn": "সন্তান বা সহকর্মীদের বিরোধ মেটানোর সময় প্রিয়জনের পক্ষ নেবেন না। নিজের পছন্দ-অপছন্দের ঊর্ধ্বে উঠে সত্যের পক্ষে বিচার করুন।",
+ "themes": [
+  "justice",
+  "stories of the prophets",
+  "ethics"
+ ],
+ "kinds": [
+  "command",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "dawud"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah appointed David as a viceregent on earth, instructing him to judge with truth and avoid following desire.",
+   "claim_bn": "আল্লাহ দাউদকে পৃথিবীতে প্রতিনিধি বানান এবং সত্যের সাথে বিচার করার ও কুপ্রবৃত্তি পরিহারের নির্দেশ দেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": false
+}

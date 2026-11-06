@@ -1,0 +1,71 @@
+{
+  "id": "13:24",
+  "simple_en": "The angels welcome the believers with gentle words. They say, peace be upon you because you remained patient in the world. How wonderful is your final home in Paradise.",
+  "simple_bn": "ফেরেশতারা জান্নাতবাসীদের মধুর ভাষায় অভ্যর্থনা জানাবে। তারা বলবে, তোমরা দুনিয়ায় ধৈর্য ধারণ করেছিলে বলে তোমাদের ওপর শান্তি বর্ষিত হোক। আখেরাতের এই চূড়ান্ত আবাস কতই না উত্তম।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سلم",
+      "lemma": "سَلام",
+      "meaning_en": "peace",
+      "meaning_bn": "শান্তি",
+      "why_en": "The blessed greeting of eternal safety and joy in Paradise."
+    },
+    {
+      "pos": 4,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "you were patient",
+      "meaning_bn": "তোমরা ধৈর্য ধরেছিলে",
+      "why_en": "Patience during worldly hardships is the key that opens Paradise."
+    },
+    {
+      "pos": 6,
+      "root": "عقب",
+      "lemma": "عُقْبَى",
+      "meaning_en": "final outcome",
+      "meaning_bn": "শুভ পরিণাম",
+      "why_en": "The glorious ending earned by steadfast devotion to Allah."
+    }
+  ],
+  "lesson_en": "Patience in hard times brings great peace from God.",
+  "lesson_bn": "দুনিয়ার ক্ষণস্থায়ী সবর পরকালে চিরস্থায়ী শান্তি ও সম্মান বয়ে আনে।",
+  "real_life_en": "A woman cares patiently for her sick mother for years. Thinking of this greeting in Paradise gives her deep strength to serve with joy.",
+  "real_life_bn": "এক নারী বছরের পর বছর অসুস্থ মায়ের সেবা করে। জান্নাতে ফেরেশতাদের এই শান্তির অভিবাদনের কথা মনে করে সে অন্তরে সেবা করার নতুন শক্তি পায়।",
+  "context_en": "The angelic greeting of peace honoring the patience of the righteous.",
+  "context_bn": "ধৈর্যশীল মুমিনদের প্রতি জান্নাতে ফেরেশতাদের শান্তির সম্ভাষণ।",
+  "themes": [
+    "peace",
+    "patience",
+    "paradise"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Paradise",
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Angels greet the people of Paradise with peace as a reward for their worldly patience.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

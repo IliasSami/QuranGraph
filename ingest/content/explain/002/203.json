@@ -1,0 +1,106 @@
+{
+ "id": "2:203",
+ "simple_en": "Believers are told to remember Allah during the set days of Tashriq in the pilgrimage. Pilgrims may leave Mina on the second day after throwing pebbles, or they may stay until the third day. Both choices are free from sin for those who fear Allah. Be mindful of Allah at all times, and know that you will all be gathered before Him.",
+ "simple_bn": "হজ্জের মৌসুমে তাশরীকের নির্ধারিত দিনগুলোতে আল্লাহকে তাকবীর ও দোয়ার মাধ্যমে বেশি বেশি স্মরণ করার নির্দেশ দেওয়া হয়েছে। এ দিনগুলোতে যারা মিনা থেকে দুই দিন পর কঙ্কর নিক্ষেপ শেষ করে রওনা হতে চায়, তাদের কোনো পাপ নেই। আর যারা তৃতীয় দিন পর্যন্ত থেকে যায়, তাদেরও কোনো গুনাহ নেই। এই অবকাশ ও ক্ষমা তাদের জন্য, যারা নিষ্ঠার সাথে তাকওয়া বজায় রাখে। তোমরা সবসময় আল্লাহকে ভয় করো এবং নিশ্চিত জেনে রাখো যে তাঁর কাছেই তোমাদের সবাইকে সমবেত করা হবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ذكر",
+   "lemma": "ذَكَرَ",
+   "meaning_en": "remember",
+   "meaning_bn": "স্মরণ করো",
+   "why_en": "A direct command to maintain constant remembrance of Allah during sacred days."
+  },
+  {
+   "pos": 5,
+   "root": "عدد",
+   "lemma": "مَعْدُودَة",
+   "meaning_en": "numbered (appointed)",
+   "meaning_bn": "নির্দিষ্ট সংখ্যক (গোনা)",
+   "why_en": "Refers to the days of Tashriq following the day of sacrifice during Hajj."
+  },
+  {
+   "pos": 19,
+   "root": "وقي",
+   "lemma": "اتَّقَى",
+   "meaning_en": "is mindful (fears Allah)",
+   "meaning_bn": "তাকওয়া অবলম্বন করে",
+   "why_en": "Shows that true benefit and forgiveness depend on sincere piety in performing rituals."
+  },
+  {
+   "pos": 25,
+   "root": "حشر",
+   "lemma": "حَشَرَ",
+   "meaning_en": "you will be gathered",
+   "meaning_bn": "তোমাদের সমবেত করা হবে",
+   "why_en": "Points to the resurrection when every human being must stand before their Lord."
+  }
+ ],
+ "lesson_en": "Allah grants ease in worship. Keep your heart set on pleasing Him and getting ready for the Day of Gathering.",
+ "lesson_bn": "ইবাদতে ইসলাম সহজতা দিয়েছে, তবে প্রতিটি আমলের মূল প্রাণ হলো আন্তরিক তাকওয়া এবং আখিরাতের জবাবদিহিতার অনুভূতি।",
+ "real_life_en": "When you serve your family or community, use the ease that Allah allows. Do not look down on others who choose differently. Keep your focus on pure deeds.",
+ "real_life_bn": "পরিবারে বা সমাজে ধর্মীয় দায়িত্ব পালনে ইসলাম যে সহজ পথ দিয়েছে তা গ্রহণ করুন এবং যারা নফল আমল বেশি করে তাদেরও সম্মান করুন। বৈধ সুযোগ ও পছন্দের ক্ষেত্রে বিতর্ক পরিহার করে অন্তরের তাকওয়ায় মনোযোগ দিন।",
+ "context_en": "Concludes the detailed rules of the Hajj pilgrimage, linking external rituals to inner godliness and preparation for the Day of Resurrection.",
+ "context_bn": "হজ্জের বিধিবিধানের সমাপ্তি টেনে এখানে প্রকাশ্য আমল ও আনুষ্ঠানিকতাকে অন্তরের তাকওয়া এবং পরকালীন জবাবদিহিতার সাথে সংযুক্ত করা হয়েছে।",
+ "themes": [
+  "hajj",
+  "remembrance of Allah",
+  "taqwa",
+  "the Last Day",
+  "resurrection"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "worship",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the Day of Resurrection"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "Hajj"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The numbered days refer to the days of Tashriq during Hajj, designated for praising and remembering Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Pilgrims have the choice to depart Mina after two days or remain for the third day without incurring sin.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Acceptance and freedom from sin are promised to those who maintain taqwa and awareness of being gathered before Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

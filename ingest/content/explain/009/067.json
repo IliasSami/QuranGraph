@@ -1,0 +1,72 @@
+{
+  "id": "9:67",
+  "simple_en": "The hypocrite men and hypocrite women are all alike. They order what is wrong, forbid what is right, and close their hands tight from giving charity. They forgot Allah, so He forgot them. The hypocrites are truly rebellious.",
+  "simple_bn": "মুনাফিক পুরুষ ও মুনাফিক নারীরা একে অপরের অনুরূপ। তারা অন্যায়ের আদেশ দেয়, ভালো কাজে বাধা দেয় এবং নিজেদের হাত গুটিয়ে রাখে। তারা আল্লাহকে ভুলে গেছে, তাই তিনিও তাদের ছেড়ে দিয়েছেন। নিশ্চয় মুনাফিকরাই প্রকৃত ফাসেক।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "نكر",
+      "lemma": "مُنكَر",
+      "meaning_en": "evil / wrong",
+      "meaning_bn": "মন্দ কাজ / অন্যায়",
+      "why_en": "Encouraging sins that harm human character and society."
+    },
+    {
+      "pos": 10,
+      "root": "عرف",
+      "lemma": "مَعْرُوف",
+      "meaning_en": "good / right",
+      "meaning_bn": "সৎকাজ / ভালো কাজ",
+      "why_en": "Preventing virtues that build communities."
+    },
+    {
+      "pos": 11,
+      "root": "قبض",
+      "lemma": "قَبَضْ",
+      "meaning_en": "clench tight / withhold",
+      "meaning_bn": "সংকুচিত করে রাখে / গুটিয়ে রাখে",
+      "why_en": "Greedy refusal to spend on the needy."
+    }
+  ],
+  "lesson_en": "Evil people encourage wrongdoing, block goodness, and hoard their wealth.",
+  "lesson_bn": "খারাপ মানুষের স্বভাবই হলো অন্যায়ের প্রসার ঘটানো, ভালো কাজে বাধা দেওয়া এবং কৃপণতা করা।",
+  "real_life_en": "Do good deeds instead of following selfish paths. Encourage your friends to do right, avoid bad habits, and share your wealth with the poor.",
+  "real_life_bn": "ভালো কাজে উৎসাহ দিন, মন্দ কাজ থেকে সহকর্মীদের বারণ করুন এবং সাধ্যমতো দানশীল হোন।",
+  "themes": [
+    "traits of hypocrites",
+    "encouraging evil",
+    "miserliness"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites are defined by commanding evil, forbidding good, miserliness with wealth, and total spiritual neglect.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

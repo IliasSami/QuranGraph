@@ -1,0 +1,72 @@
+{
+  "id": "64:14",
+  "simple_en": "O you who believe, among your spouses and your children are enemies to your faith if they draw you away from obedience to Allah. So beware of their pressure. Yet if you pardon, overlook their faults, and forgive them, Allah is most Forgiving and Merciful.",
+  "simple_bn": "হে মুমিনগণ, তোমাদের স্ত্রী ও সন্তানদের মধ্যে কেউ কেউ তোমাদের শত্রু হতে পারে, যদি তারা তোমাদের আল্লাহর আনুগত্য থেকে দূরে সরিয়ে দেয়। তাই তাদের ব্যাপারে সতর্ক থাকো। তবে যদি তোমরা তাদের ভুলভ্রান্তি ক্ষমা করো, এড়িয়ে যাও এবং মার্জনা করো, তবে জেনে রাখো আল্লাহ পরম ক্ষমাশীল ও পরম দয়ালু।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "عدو",
+      "lemma": "عَدُوّ",
+      "meaning_en": "an enemy to faith",
+      "meaning_bn": "শত্রু",
+      "why_en": "Warns of loved ones who unintentionally distract a person from divine duties."
+    },
+    {
+      "pos": 12,
+      "root": "عفو",
+      "lemma": "عَفا",
+      "meaning_en": "you pardon and excuse",
+      "meaning_bn": "তোমরা ক্ষমা করো",
+      "why_en": "Urges domestic leniency and forbearance instead of holding grudges."
+    },
+    {
+      "pos": 13,
+      "root": "صفح",
+      "lemma": "يَصْفَحُ",
+      "meaning_en": "you overlook faults",
+      "meaning_bn": "উপেক্ষা ও মার্জনা করো",
+      "why_en": "Encourages letting go of resentment to preserve family harmony."
+    }
+  ],
+  "lesson_en": "Love your family, but do not disobey Allah for them, and be quick to forgive.",
+  "lesson_bn": "পরিবারকে ভালোবাসলেও তাদের অনুরোধে আল্লাহর হুকুম অমান্য করা যাবে না, আর পারিবারিক জীবনে ক্ষমার মনোভাব বজায় রাখা উচিত।",
+  "real_life_en": "A wife asks her husband to take a bribe so they can buy a bigger home. He gently explains that unlawful money brings ruin, yet he treats her with kindness and forgives her request without anger.",
+  "real_life_bn": "পরিবারের অতিরিক্ত খরচের দাবি মেটাতে গিয়ে অসৎ উপায়ে অর্থ উপার্জন করা উচিত নয়। ভালোবাসা ও বোঝাপড়ার মাধ্যমে অন্যায় এড়িয়ে পরিবারের সাথে সুন্দর আচরণ বজায় রাখাই প্রকৃত দায়িত্ব।",
+  "themes": [
+    "family relations",
+    "caution against distraction",
+    "pardon and forgiveness"
+  ],
+  "kinds": [
+    "warning",
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-ghafur",
+      "ar-rahim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are warned that some spouses and children may distract them from obedience to Allah, but forgiving and pardoning their mistakes is encouraged and meets Allah's mercy.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,87 @@
+{
+ "id": "4:112",
+ "simple_en": "If a person makes a mistake or commits a grave sin, and then blames it on an innocent person, they double their guilt. By shifting the blame, they take on the heavy load of a false claim and an open sin. Blaming the innocent ruins trust and brings down Allah's anger.",
+ "simple_bn": "কেউ যদি কোনো ছোট ভুল বা বড় পাপ করে, আর তা কোনো নির্দোষ ব্যক্তির ঘাড়ে চাপিয়ে দেয়, তবে সে জঘন্য মিথ্যা অপবাদ ও প্রকাশ্য মহাপাপের বোঝা নিজ কাঁধে তুলে নেয়। নিরপরাধ মানুষকে দোষী সাব্যস্ত করা অত্যন্ত মারাত্মক অবিচার।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "خطأ",
+   "lemma": "خَطِيئَة",
+   "meaning_en": "a mistake or minor sin",
+   "meaning_bn": "অনিচ্ছাকৃত ভুল বা ছোট পাপ",
+   "why_en": "Distinguishes lesser errors from deliberate major transgressions."
+  },
+  {
+   "pos": 7,
+   "root": "رمي",
+   "lemma": "رَمَى",
+   "meaning_en": "casts or blames",
+   "meaning_bn": "নিক্ষেপ করে / দোষারোপ করে",
+   "why_en": "Vividly depicts casting the burden of guilt onto another person like a projectile."
+  },
+  {
+   "pos": 9,
+   "root": "برأ",
+   "lemma": "بَرِيء",
+   "meaning_en": "an innocent person",
+   "meaning_bn": "নির্দোষ ব্যক্তি",
+   "why_en": "Emphasizes the absolute blamelessness of the victim of false accusation."
+  },
+  {
+   "pos": 12,
+   "root": "بهت",
+   "lemma": "بُهْتان",
+   "meaning_en": "slander / calumny",
+   "meaning_bn": "মিথ্যা অপবাদ",
+   "why_en": "Defines the grave crime of fabricating a lie to ruin an innocent person's reputation."
+  }
+ ],
+ "lesson_en": "Never blame an innocent person for your mistakes. False blame is a double sin.",
+ "lesson_bn": "নিজের করা ভুলের দায় কখনো কোনো নির্দোষ মানুষের ওপর চাপিয়ে দেবেন না, মিথ্যা অপবাদ এক জঘন্য অপরাধ।",
+ "real_life_en": "If you break a tool or make a serious error in a report at work, admit it bravely. Never let an innocent teammate take the blame for what you did.",
+ "real_life_bn": "অফিসে কোনো জরুরি ফাইলে ভুল করলে বা কোনো সামগ্রী নষ্ট হলে সাহস করে নিজের দোষ স্বীকার করুন। নিজের ভুল ঢাকতে কোনো নিরপরাধ সহকর্মীকে অভিযুক্ত করবেন না।",
+ "context_en": "This verse directly censures the criminal act of framing an innocent person to cover up personal theft.",
+ "context_bn": "বর্ম চুরির ঘটনায় নিজের দোষ ঢাকতে এক নিরপরাধ ব্যক্তির ওপর অপবাদ দেওয়ার মারাত্মক অপরাধকে এখানে চিহ্নিত করা হয়েছে।",
+ "themes": [
+  "honesty",
+  "justice",
+  "good character"
+ ],
+ "kinds": [
+  "prohibition",
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Whoever commits a wrong or sin and casts blame upon an innocent person bears slander and obvious sin.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Falsely accusing the innocent combines the guilt of the initial offense with the terrible sin of slander.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

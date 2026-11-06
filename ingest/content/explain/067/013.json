@@ -1,0 +1,71 @@
+{
+  "id": "67:13",
+  "simple_en": "Keep your words secret or speak them aloud; Allah knows them equally. He is fully aware of all thoughts and feelings hidden inside human chests.",
+  "simple_bn": "তোমরা তোমাদের কথা গোপনে বলো কিংবা প্রকাশ্যে বলো, আল্লাহ তা সম্যক অবগত। নিশ্চয় অন্তরে যা কিছু লুকায়িত থাকে সে সম্পর্কে তিনি সর্বজ্ঞ।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سرر",
+      "lemma": "أَسَرَّ",
+      "meaning_en": "keep secret",
+      "meaning_bn": "গোপন রাখো",
+      "why_en": "Addresses quiet thoughts and whisperings hidden from other people."
+    },
+    {
+      "pos": 4,
+      "root": "جهر",
+      "lemma": "جَهَرَ",
+      "meaning_en": "speak aloud",
+      "meaning_bn": "প্রকাশ্যে বলো",
+      "why_en": "Addresses declarations spoken openly before others."
+    },
+    {
+      "pos": 7,
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "All-Knowing",
+      "meaning_bn": "সর্বজ্ঞ",
+      "why_en": "Affirms that God knows the deepest secrets held within hearts."
+    }
+  ],
+  "lesson_en": "Guard your heart and tongue, knowing that God hears your innermost thoughts.",
+  "lesson_bn": "মুখের কথা ও অন্তরের নিয়ত সর্বদা পবিত্র রাখা উচিত, কারণ আল্লাহ সবকিছুই জানেন।",
+  "real_life_en": "A worker feels tempted to slander a colleague in a private text message. She pauses and remembers that God sees every hidden word. She deletes the message and chooses kindness instead.",
+  "real_life_bn": "কারও পেছনে খারাপ কথা বলার সুযোগ আসলেও আল্লাহ শুনছেন এই কথা ভেবে বিরত থাকা উচিত। মুখের কথা ও মনের চিন্তা উভয়েই আল্লাহর কাছে উন্মুক্ত থাকে।",
+  "themes": [
+    "Allah's knowledge",
+    "tawhid",
+    "honesty"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-alim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Whether people speak secretly or openly, Allah knows it, for He is aware of what is inside the hearts.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

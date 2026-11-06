@@ -1,0 +1,72 @@
+{
+  "id": "9:20",
+  "simple_en": "Those who believed, emigrated, and strived in the cause of Allah with their wealth and their lives have the highest rank with Allah. It is they who are truly triumphant.",
+  "simple_bn": "যারা ঈমান এনেছে, হিজরত করেছে এবং নিজেদের ধন-সম্পদ ও জীবন দিয়ে আল্লাহর পথে সংগ্রাম করেছে, আল্লাহর কাছে তাদের মর্যাদা সর্বোচ্চ। আর তারাই প্রকৃত সফলকাম।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "هجر",
+      "lemma": "هاجَرَ",
+      "meaning_en": "emigrated",
+      "meaning_bn": "হিজরত করল",
+      "why_en": "Leaving home and comfort for the preservation of faith."
+    },
+    {
+      "pos": 4,
+      "root": "جهد",
+      "lemma": "جاهَدَ",
+      "meaning_en": "strived",
+      "meaning_bn": "সংগ্রাম করল / প্রচেষ্টা চালাল",
+      "why_en": "Exerting utmost dedication for righteousness."
+    },
+    {
+      "pos": 16,
+      "root": "فوز",
+      "lemma": "فائِز",
+      "meaning_en": "triumphant / attainers of success",
+      "meaning_bn": "সফলকাম / বিজয়ী",
+      "why_en": "Achieving eternal paradise and divine pleasure."
+    }
+  ],
+  "lesson_en": "The highest honor goes to those who give their all for truth.",
+  "lesson_bn": "সত্য ও ন্যায়ের জন্য যারা নিজের ধনসম্পদ ও শ্রম নিঃস্বার্থভাবে উৎসর্গ করে, তাদের সম্মানই সবার শীর্ষে।",
+  "real_life_en": "Real success is measured by the good you do and what you give up to help others.",
+  "real_life_bn": "অন্যায়কে পেছনে ফেলে সুন্দর ভবিষ্যতের জন্য ত্যাগ স্বীকার করুন; নিঃস্বার্থ ত্যাগই জীবনে প্রকৃত সাফল্য ও মর্যাদা এনে দেয়।",
+  "themes": [
+    "Hijrah",
+    "striving in Allah's cause",
+    "ultimate success"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "promise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who believed, made Hijrah, and gave their wealth and lives in Allah's cause hold the highest degree of honor.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

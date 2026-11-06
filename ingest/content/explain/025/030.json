@@ -1,0 +1,63 @@
+{
+  "id": "25:30",
+  "simple_en": "The Messenger will say: my Lord, my people left this Quran behind. They did not listen to it. They refused to believe in its message or follow its rules.",
+  "simple_bn": "আর রাসূল আল্লাহর দরবারে ফরিয়াদ করে বলবেন, হে আমার রব, নিশ্চয়ই আমার জাতি এই কুরআনকে পরিত্যাজ্য গণ্য করেছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "ٱلرَّسُولُ",
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "the Messenger",
+      "meaning_bn": "রাসূল",
+      "why_en": "The Prophet complaining to Allah about his people's neglect."
+    },
+    {
+      "pos": 8,
+      "arabic": "ٱلْقُرْءَانَ",
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "abandoned",
+      "meaning_bn": "পরিত্যক্ত",
+      "why_en": "Leaving the Quran unheeded and unread."
+    }
+  ],
+  "lesson_en": "Leaving the Quran behind brings grief to the Prophet. True faith means reading God's book and living by it.",
+  "lesson_bn": "কুরআন পরিত্যাগ করা এক মারাত্মক অপরাধ যা নবীর মনোকষ্টের কারণ হয়। কুরআন তিলাওয়াত, বুঝা ও আমল করা আবশ্যক।",
+  "real_life_en": "Make time every day to recite and understand the Quran. Do not abandon its guidance in your home or your workplace.",
+  "real_life_bn": "প্রতিদিন কুরআন তেলাওয়াত করুন এবং এর অর্থ বুঝার চেষ্টা করুন। কুরআনকে ঘরে অযত্নে ফেলে রাখবেন না।",
+  "themes": [
+    "quran",
+    "neglect",
+    "prophetic-plea"
+  ],
+  "kinds": [
+    "dua",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Messenger will complain to Allah that his people treated the Quran as something to be abandoned.",
+      "claim_bn": "রাসূল আল্লাহর কাছে ফরিয়াদ করবেন যে তাঁর সম্প্রদায় এই কুরআনকে পুরোপুরি অবহেলা ও পরিত্যাগ করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,92 @@
+{
+  "id": "12:25",
+  "simple_en": "Both of them raced toward the doorway. As Joseph fled, she grabbed his shirt from behind and tore it. At the door, they suddenly met her husband. She immediately accused Joseph falsely, demanding that he be cast into prison or given a painful beating.",
+  "simple_bn": "আর তারা উভয়ে দরজার দিকে ছুটে গেল, এবং মহিলাটি পেছন থেকে তার জামা ছিঁড়ে ফেলল। দরজার কাছেই তারা মহিলার স্বামীকে দেখতে পেল। সে সাথে সাথেই মিথ্যা অভিযোগ তুলে বলল, যে তোমার স্ত্রীর সাথে খারাপ কাজের ইচ্ছা করে, তাকে কারাগারে পাঠানো বা কঠিন শাস্তি দেওয়া ছাড়া তার আর কী প্রতিদান হতে পারে?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سبق",
+      "lemma": "اسْتَبَقَ",
+      "meaning_en": "they raced",
+      "meaning_bn": "উভয়ে ছুটে গেল",
+      "why_en": "Joseph fleeing toward safety while she pursued."
+    },
+    {
+      "pos": 4,
+      "root": "قمص",
+      "lemma": "قَمِيص",
+      "meaning_en": "his shirt",
+      "meaning_bn": "তার জামা",
+      "why_en": "Key physical evidence of the struggle."
+    },
+    {
+      "pos": 6,
+      "root": "دبر",
+      "lemma": "دُبُر",
+      "meaning_en": "the back",
+      "meaning_bn": "পেছন দিক",
+      "why_en": "Proof that Joseph was running away."
+    },
+    {
+      "pos": 8,
+      "root": "سود",
+      "lemma": "سَيِّد",
+      "meaning_en": "her husband / master",
+      "meaning_bn": "তার স্বামী / মনিব",
+      "why_en": "The unexpected arrival of the master."
+    },
+    {
+      "pos": 20,
+      "root": "سجن",
+      "lemma": "يُسْجَنَ",
+      "meaning_en": "be imprisoned",
+      "meaning_bn": "কারাগারে পাঠানো হোক",
+      "why_en": "Cruel punishment sought by the accuser."
+    }
+  ],
+  "lesson_en": "When caught doing wrong, guilty people often turn the blame onto the innocent.",
+  "lesson_bn": "অপরাধীরা নিজেদের দোষ ঢাকতে প্রায়ই নিরপরাধ মানুষের ওপর মিথ্যা দোষ চাপায়।",
+  "real_life_en": "Run away from bad settings at once. Do not stay to talk or argue. Walk away quickly to keep your heart pure.",
+  "real_life_bn": "সন্দেহজনক বা অনৈতিক পরিবেশ তৈরি হলে কালবিলম্ব না করে সেখান থেকে সরে পড়ুন। দ্রুত সরে আসাই নিজেকে রক্ষার সেরা উপায়।",
+  "themes": [
+    "fleeing temptation",
+    "false accusation",
+    "physical evidence",
+    "story of Yusuf"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Wife of Al-Aziz",
+      "Al-Aziz of Egypt (Potiphar)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Shirt of Yusuf"
+    ]
+  },
+  "claims": [
+    {
+      "text": "As Joseph fled to the door, the woman tore his shirt from behind, and upon encountering her husband, she falsely accused Joseph of attempted assault.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

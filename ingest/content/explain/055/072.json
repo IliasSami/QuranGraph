@@ -1,0 +1,69 @@
+{
+  "id": "55:72",
+  "simple_en": "These fair maidens of Paradise dwell in beautiful tents. They stay protected within pavilions made of pearls. They are kept in honor and peace for their righteous spouses.",
+  "simple_bn": "জান্নাতের এই রূপবতী সুন্দরীরা সুরম্য তাঁবুতে অবস্থান করবে। মুক্তা দিয়ে তৈরি এসব তাঁবুর ভেতরে তারা সুরক্ষিত থাকবে এবং পরম সম্মান ও মর্যাদায় নিজেদের স্বামীদের জন্য প্রতীক্ষা করবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "حور",
+      "lemma": "حُور",
+      "meaning_en": "fair maidens with lovely eyes",
+      "meaning_bn": "আয়তলোচনা হুরগণ",
+      "why_en": "Companions of intense beauty and purity created for Paradise."
+    },
+    {
+      "pos": 2,
+      "root": "قصر",
+      "lemma": "مَقْصُورَة",
+      "meaning_en": "reserved / secluded",
+      "meaning_bn": "সুরক্ষিত / আবৃত",
+      "why_en": "Sheltered with honor in private pavilions."
+    },
+    {
+      "pos": 4,
+      "root": "خيم",
+      "lemma": "خِيام",
+      "meaning_en": "pavilions / tents",
+      "meaning_bn": "তাঁবুসমূহ",
+      "why_en": "Spacious pavilions of hollow pearls set in the gardens."
+    }
+  ],
+  "lesson_en": "Value modesty and dignity. Privacy and honor are signs of high status in Paradise.",
+  "lesson_bn": "শালীনতা ও আত্মমর্যাদাকে মূল্যায়ন করুন। গোপনীয়তা ও সম্মান জান্নাতের এক মহান বৈশিষ্ট্য।",
+  "real_life_en": "Protect the privacy of your home and family. Keeping personal matters safe and treating your spouse with care honors the modest way praised in the Quran.",
+  "real_life_bn": "নিজের পারিবারিক জীবনের গোপনীয়তা রক্ষা করুন। পরিবারের সদস্যদের সম্মান ও ভালোবাসার সাথে আগলে রাখাই কুরআনের আদর্শ।",
+  "themes": [
+    "Paradise",
+    "good character",
+    "reward"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The maidens of Paradise are sheltered in pavilions, protected and reserved for their spouses.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

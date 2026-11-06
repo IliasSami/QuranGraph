@@ -1,0 +1,93 @@
+{
+  "id": "12:35",
+  "simple_en": "The rulers saw clear proof that Yusuf was innocent. Still, they decided to put him in prison for a time. They wanted to silence public gossip and protect the chief's family name.",
+  "simple_bn": "ইউসুফের নির্দোষ হওয়ার স্পষ্ট প্রমাণ থাকা সত্ত্বেও শাসকগোষ্ঠী তাঁকে কিছুকালের জন্য কারাগারে বন্দি করার সিদ্ধান্ত নিল। তারা মানুষের কানাঘুষা বন্ধ করতে এবং প্রভাবশালীদের পরিবারের সম্মান বাঁচাতে এই অন্যায় পথ বেছে নেয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "بدو",
+      "lemma": "بَدا",
+      "meaning_en": "it appeared",
+      "meaning_bn": "সুস্পষ্ট মনে হলো",
+      "why_en": "Reflects the rulers’ changing calculation after public scandal."
+    },
+    {
+      "pos": 8,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "the signs",
+      "meaning_bn": "স্পষ্ট নিদর্শনসমূহ",
+      "why_en": "The undeniable proofs of Yusuf’s purity."
+    },
+    {
+      "pos": 9,
+      "root": "سجن",
+      "lemma": "يُسْجَنَ",
+      "meaning_en": "they would surely imprison him",
+      "meaning_bn": "তারা অবশ্যই তাঁকে বন্দি করবে",
+      "why_en": "The unjust political decree to silence the innocent victim."
+    },
+    {
+      "pos": 11,
+      "root": "حين",
+      "lemma": "حِين",
+      "meaning_en": "a time",
+      "meaning_bn": "কিছুকালের জন্য",
+      "why_en": "An indefinite period of detention meant to let the scandal die down."
+    }
+  ],
+  "lesson_en": "Worldly rulers may be unfair, but God's justice never fails in the end.",
+  "lesson_bn": "পার্থিব ক্ষমতাধররা অবিচার করতে পারে, কিন্তু শেষ পর্যন্ত আল্লাহর বিচারই সত্য প্রমাণিত হয়।",
+  "real_life_en": "An employee is blamed by managers for a mistake made by someone higher up. The employee stays calm and patient, trusting that the truth will come out in time.",
+  "real_life_bn": "ঊর্ধ্বতন কর্মকর্তার দোষ ঢাকতে সাধারণ কর্মচারীকে দায়ী করা হয়। সেই কর্মী শান্ত থেকে ধৈর্য ধরে বিশ্বাস রাখেন যে একসময় সত্য সবার সামনে আসবে।",
+  "context_en": "Despite the clear proofs that cleared Yusuf, political convenience led to his imprisonment.",
+  "context_bn": "ইউসুফ নির্দোষ প্রমাণিত হওয়ার পরেও সামাজিক মর্যাদা রক্ষার তাগিদে তাঁকে কারাগারে পাঠানো হয়।",
+  "themes": [
+    "injustice",
+    "patience",
+    "trials"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "ruling officials"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "prison"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The rulers saw clear signs of Yusuf's innocence but decided to imprison him anyway.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Imprisonment was chosen to stop public talk and protect family prestige.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

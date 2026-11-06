@@ -1,0 +1,67 @@
+{
+ "id": "38:7",
+ "simple_en": "The disbelievers claimed they never heard of this in the past. They said earlier faiths did not teach such a message. They claimed that the words of the Prophet ﷺ were made up by him.",
+ "simple_bn": "কাফিররা যুক্তি দেখিয়েছিল যে তারা তাদের পূর্বপুরুষদের ধর্মে বা পূর্বের ধর্মে এমন নিখাদ একত্ববাদের কথা শোনেনি। তারা দাবি করেছিল যে রাসূলুল্লাহ ﷺ এর আনীত এই বাণী সম্পূর্ণ বানোয়াট।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "ملل",
+   "lemma": "مِلَّة",
+   "meaning_en": "religion / creed",
+   "meaning_bn": "ধর্ম বা মতাদর্শ",
+   "why_en": "Refers to previous faiths which the disbelievers claimed did not teach this monotheism."
+  },
+  {
+   "pos": 10,
+   "root": "خلق",
+   "lemma": "اخْتِلاق",
+   "meaning_en": "an invention / fabrication",
+   "meaning_bn": "মনগড়া মিথ্যা বা বানোয়াট কথা",
+   "why_en": "The false charge that the Prophet fabricated the divine revelation."
+  }
+ ],
+ "lesson_en": "Old customs cannot replace the truth from Allah.",
+ "lesson_bn": "প্রচলিত প্রথা বা পূর্বপুরুষের রীতিনীতি কখনোই ঐশী সত্যের বিকল্প হতে পারে না।",
+ "real_life_en": "Do not reject good counsel simply because it challenges family customs or old habits. Learn to seek the truth with an open mind.",
+ "real_life_bn": "পুরনো অভ্যাস বা পারিবারিক রীতির বিপরীত হলেই ভালো উপদেশ প্রত্যাখ্যান করবেন না। সবসময় সত্য জানার জন্য মন উন্মুক্ত রাখুন।",
+ "themes": [
+  "shirk",
+  "disbelief",
+  "revelation"
+ ],
+ "kinds": [
+  "argument",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [
+   "quraysh"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The deniers rejected monotheism by asserting it was unheard of in past traditions and was merely an invention.",
+   "claim_bn": "অস্বীকারকারীরা দাবি করেছিল যে এমন একত্ববাদের কথা পূর্ববর্তী ধর্মে শোনা যায়নি এবং তা নিতান্তই একটি বানোয়াট বিষয়।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": false
+}

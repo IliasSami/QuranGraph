@@ -1,0 +1,75 @@
+{
+  "id": "18:94",
+  "simple_en": "They said, \"O Dhul-Qarnayn, Gog and Magog are spreading corruption in the land. May we pay you tribute so you build a protective barrier between us and them?\"",
+  "simple_bn": "তারা বলল, হে যুল-কারনাইন, নিশ্চয় ইয়াজুজ ও মাজুজ যমীনে চরম অশান্তি সৃষ্টি করছে। তবে কি আমরা আপনাকে কর দেব যাতে আপনি আমাদের ও তাদের মাঝে একটি প্রাচীর নির্মাণ করে দেন?",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "فسد",
+      "lemma": "مُفْسِد",
+      "meaning_en": "corrupters or warmongers",
+      "meaning_bn": "অশান্তি সৃষ্টিকারী",
+      "why_en": "Violent destructive raiders devastating the peaceful region."
+    },
+    {
+      "pos": 19,
+      "root": "سدد",
+      "lemma": "سَدّ",
+      "meaning_en": "a protective barrier",
+      "meaning_bn": "একটি প্রাচীর",
+      "why_en": "Fortified defensive structure to seal the mountain gorge."
+    }
+  ],
+  "lesson_en": "Towns must unite against violence. Weak people need strong protection from cruel invaders.",
+  "lesson_bn": "অরাজকতা ও সন্ত্রাসের বিরুদ্ধে সমাজকে ঐক্যবদ্ধ হতে হয়। দুর্বল সম্প্রদায়কে নিরাপত্তা দেওয়া রাষ্ট্রের মৌলিক দায়িত্ব।",
+  "real_life_en": "Stand up to protect the vulnerable from bullies and harm. Support common projects that make your town safe.",
+  "real_life_bn": "দুর্বলদের ওপর অন্যায় হলে তার প্রতিবাদ করুন। নিজের এলাকাকে নিরাপদ ও শান্ত রাখতে সবার সাথে মিলেমিশে কাজ করুন।",
+  "themes": [
+    "gog-and-magog",
+    "tribal-corruption",
+    "request-for-barrier",
+    "tribute-offered"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Dhul-Qarnayn"
+    ],
+    "nations": [
+      "Yajuj-and-Majuj",
+      "Mountain-People"
+    ],
+    "places": [
+      "Mountain-Pass"
+    ],
+    "unseen": [
+      "Yajuj-and-Majuj"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Plea-for-Defense"
+    ],
+    "things": [
+      "Barrier"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The people appealed to Dhul-Qarnayn to build a barrier against the violent ravages of Gog and Magog in exchange for tribute.",
+      "claim_bn": "লোকেরা যুল-কারনাইনকে ইয়াজুজ ও মাজুজের সন্ত্রাস থেকে বাঁচতে করের বিনিময়ে প্রাচীর নির্মাণের অনুরোধ করল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

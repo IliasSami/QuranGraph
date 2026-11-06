@@ -1,0 +1,65 @@
+{
+  "id": "64:8",
+  "simple_en": "So place your faith in Allah, in His Messenger, and in the radiant light We have sent down, which is the Quran. Allah is fully aware of everything you do.",
+  "simple_bn": "অতএব তোমরা আল্লাহ, তাঁর রাসূল এবং তাঁর অবতীর্ণ করা আলোর ওপর ঈমান আনো, যা হলো এই কুরআন। তোমরা যা কিছু করো, আল্লাহ সে বিষয়ে পুরোপুরি অবগত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "نور",
+      "lemma": "نُور",
+      "meaning_en": "the light of guidance",
+      "meaning_bn": "হিদায়েতের আলো",
+      "why_en": "Describes the Quran as divine light that clears confusion and shows the right path."
+    },
+    {
+      "pos": 10,
+      "root": "خبر",
+      "lemma": "خَبِير",
+      "meaning_en": "All-Aware",
+      "meaning_bn": "সর্বজ্ঞ ও সম্যক অবগত",
+      "why_en": "Warns believers that Allah knows the reality behind their actions."
+    }
+  ],
+  "lesson_en": "Follow the Quran as your daily light, guiding your decisions with pure faith.",
+  "lesson_bn": "কুরআনকে জীবনের আলোকবর্তিকা বানিয়ে প্রতিটি কাজে আল্লাহর সন্তুষ্টির পথ বেছে নেওয়া কর্তব্য।",
+  "real_life_en": "A traveller walking through a dark forest switches on a strong lantern. The beam reveals mud pits and safe footing. In the same way, reading the Quran helps a person avoid harmful habits and walk on safe ground.",
+  "real_life_bn": "রাতের অন্ধকারে বাতি যেমন চলার পথকে নিরাপদ করে, তেমনি কুরআনের নির্দেশনা মানুষের জীবনকে সঠিক পথে পরিচালিত করে। এর মাধ্যমে ভালো ও মন্দের পার্থক্য বোঝা সহজ হয়।",
+  "themes": [
+    "faith in Allah and His Messenger",
+    "Quran as divine light",
+    "divine awareness"
+  ],
+  "kinds": [
+    "command",
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-khabir"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "People are commanded to believe in Allah, His Messenger, and the Quran sent down as light, and Allah is aware of all deeds.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

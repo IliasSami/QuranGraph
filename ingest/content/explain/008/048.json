@@ -1,0 +1,80 @@
+{
+  "id": "8:48",
+  "simple_en": "Satan made evil acts look good to the deniers. He told them, \"No man can beat you today, and I am with you.\" But when the armies met, he turned and ran away. He said, \"I have no part with you. I see what you cannot see, and I fear God.\"",
+  "simple_bn": "স্মরণ করো, যখন শয়তান তাদের অপকর্মকে তাদের দৃষ্টিতে সুন্দর করেছিল এবং বলেছিল, 'আজ মানুষের মধ্যে কেউই তোমাদের ওপর বিজয়ী হতে পারবে না।' কিন্তু যখন উভয় দল মুখোমুখি হলো, তখন সে পেছনের দিকে পালিয়ে গেল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "زين",
+      "lemma": "زَيَّنَ",
+      "meaning_en": "made pleasing / adorned",
+      "meaning_bn": "সুন্দর করে দেখিয়েছিল",
+      "why_en": "Deceptive glamorization of sins."
+    },
+    {
+      "pos": 4,
+      "root": "شطن",
+      "lemma": "شَيْطان",
+      "meaning_en": "Satan",
+      "meaning_bn": "শয়তান",
+      "why_en": "The ultimate deceiver of humanity."
+    },
+    {
+      "pos": 19,
+      "root": "نكص",
+      "lemma": "نَكَصَ",
+      "meaning_en": "he turned on his heels",
+      "meaning_bn": "সে পেছন ফিরে পালাল",
+      "why_en": "Cowardly retreat of Satan upon seeing the angels."
+    }
+  ],
+  "lesson_en": "Satan tells sweet lies, but he runs away when trouble starts.",
+  "lesson_bn": "শয়তান মানুষকে অন্যায়ে প্ররোচিত করে, কিন্তু বিপদের মুহূর্তে একা ফেলে পালিয়ে যায়।",
+  "real_life_en": "Bad companions and tempting thoughts promise fun and safety when urging you to do wrong. Recognize their lies early. In the end, they abandon you to face the consequences alone.",
+  "real_life_bn": "খারাপ বন্ধুদের কথায় অন্যায়ের পথে পা বাড়াবেন না। বিপদে পড়লে তারা আপনাকে একাকী ফেলে কেটে পড়বে।",
+  "context_en": "Showing how Satan misled the Quraysh with promises of victory at Badr, only to abandon them when the angelic forces descended.",
+  "context_bn": "বদরের যুদ্ধে কুরাইশদের শয়তানের মিথ্যা আশ্বাস দেওয়া এবং ফেরেশতাদের দেখে তার পলায়নের বিবরণ।",
+  "themes": [
+    "satanic deception",
+    "false promises",
+    "betrayal",
+    "fear of Allah"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Quraysh pagans"
+    ],
+    "places": [
+      "Badr"
+    ],
+    "unseen": [
+      "Satan",
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Battle of Badr"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Satan deceived the disbelievers with false promises of support and then fled when he saw the angels at Badr.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

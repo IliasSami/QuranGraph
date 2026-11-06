@@ -1,0 +1,71 @@
+{
+  "id": "37:69",
+  "simple_en": "The root cause of their ruin was blind imitation. They found their ancestors completely astray from the truth, yet they followed them without using their reason or asking for proof. They chose tradition over divine guidance.",
+  "simple_bn": "তাদের ধ্বংসের মূল কারণ ছিল অন্ধ অনুকরণ। তারা তাদের পূর্বপুরুষদের সত্যের পথ থেকে বিচ্যুত পেয়েছিল, তবুও কোনো প্রমাণ ছাড়াই তারা তাদের পেছনে চলেছিল। তারা হেদায়াতের চেয়ে ভুল প্রথাকে প্রাধান্য দিয়েছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "لفو",
+      "lemma": "أَلْفَ",
+      "meaning_en": "they found",
+      "meaning_bn": "তারা পেয়েছিল",
+      "why_en": "Points to inheriting cultural beliefs and customs from past generations."
+    },
+    {
+      "pos": 3,
+      "root": "أبو",
+      "lemma": "آباء",
+      "meaning_en": "their forefathers",
+      "meaning_bn": "তাদের পিতৃপুরুষগণ",
+      "why_en": "The ancestors whose misguided practices were copied blindly."
+    },
+    {
+      "pos": 4,
+      "root": "ضلل",
+      "lemma": "ضالّ",
+      "meaning_en": "astray",
+      "meaning_bn": "বিপথগামী বা পথভ্রষ্ট",
+      "why_en": "Describes those who wandered away from the true religion of Allah."
+    }
+  ],
+  "lesson_en": "Do not follow old ways without thinking. Always look for the truth from Allah.",
+  "lesson_bn": "প্রমাণ ছাড়া পূর্বপুরুষদের অন্ধ অনুকরণ মানুষকে সত্য পথ থেকে দূরে সরিয়ে দেয়।",
+  "real_life_en": "Do not copy others just to fit in. Check what you do against what is right and true. Follow what pleases Allah.",
+  "real_life_bn": "সবাই করে বলেই কোনো কাজ করবেন না। যা সঠিক ও সত্য কেবল তারই অনুসরণ করুন।",
+  "themes": [
+    "guidance",
+    "misguidance",
+    "human nature"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelievers found their forefathers astray and blindly followed their misguided customs without proof.",
+      "claim_bn": "কাফিররা তাদের পূর্বপুরুষদের পথভ্রষ্ট পেয়েও প্রমাণ ছাড়া তাদের অন্ধ অনুকরণ করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

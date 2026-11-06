@@ -1,0 +1,81 @@
+{
+  "id": "6:161",
+  "simple_en": "Declare that your Lord has guided you to a straight and upright path. It is the established religion that secures welfare in this life and the Next. This is the faith of Abraham, who devoted himself purely to Allah and never worshipped false gods.",
+  "simple_bn": "আপনি বলুন: নিশ্চয়ই আমার রব আমাকে এক সরল ও সঠিক পথে পরিচালিত করেছেন। তা হলো এক সুপ্রতিষ্ঠিত ধর্ম, যা ইব্রাহীম (আলাইহিস সালাম)-এর একনিষ্ঠ মিল্লাত। তিনি কখনো মুশরিকদের অন্তর্ভুক্ত ছিলেন না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "هدي",
+      "lemma": "هَدَى",
+      "meaning_en": "guided me",
+      "meaning_bn": "আমাকে হেদায়েত দিয়েছেন",
+      "why_en": "Attributes the blessing of guidance directly to the Lord."
+    },
+    {
+      "pos": 6,
+      "root": "صرط",
+      "lemma": "صِراط",
+      "meaning_en": "a straight path",
+      "meaning_bn": "সরল পথ",
+      "why_en": "Refers to the upright religion that secures welfare in this world and the Next."
+    },
+    {
+      "pos": 12,
+      "root": "حنف",
+      "lemma": "حَنِيف",
+      "meaning_en": "inclining purely to truth",
+      "meaning_bn": "একনিষ্ঠ",
+      "why_en": "Describes Abraham turning away from all false deities solely toward Allah."
+    }
+  ],
+  "lesson_en": "True religion rests on unbending monotheism. Follow the upright path of Abraham by rejecting all forms of idolatry.",
+  "lesson_bn": "দ্বীনের মূল ভিত্তি হলো বিশুদ্ধ তাওহিদ। ইব্রাহীম (আলাইহিস সালাম)-এর মতো শিরকমুক্ত একনিষ্ঠ জীবনযাপন করুন।",
+  "real_life_en": "Put faith in Allah at the center of your life. Pray to Allah alone without charms or fortune tellers. Follow the example of Abraham by standing firm in your faith, even when people around you follow other ways.",
+  "real_life_bn": "সকল কাজ কেবল আল্লাহর সন্তুষ্টির জন্য করুন। তাবিজ-কবজ বা জ্যোতিষীর মতো শিরকি বিষয়ের ওপর নির্ভর করবেন না। ইব্রাহীম (আলাইহিস সালাম)-এর মতো এককভাবে আল্লাহর ওপর ভরসা রেখে সত্যের পথে অবিচল থাকুন।",
+  "context_en": "Surah Al-An'am concludes by summarizing pure Islamic monotheism as the eternal upright faith of Abraham.",
+  "context_bn": "সূরা আল-আন'আমের সমাপ্তিলগ্নে আল্লাহ রাসূল ﷺ-কে ঘোষণা করতে বলেছেন যে তাঁর পথই হলো ইব্রাহীম (আলাইহিস সালাম)-এর একনিষ্ঠ তাওহিদের পথ।",
+  "themes": [
+    "tawhid",
+    "guidance",
+    "stories of the prophets",
+    "faith"
+  ],
+  "kinds": [
+    "belief",
+    "command",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ",
+      "Ibrahim (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet is instructed to announce that Allah guided him to the straight path and upright religion.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "This straight path is the pure monotheistic faith of Abraham, who never associated partners with Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

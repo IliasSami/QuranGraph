@@ -1,0 +1,82 @@
+{
+  "id": "20:77",
+  "simple_en": "God revealed to Moses: Depart by night with My servants. Strike for them a dry path through the sea, without fearing capture or dreading drowning.",
+  "simple_bn": "আল্লাহ মূসার প্রতি ওহি নাজিল করলেন: আমার বান্দাদের নিয়ে রাতে বের হয়ে পড়। তাদের জন্য সাগরে একটি শুষ্ক পথ তৈরি কর, যেখানে পেছনে আক্রান্ত হওয়ার বা ডুবে যাওয়ার কোনো ভয় থাকবে না।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "سري",
+      "lemma": "أَسْرَىٰ",
+      "meaning_en": "travel by night",
+      "meaning_bn": "রাতে যাত্রা কর",
+      "why_en": "Quiet tactical departure to escape Egyptian forces."
+    },
+    {
+      "pos": 13,
+      "root": "يبس",
+      "lemma": "يَبَس",
+      "meaning_en": "dry and firm",
+      "meaning_bn": "শুষ্ক",
+      "why_en": "The seabed miraculously dried up for easy crossing."
+    },
+    {
+      "pos": 16,
+      "root": "درك",
+      "lemma": "دَرَك",
+      "meaning_en": "being overtaken",
+      "meaning_bn": "পেছন থেকে পাকড়াও হওয়া",
+      "why_en": "Reassurance against Pharaoh's pursuing army."
+    }
+  ],
+  "lesson_en": "God opens dry and safe roads through deep waters when His faithful servants step out in obedience.",
+  "lesson_bn": "আল্লাহর অনুগত বান্দারা সাহসের সাথে পা বাড়ালে উত্তাল সাগরের মাঝেও আল্লাহ শুষ্ক ও নিরাপদ পথ তৈরি করে দেন।",
+  "real_life_en": "When trapped between obstacles, move forward in faith. God can create ways out of seemingly impossible situations.",
+  "real_life_bn": "সামনে ও পেছনে যখন বিপদ ঘিরে ধরে, তখন ঈমানে অটল থাকুন। আল্লাহ অসম্ভবকে সম্ভব করে সংকট থেকে পথ দেখান।",
+  "themes": [
+    "exodus",
+    "parting-the-sea",
+    "musa",
+    "deliverance"
+  ],
+  "kinds": [
+    "command",
+    "story",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [
+      "Bani Isra'il"
+    ],
+    "places": [
+      "Red Sea",
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Exodus"
+    ],
+    "things": [
+      "sea"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God commanded Moses to lead the Israelites across the sea via a miraculously dried pathway.",
+      "claim_bn": "আল্লাহ মূসাকে বনি ইসরাইলকে নিয়ে রাতে যাত্রা করতে এবং সাগরে শুষ্ক পথ তৈরি করে পার হতে আদেশ দেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

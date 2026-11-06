@@ -1,0 +1,70 @@
+{
+  "id": "39:50",
+  "simple_en": "Those who lived before them made the exact same claim, boasting of their wealth and cleverness. Yet all their vast earnings and power did not help them or protect them from destruction when Allah's decree arrived. Arrogance always ends in loss.",
+  "simple_bn": "তাদের পূর্ববর্তী লোকেরাও ঠিক এই একই দাবি করেছিল এবং নিজেদের ধনবল ও চাতুর্যের অহংকার করেছিল। কিন্তু যখন আল্লাহর চূড়ান্ত আদেশ এল, তখন তাদের সেই বিপুল উপার্জন ও ক্ষমতা তাদের কোনো উপকারে আসেনি। অহংকারের পরিণতি সর্বদা ধ্বংস ও ক্ষতি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "said it",
+      "meaning_bn": "তা বলেছিল",
+      "why_en": "Shows the repeating pattern of human arrogance across past generations."
+    },
+    {
+      "pos": 7,
+      "root": "غني",
+      "lemma": "أَغْنَى",
+      "meaning_en": "did not avail them",
+      "meaning_bn": "তাদের কোনো উপকারে আসেনি",
+      "why_en": "Emphasizes the utter helplessness of material riches before divine justice."
+    },
+    {
+      "pos": 11,
+      "root": "كسب",
+      "lemma": "كَسَبَ",
+      "meaning_en": "they used to earn",
+      "meaning_bn": "তারা উপার্জন করত",
+      "why_en": "Refers to all the worldly power, wealth, and status accumulated in life."
+    }
+  ],
+  "lesson_en": "Past nations boasted of their wealth, but none of their money could save them from Allah's punishment.",
+  "lesson_bn": "অতীতের জাতিগুলো তাদের ধনসম্পদের বড়াই করেছিল, কিন্তু কোনো অর্থই তাদের আল্লাহর শাস্তি থেকে বাঁচাতে পারেনি।",
+  "real_life_en": "Look at the rich and powerful who have passed away. Use your wealth to help those in need today, because you cannot take a single coin with you into the grave.",
+  "real_life_bn": "অতীতের ক্ষমতাধর ও ধনী ব্যক্তিদের পরিণতির কথা ভাবুন। আপনার অতিরিক্ত সম্পদ দিয়ে অভাবীদের সাহায্য করুন, কারণ কবরে কোনো টাকা সাথে যাবে না।",
+  "themes": [
+    "history",
+    "lessons of history",
+    "wealth",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Those before them said the same words, but their worldly earnings were of no avail to them.",
+      "claim_bn": "পূর্ববর্তীরাও এই কথাই বলেছিল, কিন্তু তাদের অর্জন তাদের কোনো উপকারে আসেনি।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

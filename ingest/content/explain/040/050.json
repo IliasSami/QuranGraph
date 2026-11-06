@@ -1,0 +1,72 @@
+{
+  "id": "40:50",
+  "simple_en": "The angel guards of Hell will ask them, Did your messengers not bring you clear proofs during your earthly life? The dwellers will confess, Yes, they did. The angels will reply, Then call out yourselves, but the prayer of those who denied faith is completely in vain.",
+  "simple_bn": "জাহান্নামের প্রহরী ফেরেশতারা তাদের জিজ্ঞেস করবে, তোমাদের কাছে কি সুস্পষ্ট প্রমাণাদিসহ রাসূলগণ আসেননি? তারা স্বীকার করে বলবে, হ্যাঁ, এসেছিলেন। ফেরেশতারা বলবে, তবে তোমরাই ডাকতে থাকো, কিন্তু কাফিরদের প্রার্থনা সম্পূর্ণরূপে ব্যর্থ।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "بين",
+      "lemma": "بَيِّنَة",
+      "meaning_en": "clear proofs",
+      "meaning_bn": "সুস্পষ্ট প্রমাণাদি",
+      "why_en": "Prophetic miracles that removed any excuse for disbelief."
+    },
+    {
+      "pos": 12,
+      "root": "دعو",
+      "lemma": "دُعاء",
+      "meaning_en": "supplication / prayer",
+      "meaning_bn": "দোয়া বা প্রার্থনা",
+      "why_en": "Plea made in the Hereafter after a life of obstinate rejection."
+    },
+    {
+      "pos": 16,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "error / futility",
+      "meaning_bn": "ব্যর্থতা",
+      "why_en": "Hopeless prayers offered when the time for repentance has passed."
+    }
+  ],
+  "lesson_en": "Prayers in the Hereafter cannot help those who spent their worldly lives denying truth.",
+  "lesson_bn": "পার্থিব জীবন সত্যহীনভাবে কাটিয়ে পরকালে প্রার্থনা জানালে তা কোনো ফল বয়ে আনে না।",
+  "real_life_en": "Listen to sound advice while you have the chance to change. Sincere prayer is accepted now, but late regrets after death bring no benefit.",
+  "real_life_bn": "উপদেশ শুনে এখনই নিজের জীবন সংশোধন করুন। আজ আপনার আন্তরিক দোয়া কবুল হবে, কিন্তু মৃত্যুর পর অনুশোচনা কোনো উপকারে আসবে না।",
+  "themes": [
+    "Hell",
+    "prophethood",
+    "warning"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The keepers answer that messengers came with clear proofs, and that disbelievers' supplications in Hell are futile.",
+      "claim_bn": "প্রহরীরা স্মরণ করাবে যে প্রমাণসহ রাসূলরা এসেছিলেন; কাফিরদের পরকালীন কোনো প্রার্থনাই সফল হবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

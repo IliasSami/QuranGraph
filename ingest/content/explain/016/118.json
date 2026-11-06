@@ -1,0 +1,63 @@
+{
+  "id": "16:118",
+  "simple_en": "To the Jews We forbade what We mentioned to you before. We did not wrong them, but they were in the habit of wronging their own souls.",
+  "simple_bn": "আর ইহুদিদের জন্য আমরা তা-ই নিষিদ্ধ করেছিলাম যা পূর্বে আপনার কাছে উল্লেখ করেছি। আমরা তাদের ওপর কোনো অবিচার করিনি, বরং তারা নিজেরাই নিজেদের ক্ষতি করত।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "هود",
+      "lemma": "هادُ",
+      "meaning_en": "the Jews",
+      "meaning_bn": "ইহুদিরা",
+      "why_en": "The historic Israelite community."
+    },
+    {
+      "pos": 11,
+      "root": "ظلم",
+      "lemma": "ظَلَمَ",
+      "meaning_en": "We wronged them",
+      "meaning_bn": "আমরা তাদের ওপর অবিচার করেছি",
+      "why_en": "Denying that divine laws were unjust."
+    }
+  ],
+  "lesson_en": "Past laws were made strict for those who rebelled. God does no injustice to people. People bring harm on their own souls.",
+  "lesson_bn": "অতীত জাতিদের অবাধ্যতার কারণে তাদের ওপর অতিরিক্ত বিধিনিষেধ আরোপ করা হয়েছিল, যা ছিল তাদের অন্যায়ের ন্যায্য ফল।",
+  "real_life_en": "Follow God's clear rules with a willing heart. Do not bring hard burdens on yourself by arguing and rebelling against the truth.",
+  "real_life_bn": "আল্লাহর সহজ বিধানগুলো মেনে চলুন। অহেতুক তর্ক ও অবাধ্যতা করে নিজের ওপর অপ্রয়োজনীয় জটিলতা ডেকে আনবেন না।",
+  "themes": [
+    "banu-israil",
+    "dietary-laws",
+    "justice"
+  ],
+  "kinds": [
+    "law",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Jews"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Specific dietary prohibitions were placed on the Jews as consequence of their own wrongdoing, not divine injustice.",
+      "claim_bn": "ইহুদিদের ওপর পূর্বে উল্লেখিত বিষয়গুলো তাদের অবাধ্যতার কারণেই নিষিদ্ধ করা হয়েছিল, আল্লাহ তাদের ওপর যুলুম করেননি।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

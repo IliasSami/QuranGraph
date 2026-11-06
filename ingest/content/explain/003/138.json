@@ -1,0 +1,91 @@
+{
+ "id": "3:138",
+ "simple_en": "This Quran is a clear explanation of truth for all people. It offers practical guidance and wise advice for everyday life. Those who fear Allah take its lessons to heart and find light to guide their choices.",
+ "simple_bn": "এই কুরআন সকল মানুষের জন্য এক সুস্পষ্ট বর্ণনা। আর যারা আল্লাহকে ভয় করে চলে, তাদের জন্য এটি নিশ্চিত পথনির্দেশ ও হৃদয়গ্রাহী সদুপদেশ।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "بين",
+   "lemma": "بَيان",
+   "meaning_en": "a clear declaration",
+   "meaning_bn": "একটি সুস্পষ্ট বর্ণনা",
+   "why_en": "A plain statement that makes the truth distinct from falsehood for all mankind."
+  },
+  {
+   "pos": 4,
+   "root": "هدي",
+   "lemma": "هُدًى",
+   "meaning_en": "guidance",
+   "meaning_bn": "পথনির্দেশ",
+   "why_en": "Points the human heart toward the straight path of righteous living."
+  },
+  {
+   "pos": 5,
+   "root": "وعظ",
+   "lemma": "مَوْعِظَة",
+   "meaning_en": "instruction and admonition",
+   "meaning_bn": "সদুপদেশ",
+   "why_en": "Heart-softening advice that deters people from harm and inspires virtue."
+  },
+  {
+   "pos": 6,
+   "root": "وقي",
+   "lemma": "مُتَّقي",
+   "meaning_en": "for the righteous",
+   "meaning_bn": "মুত্তাকীদের জন্য",
+   "why_en": "Those whose reverence for Allah allows them to truly benefit from divine revelation."
+  }
+ ],
+ "lesson_en": "Open your heart to the Quran's wisdom so its guidance can shape your daily life.",
+ "lesson_bn": "কুরআনের উপদেশ ও পথনির্দেশ থেকে ফায়দা পেতে অন্তরে আল্লাহর ভয় জাগ্রত রাখুন।",
+ "real_life_en": "Do not only recite the Quran without knowing what it says. Read a few verses with their meaning every day. Think about their advice, and use that wisdom in your daily life.",
+ "real_life_bn": "কুরআন কেবল না বুঝে তিলাওয়াত করে রেখে দেবেন না। প্রতিদিন অর্থ বুঝে অন্তত কয়েকটি আয়াত পড়ুন এবং সেই উপদেশ অনুযায়ী নিজের সারাদিনের কাজ ও আচরণ পরিচালিত করুন।",
+ "context_en": "Affirms that the moral lessons and historical insights in these verses provide a universal explanation and special guidance for the pious.",
+ "context_bn": "পূর্ববর্তী ঘটনা ও নৈতিক নির্দেশনাসমূহ সমগ্র মানবজাতির জন্য উন্মুক্ত সত্য এবং মুত্তাকীদের জন্য বিশেষ হেদায়েত—তা তুলে ধরা হয়েছে।",
+ "themes": [
+  "the Quran",
+  "guidance",
+  "taqwa",
+  "revelation"
+ ],
+ "kinds": [
+  "argument",
+  "ethics",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "The Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The Quran is a clear declaration of truth for all of mankind.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "It serves as specific guidance and heart-softening instruction for those who have taqwa.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

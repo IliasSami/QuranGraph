@@ -1,0 +1,74 @@
+{
+ "id": "72:9",
+ "simple_en": "Before this, the jinn used to sit in certain places in the sky to catch what was said there. Now that has ended. Anyone who tries to listen now finds a flaming fire waiting for him, ready to burn him.",
+ "simple_bn": "আগে জিনরা আকাশের নির্দিষ্ট কিছু জায়গায় বসে ওপরের কথা শোনার চেষ্টা করত। এখন সেই সুযোগ বন্ধ। এখন যে শুনতে চায়, তার জন্য অপেক্ষা করে থাকে একটি জ্বলন্ত আগুন, যা তাকে পুড়িয়ে দেয়।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "قعد",
+   "lemma": "مَقْعَد",
+   "meaning_en": "sitting places",
+   "meaning_bn": "বসার জায়গা",
+   "why_en": "The jinn had fixed spots where they waited to catch news."
+  },
+  {
+   "pos": 12,
+   "root": "شهب",
+   "lemma": "شِهاب",
+   "meaning_en": "a flaming fire",
+   "meaning_bn": "জ্বলন্ত আগুন",
+   "why_en": "It is the flame sent at anyone who comes near to listen."
+  },
+  {
+   "pos": 13,
+   "root": "رصد",
+   "lemma": "رَصَد",
+   "meaning_en": "lying in wait",
+   "meaning_bn": "ওত পেতে থাকা",
+   "why_en": "The flame is not random; it is placed and waiting for the eavesdropper."
+  }
+ ],
+ "lesson_en": "What Allah keeps hidden stays hidden. Do not chase secret knowledge or trust those who claim to have it.",
+ "lesson_bn": "আল্লাহ যা গোপন রেখেছেন, তা গোপনই থাকে। গোপন জ্ঞানের পেছনে ছুটবেন না, আর যে এমন দাবি করে তার উপর ভরসা করবেন না।",
+ "real_life_en": "A relative may visit a fortune-teller and repeat the predictions at a family gathering. You can listen politely and still not accept them. Say the future belongs to Allah, and decide using what you really know.",
+ "real_life_bn": "কোনো আত্মীয় হয়তো গণকের কাছে গিয়ে পরিবারের আড্ডায় ভবিষ্যদ্বাণী বলবে। ভদ্রভাবে শুনতে পারেন, কিন্তু তা মেনে নিতে হবে না। বলুন, ভবিষ্যৎ আল্লাহর হাতে, আর আপনার সিদ্ধান্ত হোক বাস্তবে যা জানেন তার ভিত্তিতে।",
+ "themes": [
+  "jinn",
+  "the unseen"
+ ],
+ "kinds": [
+  "story"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn",
+   "angels"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The jinn used to sit in places in the sky to hear what the angels discussed and pass it to fortune-tellers.",
+   "sources": [
+    "qe-english-mokhtasar"
+   ]
+  },
+  {
+   "text": "Now anyone who tries to listen finds a flaming fire waiting for him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

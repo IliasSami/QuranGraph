@@ -1,0 +1,70 @@
+{
+  "id": "53:35",
+  "simple_en": "Does this person have knowledge of the unseen? Does he see what is hidden in the future? He has no access to divine secrets. His claims that he will be safe in the Hereafter are complete fabrications.",
+  "simple_bn": "তার কাছে কি অদৃশ্য জগতের কোনো জ্ঞান আছে যার কারণে সে ভবিষ্যৎ দেখতে পায়। না, আসমানী জ্ঞানের কোনো খবরই তার জানা নেই। পরকালে সে নিরাপদ থাকবে বলে যে দাবি করে তা সম্পূর্ণ মিথ্যা ও অলীক কল্পনা।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "علم",
+      "lemma": "عِلْم",
+      "meaning_en": "knowledge",
+      "meaning_bn": "জ্ঞান",
+      "why_en": "Knowledge of divine decree belongs only to Allah."
+    },
+    {
+      "pos": 3,
+      "root": "غيب",
+      "lemma": "غَيْب",
+      "meaning_en": "the unseen",
+      "meaning_bn": "অদৃশ্য বা গায়েব",
+      "why_en": "The hidden realms that no human can see on his own."
+    },
+    {
+      "pos": 5,
+      "root": "رأي",
+      "lemma": "رَأَى",
+      "meaning_en": "he sees",
+      "meaning_bn": "সে দেখে",
+      "why_en": "A rhetorical question denying any mystical sight of the future."
+    }
+  ],
+  "lesson_en": "Only Allah knows the unseen, so do not make false assumptions about your fate.",
+  "lesson_bn": "অদৃশ্যের জ্ঞান কেবল আল্লাহর কাছে, তাই নিজের পরিণতি নিয়ে ভিত্তিহীন ভরসা করবেন না।",
+  "real_life_en": "Do not visit fortune-tellers or trust online predictions about your future. Pray for guidance, do good deeds, and place your trust in Allah.",
+  "real_life_bn": "জ্যোতিষী বা ভবিষ্যৎ বক্তাদের কথায় কান দেবেন না। নিজের ভবিষ্যৎ নিয়ে দুশ্চিন্তা না করে আল্লাহর উপর ভরসা রেখে সৎ কাজ করে যান।",
+  "context_en": "This question challenges the arrogant assumptions of the person who claims divine safety without deeds.",
+  "context_bn": "পরকালের ব্যাপারে অলীক নিরাপত্তা দাবি করা অহংকারীর দাবিকে এখানে নাকচ করা হয়েছে।",
+  "themes": [
+    "the unseen",
+    "knowledge",
+    "Allah's knowledge",
+    "arrogance"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "He has no knowledge of the unseen to see or speak about what lies ahead.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

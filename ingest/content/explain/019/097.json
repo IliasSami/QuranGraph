@@ -1,0 +1,66 @@
+{
+  "id": "19:97",
+  "simple_en": "We made this Quran easy in your own tongue. This allows you to give good news to the righteous and warn people who love to dispute.",
+  "simple_bn": "আমরা আপনার ভাষায় কুরআনকে সহজ করে দিয়েছি, যাতে আপনি এর দ্বারা আল্লাহভীরুদের সুসংবাদ দিতে পারেন এবং কলহপ্রিয় সম্প্রদায়কে সতর্ক করতে পারেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "يسر",
+      "lemma": "يَسَّرَ",
+      "meaning_en": "We made it easy",
+      "meaning_bn": "আমরা তা সহজ করেছি",
+      "why_en": "Making the Quran accessible in language and message."
+    },
+    {
+      "pos": 10,
+      "root": "لدد",
+      "lemma": "لُدّ",
+      "meaning_en": "contentious or hostile",
+      "meaning_bn": "বিতণ্ডাপ্রিয় বা কলহপ্রিয়",
+      "why_en": "People stubborn in argument and obstinate in denial."
+    }
+  ],
+  "lesson_en": "The Quran is simple to understand. It gives hope to the faithful and warns those who argue against the truth.",
+  "lesson_bn": "কুরআনকে অত্যন্ত সহজ ও স্পষ্ট ভাষায় নাজিল করা হয়েছে যাতে সবাই উপকৃত হতে পারে। এটি মুমিনের জন্য সুসংবাদ এবং একগুঁয়েদের জন্য সতর্কবার্তা।",
+  "real_life_en": "Engage regularly with the Quran to find guidance and peace. Share its clear, hopeful message with those around you with wisdom.",
+  "real_life_bn": "কুরআন পাঠ ও অনুধাবনে নিয়মিত সময় দিন। প্রজ্ঞা ও সুন্দর উপদেশের মাধ্যমে কুরআনের সঠিক বার্তা মানুষের কাছে পৌঁছে দিন।",
+  "themes": [
+    "clarity-of-quran",
+    "glad-tidings-and-warning",
+    "ease-of-scripture"
+  ],
+  "kinds": [
+    "praise",
+    "warning",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God made the Quran easy in the Prophet's tongue to give good news to the righteous and warn contentious deniers.",
+      "claim_bn": "আল্লাহ রাসুলের (সা.) ভাষায় কুরআন সহজ করেছেন যাতে মুত্তাকীদের সুসংবাদ এবং একগুঁয়ে কওমকে সতর্ক করা যায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

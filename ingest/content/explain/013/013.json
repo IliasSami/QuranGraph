@@ -1,0 +1,83 @@
+{
+  "id": "13:13",
+  "simple_en": "The sound of thunder glorifies Allah with praise. The angels also praise Him in humble awe. Allah strikes down thunderbolts upon whom He wills. Yet stubborn people still argue about Allah, even though He is mighty in power.",
+  "simple_bn": "মেঘের গর্জন আল্লাহর সপ্রশংস মহিমা ঘোষণা করে এবং ফেরেশতাগণও তাঁর ভয়ে তাঁর পবিত্রতা বর্ণনা করে। তিনি যাকে ইচ্ছে বজ্রাঘাত করেন। তবুও মানুষ আল্লাহ সম্পর্কে বিতণ্ডা করে, অথচ তিনি শক্তিতে অত্যন্ত প্রবল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رعد",
+      "lemma": "رَعْد",
+      "meaning_en": "thunder",
+      "meaning_bn": "বজ্রনাদ",
+      "why_en": "The physical roaring of clouds proclaiming the Creator's grandeur."
+    },
+    {
+      "pos": 3,
+      "root": "حمد",
+      "lemma": "حَمْد",
+      "meaning_en": "His praise",
+      "meaning_bn": "তাঁর প্রশংসা",
+      "why_en": "Nature participates actively in glorifying divine perfection."
+    },
+    {
+      "pos": 4,
+      "root": "ملك",
+      "lemma": "مَلائِكَة",
+      "meaning_en": "the angels",
+      "meaning_bn": "ফেরেশতাগণ",
+      "why_en": "Noble heavenly hosts venerating Allah in reverent fear."
+    },
+    {
+      "pos": 8,
+      "root": "صعق",
+      "lemma": "صاعِقَة",
+      "meaning_en": "thunderbolts",
+      "meaning_bn": "বজ্রপাত",
+      "why_en": "Direct physical bolts executing divine retribution on earth."
+    }
+  ],
+  "lesson_en": "Creation praises God with awe. Drop your pride and obey Him.",
+  "lesson_bn": "আল্লাহর পরাক্রমের সামনে অহংকার ত্যাগ করা উচিত, যার প্রশংসায় সমগ্র প্রকৃতি মুখরিত।",
+  "real_life_en": "A loud roll of thunder rattles the windows of a house. Instead of panicking, a believer pauses, says praise to Allah, and feels small before the power of the Creator.",
+  "real_life_bn": "হঠাৎ তীব্র বজ্রনাদে জানালার কাচ কেঁপে ওঠে। আতঙ্কিত না হয়ে এক বিশ্বাসী সঙ্গে সঙ্গে আল্লাহর তাসবীহ পাঠ করে এবং স্রষ্টার অসীম ক্ষমতার কথা স্মরণ করে।",
+  "context_en": "Creation's glorification of Allah through thunder and angels while arrogant humans dispute.",
+  "context_bn": "বজ্রনাদ ও ফেরেশতাদের তাসবীহের বিপরীতে মানুষের অহংকারী বিতর্কের স্বরূপ।",
+  "themes": [
+    "glorification",
+    "thunder",
+    "power of Allah",
+    "angels"
+  ],
+  "kinds": [
+    "praise",
+    "warning",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "thunder",
+      "thunderbolts"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Thunder and angels glorify Allah, who strikes with thunderbolts while deniers dispute.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

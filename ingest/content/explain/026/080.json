@@ -1,0 +1,65 @@
+{
+  "id": "26:80",
+  "simple_en": "When Ibrahim was sick, God cured his pain and gave him health. Doctors and medicine can help, but the real cure comes only from God above.",
+  "simple_bn": "আর আমি যখন রোগাক্রান্ত হই, তখন তিনিই আমাকে সুস্থতা দান করেন। চিকিৎসার মাধ্যম থাকলেও আরোগ্য দানের প্রকৃত ক্ষমতা একমাত্র আল্লাহর হাতে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "مرض",
+      "lemma": "مَرِضَ",
+      "meaning_en": "I am ill",
+      "meaning_bn": "আমি রোগাক্রান্ত হই",
+      "why_en": "Ibrahim politely attributed illness to himself out of good manners toward God."
+    },
+    {
+      "pos": 4,
+      "root": "شفي",
+      "lemma": "شَفَى",
+      "meaning_en": "He cures me",
+      "meaning_bn": "তিনি আমাকে আরোগ্য দান করেন",
+      "why_en": "Affirming that ultimate healing belongs exclusively to the Almighty."
+    }
+  ],
+  "lesson_en": "God is the ultimate Healer. Sickness tests patience, while recovery reminds us of divine care.",
+  "lesson_bn": "আল্লাহই সকল রোগের প্রকৃত নিরাময়কারী। অসুস্থতার সময় ধৈর্য ধারণ করা এবং সুস্থতার জন্য আল্লাহর ওপর ভরসা রাখা মুমিনের বৈশিষ্ট্য।",
+  "real_life_en": "When you fall sick, take your medicine and see a doctor. But remember that God alone gives health. Turn to Him in prayer for a full cure.",
+  "real_life_bn": "অসুস্থ হলে নিয়মমতো ওষুধ সেবন করুন এবং চিকিৎসকের পরামর্শ নিন। সেই সাথে আরোগ্যের জন্য বিনীতভাবে আল্লাহর দরবারে প্রার্থনা করুন।",
+  "themes": [
+    "healing",
+    "health",
+    "reliance"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ash-shafi"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "When sickness occurs, God alone possesses the absolute power to cure and restore health.",
+      "claim_bn": "রোগব্যাধি দেখা দিলে কেবল আল্লাহই পূর্ণ আরোগ্য ও সুস্থতা দান করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

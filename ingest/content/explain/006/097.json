@@ -1,0 +1,85 @@
+{
+  "id": "6:97",
+  "simple_en": "Allah placed glowing stars in the sky to guide your travel. When darkness covers land and sea, travelers use the stars to find their way. Allah explains these signs clearly for people who seek knowledge and reflect. His universe is full of helpful directions for human life.",
+  "simple_bn": "আল্লাহ রাতের আকাশে উজ্জ্বল নক্ষত্ররাজি স্থাপন করেছেন, যাতে মানুষ পথ খুঁজে পায়। যখন স্থলভাগে কিংবা গভীর সমুদ্রে অন্ধকার নেমে আসে, তখন তারকারাজি দেখে মুসাফিররা সঠিক দিশা পায়। যারা গভীর চিন্তাভাবনা ও জ্ঞান অর্জন করে, তাদের জন্য আল্লাহ এই নিদর্শনগুলো সুস্পষ্টভাবে বর্ণনা করেছেন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نجم",
+      "lemma": "نَجْم",
+      "meaning_en": "the stars",
+      "meaning_bn": "নক্ষত্ররাজি",
+      "why_en": "Identifies the stars as navigational guides placed in the night sky."
+    },
+    {
+      "pos": 6,
+      "root": "هدي",
+      "lemma": "اهْتَدَى",
+      "meaning_en": "that you may be guided",
+      "meaning_bn": "যাতে তোমরা পথ খুঁজে পাও",
+      "why_en": "Explains how travelers navigate safely through darkness using stellar markers."
+    },
+    {
+      "pos": 13,
+      "root": "فصل",
+      "lemma": "فَصَّلَ",
+      "meaning_en": "We have detailed",
+      "meaning_bn": "আমরা বিশদভাবে বর্ণনা করেছি",
+      "why_en": "Shows that Allah explains signs clearly for people who ponder."
+    }
+  ],
+  "lesson_en": "Look at the night sky. The stars show you the way and point to your Maker.",
+  "lesson_bn": "রাতের আকাশের তারার দিকে তাকিয়ে পথের দিশা পাওয়ার পাশাপাশি মহান স্রষ্টার কুদরত স্মরণ করুন।",
+  "real_life_en": "When you feel lost, look to Allah for light. Just as travelers look at stars in the dark, turn to the Quran for guidance. Allah gives clear signs to help you walk the right path.",
+  "real_life_bn": "জীবনের কঠিন সময়ে দিশেহারা বোধ করলে আল্লাহর কাছে আলোর সন্ধান করুন। মুসাফিররা যেমন তারার আলো দেখে পথ চলে, তেমনি কুরআন থেকে জীবনের সঠিক পথ বেছে নিন। আল্লাহ সত্য পথের সন্ধান দিতে স্পষ্ট নিদর্শন রেখেছেন।",
+  "context_en": "Highlights the stars as divine signs serving both navigational guidance and reflection.",
+  "context_bn": "স্থল ও জলপথের অন্ধকার দূর করতে এবং পথ নির্দেশনায় তারকারাজির ভূমিকা তুলে ধরা হয়েছে।",
+  "themes": [
+    "stars",
+    "navigation",
+    "signs of Allah",
+    "knowledge"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "creation",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Creator"
+    ],
+    "events": [],
+    "things": [
+      "the stars",
+      "land",
+      "sea"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah placed the stars so travelers can navigate through the darkness of land and sea.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Allah explains cosmic signs in detail for people who possess knowledge and reflect.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

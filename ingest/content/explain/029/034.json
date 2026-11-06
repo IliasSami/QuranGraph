@@ -1,0 +1,75 @@
+{
+  "id": "29:34",
+  "simple_en": "The angels said a punishment would fall from the sky upon that town. This disaster was sent because the people broke God's laws and lived in rebellion.",
+  "simple_bn": "ফেরেশতারা জানালেন যে এই জনপদবাসীর অবাধ্যতা ও ক্রমাগত পাপাচারের কারণে আকাশ থেকে তাদের ওপর এক কঠিন আযাব নাযিল করা হবে। নৈতিক সীমালঙ্ঘনের চূড়ান্ত পরিণতি হিসেবেই এই শাস্তি এসেছিল।",
+  "key_words": [
+    {
+      "pos": 7,
+      "arabic": "رِجْزًا",
+      "root": "رجز",
+      "lemma": "رِجْز",
+      "meaning_en": "a punishment",
+      "meaning_bn": "কঠিন আযাব বা শাস্তি",
+      "why_en": "The heavenly destruction sent upon the rebellious city."
+    },
+    {
+      "pos": 12,
+      "arabic": "يَفْسُقُونَ",
+      "root": "فسق",
+      "lemma": "فَسَقَ",
+      "meaning_en": "they were disobedient",
+      "meaning_bn": "তারা পাপাচার করছিল",
+      "why_en": "Continuous defiance and transgression of moral laws."
+    }
+  ],
+  "lesson_en": "Persistent rebellion brings divine punishment. Those who break God's limits face ruin.",
+  "lesson_bn": "ক্রমাগত পাপাচার ও আল্লাহর বিধানের প্রতি অবাধ্যতা আকাশ থেকে ঐশী শাস্তির কারণ হয়।",
+  "real_life_en": "Follow divine limits in daily life. Protect your home and society by doing good and rejecting corrupt ways.",
+  "real_life_bn": "নৈতিক সীমারেখা মেনে চলুন। পাপের পথ পরিহার করে নিজের ঘর ও সমাজকে সৎকাজের মাধ্যমে সুরক্ষিত রাখুন।",
+  "themes": [
+    "punishment",
+    "lut",
+    "moral-corruption"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Angels"
+    ],
+    "nations": [
+      "People of Lot"
+    ],
+    "places": [
+      "Sodom"
+    ],
+    "unseen": [
+      "Angels"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Destruction of Sodom"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The angels declared that a severe heavenly torment would descend upon the city because of their defiant disobedience.",
+      "claim_bn": "ফেরেশতারা ঘোষণা করেন যে জনপদবাসীর সীমাহীন পাপাচারের কারণে আকাশ থেকে তাদের ওপর কঠিন আযাব নাযিল করা হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

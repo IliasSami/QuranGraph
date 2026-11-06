@@ -1,0 +1,86 @@
+{
+  "id": "11:84",
+  "simple_en": "To the people of Madyan, Allah sent their brother Shu'ayb. He called them to worship Allah alone. He told them to stop cheating in weights and measures. Though they were wealthy, he feared a destroying punishment would surround them.",
+  "simple_bn": "আর মাদইয়ানবাসীর কাছে আমরা তাদের ভাই শুআইবকে পাঠালাম। তিনি বললেন, হে আমার সম্প্রদায়, তোমরা আল্লাহর ইবাদত করো, তিনি ছাড়া তোমাদের অন্য কোনো সত্য উপাস্য নেই। আর মাপে ও ওজনে কম দিও না। আমি তোমাদেরকে সমৃদ্ধ অবস্থায় দেখছি, কিন্তু আমি তোমাদের জন্য এক সর্বগ্রাসী দিনের শাস্তির ভয় করছি।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "worship",
+      "meaning_bn": "ইবাদত করো",
+      "why_en": "The core prophetic call to monotheism."
+    },
+    {
+      "pos": 15,
+      "root": "نقص",
+      "lemma": "يُنقَصُ",
+      "meaning_en": "decrease / defraud",
+      "meaning_bn": "কম দেওয়া / ঘাটতি করা",
+      "why_en": "Cheating buyers in weight and quantity."
+    },
+    {
+      "pos": 16,
+      "root": "كيل",
+      "lemma": "مِكْيال",
+      "meaning_en": "measure",
+      "meaning_bn": "মাপ",
+      "why_en": "Commercial measurement instruments."
+    },
+    {
+      "pos": 17,
+      "root": "وزن",
+      "lemma": "مِيزان",
+      "meaning_en": "scale / balance",
+      "meaning_bn": "দাঁড়িপাল্লা / ওজন",
+      "why_en": "Honest weighing in financial transactions."
+    }
+  ],
+  "lesson_en": "True faith requires both pure worship of God and complete honesty in business dealings.",
+  "lesson_bn": "ঈমানের পূর্ণতা আসে কেবল এক আল্লাহর ইবাদত এবং ব্যবসা-বাণিজ্যে সততা বজায় রাখার মাধ্যমে।",
+  "real_life_en": "Never cheat customers or take unfair shortcuts in your work. Honest business brings real blessing to your wealth and protects you from divine displeasure.",
+  "real_life_bn": "ব্যবসা, চাকরি ও কর্মক্ষেত্রে সততা বজায় রাখুন। ওজনে বা মাপে কারচুপি না করে সৎভাবে জীবিকা অর্জন করুন।",
+  "themes": [
+    "story of Shu'ayb",
+    "tawhid",
+    "honest business",
+    "fair weights",
+    "economic justice"
+  ],
+  "kinds": [
+    "story",
+    "command",
+    "prohibition",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb (peace be upon him)"
+    ],
+    "nations": [
+      "People of Madyan"
+    ],
+    "places": [
+      "Madyan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Shu'ayb commanded his nation to worship Allah alone and warned them against commercial dishonesty and cheating in weights.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

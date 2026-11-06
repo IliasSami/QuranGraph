@@ -1,0 +1,77 @@
+{
+  "id": "20:55",
+  "simple_en": "From the earth We created you, and into it We return you when you die. Then We will bring you out from it again on the Day of Judgment.",
+  "simple_bn": "এই মাটি থেকেই আমরা তোমাদের সৃষ্টি করেছি, মৃত্যুর পর এতেই তোমাদের ফিরিয়ে দেব এবং এখান থেকেই পুনরায় তোমাদের বের করে আনব।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "We created you",
+      "meaning_bn": "আমরা তোমাদের সৃষ্টি করেছি",
+      "why_en": "Human origins traced back to earth and clay."
+    },
+    {
+      "pos": 4,
+      "root": "عود",
+      "lemma": "أَعَادَ",
+      "meaning_en": "We return you",
+      "meaning_bn": "আমরা তোমাদের ফিরিয়ে দেব",
+      "why_en": "Burial of the human body back into soil."
+    },
+    {
+      "pos": 6,
+      "root": "خرج",
+      "lemma": "أَخْرَجَ",
+      "meaning_en": "We bring you forth",
+      "meaning_bn": "আমরা তোমাদের বের করব",
+      "why_en": "Physical bodily resurrection on the Last Day."
+    }
+  ],
+  "lesson_en": "We come from dust and go back to dust. Then God will raise us all to judge our deeds.",
+  "lesson_bn": "মানুষের সূচনা ধূলিকণা থেকে, তার জীবন ক্ষণস্থায়ী এবং মৃত্যুর পর শেষ বিচারের দিনে তাকে অবশ্যই পুনরুত্থিত হতে হবে।",
+  "real_life_en": "Stay humble throughout life. Remember that your body will return to dust, so prepare your soul for resurrection.",
+  "real_life_bn": "জীবনে অহংকার পরিহার করে বিনয়ী হোন। একদিন মাটিতেই ফিরে যেতে হবে, তাই আখেরাতের জন্য পাথেয় সংগ্রহ করুন।",
+  "themes": [
+    "resurrection",
+    "humility",
+    "human-origin",
+    "eschatology"
+  ],
+  "kinds": [
+    "hereafter",
+    "creation",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Resurrection"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Resurrection"
+    ],
+    "things": [
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Humanity was created from earth, will be returned to it at death, and raised from it for judgment.",
+      "claim_bn": "মানুষকে মাটি থেকে সৃষ্টি করা হয়েছে, মৃত্যুর পর মাটিতেই ফিরিয়ে নেওয়া হবে এবং বিচার দিবসে সেখান থেকেই তোলা হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

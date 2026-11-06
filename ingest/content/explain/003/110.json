@@ -1,0 +1,101 @@
+{
+ "id": "3:110",
+ "simple_en": "You are the best community ever brought forth for mankind. You earned this honor because you promote what is right, forbid what is wrong, and believe firmly in Allah. If the People of the Book had also embraced true faith, it would have been far better for them. A few among them are sincere believers, but most have chosen disobedience.",
+ "simple_bn": "তোমরাই হলে সর্বোত্তম উম্মত, মানবজাতির কল্যাণের জন্য যাদের আবির্ভাব ঘটানো হয়েছে। তোমরা সৎকাজের নির্দেশ দাও, অন্যায় কাজে বাধা দাও এবং আল্লাহর প্রতি দৃঢ় বিশ্বাস রাখো। কিতাবধারীরাও যদি একইভাবে ঈমান আনত, তবে তা তাদের জন্য অনেক বেশি কল্যাণকর হতো। তাদের মধ্যে কিছু সৎ মুমিন রয়েছে, তবে তাদের অধিকাংশই সত্যত্যাগী ও অবাধ্য।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "خير",
+   "lemma": "خَيْر",
+   "meaning_en": "the best",
+   "meaning_bn": "সর্বোত্তম",
+   "why_en": "Honors the community of believers for their benefit to humanity and commitment to faith."
+  },
+  {
+   "pos": 3,
+   "root": "أمم",
+   "lemma": "أُمَّة",
+   "meaning_en": "community / nation",
+   "meaning_bn": "উম্মত বা জাতি",
+   "why_en": "Designates the global body of believers united under divine guidance."
+  },
+  {
+   "pos": 7,
+   "root": "عرف",
+   "lemma": "مَعْرُوف",
+   "meaning_en": "what is right",
+   "meaning_bn": "সৎকাজ",
+   "why_en": "Defines the core mission of encouraging all virtuous actions and righteous deeds."
+  },
+  {
+   "pos": 10,
+   "root": "نكر",
+   "lemma": "مُنكَر",
+   "meaning_en": "what is wrong",
+   "meaning_bn": "অসৎকাজ",
+   "why_en": "Establishes the duty of restraining evil and defending justice in society."
+  },
+  {
+   "pos": 23,
+   "root": "فسق",
+   "lemma": "فاسِق",
+   "meaning_en": "the defiantly disobedient",
+   "meaning_bn": "ফাসিক বা অবাধ্য",
+   "why_en": "Identifies those who rebel against divine commands and leave the path of obedience."
+  }
+ ],
+ "lesson_en": "True honor comes from serving others. Encourage good, turn away from evil, and trust in Allah.",
+ "lesson_bn": "অন্যের কল্যাণে কাজ করাই আসল সম্মান। সৎকাজের উৎসাহ দিন, অন্যায় থেকে দূরে থাকুন এবং আল্লাহর ওপর ভরসা রাখুন।",
+ "real_life_en": "Be an active force for good in your workplace and neighborhood. Volunteering to help those in need and standing up against bullying or dishonest practices shows the noble purpose of faith.",
+ "real_life_bn": "সমাজ বা কর্মক্ষেত্রে মানুষের উপকারে এগিয়ে আসুন এবং অন্যায় কাজের বিরুদ্ধে অবস্থান নিন। আর্তমানবতার সেবা করা এবং মানুষকে সততার পরামর্শ দেওয়াই মুমিনের প্রকৃত বৈশিষ্ট্য।",
+ "context_en": "Describes the high moral standing of the Muslim ummah after establishing divine sovereignty in 3:109.",
+ "context_bn": "১০৯ নম্বর আয়াতে আল্লাহর সার্বভৌমত্ব ঘোষণার পর এখানে মুসলিম উম্মাহর উচ্চ নৈতিক মর্যাদা ও দায়িত্ব স্পষ্ট করা হয়েছে।",
+ "themes": [
+  "the believers' qualities",
+  "faith",
+  "ethics",
+  "good character"
+ ],
+ "kinds": [
+  "praise",
+  "description-of-allah",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "People of the Book"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Muslim community is the best of nations for humanity because they enjoin good, forbid evil, and believe in Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "If the People of the Book had believed in the Prophet ﷺ, it would have been better for them; some did believe, but most became defiantly disobedient.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

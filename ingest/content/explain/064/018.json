@@ -1,0 +1,78 @@
+{
+  "id": "64:18",
+  "simple_en": "Allah is the Knower of the unseen world and the seen world. He is the Almighty, whom none can defeat, and the All-Wise in everything He creates and commands.",
+  "simple_bn": "তিনি অদৃশ্য ও দৃশ্যমান সব বিষয়ের জ্ঞাতা। তিনি পরাক্রমশালী, যাঁকে কেউ পরাজিত করতে পারে না, এবং তিনি তাঁর সৃষ্টি ও বিধানে পরম প্রজ্ঞাময়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "غيب",
+      "lemma": "غَيْب",
+      "meaning_en": "the unseen",
+      "meaning_bn": "অদৃশ্য বিষয়",
+      "why_en": "Refers to matters beyond human perception that are fully open to God."
+    },
+    {
+      "pos": 3,
+      "root": "شهد",
+      "lemma": "شَهادَة",
+      "meaning_en": "the seen and witnessed",
+      "meaning_bn": "দৃশ্যমান বিষয়",
+      "why_en": "Covers all visible reality, affirming complete divine knowledge of both realms."
+    },
+    {
+      "pos": 4,
+      "root": "عزز",
+      "lemma": "عَزِيز",
+      "meaning_en": "the Almighty",
+      "meaning_bn": "পরাক্রমশালী",
+      "why_en": "Emphasizes absolute power and victory that cannot be challenged."
+    },
+    {
+      "pos": 5,
+      "root": "حكم",
+      "lemma": "حَكِيم",
+      "meaning_en": "the All-Wise",
+      "meaning_bn": "প্রজ্ঞাবান",
+      "why_en": "Highlights perfect wisdom in every divine decree and cosmic law."
+    }
+  ],
+  "lesson_en": "Trust the wisdom and power of Allah, who knows all that is hidden and guides all that occurs.",
+  "lesson_bn": "আল্লাহর প্রজ্ঞা ও মহাশক্তির ওপর আস্থা রাখা উচিত, যিনি প্রকাশ্য ও গোপনের সব খবর রাখেন।",
+  "real_life_en": "A researcher works on a hard problem for months with no clear answer. He stays patient, knowing that human minds see only a fraction of reality while God holds the full picture and wisdom.",
+  "real_life_bn": "জীবনে কোনো জটিল পরিস্থিতির কারণ তাৎক্ষণিকভাবে বুঝতে না পারলেও ভেঙে পড়তে নেই। মানুষ সামান্য অংশ দেখে, আর মহান আল্লাহ সবকিছুর অতীত, বর্তমান ও ভবিষ্যৎ জেনে সঠিক ফায়সালা করেন।",
+  "themes": [
+    "knower of unseen and seen",
+    "divine might",
+    "divine wisdom"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-aziz",
+      "al-hakim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah knows the unseen and the seen, and He is the Almighty and the All-Wise in all His creation and decrees.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

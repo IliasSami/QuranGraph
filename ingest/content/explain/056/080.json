@@ -1,0 +1,74 @@
+{
+  "id": "56:80",
+  "simple_en": "The Quran is not the speech of a poet, soothsayer, or angel. It is a revelation sent down directly from the Lord of all creation to Prophet Muhammad ﷺ. Its words carry supreme authority and truth.",
+  "simple_bn": "কুরআন কোনো কবি বা গণকের বানানো কথা নয়। এটি সৃষ্টিকুলের একমাত্র প্রতিপালক আল্লাহর পক্ষ থেকে নবী মুহাম্মাদ ﷺ এর ওপর অবতীর্ণ হওয়া ওহী। এর প্রতিটি বাণী সত্য ও সর্বোচ্চ মর্যাদাপূর্ণ।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نزل",
+      "lemma": "تَنزِيل",
+      "meaning_en": "a revelation sent down",
+      "meaning_bn": "অবতীর্ণ বাণী",
+      "why_en": "Affirms the divine origin of the Quran descending from Allah."
+    },
+    {
+      "pos": 3,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "the Lord",
+      "meaning_bn": "প্রতিপালক",
+      "why_en": "Names the Author and Sustainer of everything who revealed it."
+    },
+    {
+      "pos": 4,
+      "root": "علم",
+      "lemma": "عالَم",
+      "meaning_en": "the worlds or all creation",
+      "meaning_bn": "সৃষ্টিকুল",
+      "why_en": "Encompasses all realms of beings under Allah's care."
+    }
+  ],
+  "lesson_en": "Listen to the Quran knowing that your Lord and Creator is speaking to you.",
+  "lesson_bn": "কুরআন শুনুন এই বিশ্বাস নিয়ে যে আপনার রব ও সৃষ্টিকর্তা আপনার সাথে কথা বলছেন।",
+  "real_life_en": "When a man gets an official letter from the king, he reads every word with care. The Quran comes from the Lord of all creation, so we must listen with full respect.",
+  "real_life_bn": "রাষ্ট্রপ্রধানের কোনো জরুরি চিঠি এলে মানুষ তা অত্যন্ত গুরুত্ব দিয়ে পড়ে। কুরআন সমগ্র মহাবিশ্বের রবের পক্ষ থেকে পাঠানো হয়েছে, তাই এর প্রতিটি কথা গভীর শ্রদ্ধার সাথে মেনে চলা উচিত।",
+  "themes": [
+    "the Quran",
+    "revelation",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "belief",
+    "praise"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "rabb-al-alamin",
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quran is a divine revelation sent down from the Lord of all creation to Prophet Muhammad ﷺ.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

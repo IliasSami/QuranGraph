@@ -1,0 +1,91 @@
+{
+  "id": "57:9",
+  "simple_en": "It is Allah who sends down clear verses upon His servant Muhammad ﷺ to guide you. He brings you out from the darkness of disbelief and ignorance into the light of faith and knowledge. Allah is full of tenderness and mercy toward you.",
+  "simple_bn": "তিনিই আল্লাহ, যিনি তাঁর বান্দা মুহাম্মদ ﷺ-এর উপর সুস্পষ্ট আয়াতসমূহ নাযিল করেন, যাতে তিনি তোমাদেরকে কুফরী ও অজ্ঞতার অন্ধকার থেকে ঈমান ও জ্ঞানের আলোর দিকে বের করে আনেন। নিশ্চয়ই আল্লাহ তোমাদের প্রতি পরম স্নেহশীল ও দয়ালু।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نزل",
+      "lemma": "نَزَّلَ",
+      "meaning_en": "sends down",
+      "meaning_bn": "নাযিল করেন",
+      "why_en": "Refers to the gradual revelation of the Quran from Allah."
+    },
+    {
+      "pos": 6,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "verses",
+      "meaning_bn": "আয়াতসমূহ",
+      "why_en": "The clear signs and verses of the Quran that provide guidance."
+    },
+    {
+      "pos": 10,
+      "root": "ظلم",
+      "lemma": "ظُلُمَة",
+      "meaning_en": "the darknesses",
+      "meaning_bn": "অন্ধকারসমূহ",
+      "why_en": "Represents the darkness of disbelief, sin, and spiritual ignorance."
+    },
+    {
+      "pos": 12,
+      "root": "نور",
+      "lemma": "نُور",
+      "meaning_en": "the light",
+      "meaning_bn": "আলো",
+      "why_en": "Represents the shining clarity of faith, truth, and righteous deeds."
+    }
+  ],
+  "lesson_en": "Seek guidance in the Quran, which leads you out of confusion into light.",
+  "lesson_bn": "কুরআনের মাধ্যমে হেদায়াত সন্ধান করুন, যা আপনাকে সংশয়ের অন্ধকার থেকে আলোর পথে নিয়ে যায়।",
+  "real_life_en": "A woman feels lost and anxious about her future. She begins reading the Quran with understanding each morning. Its clear words bring calm to her mind and guide her daily choices, replacing her confusion with hope.",
+  "real_life_bn": "ভবিষ্যৎ নিয়ে এক নারী ভীষণ দুশ্চিন্তাগ্রস্ত হয়ে পড়েন। তিনি প্রতিদিন সকালে অর্থ বুঝে কুরআন তিলাওয়াত করতে শুরু করেন। কুরআনের স্পষ্ট উপদেশ তাঁর মনে শান্তি এনে দেয় এবং দ্বিধা দূর করে সঠিক পথ দেখায়।",
+  "themes": [
+    "revelation",
+    "the Quran",
+    "Prophet Muhammad ﷺ",
+    "Allah's mercy"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "ar-rauf",
+      "ar-rahim"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah reveals clear verses upon His servant Muhammad ﷺ to lead people from darkness into light.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Allah is Kind and Merciful in sending guidance for people's salvation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

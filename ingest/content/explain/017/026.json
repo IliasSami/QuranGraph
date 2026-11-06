@@ -1,0 +1,62 @@
+{
+  "id": "17:26",
+  "simple_en": "Give relatives their rightful due, and help the poor and the needy traveler. Do not spend your money wastefully on things that bring no good.",
+  "simple_bn": "আত্মীয়স্বজনকে তাদের প্রাপ্য অধিকার দাও এবং অভাবগ্রস্ত ও মুসাফিরকেও সাহায্য করো। আর কিছুতেই অর্থসম্পদ অপব্যয় করো না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "قرب",
+      "lemma": "قُرْبَى",
+      "meaning_en": "the relative",
+      "meaning_bn": "আত্মীয়স্বজন",
+      "why_en": "Upholding family ties and sharing wealth."
+    },
+    {
+      "pos": 5,
+      "root": "سكن",
+      "lemma": "مِسْكِين",
+      "meaning_en": "the poor",
+      "meaning_bn": "অভাবগ্রস্ত",
+      "why_en": "Caring for vulnerable members of society."
+    }
+  ],
+  "lesson_en": "Help your family and the poor. Sharing what you have brings peace and blessings to your town.",
+  "lesson_bn": "আত্মীয়স্বজন ও অভাবীদের হক আদায় করা এবং অপচয় পরিহার করা সমাজের অর্থনৈতিক ভারসাম্য রক্ষা করে।",
+  "real_life_en": "Give part of your income to poor relatives and neighbors. Spend wisely on what matters instead of wasting cash on fancy toys.",
+  "real_life_bn": "অপ্রয়োজনীয় বিলাসিতা পরিহার করে আপনার উপার্জনের কিছু অংশ গরিব আত্মীয়স্বজন ও অভাবী প্রতিবেশীর সাহায্যে খরচ করুন।",
+  "themes": [
+    "charity",
+    "relatives",
+    "wastefulness",
+    "moderation"
+  ],
+  "kinds": [
+    "command",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers must give relatives, the poor, and travelers their rights and avoid wasteful spending.",
+      "claim_bn": "আত্মীয়স্বজন, মিসকীন ও মুসাফিরদের হক দেওয়ার এবং ধনসম্পদের অপচয় বর্জন করার নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

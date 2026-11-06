@@ -1,0 +1,92 @@
+{
+ "id": "7:19",
+ "simple_en": "Allah welcomed Adam and his wife to live in Paradise. He permitted them to eat freely and enjoy all its pure delights. However, Allah placed one clear limit. He commanded them not to approach one specific tree. If they ate from it, they would be guilty of disobeying Allah's bounds.",
+ "simple_bn": "আল্লাহ আদম এবং তাঁর স্ত্রী হাওয়াকে জান্নাতে বসবাসের অনুমতি দিলেন। তিনি তাদের ইচ্ছামতো জান্নাতের পবিত্র ও সুস্বাদু নেয়ামত উপভোগ করার অধিকার দিলেন। কিন্তু তিনি একটি নির্দিষ্ট গাছের কাছে যেতে নিষেধ করলেন। তিনি সাবধান করে দিলেন যে, এর কাছে গেলে তারা সীমালঙ্ঘনকারীদের অন্তর্ভুক্ত হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سكن",
+   "lemma": "سَكَنَ",
+   "meaning_en": "dwell",
+   "meaning_bn": "বসবাস করো",
+   "why_en": "Allah's permission for Adam and Eve to reside in Paradise."
+  },
+  {
+   "pos": 11,
+   "root": "قرب",
+   "lemma": "يَقْرَبُ",
+   "meaning_en": "do not approach",
+   "meaning_bn": "কাছেও যেও না",
+   "why_en": "The divine prohibition warning against coming near the forbidden tree."
+  },
+  {
+   "pos": 13,
+   "root": "شجر",
+   "lemma": "شَجَرَة",
+   "meaning_en": "this tree",
+   "meaning_bn": "এই বৃক্ষ",
+   "why_en": "The specific forbidden tree that served as their test in Paradise."
+  }
+ ],
+ "lesson_en": "Enjoy what is lawful. Stay far away from whatever Allah has forbidden.",
+ "lesson_bn": "হালাল নেয়ামত আনন্দের সাথে গ্রহণ করুন এবং হারামের সীমানা থেকে দূরে থাকুন।",
+ "real_life_en": "Allah makes thousands of good things permissible for us and forbids only a few harmful ones. Focus on the halal bounties around you. When something is forbidden, do not even go near it or test your willpower.",
+ "real_life_bn": "আল্লাহ আমাদের জন্য অগণিত হালাল বস্তু উন্মুক্ত রেখেছেন এবং অল্প কিছু বিষয় হারাম করেছেন। বৈধ উপভোগে সন্তুষ্ট থাকুন। যে কাজে পাপের ঝুঁকি থাকে, তার ধারেকাছেও যাবেন না।",
+ "context_en": "Adam and Eve are placed in Paradise with vast freedom, tested by a single prohibition regarding a tree.",
+ "context_bn": "আদম ও হাওয়া আলাইহিমাস সালামকে জান্নাতে বসবাস ও অফুরন্ত নেয়ামত ভোগের স্বাধীনতা দিয়ে একটি নির্দিষ্ট গাছের ব্যাপারে পরীক্ষা করা হয়।",
+ "themes": [
+  "Paradise",
+  "Adam and Eve",
+  "the forbidden tree",
+  "divine boundaries"
+ ],
+ "kinds": [
+  "story",
+  "command",
+  "prohibition",
+  "law"
+ ],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve"
+  ],
+  "nations": [],
+  "places": [
+   "Paradise"
+  ],
+  "unseen": [
+   "Paradise"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "the forbidden tree"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah permitted Adam and his wife to dwell in Paradise and partake freely of its pleasant fruits and provisions.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah strictly forbade them from approaching a specific tree, warning that doing so would make them wrongdoers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

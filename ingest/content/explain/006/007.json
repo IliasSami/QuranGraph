@@ -1,0 +1,75 @@
+{
+  "id": "6:7",
+  "simple_en": "Even if Allah had sent down a physical book written on parchment from heaven, and these deniers touched it with their own hands, they still would not believe. Their stubbornness runs so deep that they would simply dismiss it. They would claim it was only an illusion or obvious magic.",
+  "simple_bn": "আল্লাহ যদি আপনার ওপর কাগজে লিখিত কোনো কিতাব আকাশ থেকে সরাসরি অবতীর্ণ করতেন এবং তারা তা নিজ হাতে স্পর্শও করত, তবুও কাফেররা ঈমান আনত না। তাদের চরম অহংকারের কারণে তারা অবলীলায় বলে বসত যে, এটি স্পষ্ট যাদু ছাড়া আর কিছুই নয়।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "قرطس",
+      "lemma": "قِرْطاس",
+      "meaning_en": "parchment / paper",
+      "meaning_bn": "কাগজ বা পার্চমেন্ট",
+      "why_en": "Highlights a physical, tangible book falling from heaven."
+    },
+    {
+      "pos": 7,
+      "root": "لمس",
+      "lemma": "لَمَسُ",
+      "meaning_en": "they touched it",
+      "meaning_bn": "তারা তা স্পর্শ করল",
+      "why_en": "Emphasizes absolute physical confirmation by touch."
+    },
+    {
+      "pos": 15,
+      "root": "سحر",
+      "lemma": "سِحْر",
+      "meaning_en": "magic / sorcery",
+      "meaning_bn": "যাদু",
+      "why_en": "Exposes the stubborn excuse used to reject undeniable truth."
+    }
+  ],
+  "lesson_en": "Stubborn minds will never accept truth, no matter what proof they see.",
+  "lesson_bn": "অহংকার ও একগুঁয়েমি মানুষকে সত্যের সুস্পষ্ট প্রমাণ থেকেও অন্ধ করে রাখে।",
+  "real_life_en": "Some people refuse to listen no matter what you say. Do not waste time in bitter arguments. Share truth with gentle words. Put your effort into helping those who truly seek guidance.",
+  "real_life_bn": "যে ব্যক্তি গোঁড়ামি করে সত্য অস্বীকার করতে চায়, তাকে অযথা তর্ক দিয়ে বোঝানো যায় না। তাই যারা আন্তরিকভাবে সত্য জানতে আগ্রহী, তাদের কাছে সুন্দরভাবে দ্বীনের দাওয়াত তুলে ধরুন।",
+  "context_en": "Reveals that the polytheists' demand for visual signs was insincere, as their obstinate hearts would label any miracle as magic.",
+  "context_bn": "মুশরিকদের অলৌকিক নিদর্শন চাওয়ার ভণ্ডামি উন্মোচন করা হয়েছে; তারা চাক্ষুষ প্রমাণ পেয়েও তাকে যাদু বলে উড়িয়ে দিত।",
+  "themes": [
+    "stubbornness",
+    "demanding miracles",
+    "accusation of sorcery"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "written book on parchment"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Even if a tangible written book had descended from heaven and they felt it with their hands, disbelievers would call it clear magic.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

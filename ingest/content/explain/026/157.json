@@ -1,0 +1,67 @@
+{
+  "id": "26:157",
+  "simple_en": "Yet they cut her legs and killed her in defiance. Soon after their crime, they saw the signs of punishment and were filled with deep regret.",
+  "simple_bn": "কিন্তু তারা সেই উষ্ট্রীকে হত্যা করল, অতঃপর তারা আসন্ন শাস্তি প্রত্যক্ষ করে অনুতপ্ত হয়ে পড়ল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "عقر",
+      "lemma": "عَقَرَ",
+      "meaning_en": "they hamstrung / killed",
+      "meaning_bn": "তারা হত্যা করল",
+      "why_en": "The rebellious act of slaying the she-camel in defiance."
+    },
+    {
+      "pos": 3,
+      "root": "ندم",
+      "lemma": "نادِم",
+      "meaning_en": "regretful",
+      "meaning_bn": "লজ্জিত ও অনুতপ্ত",
+      "why_en": "Their futile remorse once they saw punishment approaching."
+    }
+  ],
+  "lesson_en": "Reckless sins bring bitter regret. Think before you act.",
+  "lesson_bn": "পাপ কাজ করার পর অনুশোচনা আসে, কিন্তু শাস্তি নেমে আসার পর সেই অনুতাপ কোনো উপকারে আসে না। হটকারিতা মানুষকে চরম বিপদের মুখে ফেলে।",
+  "real_life_en": "Think before you act on an angry impulse. Regret after doing harm cannot undo the pain you cause to others.",
+  "real_life_bn": "ক্ষণিকের আবেগে বা বন্ধুদের চাপে কোনো খারাপ কাজে জড়াবেন না। কোনো ভুল করার আগেই তার পরিণতি নিয়ে গভীরভাবে চিন্তা করুন।",
+  "themes": [
+    "defiance",
+    "regret",
+    "rebellion"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "salih"
+    ],
+    "nations": [
+      "thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "camel"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Despite the clear warning, they hamstrung and killed the she-camel, but soon became filled with useless remorse when they saw signs of inevitable ruin.",
+      "claim_bn": "সতর্কবার্তা সত্ত্বেও তারা উষ্ট্রীটিকে হত্যা করল, কিন্তু যখন শাস্তি অনিবার্য হয়ে উঠল তখন তারা বৃথা অনুতপ্ত হলো।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": "9:81",
+  "simple_en": "Those who stayed behind rejoiced in sitting at home instead of following the Messenger of Allah. They hated to strive with their wealth and lives in the cause of Allah. They said: Do not go out in the heat. Say: The Fire of Hell is far hotter, if only they understood.",
+  "simple_bn": "যারা ঘরে বসে রইল তারা আল্লাহর রাসূলের সাথে না গিয়ে নিজেদের অবস্থানেই আনন্দিত হলো। তারা আল্লাহর পথে নিজেদের ধন ও জীবন দিয়ে সংগ্রাম করাকে অপছন্দ করল। তারা বলল: এই গরমের মধ্যে অভিযানে বের হয়ো না। বলুন: জাহান্নামের আগুন এর চেয়ে অনেক বেশি উত্তপ্ত, যদি তারা বুঝত!",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "فرح",
+      "lemma": "فَرِحَ",
+      "meaning_en": "rejoiced / was happy",
+      "meaning_bn": "আনন্দিত হলো",
+      "why_en": "Petty joy in avoiding duty and sacrifice."
+    },
+    {
+      "pos": 3,
+      "root": "قعد",
+      "lemma": "مَقْعَد",
+      "meaning_en": "sitting back / staying behind",
+      "meaning_bn": "বসে থাকা / পেছনে পড়ে থাকা",
+      "why_en": "Choosing idle comfort over community service."
+    },
+    {
+      "pos": 19,
+      "root": "حرر",
+      "lemma": "حَرّ",
+      "meaning_en": "heat",
+      "meaning_bn": "উত্তাপ / তীব্র গরম",
+      "why_en": "The flimsy excuse of summer heat used to evade hardship."
+    }
+  ],
+  "lesson_en": "Do not let small physical discomforts keep you from doing what is right.",
+  "lesson_bn": "সাময়িক কষ্ট বা গরমের অজুহাতে মহৎ ও প্রয়োজনীয় দায়িত্ব থেকে পালিয়ে বেড়ানো উচিত নয়।",
+  "real_life_en": "Do not skip vital community work or good deeds just because the weather is bad or the task feels tiring. Small comfort today brings regret later.",
+  "real_life_bn": "আবহাওয়া খারাপ বা কাজটি কঠিন—এমন সামান্য অজুহাতে ভালো কাজ থেকে পিছিয়ে থাকবেন না; আজকের আরাম যেন কালকের অনুশোচনার কারণ না হয়।",
+  "themes": [
+    "laziness in duty",
+    "flimsy excuses",
+    "Fire of Hell"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [
+      "Tabuk"
+    ],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Expedition of Tabuk"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites stayed behind during the heat of Tabuk and discouraged others, but Allah reminded them that Hellfire is incomparably hotter.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

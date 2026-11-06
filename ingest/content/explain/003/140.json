@@ -1,0 +1,112 @@
+{
+ "id": "3:140",
+ "simple_en": "If you suffered wounds at Uhud, your opponents suffered similar wounds at Badr. Allah rotates these days of victory and defeat among people through His deep wisdom. He does this to distinguish true believers from pretenders and to choose martyrs from among you. Allah does not love the wrongdoers.",
+ "simple_bn": "উহুদের দিনে যদি তোমরা আঘাত পেয়ে থাকো, তবে কাফিররাও তো ইতিপূর্বে অনুরূপ আঘাত পেয়েছিল। আল্লাহ মানুষের মাঝে জয়-পরাজয়ের দিনগুলোর আবর্তন ঘটান। এর উদ্দেশ্য হলো খাঁটি মুমিনদের প্রকাশ করা এবং তোমাদের মধ্য থেকে শহীদদের মনোনীত করা। আর আল্লাহ সীমালঙ্ঘনকারীদের ভালোবাসেন না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "قرح",
+   "lemma": "قَرْح",
+   "meaning_en": "a wound or injury",
+   "meaning_bn": "আঘাত বা ক্ষত",
+   "why_en": "Refers to the physical wounds and heavy losses endured during the battle."
+  },
+  {
+   "pos": 11,
+   "root": "دول",
+   "lemma": "نُداوِلُ",
+   "meaning_en": "We alternate them",
+   "meaning_bn": "আমরা আবর্তন ঘটাই",
+   "why_en": "Describes Allah rotating worldly fortunes between ease and trial among nations."
+  },
+  {
+   "pos": 20,
+   "root": "شهد",
+   "lemma": "شَهِيد",
+   "meaning_en": "martyrs",
+   "meaning_bn": "শহীদদের",
+   "why_en": "Those chosen by Allah for the supreme honor of giving their lives in His cause."
+  },
+  {
+   "pos": 24,
+   "root": "ظلم",
+   "lemma": "ظالِم",
+   "meaning_en": "the wrongdoers",
+   "meaning_bn": "জালিমদের",
+   "why_en": "Those who overstep limits and oppress others are denied Allah's love."
+  }
+ ],
+ "lesson_en": "Life alternates between ease and hardship to test sincere faith and grant high honor.",
+ "lesson_bn": "সুখ ও দুঃখের পালাবদলের মাধ্যমে আল্লাহ ঈমানের পরীক্ষা নেন এবং খাঁটি বান্দাকে সম্মানিত করেন।",
+ "real_life_en": "When life feels tough, remember that conditions never stay the same. Hard days pass just like happy days did. Stay patient, stay truthful, and let the trial refine your character.",
+ "real_life_bn": "কঠিন সময় অতিক্রম করার সময় মনে রাখবেন যে সুদিনের মতো দুর্দিনও একদিন কেটে যাবে। ধৈর্য ধরে সৎ পথে অবিচল থাকুন; সংকট আপনার অন্তরের ঈমানকে আরও উজ্জ্বল করে তোলে।",
+ "context_en": "Explains the divine wisdom behind the shifting fortunes of war at Badr and Uhud: testing faith and granting the gift of martyrdom.",
+ "context_bn": "বদর ও উহুদের জয়-পরাজয়ের পেছনের ঐশী হিকমত বর্ণনা করে মুমিনদের ঈমান পরীক্ষা ও শাহাদাতের মর্যাদার কথা স্পষ্ট করা হয়েছে।",
+ "themes": [
+  "trials",
+  "faith",
+  "struggle in Allah's way",
+  "justice",
+  "Allah's knowledge"
+ ],
+ "kinds": [
+  "argument",
+  "promise",
+  "story",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Uhud",
+   "Badr"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Battle of Uhud",
+   "Battle of Badr"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "If the believers suffered casualties and wounds at Uhud, the disbelievers had suffered similar losses at Badr.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah alternates days of victory and defeat among people according to His profound wisdom.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "These alternating fortunes serve to make true believers manifest and to honor chosen individuals with martyrdom.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah does not love the wrongdoers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

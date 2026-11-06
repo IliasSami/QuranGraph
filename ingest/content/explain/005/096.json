@@ -1,0 +1,81 @@
+{
+ "id": "5:96",
+ "simple_en": "Catching water game and eating food from the sea is lawful for you, both as food for residents and as travel food for wayfarers. But hunting game on land remains forbidden while you wear the pilgrim garments. Fear Allah, before whom all of you will be gathered.",
+ "simple_bn": "তোমাদের ও মুসাফিরদের উপকারার্থে সমুদ্রের শিকার ও তার খাদ্য তোমাদের জন্য হালাল করা হয়েছে। কিন্তু যতক্ষণ তোমরা ইহরাম অবস্থায় থাকবে, ততক্ষণ স্থলের শিকার তোমাদের জন্য হারাম। আর তোমরা সেই আল্লাহকে ভয় করো, যাঁর কাছে তোমাদের সমবেত করা হবে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "بحر",
+   "lemma": "بَحْر",
+   "meaning_en": "the sea / water",
+   "meaning_bn": "সমুদ্র বা জলাশয়",
+   "why_en": "Water game is allowed as a mercy and practical relief for travelers."
+  },
+  {
+   "pos": 12,
+   "root": "برر",
+   "lemma": "بَرّ",
+   "meaning_en": "the land",
+   "meaning_bn": "স্থলভাগ",
+   "why_en": "Land game is prohibited during ihram to preserve the sanctity of pilgrimage."
+  },
+  {
+   "pos": 20,
+   "root": "حشر",
+   "lemma": "حَشَرَ",
+   "meaning_en": "you will be gathered",
+   "meaning_bn": "তোমাদেরকে সমবেত করা হবে",
+   "why_en": "Reminds believers of the Day of Judgment when all deeds are laid bare."
+  }
+ ],
+ "lesson_en": "Accept the ease that Allah grants, and respect the limits He sets.",
+ "lesson_bn": "আল্লাহ যে ক্ষেত্রে ছাড় দিয়েছেন তা গ্রহণ করা এবং যেখানে নিষেধাজ্ঞা দিয়েছেন তা মেনে চলা মু’মিনের কর্তব্য।",
+ "real_life_en": "A family travels by sea during Hajj. They catch and eat fresh fish, knowing water food is lawful. But they never hunt on land, honoring the command of Allah.",
+ "real_life_bn": "যাত্রাপথে কিছু হাজী সমুদ্রের মাছ শিকার করে খাদ্য হিসেবে গ্রহণ করেন, কারণ আল্লাহ তা হালাল করেছেন। তবে স্থলের কোনো প্রাণী শিকার করা থেকে তারা সম্পূর্ণ বিরত থাকেন।",
+ "context_en": "Clarifies that sea game is allowed while land game is banned during ihram.",
+ "context_bn": "ইহরাম অবস্থায় সমুদ্রের শিকার হালাল কিন্তু স্থলের শিকার হারাম হওয়ার বিধান স্পষ্টকরণ।",
+ "themes": [
+  "hajj",
+  "Allah's mercy",
+  "taqwa",
+  "resurrection"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "prohibition",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Water game and sea food are made lawful for residents and travelers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Hunting land game is forbidden while in the state of ihram.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

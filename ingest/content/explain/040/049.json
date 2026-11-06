@@ -1,0 +1,75 @@
+{
+  "id": "40:49",
+  "simple_en": "Those suffering in the Fire will plead with the angel keepers of Hell. They will beg them, Pray to your Lord to lighten this severe torment for just a single day.",
+  "simple_bn": "জাহান্নামের আগুনে বন্দিরা সেখানকার দায়িত্বপ্রাপ্ত ফেরেশতাদের অনুরোধ করে বলবে, তোমরা তোমাদের রবের নিকট দোয়া করো, যেন তিনি অন্তত একটি দিনের জন্য আমাদের শাস্তি কিছুটা হালকা করেন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "خزن",
+      "lemma": "خَزَنَت",
+      "meaning_en": "the keepers",
+      "meaning_bn": "প্রহরীগণ",
+      "why_en": "The stern guardian angels stationed over Hell."
+    },
+    {
+      "pos": 6,
+      "root": null,
+      "lemma": "جَهَنَّم",
+      "meaning_en": "Hell",
+      "meaning_bn": "জাহান্নাম",
+      "why_en": "The intense fire prepared for the unrepentant."
+    },
+    {
+      "pos": 9,
+      "root": "خفف",
+      "lemma": "خَفَّفَ",
+      "meaning_en": "He lightens",
+      "meaning_bn": "তিনি লাঘব করবেন",
+      "why_en": "Desperate plea for even a brief respite from torment."
+    }
+  ],
+  "lesson_en": "The pain of Hell is continuous, with no relief for those who chose denial.",
+  "lesson_bn": "সত্য অস্বীকারকারীদের জন্য জাহান্নামের কঠোর আজাবে কোনো বিরতি বা লাঘব থাকবে না।",
+  "real_life_en": "Value the gift of time in this life. Turn to Allah today with good deeds before a day comes when even a single hour of relief cannot be found.",
+  "real_life_bn": "পার্থিব জীবনের প্রতিটি মুহূর্তকে মূল্যায়ন করুন। সময় থাকতেই নেক আমল করুন, যাতে পরকালে সামান্যতম স্বস্তির জন্য হাহাকার করতে না হয়।",
+  "themes": [
+    "Hell",
+    "angels",
+    "warning"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell",
+      "angels"
+    ],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The inmates of the Fire will beg the keepers of Hell to pray to Allah to lighten one day of punishment.",
+      "claim_bn": "জাহান্নামবাসীরা প্রহরীদের কাছে একদিনের শাস্তি লাঘবের জন্য আল্লাহর নিকট দোয়ার অনুরোধ জানাবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

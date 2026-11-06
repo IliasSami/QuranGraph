@@ -1,0 +1,64 @@
+{
+  "id": "37:117",
+  "simple_en": "Allah granted Prophet Musa and Harun the clear Scripture, the Torah. It explained divine laws in plain terms. It taught the difference between right and wrong, guiding the people toward justice.",
+  "simple_bn": "আল্লাহ নবী মূসা ও হারূনকে সুস্পষ্ট কিতাব তাওরাত দান করেছিলেন। এতে সহজ ভাষায় বিধানগুলো ব্যাখ্যা করা হয়েছিল। এই কিতাব সত্য ও মিথ্যার পার্থক্য পরিষ্কার করে মানুষকে সঠিক পথ দেখিয়েছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Scripture",
+      "meaning_bn": "কিতাব",
+      "why_en": "Refers to the sacred Torah given to Musa and his brother."
+    },
+    {
+      "pos": 3,
+      "root": "بين",
+      "lemma": "مُسْتَبِين",
+      "meaning_en": "clear / plain",
+      "meaning_bn": "সুস্পষ্ট বা বিশদ",
+      "why_en": "Describes the clarity and plain wisdom of the revelation."
+    }
+  ],
+  "lesson_en": "Divine scripture gives clear rules to guide our daily lives.",
+  "lesson_bn": "ঐশী কিতাব মানুষের দৈনন্দিন জীবনের জন্য সুস্পষ্ট পথনির্দেশ দান করে।",
+  "real_life_en": "Turn to the Quran to guide your choices. When you read divine guidance with understanding, it clears away doubt and lights your path.",
+  "real_life_bn": "দৈনন্দিন জীবনে সঠিক পথ পেতে কুরআন অধ্যয়ন করুন। বুঝে কুরআন পড়লে মনের বিভ্রান্তি দূর হয় এবং চলার পথ স্পষ্ট হয়।",
+  "themes": [
+    "revelation",
+    "Torah",
+    "guidance"
+  ],
+  "kinds": [
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "musa",
+      "harun"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah gave Musa and Harun the clear Scripture, which was the Torah.",
+      "claim_bn": "আল্লাহ মূসা ও হারূনকে সুস্পষ্ট কিতাব তাওরাত দান করেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

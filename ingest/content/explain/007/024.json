@@ -1,0 +1,85 @@
+{
+ "id": "7:24",
+ "simple_en": "Allah commanded Adam, Eve, and Satan to descend to earth. He decreed that enmity would exist between mankind and Satan, as well as among human beings. The earth was made a temporary home with provisions for a fixed time. Life here is a test until an appointed term.",
+ "simple_bn": "আল্লাহ আদম, হাওয়া এবং শয়তানকে পৃথিবীতে নেমে যাওয়ার নির্দেশ দিলেন। তিনি জানিয়ে দিলেন যে মানুষ ও শয়তানের মধ্যে শত্রুতা বজায় থাকবে। পৃথিবীকে মানুষের জন্য নির্দিষ্ট মেয়াদের অস্থায়ী বাসস্থান ও জীবনোপকরণ হিসেবে নির্ধারণ করা হয়েছে। এই পার্থিব জীবন হলো একটি ক্ষণস্থায়ী পরীক্ষা।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "هبط",
+   "lemma": "يَهْبِطُ",
+   "meaning_en": "descend / go down",
+   "meaning_bn": "তোমরা নেমে যাও",
+   "why_en": "The divine command to leave Paradise and settle upon the earth."
+  },
+  {
+   "pos": 5,
+   "root": "عدو",
+   "lemma": "عَدُوّ",
+   "meaning_en": "enemy",
+   "meaning_bn": "শত্রু",
+   "why_en": "Describes the lasting enmity between mankind and Satan on earth."
+  },
+  {
+   "pos": 9,
+   "root": "قرر",
+   "lemma": "مُسْتَقَرّ",
+   "meaning_en": "dwelling place / settlement",
+   "meaning_bn": "বসবাসের স্থান",
+   "why_en": "Affirms that the earth is a temporary abode for humanity."
+  }
+ ],
+ "lesson_en": "Life on earth is short. Satan is your open enemy who wants your ruin.",
+ "lesson_bn": "দুনিয়ার জীবন অত্যন্ত ক্ষণস্থায়ী। শয়তানের শত্রুতা সম্পর্কে সর্বদা সজাগ থাকুন এবং পরকালের প্রস্তুতি নিন।",
+ "real_life_en": "Do not treat this world as your permanent resting place. It is a temporary dwelling for testing your faith. Keep your guard up against the whisperings of Satan every single day.",
+ "real_life_bn": "দুনিয়াকে চিরস্থায়ী ঠিকানা মনে করে গাফেল হবেন না। এটি পরকালের পরীক্ষার জন্য সাময়িক স্থান মাত্র। প্রতিদিনের জীবনে শয়তানের কুপ্ররোচনা থেকে নিজেকে রক্ষা করুন।",
+ "context_en": "Allah decrees that humanity and Satan dwell on earth with lasting enmity until the end of time.",
+ "context_bn": "আল্লাহ আদম, হাওয়া ও ইবলিসকে জান্নাত থেকে পৃথিবীতে নেমে যাওয়ার হুকুম দেন এবং দুনিয়াকে ক্ষণস্থায়ী কর্মক্ষেত্র বানান।",
+ "themes": [
+  "descent to earth",
+  "enmity of Satan",
+  "temporary world"
+ ],
+ "kinds": [
+  "command",
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve"
+  ],
+  "nations": [],
+  "places": [
+   "earth"
+  ],
+  "unseen": [
+   "Iblis (Satan)"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah ordered Adam, Eve, and Satan to descend to the earth where they would dwell as mutual enemies for an appointed term.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Earthly life provides temporary settlement and provision until death arrives.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

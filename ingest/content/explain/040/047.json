@@ -1,0 +1,89 @@
+{
+  "id": "40:47",
+  "simple_en": "The people of the Fire will argue with each other in deep regret. The weak followers will say to their arrogant leaders, We followed you in the world. Can you take away any part of the Fire from us today?",
+  "simple_bn": "জাহান্নামের অধিবাসীরা পরস্পর তর্কে লিপ্ত হবে। দুর্বল অনুসারীরা তাদের অহংকারী নেতাদের বলবে, আমরা তো দুনিয়াতে তোমাদের কথাই মেনে চলেছিলাম। আজ কি তোমরা আমাদের এই আগুনের শাস্তির কিছুটা অংশ নিজেদের কাঁধে নেবে?",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حجج",
+      "lemma": "يَتَحاجُّ",
+      "meaning_en": "they dispute / argue",
+      "meaning_bn": "তারা বাদানুবাদ করবে",
+      "why_en": "Mutual recriminations and blame inside the blazing Fire."
+    },
+    {
+      "pos": 6,
+      "root": "ضعف",
+      "lemma": "ضَعِيف",
+      "meaning_en": "the weak / followers",
+      "meaning_bn": "দুর্বল অনুসারীগণ",
+      "why_en": "Those who abandoned their own conscience to obey unjust elites."
+    },
+    {
+      "pos": 8,
+      "root": "كبر",
+      "lemma": "اسْتَكْبَرَ",
+      "meaning_en": "were arrogant",
+      "meaning_bn": "অহংকার করেছিল",
+      "why_en": "The leaders who led people astray through pride and intimidation."
+    },
+    {
+      "pos": 15,
+      "root": "غني",
+      "lemma": "مُغْني",
+      "meaning_en": "relieving / bearing away",
+      "meaning_bn": "লাঘবকারী",
+      "why_en": "The futile hope that former leaders could lighten their torment."
+    },
+    {
+      "pos": 17,
+      "root": "نصب",
+      "lemma": "نَصِيب",
+      "meaning_en": "a portion / share",
+      "meaning_bn": "কিছু অংশ",
+      "why_en": "Seeking even a fractional reduction in punishment."
+    }
+  ],
+  "lesson_en": "Blindly following bad leaders will not save anyone from the Fire.",
+  "lesson_bn": "অসৎ নেতাদের অন্ধ অনুসরণ কাউকে আল্লাহর ন্যায়বিচার থেকে রক্ষা করতে পারে না।",
+  "real_life_en": "Do not follow trends or leaders blindly when they ask you to do wrong. You will answer for your own deeds before your Lord.",
+  "real_life_bn": "সমাজ বা নেতাদের অন্ধ অনুসরণ করে কোনো অন্যায় কাজে জড়াবেন না। মনে রাখবেন, নিজের কৃতকর্মের দায় আপনাকে একাই বহন করতে হবে।",
+  "themes": [
+    "Hell",
+    "the Last Day",
+    "arrogance",
+    "judgment"
+  ],
+  "kinds": [
+    "hereafter",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Inmates of Hell will dispute, with followers asking leaders to carry part of their punishment.",
+      "claim_bn": "জাহান্নামে অনুসারী ও নেতাদের মধ্যে বিতর্ক হবে এবং অনুসারীরা শাস্তির অংশ বহন করার আবেদন করবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

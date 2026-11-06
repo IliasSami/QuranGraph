@@ -1,0 +1,79 @@
+{
+  "id": "20:121",
+  "simple_en": "Both Adam and Eve ate from the tree. Their private parts became exposed, so they gathered leaves to cover themselves. Adam erred and slipped from his command.",
+  "simple_bn": "অতঃপর তারা উভয়ে সেই গাছ থেকে খেল। সাথে সাথে তাদের লজ্জাস্থান প্রকাশ পেয়ে গেল এবং তারা জান্নাতের পাতা দিয়ে নিজেদের ঢাকতে লাগল। এভাবে আদম ভুল করল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أكل",
+      "lemma": "أَكَلَ",
+      "meaning_en": "they both ate",
+      "meaning_bn": "তারা উভয়ে খেল",
+      "why_en": "The actual physical act violating the prohibition."
+    },
+    {
+      "pos": 7,
+      "root": "خصف",
+      "lemma": "يَخْصِفَانِ",
+      "meaning_en": "fastening or sewing together",
+      "meaning_bn": "তারা জোড়া লাগাতে লাগল",
+      "why_en": "Modesty prompting an immediate effort to cover nakedness."
+    },
+    {
+      "pos": 10,
+      "root": "ورق",
+      "lemma": "وَرَق",
+      "meaning_en": "leaves of Paradise",
+      "meaning_bn": "জান্নাতের পাতা",
+      "why_en": "Natural clothing used to preserve decency."
+    }
+  ],
+  "lesson_en": "Sin strips away dignity and peace. Covering one's body is a pure instinct that comes from faith.",
+  "lesson_bn": "পাপ মানুষের আত্মিক ও শারীরিক আবরণ কেড়ে নেয়। লজ্জা ও শালীনতাবোধ মানুষের জন্মগত পবিত্র স্বভাব।",
+  "real_life_en": "Guard your modesty and dignity in all circumstances. Decency in dress and conduct is a core pillar of righteous living.",
+  "real_life_bn": "পোশাক ও ব্যবহারে সর্বদা শালীনতা বজায় রাখুন। লজ্জা ও ভদ্রতা ঈমানের অন্যতম প্রধান গুণ।",
+  "themes": [
+    "innate-modesty",
+    "fall-of-man",
+    "adam-and-eve"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Adam",
+      "Hawwa"
+    ],
+    "nations": [],
+    "places": [
+      "Paradise"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Eating from the Tree"
+    ],
+    "things": [
+      "tree",
+      "leaves"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Adam and Eve ate from the tree, realized their nakedness, and covered themselves with leaves.",
+      "claim_bn": "আদম ও হাওয়া নিষিদ্ধ গাছের ফল খাওয়ার পর তাদের লজ্জা প্রকাশ পায় এবং তারা পাতা দিয়ে তা ঢেকে ফেলে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

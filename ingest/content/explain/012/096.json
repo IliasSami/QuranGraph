@@ -1,0 +1,83 @@
+{
+  "id": "12:96",
+  "simple_en": "The messenger of good news arrived and placed the shirt over Yaqub's face. His sight returned at once. Yaqub reminded his people that he knew from Allah things they did not understand.",
+  "simple_bn": "সুসংবাদবাহক এসে ইয়াকুবের চেহারার ওপর ইউসুফের জামাটি রাখল। সাথে সাথে তাঁর দৃষ্টিশক্তি ফিরে এল। ইয়াকুব সঙ্গীদের মনে করিয়ে দিলেন যে, তিনি আল্লাহর পক্ষ থেকে এমন কিছু জানতেন যা তারা জানত না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "بشر",
+      "lemma": "بَشِير",
+      "meaning_en": "bearer of good news",
+      "meaning_bn": "সুসংবাদবাহক",
+      "why_en": "The joyful messenger who brought the shirt from Egypt."
+    },
+    {
+      "pos": 5,
+      "root": "لقي",
+      "lemma": "أَلْقَى",
+      "meaning_en": "cast it",
+      "meaning_bn": "নিক্ষেপ করল",
+      "why_en": "Placing the fragrant garment directly on Yaqub's eyes."
+    },
+    {
+      "pos": 8,
+      "root": "ردد",
+      "lemma": "ارْتَدَّ",
+      "meaning_en": "he returned",
+      "meaning_bn": "ফিরে পেলেন",
+      "why_en": "Instant divine restoration of Yaqub's vision."
+    },
+    {
+      "pos": 9,
+      "root": "بصر",
+      "lemma": "بَصِير",
+      "meaning_en": "seeing",
+      "meaning_bn": "দৃষ্টিশক্তি সম্পন্ন",
+      "why_en": "Confirms the full return of eyesight after years of blindness."
+    }
+  ],
+  "lesson_en": "Allah rewards patient trust with joy that removes every trace of past pain.",
+  "lesson_bn": "ধৈর্যের সাথে আল্লাহর ওপর ভরসা রাখলে তিনি এমন আনন্দ দেন যা অতীতের সব দুঃখ ভুলিয়ে দেয়।",
+  "real_life_en": "A family prays for their sick child for years. At last, a good doctor helps him get well. Their home fills with deep joy.",
+  "real_life_bn": "একটি পরিবার তাদের অসুস্থ সন্তানের চিকিৎসার জন্য বছরের পর বছর ধৈর্য ধরে। অবশেষে একটি চিকিৎসায় সন্তান সম্পূর্ণ সুস্থ হয়ে ওঠে এবং পরিবারে অনাবিল আনন্দ ফিরে আসে।",
+  "context_en": "The shirt was cast onto Yaqub's face, restoring his sight and confirming his trust in Allah.",
+  "context_bn": "ইয়াকুবের মুখে জামা রাখতেই তাঁর দৃষ্টি ফিরে এল এবং আল্লাহর প্রতি তাঁর অগাধ বিশ্বাস সত্য প্রমাণিত হলো।",
+  "themes": [
+    "healing",
+    "divine promise",
+    "trust in Allah"
+  ],
+  "kinds": [
+    "story",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "Yaqub",
+      "Yusuf"
+    ],
+    "nations": [],
+    "places": [
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "shirt of Yusuf"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The shirt restored Yaqub's sight, and he reminded his family of what Allah taught him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,70 @@
+{
+  "id": "10:13",
+  "simple_en": "We destroyed previous generations when they did wrong and refused to believe their messengers who brought clear proofs. This is how We repay people who commit crimes against truth.",
+  "simple_bn": "তোমাদের পূর্বে বহু জাতিকে আমরা ধ্বংস করেছি যখন তারা জুলুম করেছিল। তাদের কাছে তাদের রাসূলগণ স্পষ্ট প্রমাণ নিয়ে এসেছিলেন, কিন্তু তারা ঈমান আনতে প্রস্তুত ছিল না। অপরাধী জাতিকে আমরা এভাবেই প্রতিফল দিয়ে থাকি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "We destroyed",
+      "meaning_bn": "আমরা ধ্বংস করেছি",
+      "why_en": "Historic downfall of oppressive ancient societies."
+    },
+    {
+      "pos": 10,
+      "root": "بين",
+      "lemma": "بَيِّنَة",
+      "meaning_en": "clear proofs",
+      "meaning_bn": "সুস্পষ্ট প্রমাণসমূহ",
+      "why_en": "Evident miracles and undeniable rational teachings."
+    },
+    {
+      "pos": 17,
+      "root": "جرم",
+      "lemma": "مُجْرِم",
+      "meaning_en": "criminals / offenders",
+      "meaning_bn": "অপরাধী সম্প্রদায়",
+      "why_en": "Stubborn persistence in oppression and rejection of justice."
+    }
+  ],
+  "lesson_en": "No society can stay strong if it treats weak people with cruelty.",
+  "lesson_bn": "জুলুম ও অহংকারের পথ বেছে নিলে কোনো প্রতাপশালী জাতিই ধ্বংসের হাত থেকে রেহাই পায় না।",
+  "real_life_en": "Look at the ruins of past empires. Power without ethics always leads to collapse. Make justice the foundation of your community.",
+  "real_life_bn": "ইতিহাস থেকে শিক্ষা নিন; অন্যায় ও অত্যাচার কখনোই কোনো সমাজকে চিরস্থায়ী শান্তি বা উন্নতি দিতে পারে না।",
+  "themes": [
+    "destroyed generations",
+    "clear proofs",
+    "justice against criminals"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "past generations"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Earlier civilizations were justly destroyed after receiving clear proofs from messengers because they persistently committed oppression.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

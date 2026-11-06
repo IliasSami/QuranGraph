@@ -1,0 +1,87 @@
+{
+  "id": "40:61",
+  "simple_en": "Allah is the One who made the night for you to rest from your work, and made the day bright so you can see and earn. Allah is full of bounty for all people, but most people do not give thanks.",
+  "simple_bn": "আল্লাহই তোমাদের জন্য রাতকে বিশ্রামের সময় করেছেন এবং দিনকে আলোকময় করেছেন যাতে তোমরা দেখতে পারো। নিশ্চয়ই আল্লাহ মানুষের প্রতি পরম অনুগ্রহশীল, কিন্তু অধিকাংশ মানুষই কৃতজ্ঞতা প্রকাশ করে না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "ليل",
+      "lemma": "لَيْل",
+      "meaning_en": "the night",
+      "meaning_bn": "রাত",
+      "why_en": "The period of calm designed for human rest and renewal."
+    },
+    {
+      "pos": 6,
+      "root": "سكن",
+      "lemma": "سَكَنَ",
+      "meaning_en": "that you rest",
+      "meaning_bn": "যাতে তোমরা বিশ্রাম নাও",
+      "why_en": "Bodily rest provided through the natural cycle of darkness."
+    },
+    {
+      "pos": 8,
+      "root": "نهر",
+      "lemma": "نَهار",
+      "meaning_en": "the day",
+      "meaning_bn": "দিন",
+      "why_en": "The bright hours of daylight for seeking livelihood."
+    },
+    {
+      "pos": 9,
+      "root": "بصر",
+      "lemma": "مُبْصِر",
+      "meaning_en": "giving sight / bright",
+      "meaning_bn": "আলোকোজ্জ্বল",
+      "why_en": "Enabling clear vision and purposeful activity."
+    },
+    {
+      "pos": 13,
+      "root": "فضل",
+      "lemma": "فَضْل",
+      "meaning_en": "bounty / grace",
+      "meaning_bn": "অনুগ্রহ",
+      "why_en": "Vast divine generosity granted to humanity daily."
+    }
+  ],
+  "lesson_en": "Daily cycles of rest and light are gifts that call for heartfelt gratitude.",
+  "lesson_bn": "রাত ও দিনের সুন্দর আবর্তন আল্লাহর বিশেষ নিয়ামত, যার জন্য আমাদের সর্বদা কৃতজ্ঞ থাকা উচিত।",
+  "real_life_en": "When you go to sleep at night or wake up to the morning light, thank your Lord. Use your day productively and your night peacefully in His remembrance.",
+  "real_life_bn": "রাতে ঘুমানোর সময় এবং সকালে ঘুম থেকে ওঠার পর আল্লাহর শোকর আদায় করুন। দিনকে সৎকাজে এবং রাতকে পরিমিত বিশ্রামে কাজে লাগান।",
+  "themes": [
+    "signs in nature",
+    "gratitude",
+    "creation"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah made night for rest and day bright for seeing, bestowing bounty on humanity, yet most are ungrateful.",
+      "claim_bn": "আল্লাহ রাতকে বিশ্রামের ও দিনকে কাজের জন্য আলোকময় করেছেন, তবে অধিকাংশ মানুষই কৃতজ্ঞতা প্রকাশ করে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

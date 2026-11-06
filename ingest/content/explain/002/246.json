@@ -1,0 +1,105 @@
+{
+ "id": "2:246",
+ "simple_en": "After the time of Prophet Moses (peace be upon him), leaders of the Children of Israel asked their prophet to appoint a king so they could fight for Allah's cause. Their prophet warned them that they might back out when duty was made binding. They insisted they would fight, yet when fighting was commanded, most retreated. Only a faithful few remained steadfast. Allah knows well who breaks their promises.",
+ "simple_bn": "মুসা (আলাইহিস সালাম)-এর পরবর্তী যুগে বনী ইসরাঈলের একদল নেতা তাদের নবীকে একজন রাজা নিযুক্ত করতে বলল, যাতে তারা তাঁর নেতৃত্বে আল্লাহর পথে যুদ্ধ করতে পারে। তাদের নবী তাদের সতর্ক করে বললেন, যদি যুদ্ধ ফরজ করা হয় তবে তোমরা হয়তো যুদ্ধ করবে না। তারা দাবি করল যে নিজেদের ঘরবাড়ি ও সন্তানসন্ততি থেকে বিতাড়িত হওয়ার পর তারা অবশ্যই লড়াই করবে। কিন্তু যখন যুদ্ধ ফরজ করা হলো, তখন অল্প কয়েকজন ছাড়া তারা সবাই পৃষ্ঠপ্রদর্শন করল। আল্লাহ এই অঙ্গীকারভঙ্গকারী জালিমদের সম্পর্কে পূর্ণ অবগত।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "ملأ",
+   "lemma": "مَلَأ",
+   "meaning_en": "the elders / notables",
+   "meaning_bn": "নেতৃস্থানীয় ব্যক্তিরা",
+   "why_en": "Refers to the prominent chiefs who made public demands but faltered when tested."
+  },
+  {
+   "pos": 17,
+   "root": "ملك",
+   "lemma": "مَلِك",
+   "meaning_en": "a king / leader",
+   "meaning_bn": "একজন রাজা বা সেনাপতি",
+   "why_en": "They sought unified military leadership under a monarch to rally their dispersed forces."
+  },
+  {
+   "pos": 48,
+   "root": "ولي",
+   "lemma": "تَوَلَّى",
+   "meaning_en": "they turned away",
+   "meaning_bn": "তারা পৃষ্ঠপ্রদর্শন করল",
+   "why_en": "Exposes the failure of most people to honor their solemn pledges when sacrifice is demanded."
+  },
+  {
+   "pos": 50,
+   "root": "قلل",
+   "lemma": "قَلِيل",
+   "meaning_en": "a few",
+   "meaning_bn": "অল্প কয়েকজন",
+   "why_en": "Highlights that true steadfastness and sincere obedience are often found in a small minority."
+  }
+ ],
+ "lesson_en": "Do not make big promises to help unless you are ready to keep your word when tested.",
+ "lesson_bn": "পরীক্ষার সম্মুখীন হওয়ার পূর্বে বড় বড় প্রতিজ্ঞা করবেন না; বরং যে প্রতিশ্রুতি দেন তা পূরণ করার মতো আন্তরিক প্রস্তুতি রাখুন।",
+ "real_life_en": "People often enthusiastically volunteer for hard charity tasks or leadership roles, but quickly drop out when real sacrifices of time and money begin. Be honest with your limits. When you give your word to help a good cause, stay faithful and do not turn back.",
+ "real_life_bn": "অনেকে আবেগের বশে কোনো কঠিন দায়িত্ব বা সমাজসেবার প্রতিশ্রুতি দিয়ে বসে, কিন্তু বাস্তবে পরিশ্রম ও ত্যাগের সময় এলে কেটে পড়ে। নিজের সামর্থ্য সম্পর্কে সচেতন হোন এবং ভালো কোনো কাজে অঙ্গীকার করলে মুখে বড় কথা না বলে শেষ পর্যন্ত অবিচল থাকুন।",
+ "context_en": "Illustrates the reality of human commitment through historical events of Bani Israel, showing how people often ask for duties they fail to fulfill.",
+ "context_bn": "বনী ইসরাঈলের ঐতিহাসিক ঘটনার মাধ্যমে মানুষের প্রতিশ্রুতির দুর্বলতা তুলে ধরা হয়েছে, যেখানে অনেকেই বড় দাবি করলেও কাজের সময় পিছিয়ে যায়।",
+ "themes": [
+  "Children of Israel",
+  "past nations",
+  "keeping promises",
+  "trials",
+  "hypocrisy",
+  "struggle in Allah's way"
+ ],
+ "kinds": [
+  "story",
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Musa"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Leaders of Bani Israel asked their prophet to appoint a king so they could unite and fight for Allah's cause.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Despite their insistence that they would fight due to being expelled, most turned away once fighting was decreed.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Only a small steadfast group kept their word, and Allah knows all who break divine covenants.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "30:58",
+  "simple_en": "God has given every kind of wise example in this Quran to teach people. Yet if you show the deniers a sign, they say you are only speaking lies.",
+  "simple_bn": "আর আমি মানুষের জন্য এ কুরআনে সব ধরনের দৃষ্টান্ত পেশ করেছি। আপনি যদি তাদের কাছে কোনো নিদর্শন নিয়ে আসেন, তবে কাফিররা অবশ্যই বলবে যে তোমরা মিথ্যাবাদী ছাড়া কিছুই নও।",
+  "key_words": [
+    {
+      "pos": 6,
+      "arabic": "ٱلْقُرْءَانِ",
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "the Quran",
+      "meaning_bn": "কুরআন",
+      "why_en": "The divine scripture containing vivid examples for all humanity."
+    },
+    {
+      "pos": 9,
+      "arabic": "مَثَلٍ",
+      "root": "مثل",
+      "lemma": "مَثَل",
+      "meaning_en": "an example / parable",
+      "meaning_bn": "দৃষ্টান্ত",
+      "why_en": "Clear moral parables provided by God to guide human minds."
+    }
+  ],
+  "lesson_en": "The Quran contains complete guidance and parables for all people. Stubborn denial comes from closed minds, not from a lack of proof.",
+  "lesson_bn": "কুরআনে হিদায়াতের সবরকম বাস্তব উদাহরণ রয়েছে। কিন্তু একগুঁয়ে মনোভাব মানুষকে সত্য দেখা থেকে বঞ্চিত করে।",
+  "real_life_en": "Read the parables of the Quran with an open heart. Do not let stubborn pride keep you from accepting truth when it is presented clearly.",
+  "real_life_bn": "কুরআনের উপদেশ ও দৃষ্টান্তগুলো মনোযোগ দিয়ে পড়ো। সত্যের প্রমাণ পাওয়ার পর কোনোপ্রকার গোঁড়ামি করো না।",
+  "themes": [
+    "quranic-parables",
+    "signs",
+    "rejection"
+  ],
+  "kinds": [
+    "parable",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God has set forth every kind of lesson in this Quran, yet hardened disbelievers dismiss all miracles as falsehood.",
+      "claim_bn": "আল্লাহ এ কুরআনে সব ধরনের দৃষ্টান্ত দিয়েছেন, তবুও কাফিররা যেকোনো নিদর্শনকে বাতিল বলে আখ্যা দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

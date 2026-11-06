@@ -1,0 +1,62 @@
+{
+  "id": "16:116",
+  "simple_en": "Do not falsely claim with your own tongues that this is lawful and that is forbidden, making up lies against Allah. False speakers will never prosper.",
+  "simple_bn": "তোমাদের জিহ্বা থেকে মনগড়া কথা বলে আল্লাহর প্রতি মিথ্যা আরোপ করো না যে এটি হালাল এবং ওটি হারাম। নিশ্চয় যারা মিথ্যা বানায় তারা কখনো সফল হবে না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "لسن",
+      "lemma": "لِسان",
+      "meaning_en": "your tongues",
+      "meaning_bn": "তোমাদের জিহ্বা",
+      "why_en": "Speaking unauthorized religious rulings."
+    },
+    {
+      "pos": 6,
+      "root": "كذب",
+      "lemma": "كَذِب",
+      "meaning_en": "falsehood",
+      "meaning_bn": "মিথ্যা",
+      "why_en": "Fabricating restrictions in God's name."
+    }
+  ],
+  "lesson_en": "Only God has the authority to declare things halal or haram. Inventing religious taboos is a grave crime.",
+  "lesson_bn": "হালাল ও হারাম নির্ধারণের একক অধিকার আল্লাহর। মনগড়া ধর্মীয় বিধান তৈরি করা মারাত্মক পাপ।",
+  "real_life_en": "Do not declare things forbidden or permissible on personal whim. Base your moral speech on authentic divine knowledge.",
+  "real_life_bn": "নিজের খেয়ালখুশিমতো কোনো কিছুকে ধর্মের নামে হারাম বা হালাল বলবেন না। সঠিক জ্ঞান ছাড়া ফতোয়া দেওয়া থেকে বিরত থাকুন।",
+  "themes": [
+    "halal",
+    "haram",
+    "fabrication",
+    "authority"
+  ],
+  "kinds": [
+    "prohibition",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Do not utter lies describing what is lawful and forbidden to invent lies against Allah, for such people will not succeed.",
+      "claim_bn": "জিহ্বার মনগড়া কথায় এটা হালাল ও ওটা হারাম বলে আল্লাহর ওপর মিথ্যা আরোপ করো না, এমন মিথ্যাবাদীরা সফল হবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

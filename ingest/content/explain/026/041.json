@@ -1,0 +1,66 @@
+{
+  "id": "26:41",
+  "simple_en": "When the magicians arrived, they asked Pharaoh if they would receive a reward if they won the contest. They were focused on money and worldly gain.",
+  "simple_bn": "অতঃপর জাদুকরেরা এসে ফিরআউনকে বলল, আমরা যদি মূসার ওপর বিজয়ী হই তবে আমাদের জন্য কি কোনো বিরাট আর্থিক পুরস্কার থাকবে?",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "ٱلسَّحَرَةُ",
+      "root": "سحر",
+      "lemma": "ساحِر",
+      "meaning_en": "the magicians",
+      "meaning_bn": "যাদুকরগণ",
+      "why_en": "The sorcerers seeking compensation before the contest."
+    },
+    {
+      "pos": 8,
+      "arabic": "لَأَجْرًا",
+      "root": "أجر",
+      "lemma": "أَجْر",
+      "meaning_en": "a reward",
+      "meaning_bn": "পুরস্কার",
+      "why_en": "Financial and worldly remuneration for their services."
+    }
+  ],
+  "lesson_en": "Those who work for falsehood are often driven only by wealth, fame, and quick profit.",
+  "lesson_bn": "মিথ্যার সেবকেরা সর্বদা দুনিয়াবি স্বার্থ, অর্থ ও মর্যাদার আশায় কাজ করে। তাদের কোনো আন্তরিক আদর্শ থাকে না।",
+  "real_life_en": "Check your motives before starting any important task. Work for sincere values rather than chasing worldly praise and profit.",
+  "real_life_bn": "স্বার্থপরতার ঊর্ধ্বে উঠে নীতিবান হোন। পার্থিব লোভের বশে কোনো অন্যায়ের হাতিয়ার হবেন না।",
+  "themes": [
+    "greed",
+    "worldly-gain",
+    "magicians"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Contest with the Magicians"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Upon arrival the magicians sought worldly reward and compensation if they triumphed.",
+      "claim_bn": "যাদুকরেরা উপস্থিত হয়ে ফিরআউনের কাছে বিজয়ী হলে জাগতিক পুরস্কারের নিশ্চয়তা দাবি করল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

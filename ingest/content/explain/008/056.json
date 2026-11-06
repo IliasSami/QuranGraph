@@ -1,0 +1,78 @@
+{
+  "id": "8:56",
+  "simple_en": "These are the ones with whom you made a solemn peace treaty, but they break their pledge every single time. They show no fear of God and have no regard for honesty.",
+  "simple_bn": "যাদের সাথে তুমি চুক্তি করেছিলে, অথচ তারা প্রতিবারই তাদের চুক্তি ভঙ্গ করে এবং আল্লাহকে বিন্দুমাত্র ভয় করে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عهد",
+      "lemma": "عاهَدَ",
+      "meaning_en": "you made a treaty",
+      "meaning_bn": "তুমি চুক্তি করেছিলে",
+      "why_en": "Entering into binding agreements of mutual peace."
+    },
+    {
+      "pos": 5,
+      "root": "نقض",
+      "lemma": "نَقَضَتْ",
+      "meaning_en": "they break / violate",
+      "meaning_bn": "তারা ভঙ্গ করে",
+      "why_en": "Habitual betrayal of sworn promises."
+    },
+    {
+      "pos": 6,
+      "root": "عهد",
+      "lemma": "عَهْد",
+      "meaning_en": "their covenant",
+      "meaning_bn": "তাদের চুক্তি বা অঙ্গীকার",
+      "why_en": "The treaty commitments they treat with contempt."
+    }
+  ],
+  "lesson_en": "Breaking your word again and again shows a dead heart.",
+  "lesson_bn": "বারংবার প্রতিশ্রুতি ভঙ্গ করা চরম নৈতিক অধঃপতন ও অবিশ্বস্ততার লক্ষণ।",
+  "real_life_en": "Keep your promises, even when things get tough. Never go back on your word. Being an honest person is the best gift you can give.",
+  "real_life_bn": "লিখিত চুক্তি এবং মৌখিক অঙ্গীকার সর্বদা রক্ষা করুন। পরিস্থিতি যেমনই হোক, বিশ্বস্ততা বজায় রাখা একজন প্রকৃত মুমিনের পরিচয়।",
+  "context_en": "Highlighting tribes like the Banu Qurayzah who repeatedly violated peace accords made with the Muslim state.",
+  "context_bn": "মদিনার আশপাশের যেসব গোত্র রাসুলুল্লাহ (সা.)-এর সাথে সন্ধি করেও বারবার তা ভঙ্গ করত তাদের মুখোশ উন্মোচন।",
+  "themes": [
+    "treaties",
+    "betrayal",
+    "keeping promises",
+    "integrity"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "treaty breakers",
+      "Banu Qurayzah"
+    ],
+    "places": [
+      "Medina"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Certain hostile groups habitually break their covenants every time without fearing Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

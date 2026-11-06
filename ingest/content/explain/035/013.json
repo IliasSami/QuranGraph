@@ -1,0 +1,74 @@
+{
+  "id": "35:13",
+  "simple_en": "Allah causes the night to pass into the day and the day into the night. He made the sun and the moon run on their courses until a fixed time known only to Him. That is Allah, your Lord; all authority belongs to Him. Those false gods you worship besides Him do not own even the thin skin around a date stone.",
+  "simple_bn": "আল্লাহ রাতকে দিনে এবং দিনকে রাতে প্রবেশ করান। তিনি সূর্য ও চাঁদকে নিয়মের অধীন করেছেন, যা নির্ধারিত সময় পর্যন্ত আবর্তিত হয়। তিনিই আল্লাহ, তোমাদের প্রতিপালক। সমস্ত সার্বভৌমত্ব তাঁরই। আর তাঁকে বাদ দিয়ে তোমরা যাদের ডাকো, তারা খেজুরের আঁটির পাতলা খোসারও মালিক নয়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ولج",
+      "lemma": "يُولِجُ",
+      "meaning_en": "merges / enters",
+      "meaning_bn": "প্রবেশ করান",
+      "why_en": "Refers to the smooth changing lengths of day and night through seasons."
+    },
+    {
+      "pos": 8,
+      "root": "ليل",
+      "lemma": "لَيْل",
+      "meaning_en": "subjected",
+      "meaning_bn": "বশীভূত করেছেন",
+      "why_en": "Shows the sun and moon obeying divine laws to serve living creatures."
+    },
+    {
+      "pos": 28,
+      "root": "قطمر",
+      "lemma": "قِطْمِير",
+      "meaning_en": "skin of a date stone",
+      "meaning_bn": "খেজুরের আঁটির পাতলা পর্দা",
+      "why_en": "A striking metaphor demonstrating that false idols own nothing at all."
+    }
+  ],
+  "lesson_en": "Allah controls the cosmos, while false gods do not possess the slightest speck.",
+  "lesson_bn": "নিখিল বিশ্ব একমাত্র আল্লাহর নিয়ন্ত্রণে, আর কল্পিত উপাস্যরা সামান্যতম বস্তুরও মালিক নয়।",
+  "real_life_en": "Look at the sunrise and sunset. Trust in the Lord who directs the sun and moon every single day, rather than placing your ultimate hopes in created beings.",
+  "real_life_bn": "সূর্যোদয় ও সূর্যাস্তের নিখুঁত নিয়মের দিকে তাকান। সৃষ্টির কাছে কোনো সাহায্য না চেয়ে যিনি সমগ্র মহাবিশ্ব পরিচালনা করছেন, কেবল তাঁরই ওপর ভরসা রাখুন।",
+  "themes": [
+    "tawhid",
+    "creation",
+    "signs in nature",
+    "allah's power"
+  ],
+  "kinds": [
+    "argument",
+    "description-of-allah",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah alternates day and night, commands the sun and moon, and false deities do not own even the skin of a date seed.",
+      "claim_bn": "আল্লাহ দিন-রাতের আবর্তন ঘটান, সূর্য-চাঁদকে নিয়ন্ত্রণ করেন এবং মিথ্যা উপাস্যরা খেজুরের আঁটির খোসারও মালিক নয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "22:66",
+  "simple_en": "He is the One who gave you life, then causes you to die, and will bring you back to life. Truly, man is very ungrateful for divine gifts.",
+  "simple_bn": "আর তিনিই তোমাদের জীবন দান করেছেন, অতঃপর তিনি তোমাদের মৃত্যু ঘটাবেন এবং পরবর্তীতে পুনরায় জীবিত করবেন। নিশ্চয়ই মানুষ বড়ই অকৃতজ্ঞ।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حيي",
+      "lemma": "أَحْيا",
+      "meaning_en": "He gave you life",
+      "meaning_bn": "তিনি তোমাদের জীবন দিয়েছেন",
+      "why_en": "God is the Author of life, death, and resurrection."
+    },
+    {
+      "pos": 10,
+      "root": "كفر",
+      "lemma": "كَفُور",
+      "meaning_en": "surely ungrateful",
+      "meaning_bn": "নিশ্চয়ই অত্যন্ত অকৃতজ্ঞ",
+      "why_en": "Human tendency to forget divine gifts and show ingratitude."
+    }
+  ],
+  "lesson_en": "God controls the full cycle of life, death, and resurrection. Human beings often forget this great debt.",
+  "lesson_bn": "জীবন, মৃত্যু এবং পুনরুত্থানের পূর্ণ নিয়ন্ত্রণ একমাত্র আল্লাহর হাতে। অধিকাংশ মানুষ এই চরম সত্য ভুলে অকৃতজ্ঞতায় লিপ্ত হয়।",
+  "real_life_en": "Remember where your life came from and where it will go. Thank God every morning for the gift of a new day.",
+  "real_life_bn": "স্মরণ রাখুন আপনার জীবনের সূচনা ও শেষ কোথায়। প্রতিদিন সকালে নতুন একটি দিনের জন্য আল্লাহর কৃতজ্ঞতা স্বীকার করুন।",
+  "themes": [
+    "life-and-death",
+    "resurrection",
+    "ingratitude"
+  ],
+  "kinds": [
+    "creation",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Resurrection"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God grants initial life, causes physical death, and will resurrect human beings, yet mankind frequently defaults to ingratitude.",
+      "claim_bn": "আল্লাহই মানুষকে জীবন দিয়েছেন, তিনিই মৃত্যু ঘটান এবং তিনিই আবার জীবিত করবেন, কিন্তু মানুষ বড়ই অকৃতজ্ঞ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

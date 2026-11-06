@@ -1,0 +1,75 @@
+{
+  "id": "35:22",
+  "simple_en": "The living and the dead are not equal. Believers are truly alive through faith, while deniers are spiritually dead. Allah causes whoever He wills to hear and accept the message. But you, O Prophet, cannot make those who are dead in their graves hear your call.",
+  "simple_bn": "জীবিত ও মৃত কখনো এক সমান হতে পারে না। মুমিনরা ঈমানের মাধ্যমে জীবিত, আর সত্য অস্বীকারকারীরা আত্মিকভাবে মৃত। আল্লাহ যাকে ইচ্ছা হিদায়াতের কথা শোনান। কিন্তু হে নবী, কবরে শুয়ে থাকা মৃতদের আপনি কথা শোনাতে পারবেন না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حيي",
+      "lemma": "حَيّ",
+      "meaning_en": "the living",
+      "meaning_bn": "জীবিতগণ",
+      "why_en": "Refers to believers whose hearts are vibrant with faith and truth."
+    },
+    {
+      "pos": 5,
+      "root": "موت",
+      "lemma": "مَيِّت",
+      "meaning_en": "the dead",
+      "meaning_bn": "মৃতগণ",
+      "why_en": "Refers to disbelievers whose hearts are spiritually unresponsive to guidance."
+    },
+    {
+      "pos": 16,
+      "root": "قبر",
+      "lemma": "قَبْر",
+      "meaning_en": "the graves",
+      "meaning_bn": "কবরসমূহ",
+      "why_en": "Illustrates the inability of stubborn deniers to benefit from advice."
+    }
+  ],
+  "lesson_en": "Faith breathes life into human hearts, and spiritual hearing is a gift from Allah.",
+  "lesson_bn": "ঈমান মানুষের অন্তরে আসল প্রাণ সঞ্চার করে এবং সত্য উপলব্ধি আল্লাহর এক বিশেষ দান।",
+  "real_life_en": "Do not grow frustrated when someone stubbornly refuses wise advice. Speak with kindness, set a good example, and remember that only Allah can open closed hearts.",
+  "real_life_bn": "কাউকে ভালো কথা বোঝানোর পরও সে না মানলে হতাশ হবেন না। সুন্দর আচরণের মাধ্যমে দাওয়াত দিতে থাকুন এবং অন্তরের পরিবর্তনের জন্য আল্লাহর ওপর ভরসা রাখুন।",
+  "themes": [
+    "faith",
+    "disbelief",
+    "guidance",
+    "parable"
+  ],
+  "kinds": [
+    "parable",
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The living and dead are not equal; Allah guides whom He wills, while the Prophet cannot make the buried hear.",
+      "claim_bn": "জীবিত ও মৃত এক সমান নয়; আল্লাহ যাকে ইচ্ছা শোনান, কিন্তু রাসুল কবরে থাকা মৃতদের শোনাতে পারেন না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

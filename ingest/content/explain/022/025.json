@@ -1,0 +1,67 @@
+{
+  "id": "22:25",
+  "simple_en": "Those who reject faith and block people from God's way and the Sacred Mosque face a severe punishment. God made this sanctuary open to all believers alike. Anyone who seeks evil in it will taste painful torment.",
+  "simple_bn": "যারা সত্য প্রত্যাখ্যান করে এবং মানুষকে আল্লাহর পথ ও পবিত্র মসজিদুল হারাম থেকে বাধা দেয়, তারা কঠিন শাস্তি পাবে। সেখানে যে অন্যায় পথ খুঁজবে, তাকে যন্ত্রণাদায়ক শাস্তি দেওয়া হবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "صدد",
+      "lemma": "صَدَّ",
+      "meaning_en": "they avert or bar",
+      "meaning_bn": "বাধা দেয় বা নিবৃত্ত করে",
+      "why_en": "Disbelievers block seekers from the way of God and His Sanctuary."
+    },
+    {
+      "pos": 20,
+      "root": "لحد",
+      "lemma": "إِلْحاد",
+      "meaning_en": "deviation or wrongdoing",
+      "meaning_bn": "অসদাচরণ বা সীমালঙ্ঘন",
+      "why_en": "Seeking wicked deviation inside the Sacred Mosque brings severe torment."
+    }
+  ],
+  "lesson_en": "The Sacred Mosque is open to all believers. Harming the holy site or blocking pilgrims brings severe punishment from God.",
+  "lesson_bn": "মসজিদুল হারাম পৃথিবীর সকল মুমিনের জন্য সমান অধিকারের স্থান। পবিত্র ঘরের পবিত্রতা নষ্ট করলে বা হাজিদের বাধা দিলে আল্লাহর কঠিন শাস্তি নেমে আসে।",
+  "real_life_en": "Honor mosques and holy places with respect. Welcome visitors from near and far with kindness, care, and warm hospitality.",
+  "real_life_bn": "মসজিদের পবিত্রতা ও সম্মান রক্ষা করুন। দূর-দূরান্ত থেকে আসা মেহমান ও মুসল্লিদের সমতার সাথে সাদরে বরণ করে নিন।",
+  "themes": [
+    "al-masjid-al-haram",
+    "equality-of-sanctuary",
+    "blocking-pilgrims",
+    "severe-punishment"
+  ],
+  "kinds": [
+    "law",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "Makkah",
+      "Al-Masjid al-Haram"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Al-Masjid al-Haram"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God condemns those who obstruct access to the Sacred Mosque—which is open equally to all—and warns that any wrongdoing within it incurs painful punishment.",
+      "claim_bn": "আল্লাহ মসজিদুল হারামে যেতে বাধা প্রদানকারীদের নিন্দা করেছেন এবং ঘোষণা করেছেন যে সেখানে কোনো অন্যায় করতে চাইলে তাকে কঠিন শাস্তি দেওয়া হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

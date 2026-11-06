@@ -1,0 +1,77 @@
+{
+ "id": "72:21",
+ "simple_en": "The Prophet makes his human role clear. He tells the people that he does not control their harm or their benefit. He cannot force guidance into anyone's heart, nor can he keep away any trial decreed by Allah. All power to help or guide rests with Allah alone.",
+ "simple_bn": "নবী নিজের মানবিক ভূমিকা স্পষ্টভাবে তুলে ধরেছেন। তিনি মানুষকে বলেন, তাদের কোনো ক্ষতি বা কল্যাণ করার ক্ষমতা তাঁর হাতে নেই। তিনি কারো মনে জোর করে হিদায়েত দিতে পারেন না, আবার আল্লাহর নির্ধারিত বিপদও দূর করতে পারেন না। সবকিছুর ক্ষমতা কেবল আল্লাহর হাতেই।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "ملك",
+   "lemma": "مَلَكَتْ",
+   "meaning_en": "I do not possess, control",
+   "meaning_bn": "আমার কোনো ক্ষমতা নেই",
+   "why_en": "Negating supernatural control over creation's fate."
+  },
+  {
+   "pos": 6,
+   "root": "ضرر",
+   "lemma": "ضَرّ",
+   "meaning_en": "harm, loss",
+   "meaning_bn": "ক্ষতি",
+   "why_en": "Warding off harm is entirely in Allah's hands."
+  },
+  {
+   "pos": 8,
+   "root": "رشد",
+   "lemma": "رَشَد",
+   "meaning_en": "guidance, benefit",
+   "meaning_bn": "কল্যাণ, সঠিক পথ",
+   "why_en": "Granting guidance is the exclusive power of Allah."
+  }
+ ],
+ "lesson_en": "Put your complete trust in Allah. No human, however noble, can bring you harm or good without Him.",
+ "lesson_bn": "আল্লাহর ওপর পূর্ণ ভরসা রাখুন। কোনো মানুষ, তিনি যত মহানই হোন, আল্লাহর অনুমতি ছাড়া আপনার কোনো ক্ষতি বা লাভ করতে পারেন না।",
+ "real_life_en": "When you feel sick, visit a doctor and take your pills. But pray to Allah for health. The doctor gives care, but only Allah can heal your pain.",
+ "real_life_bn": "অসুস্থ বোধ করলে ডাক্তারের কাছে যান এবং ওষুধ গ্রহণ করুন। তবে সুস্থতার জন্য আল্লাহর কাছেই প্রার্থনা করুন। ডাক্তার সেবা দেন, কিন্তু রোগ সারানোর ক্ষমতা কেবল আল্লাহর হাতে।",
+ "themes": [
+  "power of Allah",
+  "prophethood",
+  "reliance on Allah"
+ ],
+ "kinds": [
+  "command",
+  "belief",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Prophet declared that he possesses no power to harm or guide anyone on his own.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "All benefit and harm are in the control of Allah alone.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

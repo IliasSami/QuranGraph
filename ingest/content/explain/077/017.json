@@ -1,0 +1,62 @@
+{
+ "id": "77:17",
+ "simple_en": "Then Allah caused later generations to follow them in ruin. People who denied the truth faced the same end. No nation can escape Allah's justice.",
+ "simple_bn": "তারপর আল্লাহ তাদের পরবর্তী অবাধ্য জাতিগুলোকেও ধ্বংসের পথে একই পরিণতি দান করেছেন। যারাই কুফরি ও জুলুমের পথ বেছে নিয়েছে, আল্লাহর অমোঘ নিয়ম তাদের পাকড়াও করেছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "تبع",
+   "lemma": "أَتْبَعَ",
+   "meaning_en": "We cause to follow",
+   "meaning_bn": "আমি অনুগামী করি",
+   "why_en": "Shows the consistent repetition of punishment for similar crimes."
+  },
+  {
+   "pos": 3,
+   "root": "أخر",
+   "lemma": "آخِر",
+   "meaning_en": "the later ones",
+   "meaning_bn": "পরবর্তী জাতিসমূহ",
+   "why_en": "Subsequent generations who failed to learn from history."
+  }
+ ],
+ "lesson_en": "Allah's justice applies to all people, both past and present.",
+ "lesson_bn": "আল্লাহর ন্যায়বিচারের নিয়ম সব যুগের মানুষের জন্য একইভাবে প্রযোজ্য।",
+ "real_life_en": "When people repeat old mistakes, they face the same harm. You cannot ignore moral rules and expect peace. Following Allah protects you and your home.",
+ "real_life_bn": "সমাজে যখন পুরনো ভুলের পুনরাবৃত্তি ঘটে, তখন তার পরিণতিও একই রকম হয়। অন্যায় পথে চলে কখনো কল্যাণ আশা করা যায় না। আল্লাহর বিধান মেনে চলাই প্রতিটি প্রজন্মকে ধ্বংস থেকে রক্ষা করে।",
+ "themes": [
+  "past nations",
+  "punishment",
+  "justice"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah caused later rejectors to follow the earlier destroyed nations in punishment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

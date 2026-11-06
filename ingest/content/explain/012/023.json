@@ -1,0 +1,91 @@
+{
+  "id": "12:23",
+  "simple_en": "The wife of the Egyptian nobleman tried to entice Joseph into sin. She bolted the doors securely and called him to come to her. Joseph refused at once and sought refuge in Allah. He said that his master had honored him with a good home, and wrongdoers never prosper.",
+  "simple_bn": "যে মহিলার ঘরে তিনি ছিলেন, সে তাকে প্রলুব্ধ করার চেষ্টা করল। সে সব দরজা বন্ধ করে দিল এবং বলল, কাছে এসো। ইউসুফ বললেন, আল্লাহর আশ্রয় চাই। নিশ্চয় তিনি আমার অভিভাবক, তিনি আমাকে উত্তম আশ্রয় দিয়েছেন; নিশ্চয় জালেমরা কখনো সফল হয় না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "رود",
+      "lemma": "راوَدُ",
+      "meaning_en": "sought to seduce him",
+      "meaning_bn": "প্রলুব্ধ করার চেষ্টা করল",
+      "why_en": "The intense temptation faced by Joseph."
+    },
+    {
+      "pos": 8,
+      "root": "غلق",
+      "lemma": "غَلَّقَتِ",
+      "meaning_en": "she bolted securely",
+      "meaning_bn": "দৃঢ়ভাবে বন্ধ করে দিল",
+      "why_en": "Locking all exits to ensure secrecy."
+    },
+    {
+      "pos": 14,
+      "root": "عوذ",
+      "lemma": "مَعاذ",
+      "meaning_en": "refuge of Allah",
+      "meaning_bn": "আল্লাহর আশ্রয়",
+      "why_en": "Instant spiritual sanctuary against sin."
+    },
+    {
+      "pos": 22,
+      "root": "فلح",
+      "lemma": "أَفْلَحَ",
+      "meaning_en": "will succeed",
+      "meaning_bn": "সফল হবে",
+      "why_en": "The moral reality that betrayal never prospers."
+    },
+    {
+      "pos": 23,
+      "root": "ظلم",
+      "lemma": "ظالِم",
+      "meaning_en": "the wrongdoers",
+      "meaning_bn": "জালেমরা / অন্যায়কারীরা",
+      "why_en": "Those who betray trust and commit adultery."
+    }
+  ],
+  "lesson_en": "Turn away from sin at once, seek shelter in God, and keep your trust.",
+  "lesson_bn": "পাপের প্রলোভন দেখা দিলে সাথে সাথে আল্লাহর আশ্রয় নেওয়া এবং আমানত রক্ষা করা আবশ্যক।",
+  "real_life_en": "When faced with private moral pressure or unethical requests, stand firm. Remember God's watchful eye and refuse to betray those who have treated you well.",
+  "real_life_bn": "একান্তে কোনো অনৈতিক কাজের সুযোগ আসলে আল্লাহকে ভয় করুন। যিনি আপনার ওপর আস্থা রেখেছেন তার সাথে কখনোই বিশ্বাসঘাতকতা করবেন না।",
+  "themes": [
+    "moral purity",
+    "seeking refuge in Allah",
+    "honoring trust",
+    "chastity",
+    "story of Yusuf"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "prohibition",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Wife of Al-Aziz"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Joseph resisted the seduction of his master's wife, immediately invoking Allah's protection and upholding moral fidelity.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

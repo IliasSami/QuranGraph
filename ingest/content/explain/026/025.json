@@ -1,0 +1,65 @@
+{
+  "id": "26:25",
+  "simple_en": "Pharaoh mocked Moses in front of his council. He asked his chiefs if they heard the words of Moses, trying to make them laugh at the message.",
+  "simple_bn": "ফিরআউন তার চারপাশে থাকা পরিষদবর্গকে উদ্দেশ্য করে উপহাসভরে বলল, তোমরা কি শুনতে পাচ্ছ না এই লোক কী বলছে?",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "حَوْلَهُۥٓ",
+      "root": "حول",
+      "lemma": "حَوْل",
+      "meaning_en": "around him",
+      "meaning_bn": "তার আশেপাশে",
+      "why_en": "The courtiers and officials forming Pharaoh's council."
+    },
+    {
+      "pos": 5,
+      "arabic": "تَسْتَمِعُونَ",
+      "root": "سمع",
+      "lemma": "اسْتَمَعَ",
+      "meaning_en": "do you hear",
+      "meaning_bn": "তোমরা কি শুনছো",
+      "why_en": "Pharaoh's mocking question to rally court sentiment against Moses."
+    }
+  ],
+  "lesson_en": "When proud people lack good arguments, they often resort to jokes and mockery.",
+  "lesson_bn": "যুক্তিতে পরাস্ত হলে অহংকারী ব্যক্তিরা জনসমর্থন ধরে রাখতে উপহাস ও বিদ্রূপের আশ্রয় নেয়।",
+  "real_life_en": "Do not let peer pressure or teasing shake your faith. Stand firm when people mock religious values they do not understand.",
+  "real_life_bn": "যুক্তিসঙ্গত আলোচনায় কেউ ঠাট্টা করলে ধৈর্য ধারণ করুন। উপহাস কখনোই সত্যের যুক্তিকে বিলুপ্ত করতে পারে না।",
+  "themes": [
+    "mockery",
+    "peer-pressure",
+    "pharaoh"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh mocked Moses's response before his court officials to sway their opinion.",
+      "claim_bn": "ফিরআউন তার পরিষদবর্গের সামনে মূসার বক্তব্যকে উপহাসের পাত্র বানানোর চেষ্টা করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

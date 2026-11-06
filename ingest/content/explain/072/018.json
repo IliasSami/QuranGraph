@@ -1,0 +1,88 @@
+{
+ "id": "72:18",
+ "simple_en": "Mosques and all places of prostration belong purely to Allah. They are built for His praise and worship alone. Therefore, no one should ever call upon any idol, saint, or creature alongside Allah. Pure monotheism must fill the spaces where heads bow in prayer.",
+ "simple_bn": "মসজিদসমূহ এবং সিজদার সমস্ত স্থান কেবল এক আল্লাহর জন্য নিবেদিত। এগুলো তাঁরই প্রশংসা ও উপাসনার জন্য নির্মিত। অতএব, সিজদায় গিয়ে আল্লাহর সাথে কোনো মূর্তি, কোনো ব্যক্তি বা কোনো সৃষ্টিকে ডাকা যাবে না। যেখানে মাথা নত হয়, সেখানে কেবল এক আল্লাহর ইবাদত হতে হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سجد",
+   "lemma": "مَسْجِد",
+   "meaning_en": "the places of worship, mosques",
+   "meaning_bn": "মসজিদসমূহ",
+   "why_en": "Physical buildings and all places set apart for prayer."
+  },
+  {
+   "pos": 3,
+   "root": "أله",
+   "lemma": "اللَّه",
+   "meaning_en": "for Allah",
+   "meaning_bn": "আল্লাহর জন্য",
+   "why_en": "Dedicated solely to the One Creator."
+  },
+  {
+   "pos": 5,
+   "root": "دعو",
+   "lemma": "دَعا",
+   "meaning_en": "do not invoke, call upon",
+   "meaning_bn": "ডেকো না, আহ্বান করো না",
+   "why_en": "A firm ban on praying to anyone other than Allah."
+  },
+  {
+   "pos": 8,
+   "root": "أحد",
+   "lemma": "أَحَد",
+   "meaning_en": "anyone",
+   "meaning_bn": "কাউকে",
+   "why_en": "Absolute exclusion of all partners or intermediaries."
+  }
+ ],
+ "lesson_en": "Direct your prayers and calls for help to Allah alone, without any partner.",
+ "lesson_bn": "কাউকে শরিক না করে আপনার প্রার্থনা ও সাহায্য চাওয়ার সমস্ত আবেদন কেবল আল্লাহর কাছেই পেশ করুন।",
+ "real_life_en": "When stepping into the mosque, leave pride outside the door. Rich and poor stand shoulder to shoulder. In that quiet hall, every heart calls only upon Allah for help.",
+ "real_life_bn": "মসজিদে ঢোকার সময় সব অহংকার দরজার বাইরে রেখে আসুন। ধনী আর দরিদ্র কাঁধে কাঁধ মিলিয়ে দাঁড়ায়। সেই শান্ত ঘরে প্রতিটি হৃদয় কেবল সাহায্যের জন্য আল্লাহর কাছেই প্রার্থনা করে।",
+ "themes": [
+  "mosques",
+  "monotheism",
+  "tawheed",
+  "prayer"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "masjid"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The places of worship belong exclusively to Allah, so no one should be invoked alongside Him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Mosques are established for pure monotheism, free from any association of partners with Allah.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

@@ -1,0 +1,77 @@
+{
+ "id": "72:15",
+ "simple_en": "The jinn ended this part by saying what waits for the second group. Those who turn away from the straight path will become fuel for Hell, burned there the way wood is burned.",
+ "simple_bn": "জিনরা এ অংশের শেষে বলে দিল, দ্বিতীয় দলের জন্য কী অপেক্ষা করছে। যারা সরল পথ থেকে সরে যায়, তারা জাহান্নামের ইন্ধন হবে, যেমন কাঠ জ্বালিয়ে আগুন জ্বালানো হয়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "قسط",
+   "lemma": "قَاسِط",
+   "meaning_en": "those who deviate",
+   "meaning_bn": "পথভ্রষ্টরা",
+   "why_en": "The same word from the previous ayah is repeated to tie the warning to that group."
+  },
+  {
+   "pos": 4,
+   "root": null,
+   "lemma": "جَهَنَّم",
+   "meaning_en": "Hell",
+   "meaning_bn": "জাহান্নাম",
+   "why_en": "It names the place that the Quran uses for the final punishment of the disobedient."
+  },
+  {
+   "pos": 5,
+   "root": "حطب",
+   "lemma": "حَطَب",
+   "meaning_en": "firewood, fuel",
+   "meaning_bn": "জ্বালানি কাঠ",
+   "why_en": "The image is stark: they do not merely enter the fire, they feed it."
+  }
+ ],
+ "lesson_en": "Turning away from the straight path is not a small matter. It ends in a loss that no one would choose if he really thought about it.",
+ "lesson_bn": "সরল পথ থেকে সরে যাওয়া ছোট বিষয় নয়। এর পরিণতি এমন ক্ষতি, যা কেউ সত্যিই ভাবলে কখনো বেছে নিত না।",
+ "real_life_en": "A friend keeps skipping Friday prayer because work is busy. You need not preach at him. Remind him gently that small habits decide a whole life, and offer to go together so the step is easier.",
+ "real_life_bn": "এক বন্ধু কাজের ব্যস্ততায় জুমার নামাজ বাদ দিতে থাকে। তাকে উপদেশের সুরে কিছু বলার দরকার নেই। ভদ্রভাবে মনে করিয়ে দিন, ছোট অভ্যাসই পুরো জীবন ঠিক করে। আর একসঙ্গে যাওয়ার প্রস্তাব দিন, যাতে পা ফেলা সহজ হয়।",
+ "themes": [
+  "jinn",
+  "Hell",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn",
+   "hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The jinn who deviate from the straight path will be firewood for Hell.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "They will be fuel that lights the fire, together with humans who are like them.",
+   "sources": [
+    "qe-bengali-mokhtasar",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

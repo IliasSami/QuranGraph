@@ -1,0 +1,80 @@
+{
+  "id": "15:65",
+  "simple_en": "Set out with your family in the dark of night and walk behind them. Let no one look back. Walk straight to where you are told to go.",
+  "simple_bn": "রাতের কোনো এক সময়ে আপনার পরিবারবর্গকে নিয়ে বেরিয়ে পড়ুন এবং আপনি তাদের পেছনে চলুন। আপনাদের কেউ যেন পেছনে ফিরে না তাকায়। আপনাদের যেখানে যেতে বলা হয়েছে সেখানে চলে যান।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سري",
+      "lemma": "أَسْرَى",
+      "meaning_en": "travel by night",
+      "meaning_bn": "রাতে বেরিয়ে পড়ুন",
+      "why_en": "Setting out under the cover of night."
+    },
+    {
+      "pos": 2,
+      "root": "أهل",
+      "lemma": "أَهْل",
+      "meaning_en": "your family",
+      "meaning_bn": "আপনার পরিবার",
+      "why_en": "Believing household members."
+    },
+    {
+      "pos": 3,
+      "root": "قطع",
+      "lemma": "قِطْع",
+      "meaning_en": "a part",
+      "meaning_bn": "কোনো এক সময়ে",
+      "why_en": "During a portion of the night."
+    },
+    {
+      "pos": 6,
+      "root": "تبع",
+      "lemma": "اتَّبَعَ",
+      "meaning_en": "follow behind",
+      "meaning_bn": "পেছনে চলুন",
+      "why_en": "Guarding them from behind."
+    }
+  ],
+  "lesson_en": "Follow divine instructions step by step. When leaving a place of sin, do not look back with longing.",
+  "lesson_bn": "আল্লাহর নির্দেশনা হুবহু অনুসরণ করুন। পাপের পরিবেশ ছেড়ে যাওয়ার সময় পেছনের দিকে কোনো মায়া নিয়ে তাকাবেন না।",
+  "real_life_en": "A person leaves behind toxic friends to start a clean life. He deletes old chat groups and looks ahead to good work. He never returns to past bad habits.",
+  "real_life_bn": "এক তরুণ খারাপ সঙ্গ ত্যাগ করে নতুন করে সৎ জীবন শুরু করে। সে অতীতের খারাপ অভ্যাসের দিকে আর ফিরে তাকায় না এবং সামনে এগিয়ে যায়।",
+  "context_en": "The angels instructing Lot on the exact method and timing of his departure from the doomed city.",
+  "context_bn": "ধ্বংসের মুখে থাকা শহর থেকে রাতের বেলা পরিবারসহ কীভাবে বের হতে হবে লূতকে সেই ঐশী নির্দেশনা।",
+  "themes": [
+    "obedience",
+    "salvation",
+    "migration"
+  ],
+  "kinds": [
+    "command",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Lot"
+    ],
+    "unseen": [
+      "Angels"
+    ],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Lot was commanded to travel by night with his family, follow behind them, and not look back.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

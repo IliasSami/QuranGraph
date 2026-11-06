@@ -1,0 +1,90 @@
+{
+  "id": "7:42",
+  "simple_en": "Those who believe in Allah and do good deeds will have great joy. Allah never asks any soul to do more than it can bear. His rules are kind and fair. These faithful people are the true dwellers of Paradise. They will live there forever in peace.",
+  "simple_bn": "যারা আল্লাহর প্রতি ঈমান আনে এবং সাধ্য অনুযায়ী সৎকাজ করে, তারা চিরন্তন সুখ লাভ করবে। আল্লাহ কখনো কোনো ব্যক্তির ওপর তার সাধ্যের অতিরিক্ত বোঝা চাপান না। তাঁর বিধান মানুষের সামর্থ্যের অনুকূল। এরাই জান্নাতের অধিবাসী, যেখানে তারা চিরকাল পরম শান্তিতে থাকবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "صلح",
+      "lemma": "صالِحَة",
+      "meaning_en": "righteous deeds",
+      "meaning_bn": "সৎকাজসমূহ",
+      "why_en": "Emphasizes that true faith must be reflected in upright actions."
+    },
+    {
+      "pos": 6,
+      "root": "كلف",
+      "lemma": "يُكَلِّفُ",
+      "meaning_en": "We burden / task",
+      "meaning_bn": "আমরা বোঝা চাপাই",
+      "why_en": "Highlights Allah's mercy in assigning duties that are within human capability."
+    },
+    {
+      "pos": 15,
+      "root": "خلد",
+      "lemma": "خالِد",
+      "meaning_en": "abiding forever",
+      "meaning_bn": "চিরস্থায়ী",
+      "why_en": "Gives glad tidings that the joy of Paradise will never end."
+    }
+  ],
+  "lesson_en": "Allah asks for honest effort within your power. Sincere work brings His grace.",
+  "lesson_bn": "আল্লাহ সাধ্যের বাইরের বোঝা চাপান না। আন্তরিকভাবে সাধ্যমতো নেক আমল করাই সাফল্যের পথ।",
+  "real_life_en": "A sick person cannot stand for prayer. Islam lets the person sit and pray with ease. Honest worship within your limits brings peace of mind and great reward.",
+  "real_life_bn": "অসুস্থতার কারণে কেউ দাঁড়িয়ে নামাজ পড়তে না পারলে বসে নামাজ পড়ার অনুমতি রয়েছে। নিজের সাধ্য অনুযায়ী আন্তরিকভাবে আমল করাই আল্লাহ পছন্দ করেন এবং এতে অন্তরে প্রশান্তি আসে।",
+  "context_en": "After describing the punishment of the arrogant, Allah contrasts their fate with the eternal reward of the believers.",
+  "context_bn": "অহংকারীদের পরিণতির পর আল্লাহ মুমিনদের চিরস্থায়ী শান্তির সুসংবাদ তুলে ধরেছেন।",
+  "themes": [
+    "faith",
+    "good character",
+    "Allah's mercy",
+    "Paradise",
+    "reward"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "promise",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Paradise"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers who perform good deeds within their capacity will enter Paradise.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Allah does not burden any soul beyond its ability.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "The righteous will dwell in Paradise forever.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

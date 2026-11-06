@@ -1,0 +1,67 @@
+{
+  "id": "18:74",
+  "simple_en": "So they continued until they met a young boy, and the wise man ended his life. Moses said, \"Have you killed an innocent soul who harmed no one? You have done a terrible deed.\"",
+  "simple_bn": "অতঃপর তারা চলতে লাগল, পরিশেষে তাদের সাথে এক বালকের দেখা হলে সে তাকে হত্যা করল। মূসা বললেন, আপনি কি কাউকে হত্যা না করা সত্ত্বেও এক নিষ্পাপ প্রাণকে হত্যা করলেন? আপনি নিশ্চয় এক জঘন্য কাজ করলেন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "غلم",
+      "lemma": "غُلام",
+      "meaning_en": "a boy",
+      "meaning_bn": "এক বালক",
+      "why_en": "The young person met on the journey."
+    },
+    {
+      "pos": 6,
+      "root": "قتل",
+      "lemma": "قَتَلَ",
+      "meaning_en": "he killed him",
+      "meaning_bn": "তাকে হত্যা করল",
+      "why_en": "A shocking action hiding profound mercy for the boy's parents."
+    }
+  ],
+  "lesson_en": "Humans judge by outward actions, but God knows the future. Divine wisdom protects good people from unseen harm.",
+  "lesson_bn": "মানুষ বাহ্যিক রূপ দেখে সিদ্ধান্ত নেয়, কিন্তু আল্লাহ ভবিষ্যতের গোপন পরিণতি জানেন। আপাত দুঃখের পেছনেও গভীর রহমত থাকে।",
+  "real_life_en": "Trust in God justice even when facing tragic and painful losses. He sees the complete story that human eyes cannot perceive.",
+  "real_life_bn": "জীবনে কোনো কঠিন আঘাত বা ক্ষতি এলে আল্লাহর ইনসাফের ওপর ভরসা রাখুন। তাঁর অসীম প্রজ্ঞায় প্রতিটি ঘটনার মহৎ কারণ থাকে।",
+  "themes": [
+    "slaying-of-the-boy",
+    "inscrutable-decree",
+    "protecting-believing-parents",
+    "prophetic-objection"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "al-Khidr"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Killing-of-the-Boy"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Al-Khidr killed a young boy, provoking an immediate protest from Moses over taking an innocent life.",
+      "claim_bn": "খিজির এক বালককে হত্যা করলে মূসা (আ.) নিষ্পাপ প্রাণ হত্যার তীব্র প্রতিবাদ করলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

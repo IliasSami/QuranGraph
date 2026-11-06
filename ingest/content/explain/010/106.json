@@ -1,0 +1,77 @@
+{
+  "id": "10:106",
+  "simple_en": "Do not pray to anything besides God that can neither benefit you nor harm you. If you were to do so, you would surely be among the unjust.",
+  "simple_bn": "আর আপনি আল্লাহ ছাড়া অন্য কাউকে ডাকবেন না, যা আপনার কোনো উপকারও করতে পারে না আর অপকারও করতে পারে না। কারণ আপনি যদি তা করেন, তবে নিশ্চয় আপনি যালিমদের অন্তর্ভুক্ত হবেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "do not invoke / call upon",
+      "meaning_bn": "ডাকবেন না / প্রার্থনা করবেন না",
+      "why_en": "Prohibiting prayers or supplications directed to idols or saints."
+    },
+    {
+      "pos": 8,
+      "root": "نفع",
+      "lemma": "نَفَعَ",
+      "meaning_en": "benefits you",
+      "meaning_bn": "আপনার উপকার করে",
+      "why_en": "False deities possessing no power to bestow good."
+    },
+    {
+      "pos": 10,
+      "root": "ضرر",
+      "lemma": "يَضُرَّ",
+      "meaning_en": "harms you",
+      "meaning_bn": "আপনার ক্ষতি করে",
+      "why_en": "Created objects having zero capability to inflict injury."
+    }
+  ],
+  "lesson_en": "Praying to created things for help is useless and leads to spiritual harm.",
+  "lesson_bn": "সৃষ্ট কোনো বস্তুর কাছে কল্যাণ প্রার্থনা করা নিষ্ফল এবং আত্মিক ক্ষতির কারণ।",
+  "real_life_en": "Direct your prayers only to God. Created beings cannot grant you success or protect you without His will.",
+  "real_life_bn": "নিজের অভাব-অভিযোগ ও বিপদ-আপদে কেবল আল্লাহর কাছেই প্রার্থনা করুন; কোনো সৃষ্টির কাছে ধর্মানুভূতিতে মাথা নত করবেন না।",
+  "themes": [
+    "prohibition of false worship",
+    "powerlessness of idols",
+    "spiritual injustice"
+  ],
+  "kinds": [
+    "prohibition",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "idolaters"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "false deities",
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Invoking powerless entities alongside Allah is categorized as supreme wrongdoing (shirk).",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

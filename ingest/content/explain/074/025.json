@@ -1,0 +1,64 @@
+{
+ "id": "74:25",
+ "simple_en": "He claimed that the Quran is merely the speech of a human being. He denied that it came from Allah through angel Jibril. By saying this, he rejected the divine origin of the book.",
+ "simple_bn": "সে বলল, এটি কোনো ঐশী বাণী নয়, বরং মানুষেরই তৈরি কথা। সে অস্বীকার করল যে এটি ফেরেশতা জিবরীলের মাধ্যমে আল্লাহর পক্ষ থেকে এসেছে। এভাবে সে কুরআনের সত্যতাকে সরাসরি প্রত্যাখ্যান করল।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "قول",
+   "lemma": "قَوْل",
+   "meaning_en": "speech, word",
+   "meaning_bn": "কথা বা বাণী",
+   "why_en": "He reduced divine revelation to ordinary human composition."
+  },
+  {
+   "pos": 5,
+   "root": "بشر",
+   "lemma": "بَشَر",
+   "meaning_en": "human being",
+   "meaning_bn": "মানুষ",
+   "why_en": "He claimed human origin for a book whose style no human could match."
+  }
+ ],
+ "lesson_en": "The Quran is the word of Allah, and no human speech can match it.",
+ "lesson_bn": "কুরআন মহান আল্লাহর বাণী, মানুষের কোনো কথা এর সমকক্ষ হতে পারে না।",
+ "real_life_en": "Treat the Quran with great honor and respect in your home. Read its verses regularly and remember that you are hearing the words of your Creator.",
+ "real_life_bn": "ঘরে কুরআনকে সর্বোচ্চ সম্মান ও যত্নের সাথে রাখুন। নিয়মিত এর তিলাওয়াত করুন এবং মনে রাখুন যে আপনি আপনার সৃষ্টিকর্তার বাণী পাঠ করছেন।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "story"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jibril"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He claimed that the Quran is nothing but the words of a mortal human being.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

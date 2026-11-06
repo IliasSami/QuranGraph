@@ -1,0 +1,76 @@
+{
+  "id": "9:30",
+  "simple_en": "Some people claim that Ezra is the son of God, and others claim that the Messiah is the son of God. These are empty words spoken by their mouths, copying the claims of ancient deniers. May Allah guide them away from delusions.",
+  "simple_bn": "ইয়াহূদীরা বলে উজাইর আল্লাহর পুত্র এবং খ্রিষ্টানরা বলে মসীহ্ আল্লাহর পুত্র। এটা তাদের মুখের মনগড়া কথা, যা অতীতের কাফেরদের কথারই অনুকরণ। আল্লাহ তাদের ধ্বংস করুন, তারা কোন দিকে বিভ্রান্ত হচ্ছে!",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "هود",
+      "lemma": "يَهُود",
+      "meaning_en": "Jews",
+      "meaning_bn": "ইয়াহূদী সম্প্রদায়",
+      "why_en": "Religious faction that attributed divine sonship to Ezra."
+    },
+    {
+      "pos": 7,
+      "root": "نصر",
+      "lemma": "نَصْرانِيّ",
+      "meaning_en": "Christians",
+      "meaning_bn": "খ্রিষ্টান সম্প্রদায়",
+      "why_en": "Religious community attributing divinity to Jesus the Messiah."
+    },
+    {
+      "pos": 14,
+      "root": "ضهأ",
+      "lemma": "يُضاهِئُ",
+      "meaning_en": "imitating / copying",
+      "meaning_bn": "অনুকরণ করে / সাদৃশ্য বজায় রাখে",
+      "why_en": "Echoing pagan mythologies that assign offspring to the Creator."
+    }
+  ],
+  "lesson_en": "Allah is One, having no partners, offspring, or human equals.",
+  "lesson_bn": "আল্লাহ একক ও অদ্বিতীয়; তাঁর কোনো সন্তান, সমকক্ষ বা অংশীদার নেই।",
+  "real_life_en": "Keep your faith pure and simple. Believe in One God, and do not follow myths that give human traits or children to the Creator.",
+  "real_life_bn": "সৃষ্টিকর্তার একত্ববাদের বিষয়ে স্পষ্ট থাকুন এবং কোনো যুক্তিহীন বা মনগড়া ধারণাকে বিশ্বাসে স্থান দেবেন না।",
+  "themes": [
+    "monotheism",
+    "refuting polytheism",
+    "divine uniqueness"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Ezra",
+      "Jesus"
+    ],
+    "nations": [
+      "Jews",
+      "Christians"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Quran refutes the claims attributing divine sonship to Ezra or Jesus, exposing them as echoes of earlier pagan mythologies.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

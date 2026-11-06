@@ -1,0 +1,83 @@
+{
+ "id": "3:177",
+ "simple_en": "Those who trade away faith to buy disbelief will never harm Allah in the least. Allah is rich and free of any need from His creation. By choosing darkness over light, these people bring total ruin on themselves. In the Afterlife, a painful punishment waits for them.",
+ "simple_bn": "যারা ঈমানের বিনিময়ে কুফরি কিনে নিয়েছে, তারা কখনোই আল্লাহর কোনো ক্ষতি করতে পারবে না। আল্লাহ সর্বশক্তিমান এবং সৃষ্টির মুখাপেক্ষী নন। আলোর বদলে অন্ধকার বেছে নিয়ে তারা মূলত নিজেদেরই চরম ক্ষতি করেছে। পরকালে তাদের জন্য রয়েছে অত্যন্ত যন্ত্রণাদায়ক শাস্তি।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "شري",
+   "lemma": "اشْتَرَى",
+   "meaning_en": "they bought / traded",
+   "meaning_bn": "তারা ক্রয় করেছে বা বিনিময় করেছে",
+   "why_en": "Depicts leaving faith for disbelief as the worst possible business trade."
+  },
+  {
+   "pos": 7,
+   "root": "ضرر",
+   "lemma": "يَضُرَّ",
+   "meaning_en": "they will harm",
+   "meaning_bn": "তারা ক্ষতি করবে",
+   "why_en": "Reiterates that disbelief affects only the sinner and never touches Allah."
+  },
+  {
+   "pos": 12,
+   "root": "ألم",
+   "lemma": "أَلِيم",
+   "meaning_en": "painful",
+   "meaning_bn": "যন্ত্রণাদায়ক",
+   "why_en": "Describes the agonizing torment awaiting those who trade away their faith."
+  }
+ ],
+ "lesson_en": "Faith is the most precious treasure you have, so never trade it away for short-lived worldly gains.",
+ "lesson_bn": "ঈমান আপনার সবচেয়ে মূল্যবান সম্পদ, দুনিয়ার সাময়িক স্বার্থের জন্য এটিকে কখনো হাতছাড়া করবেন না।",
+ "real_life_en": "Imagine someone selling a priceless gold jewel for a pile of cheap fake plastic coins. That is what people do when they throw away their faith for quick money or popularity. Guard your values and remember that true success stays with Allah.",
+ "real_life_bn": "মূল্যবান হীরা ফেলে কেউ যদি সস্তা কাঁচের টুকরো তুলে নেয়, তবে তার চেয়ে বড় বোকা আর কে হতে পারে? দুনিয়ার সামান্য খ্যাতি বা লোভে পড়ে ঈমান ও নীতি বিসর্জন দেওয়া ঠিক তেমনই এক আত্মঘাতী ব্যাপার। নিজের নীতি ও ঈমানকে সর্বদা রক্ষা করুন।",
+ "context_en": "Stressing that apostates and deniers make a losing trade that hurts only themselves.",
+ "context_bn": "ঈমান ছেড়ে কুফরি বেছে নেওয়া যে এক ধ্বংসাত্মক ক্ষতি, সেই সত্যটি এখানে পুনরায় দৃঢ় করা হয়েছে।",
+ "themes": [
+  "disbelief",
+  "faith",
+  "punishment",
+  "Allah's power",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who exchange faith for disbelief cannot harm Allah in any way.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Those who barter away their faith will face a painful punishment in the Hereafter.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

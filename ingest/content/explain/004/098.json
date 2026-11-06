@@ -1,0 +1,82 @@
+{
+ "id": "4:98",
+ "simple_en": "Excepted from this warning are the truly helpless men, women, and children. They possess no means to escape and cannot find any path to migrate. Allah understands their genuine weakness and forgives them.",
+ "simple_bn": "তবে এর ব্যতিক্রম হলো প্রকৃতপক্ষে অসহায় পুরুষ, নারী ও শিশুরা, যাদের কোনো উপায় বের করার সামর্থ্য নেই এবং যারা হিজরতের কোনো পথও খুঁজে পায় না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ضعف",
+   "lemma": "مُسْتَضْعَف",
+   "meaning_en": "truly helpless and oppressed",
+   "meaning_bn": "অসহায় ও দুর্বল মানুষ",
+   "why_en": "Excuses those who genuinely lack physical power or material means to relocate."
+  },
+  {
+   "pos": 9,
+   "root": "حول",
+   "lemma": "حِيلَة",
+   "meaning_en": "a plan, means, or strategy",
+   "meaning_bn": "কোনো উপায় বা কৌশল",
+   "why_en": "Describes the total absence of physical or financial ability to escape."
+  },
+  {
+   "pos": 11,
+   "root": "هدي",
+   "lemma": "اهْتَدَى",
+   "meaning_en": "they find a way or road",
+   "meaning_bn": "পথের সন্ধান পায়",
+   "why_en": "Refers to lacking knowledge of travel routes or safe passages to emigrate."
+  }
+ ],
+ "lesson_en": "Allah pardons those who are truly weak and have no way to escape hardship.",
+ "lesson_bn": "যারা প্রকৃত অর্থেই অক্ষম ও নিরুপায়, আল্লাহ তাদের অপারগতা জানেন এবং তাদেরকে ক্ষমা করেন।",
+ "real_life_en": "If an old or sick person cannot travel because they have no money or guide, Allah does not blame them. He knows their weakness and treats them with mercy.",
+ "real_life_bn": "অসুস্থতা, বার্ধক্য বা চরম দারিদ্র্যের কারণে কেউ যদি কোনো প্রতিকূল পরিবেশ থেকে বের হতে না পারে, তবে আল্লাহ তার এই অসহায়ত্ব ক্ষমা করবেন।",
+ "context_en": "Explicitly excuses the vulnerable who could not migrate due to weakness, poverty, or lack of guidance.",
+ "context_bn": "হিজরতে অক্ষম প্রকৃত দুর্বল নারী, পুরুষ ও শিশুদেরকে পূর্ববর্তী হুঁশিয়ারি থেকে অব্যাহতি দেওয়া হয়েছে।",
+ "themes": [
+  "Allah's mercy",
+  "human nature",
+  "forgiveness",
+  "trials"
+ ],
+ "kinds": [
+  "law",
+  "promise",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Exempts from punishment the truly oppressed men, women, and children who lacked any financial or physical means to migrate.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Those who do not know the routes or cannot travel due to weakness are excused by divine mercy.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

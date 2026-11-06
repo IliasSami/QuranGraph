@@ -1,0 +1,80 @@
+{
+ "id": "5:82",
+ "simple_en": "You will find that the Jews and the idolaters show the strongest hatred toward believers. You will also find that the nearest in love to believers are those who say they are Christians. That is because among them are priests and monks who are humble and not full of pride.",
+ "simple_bn": "মু’মিনদের প্রতি শত্রুতায় আপনি ইহুদি ও অংশীবাদীদের সবচেয়ে উগ্র দেখতে পাবেন। আর যারা নিজেদের খ্রিস্টান বলে, তাদেরকে আপনি মু’মিনদের সবচেয়ে কাছের ও সহানুভূতিশীল দেখতে পাবেন। কারণ তাদের মধ্যে ধর্মপ্রচারক ও সংসারবিরাগী উপাসক রয়েছেন, যারা অহংকার করেন না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "عدو",
+   "lemma": "عَداوَة",
+   "meaning_en": "enmity / hostility",
+   "meaning_bn": "শত্রুতা",
+   "why_en": "Points out the intense hostility driven by envy and stubborn rejection of truth."
+  },
+  {
+   "pos": 12,
+   "root": "ودد",
+   "lemma": "مَوَدَّة",
+   "meaning_en": "affection / love",
+   "meaning_bn": "ভালোবাসা বা আন্তরিকতা",
+   "why_en": "Highlights the warmth and goodwill found among humble seekers of truth."
+  },
+  {
+   "pos": 26,
+   "root": "كبر",
+   "lemma": "اسْتَكْبَرَ",
+   "meaning_en": "they are arrogant",
+   "meaning_bn": "তারা অহংকার করে",
+   "why_en": "Arrogance shuts hearts against truth, while humility allows light to enter."
+  }
+ ],
+ "lesson_en": "Humility opens the heart to truth. Pride only causes hate and division.",
+ "lesson_bn": "বিনয় মানুষের অন্তরকে সত্যের জন্য উন্মুক্ত করে, আর অহংকার জন্ম দেয় তীব্র বিদ্বেষের।",
+ "real_life_en": "A doctor treats patients from every background with gentle respect. He listens quietly when others speak and never acts proud. His humble heart welcomes truth.",
+ "real_life_bn": "একজন চিকিৎসক প্রতিটি রোগীর সাথে বিনম্র ও সদয় আচরণ করেন। তিনি অন্য ধর্মের প্রতিবেশীদের বিপদে পাশে দাঁড়ান। তাঁর এই অহংকারহীন মন মানুষকে ইসলামের সৌন্দর্যের প্রতি আকৃষ্ট করে।",
+ "context_en": "Contrasts the hostility of arrogant opponents with the gentleness of humble people.",
+ "context_bn": "অহংকারী বিরোধীদের হিংসা ও বিনয়ী ব্যক্তিদের নম্রতার মধ্যকার বৈসাদৃশ্য এখানে তুলে ধরা হয়েছে।",
+ "themes": [
+  "interfaith",
+  "good character",
+  "humility",
+  "Children of Israel"
+ ],
+ "kinds": [
+  "argument",
+  "ethics",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The strongest enmity toward believers comes from the Jews and idolaters.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Christians who have humble scholars and monks are closest in affection to believers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

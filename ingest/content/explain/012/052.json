@@ -1,0 +1,91 @@
+{
+  "id": "12:52",
+  "simple_en": "Yusuf said he wanted this inquiry so his former master would know the truth. He never betrayed him in secret. He knew that Allah does not let the plots of dishonest people succeed.",
+  "simple_bn": "ইউসুফ স্পষ্ট করলেন যে তিনি এই প্রকাশ্য তদন্ত চেয়েছিলেন যাতে তাঁর পূর্ববর্তী মনিব জানতে পারেন যে তিনি গোপনে কোনো বিশ্বাসঘাতকতা করেননি। তিনি জানতেন যে আল্লাহ বিশ্বাসঘাতকদের চক্রান্ত সফল হতে দেন না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "that he may know",
+      "meaning_bn": "যাতে সে জানতে পারে",
+      "why_en": "The desire for the former master to be certain of his loyalty."
+    },
+    {
+      "pos": 5,
+      "root": "خون",
+      "lemma": "خانُ",
+      "meaning_en": "I betrayed him",
+      "meaning_bn": "আমি তার সাথে বিশ্বাসঘাতকতা করেছি",
+      "why_en": "Affirms that Yusuf kept his trust inviolate."
+    },
+    {
+      "pos": 6,
+      "root": "غيب",
+      "lemma": "غَيْب",
+      "meaning_en": "in secret / unseen",
+      "meaning_bn": "গোপনে বা অসাক্ষাতে",
+      "why_en": "True honesty is maintained when no human observer is watching."
+    },
+    {
+      "pos": 12,
+      "root": "خون",
+      "lemma": "خائِن",
+      "meaning_en": "the treacherous",
+      "meaning_bn": "বিশ্বাসঘাতকগণ",
+      "why_en": "Those who break trust will never receive Allah’s guidance."
+    }
+  ],
+  "lesson_en": "True honesty means keeping your word both in public and in secret.",
+  "lesson_bn": "প্রকৃত সততা হলো সবার সামনে এবং নির্জনে একাকী অবস্থাতেও আমানত বজায় রাখা।",
+  "real_life_en": "An accountant handles cash with no one watching. They log every dollar with care because they know God sees everything, and cheating always fails.",
+  "real_life_bn": "কোনো নজরদারি ছাড়াই অর্থ লেনদেনকারী হিসাবরক্ষক সততার সাথে প্রতিটি পয়সার হিসাব রাখেন, কারণ তিনি জানেন বিশ্বাসঘাতকতা কখনো ভালো ফল আনে না।",
+  "context_en": "Yusuf highlighted that his request for inquiry was to clear his name of any suspicion of betrayal.",
+  "context_bn": "ইউসুফ বুঝিয়ে বললেন যে বিশ্বাসঘাতকতার অপবাদ দূর করতেই তিনি এই তদন্ত চেয়েছিলেন।",
+  "themes": [
+    "trustworthiness",
+    "integrity",
+    "divine justice"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "chief / al-Aziz"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Yusuf wanted his former master to know that he did not betray him in secret.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Allah does not guide the plots of the treacherous to success.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

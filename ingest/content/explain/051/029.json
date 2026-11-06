@@ -1,0 +1,75 @@
+{
+  "id": "51:29",
+  "simple_en": "His wife came forward with a loud cry in amazement. She struck her face in wonder and asked how an old, barren woman could have a child. Her reaction showed natural human surprise at such news.",
+  "simple_bn": "সুসংবাদ শুনে তাঁর স্ত্রী বিস্ময়ে চিৎকার করে এগিয়ে আসলেন এবং নিজ গালে হাত চাপড়ে বললেন, আমি তো এক বৃদ্ধা এবং বন্ধ্যা নারী।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "صرر",
+      "lemma": "صَرَّة",
+      "meaning_en": "a cry or loud shout",
+      "meaning_bn": "চিৎকার বা বিস্ময়ের আওয়াজ",
+      "why_en": "The vocal exclamation of utter surprise at the news."
+    },
+    {
+      "pos": 5,
+      "root": "صكك",
+      "lemma": "صَكَّتْ",
+      "meaning_en": "she struck or slapped",
+      "meaning_bn": "চাপড় মারলেন",
+      "why_en": "A spontaneous gesture of astonishment on hearing the glad tidings."
+    },
+    {
+      "pos": 8,
+      "root": "عجز",
+      "lemma": "عَجُوز",
+      "meaning_en": "an old woman",
+      "meaning_bn": "বৃদ্ধা",
+      "why_en": "Her advanced age, making childbearing seem impossible."
+    },
+    {
+      "pos": 9,
+      "root": "عقم",
+      "lemma": "عَقِيم",
+      "meaning_en": "barren",
+      "meaning_bn": "বন্ধ্যা",
+      "why_en": "Her lifelong inability to conceive a child."
+    }
+  ],
+  "lesson_en": "Nothing is too hard for God. He can bring hope even when all doors seem closed.",
+  "lesson_bn": "আল্লাহর ক্ষমতার কাছে কোনো কিছুই অসম্ভব নয়, পরিস্থিতি যতই প্রতিকূল হোক না কেন।",
+  "real_life_en": "Never lose hope in God when facing difficult odds in life. Trust that the Creator can open doors that seem completely closed to human eyes.",
+  "real_life_bn": "জীবনের যেকোনো কঠিন মুহূর্তে আশা হারাবেন না। বিশ্বাস রাখুন, আল্লাহ এমন পথ খুলে দিতে পারেন যা মানুষের ধারণার অতীত।",
+  "themes": [
+    "stories of the prophets",
+    "family",
+    "human nature"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Ibrahim's wife came forward in astonishment, striking her face in wonder at how an old, barren woman could give birth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

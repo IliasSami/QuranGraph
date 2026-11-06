@@ -1,0 +1,78 @@
+{
+  "id": "8:68",
+  "simple_en": "If not for a decree from Allah that had already been written, a severe punishment would have touched you for the ransom you took. But God in His boundless mercy pardoned you.",
+  "simple_bn": "যদি আল্লাহর পূর্ববিধান আগে থেকে নির্ধারিত না থাকত, তবে তোমরা যা মুক্তিপণ হিসেবে গ্রহণ করেছিলে সে জন্য তোমাদের ওপর কঠিন শাস্তি আসত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "a decree / writing",
+      "meaning_bn": "পূর্ববিধান",
+      "why_en": "Prior divine permission regarding spoils and mercy."
+    },
+    {
+      "pos": 5,
+      "root": "سبق",
+      "lemma": "سَبَقَ",
+      "meaning_en": "preceded",
+      "meaning_bn": "পূর্বে নির্ধারিত ছিল",
+      "why_en": "Pre-ordained divine forgiveness for unintentional errors."
+    },
+    {
+      "pos": 6,
+      "root": "مسس",
+      "lemma": "مَسَّ",
+      "meaning_en": "touched you",
+      "meaning_bn": "তোমাদের স্পর্শ করত",
+      "why_en": "The affliction that would have fallen without grace."
+    }
+  ],
+  "lesson_en": "God's early mercy saves honest people from the pain of their mistakes.",
+  "lesson_bn": "আল্লাহর পূর্বনির্ধারিত অনুগ্রহ ও ক্ষমা মানুষকে বহু অনিচ্ছাকৃত ভুলের শাস্তি থেকে রক্ষা করে।",
+  "real_life_en": "When you make an error in judgment, be grateful for the grace that protects you. Learn the lesson humbly and strive never to repeat the same misstep.",
+  "real_life_bn": "ভুল হয়ে গেলে আল্লাহর ক্ষমা প্রার্থনা করুন এবং শিক্ষা নিন। তাঁর অনুগ্রহের শুকরিয়া আদায় করে সৎপথে অটল থাকুন।",
+  "context_en": "Explaining that taking ransoms at Badr would have brought divine rebuke were it not for Allah's pre-ordained allowance of war spoils.",
+  "context_bn": "গনীমত ও মুক্তিপণ হালাল করার আল্লাহর পূর্ব ফয়সালা থাকার কারণে বদর বন্দীদের মুক্তিপণ গ্রহণের শাস্তি রহিত হওয়া।",
+  "themes": [
+    "divine mercy",
+    "pre-ordained decree",
+    "pardon",
+    "forgiveness"
+  ],
+  "kinds": [
+    "warning",
+    "glad-tidings",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers"
+    ],
+    "places": [
+      "Badr"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Battle of Badr"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "A previous divine decree allowing war booty spared the believers from punishment for accepting ransoms at Badr.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

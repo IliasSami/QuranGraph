@@ -1,0 +1,84 @@
+{
+  "id": "33:66",
+  "simple_en": "On that Day, the faces of wrongdoers will be turned in the Fire. They will cry out in deep sorrow and regret. They will wish they had obeyed God and followed His Messenger during their life on earth, but it will be too late.",
+  "simple_bn": "কিয়ামতের দিন যখন তাদের চেহারা আগুনে উলটপালট করা হবে, তখন তারা গভীর অনুশোচনায় বলবে, হায়, আমরা যদি আল্লাহর আনুগত্য করতাম এবং রাসূলের নির্দেশ মেনে চলতাম। কিন্তু সেদিন সেই আক্ষেপ কোনো কাজে আসবে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قلب",
+      "lemma": "قَلَّبُ",
+      "meaning_en": "turned about / overturned",
+      "meaning_bn": "উলটপালট করা হবে",
+      "why_en": "Physical humiliation in the Fire."
+    },
+    {
+      "pos": 3,
+      "root": "وجه",
+      "lemma": "وَجْه",
+      "meaning_en": "their faces",
+      "meaning_bn": "তাদের মুখমণ্ডল",
+      "why_en": "The most noble part of the human form humbled."
+    },
+    {
+      "pos": 8,
+      "root": "طوع",
+      "lemma": "أَطاعَ",
+      "meaning_en": "we had obeyed",
+      "meaning_bn": "আমরা আনুগত্য করতাম",
+      "why_en": "Bitter regret at past rebellion."
+    },
+    {
+      "pos": 11,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "the Messenger",
+      "meaning_bn": "রাসূলের",
+      "why_en": "Acknowledging the messenger they once opposed."
+    }
+  ],
+  "lesson_en": "Follow God and His Messenger now. Do not wait for a day when regrets cannot help.",
+  "lesson_bn": "সময় থাকতে আল্লাহ ও তাঁর রাসূলের আনুগত্য করুন, যাতে পরকালে আফসোস করতে না হয়।",
+  "real_life_en": "Do not let pride delay your return to God. Start praying, speaking the truth, and doing good now while you still have time.",
+  "real_life_bn": "দ্বীনের পথে ফিরে আসতে বিলম্ব করবেন না। জীবনের প্রতিটি সুযোগকে কাজে লাগিয়ে আজই আল্লাহর আনুগত্যের পথে চলুন।",
+  "themes": [
+    "repentance",
+    "the Last Day",
+    "Hell",
+    "obedience"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "On that Day their faces will be turned in the Fire and they will lament, wishing they had obeyed Allah and obeyed the Messenger.",
+      "claim_bn": "যেদিন তাদের মুখমণ্ডল আগুনে উলটপালট করা হবে, তারা আফসোস করে বলবে, হায়! আমরা যদি আল্লাহ ও রাসূলের আনুগত্য করতাম।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

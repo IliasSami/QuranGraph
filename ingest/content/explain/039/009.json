@@ -1,0 +1,77 @@
+{
+  "id": "39:9",
+  "simple_en": "Is the devout believer equal to the one who rejects faith? The believer spends the night prostrating and standing in prayer. He fears the Day of Judgment and hopes for the mercy of his Lord. People who possess true knowledge and wisdom are never equal to those who live in ignorance.",
+  "simple_bn": "যে ব্যক্তি রাতের গভীরে সেজদায় অবনত হয়ে ও দাঁড়িয়ে বিনীতভাবে ইবাদত করে, সে কি অবিশ্বাসী ব্যক্তির সমান? সে আখিরাতের শাস্তিকে ভয় করে এবং নিজ রবের রহমত প্রত্যাশা করে। বলুন, যারা জানে এবং যারা জানে না, তারা কি কখনো সমান হতে পারে? কেবল বিবেকবান লোকেরাই উপদেশ গ্রহণ করে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "قنت",
+      "lemma": "قانِت",
+      "meaning_en": "devoutly obedient",
+      "meaning_bn": "একনিষ্ঠ অনুগত",
+      "why_en": "Portrays deep night-time worship full of reverence."
+    },
+    {
+      "pos": 10,
+      "root": "رجو",
+      "lemma": "يَرْجُوا۟",
+      "meaning_en": "hoping / seeking",
+      "meaning_bn": "প্রত্যাশা করে",
+      "why_en": "Combines healthy fear of accountability with hopeful longing for divine mercy."
+    },
+    {
+      "pos": 24,
+      "root": "لبب",
+      "lemma": "أَلْباب",
+      "meaning_en": "people of understanding",
+      "meaning_bn": "বিবেকবান ব্যক্তিগণ",
+      "why_en": "Praises those who use sound reason to understand spiritual truths."
+    }
+  ],
+  "lesson_en": "Knowledge brings humility and night prayer, balancing healthy fear of judgment with hope for mercy.",
+  "lesson_bn": "প্রকৃত জ্ঞান মানুষের মাঝে বিনয় ও রাতের ইবাদতের অভ্যাস আনে, যা আল্লাহর ভয় ও রহমতের ভারসাম্য বজায় রাখে।",
+  "real_life_en": "Set aside a few quiet moments before dawn to pray and reflect. Wake up early to ask Allah for guidance while the rest of the world sleeps.",
+  "real_life_bn": "ভোরের কিছু আগে রাতের নীরবতায় উঠে দু রাকাত নফল সালাত আদায় করুন। দুনিয়ার কোলাহল থামার সময় একান্তে আল্লাহর কাছে ক্ষমা ও রহমত প্রার্থনা করুন।",
+  "themes": [
+    "night prayer",
+    "fear and hope",
+    "knowledge",
+    "worship"
+  ],
+  "kinds": [
+    "argument",
+    "ethics",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The devout worshiper who prays at night fearing the Hereafter and hoping for mercy is not equal to the ignorant.",
+      "claim_bn": "রাতের বেলা সেজদারত অনুগত বান্দা, যে পরকালকে ভয় করে ও রহমতের আশা রাখে, সে মূর্খ ব্যক্তির সমান নয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

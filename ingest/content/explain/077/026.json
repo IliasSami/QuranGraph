@@ -1,0 +1,62 @@
+{
+ "id": "77:26",
+ "simple_en": "The earth holds the living on its surface, letting them build homes and find food. And it holds the dead beneath its soil, giving them a respectful place of rest.",
+ "simple_bn": "এই জমিন জীবিতদের তার পিঠের ওপর ধারণ করে, যাতে তারা ঘরবাড়ি বানাতে ও জীবিকা খুঁজতে পারে। আর এটি মৃতদের পেটের ভেতর ধারণ করে তাদের সম্মানজনক বিশ্রাম দান করে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "حيي",
+   "lemma": "حَيّ",
+   "meaning_en": "the living",
+   "meaning_bn": "জীবিতগণ",
+   "why_en": "Living beings dwelling on the earth's surface."
+  },
+  {
+   "pos": 2,
+   "root": "موت",
+   "lemma": "مَيِّت",
+   "meaning_en": "and the dead",
+   "meaning_bn": "এবং মৃতগণ",
+   "why_en": "Deceased human bodies buried within the earth's soil."
+  }
+ ],
+ "lesson_en": "We live on this earth for a short time before returning beneath its dust.",
+ "lesson_bn": "মাটির বুকে আমাদের এই জীবন খুবই সংক্ষিপ্ত, একদিন আমাদের এই মাটির নিচেই ফিরে যেতে হবে।",
+ "real_life_en": "Every day we walk on the earth busy with work and school. One day, our bodies will be laid beneath that same soil. Keeping this reality in mind helps you live honestly and prepare for what comes next.",
+ "real_life_bn": "প্রতিদিন আমরা নানা কাজে এই মাটির ওপর হেঁটে বেড়াই। একদিন আমাদের দেহ এই মাটির নিচেই সমাহিত হবে। এই সত্য মনে রাখলে অন্তরে বিনয় আসে এবং পরকালের প্রস্তুতি নেওয়া সহজ হয়।",
+ "themes": [
+  "death",
+  "creation",
+  "reflection"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The earth holds the living upon its surface and the dead within its graves.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

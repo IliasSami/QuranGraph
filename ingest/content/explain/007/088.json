@@ -1,0 +1,84 @@
+{
+  "id": "7:88",
+  "simple_en": "The proud leaders of Madyan threatened Prophet Shu'ayb. They told him to return to false gods or leave town. Shu'ayb spoke with brave words. He asked how they could force him into lies that he hated.",
+  "simple_bn": "মাদইয়ানের অহংকারী নেতারা শুআইব (আলাইহিস সালাম) ও তাঁর সাথে থাকা মুমিনদের হুমকি দিল। তারা এক চরম শর্ত চাপিয়ে দিল। তারা বলল, হয় তোমাদের সবাইকে আমাদের পৌত্তলিক ধর্মে ফিরে আসতে হবে, নতুবা আমরা তোমাদের নগরী থেকে তাড়িয়ে দেব। শুআইব অত্যন্ত সাহসিকতার সাথে উত্তর দিলেন, আমরা মনেপ্রাণে ঘৃণা করা সত্ত্বেও কি তোমাদের ধর্মে ফিরে যাব?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كبر",
+      "lemma": "اسْتَكْبَرَ",
+      "meaning_en": "were arrogant",
+      "meaning_bn": "অহংকার করল",
+      "why_en": "Points to the root sin of the chieftains that drove their defiance."
+    },
+    {
+      "pos": 17,
+      "root": "ملل",
+      "lemma": "مِلَّة",
+      "meaning_en": "our religion or creed",
+      "meaning_bn": "আমাদের ধর্ম বা মতাদর্শ",
+      "why_en": "The idolatrous pagan way of life the tyrants demanded the believers return to."
+    },
+    {
+      "pos": 21,
+      "root": "كره",
+      "lemma": "كارِه",
+      "meaning_en": "unwilling or detesting",
+      "meaning_bn": "অনিচ্ছুক বা ঘৃণাভরে",
+      "why_en": "Expresses Shu'ayb's absolute refusal to submit to forced apostasy."
+    }
+  ],
+  "lesson_en": "Arrogant tyrants often use force when arguments fail. A true believer never trades faith for comfort.",
+  "lesson_bn": "অহংকারী শাসকেরা যুক্তিতে হেরে গিয়ে বলপ্রয়োগ করে। সত্যের সন্ধান পাওয়া কোনো মুমিন কখনোই জবরদস্তির মুখে ঈমান ত্যাগ করে না।",
+  "real_life_en": "Stand firm when people push you to do wrong. Bullies try to scare you into sin. Keep your faith strong. Never give up your prayer or values to please other people.",
+  "real_life_bn": "অসৎ কাজের জন্য কেউ আপনাকে চাপ দিলে বা হুমকি দিলে কখনো আপস করবেন না। জাগতিক সুবিধা বা জনপ্রিয়তার লোভে নিজের ঈমান বিক্রি করবেন না। আল্লাহকে সন্তুষ্ট করার পথেই দৃঢ় থাকুন, কারণ মানুষের ভয় ক্ষণস্থায়ী কিন্তু আল্লাহর পুরস্কার চিরন্তন।",
+  "context_en": "The chieftains of Madyan attempt to coerce Shu'ayb and his followers into apostasy through the threat of expulsion.",
+  "context_bn": "মাদইয়ানের সর্দারদের হুমকি: ঈমান ত্যাগ করে তাদের ধর্মে ফিরে না আসলে শুআইব ও মুমিনদের দেশান্তরিত করার চক্রান্ত।",
+  "themes": [
+    "Shu'ayb",
+    "arrogance",
+    "threats",
+    "persecution",
+    "steadfastness"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [
+      "people of Madyan"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The arrogant chieftains of Madyan threatened to expel Shu'ayb and the believers unless they returned to pagan religion.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Shu'ayb firmly rejected their threat, declaring that forced return to falsehood was utterly abhorrent to true believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

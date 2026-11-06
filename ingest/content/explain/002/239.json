@@ -1,0 +1,91 @@
+{
+ "id": "2:239",
+ "simple_en": "If you are in danger, you may pray while walking on foot or riding. You do not need to face the prayer direction or do full bows if you cannot. Never abandon prayer even in times of fear. When safety returns, pray in full and remember Allah for teaching you what you did not know.",
+ "simple_bn": "তোমরা যদি শত্রু বা কোনো বিপদের ভয় করো, তবে হেঁটে কিংবা সওয়ার হয়ে যেভাবেই সম্ভব সালাত পড়ে নাও। এ অবস্থায় রুকু ও সিজদার জন্য কেবল ইশারা করাই যথেষ্ট। ভয়ভীতির সময়ও নামাজ ছেড়ে দেওয়া যাবে না। আর যখন নিরাপত্তা ফিরে আসবে, তখন যথাযথভাবে পরিপূর্ণ সালাত আদায় করে আল্লাহকে স্মরণ করো। কৃতজ্ঞতা প্রকাশ করো এই জন্য যে, তিনি তোমাদের এমন জ্ঞান ও পথনির্দেশ শিখিয়েছেন যা তোমরা আগে জানতে না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "رجل",
+   "lemma": "رِجال",
+   "meaning_en": "on foot (walking)",
+   "meaning_bn": "পায়ে হেঁটে",
+   "why_en": "Shows the exceptional ease granted in fear, allowing prayer while walking."
+  },
+  {
+   "pos": 5,
+   "root": "ركب",
+   "lemma": "رُكْبان",
+   "meaning_en": "riding (mounted)",
+   "meaning_bn": "সওয়ার হয়ে",
+   "why_en": "Permits praying while mounted on an animal or riding a conveyance when escaping danger."
+  },
+  {
+   "pos": 7,
+   "root": "أمن",
+   "lemma": "أَمِنَ",
+   "meaning_en": "you become safe (secure)",
+   "meaning_bn": "নিরাপদ হও",
+   "why_en": "Signals the transition back to complete, undisturbed prayer once danger has passed."
+  }
+ ],
+ "lesson_en": "Never leave prayer even in danger, and thank Allah when safety returns.",
+ "lesson_bn": "বিপদের মধ্যেও সালাত ত্যাগ করবেন না, আর শান্তি ফিরে এলে কৃতজ্ঞচিত্তে আল্লাহর স্মরণে মশগুল হোন।",
+ "real_life_en": "A traveler trapped in a storm or sudden danger should not skip prayer. He may pray by nodding his head while walking or riding. When he reaches a safe place, he returns to normal prayer with a grateful heart.",
+ "real_life_bn": "ঝড়-বৃষ্টি বা আকস্মিক বিপদে আটকা পড়া কোনো মুসাফিরের নামাজ ছেড়ে দেওয়া উচিত নয়। সে হেঁটে বা বাহনে চলাবস্থায় মাথা নিচু করে ইশারায় নামাজ পড়ে নিতে পারে। পরবর্তীতে নিরাপদ স্থানে পৌঁছালে সে শান্তভাবে স্বাভাবিক নামাজ আদায় করবে।",
+ "context_en": "Follows the general command to guard prayers by explaining how to pray during intense fear or crisis.",
+ "context_bn": "সালাতের গুরুত্বের ধারাবাহিকতায় এখানে চরম সংকট ও যুদ্ধাবস্থায় কীভাবে সালাত আদায় করতে হবে তা স্পষ্ট করা হয়েছে।",
+ "themes": [
+  "prayer",
+  "worship",
+  "remembrance of Allah",
+  "gratitude",
+  "trust in Allah"
+ ],
+ "kinds": [
+  "command",
+  "worship",
+  "law"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "In states of severe danger or battle, prayer remains obligatory and may be offered while walking or riding.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "A person praying under imminent fear may gesture for ruku and sujud and pray in whichever direction is possible.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Once safety is restored, the full form of prayer must be resumed along with grateful remembrance of Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

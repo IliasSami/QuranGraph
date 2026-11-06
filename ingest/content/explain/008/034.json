@@ -1,0 +1,83 @@
+{
+  "id": "8:34",
+  "simple_en": "What right do they have to escape punishment when they block believers from the Sacred Mosque? They are not its true guardians. Its only rightful guardians are the God-fearing, though most deniers do not know.",
+  "simple_bn": "আর তাদের কী অজুহাত আছে যে আল্লাহ তাদের শাস্তি দেবেন না, অথচ তারা মানুষকে মসজিদুল হারাম থেকে বাধা দেয়? তারা তো এর প্রকৃত অভিভাবক নয়; এর অভিভাবক কেবল মুত্তাকীগণই, কিন্তু তাদের অধিকাংশ তা জানে না।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "صدد",
+      "lemma": "صَدَّ",
+      "meaning_en": "they obstruct / prevent",
+      "meaning_bn": "তারা বাধা দেয়",
+      "why_en": "Barring the Prophet and Muslims from worshipping at the Kaaba."
+    },
+    {
+      "pos": 9,
+      "root": "سجد",
+      "lemma": "مَسْجِد",
+      "meaning_en": "the Sacred Mosque",
+      "meaning_bn": "মসজিদুল হারাম",
+      "why_en": "The sacred sanctuary in Mecca built by Abraham for monotheism."
+    },
+    {
+      "pos": 17,
+      "root": "وقي",
+      "lemma": "مُتَّقي",
+      "meaning_en": "the God-fearing / righteous",
+      "meaning_bn": "মুত্তাকীগণ",
+      "why_en": "Only pure believers in tawhid possess the legitimate right of guardianship."
+    }
+  ],
+  "lesson_en": "Care of holy places belongs to good believers, not proud bullies.",
+  "lesson_bn": "পবিত্র স্থানের অভিভাবকত্ব কোনো বংশীয় বা ক্ষমতার অধিকার নয়, বরং তা একমাত্র তাকওয়াবানদের প্রাপ্য দায়িত্ব।",
+  "real_life_en": "Do not let status, wealth, or ancestry determine who leads places of worship. Leadership in faith belongs to people who fear God, treat others fairly, and live with moral purity. Honor character over power.",
+  "real_life_bn": "মসজিদ বা ধর্মীয় প্রতিষ্ঠানের দায়িত্ব তাদেরই দেওয়া উচিত যাদের অন্তরে আল্লাহর ভয় ও সততা রয়েছে, কোনো প্রভাবশালীদের নয়।",
+  "context_en": "Rejecting the Quraysh's false claim of monopoly over the Kaaba while they actively barred righteous believers from entering it.",
+  "context_bn": "কাবাঘরের ওপর কুরাইশদের কর্তৃত্বের দাবি প্রত্যাখ্যান এবং মুত্তাকীদেরই এর একমাত্র বৈধ অভিভাবক হিসেবে ঘোষণা।",
+  "themes": [
+    "Sacred Mosque (Masjid al-Haram)",
+    "guardianship of holy sites",
+    "taqwa",
+    "barring from worship"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "pagan Quraysh",
+      "the righteous"
+    ],
+    "places": [
+      "al-Masjid al-Haram",
+      "Mecca"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Kaaba"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quraysh lost any claim to sanctuary protection by barring Muslims from al-Masjid al-Haram, as true guardianship belongs exclusively to the God-fearing.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

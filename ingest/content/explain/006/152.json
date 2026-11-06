@@ -1,0 +1,82 @@
+{
+  "id": "6:152",
+  "simple_en": "Do not touch an orphan's wealth except to improve and safeguard it, until they reach full maturity. Give full measure and honest weight in all business dealings. Allah does not burden any soul beyond its capacity. When you speak or give testimony, remain strictly just, even against close relatives. Keep your solemn covenants with Allah. These commands are given so that you may take heed.",
+  "simple_bn": "এতিম বয়ঃপ্রাপ্ত না হওয়া পর্যন্ত তার কল্যাণের উদ্দেশ্য ছাড়া তার সম্পদের কাছেও যেয়ো না। ওজন ও পরিমাপে পুরোপুরি ইনসাফ বজায় রাখো। আল্লাহ কোনো ব্যক্তিকেই তার সাধ্যের অতিরিক্ত দায়িত্ব দেন না। যখন কোনো কথা বা সাক্ষ্য দেবে, তখন ন্যায়সংগত কথা বলো, যদিও সে নিকটাত্মীয় হয়। আল্লাহর সাথে কৃত অঙ্গীকার পূর্ণ করো। তিনি তোমাদের এ উপদেশ দিয়েছেন যেন তোমরা শিক্ষা গ্রহণ করো।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "يتم",
+      "lemma": "يَتِيم",
+      "meaning_en": "the orphan",
+      "meaning_bn": "এতিম",
+      "why_en": "Protects vulnerable children who lost their fathers before reaching maturity."
+    },
+    {
+      "pos": 15,
+      "root": "قسط",
+      "lemma": "قِسْط",
+      "meaning_en": "with justice",
+      "meaning_bn": "ন্যায্যভাবে ও সুবিচারসহ",
+      "why_en": "Demands scrupulous equity in commercial measurements and trade."
+    },
+    {
+      "pos": 23,
+      "root": "عدل",
+      "lemma": "عَدَلَ",
+      "meaning_en": "be just in speech",
+      "meaning_bn": "ন্যায়সঙ্গত কথা বলো",
+      "why_en": "Commands truthful speech even when it affects close relatives."
+    }
+  ],
+  "lesson_en": "Protect the money of orphans. Be honest in trade, speak the truth, and keep your promises to Allah.",
+  "lesson_bn": "এতিমের হক রক্ষা করুন, ব্যবসা-বাণিজ্যে ওজনে সততা বজায় রাখুন এবং আত্মীয় হলেও সবসময় ইনসাফের সাথে কথা বলুন।",
+  "real_life_en": "Manage money left for orphans with total honesty until they grow up. In your job or shop, give people full measure and full hours. When family members dispute, tell the truth without taking sides.",
+  "real_life_bn": "এতিমের কোনো সম্পদ দেখাশোনার দায়িত্ব পেলে তা বিশ্বস্ততার সাথে রক্ষা করুন। ব্যবসা বা কেনাবেচায় ওজনে কখনো কম দেবেন না। পারিবারিক কোনো সালিশে আপন ভাই বা আত্মীয়ের পক্ষ না নিয়ে ন্যায্য কথা বলুন।",
+  "context_en": "Continuing the core moral commandments, Allah outlines rules for protecting vulnerable orphans, commercial honesty, and impartial justice.",
+  "context_bn": "মৌলিক বিধানের ধারাবাহিকতায় আল্লাহ এতিমের সম্পদ রক্ষা, ব্যবসা-বাণিজ্যে সততা এবং আত্মীয়দের ক্ষেত্রেও ইনসাফ বজায় রাখার নির্দেশ দিয়েছেন।",
+  "themes": [
+    "orphans",
+    "justice",
+    "honesty",
+    "keeping promises",
+    "ethics"
+  ],
+  "kinds": [
+    "command",
+    "prohibition",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "measure",
+      "balance"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Guardians must protect an orphan's wealth for their benefit until maturity, and traders must maintain honest weights and measures.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Believers must testify with justice even regarding relatives, and fulfill their solemn covenants with Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

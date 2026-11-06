@@ -1,0 +1,89 @@
+{
+  "id": "7:91",
+  "simple_en": "God answered the prayer of Shu'ayb with swift retribution. A violent earthquake struck the land of Madyan. A terrifying tremor shook the ground beneath their feet. By morning, all the arrogant rejecters lay dead in their homes. They fell forward on their chests, lifeless and completely silent.",
+  "simple_bn": "আল্লাহ তাআলা শুআইব (আলাইহিস সালাম)-এর দোয়ার জবাবে পাপীদের ওপর দ্রুত শাস্তি পাঠালেন। মাদইয়ান ভূমিতে এক বিকট শব্দ ও প্রচণ্ড ভূমিকম্প আঘাত হানল। তাদের পায়ের নিচের মাটি তীব্রভাবে কেঁপে উঠল। সকাল হতে না হতেই সেই উদ্ধত অস্বীকারকারীরা তাদের ঘরবাড়িতে উপুড় হয়ে নিথর পড়ে রইল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رجف",
+      "lemma": "رَجْفَة",
+      "meaning_en": "the earthquake or violent tremor",
+      "meaning_bn": "ভূমিকম্প বা প্রচণ্ড কম্পন",
+      "why_en": "The terrifying seismic punishment that struck Madyan."
+    },
+    {
+      "pos": 5,
+      "root": "دور",
+      "lemma": "دار",
+      "meaning_en": "their homes or dwellings",
+      "meaning_bn": "তাদের ঘরবাড়ি",
+      "why_en": "Shows how their familiar domestic spaces became their tombs."
+    },
+    {
+      "pos": 6,
+      "root": "جثم",
+      "lemma": "جاثِم",
+      "meaning_en": "fallen motionless or prone",
+      "meaning_bn": "উপুড় হয়ে পড়ে থাকা বা নিথর",
+      "why_en": "Depicts the lifeless corpses lying motionless on their chests."
+    }
+  ],
+  "lesson_en": "God's retribution strikes suddenly when arrogance reaches its peak. No palace or wealth can stop divine justice.",
+  "lesson_bn": "অহংকার যখন সীমা ছাড়িয়ে যায়, তখন আল্লাহর শাস্তি আকস্মিক আঘাত হানে। কোনো বাড়িঘর বা ধনসম্পদ মানুষকে রক্ষা করতে পারে না।",
+  "real_life_en": "Do not be deceived by strong buildings or modern comfort. Earthquakes and natural disasters remind us how fragile human life really is. Keep your heart humble and ready to meet God at every moment.",
+  "real_life_bn": "পাকা ঘরবাড়ি বা জাগতিক নিরাপত্তার অহংকারে গা ভাসিয়ে দেবেন না। আকস্মিক দুর্যোগ আমাদের স্মরণ করিয়ে দেয় মানুষ কতটা দুর্বল। সবসময় পাপ বর্জন করে চলুন এবং যে কোনো মুহূর্তে আল্লাহর সামনে হাজির হওয়ার প্রস্তুতি রাখুন।",
+  "context_en": "The terrifying punishment of Madyan: a devastating seismic tremor that extinguished their lives inside their own houses.",
+  "context_bn": "মাদইয়ান জাতির ওপর আকস্মিক ভূমিকম্পের আযাব এবং তাদের নিজ নিজ গৃহে উপুড় হয়ে ধ্বংস হওয়ার করুণ দৃশ্য।",
+  "themes": [
+    "divine punishment",
+    "earthquake",
+    "destruction",
+    "Madyan",
+    "end of tyrants"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [
+      "people of Madyan"
+    ],
+    "places": [
+      "Madyan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "destruction of Madyan"
+    ],
+    "things": [
+      "earthquake"
+    ]
+  },
+  "claims": [
+    {
+      "text": "A devastating earthquake and seismic blast struck the people of Madyan as punishment for their disbelief.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "They were left dead inside their own dwellings, fallen motionless upon their faces.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

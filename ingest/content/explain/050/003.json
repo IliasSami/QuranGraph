@@ -1,0 +1,74 @@
+{
+  "id": "50:3",
+  "simple_en": "The deniers asked how they could ever return to life once they die and turn to dust. To their minds, coming back after decay seemed impossible. They used this doubt to deny meeting Allah.",
+  "simple_bn": "অবিশ্বাসীরা প্রশ্ন তুলল যে মৃত্যুর পর শরীর মাটিতে মিশে গেলে কীভাবে আবার জীবন ফিরে আসবে। তাদের ধারণা ছিল এই প্রত্যাবর্তন একেবারেই অসম্ভব। এই সন্দেহের অজুহাতে তারা আল্লাহর সামনে জবাবদিহিতাকে অস্বীকার করল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ترب",
+      "lemma": "تُراب",
+      "meaning_en": "dust",
+      "meaning_bn": "মাটি বা ধূলিকণা",
+      "why_en": "The physical remains of the body after death that the deniers thought could never live again."
+    },
+    {
+      "pos": 6,
+      "root": "رجع",
+      "lemma": "رَجْع",
+      "meaning_en": "a return",
+      "meaning_bn": "প্রত্যাবর্তন",
+      "why_en": "Coming back to life after death, which the skeptics claimed was impossible."
+    },
+    {
+      "pos": 7,
+      "root": "بعد",
+      "lemma": "بَعِيد",
+      "meaning_en": "far-fetched",
+      "meaning_bn": "সুদূরপরাহত",
+      "why_en": "The deniers viewed resurrection as distant from reality and impossible."
+    }
+  ],
+  "lesson_en": "Never doubt Allah's power. He can easily do what seems impossible to your mind.",
+  "lesson_bn": "নিজের সীমাবদ্ধ বুদ্ধি দিয়ে মহান আল্লাহর অসীম ক্ষমতা পরিমাপ করতে যাবেন না।",
+  "real_life_en": "When you face a hard problem, do not lose hope. Trust that Allah has the power to open a way for you.",
+  "real_life_bn": "কোনো সংকট সমাধান করা আপাতদৃষ্টিতে অসম্ভব মনে হলেও হতাশ না হয়ে আল্লাহর ক্ষমতার উপর আস্থা রাখুন।",
+  "context_en": "The deniers state their central objection to the resurrection: returning to life after turning to dust.",
+  "context_bn": "মাটি হয়ে যাওয়ার পর পুনরায় জীবিত হওয়ার ব্যাপারে অবিশ্বাসীদের মূল আপত্তির কথা এখানে তুলে ধরা হয়েছে।",
+  "themes": [
+    "resurrection",
+    "the Last Day",
+    "disbelief"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelievers rejected resurrection, claiming that returning to life after turning to dust is impossible.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,76 @@
+{
+ "id": "70:11",
+ "simple_en": "They will be shown to one another, so no one can pretend not to see. Still, the guilty person will wish he could hand over his own children to take his punishment. Fear will make people ready to give up the dearest things they have.",
+ "simple_bn": "তাদের একে অপরকে দেখানো হবে, তাই কেউ এড়িয়ে যেতে পারবে না। তবু অপরাধী ব্যক্তি চাইবে, তার শাস্তি নেওয়ার জন্য নিজের সন্তানদের সামনে এগিয়ে দিতে। ভয়ের চাপে মানুষ তার সবচেয়ে প্রিয় জিনিসও ছেড়ে দিতে রাজি হয়ে যাবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "بصر",
+   "lemma": "يُبَصَّرُ",
+   "meaning_en": "they are shown",
+   "meaning_bn": "তাদের দেখানো হয়",
+   "why_en": "From sight: the people are made to see one another clearly."
+  },
+  {
+   "pos": 3,
+   "root": "جرم",
+   "lemma": "مُجْرِم",
+   "meaning_en": "the guilty one",
+   "meaning_bn": "অপরাধী",
+   "why_en": "The one who cut himself off from the truth by his own deeds."
+  },
+  {
+   "pos": 5,
+   "root": "فدي",
+   "lemma": "افْتَدَى",
+   "meaning_en": "to ransom himself",
+   "meaning_bn": "নিজেকে মুক্তিপণে ছাড়াতে",
+   "why_en": "To pay a price in exchange for being let go, which will not work here."
+  }
+ ],
+ "lesson_en": "Guilt looks for a way out, but on that Day no substitute can be found.",
+ "lesson_bn": "অপরাধ সদা মুক্তির পথ খোঁজে, কিন্তু সেই দিনে কোনো বদলি পাওয়া যাবে না।",
+ "real_life_en": "A driver causes a crash and at once looks for someone else to blame. Excuses come easily when we fear the cost. Yet there are moments when no excuse and no substitute will be accepted.",
+ "real_life_bn": "একজন চালক দুর্ঘটনা ঘটিয়ে সঙ্গে সঙ্গে অন্য কাউকে দোষ দেওয়ার পথ খোঁজে। ভয় লাগলে অজুহাত সহজেই মুখে এসে যায়। কিন্তু এমন কিছু মুহূর্ত আসে, যখন কোনো অজুহাত বা বদলি গ্রহণ করা হয় না।",
+ "themes": [
+  "the Last Day",
+  "judgment",
+  "punishment"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "day of judgement"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Every person will see their relatives clearly, yet no one will ask about another because of the horror.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The guilty one will wish to ransom himself from the punishment with his children.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

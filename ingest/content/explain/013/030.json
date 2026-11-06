@@ -1,0 +1,83 @@
+{
+  "id": "13:30",
+  "simple_en": "Allah sent the Prophet to a community just as He sent messengers to past nations. His task was to recite divine revelation to them. Yet they showed ingratitude by denying the Most Merciful. Say that He alone is your Lord, and upon Him you rely.",
+  "simple_bn": "আল্লাহ নবীজীকে এই উম্মতের কাছে পাঠিয়েছেন যেমন পূর্বে বহু উম্মতের কাছে রসূল পাঠানো হয়েছিল। তাঁর দায়িত্ব ছিল তাদের কাছে ওহী তিলাওয়াত করা। অথচ তারা পরম দয়ালু রহমানকে অস্বীকার করে। বলুন, তিনিই আমার রব, তিনি ছাড়া কোনো মাবূদ নেই এবং তাঁর ওপরই আমি ভরসা করি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "We sent you",
+      "meaning_bn": "আমরা আপনাকে পাঠিয়েছি",
+      "why_en": "The divine appointment of the Prophet to convey the final message."
+    },
+    {
+      "pos": 10,
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "to recite",
+      "meaning_bn": "তিলাওয়াত করতে",
+      "why_en": "Reciting the revealed verses accurately to listeners."
+    },
+    {
+      "pos": 17,
+      "root": "رحم",
+      "lemma": "رَحْمٰن",
+      "meaning_en": "the Most Merciful",
+      "meaning_bn": "পরম দয়ালু রহমান",
+      "why_en": "Divine name of boundless mercy that the deniers rejected."
+    },
+    {
+      "pos": 26,
+      "root": "وكل",
+      "lemma": "تَوَكَّلْ",
+      "meaning_en": "I rely",
+      "meaning_bn": "আমি ভরসা করি",
+      "why_en": "Placing complete trust in Allah amid opposition."
+    }
+  ],
+  "lesson_en": "Place your full trust in Allah even when others reject His mercy.",
+  "lesson_bn": "অন্যরা আল্লাহর রহমত অস্বীকার করলেও আপনি সম্পূর্ণ ভরসা কেবল আল্লাহর ওপরই রাখুন।",
+  "real_life_en": "A teacher faces harsh criticism for sharing good values in class. She stays calm, speaks with gentle words, and puts her trust in God to guide people.",
+  "real_life_bn": "এক শিক্ষিকা নীতিশিক্ষা দিতে গিয়ে বাধার মুখে পড়েন। তিনি উত্তেজিত না হয়ে নম্র সুরে কথা বলেন এবং আল্লাহর ওপর পূর্ণ আস্থা রেখে নিজের দায়িত্ব পালন করেন।",
+  "context_en": "The prophetic mission among past and present nations and relying on Ar-Rahman.",
+  "context_bn": "পূর্ববর্তী উম্মতের ধারাবাহিকতায় নবীজীর আগমন এবং রাহমানের প্রতি তাওয়াক্কুল।",
+  "themes": [
+    "prophethood",
+    "revelation",
+    "mercy",
+    "trust in Allah"
+  ],
+  "kinds": [
+    "belief",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-Rahman"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Prophet was sent to recite revelation, while disbelievers denied the Most Merciful.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

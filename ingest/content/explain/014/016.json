@@ -1,0 +1,78 @@
+{
+  "id": "14:16",
+  "simple_en": "Ahead of every arrogant wrongdoer is Hell. There he will be given boiling, purulent fluid to drink. This foul drink reflects the ugliness of the cruelty he spread in the world.",
+  "simple_bn": "এমন প্রত্যেক অহংকারী জালিমের সামনে অপেক্ষা করছে জাহান্নাম। সেখানে তাকে পান করানো হবে গলিত দুর্গন্ধযুক্ত পুঁজ। এই নিকৃষ্ট পানীয় দুনিয়ায় তার করা জুলুমের উপযুক্ত শাস্তি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "وري",
+      "lemma": "وَراء",
+      "meaning_en": "ahead of him",
+      "meaning_bn": "তার সামনে",
+      "why_en": "Lying in wait after death."
+    },
+    {
+      "pos": 4,
+      "root": "سقي",
+      "lemma": "سَقَى",
+      "meaning_en": "and he will be given drink",
+      "meaning_bn": "এবং তাকে পান করানো হবে",
+      "why_en": "Compelled to drink in torment."
+    },
+    {
+      "pos": 6,
+      "root": "موه",
+      "lemma": "ماء",
+      "meaning_en": "water",
+      "meaning_bn": "পানি",
+      "why_en": "A boiling beverage of retribution."
+    },
+    {
+      "pos": 7,
+      "root": "صدد",
+      "lemma": "صَدِيد",
+      "meaning_en": "purulent fluid",
+      "meaning_bn": "গলিত পুঁজ",
+      "why_en": "Foul discharge of suffering in Hell."
+    }
+  ],
+  "lesson_en": "Unjust actions in this life bring bitter consequences in the Hereafter. Treat everyone with fairness.",
+  "lesson_bn": "দুনিয়ার অন্যায় কাজ পরকালে তিক্ত শাস্তি ডেকে আনে। তাই সকলের সাথে ন্যায়সঙ্গত আচরণ করুন।",
+  "real_life_en": "A corrupt merchant poisons local wells by dumping toxic chemical waste for profit. He ignores warnings. In the Hereafter, such ruthless greed meets its severe punishment.",
+  "real_life_bn": "বেশি লাভের আশায় এক অসাধু ব্যবসায়ী বিষাক্ত বর্জ্য জলাশয়ে ফেলে পানি নষ্ট করে। সতর্কবার্তা উপেক্ষা করা এমন নির্মম লোভ পরকালে কঠিন শাস্তির মুখোমুখি হবে।",
+  "context_en": "Severe punishment awaiting stubborn tyrants in the Hereafter.",
+  "context_bn": "পরকালে দাম্ভিক জালিমদের জন্য জাহান্নামের ভয়াবহ শাস্তির বর্ণনা।",
+  "themes": [
+    "hereafter",
+    "hellfire",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hell awaits the stubborn tyrant where he will be given foul purulent water to drink.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

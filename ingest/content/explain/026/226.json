@@ -1,0 +1,63 @@
+{
+  "id": "26:226",
+  "simple_en": "Those poets speak bold words and make big claims, but they do not do what they say. Their words lack honesty and true good deeds.",
+  "simple_bn": "আর তারা এমন সব বড় বড় কথা বলে যা তারা নিজেরা কাজে পরিণত করে না। তাদের বক্তব্যের সাথে বাস্তব আমলের কোনো মিল থাকে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "يَقُولُونَ",
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "they say",
+      "meaning_bn": "তারা বলে",
+      "why_en": "Making grand claims and vocal boasts."
+    },
+    {
+      "pos": 5,
+      "arabic": "يَفْعَلُونَ",
+      "root": "فعل",
+      "lemma": "فَعَلَ",
+      "meaning_en": "they do",
+      "meaning_bn": "তারা করে",
+      "why_en": "Living up to words through practical actions."
+    }
+  ],
+  "lesson_en": "Speaking good words is not enough without good deeds. Real character is shown by what we do each day.",
+  "lesson_bn": "আমল ছাড়া কেবল ভালো কথা বলা আত্মপ্রবঞ্চনার শামিল। সৎ কাজের মাধ্যমেই প্রকৃত চরিত্রের প্রমাণ পাওয়া যায়।",
+  "real_life_en": "Match your words with your deeds. Never boast about good actions that you have not actually performed.",
+  "real_life_bn": "কথার সাথে কাজের মিল রাখুন। যে ভালো কাজের কথা বলবেন, তা নিজে আগে অনুশীলন করার চেষ্টা করুন।",
+  "themes": [
+    "hypocrisy",
+    "action",
+    "speech"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Such poets say grand words which they do not actually practice.",
+      "claim_bn": "এবং তারা এমন সব কথা বলে যা নিজেরা বাস্তবে করে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

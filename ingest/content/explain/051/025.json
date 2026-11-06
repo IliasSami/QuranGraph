@@ -1,0 +1,62 @@
+{
+  "id": "51:25",
+  "simple_en": "When the visitors entered, they greeted Ibrahim with peace. He responded with a greeting of peace, though he did not recognize them. Even with strangers, he showed polite manners and a calm, kind spirit.",
+  "simple_bn": "মেহমানরা যখন তাঁর কাছে এসে সালাম দিলেন, তখন ইবরাহীম (আলাইহিস সালাম) সালামের উত্তর দিয়ে মনে মনে ভাবলেন যে এরা তো অপরিচিত লোক।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "سلم",
+      "lemma": "سَلام",
+      "meaning_en": "peace",
+      "meaning_bn": "সালাম বা শান্তি",
+      "why_en": "The greeting of peace exchanged between the guests and Ibrahim."
+    },
+    {
+      "pos": 9,
+      "root": "نكر",
+      "lemma": "مُنكَر",
+      "meaning_en": "unknown or unfamiliar",
+      "meaning_bn": "অপরিচিত লোকজন",
+      "why_en": "The guests were unfamiliar visitors whom Ibrahim did not recognize."
+    }
+  ],
+  "lesson_en": "Always greet others with words of peace. A kind greeting brings hearts together.",
+  "lesson_bn": "অপরিচিত মানুষের সাথে দেখা হলেও শান্তির বাণী বা সালামের মাধ্যমে সুন্দর সূচনা করা উচিত।",
+  "real_life_en": "Greet your neighbors and coworkers with a cheerful hello or salam. Spreading greetings of peace softens hearts and builds good feelings.",
+  "real_life_bn": "পরিচিত কিংবা অপরিচিত সবার সাথে দেখা হলে আগে সালাম দিন। সালাম বিনিময়ের মাধ্যমে পারস্পরিক ভালোবাসা ও সম্প্রীতি বৃদ্ধি পায়।",
+  "themes": [
+    "stories of the prophets",
+    "good character",
+    "peace"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The guests greeted Ibrahim with peace, and he returned the greeting while noting that they were unfamiliar to him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

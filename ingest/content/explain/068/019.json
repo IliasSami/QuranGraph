@@ -1,0 +1,69 @@
+{
+  "id": "68:19",
+  "simple_en": "So a raging calamity sent by your Lord swept over the garden at night while they were sound asleep in their beds. In a single hour, their rich crops were completely ruined.",
+  "simple_bn": "অতঃপর রাতের বেলা আপনার প্রতিপালকের পক্ষ থেকে এক বিধ্বংসী বিপর্যয় বাগানের ওপর দিয়ে বয়ে গেল, যখন তারা গভীর ঘুমে মগ্ন ছিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "طوف",
+      "lemma": "طافَ",
+      "meaning_en": "swept over",
+      "meaning_bn": "ঘিরে ফেলল বা আপতিত হলো",
+      "why_en": "Describes the swift arrival of divine retribution during the dark night."
+    },
+    {
+      "pos": 3,
+      "root": "طوف",
+      "lemma": "طائِف",
+      "meaning_en": "a sudden disaster or fire",
+      "meaning_bn": "এক বিধ্বংসী দুর্যোগ",
+      "why_en": "Names the sudden destruction sent while the owners slept."
+    },
+    {
+      "pos": 7,
+      "root": "نوم",
+      "lemma": "نائِم",
+      "meaning_en": "sound asleep",
+      "meaning_bn": "ঘুমন্ত অবস্থায়",
+      "why_en": "Highlights human helplessness when divine judgment strikes unawares."
+    }
+  ],
+  "lesson_en": "Human plans mean nothing when they go against God's moral commands.",
+  "lesson_bn": "আল্লাহর ইচ্ছার বিরুদ্ধে মানুষের কোনো পরিকল্পনা সফল হতে পারে না।",
+  "real_life_en": "A corrupt landlord plans to illegally evict poor tenants overnight. Before morning, a water main bursts and floods his own luxury office. His arrogant plot dissolves in a single night.",
+  "real_life_bn": "অন্যায় ফন্দি এঁটে ঘুমাতে গেলেও আল্লাহর পাকড়াও যে কোনো মুহূর্তে আসতে পারে। অসৎ পরিকল্পনা কখনোই মানুষের জন্য কল্যাণ বয়ে আনে না।",
+  "themes": [
+    "Allah's power",
+    "trials",
+    "punishment"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "A disaster from Allah consumed the garden while its owners were fast asleep.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

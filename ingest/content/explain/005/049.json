@@ -1,0 +1,90 @@
+{
+ "id": "5:49",
+ "simple_en": "Allah directs the Prophet ﷺ to judge between people only by divine revelation. Never compromise with the whims of those who seek unfair favors. Be careful that they do not tempt you away from any part of Allah's law. If they turn away from justice, know that Allah intends to punish them for their sins. In truth, many human beings rebel against divine truth.",
+ "simple_bn": "আল্লাহ তাঁর রাসূল ﷺ-কে নির্দেশ দিচ্ছেন যেন তিনি কেবল ওহীর বিধান অনুযায়ী বিচার ফায়সালা করেন। মানুষের মনগড়া খেয়ালখুশির কোনো তোয়াক্কা না করার আদেশ দেওয়া হয়েছে। সতর্ক থাকতে বলা হয়েছে যাতে তারা আল্লাহর নাযিল করা কোনো বিধান থেকে বিচ্যুত করতে না পারে। তারা যদি সত্য বিধান গ্রহণ না করে মুখ ফিরিয়ে নেয়, তবে জেনে রাখুন আল্লাহ তাদের কিছু পাপের কারণে দুনিয়াতেই শাস্তি দিতে চান। প্রকৃতপক্ষে বহু মানুষই সত্যের বিরোধী ও অবাধ্য।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "حكم",
+   "lemma": "حَكَمَ",
+   "meaning_en": "judge",
+   "meaning_bn": "বিচার ফায়সালা করুন",
+   "why_en": "Direct divine order to rule strictly according to revelation."
+  },
+  {
+   "pos": 9,
+   "root": "هوي",
+   "lemma": "أَهْواء",
+   "meaning_en": "their desires",
+   "meaning_bn": "তাদের কুপ্রবৃত্তি",
+   "why_en": "Warns against adopting subjective human whims in place of revealed truth."
+  },
+  {
+   "pos": 10,
+   "root": "حذر",
+   "lemma": "يَحْذَرُ",
+   "meaning_en": "beware of them",
+   "meaning_bn": "তাদের ব্যাপারে সতর্ক থাকুন",
+   "why_en": "Cautions against subtle pressure from people aiming to compromise divine laws."
+  },
+  {
+   "pos": 26,
+   "root": "صوب",
+   "lemma": "أَصابَ",
+   "meaning_en": "to afflict them",
+   "meaning_bn": "তাদের শাস্তি দেওয়া",
+   "why_en": "Points to Allah's consequence against those who deliberately turn away from guidance."
+  }
+ ],
+ "lesson_en": "Hold firmly to divine principles. Never bend the truth to appease people or gain popularity.",
+ "lesson_bn": "আল্লাহর বিধানে অবিচল থাকুন। মানুষকে খুশি করতে গিয়ে মূলনীতি বিসর্জন দেবেন না।",
+ "real_life_en": "When friends ask you to break rules, stand firm with kindness. Do what is right even when others take shortcuts. A true believer stays honest in all things.",
+ "real_life_bn": "কর্মক্ষেত্রে বা বন্ধুমহলে কোনো অনৈতিক সুবিধা নেওয়ার প্রস্তাব এলে বিনয়ের সাথে প্রত্যাখ্যান করুন। আশেপাশের সবাই ভুল পথ বেছে নিলেও একা সত্যের পথে অটল থাকাই প্রকৃত সততা।",
+ "context_en": "Warns against falling for compromises proposed by those trying to bend divine laws.",
+ "context_bn": "আল্লাহর বিধানে শিথিলতা আনতে চাওয়া সুবিধাবাদীদের কূটকৌশল সম্পর্কে সতর্ক থাকার নির্দেশ।",
+ "themes": [
+  "justice",
+  "revelation",
+  "punishment",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "command",
+  "warning",
+  "prohibition"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Prophet ﷺ was commanded to judge purely by revelation and avoid people's corrupt wishes.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Turning away from divine judgment brings worldly punishment as a result of sins.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.94,
+ "uncertain": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": "51:36",
+  "simple_en": "In that entire city, God found only one household of Muslims. That single faithful home belonged to Prophet Lut (peace be upon him) and his believing daughters. Even when outnumbered, they held fast to the truth.",
+  "simple_bn": "কিন্তু সেই গোটা জনপদে আমরা লুত (আলাইহিস সালাম)-এর পরিবার ছাড়া আর কোনো মুসলিমের ঘর পাইনি।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "بيت",
+      "lemma": "بَيْت",
+      "meaning_en": "a single house",
+      "meaning_bn": "একটি মাত্র পরিবার বা ঘর",
+      "why_en": "Only one household out of the entire town remained faithful."
+    },
+    {
+      "pos": 7,
+      "root": "سلم",
+      "lemma": "مُسْلِم",
+      "meaning_en": "those who submit to God",
+      "meaning_bn": "মুসলিম বা আত্মসমর্পণকারী",
+      "why_en": "Those who submitted fully to God's guidance."
+    }
+  ],
+  "lesson_en": "Do not fear being in the minority when you follow the truth.",
+  "lesson_bn": "সত্যের পথে চলার সময় একা হলেও কখনো হীনম্মন্যতায় ভোগা উচিত নয়।",
+  "real_life_en": "Even if others cheat or lie, choose to do right. A good heart matters more than following the crowd.",
+  "real_life_bn": "আশপাশের সবাই যদি কোনো অন্যায়ে লিপ্ত হয়, তবুও আপনি সততার ওপর অটল থাকুন। সংখ্যাধিক্যের চেয়ে চরিত্রের বিশুদ্ধতাই বড় বিষয়।",
+  "themes": [
+    "stories of the prophets",
+    "faith",
+    "past nations"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "lut"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Only one household of Muslims was found in the city, which was the family of Lot.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

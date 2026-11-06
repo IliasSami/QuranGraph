@@ -1,0 +1,95 @@
+{
+ "id": "2:240",
+ "simple_en": "In early Islam, men who were dying were instructed to leave a bequest providing their widows with housing and maintenance for one full year. The heirs were forbidden from expelling the widow from her home. However, if she chose to leave on her own before the year ended, there was no blame for her lawful choices. Scholars explain that this one-year period was later replaced by the four months and ten days waiting period. Allah is Almighty in power and Wise in His laws.",
+ "simple_bn": "ইসলামের প্রাথমিক যুগে মৃত ব্যক্তিদের এমন ওসিয়ত করার নির্দেশ দেওয়া হয়েছিল, যেন তাদের বিধবা স্ত্রীদের পুরো এক বছর ভরণপোষণ ও ঘর দেওয়া হয়। ওয়ারিশদের জন্য বিধবাকে ঘর থেকে তাড়িয়ে দেওয়া নিষিদ্ধ ছিল। তবে বিধবা যদি এক বছর পূর্ণ হওয়ার আগেই নিজের ইচ্ছায় ঘর ছেড়ে চলে যায়, তবে তার বৈধ সিদ্ধান্তের জন্য কারও কোনো পাপ হবে না। পরবর্তীকালে এই এক বছরের বিধান চার মাস দশ দিনের ইদ্দত এবং মিরাসের আয়াত দ্বারা পরিবর্তিত হয়। নিশ্চয়ই আল্লাহ মহা পরাক্রমশালী ও পরম প্রজ্ঞাময়।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "وصي",
+   "lemma": "وَصِيَّة",
+   "meaning_en": "a bequest (will)",
+   "meaning_bn": "ওসিয়ত (উইল)",
+   "why_en": "Prescribed leaving instructions for the ongoing care of the widow after death."
+  },
+  {
+   "pos": 10,
+   "root": "حول",
+   "lemma": "حَوْل",
+   "meaning_en": "a full year",
+   "meaning_bn": "এক বছর",
+   "why_en": "Designated a full year of housing and provision for the widow in early Islamic legislation."
+  },
+  {
+   "pos": 12,
+   "root": "خرج",
+   "lemma": "إِخْراج",
+   "meaning_en": "turning them out (expulsion)",
+   "meaning_bn": "বের করে দেওয়া",
+   "why_en": "Strictly forbade heirs from evicting the widow from the marital residence."
+  }
+ ],
+ "lesson_en": "Protect widows from harsh treatment, and make sure they have shelter and care.",
+ "lesson_bn": "বিধবাদের প্রতি কঠোর আচরণ করবেন না, এবং তাদের বাসস্থান ও মর্যাদার নিরাপত্তা নিশ্চিত করুন।",
+ "real_life_en": "When a man passes away, his relatives should treat his widow with great care and respect. They must never drive her out of the family home or treat her as an unwanted burden. Instead, they support her and help protect her dignity.",
+ "real_life_bn": "পরিবারের কোনো পুরুষ মারা গেলে তার রেখে যাওয়া স্ত্রীর প্রতি আত্মীয়দের যত্নশীল হওয়া উচিত। তাকে বাড়ি থেকে তাড়িয়ে দেওয়া বা বোঝা মনে করা অনুচিত। বরং তার অধিকার রক্ষা করে তাকে সম্মানের সাথে আশ্রয় দেওয়া উচিত।",
+ "context_en": "Addresses early legislation concerning maintenance and residence for widows before subsequent rulings were finalized.",
+ "context_bn": "পরবর্তী বিস্তারিত উত্তরাধিকার ও ইদ্দতের বিধান কার্যকর হওয়ার পূর্বে বিধবাদের ভরণপোষণ ও বাসস্থান নিশ্চিত করার প্রাথমিক বিধান এটি।",
+ "themes": [
+  "death",
+  "marriage",
+  "family",
+  "justice",
+  "wealth"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Aziz",
+   "Al-Hakim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "A dying husband was initially instructed to bequeath one year of maintenance and residence for his widow without expulsion.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "If the widow chose to depart voluntarily prior to completing the full year, no sin was incurred by her or the heirs.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The ruling of one full year of waiting and maintenance was abrogated by the four-month-and-ten-day waiting period and inheritance shares.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

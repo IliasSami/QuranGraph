@@ -1,0 +1,62 @@
+{
+ "id": "70:25",
+ "simple_en": "The share is for two kinds of people. One is the person who comes and asks for help. The other is the person in need who never asks, so people do not notice them. Both have a right to that money.",
+ "simple_bn": "এই অংশটা দুই ধরনের মানুষের জন্য। একজন সেই মানুষ, যে এসে সাহায্য চায়। আরেকজন সেই অভাবী, যে কখনো চায় না, তাই লোকজন তাকে খেয়ালও করে না। দুই জনেরই সেই সম্পদে অধিকার আছে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "سأل",
+   "lemma": "سائِل",
+   "meaning_en": "the one who asks",
+   "meaning_bn": "যে চায়",
+   "why_en": "It covers the poor person who openly asks for help."
+  },
+  {
+   "pos": 2,
+   "root": "حرم",
+   "lemma": "مَحْرُوم",
+   "meaning_en": "the deprived",
+   "meaning_bn": "বঞ্চিত",
+   "why_en": "The root points to someone cut off from provision, often the one too shy to beg."
+  }
+ ],
+ "lesson_en": "Remember the people in need who never ask; they are the easiest to overlook.",
+ "lesson_bn": "যারা অভাবের কথা কখনো বলে না, তাদের কথা ভাবুন; তারাই সবচেয়ে সহজে চোখের আড়ালে পড়ে যায়।",
+ "real_life_en": "In your street lives an old man who never asks anyone for anything. You hear later that he sometimes skips meals. Leaving a bag of rice at his door, without making him feel small, is the kind of giving this ayah points to.",
+ "real_life_bn": "আপনার গলিতে এক বৃদ্ধ থাকেন, কাউকে কিছু চান না। পরে শোনা গেল, তিনি অনেক দিন ঠিকমতো খান না। তাকে ছোট না করে চুপচাপ তাঁর দরজায় এক ব্যাগ চাল রেখে আসা এই আয়াতের শিক্ষার সঙ্গে মেলে।",
+ "context_en": "This ayah explains who receives the fixed share mentioned just before it.",
+ "context_bn": "আগের আয়াতে যে নির্ধারিত অংশের কথা ছিল, এই আয়াতে বলা হলো সেটা কারা পাবে।",
+ "themes": [
+  "charity",
+  "wealth",
+  "justice"
+ ],
+ "kinds": [
+  "belief",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The due share goes to the one who asks and also to the one who is deprived but does not ask, so people overlook him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

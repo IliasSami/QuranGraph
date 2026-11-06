@@ -1,0 +1,70 @@
+{
+  "id": "63:2",
+  "simple_en": "The hypocrites take their false oaths as a shield to hide their true disbelief. By doing this, they protect themselves from harm and turn people away from the path of Allah. Evil indeed is what they have been doing.",
+  "simple_bn": "মুনাফিকরা তাদের মিথ্যা শপথগুলোকে ঢাল হিসেবে ব্যবহার করে নিজেদের গোপন কুফরি লুকিয়ে রাখে। এর মাধ্যমে তারা মানুষকে আল্লাহর পথ থেকে দূরে সরিয়ে দেয়। তাদের কৃতকর্ম কতই না নিকৃষ্ট।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "يمن",
+      "lemma": "يَمِين",
+      "meaning_en": "their oaths",
+      "meaning_bn": "তাদের শপথসমূহ",
+      "why_en": "Swearing false oaths in God's name to deceive the community."
+    },
+    {
+      "pos": 3,
+      "root": "جنن",
+      "lemma": "جُنَّة",
+      "meaning_en": "a shield and cover",
+      "meaning_bn": "ঢাল বা আবরণ",
+      "why_en": "Using oaths as armor to protect themselves from exposure."
+    },
+    {
+      "pos": 4,
+      "root": "صدد",
+      "lemma": "صَدَّ",
+      "meaning_en": "and they turned away and hindered",
+      "meaning_bn": "অতঃপর তারা বাধা সৃষ্টি করল",
+      "why_en": "Preventing others and themselves from following the straight path."
+    }
+  ],
+  "lesson_en": "Never swear false oaths to deceive others, for using God's name as a cover is a grave sin.",
+  "lesson_bn": "নিজের অসৎ উদ্দেশ্য ঢাকতে আল্লাহর নামে মিথ্যা শপথ করা অত্যন্ত গর্হিত এবং ধ্বংসাত্মক অপরাধ।",
+  "real_life_en": "A dishonest seller swears by God that a broken machine is brand new. He uses the sacred oath to trick an unsuspecting buyer. Exploiting religion for personal gain destroys one's soul and ruins public trust.",
+  "real_life_bn": "ত্রুটিপূর্ণ পণ্য বিক্রি করতে গিয়ে যারা মিথ্যা কসম খায়, তারা সাময়িক লাভ করলেও আখিরাত হারায়। সত্য গোপন করার জন্য ধর্মের অপব্যবহার করা মারাত্মক অন্যায়।",
+  "themes": [
+    "false oaths as a shield",
+    "hindering from Allah's path",
+    "evil deeds"
+  ],
+  "kinds": [
+    "warning",
+    "ethics",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The hypocrites used their oaths as a shield to protect themselves and hinder others from Allah's path, and evil is what they did.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

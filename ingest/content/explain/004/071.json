@@ -1,0 +1,90 @@
+{
+ "id": "4:71",
+ "simple_en": "Allah tells the believers to stay alert and guard themselves against harm. When you face danger, be wise and ready. You may march out in small groups, or you may move forward together as one large body. True faith means taking smart steps while trusting in Allah.",
+ "simple_bn": "আল্লাহ মুমিনদের নির্দেশ দিচ্ছেন শত্রুর আক্রমণ ও বিপদ-আপদ থেকে আত্মরক্ষার জন্য প্রয়োজনীয় সতর্কতা অবলম্বন করতে। পরিস্থিতি অনুযায়ী হয় ছোট ছোট দলে বিভক্ত হয়ে অগ্রসর হতে হবে, নয়তো সকলে একত্রিত হয়ে একতাবদ্ধভাবে কাজ করতে হবে। সতর্ক প্রস্তুতি ও প্রজ্ঞা রক্ষা করার অপরিহার্য অঙ্গ।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "حذر",
+   "lemma": "حِذْر",
+   "meaning_en": "your precautions or guard",
+   "meaning_bn": "তোমাদের সতর্কতা",
+   "why_en": "Commands taking practical measures and preparation against danger rather than acting heedlessly."
+  },
+  {
+   "pos": 6,
+   "root": "نفر",
+   "lemma": "نَفَرَ",
+   "meaning_en": "then advance or go forth",
+   "meaning_bn": "অতঃপর বের হও বা অগ্রসর হও",
+   "why_en": "Calls the community to mobilize with readiness and discipline to protect society."
+  },
+  {
+   "pos": 7,
+   "root": "ثبي",
+   "lemma": "ثُبَة",
+   "meaning_en": "in small detachments or groups",
+   "meaning_bn": "দলে দলে বা পৃথক সেনাদলে",
+   "why_en": "Shows practical tactical flexibility: deploying in coordinated units or as one united body."
+  },
+  {
+   "pos": 10,
+   "root": "جمع",
+   "lemma": "جَمِيع",
+   "meaning_en": "all together as one",
+   "meaning_bn": "সকলে একসাথে বা সম্মিলিতভাবে",
+   "why_en": "Emphasizes the power of collective unity when full mobilization is needed."
+  }
+ ],
+ "lesson_en": "Take good care to protect yourself and others, and trust in Allah at all times.",
+ "lesson_bn": "আল্লাহর উপর ভরসা রাখার পাশাপাশি যেকোনো বিপদ মোকাবেলায় প্রয়োজনীয় প্রস্তুতি ও সতর্কতা বজায় রাখুন।",
+ "real_life_en": "A storm is about to hit a small village. The families do not sit idly and hope for the best. They pack emergency bags, check on old neighbors, and board up their windows together to stay safe.",
+ "real_life_bn": "প্রাকৃতিক দুর্যোগ বা সংকটের সময় কোনো প্রস্তুতি না নিয়ে বসে না থেকে নিরাপদ আশ্রয় খোঁজা ও প্রতিবেশীদের সাথে সমন্বয় করে সতর্কতা গ্রহণ করাই কুরআনের শিক্ষা।",
+ "context_en": "Begins a passage on military readiness and defending the community, instructing the believers to combine practical caution with courage.",
+ "context_bn": "মদীনার মুসলিম সমাজের নিরাপত্তা রক্ষায় উদাসীনতা পরিহার করে সুপরিকল্পিত সতর্কতা ও প্রস্তুতি গ্রহণের নির্দেশনা দিয়ে এই অংশটি শুরু হয়েছে।",
+ "themes": [
+  "struggle in Allah's way",
+  "unity",
+  "trust in Allah",
+  "good character"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are commanded to take full precautions against their enemies and prepare protective measures.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Depending on strategic need, believers advance either in organized detachments or all together as a unified force.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

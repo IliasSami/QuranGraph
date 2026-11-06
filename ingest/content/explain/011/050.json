@@ -1,0 +1,86 @@
+{
+  "id": "11:50",
+  "simple_en": "And to the people of Ad, We sent their brother Hud as a prophet. He said: O my people, worship Allah alone; you have no deity worthy of worship other than Him. All the idols you invent are pure falsehood.",
+  "simple_bn": "আর ‘আদ জাতির কাছে আমরা তাদের ভাই হূদকে পাঠিয়েছিলাম। তিনি বললেন: হে আমার সম্প্রদায়! তোমরা আল্লাহর ইবাদত করো, তিনি ছাড়া তোমাদের অন্য কোনো সত্য উপাস্য নেই; তোমরা তো কেবল মিথ্যা উদ্ভাবন করছ।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عود",
+      "lemma": "عاد",
+      "meaning_en": "Ad",
+      "meaning_bn": "আদ জাতি",
+      "why_en": "The powerful ancient Arabian nation."
+    },
+    {
+      "pos": 4,
+      "root": "هود",
+      "lemma": "هُود",
+      "meaning_en": "Hud",
+      "meaning_bn": "হূদ (আলাইহিস সালাম)",
+      "why_en": "The noble prophet sent to guide his people."
+    },
+    {
+      "pos": 7,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "worship",
+      "meaning_bn": "ইবাদত করো",
+      "why_en": "The foundational call to pure monotheism."
+    },
+    {
+      "pos": 17,
+      "root": "فري",
+      "lemma": "مُفْتَري",
+      "meaning_en": "inventors of falsehood",
+      "meaning_bn": "মিথ্যা উদ্ভাবনকারী",
+      "why_en": "Fabricating false idols and partners with God."
+    }
+  ],
+  "lesson_en": "Every prophet called their people to worship the one true God and abandon false idols.",
+  "lesson_bn": "সকল নবীর মূল শিক্ষা ছিল এক আল্লাহর ইবাদত করা এবং সমস্ত মিথ্যা দেবদেবী বর্জন করা।",
+  "real_life_en": "Keep your worship pure and free from superstition. Turn only to the Creator in times of need rather than relying on created things.",
+  "real_life_bn": "যেকোনো সাহায্য ও দোয়ার জন্য একমাত্র আল্লাহর দিকে মুখ ফেরান; কোনো সৃষ্টির কাছে মাথা নত করবেন না।",
+  "themes": [
+    "story of Hud",
+    "people of Ad",
+    "pure monotheism",
+    "rejection of false gods"
+  ],
+  "kinds": [
+    "story",
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Hud (peace be upon him)"
+    ],
+    "nations": [
+      "People of Ad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Hud was dispatched to his brethren of Ad to call them to the exclusive worship of Allah and denounce their fabricated idols.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,91 @@
+{
+ "id": "3:69",
+ "simple_en": "A group among the People of the Scripture wished they could lead you astray from your faith. In reality, they only mislead themselves, because scheming against the truth deepens their own loss. Yet their prejudice blinds them, so they do not even realize it.",
+ "simple_bn": "কিতাবধারীদের এক দল মনেপ্রাণে চেয়েছিল যেন তোমাদের সঠিক পথ থেকে বিচ্যুত করতে পারে। কিন্তু তারা কেবল নিজেদেরই পথভ্রষ্ট করছে এবং তারা তা অনুভবও করতে পারছে না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ودد",
+   "lemma": "وَدَّ",
+   "meaning_en": "wished eagerly",
+   "meaning_bn": "মনেপ্রাণে চেয়েছিল",
+   "why_en": "Exposes their deep inner desire to turn believers away from the truth."
+  },
+  {
+   "pos": 2,
+   "root": "طوف",
+   "lemma": "طائِفَة",
+   "meaning_en": "a faction / group",
+   "meaning_bn": "একটি দল",
+   "why_en": "Specifies that this malicious intent was held by a faction, not every single individual."
+  },
+  {
+   "pos": 7,
+   "root": "ضلل",
+   "lemma": "أَضَلَّ",
+   "meaning_en": "they lead you astray",
+   "meaning_bn": "তোমাদেরকে বিভ্রান্ত করতে",
+   "why_en": "The goal of corrupting believers away from the straight path."
+  },
+  {
+   "pos": 13,
+   "root": "شعر",
+   "lemma": "شَعَرَ",
+   "meaning_en": "they perceive",
+   "meaning_bn": "তারা উপলব্ধি করে",
+   "why_en": "Shows that their hostility blinded them to the self-destructive reality of their plots."
+  }
+ ],
+ "lesson_en": "Scheming to pull others away from truth only harms your own soul.",
+ "lesson_bn": "কাউকে সত্য পথ থেকে সরিয়ে দেওয়ার অপচেষ্টা মূলত নিজেরই আত্মিক বিনাশ ডেকে আনে।",
+ "real_life_en": "Be cautious of peers who try to tempt you away from your moral values and duties. Stay grounded in good company. Remember that those who urge you toward wrong are ultimately digging a pit for themselves.",
+ "real_life_bn": "যারা আপনাকে অন্যায় বা নৈতিক স্খলনের দিকে প্ররোচিত করে, তাদের সঙ্গ এড়িয়ে চলুন। সৎ পথে অবিচল থাকুন এবং জেনে রাখুন যে অন্যকে বিপথগামী করার চেষ্টা নিজের জন্যই ক্ষতিকর।",
+ "context_en": "Alerts the believers to the hostile desires of a faction among the People of the Book who tried to misguide them.",
+ "context_bn": "কিতাবধারীদের একটি দলের কুপ্রবৃত্তি ও চক্রান্ত সম্পর্কে মুমিনদের সতর্ক করা হয়েছে।",
+ "themes": [
+  "guidance",
+  "misguidance",
+  "warning",
+  "trials",
+  "hypocrisy"
+ ],
+ "kinds": [
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "People of the Book"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "A faction among the People of the Scripture desired to turn believers away from Islam.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Their plots only result in their own misguidance and ruin, though they do not realize it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": "54:20",
+  "simple_en": "The violent wind tore people from the ground and flung them down on their heads. They lay dead across the earth like uprooted trunks of date palm trees, empty and lifeless.",
+  "simple_bn": "সেই ভয়াল বাতাস মানুষকে মাটি থেকে তুলে সজোরে আছড়ে ফেলল। তাদের নিথর দেহগুলো শিকড় উপড়ানো খেজুর গাছের গুঁড়ির মতো চারদিকে ছড়িয়ে ছিটিয়ে পড়ে রইল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نزع",
+      "lemma": "نَزَعَ",
+      "meaning_en": "snatching away",
+      "meaning_bn": "উপড়ে ফেলে",
+      "why_en": "Portrays the wind violently lifting heavily built men off their feet."
+    },
+    {
+      "pos": 6,
+      "root": "قعر",
+      "lemma": "مُنْقَعِر",
+      "meaning_en": "uprooted",
+      "meaning_bn": "শিকড়সহ উপড়ানো",
+      "why_en": "Vividly likens the dead bodies to hollowed date palms ripped out by their roots."
+    }
+  ],
+  "lesson_en": "Human strength is weak against the mighty power of Allah.",
+  "lesson_bn": "শারীরিক শক্তি বা ধনসম্পদ মহান আল্লাহর শাস্তির সামনে মানুষকে রক্ষা করতে পারে না।",
+  "real_life_en": "A bodybuilder brags about his physical power and looks down on weaker people. Sudden sickness puts him in bed for weeks, unable to stand alone. Human strength is frail and temporary.",
+  "real_life_bn": "একজন সুস্থ ও সবল মানুষ নিজের শারীরিক শক্তি নিয়ে অহংকার করে। কিন্তু সামান্য অসুস্থতা তাকে বিছানায় ফেলে দেয়। মানুষের শক্তি আসলে ক্ষণস্থায়ী এবং পরম ক্ষমতার মালিক কেবল আল্লাহ।",
+  "themes": [
+    "human nature",
+    "past nations",
+    "Allah's power"
+  ],
+  "kinds": [
+    "story",
+    "parable"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "ad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The wind tore people up and threw them down as if they were uprooted trunks of palm trees.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,83 @@
+{
+ "id": "4:55",
+ "simple_en": "Some of them believed in this divine message, while others turned away from it in pride. Hell is sufficient for those who turn away as a blazing fire.",
+ "simple_bn": "আহলে কিতাবের কিছু লোক পূর্ববর্তী নবীদের ওপর নাযিলকৃত ওহির প্রতি এবং মুহাম্মাদ ﷺ-এর ওপর ঈমান এনেছিল। কিন্তু তাদের অনেকে সত্য থেকে মুখ ফিরিয়ে নিয়ে অন্যদেরও এর পথ থেকে বাধা দিয়েছিল। আর যারা এমন ঔদ্ধত্য দেখিয়ে সত্য প্রত্যাখ্যান করে, তাদের শাস্তির জন্য জাহান্নামের প্রজ্বলিত আগুনই যথেষ্ট।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "أمن",
+   "lemma": "آمَنَ",
+   "meaning_en": "believed",
+   "meaning_bn": "ঈমান এনেছে",
+   "why_en": "Acknowledges that sincere individuals among earlier communities did accept the truth."
+  },
+  {
+   "pos": 7,
+   "root": "صدد",
+   "lemma": "صَدَّ",
+   "meaning_en": "turned away or barred",
+   "meaning_bn": "মুখ ফিরিয়ে নিয়েছে বা বাধা দিয়েছে",
+   "why_en": "Indicates both personal turning away from truth and actively obstructing others from it."
+  },
+  {
+   "pos": 11,
+   "root": "سعر",
+   "lemma": "سَعِير",
+   "meaning_en": "as a blazing fire",
+   "meaning_bn": "প্রজ্বলিত অগ্নিরূপে",
+   "why_en": "Names the intense, scorching fire prepared as retribution for obstinate disbelievers."
+  }
+ ],
+ "lesson_en": "People choose to follow truth or turn away. Hell is enough for those who reject guidance.",
+ "lesson_bn": "সত্যের বার্তা পৌঁছামাত্র তা গ্রহণ করুন এবং অবাধ্যতা ও সত্য বিমুখতার ভয়াবহ পরিণতি সম্পর্কে সতর্ক থাকুন।",
+ "real_life_en": "When you share good advice, some will accept it while others ignore it. Do not feel crushed. Do your part with kindness and trust Allah with results.",
+ "real_life_bn": "কোনো সঠিক উপদেশ বা সতর্কবাণী শুনলে তা অহংকার করে উড়িয়ে দেবেন না। সত্যকে আন্তরিকভাবে গ্রহণ করলে অন্তরে প্রশান্তি মেলে এবং পথভ্রষ্টতা থেকে রক্ষা পাওয়া যায়।",
+ "context_en": "Shows the historical division of people regarding divine guidance and warns of the punishment for rejection.",
+ "context_bn": "ওহির আহ্বানে মানুষের দ্বিধাবিভক্ত প্রতিক্রিয়া এবং অস্বীকারকারীদের জন্য নির্ধারিত জাহান্নামের পরিণাম উল্লেখ করা হয়েছে।",
+ "themes": [
+  "faith",
+  "disbelief",
+  "Hell",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Some among earlier nations and the People of the Book believed in the revelation, while others rejected it and turned people away.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Hell is fully sufficient as a blazing fire to punish those who persistently reject the truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

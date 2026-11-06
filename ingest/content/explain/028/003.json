@@ -1,0 +1,71 @@
+{
+  "id": "28:3",
+  "simple_en": "God recites the true story of Moses and Pharaoh to the Prophet. This history is not a myth. It holds vital lessons and deep wisdom for all people who believe.",
+  "simple_bn": "আমরা বিশ্বাসী সম্প্রদায়ের উপকারের উদ্দেশ্যে মুসা ও ফেরাউনের সত্য ঘটনা সঠিকভাবে আপনার কাছে বর্ণনা করছি।",
+  "key_words": [
+    {
+      "pos": 1,
+      "arabic": "نَتْلُوا۟",
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "We recite",
+      "meaning_bn": "আমরা পাঠ করি",
+      "why_en": "Divine recitation of true historical accounts."
+    },
+    {
+      "pos": 7,
+      "arabic": "بِٱلْحَقِّ",
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "with truth",
+      "meaning_bn": "সত্যসহকারে",
+      "why_en": "Grounded in historical and moral truth without doubt."
+    }
+  ],
+  "lesson_en": "Quranic stories are grounded in truth. Believers find comfort and wisdom in the lessons of the past.",
+  "lesson_bn": "কুরআনে বর্ণিত ঐতিহাসিক বিবরণ সত্য ও বাস্তব। মুমিনদের জন্য এতে রয়েছে গভীর শিক্ষা।",
+  "real_life_en": "Study the stories in the Quran with care. Use past examples to stay firm in your faith during trials.",
+  "real_life_bn": "কুরআনের ইতিহাস থেকে শিক্ষা গ্রহণ করুন। পূর্ববর্তী জাতিদের পরিণতি থেকে শিক্ষা নিয়ে নিজের জীবনকে সতর্ক রাখুন।",
+  "themes": [
+    "musa",
+    "pharaoh",
+    "prophethood"
+  ],
+  "kinds": [
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh",
+      "Muhammad"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God recites the true story of Moses and Pharaoh for the benefit of believers.",
+      "claim_bn": "আল্লাহ বিশ্বাসী মানুষের উপকারের জন্য মুসা ও ফেরাউনের সত্য ঘটনা পাঠ করে শোনান।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

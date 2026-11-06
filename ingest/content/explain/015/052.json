@@ -1,0 +1,72 @@
+{
+  "id": "15:52",
+  "simple_en": "They entered his home and greeted him with peace. Abraham noticed that they did not eat the food, and he said: We feel afraid of you.",
+  "simple_bn": "তারা তাঁর ঘরে প্রবেশ করে সালাম জানাল। ইবরাহীম লক্ষ্য করলেন তারা খাবার খাচ্ছে না, তাই তিনি বললেন: নিশ্চয় আমরা তোমাদের ব্যাপারে কিছুটা শঙ্কিত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "دخل",
+      "lemma": "دَخَلَ",
+      "meaning_en": "they entered",
+      "meaning_bn": "তারা প্রবেশ করল",
+      "why_en": "Angels entering Abraham's dwelling."
+    },
+    {
+      "pos": 5,
+      "root": "سلم",
+      "lemma": "سَلام",
+      "meaning_en": "peace",
+      "meaning_bn": "সালাম",
+      "why_en": "Greeting of peace."
+    },
+    {
+      "pos": 9,
+      "root": "وجل",
+      "lemma": "وَجِل",
+      "meaning_en": "fearful",
+      "meaning_bn": "শঙ্কিত",
+      "why_en": "Apprehensive due to their refusal to eat."
+    }
+  ],
+  "lesson_en": "It is natural to feel cautious around unknown visitors. Greet others with peace to bring calm to their hearts.",
+  "lesson_bn": "অচেনা মানুষের ব্যাপারে সতর্ক হওয়া মানুষের স্বাভাবিক অনুভূতি। শান্তি ও সালাম বিনিময়ের মাধ্যমে ভয় দূর করুন।",
+  "real_life_en": "A clerk feels nervous when strangers walk into the shop late at night. The visitors greet him with a smile and kind words. The tension eases at once.",
+  "real_life_bn": "দেরিতে আসা অচেনা ক্রেতাদের দেখে এক দোকানি প্রথমে একটু ইতস্তত করে। কিন্তু তারা মুখে হাসি নিয়ে বিনয়ের সাথে কথা বললে তার সব দ্বিধা কেটে যায়।",
+  "context_en": "The arrival of the angelic guests and Abraham's apprehension upon seeing their unfamiliar demeanor.",
+  "context_bn": "মেহমানদের আগমনে সালাম বিনিময় এবং তাদের খাবার গ্রহণ না করায় ইবরাহীমের প্রাথমিক শঙ্কা।",
+  "themes": [
+    "prophets",
+    "peace",
+    "hospitality"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Abraham"
+    ],
+    "unseen": [
+      "Angels"
+    ],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The guests greeted Abraham with peace, but he felt apprehension when they did not eat his food.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

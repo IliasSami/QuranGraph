@@ -1,0 +1,86 @@
+{
+  "id": "5:59",
+  "simple_en": "Say to them, O Prophet: People of the Book, why do you hate us? Is it only because we believe in Allah and His books? We believe in the Quran and past scriptures, while many of you have broken Allah's rules.",
+  "simple_bn": "হে নবী! আপনি বলুন: হে কিতাবধারীগণ! তোমরা কি আমাদের ওপর কেবল এ কারণেই ক্ষুব্ধ যে আমরা আল্লাহর ওপর ঈমান এনেছি এবং যা আমাদের প্রতি ও আমাদের পূর্বে নাযিল হয়েছে তা বিশ্বাস করেছি? অথচ বাস্তব সত্য হলো, তোমাদের অধিকাংশই আল্লাহর অবাধ্য ও পাপাচারী।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نقم",
+      "lemma": "نَقَمُ",
+      "meaning_en": "do you resent / find fault",
+      "meaning_bn": "তোমরা কি দোষ ধরছো",
+      "why_en": "Exposes the unfair hostility directed toward believers purely for their faith."
+    },
+    {
+      "pos": 10,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "in Allah",
+      "meaning_bn": "আল্লাহর ওপর",
+      "why_en": "The core basis of belief that should earn praise rather than resentment."
+    },
+    {
+      "pos": 20,
+      "root": "فسق",
+      "lemma": "فاسِق",
+      "meaning_en": "defiantly disobedient",
+      "meaning_bn": "অবাধ্য ও সত্যত্যাগী",
+      "why_en": "Identifies the root cause of hostility as their own rebellion against divine truth."
+    }
+  ],
+  "lesson_en": "Faith in all of Allah's books is a duty. Do not mind those who dislike your faith.",
+  "lesson_bn": "সত্যের ওপর থাকলে বিরুদ্ধাচরণের শিকার হতে হতে পারে, কিন্তু আল্লাহর প্রতি পূর্ণ বিশ্বাস রাখাই পরম কল্যাণ।",
+  "real_life_en": "If someone makes fun of you for praying, do not feel bad. Living with faith and good manners is a great gift. Stay calm and keep doing good.",
+  "real_life_bn": "সততা বা দ্বীন পালনের কারণে কেউ সমালোচনা করলে মন খারাপ করবেন না। অন্যায়ের কাছে মাথা নত না করে নিজের চরিত্রে অটল থাকা সম্মানের প্রতীক।",
+  "context_en": "Questions the prejudice of critics whose sole grievance is the believers' faith in God's revelations.",
+  "context_bn": "আল্লাহ ও সকল আসমানি কিতাবের প্রতি ঈমান আনার কারণে বিদ্বেষ পোষণকারীদের প্রতি যুক্তিপূর্ণ প্রশ্ন।",
+  "themes": [
+    "faith",
+    "revelation",
+    "disbelief",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "argument",
+    "address",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "People of the Book"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Believers were resented by critics solely because of their faith in Allah and all revealed scriptures.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "The opposition from deniers stems from their own rebellion against Allah's commands.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

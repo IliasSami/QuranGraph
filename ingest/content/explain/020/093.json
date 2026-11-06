@@ -1,0 +1,66 @@
+{
+  "id": "20:93",
+  "simple_en": "Moses asked why he did not come after him right away. He asked if Aaron had disobeyed the orders he gave to keep the people on the true path.",
+  "simple_bn": "মূসা প্রশ্ন চালিয়ে গেলেন: কেন তুমি আমার অনুসরণ করলে না? তুমি কি আমার নির্দেশ অমান্য করলে যা আমি সমাজ সংস্কারের জন্য দিয়েছিলাম?",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "تبع",
+      "lemma": "ٱتَّبَعَ",
+      "meaning_en": "you follow me",
+      "meaning_bn": "আমার অনুসরণ কর",
+      "why_en": "Coming to inform Moses or taking a firmer stand."
+    },
+    {
+      "pos": 3,
+      "root": "عصي",
+      "lemma": "عَصَىٰ",
+      "meaning_en": "did you disobey",
+      "meaning_bn": "তুমি কি অবাধ্য হলে",
+      "why_en": "Checking whether delegated authority was violated."
+    }
+  ],
+  "lesson_en": "Follow agreed plans in bad times. Clear teamwork keeps order when trouble comes.",
+  "lesson_bn": "নেতৃত্বের মধ্যে সুস্পষ্ট পারস্পরিক যোগাযোগ ও আনুগত্য বজায় না থাকলে দলে বিশৃঙ্খলা দেখা দেয়।",
+  "real_life_en": "Stay close to your team in hard times. Work with others to stop confusion from spreading.",
+  "real_life_bn": "সংকটকালে দলের সিদ্ধান্ত ও নির্দেশনা মেনে চলুন। সমন্বয়ের অভাব থাকলে জটিলতা আরও বেড়ে যায়।",
+  "themes": [
+    "leadership",
+    "obedience",
+    "musa",
+    "harun"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Harun"
+    ],
+    "nations": [],
+    "places": [
+      "Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses asked Aaron whether he had disobeyed his instructions by not joining him or taking action.",
+      "claim_bn": "মূসা হারুনকে জিজ্ঞেস করেন যে তিনি তাঁর অনুসরণ না করে কোনো নির্দেশ অমান্য করেছিলেন কি না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

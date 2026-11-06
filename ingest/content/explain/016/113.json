@@ -1,0 +1,61 @@
+{
+  "id": "16:113",
+  "simple_en": "A messenger from among their own people had come to them, but they called him a liar. So the punishment seized them while they were wrongdoers.",
+  "simple_bn": "তাদের নিজেদের মধ্য থেকেই এক রাসুল তাদের কাছে এসেছিলেন, কিন্তু তারা তাঁকে মিথ্যাবাদী বলেছিল। ফলে তারা যখন অন্যায় করছিল তখনই শাস্তি তাদের পাকড়াও করল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "a messenger",
+      "meaning_bn": "রাসুল",
+      "why_en": "A prophet sent from within their own community."
+    },
+    {
+      "pos": 5,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "they denied him",
+      "meaning_bn": "মিথ্যাবাদী বলল",
+      "why_en": "Rejection of the divine warning."
+    }
+  ],
+  "lesson_en": "Rejecting a sincere prophet brings swift ruin. God sends clear warnings before seizing wrongdoers.",
+  "lesson_bn": "সত্য নবীকে অস্বীকার করা জাতির বিনাশ ডেকে আনে। অন্যায়ে লিপ্ত থাকা অবস্থায় আল্লাহর শাস্তি এসে আঘাত হানে।",
+  "real_life_en": "Listen with respect when someone brings you moral truth. Do not let pride make you attack the messenger.",
+  "real_life_bn": "কেউ ভালো উপদেশ দিলে তা মন দিয়ে শুনুন। অহংকার করে শুভাকাঙ্ক্ষীকে প্রত্যাখ্যান করবেন না।",
+  "themes": [
+    "prophethood",
+    "denial",
+    "punishment"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "A messenger came from among them, but they denied him, and punishment seized them in their wrongdoing.",
+      "claim_bn": "তাদের কাছে নিজেদের মধ্য থেকে রাসুল এসেছিলেন কিন্তু তারা তাকে অস্বীকার করায় যুলুমাবস্থায় তাদের ওপর শাস্তি নেমে এলো।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

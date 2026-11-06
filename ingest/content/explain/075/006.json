@@ -1,0 +1,66 @@
+{
+ "id": "75:6",
+ "simple_en": "The denier asks mockingly when this Day of Judgment will come. He does not ask to learn or prepare. Instead, he treats the warning as a joke because he thinks the Day will never arrive. Allah answers by describing the shocking events of that Day.",
+ "simple_bn": "অস্বীকারকারী বিদ্রূপের সুরে জিজ্ঞেস করে, কিয়ামত দিবস কবে আসবে। সে সত্য জানা বা প্রস্তুতির উদ্দেশ্যে এটি জিজ্ঞেস করে না। বরং এই সতর্কবার্তাকে একটি ঠাট্টা মনে করে, যেন এমন দিন কখনোই আসবে না। আল্লাহ এর উত্তরে সেই দিনের ভয়াবহ ঘটনার বর্ণনা দিয়েছেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "سأل",
+   "lemma": "سَأَلَ",
+   "meaning_en": "he asks",
+   "meaning_bn": "সে জিজ্ঞেস করে",
+   "why_en": "The denier asks mockingly rather than seeking truth."
+  },
+  {
+   "pos": 4,
+   "root": "قوم",
+   "lemma": "قِيامَة",
+   "meaning_en": "Resurrection",
+   "meaning_bn": "কিয়ামত",
+   "why_en": "The Day when the dead rise from their graves."
+  }
+ ],
+ "lesson_en": "Do not mock what you do not understand, but prepare for what is certain.",
+ "lesson_bn": "যা বুঝতে পারেন না তা নিয়ে উপহাস করবেন না, বরং যা নিশ্চিত তার জন্য প্রস্তুতি নিন।",
+ "real_life_en": "When people mock faith or ask cynical questions, do not get dragged into silly debates. Stay calm and remember that truth does not depend on whether people accept it.",
+ "real_life_bn": "কেউ বিশ্বাস নিয়ে উপহাস করলে বা কটূক্তি করলে অহেতুক তর্কে জড়াবেন না। শান্ত থাকুন এবং মনে রাখুন, মানুষ অস্বীকার করলেও পরম সত্য কখনোই বদলে যায় না।",
+ "themes": [
+  "disbelief",
+  "the Last Day",
+  "arrogance"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "day-of-judgment"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [
+   "day-of-judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The denier mockingly and skeptically asks when the Day of Resurrection will occur.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

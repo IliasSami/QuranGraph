@@ -1,0 +1,79 @@
+{
+ "id": "5:9",
+ "simple_en": "Allah has made a true promise to those who believe and do good deeds. He will forgive their sins and grant them an immense reward. That great reward is eternal life in Paradise. Allah never breaks His word.",
+ "simple_bn": "যারা ঈমান এনেছে এবং সৎকাজ করেছে, আল্লাহ তাদের সাথে গুনাহ মাফ ও মহা প্রতিদানের ওয়াদা করেছেন। আর তা হলো জান্নাতে চিরস্থায়ী শান্তি। আল্লাহ কখনো তাঁর প্রতিশ্রুতি ভঙ্গ করেন না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "وعد",
+   "lemma": "وَعَدَ",
+   "meaning_en": "He promised",
+   "meaning_bn": "তিনি ওয়াদা করেছেন",
+   "why_en": "Highlights the complete reliability and certainty of Allah's divine promise."
+  },
+  {
+   "pos": 6,
+   "root": "صلح",
+   "lemma": "صالِحَة",
+   "meaning_en": "righteous good deeds",
+   "meaning_bn": "সৎকাজসমূহ",
+   "why_en": "True faith must be accompanied by practical righteous actions."
+  },
+  {
+   "pos": 8,
+   "root": "غفر",
+   "lemma": "مَغْفِرَة",
+   "meaning_en": "forgiveness of sins",
+   "meaning_bn": "গুনাহের ক্ষমা",
+   "why_en": "Sincere believers have their sins pardoned and erased by Allah."
+  }
+ ],
+ "lesson_en": "Believe in Allah and do good. He will forgive your sins and grant you Paradise.",
+ "lesson_bn": "আল্লাহর ওপর ঈমান রাখুন এবং সৎকাজ করুন। তিনি আপনাদের গুনাহ ক্ষমা করবেন এবং জান্নাত দান করবেন।",
+ "real_life_en": "Keep praying, helping the poor, and speaking kind words every day. Even when people fail to thank you, rely on Allah's promise. He records your good deeds and prepares a magnificent reward.",
+ "real_life_bn": "নিয়মিত সালাত পড়ুন, দান করুন এবং মানুষের সাথে সুন্দর আচরণ করুন। দুনিয়ার মানুষ আপনার ভালো কাজের কদর না করলেও হতাশ হবেন না। আল্লাহ আপনার প্রতিটি নেক কাজের জন্য মহা প্রতিদান দেবেন।",
+ "context_en": "Promises eternal reward and forgiveness to believers who uphold faith and justice.",
+ "context_bn": "ন্যায়পরায়ণ ও সৎকর্মশীল মুমিনদের জন্য মাগফিরাত ও জান্নাতের মহা পুরস্কারের সুসংবাদ।",
+ "themes": [
+  "promise of Allah",
+  "forgiveness",
+  "Paradise",
+  "faith and good deeds"
+ ],
+ "kinds": [
+  "promise",
+  "glad-tidings",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Paradise"
+  ],
+  "unseen": [
+   "Paradise"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah has promised those who believe and perform righteous deeds forgiveness for their sins and an immense reward in Paradise.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

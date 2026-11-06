@@ -1,0 +1,64 @@
+{
+  "id": "21:60",
+  "simple_en": "Some in the crowd said: We heard a brave young man speaking critically about these idols. His name is Abraham. They pointed to him as the prime suspect.",
+  "simple_bn": "কিছু লোক বলল: আমরা এক সাহসী যুবককে এই মূর্তিগুলোর সমালোচনা করতে শুনেছি, যার নাম ইবরাহীম। তারা তাঁকেই মূল সন্দেহভাজন হিসেবে উল্লেখ করল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "فتي",
+      "lemma": "فَتًى",
+      "meaning_en": "a young man",
+      "meaning_bn": "এক যুবক",
+      "why_en": "Youthful courage standing alone against society."
+    },
+    {
+      "pos": 4,
+      "root": "ذكر",
+      "lemma": "ذَكَرَ",
+      "meaning_en": "mentioning them",
+      "meaning_bn": "তাদের সমালোচনা করছিল",
+      "why_en": "Known opposition to idolatry."
+    }
+  ],
+  "lesson_en": "A single young person with strong faith can challenge an entire corrupt culture. Youth is a time of courage and high purpose.",
+  "lesson_bn": "দৃঢ় ঈমান থাকলে একজন তরুণও সমগ্র সমাজের অন্যায়ের বিরুদ্ধে দাঁড়াতে পারে। তারুণ্য হলো সাহস ও সত্য প্রতিষ্ঠার শ্রেষ্ঠ সময়।",
+  "real_life_en": "Use your youthful energy to stand for what is right. Defend good values even if you stand alone.",
+  "real_life_bn": "তারুণ্যের শক্তিকে সত্য ও ন্যায়ের পক্ষে কাজে লাগান। সহপাঠী বা বন্ধুদের মাঝে একা হলেও ভালো কাজের পক্ষে দৃঢ় থাকুন।",
+  "themes": [
+    "ibrahim",
+    "youthful-courage",
+    "standing-alone",
+    "faith-in-action"
+  ],
+  "kinds": [
+    "story",
+    "praise"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The people remembered that a young man named Abraham had spoken against their idols and identified him.",
+      "claim_bn": "লোকেরা স্মরণ করল যে ইবরাহীম নামের এক যুবক মূর্তিদের সমালোচনা করত এবং তাকেই চিহ্নিত করল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

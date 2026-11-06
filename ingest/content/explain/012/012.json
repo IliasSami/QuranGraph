@@ -1,0 +1,79 @@
+{
+  "id": "12:12",
+  "simple_en": "They pleaded with Jacob to let Joseph go with them into the pastures the next day. They claimed he would play, eat fresh fruit, and enjoy himself, promising that they would guard him well.",
+  "simple_bn": "তারা বলল, আগামীকাল তাকে আমাদের সাথে মাঠে পাঠান, সে ঘুরে বেড়াবে ও খেলাধুলা করবে। আর আমরা নিশ্চয়ই তার পুরোপুরি দেখাশোনা করব।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "send him",
+      "meaning_bn": "তাকে পাঠান",
+      "why_en": "Urging their father to release him into their custody."
+    },
+    {
+      "pos": 4,
+      "root": "رتع",
+      "lemma": "يَرْتَعْ",
+      "meaning_en": "enjoy / pasture",
+      "meaning_bn": "ঘুরে বেড়াবে / আনন্দ করবে",
+      "why_en": "Luring with outdoors leisure."
+    },
+    {
+      "pos": 5,
+      "root": "لعب",
+      "lemma": "يَلْعَبْ",
+      "meaning_en": "play",
+      "meaning_bn": "খেলাধুলা করবে",
+      "why_en": "Youthful games and sports."
+    },
+    {
+      "pos": 8,
+      "root": "حفظ",
+      "lemma": "حافِظ",
+      "meaning_en": "guardians",
+      "meaning_bn": "সংরক্ষক / পাহারাদার",
+      "why_en": "False promise of vigilant protection."
+    }
+  ],
+  "lesson_en": "Sweet promises of fun and safety can hide deep harm and betrayal.",
+  "lesson_bn": "আনন্দ ও সুরক্ষার আশ্বাসের আড়ালেও কখনো কখনো গভীর বিশ্বাসঘাতকতা লুকিয়ে থাকতে পারে।",
+  "real_life_en": "Be protective of children. Never entrust young ones to those whose inner sincerity has not been proven, even if they promise fun outings.",
+  "real_life_bn": "শিশুদের সুরক্ষার ব্যাপারে বিশেষ সতর্ক থাকুন। বাহ্যিক প্রলোভন বা আশ্বাসে অন্ধভাবে বিশ্বাস করবেন না।",
+  "themes": [
+    "story of Yusuf",
+    "child safety",
+    "false promises"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Yaqub (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers lured Jacob into letting Joseph accompany them by promising outdoor play and guaranteed protection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

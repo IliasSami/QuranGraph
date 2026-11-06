@@ -1,0 +1,75 @@
+{
+  "id": "40:27",
+  "simple_en": "Musa (peace be upon him) sought refuge in his Lord and their Lord. He asked for safety from every proud person who denies the Day of Judgment. He put his trust in Allah alone.",
+  "simple_bn": "মূসা (আলাইহিস সালাম) ঘোষণা করলেন, আমি আমার রব ও তোমাদের রবের নিকট আশ্রয় নিয়েছি এমন প্রত্যেক অহংকারী ব্যক্তি থেকে যে বিচার দিবসে বিশ্বাস করে না। তিনি তাঁর সুরক্ষার ভার আল্লাহর ওপর ছেড়ে দিলেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": null,
+      "lemma": "إِنّ",
+      "meaning_en": "I seek refuge",
+      "meaning_bn": "আমি আশ্রয় নিয়েছি",
+      "why_en": "Turning to divine protection in moments of grave danger."
+    },
+    {
+      "pos": 9,
+      "root": "كبر",
+      "lemma": "مُتَكَبِّر",
+      "meaning_en": "arrogant one",
+      "meaning_bn": "অহংকারী",
+      "why_en": "Describes proud rejectors who look down on others and deny truth."
+    },
+    {
+      "pos": 13,
+      "root": "حسب",
+      "lemma": "حِساب",
+      "meaning_en": "the Account / Reckoning",
+      "meaning_bn": "হিসাব দিবস",
+      "why_en": "Denial of accountability in the Hereafter drives tyrannical behavior."
+    }
+  ],
+  "lesson_en": "Seeking shelter with Allah is the ultimate shield against the threats of proud tyrants.",
+  "lesson_bn": "অহংকারী মানুষের ভয়ভীতি থেকে বাঁচতে একমাত্র আল্লাহর আশ্রয় গ্রহণ করাই মুমিনের সর্বোত্তম ঢাল।",
+  "real_life_en": "When facing bullies or unfair bosses, turn to Allah in prayer. Ask Him for protection from harm and keep your heart free from fear.",
+  "real_life_bn": "কোনো উদ্ধত মানুষের অন্যায় আচরণের শিকার হলে অন্তরে আল্লাহর আশ্রয় প্রার্থনা করুন। মানুষের ভয়ের চেয়ে আল্লাহর সুরক্ষায় ভরসা রাখাই শ্রেয়।",
+  "themes": [
+    "trust in Allah",
+    "arrogance",
+    "the Last Day",
+    "dua"
+  ],
+  "kinds": [
+    "story",
+    "dua",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "musa"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Musa sought refuge in Allah from every arrogant tyrant who disbelieves in the Day of Reckoning.",
+      "claim_bn": "মূসা (আলাইহিস সালাম) হিসাব দিবসে অবিশ্বাসী প্রতিটি উদ্ধত ব্যক্তি থেকে আল্লাহর আশ্রয় গ্রহণ করেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

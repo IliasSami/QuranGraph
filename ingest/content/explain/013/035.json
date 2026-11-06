@@ -1,0 +1,84 @@
+{
+  "id": "13:35",
+  "simple_en": "Paradise is promised to those who remain mindful of Allah. Rivers flow beneath its shady trees. Its delicious fruits and cooling shades will last forever. That is the happy ending for the righteous, while the fire is the ending for deniers.",
+  "simple_bn": "মুত্তাকীদের যে জান্নাতের প্রতিশ্রুতি দেওয়া হয়েছে তার দৃষ্টান্ত হলো: এর তলদেশ দিয়ে নদীসমূহ প্রবাহিত হয়। এর ফলমূল ও ছায়া চিরস্থায়ী। যারা তাকওয়া অবলম্বন করেছে এটি তাদের শুভ পরিণাম, আর কাফিরদের শেষ ঠিকানা হলো আগুন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جنن",
+      "lemma": "جَنَّة",
+      "meaning_en": "Paradise",
+      "meaning_bn": "জান্নাত",
+      "why_en": "The eternal abode of peace and abundant delight."
+    },
+    {
+      "pos": 5,
+      "root": "وقي",
+      "lemma": "مُتَّقي",
+      "meaning_en": "the righteous",
+      "meaning_bn": "মুত্তাকীগণ",
+      "why_en": "Those who protected themselves by obeying Allah's commands."
+    },
+    {
+      "pos": 10,
+      "root": "أكل",
+      "lemma": "أُكُل",
+      "meaning_en": "its fruit/food",
+      "meaning_bn": "এর ফলমূল",
+      "why_en": "Bountiful nourishment in Paradise that never stops or rots."
+    },
+    {
+      "pos": 11,
+      "root": "دوم",
+      "lemma": "دائِم",
+      "meaning_en": "everlasting",
+      "meaning_bn": "চিরস্থায়ী",
+      "why_en": "Never-ending shade and pleasure unlike temporary worldly goods."
+    }
+  ],
+  "lesson_en": "Lead a god-fearing life to inherit eternal gardens of fruit and shade.",
+  "lesson_bn": "আল্লাহকে ভয় করে জীবনযাপন করলে চিরস্থায়ী ফল ও শান্তির জান্নাত লাভ করা যায়।",
+  "real_life_en": "A gardener works in the hot sun. He dreams of the cool shade and sweet rivers of Paradise, so he works with a smile.",
+  "real_life_bn": "এক মালী তীব্র রোদে কাজ করে। সে জান্নাতের শীতল ছায়া ও মিষ্টি নদীর কথা ভেবে হাসিমুখে পরিশ্রম চালিয়ে যায়।",
+  "context_en": "A vivid description of Paradise for the pious contrasted with Hell for deniers.",
+  "context_bn": "মুত্তাকীদের চিরস্থায়ী জান্নাতের বিবরণ এবং কাফিরদের জাহান্নামের পরিণতির তুলনা।",
+  "themes": [
+    "paradise",
+    "piety",
+    "eternal reward",
+    "rivers"
+  ],
+  "kinds": [
+    "parable",
+    "promise",
+    "hereafter",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Paradise",
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "rivers of Paradise"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Paradise has perpetual fruit, shade, and rivers for the righteous, while Hell awaits deniers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

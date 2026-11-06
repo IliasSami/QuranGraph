@@ -1,0 +1,62 @@
+{
+  "id": "59:14",
+  "simple_en": "They will not stand and fight you face-to-face unless they are inside fortified towns or hiding behind high walls. Their internal rivalry and conflict among themselves are fierce. You may see them as a united group, but their hearts are completely divided. This happens because they are a people who do not use their reason.",
+  "simple_bn": "সুরক্ষিত দুর্গ বা প্রাচীরের আড়াল ছাড়া তারা কখনো তোমাদের সামনে এসে লড়বে না। নিজেদের মধ্যে তাদের পারস্পরিক দ্বন্দ্ব অত্যন্ত তীব্র। বাইরে থেকে তাদের ঐক্যবদ্ধ মনে হলেও তাদের অন্তরগুলো একে অন্যের থেকে বিভক্ত। এমনটি ঘটে কারণ তারা বিবেকবুদ্ধি দিয়ে সত্য বিবেচনা করে না।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "حصن",
+      "lemma": "مُحَصَّنَة",
+      "meaning_en": "fortified",
+      "meaning_bn": "সুরক্ষিত",
+      "why_en": "Shows their reliance on barriers due to lack of courage."
+    },
+    {
+      "pos": 18,
+      "root": "شتت",
+      "lemma": "شَتَّى",
+      "meaning_en": "divided and fragmented",
+      "meaning_bn": "বিচ্ছিন্ন ও বিভক্ত",
+      "why_en": "Describes the deep inner discord within their ranks despite an outward front."
+    }
+  ],
+  "lesson_en": "People who do not stand on truth will break apart from inside.",
+  "lesson_bn": "সত্য ও ন্যায়ের ভিত্তি ছাড়া গড়ে ওঠা কৃত্রিম ঐক্য বিপদের মুখে দ্রুত ভেঙে যায়।",
+  "real_life_en": "A sports team may wear the same shirt and smile for photos. But if the players only care about themselves, they will lose the game. Without good hearts and shared care, no group can stay strong.",
+  "real_life_bn": "একটি দলের সদস্যরা ক্যামেরার সামনে হাসিমুখে নিজেদের ঐক্য প্রকাশ করতে পারে। কিন্তু ভেতরে প্রত্যেকে কেবল নিজ স্বার্থ উদ্ধারে ব্যস্ত থাকে। স্বার্থের দ্বন্দ্বে লিপ্ত এমন ঐক্য সামান্য আঘাতেই ভেঙে পড়ে।",
+  "themes": [
+    "divided hearts",
+    "cowardice behind walls",
+    "superficial unity"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "people-of-the-book"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They would only fight from behind fortifications, and despite their outward cohesion, their hearts were deeply divided due to lack of reason.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

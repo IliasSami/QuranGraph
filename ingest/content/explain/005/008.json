@@ -1,0 +1,86 @@
+{
+ "id": "5:8",
+ "simple_en": "Believers must stand firm for Allah as witnesses in justice. Never let hatred for any people lead you to commit injustice. Treat everyone with fairness. Doing justice is nearest to true piety. Fear Allah at all times. Allah is fully Aware of all that you do.",
+ "simple_bn": "হে মুমিনগণ, তোমরা আল্লাহর জন্য ন্যায়ের ওপর দৃঢ়ভাবে প্রতিষ্ঠিত থাকো এবং ইনসাফের সাথে সাক্ষ্য দাও। কোনো দলের প্রতি বিদ্বেষ যেন তোমাদেরকে সুবিচার বর্জনে প্ররোচিত না করে। তোমরা ন্যায়বিচার করো; এটি তাকওয়ার অধিক নিকটবর্তী। আর আল্লাহকে ভয় করো। নিশ্চয়ই তোমরা যা করো আল্লাহ সে সম্পর্কে সম্যক অবগত।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "قوم",
+   "lemma": "قَوّام",
+   "meaning_en": "firm upholders",
+   "meaning_bn": "দৃঢ়ভাবে প্রতিষ্ঠাকারী",
+   "why_en": "Demands active and continuous commitment to standing up for truth."
+  },
+  {
+   "pos": 8,
+   "root": "قسط",
+   "lemma": "قِسْط",
+   "meaning_en": "justice and equity",
+   "meaning_bn": "ন্যায়বিচার / ইনসাফ",
+   "why_en": "Upholding fair judgment is an absolute divine obligation for believers."
+  },
+  {
+   "pos": 16,
+   "root": "عدل",
+   "lemma": "عَدَلَ",
+   "meaning_en": "be just and fair",
+   "meaning_bn": "তোমরা ন্যায়বিচার করো",
+   "why_en": "Fairness toward both friend and foe is the closest step toward true piety."
+  }
+ ],
+ "lesson_en": "Always be fair to everyone, even to people you dislike.",
+ "lesson_bn": "সবার সাথে ন্যায়বিচার করুন, এমনকি যারা আপনার অপছন্দের তাদের সাথেও অন্যায় করবেন না।",
+ "real_life_en": "When two people argue, tell the plain truth. Do not favor your friend over a stranger. Never treat someone unfairly just because you dislike them. Being fair honors Allah.",
+ "real_life_bn": "দুইজনের মধ্যে বিরোধ দেখা দিলে বন্ধুর পক্ষপাত না করে সত্য সাক্ষ্য দিন। কাউকে অপছন্দ করলেও তার সাথে অন্যায় আচরণ করবেন না। ইনসাফ বজায় রাখা আল্লাহর কাছে প্রিয়।",
+ "context_en": "A universal declaration of moral integrity, commanding uncompromising justice even when dealing with hostile enemies.",
+ "context_bn": "সার্বজনীন ন্যায়বিচারের নির্দেশ, যেখানে চরম শত্রুর সাথেও ইনসাফ বজায় রাখাকে তাকওয়ার প্রধান মাপকাঠি ঘোষণা করা হয়েছে।",
+ "themes": [
+  "justice",
+  "honesty",
+  "taqwa",
+  "fair witness",
+  "Allah's awareness"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Khabir"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are ordered to stand firm for Allah as truthful witnesses with complete equity.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Hatred against any group must never drive a believer to injustice; being fair is closest to piety.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

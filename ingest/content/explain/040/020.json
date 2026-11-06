@@ -1,0 +1,74 @@
+{
+  "id": "40:20",
+  "simple_en": "Allah judges with complete truth and justice. The false gods that people call upon besides Him can judge nothing at all. They have no power or knowledge. Truly, Allah alone is the All-Hearing, the All-Seeing.",
+  "simple_bn": "আল্লাহ ন্যায় ও সত্যের সাথে ফয়সালা করেন। কিন্তু তাঁকে বাদ দিয়ে মুশরিকরা যাদের ডাকে, তারা কোনো বিচার বা ফয়সালা করতে পারে না। নিশ্চয়ই আল্লাহ সবকিছু শোনেন এবং সবকিছু দেখেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قضي",
+      "lemma": "قَضَى",
+      "meaning_en": "judges / decides",
+      "meaning_bn": "ফয়সালা করেন",
+      "why_en": "Emphasizes Allah's rightful authority to judge between creation."
+    },
+    {
+      "pos": 14,
+      "root": "سمع",
+      "lemma": "سَمِيع",
+      "meaning_en": "the All-Hearing",
+      "meaning_bn": "সর্বশ্রোতা",
+      "why_en": "Hears all spoken prayers, arguments, and whispers."
+    },
+    {
+      "pos": 15,
+      "root": "بصر",
+      "lemma": "بَصِير",
+      "meaning_en": "the All-Seeing",
+      "meaning_bn": "সর্বদ্রষ্টা",
+      "why_en": "Sees every motion and action across the entire universe."
+    }
+  ],
+  "lesson_en": "Trust in the judgment of Allah, who hears every word and sees every act.",
+  "lesson_bn": "নিখুঁত বিচারের ক্ষমতা একমাত্র সর্বশ্রোতা ও সর্বদ্রষ্টা আল্লাহরই রয়েছে।",
+  "real_life_en": "When seeking justice in conflicts, do not turn to superstition or corrupt methods. Place your reliance on Allah, who hears your pleas and sees all unfair treatment.",
+  "real_life_bn": "কোনো অবিচারের মুখে পড়লে কুসংস্কার বা অন্যায় পথের আশ্রয় নেবেন না। একমাত্র আল্লাহর কাছে সাহায্য চান, যিনি আপনার প্রতিটি কথা শোনেন এবং অবস্থা দেখেন।",
+  "themes": [
+    "justice",
+    "names and attributes of Allah",
+    "tawhid"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "as-sami",
+      "al-basir"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah judges with truth while idols judge nothing; He is the All-Hearing and the All-Seeing.",
+      "claim_bn": "আল্লাহ সত্যের সাথে ফয়সালা করেন এবং প্রতিমাগুলো কিছুই করতে পারে না; তিনি সর্বশ্রোতা ও সর্বদ্রষ্টা।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

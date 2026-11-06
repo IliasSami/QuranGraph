@@ -1,0 +1,76 @@
+{
+  "id": "50:9",
+  "simple_en": "Allah sends blessed rain down from the sky. That water brings dry soil back to life. It produces green gardens, fruit trees, and grains that people harvest for their daily food.",
+  "simple_bn": "মহান আল্লাহ আকাশ থেকে বরকতময় বৃষ্টি বর্ষণ করেন। সেই পানির মাধ্যমে তিনি শুষ্ক জমিনকে সজীব করে তোলেন এবং ফলে ভরা বাগান ও মানুষের আহারের জন্য প্রয়োজনীয় শস্যদানা উৎপন্ন করেন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "برك",
+      "lemma": "مُبارَك",
+      "meaning_en": "blessed",
+      "meaning_bn": "কল্যাণময় বা বরকতময়",
+      "why_en": "Rain carries abundant life, blessings, and benefits for all living things."
+    },
+    {
+      "pos": 8,
+      "root": "جنن",
+      "lemma": "جَنَّة",
+      "meaning_en": "gardens",
+      "meaning_bn": "বাগানসমূহ",
+      "why_en": "Lush orchards of fruit trees nourished by the rain."
+    },
+    {
+      "pos": 10,
+      "root": "حصد",
+      "lemma": "حَصِيد",
+      "meaning_en": "harvested grain",
+      "meaning_bn": "কর্তনযোগ্য শস্যদানা",
+      "why_en": "Crops like wheat and barley that people gather for food."
+    }
+  ],
+  "lesson_en": "Every meal on your plate began with rain. Remember to thank Allah for sending water from the sky.",
+  "lesson_bn": "মনে রাখবেন যে আপনার খাবারের প্রতিটি দানা আল্লাহর পাঠানো রহমতের বৃষ্টির মাধ্যমেই তৈরি হয়।",
+  "real_life_en": "When rain falls, do not complain about wet ground. Look at the rain with gratitude, knowing it keeps the world alive.",
+  "real_life_bn": "বৃষ্টি নামলে বিরক্ত না হয়ে আল্লাহর শুকরিয়া আদায় করুন, কারণ এই বৃষ্টিই পুরো পৃথিবীকে বাঁচিয়ে রাখে।",
+  "context_en": "The revival of barren earth by blessed rainfall is introduced as another tangible sign.",
+  "context_bn": "বৃষ্টির পানির মাধ্যমে মৃত ভূমিকে পুনরুজ্জীবিত করার বাস্তব চিত্র এখানে তুলে ধরা হয়েছে।",
+  "themes": [
+    "creation",
+    "signs in nature",
+    "gratitude",
+    "Allah's mercy"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": [
+      "the sky",
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah sends blessed rain from the sky to grow gardens and harvestable grains.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

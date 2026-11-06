@@ -1,0 +1,78 @@
+{
+  "id": "20:86",
+  "simple_en": "Moses returned to his people full of anger and deep sorrow. He asked: Did your Lord not promise you good? Did you wish that God's wrath should fall on you?",
+  "simple_bn": "মূসা অত্যন্ত ক্ষুব্ধ ও দুঃখিত হয়ে ফিরে এলেন। তিনি বললেন: তোমাদের প্রতিপালক কি তোমাদের উত্তম প্রতিশ্রুতি দেননি? তোমরা কি চেয়েছিলে যে তোমাদের ওপর আল্লাহর গজব নেমে আসুক?",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "غضب",
+      "lemma": "غَضْبَان",
+      "meaning_en": "angry",
+      "meaning_bn": "ক্রোধান্বিত",
+      "why_en": "Righteous indignation for the sake of God's honor."
+    },
+    {
+      "pos": 6,
+      "root": "أسف",
+      "lemma": "أَسِف",
+      "meaning_en": "sorrowful and grieving",
+      "meaning_bn": "দুঃখিত ও মর্মাহত",
+      "why_en": "Heartbreak seeing his people fall into idolatry."
+    },
+    {
+      "pos": 16,
+      "root": "عهد",
+      "lemma": "عَهْد",
+      "meaning_en": "the covenant or time",
+      "meaning_bn": "অঙ্গীকার বা সময়",
+      "why_en": "The sacred pledge they made to remain monotheists."
+    }
+  ],
+  "lesson_en": "Righteous anger is real when people break trust. It hurts to see those you love choose bad ways.",
+  "lesson_bn": "আল্লাহর সীমা লঙ্ঘিত হলে এবং শিরক ছড়িয়ে পড়লে নেককার মানুষের মনে ক্ষোভ ও গভীর বেদনা সৃষ্টি হয়।",
+  "real_life_en": "Feel healthy concern for the moral state of your family. Address serious moral failings with firm, loving correction.",
+  "real_life_bn": "পরিবার ও সমাজের বিভ্রান্তিতে ব্যথিত হোন। অন্যায় দেখলে সত্য ও দৃঢ়তার সাথে তাদের সংশোধনের চেষ্টা করুন।",
+  "themes": [
+    "righteous-anger",
+    "sorrow",
+    "covenant",
+    "musa"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [
+      "Bani Isra'il"
+    ],
+    "places": [
+      "Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Moses return"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses returned in anger and sorrow, reproaching his people for violating their covenant with God.",
+      "claim_bn": "মূসা ক্রোধ ও দুঃখে ভারাক্রান্ত হয়ে ফিরে এসে অঙ্গীকার ভঙ্গের জন্য তাঁর সম্প্রদায়কে তিরস্কার করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,67 @@
+{
+  "id": "23:49",
+  "simple_en": "We gave Moses the holy Scripture so that his people might be guided to the straight path. The Torah provided clear moral and legal laws.",
+  "simple_bn": "আর আমরা মুসাকে কিতাব দিয়েছিলাম যাতে তারা সঠিক পথের দিশা পায়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Scripture",
+      "meaning_bn": "কিতাব (তাওরাত)",
+      "why_en": "The revealed scripture granted to guide the Children of Israel."
+    },
+    {
+      "pos": 6,
+      "root": "هدي",
+      "lemma": "اهْتَدَى",
+      "meaning_en": "they be guided",
+      "meaning_bn": "তারা সৎপথ পায়",
+      "why_en": "Finding moral guidance and divine light through the revelation."
+    }
+  ],
+  "lesson_en": "Divine scriptures are revealed to guide human lives. God gives clear books to help communities find peace.",
+  "lesson_bn": "আসমানী কিতাব মানবজাতিকে সত্য ও কল্যাণের পথ দেখায়। ঐশী দিকনির্দেশনা মেনে চললেই সমাজে শান্তি প্রতিষ্ঠিত হয়।",
+  "real_life_en": "Read revealed wisdom regularly to guide your decisions. Base your daily life on moral teachings from God.",
+  "real_life_bn": "কোরআন ও সহিহ সুন্নাহ নিয়মিত তিলাওয়াত ও অধ্যয়ন করুন। দৈনন্দিন জীবনের প্রতিটি সিদ্ধান্ত দ্বীনের আলোকে গ্রহণ করুন।",
+  "themes": [
+    "revelation",
+    "torah",
+    "guidance"
+  ],
+  "kinds": [
+    "story",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "musa"
+    ],
+    "nations": [
+      "israelites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "torah"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God granted Moses the Torah as a source of comprehensive guidance for the Children of Israel.",
+      "claim_bn": "আল্লাহ মুসা (আলাইহিস সালাম)-কে তাওরাত কিতাব দান করেছিলেন বনি ইসরাঈলকে সঠিক পথ প্রদর্শনের উদ্দেশ্যে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,78 @@
+{
+  "id": "50:20",
+  "simple_en": "The angel will blow the Horn, and the dead will rise from their resting places. That great day is the Day of the Warning. On that day, every promise of judgment will come to pass.",
+  "simple_bn": "শিঙ্গায় ফুঁ দেওয়া হবে এবং সমস্ত মৃত ব্যক্তি তাদের কবর থেকে জেগে উঠবে। সেদিনই প্রতিশ্রুত সতর্কবার্তা বাস্তবায়িত হওয়ার দিন, যখন আল্লাহর সমস্ত বিচার ও হিসাবের প্রতিশ্রুতি বাস্তব রূপ নেবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نفخ",
+      "lemma": "نَفَخَ",
+      "meaning_en": "will be blown",
+      "meaning_bn": "ফুঁ দেওয়া হবে",
+      "why_en": "The sound blast that initiates the resurrection of all creation."
+    },
+    {
+      "pos": 3,
+      "root": "صور",
+      "lemma": "صُور",
+      "meaning_en": "the Horn",
+      "meaning_bn": "শিঙ্গা",
+      "why_en": "The instrument blown by the angel to awaken the dead from their graves."
+    },
+    {
+      "pos": 6,
+      "root": "وعد",
+      "lemma": "وَعِيد",
+      "meaning_en": "the threatened warning",
+      "meaning_bn": "প্রতিশ্রুত শাস্তির দিন",
+      "why_en": "The Day of Resurrection when Allah's promised judgment is carried out."
+    }
+  ],
+  "lesson_en": "The sound of the Horn will end this world. Live each day ready to meet your Lord.",
+  "lesson_bn": "শিঙ্গার শব্দেই এই নশ্বর পৃথিবীর সমাপ্তি ঘটবে, তাই প্রতিদিন আল্লাহর সাথে সাক্ষাতের প্রস্তুতি নিয়ে বাঁচুন।",
+  "real_life_en": "When your morning alarm rings, let it remind you of the waking call of the Last Day. Begin your morning with sincere prayer.",
+  "real_life_bn": "ভোরে অ্যালার্মের শব্দ শুনে ঘুম থেকে ওঠার সময় কিয়ামতের দিনের সেই মহান ডাকের কথা স্মরণ করুন এবং নামাজ দিয়ে দিন শুরু করুন।",
+  "context_en": "Following death, the Horn is blown to mark the start of the Day of Resurrection.",
+  "context_bn": "মৃত্যুর পরবর্তী ধাপ হিসেবে শিঙ্গায় ফুঁ দেওয়া এবং পুনরুত্থানের দিনের আগমন বর্ণনা করা হয়েছে।",
+  "themes": [
+    "the Last Day",
+    "resurrection",
+    "judgment",
+    "angels"
+  ],
+  "kinds": [
+    "warning",
+    "promise",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Resurrection",
+      "blowing of the Horn"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Horn will be blown to announce the Day of the promised warning and resurrection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

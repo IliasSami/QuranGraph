@@ -1,0 +1,61 @@
+{
+  "id": "24:26",
+  "simple_en": "Bad words belong to bad people, and bad people belong to bad words. Good words belong to good people. They are free from what critics say.",
+  "simple_bn": "দুশ্চরিত্রা নারীরা দুশ্চরিত্র পুরুষদের জন্য এবং দুশ্চরিত্র পুরুষরা দুশ্চরিত্রা নারীদের জন্য। আর সচ্চরিত্রা নারীরা সচ্চরিত্র পুরুষদের জন্য এবং সচ্চরিত্র পুরুষরা সচ্চরিত্রা নারীদের জন্য। লোকে যা বলে এরা তা থেকে সম্পূর্ণ নির্দোষ।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "خبث",
+      "lemma": "خَبِيثَة",
+      "meaning_en": "the impure things",
+      "meaning_bn": "দুশ্চরিত্রা নারী বা অপবিত্র কথা",
+      "why_en": "Vile speech, thoughts, and persons aligned with corruption."
+    },
+    {
+      "pos": 5,
+      "root": "طيب",
+      "lemma": "طَيِّبَة",
+      "meaning_en": "and pure things",
+      "meaning_bn": "এবং সচ্চরিত্রা নারী বা পবিত্র কথা",
+      "why_en": "Virtuous speech and noble souls characterized by goodness."
+    }
+  ],
+  "lesson_en": "Good people seek good words and good friends. Sincere souls are cleared of all false blame.",
+  "lesson_bn": "ভালো মানুষ পবিত্র কথা ও ভালো সঙ্গ পছন্দ করে। আল্লাহ নিষ্কলঙ্ক ব্যক্তিদের মিথ্যা অপবাদ থেকে মুক্ত ও পবিত্র রাখেন।",
+  "real_life_en": "Spend your time with honest and kind friends. Keep your speech clean and free from vulgar words.",
+  "real_life_bn": "সৎ ও মার্জিত মানুষের সাথে বন্ধুত্ব গড়ে তুলুন। নিজের কথাবার্তা সবসময় শালীন ও সুন্দর রাখুন যাতে কোনো অশ্লীলতা প্রকাশ না পায়।",
+  "themes": [
+    "purity-and-impurity",
+    "affinity-of-souls",
+    "vindication"
+  ],
+  "kinds": [
+    "ethics",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moral affinity governs human character, aligning the pure with purity and vindicating the righteous from false claims.",
+      "claim_bn": "পবিত্র মানুষের জন্য পবিত্র কথা ও পবিত্র জীবনসঙ্গী শোভনীয়, আর অপবাদদাতাদের মিথ্যা দাবি থেকে পুণ্যবানরা সম্পূর্ণ নির্দোষ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

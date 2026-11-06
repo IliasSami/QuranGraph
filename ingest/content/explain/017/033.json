@@ -1,0 +1,61 @@
+{
+  "id": "17:33",
+  "simple_en": "Do not kill any soul that Allah has made sacred, except by legal right. If someone is murdered unjustly, their heir has rights, but must not cross limits in taking revenge.",
+  "simple_bn": "আল্লাহ যে প্রাণকে পবিত্র ও মর্যাদাপূর্ণ করেছেন যথার্থ কারণ ছাড়া তাকে হত্যা করো না। কেউ অন্যায়ভাবে নিহত হলে তার উত্তরাধিকারীকে আমরা অধিকার দিয়েছি, তবে সে যেন হত্যার ব্যাপারে বাড়াবাড়ি না করে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نفس",
+      "lemma": "نَفْس",
+      "meaning_en": "the soul",
+      "meaning_bn": "প্রাণ বা ব্যক্তি",
+      "why_en": "The sacred dignity endowed upon human life."
+    },
+    {
+      "pos": 5,
+      "root": "حرم",
+      "lemma": "حَرَّمَ",
+      "meaning_en": "He made sacred and forbidden",
+      "meaning_bn": "তিনি নিষিদ্ধ ও পবিত্র করেছেন",
+      "why_en": "Divine inviolability protecting human life."
+    }
+  ],
+  "lesson_en": "Human life is sacred. Justice must follow the law without personal vengeance, torture, or excess.",
+  "lesson_bn": "মানুষের জীবন পবিত্র। বিচারের ক্ষেত্রেও সীমা লঙ্ঘন না করে সুনির্দিষ্ট আইনের নীতি মেনে চলা জরুরি।",
+  "real_life_en": "Never resort to vigilante violence or mob attacks when a crime occurs. Allow the legal system to uphold justice fairly.",
+  "real_life_bn": "কোনো অপরাধের প্রতিকারে আইন নিজের হাতে তুলে নেবেন না। প্রতিশোধের আবেগে সীমা লঙ্ঘন থেকে বিরত থাকুন।",
+  "themes": [
+    "sanctity-of-life",
+    "justice",
+    "retribution"
+  ],
+  "kinds": [
+    "law",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Killing a protected life is forbidden except by legal right, and the heir of an unjust victim has authority without exceeding limits.",
+      "claim_bn": "বৈধ অধিকার ছাড়া প্রাণনাশ নিষিদ্ধ এবং অন্যায় হত্যার প্রতিকারে উত্তরাধিকারীর অধিকার থাকলেও বাড়াবাড়ি করা নিষেধ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

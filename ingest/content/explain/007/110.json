@@ -1,0 +1,86 @@
+{
+ "id": "7:110",
+ "simple_en": "Pharaoh and his leaders played on people's fears. They claimed that Musa wanted to conquer their country and drive them out of Egypt. Pharaoh then turned to his council for advice. He asked them what plan they should carry out to stop Musa.",
+ "simple_bn": "ফিরআউন ও তার সহযোগীরা সাধারণ মানুষের মনে দেশ হারানোর ভয় জাগিয়ে তুলল। তারা অভিযোগ তুলল যে মূসা জাদুর শক্তিতে তাদের দেশ দখল করতে এবং মিসরীয়দের তাড়িয়ে দিতে চায়। এরপর ফিরআউন তার প্রধানদের কাছে পরামর্শ চাইল। সে জানতে চাইল মূসার ব্যাপারে তাদের করণীয় কী এবং তারা কী সিদ্ধান্ত নিচ্ছে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "خرج",
+   "lemma": "أَخْرَجَ",
+   "meaning_en": "to drive you out",
+   "meaning_bn": "তোমাদেরকে বের করে দিতে",
+   "why_en": "The fear tactic used by the regime to provoke panic among the populace."
+  },
+  {
+   "pos": 5,
+   "root": "أرض",
+   "lemma": "أَرْض",
+   "meaning_en": "your land",
+   "meaning_bn": "তোমাদের দেশ / মাতৃভূমি",
+   "why_en": "Appealing to territorial attachment to rally people against Musa's call."
+  },
+  {
+   "pos": 7,
+   "root": "أمر",
+   "lemma": "أَمَرَ",
+   "meaning_en": "you instruct / advise",
+   "meaning_bn": "তোমরা নির্দেশ বা পরামর্শ দাও",
+   "why_en": "Pharaoh consults his advisors in distress to formulate a political counter-strategy."
+  }
+ ],
+ "lesson_en": "Bad leaders use fear and rumors to scare people and keep control.",
+ "lesson_bn": "অন্যায়কারী শাসকরা নিজেদের ক্ষমতা বাঁচাতে প্রায়ই মানুষের মনে অমূলক ভয় ও মিথ্যা অপপ্রচার ছড়ায়।",
+ "real_life_en": "Do not let scary rumors mislead you. Leaders often make threats seem big to keep power. Always check the facts before you react.",
+ "real_life_bn": "অযথা ভীতি বা অপপ্রচারে কান দিয়ে বিভ্রান্ত হবেন না। অনেকে নিজেদের স্বার্থে নানা গুজব ছড়ায়। কোনো খবরে প্রতিক্রিয়া দেখানোর আগে ঠান্ডা মাথায় সত্যতা যাচাই করুন এবং সুবিবেচনার সাথে সিদ্ধান্ত নিন।",
+ "context_en": "Pharaoh incites political fear among his people by framing Musa's prophetic mission as a scheme to seize Egypt.",
+ "context_bn": "ফিরআউন মূসার ধর্মীয় দাওয়াতকে রাজনৈতিক চক্রান্ত হিসেবে চিত্রিত করে রাজ্য হারানোর ভীতি সৃষ্টি করে পরামর্শ চায়।",
+ "themes": [
+  "Pharaoh",
+  "propaganda",
+  "fear tactics",
+  "political manipulation"
+ ],
+ "kinds": [
+  "story",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "Pharaoh",
+   "Musa (Moses)"
+  ],
+  "nations": [
+   "people of Pharaoh"
+  ],
+  "places": [
+   "Egypt / land"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Pharaoh warned his people that Musa aimed to seize their land and drive them out of Egypt.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Pharaoh consulted his council to decide how to respond to Musa's challenge.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

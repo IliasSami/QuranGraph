@@ -1,0 +1,63 @@
+{
+  "id": "16:6",
+  "simple_en": "You find great joy and beauty in these animals. You see this beauty when you bring them home at evening and when you lead them out at dawn.",
+  "simple_bn": "তোমাদের জন্য এ পশুগুলোর মাঝে রয়েছে এক অপূর্ব শোভা ও সৌন্দর্য, যখন তোমরা সন্ধ্যায় তাদের ঘরে ফিরিয়ে আনো এবং সকালে চারণভূমিতে চরাতে নিয়ে যাও।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "جمل",
+      "lemma": "جَمال",
+      "meaning_en": "beauty",
+      "meaning_bn": "সৌন্দর্য",
+      "why_en": "Points out the aesthetic delight found in rural livestock."
+    },
+    {
+      "pos": 5,
+      "root": "روح",
+      "lemma": "تُرِيحُ",
+      "meaning_en": "you bring them in",
+      "meaning_bn": "ঘরে ফিরিয়ে আনো",
+      "why_en": "Describes bringing herds home safely at sunset."
+    }
+  ],
+  "lesson_en": "God gives beauty in nature to cheer human hearts.",
+  "lesson_bn": "প্রকৃতির সৌন্দর্য মানুষের মনকে আনন্দ দেয় এবং স্রষ্টার অপার প্রজ্ঞা ও শিল্পনৈপুণ্যকে স্মরণ করিয়ে দেয়।",
+  "real_life_en": "Enjoy the peaceful view of fields and animals. Let rural beauty bring peace to your mind.",
+  "real_life_bn": "প্রকৃতির শোভা দেখে স্রষ্টার সৌন্দর্য ও অনুগ্রহ উপলব্ধি করুন এবং মানসিক প্রশান্তি অর্জন করুন।",
+  "themes": [
+    "blessings",
+    "beauty",
+    "nature"
+  ],
+  "kinds": [
+    "creation",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "livestock"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Livestock bring beauty to owners when returning at evening and setting out at morning.",
+      "claim_bn": "সকালে চারণভূমিতে যাওয়া এবং সন্ধ্যায় ফিরে আসার সময় গবাদিপশুর মধ্যে সৌন্দর্য রয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

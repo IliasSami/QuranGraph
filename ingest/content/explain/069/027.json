@@ -1,0 +1,53 @@
+{
+  "id": "69:27",
+  "simple_en": "He will cry: 'I wish death had been the final end.' He wishes that his death in the world had wiped out his existence forever, so he would not face this judgment.",
+  "simple_bn": "সে আর্তনাদ করে বলবে, 'হায়, আমার প্রথম মৃত্যুই যদি আমার চূড়ান্ত সমাপ্তি হতো।' সে কামনা করবে যেন সে চিরতরে বিলীন হয়ে যেত এবং পুনরুত্থানের মুখোমুখি না হতো।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "قضي",
+      "lemma": "قاضِيَة",
+      "meaning_en": "the decisive final end",
+      "meaning_bn": "চূড়ান্ত সমাপ্তি",
+      "why_en": "Points to wishing death had been absolute non-existence with no after-life."
+    }
+  ],
+  "lesson_en": "Death is not the end of existence; it leads to the final judgment.",
+  "lesson_bn": "মৃত্যুই জীবনের শেষ নয়, বরং তা হলো জবাবদিহি ও পরকালের প্রবেশদ্বার।",
+  "real_life_en": "Some people assume death ends everything, so they live without moral care. The Quran makes it clear that we will all live again. Knowing this helps us build a good life.",
+  "real_life_bn": "অনেকে মনে করে মৃত্যুর সাথেই সব শেষ, তাই যেমন খুশি জীবন কাটায়। কিন্তু কুরআন জানায় যে মৃত্যুর পর পুনরুত্থান অবধারিত, যা মানুষকে সৎ পথে চলতে প্রেরণা জোগায়।",
+  "themes": [
+    "wishing for non-existence",
+    "finality of death",
+    "hereafter"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The condemned person will wish his death in the world had been the absolute end of his existence.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

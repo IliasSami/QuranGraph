@@ -1,0 +1,95 @@
+{
+ "id": "72:1",
+ "simple_en": "Allah tells the Prophet ﷺ to tell his people something he learned by revelation. A small group of jinn listened while he recited the Quran. He did not see them, and they did not see him. When they went back to their own people, they said they had heard a wonderful recitation. Its words were clear and powerful, and its teaching amazed them.",
+ "simple_bn": "আল্লাহ নবী ﷺ-কে বলতে বলেছেন, তিনি ওহির মাধ্যমে একটি খবর পেয়েছেন। জিনদের একটি ছোট দল তাঁর কুরআন তিলাওয়াত শুনেছিল। তিনি তাদের দেখতে পাননি, তারাও তাঁকে দেখেনি। পরে তারা নিজেদের লোকদের কাছে ফিরে গিয়ে বলল, তারা এক আশ্চর্য কুরআন শুনেছে। এর কথা খুব সুন্দর ও স্পষ্ট, আর এর শিক্ষা তাদের মুগ্ধ করেছে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قول",
+   "lemma": "قالَ",
+   "meaning_en": "say",
+   "meaning_bn": "বলুন",
+   "why_en": "The command to speak shows that this news was meant to be shared, not kept private."
+  },
+  {
+   "pos": 5,
+   "root": "سمع",
+   "lemma": "اسْتَمَعَ",
+   "meaning_en": "listened attentively",
+   "meaning_bn": "মনোযোগ দিয়ে শোনা",
+   "why_en": "The form of the verb means they gave careful attention, not just heard a sound."
+  },
+  {
+   "pos": 8,
+   "root": "جنن",
+   "lemma": "جِنّ",
+   "meaning_en": "jinn",
+   "meaning_bn": "জিন",
+   "why_en": "The word comes from a root meaning hidden, because jinn are not seen by human eyes."
+  },
+  {
+   "pos": 13,
+   "root": "عجب",
+   "lemma": "عَجَب",
+   "meaning_en": "wonderful, amazing",
+   "meaning_bn": "বিস্ময়কর",
+   "why_en": "It marks their surprise at the Quran's clear words and its deep meaning."
+  }
+ ],
+ "lesson_en": "When people truly listen to the Quran, its clear message can change their hearts, so share it and leave the result to Allah.",
+ "lesson_bn": "কেউ মন দিয়ে কুরআন শুনলে তার হৃদয় বদলে যেতে পারে। তাই কুরআনের কথা অন্যদের কাছে পৌঁছে দিন, ফলাফল আল্লাহর হাতে ছেড়ে দিন।",
+ "real_life_en": "You may feel shy about speaking about your faith. Remember that the Prophet ﷺ was simply reciting the Quran when a group of strangers listened and believed. So recite clearly at home or in the mosque, and trust that the words will reach whoever Allah wills.",
+ "real_life_bn": "নিজের ঈমানের কথা বলতে অনেক সময় লজ্জা লাগে। মনে রাখুন, নবী ﷺ শুধু কুরআন পড়ছিলেন, আর অচেনা এক দল তা শুনে ঈমান আনল। তাই ঘরে বা মসজিদে পরিষ্কারভাবে কুরআন পড়ুন, আর বিশ্বাস রাখুন—আল্লাহ যাকে চান, তাঁর কথাগুলো তার কাছে পৌঁছাবে।",
+ "themes": [
+  "jinn",
+  "revelation",
+  "the Quran"
+ ],
+ "kinds": [
+  "story",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah told the Prophet ﷺ to tell his people that a group of jinn listened to his recitation of the Quran.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The jinn returned to their people and said they had heard a wonderful, eloquent recitation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The Prophet ﷺ did not see the jinn and did not know of their listening; Allah informed him by revelation.",
+   "sources": [
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

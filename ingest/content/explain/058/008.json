@@ -1,0 +1,90 @@
+{
+  "id": "58:8",
+  "simple_en": "Some hypocrites were forbidden from holding suspicious secret talks, yet they returned to what they were forbidden. They plot sin, aggression, and disobedience to the Messenger. When they come to you, they greet you with words Allah never used to greet you. They tell themselves that Allah does not punish them for what they say. Hell is sufficient for them; they will burn in it, and wretched is their destination.",
+  "simple_bn": "আপনি কি তাদেরকে দেখেননি যাদেরকে গোপন ষড়যন্ত্রমূলক কানাকানি করতে নিষেধ করা হয়েছিল, অথচ তারা তাদের নিষিদ্ধ কাজের পুনরাবৃত্তি করে? তারা পাপকাজ, সীমালঙ্ঘন ও রাসূলের অবাধ্যতার ষড়যন্ত্রে লিপ্ত হয়। যখন তারা আপনার কাছে আসে, তখন তারা আপনাকে এমন শব্দে অভিবাদন জানায় যা দিয়ে আল্লাহ আপনাকে সম্ভাষণ করেননি। তারা মনে মনে বলে, আমরা যা বলি তার জন্য আল্লাহ কেন আমাদের শাস্তি দেন না? তাদের জন্য জাহান্নামই যথেষ্ট; তারা সেখানেই দগ্ধ হবে, আর কতই না নিকৃষ্ট এই ঠিকানা।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "نجو",
+      "lemma": "نَجْوَى",
+      "meaning_en": "secret counsel",
+      "meaning_bn": "গোপন কানাকানি",
+      "why_en": "Secret whispering used by enemies of Islam to spread mistrust and hostility."
+    },
+    {
+      "pos": 14,
+      "root": "أثم",
+      "lemma": "إِثْم",
+      "meaning_en": "sin",
+      "meaning_bn": "পাপ",
+      "why_en": "Plotting harmful actions that break Allah's moral laws."
+    },
+    {
+      "pos": 15,
+      "root": "عدو",
+      "lemma": "عُدْوان",
+      "meaning_en": "aggression",
+      "meaning_bn": "সীমালঙ্ঘন বা শত্রুতা",
+      "why_en": "Conspiring to harm innocent believers unjustly."
+    },
+    {
+      "pos": 20,
+      "root": "حيي",
+      "lemma": "حَيَّ",
+      "meaning_en": "they greet you",
+      "meaning_bn": "তারা আপনাকে অভিবাদন জানায়",
+      "why_en": "Refers to hypocrites and opponents twisting greetings with hidden insults."
+    }
+  ],
+  "lesson_en": "Avoid secret plots. Speak with honest goodwill and respect to everyone.",
+  "lesson_bn": "গোপন ষড়যন্ত্র পরিহার করুন এবং সর্বদা আন্তরিক শুভেচ্ছা ও শ্রদ্ধার সাথে কথা বলুন।",
+  "real_life_en": "At work, a few workers whisper in a corner and mock their manager behind his back. An honest worker walks away and refuses to join their gossip. He knows that secret plots cause bad feelings and displease Allah.",
+  "real_life_bn": "একটি অফিসের মিটিংয়ে কয়েকজন সহকর্মী এক কোণে ফিসফিস করে বসের আড়ালে কটূক্তি করছিল। এক সৎ কর্মী তাদের এই ষড়যন্ত্রে অংশ নিতে অস্বীকার করেন। তিনি জানেন যে পরনিন্দা ও কানাঘুষা কর্মক্ষেত্রের পরিবেশ নষ্ট করে এবং আল্লাহকে অসন্তুষ্ট করে।",
+  "themes": [
+    "hypocrisy",
+    "good character",
+    "Prophet Muhammad ﷺ",
+    "Hell"
+  ],
+  "kinds": [
+    "warning",
+    "ethics",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites returned to forbidden secret talks, plotting sin, aggression, and disobedience to the Prophet ﷺ.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "They greeted the Prophet ﷺ with twisted words not approved by Allah and thought they would escape punishment, but Hell awaits them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

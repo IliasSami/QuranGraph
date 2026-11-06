@@ -1,0 +1,68 @@
+{
+  "id": "27:29",
+  "simple_en": "The queen received the letter and called her leaders together. She told them that she had been given a noble letter from a great king.",
+  "simple_bn": "চিঠি পেয়ে সাবার রানী তার পরিষদবর্গকে ডেকে বলল যে তার কাছে একটি অত্যন্ত মর্যাদাপূর্ণ ও সম্মানিত পত্র এসেছে। সে সবাইকে গুরুত্বপূর্ণ এই বার্তা সম্পর্কে অবহিত করল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "ٱلْمَلَؤُا۟",
+      "root": "ملأ",
+      "lemma": "مَلَأ",
+      "meaning_en": "eminent ones",
+      "meaning_bn": "হে পরিষদবর্গ",
+      "why_en": "The council of leaders and advisors."
+    },
+    {
+      "pos": 8,
+      "arabic": "كَرِيمٌ",
+      "root": "كرم",
+      "lemma": "كَرِيم",
+      "meaning_en": "noble",
+      "meaning_bn": "মর্যাদাপূর্ণ বা সম্মানিত",
+      "why_en": "A dignified and honorable letter."
+    }
+  ],
+  "lesson_en": "Ask for advice when hard choices arise. Polite words show good manners.",
+  "lesson_bn": "গুরুত্বপূর্ণ সিদ্ধান্ত নেওয়ার আগে সহকর্মীদের সাথে খোলামেলা আলোচনা করা দূরদর্শী নেতার পরিচয়।",
+  "real_life_en": "Talk to trusted friends when you must make big choices. Listen to their good thoughts with care.",
+  "real_life_bn": "বড় কোনো চ্যালেঞ্জ বা সিদ্ধান্তের মুখোমুখি হলে বিশ্বস্তজনদের সাথে আলোচনা করে পরামর্শ নিন।",
+  "themes": [
+    "sheba",
+    "letter",
+    "consultation"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Queen of Sheba"
+    ],
+    "nations": [
+      "Sheba"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "letter"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Queen of Sheba informed her noble council that an honorable letter had been delivered to her.",
+      "claim_bn": "সাবার রানী তার পরিষদবর্গকে ডেকে জানাল যে তার কাছে একটি অত্যন্ত সম্মানিত চিঠি এসেছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

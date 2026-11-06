@@ -1,0 +1,81 @@
+{
+  "id": "6:64",
+  "simple_en": "Say that Allah alone saves people from danger. He rescues them from every hardship and grief. Yet when they are safe, they still set up false gods beside Him. This behavior shows great ingratitude after receiving His clear mercy.",
+  "simple_bn": "তাদের বলুন, আল্লাহই তোমাদের সেইসব বিপদ থেকে উদ্ধার করেন এবং যাবতীয় দুঃখ-কষ্ট দূর করে দেন। কিন্তু বিপদ কেটে যাওয়ার পরই তোমরা আবার তাঁর সাথে অন্যকে শরীক করো। এই আচরণ চরম অকৃতজ্ঞতা ও অবিচারের স্পষ্ট প্রমাণ।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نجو",
+      "lemma": "نَجَّى",
+      "meaning_en": "rescues you",
+      "meaning_bn": "তোমাদের উদ্ধার করেন",
+      "why_en": "Confirms that relief from any calamity comes from Allah alone."
+    },
+    {
+      "pos": 7,
+      "root": "كرب",
+      "lemma": "كَرْب",
+      "meaning_en": "distress or sorrow",
+      "meaning_bn": "চরম কষ্ট বা সংকট",
+      "why_en": "Encompasses every type of overwhelming anxiety and hardship."
+    },
+    {
+      "pos": 10,
+      "root": "شرك",
+      "lemma": "أَشْرَكَ",
+      "meaning_en": "you associate partners",
+      "meaning_bn": "তোমরা শরীক করো",
+      "why_en": "Exposes the blatant ingratitude of polytheism after being granted deliverance."
+    }
+  ],
+  "lesson_en": "Allah saves you from every hardship. Thank Him with sincere worship instead of setting up partners.",
+  "lesson_bn": "একমাত্র আল্লাহই সব সংকট দূর করেন। তাঁর দেওয়া মুক্তির প্রতিদান অকৃতজ্ঞতা দিয়ে নয়, একনিষ্ঠ ইবাদতের মাধ্যমে দিন।",
+  "real_life_en": "When you recover from financial loss or family trouble, do not credit luck or human effort alone. Acknowledge that Allah delivered you. Express true thanks by staying faithful to His commands every day.",
+  "real_life_bn": "আর্থিক টানাপোড়েন বা পারিবারিক সংকট কেটে গেলে কেবল নিজের বুদ্ধি বা ভাগ্যের প্রশংসা করবেন না। মনে রাখুন, আল্লাহই আপনাকে উদ্ধার করেছেন। তাঁর শুকরিয়া হিসেবে দৈনন্দিন জীবনে পাপ বর্জন করে তাঁর আনুগত্য করুন।",
+  "context_en": "This ayah answers the challenge posed in the previous verse, contrasting Allah's saving power with human ungratefulness.",
+  "context_bn": "পূর্বের আয়াতের প্রশ্নের জবাবে এখানে স্পষ্ট করা হয়েছে যে, কেবল আল্লাহই উদ্ধারকর্তা, তবু মানুষ নির্বোধের মতো শিরকে লিপ্ত হয়।",
+  "themes": [
+    "tawhid",
+    "shirk",
+    "gratitude",
+    "mercy",
+    "Allah's power"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah alone rescues human beings from land and sea perils and from every form of distress.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Despite witnessing divine deliverance, polytheists ungratefully return to associating partners with Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

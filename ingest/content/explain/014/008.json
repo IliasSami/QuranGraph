@@ -1,0 +1,82 @@
+{
+  "id": "14:8",
+  "simple_en": "Moses said: If you and everyone on earth reject faith, it does not harm Allah at all. Allah has no need of anyone. He is completely Self-Sufficient and worthy of all praise in every circumstance.",
+  "simple_bn": "মূসা বললেন: তোমরা এবং দুনিয়ার সবাই মিলে যদি অকৃতজ্ঞ ও কাফির হয়ে যাও, তাতে আল্লাহর কোনো ক্ষতি হবে না। নিশ্চয় আল্লাহ সম্পূর্ণ অভাবমুক্ত এবং সর্বপ্রশংসিত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "you disbelieve",
+      "meaning_bn": "তোমরা কুফরী করো",
+      "why_en": "Rejecting faith and showing ingratitude."
+    },
+    {
+      "pos": 8,
+      "root": "أرض",
+      "lemma": "أَرْض",
+      "meaning_en": "the earth",
+      "meaning_bn": "পৃথিবী",
+      "why_en": "All human inhabitants of the globe."
+    },
+    {
+      "pos": 12,
+      "root": "غني",
+      "lemma": "غَنِيّ",
+      "meaning_en": "Self-Sufficient",
+      "meaning_bn": "অভাবমুক্ত",
+      "why_en": "Free of any need from His creation."
+    },
+    {
+      "pos": 13,
+      "root": "حمد",
+      "lemma": "حَمِيد",
+      "meaning_en": "Praiseworthy",
+      "meaning_bn": "সর্বপ্রশংসিত",
+      "why_en": "Deserving all praise inherently."
+    }
+  ],
+  "lesson_en": "Our worship does not benefit Allah, and our sins do not harm Him. We alone need His mercy.",
+  "lesson_bn": "আমাদের ইবাদত আল্লাহর কোনো উপকারে আসে না এবং আমাদের পাপে তাঁর ক্ষতি হয় না। বরং আমরাই তাঁর দয়ার মুখাপেক্ষী।",
+  "real_life_en": "A man thinks that skipping prayer somehow hurts the mosque or the faith. An elder reminds him that our creator needs nothing from us. We pray for our own peace and salvation.",
+  "real_life_bn": "এক ব্যক্তি মনে করে নামাজ ছেড়ে দিলে হয়তো ধর্মের ক্ষতি হবে। এক প্রবীণ তাকে মনে করিয়ে দেন যে আল্লাহ কারো মুখাপেক্ষী নন। আমরা নিজেদের শান্তি ও মুক্তির জন্যই ইবাদত করি।",
+  "context_en": "Moses reminding his followers that human disbelief cannot diminish Allah's majesty.",
+  "context_bn": "মূসা (আ.) তাঁর সম্প্রদায়কে জানাচ্ছেন যে সমগ্র সৃষ্টির অকৃতজ্ঞতায় আল্লাহর সার্বভৌমত্বের কোনো ক্ষতি হয় না।",
+  "themes": [
+    "monotheism",
+    "divine-names",
+    "humility"
+  ],
+  "kinds": [
+    "belief",
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-Ghaniyy",
+      "al-Hamid"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah is completely free of need from creation; disbelief harms only the disbeliever.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

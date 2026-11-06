@@ -1,0 +1,63 @@
+{
+  "id": "52:11",
+  "simple_en": "Woe on that Day to those who denied the truth. Destruction and loss await those who rejected Allah's messengers. They mocked the promise of resurrection when they were warned. On that terrible Day, their regret will be bitter and hopeless.",
+  "simple_bn": "সেই দিন সত্য অস্বীকারকারীদের জন্য চরম দুর্ভোগ। যারা আল্লাহর বার্তাবাহকদের মিথ্যা প্রতিপন্ন করেছিল, তাদের জন্য অপেক্ষা করছে কঠিন ধ্বংস। দুনিয়াতে তারা কিয়ামতের সতর্কবার্তাকে উড়িয়ে দিয়েছিল, কিন্তু সেদিন তারা চরম অনুশোচনায় নিমজ্জিত হবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": null,
+      "lemma": "وَيْل",
+      "meaning_en": "woe / destruction",
+      "meaning_bn": "চরম দুর্ভোগ / ধ্বংস",
+      "why_en": "Expresses the utter ruin and misery awaiting persistent deniers."
+    },
+    {
+      "pos": 3,
+      "root": "كذب",
+      "lemma": "مُكَذِّب",
+      "meaning_en": "the deniers",
+      "meaning_bn": "অস্বীকারকারীগণ",
+      "why_en": "Identifies those who rejected divine revelation and the Day of Judgment."
+    }
+  ],
+  "lesson_en": "Denying divine truth leads only to deep regret and ruin.",
+  "lesson_bn": "সত্যকে অস্বীকার করলে আখিরাতে কেবল সীমাহীন অনুশোচনা ও ক্ষতিই অবশিষ্ট থাকে।",
+  "real_life_en": "When you hear Islamic teachings that challenge your lifestyle, do not dismiss them out of hand. Listen with an open mind and seek guidance.",
+  "real_life_bn": "ইসলামের সত্য বাণী শুনলে তা অবহেলা করবেন না। নিজের ভুল সংশোধন করে সত্য গ্রহণ করার মানসিকতা রাখুন।",
+  "context_en": "Following the cosmic destruction, a stern warning of woe is pronounced upon deniers.",
+  "context_bn": "মহাজাগতিক ধ্বংসের বর্ণনার পর সত্য অস্বীকারকারীদের জন্য চরম দুর্ভোগের ঘোষণা দেওয়া হয়েছে।",
+  "themes": [
+    "warning",
+    "accountability",
+    "denial"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Woe and severe loss await those who deny the truth on the Day of Resurrection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

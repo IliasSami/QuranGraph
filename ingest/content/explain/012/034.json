@@ -1,0 +1,91 @@
+{
+  "id": "12:34",
+  "simple_en": "Allah heard Yusuf's prayer and kept him safe from their trap. He protected his heart from sin. Indeed, Allah is the All-Hearing, who listens to every call, and the All-Knowing, who understands every secret.",
+  "simple_bn": "আল্লাহ ইউসুফের দোয়া কবুল করলেন এবং নারীদের চক্রান্ত তাঁর থেকে দূর করে দিলেন। আল্লাহ তাঁর অন্তরকে পাপের স্পর্শ থেকে রক্ষা করলেন। নিশ্চয় আল্লাহ সর্বশ্রোতা, যিনি সবার প্রার্থনা শোনেন এবং সর্বজ্ঞ, যিনি সবার অবস্থা সম্পর্কে অবগত।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "جوب",
+      "lemma": "اسْتَجابَ",
+      "meaning_en": "He responded",
+      "meaning_bn": "তিনি সাড়া দিলেন",
+      "why_en": "Highlights how promptly Allah answers the call of the distressed believer."
+    },
+    {
+      "pos": 4,
+      "root": "صرف",
+      "lemma": "صَرَفَ",
+      "meaning_en": "He turned away",
+      "meaning_bn": "তিনি সরিয়ে দিলেন",
+      "why_en": "Allah directly deflected the cunning traps set against Yusuf."
+    },
+    {
+      "pos": 9,
+      "root": "سمع",
+      "lemma": "سَمِيع",
+      "meaning_en": "the All-Hearing",
+      "meaning_bn": "সর্বশ্রোতা",
+      "why_en": "Allah heard Yusuf’s whisper in his moment of trial."
+    },
+    {
+      "pos": 10,
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "the All-Knowing",
+      "meaning_bn": "সর্বজ্ঞ",
+      "why_en": "Allah knows his sincere desire to remain upright."
+    }
+  ],
+  "lesson_en": "Allah hears the quiet prayer of anyone who wants to stay pure.",
+  "lesson_bn": "পবিত্র ও সৎ থাকার জন্য যে ব্যক্তি প্রার্থনা করে, আল্লাহ অবশ্যই তার ডাক শোনেন।",
+  "real_life_en": "A person struggles with bad habits and prays quietly for help. Allah guides their steps and gives them good friends who help them stay away from wrongdoing.",
+  "real_life_bn": "খারাপ অভ্যাস ত্যাগ করতে চাওয়া এক ব্যক্তি আল্লাহর কাছে গোপনে সাহায্য প্রার্থনা করে। আল্লাহ তার পথ সহজ করে দেন এবং সৎ বন্ধুদের সাহচর্য দান করেন।",
+  "context_en": "In response to Yusuf's plea, Allah granted him protection from their schemes.",
+  "context_bn": "ইউসুফের দোয়ার জবাবে আল্লাহ তাঁকে ষড়যন্ত্র থেকে রক্ষা করলেন।",
+  "themes": [
+    "dua",
+    "Allah's mercy",
+    "protection"
+  ],
+  "kinds": [
+    "story",
+    "description-of-allah",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "as-Sami",
+      "al-Alim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah answered Yusuf's prayer and averted the women's plot.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Allah is described as as-Sami (the All-Hearing) and al-Alim (the All-Knowing).",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

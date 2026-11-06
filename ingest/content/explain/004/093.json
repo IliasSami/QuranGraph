@@ -1,0 +1,83 @@
+{
+ "id": "4:93",
+ "simple_en": "Whoever kills a believer on purpose will have Hell as their reward, staying in it for a long time. Allah is angry with them and curses them. He has prepared a dreadful punishment for them.",
+ "simple_bn": "আর যে ব্যক্তি ইচ্ছাকৃতভাবে কোনো মুমিনকে হত্যা করবে, তার শাস্তি হবে জাহান্নাম, সেখানে সে দীর্ঘকাল থাকবে। আর তার ওপর আল্লাহর ক্রোধ ও অভিশাপ আপতিত হবে এবং আল্লাহ তার জন্য প্রস্তুত রেখেছেন মহা শাস্তি।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "عمد",
+   "lemma": "مُتَعَمِّد",
+   "meaning_en": "intentionally or premeditated",
+   "meaning_bn": "ইচ্ছাকৃতভাবে",
+   "why_en": "Singles out premeditated murder of a fellow believer as an immense crime."
+  },
+  {
+   "pos": 9,
+   "root": "غضب",
+   "lemma": "غَضِبَ",
+   "meaning_en": "Allah became angry with him",
+   "meaning_bn": "আল্লাহ তার ওপর ক্রুদ্ধ হন",
+   "why_en": "Shows the severity of divine wrath against one who sheds innocent blood."
+  },
+  {
+   "pos": 12,
+   "root": "لعن",
+   "lemma": "لَعَنَ",
+   "meaning_en": "cursed him",
+   "meaning_bn": "তার ওপর অভিশাপ দেন",
+   "why_en": "Indicates expulsion from divine mercy for committing cold-blooded murder."
+  }
+ ],
+ "lesson_en": "Never harm an innocent person, for taking a life brings the anger and curse of Allah.",
+ "lesson_bn": "কোনো নিরপরাধ মানুষকে হত্যা করার মতো মহাপাপ থেকে বিরত থাকুন, কারণ এটি আল্লাহর তীব্র ক্রোধ ডেকে আনে।",
+ "real_life_en": "Do not let intense anger or family feuds push you into violence or taking a life. Revenge brings legal ruin in this world and the terrifying anger of Allah in the Hereafter.",
+ "real_life_bn": "পারিবারিক বা রাজনৈতিক বিরোধের জেরে কখনো রক্তপাত বা হত্যায় জড়াবেন না। ক্ষণিকের আক্রোশের শাস্তি দুনিয়াতে চরম লাঞ্ছনা এবং আখিরাতে চিরস্থায়ী জাহান্নাম।",
+ "context_en": "Issues an uncompromising warning against the premeditated murder of an innocent believer.",
+ "context_bn": "ইচ্ছাকৃতভাবে কোনো মুমিনকে হত্যার কঠোরতম পরকালীন পরিণতি ও শাস্তির ঘোষণা দেওয়া হয়েছে।",
+ "themes": [
+  "punishment",
+  "justice",
+  "Hell",
+  "warning"
+ ],
+ "kinds": [
+  "warning",
+  "prohibition"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Whoever intentionally murders a believer faces the severe penalty of Hell as their recompense.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The deliberate killer incurs the anger of Allah, His curse, and a terrifying punishment in the Hereafter.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

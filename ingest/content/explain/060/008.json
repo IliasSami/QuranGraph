@@ -1,0 +1,62 @@
+{
+  "id": "60:8",
+  "simple_en": "Allah does not stop you from showing kindness and being fair to those who do not fight you over religion. If they did not drive you from your homes, you can treat them well and give them their full rights. Allah loves those who act with justice.",
+  "simple_bn": "যারা ধর্মের কারণে যুদ্ধ করেনি এবং গৃহহীন করেনি, তাদের সাথে ভালো আচরণ করতে আল্লাহ নিষেধ করেন না। তাদের সাথে ইনসাফ ও ন্যায়বিচার বজায় রাখা সবসময় কাম্য। নিশ্চয় আল্লাহ ন্যায়পরায়ণ মানুষদের ভালোবাসেন।",
+  "key_words": [
+    {
+      "pos": 15,
+      "root": "برر",
+      "lemma": "تَبَرُّ",
+      "meaning_en": "treat them with kindness",
+      "meaning_bn": "তাদের সাথে সদ্ব্যবহার কর",
+      "why_en": "Encourages benevolence toward peaceful people of other faiths."
+    },
+    {
+      "pos": 16,
+      "root": "قسط",
+      "lemma": "تُقْسِطُ",
+      "meaning_en": "act justly toward them",
+      "meaning_bn": "তাদের সাথে ন্যায়পরায়ণ হও",
+      "why_en": "Commands complete fairness in dealings with peaceful neighbors."
+    }
+  ],
+  "lesson_en": "Treat peaceful neighbors with kindness and fair words, no matter what they believe.",
+  "lesson_bn": "শান্তিকামী অমুসলিম প্রতিবেশীর সাথে সদ্ব্যবহার ও ন্যায়বিচার করা ইসলামের অন্যতম মূল শিক্ষা।",
+  "real_life_en": "A Muslim lives next door to an old couple of another faith. When heavy storms knock down tree limbs, he clears their path and helps them carry bags. Fair actions show the good character of Islam.",
+  "real_life_bn": "একটি মুসলিম পরিবারের পাশে ভিন্ন ধর্মের এক বয়োবৃদ্ধ দম্পতি বাস করেন। বিপদের সময় ওই পরিবারের ছেলেটি তাদের সাহায্য করে উঠান পরিষ্কার করে দেয়। শান্তিকামী মানুষের সাথে এমন সদাচরণই ইসলামের প্রকৃত সুন্দর রূপ প্রকাশ করে।",
+  "themes": [
+    "kindness to peaceful neighbors",
+    "justice toward non-combatants",
+    "fairness"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Islam encourages kindness and fairness toward non-Muslims who do not wage war against believers or expel them from their homes.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

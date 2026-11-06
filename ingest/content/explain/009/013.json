@@ -1,0 +1,76 @@
+{
+  "id": "9:13",
+  "simple_en": "Will you not fight people who broke their oaths, plotted to expel the Messenger, and started hostility against you first? Do you fear them? Allah is more worthy of your fear if you are true believers.",
+  "simple_bn": "তোমরা কি সেই দলের বিরুদ্ধে লড়াই করবে না যারা তাদের শপথ ভেঙেছে, রাসূলকে বের করে দেওয়ার ষড়যন্ত্র করেছে এবং নিজেরাই প্রথমে আক্রমণ করেছে? তোমরা কি তাদের ভয় পাও? মুমিন হলে আল্লাহকেই ভয় করা তোমাদের সবচেয়ে বেশি কর্তব্য।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "خرج",
+      "lemma": "إِخْراج",
+      "meaning_en": "expulsion / eviction",
+      "meaning_bn": "বহিষ্কার / বিতাড়ন",
+      "why_en": "Conspiracy of Quraysh to drive the Prophet from Mecca."
+    },
+    {
+      "pos": 10,
+      "root": "بدأ",
+      "lemma": "بَدَأَ",
+      "meaning_en": "they started / initiated",
+      "meaning_bn": "তারা শুরু করেছিল",
+      "why_en": "Aggressors initiating conflict and violating existing treaties."
+    },
+    {
+      "pos": 13,
+      "root": "خشي",
+      "lemma": "خَشِيَ",
+      "meaning_en": "fear",
+      "meaning_bn": "ভয় পাও",
+      "why_en": "Dreading mortal opponents instead of venerating divine authority."
+    }
+  ],
+  "lesson_en": "Fear Allah alone and stand up against those who strike first.",
+  "lesson_bn": "অন্যায়কারী আগ্রাসীদের ভয় না পেয়ে সর্বদা একমাত্র আল্লাহকে ভয় করে সত্যের পথে অবিচল থাকা উচিত।",
+  "real_life_en": "Do not let bullies push you around. Stand up for the weak without fear of harsh words.",
+  "real_life_bn": "অন্যায় চাপের মুখে পিছু না হটে সাহসের সাথে সত্যের পক্ষে কথা বলুন, মানুষের রক্তচক্ষুকে ভয় না পেয়ে বিবেকের ডাকে সাড়া দিন।",
+  "themes": [
+    "courage",
+    "fear of Allah",
+    "self-defense"
+  ],
+  "kinds": [
+    "command",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "believers",
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers were motivated to confront adversaries who plotted the Prophet's expulsion and initiated hostile warfare.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "19:25",
+  "simple_en": "Shake the trunk of the palm tree toward yourself with care. It will drop fresh, ripe dates upon you to give you food and physical strength.",
+  "simple_bn": "আর তুমি তোমার দিকে খেজুর গাছের কাণ্ডে নাড়া দাও, তা তোমার ওপর তাজা ও পাকা খেজুর ফেলবে যাতে তুমি শক্তি ও পুষ্টি পাও।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "هزز",
+      "lemma": "هُزِّ",
+      "meaning_en": "shake",
+      "meaning_bn": "নাড়া দাও",
+      "why_en": "Exerting effort even while weak and exhausted."
+    },
+    {
+      "pos": 7,
+      "root": "رطب",
+      "lemma": "رُطَب",
+      "meaning_en": "fresh ripe dates",
+      "meaning_bn": "তাজা-পাকা খেজুর",
+      "why_en": "Nutritious and easily digestible fruit ideal for recovery."
+    }
+  ],
+  "lesson_en": "God asks for small human effort before giving help. Do your best and trust in divine care.",
+  "lesson_bn": "আল্লাহর সাহায্য আসার পরেও মানুষকে সাধ্যমতো চেষ্টা করতে হয়। শারীরিক দুর্বলতার মধ্যেও সামান্যতম উদ্যোগ গ্রহণ করা জরুরি।",
+  "real_life_en": "Trust in divine provision while taking practical action. Do what you can, and God will bless your humble efforts.",
+  "real_life_bn": "আল্লাহর ওপর ভরসা করার পাশাপাশি নিজের সাধ্যমতো পরিশ্রম করুন। সামান্যতম চেষ্টাতেও আল্লাহ বরকত দান করেন।",
+  "themes": [
+    "human-effort",
+    "fresh-dates",
+    "divine-provision"
+  ],
+  "kinds": [
+    "command",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Mary"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Palm tree",
+      "Dates"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Maryam was told to shake the palm tree trunk so ripe dates would drop down for her nourishment.",
+      "claim_bn": "মারইয়ামকে খেজুর গাছের কাণ্ড নাড়া দিতে বলা হয় যাতে তাজা খেজুর পড়ে তাঁর পুষ্টি যোগায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

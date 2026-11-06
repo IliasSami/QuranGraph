@@ -1,0 +1,62 @@
+{
+ "id": "44:2",
+ "simple_en": "Allah takes an oath by the clear Book. The noble Quran explains guidance in plain words. It makes the truth distinct from falsehood. It shows people the straight path to peace and success.",
+ "simple_bn": "মহান আল্লাহ সুস্পষ্ট কিতাবের শপথ করছেন। পবিত্র কুরআন সহজ ও সরল ভাষায় হিদায়াত স্পষ্ট করে। এটি সত্যকে মিথ্যা থেকে আলাদা করে এবং মানুষকে শান্তি ও সাফল্যের সঠিক পথ দেখায়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "and by the Book",
+   "meaning_bn": "সুস্পষ্ট কিতাবের শপথ",
+   "why_en": "Allah swears by the Quran to emphasize its honor and high status."
+  },
+  {
+   "pos": 2,
+   "root": "بين",
+   "lemma": "مُبِين",
+   "meaning_en": "the clear",
+   "meaning_bn": "সুস্পষ্ট",
+   "why_en": "The Quran makes the path of truth and right action clear for everyone."
+  }
+ ],
+ "lesson_en": "The Quran makes the path of truth clear and bright for all people.",
+ "lesson_bn": "পবিত্র কুরআন সত্যের পথকে সবার জন্য উজ্জ্বল ও সুস্পষ্ট করে তোলে।",
+ "real_life_en": "When you feel unsure about your choices, turn to the clear words of the Quran. Its plain advice helps you choose truth over confusion.",
+ "real_life_bn": "জীবনের কোনো সিদ্ধান্তে সংশয় দেখা দিলে কুরআনের স্পষ্ট বাণীর কাছে ফিরে যান। এর সহজ উপদেশ সত্য ও মঙ্গলের পথ বেছে নিতে সাহায্য করবে।",
+ "themes": [
+  "the Quran",
+  "guidance"
+ ],
+ "kinds": [
+  "oath",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah swears by the clear Quran which clarifies the path of guidance and truth.",
+   "claim_bn": "আল্লাহ সুস্পষ্ট কুরআনের শপথ করেছেন যা হিদায়াত ও সত্যের পথকে স্পষ্টভাবে ব্যাখ্যা করে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

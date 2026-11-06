@@ -1,0 +1,67 @@
+{
+  "id": "20:79",
+  "simple_en": "Pharaoh led his people far astray from salvation. Despite his royal claims of absolute wisdom, he brought them only destruction and humiliation in the sea.",
+  "simple_bn": "ফেরাউন তার জাতিকে সঠিক পথ থেকে বিভ্রান্ত করেছিল। রাজকীয় প্রজ্ঞার মিথ্যা দাবি করা সত্ত্বেও সে তাদের জন্য কেবল সাগরে ধ্বংস ও লাঞ্ছনাই ডেকে এনেছিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ضلل",
+      "lemma": "أَضَلَّ",
+      "meaning_en": "he led astray",
+      "meaning_bn": "সে পথভ্রষ্ট করল",
+      "why_en": "Guiding citizens into idolatry, oppression, and doom."
+    },
+    {
+      "pos": 5,
+      "root": "هدي",
+      "lemma": "هَدَىٰ",
+      "meaning_en": "he did not guide",
+      "meaning_bn": "সে পথ দেখায়নি",
+      "why_en": "Exposes his false claims of being a wise leader."
+    }
+  ],
+  "lesson_en": "Bad leaders ruin their people. Blind trust in foolish men brings regret.",
+  "lesson_bn": "অহংকারী ও পথভ্রষ্ট নেতার অন্ধ আনুগত্য জাতিকে নৈতিক অবক্ষয় এবং চূড়ান্ত ধ্বংসের মুখোমুখি করে।",
+  "real_life_en": "Do not follow leaders blindly. Evaluate policies and leadership through the lens of justice, truth, and honesty.",
+  "real_life_bn": "নেতৃত্বকে অন্ধভাবে অনুসরণ করবেন না। সর্বদা সত্য, ইনসাফ ও মানবতার মানদণ্ডে যেকোনো নীতি ও সিদ্ধান্ত বিচার করুন।",
+  "themes": [
+    "corrupt-leadership",
+    "pharaoh",
+    "warning"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh misled his people rather than guiding them, resulting in their collective destruction.",
+      "claim_bn": "ফেরাউন তার জাতিকে সঠিক পথের দিশা না দিয়ে বিপথগামী করেছিল, যার পরিণতি ছিল তাদের চরম বিনাশ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

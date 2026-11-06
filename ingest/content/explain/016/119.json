@@ -1,0 +1,65 @@
+{
+  "id": "16:119",
+  "simple_en": "Your Lord is Ever-Forgiving and Merciful to those who commit bad deeds in ignorance, then repent afterward and reform their ways. Mercy follows true change.",
+  "simple_bn": "যারা অজ্ঞতাবশত মন্দ কাজ করে ফেলে, এরপর আন্তরিকভাবে তওবা করে এবং নিজেদের সংশোধন করে নেয়, নিশ্চয় আপনার পালনকর্তা তাদের প্রতি পরম ক্ষমাশীল ও দয়ালু।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "جهل",
+      "lemma": "جَهالَة",
+      "meaning_en": "in ignorance",
+      "meaning_bn": "অজ্ঞতাবশত",
+      "why_en": "Sin committed in moments of foolish passion."
+    },
+    {
+      "pos": 9,
+      "root": "توب",
+      "lemma": "تابَ",
+      "meaning_en": "they repented",
+      "meaning_bn": "তওবা করল",
+      "why_en": "Turning back sincerely to God."
+    }
+  ],
+  "lesson_en": "Repentance must be followed by real reform. God's doors of mercy are wide open to the sincere.",
+  "lesson_bn": "ভুল করার পর অনুতপ্ত হয়ে ভালো কাজে ফিরে এলে আল্লাহ অবশ্যই ক্ষমা করেন। তাঁর দয়া সর্বব্যাপী।",
+  "real_life_en": "If you make a mistake, turn back to God right away. Repair the wrong you did and ask for His mercy with a sincere heart.",
+  "real_life_bn": "ভুল হয়ে গেলে দেরি না করে তওবা করুন। নিজের ভুল শুধরে ভালো কাজে আত্মনিয়োগ করলে আল্লাহ ক্ষমা করে দেন।",
+  "themes": [
+    "tawbah",
+    "forgiveness",
+    "mercy",
+    "reform"
+  ],
+  "kinds": [
+    "promise",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-Ghafur",
+      "ar-Rahim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah is Forgiving and Merciful to those who do wrong out of ignorance, then repent and correct themselves.",
+      "claim_bn": "অজ্ঞতাবশত ভুল করার পর যারা তওবা করে এবং নিজেদের সংশোধন করে, আল্লাহ তাদের প্রতি ক্ষমাশীল ও দয়ালু।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

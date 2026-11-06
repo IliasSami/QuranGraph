@@ -1,0 +1,82 @@
+{
+ "id": "7:4",
+ "simple_en": "Allah destroyed many corrupt towns of the past because of their stubborn wrongdoing. His sudden punishment struck them while they slept at night. It also caught them while they rested at midday. They thought they were safe in their homes, but nothing could protect them from Allah's decree.",
+ "simple_bn": "আল্লাহ অতীতের বহু পাপাচারী জনপদকে ধ্বংস করে দিয়েছেন, কারণ তারা অবাধ্যতায় লিপ্ত ছিল। তাদের ওপর আল্লাহর শাস্তি হঠাৎ আপতিত হয়েছিল যখন তারা রাতে ঘুমাচ্ছিল অথবা দুপুরে বিশ্রাম নিচ্ছিল। তারা ভাবত তারা নিরাপদ, অথচ আল্লাহর পাকড়াও থেকে তাদের বাঁচানোর কেউ ছিল না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "هلك",
+   "lemma": "أَهْلَكَ",
+   "meaning_en": "We destroyed it",
+   "meaning_bn": "আমরা তা ধ্বংস করেছি",
+   "why_en": "Describes the total destruction of ancient communities that defied divine commands."
+  },
+  {
+   "pos": 6,
+   "root": "بأس",
+   "lemma": "بَأْس",
+   "meaning_en": "Our punishment",
+   "meaning_bn": "আমাদের শাস্তি",
+   "why_en": "Refers to Allah's severe retribution striking corrupt nations."
+  },
+  {
+   "pos": 10,
+   "root": "قيل",
+   "lemma": "قائِل",
+   "meaning_en": "resting at midday",
+   "meaning_bn": "দুপুরের বিশ্রামে রত",
+   "why_en": "Shows that punishment struck them when they felt safe and off guard."
+  }
+ ],
+ "lesson_en": "Do not let worldly comfort make you heedless of Allah's swift reckoning.",
+ "lesson_bn": "পার্থিব জীবনের স্বাচ্ছন্দ্যে গাফেল হবেন না এবং সর্বদা আল্লাহর পাকড়াওকে ভয় করুন।",
+ "real_life_en": "Enjoy the peace and safety of your home, but never take blessings for granted. Stay mindful of your duties to Allah at all times. Do not delay repentance until trouble strikes.",
+ "real_life_bn": "সুস্থতা ও নিরাপত্তার মাঝেও আল্লাহর কৃতজ্ঞতা আদায় করুন। পাপ কাজে অভ্যস্ত হয়ে মনে করবেন না যে শাস্তি আসবে না। সবসময় তওবার ওপর অবিচল থাকুন।",
+ "context_en": "Allah reminds mankind of ancient destroyed communities as a stern warning against disobedience.",
+ "context_bn": "অবাধ্যতার পরিণাম সম্পর্কে সতর্ক করতে পূর্ববর্তী ধ্বংসপ্রাপ্ত জাতিসমূহের ইতিহাস তুলে ধরা হয়েছে।",
+ "themes": [
+  "destruction of past nations",
+  "divine punishment",
+  "heedlessness"
+ ],
+ "kinds": [
+  "warning",
+  "story"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "destroyed towns"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "divine punishment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah destroyed numerous rebellious towns through His severe punishment while their inhabitants were unaware, either asleep at night or resting at midday.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sudden ruin befell them as a direct consequence of their persistent disbelief and rejection of the messengers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

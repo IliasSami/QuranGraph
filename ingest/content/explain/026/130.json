@@ -1,0 +1,65 @@
+{
+  "id": "26:130",
+  "simple_en": "When you strike other people, you strike like cruel tyrants. You show no pity or mercy to the weak. You abuse your strength to oppress those who cannot fight back.",
+  "simple_bn": "আর যখন তোমরা কারো ওপর আঘাত করো বা শক্তি প্রয়োগ করো, তখন কোনো দয়ামায়া ছাড়া চরম নিষ্ঠুর ও অত্যাচারী হয়ে আঘাত করো।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "بطش",
+      "lemma": "بَطَشْ",
+      "meaning_en": "you strike",
+      "meaning_bn": "তোমরা আঘাত করো বা শক্তি প্রয়োগ করো",
+      "why_en": "Their harsh use of violent physical force."
+    },
+    {
+      "pos": 4,
+      "root": "جبر",
+      "lemma": "جَبّار",
+      "meaning_en": "tyrants",
+      "meaning_bn": "নিষ্ঠুর অত্যাচারী",
+      "why_en": "Acting with cruelty and oppression without mercy."
+    }
+  ],
+  "lesson_en": "Power without kindness turns into cruelty. Treat people with care.",
+  "lesson_bn": "শক্তির অহংকারে দয়ামায়াহীন আচরণ করা জালিমের বৈশিষ্ট্য। আল্লাহ অত্যাচারী ও অহংকারী শাসককে পছন্দ করেন না।",
+  "real_life_en": "Never use your power or position to harm others. Treat workers and family with kindness. Stand up for those who cannot defend themselves.",
+  "real_life_bn": "নিজের ক্ষমতা বা পদের দাপটে কারও ওপর অবিচার করবেন না। অধীনস্থ ও দুর্বলদের সাথে কোমল ব্যবহার করুন এবং সবসময় ন্যায়ের ওপর অটল থাকুন।",
+  "themes": [
+    "tyranny",
+    "justice",
+    "cruelty"
+  ],
+  "kinds": [
+    "warning",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [
+      "hud"
+    ],
+    "nations": [
+      "aad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "When the people of 'Ad exercised power or attacked, they acted with ruthless brutality like merciless tyrants, devoid of kindness or compassion.",
+      "claim_bn": "‘আদ সম্প্রদায়ের লোকেরা যখন কারো ওপর আঘাত বা শক্তি প্রয়োগ করত, তখন কোনো দয়ামায়া ছাড়া চরম নিষ্ঠুর অত্যাচারীর মতো আচরণ করত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

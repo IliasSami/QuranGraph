@@ -1,0 +1,71 @@
+{
+ "id": "43:10",
+ "simple_en": "Allah made the earth a smooth place for you to live on. He spread it out and set pathways across hills and plains. These roads allow you to travel easily and reach your destinations.",
+ "simple_bn": "মহান আল্লাহ তোমাদের বসবাসের জন্য যমীনকে উপযোগী ও সহজ করেছেন। তিনি পাহাড় ও উপত্যকার মধ্য দিয়ে চলাচলের পথ তৈরি করে দিয়েছেন, যাতে তোমরা ভ্রমণের সঠিক পথ খুঁজে পাও।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "أرض",
+   "lemma": "أَرْض",
+   "meaning_en": "the earth",
+   "meaning_bn": "যমীন বা পৃথিবী",
+   "why_en": "The earth is designed perfectly to sustain human life and work."
+  },
+  {
+   "pos": 5,
+   "root": "مهد",
+   "lemma": "مَهْد",
+   "meaning_en": "a cradle (bed)",
+   "meaning_bn": "শয্যা বা বিছানা",
+   "why_en": "It describes a stable, comfortable living ground for living beings."
+  },
+  {
+   "pos": 9,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "paths (roads)",
+   "meaning_bn": "পথঘাট",
+   "why_en": "Passageways through nature are gifts that enable human connection."
+  }
+ ],
+ "lesson_en": "The earth and its roads are signs of Allah's care that help us travel and reflect.",
+ "lesson_bn": "পৃথিবী ও এর চলার পথগুলো আল্লাহর বিশেষ অনুগ্রহ, যা মানুষকে চলাচল করতে সাহায্য করে।",
+ "real_life_en": "When you walk outside or drive on a road, thank Allah. He made the earth firm and gave you clear roads to travel safely.",
+ "real_life_bn": "রাস্তা দিয়ে চলার সময় আল্লাহর প্রতি কৃতজ্ঞতা প্রকাশ করুন। তিনি পৃথিবীকে চলাচলের উপযোগী করেছেন বলেই আমরা নিরাপদে গন্তব্যে পৌঁছাতে পারি।",
+ "themes": [
+  "signs in nature",
+  "gratitude",
+  "creation"
+ ],
+ "kinds": [
+  "description-of-allah",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah made the earth stable for humans and laid out paths so they can find their way.",
+   "claim_bn": "আল্লাহ যমীনকে মানুষের জন্য স্থিতিশীল করেছেন এবং পথ তৈরি করেছেন যাতে তারা পথ খুঁজে পায়।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

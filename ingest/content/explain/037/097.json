@@ -1,0 +1,62 @@
+{
+  "id": "37:97",
+  "simple_en": "Defeated by clear truth, the disbelievers turned to brute force. They decided to build a high furnace and fill it with blazing fire. They planned to throw Prophet Ibrahim (peace be upon him) into the flames to end his message.",
+  "simple_bn": "যুক্তিতে পরাজিত হয়ে অবিশ্বাসীরা হিংস্র শক্তির আশ্রয় নিল। তারা একটি বড় অগ্নিকুণ্ড তৈরি করার সিদ্ধান্ত নিল। তারা নবী ইবরাহীম (আলাইহিস সালাম)-কে সেই জ্বলন্ত আগুনে ফেলে দিয়ে তাঁর আহ্বান থামিয়ে দিতে চাইল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "بني",
+      "lemma": "بُنْيان",
+      "meaning_en": "a structure / furnace",
+      "meaning_bn": "ইমারত বা অগ্নিকুণ্ড",
+      "why_en": "The massive enclosure they constructed to hold fire."
+    },
+    {
+      "pos": 7,
+      "root": "جحم",
+      "lemma": "جَحِيم",
+      "meaning_en": "the blazing fire",
+      "meaning_bn": "প্রজ্জ্বলিত আগুন",
+      "why_en": "Describes the huge flames prepared to destroy Ibrahim."
+    }
+  ],
+  "lesson_en": "Those without truth often resort to force when their false claims fail.",
+  "lesson_bn": "যুক্তিতে হেরে গেলে অন্যায়কারীরা সত্যকে দাবিয়ে রাখতে হিংসার আশ্রয় নেয়।",
+  "real_life_en": "When facing unfair pressure or harsh treatment for standing up for what is right, keep your dignity. Never return cruelty with cruelty.",
+  "real_life_bn": "ন্যায়ের পক্ষে থাকার কারণে কেউ হুমকি দিলে বা চাপ সৃষ্টি করলে মনোবল হারাবেন না। অন্যায়ের জবাবে অন্যায় আচরণ না করে সৎ পথে অবিচল থাকুন।",
+  "themes": [
+    "tyranny",
+    "fire",
+    "trials"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The idolaters resolved to construct a structure, fill it with blazing fire, and cast Ibrahim into it.",
+      "claim_bn": "মূর্তিপূজকরা একটি ইমারত বানিয়ে তাতে প্রচণ্ড আগুন জ্বেলে ইবরাহীমকে নিক্ষেপ করার সিদ্ধান্ত নিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

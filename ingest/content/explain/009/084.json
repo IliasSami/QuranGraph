@@ -1,0 +1,75 @@
+{
+  "id": "9:84",
+  "simple_en": "Never pray over any of them when they die. Never stand by their graves. They rejected Allah and His Messenger, and they died as rebels against truth.",
+  "simple_bn": "তাদের মধ্য থেকে কেউ মারা গেলে আপনি কখনই তার জানাজার সালাত পড়বেন না এবং তার কবরের পাশে দাঁড়াবেন না। তারা আল্লাহ ও তাঁর রাসূলকে অস্বীকার করেছিল এবং তারা পাপাচারী অবস্থায় মৃত্যুবরণ করেছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "صلو",
+      "lemma": "صَلَّى",
+      "meaning_en": "pray funeral prayer",
+      "meaning_bn": "সালাত আদায় করো",
+      "why_en": "Prohibition of offering religious funeral prayers for known hypocrites."
+    },
+    {
+      "pos": 11,
+      "root": "قبر",
+      "lemma": "قَبْر",
+      "meaning_en": "his grave",
+      "meaning_bn": "তার কবর",
+      "why_en": "Standing at the graveside to supplicate for the deceased."
+    },
+    {
+      "pos": 18,
+      "root": "فسق",
+      "lemma": "فاسِق",
+      "meaning_en": "defiantly disobedient",
+      "meaning_bn": "ফাসেক / পাপাচারী",
+      "why_en": "Dying in open rebellion against divine truth."
+    }
+  ],
+  "lesson_en": "Honor and religious prayers are reserved for those who die in faith.",
+  "lesson_bn": "জানাজা ও ধর্মীয় সম্মান কেবল সেই ব্যক্তির প্রাপ্য যে বিশ্বাস ও সততার সাথে জীবন শেষ করেছে।",
+  "real_life_en": "Do not offer false praise or moral endorsement to corrupt leaders after they pass away. Keep your respect for those who stood for truth.",
+  "real_life_bn": "স্বৈরাচারী বা দুর্নীতিবাজদের মৃত্যুর পর তাদের মিথ্যা প্রশংসা করবেন না; সম্মান কেবল তাঁদেরই দিন যাঁরা সততার সাথে জীবন কাটিয়েছেন।",
+  "themes": [
+    "funeral prayer",
+    "prohibition",
+    "limits of honor"
+  ],
+  "kinds": [
+    "command",
+    "prohibition",
+    "law"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet was explicitly forbidden from performing funeral prayers or standing over the graves of deceased hypocrites.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

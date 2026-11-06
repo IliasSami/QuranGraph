@@ -1,0 +1,70 @@
+{
+  "id": "27:22",
+  "simple_en": "The hoopoe soon returned to the king. It told Solomon that it had fresh news from the land of Sheba. The bird had learned things that the king did not yet know.",
+  "simple_bn": "কিছুক্ষণের মধ্যেই হুদহুদ পাখি ফিরে এলো। সে সুলাইমানকে জানাল যে সে এমন এক নিশ্চিত তথ্য নিয়ে এসেছে যা রাজার জানা ছিল না, আর তা হলো সাবা অঞ্চলের এক গুরুত্বপূর্ণ খবর।",
+  "key_words": [
+    {
+      "pos": 5,
+      "arabic": "أَحَطتُ",
+      "root": "حوط",
+      "lemma": "أَحاطَ",
+      "meaning_en": "I encompassed",
+      "meaning_bn": "আমি অবগত হয়েছি",
+      "why_en": "Learning important facts not yet known to the king."
+    },
+    {
+      "pos": 13,
+      "arabic": "بِنَبَإٍ",
+      "root": "نبأ",
+      "lemma": "نَبَأ",
+      "meaning_en": "with news",
+      "meaning_bn": "খবর নিয়ে",
+      "why_en": "Verified news brought from Sheba."
+    }
+  ],
+  "lesson_en": "Useful knowledge can come from small sources. A wise person always listens to the truth.",
+  "lesson_bn": "গুরুত্বপূর্ণ সত্য ও সঠিক তথ্য যেকোনো সাধারণ বা অপ্রত্যাশিত উৎস থেকেও আসতে পারে।",
+  "real_life_en": "Remain humble enough to learn from anyone, regardless of their rank. Value accurate information and honest feedback.",
+  "real_life_bn": "পদমর্যাদা নির্বিশেষে যে কারও কাছ থেকে গঠনমূলক ও সঠিক তথ্য গ্রহণ করার মানসিকতা রাখুন।",
+  "themes": [
+    "sulayman",
+    "hoopoe",
+    "sheba"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Solomon"
+    ],
+    "nations": [
+      "Sheba"
+    ],
+    "places": [
+      "Yemen"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "hoopoe"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The hoopoe returned quickly, reporting certain news from the distant kingdom of Sheba.",
+      "claim_bn": "হুদহুদ ফিরে এসে সুলাইমানকে সাবা অঞ্চলের এক নিশ্চিত ও অজানা খবরের বিষয়ে অবহিত করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

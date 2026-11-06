@@ -1,0 +1,70 @@
+{
+  "id": "69:40",
+  "simple_en": "Indeed, this Quran is the speech brought by a noble Messenger. The Prophet conveys the exact words sent to him by God, with complete truth, dignity, and care.",
+  "simple_bn": "নিশ্চয় এই কুরআন এক সম্মানিত রাসুলের আনীত বাণী। মুহাম্মদ আল্লাহর পক্ষ থেকে নাযিলকৃত বাণীকে পরম বিশ্বস্ততা, সততা ও মর্যাদার সাথে মানুষের কাছে পৌঁছে দিয়েছেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قول",
+      "lemma": "قَوْل",
+      "meaning_en": "the speech and recitation",
+      "meaning_bn": "বাণী",
+      "why_en": "Refers to the Quranic message recited and communicated by the messenger."
+    },
+    {
+      "pos": 3,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "a messenger",
+      "meaning_bn": "রাসুল",
+      "why_en": "The Prophet Muhammad chosen to carry the final message to humanity."
+    },
+    {
+      "pos": 4,
+      "root": "كرم",
+      "lemma": "كَرِيم",
+      "meaning_en": "noble and honorable",
+      "meaning_bn": "সম্মানিত ও মর্যাদাশীল",
+      "why_en": "Highlights the exalted character and integrity of the Prophet."
+    }
+  ],
+  "lesson_en": "The Quran was brought by an honest messenger sent by God.",
+  "lesson_bn": "আল্লাহর মনোনীত সম্মানিত ও বিশ্বস্ত রাসুলের মাধ্যমেই এই পবিত্র কুরআন মানবজাতির কাছে পৌঁছেছে।",
+  "real_life_en": "When an official delivers an urgent letter from a leader, people trust it. The Prophet was the most truthful messenger. We can trust every word he brought.",
+  "real_life_bn": "কোনো বিশ্বস্ত দূত যখন গুরুত্বপূর্ণ বার্তা আনেন, মানুষ তা বিশ্বাস করে। রাসুলুল্লাহ আল্লাহর বাণী নিখুঁতভাবে পৌঁছে দিয়েছেন, তাই কুরআনের প্রতিটি বাক্য পরম আস্থার যোগ্য।",
+  "themes": [
+    "the noble messenger",
+    "Quranic truth",
+    "revelation"
+  ],
+  "kinds": [
+    "belief",
+    "argument",
+    "praise"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Quran is the speech of Allah recited and conveyed by a noble messenger.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

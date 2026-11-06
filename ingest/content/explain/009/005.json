@@ -1,0 +1,76 @@
+{
+  "id": "9:5",
+  "simple_en": "When the sacred months end, fight the hostile fighters who broke their peace treaties. Watch them and stop their hostile movements. If they turn to Allah, pray, and give charity, leave them in peace. Allah is Most Forgiving and Merciful.",
+  "simple_bn": "নিষিদ্ধ মাসগুলো পার হয়ে গেলে যারা চুক্তি ভেঙে আক্রমণ করেছিল তাদের বিরুদ্ধে ব্যবস্থা নাও। কিন্তু তারা যদি তাওবাহ করে, সালাত কায়েম করে এবং যাকাত দেয়, তবে তাদের পথ ছেড়ে দাও। নিশ্চয় আল্লাহ পরম ক্ষমাশীল ও দয়ালু।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سلخ",
+      "lemma": "انسَلَخَ",
+      "meaning_en": "passed / drawn away",
+      "meaning_bn": "অতিবাহিত হলো / সমাপ্ত হলো",
+      "why_en": "Expiry of the temporary four-month truce period."
+    },
+    {
+      "pos": 14,
+      "root": "رصد",
+      "lemma": "مَرْصَد",
+      "meaning_en": "ambush / observation post",
+      "meaning_bn": "ঘাঁটি / নজরদারির স্থান",
+      "why_en": "Strategic defensive positioning against hostile aggressors."
+    },
+    {
+      "pos": 20,
+      "root": "زكو",
+      "lemma": "زَكاة",
+      "meaning_en": "obligatory charity",
+      "meaning_bn": "যাকাত",
+      "why_en": "The financial pillar of faith establishing social solidarity."
+    }
+  ],
+  "lesson_en": "Stand firm against harm, but welcome peace when people change.",
+  "lesson_bn": "শত্রুতামূলক আগ্রাসনের বিরুদ্ধে দৃঢ় প্রতিরোধ গড়ে তুলতে হয়, তবে প্রতিপক্ষ শান্তি ও সংশোধন চাইলে ক্ষমা প্রদর্শন করা কর্তব্য।",
+  "real_life_en": "Stop those who cause harm at school or work. Yet if they show real change, forgive them and help them.",
+  "real_life_bn": "কর্মক্ষেত্রে কোনো কর্মী শৃঙ্খলা ভঙ্গ করলে পদক্ষেপ নিতে হবে, কিন্তু সে ভুল স্বীকার করে কাজে মনোযোগ দিলে তাকে দ্বিতীয় সুযোগ দিয়ে সহযোগিতা করতে হয়।",
+  "themes": [
+    "defense",
+    "repentance",
+    "prayer",
+    "zakah"
+  ],
+  "kinds": [
+    "law",
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Forgiving",
+      "Merciful"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hostile combatants who broke treaties were confronted after the grace period, but genuine repentance and prayer restored complete safety.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

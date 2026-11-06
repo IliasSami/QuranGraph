@@ -1,0 +1,83 @@
+{
+ "id": "72:26",
+ "simple_en": "Allah alone knows all hidden things. He knows the past, the present, and all that will come. He does not share His secrets with common men. Fortune-tellers and spirits know nothing of what Allah keeps hidden.",
+ "simple_bn": "আল্লাহ একাই সমস্ত অদৃশ্য বিষয় জানেন। তিনি অতীত, বর্তমান এবং আগামীতে যা কিছু ঘটবে সব জানেন। তিনি সাধারণ মানুষের কাছে এই রহস্য উন্মোচন করেন না। ভাগ্যগণক বা জিনরা কেউই আল্লাহর গোপন জ্ঞানের সন্ধান পায় না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "علم",
+   "lemma": "عالِم",
+   "meaning_en": "Knower",
+   "meaning_bn": "জ্ঞানী",
+   "why_en": "The One whose knowledge has no boundary."
+  },
+  {
+   "pos": 2,
+   "root": "غيب",
+   "lemma": "غَيْب",
+   "meaning_en": "the unseen, the hidden",
+   "meaning_bn": "অদৃশ্যের, গায়েবের",
+   "why_en": "Matters beyond human perception and senses."
+  },
+  {
+   "pos": 4,
+   "root": "ظهر",
+   "lemma": "أَظْهَرَ",
+   "meaning_en": "He discloses, reveals",
+   "meaning_bn": "প্রকাশ করেন",
+   "why_en": "Unveiling secret knowledge."
+  },
+  {
+   "pos": 7,
+   "root": "أحد",
+   "lemma": "أَحَد",
+   "meaning_en": "to anyone",
+   "meaning_bn": "কারও কাছে",
+   "why_en": "Total exclusion of unauthorized claims to unseen knowledge."
+  }
+ ],
+ "lesson_en": "Never seek fortune-tellers or palm readers. Knowledge of the future belongs to Allah alone.",
+ "lesson_bn": "কখনো গণক বা হাত দেখা লোকের কাছে যাবেন না। ভবিষ্যতের জ্ঞান কেবল এক আল্লাহরই অধিকার।",
+ "real_life_en": "A girl worries about getting into college and thinks of visiting a palm reader. Instead, she prays, studies hard, and leaves the rest to Allah. Trusting Allah brings real peace to the mind.",
+ "real_life_bn": "বিশ্ববিদ্যালয়ে ভর্তি নিয়ে চিন্তিত হয়ে এক তরুণী ভাগ্যগণকের কাছে যাওয়ার কথা ভাবল। কিন্তু সে তা না করে নামাজ পড়ল, মনোযোগ দিয়ে পড়াশোনা করল এবং বাকিটা আল্লাহর হাতে ছেড়ে দিল। আল্লাহর ওপর ভরসা রাখলে মনে আসল শান্তি আসে।",
+ "themes": [
+  "the unseen",
+  "knowledge of Allah",
+  "astrology",
+  "fortune-telling"
+ ],
+ "kinds": [
+  "description-of-allah",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah is the exclusive Knower of the unseen, and He does not disclose His unseen knowledge to anyone without qualification.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Unseen matters remain hidden except where Allah chooses to reveal them.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

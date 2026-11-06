@@ -1,0 +1,74 @@
+{
+  "id": "35:42",
+  "simple_en": "The disbelievers took solemn oaths by Allah that if a warner came to them, they would be more guided than any past nation. But when the Prophet came to them with clear truth, his arrival only increased their flight and aversion from guidance.",
+  "simple_bn": "কাফিররা আল্লাহর নামে দৃঢ় শপথ করে বলত যে তাদের কাছে কোনো সতর্ককারী আসলে তারা পূর্ববর্তী সকল জাতির চেয়ে বেশি সৎপথের অনুসারী হবে। কিন্তু যখন সতর্ককারী নবী তাদের কাছে এলেন, তখন তা কেবল তাদের সত্য থেকে পলায়ন ও বিমুখতাই বাড়িয়ে দিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قسم",
+      "lemma": "أَقْسَمُ",
+      "meaning_en": "they swore oaths",
+      "meaning_bn": "তারা শপথ করেছিল",
+      "why_en": "Refers to the empty promises disbelievers made before the Prophet's arrival."
+    },
+    {
+      "pos": 7,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "a warner",
+      "meaning_bn": "সতর্ককারী",
+      "why_en": "Refers to Prophet Muhammad ﷺ sent with divine guidance."
+    },
+    {
+      "pos": 19,
+      "root": "نفر",
+      "lemma": "نُفُور",
+      "meaning_en": "aversion / fleeing",
+      "meaning_bn": "বিমুখতা ও পলায়ন",
+      "why_en": "Describes stubborn arrogance fleeing from truth rather than embracing it."
+    }
+  ],
+  "lesson_en": "Making proud promises means nothing if one runs away when truth arrives.",
+  "lesson_bn": "বড় বড় দাবি করা অর্থহীন, যদি সত্য সামনে আসার পর মানুষ তা থেকে মুখ ফিরিয়ে নেয়।",
+  "real_life_en": "Never claim you would easily follow the truth if only circumstances were different. When good advice or guidance reaches you right now, act upon it humbly.",
+  "real_life_bn": "পরিস্থিতির দোহাই দিয়ে সত্য গ্রহণ থেকে পিছিয়ে থাকবেন না। কোনো সঠিক কথা বা উপদেশ সামনে আসলে অহংকার পরিহার করে তা মেনে নেওয়ার চেষ্টা করুন।",
+  "themes": [
+    "hypocrisy",
+    "disbelief",
+    "prophethood",
+    "arrogance"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Deniers swore they would be most guided if a warner came, yet his coming only increased their aversion.",
+      "claim_bn": "তারা শপথ করেছিল সতর্ককারী আসলে তারা সবচেয়ে সৎপথে থাকবে, কিন্তু সতর্ককারী আসার পর তাদের বিমুখতাই বৃদ্ধি পেয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

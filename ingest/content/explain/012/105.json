@@ -1,0 +1,71 @@
+{
+  "id": "12:105",
+  "simple_en": "Countless signs of Allah's power fill the sky and the earth. People see the sun, stars, mountains, and rain every day. Yet many walk past these wonders without thinking about their Creator.",
+  "simple_bn": "আকাশ ও জমিন জুড়ে আল্লাহর অসীম কুদরতের অসংখ্য নিদর্শন ছড়িয়ে রয়েছে। মানুষ প্রতিদিন সূর্য, তারকা, পাহাড় ও বৃষ্টি প্রত্যক্ষ করে। তবুও অনেকে উদাসীন হয়ে এসব সৃষ্টি অতিক্রম করে এবং স্রষ্টার কথা ভাবে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "sign",
+      "meaning_bn": "নিদর্শন",
+      "why_en": "Miraculous proofs of divine wisdom woven into the fabric of creation."
+    },
+    {
+      "pos": 7,
+      "root": "مرر",
+      "lemma": "مَرَّ",
+      "meaning_en": "they pass by",
+      "meaning_bn": "তারা অতিক্রম করে",
+      "why_en": "Describes daily human encounter with cosmic and earthly wonders."
+    },
+    {
+      "pos": 11,
+      "root": "عرض",
+      "lemma": "مُعْرِض",
+      "meaning_en": "turning away",
+      "meaning_bn": "উদাসীন",
+      "why_en": "Spiritual heedlessness that ignores obvious evidence of the Creator."
+    }
+  ],
+  "lesson_en": "Look at the earth and sky. They show the greatness of God.",
+  "lesson_bn": "সৃষ্টিজগতের অপরূপ নিদর্শনের দিকে গভীর দৃষ্টি দিলে স্রষ্টার প্রতি বিশ্বাস ও কৃতজ্ঞতা বাড়ে।",
+  "real_life_en": "A busy commuter usually stares at a phone while walking outside. One morning, they pause to watch the sunrise and feel a quiet sense of awe at the vast beauty around them.",
+  "real_life_bn": "একজন ব্যস্ত পথচারী প্রতিদিন ফোনে চোখ রেখে হাঁটে। একদিন সকালে সে মুহূর্তের জন্য থেমে আকাশের সূর্যোদয় দেখে এবং স্রষ্টার অপরূপ সৃষ্টির মহিমা অনুভব করে।",
+  "context_en": "People often overlook the obvious proofs of Allah in the physical world.",
+  "context_bn": "মানুষ প্রাকৃতিক জগতে ছড়িয়ে থাকা আল্লাহর স্পষ্ট প্রমাণসমূহ দেখেও অবহেলা করে চলে যায়।",
+  "themes": [
+    "signs of Allah",
+    "reflection",
+    "heedlessness"
+  ],
+  "kinds": [
+    "creation",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "heavens",
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Many signs exist in the heavens and earth, but many people pass by them heedlessly.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

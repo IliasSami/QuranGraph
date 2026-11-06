@@ -1,0 +1,106 @@
+{
+  "id": "12:88",
+  "simple_en": "The brothers returned to Yusuf's court. They said that hardship had struck them and their family. They brought poor quality goods, but begged Yusuf to give them full measure and show charity. Indeed, Allah rewards those who are charitable.",
+  "simple_bn": "ভাইয়েরা আবার ইউসুফের দরবারে হাজির হয়ে বলল, হে আযীয, আমরা ও আমাদের পরিবার চরম কষ্টে পড়েছি। আমরা কিছু নিকৃষ্ট মাল এনেছি, আপনি আমাদের পুরোপুরি মেপে দিন এবং আমাদের প্রতি সদকা করুন। নিশ্চয় আল্লাহ দানশীলদের পুরস্কৃত করেন।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "عزز",
+      "lemma": "عَزِيز",
+      "meaning_en": "O chief / noble ruler",
+      "meaning_bn": "হে আযীয",
+      "why_en": "Humbly addressing Yusuf in their time of desperate need."
+    },
+    {
+      "pos": 9,
+      "root": "ضرر",
+      "lemma": "ضُرّ",
+      "meaning_en": "adversity / hardship",
+      "meaning_bn": "কষ্ট ও ক্ষুধা",
+      "why_en": "The severe famine that drained their resources in Canaan."
+    },
+    {
+      "pos": 12,
+      "root": "زجو",
+      "lemma": "مُزْجاة",
+      "meaning_en": "poor quality / meager",
+      "meaning_bn": "তুচ্ছ বা নিকৃষ্ট পণ্য",
+      "why_en": "Substandard goods that barely possessed any commercial value."
+    },
+    {
+      "pos": 16,
+      "root": "صدق",
+      "lemma": "تَصَدَّقَ",
+      "meaning_en": "be charitable",
+      "meaning_bn": "সদকা বা অনুগ্রহ করুন",
+      "why_en": "Asking him to overlook their poor goods and give full grain."
+    },
+    {
+      "pos": 21,
+      "root": "صدق",
+      "lemma": "مُتَصَدِّق",
+      "meaning_en": "the charitable",
+      "meaning_bn": "দানশীলগণ",
+      "why_en": "Allah rewards generous givers who show mercy to the poor."
+    }
+  ],
+  "lesson_en": "Be kind to people in need. God rewards those who give charity.",
+  "lesson_bn": "অসহায় মানুষের প্রতি উদারতা প্রদর্শন করুন, কারণ আল্লাহ দানশীলদের উত্তম প্রতিদান দেন।",
+  "real_life_en": "A shop owner sees a poor customer who is short on coins for bread. The owner smiles and gives the loaf for free.",
+  "real_life_bn": "মুদি দোকানি দেখতে পান এক বৃদ্ধের কাছে চাল কেনার টাকা কিছুটা কম পড়েছে। দোকানি হাসিমুখে ঘাটতি টাকা মাফ করে পুরো চালের ব্যাগ দিয়ে দেন।",
+  "context_en": "Driven by severe hunger and their father's command, the brothers returned to Yusuf begging for charity.",
+  "context_bn": "তীব্র ক্ষুধা ও পিতার নির্দেশে ভাইয়েরা মিসরে ফিরে ইউসুফের কাছে করুণা ও সদকা প্রার্থনা করল।",
+  "themes": [
+    "charity",
+    "poverty",
+    "humility",
+    "generosity"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "brothers of Yusuf",
+      "Yusuf"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "grain",
+      "merchandise"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The brothers entered upon Yusuf pleading that hardship had touched their family.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They brought meager goods and asked for full measure and charity.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

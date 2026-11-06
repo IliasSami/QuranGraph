@@ -1,0 +1,83 @@
+{
+  "id": "11:13",
+  "simple_en": "If critics claim the Prophet invented the Quran himself, challenge them to produce just ten chapters like it. Let them call upon anyone they can besides Allah to help them, if their claim is true.",
+  "simple_bn": "তারা কি বলে যে তিনি এটি নিজে তৈরি করেছেন? বলুন: তোমরা সত্যবাদী হলে এর মতো দশটি সূরা বানিয়ে নিয়ে আসো এবং আল্লাহ ছাড়া যাকে পারো সাহায্যের জন্য ডেকে নাও।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "فري",
+      "lemma": "افْتَرَى",
+      "meaning_en": "he invented / forged",
+      "meaning_bn": "সে রচনা করেছে",
+      "why_en": "The false accusation that the Quran was humanly composed."
+    },
+    {
+      "pos": 7,
+      "root": "سور",
+      "lemma": "سُورَة",
+      "meaning_en": "chapters / surahs",
+      "meaning_bn": "সূরাসমূহ",
+      "why_en": "The distinct units of the Quranic text."
+    },
+    {
+      "pos": 10,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "call upon / invite",
+      "meaning_bn": "তোমরা আহ্বান করো",
+      "why_en": "Challenging opponents to seek any worldly assistance."
+    },
+    {
+      "pos": 18,
+      "root": "صدق",
+      "lemma": "صادِق",
+      "meaning_en": "truthful",
+      "meaning_bn": "সত্যবাদী",
+      "why_en": "Validating claims through authentic evidence."
+    }
+  ],
+  "lesson_en": "The Quran's unmatched wisdom and eloquence prove it is the authentic word of Allah.",
+  "lesson_bn": "কুরআনের অতুলনীয় সাহিত্যমান ও সত্যতা প্রমাণ করে যে এটি কোনো মানুষের রচিত নয়, বরং স্বয়ং আল্লাহর বাণী।",
+  "real_life_en": "When doubts about faith arise, read the Quran directly with an open mind. Its clear wisdom and timeless truths speak for themselves.",
+  "real_life_bn": "কুরআন নিয়ে সংশয় দূর করতে সরাসরি অর্থ বুঝে তা তিলাওয়াত করুন; এর প্রজ্ঞাপূর্ণ উপদেশ আপনাকে সত্যের পথ দেখাবে।",
+  "themes": [
+    "challenge of the Quran",
+    "miraculous nature of the Quran",
+    "divine origin of revelation"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran",
+      "ten surahs"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quran challenges anyone who doubts its divine origin to compose ten fabricated chapters matching its caliber.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

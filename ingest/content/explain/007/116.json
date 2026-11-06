@@ -1,0 +1,88 @@
+{
+ "id": "7:116",
+ "simple_en": "Musa told them to throw first. When they cast down their ropes and staffs, they tricked the eyes of the crowd. The spectators thought they saw wriggling snakes and felt deep fear. The magicians had produced a very powerful illusion that stunned the audience.",
+ "simple_bn": "মূসা (আলাইহিস সালাম) শান্তভাবে বললেন, তোমরাই প্রথমে নিক্ষেপ করো। তারা যখন তাদের দড়ি ও লাঠিগুলো ফেলল, তখন উপস্থিত জনতার চোখে জাদু করে দিল এবং তাদের মনে ভয় ঢুকিয়ে দিল। তারা অত্যন্ত শক্তিশালী ও চমকপ্রদ এক জাদুর মায়াজাল তৈরি করেছিল, যা সবাইকে হতবাক করে দিয়েছিল।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "سحر",
+   "lemma": "سَحَرُ",
+   "meaning_en": "they bewitched",
+   "meaning_bn": "তারা জাদু করল",
+   "why_en": "Shows that their craft tricked human perception rather than altering reality."
+  },
+  {
+   "pos": 8,
+   "root": "رهب",
+   "lemma": "اسْتَرْهَبُ",
+   "meaning_en": "and terrified them",
+   "meaning_bn": "এবং তাদের মনে ভীতি সঞ্চার করল",
+   "why_en": "The psychological shock and fear instilled in the gathering."
+  },
+  {
+   "pos": 11,
+   "root": "عظم",
+   "lemma": "عَظِيم",
+   "meaning_en": "mighty / great",
+   "meaning_bn": "বিরাট বা অতি শক্তিশালী",
+   "why_en": "Acknowledges that the illusion was exceptionally powerful by worldly standards."
+  }
+ ],
+ "lesson_en": "Falsehood may look big and scary, but it is only a weak trick.",
+ "lesson_bn": "বাতিল বা অসত্য আপাতদৃষ্টিতে যতই শক্তিশালী মনে হোক এবং ভয় দেখাক, তার কোনো স্থায়ী বাস্তবতা নেই।",
+ "real_life_en": "Do not let flashy shows or scary talk trick you into accepting lies. People often use illusions to mislead crowds. Stay calm and hold on to facts.",
+ "real_life_bn": "চকচকে চটকদার প্রচার বা ভয়ের পরিবেশ দেখে বিভ্রান্ত হবেন না। অসৎ মানুষেরা প্রায়ই মিথ্যার ওপর চমকপ্রদ আবরণ দিয়ে মানুষকে ভয় দেখায়। শান্ত থেকে বাস্তব সত্য অনুসন্ধান করুন এবং আল্লাহর ওপর আস্থা রাখুন।",
+ "context_en": "The contest begins as the magicians cast their devices, bewitching the gathering and frightening the onlookers.",
+ "context_bn": "জাদুকররা তাদের দড়ি ও লাঠি ফেলে সাধারণ মানুষের চোখে বিভ্রান্তিকর জাদুর ভেলকিবাজি দেখিয়ে ভীতি তৈরি করে।",
+ "themes": [
+  "contest of Musa",
+  "magic and illusion",
+  "fear tactics",
+  "deception"
+ ],
+ "kinds": [
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Musa (Moses)",
+   "magicians"
+  ],
+  "nations": [
+   "crowd / spectators"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "contest of Musa and magicians"
+  ],
+  "things": [
+   "ropes and staffs",
+   "magic"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Musa invited the magicians to throw first.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The magicians cast their ropes and staffs, bewitched the spectators' eyes, and instilled great fear through powerful magic.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

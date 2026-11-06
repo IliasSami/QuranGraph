@@ -1,0 +1,61 @@
+{
+  "id": "53:60",
+  "simple_en": "Do you laugh mockingly at the words of Allah instead of weeping at its stern warnings? A reflective soul weeps out of reverence and fear of Allah when hearing of the Last Day. Mockery only hardens the heart against mercy.",
+  "simple_bn": "তোমরা কি এই কিতাব শুনে উপহাস করে হাসাহাসি করছ এবং এর কঠোর সতর্কবার্তা শুনে কাঁদছ না। একজন বিবেকবান মানুষ বিচার দিবসের কথা শুনে আল্লাহর ভয়ে ও শ্রদ্ধায় কেঁদে ফেলে। উপহাস ও বিদ্রূপ কেবল অন্তরকে পাষাণ করে তোলে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ضحك",
+      "lemma": "ضَحِكَتْ",
+      "meaning_en": "you laugh mockingly",
+      "meaning_bn": "তোমরা উপহাস করে হাসছ",
+      "why_en": "Foolish mocking laughter directed at divine revelation."
+    },
+    {
+      "pos": 3,
+      "root": "بكي",
+      "lemma": "بَكَتْ",
+      "meaning_en": "you do not weep",
+      "meaning_bn": "তোমরা কাঁদছ না",
+      "why_en": "Failing to shed tears of repentance and awe before Allah."
+    }
+  ],
+  "lesson_en": "Let your heart soften with tears when hearing the warnings of Allah.",
+  "lesson_bn": "আল্লাহর সতর্কবার্তা শুনে অন্তরে ভীতি অনুভব করুন এবং বিনীতভাবে অশ্রু বিসর্জন দিন।",
+  "real_life_en": "When you hear verses about the Day of Judgment, do not take them lightly. Ask Allah to soften your heart so that you may weep in sincere repentance.",
+  "real_life_bn": "কিয়ামতের ভয়াবহতার বর্ণনা শুনলে মনকে নরম করুন। আল্লাহর কাছে আন্তরিকভাবে তওবা করে নিজের ভুলগুলোর জন্য অনুতপ্ত অশ্রু ফেলুন।",
+  "context_en": "The Quran contrasts foolish mockery with the tears of sincere humility.",
+  "context_bn": "কুরআনের আহ্বানের সামনে অবান্তর হাসি-তামাশা বর্জন করে কান্নার মনোভাব গড়ে তোলার আহ্বান জানানো হয়েছে।",
+  "themes": [
+    "humility",
+    "the Last Day",
+    "repentance"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelievers laugh mockingly at the Quran and do not weep at its warnings.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

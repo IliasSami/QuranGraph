@@ -1,0 +1,70 @@
+{
+  "id": "15:23",
+  "simple_en": "It is We who give life, and We who cause death. When everything passes away, We remain as the sole Inheritor of all creation. All worldly power returns to Allah.",
+  "simple_bn": "আমরাই জীবন দান করি এবং আমরাই মৃত্যু ঘটাই। আর সব সৃষ্টির অবসানের পর আমরাই একমাত্র চিরস্থায়ী উত্তরাধিকারী হিসেবে অবশিষ্ট থাকব। সমস্ত পার্থিব ক্ষমতা অবশেষে আল্লাহর কাছেই ফিরে যাবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حيي",
+      "lemma": "أَحْيا",
+      "meaning_en": "We give life",
+      "meaning_bn": "আমরা জীবন দান করি",
+      "why_en": "Granting life out of nonexistence."
+    },
+    {
+      "pos": 4,
+      "root": "موت",
+      "lemma": "أَماتَ",
+      "meaning_en": "and We cause death",
+      "meaning_bn": "এবং মৃত্যু ঘটাই",
+      "why_en": "Ending mortal existence."
+    },
+    {
+      "pos": 6,
+      "root": "ورث",
+      "lemma": "وارِث",
+      "meaning_en": "the Inheritors",
+      "meaning_bn": "উত্তরাধিকারী",
+      "why_en": "The Everlasting Owner when all else perishes."
+    }
+  ],
+  "lesson_en": "Life and death are in Allah's hands alone. Live every moment with faith and integrity.",
+  "lesson_bn": "জীবন ও মৃত্যু একমাত্র আল্লাহর হাতে। প্রতিটি মুহূর্ত ঈমান ও সততার সাথে যাপন করুন।",
+  "real_life_en": "A doctor works tirelessly in an intensive care room. She uses all her skill to help sick patients, but she knows deep inside that life and death belong to Allah alone. This keeps her humble and prayerful.",
+  "real_life_bn": "হাসপাতালে এক চিকিৎসক রোগীর জীবন বাঁচাতে আপ্রাণ চেষ্টা করেন। তিনি জানেন চিকিৎসা তার দায়িত্ব, কিন্তু জীবন ও মৃত্যুর চূড়ান্ত মালিক আল্লাহ। এই বিশ্বাস তাকে বিনম্র ও প্রার্থনামুখর রাখে।",
+  "context_en": "Affirmation of Allah's supreme control over life, death, and ultimate inheritance of all that exists.",
+  "context_bn": "জীবন-মৃত্যুর ওপর আল্লাহর নিরঙ্কুশ কর্তৃত্ব এবং মহাবিশ্বের চিরন্তন মালিকানার ঘোষণা।",
+  "themes": [
+    "life-and-death",
+    "divine-names",
+    "sovereignty"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "names_of_allah": [
+      "al-Warith"
+    ],
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah alone gives life and causes death, and He is the ultimate Inheritor of all creation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

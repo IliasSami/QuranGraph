@@ -1,0 +1,69 @@
+{
+  "id": "26:66",
+  "simple_en": "When Musa and his people were safe, the high walls of water fell down. God drowned Pharaoh and his entire army. Not one of the wicked soldiers escaped the sea.",
+  "simple_bn": "মূসা ও তাঁর সাথীরা তীরে পৌঁছার পর সাগরের পানি আছড়ে পড়ল। আল্লাহ ফিরআউন ও তার সমগ্র অহংকারী বাহিনীকে পানিতে নিমজ্জিত করে ধ্বংস করে দিলেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "غرق",
+      "lemma": "أُغْرِقُ",
+      "meaning_en": "We drowned",
+      "meaning_bn": "আমরা নিমজ্জিত করলাম",
+      "why_en": "The divine retribution wiping out the tyrants beneath the waves."
+    },
+    {
+      "pos": 3,
+      "root": "أخر",
+      "lemma": "آخَر",
+      "meaning_en": "the others",
+      "meaning_bn": "অন্য দলটি",
+      "why_en": "Refers to Pharaoh and his army who were utterly destroyed."
+    }
+  ],
+  "lesson_en": "Tyranny has a fixed end. No worldly power can stand against the decree of the Almighty.",
+  "lesson_bn": "অত্যাচারীর ক্ষমতা কখনো চিরস্থায়ী হয় না। আল্লাহর বিধানের সামনে দুনিয়ার কোনো পরাশক্তি টিকে থাকতে পারে না।",
+  "real_life_en": "Do not be fooled by the power of unjust people. Their rule never lasts long. Live honestly and treat others well, knowing God sees everything.",
+  "real_life_bn": "কারো সাময়িক দাপট দেখে বিভ্রান্ত হবেন না। জুলুমের পরিণতি সবসময় খারাপ হয়। নিজের জীবনে সততা বজায় রাখুন এবং কারো প্রতি অন্যায় করবেন না।",
+  "themes": [
+    "divine-punishment",
+    "drowning",
+    "justice"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "firaun"
+    ],
+    "nations": [
+      "egyptians"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "drowning-of-pharaoh"
+    ],
+    "things": [
+      "sea"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God destroyed Pharaoh and his army by drowning them in the sea.",
+      "claim_bn": "আল্লাহ ফিরআউন ও তার বাহিনীকে সাগরে ডুবিয়ে ধ্বংস করে দিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

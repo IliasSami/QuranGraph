@@ -1,0 +1,61 @@
+{
+  "id": "23:44",
+  "simple_en": "We sent Our messengers one after another in succession. Whenever a messenger came to a nation, they denied him. So We destroyed them and made them mere tales.",
+  "simple_bn": "তারপর আমরা একের পর এক আমাদের রাসুলদের প্রেরণ করেছিলাম। যখনই কোনো জাতির কাছে তাদের রাসুল এসেছে, তারা তাকে মিথ্যাবাদী বলেছে। ফলে আমরা তাদের ধ্বংস করে কেবল গল্পের বিষয়ে পরিণত করেছি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "وتر",
+      "lemma": "تَتْرا",
+      "meaning_en": "in succession",
+      "meaning_bn": "ধারাবাহিকভাবে বা একের পর এক",
+      "why_en": "Continuous dispatch of prophets to guide mankind."
+    },
+    {
+      "pos": 15,
+      "root": "حدث",
+      "lemma": "حَدِيث",
+      "meaning_en": "tales of the past",
+      "meaning_bn": "ইতিহাসের গল্প বা কাহিনী",
+      "why_en": "Ruined nations surviving only as cautionary tales in history."
+    }
+  ],
+  "lesson_en": "Ignoring the warnings of prophets brings ruin. Defiant nations ended as mere stories in history.",
+  "lesson_bn": "নবীগণের ধারাবাহিক দাওয়াত অমান্য করার কারণে একের পর এক জাতি ধ্বংস হয়েছে। অবাধ্য জাতিগুলো আজ কেবল অতীতের গল্পে রূপ নিয়েছে।",
+  "real_life_en": "Listen to good advice before it is too late. Live so your life becomes an example of goodness, not a warning.",
+  "real_life_bn": "সৎ উপদেশ শুনে দ্রুত নিজেকে সংশোধন করুন। এমনভাবে জীবনযাপন করুন যেন আপনার জীবন অন্যের জন্য প্রেরণা হয়।",
+  "themes": [
+    "succession-of-prophets",
+    "cautionary-tales",
+    "ruin-of-deniers"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God dispatched successive messengers whom their people rejected, leading to their complete ruin as historical warnings.",
+      "claim_bn": "আল্লাহ ধারাবাহিকভাবে রাসুলদের পাঠিয়েছিলেন, কিন্তু জাতিগুলো তাদের অস্বীকার করায় ধ্বংস হয়ে ইতিহাসের সতর্কবার্তায় পরিণত হয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

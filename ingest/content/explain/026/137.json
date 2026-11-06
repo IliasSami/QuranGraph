@@ -1,0 +1,65 @@
+{
+  "id": "26:137",
+  "simple_en": "They said: This is nothing but the old habit of past people. We are only doing what our fathers did before us. We see no reason to change our old ways.",
+  "simple_bn": "তারা বলল: এসব তো পূর্ববর্তীদের রীতিনীতি ও প্রাচীন অভ্যাস ছাড়া আর কিছুই নয়। আমরা বাপ-দাদার প্রথাই মেনে চলব।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "خلق",
+      "lemma": "خُلُق",
+      "meaning_en": "custom / habit",
+      "meaning_bn": "রীতিনীতি বা অভ্যাস",
+      "why_en": "Their excuse of clinging blindly to the tradition of past generations."
+    },
+    {
+      "pos": 5,
+      "root": "أول",
+      "lemma": "أَوَّل",
+      "meaning_en": "the ancients",
+      "meaning_bn": "পূর্ববর্তীগণ",
+      "why_en": "Past ancestors whose erroneous ways they copied."
+    }
+  ],
+  "lesson_en": "Blind tradition is not a proof of truth. Test customs against God's law.",
+  "lesson_bn": "অন্ধভাবে পূর্বপুরুষদের কুসংস্কার অনুসরণ করা সত্য গ্রহণে বড় বাধা। সত্যের মানদণ্ড হলো আল্লাহর বিধান, কোনো মানুষের অন্ধ প্রথা নয়।",
+  "real_life_en": "Do not follow bad habits just because everyone else does. Question old customs that break moral rules. Choose what is clean and right.",
+  "real_life_bn": "প্রচলিত সমাজ বা ঐতিহ্যের নামে কোনো ভুল কাজ সমর্থন করবেন না। সবসময় ধর্মীয় ও নৈতিক মানদণ্ডে নিজের চালচলন যাচাই করে ইতিবাচক পরিবর্তন আনুন।",
+  "themes": [
+    "blind-following",
+    "tradition",
+    "disbelief"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "hud"
+    ],
+    "nations": [
+      "aad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "They claimed that their religious practices were nothing more than the longstanding customs, habits, and lifestyle of ancient ancestors.",
+      "claim_bn": "তারা দাবি করল যে তাদের এই ধর্ম ও অভ্যাস তো কেবল তাদের পূর্বপুরুষদের প্রাচীন প্রথা ছাড়া আর কিছুই নয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

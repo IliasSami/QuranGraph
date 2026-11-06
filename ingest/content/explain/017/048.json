@@ -1,0 +1,62 @@
+{
+  "id": "17:48",
+  "simple_en": "Look how they make up comparisons for you, calling you a poet, a madman, or bewitched. They have lost their way, and they can never find the true path.",
+  "simple_bn": "লক্ষ্য করুন তারা আপনার প্রতি কেমন সব উপমা দেয়। ফলে তারা পথভ্রষ্ট হয়েছে এবং তারা কখনো সঠিক পথ খুঁজে পাবে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نظر",
+      "lemma": "نَظَرَ",
+      "meaning_en": "see and observe",
+      "meaning_bn": "লক্ষ্য করুন",
+      "why_en": "Call to reflect on the absurdity of skeptical claims."
+    },
+    {
+      "pos": 5,
+      "root": "مثل",
+      "lemma": "مَثَل",
+      "meaning_en": "comparisons and parables",
+      "meaning_bn": "উপমা বা বর্ণনা",
+      "why_en": "False labels invented by the Quraysh leaders."
+    }
+  ],
+  "lesson_en": "Calling good people bad names shows a lost mind. Deniers attack the messenger when they cannot fight the message.",
+  "lesson_bn": "সত্য প্রচারকদের বিরুদ্ধে মিথ্যা উপমা তৈরি করা বিরোধীদের পথভ্রষ্টতা ও চরম বিভ্রান্তিরই বহিঃপ্রকাশ।",
+  "real_life_en": "Avoid calling people names or sticking unfair labels on others. Speak with fairness and seek genuine truth in all matters.",
+  "real_life_bn": "কাউকে হেয় করার জন্য মন্দ নামে ডাকবেন না। সব সময় সততার সাথে কথা বলুন এবং অন্যের বিরুদ্ধে অপপ্রচার থেকে বিরত থাকুন।",
+  "themes": [
+    "misguidance",
+    "false-parables"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelievers invent contradictory comparisons for the Prophet, proving they have strayed and cannot find the right way.",
+      "claim_bn": "কাফিররা নবীর বিরুদ্ধে বিভ্রান্তিকর সব অপবাদ দেয়, ফলে তারা এমন পথভ্রষ্ট হয়েছে যে সত্য পথের সন্ধান পাবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

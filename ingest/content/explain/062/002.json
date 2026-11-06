@@ -1,0 +1,73 @@
+{
+  "id": "62:2",
+  "simple_en": "Allah sent a messenger to the unlettered people from among themselves. The Prophet recites to them the verses of Allah. He purifies their hearts from false gods and bad habits. He also teaches them the Book and wisdom, even though they were in clear misguidance before.",
+  "simple_bn": "তিনিই আল্লাহ, যিনি নিরক্ষর জাতির মধ্য থেকে তাদের কাছে একজন রাসূল পাঠিয়েছেন। সেই রাসূল তাদের সামনে আল্লাহর আয়াত তেলাওয়াত করেন, তাদের অন্তরকে কুসংস্কার ও শিরক থেকে পরিশুদ্ধ করেন এবং তাদের কিতাব ও হিকমত শিক্ষা দেন, যদিও পূর্বে তারা স্পষ্ট বিভ্রান্তিতে ছিল।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أمم",
+      "lemma": "أُمِّيّ",
+      "meaning_en": "the unlettered people",
+      "meaning_bn": "নিরক্ষর সম্প্রদায়",
+      "why_en": "Refers to the Arabs who did not read or write scriptures before Islam."
+    },
+    {
+      "pos": 11,
+      "root": "زكو",
+      "lemma": "زَكَّى",
+      "meaning_en": "and purifies them",
+      "meaning_bn": "এবং তাদের পরিশুদ্ধ করেন",
+      "why_en": "Purifying their hearts from idol worship and immoral habits."
+    },
+    {
+      "pos": 14,
+      "root": "حكم",
+      "lemma": "حِكْمَة",
+      "meaning_en": "and wisdom",
+      "meaning_bn": "ও প্রজ্ঞা বা সুন্নাহ",
+      "why_en": "Teaching them deep moral understanding and the Prophet's sunnah."
+    }
+  ],
+  "lesson_en": "God's message cleans our hearts. It lifts people out of darkness and gives them true wisdom.",
+  "lesson_bn": "ঐশী বাণী মানুষের আত্মাকে কলুষমুক্ত করে এবং অন্ধকার সমাজকে সত্য জ্ঞান ও প্রজ্ঞার আলোয় পথ দেখায়।",
+  "real_life_en": "Before learning good manners, a child acts on selfish impulses. A loving teacher guides the child with care and teaches him right from wrong. In a far greater way, the Prophet guided people from tribal fighting into brotherly love and truth.",
+  "real_life_bn": "অজ্ঞতা ও কুসংস্কারে ডুবে থাকা এক সমাজকে রাসূলের শিক্ষা প্রেম, ন্যায় ও ভ্রাতৃত্বের শ্রেষ্ঠ আদর্শে পরিণত করেছিল। সুশিক্ষা ও সঠিক পথনির্দেশ পেলে মানুষের জীবন পুরোপুরি বদলে যায়।",
+  "themes": [
+    "mission of the Prophet",
+    "unlettered community",
+    "purification of hearts",
+    "teaching Book and wisdom"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "belief",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah raised among the unlettered Arabs a messenger from themselves who recites His verses, purifies them, and teaches them the Book and wisdom after they were in manifest error.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

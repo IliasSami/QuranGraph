@@ -1,0 +1,73 @@
+{
+ "id": "38:22",
+ "simple_en": "The men entered Dawud's room quickly, and he felt fear at their sudden visit. They told him not to fear. They said they were two men with a dispute. One had wronged the other. They asked him to judge with pure justice.",
+ "simple_bn": "তারা হঠাৎ প্রবেশ করায় দাউদ (আলাইহিস সালাম) আতঙ্কিত হয়ে পড়েছিলেন। তাঁর ভয় দেখে তারা বলল, ভয় পাবেন না। আমরা দুই বিবাদী, আমাদের একজন অন্যজনের ওপর অবিচার করেছে। তাই আমাদের মধ্যে ইনসাফের সাথে ফয়সালা করুন এবং সঠিক পথ দেখিয়ে দিন।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "فزع",
+   "lemma": "فَزِعَ",
+   "meaning_en": "he was alarmed / terrified",
+   "meaning_bn": "আতঙ্কিত হলেন",
+   "why_en": "Reflects Dawud's natural reaction to strangers breaching his sanctuary."
+  },
+  {
+   "pos": 17,
+   "root": "حقق",
+   "lemma": "حَقّ",
+   "meaning_en": "with truth / justice",
+   "meaning_bn": "ন্যায়ের সাথে",
+   "why_en": "The standard of divine justice expected from righteous judges."
+  },
+  {
+   "pos": 19,
+   "root": "شطط",
+   "lemma": "تُشْطِطْ",
+   "meaning_en": "do not exceed / do not be unjust",
+   "meaning_bn": "অন্যায় বা অবিচার করবেন না",
+   "why_en": "Pleads for restraint against any unfair bias in ruling."
+  }
+ ],
+ "lesson_en": "Ask for what is fair with calm and gentle words.",
+ "lesson_bn": "বিরোধ নিষ্পত্তির সময় সুবিচার চাওয়া এবং অপরকে আশ্বস্ত করা উত্তম চরিত্র।",
+ "real_life_en": "If you need someone to arbitrate a disagreement, approach them with courtesy. Ask for fair judgment and do not let anger distort the facts.",
+ "real_life_bn": "কারও সাথে কোনো মতবিরোধ দেখা দিলে শান্তভাবে মধ্যস্থতা চান। পক্ষপাতহীন বিচারের জন্য আবেদন করুন এবং সত্য গোপন করবেন না।",
+ "themes": [
+  "stories of the prophets",
+  "justice",
+  "ethics"
+ ],
+ "kinds": [
+  "story",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "dawud"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The intruders calmed David's alarm, presenting a case of wrong between them and requesting a just ruling.",
+   "claim_bn": "আগন্তুকরা দাউদকে আশ্বস্ত করে নিজেদের মধ্যবর্তী অবিচারের বিবরণ দেয় এবং ন্যায়সঙ্গত ফয়সালার আবেদন জানায়।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": false
+}

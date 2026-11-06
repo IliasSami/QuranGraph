@@ -1,0 +1,65 @@
+{
+  "id": "16:15",
+  "simple_en": "He set firm mountains in the earth so it does not shake with you. He also placed wide rivers and roads so you find your way.",
+  "simple_bn": "তিনি পৃথিবীতে সুদৃঢ় পর্বতমালা স্থাপন করেছেন যাতে তা তোমাদের নিয়ে হেলে না পড়ে। আর নদী ও রাস্তা তৈরি করেছেন যাতে তোমরা সহজে গন্তব্যে পৌঁছাতে পারো।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "رسو",
+      "lemma": "رَواسِي",
+      "meaning_en": "firm mountains",
+      "meaning_bn": "সুদৃঢ় পর্বতমালা",
+      "why_en": "Mountains acting as stabilizing pegs for the earth."
+    },
+    {
+      "pos": 6,
+      "root": "ميد",
+      "lemma": "تَمِيدَ",
+      "meaning_en": "it shakes",
+      "meaning_bn": "হেলে পড়ে",
+      "why_en": "The catastrophic trembling prevented by mountain roots."
+    }
+  ],
+  "lesson_en": "Mountains keep the land still. Rivers and roads help people move safely.",
+  "lesson_bn": "পাহাড়ের মাধ্যমে ভূত্বকের ভারসাম্য রক্ষা এবং নদী ও পথসমূহের মাধ্যমে মানুষের যাতায়াত নিশ্চিত করা হয়েছে।",
+  "real_life_en": "Enjoy safe roads and firm ground. Remember that God set up this world for human life.",
+  "real_life_bn": "ভ্রমণ করার সময় নিরাপদ রাস্তা ও প্রাকৃতিক ভারসাম্যের মূল্য বুঝুন এবং পথপ্রদর্শক স্রষ্টাকে স্মরণ করুন।",
+  "themes": [
+    "mountains",
+    "rivers",
+    "geology"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the mountains",
+      "rivers",
+      "roads"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Firm mountains stabilize the earth, and rivers and roads guide human journeying.",
+      "claim_bn": "আল্লাহ পৃথিবীতে অটল পাহাড় স্থাপন করেছেন যাতে তা আন্দোলিত না হয় এবং নদী ও পথ দিয়েছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

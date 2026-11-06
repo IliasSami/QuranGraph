@@ -1,0 +1,69 @@
+{
+  "id": "56:68",
+  "simple_en": "Have you considered the fresh water you drink every day? When thirst dries your throat, nothing on earth satisfies like a cool cup of water. It is a vital blessing that keeps every living creature alive.",
+  "simple_bn": "তোমরা প্রতিদিন যে সুপেয় পানি পান করো, সে সম্পর্কে কি চিন্তা করেছ? তৃষ্ণায় যখন গলা শুকিয়ে যায়, তখন এক ফোঁটা ঠাণ্ডা পানির মতো আর কিছুই স্বস্তি দিতে পারে না। এই পানিই প্রতিটি প্রাণীকে বাঁচিয়ে রাখে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "رأي",
+      "lemma": "رَأَى",
+      "meaning_en": "have you seen or considered",
+      "meaning_bn": "তোমরা কি ভেবে দেখেছ",
+      "why_en": "Calls for mindful reflection upon one of life's most basic blessings."
+    },
+    {
+      "pos": 2,
+      "root": "موه",
+      "lemma": "ماء",
+      "meaning_en": "water",
+      "meaning_bn": "পানি",
+      "why_en": "Points to clean, sweet water essential for human survival."
+    },
+    {
+      "pos": 4,
+      "root": "شرب",
+      "lemma": "شَرِبَ",
+      "meaning_en": "you drink",
+      "meaning_bn": "তোমরা পান করো",
+      "why_en": "Connects the blessing directly to human daily need and thirst."
+    }
+  ],
+  "lesson_en": "Every sip of clean water is a mercy from Allah that deserves deep thanks.",
+  "lesson_bn": "বিশুদ্ধ পানির প্রতিটি ঢোক আল্লাহর এক বিশেষ রহমত, যা গভীর কৃতজ্ঞতার দাবি রাখে।",
+  "real_life_en": "A girl drinks cold water after running outside on a hot day. She smiles and says Alhamdulillah. Remembering that water is a divine gift fills her heart with thanks to Allah.",
+  "real_life_bn": "রোদে দৌড়াদৌড়ি করার পর এক কিশোরী ঠাণ্ডা পানি পান করে স্বস্তি পায়। সে আলহামদুলিল্লাহ বলে। পানি যে আল্লাহর এক বড় নেয়ামত, তা স্মরণ করে তার মন কৃতজ্ঞতায় ভরে ওঠে।",
+  "themes": [
+    "signs in nature",
+    "gratitude",
+    "reflection"
+  ],
+  "kinds": [
+    "argument",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah draws attention to the fresh water that humans drink as a sign of divine mercy.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

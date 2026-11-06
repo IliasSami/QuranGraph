@@ -1,0 +1,61 @@
+{
+  "id": "56:48",
+  "simple_en": "They mocked the truth and asked about their past fathers. They asked if people who died long ago would live again. They felt dead bones could never be brought back.",
+  "simple_bn": "তারা ঠাট্টা করে আরও জিজ্ঞেস করত, 'আমাদের অতীত পূর্বপুরুষদেরও কি আবার জীবিত করে তোলা হবে?' তারা মনে করত বহু শতাব্দী আগে ধূলিসাৎ হয়ে যাওয়া মানুষ আর কখনো ফিরে আসতে পারে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أبو",
+      "lemma": "آباء",
+      "meaning_en": "our forefathers",
+      "meaning_bn": "আমাদের পূর্বপুরুষেরা",
+      "why_en": "Refers to ancestors who passed away in earlier centuries."
+    },
+    {
+      "pos": 2,
+      "root": "أول",
+      "lemma": "أَوَّل",
+      "meaning_en": "the former ones",
+      "meaning_bn": "প্রাচীন বা পূর্ববর্তীরা",
+      "why_en": "Emphasizes the long passage of time since their ancestors died."
+    }
+  ],
+  "lesson_en": "No one is forgotten by Allah, no matter how many centuries pass.",
+  "lesson_bn": "যতই কাল অতিবাহিত হোক না কেন, আল্লাহর কাছে কোনো সৃষ্টিই বিস্মৃত হয় না।",
+  "real_life_en": "An old book in a town hall lists names from long ago. If humans can keep old names safe, Allah can bring back every person who ever lived.",
+  "real_life_bn": "একটি প্রাচীন পাঠাগারে শত শত বছর আগের মানুষের নামের তালিকা সংরক্ষিত থাকে। মানুষের সামান্য ব্যবস্থা যদি এত নাম ধরে রাখতে পারে, তবে সর্বজ্ঞানী আল্লাহর কাছে কোনো মানুষের অস্তিত্ব হারিয়ে যেতে পারে না।",
+  "themes": [
+    "resurrection",
+    "Allah's knowledge",
+    "the Last Day"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They doubted that earlier ancestors who died long ago could ever be brought back to life.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

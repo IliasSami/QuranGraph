@@ -1,0 +1,82 @@
+{
+  "id": "6:109",
+  "simple_en": "The disbelievers swear solemn oaths by Allah. They claim that if a specific sign came, they would surely believe. Tell them that all miracles are in the power of Allah alone. What makes you think they would believe? Even if the requested sign came, their stubborn hearts would still reject it.",
+  "simple_bn": "অবিশ্বাসীরা আল্লাহর নামে দৃঢ় শপথ করে বলে যে তাদের কাছে বিশেষ কোনো নিদর্শন এলে তারা অবশ্যই ঈমান আনবে। আপনি বলে দিন, সকল নিদর্শন তো কেবল আল্লাহর কাছে। তোমরা কীভাবে বুঝবে যে সেই নিদর্শন এলেও তারা হঠকারিতার কারণে বিশ্বাস করবে না?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قسم",
+      "lemma": "أَقْسَمُ",
+      "meaning_en": "they swore",
+      "meaning_bn": "তারা শপথ করল",
+      "why_en": "Highlights the solemn oaths made by the disbelievers demanding miracles."
+    },
+    {
+      "pos": 3,
+      "root": "جهد",
+      "lemma": "جَهْد",
+      "meaning_en": "their strongest (oaths)",
+      "meaning_bn": "কঠিন বা সর্বশক্তি দিয়ে",
+      "why_en": "Describes the intensity and solemnity of their false oaths."
+    },
+    {
+      "pos": 16,
+      "root": "شعر",
+      "lemma": "يُشْعِرُ",
+      "meaning_en": "will make you perceive",
+      "meaning_bn": "তোমাদেরকে বোঝাবে",
+      "why_en": "Addresses the believers, noting they cannot know that signs will not change stubborn hearts."
+    }
+  ],
+  "lesson_en": "Miracles do not guide stubborn people. Faith needs a humble heart that seeks the truth.",
+  "lesson_bn": "চমকপ্রদ অলৌকিক চিহ্ন দাবি করা কেবল হঠকারিতার অজুহাত, আন্তরিকভাবে সত্য জানার ইচ্ছা নয়।",
+  "real_life_en": "Do not make your faith conditional on receiving worldly signs or instant fixes. Look at the daily miracles around you, like health, life, and the universe. Sincere faith comes from an honest heart, not from chasing wonders.",
+  "real_life_bn": "নিজের বিশ্বাসকে অলৌকিক ঘটনা বা পার্থিব লাভের শর্তে বাঁধবেন না। চারপাশে ছড়িয়ে থাকা জীবন ও প্রকৃতির স্বাভাবিক নিয়ামত নিয়ে ভাবুন। সত্য গ্রহণের জন্য একটি বিনয়ী ও অনুসন্ধিৎসু অন্তরই যথেষ্ট।",
+  "context_en": "When the Quraysh demanded that Mount Safa be turned to gold, this verse revealed that miracles alone do not guide obstinate deniers.",
+  "context_bn": "মুশরিকরা যখন বিশেষ অলৌকিক নিদর্শন দেখার শর্তে ঈমান আনার কসম খেল, তখন এই আয়াতে তাদের হঠকারিতা উন্মোচন করা হয়।",
+  "themes": [
+    "miracles",
+    "oaths",
+    "denial",
+    "divine power"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers swear they would believe if a sign came, but miracles belong only to Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Even if the requested miracles were sent down, their stubbornness would prevent them from believing.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

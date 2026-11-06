@@ -1,0 +1,91 @@
+{
+ "id": "5:54",
+ "simple_en": "If any of you turn away from faith, Islam will not be harmed. Allah will bring a new people whom He loves and who love Him. They are kind and humble with believers, but firm with deniers. They strive in Allah's way and do not fear blame. This is Allah's favor, and Allah is All-Knowing.",
+ "simple_bn": "হে মুমিনগণ! তোমাদের মধ্য থেকে কেউ যদি নিজের ধর্ম ত্যাগ করে, তবে এতে ইসলামের কোনো ক্ষতি হবে না। আল্লাহ শীঘ্রই এমন এক জাতিকে নিয়ে আসবেন যাদের তিনি ভালোবাসবেন এবং তারাও তাঁকে ভালোবাসবে। তারা মুমিনদের প্রতি বিনম্র ও দয়ালু হবে, কিন্তু কাফিরদের সামনে দৃঢ় ও মর্যাদাবান থাকবে। তারা আল্লাহর পথে সর্বাত্মক প্রচেষ্টা চালাবে এবং কোনো নিন্দুকের নিন্দাকে ভয় পাবে না। এটি আল্লাহর অনুগ্রহ, যা তিনি যাকে ইচ্ছা দান করেন। আল্লাহ প্রাচুর্যময় ও সর্বজ্ঞ।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "ردد",
+   "lemma": "ارْتَدَّ",
+   "meaning_en": "turns back / apostatizes",
+   "meaning_bn": "ধর্ম ত্যাগ করে",
+   "why_en": "Points out that turning away from faith only harms the individual, not Allah's religion."
+  },
+  {
+   "pos": 13,
+   "root": "حبب",
+   "lemma": "أَحْبَبْ",
+   "meaning_en": "He loves them",
+   "meaning_bn": "তিনি তাদের ভালোবাসেন",
+   "why_en": "Describes the profound mutual love between Allah and sincere believers."
+  },
+  {
+   "pos": 15,
+   "root": "ذلل",
+   "lemma": "أَذِلَّة",
+   "meaning_en": "humble / gentle",
+   "meaning_bn": "বিনম্র ও সহানুভূতিশীল",
+   "why_en": "The defining trait of believers being compassionate toward one another."
+  },
+  {
+   "pos": 18,
+   "root": "عزز",
+   "lemma": "عَزِيز",
+   "meaning_en": "firm / dignified",
+   "meaning_bn": "কঠোর বা মর্যাদাবান",
+   "why_en": "Displays unwavering dignity and strength when facing falsehood."
+  }
+ ],
+ "lesson_en": "Love fellow believers and be gentle with them. Stand firm for truth without fear.",
+ "lesson_bn": "মুমিনদের প্রতি বিনয়ী হোন এবং কোনো নিন্দুকের তোয়াক্কা না করে সত্যের পথে অবিচল থাকুন।",
+ "real_life_en": "Show warmth, patience, and kindness to your family and fellow Muslims. When others mock your prayers or values, stay confident and calm. Let your love for Allah guide your actions rather than the opinions of critics.",
+ "real_life_bn": "অন্যদের সাথে বিনম্র ও সহনশীল আচরণ করুন। কেউ আপনার দ্বীনি আমল নিয়ে সমালোচনা করলে হীনম্মন্যতায় ভুগবেন না। মানুষের বাহবা নয়, আল্লাহর ভালোবাসাই যেন আপনার জীবনের মূল লক্ষ্য হয়।",
+ "context_en": "Reassures believers that apostasy of individuals will never harm Allah's religion, as He raises faithful champions in every era.",
+ "context_bn": "ধর্মত্যাগীদের কারণে ইসলামের কোনো ক্ষতি হবে না; আল্লাহ যুগে যুগে নিষ্ঠাবান অনুগত বান্দাদের দিয়ে দ্বীনকে সমুন্নত রাখবেন।",
+ "themes": [
+  "the believers' qualities",
+  "faith",
+  "brotherhood",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "warning",
+  "glad-tidings",
+  "description-of-allah",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Wasi, the All-Encompassing",
+   "Al-Alim, the All-Knowing"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "If people turn back from Islam, Allah will bring a people He loves and who love Him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "True believers are compassionate to each other, firm against disbelief, and fearless of worldly blame.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

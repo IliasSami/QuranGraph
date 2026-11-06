@@ -1,0 +1,67 @@
+{
+  "id": "18:73",
+  "simple_en": "Moses said, \"Do not blame me because I forgot our pact. Please do not make this learning matter too hard or heavy for me to bear.\"",
+  "simple_bn": "মূসা বললেন, আমি ভুলে গিয়েছিলাম বলে আমাকে পাকড়াও করবেন না এবং আমার এই শিক্ষাসফরে আমার ওপর অতিরিক্ত কঠোরতা করবেন না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نسي",
+      "lemma": "نَسِيَ",
+      "meaning_en": "I forgot",
+      "meaning_bn": "আমি ভুলে গিয়েছিলাম",
+      "why_en": "Moses excuse of human forgetfulness."
+    },
+    {
+      "pos": 10,
+      "root": "عسر",
+      "lemma": "عُسْر",
+      "meaning_en": "difficulty or hardship",
+      "meaning_bn": "কঠোরতা বা জটিলতা",
+      "why_en": "Pleading for leniency and understanding in the learning process."
+    }
+  ],
+  "lesson_en": "Saying sorry when you forget something shows good character. Honest words heal bonds and build trust between people.",
+  "lesson_bn": "ভুলবশত কিছু ঘটে গেলে সরলভাবে ক্ষমা চাওয়া মহত্ত্বের লক্ষণ। আন্তরিক ও বিনীত ক্ষমা চাওয়া সম্পর্ককে রক্ষা করে।",
+  "real_life_en": "When you make a mistake from forgetting, say sorry right away. Ask others to treat you with gentle patience.",
+  "real_life_bn": "ভুলবশত কোনো নিয়ম ভাঙলে সঙ্গে সঙ্গে আন্তরিকভাবে দুঃখপ্রকাশ করুন। অন্যের কাছে সহজ ব্যবহার ও ক্ষমার আবেদন রাখুন।",
+  "themes": [
+    "asking-forgiveness",
+    "human-forgetfulness",
+    "pleading-for-ease",
+    "gentle-treatment"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "al-Khidr"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Moses-Apology"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses apologized for his forgetfulness, requesting al-Khidr not to burden him with hardship in their affair.",
+      "claim_bn": "মূসা (আ.) ভুলের জন্য ক্ষমা চাইলেন এবং তাঁর ওপর অতিরিক্ত কঠোর না হওয়ার অনুরোধ করলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

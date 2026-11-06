@@ -1,0 +1,94 @@
+{
+ "id": "71:4",
+ "simple_en": "Nuh told them what would follow if they obeyed. Allah would forgive their sins and give them more time in this life, until a term already set. That delay is not a promise of endless life. When Allah's appointed time comes, no one can push it back. If people truly understood this, they would hurry to believe.",
+ "simple_bn": "নূহ (আলাইহিস সালাম) জানালেন, তারা আনুগত্য করলে কী পাবে। আল্লাহ তাদের পাপ ক্ষমা করবেন এবং নির্ধারিত সময় পর্যন্ত দুনিয়াতে তাদের অবকাশ দেবেন। এই অবকাশ মানে অনন্ত জীবন নয়। আল্লাহর নির্ধারিত সময় এলে তা কেউ পিছিয়ে দিতে পারে না। মানুষ যদি তা সত্যিই বুঝত, তবে ঈমান আনতে দেরি করত না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "غفر",
+   "lemma": "غَفَرَ",
+   "meaning_en": "He will forgive",
+   "meaning_bn": "তিনি ক্ষমা করবেন",
+   "why_en": "Shows that forgiveness is the first fruit of obeying the message."
+  },
+  {
+   "pos": 7,
+   "root": "أجل",
+   "lemma": "أَجَل",
+   "meaning_en": "a term",
+   "meaning_bn": "নির্ধারিত সময়",
+   "why_en": "Names the fixed limit of life that Allah has set for every person."
+  },
+  {
+   "pos": 15,
+   "root": "أخر",
+   "lemma": "أَخَّرَ",
+   "meaning_en": "be delayed",
+   "meaning_bn": "বিলম্বিত হওয়া",
+   "why_en": "Stresses that the appointed time cannot be moved back by anyone."
+  }
+ ],
+ "lesson_en": "Allah forgives those who obey, and no one can delay the appointed time, so turn to Him now.",
+ "lesson_bn": "আল্লাহ আনুগত্যকারীদের ক্ষমা করেন, আর নির্ধারিত সময় কেউ পিছিয়ে দিতে পারে না, তাই এখনই তাঁর দিকে ফিরুন।",
+ "real_life_en": "A man keeps saying he will start praying \"next month\" after his work calms down. A close friend reminds him that no one knows his last day. He prays that same evening, not because he has free time, but because he sees that delay is a risk.",
+ "real_life_bn": "একজন মানুষ বারবার বলে, কাজের চাপ কমলে ‘আগামী মাস থেকে’ নামাজ শুরু করবে। এক ঘনিষ্ঠ বন্ধু তাকে মনে করিয়ে দেয়, নিজের শেষ দিন কেউ জানে না। সে ওই সন্ধানেই নামাজ পড়ে, কারণ তার সময় আছে বলে নয়, বরং দেরি করাটাই ঝুঁকি বলে সে বুঝেছে।",
+ "themes": [
+  "forgiveness",
+  "repentance",
+  "death",
+  "Allah's mercy"
+ ],
+ "kinds": [
+  "promise",
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "nuh"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "If the people obeyed, Allah would forgive their sins.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah would grant them respite in this world until a fixed term.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "When Allah's appointed term comes, it cannot be delayed.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": true,
+ "differ_note_en": "Commentators differ over the word \"min\" in \"He will forgive you of your sins\". Some read it as partitive, meaning sins other than rights owed to people; others read it as extra, so that all sins are forgiven. Both views are reported in the tafsirs.",
+ "differ_note_bn": "‘তোমাদের পাপসমূহের মধ্যে থেকে তিনি ক্ষমা করবেন’ বাক্যের ‘মিন’ শব্দ নিয়ে ব্যাখ্যাকারদের মধ্যে মতভেদ আছে। কেউ এটিকে অংশবাচক ধরেছেন, অর্থাৎ বান্দার হক ছাড়া অন্য পাপ; আবার কেউ এটিকে অতিরিক্ত ধরেছেন, ফলে সব পাপ ক্ষমা হবে। উভয় মতই তাফসীরে বর্ণিত।",
+ "confidence": 0.92,
+ "uncertain": [
+  "The exact force of \"min\" in this ayah is debated; the differ note records both readings."
+ ]
+}

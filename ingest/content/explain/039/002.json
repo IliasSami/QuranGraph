@@ -1,0 +1,76 @@
+{
+  "id": "39:2",
+  "simple_en": "Allah sent down the Book to the Prophet Muhammad with pure truth. All of its news is true and all of its laws are just. Therefore, worship Allah alone with complete sincerity. Do not associate any partners with Him in your prayers or devotion.",
+  "simple_bn": "আল্লাহ সত্যসহ তাঁর রাসূলের ওপর এই কিতাব নাযিল করেছেন। এর সকল সংবাদ সত্য এবং সকল বিধান সম্পূর্ণ ন্যায়সংগত। অতএব একনিষ্ঠ আনুগত্যের সাথে কেবল আল্লাহরই ইবাদত করুন। আপনার সালাত ও ভক্তিতে কাউকে তাঁর শরিক করবেন না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نزل",
+      "lemma": "أَنزَلَ",
+      "meaning_en": "We sent down",
+      "meaning_bn": "আমরা নাযিল করেছি",
+      "why_en": "Emphasizes the divine origin of the holy revelation."
+    },
+    {
+      "pos": 5,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "with the truth",
+      "meaning_bn": "সত্যসহ",
+      "why_en": "Affirms that every word of the scripture is free from falsehood."
+    },
+    {
+      "pos": 8,
+      "root": "خلص",
+      "lemma": "مُخْلِص",
+      "meaning_en": "sincere / devoted",
+      "meaning_bn": "একনিষ্ঠ হয়ে",
+      "why_en": "Demands pure intention in all acts of devotion to Allah alone."
+    }
+  ],
+  "lesson_en": "Pure sincerity is the core of faith, and all worship must be directed solely to Allah.",
+  "lesson_bn": "একনিষ্ঠতাই ঈমানের মূল ভিত্তি, তাই সকল ইবাদত কেবল আল্লাহর সন্তুষ্টির জন্যই হতে হবে।",
+  "real_life_en": "Before performing any good deed, check your heart. Make sure you are doing it to please Allah, not to gain praise from people.",
+  "real_life_bn": "যেকোনো নেক কাজ করার আগে নিজের নিয়ত যাচাই করুন। মানুষের প্রশংসা কুড়ানোর জন্য নয়, কেবল আল্লাহর সন্তুষ্টির জন্য কাজ করুন।",
+  "themes": [
+    "sincerity",
+    "worship",
+    "the Quran",
+    "tawhid"
+  ],
+  "kinds": [
+    "command",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Allah sent down the Quran in truth and commanded sincere worship devoted to Him alone.",
+      "claim_bn": "আল্লাহ সত্যসহ কুরআন অবতীর্ণ করেছেন এবং একনিষ্ঠভাবে তাঁরই ইবাদত করার নির্দেশ দিয়েছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

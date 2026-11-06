@@ -1,0 +1,72 @@
+{
+  "id": "37:62",
+  "simple_en": "Allah asks a clear question. Is the welcome of Paradise better, or the bitter tree in Hell? Pure food in the gardens brings joy. The food of the Fire brings only pain and regret.",
+  "simple_bn": "আল্লাহ একটি স্পষ্ট প্রশ্ন তুলে ধরেছেন। জান্নাতের চমৎকার আপ্যায়ন কি ভালো, নাকি জাহান্নামের তিক্ত গাছ? জান্নাতের পবিত্র খাবার আনন্দ আনে, আর জাহান্নামের খাবার কেবল কষ্ট বাড়ায়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "خير",
+      "lemma": "خَيْر",
+      "meaning_en": "better",
+      "meaning_bn": "উত্তম বা শ্রেয়",
+      "why_en": "Presents a direct question highlighting the superiority of Paradise."
+    },
+    {
+      "pos": 3,
+      "root": "نزل",
+      "lemma": "نُزُل",
+      "meaning_en": "hospitality / accommodation",
+      "meaning_bn": "আপ্যায়ন বা মেহমানদারি",
+      "why_en": "The welcome meal and dwelling provided for the righteous."
+    },
+    {
+      "pos": 6,
+      "root": "زقم",
+      "lemma": "زَقُّوم",
+      "meaning_en": "Zaqqum",
+      "meaning_bn": "যাক্কুম গাছ",
+      "why_en": "A cursed and bitter tree prepared as food for the people of Hell."
+    }
+  ],
+  "lesson_en": "Choose obedience that brings heavenly honor over sins that lead to bitter ruin.",
+  "lesson_bn": "এমন পথ বেছে নিন যা জান্নাতের মর্যাদা এনে দেয়, পাপাচার এড়িয়ে চলুন যা তিক্ত পরিণতির দিকে নেয়।",
+  "real_life_en": "A bad deed may look tempting today. Think about how fast its pleasure fades. Choose what pleases Allah so you have no regret later.",
+  "real_life_bn": "কোনো অন্যায়ের ক্ষণিক লোভ এলে ভাবুন এর আনন্দ কত দ্রুত শেষ হয়ে যায়। আল্লাহর সন্তুষ্টির পথ বেছে নিন যেন পরে আক্ষেপ করতে না হয়।",
+  "themes": [
+    "Paradise",
+    "Hell",
+    "the Last Day"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise",
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah contrasts the honorable hospitality of Paradise with the cursed and agonizing tree of Zaqqum in Hell.",
+      "claim_bn": "আল্লাহ জান্নাতের সম্মানজনক আপ্যায়নের সাথে জাহান্নামের অভিশপ্ত ও যন্ত্রণাদায়ক যাক্কুম গাছের তুলনা করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

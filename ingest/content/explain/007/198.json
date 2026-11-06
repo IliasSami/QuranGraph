@@ -1,0 +1,77 @@
+{
+  "id": "7:198",
+  "simple_en": "If you call the idols to guidance, they cannot hear your voice. You see their carved eyes looking at you, yet they cannot see anything at all.",
+  "simple_bn": "আর যদি তোমরা তাদের সৎপথে ডাকো, তবে তারা শুনবে না। আর আপনি দেখতে পাবেন যে তারা আপনার দিকে তাকিয়ে আছে, অথচ তারা কিছুই দেখে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "you call them",
+      "meaning_bn": "তোমরা তাদের ডাকো",
+      "why_en": "Inviting to guidance or making requests."
+    },
+    {
+      "pos": 6,
+      "root": "سمع",
+      "lemma": "سَمِعَ",
+      "meaning_en": "they hear",
+      "meaning_bn": "তারা শোনে",
+      "why_en": "Idols lack the ability to hear sounds."
+    },
+    {
+      "pos": 12,
+      "root": "بصر",
+      "lemma": "أَبْصَرَ",
+      "meaning_en": "they see",
+      "meaning_bn": "তারা দেখে",
+      "why_en": "Carved eyes that give a blank, lifeless gaze with no sight."
+    }
+  ],
+  "lesson_en": "Do not be fooled by looks, because cold stone cannot see or help.",
+  "lesson_bn": "বাহ্যিক রূপ দেখে প্রতারিত হওয়া উচিত নয়; নির্জীব পদার্থের কোনো বোধশক্তি বা দৃষ্টি থাকে না।",
+  "real_life_en": "Do not be misled by shiny appearances or empty talk. Look for real character, understanding, and empathy in people. True insight is an inner quality given by God.",
+  "real_life_bn": "বাহ্যিক চাকচিক্য দেখে বিভ্রান্ত হবেন না। মানুষের ভেতরের সততা ও নৈতিক চরিত্র দেখে তাদের মূল্যায়ন করুন।",
+  "context_en": "Depicting the carved, glassy stare of idols that appear to gaze but possess zero sight or hearing.",
+  "context_bn": "মূর্তির পাথুরে চোখের নির্জীব দৃষ্টির রূপক তুলে ধরে তাদের সম্পূর্ণ সংবেদনহীনতার প্রমাণ।",
+  "themes": [
+    "spiritual blindness",
+    "lifeless idols",
+    "true insight"
+  ],
+  "kinds": [
+    "parable",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "idolaters"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "carved idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Idols have fashioned eyes that seem to look toward an observer yet lack any true sight or hearing.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

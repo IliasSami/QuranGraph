@@ -1,0 +1,84 @@
+{
+ "id": "3:175",
+ "simple_en": "Satan tries to make you fear his supporters and doubt your strength. He plants whispers of terror to weaken your courage. Do not fear created beings who have no real power. Fear Allah alone by following His commands and keeping away from sin, if you truly believe in Him.",
+ "simple_bn": "শয়তান তার অনুসারীদের ভয় দেখিয়ে মুমিনদের দুর্বল করতে চায়। সে ভয়ের চিন্তা তৈরি করে যাতে মানুষ সৎ কাজে পিছিয়ে যায়। এমন কোনো সৃষ্টিকে ভয় করবেন না যার নিজেরই কোনো ক্ষতি বা লাভ করার ক্ষমতা নেই। যদি তোমরা প্রকৃত মুমিন হও, তবে তাদের ভয় না করে কেবল আল্লাহকেই ভয় করো।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "شطن",
+   "lemma": "شَيْطان",
+   "meaning_en": "Satan",
+   "meaning_bn": "শয়তান",
+   "why_en": "Identifies the source of fearful whispers and psychological intimidation."
+  },
+  {
+   "pos": 5,
+   "root": "ولي",
+   "lemma": "وَلِيّ",
+   "meaning_en": "his allies / supporters",
+   "meaning_bn": "তার বন্ধুদের বা সাঙ্গপাঙ্গদের",
+   "why_en": "Refers to the forces of falsehood used by Satan to frighten believers."
+  },
+  {
+   "pos": 8,
+   "root": "خوف",
+   "lemma": "خافَ",
+   "meaning_en": "and fear Me",
+   "meaning_bn": "এবং আমাকে ভয় করো",
+   "why_en": "Commands exclusive awe and reverence for Allah rather than His creation."
+  }
+ ],
+ "lesson_en": "Never let fear of people stop you from obeying Allah, for He alone has true power.",
+ "lesson_bn": "মানুষের ভয়ে কখনো আল্লাহর হুকুম ত্যাগ করবেন না, কারণ ভয় ও আনুগত্য পাওয়ার একমাত্র যোগ্য সত্তা হলেন আল্লাহ।",
+ "real_life_en": "Sometimes friends or coworkers pressure you to do something wrong, like lying on a report. You might fear they will dislike you or leave you out. Remind yourself that pleasing Allah matters most. Stand firm on the truth and trust Him.",
+ "real_life_bn": "কখনও বন্ধু বা সহকর্মীরা মিথ্যা বা অন্যায় কোনো কাজ করতে চাপ দিতে পারে। আপনি হয়তো তাদের অসন্তুষ্টির ভয় পেতে পারেন। কিন্তু মনে রাখবেন, মানুষের চেয়ে আল্লাহর সন্তুষ্টি বেশি গুরুত্বপূর্ণ। সত্যের ওপর অবিচল থাকুন এবং কেবল আল্লাহকেই ভয় করুন।",
+ "context_en": "Warning believers against the scare tactics of Satan and calling them to revere Allah alone.",
+ "context_bn": "হামরাউল আসাদের ঘটনায় যে ভীতি ছড়ানো হয়েছিল তার পেছনে শয়তানের চক্রান্ত উন্মোচন করে এক আল্লাহর ভয়ের শিক্ষা দেওয়া হয়েছে।",
+ "themes": [
+  "Satan",
+  "trust in Allah",
+  "taqwa",
+  "faith",
+  "the believers' qualities"
+ ],
+ "kinds": [
+  "prohibition",
+  "command",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Satan"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Satan seeks to frighten believers by exaggerating the power of his allies.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Believers are commanded not to fear Satan's allies, but to fear Allah alone if they are truly faithful.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

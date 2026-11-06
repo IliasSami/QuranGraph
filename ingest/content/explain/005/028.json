@@ -1,0 +1,95 @@
+{
+ "id": "5:28",
+ "simple_en": "Abel refused to respond to hatred with violence. He told his brother that even if Cain raised his hand to murder him, he would not strike back. This restraint was not out of weakness. It came from his deep fear of Allah, the Lord of all creation.",
+ "simple_bn": "হাবীল বিদ্বেষের জবাবে সহিংস পথ বেছে নিলেন না। তিনি ভাইকে বললেন, তুমি আমাকে হত্যা করতে হাত বাড়ালেও আমি তোমাকে হত্যা করতে হাত বাড়াব না। এটি কোনো দুর্বলতা বা কাপুরুষতা ছিল না। বরং তিনি সমস্ত সৃষ্টির প্রতিপালক আল্লাহকে ভয় করতেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "بسط",
+   "lemma": "بَسَطَ",
+   "meaning_en": "you stretch out / raise",
+   "meaning_bn": "হাত বাড়াও",
+   "why_en": "Describes the physical movement of aggression and murder."
+  },
+  {
+   "pos": 5,
+   "root": "قتل",
+   "lemma": "قَتَلَ",
+   "meaning_en": "to kill me",
+   "meaning_bn": "আমাকে হত্যা করতে",
+   "why_en": "The extreme unjust action intended by the jealous brother."
+  },
+  {
+   "pos": 13,
+   "root": "خوف",
+   "lemma": "خافَ",
+   "meaning_en": "I fear",
+   "meaning_bn": "আমি ভয় করি",
+   "why_en": "The noble restraining force that prevents a believer from committing injustice."
+  },
+  {
+   "pos": 16,
+   "root": "علم",
+   "lemma": "عالَم",
+   "meaning_en": "the worlds / all creation",
+   "meaning_bn": "সৃষ্টিকুল",
+   "why_en": "Reminds of Allah's supreme majesty over all creatures."
+  }
+ ],
+ "lesson_en": "Let the fear of Allah keep you from harming others, even when you are provoked.",
+ "lesson_bn": "আল্লাহর ভয় যেন আপনাকে অন্যের ক্ষতি করা থেকে বিরত রাখে, এমনকি কেউ উসকানি দিলেও।",
+ "real_life_en": "During a heated family dispute, one relative shouts threats and insults. The other refuses to trade insults or raise a hand. They control their anger because they fear Allah and desire peace over revenge.",
+ "real_life_bn": "পারিবারিক বিবাদে একজন রেগে গিয়ে অপরজনকে আঘাত করার হুমকি দেয়। কিন্তু অপরজন পাল্টা মারামারি বা গালিগালাজ না করে সংযত থাকে। সে আল্লাহকে ভয় করে এবং অন্যায়ের বদলে শান্তি বজায় রাখে।",
+ "context_en": "Shows Abel's peaceful response to Cain's death threat, rooted in piety and fear of Allah.",
+ "context_bn": "কাবীলের হত্যার হুমকির মুখে হাবীলের ঈমানদারসুলভ ধৈর্য ও সংযমী মনোভাবের বর্ণনা।",
+ "themes": [
+  "taqwa",
+  "ethics",
+  "fear of Allah",
+  "good character",
+  "stories of the prophets"
+ ],
+ "kinds": [
+  "story",
+  "ethics",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Abel",
+   "Cain"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Lord of the worlds"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Abel declared that even if his brother stretched out his hand to kill him, he would not retaliate with murder.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Abel explained that his restraint came from his deep fear of Allah, Lord of all creation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

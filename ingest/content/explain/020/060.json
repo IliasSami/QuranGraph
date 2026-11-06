@@ -1,0 +1,65 @@
+{
+  "id": "20:60",
+  "simple_en": "Pharaoh left the place to set his plan in motion. He gathered skilled magicians from all over Egypt and came back ready to challenge Moses.",
+  "simple_bn": "ফেরাউন সেখান থেকে প্রস্থান করে তার চক্রান্ত সংগঠিত করতে লাগল। সে সমগ্র মিসর থেকে দক্ষ জাদুকরদের একত্র করল এবং মোকাবেলার জন্য উপস্থিত হলো।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كيد",
+      "lemma": "كَيْد",
+      "meaning_en": "his plot and magicians",
+      "meaning_bn": "তার ষড়যন্ত্র ও কুশলী জাদুকরদল",
+      "why_en": "Mobilizing deception and magic against divine truth."
+    },
+    {
+      "pos": 3,
+      "root": "جمع",
+      "lemma": "جَمَعَ",
+      "meaning_en": "he gathered",
+      "meaning_bn": "সে একত্রিত করল",
+      "why_en": "Mustering all state resources for the contest."
+    }
+  ],
+  "lesson_en": "Plotters plan in secret. But God turns their tricks to dust in front of the people.",
+  "lesson_bn": "মিথ্যা নানা ছলচাতুরী ও জাঁকজমক দিয়ে শক্তি প্রদর্শন করে, অথচ সত্যের সামান্য স্পর্শেই তা চূর্ণবিচূর্ণ হয়ে যায়।",
+  "real_life_en": "Do not be intimidated when opponents scheme against you. Place your trust in God, the ultimate protector.",
+  "real_life_bn": "অন্যের ষড়যন্ত্র দেখে ভয় পাবেন না। সততার উপর অবিচল থাকুন এবং আল্লাহর সাহায্যের ওপর নির্ভর করুন।",
+  "themes": [
+    "scheming",
+    "pharaoh",
+    "magicians"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn",
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh left to muster his magicians and organize his scheme before returning for the contest.",
+      "claim_bn": "ফেরাউন ফিরে গিয়ে জাদুকরদের সংগঠিত করে এবং প্রতিযোগিতার জন্য নিজ ষড়যন্ত্র পাকাপোক্ত করে ফিরে আসে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "23:83",
+  "simple_en": "We and our fathers were promised this before. These are nothing but ancient myths and tales of the past. They dismissed divine truth as mere folklore.",
+  "simple_bn": "আমাদেরকে এবং আমাদের পূর্বপুরুষদেরকেও এর প্রতিশ্রুতি দেওয়া হয়েছিল। এগুলো তো অতীতকালের রূপকথা ছাড়া কিছুই নয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "وعد",
+      "lemma": "وَعَدَ",
+      "meaning_en": "we were promised",
+      "meaning_bn": "আমাদের প্রতিশ্রুতি দেওয়া হয়েছিল",
+      "why_en": "Repeated prophetic warnings of resurrection."
+    },
+    {
+      "pos": 11,
+      "root": "سطر",
+      "lemma": "أَساطِير",
+      "meaning_en": "ancient myths",
+      "meaning_bn": "অতীতের রূপকথা",
+      "why_en": "Dismissive label applied by deniers to divine revelation."
+    }
+  ],
+  "lesson_en": "Calling truth a myth is an old excuse for doubt. God's promises remain true in every age.",
+  "lesson_bn": "সত্যকে রূপকথা বলে উড়িয়ে দেওয়া বিভ্রান্তদের পুরাতন অভ্যাস। আল্লাহর ওয়াদা চিরকাল সত্য ও বাস্তব।",
+  "real_life_en": "Do not look down on moral teachings from God. Divine truth guides the soul in every time.",
+  "real_life_bn": "ধর্মীয় শিক্ষাকে পুরোনো বা সেকেলে বলে অগ্রাহ্য করবেন না। ওহির সত্য সব যুগের মানুষের জন্যই প্রযোজ্য।",
+  "themes": [
+    "ancient-myths-accusation",
+    "denial-of-truth",
+    "prophetic-promises"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The deniers labeled prophetic promises of resurrection as mere ancient fables passed down through generations.",
+      "claim_bn": "অবিশ্বাসীরা পুনরুত্থানের ঐশ্বরিক ঘোষণাকে পূর্ববর্তী যুগের কাল্পনিক গল্প বলে প্রত্যাখ্যান করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

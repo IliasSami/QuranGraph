@@ -1,0 +1,62 @@
+{
+ "id": "75:37",
+ "simple_en": "Allah reminds human beings of their humble beginning. Was not each person once a mere drop of fluid placed into the mother's womb? Remembering how life started helps remove pride and shows the great creative power of Allah.",
+ "simple_bn": "আল্লাহ মানুষকে তার সূচনার কথা স্মরণ করিয়ে দিয়েছেন। প্রতিটি মানুষ কি একসময় মাতৃগর্ভে স্থাপিত এক ফোঁটা শুক্রবিন্দু ছিল না। জীবনের এই সূচনা স্মরণ করলে অহংকার দূর হয় এবং আল্লাহর অপার সৃষ্টির মহিমা প্রকাশ পায়।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "نطف",
+   "lemma": "نُطْفَة",
+   "meaning_en": "a drop of fluid",
+   "meaning_bn": "শুক্রবিন্দু",
+   "why_en": "The humble fluid from which human life begins."
+  },
+  {
+   "pos": 5,
+   "root": "مني",
+   "lemma": "مَنِيّ",
+   "meaning_en": "semen",
+   "meaning_bn": "বীর্য",
+   "why_en": "The emitted fluid placed in the womb."
+  }
+ ],
+ "lesson_en": "Remembering how you began keeps your heart humble before Allah.",
+ "lesson_bn": "নিজের সৃষ্টির সূচনার কথা ভাবলে অন্তরে অহংকার থাকে না এবং স্রষ্টার প্রতি বিনয় আসে।",
+ "real_life_en": "Whenever pride creeps into your thoughts, remind yourself where you came from. You started as a tiny, helpless drop. Remembering this truth keeps you grounded and thankful to Allah.",
+ "real_life_bn": "মনে অহংকার এলে নিজেকে মনে করিয়ে দিন আপনি কোথা থেকে শুরু করেছিলেন। একটি ক্ষুদ্র বিন্দু থেকেই আপনার অস্তিত্ব। এই সত্য মনে রাখলে অন্তরে কৃতজ্ঞতা বাড়ে।",
+ "themes": [
+  "creation",
+  "humility",
+  "Allah's power"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Every human being originated as a drop of emitted fluid placed into the womb.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

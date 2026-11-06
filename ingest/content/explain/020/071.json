@@ -1,0 +1,77 @@
+{
+  "id": "20:71",
+  "simple_en": "Pharaoh raged at the magicians: You believed in him before my permission. I will cut off your limbs and crucify you on palm trunks to teach a harsh lesson.",
+  "simple_bn": "ফেরাউন ক্ষোভে ফেটে পড়ল: তোমরা আমার অনুমতির আগেই তার প্রতি বিশ্বাস স্থাপন করলে। আমি বিপরীত দিক থেকে তোমাদের হাত-পা কেটে খেজুরগাছের কাণ্ডে শূলে চড়াব।",
+  "key_words": [
+    {
+      "pos": 13,
+      "root": "قطع",
+      "lemma": "قَطَّعَ",
+      "meaning_en": "I will surely sever",
+      "meaning_bn": "আমি অবশ্যই কেটে ফেলব",
+      "why_en": "Cruel bodily mutilation as state terror."
+    },
+    {
+      "pos": 18,
+      "root": "صلب",
+      "lemma": "صَلَّبَ",
+      "meaning_en": "I will crucify you",
+      "meaning_bn": "আমি তোমাদের শূলে চড়াব",
+      "why_en": "Public torture meant to terrify the population."
+    },
+    {
+      "pos": 21,
+      "root": "نخل",
+      "lemma": "نَخْل",
+      "meaning_en": "date-palm trunks",
+      "meaning_bn": "খেজুরগাছ",
+      "why_en": "The wooden poles used for horrific public executions."
+    }
+  ],
+  "lesson_en": "Tyrants turn to threats when their arguments fail. Harsh force cannot change faith.",
+  "lesson_bn": "যুক্তিতে হেরে গেলে এবং প্রচারণা ব্যর্থ হলে জালেম শাসকেরা চরম পাশবিক নির্যাতন ও সহিংসতার আশ্রয় নেয়।",
+  "real_life_en": "Do not let threats scare you. Stand strong when bullies try to force you to do wrong.",
+  "real_life_bn": "ন্যায়ের পথে চললে বাধার মুখোমুখি হতে হয়। অন্যায়ের হুমকি বা ভীতি প্রদর্শনের সামনে সাহসের সাথে স্থির থাকুন।",
+  "themes": [
+    "tyranny",
+    "persecution",
+    "pharaoh",
+    "steadfastness"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn",
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "palm trunks"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh threatened the repentant magicians with mutilation and crucifixion for believing without his leave.",
+      "claim_bn": "ফেরাউন তার অনুমতি ছাড়া বিশ্বাস স্থাপন করায় জাদুকরদের অঙ্গচ্ছেদ ও শূলে চড়ানোর কঠোর হুমকি দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,82 @@
+{
+  "id": "58:12",
+  "simple_en": "O believers, when you wish to speak in private with the Messenger, give charity before your meeting. That is better for you and purifies your hearts. But if you cannot find anything to give, Allah is Forgiving and Merciful.",
+  "simple_bn": "হে মুমিনগণ, তোমরা যখন রাসূলের সাথে গোপনে কোনো কথা বলতে চাও, তখন তোমাদের গোপন আলোচনার পূর্বে কিছু সাদাকা প্রদান করো। এটি তোমাদের জন্য অধিকতর উত্তম ও পবিত্র। আর যদি তোমরা দান করার মতো কিছু না পাও, তবে নিশ্চয়ই আল্লাহ পরম ক্ষমাশীল ও দয়ালু।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نجو",
+      "lemma": "ناجَيْ",
+      "meaning_en": "you consult privately",
+      "meaning_bn": "তোমরা গোপনে কথা বলো",
+      "why_en": "Seeking exclusive private time with the Messenger ﷺ."
+    },
+    {
+      "pos": 11,
+      "root": "صدق",
+      "lemma": "صَدَقَة",
+      "meaning_en": "charity",
+      "meaning_bn": "সাদাকা বা দান",
+      "why_en": "Offering voluntary giving before the meeting to honor the consultation and aid the poor."
+    },
+    {
+      "pos": 15,
+      "root": "طهر",
+      "lemma": "أَطْهَر",
+      "meaning_en": "purer",
+      "meaning_bn": "অধিকতর পবিত্র",
+      "why_en": "Charity purifies the soul from greed and worldly attachments."
+    }
+  ],
+  "lesson_en": "Value the time of teachers. Purify your heart through giving charity.",
+  "lesson_bn": "শিক্ষক ও বিজ্ঞ ব্যক্তিদের সময়ের মূল্য দিন এবং দানের মাধ্যমে নিজের নিয়তকে পবিত্র রাখুন।",
+  "real_life_en": "A student asks his busy teacher for extra private help after class. Before taking up the teacher's free time, he donates to a school fund for poor students. He shows respect for the teacher's time through generous giving.",
+  "real_life_bn": "এক শিক্ষার্থী তার ব্যস্ত শিক্ষকের কাছে বিশেষ পরামর্শ চাইতে যায়। শিক্ষকের মূল্যবান সময়ের প্রতি সম্মান দেখিয়ে সে বিশ্ববিদ্যালয়ের দরিদ্র ছাত্র তহবিলে কিছু অর্থ দান করে। সে ভালো পরামর্শের কদর করে এবং সম্মানের সাথে তা গ্রহণ করে।",
+  "themes": [
+    "Prophet Muhammad ﷺ",
+    "charity",
+    "good character",
+    "law"
+  ],
+  "kinds": [
+    "command",
+    "ethics",
+    "law"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-ghafur",
+      "ar-rahim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers were initially commanded to offer charity before holding private consultations with the Prophet ﷺ.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Charity before private meetings is purer for the soul, but those without wealth are excused through Allah's mercy.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

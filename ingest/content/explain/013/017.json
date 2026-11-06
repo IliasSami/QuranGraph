@@ -1,0 +1,89 @@
+{
+  "id": "13:17",
+  "simple_en": "Rain falls from the sky and fills dry valleys according to their size. The flood carries rising foam on top. When metals melt in hot fire, a similar slag floats to the surface. Allah uses this example for truth and falsehood. The worthless foam soon vanishes, while what benefits people remains in the earth.",
+  "simple_bn": "আল্লাহ আকাশ থেকে বৃষ্টি বর্ষণ করেন, ফলে উপত্যকাসমূহ তাদের ধারণক্ষমতা অনুযায়ী প্লাবিত হয়। এই প্লাবন উপরিভাগে ফেনা বহন করে। অনুরূপভাবে অলংকার তৈরির জন্য যখন ধাতু আগুনে গলানো হয় তখন খাদের ফেনা ভেসে ওঠে। আল্লাহ এভাবেই সত্য ও মিথ্যার উপমা দেন। অপকারী ফেনা বিলীন হয়ে যায়, আর যা মানুষের উপকারে আসে তা জমিনে স্থায়ী হয়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نزل",
+      "lemma": "أَنزَلَ",
+      "meaning_en": "sent down",
+      "meaning_bn": "নাযিল করলেন",
+      "why_en": "Divine provision of rain mirroring the sending of revelation."
+    },
+    {
+      "pos": 10,
+      "root": "زبد",
+      "lemma": "زَبَد",
+      "meaning_en": "foam or scum",
+      "meaning_bn": "ফেনা বা আবর্জনা",
+      "why_en": "Temporary surface impurities representing fleeting falsehood."
+    },
+    {
+      "pos": 26,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "Pure beneficial reality that endures and gives life."
+    },
+    {
+      "pos": 27,
+      "root": "بطل",
+      "lemma": "باطِل",
+      "meaning_en": "falsehood",
+      "meaning_bn": "অসত্য বা বাতিল",
+      "why_en": "Superficial deception that inevitably vanishes without trace."
+    },
+    {
+      "pos": 34,
+      "root": "نفع",
+      "lemma": "نَفَعَ",
+      "meaning_en": "benefits",
+      "meaning_bn": "উপকার করে",
+      "why_en": "The enduring quality of truth that serves mankind."
+    }
+  ],
+  "lesson_en": "False claims soon fade away. Good deeds stay and help people.",
+  "lesson_bn": "মিথ্যা সাময়িক শোরগোল তুললেও বিলীন হয়ে যায়, আর কল্যাণকর সত্যই সর্বদা স্থায়ী থাকে।",
+  "real_life_en": "A silly rumor spreads fast on the web and dies in two days. A free health clinic works every year to heal the poor.",
+  "real_life_bn": "ইন্টারনেটে একটি চমকপ্রদ অসত্য খবর ছড়িয়ে পড়ে আবার দুদিনেই মিলিয়ে যায়। কিন্তু একটি দাতব্য চিকিৎসালয় বছরের পর বছর মানুষের নিঃস্বার্থ সেবা দিয়ে যায়।",
+  "context_en": "Two profound parables comparing truth to pure water and useful metal, and falsehood to fleeting foam.",
+  "context_bn": "পানি ও খনিজ ধাতুর গলানোর উপমার মাধ্যমে সত্যের স্থায়িত্ব এবং মিথ্যার ক্ষণস্থায়িত্ব তুলে ধরা।",
+  "themes": [
+    "parables",
+    "truth and falsehood",
+    "permanence of good"
+  ],
+  "kinds": [
+    "parable",
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "rain",
+      "foam",
+      "metals"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah likens truth to life-giving water and useful ore, while falsehood is like ephemeral foam.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

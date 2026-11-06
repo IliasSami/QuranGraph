@@ -1,0 +1,81 @@
+{
+  "id": "11:25",
+  "simple_en": "We sent Noah to his people as a prophet. He declared to them that he was a clear warner, calling them to turn away from falsehood before a painful punishment arrived.",
+  "simple_bn": "আর নিশ্চয় আমরা নূহকে তাঁর কওমের নিকট পাঠিয়েছিলাম। তিনি বললেন: আমি তোমাদের জন্য এক সুস্পষ্ট সতর্ককারী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "We sent",
+      "meaning_bn": "আমরা প্রেরণ করলাম",
+      "why_en": "Divine appointment of prophetic messengers."
+    },
+    {
+      "pos": 5,
+      "root": "قوم",
+      "lemma": "قَوْم",
+      "meaning_en": "his people / nation",
+      "meaning_bn": "তাঁর সম্প্রদায় / জাতি",
+      "why_en": "The community addressed by the prophetic warning."
+    },
+    {
+      "pos": 8,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "warner",
+      "meaning_bn": "সতর্ককারী",
+      "why_en": "Warning against divine punishment for persistence in polytheism."
+    },
+    {
+      "pos": 9,
+      "root": "بين",
+      "lemma": "مُبِين",
+      "meaning_en": "clear / plain",
+      "meaning_bn": "সুস্পষ্ট",
+      "why_en": "Delivering unambiguous moral guidance and truth."
+    }
+  ],
+  "lesson_en": "Prophets gave clear warnings with deep care to guide people to safety.",
+  "lesson_bn": "নবী-রাসূলগণ পরম দরদ ও স্পষ্ট বার্তার মাধ্যমে মানুষকে বিপথগামিতা থেকে সত্যের পথে আহ্বান করেছেন।",
+  "real_life_en": "When you warn someone about harm, speak with care and plain words. Make your message clear so they can avoid mistakes.",
+  "real_life_bn": "কাউকে কোনো বিপদ থেকে সতর্ক করার সময় স্পষ্ট ও আন্তরিক ভাষায় বলুন, যাতে সে কল্যাণ ও অকল্যাণের পার্থক্য বোঝে।",
+  "themes": [
+    "story of Noah",
+    "prophetic mission",
+    "clear warning"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Noah (peace be upon him)"
+    ],
+    "nations": [
+      "People of Noah"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Noah was sent to his nation as an explicit warner to caution them against idolatry and divine retribution.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

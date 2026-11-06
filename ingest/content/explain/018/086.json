@@ -1,0 +1,72 @@
+{
+  "id": "18:86",
+  "simple_en": "When he reached the setting of the sun, he found it setting in a dark spring, with people nearby. God told him to either punish wrongdoers or show kindness.",
+  "simple_bn": "অবশেষে যখন সে সূর্যাস্তের স্থানে পৌঁছাল, তখন সে সূর্যকে এক কর্দমাক্ত জলাশয়ে ডুবতে দেখল এবং সেখানে এক জাতিকে পেল। আমরা বললাম, হে যুল-কারনাইন, তুমি ইচ্ছা করলে তাদের শাস্তি দিতে পার অথবা তাদের প্রতি সদয় আচরণ করতে পার।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "غرب",
+      "lemma": "مَغْرِب",
+      "meaning_en": "setting place",
+      "meaning_bn": "সূর্যাস্তের স্থান",
+      "why_en": "The westernmost horizon reached by Dhul-Qarnayn."
+    },
+    {
+      "pos": 10,
+      "root": "حمأ",
+      "lemma": "حَمِئَة",
+      "meaning_en": "dark muddy spring",
+      "meaning_bn": "কর্দমাক্ত বা কালো জলাশয়",
+      "why_en": "Vivid visual description of the sun setting over dark waters."
+    }
+  ],
+  "lesson_en": "Justice must walk with mercy. Good leaders know when to punish crime and when to forgive.",
+  "lesson_bn": "ইনসাফের সাথে দয়ার সমন্বয় জরুরি। ন্যায়পরায়ণ শাসক অপরাধীকে শাসন করেন এবং নিরীহদের প্রতি অনুগ্রহ দেখান।",
+  "real_life_en": "Treat people with fair discernment. Reward honesty and reform wrongdoers with firm but compassionate justice.",
+  "real_life_bn": "মানুষের সাথে ব্যবহারে ইনসাফ কায়েম করুন। ভালো মানুষকে পুরস্কৃত করুন এবং অন্যায়কারীর সংস্কারের চেষ্টা করুন।",
+  "themes": [
+    "setting-of-the-sun",
+    "dark-spring",
+    "discretion-in-governance",
+    "justice-and-mercy"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Dhul-Qarnayn"
+    ],
+    "nations": [
+      "Western-People"
+    ],
+    "places": [
+      "Setting-Place-of-Sun"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Encounter-at-Sunset"
+    ],
+    "things": [
+      "Sun"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "At the western limit, Dhul-Qarnayn encountered a people and was granted divine authority to punish or show benevolence.",
+      "claim_bn": "পশ্চিমে পৌঁছে যুল-কারনাইন এক জাতির দেখা পেলেন এবং তাদেরকে শাস্তি দেওয়া বা অনুগ্রহ করার সুযোগ দেওয়া হলো।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,80 @@
+{
+ "id": "71:17",
+ "simple_en": "Allah brought human life out of the earth just like plants spring from the soil. He created the father of mankind, Adam, from clay. Through food grown from the soil, Allah continues to build our bodies and sustain our growth stage by stage.",
+ "simple_bn": "মাটি থেকে যেমন গাছপালা গজায়, তেমনি আল্লাহ মানুষকেও মাটি থেকে সৃষ্টি করেছেন। তিনি মানবজাতির আদি পিতা আদমকে মাটি দিয়ে তৈরি করেন। এরপর মাটির উৎপন্ন ফসল খাইয়ে তিনি মানুষকে ধাপে ধাপে বড় করে তোলেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نبت",
+   "lemma": "أَنۢبَتَ",
+   "meaning_en": "caused you to grow",
+   "meaning_bn": "তোমাদেরকে উদ্ভূত করেছেন, বাড়িয়েছেন",
+   "why_en": "It uses plant growth as a metaphor for human creation from soil."
+  },
+  {
+   "pos": 4,
+   "root": "أرض",
+   "lemma": "أَرْض",
+   "meaning_en": "the earth, soil",
+   "meaning_bn": "মাটি, জমিন",
+   "why_en": "The physical substance from which humanity began."
+  },
+  {
+   "pos": 5,
+   "root": "نبت",
+   "lemma": "نَبات",
+   "meaning_en": "a progressive growth",
+   "meaning_bn": "উদ্ভিদের মতো বৃদ্ধি",
+   "why_en": "Steady development like shoots rising from the ground."
+  }
+ ],
+ "lesson_en": "Remember that you came from dust. Never look down on anyone.",
+ "lesson_bn": "মনে রাখুন আপনি মাটি থেকেই এসেছেন। কাউকে কখনো ছোট মনে করবেন না।",
+ "real_life_en": "A gardener plants tiny seeds in the dirt and watches them grow into tall green plants. Seeing how life springs from simple soil reminds him that his own body comes from the very same earth.",
+ "real_life_bn": "মালী মাটিতে ছোট বীজ বোনে এবং তা থেকে সবুজ গাছ বাড়তে দেখে। সাধারণ মাটি থেকে কীভাবে জীবনের সূচনা হয় তা দেখে সে মনে করতে পারে যে তার নিজের শরীরও এই মাটি থেকেই এসেছে।",
+ "themes": [
+  "creation of man",
+  "earth",
+  "humility"
+ ],
+ "kinds": [
+  "creation",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "adam"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": [
+   "earth"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah caused mankind to grow from the earth by creating Adam from soil and sustaining humans through crops.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Humanity was brought forth from the earth in progressive stages.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

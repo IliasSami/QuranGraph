@@ -1,0 +1,89 @@
+{
+ "id": "4:90",
+ "simple_en": "Excepted from fighting are those who ally themselves with a people with whom you have a peace treaty. Also excepted are those who come to you unwilling to fight either you or their own people. If Allah had willed, He could have given them power over you to fight you. So if they leave you alone, do not fight you, and offer you peace, Allah grants you no right to harm them.",
+ "simple_bn": "তবে এর ব্যতিক্রম হলো তারা, যারা এমন সম্প্রদায়ের সাথে মিলিত হয় যাদের সাথে তোমাদের শান্তিচুক্তি রয়েছে। অথবা যারা তোমাদের কাছে এমন অবস্থায় আসে যে তাদের হৃদয় ভারাক্রান্ত; তারা তোমাদের বিরুদ্ধেও লড়তে চায় না, আবার নিজেদের কওমের বিরুদ্ধেও লড়তে চায় না। আল্লাহ চাইলে তাদেরকে তোমাদের ওপর বিজয়ী করতেন, ফলে তারা তোমাদের সাথে যুদ্ধ করত। অতএব তারা যদি তোমাদের থেকে দূরে থাকে, লড়াই না করে এবং শান্তির প্রস্তাব দেয়, তবে তাদের ক্ষতি করার কোনো অনুমতি আল্লাহ তোমাদের দেননি।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "وثق",
+   "lemma": "مِيثاق",
+   "meaning_en": "a treaty or covenant",
+   "meaning_bn": "শান্তিচুক্তি বা অঙ্গীকার",
+   "why_en": "Mandates strict respect for peace treaties signed with other groups."
+  },
+  {
+   "pos": 11,
+   "root": "حصر",
+   "lemma": "حَصِرَتْ",
+   "meaning_en": "restrained or feeling heavy-hearted",
+   "meaning_bn": "সংকুচিত হয়েছে",
+   "why_en": "Describes people whose hearts are reluctant and refuse to fight either side."
+  },
+  {
+   "pos": 30,
+   "root": "سلم",
+   "lemma": "سَلَم",
+   "meaning_en": "peace or submission",
+   "meaning_bn": "শান্তির প্রস্তাব",
+   "why_en": "Requires honoring offers of peace and forbids harming those who seek truce."
+  }
+ ],
+ "lesson_en": "Always respect peace treaties and never harm those who choose not to fight you.",
+ "lesson_bn": "শান্তিচুক্তি পুরোপুরি রক্ষা করুন এবং যারা যুদ্ধ পরিহার করে সন্ধি চায় তাদের ক্ষতি করবেন না।",
+ "real_life_en": "Keep your promises in business and daily life. If someone offers peace and wants to avoid trouble, accept their offer and treat them with fairness.",
+ "real_life_bn": "ব্যবসায় বা দৈনন্দিন জীবনে অন্যের সাথে কৃত চুক্তি ও প্রতিশ্রুতি রক্ষা করুন। কেউ যদি বিবাদ এড়িয়ে শান্তিতে থাকতে চায়, তবে তার সাথে সদ্ভাব বজায় রাখুন।",
+ "context_en": "Provides clear exceptions to combat rules, strictly protecting those bound by treaties or seeking peaceful neutrality.",
+ "context_bn": "যুদ্ধের কঠোর নির্দেশের সুস্পষ্ট ব্যতিক্রম জানিয়ে দেওয়া হয়েছে যে, চুক্তিবদ্ধ বা শান্তিপ্রিয় নিরপেক্ষ ব্যক্তিদের ওপর আক্রমণ করা সম্পূর্ণ নিষিদ্ধ।",
+ "themes": [
+  "peace",
+  "justice",
+  "keeping promises",
+  "law"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "prohibition"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who join or seek asylum with a people with whom the Muslims have a peace treaty are exempt from fighting.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Those who arrive reluctant to fight either the Muslims or their own people are granted safety and neutrality.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "If a group desists from combat, offers peace, and leaves Muslims alone, Allah permits no hostile action against them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

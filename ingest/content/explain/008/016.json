@@ -1,0 +1,79 @@
+{
+  "id": "8:16",
+  "simple_en": "Anyone who runs away from battle brings down Allah's anger. An exception is made only for war tactics or rejoining the group. The runner's end is Hell, a terrible home.",
+  "simple_bn": "আর সেদিন যুদ্ধকৌশল পরিবর্তন বা অন্য দলের সাথে যোগ দেওয়া ছাড়া কেউ পিঠ দেখালে সে আল্লাহর গজব নিয়ে ফিরবে এবং তার ঠিকানা হবে জাহান্নাম, যা কতই না নিকৃষ্ট আবাস।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "حرف",
+      "lemma": "مُتَحَرِّف",
+      "meaning_en": "maneuvering / shifting position",
+      "meaning_bn": "কৌশল পরিবর্তনকারী",
+      "why_en": "Feigning retreat to gain a tactical advantage in combat."
+    },
+    {
+      "pos": 9,
+      "root": "حوز",
+      "lemma": "مُتَحَيِّز",
+      "meaning_en": "retreating to regroup",
+      "meaning_bn": "দলে যোগ দেওয়া",
+      "why_en": "Falling back to join a supportive detachment of the army."
+    },
+    {
+      "pos": 14,
+      "root": "غضب",
+      "lemma": "غَضَب",
+      "meaning_en": "anger / wrath",
+      "meaning_bn": "গজব / ক্রোধ",
+      "why_en": "Severe divine displeasure resulting from betraying fellow fighters."
+    }
+  ],
+  "lesson_en": "Never run away from your duty out of selfish fear.",
+  "lesson_bn": "যুদ্ধের ময়দান থেকে কাপুরুষোচিত পলায়ন কবিরা গুনাহ এবং আল্লাহর অসন্তোষ ডেকে আনে।",
+  "real_life_en": "Tactical adjustments are wise, but abandoning your commitments out of selfish fear is wrong. Stand by your word and protect those who rely on you. True honor lies in steadfast loyalty.",
+  "real_life_bn": "কৌশলগত পুনর্বিন্যাস দোষের নয়, কিন্তু স্বার্থপর ভয়ে সঙ্গীদের বিপদে ফেলে পলায়ন করা চরম বিশ্বাসঘাতকতা। দায়িত্বে বিশ্বস্ত থাকুন।",
+  "context_en": "Permitting tactical repositioning during combat while classifying desertion as a grave, unforgivable betrayal.",
+  "context_bn": "রণকৌশলগত পশ্চাদপসরণ ব্যতীত সাধারণ পলায়নকে কবিরা গুনাহ হিসেবে চিহ্নিত করে কঠোর সতর্কবাণী।",
+  "themes": [
+    "desertion",
+    "tactical maneuvering",
+    "divine wrath",
+    "loyalty"
+  ],
+  "kinds": [
+    "warning",
+    "law",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "deserters"
+    ],
+    "places": [
+      "Hellfire"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Fleeing the battlefield incurs divine wrath and Hellfire, exempting only tactical maneuvers or regrouping with other units.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

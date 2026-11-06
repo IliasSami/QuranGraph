@@ -1,0 +1,98 @@
+{
+  "id": "12:81",
+  "simple_en": "The eldest brother told the others to return to their father. He instructed them to report that Benjamin stole, and that they only testified to what they saw with their own eyes. They could not foresee what was hidden.",
+  "simple_bn": "বড় ভাই বাকিদের বলল, তোমরা পিতার কাছে ফিরে যাও এবং বলো যে আপনার ছেলে চুরি করেছে। আমরা যা দেখেছি কেবল তারই সাক্ষ্য দিচ্ছি, আর অদৃশ্যের খবর আমাদের জানা ছিল না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "رجع",
+      "lemma": "رَجَعَ",
+      "meaning_en": "return",
+      "meaning_bn": "ফিরে যাও",
+      "why_en": "Directing the remaining brothers to travel back to Canaan."
+    },
+    {
+      "pos": 8,
+      "root": "سرق",
+      "lemma": "سَرَقَ",
+      "meaning_en": "stole",
+      "meaning_bn": "চুরি করেছে",
+      "why_en": "Delivering the painful report about the missing bowl."
+    },
+    {
+      "pos": 10,
+      "root": "شهد",
+      "lemma": "شَهِدَ",
+      "meaning_en": "we testified",
+      "meaning_bn": "আমরা সাক্ষ্য দিয়েছি",
+      "why_en": "Based on the apparent discovery of the cup in Benjamin's bag."
+    },
+    {
+      "pos": 16,
+      "root": "غيب",
+      "lemma": "غَيْب",
+      "meaning_en": "the unseen",
+      "meaning_bn": "অদৃশ্য বিষয়",
+      "why_en": "They had no knowledge of Yusuf’s secret arrangement."
+    }
+  ],
+  "lesson_en": "We judge by what we can see, but true secrets belong to God alone.",
+  "lesson_bn": "মানুষ কেবল বাহ্যিক প্রমাণের ভিত্তিতে বিচার করতে পারে, ভেতরের আসল সত্য কেবল আল্লাহই জানেন।",
+  "real_life_en": "A manager finds missing tools in an empty locker. The manager asks around calmly to learn how they got there.",
+  "real_life_bn": "অফিসের চাবি এক কর্মীর ড্রয়ারে পাওয়া গেলে কর্তৃপক্ষ বাহ্যিক তথ্যের ভিত্তিতে কথা বলে, তবে চাবিটি সেখানে কীভাবে এলো তা নিরপেক্ষভাবে শোনার সুযোগ রাখে।",
+  "context_en": "The eldest brother framed the message they should deliver to explain why Benjamin was left behind.",
+  "context_bn": "বড় ভাই অন্য ভাইদের বুঝিয়ে দিল কীভাবে তারা পিতার কাছে গিয়ে বিন ইয়াকীনের ঘটনার বর্ণনা দেবে।",
+  "themes": [
+    "truthfulness",
+    "witnessing",
+    "limits of human knowledge"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "eldest brother",
+      "brothers of Yusuf",
+      "Yaqub",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt",
+      "Canaan"
+    ],
+    "unseen": [
+      "the unseen"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "measuring bowl"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The eldest brother told them to report to Yaqub that Benjamin had stolen.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They were to state that they only testified according to what they witnessed.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

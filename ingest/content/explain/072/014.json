@@ -1,0 +1,76 @@
+{
+ "id": "72:14",
+ "simple_en": "The jinn then described their two groups. Some of them submit to Allah, and some step away from the straight path. They said that those who submit are the ones who have chosen the way that leads to what is good.",
+ "simple_bn": "এরপর জিনরা তাদের দুই দলের কথা বলল। তাদের কেউ আল্লাহর কাছে আত্মসমর্পণ করে, আর কেউ সরল পথ থেকে সরে যায়। তারা বলল, যারা আত্মসমর্পণ করে তারাই সেই পথ বেছে নিয়েছে, যা ভালোর দিকে নিয়ে যায়।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "سلم",
+   "lemma": "مُسْلِم",
+   "meaning_en": "those who submit",
+   "meaning_bn": "আত্মসমর্পণকারী",
+   "why_en": "The word means handing oneself over to Allah, not merely saying a label."
+  },
+  {
+   "pos": 5,
+   "root": "قسط",
+   "lemma": "قَاسِط",
+   "meaning_en": "those who deviate",
+   "meaning_bn": "পথভ্রষ্ট, সীমালঙ্ঘনকারী",
+   "why_en": "It describes someone who bends away from the truth and treats it unjustly."
+  },
+  {
+   "pos": 9,
+   "root": "حري",
+   "lemma": "تَحَرَّ",
+   "meaning_en": "they sought out",
+   "meaning_bn": "তারা খুঁজে নিয়েছে",
+   "why_en": "It shows effort: they looked for the right way and chose it on purpose."
+  }
+ ],
+ "lesson_en": "The straight path is not inherited or automatic. It is chosen, and whoever chooses it has aimed at the right thing.",
+ "lesson_bn": "সরল পথ উত্তরাধিকারসূত্রে পাওয়া যায় না, এমনিতেও আসে না। এটি বেছে নিতে হয়, আর যে এটি বেছে নেয় সে সঠিক জিনিসই লক্ষ্য করে।",
+ "real_life_en": "You grew up in a Muslim home but prayer never became your own habit. Treat it as a choice you make today, not a family label. Set one prayer at a fixed time this week and keep it.",
+ "real_life_bn": "মুসলিম পরিবারে বড় হয়েছেন, কিন্তু নামাজ কখনো নিজের অভ্যাস হয়নি। এটিকে আজকের নিজের সিদ্ধান্ত হিসেবে নিন, পারিবারিক পরিচয় হিসেবে নয়। এ সপ্তাহে একটি নামাজের নির্দিষ্ট সময় ঠিক করে তা ধরে রাখুন।",
+ "themes": [
+  "jinn",
+  "faith",
+  "guidance",
+  "misguidance"
+ ],
+ "kinds": [
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Some jinn submit to Allah and some deviate from the straight path as unjust people.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Whoever submits has sought and reached the way of right guidance that leads to Paradise.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

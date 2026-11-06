@@ -1,0 +1,69 @@
+{
+  "id": "36:43",
+  "simple_en": "If Allah willed, He could easily drown them in the sea. In that moment, no one would be able to hear their cries for help, and no one could rescue them from destruction.",
+  "simple_bn": "আল্লাহ ইচ্ছা করলে তাদের সাগরে নিমজ্জিত করতে পারেন। তখন তাদের আর্তনাদ শোনার মতো কোনো সাহায্যকারী থাকবে না এবং কেউ তাদের উদ্ধার করতে পারবে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "غرق",
+      "lemma": "أُغْرِقُ",
+      "meaning_en": "We drown them",
+      "meaning_bn": "আমরা তাদের ডুবিয়ে দিই",
+      "why_en": "Shows the vulnerability of human travelers in turbulent waters."
+    },
+    {
+      "pos": 5,
+      "root": "صرخ",
+      "lemma": "صَرِيخ",
+      "meaning_en": "a helper to hear cries",
+      "meaning_bn": "আর্তনাদে সাড়া দেওয়ার মতো সাহায্যকারী",
+      "why_en": "Depicts the utter loneliness of people facing drowning without divine aid."
+    },
+    {
+      "pos": 9,
+      "root": "نقذ",
+      "lemma": "أَنقَذَ",
+      "meaning_en": "they are rescued",
+      "meaning_bn": "তারা রক্ষা পায়",
+      "why_en": "Highlights that true salvation belongs to Allah alone."
+    }
+  ],
+  "lesson_en": "Our safety on land and sea rests in the hands of Allah alone.",
+  "lesson_bn": "জলে কিংবা স্থলে মানুষের আসল নিরাপত্তা সম্পূর্ণভাবে মহান আল্লাহর সুরক্ষার ওপর নির্ভরশীল।",
+  "real_life_en": "Never think that fast cars or planes keep you safe on their own. Ask Allah for safety before you travel, and stay humble on every trip.",
+  "real_life_bn": "উন্নত প্রযুক্তি বা শক্ত বাহন দেখে কখনো অতিরিক্ত আত্মবিশ্বাসী হবেন না। যেকোনো ভ্রমণে বের হওয়ার আগে আল্লাহর কাছে নিরাপত্তা চান এবং বিনীত থাকুন।",
+  "themes": [
+    "Allah's power",
+    "trials",
+    "trust in Allah"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "If Allah willed, He could drown them with none to answer their call or rescue them.",
+      "claim_bn": "আল্লাহ ইচ্ছা করলে তাদের ডুবিয়ে দিতে পারেন এবং তাদের কোনো উদ্ধারকারী বা সাহায্যকারী থাকবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

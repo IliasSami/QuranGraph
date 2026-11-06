@@ -1,0 +1,82 @@
+{
+  "id": "39:32",
+  "simple_en": "Who is more unjust than one who invents lies against Allah, claiming He has partners or children? Who is worse than one who denies the truth when it comes to him in the Quran? Is Hell not the fitting home for those who reject faith?",
+  "simple_bn": "তার চেয়ে বড় অত্যাচারী আর কে হতে পারে, যে আল্লাহর ওপর মিথ্যা আরোপ করে এবং দাবি করে তাঁর শরিক বা সন্তান আছে? তার চেয়ে অধম কে, যে তার কাছে সত্য কুরআন আসার পরও তা প্রত্যাখ্যান করে? অবিশ্বাসীদের জন্য কি জাহান্নামই উপযুক্ত ঠিকানা নয়?",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ظلم",
+      "lemma": "أَظْلَم",
+      "meaning_en": "more unjust",
+      "meaning_bn": "অধিক অত্যাচারী বা বড় জালেম",
+      "why_en": "Identifies lying about God as the greatest moral wrong a person can commit."
+    },
+    {
+      "pos": 4,
+      "root": "كذب",
+      "lemma": "كَذَبَ",
+      "meaning_en": "he lied against",
+      "meaning_bn": "মিথ্যা আরোপ করল",
+      "why_en": "Condemns attributing false partners, laws, or sons to Allah."
+    },
+    {
+      "pos": 7,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "he denied / rejected",
+      "meaning_bn": "সে অস্বীকার করল",
+      "why_en": "Describes arrogant rejection of clear divine evidence."
+    },
+    {
+      "pos": 14,
+      "root": "ثوي",
+      "lemma": "مَثْوًى",
+      "meaning_en": "an abode / dwelling",
+      "meaning_bn": "আবাস বা উপযুক্ত ঠিকানা",
+      "why_en": "Names Hell as the eternal consequence for deliberate disbelief."
+    }
+  ],
+  "lesson_en": "Inventing lies against Allah and rejecting divine truth are the worst forms of injustice.",
+  "lesson_bn": "আল্লাহর ওপর মিথ্যা অপবাদ দেওয়া এবং সত্য প্রত্যাখ্যান করাই হলো সবচেয়ে বড় অন্যায় ও জুলুম।",
+  "real_life_en": "Never speak about religion without verified knowledge. Protect your tongue from claiming things about God that have no basis in truth.",
+  "real_life_bn": "সঠিক জ্ঞান ছাড়া ধর্ম সম্পর্কে কোনো মন্তব্য করবেন না। নিজের মনগড়া কথাকে আল্লাহর দ্বীনের নামে প্রচার করা থেকে নিজের জিহ্বাকে সংযত রাখুন।",
+  "themes": [
+    "truthfulness",
+    "warning",
+    "injustice",
+    "hellfire"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "None is more unjust than one who lies against Allah and denies the truth, and Hell is the abode of disbelievers.",
+      "claim_bn": "যে আল্লাহর প্রতি মিথ্যা আরোপ করে এবং সত্যকে অস্বীকার করে তার চেয়ে বড় জালেম কেউ নেই, আর কাফিরদের ঠিকানা জাহান্নাম।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

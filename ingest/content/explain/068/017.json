@@ -1,0 +1,77 @@
+{
+  "id": "68:17",
+  "simple_en": "We have tested these people of Makkah just as We tested the owners of the garden. Those garden owners swore they would pick all its fruits early in the morning so the poor would get nothing.",
+  "simple_bn": "নিশ্চয় আমরা মক্কার কাফিরদের পরীক্ষা করেছি, যেমনিভাবে বাগানের মালিকদের পরীক্ষা করেছিলাম। তারা শপথ করেছিল যে খুব ভোরেই ফল কেটে নেবে, যাতে কোনো মিসকিন তা থেকে খেতে না পারে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "بلو",
+      "lemma": "بَلَوْ",
+      "meaning_en": "We tested them",
+      "meaning_bn": "আমরা তাদের পরীক্ষা করেছি",
+      "why_en": "Affirms that abundance and prosperity are tests of human gratitude."
+    },
+    {
+      "pos": 5,
+      "root": "صحب",
+      "lemma": "أَصْحاب",
+      "meaning_en": "the owners",
+      "meaning_bn": "মালিকরা",
+      "why_en": "Introduces the historic parable of the selfish garden owners."
+    },
+    {
+      "pos": 6,
+      "root": "جنن",
+      "lemma": "جَنَّة",
+      "meaning_en": "the orchard or garden",
+      "meaning_bn": "বাগানের",
+      "why_en": "Refers to the fertile plantation that produced abundant fruits."
+    },
+    {
+      "pos": 9,
+      "root": "صرم",
+      "lemma": "يَصْرِمُ",
+      "meaning_en": "they would harvest it",
+      "meaning_bn": "তারা তা কেটে নেবে",
+      "why_en": "Shows their greedy plot to harvest secretly before dawn."
+    }
+  ],
+  "lesson_en": "Share your wealth with the needy, and never hoard blessings out of greed.",
+  "lesson_bn": "অভাবীদের হক আদায় করতে হবে, লোভের বশে সম্পদ কেবল নিজের জন্য কুক্ষিগত করা মহাপাপ।",
+  "real_life_en": "A farmer gathers a large basket of mangoes from his trees. Before taking the rest to market, he sets aside three baskets for poor families in his village. He avoids the greed of the garden owners.",
+  "real_life_bn": "ফসলের ফলন ভালো হলে দরিদ্র প্রতিবেশীদের অংশ বুঝিয়ে দেওয়া উচিত। কৃপণতা মানুষকে আল্লাহর রহমত থেকে বঞ্চিত করে।",
+  "themes": [
+    "parables",
+    "charity",
+    "greed",
+    "trials"
+  ],
+  "kinds": [
+    "parable",
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah tested the people of Makkah as He tested the owners of the garden who swore to harvest secretly to deprive the poor.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

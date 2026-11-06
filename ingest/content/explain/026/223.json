@@ -1,0 +1,64 @@
+{
+  "id": "26:223",
+  "simple_en": "The devils pass on stolen scraps of news that they overhear, mixing one truth with a hundred lies. Most of what they say is pure falsehood.",
+  "simple_bn": "শয়তানরা আড়িপাতা কথার সামান্য কিছু অংশ ছুঁড়ে দেয় এবং একটি সত্যের সাথে শতটি মিথ্যা মিশিয়ে প্রচার করে। তাদের অধিকাংশ কথাই নির্জলা মিথ্যা।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "ٱلسَّمْعَ",
+      "root": "سمع",
+      "lemma": "سَمْع",
+      "meaning_en": "what is heard",
+      "meaning_bn": "কান পেতে শোনা কথা",
+      "why_en": "Stolen fragments of heavenly speech gathered by devils."
+    },
+    {
+      "pos": 4,
+      "arabic": "كَٰذِبُونَ",
+      "root": "كذب",
+      "lemma": "كاذِب",
+      "meaning_en": "liars",
+      "meaning_bn": "মিথ্যাবাদী",
+      "why_en": "Adding fabricated fabrications to deceive listeners."
+    }
+  ],
+  "lesson_en": "Deceivers mix a small grain of truth into a heap of lies. Falsehood relies on confusion to mislead people.",
+  "lesson_bn": "প্রতারকরা সামান্য সত্যের সাথে রাশি রাশি মিথ্যা মিশিয়ে বিভ্রান্তি তৈরি করে। বিভ্রান্তির ওপর নির্ভর করাই অসত্যের স্বভাব।",
+  "real_life_en": "Check facts before you believe wild claims. Do not let rumors or fake news trick your mind.",
+  "real_life_bn": "যেকোনো খবর বিশ্বাস করার আগে যাচাই করুন। চটকদার গুজব শুনে বিভ্রান্ত হবেন না।",
+  "themes": [
+    "lies",
+    "deception",
+    "devils"
+  ],
+  "kinds": [
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "devils"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Devils pass on overheard fragments mixed with widespread lies.",
+      "claim_bn": "তারা কান পেতে শোনা কথা এনে দেয় এবং তাদের অধিকাংশই মিথ্যাবাদী।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

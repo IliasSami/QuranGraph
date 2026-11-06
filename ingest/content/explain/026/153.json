@@ -1,0 +1,65 @@
+{
+  "id": "26:153",
+  "simple_en": "They said to Salih: You are only a man under a spell. Witchcraft has confused your mind. They mocked his sincere words and refused to listen.",
+  "simple_bn": "তারা সালিহকে বলল: তুমি তো কেবল এক জাদুগ্ৰস্ত লোক, জাদুর প্রভাবে তোমার বুদ্ধি নষ্ট হয়ে গেছে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "they said",
+      "meaning_bn": "তারা বলল",
+      "why_en": "The dismissive response of the defiant chiefs of Thamud."
+    },
+    {
+      "pos": 5,
+      "root": "سحر",
+      "lemma": "مُسَحَّر",
+      "meaning_en": "bewitched",
+      "meaning_bn": "জাদুগ্ৰস্ত",
+      "why_en": "Their baseless accusation that Salih was under a magical spell."
+    }
+  ],
+  "lesson_en": "People often mock the truth when they run out of reasons.",
+  "lesson_bn": "সত্যের বিরুদ্ধে যুক্তি হারিয়ে ফেললে মানুষ অপবাদ ও কটূক্তির আশ্রয় নেয়। মিথ্যা অপবাদে ধৈর্য ধারণ করাই নবীদের পথ।",
+  "real_life_en": "Do not feel sad when people make fun of your faith. Stay calm and speak the truth with patience and good manners.",
+  "real_life_bn": "ভালো কাজের কারণে কেউ কটূক্তি করলে ভেঙে পড়বেন না। শান্তভাবে নিজের অবস্থানে অটল থাকুন এবং ভালো আচরণের মাধ্যমে তাদের ভুলের জবাব দিন।",
+  "themes": [
+    "mockery",
+    "false-accusations",
+    "denial"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "salih"
+    ],
+    "nations": [
+      "thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The chiefs of Thamud rejected Salih by falsely accusing him of being bewitched and having lost his mental faculties through sorcery.",
+      "claim_bn": "সামূদের প্রধানরা সালিহকে উপহাস করে অপবাদ দিল যে তিনি তো এক জাদুগ্ৰস্ত ব্যক্তি এবং জাদুর প্রভাবে তাঁর মস্তিষ্ক বিকৃত হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

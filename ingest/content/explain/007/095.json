@@ -1,0 +1,83 @@
+{
+  "id": "7:95",
+  "simple_en": "When hard times did not guide them, Allah gave them ease. He blessed them with good health and wealth. They grew rich and proud. They forgot to thank Allah. They said bad and good times just happen on their own. Suddenly, the punishment of Allah took them by surprise.",
+  "simple_bn": "বিপদাপদ যখন মানুষের হৃদয়কে জাগাতে পারল না, তখন আল্লাহ তাদের স্বাচ্ছন্দ্য ও সচ্ছলতা দিয়ে পরীক্ষা করলেন। তিনি তাদের সুস্বাস্থ্য, প্রচুর ফসল ও ধনদৌলত দান করলেন। তাদের জনসংখ্যা ও সম্পদ বহুগুণে বৃদ্ধি পেল। কিন্তু আল্লাহর শুকরিয়া আদায় করার বদলে তারা বলল যে, এমন সুখ-দুঃখ তো আমাদের পূর্বপুরুষদের জীবনেও ঘটেছিল। ফলে কোনো প্রকার সতর্কতা ছাড়াই হঠাৎ আল্লাহর আযাব এসে তাদের পাকড়াও করল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "سوأ",
+      "lemma": "سَيِّئَة",
+      "meaning_en": "adversity or bad condition",
+      "meaning_bn": "বিপদাপদ বা মন্দ অবস্থা",
+      "why_en": "The prior season of hardship and suffering."
+    },
+    {
+      "pos": 5,
+      "root": "حسن",
+      "lemma": "حَسَنَة",
+      "meaning_en": "prosperity or good condition",
+      "meaning_bn": "স্বাচ্ছন্দ্য বা ভালো অবস্থা",
+      "why_en": "The subsequent season of abundance and health."
+    },
+    {
+      "pos": 15,
+      "root": "بغت",
+      "lemma": "بَغْتَة",
+      "meaning_en": "suddenly or unawares",
+      "meaning_bn": "হঠাৎ বা আকস্মিকভাবে",
+      "why_en": "Highlights how divine judgment strikes without advance warning."
+    }
+  ],
+  "lesson_en": "Wealth and ease are a big test. When life is easy, do not forget Allah.",
+  "lesson_bn": "প্রাচুর্য ও সুখ অনেক সময় কঠিন পরীক্ষার রূপ নেয়। আরাম-আয়েশে মগ্ন হয়ে আল্লাহকে ভুলে গেলে আকস্মিক আযাব নেমে আসে।",
+  "real_life_en": "When life is going well, do not become complacent or proud. Wealth, health, and peace are gifts from God, not mere coincidences. Give charity, thank your Lord daily, and guard yourself against heedlessness during seasons of prosperity.",
+  "real_life_bn": "জীবনে যখন সফলতা ও প্রাচুর্য আসে, তখন আত্মতুষ্টি বা অহংকারে লিপ্ত হবেন না। সুস্বাস্থ্য ও সম্পদ আল্লাহর দেয়া বিশেষ পরীক্ষা। সবসময় শোকর আদায় করুন, অভাবীকে দান করুন এবং সচ্ছলতার দিনেও আল্লাহভীতি বজায় রাখুন।",
+  "context_en": "The progression from adversity to prosperity as a dual test, culminating in sudden destruction when ease breeds heedless ingratitude.",
+  "context_bn": "কষ্টের পর প্রাচুর্য দিয়ে পরীক্ষা: নিয়ামতের শোকরিয়া না করে উদাসীনতায় ডুবে থাকার কারণে আকস্মিক শাস্তির শিকার হওয়া।",
+  "themes": [
+    "prosperity as a trial",
+    "heedlessness",
+    "sudden punishment",
+    "ingratitude",
+    "divine testing"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "description-of-allah",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "wealth",
+      "prosperity"
+    ]
+  },
+  "claims": [
+    {
+      "text": "When adversity did not humble them, Allah replaced their hardship with wealth, health, and expansion.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "They dismissed both trials and blessings as mere natural occurrences, so punishment seized them unexpectedly.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "9:75",
+  "simple_en": "Some of them made a promise to Allah. They said: If He gives us from His bounty, we will surely give charity and be among the righteous.",
+  "simple_bn": "তাদের মধ্যে এমন লোকও ছিল যারা আল্লাহর সাথে অঙ্গীকার করেছিল: তিনি যদি নিজ অনুগ্রহে আমাদের দান করেন, তবে আমরা অবশ্যই দান করব এবং সৎকর্মশীলদের অন্তর্ভুক্ত হব।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "عهد",
+      "lemma": "عاهَدَ",
+      "meaning_en": "made a covenant",
+      "meaning_bn": "অঙ্গীকার করেছিল",
+      "why_en": "Solemn pledge made before God to use riches for good."
+    },
+    {
+      "pos": 8,
+      "root": "فضل",
+      "lemma": "فَضْل",
+      "meaning_en": "bounty / grace",
+      "meaning_bn": "অনুগ্রহ / কৃপা",
+      "why_en": "Divine sustenance granted beyond bare needs."
+    },
+    {
+      "pos": 9,
+      "root": "صدق",
+      "lemma": "تَصَدَّقَ",
+      "meaning_en": "give charity",
+      "meaning_bn": "সদকা করব / দান করব",
+      "why_en": "Vow to help the poor once prosperous."
+    }
+  ],
+  "lesson_en": "Keep the promises you make to God when you pray for help.",
+  "lesson_bn": "বিপদে বা অভাবের সময় আল্লাহর কাছে করা অঙ্গীকার প্রাচুর্য আসার পর ভুলে যাওয়া মারাত্মক অপরাধ।",
+  "real_life_en": "If you promise to give to the poor after getting a job, keep your word. Do not forget your vow when money arrives.",
+  "real_life_bn": "চাকরি বা ব্যবসা ভালো হলে দান করবেন বলে যে নিয়ত করেছিলেন, সামর্থ্য হওয়ার সাথে সাথেই তা পূরণ করুন।",
+  "themes": [
+    "vows to Allah",
+    "covenants",
+    "charity"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Some hypocrites pledged solemn vows to give abundant charity if Allah granted them wealth, but failed when tested.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "20:110",
+  "simple_en": "God knows all that is ahead of creation in the future and all that lies behind them in the past. Yet human knowledge can never fully encompass God.",
+  "simple_bn": "মানুষের সামনে ভবিষ্যতে যা ঘটবে এবং পেছনে অতীতে যা ঘটে গেছে তা সবই আল্লাহ জানেন। কিন্তু মানুষের জ্ঞান কখনোই তাঁকে পরিবেষ্টন করতে পারে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "يدي",
+      "lemma": "يَد",
+      "meaning_en": "before them in the future",
+      "meaning_bn": "তাদের সামনে",
+      "why_en": "The unseen future known fully by God."
+    },
+    {
+      "pos": 6,
+      "root": "خلف",
+      "lemma": "خَلْف",
+      "meaning_en": "behind them in the past",
+      "meaning_bn": "তাদের পেছনে",
+      "why_en": "Past history recorded without omission."
+    },
+    {
+      "pos": 8,
+      "root": "حوط",
+      "lemma": "أَحَاطَ",
+      "meaning_en": "they encompass",
+      "meaning_bn": "তারা পরিবেষ্টন করে",
+      "why_en": "Human minds are limited and cannot encompass divine reality."
+    }
+  ],
+  "lesson_en": "God knows all things in the past and the future. Human minds cannot grasp His full knowledge.",
+  "lesson_bn": "আল্লাহর সর্বব্যাপী জ্ঞান অতীত ও ভবিষ্যৎকে ধারণ করে, অথচ কোনো সৃষ্টিই তাঁর সত্তা ও জ্ঞানকে পরিবেষ্টন করতে পারে না।",
+  "real_life_en": "Trust God when the future feels uncertain. The Lord who knows what lies ahead will guide your footsteps.",
+  "real_life_bn": "ভবিষ্যৎ নিয়ে দুশ্চিন্তা না করে আল্লাহর ওপর ভরসা রাখুন। যিনি আগামী সব জানেন, তিনি আপনার পথ দেখাবেন।",
+  "themes": [
+    "omniscience",
+    "divine-knowledge",
+    "human-limitations"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God encompasses all past and future knowledge, while created minds cannot encompass Him.",
+      "claim_bn": "আল্লাহ অতীত ও ভবিষ্যতের সবকিছু জানেন, কিন্তু সৃষ্টির সীমিত জ্ঞান কখনোই তাঁকে ধারণ করতে পারে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

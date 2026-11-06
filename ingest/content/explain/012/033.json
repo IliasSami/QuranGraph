@@ -1,0 +1,93 @@
+{
+  "id": "12:33",
+  "simple_en": "Yusuf prayed to his Lord for help. He said that prison was better than the sin they called him to commit. He asked Allah to protect him from their schemes. He knew that without God's mercy, human weakness could lead to error.",
+  "simple_bn": "ইউসুফ তাঁর প্রতিপালকের কাছে দোয়া করলেন। তিনি বললেন, হে আমার রব, এরা আমাকে যার দিকে ডাকছে তার চেয়ে কারাগারই আমার কাছে বেশি প্রিয়। তিনি তাঁদের চক্রান্ত দূর করে দেওয়ার জন্য আল্লাহর আশ্রয় চাইলেন। তিনি জানতেন যে আল্লাহর সাহায্য ছাড়া দুর্বল মানবমন বিপথগামী হতে পারে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سجن",
+      "lemma": "سِجْن",
+      "meaning_en": "prison",
+      "meaning_bn": "কারাগার",
+      "why_en": "Yusuf prefers physical loss over spiritual corruption."
+    },
+    {
+      "pos": 4,
+      "root": "حبب",
+      "lemma": "أَحَبّ",
+      "meaning_en": "more dear",
+      "meaning_bn": "অধিক প্রিয়",
+      "why_en": "Expresses his strong preference for hardship over disobedience to Allah."
+    },
+    {
+      "pos": 10,
+      "root": "صرف",
+      "lemma": "صَرَفَ",
+      "meaning_en": "turn away",
+      "meaning_bn": "দূরে সরিয়ে রাখা",
+      "why_en": "A plea for divine protection from corrupting environments."
+    },
+    {
+      "pos": 17,
+      "root": "جهل",
+      "lemma": "جاهِل",
+      "meaning_en": "the ignorant",
+      "meaning_bn": "মূর্খদের অন্তর্ভুক্ত",
+      "why_en": "Sin is recognized as an act of spiritual ignorance and self-harm."
+    }
+  ],
+  "lesson_en": "Turn to Allah for help when facing temptation. Never rely on your own strength alone.",
+  "lesson_bn": "প্রলোভন থেকে বাঁচতে আল্লাহর কাছে দোয়া করুন, নিজের শক্তির ওপর অহংকার করবেন না।",
+  "real_life_en": "A student faces strong pressure from friends to drink alcohol at a party. The student asks Allah for strength and walks away. They choose to be alone rather than commit a sin.",
+  "real_life_bn": "এক শিক্ষার্থী বন্ধুদের চাপের মুখে অসৎ কাজে জড়ানোর পরিবর্তে আল্লাহর সাহায্য চেয়ে সেখান থেকে চলে যায়। সে অন্যায় করার চেয়ে একা থাকাকেই শ্রেয় মনে করে।",
+  "context_en": "Faced with continuous pressure and threats, Yusuf sought refuge in Allah through sincere supplication.",
+  "context_bn": "লাগাতার চাপ ও হুমকির মুখে ইউসুফ (আলাইহিস সালাম) আন্তরিক দোয়ার মাধ্যমে আল্লাহর আশ্রয় প্রার্থনা করলেন।",
+  "themes": [
+    "dua",
+    "reliance on Allah",
+    "modesty"
+  ],
+  "kinds": [
+    "story",
+    "dua",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "prison"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf prayed to Allah stating that prison was preferable to committing sin.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He asked Allah to turn away their plots, acknowledging human dependence on divine protection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

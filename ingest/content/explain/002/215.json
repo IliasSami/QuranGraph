@@ -1,0 +1,112 @@
+{
+ "id": "2:215",
+ "simple_en": "The believers asked the Prophet ﷺ what they should give in charity and who should receive it. Allah told him to say that any good wealth they give should go first to parents and close family. After them come orphans in need, the poor, and stranded travelers. Whatever good deed you do, Allah knows it well and will reward you.",
+ "simple_bn": "সাহাবীগণ নবী ﷺ-কে জিজ্ঞেস করেছিলেন যে তারা আল্লাহর সন্তুষ্টির জন্য কী ব্যয় করবে এবং কাকে দেবে। আল্লাহ তাঁকে জানিয়ে দিতে বললেন যে, কোনো ব্যক্তি যে হালাল ও উত্তম ধনসম্পদ ব্যয় করে, তার সর্বাধিক হকদার হলো পিতা-মাতা, নিকটাত্মীয়, পিতৃহীন এতিম, অভাবগ্রস্ত মিসকীন এবং নিঃস্ব মুসাফির। তোমরা ভালো কাজের যা কিছুই করো না কেন, ছোট হোক বা বড়, আল্লাহ সে সম্পর্কে পুরোপুরি অবগত আছেন এবং এর উত্তম প্রতিদান দেবেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "نفق",
+   "lemma": "أَنفَقَ",
+   "meaning_en": "they spend",
+   "meaning_bn": "তারা ব্যয় করে",
+   "why_en": "Refers to spending wealth generously for the sake of Allah to fulfill rights and assist others."
+  },
+  {
+   "pos": 8,
+   "root": "خير",
+   "lemma": "خَيْر",
+   "meaning_en": "good wealth",
+   "meaning_bn": "উত্তম ও হালাল সম্পদ",
+   "why_en": "Indicates that only pure, lawfully earned wealth is acceptable for spending."
+  },
+  {
+   "pos": 9,
+   "root": "ولد",
+   "lemma": "والِد",
+   "meaning_en": "parents",
+   "meaning_bn": "পিতা-মাতা",
+   "why_en": "Placed first among recipients, highlighting their primary right over a child's care and spending."
+  },
+  {
+   "pos": 12,
+   "root": "سكن",
+   "lemma": "مِسْكِين",
+   "meaning_en": "the needy",
+   "meaning_bn": "মিসকীন বা অভাবগ্রস্ত",
+   "why_en": "Refers to vulnerable individuals who lack sufficient resources to meet daily essentials."
+  },
+  {
+   "pos": 22,
+   "root": "علم",
+   "lemma": "عَلِيم",
+   "meaning_en": "All-Knowing",
+   "meaning_bn": "সর্বজ্ঞ",
+   "why_en": "Reminds that Allah knows every act of generosity, its sincerity, and its intention."
+  }
+ ],
+ "lesson_en": "Help your parents and close family first before giving to others.",
+ "lesson_bn": "অন্যদের দান করার আগে নিজের পিতা-মাতা ও নিকটাত্মীয়দের প্রয়োজন পূরণকে অগ্রাধিকার দিন।",
+ "real_life_en": "When you plan to give money in charity, start with your own home. Check if your parents need medicine or groceries, or if a close cousin is struggling to pay rent. Helping family in need earns double reward and keeps ties strong.",
+ "real_life_bn": "বাইরে কোনো দাতব্য কাজে দান করার আগে নিজের বৃদ্ধ মা-বাবা এবং অসচ্ছল আত্মীয়দের খোঁজ নিন। অভাবী আত্মীয়কে আর্থিক সাহায্য করলে একদিকে যেমন দানের সওয়াব হয়, তেমনি আত্মীয়তার হকও আদায় হয়।",
+ "context_en": "Follows the theme of true righteousness and devotion by laying down who possesses the greatest right to financial help and family care.",
+ "context_bn": "আল্লাহর পথে আন্তরিক ত্যাগের ধারাবাহিকতায় এখানে সুস্পষ্ট করা হয়েছে যে আর্থিক সাহায্য ও সেবার ক্ষেত্রে কাদের হক সবার আগে।",
+ "themes": [
+  "charity",
+  "parents",
+  "family",
+  "orphans",
+  "wealth",
+  "Allah's knowledge",
+  "good character"
+ ],
+ "kinds": [
+  "command",
+  "ethics",
+  "law"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Alim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Companions inquired about what wealth they should spend and who is entitled to receive it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Lawful expenditure must be directed in order of priority to parents, relatives, orphans, the poor, and travelers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Allah possesses full knowledge of all good deeds and will grant a complete reward for every sincere act.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

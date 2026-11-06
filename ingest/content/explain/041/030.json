@@ -1,0 +1,86 @@
+{
+ "id": "41:30",
+ "simple_en": "Those who say that their Lord is Allah and then remain steadfast will receive comforting news. At the time of death, angels will descend upon them, telling them not to fear or grieve. The angels bring them the glad tidings of Paradise.",
+ "simple_bn": "যারা বলে যে তাদের প্রতিপালক আল্লাহ এবং এরপর তাঁর পথে অবিচল থাকে, তারা শান্তিময় বার্তা লাভ করবে। মৃত্যুর সময় ফিরিশতাগণ তাদের কাছে অবতীর্ণ হয়ে বলবেন কোনো ভয় বা চিন্তা না করতে এবং জান্নাতের সুসংবাদ গ্রহণ করতে।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "قوم",
+   "lemma": "اسْتَقامُ",
+   "meaning_en": "they remained steadfast",
+   "meaning_bn": "তারা অবিচল ছিল",
+   "why_en": "Praises constant adherence to monotheism and righteous deeds."
+  },
+  {
+   "pos": 8,
+   "root": "نزل",
+   "lemma": "تَنَزَّلَتْ",
+   "meaning_en": "will descend",
+   "meaning_bn": "অবতীর্ণ হবে",
+   "why_en": "Points to angels arriving with reassurance at the time of transition."
+  },
+  {
+   "pos": 10,
+   "root": "ملك",
+   "lemma": "مَلَك",
+   "meaning_en": "the angels",
+   "meaning_bn": "ফিরিশতাগণ",
+   "why_en": "Heavenly messengers who bring peace and glad tidings to the dying believer."
+  },
+  {
+   "pos": 16,
+   "root": "جنن",
+   "lemma": "جَنَّة",
+   "meaning_en": "with Paradise",
+   "meaning_bn": "জান্নাতের সাথে",
+   "why_en": "The promised eternal abode of joy and safety."
+  }
+ ],
+ "lesson_en": "Steadfast faith in Allah brings peace at death and eternal joy in Paradise.",
+ "lesson_bn": "আল্লাহর প্রতি অবিচল ঈমান মৃত্যুর মুহূর্তে শান্তি এবং জান্নাতে অনন্ত আনন্দ বয়ে আনে।",
+ "real_life_en": "Hold firmly to your faith through life's ups and downs. When you face hardship, stay patient and keep praying, knowing that angels bring comfort to the upright.",
+ "real_life_bn": "জীবনের সুখ-দুঃখে ঈমানের ওপর দৃঢ় থাকুন। বিপদের সময়েও ধৈর্য ধরে নামাজ চালিয়ে যান, কারণ নেককারদের জন্য আল্লাহর পক্ষ থেকে প্রশান্তি আসে।",
+ "themes": [
+  "faith",
+  "patience",
+  "angels",
+  "Paradise",
+  "glad-tidings"
+ ],
+ "kinds": [
+  "glad-tidings",
+  "promise",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels",
+   "paradise"
+  ],
+  "names_of_allah": [
+   "allah",
+   "ar-rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Those who declare Allah as their Lord and remain upright will be visited by angels at death, telling them not to fear or grieve, bringing tidings of Paradise.",
+   "claim_bn": "যারা আল্লাহকে রব বলে অবিচল থাকে, মৃত্যুর সময় তাদের কাছে ফিরিশতারা এসে ভয় ও চিন্তা দূর করে জান্নাতের সুসংবাদ দেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

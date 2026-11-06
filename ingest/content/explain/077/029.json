@@ -1,0 +1,65 @@
+{
+ "id": "77:29",
+ "simple_en": "On that Day, the deniers will be told to proceed toward the punishment they used to deny. They mocked the warnings in this life, but now the Fire stands right before their eyes.",
+ "simple_bn": "সেই দিনে সত্য অস্বীকারকারীদের বলা হবে, তোমরা যে শাস্তিকে মিথ্যা মনে করতে তার দিকে চলো। দুনিয়ায় তোমরা নবীদের সতর্কবার্তা নিয়ে উপহাস করতে, কিন্তু আজ জাহান্নামের আগুন তোমাদের সামনে উপস্থিত।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "طلق",
+   "lemma": "انطَلَقَ",
+   "meaning_en": "proceed, depart",
+   "meaning_bn": "তোমরা এগিয়ে যাও",
+   "why_en": "The stern command ordering the deniers toward their punishment."
+  },
+  {
+   "pos": 6,
+   "root": "كذب",
+   "lemma": "كَذَّبَ",
+   "meaning_en": "you used to deny",
+   "meaning_bn": "তোমরা অস্বীকার করতে",
+   "why_en": "Highlighting their past rejection of the warned torment."
+  }
+ ],
+ "lesson_en": "Denying the punishment in this world will not protect anyone from facing it in the next.",
+ "lesson_bn": "দুনিয়ায় শাস্তিকে অস্বীকার করলে পরকালে সেই বাস্তব শাস্তি থেকে নিস্তার পাওয়া যায় না।",
+ "real_life_en": "Ignoring warning signs on a dangerous road does not make the danger disappear. If a driver ignores the sign, he faces a crash. In the same way, denying the afterlife only leads to bitter shock on the Day of Judgment.",
+ "real_life_bn": "বিপজ্জনক সড়কের সতর্কবার্তা না মানলে দুর্ঘটনা এড়ানো যায় না। একইভাবে পরকালকে অস্বীকার করলে আখিরাতের বাস্তব পরিণতি থেকে বাঁচা যায় না। সময় থাকতেই সতর্কবার্তা মেনে নেওয়া বুদ্ধিমানের কাজ।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "day-of-judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The rejectors will be told to proceed toward the punishment of Hell they used to deny.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

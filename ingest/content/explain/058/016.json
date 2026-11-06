@@ -1,0 +1,87 @@
+{
+  "id": "58:16",
+  "simple_en": "The hypocrites used their false oaths as a shield to hide their disbelief. Through this deception, they turned people away from the path of Allah. Because of this, they will suffer a humiliating punishment.",
+  "simple_bn": "মুনাফিকরা তাদের মিথ্যা শপথকে ঢাল হিসেবে ব্যবহার করেছিল, আর এভাবে তারা মানুষকে আল্লাহর পথ থেকে বিরত রেখেছিল। অতএব তাদের জন্য রয়েছে অপমানজনক শাস্তি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "يمن",
+      "lemma": "يَمِين",
+      "meaning_en": "their oaths",
+      "meaning_bn": "তাদের শপথসমূহ",
+      "why_en": "Swearing by Allah's name insincerely to avoid suspicion."
+    },
+    {
+      "pos": 3,
+      "root": "جنن",
+      "lemma": "جُنَّة",
+      "meaning_en": "a shield",
+      "meaning_bn": "ঢাল বা আবরণ",
+      "why_en": "Using religious words as armor to protect themselves from exposure."
+    },
+    {
+      "pos": 4,
+      "root": "صدد",
+      "lemma": "صَدَّ",
+      "meaning_en": "and they averted",
+      "meaning_bn": "তারা বাধা প্রদান করল",
+      "why_en": "Blocking others from entering Islam through their toxic doubts."
+    },
+    {
+      "pos": 10,
+      "root": "هون",
+      "lemma": "مُهِين",
+      "meaning_en": "humiliating",
+      "meaning_bn": "অপমানজনক",
+      "why_en": "Disgraceful retribution matching their cowardly hypocrisy."
+    }
+  ],
+  "lesson_en": "Never use oaths to hide bad deeds or lead people away from truth.",
+  "lesson_bn": "কখনো দ্বীনের নাম ব্যবহার করে নিজের স্বার্থ হাসিল করবেন না বা মানুষকে বিভ্রান্ত করবেন না।",
+  "real_life_en": "A contractor uses Islamic greetings and promises on Allah's name to gain trust from a mosque committee. But he cuts corners and uses poor cement. His scheme is exposed, and his misuse of sacred oaths earns him deep shame and legal penalty.",
+  "real_life_bn": "এক ঠিকাদার একটি মসজিদ কমিটির আস্থা অর্জনের জন্য বড় বড় ধর্মীয় বুলি আওড়ায়। কিন্তু বাস্তবে সে কাজের সময় নিম্নমানের সামগ্রী ব্যবহার করে। তার এই ছলচাতুরী ধরা পড়ার পর সে সমাজে নিন্দিত হয় এবং আইনের আওতায় আসে।",
+  "themes": [
+    "hypocrisy",
+    "punishment",
+    "honesty",
+    "good character"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites used false oaths as a shield to protect themselves and hinder people from Allah's path.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "A humiliating punishment awaits those who obstruct others from Islam through deceptive oaths.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

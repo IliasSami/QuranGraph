@@ -1,0 +1,61 @@
+{
+  "id": "24:8",
+  "simple_en": "The wife avoids punishment if she swears four times by God. She must testify that her accuser is telling a clear lie about her conduct.",
+  "simple_bn": "আর স্ত্রীর শাস্তি দূর হয়ে যাবে যদি সে আল্লাহর নামে চারবার শপথ করে সাক্ষ্য দেয় যে, নিশ্চয় তার স্বামী মিথ্যাবাদী।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "درأ",
+      "lemma": "يَدْرَؤُا۟",
+      "meaning_en": "and it averts",
+      "meaning_bn": "এবং তা নিবৃত্ত করবে",
+      "why_en": "The removal of legal punishment through lawful counter-testimony."
+    },
+    {
+      "pos": 3,
+      "root": "عذب",
+      "lemma": "عَذاب",
+      "meaning_en": "the punishment",
+      "meaning_bn": "শাস্তি",
+      "why_en": "The legal penalty that is lifted when proper testimony is rendered."
+    }
+  ],
+  "lesson_en": "God gives the accused spouse an equal chance to defend her honor through oaths.",
+  "lesson_bn": "ইসলামের বিচারব্যবস্থা অভিযুক্তকেও নিজের সম্মান ও নির্দোষিতা প্রমাণের সমান অধিকার নিশ্চিত করে।",
+  "real_life_en": "Give accused people a fair chance to speak. Do not jump to conclusions before hearing both sides.",
+  "real_life_bn": "কারো বিরুদ্ধে কোনো অভিযোগ উঠলে একতরফা রায় দেবেন না। কোনো বিষয়ে সিদ্ধান্ত নেওয়ার আগে সংশ্লিষ্ট ব্যক্তির বক্তব্য মনোযোগ সহকারে শুনুন।",
+  "themes": [
+    "defense-of-honor",
+    "marital-law",
+    "justice"
+  ],
+  "kinds": [
+    "law",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The accused wife deflects the prescribed punishment by swearing four counter-oaths that her husband has spoken falsely.",
+      "claim_bn": "স্ত্রী চারবার আল্লাহর নামে শপথ করে স্বামীর অভিযোগ মিথ্যা বলে সাক্ষ্য দিলে তার ওপর থেকে শাস্তি রহিত হয়ে যায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

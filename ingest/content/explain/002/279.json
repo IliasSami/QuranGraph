@@ -1,0 +1,103 @@
+{
+ "id": "2:279",
+ "simple_en": "If you do not give up interest, know that Allah and His Messenger ﷺ declare war against you. If you repent, you may keep your original capital. You will not wrong anyone by taking extra money, and you will not be wronged by losing what is yours.",
+ "simple_bn": "তোমরা যদি সুদের অবশিষ্টাংশ ত্যাগ না করো, তবে আল্লাহ ও তাঁর রাসূল ﷺ-এর পক্ষ থেকে যুদ্ধের ঘোষণার জন্য প্রস্তুত হও। কিন্তু যদি তোমরা অনুতপ্ত হয়ে তওবা করো, তবে তোমাদের মূলধন ফেরত পাওয়ার পূর্ণ অধিকার তোমাদের থাকবে। এর মাধ্যমে তোমরা অতিরিক্ত দাবি করে ঋণগ্রহীতার ওপর কোনো অবিচার করবে না, আর নিজেদের মূল টাকা হারিয়ে তোমরা নিজেরাও ক্ষতিগ্রস্ত হবে না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "أذن",
+   "lemma": "أَذِنَ",
+   "meaning_en": "then be informed / take notice",
+   "meaning_bn": "প্রস্তুত হও / জেনে রাখো",
+   "why_en": "Serves as an ultimatum and stern declaration of divine opposition."
+  },
+  {
+   "pos": 5,
+   "root": "حرب",
+   "lemma": "حَرْب",
+   "meaning_en": "of war",
+   "meaning_bn": "যুদ্ধের",
+   "why_en": "Expresses the absolute gravity of continuing in interest, described as waging war against God."
+  },
+  {
+   "pos": 10,
+   "root": "توب",
+   "lemma": "تابَ",
+   "meaning_en": "you repent",
+   "meaning_bn": "তোমরা তওবা করো",
+   "why_en": "Opens the door of redemption for past lenders who regret and desist."
+  },
+  {
+   "pos": 12,
+   "root": "رأس",
+   "lemma": "رَأْس",
+   "meaning_en": "principals / capitals",
+   "meaning_bn": "মূলধনসমূহ",
+   "why_en": "Limits the creditor's legal right strictly to the original sum lent."
+  },
+  {
+   "pos": 15,
+   "root": "ظلم",
+   "lemma": "ظَلَمَ",
+   "meaning_en": "you wrong",
+   "meaning_bn": "তোমরা জুলুম করো",
+   "why_en": "Defines divine economic balance: no oppression of the borrower and no loss to the lender."
+  }
+ ],
+ "lesson_en": "Take back only your basic loan, so you do not hurt others and no one hurts you.",
+ "lesson_bn": "শুধু আপনার মূল ধার ফেরত নিন, যাতে আপনিও কারো ক্ষতি না করেন এবং আপনারও কোনো ক্ষতি না হয়।",
+ "real_life_en": "You may need to settle a debt with a relative or partner. Ask only for the exact amount you originally lent them. Do not ask for any extra fee or profit. This fair choice protects both of you from injustice and preserves your trust.",
+ "real_life_bn": "কোনো আত্মীয় বা অংশীদারের সাথে দেনা-পাওনা মেটানোর সময় শুধু আপনার দেওয়া আসল টাকাটি ফেরত চান। কোনো অতিরিক্ত ফি বা লাভ দাবি করবেন না। এই ন্যায্য আচরণ উভয়কে জুলুম থেকে রক্ষা করে এবং পারস্পরিক আস্থা অটুট রাখে।",
+ "context_en": "Issues an uncompromising ultimatum against persistent usurers while establishing the legal principle of recovering original capital.",
+ "context_bn": "সুদে অটল থাকা ব্যক্তিদের বিরুদ্ধে চূড়ান্ত হুঁশিয়ারি দিয়ে তওবাকারীদের কেবল মূলধন ফেরতের অধিকার নিশ্চিত করা হয়েছে।",
+ "themes": [
+  "justice",
+  "repentance",
+  "wealth",
+  "law",
+  "warning"
+ ],
+ "kinds": [
+  "warning",
+  "command",
+  "prohibition",
+  "law"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who persist in dealing with interest face an ultimatum of war from Allah and His Messenger ﷺ.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Repentance permits creditors to recover their original principal without taking any unjust increase or suffering loss.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "9:110",
+  "simple_en": "The building which they built will never cease to cause doubt and anxiety in their hearts, until their hearts are torn to pieces. Allah is All-Knowing and All-Wise.",
+  "simple_bn": "তারা যে ঘরটি নির্মাণ করেছিল তা তাদের অন্তরে সন্দেহের কারণ হয়ে থাকবে, যে পর্যন্ত না তাদের অন্তর টুকরো টুকরো হয়ে যায়। আর আল্লাহ সর্বজ্ঞ ও প্রজ্ঞাময়।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "ريب",
+      "lemma": "رِيبَة",
+      "meaning_en": "doubt / anxiety",
+      "meaning_bn": "সন্দেহ / মানসিক অশান্তি",
+      "why_en": "Guilt and paranoia gnawing constantly at the conspirators."
+    },
+    {
+      "pos": 8,
+      "root": "قلب",
+      "lemma": "قَلْب",
+      "meaning_en": "hearts",
+      "meaning_bn": "অন্তরসমূহ",
+      "why_en": "The seat of conscience poisoned by ill intent."
+    },
+    {
+      "pos": 11,
+      "root": "قطع",
+      "lemma": "تَقَطَّعَ",
+      "meaning_en": "are torn to pieces",
+      "meaning_bn": "টুকরো টুকরো হয়ে যায়",
+      "why_en": "Until their deaths in misery and defeat."
+    }
+  ],
+  "lesson_en": "Sinful plots fill the heart with constant worry and fear.",
+  "lesson_bn": "অন্যায় চক্রান্ত মানুষের অন্তরে স্থায়ী অনুশোচনা ও মানসিক অশান্তি রেখে যায়।",
+  "real_life_en": "Do not take part in secret plots or betrayals. The fear of being discovered will haunt your thoughts and destroy your inner peace.",
+  "real_life_bn": "কোনো কুচক্রে অংশ নেবেন না; ধরা পড়ার постоянный ভয় ও অপরাধবোধ মনের সব শান্তি কেড়ে নেয়।",
+  "themes": [
+    "inner torment",
+    "Masjid al-Dirar",
+    "divine wisdom"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [
+      "Masjid al-Dirar"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "All-Knowing",
+      "All-Wise"
+    ],
+    "events": [],
+    "things": [
+      "building"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The demolished mosque of dissension left an indelible mark of doubt, paranoia, and regret in the hearts of its builders.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

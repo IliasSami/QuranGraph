@@ -1,0 +1,61 @@
+{
+  "id": "16:4",
+  "simple_en": "He created man from a tiny drop of fluid. Yet when man grows up, he often turns into an open arguer against his wise Lord.",
+  "simple_bn": "আল্লাহ মানুষকে সামান্য এক ফোঁটা শুক্রবিন্দু থেকে সৃষ্টি করেছেন। কিন্তু বড় হয়ে মানুষ অকৃতজ্ঞ হয় এবং তার মহান পালনকর্তার বিরুদ্ধেই প্রকাশ্য বিবাদে লিপ্ত হয়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "نطف",
+      "lemma": "نُطْفَة",
+      "meaning_en": "a sperm-drop",
+      "meaning_bn": "শুক্রবিন্দু",
+      "why_en": "Emphasizes the humble beginnings of human life."
+    },
+    {
+      "pos": 7,
+      "root": "خصم",
+      "lemma": "خَصِيم",
+      "meaning_en": "an adversary",
+      "meaning_bn": "বিতণ্ডাকারী",
+      "why_en": "Describes human arrogance and pointless contention."
+    }
+  ],
+  "lesson_en": "Man began from a humble drop. We must stay humble before our Maker.",
+  "lesson_bn": "মানুষের সৃষ্টি অত্যন্ত দুর্বল উৎস থেকে, তাই মানুষের অহংকার ত্যাগ করে সর্বদা বিনয়ী হওয়া উচিত।",
+  "real_life_en": "Do not let pride take over your mind. Remember your humble start and treat others with kindness.",
+  "real_life_bn": "সাফল্যের চূড়ায় পৌঁছালেও নিজের সূচনা মনে রাখুন। নিজের জীবনে বিনয় বজায় রেখে স্রষ্টার কৃতজ্ঞতা প্রকাশ করুন।",
+  "themes": [
+    "creation",
+    "humility",
+    "human-nature"
+  ],
+  "kinds": [
+    "warning",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Man was created from a fluid drop yet becomes an open opponent.",
+      "claim_bn": "মানুষ শুক্রবিন্দু থেকে সৃষ্ট হয়েও অহংকারে প্রকাশ্য বিতণ্ডাকারী হয়ে দাঁড়ায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

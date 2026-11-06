@@ -1,0 +1,69 @@
+{
+ "id": "43:22",
+ "simple_en": "Instead of seeking proof, they say they found their fathers following a path. They say they are simply walking in the footsteps of their ancestors. They follow family tradition blindly without asking if it is right.",
+ "simple_bn": "কোনো প্রমাণ ছাড়াই তারা বলে, আমরা আমাদের পূর্বপুরুষদের একটি আদর্শের ওপর পেয়েছি। তারা আরও বলে যে তারা তাদেরই পদাঙ্ক অনুসরণ করছে। তারা সত্য-মিথ্যা বিবেচনা না করে অন্ধভাবে চলত।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "أبو",
+   "lemma": "آباء",
+   "meaning_en": "our fathers",
+   "meaning_bn": "আমাদের পূর্বপুরুষগণ",
+   "why_en": "Blind ancestor worship blinds people to obvious guidance."
+  },
+  {
+   "pos": 7,
+   "root": "أمم",
+   "lemma": "أُمَّة",
+   "meaning_en": "a path (religion)",
+   "meaning_bn": "একটি দ্বীন বা আদর্শ",
+   "why_en": "They treated cultural heritage as if it were infallible religion."
+  },
+  {
+   "pos": 11,
+   "root": "هدي",
+   "lemma": "مُهْتَدي",
+   "meaning_en": "guided (following footsteps)",
+   "meaning_bn": "পথ খুঁজে পাচ্ছে",
+   "why_en": "They mistook mere imitation for genuine spiritual direction."
+  }
+ ],
+ "lesson_en": "Do not follow old ways blindly. Check all ideas against the truth.",
+ "lesson_bn": "পূর্বপুরুষদের অন্ধ অনুসরণ করবেন না, বরং সত্য ও প্রমাণের আলোকে সবকিছু বিচার করুন।",
+ "real_life_en": "If an old family habit goes against faith, do not follow it. Be kind to your parents, but choose what pleases Allah.",
+ "real_life_bn": "পরিবারের কোনো রেওয়াজ যদি ইসলামের স্পষ্ট শিক্ষার বিরুদ্ধে যায়, তবে বিনয়ের সাথে সঠিক পথ বেছে নিন। বড়দের শ্রদ্ধা করে সত্যের ওপর অটল থাকুন।",
+ "themes": [
+  "guidance",
+  "misguidance",
+  "reflection"
+ ],
+ "kinds": [
+  "argument",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The pagans justified their disbelief solely by blindly following the customs of their ancestors.",
+   "claim_bn": "মুশরিকরা নিজেদের কুফরিকে কেবল পূর্বপুরুষদের অন্ধ অনুকরণের মাধ্যমে সমর্থন করার চেষ্টা করত।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

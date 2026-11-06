@@ -1,0 +1,68 @@
+{
+  "id": "21:77",
+  "simple_en": "We aided Noah against the corrupt people who denied Our clear signs. They were indeed an evil people, so We drowned them all together in the water.",
+  "simple_bn": "আমি নূহকে সেই জাতির বিরুদ্ধে সাহায্য করেছিলাম যারা আমার নিদর্শন প্রত্যাখ্যান করেছিল। তারা ছিল মন্দ জাতি, তাই আমি তাদের সবাইকে পানিতে নিমজ্জিত করে ধ্বংস করলাম।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نصر",
+      "lemma": "نَصَرَ",
+      "meaning_en": "We aided him",
+      "meaning_bn": "আমরা তাকে সাহায্য করলাম",
+      "why_en": "Divine victory against overwhelming hostility."
+    },
+    {
+      "pos": 5,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "they denied",
+      "meaning_bn": "তারা অস্বীকার করেছিল",
+      "why_en": "Persistent rejection of prophetic guidance."
+    }
+  ],
+  "lesson_en": "Denying divine signs brings ultimate downfall. Evil communities may thrive for a time, but divine justice will prevail.",
+  "lesson_bn": "আল্লাহর নিদর্শন অস্বীকার করলে চূড়ান্ত পতন নেমে আসে। পাপাচারীরা সাময়িক শক্তি দেখালেও শেষ পর্যন্ত ধ্বংসই তাদের পরিণতি।",
+  "real_life_en": "Never join hands with corrupt or abusive groups. Stand with truth and honesty, even if the wrongdoers seem wealthy and strong.",
+  "real_life_bn": "অন্যায়কারী বা অসৎ গোষ্ঠীর সাথে কখনো হাত মেলাবেন না। বিরোধীরা যত শক্তিশালীই মনে হোক না কেন, সর্বদা সত্যের সাথে থাকুন।",
+  "themes": [
+    "nuh",
+    "divine-aid",
+    "drowning-of-deniers",
+    "justice"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Nuh"
+    ],
+    "nations": [
+      "People of Nuh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "The Flood"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God aided Noah against his obstinate people, drowning them all for their persistent denial of His signs.",
+      "claim_bn": "আল্লাহ নূহকে তাঁর সত্য প্রত্যাখ্যানকারী জাতির বিরুদ্ধে সাহায্য করেছিলেন এবং তাদের সবাইকে ডুবিয়ে ধ্বংস করেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,103 @@
+{
+ "id": "2:207",
+ "simple_en": "In contrast to the hypocrite, there are sincere believers who give up their lives and wealth seeking only the pleasure of Allah. They gladly sacrifice personal comfort to obey their Lord and uphold the truth. Allah is full of kindness to His servants. He guides them to goodness, accepts their devotion, and rewards them with everlasting peace.",
+ "simple_bn": "মুনাফিকদের সম্পূর্ণ বিপরীতে মানুষের মাঝে এমন একদল খাঁটি মুমিনও রয়েছে, যারা কেবল আল্লাহর সন্তুষ্টি লাভের আশায় নিজেদের জীবন ও সম্পদ উৎসর্গ করে। তারা দ্বীনের আনুগত্য এবং সত্যের পথে নিজের সব ইচ্ছা সানন্দে কুরবানি দেয়। আল্লাহ তাঁর বান্দাদের প্রতি অত্যন্ত দয়ার্দ্র ও স্নেহশীল। তিনি তাদের সৎকাজের তাওফীক দেন এবং আখিরাতে সীমাহীন সম্মানে ভূষিত করেন।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "شري",
+   "lemma": "شَرَ",
+   "meaning_en": "sells (dedicates)",
+   "meaning_bn": "বিকিয়ে দেয় (উৎসর্গ করে)",
+   "why_en": "Describes offering one's life, wealth, and desires entirely in exchange for Allah's reward."
+  },
+  {
+   "pos": 5,
+   "root": "نفس",
+   "lemma": "نَفْس",
+   "meaning_en": "himself (his soul)",
+   "meaning_bn": "নিজের প্রাণ (নিজেকে)",
+   "why_en": "The ultimate sacrifice a servant can make for faith and devotion."
+  },
+  {
+   "pos": 7,
+   "root": "رضو",
+   "lemma": "مَرْضات",
+   "meaning_en": "pleasure",
+   "meaning_bn": "সন্তুষ্টি",
+   "why_en": "The highest goal of a believer, far surpassing any temporary worldly gain."
+  },
+  {
+   "pos": 10,
+   "root": "رأف",
+   "lemma": "رَءُوف",
+   "meaning_en": "Most Kind (Compassionate)",
+   "meaning_bn": "পরম স্নেহশীল (দয়ার্দ্র)",
+   "why_en": "A divine attribute showing Allah's tender care and generous mercy for His devoted servants."
+  }
+ ],
+ "lesson_en": "True success is to seek the pleasure of Allah above wealth and worldly comfort.",
+ "lesson_bn": "পার্থিব ভোগবিলাস বা সম্পদের চেয়ে আল্লাহর সন্তুষ্টিকে অগ্রাধিকার দেওয়াই একজন মুমিনের জীবনের প্রকৃত সফলতা।",
+ "real_life_en": "Be ready to make quiet sacrifices for what is right. Give up unlawful gains and help those in need, even when it costs you ease. Allah sees your heart and treats His servants with deep kindness.",
+ "real_life_bn": "সততা বজায় রাখতে গিয়ে প্রয়োজনে অতিরিক্ত লাভ বা সুযোগ-সুবিধা ত্যাগ করুন। দ্বীনের ওপর অটল থাকতে বা অসহায় মানুষের সাহায্যে সময় ও শ্রম ব্যয় করতে দ্বিধা করবেন না, কারণ আল্লাহ তাঁর নিষ্ঠাবান বান্দাদের প্রতি পরম করুণাময়।",
+ "context_en": "Presents the shining example of sincere believers right after condemning the destructive traits of hypocrites.",
+ "context_bn": "মুনাফিকদের ধ্বংসাত্মক চরিত্রের বিপরীত চিত্র হিসেবে এখানে আল্লাহর সন্তুষ্টিতে নিবেদিতপ্রাণ সত্যনিষ্ঠ মুমিনদের উজ্জ্বল দৃষ্টান্ত পেশ করা হয়েছে।",
+ "themes": [
+  "the believers' qualities",
+  "Allah's mercy",
+  "names and attributes of Allah",
+  "trust in Allah",
+  "struggle in Allah's way"
+ ],
+ "kinds": [
+  "praise",
+  "glad-tidings",
+  "belief",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Ar-Ra'uf"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Sincere believers offer their lives, wealth, and desires entirely to earn Allah's pleasure.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah is full of kindness and compassionate mercy toward His devoted servants who sacrifice for His sake.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": {
+  "text_en": "Revealed regarding Suhayb al-Rumi when he surrendered all his accumulated wealth in Makkah to the Quraysh so they would let him emigrate with his faith to Madinah.",
+  "text_bn": "সুহায়ব রুমী (রাঃ)-এর হিজরতের প্রেক্ষাপটে নাযিল হয়, যিনি দ্বীন নিয়ে মদীনায় হিজরত করার জন্য মক্কার কুরাইশদের কাছে নিজের সমস্ত ধন-সম্পদ সমর্পণ করেছিলেন।",
+  "sources": [
+   "g-en-ibn-kathir",
+   "g-en-maarif"
+  ],
+  "strength": "sahih"
+ },
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

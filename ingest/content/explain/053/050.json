@@ -1,0 +1,73 @@
+{
+  "id": "53:50",
+  "simple_en": "Allah destroyed the ancient people of Ad when they stubbornly refused to believe. They were the people of Prophet Hud (peace be upon him). Despite their immense physical strength and lofty buildings, their arrogance could not save them from Allah's punishment.",
+  "simple_bn": "আল্লাহ প্রাচীন আদ জাতিকে ধ্বংস করেছিলেন যখন তারা একগুঁয়েভাবে কুফরীর উপর অটল ছিল। তারা ছিল হূদ (আলাইহিস সালাম)-এর সম্প্রদায়। তাদের বিশাল দৈহিক শক্তি ও সুউচ্চ প্রাসাদ তাদের আল্লাহর শাস্তি থেকে রক্ষা করতে পারেনি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "He destroyed",
+      "meaning_bn": "তিনি ধ্বংস করলেন",
+      "why_en": "Allah's judgment against arrogant past nations."
+    },
+    {
+      "pos": 3,
+      "root": "عود",
+      "lemma": "عاد",
+      "meaning_en": "Ad",
+      "meaning_bn": "আদ জাতি",
+      "why_en": "The ancient powerful tribe that rejected their prophet."
+    },
+    {
+      "pos": 4,
+      "root": "أول",
+      "lemma": "أَوَّل",
+      "meaning_en": "the first / ancient",
+      "meaning_bn": "প্রথম বা প্রাচীন",
+      "why_en": "Refers to the earliest nation of Ad."
+    }
+  ],
+  "lesson_en": "Wealth and power cannot save anyone from Allah.",
+  "lesson_bn": "শারীরিক শক্তি বা ধন-সম্পদ কাউকে আল্লাহর শাস্তি থেকে রক্ষা করতে পারে না।",
+  "real_life_en": "Never let success, health, or influence make you proud. Remember that power belongs to Allah, and remain humble toward others.",
+  "real_life_bn": "স্বাস্থ্য, ক্ষমতা বা সামাজিক প্রভাব নিয়ে কখনো অহংকার করবেন না। সর্বদা আল্লাহর সামনে বিনীত থাকুন এবং অন্যের সাথে সদয় আচরণ করুন।",
+  "context_en": "This begins a historical reminder of how Allah destroyed arrogant past nations.",
+  "context_bn": "অহংকারী অতীত জাতিসমূহের ধ্বংসের ইতিহাস স্মরণ করিয়ে এই আয়াতে সতর্কবার্তা দেওয়া হয়েছে।",
+  "themes": [
+    "past nations",
+    "punishment",
+    "arrogance"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "hud"
+    ],
+    "nations": [
+      "ad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah destroyed the first Ad, the people of Hud, when they persisted in disbelief.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

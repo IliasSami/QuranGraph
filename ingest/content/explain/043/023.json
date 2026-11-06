@@ -1,0 +1,71 @@
+{
+ "id": "43:23",
+ "simple_en": "Whenever Allah sent a warner to any city in the past, its rich and luxurious leaders said the same thing. They told the prophet that they found their fathers on a path, and that they would follow their tracks.",
+ "simple_bn": "অতীতে যখনই কোনো জনপদে সতর্ককারী পাঠানো হয়েছিল, সেখানকার বিলাসী ও প্রভাবশালী লোকেরা একই কথা বলেছিল। তারা বলেছিল, আমরা পূর্বপুরুষদের এক দ্বীনের ওপর পেয়েছি এবং আমরা তাদেরই পদাঙ্ক অনুসরণ করব।",
+ "key_words": [
+  {
+   "pos": 9,
+   "root": "نذر",
+   "lemma": "نَذِير",
+   "meaning_en": "a warner (messenger)",
+   "meaning_bn": "সতর্ককারী",
+   "why_en": "Messengers came with sincere warnings to save people from destruction."
+  },
+  {
+   "pos": 11,
+   "root": "قول",
+   "lemma": "قالَ",
+   "meaning_en": "its affluent ones (elite)",
+   "meaning_bn": "তার ধনী ও বিলাসী লোকেরা",
+   "why_en": "Excess wealth and comfort often breed arrogance against divine truth."
+  },
+  {
+   "pos": 19,
+   "root": null,
+   "lemma": "عَلَى",
+   "meaning_en": "following (imitating)",
+   "meaning_bn": "অনুকরণকারী",
+   "why_en": "They proudly repeated the same blind imitation across generations."
+  }
+ ],
+ "lesson_en": "Pride in wealth and luxury often blinds people from accepting the truth.",
+ "lesson_bn": "সম্পদ ও বিলাসিতার অহংকার মানুষকে প্রায়শই সত্য গ্রহণ করতে বাধা দেয়।",
+ "real_life_en": "Do not let social status or wealth make you proud. When simple advice from the Quran challenges your habits, accept it with an open heart.",
+ "real_life_bn": "সামাজিক পদমর্যাদা বা বিত্ত যেন আপনার মনে অহংকার তৈরি না করে। দ্বীনের কোনো সত্য আপনার সামনে এলে নম্রভাবে তা মেনে নিন।",
+ "themes": [
+  "arrogance",
+  "wealth",
+  "past nations"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The wealthy elite of previous communities always opposed prophets by appealing to their fathers' ways.",
+   "claim_bn": "অতীতের প্রতিটি জনপদের বিলাসী প্রভাবশালীরা পূর্বপুরুষদের দোহাই দিয়ে নবীদের বিরোধিতা করেছিল।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

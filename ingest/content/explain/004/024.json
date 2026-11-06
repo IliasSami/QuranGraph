@@ -1,0 +1,101 @@
+{
+ "id": "4:24",
+ "simple_en": "Also forbidden to you are married women, except those whom your right hands possess through lawful means. This is Allah's law for you. All other women are lawful for you to marry using your wealth with pure intent, not for lust. Pay them their bridal gift in full.",
+ "simple_bn": "অন্যের বিবাহবন্ধনে থাকা নারীদের বিয়ে করাও তোমাদের জন্য হারাম করা হয়েছে। তবে এসব নিষিদ্ধ নারীর বাইরে অন্য সবাইকে সম্পদের বিনিময়ে বিয়ে করা তোমাদের জন্য হালাল। উদ্দেশ্য হতে হবে পবিত্র দাম্পত্য জীবন গড়া, কোনো অবৈধ লালসা মেটানো নয়। বিবাহের পর তাদের নির্ধারিত মোহর পরিশোধ করো। তবে পরে পারস্পরিক সম্মতিতে মোহরে কোনো পরিবর্তন করলে দোষ নেই। নিশ্চয় আল্লাহ সর্বজ্ঞ ও প্রজ্ঞাময়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "حصن",
+   "lemma": "مُحْصَنَة",
+   "meaning_en": "already-married women",
+   "meaning_bn": "বিবাহিতা নারীগণ",
+   "why_en": "Indicates that women with living husbands are protected and unlawful for others to marry."
+  },
+  {
+   "pos": 1,
+   "root": "حصن",
+   "lemma": "مُحْصَنَة",
+   "meaning_en": "seeking chastity",
+   "meaning_bn": "চরিত্রবান হয়ে / বৈধ বিবাহের উদ্দেশ্যে",
+   "why_en": "Contrasts lawful marriage with unlawful sexual relations."
+  },
+  {
+   "pos": 21,
+   "root": "سفح",
+   "lemma": "مُسافِح",
+   "meaning_en": "committing fornication",
+   "meaning_bn": "ব্যভিচারী",
+   "why_en": "Prohibits illicit intimacy without marriage and commitment."
+  },
+  {
+   "pos": 27,
+   "root": "أجر",
+   "lemma": "أَجْر",
+   "meaning_en": "their bridal gifts / dowries",
+   "meaning_bn": "তাদের মোহরানা",
+   "why_en": "Refers to the mandatory mahr due to a wife as her financial right."
+  }
+ ],
+ "lesson_en": "Seek lawful marriage through pure intent and proper dowry. Never chase unlawful desire.",
+ "lesson_bn": "বৈধ বিবাহের মাধ্যমে নিজের চরিত্র রক্ষা করুন এবং আন্তরিকতার সাথে স্ত্রীর মোহরানা পরিশোধ করুন।",
+ "real_life_en": "Spend your money on lawful marriage rather than casual dating. Give your wife her bridal gift gladly as her own right. Honoring her dignity builds trust.",
+ "real_life_bn": "বিয়ের সময় এক যুবক আন্তরিকভাবে মোহর নির্ধারণ করে তা পরিশোধ করে। সে এটিকে কোনো আনুষ্ঠানিকতা মনে না করে স্ত্রীর একক অধিকার হিসেবে সম্মান করে। পরবর্তীতে স্ত্রীও নিজের খুশিমনে তাদের নতুন সংসারের জন্য কিছু অংশ ছাড় দিলে তাদের দাম্পত্যে বরকত আসে।",
+ "context_en": "Concludes the list of forbidden women by mentioning married women, then declares all other women lawful through marriage.",
+ "context_bn": "বিবাহিতা নারীদের কথা উল্লেখ করে নিষিদ্ধ নারীদের তালিকার সমাপ্তি এবং মোহর পরিশোধের শর্তে অন্যদের বিয়ে হালাল ঘোষণা।",
+ "themes": [
+  "marriage",
+  "family",
+  "chastity",
+  "justice",
+  "honesty"
+ ],
+ "kinds": [
+  "prohibition",
+  "command",
+  "law"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Aleem",
+   "Al-Hakeem"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Women already in a marriage contract with another man are forbidden to marry.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Women outside the prohibited categories are lawful to pursue in marriage using one's wealth for chaste marriage rather than fornication.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Paying the dowry is an obligatory duty in marriage, though spouses may mutually agree to alter it later.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

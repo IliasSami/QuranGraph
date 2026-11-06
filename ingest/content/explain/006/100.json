@@ -1,0 +1,83 @@
+{
+  "id": "6:100",
+  "simple_en": "Yet some people set up the jinn as partners with Allah in worship. In truth, Allah created the jinn from nothing. Out of complete ignorance, people also invented lies claiming that Allah has sons and daughters. Glory be to Him. He is far above and beyond any false claims they make.",
+  "simple_bn": "তবুও কিছু মানুষ অজ্ঞতাবশত জিন জাতিকে আল্লাহর অংশীদার বানাল। অথচ আল্লাহই তাদের সৃষ্টি করেছেন। তারা কোনো প্রমাণ ছাড়াই আল্লাহর জন্য পুত্র ও কন্যা সন্তান থাকার মিথ্যা অপবাদ রচনা করল। তিনি অতি পবিত্র। তারা যা কিছু মনগড়া বলে, তিনি তার চেয়ে অনেক ঊর্ধ্বে ও নিষ্কলুষ।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "جنن",
+      "lemma": "جِنّ",
+      "meaning_en": "the jinn",
+      "meaning_bn": "জিন জাতি",
+      "why_en": "Rebukes the idolaters who worshiped jinn or attributed divine powers to them."
+    },
+    {
+      "pos": 6,
+      "root": "خرق",
+      "lemma": "خَرَقَ",
+      "meaning_en": "they fabricated / falsely invented",
+      "meaning_bn": "তারা মনগড়া রচনা করল",
+      "why_en": "Condemns the audacity of falsely claiming that Allah has children."
+    },
+    {
+      "pos": 12,
+      "root": "سبح",
+      "lemma": "سُبْحان",
+      "meaning_en": "Glory be to Him / Exalted is He",
+      "meaning_bn": "তিনি সম্পূর্ণ পবিত্র",
+      "why_en": "Declares Allah's supreme purity from all partners, offspring, or flaws."
+    }
+  ],
+  "lesson_en": "Allah has no partners or children. He is pure and exalted above all false claims.",
+  "lesson_bn": "আল্লাহর কোনো অংশীদার বা সন্তান নেই। তিনি সকল মিথ্যা দাবি থেকে সম্পূর্ণ পবিত্র।",
+  "real_life_en": "Do not fear hidden spirits or credit them with divine powers. Only Allah controls life, death, and daily provision. Keep your belief in His absolute oneness pure and firm without any compromise.",
+  "real_life_bn": "অদৃশ্য কোনো অপশক্তিকে ভয় পাবেন না এবং তাদের অলৌকিক ক্ষমতার অধিকারী ভাববেন না। লাভ-ক্ষতি ও জীবন-মৃত্যুর মালিক একমাত্র আল্লাহ। তাঁর তাওহীদের বিশ্বাসকে সকল কুসংস্কার ও শিরক থেকে পবিত্র রাখুন।",
+  "context_en": "Denounces polytheists who worshiped the jinn and falsely attributed children to Allah.",
+  "context_bn": "জিন জাতিকে অংশীদার বানানো এবং আল্লাহর প্রতি মিথ্যা সন্তান আরোপের তীব্র প্রতিবাদ ও রবের পবিত্রতা ঘোষণা।",
+  "themes": [
+    "tawhid",
+    "shirk",
+    "jinn",
+    "purity of Allah",
+    "false claims"
+  ],
+  "kinds": [
+    "warning",
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "jinn"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Polytheists took the jinn as partners in worship, even though Allah created the jinn.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "People falsely attributed sons and daughters to Allah without knowledge, while He is exalted above all they describe.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

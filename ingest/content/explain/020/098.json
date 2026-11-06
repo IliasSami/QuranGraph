@@ -1,0 +1,71 @@
+{
+  "id": "20:98",
+  "simple_en": "Your only true God is Allah. There is no deity worthy of worship except Him. His vast knowledge encompasses every single thing in the universe.",
+  "simple_bn": "তোমাদের একমাত্র সত্য উপাস্য হলেন আল্লাহ। তিনি ছাড়া কোনো সত্য ইলাহ নেই। তাঁর অপার জ্ঞান মহাবিশ্বের প্রতিটি বস্তুকে পরিবেষ্টন করে রেখেছে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أله",
+      "lemma": "ٱللَّه",
+      "meaning_en": "Allah",
+      "meaning_bn": "আল্লাহ",
+      "why_en": "The one true God worthy of absolute devotion."
+    },
+    {
+      "pos": 9,
+      "root": "وسع",
+      "lemma": "وَسِعَ",
+      "meaning_en": "encompasses completely",
+      "meaning_bn": "পরিবেষ্টন বা ধারণ করে আছে",
+      "why_en": "Infinite reach of divine wisdom and awareness."
+    },
+    {
+      "pos": 12,
+      "root": "علم",
+      "lemma": "عِلْم",
+      "meaning_en": "in knowledge",
+      "meaning_bn": "জ্ঞানে",
+      "why_en": "Omniscience spanning past, present, and future."
+    }
+  ],
+  "lesson_en": "Worship God alone. His vast wisdom covers every single thing in heaven and on earth.",
+  "lesson_bn": "একমাত্র আল্লাহই সকল উপাসনার যোগ্য। তাঁর সর্বব্যাপী জ্ঞানের সামনে কোনো কল্পিত উপাস্যের কোনো অস্তিত্ব নেই।",
+  "real_life_en": "Trust your life to the One who knows everything. Find peace in knowing that your Creator oversees all things with perfect care.",
+  "real_life_bn": "সর্বজ্ঞ আল্লাহর ওপর নিজের জীবনের সকল ভার ছেড়ে দিন। যিনি সব জানেন, তিনি আপনার জীবন সবচেয়ে সুন্দরভাবে পরিচালনা করবেন।",
+  "themes": [
+    "tawhid",
+    "omniscience",
+    "divine-oneness"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The only deity worthy of worship is Allah, whose knowledge encompasses all creation.",
+      "claim_bn": "একমাত্র সত্য উপাস্য হলেন আল্লাহ, যাঁর জ্ঞান সমগ্র বিশ্বজগতকে পরিপূর্ণভাবে পরিবেষ্টন করে আছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

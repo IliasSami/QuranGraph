@@ -1,0 +1,88 @@
+{
+ "id": "71:2",
+ "simple_en": "Nuh (peace be upon him) then spoke to his people directly. He called them his own people and told them he was a clear warner. His message was not hidden or confusing. He warned them about a punishment that waited for them if they did not turn back to Allah.",
+ "simple_bn": "এরপর নূহ (আলাইহিস সালাম) সরাসরি তাঁর সম্প্রদায়ের সাথে কথা বললেন। তিনি তাদেরকে ‘হে আমার সম্প্রদায়’ বলে ডাকলেন এবং জানালেন যে, তিনি তাদের জন্য একজন স্পষ্ট সতর্ককারী। তাঁর বার্তা অস্পষ্ট ছিল না, বরং পরিষ্কার ছিল। তিনি তাদের সতর্ক করলেন যে, যদি তারা আল্লাহর কাছে ফিরে না আসে, তবে তাদের জন্য শাস্তি অপেক্ষা করছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "قوم",
+   "lemma": "قَوْم",
+   "meaning_en": "O my people",
+   "meaning_bn": "হে আমার সম্প্রদায়",
+   "why_en": "Shows Nuh's care: he addresses them as his own people, not as strangers."
+  },
+  {
+   "pos": 5,
+   "root": "نذر",
+   "lemma": "نَذِير",
+   "meaning_en": "warner",
+   "meaning_bn": "সতর্ককারী",
+   "why_en": "Describes his role: he alerts them to danger before it comes."
+  },
+  {
+   "pos": 6,
+   "root": "بين",
+   "lemma": "مُبِين",
+   "meaning_en": "clear",
+   "meaning_bn": "স্পষ্ট",
+   "why_en": "Marks that his warning was plain, open and easy to understand."
+  }
+ ],
+ "lesson_en": "A sincere warning spoken plainly is a kindness, even when the hearer does not want it.",
+ "lesson_bn": "আন্তরিকভাবে স্পষ্ট করে বলা সতর্কবার্তা এক ধরনের দয়া, যদিও শ্রোতা তা পছন্দ না করে।",
+ "real_life_en": "A coworker sees a friend drifting toward a debt trap and says plainly, \"I am telling you this because I care.\" The friend may feel uncomfortable at first, but the clear warning gives him a chance to stop before the damage grows.",
+ "real_life_bn": "একজন সহকর্মী দেখলেন, তাঁর বন্ধু ঋণের ফাঁদে পড়তে চলেছেন। তিনি স্পষ্ট করে বলেন, ‘আমি এ কথা বলছি কারণ তোমার মঙ্গল চাই।’ বন্ধু প্রথমে অস্বস্তি বোধ করতে পারেন, তবে এই পরিষ্কার সতর্কবার্তা তাকে ক্ষতির আগেই থামার সুযোগ দেয়।",
+ "themes": [
+  "stories of the prophets",
+  "warning",
+  "guidance"
+ ],
+ "kinds": [
+  "story",
+  "warning",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "nuh"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Nuh addressed his people as his own people and told them he was a clear warner.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "His warning was plain and easy to understand.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "He warned them of the punishment that awaited them if they did not repent.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

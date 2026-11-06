@@ -1,0 +1,86 @@
+{
+  "id": "50:24",
+  "simple_en": "Allah will speak to the two angels, the driver and the witness. He will say: Cast into Hell every stubborn person. Throw in all who denied the truth and refused to follow guidance.",
+  "simple_bn": "মহান আল্লাহ চালনাকারী ও সাক্ষ্যদাতা ফেরেশতাদ্বয়কে নির্দেশ দেবেন: তোমরা জাহান্নামে নিক্ষেপ করো প্রত্যেক উদ্ধত ও গোঁড়া সত্য অস্বীকারকারীকে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "لقي",
+      "lemma": "أَلْقَى",
+      "meaning_en": "cast or throw",
+      "meaning_bn": "নিক্ষেপ করো",
+      "why_en": "The divine command to the angels to place the stubborn denier into punishment."
+    },
+    {
+      "pos": 3,
+      "root": null,
+      "lemma": "جَهَنَّم",
+      "meaning_en": "Hell",
+      "meaning_bn": "জাহান্নাম",
+      "why_en": "The place of retribution for those who rebelled against Allah."
+    },
+    {
+      "pos": 5,
+      "root": "كفر",
+      "lemma": "كَفّار",
+      "meaning_en": "persistent disbeliever",
+      "meaning_bn": "উগ্র কাফির বা ঘোর অবিশ্বাসী",
+      "why_en": "Someone deeply rooted in rejecting faith and denying blessings."
+    },
+    {
+      "pos": 6,
+      "root": "عند",
+      "lemma": "عَنِيد",
+      "meaning_en": "stubborn and obstinate",
+      "meaning_bn": "গোঁড়া বা উদ্ধত অবাধ্য",
+      "why_en": "Resisting the truth stubbornly even after it is clearly explained."
+    }
+  ],
+  "lesson_en": "Beware of stubborn pride. Refusing to accept the truth leads to severe ruin.",
+  "lesson_bn": "অহংকার ও একগুঁয়েমি বর্জন করুন, সত্যের অবাধ্যতা মানুষকে করুণ পরিণতির দিকে ঠেলে দেয়।",
+  "real_life_en": "When you realize you are wrong in an argument, admit it politely. Do not let pride keep you in error.",
+  "real_life_bn": "তর্কে নিজের ভুল বুঝতে পারলে জেদ ধরে না রেখে নম্রভাবে তা স্বীকার করে নিন।",
+  "context_en": "The verdict of punishment is issued against stubborn deniers of the truth.",
+  "context_bn": "সত্য প্রত্যাখ্যানকারী অহংকারীদের বিরুদ্ধে জাহান্নামে নিক্ষেপের চূড়ান্ত ফায়সালা শোনানো হয়েছে।",
+  "themes": [
+    "Hell",
+    "punishment",
+    "disbelief",
+    "arrogance"
+  ],
+  "kinds": [
+    "command",
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels",
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah commands the angels to throw every stubborn, persistent disbeliever into Hell.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

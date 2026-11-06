@@ -1,0 +1,68 @@
+{
+  "id": "34:6",
+  "simple_en": "People with sound knowledge know the Quran is true. They see that what Allah sent to the Prophet is the real truth. It guides people straight to the path of the Almighty, the Praiseworthy.",
+  "simple_bn": "যাদেরকে খাঁটি জ্ঞান দান করা হয়েছে, তারা উপলব্ধি করে যে নবীর প্রতি অবতীর্ণ কুরআনই পরম সত্য। তারা জানে যে এই কিতাব পরাক্রমশালী ও প্রশংসিত আল্লাহর সরল পথের দিকে আহ্বান করে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "علم",
+      "lemma": "عِلْم",
+      "meaning_en": "knowledge",
+      "meaning_bn": "জ্ঞান",
+      "why_en": "Shows that sound knowledge naturally leads an open mind to recognize the Quran."
+    },
+    {
+      "pos": 15,
+      "root": "عزز",
+      "lemma": "عَزِيز",
+      "meaning_en": "the Praiseworthy",
+      "meaning_bn": "প্রশংসিত",
+      "why_en": "Refers to Allah's divine name Al-Hamid, worthy of all gratitude."
+    }
+  ],
+  "lesson_en": "Sound knowledge opens the heart to recognize the Quran as divine truth.",
+  "lesson_bn": "সঠিক জ্ঞান মানুষের অন্তরকে উন্মুক্ত করে এবং কুরআনকে ঐশী সত্য হিসেবে চিনতে সাহায্য করে।",
+  "real_life_en": "Seek beneficial knowledge with humility. When you learn with a sincere heart, you see how well the teachings of Islam guide daily life.",
+  "real_life_bn": "নম্রতার সাথে উপকারী জ্ঞান অর্জন করুন। আন্তরিকভাবে দ্বীন শিখলে আপনি বুঝতে পারবেন ইসলাম কীভাবে জীবনকে সুন্দরভাবে পথ দেখায়।",
+  "themes": [
+    "knowledge",
+    "the Quran",
+    "guidance",
+    "names and attributes of Allah"
+  ],
+  "kinds": [
+    "belief",
+    "praise"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-aziz",
+      "al-hamid",
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Those given knowledge recognize that the revelation sent to the Prophet is the truth guiding to the path of Al-Aziz, Al-Hamid.",
+      "claim_bn": "জ্ঞানপ্রাপ্ত ব্যক্তিরা নিশ্চিতভাবে জানে যে রাসূলের প্রতি অবতীর্ণ বাণী সত্য এবং তা পরাক্রমশালী ও প্রশংসিত আল্লাহর পথের দিশা দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

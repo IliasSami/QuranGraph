@@ -1,0 +1,80 @@
+{
+  "id": "5:106",
+  "simple_en": "When someone is near death and makes a will, two honest Muslims should witness it. If death occurs during travel and no Muslims are near, two others may witness. If the family doubts their honesty, both witnesses swear by Allah after prayer. They swear that they will not lie for money or favor any relative, nor hide the truth.",
+  "simple_bn": "তোমাদের কারো মৃত্যু ঘনিয়ে এলে অসিয়ত করার সময় তোমাদের মধ্য থেকে দুজন ন্যায়পরায়ণ মুসলিমকে সাক্ষী রাখো। আর যদি তোমরা সফরে থাক এবং মৃত্যু উপস্থিত হয়, তবে অন্য দুজনকেও সাক্ষী রাখা যায়। যদি সন্দেহ হয়, তবে সালাতের পর তারা আল্লাহর নামে শপথ করে বলবে যে তারা কোনো মূল্যের বিনিময়ে বা আত্মীয়ের খাতিরে সত্য গোপন করবে না।",
+  "key_words": [
+    {
+      "pos": 11,
+      "root": "وصي",
+      "lemma": "وَصِيَّة",
+      "meaning_en": "bequest / will",
+      "meaning_bn": "অসিয়ত",
+      "why_en": "Directs believers to arrange clear witnesses when making a will before death."
+    },
+    {
+      "pos": 14,
+      "root": "عدل",
+      "lemma": "عَدْل",
+      "meaning_en": "just / upright",
+      "meaning_bn": "ন্যায়পরায়ণ",
+      "why_en": "Specifies the essential quality required of reliable witnesses."
+    },
+    {
+      "pos": 35,
+      "root": "ريب",
+      "lemma": "ارْتابَ",
+      "meaning_en": "you doubt",
+      "meaning_bn": "তোমরা সন্দেহ করো",
+      "why_en": "Sets the condition where an oath under solemn circumstances becomes necessary."
+    }
+  ],
+  "lesson_en": "Always make your will before honest witnesses and speak the truth.",
+  "lesson_bn": "মৃত্যুর পূর্বে অসিয়ত করার সময় বিশ্বস্ত সাক্ষী রাখা এবং সত্য সাক্ষ্য রক্ষা করা জরুরি।",
+  "real_life_en": "Before going away on a trip, a person lists his debts and wealth before two honest friends. This protects his family from fights if he dies while away.",
+  "real_life_bn": "দূরে সফরে যাওয়ার আগে কোনো ব্যক্তি তার ঋণ ও সম্পদ বিশ্বস্ত সাক্ষীদের উপস্থিতিতে লিপিবদ্ধ করে রাখেন। এর ফলে কোনো দুর্ঘটনা ঘটলেও তার পরিবার বিরোধ থেকে রক্ষা পায়।",
+  "context_en": "Establishes legal rulings for bequests and witnessing when facing death during journeys.",
+  "context_bn": "সফর অবস্থায় মৃত্যু ঘনিয়ে এলে অসিয়ত ও সাক্ষ্যের সুনির্দিষ্ট বিধান বর্ণনা করা হয়েছে।",
+  "themes": [
+    "justice",
+    "honesty",
+    "death"
+  ],
+  "kinds": [
+    "law",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "will / bequest"
+    ]
+  },
+  "claims": [
+    {
+      "text": "A will made near death should be witnessed by two just Muslims, or two non-Muslims if traveling without Muslim companions.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "If doubt arises regarding their testimony, the witnesses must swear a solemn oath by Allah after prayer not to take bribes or hide the truth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

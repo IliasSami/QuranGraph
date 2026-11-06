@@ -1,0 +1,76 @@
+{
+ "id": "76:8",
+ "simple_en": "These righteous servants give food to others even when they love and need it themselves. They share what they have with the poor, the orphan who lost a parent, and the helpless captive. They put the needs of the weak before their own.",
+ "simple_bn": "এই নেককার বান্দারা নিজেদের খাদ্যের প্রয়োজন থাকা সত্ত্বেও তা অন্যদের খাওয়ায়। তারা অভাবী মানুষ, পিতৃহীন এতিম এবং অসহায় বন্দীদের আহার করায়। নিজেদের চাহিদার চেয়ে তারা দুর্বলদের প্রয়োজনকে অগ্রাধিকার দেয়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "طعم",
+   "lemma": "أَطْعَمَ",
+   "meaning_en": "they feed",
+   "meaning_bn": "তারা খাবার খাওয়ায়",
+   "why_en": "The noble act of sharing food with those in hunger."
+  },
+  {
+   "pos": 5,
+   "root": "سكن",
+   "lemma": "مِسْكِين",
+   "meaning_en": "the needy",
+   "meaning_bn": "অভাবগ্রস্ত",
+   "why_en": "A poor person whose means are not enough for basic needs."
+  },
+  {
+   "pos": 6,
+   "root": "يتم",
+   "lemma": "يَتِيم",
+   "meaning_en": "orphan",
+   "meaning_bn": "এতিম",
+   "why_en": "A child who has lost a father and needs community support."
+  },
+  {
+   "pos": 7,
+   "root": "أسر",
+   "lemma": "أَسِير",
+   "meaning_en": "captive",
+   "meaning_bn": "বন্দী",
+   "why_en": "A prisoner unable to provide for himself."
+  }
+ ],
+ "lesson_en": "True kindness means giving to the needy even when you desire what you give away.",
+ "lesson_bn": "প্রকৃত সদাচরণ হলো নিজের পছন্দের ও প্রয়োজনীয় জিনিসও অভাবীর সাথে ভাগ করে নেওয়া।",
+ "real_life_en": "You might pack a nice lunch or buy tasty fruit for yourself. When you see a hungry person on the street or an orphan in your area, sharing that food touches their heart. Giving when you also want something is true charity.",
+ "real_life_bn": "নিজের জন্য হয়তো আপনি ভালো খাবার তৈরি করেছেন। এমন সময় কোনো ক্ষুধার্ত ব্যক্তি বা এতিম শিশুকে দেখলে সেই খাবার তার সাথে ভাগ করে নিন। নিজের পছন্দের জিনিস দান করার মধ্যেই রয়েছে প্রকৃত দানশীলতা।",
+ "themes": [
+  "charity",
+  "orphans",
+  "the believers' qualities"
+ ],
+ "kinds": [
+  "ethics",
+  "worship"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The believers feed the poor, the orphan, and the captive despite their own love and desire for food.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

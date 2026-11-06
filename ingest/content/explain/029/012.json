@@ -1,0 +1,70 @@
+{
+  "id": "29:12",
+  "simple_en": "Disbelievers tell the believers to follow their wrongful way and promise to carry their sins. But they cannot carry any sins of others. They are simply telling lies to mislead people from the truth.",
+  "simple_bn": "কাফেররা মুমিনদের বলে যে তোমরা আমাদের পথ অনুসরণ করো তাহলে আমরা তোমাদের পাপের বোঝা বহন করব। অথচ তারা অন্যের পাপের সামান্য অংশও বহন করতে পারবে না। তারা সম্পূর্ণ মিথ্যা কথা বলে বিভ্রান্তি ছড়ায়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "كَفَرُوا۟",
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "disbelieved",
+      "meaning_bn": "কুফরি করেছে",
+      "why_en": "Those who reject divine truth and invite others to wrongdoing."
+    },
+    {
+      "pos": 9,
+      "arabic": "خَطَٰيَٰكُمْ",
+      "root": "خطأ",
+      "lemma": "خَطِيئَة",
+      "meaning_en": "your sins",
+      "meaning_bn": "তোমাদের পাপসমূহ",
+      "why_en": "Misdeeds which disbelievers falsely promise to carry for others."
+    }
+  ],
+  "lesson_en": "No one can carry the sins of another person. False promises cannot save anyone on the Day of Judgment.",
+  "lesson_bn": "পরকালে কেউ কারো পাপের দায়িত্ব নেবে না। মিথ্যা প্রলোভনে পড়ে পথভ্রষ্ট হওয়া উচিত নয়।",
+  "real_life_en": "Never follow bad advice that breaks God's commands. Remember that each soul is personally responsible for its own choices.",
+  "real_life_bn": "কারো ভুল আশ্বাসে প্রভাবিত হয়ে পাপ কাজে জড়াবেন না। মনে রাখবেন নিজের কাজের জবাবদিহিতা নিজেকেই করতে হবে।",
+  "themes": [
+    "accountability",
+    "falsehood",
+    "disbelief"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Disbelievers",
+      "Believers"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hereafter"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Disbelievers falsely claim they will carry the sins of believers, but each soul is responsible for its own deeds.",
+      "claim_bn": "কাফেররা দাবি করে তারা মুমিনদের পাপ বহন করবে, অথচ কেউ কারো পাপের বোঝা বহন করতে পারবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

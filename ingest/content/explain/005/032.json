@@ -1,0 +1,99 @@
+{
+ "id": "5:32",
+ "simple_en": "Because of this first murder, Allah set a solemn rule for humanity. Taking one innocent life without just cause is as evil as killing all people. When someone spares or saves a life, it is as noble as saving everyone. Allah sent prophets with clear signs to teach this truth. Yet many people still crossed the limits and harmed others.",
+ "simple_bn": "প্রথম অন্যায় হত্যাকাণ্ডের পর আল্লাহ মানবজাতির জন্য এক কঠোর বিধান দিলেন। কোনো সংগত কারণ ছাড়া একজন নির্দোষ মানুষকে হত্যা করা গোটা মানবজাতিকে হত্যা করার শামিল। আর যে ব্যক্তি একটি মানুষের জীবন রক্ষা করল, সে যেন সমস্ত মানুষকে বাঁচাল। রাসূলগণ সুস্পষ্ট নিদর্শন নিয়ে এসেছিলেন, তবুও বহু লোক যমীনে সীমালঙ্ঘন করে গেল।",
+ "key_words": [
+  {
+   "pos": 10,
+   "root": "قتل",
+   "lemma": "قَتَلَ",
+   "meaning_en": "kills",
+   "meaning_bn": "হত্যা করে",
+   "why_en": "The act of taking innocent human life without legal right."
+  },
+  {
+   "pos": 11,
+   "root": "نفس",
+   "lemma": "نَفْس",
+   "meaning_en": "a soul / person",
+   "meaning_bn": "কোনো প্রাণ",
+   "why_en": "Emphasizes that every single human life has sacred value before Allah."
+  },
+  {
+   "pos": 15,
+   "root": "فسد",
+   "lemma": "فَساد",
+   "meaning_en": "corruption",
+   "meaning_bn": "ফাসাদ / বিপর্যয়",
+   "why_en": "Refers to acts like armed robbery and chaos that destroy society."
+  },
+  {
+   "pos": 23,
+   "root": "حيي",
+   "lemma": "أَحْيا",
+   "meaning_en": "saves / gives life to it",
+   "meaning_bn": "প্রাণ রক্ষা করে",
+   "why_en": "Shows the immense divine reward for preserving and protecting human life."
+  }
+ ],
+ "lesson_en": "Every human life is sacred in the sight of Allah. Protecting life is among the greatest virtues.",
+ "lesson_bn": "আল্লাহর কাছে প্রতিটি মানুষের প্রাণ অত্যন্ত মূল্যবান। জীবন রক্ষা করা শ্রেষ্ঠতম সৎকাজের একটি।",
+ "real_life_en": "A medic pulls an injured child to safety. Nearby, a mentor talks an angry youth out of a fight. Both act to save innocent lives. Allah gives a rich reward to anyone who protects life.",
+ "real_life_bn": "একজন চিকিৎসক অক্লান্ত পরিশ্রমে এক শিশুকে মৃত্যুর হাত থেকে বাঁচান। পাশেই একজন ব্যক্তি এক ক্ষুব্ধ তরুণকে মারামারি থেকে ফিরিয়ে আনেন। উভয়েই নিরীহ মানুষের প্রাণ রক্ষা করেন। আল্লাহ জীবন রক্ষাকারীকে মহা পুরস্কার দান করেন।",
+ "context_en": "Establishes the supreme sanctity of human life right after the story of the first murder committed by Cain.",
+ "context_bn": "কাবীলের দ্বারা সংঘটিত প্রথম হত্যাকাণ্ডের বর্ণনার পর মানবজীবনের পরম পবিত্রতা ও মূল্য তুলে ধরা হয়েছে।",
+ "themes": [
+  "justice",
+  "ethics",
+  "human nature",
+  "Children of Israel",
+  "warning"
+ ],
+ "kinds": [
+  "law",
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Because of Cain's crime, Allah decreed that taking an innocent life without just cause is like slaying all of humanity.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Preserving a human life from destruction is like saving all of humanity.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Even after clear proofs came through messengers, many people still transgressed limits on earth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

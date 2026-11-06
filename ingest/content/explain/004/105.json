@@ -1,0 +1,107 @@
+{
+ "id": "4:105",
+ "simple_en": "Allah sent down the Book with truth to the Prophet Muhammad ﷺ. He was sent to judge between people with the light that Allah taught him. A judge must never follow personal desire. Never take the side of deceitful people who break trust and cheat others.",
+ "simple_bn": "মহান আল্লাহ সত্যসহ তাঁর রাসূলের ওপর এই কিতাব নাযিল করেছেন, যাতে তিনি আল্লাহর শেখানো জ্ঞান ও বিধান অনুযায়ী মানুষের মধ্যে ন্যায়বিচার প্রতিষ্ঠা করেন। বিচার করার ক্ষেত্রে কোনো পক্ষপাতিত্ব করা যাবে না। আর যারা আমানত খিয়ানত করে এবং প্রতারণার আশ্রয় নেয়, তাদের পক্ষে কখনো ওকালতি বা সাফাই গাওয়া যাবে না।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "حكم",
+   "lemma": "حَكَمَ",
+   "meaning_en": "so that you judge",
+   "meaning_bn": "যাতে আপনি বিচার মীমাংসা করেন",
+   "why_en": "Highlights the primary mission of revelation to establish fair judicial decisions among mankind."
+  },
+  {
+   "pos": 10,
+   "root": "رأي",
+   "lemma": "رَأَى",
+   "meaning_en": "has shown you",
+   "meaning_bn": "আপনাকে দেখিয়েছেন / জানিয়েছেন",
+   "why_en": "Refers to the divine insight, inspiration, and legal principles taught by Allah."
+  },
+  {
+   "pos": 14,
+   "root": "خون",
+   "lemma": "خائِن",
+   "meaning_en": "for the deceitful / traitors",
+   "meaning_bn": "বিশ্বাসভঙ্গকারীদের জন্য",
+   "why_en": "Warns against those who breach trusts and falsely blame others for their theft."
+  },
+  {
+   "pos": 15,
+   "root": "خصم",
+   "lemma": "خَصِيم",
+   "meaning_en": "an advocate / pleader",
+   "meaning_bn": "তর্ককারী বা সমর্থক",
+   "why_en": "Forbids taking up a legal case to defend someone who is actually guilty of treachery."
+  }
+ ],
+ "lesson_en": "Stand for pure justice. Never defend someone who cheats or breaks a trust.",
+ "lesson_bn": "ঐশী বিধানের আলোকে ন্যায়বিচার বজায় রাখুন এবং আমানত বিনষ্টকারী কোনো অপরাধীর পক্ষে সাফাই গাইবেন না।",
+ "real_life_en": "If a friend or relative steals at work, do not lie to protect them. Tell the truth with courage, because justice is dear to Allah.",
+ "real_life_bn": "কর্মক্ষেত্রে বা পরিবারে কোনো আত্মীয় বা বন্ধু দুর্নীতি করলে মিথ্যা কথা বলে তাকে বাঁচাতে যাবেন না। নিজের মানুষের ভুল হলেও সত্যের পক্ষে থাকুন এবং ন্যায়বিচার বজায় রাখুন।",
+ "context_en": "This verse begins an address regarding an incident where a person stole property and falsely accused an innocent person to cover up the crime.",
+ "context_bn": "এই আয়াতটি একটি চুরির ঘটনার পটভূমিতে অবতীর্ণ হয়, যেখানে প্রকৃত চোর নিজেকে বাঁচাতে এক নির্দোষ ব্যক্তির ওপর দোষ চাপিয়েছিল।",
+ "themes": [
+  "justice",
+  "honesty",
+  "the Quran",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Quran was revealed in truth to judge among people through divine knowledge and inspiration.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Believers and judges are strictly forbidden from defending the deceitful or advocating for traitors.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Judicial decisions must follow divine truth rather than personal inclination or deceitful testimony.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": {
+  "text_en": "Revealed when a man named Tu'mah ibn Ubayriq stole a coat of chain mail, hid it with a Jewish man, and falsely accused him to escape blame.",
+  "text_bn": "ত্বো'মা ইবনে উবাইরিক নামের এক ব্যক্তি একটি বর্ম চুরি করে তা এক ইহুদির কাছে লুকিয়ে রেখে সেই নির্দোষ ইহুদি ব্যক্তির ওপর চুরির অপবাদ দিয়েছিল।",
+  "sources": [
+   "g-en-jalalayn",
+   "g-en-maarif"
+  ],
+  "strength": "reported"
+ },
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

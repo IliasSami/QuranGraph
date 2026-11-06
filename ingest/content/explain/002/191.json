@@ -1,0 +1,97 @@
+{
+ "id": "2:191",
+ "simple_en": "Fight the aggressive enemies in battle wherever you confront them, and drive them out from Makkah just as they drove you out. Oppression and forcing believers away from their faith is far worse than killing. Out of respect for al-Masjid al-Haram, do not fight them there unless they attack you first. If they attack you in the sacred area, defend yourselves and fight back. That is the fair outcome for those who initiate hostility.",
+ "simple_bn": "তোমাদের বিরুদ্ধে যুদ্ধরত শত্রুদের যেখানেই মুখোমুখি পাও লড়াই করো, এবং তারা যেখান থেকে তোমাদের বের করে দিয়েছিল—অর্থাৎ মক্কা থেকে—তোমরাও তাদের বের করে দাও। মানুষকে দ্বীন থেকে ফিরিয়ে রাখার ফিতনা ও নির্যাতন হত্যার চেয়েও বড় অপরাধ। তবে মসজিদুল হারামের পবিত্রতার খাতিরে সেখানে তাদের সাথে যুদ্ধ শুরু করো না, যতক্ষণ না তারা সেখানে তোমাদের ওপর আক্রমণ করে। কিন্তু তারা যদি পবিত্র এলাকায় যুদ্ধ শুরু করে, তবে আত্মরক্ষার্থে তোমরা তাদের বিরুদ্ধে লড়াই করো। সীমালঙ্ঘনকারী কাফিরদের প্রতিফল এমনই।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "ثقف",
+   "lemma": "ثُقِفُ",
+   "meaning_en": "you confront them (in battle)",
+   "meaning_bn": "তোমরা তাদের মুখোমুখি পাও",
+   "why_en": "Refers to confronting the hostile combatants during legitimate conflict."
+  },
+  {
+   "pos": 8,
+   "root": "فتن",
+   "lemma": "فِتْنَة",
+   "meaning_en": "oppression and persecution",
+   "meaning_bn": "ফিতনা (ধর্মীয় নির্যাতন ও বিভ্রান্তি)",
+   "why_en": "Highlights that persecuting believers away from their faith is far worse than slaying in battle."
+  },
+  {
+   "pos": 16,
+   "root": "حرم",
+   "lemma": "حَرام",
+   "meaning_en": "the Sacred",
+   "meaning_bn": "পবিত্র ও সম্মানিত",
+   "why_en": "Affirms the sacred inviolability of the Sanctuary where fighting is prohibited unless attacked."
+  }
+ ],
+ "lesson_en": "Stand up against oppression and defend what is right, but always honor Allah's limits.",
+ "lesson_bn": "অন্যায় ও ধর্মীয় নিপীড়নের বিরুদ্ধে রুখে দাঁড়ানো জরুরি, তবে যে কোনো পরিস্থিতিতে আল্লাহর নির্ধারিত সীমা ও পবিত্রতার মর্যাদা রক্ষা করতে হবে।",
+ "real_life_en": "If someone treats you unfairly at work or school, stand up for your rights with calm strength. Speak up and seek fair help. Do not insult them back or take revenge by doing wrong.",
+ "real_life_bn": "কর্মক্ষেত্রে বা সমাজে কোনো অন্যায় আক্রমণ বা জুলুমের শিকার হলে শান্তভাবে ন্যায়ের পক্ষে দাঁড়ান। নিজের আত্মমর্যাদা রক্ষা করুন, কিন্তু প্রতিশোধ নিতে গিয়ে কখনোই সীমা অতিক্রম কিংবা অন্যায় আচরণ করবেন না।",
+ "context_en": "Continues the rules of defensive warfare established in verse 190, balancing the right to repel aggression with the sanctity of the Sacred Mosque.",
+ "context_bn": "১৯০ নম্বর আয়াতে বর্ণিত আত্মরক্ষামূলক যুদ্ধের ধারাবাহিকতায় আগ্রাসন প্রতিহত করার অধিকার এবং মসজিদুল হারামের পবিত্রতা রক্ষার বিধান স্পষ্ট করা হয়েছে।",
+ "themes": [
+  "struggle in Allah's way",
+  "justice",
+  "peace",
+  "disbelief",
+  "trials"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "polytheists"
+  ],
+  "places": [
+   "al-Masjid al-Haram",
+   "Makkah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are commanded to fight hostile combatants in legitimate warfare and expel them from Makkah as they expelled the Muslims.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Religious persecution, shirk, and coercing believers away from their faith (fitnah) is a greater evil than killing in battle.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Fighting within the sanctuary of al-Masjid al-Haram is prohibited unless the hostile forces initiate fighting there first.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

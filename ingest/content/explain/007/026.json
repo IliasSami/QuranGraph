@@ -1,0 +1,87 @@
+{
+ "id": "7:26",
+ "simple_en": "Allah gave clothing to all children of Adam as a great blessing. Clothes cover the body and add beauty. Yet the garment of piety and fear of Allah is best of all. These gifts are signs from Allah, so people may remember and give thanks.",
+ "simple_bn": "আল্লাহ মানবজাতিকে সম্বোধন করে এক বড় নিয়ামতের কথা স্মরণ করিয়ে দিয়েছেন। তিনি লজ্জাস্থান আবৃত করার জন্য পোশাক এবং সৌন্দর্য প্রকাশের উপকরণ দিয়েছেন। তবে সব বাহ্যিক পোশাকের চেয়ে তাকওয়ার পোশাকই শ্রেষ্ঠ, যা হলো আল্লাহর আদেশ পালন ও নিষেধ বর্জন করা। এসব আল্লাহর নিদর্শন, যাতে মানুষ শিক্ষা গ্রহণ করে।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "لبس",
+   "lemma": "لِباس",
+   "meaning_en": "clothing",
+   "meaning_bn": "পোশাক",
+   "why_en": "Refers to clothing granted by Allah to cover human nakedness."
+  },
+  {
+   "pos": 9,
+   "root": "ريش",
+   "lemma": "رِيش",
+   "meaning_en": "adornment / fine garments",
+   "meaning_bn": "সৌন্দর্য ও শোভাবর্ধক পোশাক",
+   "why_en": "Denotes clothing used for beauty and dignity beyond mere covering."
+  },
+  {
+   "pos": 11,
+   "root": "وقي",
+   "lemma": "تَقْوَى",
+   "meaning_en": "God-consciousness / piety",
+   "meaning_bn": "তাকওয়া / খোদাভীতি",
+   "why_en": "Highlights the spiritual garment of faith and righteousness as the best covering."
+  }
+ ],
+ "lesson_en": "Clothes cover your body. Yet faith and fear of Allah are the best garments.",
+ "lesson_bn": "বাহ্যিক পোশাক দেহ আবৃত করে, কিন্তু তাকওয়ার পোশাক অন্তরকে সুন্দর ও সুরক্ষিত রাখে।",
+ "real_life_en": "Dress in clean and modest clothes. At the same time, take deep care of your heart. Stay away from pride, fear Allah in private, and fill your days with good deeds.",
+ "real_life_bn": "শালীন ও মার্জিত পোশাক পরার পাশাপাশি নিজের চরিত্রের পবিত্রতা রক্ষা করুন। লোকদেখানো সাজসজ্জার চেয়ে তাকওয়া অর্জন ও অন্তরের পরিচ্ছন্নতা বজায় রাখাকে বেশি গুরুত্ব দিন।",
+ "context_en": "Allah addresses humanity directly, establishing the blessing of clothing and the supremacy of spiritual piety.",
+ "context_bn": "আল্লাহ বনি আদমকে সম্বোধন করে বাহ্যিক পোশাকের নেয়ামতের পাশাপাশি তাকওয়ার অভ্যন্তরীণ পোশাকের শ্রেষ্ঠত্ব তুলে ধরেছেন।",
+ "themes": [
+  "modesty",
+  "clothing",
+  "taqwa",
+  "blessings of Allah"
+ ],
+ "kinds": [
+  "address",
+  "ethics",
+  "law",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [
+   "children of Adam"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "clothing"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah provided humanity with basic clothing to cover nakedness and fine garments for beautification.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The garment of righteousness and piety is far superior to mere outward garments.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

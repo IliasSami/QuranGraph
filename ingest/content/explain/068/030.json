@@ -1,0 +1,58 @@
+{
+  "id": "68:30",
+  "simple_en": "Then they turned toward one another in grief and sorrow. They began to argue and blame each other for their foolish plan to hide the crops.",
+  "simple_bn": "অতঃপর তারা পরস্পরের দিকে এগিয়ে গিয়ে একে অপরকে তিরস্কার ও দোষারোপ করতে লাগল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قبل",
+      "lemma": "أَقْبَلَ",
+      "meaning_en": "they turned toward",
+      "meaning_bn": "তারা অগ্রসর হলো",
+      "why_en": "Describes the brothers confronting each other in grief."
+    },
+    {
+      "pos": 5,
+      "root": "لوم",
+      "lemma": "يَتَلاوَمُ",
+      "meaning_en": "blaming each other",
+      "meaning_bn": "পরস্পরকে দোষারোপ করতে লাগল",
+      "why_en": "Portrays the natural tendency to shift blame after a selfish plan fails."
+    }
+  ],
+  "lesson_en": "Take blame for your own mistakes instead of pointing fingers at others.",
+  "lesson_bn": "ভুল সিদ্ধান্তের পর অন্যদের ওপর দোষ না চাপিয়ে সম্মিলিতভাবে সমাধানের পথ খোঁজা উচিত।",
+  "real_life_en": "A student group turns in a sloppy project and gets a low grade. Instead of shouting at each other, they talk calmly. They plan to work better next time.",
+  "real_life_bn": "ব্যর্থতার সময় একে অপরকে দোষারোপ করলে সমস্যা আরও বাড়ে। পারস্পরিক দোষারোপ পরিহার করে আন্তরিকভাবে শুধরে নেওয়াই বুদ্ধিমানের কাজ।",
+  "themes": [
+    "family",
+    "repentance",
+    "ethics"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers turned on one another with mutual blame for their greed and transgression.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

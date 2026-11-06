@@ -1,0 +1,75 @@
+{
+  "id": "9:17",
+  "simple_en": "It is not right for idolaters to care for the mosques of Allah while admitting their own disbelief. All their deeds are lost, and they will stay in the Fire forever.",
+  "simple_bn": "মুশরিকদের পক্ষে আল্লাহর মসজিদগুলোর রক্ষণাবেক্ষণ বা আবাদ করা সমীচীন নয়, যখন তারা নিজেরাই নিজেদের কুফরির সাক্ষ্য দিচ্ছে। তাদের সব কাজই নিষ্ফল হয়েছে এবং তারা চিরকাল আগুনে অবস্থান করবে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "عمر",
+      "lemma": "عَمَرُ",
+      "meaning_en": "maintain / build",
+      "meaning_bn": "আবাদ করা / রক্ষণাবেক্ষণ করা",
+      "why_en": "Attending, honoring, and preserving sacred houses of worship."
+    },
+    {
+      "pos": 6,
+      "root": "سجد",
+      "lemma": "مَسْجِد",
+      "meaning_en": "mosques",
+      "meaning_bn": "মসজিদসমূহ",
+      "why_en": "Sanctuaries dedicated solely to the monotheistic worship of Allah."
+    },
+    {
+      "pos": 13,
+      "root": "حبط",
+      "lemma": "حَبِطَ",
+      "meaning_en": "became worthless / void",
+      "meaning_bn": "নষ্ট হয়ে গেল / বাতিল হলো",
+      "why_en": "Good deeds nullified due to idol worship and spiritual denial."
+    }
+  ],
+  "lesson_en": "Places of worship belong to sincere hearts, not proud deniers.",
+  "lesson_bn": "পবিত্র স্থানসমূহের পরিচালনা ও সেবা কেবল তাদের দ্বারাই মানায় যাদের অন্তরে খাঁটি বিশ্বাস ও সততা রয়েছে।",
+  "real_life_en": "Put honest, humble people in charge of charity funds, not those seeking fame and personal glory.",
+  "real_life_bn": "দাতব্য বা ধর্মীয় সেবামূলক কাজের দায়িত্ব এমন ব্যক্তিদের হাতে অর্পণ করা উচিত যারা সেই আদর্শের প্রতি ভেতর থেকে অনুগত।",
+  "themes": [
+    "mosques",
+    "spiritual stewardship",
+    "worthless deeds"
+  ],
+  "kinds": [
+    "law",
+    "warning",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [
+      "Fire"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Idolaters had no right to oversee or maintain Allah's mosques because polytheism invalidates spiritual stewardship.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "15:94",
+  "simple_en": "Proclaim openly what you are commanded by Allah, and turn away from those who worship false idols. Preach the clear truth without any fear or hesitation.",
+  "simple_bn": "আপনাকে যে বিষয়ের আদেশ দেওয়া হয়েছে তা প্রকাশ্যে প্রচার করুন এবং মুশরিকদের থেকে মুখ ফিরিয়ে নিন। কোনো দ্বিধা বা ভয় না করে সত্যের বাণী প্রচার করে যান।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "صدع",
+      "lemma": "اصْدَعْ",
+      "meaning_en": "declare openly",
+      "meaning_bn": "প্রকাশ্যে প্রচার করুন",
+      "why_en": "Publicly proclaiming the message of Islam."
+    },
+    {
+      "pos": 3,
+      "root": "أمر",
+      "lemma": "أَمَرَ",
+      "meaning_en": "you are commanded",
+      "meaning_bn": "আপনি আদেশপ্রাপ্ত হয়েছেন",
+      "why_en": "Carrying out the divine mandate."
+    },
+    {
+      "pos": 4,
+      "root": "عرض",
+      "lemma": "أَعْرَضَ",
+      "meaning_en": "and turn away",
+      "meaning_bn": "মুখ ফিরিয়ে নিন",
+      "why_en": "Ignoring the abuse of polytheists."
+    },
+    {
+      "pos": 6,
+      "root": "شرك",
+      "lemma": "مُشْرِك",
+      "meaning_en": "the polytheists",
+      "meaning_bn": "মুশরিকদের থেকে",
+      "why_en": "Those associating partners with Allah."
+    }
+  ],
+  "lesson_en": "Stand firm for the truth in public. Do not let the mockery of critics hold you back from doing what is right.",
+  "lesson_bn": "জনসমক্ষে সত্যের পক্ষে বলিষ্ঠ অবস্থান নিন। সমালোচকদের বিদ্রূপে ভয় পেয়ে ভালো কাজ বন্ধ করবেন না।",
+  "real_life_en": "A doctor warns the public about fake pills sold in town. Corrupt sellers threaten him, but he keeps talking. He protects lives with brave words.",
+  "real_life_bn": "এক চিকিৎসক ভেজাল ওষুধের ক্ষতিকর দিক নিয়ে প্রকাশ্যে সবাইকে সচেতন করেন। অসাধু ব্যবসায়ীদের হুমকিতেও তিনি সত্য বলা থেকে পিছিয়ে যান না।",
+  "context_en": "The historic command marking the transition from private preaching to the public proclamation of Islam in Makkah.",
+  "context_bn": "গোপন দাওয়াতের পর মক্কায় প্রকাশ্যে ইসলামের দাওয়াত প্রচার শুরু করার ঐতিহাসিক ঐশী নির্দেশ।",
+  "themes": [
+    "dawah",
+    "courage",
+    "truth"
+  ],
+  "kinds": [
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet was ordered to publicly declare the message of Islam and disregard the polytheists.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

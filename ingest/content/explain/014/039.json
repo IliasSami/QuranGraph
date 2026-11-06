@@ -1,0 +1,90 @@
+{
+  "id": "14:39",
+  "simple_en": "All praise belongs to Allah, who gave me Ishmael and Isaac in my old age. Truly, my Lord is the Hearer of all prayer. Never give up hope in the mercy of your Creator.",
+  "simple_bn": "সমস্ত প্রশংসা আল্লাহর, যিনি বার্ধক্যে আমাকে ইসমাঈল ও ইসহাককে দান করেছেন। নিশ্চয় আমার রব বান্দার সকল দো'আ শ্রবণকারী। আল্লাহর রহমত থেকে কখনো নিরাশ হবেন না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "حمد",
+      "lemma": "حَمْد",
+      "meaning_en": "the praise",
+      "meaning_bn": "প্রশংসা",
+      "why_en": "Gratitude and glorification of God."
+    },
+    {
+      "pos": 4,
+      "root": "وهب",
+      "lemma": "وَهَبَ",
+      "meaning_en": "granted",
+      "meaning_bn": "দান করেছেন",
+      "why_en": "Bestowing a pure gift."
+    },
+    {
+      "pos": 7,
+      "root": "كبر",
+      "lemma": "كِبَر",
+      "meaning_en": "old age",
+      "meaning_bn": "বার্ধক্য",
+      "why_en": "Advanced years of life."
+    },
+    {
+      "pos": 12,
+      "root": "سمع",
+      "lemma": "سَمِيع",
+      "meaning_en": "Hearer of",
+      "meaning_bn": "শ্রবণকারী",
+      "why_en": "Responding to prayers."
+    },
+    {
+      "pos": 13,
+      "root": "دعو",
+      "lemma": "دُعاء",
+      "meaning_en": "supplication",
+      "meaning_bn": "দো'আ",
+      "why_en": "Heartfelt petition to Allah."
+    }
+  ],
+  "lesson_en": "Keep praying even when hopes seem gone. Allah answers prayers in miraculous ways.",
+  "lesson_bn": "সব আশা ফুরিয়ে গেছে মনে হলেও দো'আ চালিয়ে যান। আল্লাহ অপ্রত্যাশিত উপায়ে বান্দার প্রার্থনার জবাব দেন।",
+  "real_life_en": "A couple longs for a child for twelve years without success. Doctors tell them it is impossible. They keep making humble prayer with full trust in Allah. One day, a healthy baby is born.",
+  "real_life_bn": "দীর্ঘ বারো বছর ধরে এক দম্পতি নিঃসন্তান ছিলেন। চিকিৎসকরা আশা ছেড়ে দিলেও তারা আল্লাহর কাছে নিরন্তর দো'আ করে যান। অবশেষে আল্লাহ তাদের ঘরে এক ফুটফুটে সুস্থ সন্তান দান করেন।",
+  "context_en": "Ibrahim praising Allah for granting him righteous sons, Ismail and Ishaq, in his old age.",
+  "context_bn": "বার্ধক্যে পুত্রসন্তান ইসমাঈল ও ইসহাক লাভের পর ইবরাহীম (আ.)-এর শোকরগুজারি ও দো'আ কবুলিয়াতের ঘোষণা।",
+  "themes": [
+    "prophets",
+    "gratitude",
+    "dua",
+    "hope"
+  ],
+  "kinds": [
+    "praise",
+    "dua",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim",
+      "Isma'il",
+      "Ishaq"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Ibrahim praised Allah for gifting him Ismail and Isaac in old age, affirming that Allah hears all prayer.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

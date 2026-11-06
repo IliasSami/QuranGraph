@@ -1,0 +1,64 @@
+{
+  "id": "32:11",
+  "simple_en": "Tell them that the angel of death, who has been given charge over you, will take your soul when your time ends. After that, you will all be brought back to your Lord to answer for your deeds.",
+  "simple_bn": "তাদের বলে দিন, মৃত্যুর জন্য নিযুক্ত ফেরেশতা তোমাদের নির্ধারিত সময় পূর্ণ হলে প্রাণ হরণ করবেন। অতঃপর পার্থিব জীবন শেষে তোমাদের সবাইকে একমাত্র তোমাদের প্রতিপালকের কাছেই জবাবদিহিতার জন্য ফিরিয়ে আনা হবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ملك",
+      "lemma": "مَلَك",
+      "meaning_en": "the angel",
+      "meaning_bn": "ফেরেশতা",
+      "why_en": "The celestial being tasked with executing divine commands regarding souls."
+    },
+    {
+      "pos": 4,
+      "root": "موت",
+      "lemma": "مَوْت",
+      "meaning_en": "death",
+      "meaning_bn": "মৃত্যু",
+      "why_en": "The transition from worldly life to the intermediate realm."
+    }
+  ],
+  "lesson_en": "Death is certain for every soul, and the final return is to God alone.",
+  "lesson_bn": "মৃত্যু প্রতিটি জীবের জন্য অবধারিত সত্য এবং মানুষের চূড়ান্ত প্রত্যাবর্তন কেবল আল্লাহর কাছেই।",
+  "real_life_en": "Remember that this worldly life will end one day. Use your time wisely by doing good deeds and helping others.",
+  "real_life_bn": "পার্থিব জীবন ক্ষণস্থায়ী। সময় শেষ হওয়ার আগেই নেক আমল করুন এবং পাপ কাজ থেকে দ্রুত তওবা করে ফিরে আসুন।",
+  "themes": [
+    "death",
+    "angels",
+    "return-to-allah",
+    "hereafter"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Angel of Death"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The appointed Angel of Death takes every soul at its appointed term, returning all beings to God.",
+      "claim_bn": "মৃত্যুর জন্য নির্ধারিত ফেরেশতা মানুষের রূহ কবজ করবেন এবং সবাইকে আল্লাহর কাছে উপস্থিত করা হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

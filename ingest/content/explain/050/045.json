@@ -1,0 +1,95 @@
+{
+  "id": "50:45",
+  "simple_en": "Allah consoles the Prophet ﷺ, saying that He knows best what the deniers say. The Prophet is not sent to force people to believe. His duty is to convey the message. He must use the Quran to remind those who fear Allah's warning.",
+  "simple_bn": "মহান আল্লাহ রাসুলুল্লাহ ﷺ কে আশ্বস্ত করে বলেন যে কাফিরদের সব কটু কথা তিনি ভালোভাবেই জানেন। মানুষকে জোর করে ঈমান আনানোর দায়িত্ব তাঁকে দেওয়া হয়নি। তাঁর কাজ হলো আল্লাহর বাণী পৌঁছে দেওয়া এবং যে ব্যক্তি আল্লাহর সতর্কবার্তাকে ভয় করে, তাকে কুরআনের মাধ্যমে উপদেশ দেওয়া।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "علم",
+      "lemma": "أَعْلَم",
+      "meaning_en": "knows best",
+      "meaning_bn": "সর্বাপেক্ষা অবগত",
+      "why_en": "Allah's complete knowledge of the insults and objections of deniers."
+    },
+    {
+      "pos": 8,
+      "root": "جبر",
+      "lemma": "جَبّار",
+      "meaning_en": "a tyrant or compeller",
+      "meaning_bn": "জবরদস্তিকারী বা দারোগা",
+      "why_en": "The Prophet ﷺ was sent to convey guidance, not to force belief by compulsion."
+    },
+    {
+      "pos": 9,
+      "root": "ذكر",
+      "lemma": "ذُكِّرَ",
+      "meaning_en": "remind and admonish",
+      "meaning_bn": "উপদেশ দান করুন",
+      "why_en": "Using the Quran to awaken the hearts of people."
+    },
+    {
+      "pos": 10,
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "the Quran",
+      "meaning_bn": "কুরআন",
+      "why_en": "The divine speech that softens hearts and guides seekers."
+    },
+    {
+      "pos": 13,
+      "root": "وعد",
+      "lemma": "وَعِيد",
+      "meaning_en": "My warning",
+      "meaning_bn": "আমার সতর্কবার্তা",
+      "why_en": "The divine warning that motivates sincere believers to heed guidance."
+    }
+  ],
+  "lesson_en": "Share the message of Islam with kind words. You cannot force anyone's heart to believe.",
+  "lesson_bn": "সুন্দরভাবে কুরআনের বাণী মানুষের কাছে পৌঁছে দিন, কাউকে জোর করে বিশ্বাসী বানানো কারও দায়িত্ব নয়।",
+  "real_life_en": "When you advise your family or friends, speak with kindness. Share the teachings of the Quran, and leave their hearts to Allah.",
+  "real_life_bn": "কাউকে ভালো কাজের পরামর্শ দেওয়ার সময় কুরআনের সুন্দর কথাগুলো দিয়ে বুঝিয়ে বলুন এবং জবরদস্তি থেকে বিরত থাকুন।",
+  "context_en": "The surah concludes by defining the mission of the Prophet ﷺ as a conveyer and warner through the Quran.",
+  "context_bn": "কুরআনের মাধ্যমে উপদেশ দান এবং রাসুলুল্লাহ ﷺ এর দাওয়াতি দায়িত্ব স্পষ্ট করার মাধ্যমে সূরাটি সমাপ্ত হয়েছে।",
+  "themes": [
+    "the Quran",
+    "prophethood",
+    "guidance",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [
+      "quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-alim"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Prophet is not a compeller over the people, but is sent to remind with the Quran whoever fears Allah's warning.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

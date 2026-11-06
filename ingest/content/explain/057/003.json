@@ -1,0 +1,83 @@
+{
+  "id": "57:3",
+  "simple_en": "He is the First, with nothing before Him. He is the Last, with nothing after Him. He is the Manifest, with nothing above Him. He is the Hidden, with nothing closer or beyond His knowledge. He has complete knowledge of all things.",
+  "simple_bn": "তিনিই প্রথম, যাঁর পূর্বে কিছুই ছিল না। তিনিই শেষ, যাঁর পরে কিছুই থাকবে না। তিনিই প্রকাশ্য, যাঁর উপরে কিছুই নেই। তিনিই অপ্রকাশ্য, যাঁর চেয়ে নিকটবর্তী বা সূক্ষ্মজ্ঞাত কিছু নেই। তিনি সব বিষয়ে পূর্ণ অবগত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أول",
+      "lemma": "أَوَّل",
+      "meaning_en": "the First",
+      "meaning_bn": "প্রথম",
+      "why_en": "Affirms that Allah has always existed and nothing existed before Him."
+    },
+    {
+      "pos": 3,
+      "root": "أخر",
+      "lemma": "آخِر",
+      "meaning_en": "and the Last",
+      "meaning_bn": "এবং শেষ",
+      "why_en": "Affirms that Allah is eternal and remains after everything passes away."
+    },
+    {
+      "pos": 9,
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "All-Knowing",
+      "meaning_bn": "সর্বজ্ঞ",
+      "why_en": "Emphasizes that Allah's knowledge encompasses all open and hidden matters."
+    }
+  ],
+  "lesson_en": "Turn to Allah first and last in every matter, for He knows all things completely.",
+  "lesson_bn": "প্রতিটি বিষয়ে সবার আগে ও শেষে আল্লাহর অভিমুখী হোন, কারণ তিনি সব কিছু সম্পর্কে পরিপূর্ণ জানেন।",
+  "real_life_en": "A person plans a new project. Before taking a single step, she asks Allah for guidance. When the project finishes, she thanks Him again. She knows that Allah was with the project from its very beginning to its end.",
+  "real_life_bn": "এক ব্যক্তি একটি নতুন কাজ শুরু করার পরিকল্পনা করেন। কোনো পদক্ষেপ নেওয়ার আগেই তিনি আল্লাহর কাছে সাহায্য প্রার্থনা করেন। কাজটি শেষ হলে তিনি পুনরায় আল্লাহর শুকরিয়া আদায় করেন, কারণ তিনি জানেন কাজটির শুরু থেকে শেষ পর্যন্ত সবকিছুই আল্লাহর নিয়ন্ত্রণে ছিল।",
+  "themes": [
+    "names and attributes of Allah",
+    "Allah's knowledge",
+    "tawhid"
+  ],
+  "kinds": [
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-alim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah is the First with nothing before Him, and the Last with nothing after Him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Allah is the Manifest with nothing above Him, and the Hidden knowing all inward things.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Allah has complete and perfect knowledge of everything.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,64 @@
+{
+ "id": "77:4",
+ "simple_en": "Allah swears by the noble angels who bring down revelation. They bring clear words from Him. Their messages separate truth from lies, and right from wrong.",
+ "simple_bn": "আল্লাহ সেই সম্মানিত ফিরিশতাদের শপথ করেছেন, যাঁরা ওহী নিয়ে অবতরণ করেন। তাঁরা এমন বাণী নিয়ে আসেন যা সত্য ও মিথ্যার মাঝে, হালাল ও হারামের মাঝে এবং হিদায়াত ও পথভ্রষ্টতার মাঝে সুস্পষ্ট পার্থক্য গড়ে দেয়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "فرق",
+   "lemma": "فارِقَة",
+   "meaning_en": "those that separate",
+   "meaning_bn": "পার্থক্যকারী ফিরিশতা",
+   "why_en": "Angels that bring teachings separating right from wrong."
+  },
+  {
+   "pos": 2,
+   "root": "فرق",
+   "lemma": "فَرْق",
+   "meaning_en": "separating, distinguishing",
+   "meaning_bn": "পার্থক্য করা",
+   "why_en": "Drawing a sharp distinction between truth and falsehood."
+  }
+ ],
+ "lesson_en": "Allah sends clear guidance so we can easily tell right from wrong.",
+ "lesson_bn": "আল্লাহর ওহী আমাদের ভালো ও মন্দের মাঝে স্পষ্ট পার্থক্য বোঝার সঠিক মাপকাঠি দান করে।",
+ "real_life_en": "In life, opinions can be confusing and misleading. When you are unsure what is right, turn to the clear teachings of the Quran. Its guidance cuts through confusion and shows you the honest path to follow.",
+ "real_life_bn": "দুনিয়ায় চলার পথে নানা মানুষের নানা মত বিভ্রান্তি তৈরি করতে পারে। কোনটি সঠিক তা নিয়ে দ্বিধা হলে কুরআনের শিক্ষার দিকে তাকান। এর আলো সকল সংশয় দূর করে সত্য পথ দেখায়।",
+ "themes": [
+  "angels",
+  "revelation",
+  "guidance"
+ ],
+ "kinds": [
+  "oath",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah swears by the angels that descend with that which distinguishes truth from falsehood.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

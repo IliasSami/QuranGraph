@@ -1,0 +1,78 @@
+{
+  "id": "50:4",
+  "simple_en": "Allah answers their doubt directly. He knows every bit that the earth decays from human bodies after death. Nothing is hidden from Him. He keeps a secure record that preserves every detail of their lives.",
+  "simple_bn": "আল্লাহ তাদের সন্দেহের সরাসরি জবাব দিয়েছেন। মৃত্যুর পর মাটি মানবদেহের কতটুকু ক্ষয় করে, তা তিনি স্পষ্টভাবে জানেন। কোনো কিছুই তাঁর অজানা থাকে না। তাঁর কাছে সংরক্ষিত রয়েছে এক পূর্ণাঙ্গ কিতাব, যাতে মানুষের জীবন ও মৃত্যুর প্রতিটি বিষয় লিপিবদ্ধ আছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "We know",
+      "meaning_bn": "আমরা জানি",
+      "why_en": "Allah's knowledge encompasses every minute particle of the human body."
+    },
+    {
+      "pos": 4,
+      "root": "نقص",
+      "lemma": "يُنقَصُ",
+      "meaning_en": "eats away or diminishes",
+      "meaning_bn": "ক্ষয় করে",
+      "why_en": "The decay of bones and flesh that the earth breaks down."
+    },
+    {
+      "pos": 9,
+      "root": "حفظ",
+      "lemma": "حَفِيظ",
+      "meaning_en": "preserving or all-retaining",
+      "meaning_bn": "সংরক্ষণকারী",
+      "why_en": "A record that keeps every detail without anything being lost or altered."
+    }
+  ],
+  "lesson_en": "Remember that Allah knows every part of you. He keeps an exact record of all your deeds.",
+  "lesson_bn": "মনে রাখবেন যে আল্লাহ আপনার প্রতিটি অবস্থা জানেন এবং আপনার সব কাজের নিখুঁত হিসাব রাখছেন।",
+  "real_life_en": "No good deed is ever lost. Even if nobody sees your quiet charity, know that Allah records every bit of it.",
+  "real_life_bn": "গোপনে করা দান বা ছোট কোনো নেক কাজ মানুষ না দেখলেও নিশ্চিত থাকুন যে তা আল্লাহর কাছে সংরক্ষিত হচ্ছে।",
+  "context_en": "Allah responds to the skeptics by confirming His all-encompassing knowledge and the Preserved Tablet.",
+  "context_bn": "অবিশ্বাসীদের সন্দেহের জবাবে আল্লাহ তাঁর পূর্ণ জ্ঞান এবং সংরক্ষিত কিতাবের কথা উল্লেখ করেছেন।",
+  "themes": [
+    "Allah's knowledge",
+    "resurrection",
+    "the unseen"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "preserved-tablet"
+    ],
+    "names_of_allah": [
+      "allah",
+      "al-alim",
+      "al-hafiz"
+    ],
+    "events": [],
+    "things": [
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah knows what the earth consumes of bodies after death, and all things are recorded in a preserving book.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

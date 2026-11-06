@@ -1,0 +1,62 @@
+{
+ "id": "77:3",
+ "simple_en": "Allah swears by the gentle winds that scatter the clouds and spread rainfall across dry lands. Through these winds, He brings life back to dead soil and grants provision to people and animals.",
+ "simple_bn": "আল্লাহ সেই মেঘমালা ও বৃষ্টিবাহী বাতাসের শপথ করেছেন, যা মেঘকে আকাশে ছড়িয়ে দেয়। এই বাতাসের মাধ্যমে তিনি শুষ্ক জমিনে জীবন ফিরিয়ে দেন এবং মানুষ ও পশুপাখির জন্য জীবিকার ব্যবস্থা করেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "نشر",
+   "lemma": "ناشِرَة",
+   "meaning_en": "those that scatter",
+   "meaning_bn": "বিক্ষিপ্তকারী",
+   "why_en": "The winds that spread clouds across the skies."
+  },
+  {
+   "pos": 2,
+   "root": "نشر",
+   "lemma": "نَشْر",
+   "meaning_en": "spreading out",
+   "meaning_bn": "ছড়িয়ে দেওয়া",
+   "why_en": "Emphasizes the wide dispersion of rain for human sustenance."
+  }
+ ],
+ "lesson_en": "Every drop of rain brought by the winds is a sign of Allah's continuous mercy.",
+ "lesson_bn": "বাতাসের মাধ্যমে নেমে আসা বৃষ্টির প্রতিটি ফোঁটা আল্লাহর অফুরন্ত রহমতের উজ্জ্বল নিদর্শন।",
+ "real_life_en": "Farmers look up at the sky during dry seasons waiting for rain to fall. When clouds spread and rain waters the seeds, life blossoms everywhere. Recognizing this gift makes us thank Allah for providing our daily food and water.",
+ "real_life_bn": "অনাবৃষ্টির সময় কৃষক আকাশের দিকে তাকিয়ে বৃষ্টির অপেক্ষা করে। বাতাস যখন মেঘ এনে জমিন ভিজিয়ে দেয়, তখন চারপাশ সবুজ হয়ে ওঠে। এই নেয়ামত দেখে আমাদের মনে আল্লাহর প্রতি কৃতজ্ঞতা জাগা উচিত।",
+ "themes": [
+  "signs in nature",
+  "Allah's mercy",
+  "creation"
+ ],
+ "kinds": [
+  "oath",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah swears by the winds that disperse rain clouds across the earth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

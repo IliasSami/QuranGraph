@@ -1,0 +1,88 @@
+{
+ "id": "42:17",
+ "simple_en": "Allah is the One who sent down the Book with the truth. He also set up the scale of justice so people may live fairly. You do not know when the Hour will come. It may be very close.",
+ "simple_bn": "মহান আল্লাহই সত্যসহ এই মহাগ্রন্থ অবতীর্ণ করেছেন এবং ইনসাফের মানদণ্ড স্থাপন করেছেন যাতে মানুষ ন্যায়বিচার করে। আপনি জানেন না, হয়তো কিয়ামতের সেই সময়টি অতি নিকটে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "the Book",
+   "meaning_bn": "কিতাব",
+   "why_en": "Refers to the Quran sent down as truth and guidance for all."
+  },
+  {
+   "pos": 5,
+   "root": "حقق",
+   "lemma": "حَقّ",
+   "meaning_en": "in truth",
+   "meaning_bn": "সত্যসহ",
+   "why_en": "Affirms that divine revelation contains zero falsehood or doubt."
+  },
+  {
+   "pos": 6,
+   "root": "وزن",
+   "lemma": "مِيزان",
+   "meaning_en": "and the scale / balance",
+   "meaning_bn": "এবং মানদণ্ড (ন্যায়বিচার)",
+   "why_en": "Signifies justice and fairness that Allah established for mankind."
+  },
+  {
+   "pos": 10,
+   "root": "سوع",
+   "lemma": "ساعَة",
+   "meaning_en": "the Hour",
+   "meaning_bn": "কিয়ামত",
+   "why_en": "Points to the sudden arrival of the Day of Resurrection."
+  },
+  {
+   "pos": 11,
+   "root": "قرب",
+   "lemma": "قَرِيب",
+   "meaning_en": "near",
+   "meaning_bn": "অতি নিকটে",
+   "why_en": "Warns everyone not to delay repentance because the Hour is close."
+  }
+ ],
+ "lesson_en": "Live with justice and prepare for the Day of Judgment at all times.",
+ "lesson_bn": "সর্বদা ন্যায়বিচার মেনে চলুন এবং যেকোনো মুহূর্তের জন্য আখিরাতের প্রস্তুতি রাখুন।",
+ "real_life_en": "Be honest in all your daily trade and speech. Treat people fairly, knowing that the Day of Judgment is coming and our deeds will be weighed with complete justice.",
+ "real_life_bn": "ব্যবসা-বাণিজ্য ও কথাবার্তায় সৎ থাকুন। মনে রাখবেন যে কিয়ামতের দিন আমাদের প্রতিটি কাজের পুঙ্খানুপুঙ্খ হিসাব নেওয়া হবে।",
+ "themes": [
+  "the Quran",
+  "justice",
+  "the Last Day"
+ ],
+ "kinds": [
+  "belief",
+  "warning",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah revealed the Book in truth along with the scale of justice, and the Hour may be near.",
+   "claim_bn": "আল্লাহ সত্যসহ কিতাব ও ইনসাফের মানদণ্ড অবতীর্ণ করেছেন এবং কিয়ামত হয়তো অতি নিকটবর্তী।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "53:3",
+  "simple_en": "Prophet Muhammad ﷺ does not speak from his own desires. He does not make up words to please people. Every religious teaching he shares comes from Allah.",
+  "simple_bn": "রাসূলুল্লাহ ﷺ কখনো নিজের মনগড়া কথা বা ব্যক্তিগত খেয়ালখুশি থেকে দ্বীনের কোনো কথা বলেন না। তিনি মানুষকে সন্তুষ্ট করার জন্য বা নিজের স্বার্থে কোনো বাণী তৈরি করেননি। তাঁর মুখ দিয়ে প্রচারিত প্রতিটি ধর্মীয় বিধান আসমানী নির্দেশনার উপর প্রতিষ্ঠিত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نطق",
+      "lemma": "يَنطِقُ",
+      "meaning_en": "he speaks",
+      "meaning_bn": "তিনি কথা বলেন",
+      "why_en": "It shows that even his spoken religious delivery is protected from human falsehood."
+    },
+    {
+      "pos": 4,
+      "root": "هوي",
+      "lemma": "هَواء",
+      "meaning_en": "personal desire / whim",
+      "meaning_bn": "মনোবৃত্তি বা খেয়ালখুশি",
+      "why_en": "It denies that the Prophet ﷺ followed any selfish inclination."
+    }
+  ],
+  "lesson_en": "Follow the clear truth of the Quran and Sunnah. Do not follow mere personal wishes.",
+  "lesson_bn": "ব্যক্তিগত মতামত বা সামাজিক প্রথার চেয়ে ওহীর শিক্ষাকে সর্বদা অগ্রাধিকার দিন।",
+  "real_life_en": "When sharing Islamic advice with friends, quote clear teachings rather than your own guesses. Make sure you check authentic sources before passing on a message.",
+  "real_life_bn": "অন্যদের কাছে দ্বীনের কথা বলার সময় নিজের ধারণার উপর নির্ভর করবেন না। বিশ্বস্ত ও সঠিক উৎস থেকে জেনে নিয়ে কথা বলুন।",
+  "context_en": "This verse emphasizes that the Prophet's words are free from selfish human bias.",
+  "context_bn": "এই আয়াতে স্পষ্ট করা হয়েছে যে রাসূলের বাণী মানুষের ব্যক্তিগত আবেগ বা কুপ্রবৃত্তি থেকে সম্পূর্ণ মুক্ত।",
+  "themes": [
+    "revelation",
+    "prophethood",
+    "Prophet Muhammad ﷺ",
+    "the Quran"
+  ],
+  "kinds": [
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Prophet ﷺ did not speak the Quran out of following his own desires.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": "16:44",
+  "simple_en": "They came with clear signs and written books. We gave you the Quran so you make clear to people what was revealed to them and let them think.",
+  "simple_bn": "তাঁরা সুস্পষ্ট নিদর্শন ও গ্রন্থাবলীসহ এসেছিলেন। আর আমরা আপনার প্রতি কোরআন নাযিল করেছি, যাতে আপনি মানুষের জন্য অবতীর্ণ শিক্ষাসমূহ স্পষ্টভাবে ব্যাখ্যা করেন এবং তারা চিন্তা করে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "بين",
+      "lemma": "بَيِّنَة",
+      "meaning_en": "clear proofs",
+      "meaning_bn": "স্পষ্ট প্রমাণসমূহ",
+      "why_en": "Convincing miracles and rational proofs given to messengers."
+    },
+    {
+      "pos": 5,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "the Reminder",
+      "meaning_bn": "কোরআন বা উপদেশ",
+      "why_en": "The Quran as the ultimate reminder for humanity."
+    }
+  ],
+  "lesson_en": "The Quran makes truth clear to us. It helps people think and live well.",
+  "lesson_bn": "কোরআনের অন্যতম উদ্দেশ্য হলো মানুষকে সত্যের পথ স্পষ্ট করে বুঝিয়ে দেওয়া যাতে মানুষ চিন্তা-ভাবনা করে।",
+  "real_life_en": "Read the Quran with an effort to understand its meaning. Let its timeless lessons guide your daily choices.",
+  "real_life_bn": "কোরআন শুধু তিলাওয়াত নয়, এর অর্থ ও মর্ম বুঝে নিজের জীবনে বাস্তবায়ন করার চেষ্টা করুন।",
+  "themes": [
+    "quran",
+    "sunnah",
+    "reflection"
+  ],
+  "kinds": [
+    "command",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran",
+      "scriptures"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran was revealed to the Prophet to clarify divine guidance so people may contemplate.",
+      "claim_bn": "কোরআন অবতীর্ণ করা হয়েছে যাতে রাসুল মানুষের জন্য তা সুস্পষ্ট ব্যাখ্যা করেন এবং মানুষ গভীরভাবে চিন্তা করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,77 @@
+{
+  "id": "10:83",
+  "simple_en": "None believed in Moses except a small group of young people from his own folk. They feared that Pharaoh and his leaders would persecute them, for Pharaoh was a tyrant on earth who knew no limits.",
+  "simple_bn": "কিন্তু ফিরআউন ও তার পরিষদবর্গ নির্যাতন করবে এ ভয়ে মূসার সম্প্রদায়ের কিছু যুবক ছাড়া আর কেউ তার প্রতি ঈমান আনল না। আর ফিরআউন তো জমিনে এক উদ্ধত অত্যাচারী ছিল এবং সে ছিল সীমালঙ্ঘনকারীদের অন্তর্ভুক্ত।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "ذرر",
+      "lemma": "ذُرِّيَّة",
+      "meaning_en": "youth / offspring",
+      "meaning_bn": "একদল যুবক / বংশধর",
+      "why_en": "Young believers who showed moral courage despite severe fear."
+    },
+    {
+      "pos": 9,
+      "root": "خوف",
+      "lemma": "خَوْف",
+      "meaning_en": "fear / dread",
+      "meaning_bn": "ভয় / আশঙ্কা",
+      "why_en": "Dread of royal torture and political persecution."
+    },
+    {
+      "pos": 17,
+      "root": "علو",
+      "lemma": "عالٍ",
+      "meaning_en": "tyrant / arrogant ruler",
+      "meaning_bn": "উদ্ধত / প্রতাপশালী",
+      "why_en": "Pharaoh ruling with cruel oppression over the Israelites."
+    }
+  ],
+  "lesson_en": "Moral bravery often starts with the young, even in the shadow of cruel rulers.",
+  "lesson_bn": "ভয়ংকর নিপীড়নের মুখেও তরুণরাই প্রায়শ সত্য ও ন্যায়ের পক্ষে প্রথম রুখে দাঁড়ায়।",
+  "real_life_en": "Support young people who stand up for justice. Encourage them to hold firm to good values when society pressures them to conform to wrong.",
+  "real_life_bn": "তরুণ প্রজন্মকে সত্য ও ন্যায়ের পথে চলতে সাহস ও উৎসাহ দিন, যাতে তারা কোনো অন্যায়ের কাছে মাথা নত না করে।",
+  "themes": [
+    "courage of youth",
+    "fear of persecution",
+    "Pharaoh's tyranny"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Musa (Moses)",
+      "Fir'awn (Pharaoh)",
+      "believing youth"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Only a small youth faction among the Israelites initially dared to openly follow Moses due to dread of Pharaoh.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

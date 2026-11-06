@@ -1,0 +1,67 @@
+{
+  "id": "24:47",
+  "simple_en": "The hypocrites say: We believe in God and in the Messenger, and we obey. Then a group of them turns away after making that claim. In reality, such people are not true believers at all.",
+  "simple_bn": "তারা মুখে বলে: আমরা আল্লাহ ও রাসূলের ওপর ঈমান আনলাম এবং আনুগত্য করলাম। এরপর তাদের একদল মুখ ফিরিয়ে নেয়। মূলত এরা মোটেও প্রকৃত মুমিন নয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "we have believed",
+      "meaning_bn": "আমরা ঈমান আনলাম",
+      "why_en": "Verbal declaration of faith requiring sincere proof in daily action."
+    },
+    {
+      "pos": 5,
+      "root": "طوع",
+      "lemma": "أَطاعَ",
+      "meaning_en": "and we have obeyed",
+      "meaning_bn": "এবং আনুগত্য করলাম",
+      "why_en": "Claim of compliance that was contradicted by turning away."
+    }
+  ],
+  "lesson_en": "True faith requires actions that match words. Empty claims of belief fall flat when tested by obedience.",
+  "lesson_bn": "কথার সাথে কাজের মিল না থাকলে মুখের দাবি অর্থহীন হয়ে পড়ে। পরীক্ষার সময় আনুগত্য প্রদর্শনই প্রকৃত বিশ্বাসের আসল প্রমাণ।",
+  "real_life_en": "Match your deeds to what you profess with your mouth. Never make solemn promises of loyalty to moral principles only to abandon them when it suits you.",
+  "real_life_bn": "মুখে যা বলেন কাজেও তা করে দেখান। নিজের ধর্মীয় ও নৈতিক প্রতিশ্রুতির ব্যাপারে সত্যবাদী হোন এবং সুবিধা অনুযায়ী কথা বদলানো পরিহার করুন।",
+  "themes": [
+    "hypocrisy",
+    "sincerity",
+    "faith-vs-action",
+    "obedience"
+  ],
+  "kinds": [
+    "warning",
+    "ethics",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Hypocrites claim belief and obedience verbally but turn away in practice, proving they lack genuine faith.",
+      "claim_bn": "মুনাফিকরা মুখে ঈমান ও আনুগত্যের দাবি করে কিন্তু বাস্তবে সত্য থেকে মুখ ফিরিয়ে নিয়ে নিজেদের কপটতা প্রকাশ করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

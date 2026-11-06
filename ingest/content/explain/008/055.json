@@ -1,0 +1,73 @@
+{
+  "id": "8:55",
+  "simple_en": "The worst living beings before God are those who refuse the truth and will not believe. They shut their minds to the light and choose evil over good.",
+  "simple_bn": "নিশ্চয়ই আল্লাহর কাছে সমস্ত বিচরণশীল প্রাণীর মধ্যে তারাই সবচেয়ে নিকৃষ্ট, যারা কুফরি করেছে এবং কখনো ঈমান আনবে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "شرر",
+      "lemma": "شَرّ",
+      "meaning_en": "the worst",
+      "meaning_bn": "নিকৃষ্টতম",
+      "why_en": "The lowest moral degradation possible."
+    },
+    {
+      "pos": 3,
+      "root": "دبب",
+      "lemma": "دابَّة",
+      "meaning_en": "living beasts / creatures",
+      "meaning_bn": "বিচরণশীল প্রাণী",
+      "why_en": "Creatures crawling or walking on earth."
+    },
+    {
+      "pos": 7,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "they disbelieved",
+      "meaning_bn": "তারা কুফরি করল",
+      "why_en": "Deliberate and obstinate rejection of faith."
+    }
+  ],
+  "lesson_en": "Those who reject reason and stubbornly oppose truth sink lower than wild beasts.",
+  "lesson_bn": "বিবেক বিসর্জন দিয়ে হঠকারিতার সাথে সত্য প্রত্যাখ্যানকারী ব্যক্তি পশুর চেয়েও অধম।",
+  "real_life_en": "Keep your ears open to wise advice and truth. Ignoring good advice makes a person hard and mean. Always listen with care and stay humble.",
+  "real_life_bn": "সত্য ও সুপরামর্শের প্রতি কখনো অন্ধ বা বধির হবেন না। বিবেক জাগ্রত রাখুন এবং সৎ উপদেশ সানন্দে গ্রহণ করুন।",
+  "context_en": "Severe condemnation of treacherous groups who persistently broke covenants and fought against the Prophet.",
+  "context_bn": "বারংবার সত্য প্রত্যাখ্যানকারী ও বিশ্বাসঘাতকদের নিকৃষ্টতম প্রাণী হিসেবে আখ্যায়িত করা।",
+  "themes": [
+    "spiritual degradation",
+    "stubborn denial",
+    "human responsibility",
+    "rejection of truth"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "stubborn deniers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who stubbornly disbelieve and refuse faith are the worst of living creatures in the sight of Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

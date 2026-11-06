@@ -1,0 +1,63 @@
+{
+  "id": "16:24",
+  "simple_en": "When people ask the deniers what their Lord sent down, they mock it. They say it is only old tales made up by men long ago.",
+  "simple_bn": "যখন তাদেরকে জিজ্ঞাসা করা হয় যে তোমাদের প্রতিপালক কী অবতীর্ণ করেছেন, তখন তারা সত্য এড়াতে বলে, এগুলো তো প্রাচীন কালের মানুষের মনগড়া রূপকথা মাত্র।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نزل",
+      "lemma": "أَنزَلَ",
+      "meaning_en": "He sent down",
+      "meaning_bn": "নাযিল করেছেন",
+      "why_en": "The revealed guidance sent by God to humanity."
+    },
+    {
+      "pos": 8,
+      "root": "سطر",
+      "lemma": "أَساطِير",
+      "meaning_en": "legends",
+      "meaning_bn": "উপকথা",
+      "why_en": "Derogatory term used by disbelievers to mock scripture."
+    }
+  ],
+  "lesson_en": "Deniers mock divine words as old tales. They do this to run from duty.",
+  "lesson_bn": "সত্য অস্বীকারকারীরা নৈতিক দায়িত্ব এড়ানোর জন্য প্রায়ই ঐশী বাণীকে প্রাচীন গল্প বলে উড়িয়ে দেওয়ার অপচেষ্টা করে।",
+  "real_life_en": "Read divine guidance with an open mind. Do not push away good advice as old news.",
+  "real_life_bn": "কোরআনের দিকনির্দেশনাকে অবহেলা করবেন না। পক্ষপাতহীন মন নিয়ে সত্য জানার চেষ্টা করুন।",
+  "themes": [
+    "revelation",
+    "denial",
+    "arrogance"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "scriptures"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "When asked what their Lord revealed, disbelievers falsely claim it is legends of former peoples.",
+      "claim_bn": "রব কী অবতীর্ণ করেছেন তা জিজ্ঞেস করা হলে তারা কোরআনকে প্রাচীনদের উপকথা বলে উড়িয়ে দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

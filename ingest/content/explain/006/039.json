@@ -1,0 +1,80 @@
+{
+  "id": "6:39",
+  "simple_en": "Those who reject the signs of Allah are spiritually deaf and unable to speak the truth. They wander lost in thick darkness. Whomever Allah wills to leave astray due to their own stubbornness, He leaves misguided. And whomever He wills, He places upon a clear, straight path.",
+  "simple_bn": "যারা আল্লাহর নিদর্শনসমূহকে মিথ্যা প্রতিপন্ন করে, তারা আত্মিক দিক থেকে বধির ও বোবা। তারা অজ্ঞতা ও ভ্রান্তির ঘন অন্ধকারে নিমজ্জিত। আল্লাহ যার অবাধ্যতার কারণে চান তাকে পথভ্রষ্ট করেন, আর যাকে চান সত্যের সরল ও সঠিক পথে পরিচালিত করেন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "صمم",
+      "lemma": "أَصَمّ",
+      "meaning_en": "deaf",
+      "meaning_bn": "বধির",
+      "why_en": "Describes spiritual inability to hear and benefit from divine guidance."
+    },
+    {
+      "pos": 7,
+      "root": "ظلم",
+      "lemma": "ظُلُمَة",
+      "meaning_en": "darkness",
+      "meaning_bn": "অন্ধকারসমূহ",
+      "why_en": "Symbolizes the deep layers of confusion and ignorance enclosing disbelievers."
+    },
+    {
+      "pos": 17,
+      "root": "قوم",
+      "lemma": "مُسْتَقِيم",
+      "meaning_en": "straight",
+      "meaning_bn": "সরল বা সঠিক",
+      "why_en": "Describes the clear, upright path of faith granted to the guided."
+    }
+  ],
+  "lesson_en": "Rejecting divine guidance blinds the soul, while sincere faith leads to the straight path.",
+  "lesson_bn": "সত্যকে অস্বীকার করলে অন্তর অন্ধকারে হারিয়ে যায়, আর আন্তরিক ঈমান সরল পথের দিশা দেয়।",
+  "real_life_en": "When someone closes their eyes in a dark room, they cannot see the light even if a candle is lit. Similarly, holding onto bias blocks us from seeing obvious truth. We must ask Allah daily to keep our hearts open and guide our steps.",
+  "real_life_bn": "অহংকার বা অন্ধ বিশ্বাস নিয়ে চললে মানুষ চোখের সামনে থাকা স্পষ্ট সত্যও দেখতে পায় না। সত্য উপলব্ধি করতে হলে মনের চোখ খোলা রাখতে হয়। তাই বিভ্রান্তি থেকে বাঁচতে আল্লাহর কাছে সঠিক পথের জন্য প্রার্থনা করা আবশ্যক।",
+  "context_en": "Contrasts the spiritual blindness of those who deny revelation with the illuminated path of those guided by Allah.",
+  "context_bn": "সত্য অস্বীকারকারীদের আত্মিক অন্ধত্ব এবং হেদায়াতপ্রাপ্তদের আলোকিত সরল পথের বৈসাদৃশ্য তুলে ধরা হয়েছে।",
+  "themes": [
+    "guidance",
+    "divine-will",
+    "blindness"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who deny Allah's signs are spiritually deaf and dumb, immersed in layers of darkness.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Allah leads astray whomever He wills in His justice and sets upon a straight path whomever He wills in His grace.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

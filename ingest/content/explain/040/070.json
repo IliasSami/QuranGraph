@@ -1,0 +1,84 @@
+{
+  "id": "40:70",
+  "simple_en": "Those who deny the Book and the message We sent with Our messengers will soon know the consequence. Their denial will lead them to bitter regret.",
+  "simple_bn": "যারা এই কিতাবকে এবং আমি আমার রাসূলদের যা দিয়ে পাঠিয়েছিলাম তা অস্বীকার করেছে, তারা অচিরেই তাদের পরিণাম জানতে পারবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "they denied",
+      "meaning_bn": "তারা অস্বীকার করেছে",
+      "why_en": "Willful rejection of divine scripture and prophetic teachings."
+    },
+    {
+      "pos": 3,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Book",
+      "meaning_bn": "কিতাব",
+      "why_en": "The holy Quran revealed for the guidance of mankind."
+    },
+    {
+      "pos": 7,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "Our messengers",
+      "meaning_bn": "আমাদের রাসূলগণ",
+      "why_en": "The chosen envoys of Allah who brought revelation."
+    },
+    {
+      "pos": 9,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "they will know",
+      "meaning_bn": "তারা জানতে পারবে",
+      "why_en": "The terrible reality of punishment that rejectors will soon experience."
+    }
+  ],
+  "lesson_en": "Denying the holy books leads to deep regret in the next life.",
+  "lesson_bn": "আসমানি কিতাব ও রাসূলদের শিক্ষাকে অস্বীকার করা পরকালে চরম অনুশোচনার কারণ হবে।",
+  "real_life_en": "Take the Quran and the teachings of the prophets seriously. Living by divine guidance protects you from regret when your deeds are judged.",
+  "real_life_bn": "কুরআন ও সুন্নাহর শিক্ষাকে জীবনের পাথেয় বানান। ঐশী দিকনির্দেশনা মেনে চলা পরকালীন চরম লজ্জা ও অনুশোচনা থেকে আপনাকে রক্ষা করবে।",
+  "themes": [
+    "the Quran",
+    "revelation",
+    "the Last Day",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Those who reject the Quran and what the messengers brought will soon learn the awful reality of their punishment.",
+      "claim_bn": "যারা কুরআন এবং রাসূলদের বাণী প্রত্যাখ্যান করেছে তারা অচিরেই তাদের শাস্তির বাস্তবতা জানতে পারবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

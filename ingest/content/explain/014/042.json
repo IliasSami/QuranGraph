@@ -1,0 +1,88 @@
+{
+  "id": "14:42",
+  "simple_en": "Never think that Allah is unaware of what the wrongdoers do. He only grants them delay until a Day when eyes will stare in sheer horror. Justice will be served with complete perfection.",
+  "simple_bn": "কখনো মনে করবেন না যে জালিমরা যা করছে সে ব্যাপারে আল্লাহ বেখবর। তিনি কেবল তাদের সেই দিন পর্যন্ত অবকাশ দিচ্ছেন যেদিন চোখগুলো আতঙ্কে স্থির হয়ে থাকবে। শেষ বিচারের দিনে নিখুঁত ন্যায়বিচার কায়েম হবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "غفل",
+      "lemma": "غافِل",
+      "meaning_en": "unaware",
+      "meaning_bn": "উদাসীন",
+      "why_en": "Neglecting or missing any wrongdoing."
+    },
+    {
+      "pos": 7,
+      "root": "ظلم",
+      "lemma": "ظالِم",
+      "meaning_en": "the wrongdoers",
+      "meaning_bn": "জালিমরা",
+      "why_en": "Oppressors who abuse power."
+    },
+    {
+      "pos": 9,
+      "root": "أخر",
+      "lemma": "أَخَّرَ",
+      "meaning_en": "He delays them",
+      "meaning_bn": "তিনি তাদের অবকাশ দেন",
+      "why_en": "Postponing punishment until the appointed time."
+    },
+    {
+      "pos": 11,
+      "root": "شخص",
+      "lemma": "شَخَصَ",
+      "meaning_en": "will stare",
+      "meaning_bn": "স্থির হয়ে থাকবে",
+      "why_en": "Eyes fixed in terror, unable to blink."
+    },
+    {
+      "pos": 13,
+      "root": "بصر",
+      "lemma": "بَصَر",
+      "meaning_en": "the eyes",
+      "meaning_bn": "চোখগুলো",
+      "why_en": "Sight frozen in awe."
+    }
+  ],
+  "lesson_en": "Do not lose heart when oppressors walk free. Allah's delay is not neglect, and justice is coming.",
+  "lesson_bn": "অত্যাচারীদের বহাল তবিয়তে দেখে হতাশ হবেন না। আল্লাহর অবকাশ দেওয়া কোনো অবহেলা নয়, সুবিচার অবশ্যই আসবে।",
+  "real_life_en": "A family loses their land to a corrupt village elder who uses fake papers. The family weeps in prayer. They find comfort knowing that Allah sees every crime, and justice will come on the Last Day.",
+  "real_life_bn": "জাল দলিলের জোরে এক প্রভাবশালী ব্যক্তি এক গরিব পরিবারের জমি দখল করে নেয়। পরিবারটি ব্যথিত হয়ে আল্লাহর কাছে ফরিয়াদ করে। তারা সান্ত্বনা পায় এই বিশ্বাসে যে আল্লাহ সব দেখছেন এবং কিয়ামতে কোনো অন্যায় পার পাবে না।",
+  "context_en": "Warning to oppressors and comfort to the oppressed: Allah delays the unjust until the Day of Judgment.",
+  "context_bn": "অত্যাচারীদের জন্য কঠোর সতর্কবাণী এবং মজলুমদের জন্য সান্ত্বনা: আল্লাহ জালেমদের কর্মকাণ্ড সম্পর্কে মোটেও উদাসীন নন।",
+  "themes": [
+    "justice",
+    "warning",
+    "hereafter",
+    "oppression"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "promise"
+  ],
+  "entities": {
+    "events": [
+      "Day of Judgement"
+    ],
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah is never unaware of injustice; He merely delays the oppressors until a terrifying Day.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

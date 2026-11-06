@@ -1,0 +1,101 @@
+{
+ "id": "3:165",
+ "simple_en": "When a painful setback struck the believers at Uhud, they asked how this could happen while the Prophet was among them. Allah reminded them that at Badr they had dealt their foe twice as much loss. The hardship came from their own choice when some left their posts. Allah has power over all things, and He teaches believers to look at their own actions.",
+ "simple_bn": "উহুদের যুদ্ধে বিপর্যয় ঘটলে মুমিনরা বিষ্মিত হয়ে প্রশ্ন করেছিল, আল্লাহর নবী সাথে থাকা সত্ত্বেও কেন এই পরাজয় হলো? আল্লাহ তাদের মনে করিয়ে দিলেন যে ইতিপূর্বে বদরের যুদ্ধে তারা শত্রুদের এর দ্বিগুণ ক্ষতি করেছিল। এরপর জানানো হলো যে এ বিপদ তাদের নিজেদের ভুলের কারণেই এসেছে, যখন কিছু লোক নির্দেশ অমান্য করেছিল। নিশ্চয়ই আল্লাহ সবকিছুর ওপর ক্ষমতাবান।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "صوب",
+   "lemma": "مُصِيبَة",
+   "meaning_en": "a disaster / setback",
+   "meaning_bn": "বিপর্যয় বা মুসিবত",
+   "why_en": "Refers to the painful loss suffered by the Muslims at the battle of Uhud."
+  },
+  {
+   "pos": 6,
+   "root": "مثل",
+   "lemma": "مِثْل",
+   "meaning_en": "twice as much",
+   "meaning_bn": "তার দ্বিগুণ",
+   "why_en": "Reminds believers of the victory at Badr, where enemy losses were doubled."
+  },
+  {
+   "pos": 14,
+   "root": "نفس",
+   "lemma": "نَفْس",
+   "meaning_en": "yourselves",
+   "meaning_bn": "তোমাদের নিজেদের",
+   "why_en": "Teaches self-accountability: the setback stemmed from their own lapse in obedience."
+  }
+ ],
+ "lesson_en": "When trouble hits, reflect on your own mistakes instead of looking for others to blame.",
+ "lesson_bn": "বিপদ এলে অন্যদের দোষারোপ না করে নিজের ভুল ও ত্রুটিগুলো পর্যালোচনা করুন।",
+ "real_life_en": "A sports team may lose a match because players ignored the plan. Instead of pointing fingers at the referee or bad luck, the best players look at their own mistakes and work hard to fix them.",
+ "real_life_bn": "একটি দল খেলায় হারলে খেলোয়াড়রা অনেক সময় ভাগ্য বা রেফারির দোষ দেয়। কিন্তু বিচক্ষণ ব্যক্তিরা অন্যদের দোষ না দিয়ে নিজেদের ভুলের দিকে তাকায় এবং তা শুধরে নিয়ে সামনে এগিয়ে যায়।",
+ "context_en": "Answering the believers who wondered why they suffered losses at Uhud despite having the Prophet in their midst.",
+ "context_bn": "উহুদের বিপর্যয়ের পর সাহাবীদের মনে যে প্রশ্ন জেগেছিল তার উত্তর দিয়ে আত্মসমালোচনার শিক্ষা দেওয়া হয়েছে।",
+ "themes": [
+  "trials",
+  "patience",
+  "human nature",
+  "Allah's power",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "address",
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [
+   "Uhud",
+   "Badr"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Qadeer, the All-Powerful"
+  ],
+  "events": [
+   "Battle of Uhud",
+   "Battle of Badr"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "When Muslims faced loss at Uhud, they were reminded that at Badr they had inflicted twice that loss upon their enemy.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The setback at Uhud was due to their own lapse in disobeying the Prophet's command.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Allah has absolute power over all things and ordains every outcome with wisdom.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

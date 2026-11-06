@@ -1,0 +1,71 @@
+{
+  "id": "21:78",
+  "simple_en": "Remember David and Solomon when they passed judgment about a crop field. Stray sheep had overrun the plants at night, and We were witness to their legal verdict.",
+  "simple_bn": "দাউদ ও সুলাইমানের কথা স্মরণ করুন, যখন তাঁরা একটি ফসলি জমির ব্যাপারে বিচার করছিলেন। রাতে অন্য এক দলের ভেড়ার পাল ফসলের ওপর গিয়ে তা নষ্ট করেছিল, আর আমি তাঁদের ফায়সালা প্রত্যক্ষ করছিলাম।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حكم",
+      "lemma": "حَكَمَ",
+      "meaning_en": "they judged",
+      "meaning_bn": "তাঁরা বিচার করছিলেন",
+      "why_en": "Exercising judicial discretion in a property dispute."
+    },
+    {
+      "pos": 6,
+      "root": "حرث",
+      "lemma": "حَرْث",
+      "meaning_en": "the field",
+      "meaning_bn": "ফসলি জমি",
+      "why_en": "Subject matter of agricultural dispute."
+    }
+  ],
+  "lesson_en": "Judges must act with justice and care. God watches over human rulings, calling for fairness.",
+  "lesson_bn": "বিচারকদের অত্যন্ত সততা ও সচেতনতার সাথে বিচার করতে হয়। মানুষের ফায়সালা আল্লাহ প্রত্যক্ষ করেন এবং সুবিচারের তাগিদ দেন।",
+  "real_life_en": "Be fair when mediating disputes among family or friends. Listen to both sides and look for solutions that heal harm fairly.",
+  "real_life_bn": "বন্ধু বা পারিবারিক বিরোধ মেটাতে নিরপেক্ষ থাকুন। উভয় পক্ষের কথা শুনে এমন মীমাংসা করুন যাতে ক্ষতিগ্রস্ত ব্যক্তি ন্যায্য ক্ষতিপূরণ পায়।",
+  "themes": [
+    "dawud",
+    "sulayman",
+    "justice",
+    "judicial-case",
+    "field-dispute"
+  ],
+  "kinds": [
+    "story",
+    "law"
+  ],
+  "entities": {
+    "people": [
+      "Dawud",
+      "Sulayman"
+    ],
+    "nations": [
+      "Bani Israil"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "sheep",
+      "field"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "David and Solomon judged a property case where sheep destroyed a crop at night, with God witnessing their decision.",
+      "claim_bn": "দাউদ ও সুলাইমান রাতের আঁধারে ফসলের জমিতে ভেড়া ঢুকে ফসল নষ্ট করার মামলার বিচার করেছিলেন এবং আল্লাহ তা প্রত্যক্ষ করছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

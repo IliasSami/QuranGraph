@@ -1,0 +1,75 @@
+{
+  "id": "9:65",
+  "simple_en": "If you ask them about their words, they will surely say: We were only talking and joking. Say: Were you mocking Allah, His verses, and His Messenger?",
+  "simple_bn": "আর আপনি যদি তাদের জিজ্ঞেস করেন, তবে তারা অবশ্যই বলবে: আমরা তো কেবল হাসি-ঠাট্টা ও গল্পগুজব করছিলাম। বলুন: তোমরা কি আল্লাহ, তাঁর আয়াত ও তাঁর রাসূলকে নিয়ে ঠাট্টা করছিলে?",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "خوض",
+      "lemma": "خاضُ",
+      "meaning_en": "conversing idle talk",
+      "meaning_bn": "আলাপ-আলোচনা করছিলাম",
+      "why_en": "Trivializing serious blasphemy as casual gossip."
+    },
+    {
+      "pos": 7,
+      "root": "لعب",
+      "lemma": "يَلْعَبْ",
+      "meaning_en": "playing / joking",
+      "meaning_bn": "খেলা-তামাশা করছিলাম",
+      "why_en": "Excusing mockery of sacred truths as harmless banter."
+    },
+    {
+      "pos": 13,
+      "root": "هزأ",
+      "lemma": "اسْتُهْزِئَ",
+      "meaning_en": "mocking / ridiculing",
+      "meaning_bn": "বিদ্রূপ করছিলে / উপহাস করছিলে",
+      "why_en": "Disrespecting sacred signs through careless speech."
+    }
+  ],
+  "lesson_en": "Never make fun of faith or holy words. Show deep respect.",
+  "lesson_bn": "ধর্মের পবিত্র বিষয় ও বিশ্বাস নিয়ে কখনোই উপহাস বা কটূক্তি করা উচিত নয়।",
+  "real_life_en": "Do not mock what people hold sacred just to get a quick laugh. Treat faith and good values with honor.",
+  "real_life_bn": "বন্ধুদের আড্ডায় সস্তা বাহবা পাওয়ার জন্য ধর্ম বা নৈতিকতা নিয়ে ব্যঙ্গবিদ্রূপ করবেন না; পবিত্র বিষয়কে সর্বদা শ্রদ্ধা করুন।",
+  "themes": [
+    "mockery of faith",
+    "casual disrespect",
+    "sacred limits"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Dismissing derogatory speech against Allah, the Quran, or the Prophet as casual joking is explicitly condemned.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

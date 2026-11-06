@@ -1,0 +1,97 @@
+{
+  "id": "12:41",
+  "simple_en": "Yusuf then gave the meaning of their dreams. One man would be set free to serve drink to his master. The other man would be put to death, and birds would feed from his head. This matter was already decided by Allah.",
+  "simple_bn": "এরপর ইউসুফ তাঁদের স্বপ্নের ব্যাখ্যা দিলেন। একজন মুক্তি পেয়ে মনিবকে শরাব পান করাবে। অন্যজনকে ক্রুশবিদ্ধ করা হবে এবং পাখি তার মাথা থেকে ঠুকরে খাবে। যে বিষয়ে তারা জানতে চেয়েছিল, আল্লাহর পক্ষ থেকে তার ফায়সালা হয়ে গেছে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "سقي",
+      "lemma": "سَقَى",
+      "meaning_en": "he will serve drink",
+      "meaning_bn": "পান করাবে",
+      "why_en": "Foretells the restoration of the wine bearer to his former post."
+    },
+    {
+      "pos": 10,
+      "root": "صلب",
+      "lemma": "صَلَبُ",
+      "meaning_en": "he will be crucified",
+      "meaning_bn": "তাকে শূলে চড়ানো হবে",
+      "why_en": "Predicts the capital punishment of the dishonest baker."
+    },
+    {
+      "pos": 15,
+      "root": "قضي",
+      "lemma": "قَضَى",
+      "meaning_en": "is decreed",
+      "meaning_bn": "ফায়সালা হয়ে গেছে",
+      "why_en": "Emphasizes that divine destiny cannot be altered."
+    },
+    {
+      "pos": 19,
+      "root": "فتي",
+      "lemma": "يَسْتَفْتُ",
+      "meaning_en": "you both inquired about",
+      "meaning_bn": "তোমরা জানতে চেয়েছিলে",
+      "why_en": "Refers to the two dreams they had asked Yusuf to interpret."
+    }
+  ],
+  "lesson_en": "Speak the truth with kindness and care, even when the news is hard to hear.",
+  "lesson_bn": "সংবাদ যতই কঠিন হোক, সততা ও সহানুভূতির সাথে সত্য প্রকাশ করা উচিত।",
+  "real_life_en": "A doctor has to share difficult news with a family about an illness. They speak with honesty and care. They help the family prepare and pray for comfort.",
+  "real_life_bn": "চিকিৎসক রোগীর পরিবারকে কঠিন বাস্তবতার খবর জানান। তিনি অত্যন্ত দায়িত্ব ও সহানুভূতির সাথে কথা বলে তাঁদের সান্ত্বনা ও প্রার্থনার পরামর্শ দেন।",
+  "context_en": "After sharing the message of faith, Yusuf directly fulfilled his promise to interpret their dreams.",
+  "context_bn": "তাওহীদের দাওয়াত দেওয়ার পর ইউসুফ তাঁদের স্বপ্নের নির্ভুল ব্যাখ্যা প্রদান করলেন।",
+  "themes": [
+    "divine decree",
+    "truthfulness",
+    "dream interpretation"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "two prison companions",
+      "king"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [
+      "divine decree"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "wine",
+      "bread",
+      "cross"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf interpreted that one prisoner would be freed and serve the king.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He interpreted that the other would be executed, and birds would feed from his head.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

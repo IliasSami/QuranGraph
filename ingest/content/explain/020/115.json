@@ -1,0 +1,76 @@
+{
+  "id": "20:115",
+  "simple_en": "We made an early pact with Adam about the tree. But Adam forgot the clear command, and We did not find in him firm resolve to resist.",
+  "simple_bn": "আমরা ইতিপূর্বে আদমের সাথে অঙ্গীকার করেছিলাম। কিন্তু সে তা ভুলে গিয়েছিল এবং আমরা তার মধ্যে প্রলোভন প্রতিরোধের দৃঢ় সংকল্প পাইনি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عهد",
+      "lemma": "عَهِدَ",
+      "meaning_en": "We made a covenant",
+      "meaning_bn": "আমরা অঙ্গীকার করেছিলাম",
+      "why_en": "The original test and prohibition given to Adam."
+    },
+    {
+      "pos": 7,
+      "root": "نسي",
+      "lemma": "نَسِيَ",
+      "meaning_en": "he forgot",
+      "meaning_bn": "সে ভুলে গেল",
+      "why_en": "Human forgetfulness leading to a lapse in obedience."
+    },
+    {
+      "pos": 11,
+      "root": "عزم",
+      "lemma": "عَزْم",
+      "meaning_en": "firm resolve or willpower",
+      "meaning_bn": "দৃঢ় সংকল্প",
+      "why_en": "Lacking strong determination against subtle whispers."
+    }
+  ],
+  "lesson_en": "People often forget good advice. We must stay alert to keep our promises to God.",
+  "lesson_bn": "মানুষ স্বভাবগতভাবেই বিস্মৃতিপ্রবণ ও দুর্বল। আল্লাহর নির্দেশ পালনে সর্বদা সতর্ক থাকা আবশ্যক।",
+  "real_life_en": "Build firm willpower against temptation. When you slip due to forgetfulness, turn back to God without hesitation.",
+  "real_life_bn": "খারাপ কাজের প্রলোভনের বিরুদ্ধে নিজের ইচ্ছাশক্তি মজবুত করুন। ভুল হয়ে গেলে অবিলম্বে তওবা করে ফিরে আসুন।",
+  "themes": [
+    "adam",
+    "covenant",
+    "human-weakness",
+    "forgetfulness"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Adam"
+    ],
+    "nations": [],
+    "places": [
+      "Paradise"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Covenant with Adam"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God made a covenant with Adam, but he forgot and lacked firm resolve against temptation.",
+      "claim_bn": "আল্লাহ আদমের সাথে অঙ্গীকার করেছিলেন, কিন্তু সে ভুলে গিয়েছিল এবং তার মাঝে দৃঢ় সংকল্পের অভাব ছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "62:6",
+  "simple_en": "The Prophet is told to address those who claim exclusive favor with God. If you believe that you alone are Allah's chosen friends above all people, then wish for death if you are speaking the truth. A person sure of Paradise should not dread meeting their Lord.",
+  "simple_bn": "হে রাসূল, আপনি তাদের বলুন, তোমরা যদি দাবি করো যে অন্যান্য মানুষকে বাদ দিয়ে তোমরাই একমাত্র আল্লাহর প্রিয় বন্ধু, তবে তোমরা নিজেদের দাবিতে সত্যবাদী হলে মৃত্যু কামনা করো। কারণ যে মানুষ নিশ্চিত জান্নাত প্রত্যাশা করে, সে তার প্রভুর সান্নিধ্যে যেতে ভয় পায় না।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "زعم",
+      "lemma": "زَعَمَ",
+      "meaning_en": "you claim and assert",
+      "meaning_bn": "তোমরা দাবি করো",
+      "why_en": "Exposes their unfounded claim of having an exclusive friendship with God."
+    },
+    {
+      "pos": 8,
+      "root": "ولي",
+      "lemma": "وَلِيّ",
+      "meaning_en": "close friends and allies",
+      "meaning_bn": "বন্ধু ও প্রিয়পাত্র",
+      "why_en": "The claim that only their group enjoyed divine favor and salvation."
+    },
+    {
+      "pos": 14,
+      "root": "موت",
+      "lemma": "مَوْت",
+      "meaning_en": "death",
+      "meaning_bn": "মৃত্যু",
+      "why_en": "The decisive test: if you truly are guaranteed Paradise, you should welcome meeting God."
+    }
+  ],
+  "lesson_en": "Sincere faith is proven by honest deeds, not by proud claims of exclusive divine favor.",
+  "lesson_bn": "মিথ্যা অহমিকা বা আভিজাত্যের দাবি নয়, বরং সততা ও নেক আমলই মানুষকে আল্লাহর নৈকট্য এনে দেয়।",
+  "real_life_en": "An athlete claims he can beat every runner in the city, but runs away whenever a race is arranged. Real skill is proved on the track, not through loud talk. Genuine faith welcomes God's judgment with a clean heart.",
+  "real_life_bn": "মুখে বড়াই করে নিজেকে সেরা প্রমাণ করা যায় না, কাজের ময়দানেই আসল পরীক্ষা হয়। আল্লাহর সন্তুষ্টি দাবি করতে হলে অন্তরে সত্যতা ও পবিত্র আমল থাকা জরুরি।",
+  "themes": [
+    "exclusive claim to God's love",
+    "challenge to wish for death",
+    "testing sincerity"
+  ],
+  "kinds": [
+    "argument",
+    "address",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "people-of-the-book"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet is instructed to challenge those who claim exclusive alliance with Allah to wish for death if they are truthful in their claim.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

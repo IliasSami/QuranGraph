@@ -1,0 +1,66 @@
+{
+  "id": "53:19",
+  "simple_en": "Allah asks the idolaters about the false idols they worship besides Him. These statues include al-Lat and al-Uzza. Can these helpless stones bring any benefit, or can they push away any harm? Worship belongs only to Allah, the Living Creator.",
+  "simple_bn": "আল্লাহ মুশরিকদের তাদের মনগড়া প্রতিমাগুলো সম্পর্কে জিজ্ঞাসা করছেন। তারা আল্লাহর পরিবর্তে আল-লাত এবং আল-উযযার মতো মূর্তির পূজা করত। এই নির্জীব পাথর কি তাদের কোনো উপকার করতে পারে বা কোনো ক্ষতি দূর করতে পারে। সমস্ত ইবাদত কেবল মহান আল্লাহর প্রাপ্য।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "رأي",
+      "lemma": "رَأَى",
+      "meaning_en": "have you seen / considered",
+      "meaning_bn": "তোমরা কি দেখেছ বা ভেবেছ",
+      "why_en": "It challenges the listeners to reflect on what they worship."
+    },
+    {
+      "pos": 3,
+      "root": "عزز",
+      "lemma": "الْعُزَّى",
+      "meaning_en": "al-Uzza",
+      "meaning_bn": "আল-উযযা",
+      "why_en": "The name of a major idol worshipped by pagan Arabs."
+    }
+  ],
+  "lesson_en": "False gods possess no power to help or harm anyone.",
+  "lesson_bn": "মিথ্যা উপাস্য কারো কোনো উপকার বা ক্ষতি করার ক্ষমতা রাখে না।",
+  "real_life_en": "Never put your ultimate hopes in lucky charms, horoscopes, or created things. Turn your heart in prayer to Allah alone when you need help.",
+  "real_life_bn": "ভাগ্য গণনা, তাবিজ বা কোনো সৃষ্টির উপর ভরসা করবেন না। বিপদে বা প্রয়োজনে সর্বদা এককভাবে আল্লাহর কাছে দোয়া করুন।",
+  "context_en": "After establishing the truth of revelation, the surah exposes the weakness of pagan idols.",
+  "context_bn": "ওহীর সত্যতা প্রমাণের পর মক্কার মুশরিকদের পূজিত প্রতিমার অসারতা প্রকাশ করা হয়েছে।",
+  "themes": [
+    "shirk",
+    "tawhid",
+    "disbelief",
+    "worship"
+  ],
+  "kinds": [
+    "argument",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah questions the idolaters about Lat and Uzza that they worshipped besides Him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

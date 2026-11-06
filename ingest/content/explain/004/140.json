@@ -1,0 +1,109 @@
+{
+ "id": "4:140",
+ "simple_en": "Allah has already instructed you in the Book: when you hear people denying or mocking Allah's signs, do not sit with them. Leave their company until they change the topic. If you sit quietly while they insult the faith, you share in their sin. Allah will gather all the hypocrites and disbelievers together in Hell.",
+ "simple_bn": "কিতাবে আল্লাহ তোমাদের আগেই নির্দেশ দিয়েছেন যে, কোথাও আল্লাহর আয়াত নিয়ে বিদ্রূপ করা হলে সেখানে বসবে না। যতক্ষণ তারা প্রসঙ্গ পরিবর্তন না করে, তাদের সঙ্গ এড়িয়ে চলো। অন্যথায় তোমরাও তাদের পাপে অংশীদার হবে। নিশ্চয় আল্লাহ সব মুনাফিক ও কাফিরকে জাহান্নামে একত্র করবেন।",
+ "key_words": [
+  {
+   "pos": 13,
+   "root": "هزأ",
+   "lemma": "اسْتُهْزِئَ",
+   "meaning_en": "mocked or ridiculed",
+   "meaning_bn": "বিদ্রূপ বা উপহাস করা হয়",
+   "why_en": "Describes making fun of sacred verses, which requires an immediate protective response."
+  },
+  {
+   "pos": 16,
+   "root": "قعد",
+   "lemma": "قَعَدَ",
+   "meaning_en": "do not sit",
+   "meaning_bn": "বসো না",
+   "why_en": "Commands believers to walk away from gatherings where faith is disrespected."
+  },
+  {
+   "pos": 19,
+   "root": "خوض",
+   "lemma": "خاضُ",
+   "meaning_en": "they engage or discuss",
+   "meaning_bn": "তারা নিমগ্ন হয় বা প্রবৃত্ত হয়",
+   "why_en": "Conditions staying or departing on the topic being discussed by the group."
+  },
+  {
+   "pos": 25,
+   "root": "مثل",
+   "lemma": "مِثْل",
+   "meaning_en": "like them",
+   "meaning_bn": "তাদের মতো",
+   "why_en": "Warns that remaining silently complicit in mockery makes one share in the guilt."
+  },
+  {
+   "pos": 28,
+   "root": "جمع",
+   "lemma": "جامِع",
+   "meaning_en": "Gatherer",
+   "meaning_bn": "একত্রকারী",
+   "why_en": "Affirms that Allah will assemble hypocrites and open mockers in Hell together."
+  }
+ ],
+ "lesson_en": "Leave any gathering where faith is mocked, so you do not share in the sin.",
+ "lesson_bn": "যেখানে দ্বীনি বিষয় বা আল্লাহর আয়াত নিয়ে উপহাস করা হয় সেখান থেকে সরে যাওয়া উচিত, কারণ চুপচাপ বসে থাকা অন্যায়কে সমর্থনের শামিল।",
+ "real_life_en": "If friends or coworkers start mocking Islam, do not laugh or sit quietly. Speak up with polite words if you can. If they continue, step away from the group until they talk about something else.",
+ "real_life_bn": "আড্ডায় বা সোশ্যাল মিডিয়ায় যখন কেউ ধর্ম বা পবিত্র বিষয় নিয়ে কটূক্তি বা বিদ্রূপ করে, তখন তাতে সম্মতি দেবেন না। ভদ্রভাবে প্রতিবাদ করুন, অন্যথায় সেই স্থান বা আড্ডা পরিত্যাগ করুন।",
+ "context_en": "This verse reminds believers of a command given earlier in Mecca (Surah al-An'am 6:68), strictly forbidding social complicity with mockers of the Quran.",
+ "context_bn": "পূর্বে মক্কায় নাযিল হওয়া বিধানের (সূরা আল-আন'আম ৬:৬৮) কথা মনে করিয়ে দিয়ে দ্বীনকে নিয়ে ঠাট্টা-বিদ্রূপকারীদের সঙ্গ ত্যাগের কঠোর নির্দেশ দেওয়া হয়েছে।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "hypocrisy",
+  "disbelief",
+  "Hell",
+  "good character"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "warning",
+  "hereafter",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Believers are commanded to leave gatherings where Allah's verses are rejected or mocked until the topic changes.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Sitting willingly with mockers without objecting makes a person share in their sin.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah will gather the hypocrites and disbelievers together in the punishment of Hell.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

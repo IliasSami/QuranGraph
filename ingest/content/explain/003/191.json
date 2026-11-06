@@ -1,0 +1,98 @@
+{
+  "id": "3:191",
+  "simple_en": "These are the people who remember Allah in every state—standing, sitting, and lying on their sides. They reflect deeply on the creation of the heavens and the earth. They say, 'Our Lord, You did not create this universe without a purpose. Glory belongs to You, so save us from the torment of the Fire.'",
+  "simple_bn": "তারা সেই সব মানুষ, যারা দাঁড়িয়ে, বসে ও শুয়ে সর্বাবস্থায় আল্লাহকে স্মরণ করে। তারা আসমান ও জমিনের সৃষ্টি নিয়ে গভীরভাবে চিন্তা করে এবং বলে, 'হে আমাদের রব, আপনি এগুলো অনর্থক সৃষ্টি করেননি। আপনি পরম পবিত্র, তাই আমাদেরকে জাহান্নামের আগুন থেকে রক্ষা করুন।'",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ذكر",
+      "lemma": "ذَكَرَ",
+      "meaning_en": "they remember",
+      "meaning_bn": "তারা স্মরণ করে",
+      "why_en": "Depicts continuous remembrance of Allah through speech and heart in every posture."
+    },
+    {
+      "pos": 8,
+      "root": "فكر",
+      "lemma": "يَتَفَكَّرُ",
+      "meaning_en": "they reflect / ponder",
+      "meaning_bn": "তারা চিন্তা করে",
+      "why_en": "Highlights purposeful intellectual contemplation of the physical universe."
+    },
+    {
+      "pos": 17,
+      "root": "بطل",
+      "lemma": "باطِل",
+      "meaning_en": "in vain / without purpose",
+      "meaning_bn": "অনর্থক বা বৃথা",
+      "why_en": "Rejects the nihilistic idea that creation exists without divine wisdom and moral purpose."
+    },
+    {
+      "pos": 18,
+      "root": "سبح",
+      "lemma": "سُبْحان",
+      "meaning_en": "glory be to You / exalted are You",
+      "meaning_bn": "আপনি পরম পবিত্র",
+      "why_en": "Declares Allah free from every imperfection, flaw, and futile act."
+    }
+  ],
+  "lesson_en": "Remember Allah in all you do and look with wonder at His creation.",
+  "lesson_bn": "সর্বাবস্থায় আল্লাহর যিকিরের সাথে সৃষ্টিজগত নিয়ে গভীর চিন্তাভাবনা জুড়ে দিন।",
+  "real_life_en": "You can remember Allah throughout your regular day. Say a short prayer while walking to class, waiting in traffic, or relaxing before sleep. Let daily quiet moments turn your thoughts to Allah and His mercy.",
+  "real_life_bn": "দৈনন্দিন কাজের ফাঁকেই আল্লাহর যিকির করা যায়। হাঁটার সময়, যানবাহনে বসে বা ঘুমানোর আগে মনে মনে আল্লাহর প্রশংসা করুন। এই ছোট অভ্যাসগুলো অন্তরকে প্রশান্ত ও আল্লাহর সান্নিধ্যে রাখে।",
+  "context_en": "Describes the inner devotion and intellectual habits of the people of understanding introduced in 3:190.",
+  "context_bn": "১৯০ নম্বর আয়াতে উল্লিখিত বুদ্ধিমানদের চারিত্রিক বৈশিষ্ট্য, সর্বাবস্থায় আল্লাহর যিকির ও তাদের গভীর চিন্তার বিবরণ তুলে ধরা হয়েছে।",
+  "themes": [
+    "remembrance of Allah",
+    "reflection",
+    "dua",
+    "creation",
+    "Hell",
+    "prayer"
+  ],
+  "kinds": [
+    "praise",
+    "worship",
+    "dua",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "heavens",
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "True people of understanding remember Allah in all physical postures—standing, sitting, and lying down.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Reflecting on cosmic creation convinces them that life has divine purpose, motivating their plea for rescue from the Fire.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

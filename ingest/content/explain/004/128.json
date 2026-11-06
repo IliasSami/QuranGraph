@@ -1,0 +1,94 @@
+{
+ "id": "4:128",
+ "simple_en": "If a wife fears harsh treatment or neglect from her husband, they may make a peaceful agreement. Making peace is far better than fighting or parting ways. People often hold on to greed and pride. If you show kindness and fear Allah, He knows all that you do.",
+ "simple_bn": "কোনো স্ত্রী যদি তার স্বামীর পক্ষ থেকে দুর্ব্যবহার বা উপেক্ষার আশঙ্কা করে, তবে তারা নিজেরা কোনো আপস-মীমাংসা করে নিলে তাতে কোনো দোষ নেই। আর আপস-মীমাংসাই সবচেয়ে উত্তম পন্থা। মানুষের অন্তরে স্বার্থপরতা ও কৃপণতা স্বাভাবিকভাবেই থাকে। তোমরা যদি একে অপরের প্রতি সদাচরণ করো এবং আল্লাহকে ভয় করো, তবে নিশ্চয় আল্লাহ তোমাদের সব কাজের খবর রাখেন।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "بعل",
+   "lemma": "بَعْل",
+   "meaning_en": "her husband",
+   "meaning_bn": "তার স্বামী",
+   "why_en": "Identifies the marriage relationship where tension or neglect might arise."
+  },
+  {
+   "pos": 6,
+   "root": "نشز",
+   "lemma": "نُشُوز",
+   "meaning_en": "ill-treatment or mistreatment",
+   "meaning_bn": "দুর্ব্যবহার বা অবাধ্যতা",
+   "why_en": "Refers to a husband acting harshly or withdrawing care from his wife."
+  },
+  {
+   "pos": 16,
+   "root": "صلح",
+   "lemma": "صُلْح",
+   "meaning_en": "peaceful reconciliation",
+   "meaning_bn": "আপস-মীমাংসা বা শান্তি",
+   "why_en": "Establishes that mutual compromise and peace are better than bitter conflict."
+  },
+  {
+   "pos": 20,
+   "root": "شحح",
+   "lemma": "شُحّ",
+   "meaning_en": "greed and selfishness",
+   "meaning_bn": "স্বার্থপরতা ও কৃপণতা",
+   "why_en": "Points out a human trait where each person clings tightly to personal rights."
+  }
+ ],
+ "lesson_en": "Making peace in marriage is far better than fighting.",
+ "lesson_bn": "দাম্পত্য জীবনে বিরোধ দেখা দিলে একগুঁয়েমি পরিহার করে পারস্পরিক আপস-মীমাংসা করাই সর্বোত্তম।",
+ "real_life_en": "When friction grows in a marriage, do not let pride make matters worse. Sitting down together to talk, give way on some points, and show kindness can heal the home.",
+ "real_life_bn": "পরিবারে মতবিরোধ দেখা দিলে নিজের জেদ বা অহংকার ধরে রাখবেন না। কিছুটা ছাড় দিয়ে এবং ধৈর্য ধরে কথা বললে অনেক বড় অশান্তি এড়ানো যায়।",
+ "context_en": "After discussing general rights of women, the Quran addresses how to handle discord within marriage peacefully.",
+ "context_bn": "নারীদের অধিকারের বর্ণনার পর দাম্পত্য জীবনে টানাপোড়েন তৈরি হলে তা কীভাবে শান্তির সাথে মীমাংসা করতে হয়, এই আয়াতে তা নির্দেশ করা হয়েছে।",
+ "themes": [
+  "marriage",
+  "family",
+  "peace",
+  "good character",
+  "taqwa"
+ ],
+ "kinds": [
+  "law",
+  "ethics",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Spouses may reach a mutual compromise if the wife fears ill-treatment or desertion from her husband.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Reconciliation and peaceful settlement are better than conflict or separation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Human souls naturally possess greed, so practicing kindness and piety overcomes discord.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

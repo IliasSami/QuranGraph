@@ -1,0 +1,87 @@
+{
+  "id": "12:85",
+  "simple_en": "The sons swore by Allah that their father would never stop weeping for Yusuf. They warned that his constant grief would ruin his health or lead to death.",
+  "simple_bn": "ছেলেরা বলল, আল্লাহর কসম, আপনি তো ইউসুফের স্মৃতি ভুলবেনই না যতক্ষণ না আপনি মৃত্যুমুখে পতিত হন বা ধ্বংস হয়ে যান।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "by Allah",
+      "meaning_bn": "আল্লাহর কসম",
+      "why_en": "An oath expressing their frustration at his continued sorrow."
+    },
+    {
+      "pos": 4,
+      "root": "ذكر",
+      "lemma": "تَذْكُرُ",
+      "meaning_en": "you remember",
+      "meaning_bn": "আপনি স্মরণ করবেন",
+      "why_en": "Constantly mentioning Yusuf even after decades had passed."
+    },
+    {
+      "pos": 8,
+      "root": "حرض",
+      "lemma": "حَرَض",
+      "meaning_en": "fatally ill / severely weakened",
+      "meaning_bn": "মারাত্মক অসুস্থ বা দুর্বল",
+      "why_en": "Extreme physical deterioration caused by perpetual mourning."
+    },
+    {
+      "pos": 12,
+      "root": "هلك",
+      "lemma": "هالِك",
+      "meaning_en": "those who perish",
+      "meaning_bn": "মৃতদের একজন",
+      "why_en": "Dying from persistent emotional heartache."
+    }
+  ],
+  "lesson_en": "Be gentle with grieving family members, rather than judging how long their pain lasts.",
+  "lesson_bn": "শোকার্ত মানুষের প্রতি সহানুভূতিশীল হোন, তাদের কষ্ট প্রকাশকে উপহাস বা অবহেলা করবেন না।",
+  "real_life_en": "An old man still looks at photos of his late wife. His children sit with him kindly and listen to his memories.",
+  "real_life_bn": "এক বৃদ্ধ পিতা প্রতিদিন প্রয়াত স্ত্রীর ছবি দেখে স্মৃতিকাতর হন। সন্তানরা তাঁকে বিরক্ত না করে পরম শ্রদ্ধার সাথে তাঁর পাশে বসে সান্ত্বনা দেয়।",
+  "context_en": "Seeing their father weep incessantly, the sons cautioned that his persistent mourning could kill him.",
+  "context_bn": "পিতার অবিরাম কান্না দেখে সন্তানরা আশঙ্কা করল যে তিনি হয়তো শোকে মারা যাবেন।",
+  "themes": [
+    "family concern",
+    "enduring love",
+    "compassion for grief"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "brothers of Yusuf",
+      "Yaqub",
+      "Yusuf"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The sons warned Yaqub that his grief for Yusuf would ruin his health or cause death.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

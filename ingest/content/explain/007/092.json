@@ -1,0 +1,85 @@
+{
+  "id": "7:92",
+  "simple_en": "The destruction was so total that it erased all signs of their wealth. It seemed as if they had never lived there in luxury. Those who accused Shu'ayb of bringing loss suffered the real loss themselves. They lost both their worldly ease and their eternal salvation. Rejecting divine truth always brings ultimate defeat.",
+  "simple_bn": "তাদের ধ্বংসযজ্ঞ এতটাই নিখুঁত ছিল যে মনে হচ্ছিল তারা কখনো সেখানে প্রাচুর্যের মাঝে বসবাসই করেনি। যারা দাবি করেছিল শুআইবকে মানলে ক্ষতি হবে, তারাই প্রকৃতপক্ষে চরম ক্ষতিগ্রস্ত হয়েছিল। তারা তাদের পার্থিব সুখ-শান্তি এবং পরকালের চিরস্থায়ী মুক্তি উভয়ই হারিয়েছিল। আল্লাহর দ্বীনকে মিথ্যা প্রতিপন্ন করার অনিবার্য পরিণতি হলো চূড়ান্ত ব্যর্থতা।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied or called a liar",
+      "meaning_bn": "মিথ্যারোপ করল",
+      "why_en": "The persistent rejection of truth that brought about their ruin."
+    },
+    {
+      "pos": 6,
+      "root": "غني",
+      "lemma": "أَغْنَى",
+      "meaning_en": "lived or prospered",
+      "meaning_bn": "বসবাস করেছিল বা সমৃদ্ধ ছিল",
+      "why_en": "Conveys complete wipeout, leaving no trace of their civilization."
+    },
+    {
+      "pos": 13,
+      "root": "خسر",
+      "lemma": "خاسِر",
+      "meaning_en": "the real losers",
+      "meaning_bn": "প্রকৃত ক্ষতিগ্রস্ত",
+      "why_en": "Irony that those who predicted loss for believers became the true losers."
+    }
+  ],
+  "lesson_en": "Denying the truth erases worldly glory. Those who reject God's guidance are the real losers in both lives.",
+  "lesson_bn": "সত্য অস্বীকার করলে দুনিয়ার সমস্ত জাঁকজমক ধুলায় মিশে যায়। যারা আল্লাহর পথ ত্যাগ করে, তারাই উভয় জগতে চূড়ান্ত ক্ষতিগ্রস্ত হয়।",
+  "real_life_en": "Never measure success purely by wealth or social fame. The wealthy people of Madyan vanished without leaving a trace. True success is to live with faith and good deeds, earning God's pleasure that lasts forever.",
+  "real_life_bn": "কেবল টাকাপয়সা বা ক্ষমতার ভিত্তিতে জীবনের সাফল্য বিচার করবেন না। মাদইয়ানের ধনী ব্যবসায়ীরা এক নিমেষেই নিশ্চিহ্ন হয়ে গিয়েছিল। ঈমান ও সৎকাজের মাধ্যমে আল্লাহর সন্তুষ্টি অর্জন করাই জীবনের একমাত্র স্থায়ী ও প্রকৃত সাফল্য।",
+  "context_en": "The ironic reversal of the chieftains' threat: those who labeled belief as ruinous were themselves completely wiped out.",
+  "context_bn": "কাফিরদের ভীতি প্রদর্শনের নির্মম পরিহাস: যারা মুমিনদের ক্ষতির ভয় দেখিয়েছিল, তারাই সমূলে ধ্বংস হয়ে প্রকৃত ক্ষতিগ্রস্ত সাব্যস্ত হলো।",
+  "themes": [
+    "Shu'ayb",
+    "divine justice",
+    "loss",
+    "temporary world",
+    "total destruction"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [
+      "people of Madyan"
+    ],
+    "places": [
+      "Madyan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The deniers of Shu'ayb were so thoroughly annihilated that it seemed as though they had never prospered in their city.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Those who branded followers of the prophet as losers were proven to be the true losers in both worlds.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

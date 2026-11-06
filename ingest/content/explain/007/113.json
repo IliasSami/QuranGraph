@@ -1,0 +1,87 @@
+{
+ "id": "7:113",
+ "simple_en": "The summoned magicians arrived at Pharaoh's palace. Before starting, they sought material gain. They asked Pharaoh if they would receive a large reward if they won against Musa. Their main concern was money and worldly success.",
+ "simple_bn": "আমন্ত্রিত জাদুকরেরা ফিরআউনের রাজদরবারে উপস্থিত হলো। প্রতিযোগিতায় নামার আগেই তারা পার্থিব স্বার্থের কথা তুলল। তারা ফিরআউনকে জিজ্ঞেস করল, যদি আমরা মূসার বিরুদ্ধে জয়লাভ করি, তবে আমাদের জন্য কি বিশেষ কোনো পুরস্কার বা সম্মানী থাকবে? তাদের মূল লক্ষ্য ছিল ধন-সম্পদ ও জাগতিক লাভ।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سحر",
+   "lemma": "ساحِر",
+   "meaning_en": "the magicians",
+   "meaning_bn": "জাদুকরগণ",
+   "why_en": "The assembled practitioners who came forward to represent Pharaoh's regime."
+  },
+  {
+   "pos": 7,
+   "root": "أجر",
+   "lemma": "أَجْر",
+   "meaning_en": "surely a reward",
+   "meaning_bn": "অবশ্যই কোনো পুরস্কার",
+   "why_en": "Shows their initial worldly motivation of money and material compensation."
+  },
+  {
+   "pos": 11,
+   "root": "غلب",
+   "lemma": "غالِب",
+   "meaning_en": "the victors / predominant",
+   "meaning_bn": "বিজয়ী দল",
+   "why_en": "Conditioning their reward on defeating Musa in the contest."
+  }
+ ],
+ "lesson_en": "Greedy people care only about money, status, and selfish gain.",
+ "lesson_bn": "পরকালবিমুখ মানুষের প্রধান লক্ষ্য থাকে কেবল জাগতিক লাভ, সম্পদ এবং স্বার্থান্বেষী পুরস্কারের দিকে।",
+ "real_life_en": "When choosing a job, look beyond cash. Working only for money can lead you to help bad causes. Always ask if your work pleases Allah and helps people.",
+ "real_life_bn": "কোনো দায়িত্ব গ্রহণ করার সময় কেবল অর্থের মোহে সিদ্ধান্ত নেবেন না। কেবল পার্থিব লাভের জন্য অন্যায়ের সহযোগী হওয়া উচিত নয়। সর্বদা খেয়াল রাখুন আপনার কাজ ন্যায়সঙ্গত কিনা এবং তা মানুষের কল্যাণে আসছে কিনা।",
+ "context_en": "The magicians arrive before Pharaoh and negotiate compensation before challenging Prophet Musa.",
+ "context_bn": "জাদুকররা ফিরআউনের দরবারে পৌঁছে মূসার মোকাবেলা করার আগে নিজেদের পার্থিব পারিশ্রমিক দাবি করে।",
+ "themes": [
+  "magicians",
+  "worldly motives",
+  "desire for reward",
+  "Pharaoh's court"
+ ],
+ "kinds": [
+  "story",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Pharaoh",
+   "magicians",
+   "Musa (Moses)"
+  ],
+  "nations": [],
+  "places": [
+   "palace of Pharaoh"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "reward"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The magicians came before Pharaoh and asked for a guaranteed reward if they defeated Musa.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The initial motivation of the magicians was material wealth and prestige from the ruler.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

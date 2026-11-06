@@ -1,0 +1,61 @@
+{
+  "id": "54:24",
+  "simple_en": "They asked with arrogance why they should follow a single human from among themselves. They claimed that following him would put them in clear error and utter madness.",
+  "simple_bn": "তারা অহংকার করে বলেছিল যে তাদেরই মতো একজন সাধারণ মানুষকে কেন তারা অনুসরণ করবে। তারা দাবি করেছিল যে এমন কাজ করলে তারা স্পষ্ট পথভ্রষ্টতা ও কষ্টে পতিত হবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "بشر",
+      "lemma": "بَشَر",
+      "meaning_en": "a human being",
+      "meaning_bn": "একজন মানুষ",
+      "why_en": "Highlights their flawed assumption that a prophet could not be a normal mortal man."
+    },
+    {
+      "pos": 9,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "error",
+      "meaning_bn": "পথভ্রষ্টতা",
+      "why_en": "Shows how they inverted reality by branding true divine guidance as deviation."
+    }
+  ],
+  "lesson_en": "Arrogance causes people to reject the truth because of who delivers it.",
+  "lesson_bn": "অহংকার মানুষকে সত্য বাহকের পরিচয় দেখে সত্য অস্বীকার করতে বাধ্য করে।",
+  "real_life_en": "A senior manager refuses to adopt a great idea just because an intern suggested it. His pride costs the company a huge gain. Wisdom should be accepted no matter who speaks it.",
+  "real_life_bn": "প্রতিষ্ঠানের একজন অভিজ্ঞ কর্মকর্তা এক জুনিয়রের দেওয়া চমৎকার পরামর্শ নাকচ করে দেন। কেবল অহংকারের কারণে তিনি ভালো প্রস্তাব গ্রহণ না করায় প্রতিষ্ঠানের ক্ষতি হয়।",
+  "themes": [
+    "arrogance",
+    "human nature",
+    "prophethood"
+  ],
+  "kinds": [
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Thamud questioned following a solitary human from among themselves, alleging it would lead to error.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

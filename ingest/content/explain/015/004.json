@@ -1,0 +1,77 @@
+{
+  "id": "15:4",
+  "simple_en": "We never destroyed any city without a set time written down. Allah gives every people time to turn back before His judgment falls upon them in truth.",
+  "simple_bn": "আমরা কোনো জনপদকে তার নির্ধারিত লিখিত সময়সীমা পূর্ণ হওয়ার আগে কখনো ধ্বংস করিনি। আল্লাহ চূড়ান্ত ফায়সালার আগে প্রতিটি জাতিকে তওবার পর্যাপ্ত সুযোগ দেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "We destroyed",
+      "meaning_bn": "আমরা ধ্বংস করেছি",
+      "why_en": "Divine eradication of corrupt societies."
+    },
+    {
+      "pos": 4,
+      "root": "قري",
+      "lemma": "قَرْيَة",
+      "meaning_en": "a city",
+      "meaning_bn": "জনপদ",
+      "why_en": "An inhabited township or nation."
+    },
+    {
+      "pos": 7,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "a decree",
+      "meaning_bn": "লিপিবদ্ধ কাল",
+      "why_en": "A written predetermined term."
+    },
+    {
+      "pos": 8,
+      "root": "علم",
+      "lemma": "مَعْلُوم",
+      "meaning_en": "known",
+      "meaning_bn": "নির্দিষ্ট",
+      "why_en": "Known precisely to Allah."
+    }
+  ],
+  "lesson_en": "Every community has an appointed time. Live justly before your time runs out.",
+  "lesson_bn": "প্রতিটি সমাজের জন্য একটি নির্দিষ্ট মেয়াদ রয়েছে। সময় ফুরিয়ে যাওয়ার আগেই ন্যায়ের পথে চলুন।",
+  "real_life_en": "A corrupt town leadership ignores warnings about water pollution and building codes. For years nothing happens, but one day a flood ruins their illegal dams. Injustice meets its set hour.",
+  "real_life_bn": "এক অসৎ নগর কর্তৃপক্ষ বছরের পর বছর পরিবেশদূষণ ও সতর্কবার্তা উপেক্ষা করে। অবশেষে একদিন পাহাড়ি ঢলে তাদের অবৈধ স্থাপনা ভেসে যায়। অবিচারের নির্দিষ্ট মেয়াদ একসময় শেষ হয়ে আসে।",
+  "context_en": "The established divine rule that no society is destroyed except at its appointed term.",
+  "context_bn": "কোনো জনপদকেই তার নির্ধারিত ও পূর্বনির্ধারিত সময় ছাড়া ধ্বংস না করার ঐশী নিয়ম।",
+  "themes": [
+    "history",
+    "divine-decree",
+    "justice"
+  ],
+  "kinds": [
+    "warning",
+    "belief",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "No settlement was destroyed without a predetermined decree known to Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

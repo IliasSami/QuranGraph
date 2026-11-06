@@ -1,0 +1,81 @@
+{
+  "id": "33:17",
+  "simple_en": "Say to them: Who can protect you from Allah if He decrees harm for you, or who can prevent it if He intends mercy? No one has power against His will. Beyond Allah, people will never find any true protector or helper to save them.",
+  "simple_bn": "তাদের বলুন: যদি আল্লাহ তোমাদের কোনো ক্ষতি করতে চান তবে কে তোমাদের রক্ষা করবে, আর যদি তিনি রহমত বর্ষণ করতে চান তবে কেইবা তা প্রতিহত করবে? আল্লাহর ইচ্ছার বিরুদ্ধে কেউ দাঁড়াতে পারে না। আল্লাহ ছাড়া তারা নিজেদের কোনো সত্যিকারের অভিভাবক বা সাহায্যকারী পাবে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": null,
+      "lemma": "الَّذِي",
+      "meaning_en": "can protect / shield you",
+      "meaning_bn": "তোমাদের রক্ষা করবে",
+      "why_en": "Emphasizes that no power in existence can shield anyone from God's decree."
+    },
+    {
+      "pos": 13,
+      "root": "رود",
+      "lemma": "أَرادَ",
+      "meaning_en": "mercy / good",
+      "meaning_bn": "অনুগ্রহ ও রহমত",
+      "why_en": "Shows that all blessing and goodness comes solely from divine mercy."
+    },
+    {
+      "pos": 21,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "a protector / guardian",
+      "meaning_bn": "কোনো অভিভাবক",
+      "why_en": "Points out that there is no true ally besides God."
+    },
+    {
+      "pos": 23,
+      "root": null,
+      "lemma": "لا",
+      "meaning_en": "a helper",
+      "meaning_bn": "কোনো সাহায্যকারী",
+      "why_en": "Affirms that no one can help those who incur divine wrath."
+    }
+  ],
+  "lesson_en": "No one can prevent what God decrees, whether it is trial or mercy, so seek His help alone.",
+  "lesson_bn": "আল্লাহর নির্ধারিত ভাগ্য কেউ রোধ করতে পারে না, তাই সকল বিপদ ও অনুগ্রহের জন্য একমাত্র তাঁর ওপর নির্ভর করুন।",
+  "real_life_en": "When you face uncertainty, remember that people cannot harm or help you without God's permission. Put your hope in His mercy and do what is right.",
+  "real_life_bn": "কোনো মানুষ আপনাকে বিপদে ফেলতে পারবে না যদি আল্লাহ রক্ষা করেন। তাই মানুষের মন জুগিয়ে অন্যায় না করে একমাত্র আল্লাহর অনুগ্রহের ওপর আশা রাখুন।",
+  "themes": [
+    "Allah's power",
+    "Allah's mercy",
+    "trust in Allah",
+    "tawhid"
+  ],
+  "kinds": [
+    "argument",
+    "command",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "No one can shield anyone against Allah if He intends adversity or mercy, and none will find a protector or helper besides Him.",
+      "claim_bn": "আল্লাহ কারো অমঙ্গল বা অনুগ্রহ করতে চাইলে কেউ তা ঠেকাতে পারে না এবং তিনি ছাড়া কোনো সাহায্যকারী নেই।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "9:2",
+  "simple_en": "The idolaters may move safely through the land for four months. They should know that no one can escape Allah power, and that He will disgrace those who reject the truth.",
+  "simple_bn": "মুশরিকদের চার মাস নিরাপদ বিচরণের সুযোগ দেওয়া হলো। তবে তারা যেন জেনে রাখে যে আল্লাহর ক্ষমতা অতিক্রম করার সাধ্য কারও নেই, আর সত্য অস্বীকারকারীদের তিনি অপদস্থ করবেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سيح",
+      "lemma": "سِيحُ",
+      "meaning_en": "travel freely",
+      "meaning_bn": "পরিভ্রমণ করো / অবাধে চলাফেরা করো",
+      "why_en": "Four months grace period given without fear of attack."
+    },
+    {
+      "pos": 9,
+      "root": "عجز",
+      "lemma": "مُعْجِز",
+      "meaning_en": "causing failure / escaping",
+      "meaning_bn": "অক্ষমকারী / এড়িয়ে যাওয়ার সাধ্য নেই",
+      "why_en": "Human inability to evade divine justice or sovereign power."
+    },
+    {
+      "pos": 13,
+      "root": "خزي",
+      "lemma": "مُخْزِي",
+      "meaning_en": "disgracer / humbler",
+      "meaning_bn": "অপদস্থকারী / লাঞ্ছনাকারী",
+      "why_en": "Ultimate humiliation awaiting those persistent in treachery."
+    }
+  ],
+  "lesson_en": "Time is given to reflect, but wrongdoing brings swift justice.",
+  "lesson_bn": "ন্যায্য ফয়সালার আগে আত্মোপলব্ধির সুযোগ দেওয়া হলেও একগুঁয়ে অন্যায়কারী কখনই জবাবদিহি এড়াতে পারে না।",
+  "real_life_en": "Give notice before taking legal steps. This gives the other side time to fix things before it is too late.",
+  "real_life_bn": "কোনো বিরোধে চূড়ান্ত ব্যবস্থা নেওয়ার আগে নির্দিষ্ট সময় বেঁধে নোটিশ দেওয়া উচিত, যেন সবাই ভেবেচিন্তে সঠিক সিদ্ধান্ত নেওয়ার সুযোগ পায়।",
+  "themes": [
+    "grace period",
+    "accountability",
+    "divine justice"
+  ],
+  "kinds": [
+    "law",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "A grace period of four months was granted to idolaters to travel freely and consider their future.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

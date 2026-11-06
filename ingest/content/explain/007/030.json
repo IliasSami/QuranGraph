@@ -1,0 +1,82 @@
+{
+ "id": "7:30",
+ "simple_en": "Allah has guided one group of people because they sought the truth. Another group deserved to go astray because they turned away from Allah. They chose devils as their close allies and protectors instead of their Lord. The worst part is that they mistakenly believe they are following right guidance.",
+ "simple_bn": "আল্লাহ এক দলকে হেদায়াত দান করেছেন, কারণ তারা সত্য অন্বেষণ করেছে। আর আরেক দলের ওপর পথভ্রষ্টতা অবধারিত হয়েছে। তারা আল্লাহকে ছেড়ে শয়তানদের অভিভাবক ও বন্ধু বানিয়ে নিয়েছে। অথচ মারাত্মক ভ্রান্তিতে থেকেও তারা মনে করে যে তারাই সঠিক পথে রয়েছে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "فرق",
+   "lemma": "فَرِيق",
+   "meaning_en": "a party / group",
+   "meaning_bn": "এক দল",
+   "why_en": "Describes humanity divided into two groups regarding guidance and error."
+  },
+  {
+   "pos": 6,
+   "root": "ضلل",
+   "lemma": "ضَلالَة",
+   "meaning_en": "misguidance / straying",
+   "meaning_bn": "পথভ্রষ্টতা",
+   "why_en": "Highlights the punishment of straying deserved by those who take devils as friends."
+  },
+  {
+   "pos": 16,
+   "root": "هدي",
+   "lemma": "مُهْتَدي",
+   "meaning_en": "rightly guided",
+   "meaning_bn": "সঠিক পথপ্রাপ্ত",
+   "why_en": "Exposes the tragic delusion of misdirected people who imagine they are on the truth."
+  }
+ ],
+ "lesson_en": "Relying on devils blinds the heart. Sincerity to Allah is the only true shield against delusion.",
+ "lesson_bn": "শয়তানকে বন্ধু বানালে অন্তর অন্ধ হয়ে যায়। আল্লাহর আনুগত্যই আত্মপ্রতারণা থেকে বাঁচার একমাত্র উপায়।",
+ "real_life_en": "Do not assume you are safe from error. Check your deeds by the Quran and Sunnah. Ask Allah each day to keep you on the right path.",
+ "real_life_bn": "নিজের ভুলকে সঠিক মনে করে আত্মতুষ্টিতে ভুগবেন না। সর্বদা কুরআন ও সুন্নাহর মানদণ্ডে নিজের পথ যাচাই করুন। অন্তরের হিদায়াতের ওপর অটল থাকার জন্য নিয়মিত আল্লাহর কাছে দোয়া করুন।",
+ "context_en": "Contrasting those guided by Allah with those who take devils as allies while falsely thinking they are guided.",
+ "context_bn": "সত্যসন্ধানী হেদায়াতপ্রাপ্ত দল এবং শয়তানকে বন্ধু বানিয়ে আত্মপ্রবঞ্চনায় নিমজ্জিত পথভ্রষ্ট দলের পার্থক্য বর্ণনা করা হয়েছে।",
+ "themes": [
+  "guidance and misguidance",
+  "delusion",
+  "allies of Satan"
+ ],
+ "kinds": [
+  "warning",
+  "belief",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "devils"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Humanity is divided: one group receives guidance, while another earns misguidance by taking devils as allies instead of Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The misdirected group suffers the severe spiritual blindness of believing they are rightly guided.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

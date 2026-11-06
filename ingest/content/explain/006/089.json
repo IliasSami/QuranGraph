@@ -1,0 +1,84 @@
+{
+  "id": "6:89",
+  "simple_en": "These were the noble prophets whom Allah blessed with scriptures, wisdom, and prophethood. If the rejecters in Makkah deny this truth, it will not harm Allah's religion. He has prepared faithful believers who accept the message with sincere hearts. True faith will always find steadfast defenders.",
+  "simple_bn": "এঁরা ছিলেন সেই মহান নবীগণ, যাঁদের আল্লাহ কিতাব, প্রজ্ঞা ও নবুওয়াত দান করেছিলেন। মক্কার অবিশ্বাসীরা যদি এই সত্য অস্বীকার করে, তবে তাতে আল্লাহর দ্বীনের কোনো ক্ষতি হবে না। কারণ তিনি এমন এক বিশ্বাসী দল প্রস্তুত রেখেছেন, যারা কখনো সত্যকে অস্বীকার করবে না। ঈমানের আলো সর্বদা অনুসারী খুঁজে পাবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Scripture / Book",
+      "meaning_bn": "কিতাব বা আসমানী গ্রন্থ",
+      "why_en": "Refers to the divine revelations bestowed upon the prophets."
+    },
+    {
+      "pos": 5,
+      "root": "حكم",
+      "lemma": "حُكْم",
+      "meaning_en": "wisdom / sound judgment",
+      "meaning_bn": "প্রজ্ঞা বা বিচারক্ষমতা",
+      "why_en": "Describes the deep wisdom and authority granted to prophets."
+    },
+    {
+      "pos": 12,
+      "root": "وكل",
+      "lemma": "وُكِّلَ",
+      "meaning_en": "We have entrusted",
+      "meaning_bn": "আমরা দায়িত্ব দিয়েছি",
+      "why_en": "Indicates that Allah entrusts His message to sincere, faithful people."
+    }
+  ],
+  "lesson_en": "When some reject the truth, Allah raises faithful people who honor and protect it.",
+  "lesson_bn": "কেউ সত্য প্রত্যাখ্যান করলেও আল্লাহ এমন বিশ্বাসী দল গড়ে তোলেন, যারা দ্বীনকে রক্ষা করে।",
+  "real_life_en": "Do not feel sad when people around you mock or ignore divine guidance. Stay firm in your faith and practice what is right. Allah always preserves His religion through sincere and steadfast hearts.",
+  "real_life_bn": "আশপাশের মানুষ ধর্মের প্রতি উদাসীন হলে হতাশ হবেন না। নিজের দ্বীনের ওপর অবিচল থাকুন এবং ভালো কাজ করে যান। আল্লাহ সব যুগেই এমন নেককার মানুষ রাখেন, যারা তাঁর দ্বীনকে ধারণ ও রক্ষা করে।",
+  "context_en": "Reassures the Prophet that if his people reject revelation, Allah has prepared true believers.",
+  "context_bn": "মক্কাবাসীদের অস্বীকৃতির বিপরীতে আল্লাহ মুমিনদের মাধ্যমে সত্য প্রতিষ্ঠার বার্তা দিচ্ছেন।",
+  "themes": [
+    "scripture",
+    "prophethood",
+    "faith",
+    "rejection"
+  ],
+  "kinds": [
+    "warning",
+    "promise",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "Makkah"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Scripture"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah blessed the prophets with the Scripture, sound judgment, and prophethood.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "If disbelievers reject the message, Allah entrusts it to faithful believers who will uphold it.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

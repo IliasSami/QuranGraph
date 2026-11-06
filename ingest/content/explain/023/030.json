@@ -1,0 +1,65 @@
+{
+  "id": "23:30",
+  "simple_en": "In the story of Noah and the flood are clear signs for all mankind. God tests human hearts through trials to reveal who remains faithful.",
+  "simple_bn": "নিশ্চয়ই নূহের এই ঘটনায় বহু নিদর্শন রয়েছে, আর আমি তো কেবল মানুষের পরীক্ষা নিয়ে থাকি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "surely signs",
+      "meaning_bn": "নিশ্চয়ই বহু নিদর্শন",
+      "why_en": "Historical events loaded with profound lessons for future generations."
+    },
+    {
+      "pos": 7,
+      "root": "بلو",
+      "lemma": "مُبْتَلِي",
+      "meaning_en": "surely testing",
+      "meaning_bn": "পরীক্ষা গ্রহণকারী",
+      "why_en": "Earthly life structured as a continuous test of faith and deeds."
+    }
+  ],
+  "lesson_en": "Historical stories carry timeless lessons of faith and patience. Life is a test meant to strengthen our moral resolve.",
+  "lesson_bn": "ইতিহাসের ঘটনাবলিতে গভীর শিক্ষা রয়েছে। দুনিয়ার জীবন মূলত মানুষের ঈমান ও ধৈর্য যাচাইয়ের এক মহান পরীক্ষা।",
+  "real_life_en": "Learn lessons from history so you do not repeat past mistakes. Stay firm in your faith through every life trial.",
+  "real_life_bn": "ইতিহাস থেকে শিক্ষা গ্রহণ করে সঠিক পথে চলুন। জীবনের যেকোনো পরীক্ষায় নিজের নৈতিকতা ও বিশ্বাস ধরে রাখুন।",
+  "themes": [
+    "signs-in-history",
+    "trials-of-faith",
+    "reflection"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Noah"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "The Great Flood"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The account of Noah and the flood contains profound signs of divine power, demonstrating that God continually tests His creation.",
+      "claim_bn": "নূহ আলাইহিস সালামের ঘটনায় মানবজাতির জন্য স্পষ্ট বহু নিদর্শন রয়েছে এবং আল্লাহ তাঁর বান্দাদের নানাভাবে পরীক্ষা করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

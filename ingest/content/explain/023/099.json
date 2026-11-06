@@ -1,0 +1,67 @@
+{
+  "id": "23:99",
+  "simple_en": "When death comes to one of the deniers, he pleads in terror: My Lord, send me back to life. He begs for another chance to live.",
+  "simple_bn": "অবশেষে যখন তাদের কারও কাছে মৃত্যু উপস্থিত হয়, তখন সে বলে, হে আমার প্রতিপালক, আমাকে পুনরায় দুনিয়ায় ফেরত পাঠান।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "موت",
+      "lemma": "مَوْت",
+      "meaning_en": "death",
+      "meaning_bn": "মৃত্যু",
+      "why_en": "The irreversible end of earthly testing and opportunity."
+    },
+    {
+      "pos": 8,
+      "root": "رجع",
+      "lemma": "رَجَعَ",
+      "meaning_en": "send me back",
+      "meaning_bn": "আমাকে ফেরত পাঠান",
+      "why_en": "Desperate plea by the dying denier to return to life."
+    }
+  ],
+  "lesson_en": "Death ends all opportunity to perform righteous deeds. Regret at the moment of death cannot bring back time.",
+  "lesson_bn": "মৃত্যু উপস্থিত হলে তওবা ও সৎকাজের সুযোগ শেষ হয়ে যায়। সেই চরম মুহূর্তে অনুনয়-বিনয় কোনো কাজে আসে না।",
+  "real_life_en": "Do not delay good deeds until tomorrow. Live today in a way that leaves no room for bitter regret at death.",
+  "real_life_bn": "আজকের কাজ কালকের জন্য ফেলে রাখবেন না। জীবনের প্রতিটি মুহূর্তকে সৎকাজ ও আল্লাহর আনুগত্যে কাজে লাগান।",
+  "themes": [
+    "arrival-of-death",
+    "plea-for-return",
+    "deathbed-regret"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "death"
+    ],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [
+      "moment-of-death"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Upon the arrival of death, unrepentant sinners desperately beg to be returned to worldly life for another opportunity.",
+      "claim_bn": "মৃত্যুর মুখোমুখি হলে পাপীরা দুনিয়াতে পুনরায় ফেরত গিয়ে ভালো কাজ করার জন্য তীব্র অনুনয় করবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

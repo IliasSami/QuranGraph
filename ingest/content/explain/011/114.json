@@ -1,0 +1,87 @@
+{
+  "id": "11:114",
+  "simple_en": "Establish prayer at both ends of the day and during the early hours of the night. Truly, good deeds wipe away minor sins and mistakes. That is a valuable reminder for those who reflect.",
+  "simple_bn": "আর আপনি সালাত কায়েম করুন দিবসের দুই প্রান্তে এবং রাতের প্রথমাংশে। নিশ্চয়ই ভালো কাজ মন্দ কাজকে দূর করে দেয়। যারা উপদেশ গ্রহণ করে এটি তাদের জন্য এক সুন্দর উপদেশ।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قوم",
+      "lemma": "أَقامَ",
+      "meaning_en": "establish",
+      "meaning_bn": "কায়েম করুন",
+      "why_en": "Performing prayer regularly with mindfulness."
+    },
+    {
+      "pos": 2,
+      "root": "صلو",
+      "lemma": "صَلاة",
+      "meaning_en": "prayer",
+      "meaning_bn": "সালাত / নামাজ",
+      "why_en": "The essential daily pillar of worship."
+    },
+    {
+      "pos": 9,
+      "root": "حسن",
+      "lemma": "حَسَنَة",
+      "meaning_en": "good deeds",
+      "meaning_bn": "ভালো কাজসমূহ",
+      "why_en": "Righteous acts that purify the soul."
+    },
+    {
+      "pos": 10,
+      "root": "ذهب",
+      "lemma": "أَذْهَبَ",
+      "meaning_en": "do away with / erase",
+      "meaning_bn": "দূর করে দেয় / মুছে ফেলে",
+      "why_en": "The cleansing power of virtuous deeds over errors."
+    },
+    {
+      "pos": 11,
+      "root": "سوأ",
+      "lemma": "سَيِّئَة",
+      "meaning_en": "misdeeds / sins",
+      "meaning_bn": "মন্দ কাজসমূহ / পাপ",
+      "why_en": "Minor transgressions expiated by good deeds."
+    }
+  ],
+  "lesson_en": "Regular prayer and good deeds wipe away minor sins and restore the heart's purity.",
+  "lesson_bn": "নিয়মিত সালাত ও নেক আমল গুনাহ দূর করে অন্তরকে পবিত্র করে।",
+  "real_life_en": "Whenever you make a mistake or slip into sin, follow it up immediately with prayer, charity, or kind words. Positive actions wash away regret and bring spiritual peace.",
+  "real_life_bn": "কোনো ভুল বা পাপ হয়ে গেলে সাথে সাথে সালাত আদায় করুন ও ভালো কাজ করুন। নেক আমল পূর্ববর্তী ছোটখাটো ভুলত্রুটি দূর করে দেয়।",
+  "themes": [
+    "establishing prayer",
+    "expiation of sins",
+    "power of good deeds",
+    "spiritual renewal"
+  ],
+  "kinds": [
+    "command",
+    "promise",
+    "worship",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Prescribed prayers at designated times and righteous actions erase minor sins, serving as an enduring reminder for mindful believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

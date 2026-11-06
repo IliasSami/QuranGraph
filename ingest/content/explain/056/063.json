@@ -1,0 +1,61 @@
+{
+  "id": "56:63",
+  "simple_en": "Have you considered the seeds you plant in the earth? A farmer drops dry seeds into dark soil. Then he waits and watches. Does the farmer really cause those seeds to burst into green plants?",
+  "simple_bn": "তোমরা জমিনে যে বীজ বপন করো, সে সম্পর্কে কি ভেবে দেখেছ? একজন কৃষক অন্ধকার মাটির নিচে শুকনো বীজ ফেলে দেয়। এরপর সে অপেক্ষা করে। কৃষক কি নিজে সেই বীজ থেকে সবুজ চারা বের করে?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "رأي",
+      "lemma": "رَأَى",
+      "meaning_en": "have you seen or considered",
+      "meaning_bn": "তোমরা কি ভেবে দেখেছ",
+      "why_en": "Prompts farmers and all people to reflect deeply on agriculture."
+    },
+    {
+      "pos": 3,
+      "root": "حرث",
+      "lemma": "تَحْرُثُ",
+      "meaning_en": "you sow or cultivate",
+      "meaning_bn": "তোমরা চাষ করো বা বীজ বপন করো",
+      "why_en": "Refers to the human action of plowing soil and scattering seeds."
+    }
+  ],
+  "lesson_en": "Do your part in planting good deeds, but trust Allah for the growth and result.",
+  "lesson_bn": "সৎকাজের বীজ বপন করুন, কিন্তু এর বৃদ্ধি ও পরিণতির জন্য আল্লাহর ওপর ভরসা রাখুন।",
+  "real_life_en": "A gardener drops tiny tomato seeds into small pots of dirt. He can water the soil, but he cannot force the seed to split open or sprout leaves. He waits humbly for Allah to give life.",
+  "real_life_bn": "একজন মালী টবের মাটির ভেতর ছোট বীজ পুঁতে পানি দেয়। কিন্তু সে নিজে বীজ ফাটিয়ে সবুজ পাতা বের করতে পারে না। সে পরম ভরসায় আল্লাহর কুদরতের অপেক্ষা করে।",
+  "themes": [
+    "signs in nature",
+    "creation",
+    "trust in Allah"
+  ],
+  "kinds": [
+    "argument",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah draws attention to the seeds planted in the ground as a sign of divine power.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,74 @@
+{
+ "id": "41:4",
+ "simple_en": "The Quran gives good news of Paradise to those who believe and do good. It also warns those who deny the truth of a severe punishment. Even so, many people turn away in pride. They close their minds and refuse to listen to its guidance.",
+ "simple_bn": "কুরআন বিশ্বাসী ও সৎকর্মশীলদের জান্নাতের সুসংবাদ দেয়। আবার যারা সত্য অস্বীকার করে তাদের কঠোর শাস্তির ব্যাপারে সতর্ক করে। তা সত্ত্বেও বহু মানুষ অহংকারে মুখ ফিরিয়ে নেয়। তারা নিজেদের অন্তর বন্ধ করে রাখে এবং হেদায়েত শুনতে চায় না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "بشر",
+   "lemma": "بَشِير",
+   "meaning_en": "giver of glad tidings",
+   "meaning_bn": "সুসংবাদদাতা",
+   "why_en": "Conveys the joyful promise of reward and Paradise for the righteous."
+  },
+  {
+   "pos": 2,
+   "root": "نذر",
+   "lemma": "نَذِير",
+   "meaning_en": "a warner",
+   "meaning_bn": "সতর্ককারী",
+   "why_en": "Warns wrongdoers about divine accountability and eternal loss."
+  },
+  {
+   "pos": 3,
+   "root": "عرض",
+   "lemma": "أَعْرَضَ",
+   "meaning_en": "so they turned away",
+   "meaning_bn": "অতঃপর তারা মুখ ফিরিয়ে নিল",
+   "why_en": "Describes how stubborn deniers ignore the truth out of pride."
+  }
+ ],
+ "lesson_en": "Listen to divine reminders with an open heart before you miss the chance to mend your ways.",
+ "lesson_bn": "নিজের ভুল সংশোধনের সুযোগ হারানোর আগেই উন্মুক্ত অন্তরে আল্লাহর উপদেশ শুনুন।",
+ "real_life_en": "When sincere advice is given to you, do not shut it out. Accept helpful corrections with a humble heart and seek to improve yourself.",
+ "real_life_bn": "কেউ আন্তরিক উপদেশ দিলে তা এড়িয়ে যাবেন না। নম্র চিত্তে গঠনমূলক কথা গ্রহণ করুন এবং নিজের ভুল শুধরে নিন।",
+ "themes": [
+  "glad-tidings",
+  "warning",
+  "the Quran",
+  "disbelief"
+ ],
+ "kinds": [
+  "glad-tidings",
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "paradise",
+   "hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The Quran brings glad tidings of Paradise for believers and warns disbelievers of punishment, yet most people turn away without listening.",
+   "claim_bn": "কুরআন মুমিনদের জান্নাতের সুসংবাদ দেয় এবং কাফিরদের শাস্তির ভয় দেখায়, কিন্তু অধিকাংশ মানুষ মুখ ফিরিয়ে নিয়ে শুনতে অস্বীকৃতি জানায়।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "11:5",
+  "simple_en": "Some people try to hide their thoughts from Allah, wrapping themselves up to keep their feelings secret. But even when they cover themselves, Allah knows what they hide and what they show. He knows all that is inside human hearts.",
+  "simple_bn": "জেনে রেখো, তারা আল্লাহর কাছে গোপন করার উদ্দেশ্যে নিজেদের বক্ষ সংকুচিত করে। তারা যখন পোশাকে শরীর ঢেকে নেয়, তখনও আল্লাহ তাদের গোপন ও প্রকাশ্য সবকিছু জানেন। অন্তরে যা কিছু আছে সে সম্পর্কে তিনি সম্যক অবহিত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "صدر",
+      "lemma": "صَدْر",
+      "meaning_en": "chests / hearts",
+      "meaning_bn": "বক্ষদেশ / অন্তরসমূহ",
+      "why_en": "The inner seat of secret motives and hidden thoughts."
+    },
+    {
+      "pos": 13,
+      "root": "سرر",
+      "lemma": "يُسِرُّونَ",
+      "meaning_en": "they conceal",
+      "meaning_bn": "তারা যা গোপন করে",
+      "why_en": "Private thoughts hidden from public view."
+    },
+    {
+      "pos": 15,
+      "root": "علن",
+      "lemma": "يُعْلِنُونَ",
+      "meaning_en": "they reveal / declare",
+      "meaning_bn": "তারা যা প্রকাশ করে",
+      "why_en": "Open words and public deeds."
+    },
+    {
+      "pos": 17,
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "All-Knowing",
+      "meaning_bn": "সবিশেষ অবগত",
+      "why_en": "Complete divine awareness of every hidden intention."
+    }
+  ],
+  "lesson_en": "Nothing you think or do is hidden from Allah, so keep your private intentions pure.",
+  "lesson_bn": "আল্লাহ মানুষের অন্তরের লুকানো কথাও জানেন; তাই গোপনেও নিজের নিয়তকে পরিশুদ্ধ রাখা আবশ্যক।",
+  "real_life_en": "Act with the same integrity behind closed doors as you do in public. Knowing that Allah sees your heart helps you stay sincere at all times.",
+  "real_life_bn": "মানুষের চোখ এড়িয়ে কোনো অন্যায় করবেন না। মনে রাখবেন, নির্জন একাকীত্বেও আল্লাহ আপনার প্রতিটি কাজ ও ভাবনা দেখছেন।",
+  "themes": [
+    "divine omniscience",
+    "knowledge of the unseen",
+    "hypocrisy and hiding",
+    "purity of heart"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Aleem"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah knows what people keep secret and what they reveal, and no inner thought in human chests escapes His infinite knowledge.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

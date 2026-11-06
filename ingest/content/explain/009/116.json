@@ -1,0 +1,73 @@
+{
+  "id": "9:116",
+  "simple_en": "To Allah belongs the kingdom of the heavens and the earth. He gives life and causes death. You have no protector or helper besides Allah.",
+  "simple_bn": "নিশ্চয় আসমান ও যমীনের সার্বভৌম রাজত্ব একমাত্র আল্লাহরই। তিনিই জীবন দেন এবং তিনিই মৃত্যু ঘটান। আর আল্লাহ ছাড়া তোমাদের কোনো অভিভাবক বা সাহায্যকারী নেই।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ملك",
+      "lemma": "مُلْك",
+      "meaning_en": "dominion / kingdom",
+      "meaning_bn": "সার্বভৌমত্ব / রাজত্ব",
+      "why_en": "Absolute divine ownership of the cosmos."
+    },
+    {
+      "pos": 7,
+      "root": "حيي",
+      "lemma": "أَحْيا",
+      "meaning_en": "gives life",
+      "meaning_bn": "জীবন দান করেন",
+      "why_en": "Bestowing existence upon every living creature."
+    },
+    {
+      "pos": 8,
+      "root": "موت",
+      "lemma": "أَماتَ",
+      "meaning_en": "causes death",
+      "meaning_bn": "মৃত্যু ঘটান",
+      "why_en": "Concluding the worldly span of every mortal."
+    }
+  ],
+  "lesson_en": "Life and death are in the hands of God alone, our ultimate Protector.",
+  "lesson_bn": "জীবন ও মৃত্যুর একমাত্র মালিক আল্লাহ; তিনিই আমাদের সর্বশ্রেষ্ঠ অভিভাবক।",
+  "real_life_en": "Do not live in constant fear of human threats or losing your job. Trust that your life and your future are held safely by your Creator.",
+  "real_life_bn": "মানুষের চোখরাঙানি বা ভবিষ্যৎ হারানোর ভয় পাবেন না; নিজের জীবন ও রিজিকের জন্য আল্লাহর ওপর ভরসা রাখুন।",
+  "themes": [
+    "dominion of the heavens and earth",
+    "giver of life and death",
+    "trust in Allah"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "heavens",
+      "earth"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Total sovereignty over existence belongs exclusively to Allah, who controls life, death, and human protection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

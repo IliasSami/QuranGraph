@@ -1,0 +1,88 @@
+{
+ "id": "7:13",
+ "simple_en": "Allah ordered Iblis to go down and leave his exalted place in the heavens. Pride has no place in the presence of Allah. Because Iblis acted with arrogance, Allah cast him out. He fell from honor into deep disgrace. Those who show pride before Allah end up debased and humiliated.",
+ "simple_bn": "আল্লাহ ইবলিসকে জান্নাত ও ঊর্ধ্বজগৎ থেকে নেমে যাওয়ার নির্দেশ দিলেন। আল্লাহর পবিত্র দরবারে অহংকারের কোনো স্থান নেই। অহংকার প্রদর্শনের কারণে আল্লাহ তাকে বিতাড়িত করলেন এবং চিরতরে লাঞ্ছিত ও অপমানিতদের অন্তর্ভুক্ত করলেন। আল্লাহর সামনে ঔদ্ধত্য দেখালে চরম অবমাননা ভোগ করতে হয়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "هبط",
+   "lemma": "يَهْبِطُ",
+   "meaning_en": "descend / go down",
+   "meaning_bn": "তুমি নেমে যাও",
+   "why_en": "The expulsion of Iblis from his high station in the heavens."
+  },
+  {
+   "pos": 8,
+   "root": "كبر",
+   "lemma": "يَتَكَبَّرُ",
+   "meaning_en": "you act arrogantly",
+   "meaning_bn": "তুমি অহংকার করো",
+   "why_en": "Points out that pride is forbidden in the sacred divine realm."
+  },
+  {
+   "pos": 13,
+   "root": "صغر",
+   "lemma": "صاغِر",
+   "meaning_en": "the disgraced ones",
+   "meaning_bn": "অপমানিতদের অন্তর্ভুক্ত",
+   "why_en": "Shows the ultimate fate of arrogant beings: utter humiliation."
+  }
+ ],
+ "lesson_en": "Be humble before Allah. Pride leads only to shame and loss.",
+ "lesson_bn": "আল্লাহর সামনে অহংকার প্রদর্শনকারী ব্যক্তি শেষ পর্যন্ত অপমান ও লাঞ্ছনার শিকার হয়।",
+ "real_life_en": "Do not look down on anyone. Remember how pride ruined Iblis. Speak with kindness and treat people with respect. Allah loves those who stay humble.",
+ "real_life_bn": "কখনো অন্য মানুষকে ছোট করে কথা বলবেন না। নিজেকে বড় ভাবার প্রবণতা মন থেকে দূর করুন। বিনয়ী আচরণ করুন, যাতে আল্লাহ আপনার মর্যাদা বৃদ্ধি করে দেন।",
+ "context_en": "Allah expels Iblis from Paradise, establishing that pride leads to divine rejection and humiliation.",
+ "context_bn": "ইবলিসকে জান্নাত থেকে বহিষ্কার করে বুঝিয়ে দেওয়া হয়েছে যে অহংকার মানুষকে আল্লাহর রহমত থেকে দূরে ঠেলে দেয়।",
+ "themes": [
+  "expulsion of Iblis",
+  "humiliation of pride",
+  "Paradise",
+  "divine justice"
+ ],
+ "kinds": [
+  "command",
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Paradise"
+  ],
+  "unseen": [
+   "Iblis"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "expulsion of Iblis"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah ordered Iblis to descend from Paradise because arrogance cannot dwell in that noble station.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Iblis was banished and reduced to being among the disgraced and humiliated for his disobedience.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

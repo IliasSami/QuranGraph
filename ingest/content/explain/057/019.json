@@ -1,0 +1,89 @@
+{
+  "id": "57:19",
+  "simple_en": "Those who have true faith in Allah and all His messengers without doubting are the sincere and truthful. The martyrs have an immense reward and a shining light waiting with their Lord. But those who disbelieve and deny Allah's verses are the dwellers of the fierce Blazing Fire.",
+  "simple_bn": "যারা আল্লাহ ও তাঁর সমস্ত রাসূলের প্রতি আন্তরিক ঈমান আনে তারাই সত্যনিষ্ঠ। আর আল্লাহর পথে জীবনদানকারী শহীদদের জন্য তাঁদের প্রতিপালকের কাছে রয়েছে মহান প্রতিদান ও উজ্জ্বল আলো। পক্ষান্তরে যারা কুফরী করে এবং আল্লাহর আয়াতসমূহ প্রত্যাখ্যান করে, তারাই জাহান্নামের অধিবাসী।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "صدق",
+      "lemma": "صِدِّيق",
+      "meaning_en": "the truthful",
+      "meaning_bn": "সত্যনিষ্ঠ ব্যক্তিবর্গ",
+      "why_en": "Those whose faith is complete and verified by their truthful words and righteous actions."
+    },
+    {
+      "pos": 8,
+      "root": "شهد",
+      "lemma": "شَهِيد",
+      "meaning_en": "the martyrs",
+      "meaning_bn": "শহীদগণ",
+      "why_en": "Those who sacrificed their lives in Allah's way, honored with special rank."
+    },
+    {
+      "pos": 20,
+      "root": "جحم",
+      "lemma": "جَحِيم",
+      "meaning_en": "the Hellfire",
+      "meaning_bn": "জাহান্নামের আগুন",
+      "why_en": "The blazing fire prepared for those who reject faith and deny revelation."
+    }
+  ],
+  "lesson_en": "Hold fast to truth and faith. Sincere faith brings light on Judgment Day.",
+  "lesson_bn": "সত্যবাদিতা ও দৃঢ় ঈমানের সাথে জীবনযাপন করুন যাতে পরকালে আল্লাহর নৈকট্য ও নূর লাভ করা যায়।",
+  "real_life_en": "A young worker finds a serious mistake in company accounts. His boss tells him to hide the error. But he refuses to lie. He chooses honesty over quick gain, knowing that truthful people earn honor with their Lord.",
+  "real_life_bn": "একটি প্রতিষ্ঠানে হিসাবরক্ষক হিসেবে কর্মরত যুবক বড় ধরনের জালিয়াতি দেখতে পান। কর্মকর্তাদের চাপে পড়েও তিনি মিথ্যা সাক্ষ্য দিতে অস্বীকার করেন। তিনি সাময়িক সুবিধার চেয়ে সত্যবাদিতাকে বেছে নেন, কারণ তিনি জানেন সত্যের পুরস্কার আল্লাহর কাছে চিরস্থায়ী।",
+  "themes": [
+    "faith",
+    "honesty",
+    "reward",
+    "Hell",
+    "the Last Day"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah",
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who believe in Allah and all His messengers without distinction are the truthful ones.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Martyrs receive an honorable reward and shining light from their Lord.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Those who disbelieve and reject Allah's verses are destined for the Hellfire.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

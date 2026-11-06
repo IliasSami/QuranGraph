@@ -1,0 +1,72 @@
+{
+ "id": "43:20",
+ "simple_en": "The idolaters made excuses by saying that if the Most Merciful had willed, they would not have worshipped idols. They speak with no real knowledge or proof. They are only guessing and telling lies.",
+ "simple_bn": "মুশরিকরা অজুহাত দিয়ে বলত, পরম দয়ালু আল্লাহ ইচ্ছা করলে আমরা মূর্তিপূজা করতাম না। এ বিষয়ে তাদের কোনো সঠিক জ্ঞান নেই। তারা কেবল ধারণার বশবর্তী হয়ে মিথ্যা বলছে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "شيأ",
+   "lemma": "شاءَ",
+   "meaning_en": "had willed",
+   "meaning_bn": "ইচ্ছা করতেন",
+   "why_en": "They misused divine decree as an excuse for their deliberate sins."
+  },
+  {
+   "pos": 9,
+   "root": null,
+   "lemma": "ذا",
+   "meaning_en": "knowledge",
+   "meaning_bn": "জ্ঞান",
+   "why_en": "True faith must rest on divine knowledge, not unfounded excuses."
+  },
+  {
+   "pos": 13,
+   "root": null,
+   "lemma": null,
+   "meaning_en": "they guess (lie)",
+   "meaning_bn": "তারা অনুমান বা মিথ্যা বলে",
+   "why_en": "Conjecture cannot replace authentic guidance."
+  }
+ ],
+ "lesson_en": "Do not blame fate to excuse your own wrong choices.",
+ "lesson_bn": "নিজের ইচ্ছাকৃত ভুল বা পাপকে ভাগ্যের দোহাই দিয়ে বৈধ করার চেষ্টা করবেন না।",
+ "real_life_en": "Take responsibility for your choices today. When you skip a prayer or hurt someone, turn to Allah in repentance instead of saying it was just your destiny.",
+ "real_life_bn": "নিজের কাজের দায় নিজে নিতে শিখুন। কোনো ভুল হলে ভাগ্যের দোষ না দিয়ে সাথে সাথে অনুতপ্ত হয়ে তওবা করুন এবং নিজেকে সংশোধন করুন।",
+ "themes": [
+  "belief",
+  "repentance",
+  "trials"
+ ],
+ "kinds": [
+  "argument",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "ar-rahman",
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The pagans falsely used Allah's will as an excuse for their idolatry, speaking only out of conjecture.",
+   "claim_bn": "মুশরিকরা নিজেদের মূর্তিপূজাকে আল্লাহর ইচ্ছার দোহাই দিয়ে জায়েজ করার চেষ্টা করত, যা ছিল নিছক মিথ্যা।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

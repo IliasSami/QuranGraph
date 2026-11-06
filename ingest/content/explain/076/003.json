@@ -1,0 +1,85 @@
+{
+ "id": "76:3",
+ "simple_en": "Allah clearly showed man the path of good and the path of evil through His messengers. Now man has a choice to make. He can choose to believe and thank Allah for His guidance, or he can turn away and deny the truth.",
+ "simple_bn": "আল্লাহ রাসূলদের মাধ্যমে মানুষকে ভালো ও মন্দের পথ স্পষ্টভাবে দেখিয়ে দিয়েছেন। এখন মানুষের সামনে পছন্দের সুযোগ রয়েছে। সে চাইলে ঈমান এনে আল্লাহর শোকর আদায় করতে পারে, আবার চাইলে সত্য অস্বীকার করে অকৃতজ্ঞ হতে পারে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "هدي",
+   "lemma": "هَدَى",
+   "meaning_en": "We guided him",
+   "meaning_bn": "আমি তাকে পথ দেখিয়েছি",
+   "why_en": "Shows that Allah made guidance clear so no one has an excuse."
+  },
+  {
+   "pos": 3,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "the way, path",
+   "meaning_bn": "পথ",
+   "why_en": "The clear path of truth that leads to Allah's pleasure."
+  },
+  {
+   "pos": 5,
+   "root": "شكر",
+   "lemma": "شاكِر",
+   "meaning_en": "grateful",
+   "meaning_bn": "কৃতজ্ঞ",
+   "why_en": "Describes the believer who accepts guidance and thanks his Lord."
+  },
+  {
+   "pos": 7,
+   "root": "كفر",
+   "lemma": "كَفُور",
+   "meaning_en": "ungrateful, disbeliever",
+   "meaning_bn": "অকৃতজ্ঞ কাফির",
+   "why_en": "Describes one who rejects Allah's signs and favors."
+  }
+ ],
+ "lesson_en": "You have the freedom to choose your path, so choose gratitude and faith over denial.",
+ "lesson_bn": "পথ বেছে নেওয়ার স্বাধীনতা আপনার আছে, তাই অকৃতজ্ঞতা না দেখিয়ে শোকরগুজার বান্দা হোন।",
+ "real_life_en": "When an honest friend warns you about a bad habit, you have a clear choice. You can thank them and fix your habit, or you can get upset and ignore the advice. Taking the good path brings peace and keeps you close to Allah.",
+ "real_life_bn": "কোনো শুভাকাঙ্ক্ষী যখন কোনো ভুল ধরিয়ে দেন, তখন দুটি পথ থাকে। আপনি চাইলে তাঁর প্রতি কৃতজ্ঞ হয়ে ভুল শুধরে নিতে পারেন, অথবা রাগ করে উপদেশ এড়িয়ে যেতে পারেন। সঠিক পথ বেছে নেওয়াই জীবনে কল্যাণ এনে দেয়।",
+ "themes": [
+  "guidance",
+  "gratitude",
+  "faith",
+  "disbelief"
+ ],
+ "kinds": [
+  "argument",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah showed mankind the path of guidance clearly through His messengers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Each person chooses either to become a thankful believer or an ungrateful denier.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "68:15",
+  "simple_en": "When Our clear verses are read to him, he says: These are only old tales of the past. His proud heart refuses to submit to divine truth.",
+  "simple_bn": "যখন তার কাছে আমাদের আয়াতসমূহ তেলাওয়াত করা হয়, তখন সে বলে: এগুলো তো অতীতকালের রূপকথা। তার অহংকারী মন সত্য মেনে নিতে অস্বীকার করে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "are recited",
+      "meaning_bn": "তেলাওয়াত করা হয়",
+      "why_en": "Refers to the delivery of divine words to human ears."
+    },
+    {
+      "pos": 4,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "Our verses",
+      "meaning_bn": "আমাদের আয়াতসমূহ",
+      "why_en": "Highlights the holy signs and verses sent by Allah."
+    },
+    {
+      "pos": 6,
+      "root": "سطر",
+      "lemma": "أَساطِير",
+      "meaning_en": "ancient myths and fables",
+      "meaning_bn": "প্রাচীনকালের রূপকথা",
+      "why_en": "Exposes the insulting claim made by deniers against scripture."
+    }
+  ],
+  "lesson_en": "Listen to the Quran with deep respect, and never mock its holy words.",
+  "lesson_bn": "কুরআনের বাণীকে শ্রদ্ধার সাথে গ্রহণ করতে হয়, একে কখনো অবজ্ঞা করা উচিত নয়।",
+  "real_life_en": "A student reads the stories of past nations in the Quran. Instead of seeing them as mere old stories, he searches for the moral lessons. He uses the teachings to improve his daily behavior.",
+  "real_life_bn": "কুরআনে বর্ণিত অতীত জাতিদের ঘটনাগুলোকে রূপকথা না ভেবে তা থেকে বাস্তব জীবনের সঠিক শিক্ষা গ্রহণ করা উচিত।",
+  "themes": [
+    "revelation",
+    "the Quran",
+    "disbelief"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "When Allah's verses are read to the denier, he mocks them as myths of ancient people.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

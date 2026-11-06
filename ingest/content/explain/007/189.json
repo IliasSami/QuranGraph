@@ -1,0 +1,82 @@
+{
+  "id": "7:189",
+  "simple_en": "Allah created all of you from a single soul, Adam, and made from it his wife so he could find peace with her. When they expect a child, both parents pray to Allah. They ask Him for a healthy baby and promise to be grateful.",
+  "simple_bn": "তিনিই তোমাদের এক ব্যক্তি থেকে সৃষ্টি করেছেন এবং তার থেকে তার সঙ্গিনী বানিয়েছেন যাতে সে তার কাছে শান্তি পায়। অতঃপর গর্ভধারণের পর তারা উভয়ে তাদের রব আল্লাহর কাছে দোয়া করে, 'যদি আপনি আমাদের একটি সুসন্তান দান করেন, তবে আমরা অবশ্যই কৃতজ্ঞ থাকব।'",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "He created you",
+      "meaning_bn": "তিনি তোমাদের সৃষ্টি করেছেন",
+      "why_en": "The divine origination of all humanity."
+    },
+    {
+      "pos": 5,
+      "root": "نفس",
+      "lemma": "نَفْس",
+      "meaning_en": "a single soul",
+      "meaning_bn": "এক ব্যক্তি / প্রাণ",
+      "why_en": "Adam, the ancestor of the human race."
+    },
+    {
+      "pos": 9,
+      "root": "زوج",
+      "lemma": "زَوْج",
+      "meaning_en": "its mate / spouse",
+      "meaning_bn": "তার স্ত্রী / সঙ্গিনী",
+      "why_en": "Eve (Hawwa), created to bring companionship and peace."
+    }
+  ],
+  "lesson_en": "Marriage is built for peace, and the gift of children should lead to deep gratitude to God.",
+  "lesson_bn": "দাম্পত্য জীবনের উদ্দেশ্য হলো পারস্পরিক শান্তি, আর সন্তান লাভ আল্লাহর প্রতি বিশেষ কৃতজ্ঞতা প্রকাশের উপলক্ষ।",
+  "real_life_en": "Cherish love, kindness, and emotional warmth in your marriage. When blessed with children, remember that every healthy baby is a precious gift from God. Raise them with care and thank God every day.",
+  "real_life_bn": "পরিবারে ভালোবাসা ও সৌহার্দ্য বজায় রাখুন। সন্তানকে আল্লাহর দেওয়া আমানত হিসেবে দেখে তাঁর শুকরিয়া আদায় করুন।",
+  "context_en": "Describing the creation of human pairs, marital affection, and the natural human instinct to pray for healthy offspring.",
+  "context_bn": "মানব সৃষ্টির সূচনা, বৈবাহিক প্রশান্তি এবং সন্তান লাভের সময় পিতা-মাতার স্বভাবজাত দোয়ার বিবরণ।",
+  "themes": [
+    "creation of humanity",
+    "marital peace",
+    "prayer for children",
+    "gratitude"
+  ],
+  "kinds": [
+    "creation",
+    "dua",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Adam",
+      "Eve"
+    ],
+    "nations": [
+      "mankind"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Ar-Rabb"
+    ],
+    "events": [
+      "creation of humanity"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Humanity was created from a single soul with a spouse for mutual comfort, and parents instinctively pray to Allah for righteous offspring.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

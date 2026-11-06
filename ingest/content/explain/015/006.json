@@ -1,0 +1,70 @@
+{
+  "id": "15:6",
+  "simple_en": "The disbelievers mocked the Prophet. They said: You who received this reminder, you are crazy. When people hate the truth, they often insult the one who speaks it.",
+  "simple_bn": "কাফিররা উপহাস করে রাসূলকে বলেছিল: হে ঐ ব্যক্তি যার ওপর এই উপদেশ নাযিল হয়েছে, তুমি তো নিশ্চয় একজন উন্মাদ। সত্য অস্বীকারকারীরা যুক্তি দিয়ে সত্যকে আটকাতে না পেরে ব্যক্তিগত আক্রমণ করত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "نزل",
+      "lemma": "نَزَّلَ",
+      "meaning_en": "has been sent down",
+      "meaning_bn": "নাযিল হয়েছে",
+      "why_en": "Sent down by divine revelation."
+    },
+    {
+      "pos": 6,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "the reminder",
+      "meaning_bn": "উপদেশ",
+      "why_en": "The Quran as a divine remembrance."
+    },
+    {
+      "pos": 8,
+      "root": "جنن",
+      "lemma": "مَجْنُون",
+      "meaning_en": "surely mad",
+      "meaning_bn": "নিশ্চয় উন্মাদ",
+      "why_en": "Slanderous charge of madness."
+    }
+  ],
+  "lesson_en": "Do not be shaken by insults when you speak the truth. Even prophets faced cruel mockery.",
+  "lesson_bn": "সত্য বলতে গিয়ে উপহাসের শিকার হলেও ভেঙে পড়বেন না। নবী-রাসূলগণও এমন কটূক্তির মুখোমুখি হয়েছিলেন।",
+  "real_life_en": "A clean politician refuses to take dirty money and fights for fair rules. Corrupt rivals call him foolish in local papers. He ignores their taunts and stays true to his conscience.",
+  "real_life_bn": "এক সৎ নেতা ঘুষ নিতে অস্বীকার করে ন্যায়ের পক্ষে দাঁড়ান। অসৎ সহকর্মীরা তাকে নিয়ে ব্যঙ্গ-বিদ্রূপ করে। তিনি কটূক্তি উপেক্ষা করে নিজের সততায় অবিচল থাকেন।",
+  "context_en": "The mockers of Quraysh slandering the Prophet Muhammad as mad.",
+  "context_bn": "কুরাইশ কাফিরদের পক্ষ থেকে রাসূলুল্লাহ (সা.)-কে উপহাস করে উন্মাদ বলে অপবাদ দেওয়ার বর্ণনা।",
+  "themes": [
+    "prophets",
+    "mockery",
+    "patience"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers mocked the Prophet Muhammad by claiming he was mad despite receiving revelation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

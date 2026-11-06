@@ -1,0 +1,71 @@
+{
+  "id": "51:38",
+  "simple_en": "In the story of Prophet Musa (peace be upon him) is another great lesson. God sent him to Pharaoh with clear signs and convincing proof. Musa called Pharaoh to worship God alone and free the oppressed people.",
+  "simple_bn": "মূসা (আলাইহিস সালাম)-এর ঘটনাতেও বড় শিক্ষা রয়েছে, যখন আমরা তাঁকে সুস্পষ্ট প্রমাণসহ ফিরআউনের কাছে পাঠিয়েছিলাম।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "We sent him",
+      "meaning_bn": "আমরা তাকে পাঠালাম",
+      "why_en": "The divine appointment of Musa to confront Pharaoh."
+    },
+    {
+      "pos": 7,
+      "root": "سلط",
+      "lemma": "سُلْطان",
+      "meaning_en": "clear proof and authority",
+      "meaning_bn": "স্পষ্ট প্রমাণ ও ক্ষমতা",
+      "why_en": "The compelling miracles and logical evidence granted to Musa."
+    },
+    {
+      "pos": 8,
+      "root": "بين",
+      "lemma": "مُبِين",
+      "meaning_en": "plain and manifest",
+      "meaning_bn": "সুস্পষ্ট",
+      "why_en": "Signs so clear that no sincere person could deny them."
+    }
+  ],
+  "lesson_en": "Truth supported by clear proof stands strong against worldly power.",
+  "lesson_bn": "সুস্পষ্ট দলীল ও সত্যের শক্তি যে কোনো পার্থিব ক্ষমতার চেয়ে অনেক বেশি শক্তিশালী।",
+  "real_life_en": "Speak the truth politely even when facing people with more power or wealth. Ground your words in facts and honesty rather than anger.",
+  "real_life_bn": "ক্ষমতাবান ব্যক্তির সামনেও সত্য কথা বিনয়ের সাথে তুলে ধরুন। প্রমাণের ওপর ভিত্তি করে কথা বললে সত্যের জয় অনিবার্য।",
+  "themes": [
+    "stories of the prophets",
+    "prophethood",
+    "past nations"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "musa",
+      "pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Musa was sent to Pharaoh with clear miracles and proofs as a sign for those who fear punishment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

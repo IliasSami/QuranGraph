@@ -1,0 +1,97 @@
+{
+  "id": "6:121",
+  "simple_en": "Do not eat meat from animals not slaughtered in the name of Allah. Eating such meat is open disobedience to your Lord. The devils whisper doubts to their allies to make them dispute with you. They want you to make forbidden food lawful. If you follow them in changing divine law, you join them in setting up partners with Allah.",
+  "simple_bn": "তোমরা এমন পশুর গোশত খেয়ো না যার ওপর জবাইয়ের সময় আল্লাহর নাম নেওয়া হয়নি। এমন খাদ্য গ্রহণ করা স্পষ্ট অবাধ্যতা ও পাপ। শয়তানরা তাদের বন্ধুদের প্ররোচিত করে যাতে তারা হালাল-হারাম বিষয়ে তোমাদের সাথে বিতর্ক করে। যদি তোমরা আল্লাহর বিধান উপেক্ষা করে তাদের অনুসরণ করো, তবে তোমরাও তাদের মতো শিরকে লিপ্ত হবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أكل",
+      "lemma": "أَكَلَ",
+      "meaning_en": "do not eat",
+      "meaning_bn": "তোমরা খেয়ো না",
+      "why_en": "Commands the believers not to consume meat slaughtered without Allah's name."
+    },
+    {
+      "pos": 10,
+      "root": "فسق",
+      "lemma": "فِسْق",
+      "meaning_en": "grave disobedience",
+      "meaning_bn": "পাপ ও অবাধ্যতা",
+      "why_en": "Describes consuming meat not dedicated to Allah as a serious transgression."
+    },
+    {
+      "pos": 12,
+      "root": "شطن",
+      "lemma": "شَيْطان",
+      "meaning_en": "the devils",
+      "meaning_bn": "শয়তানরা",
+      "why_en": "Identifies the source of deceptive whispers that push people to doubt divine laws."
+    }
+  ],
+  "lesson_en": "Eat only lawful food slaughtered in the name of Allah. Never follow misleading doubts.",
+  "lesson_bn": "কেবল আল্লাহর নামে জবাই করা হালাল খাদ্য গ্রহণ করুন। কোনো যুক্তিতর্কের ফাঁদে পড়ে আল্লাহর স্পষ্ট বিধান ত্যাগ করবেন না।",
+  "real_life_en": "Check what you buy to make sure the meat was lawfully slaughtered. Stand firm when others make excuses for forbidden food. Never compromise your values to fit in with friends.",
+  "real_life_bn": "নিত্যদিনের খাদ্য নির্বাচনে সর্বদা হালাল ও বিশ্বস্ত উৎস বেছে নিন। সমাজের কেউ নিষিদ্ধ জিনিসকে যুক্তি দিয়ে হালাল করতে চাইলে সতর্ক থাকুন। বন্ধুবান্ধব বা পরিবারের মন জোগাতে গিয়ে ধর্মীয় বিধানে আপস করবেন না।",
+  "context_en": "After explaining lawful meat in the previous ayat, this ayah clearly forbids eating meat slaughtered without mentioning Allah's name.",
+  "context_bn": "পূর্ববর্তী আয়াতে হালাল পশুর বিধান বর্ণনার পর এখানে আল্লাহর নাম ছাড়া জবাই করা প্রাণীর গোশত খাওয়া সম্পূর্ণ নিষিদ্ধ ঘোষণা করা হয়েছে।",
+  "themes": [
+    "halal food",
+    "dietary laws",
+    "obedience",
+    "shirk",
+    "whispers of Satan"
+  ],
+  "kinds": [
+    "prohibition",
+    "law",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "the devils",
+      "Satan"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "meat",
+      "food",
+      "animals"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Muslims must not eat meat over which Allah's name was not mentioned, as it is disobedience.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Devils inspire their human allies to argue against divine dietary commands.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Obeying disbelievers in making unlawful food lawful is a form of polytheism.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-maarif",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

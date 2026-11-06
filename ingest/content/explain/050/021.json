@@ -1,0 +1,79 @@
+{
+  "id": "50:21",
+  "simple_en": "On that day, every human soul will arrive at the gathering plain. Two angels will walk with each person. One angel will drive the person forward. The other angel will testify to what the person did in life.",
+  "simple_bn": "সেদিন প্রতিটি মানুষ হাশরের ময়দানে উপস্থিত হবে। প্রত্যেক ব্যক্তির সঙ্গে থাকবেন দুজন ফেরেশতা: একজন তাকে বিচারের মাঠে হাঁকিয়ে নিয়ে যাবেন, আর অন্যজন তার কৃতকর্মের সাক্ষ্য দেবেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نفس",
+      "lemma": "نَفْس",
+      "meaning_en": "soul or person",
+      "meaning_bn": "ব্যক্তি বা সত্তা",
+      "why_en": "Every individual human will stand before Allah without exception."
+    },
+    {
+      "pos": 5,
+      "root": "سوق",
+      "lemma": "سائِق",
+      "meaning_en": "a driver",
+      "meaning_bn": "চালক",
+      "why_en": "An angel assigned to lead the person toward the place of gathering."
+    },
+    {
+      "pos": 6,
+      "root": "شهد",
+      "lemma": "شَهِيد",
+      "meaning_en": "a witness",
+      "meaning_bn": "সাক্ষী",
+      "why_en": "An angel assigned to testify to what the person did in life."
+    }
+  ],
+  "lesson_en": "No one can escape the Day of Judgement. Your own deeds will be presented by truthful witnesses.",
+  "lesson_bn": "আল্লাহর বিচার থেকে পালানোর কোনো উপায় নেই, ন্যায়পরায়ণ সাক্ষীরা আপনার সমস্ত আমল তুলে ধরবেন।",
+  "real_life_en": "Live with honesty today. That way, when your record is shown before everyone, you will feel joy rather than regret.",
+  "real_life_bn": "সবসময় সততার সাথে কাজ করুন, যাতে কিয়ামতের দিন আমলনামা উন্মুক্ত হলে লজ্জিত না হয়ে আনন্দিত হতে পারেন।",
+  "context_en": "Each person is escorted to the divine tribunal by a driving angel and a testifying angel.",
+  "context_bn": "বিচারের জন্য প্রত্যেক মানুষকে একজন চালক ও একজন সাক্ষী ফেরেশতার সাথে উপস্থিত করা হবে।",
+  "themes": [
+    "the Last Day",
+    "angels",
+    "judgment",
+    "record of deeds"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels",
+      "recording-angels"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Resurrection",
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Every soul will arrive on the Day of Resurrection with an angel driving it and an angel testifying to its deeds.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

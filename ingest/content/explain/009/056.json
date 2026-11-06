@@ -1,0 +1,64 @@
+{
+  "id": "9:56",
+  "simple_en": "They swear by Allah that they are with you, while they are not with you at all. Rather, they are a cowardly people who live in constant fear.",
+  "simple_bn": "তারা আল্লাহর নামে শপথ করে বলে যে তারা তোমাদেরই অন্তর্ভুক্ত, অথচ তারা তোমাদের অন্তর্ভুক্ত নয়; আসলে তারা এমন এক সম্প্রদায় যারা সর্বদা ভয়ে ভীত থাকে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "حلف",
+      "lemma": "حَلَفْ",
+      "meaning_en": "they swear",
+      "meaning_bn": "তারা শপথ করে",
+      "why_en": "Using solemn oaths falsely to blend in safely."
+    },
+    {
+      "pos": 10,
+      "root": "فرق",
+      "lemma": "فَرَقْ",
+      "meaning_en": "they fear / live in terror",
+      "meaning_bn": "তারা ভয় পায় / শঙ্কিত থাকে",
+      "why_en": "Cowardice driving constant deceit and two-faced behavior."
+    }
+  ],
+  "lesson_en": "Cowards live in fear and hide behind false words.",
+  "lesson_bn": "কাপুরুষতা মানুষকে ভণ্ডামির আশ্রয় নিতে বাধ্য করে এবং অন্তরে সবসময় ভয়ের সৃষ্টি করে।",
+  "real_life_en": "Have the courage to be honest about your beliefs and values. Living a double life to please everyone is exhausting and destroys your self-respect.",
+  "real_life_bn": "নিজের বিশ্বাস ও আদর্শের ব্যাপারে স্পষ্ট থাকুন; সবাইকে খুশি করতে গিয়ে দ্বিমুখী আচরণ করলে আত্মসম্মান নষ্ট হয়।",
+  "themes": [
+    "cowardice",
+    "false oaths",
+    "living in fear"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites swear false oaths claiming allegiance to Muslims purely out of fear and cowardice.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

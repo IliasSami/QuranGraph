@@ -1,0 +1,63 @@
+{
+  "id": "16:5",
+  "simple_en": "He created cattle and livestock for your use. In them you find warm clothes, many useful benefits, and good meat that you eat each day.",
+  "simple_bn": "তিনি তোমাদের কল্যাণে গৃহপালিত চতুষ্পদ পশু সৃষ্টি করেছেন। সেগুলোর পশমে রয়েছে শীত নিবারণের সামগ্রী, বহুবিধ উপকারিতা এবং তাদের থেকে তোমরা নিয়মিত পুষ্টিকর খাদ্য গ্রহণ করো।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نعم",
+      "lemma": "نَعَم",
+      "meaning_en": "the cattle",
+      "meaning_bn": "চতুষ্পদ পশু",
+      "why_en": "Domestic animals created specifically to serve humanity."
+    },
+    {
+      "pos": 5,
+      "root": "دفأ",
+      "lemma": "دِفْء",
+      "meaning_en": "warmth",
+      "meaning_bn": "শীত নিবারক",
+      "why_en": "Wool and animal hides used to make warm garments."
+    }
+  ],
+  "lesson_en": "Livestock give food and warmth. God provides them out of pure mercy.",
+  "lesson_bn": "গৃহপালিত পশু মানুষের জীবনধারণের জন্য অপরিহার্য এবং এগুলো আল্লাহর বিশেষ দান ও নেয়ামত।",
+  "real_life_en": "Take good care of animals and land. Thank God for warm clothes and healthy daily meals.",
+  "real_life_bn": "পশুপাখি ও প্রাকৃতিক সম্পদ ব্যবহারে যত্নশীল হোন এবং খাদ্যের জন্য সর্বদা আল্লাহর প্রতি কৃতজ্ঞ থাকুন।",
+  "themes": [
+    "blessings",
+    "creation",
+    "gratitude"
+  ],
+  "kinds": [
+    "creation",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "cattle"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Livestock were created with warmth, benefits, and food for people.",
+      "claim_bn": "চতুষ্পদ পশু মানুষের পোশাকের উষ্ণতা, বহু উপকারিতা ও খাদ্যের উৎস হিসেবে সৃষ্ট।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

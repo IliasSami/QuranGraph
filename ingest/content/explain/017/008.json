@@ -1,0 +1,65 @@
+{
+  "id": "17:8",
+  "simple_en": "Your Lord may still show mercy to you if you repent. But if you return to sin, We will return with punishment. We made Hell a prison for deniers.",
+  "simple_bn": "সম্ভবত তোমাদের পালনকর্তা তোমাদের প্রতি দয়া করবেন যদি তোমরা তওবা করো। কিন্তু তোমরা যদি আবার পাপাচারে ফিরে যাও, তবে আমরাও শাস্তির পুনরাবৃত্তি করব। আর জাহান্নামকে কাফিরদের জন্য কারাগার করা হয়েছে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "رحم",
+      "lemma": "رَحِمَ",
+      "meaning_en": "He has mercy",
+      "meaning_bn": "তিনি দয়া করবেন",
+      "why_en": "Divine mercy welcoming sincere repentance."
+    },
+    {
+      "pos": 6,
+      "root": "عود",
+      "lemma": "عادَ",
+      "meaning_en": "you return",
+      "meaning_bn": "তোমরা ফিরে যাও",
+      "why_en": "Relapsing into willful corruption."
+    }
+  ],
+  "lesson_en": "God is ready to forgive. But returning to sin brings back His punishment.",
+  "lesson_bn": "আল্লাহর ক্ষমার দুয়ার খোলা থাকে, কিন্তু জেনেবুঝে আবার পাপে লিপ্ত হলে শাস্তিও অনিবার্য হয়ে ওঠে।",
+  "real_life_en": "When God forgives your past mistakes, do not return to old bad habits. Cherish second chances with gratitude.",
+  "real_life_bn": "ভুল থেকে মুক্তি পেলে পুনরায় সেই ভুলের পুনরাবৃত্তি করবেন না। সংশোধিত জীবন নিয়ে নিষ্ঠার সাথে চলুন।",
+  "themes": [
+    "mercy",
+    "repentance",
+    "hell"
+  ],
+  "kinds": [
+    "promise",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah offers mercy upon repentance, but warns that returning to corruption invites renewed punishment, and Hell is a prison for disbelievers.",
+      "claim_bn": "তওবা করলে আল্লাহ রহমতের আশ্বাস দেন, তবে পুনরায় অবাধ্য হলে শাস্তির হুঁশিয়ারি দেন এবং জাহান্নামকে অবিশ্বাসীদের কারাগার বানিয়েছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

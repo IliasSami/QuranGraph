@@ -1,0 +1,106 @@
+{
+  "id": "12:50",
+  "simple_en": "The king was impressed and ordered Yusuf brought to court. But Yusuf asked the messenger to check on the women who cut their hands. He wanted his name cleared first, trusting that Allah knew all about their plots.",
+  "simple_bn": "ব্যাখ্যা শুনে রাজা মুগ্ধ হয়ে ইউসুফকে দরবারে আনার নির্দেশ দিলেন। কিন্তু ইউসুফ দূতকে বললেন, রাজাকে সেই নারীদের ব্যাপারে জিজ্ঞাসা করতে যারা হাত কেটেছিল। তিনি আগে নিজের সম্মান প্রতিষ্ঠা করতে চাইলেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ملك",
+      "lemma": "مَلِك",
+      "meaning_en": "the king",
+      "meaning_bn": "রাজা",
+      "why_en": "The monarch who realized Yusuf’s extraordinary capability."
+    },
+    {
+      "pos": 7,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "the messenger",
+      "meaning_bn": "দূত",
+      "why_en": "The royal envoy sent to deliver the release order."
+    },
+    {
+      "pos": 9,
+      "root": "رجع",
+      "lemma": "رَجَعَ",
+      "meaning_en": "return",
+      "meaning_bn": "ফিরে যাও",
+      "why_en": "Yusuf politely declines immediate release to seek vindication."
+    },
+    {
+      "pos": 17,
+      "root": "قطع",
+      "lemma": "قَطَّعَ",
+      "meaning_en": "they cut",
+      "meaning_bn": "তারা কেটেছিল",
+      "why_en": "Points back to the banquet incident where his innocence was demonstrated."
+    },
+    {
+      "pos": 22,
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "Knowing",
+      "meaning_bn": "সর্বজ্ঞ",
+      "why_en": "Yusuf trusts that Allah knows all hidden realities."
+    }
+  ],
+  "lesson_en": "A clean name and good character are worth more than quick personal gain.",
+  "lesson_bn": "তাৎক্ষণিক সুবিধার চেয়ে নিজের নিষ্কলুষ চরিত্র ও আত্মসম্মান রক্ষা করা অনেক বেশি মূল্যবান।",
+  "real_life_en": "A worker accused of theft is offered money to quit quietly. They refuse. They ask for an honest review so their name is cleared and their honor remains intact.",
+  "real_life_bn": "মিথ্যা অভিযোগে অভিযুক্ত এক কর্মী কোনো আপস মেনে নেন না। তিনি নিরপেক্ষ তদন্ত দাবি করেন যাতে তাঁর সম্মান রক্ষা পায় এবং তিনি নির্দোষ প্রমাণিত হন।",
+  "context_en": "Rather than rushing out of prison, Yusuf demanded that the truth of his past case be openly investigated.",
+  "context_bn": "ইউসুফ তাড়াহুড়ো করে বের না হয়ে আগে নিজের অতীত অপবাদের নিরপেক্ষ তদন্ত দাবি করলেন।",
+  "themes": [
+    "honor",
+    "patience",
+    "justice",
+    "moral integrity"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "king of Egypt",
+      "royal messenger",
+      "women of Egypt"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "prison"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The king ordered Yusuf brought to him after hearing the interpretation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Yusuf asked for an inquiry into the women who cut their hands before agreeing to leave prison.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

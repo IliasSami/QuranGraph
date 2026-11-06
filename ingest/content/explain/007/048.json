@@ -1,0 +1,85 @@
+{
+  "id": "7:48",
+  "simple_en": "The people on the wall will call to leaders of disbelief whom they know by their dark faces. They will say that their big crowds and wealth did not help them. Their boastful pride brought no safety from Allah's punishment. Arrogance only led them to total loss.",
+  "simple_bn": "আ'রাফের অধিবাসীরা জাহান্নামে থাকা নেতৃস্থানীয় কাফিরদের তাদের কালো চেহারার চিহ্ন দেখে চিনতে পারবে এবং তাদের ডেকে বলবে, দুনিয়ায় তোমাদের ধনসম্পদ ও লোকবলের অহংকার আজ কোনো কাজে আসল না। সত্য প্রত্যাখ্যান করে তোমরা যে অহংকার করতে, তা তোমাদের আল্লাহর শাস্তি থেকে বাঁচাতে পারল না।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "غني",
+      "lemma": "أَغْنَى",
+      "meaning_en": "availed / benefited",
+      "meaning_bn": "কাজে আসল / রক্ষা করল",
+      "why_en": "Shows the complete uselessness of worldly advantages in the face of divine punishment."
+    },
+    {
+      "pos": 11,
+      "root": "جمع",
+      "lemma": "جَمْع",
+      "meaning_en": "your gathering / amassing",
+      "meaning_bn": "তোমাদের লোকবল বা সঞ্চয়",
+      "why_en": "Refers to their gathering of followers, wealth, and worldly resources."
+    },
+    {
+      "pos": 14,
+      "root": "كبر",
+      "lemma": "اسْتَكْبَرَ",
+      "meaning_en": "you showed arrogance",
+      "meaning_bn": "তোমরা অহংকার করতে",
+      "why_en": "Pinpoints false pride as the primary reason for their spiritual downfall."
+    }
+  ],
+  "lesson_en": "Money, fame, and pride cannot save anyone from the judgment of Allah.",
+  "lesson_bn": "ধনসম্পদ, অনুসারীদের সংখ্যা বা সামাজিক প্রভাব কোনো কিছুই পরকালে আল্লাহর আজাব থেকে বাঁচাতে পারে না।",
+  "real_life_en": "A rich man thinks his status lets him break rules and ignore poor people. On the Day of Judgment, earthly power means nothing. Living with honest care matters far more.",
+  "real_life_bn": "ক্ষমতা ও অর্থের জোরে কেউ সাময়িকভাবে ধরাছোঁয়ার বাইরে থাকতে পারে। কিন্তু আখেরাতের চূড়ান্ত বিচারে এসব কোনো কাজে আসবে না। তাই অহংকার ত্যাগ করে সততার সাথে জীবনযাপন করা উচিত।",
+  "context_en": "The companions of the Heights now address specific arrogant chiefs in Hell, highlighting their helplessness despite past earthly power.",
+  "context_bn": "আ'রাফবাসীরা জাহান্নামের অহংকারী নেতাদের লক্ষ্য করে বলবে যে দুনিয়ার ক্ষমতা তাদের কোনো উপকারে আসেনি।",
+  "themes": [
+    "arrogance",
+    "wealth",
+    "pride",
+    "Hell",
+    "judgment"
+  ],
+  "kinds": [
+    "hereafter",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "al-A'raf"
+    ],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people of the Heights address prominent disbelievers recognized by their marks in the Fire.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Neither worldly wealth, followers, nor pride can shield wrongdoers from Allah's punishment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

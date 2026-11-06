@@ -1,0 +1,75 @@
+{
+  "id": "8:73",
+  "simple_en": "The deniers stand by each other. If you do not help one another as believers, bad trouble and great harm will spread through the land.",
+  "simple_bn": "আর যারা সত্য অস্বীকার করে তারা পরস্পরের বন্ধু। তোমরা যদি পরস্পরের সাহায্যকারী না হও, তবে জমিনে মহা বিপর্যয় ও অরাজকতা ছড়িয়ে পড়বে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "disbelieved",
+      "meaning_bn": "কুফরি করেছে",
+      "why_en": "Rejection of divine truth."
+    },
+    {
+      "pos": 4,
+      "root": "ولي",
+      "lemma": "وَلِيّ",
+      "meaning_en": "allies / protectors",
+      "meaning_bn": "অভিভাবক বা বন্ধু",
+      "why_en": "Mutual support among hostile factions."
+    },
+    {
+      "pos": 7,
+      "root": "فعل",
+      "lemma": "فَعَلَ",
+      "meaning_en": "you do so",
+      "meaning_bn": "তোমরা তা করো",
+      "why_en": "Command to practice mutual loyalty and solidarity."
+    }
+  ],
+  "lesson_en": "When good people fail to stand together, evil fills the void and harms everyone.",
+  "lesson_bn": "ন্যায়পরায়ণ মানুষ যদি ঐক্যবদ্ধ না হয়, তবে অন্যায়কারী ও অসৎ শক্তির কারণে সমাজে চরম বিশৃঙ্খলা দেখা দেবে।",
+  "real_life_en": "Do not let small personal differences keep you apart from good people. When righteous people stay divided, corrupt groups take control of society and hurt the innocent. Stand together.",
+  "real_life_bn": "ছোটখাটো মতভেদ ভুলে ভালো মানুষেরা ঐক্যবদ্ধ থাকুন। সৎ মানুষ বিচ্ছিন্ন থাকলে সমাজে অসৎ শক্তির আধিপত্য বাড়ে এবং সবার ক্ষতি হয়।",
+  "context_en": "Warning the Muslim community that disunity among believers enables pagan oppression to spread unchecked across the earth.",
+  "context_bn": "মুমিনদের অনৈক্যের ফলে পৃথিবীতে ফিতনা ও বিশৃঙ্খলা ছড়িয়ে পড়ার কঠোর হুঁশিয়ারি।",
+  "themes": [
+    "unity of believers",
+    "preventing corruption",
+    "solidarity",
+    "opposing injustice"
+  ],
+  "kinds": [
+    "warning",
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers",
+      "disbelievers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers support each other; if believers fail to form mutual alliances, widespread strife and corruption will prevail.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

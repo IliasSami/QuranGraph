@@ -1,0 +1,79 @@
+{
+ "id": "6:5",
+ "simple_en": "These deniers rejected the Quran as soon as it reached them. They mocked its warnings and treated them like a joke. But soon they will face the real outcome of their mockery. The punishment they laughed at will overtake them in this world and in the Hereafter.",
+ "simple_bn": "এই অবাধ্য লোকেরা সত্য বাণী পৌঁছামাত্রই তা মিথ্যা বলে প্রত্যাখ্যান করেছিল। তারা আল্লাহর সতর্কবার্তা নিয়ে উপহাস করত। কিন্তু অচিরেই তাদের কাছে সেই শাস্তির বাস্তব পরিণতি পৌঁছে যাবে, যা নিয়ে তারা হাসাহাসি করত। পরকালে এবং দুনিয়াতেও তাদের অপমানের মুখোমুখি হতে হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "كذب",
+   "lemma": "كَذَّبَ",
+   "meaning_en": "they denied / rejected",
+   "meaning_bn": "তারা অস্বীকার করেছে",
+   "why_en": "Points to their denial of the Quran and the Prophet."
+  },
+  {
+   "pos": 3,
+   "root": "حقق",
+   "lemma": "حَقّ",
+   "meaning_en": "the truth",
+   "meaning_bn": "সত্য",
+   "why_en": "Refers to the Quran and divine revelation."
+  },
+  {
+   "pos": 12,
+   "root": "هزأ",
+   "lemma": "اسْتُهْزِئَ",
+   "meaning_en": "they ridicule / mock",
+   "meaning_bn": "তারা উপহাস করত",
+   "why_en": "Highlights their mocking attitude toward divine warnings."
+  }
+ ],
+ "lesson_en": "Mocking divine truth brings severe ruin. Take Allah's warnings with deep seriousness.",
+ "lesson_bn": "সত্যের সাথে উপহাস মারাত্মক পরিণতি ডেকে আনে। তাই আল্লাহর বিধানকে সর্বদা শ্রদ্ধার সাথে গ্রহণ করা উচিত।",
+ "real_life_en": "Never make fun of religious values, prayers, or pious deeds in casual talk or on social media. What people mock today as outdated will become a grave matter on Judgment Day.",
+ "real_life_bn": "সামাজিক যোগাযোগ মাধ্যমে বা বন্ধুদের আড্ডায় দ্বীন ও ইবাদত নিয়ে উপহাস করবেন না। যেসব বিধান নিয়ে অবহেলা করা হয়, আখেরাতে সেগুলোর জবাবদিহিতা হবে অত্যন্ত কঠিন।",
+ "context_en": "Warns those who mock the Quran that the punishment they joke about will soon become their reality.",
+ "context_bn": "কুরআনকে মিথ্যা সাব্যস্তকারী ও উপহাসকারীদের সতর্ক করে জানানো হয়েছে যে, উপহাসের অশুভ পরিণাম দ্রুত তাদের গ্রাস করবে।",
+ "themes": [
+  "denial of truth",
+  "mockery",
+  "consequences of disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The disbelievers rejected the truth of the Quran as soon as it came to them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The true reality and punishment of what they mocked will soon overtake them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

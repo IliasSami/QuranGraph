@@ -1,0 +1,81 @@
+{
+  "id": "40:74",
+  "simple_en": "They used to worship them instead of Allah. They will say, They are lost from us. In fact, we were calling upon nothing real before. In this way Allah leaves the disbelievers in error.",
+  "simple_bn": "তারা বলবে, তারা তো আমাদের ছেড়ে হারিয়ে গেছে। আসলে অতীতে আমরা অর্থহীন কিছুরই পূজা করতাম। এভাবেই আল্লাহ সত্য অস্বীকারকারীদের বিভ্রান্তিতে রাখেন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "ضلل",
+      "lemma": "ضَلَّ",
+      "meaning_en": "they are lost / vanished",
+      "meaning_bn": "তারা হারিয়ে গেছে",
+      "why_en": "The total absence and uselessness of false deities."
+    },
+    {
+      "pos": 10,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "we used to invoke",
+      "meaning_bn": "আমরা আহ্বান করতাম",
+      "why_en": "Past prayers directed to powerless created things."
+    },
+    {
+      "pos": 15,
+      "root": "ضلل",
+      "lemma": "أَضَلَّ",
+      "meaning_en": "He leaves astray",
+      "meaning_bn": "তিনি বিভ্রান্তিতে রাখেন",
+      "why_en": "Abandoning persistent rejectors to the consequences of their disbelief."
+    },
+    {
+      "pos": 17,
+      "root": "كفر",
+      "lemma": "كافِر",
+      "meaning_en": "the disbelievers",
+      "meaning_bn": "কাফিরগণ",
+      "why_en": "Those who stubbornly covered the truth during life."
+    }
+  ],
+  "lesson_en": "False gods are based on lies and will leave their followers behind.",
+  "lesson_bn": "শিরকের ভিত্তি হলো মিথ্যা এবং শেষ বিচারের দিনে মিথ্যা উপাস্যরা অনুসারীদের ত্যাগ করবে।",
+  "real_life_en": "Never rely on superstitions, talismans, or human praise. Sincere prayer to Allah alone brings true peace to your life.",
+  "real_life_bn": "কোনো কুসংস্কার বা মানুষের মনস্তুষ্টির ওপর নির্ভর করবেন না। একমাত্র আল্লাহর কাছে সাহায্য প্রার্থনাই জীবনে প্রকৃত শান্তি আনে।",
+  "themes": [
+    "shirk",
+    "Hell",
+    "judgment",
+    "tawhid"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "They admit their idols have vanished and were nothing, and thus Allah leaves disbelievers to stray.",
+      "claim_bn": "তারা স্বীকার করবে যে তাদের প্রতিমারা হারিয়ে গেছে এবং আসলে কিছুই ছিল না; এভাবেই আল্লাহ কাফিরদের বিভ্রান্ত রাখেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

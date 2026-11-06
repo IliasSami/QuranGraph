@@ -1,0 +1,87 @@
+{
+  "id": "40:68",
+  "simple_en": "He alone is the One who gives life and causes death. When He decides a matter, He only says to it, Be, and it is.",
+  "simple_bn": "একমাত্র তিনিই জীবন দান করেন এবং মৃত্যু ঘটান। যখন তিনি কোনো কিছুর সিদ্ধান্ত নেন, তখন শুধু বলেন, হও, আর তা হয়ে যায়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حيي",
+      "lemma": "أَحْيا",
+      "meaning_en": "He gives life",
+      "meaning_bn": "তিনি জীবন দেন",
+      "why_en": "Sole divine power to originate and sustain life."
+    },
+    {
+      "pos": 4,
+      "root": "موت",
+      "lemma": "أَماتَ",
+      "meaning_en": "and He causes death",
+      "meaning_bn": "এবং তিনি মৃত্যু ঘটান",
+      "why_en": "Ending physical life according to a precise decree."
+    },
+    {
+      "pos": 6,
+      "root": "قضي",
+      "lemma": "قَضَى",
+      "meaning_en": "He decrees / decides",
+      "meaning_bn": "তিনি ফয়সালা করেন",
+      "why_en": "Absolute divine will determining all events in creation."
+    },
+    {
+      "pos": 11,
+      "root": "كون",
+      "lemma": "كانَ",
+      "meaning_en": "Be",
+      "meaning_bn": "হও",
+      "why_en": "The effortless word by which Allah creates anything instantly."
+    },
+    {
+      "pos": 12,
+      "root": "كون",
+      "lemma": "كانَ",
+      "meaning_en": "and it becomes",
+      "meaning_bn": "এবং তা হয়ে যায়",
+      "why_en": "Immediate manifestation of divine decree without delay."
+    }
+  ],
+  "lesson_en": "Life and death are in the hands of Allah, who creates all by His word.",
+  "lesson_bn": "জীবন ও মৃত্যুর পূর্ণ মালিকানা একমাত্র আল্লাহর এবং তাঁর আদেশের মাধ্যমেই সবকিছু সৃষ্টি হয়।",
+  "real_life_en": "Place all your trust in the Lord of life and death. Do not fear mortal threats, for no one can harm you except by Allah's leave.",
+  "real_life_bn": "জীবন ও মৃত্যুর মালিক আল্লাহর ওপর সম্পূর্ণ ভরসা রাখুন। কোনো মানুষের ভয়ে ভীত হবেন না, কারণ আল্লাহর হুকুম ছাড়া কেউ আপনার ক্ষতি করতে পারে না।",
+  "themes": [
+    "life",
+    "death",
+    "Allah's power",
+    "creation"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah alone gives life and causes death, and when He decrees a matter He merely says 'Be' and it is.",
+      "claim_bn": "একমাত্র আল্লাহই জীবন ও মৃত্যু দেন এবং কোনো ফয়সালা করলে বলেন 'হও', আর তা হয়ে যায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

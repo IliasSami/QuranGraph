@@ -1,0 +1,79 @@
+{
+  "id": "15:8",
+  "simple_en": "We do not send angels down except with truth and decisive judgment. If the angels were sent visibly, the deniers would receive no further delay before their destruction.",
+  "simple_bn": "আমরা কেবল সুনির্দিষ্ট উদ্দেশ্যে ও যথাযথ বিচারসহ ফেরেশতা নাযিল করি। আর ফেরেশতা উপস্থিত হলে অস্বীকারকারীদের তওবার আর কোনো অবকাশ দেওয়া হতো না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نزل",
+      "lemma": "نَزَّلَ",
+      "meaning_en": "We send down",
+      "meaning_bn": "আমরা নাযিল করি",
+      "why_en": "Sending from heaven."
+    },
+    {
+      "pos": 3,
+      "root": "ملك",
+      "lemma": "مَلَك",
+      "meaning_en": "the angels",
+      "meaning_bn": "ফেরেশতাদের",
+      "why_en": "Emissaries of divine decree."
+    },
+    {
+      "pos": 5,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "with truth",
+      "meaning_bn": "যথার্থ কারণসহ",
+      "why_en": "With divine justice and judgment."
+    },
+    {
+      "pos": 9,
+      "root": "نظر",
+      "lemma": "مُنْظَر",
+      "meaning_en": "reprieved",
+      "meaning_bn": "অবকাশপ্রাপ্ত",
+      "why_en": "Granted extra time before punishment."
+    }
+  ],
+  "lesson_en": "Allah's delay of punishment is a mercy. Use this time to return to Him.",
+  "lesson_bn": "শাস্তি পিছিয়ে দেওয়া আল্লাহর এক বিশেষ রহমত। এই সুযোগ কাজে লাগিয়ে তাঁর দিকে ফিরে আসুন।",
+  "real_life_en": "A reckless driver gets off with a simple police warning instead of a heavy fine. He uses the second chance to change his driving habits and stay safe.",
+  "real_life_bn": "এক অসতর্ক চালক বড় জরিমানা ছাড়াই পুলিশের সতর্কবার্তা পেয়ে বেঁচে যায়। সে এই সুযোগ কাজে লাগিয়ে সতর্কভাবে গাড়ি চালানো শুরু করে।",
+  "context_en": "Divine response explaining that visible angels appear only for final retribution.",
+  "context_bn": "ফেরেশতা নাযিলের উদ্দেশ্য ব্যাখ্যা: ফেরেশতারা চূড়ান্ত শাস্তি কার্যকর করার জন্যই প্রকাশ্যে আসেন।",
+  "themes": [
+    "angels",
+    "mercy",
+    "warning"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "unseen": [
+      "angels"
+    ],
+    "people": [],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Angels are sent down with truth, and if sent visibly, disbelievers would not be reprieved.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

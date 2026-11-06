@@ -1,0 +1,81 @@
+{
+  "id": "6:88",
+  "simple_en": "This is the true guidance of Allah. He gives it to whomever He wills among His servants. Even these great prophets would have lost all their good deeds if they had joined partners with Allah. Shirk destroys every good action. No one can ever afford to compromise pure faith.",
+  "simple_bn": "এটিই আল্লাহর প্রকৃত হিদায়াত। তিনি তাঁর বান্দাদের মধ্যে যাকে ইচ্ছা এই পথ দেখান। যদি এই মহান নবীগণও কখনো আল্লাহর সাথে অন্য কাউকে শরীক করতেন, তবে তাঁদের সকল আমল বাতিল হয়ে যেত। শিরক সমস্ত ভালো কাজ ধ্বংস করে দেয়। তাই খাঁটি তাওহীদের বিষয়ে কোনো ছাড় দেওয়া চলে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "هدي",
+      "lemma": "هُدًى",
+      "meaning_en": "guidance",
+      "meaning_bn": "হিদায়াত",
+      "why_en": "Identifies true guidance as belonging exclusively to Allah."
+    },
+    {
+      "pos": 11,
+      "root": "شرك",
+      "lemma": "أَشْرَكَ",
+      "meaning_en": "they associated partners",
+      "meaning_bn": "তারা শিরক করত",
+      "why_en": "Sets up a powerful hypothetical warning against polytheism."
+    },
+    {
+      "pos": 12,
+      "root": "حبط",
+      "lemma": "حَبِطَ",
+      "meaning_en": "surely would become worthless",
+      "meaning_bn": "অবশ্যই বাতিল হয়ে যেত",
+      "why_en": "Stresses that shirk wipes away all previous righteous actions."
+    }
+  ],
+  "lesson_en": "Shirk destroys all good deeds. Guard your pure faith at all costs.",
+  "lesson_bn": "শিরক সকল নেক আমল ধ্বংস করে দেয়। তাই যেকোনো মূল্যে খাঁটি ঈমান রক্ষা করা আবশ্যক।",
+  "real_life_en": "Never compromise on the oneness of Allah. Seeking help from tombs, idols, or false powers ruins all good deeds. Direct your prayers, vows, and worship purely to your Creator alone.",
+  "real_life_bn": "আল্লাহর একত্ববাদের ব্যাপারে কখনোই আপস করবেন না। কোনো মাজার বা ভণ্ড মাধ্যমের কাছে পার্থিব ফায়দা কামনা করলে সমস্ত ভালো আমল নষ্ট হয়ে যায়। আপনার সকল ইবাদত কেবল এক আল্লাহর জন্য নিবেদন করুন।",
+  "context_en": "Warns that even the greatest humans would lose all deeds if they committed shirk.",
+  "context_bn": "শিরক কত মারাত্মক অপরাধ তা বোঝাতে বলা হয়েছে যে, নবীগণও শিরক করলে তাঁদের আমল নিষ্ফল হতো।",
+  "themes": [
+    "tawhid",
+    "shirk",
+    "guidance",
+    "nullification of deeds"
+  ],
+  "kinds": [
+    "warning",
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Creator"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah guides whomever He wills of His servants to the truth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Polytheism completely nullifies all good deeds, even if committed by the most honored servants.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

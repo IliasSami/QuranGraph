@@ -1,0 +1,65 @@
+{
+ "id": "38:27",
+ "simple_en": "Allah did not create the sky, the earth, and all that lies between them without a purpose. Only those who deny the truth think that life has no meaning. Woe to the disbelievers, for they will face the fire of Hell for their false claims.",
+ "simple_bn": "আল্লাহ আকাশ, জমিন এবং এদের মধ্যবর্তী কোনো কিছুই অনর্থক সৃষ্টি করেননি। কেবল অবিশ্বাসীরাই মনে করে সৃষ্টিজগতের কোনো উদ্দেশ্য নেই। যারা কুফরি করে তাদের জন্য দুর্ভোগ, কারণ তাদের শেষ পরিণতি জাহান্নামের আগুন।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "بطل",
+   "lemma": "باطِل",
+   "meaning_en": "in vain / without purpose",
+   "meaning_bn": "অনর্থক বা উদ্দেশ্যহীনভাবে",
+   "why_en": "Negates the notion that creation is accidental or without divine wisdom."
+  },
+  {
+   "pos": 9,
+   "root": "ظنن",
+   "lemma": "ظَنّ",
+   "meaning_en": "assumption / thought",
+   "meaning_bn": "ধারণা",
+   "why_en": "Shows that denying the purpose of creation is based on false guesswork."
+  }
+ ],
+ "lesson_en": "Creation has a wise purpose, and every soul will be held accountable.",
+ "lesson_bn": "সৃষ্টিজগতের একটি মহৎ উদ্দেশ্য রয়েছে এবং প্রতিটি মানুষকে জবাবদিহি করতে হবে।",
+ "real_life_en": "Remember that your life has a clear purpose. Do not waste your days in idle pursuits. Use your time to do good deeds and help others.",
+ "real_life_bn": "আপনার জীবনের একটি সুনির্দিষ্ট উদ্দেশ্য রয়েছে। অহেতুক কাজে সময় নষ্ট না করে প্রতিদিন ভালো কাজ ও মানুষের সেবায় সময় দিন।",
+ "themes": [
+  "creation",
+  "judgment",
+  "tawhid"
+ ],
+ "kinds": [
+  "argument",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "hell"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The heavens and earth were created with purpose, and disbelievers who deny divine accountability face Hellfire.",
+   "claim_bn": "আসমান ও জমিন উদ্দেশ্যমূলকভাবে সৃষ্টি হয়েছে; যারা বিচার অস্বীকার করে তাদের জন্য জাহান্নামের আগুন রয়েছে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": false
+}

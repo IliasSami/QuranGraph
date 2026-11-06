@@ -1,0 +1,92 @@
+{
+  "id": "40:28",
+  "simple_en": "A believer from Pharaoh's family, who had kept his faith hidden, stood up and spoke. He asked them, Will you kill a man just because he says my Lord is Allah? He brought clear proofs to you from your Lord. If he lies, the harm of his lie falls on him. But if he is truthful, some of what he warns will strike you. Truly, Allah does not guide any liar who crosses the limits.",
+  "simple_bn": "ফিরআউনের বংশের এক মুমিন ব্যক্তি, যে নিজের ঈমান গোপন রেখেছিল, সাহসের সাথে প্রতিবাদ করে বলল, তোমরা কি একজন মানুষকে শুধু এজন্য হত্যা করবে যে সে বলে আমার প্রতিপালক আল্লাহ? অথচ সে তোমাদের রবের পক্ষ থেকে স্পষ্ট প্রমাণ এনেছে। সে যদি মিথ্যাবাদী হয় তবে তার মিথ্যার দায় তার ওপরই বর্তাবে। আর যদি সে সত্যবাদী হয়, তবে সে যে শাস্তির সতর্কবার্তা দিচ্ছে তার কিছু তো তোমাদের ওপর আপতিত হবে। নিশ্চয়ই আল্লাহ কোনো সীমালঙ্ঘনকারী মিথ্যাবাদীকে সৎপথ দেখান না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أمن",
+      "lemma": "مُؤْمِن",
+      "meaning_en": "a man",
+      "meaning_bn": "একজন পুরুষ",
+      "why_en": "Highlights the innocent person being targeted unfairly."
+    },
+    {
+      "pos": 4,
+      "root": null,
+      "lemma": "مِن",
+      "meaning_en": "believing",
+      "meaning_bn": "মুমিন বা বিশ্বাসী",
+      "why_en": "The heroic believer who spoke truth to power."
+    },
+    {
+      "pos": 7,
+      "root": "كتم",
+      "lemma": "كَتَمَ",
+      "meaning_en": "concealing / hiding",
+      "meaning_bn": "গোপন করছিল",
+      "why_en": "Prudence in concealing faith until the right moment to speak arrived."
+    },
+    {
+      "pos": 38,
+      "root": "سرف",
+      "lemma": "مُسْرِف",
+      "meaning_en": "transgressor",
+      "meaning_bn": "সীমালঙ্ঘনকারী",
+      "why_en": "Those who exceed moral limits lose divine guidance."
+    },
+    {
+      "pos": 39,
+      "root": "كذب",
+      "lemma": "كَذّاب",
+      "meaning_en": "habitual liar",
+      "meaning_bn": "মিথ্যাবাদী",
+      "why_en": "Persistence in deceit cuts a person off from the path of truth."
+    }
+  ],
+  "lesson_en": "Speaking up with calm reason to defend an innocent person is a mark of true faith.",
+  "lesson_bn": "শান্ত ও যৌক্তিক বক্তব্যের মাধ্যমে নিরাপরাধ মানুষের পাশে দাঁড়ানো খাঁটি ঈমানের পরিচয়।",
+  "real_life_en": "When people gather to harm or slander an innocent colleague, do not remain silent. Speak a calm word of reason to help prevent injustice.",
+  "real_life_bn": "কর্মক্ষেত্রে বা সমাজে কাউকে অন্যায়ভাবে দোষারোপ করা হলে নীরব থাকবেন না। বিচক্ষণতা ও সাহসের সাথে সত্যের পক্ষে যুক্তি তুলে ধরুন।",
+  "themes": [
+    "faith",
+    "justice",
+    "courage",
+    "the believers' qualities"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "A secret believer from Pharaoh's family defended Musa, arguing against killing a man for saying Allah is his Lord.",
+      "claim_bn": "ফিরআউন পরিবারের এক ঈমানদার ব্যক্তি মূসার পক্ষে যুক্তি তুলে ধরে নিরাপরাধ মানুষকে হত্যার বিরোধিতা করেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

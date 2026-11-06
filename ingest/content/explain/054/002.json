@@ -1,0 +1,63 @@
+{
+  "id": "54:2",
+  "simple_en": "When the deniers see a clear sign, they turn away. They call it passing magic that will soon fade. Their pride keeps them from the truth, not a lack of proof.",
+  "simple_bn": "মুশরিকরা যখনই সত্যের কোনো স্পষ্ট প্রমাণ বা অলৌকিক নিদর্শন দেখে, তখনই মুখ ফিরিয়ে নেয়। তারা একে ক্ষণস্থায়ী জাদু বলে উড়িয়ে দেয়। অন্তরের অহংকারই তাদের সত্য গ্রহণ থেকে বিরত রাখে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "a sign",
+      "meaning_bn": "একটি নিদর্শন",
+      "why_en": "Points to any miraculous evidence that proves the truth of the messenger."
+    },
+    {
+      "pos": 4,
+      "root": "عرض",
+      "lemma": "أَعْرَضَ",
+      "meaning_en": "they turn away",
+      "meaning_bn": "তারা মুখ ফিরিয়ে নেয়",
+      "why_en": "Describes the deliberate refusal of arrogant people to accept clear truth."
+    }
+  ],
+  "lesson_en": "Pride makes people reject the truth even when the proof is clear.",
+  "lesson_bn": "অহংকার মানুষকে স্পষ্ট প্রমাণ পাওয়ার পরেও সত্য অস্বীকার করতে পরিচালিত করে।",
+  "real_life_en": "A worker sees clear proof that his report has an error. He does not fix it. Instead, he blames the tool. A wise person accepts the truth with a humble heart.",
+  "real_life_bn": "একজন কর্মী তার কাজের ভুল সম্পর্কে সুস্পষ্ট প্রমাণ পেয়েও তা শোধরায় না। সে ভুলের দায় সফটওয়্যারের ওপর চাপিয়ে দেয়। অথচ সত্য মেনে নেওয়ার জন্য অন্তরে নম্রতা থাকা আবশ্যক।",
+  "themes": [
+    "arrogance",
+    "disbelief",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [
+      "quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When the idolaters see a sign proving the truth of the Prophet ﷺ, they turn away and call it passing sorcery.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

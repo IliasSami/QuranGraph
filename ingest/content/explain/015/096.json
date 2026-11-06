@@ -1,0 +1,76 @@
+{
+  "id": "15:96",
+  "simple_en": "Those who set up other false gods alongside Allah will soon come to know the reality. False idols cannot help anyone when final judgment arrives.",
+  "simple_bn": "যারা আল্লাহর সাথে অন্য কাউকে উপাস্য হিসেবে দাঁড় করায় তারা শিগগিরই সত্য জানতে পারবে। বিচারের দিন কোনো মিথ্যা উপাস্য তাদের কোনো কাজে আসবে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جعل",
+      "lemma": "جَعَلَ",
+      "meaning_en": "who make",
+      "meaning_bn": "যারা নির্ধারণ করে",
+      "why_en": "Setting up false deities."
+    },
+    {
+      "pos": 4,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "with Allah",
+      "meaning_bn": "আল্লাহর সাথে",
+      "why_en": "The One True God."
+    },
+    {
+      "pos": 5,
+      "root": "أله",
+      "lemma": "إِلٰه",
+      "meaning_en": "a deity",
+      "meaning_bn": "উপাস্য",
+      "why_en": "False partner in worship."
+    },
+    {
+      "pos": 8,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "they will know",
+      "meaning_bn": "তারা জানতে পারবে",
+      "why_en": "Realizing the truth upon facing retribution."
+    }
+  ],
+  "lesson_en": "Worship Allah alone without partners. Idols of wealth, fame, or statues will all fail to help you in the end.",
+  "lesson_bn": "একমাত্র আল্লাহরই ইবাদত করুন এবং কাউকে তাঁর শরিক করবেন না। ধনসম্পদ বা খ্যাতির অহংকার শেষ বিচারে কোনো কাজেই আসবে না।",
+  "real_life_en": "A man dedicates all his time chasing fame and wealthy friends. In old age, none of them visit him in sickness. True devotion belongs to Allah alone.",
+  "real_life_bn": "এক ব্যক্তি সারা জীবন কেবল সামাজিক প্রতিপত্তি আর খ্যাতির পেছনে ছোটে। অসুস্থতার সময় সেই বন্ধুরা কেউ তার পাশে থাকে না। একমাত্র আল্লাহর আনুগত্যই মানুষকে প্রকৃত শান্তি দেয়।",
+  "context_en": "Warning polytheists who ascribe partners to Allah that they will face severe consequences.",
+  "context_bn": "আল্লাহর সাথে শিরককারীদের আসন্ন পরিণতির ব্যাপারে কঠোর হুঁশিয়ারি।",
+  "themes": [
+    "tawheed",
+    "shirk",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who associate other deities with Allah will soon realize their dreadful fate.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

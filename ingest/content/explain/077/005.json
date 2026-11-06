@@ -1,0 +1,64 @@
+{
+ "id": "77:5",
+ "simple_en": "Allah swears by the angels who bring revelation to the prophets. They bring Allah's message to human hearts. This reminder helps people remember why they were created.",
+ "simple_bn": "আল্লাহ শপথ করেছেন সেই ফিরিশতাদের, যাঁরা নবী-রাসূলদের কাছে ওহীর মাধ্যমে উপদেশ পৌঁছে দেন। তাঁরা আল্লাহর বাণী পৌঁছে দেন যেন মানুষ নিজেদের সৃষ্টির উদ্দেশ্য স্মরণ করে এবং একমাত্র তাঁর ইবাদত করে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "لقي",
+   "lemma": "مُلْقِيَة",
+   "meaning_en": "those that deliver",
+   "meaning_bn": "পৌঁছে দেওয়া ফিরিশতা",
+   "why_en": "The angels conveying revelation to the hearts of prophets."
+  },
+  {
+   "pos": 2,
+   "root": "ذكر",
+   "lemma": "ذِكْر",
+   "meaning_en": "a reminder, revelation",
+   "meaning_bn": "উপদেশ, ওহী",
+   "why_en": "The divine word that awakens humanity from heedlessness."
+  }
+ ],
+ "lesson_en": "Allah sends His words to help our hearts remember the truth.",
+ "lesson_bn": "মানুষ যাতে সত্যের কথা ভুলে না যায়, সেজন্যই আল্লাহ ওহীর মাধ্যমে উপদেশ প্রেরণ করেছেন।",
+ "real_life_en": "Daily routines and busy work can make anyone forget spiritual duties. Hearing the call to prayer or reading a passage from the Quran brings our minds back to what truly matters. Divine reminders keep our souls awake.",
+ "real_life_bn": "কাজের ব্যস্ততায় আমরা প্রায়ই আমাদের আসল উদ্দেশ্য ভুলে যাই। আজানের সুর শুনলে বা কুরআনের আয়াত পড়লে মন আবার সচেতন হয়। আল্লাহর এই স্মরণ আমাদের আত্মাকে জাগ্রত রাখে।",
+ "themes": [
+  "angels",
+  "revelation",
+  "remembrance of Allah"
+ ],
+ "kinds": [
+  "oath",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah swears by the angels who descend delivering the reminder of revelation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

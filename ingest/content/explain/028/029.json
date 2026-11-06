@@ -1,0 +1,71 @@
+{
+  "id": "28:29",
+  "simple_en": "When Moses completed his agreed term of work, he traveled with his family. On the way, he noticed a fire on the side of Mount Tur. He told his family to stay where they were while he went to seek news or bring back a burning brand to give them warmth.",
+  "simple_bn": "মুসা যখন মেয়াদ পূর্ণ করে সপরিবারে যাত্রা করল, তখন সে তূর পাহাড়ের পাশে আগুন দেখতে পেল। সে পরিবারকে বলল, তোমরা অপেক্ষা করো, আমি আগুন দেখতে পেয়েছি। হয়তো আমি সেখান থেকে কোনো সংবাদ আনতে পারব অথবা এক টুকরো জ্বলন্ত কাঠ আনব যাতে তোমরা উষ্ণ হতে পারো।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "ٱلْأَجَلَ",
+      "root": "أجل",
+      "lemma": "أَجَل",
+      "meaning_en": "the term",
+      "meaning_bn": "মেয়াদ",
+      "why_en": "Completing the agreed duration of service."
+    },
+    {
+      "pos": 12,
+      "arabic": "قَالَ",
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "a fire",
+      "meaning_bn": "আগুন",
+      "why_en": "The distant flame noticed near Mount Tur."
+    }
+  ],
+  "lesson_en": "A good leader protects his family from cold and harm. Seeking light brings divine help.",
+  "lesson_bn": "পরিবারের নিরাপত্তা ও প্রয়োজনের খেয়াল রাখা দায়িত্বশীল অভিভাবকের কর্তব্য। আলো অন্বেষণেই আল্লাহ কল্যাণ রাখেন।",
+  "real_life_en": "Take practical care of your family's needs during travel. Protect them from cold and danger with watchful care.",
+  "real_life_bn": "ভ্রমণে বা সংকটের সময়ে পরিবারের আরাম ও সুরক্ষার প্রতি যত্নবান হোন। দায়িত্বশীলভাবে তাদের পাশে থাকুন।",
+  "themes": [
+    "musa",
+    "tur",
+    "family",
+    "fire"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Family of Moses"
+    ],
+    "nations": [],
+    "places": [
+      "Mount Tur"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "fire",
+      "wood"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Having finished the term, Moses traveled with his family and saw a fire near Mount Tur.",
+      "claim_bn": "কাজের মেয়াদ শেষে পরিবারসহ যাত্রাপথে মুসা তূর পাহাড়ের পাশে আগুন দেখতে পান।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

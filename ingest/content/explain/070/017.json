@@ -1,0 +1,76 @@
+{
+ "id": "70:17",
+ "simple_en": "The fire of Hell calls out by name to the one who turned his back on the truth. Such a person walked away from what Allah asked and refused to obey. Instead of listening to guidance, he chose pride and ran in the other direction.",
+ "simple_bn": "জাহান্নামের আগুন সেই ব্যক্তিকে ডেকে নেবে, যে সত্যের প্রতি পিঠ দেখিয়েছিল। সে আল্লাহর নির্দেশ থেকে মুখ ফিরিয়ে নিয়েছিল এবং আনুগত্য করতে অস্বীকার করেছিল। হিদায়েতের কথা শোনার বদলে সে অহংকারের পথ বেছে নিয়েছিল।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "دعو",
+   "lemma": "دَعا",
+   "meaning_en": "it calls out, invites",
+   "meaning_bn": "আহ্বান করে, ডাকে",
+   "why_en": "The fire itself calls out to those who rejected the truth."
+  },
+  {
+   "pos": 3,
+   "root": "دبر",
+   "lemma": "أَدْبَرَ",
+   "meaning_en": "turned his back",
+   "meaning_bn": "পিঠ দেখিয়েছিল",
+   "why_en": "It shows how the person walked away from the message."
+  },
+  {
+   "pos": 4,
+   "root": "ولي",
+   "lemma": "تَوَلَّى",
+   "meaning_en": "turned away",
+   "meaning_bn": "মুখ ফিরিয়ে নিয়েছিল",
+   "why_en": "It marks the refusal to obey Allah and follow His guidance."
+  }
+ ],
+ "lesson_en": "Do not walk away when you hear what is right. Listen with an open heart and act upon it.",
+ "lesson_bn": "সত্য ও ন্যায়ের কথা শুনলে মুখ ফিরিয়ে নেবেন না। খোলা মনে শুনুন এবং সে অনুযায়ী কাজ করুন।",
+ "real_life_en": "A person knows they owe money or an apology to a friend. Instead of fixing it, they avoid calls and cross the street to avoid meeting. Running away from duty only makes the problem worse later.",
+ "real_life_bn": "এক ব্যক্তি জানে যে তার বন্ধুর কাছে ক্ষমা চাওয়া বা ঋণ শোধ করা বাকি। কিন্তু সে মুখোমুখি না হয়ে ফোন এড়িয়ে চলে। দায়িত্ব থেকে পালিয়ে গেলে সমস্যা কমে না, বরং পরে আরও বাড়ে।",
+ "themes": [
+  "Hell",
+  "disbelief",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The fire will call out to whoever turned away from the truth and refused to follow it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Those who turned their backs on obedience will be drawn into the fire.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

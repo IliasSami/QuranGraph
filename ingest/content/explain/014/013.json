@@ -1,0 +1,85 @@
+{
+  "id": "14:13",
+  "simple_en": "The disbelievers told their messengers: We will drive you out of our land unless you return to our ways. But their Lord sent word to the messengers: We will surely destroy those who do wrong.",
+  "simple_bn": "কাফিররা তাদের রাসূলদের বলল: আমরা অবশ্যই তোমাদের আমাদের দেশ থেকে বের করে দেব, নয়তো তোমাদের আমাদের ধর্মে ফিরে আসতে হবে। তখন তাদের রব রাসূলদের প্রতি ওহী পাঠালেন: আমরা অবশ্যই এই জালিমদের ধ্বংস করব।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "خرج",
+      "lemma": "أَخْرَجَ",
+      "meaning_en": "we will surely expel you",
+      "meaning_bn": "আমরা অবশ্যই তোমাদের বের করে দেব",
+      "why_en": "Threatening banishment."
+    },
+    {
+      "pos": 7,
+      "root": "أرض",
+      "lemma": "أَرْض",
+      "meaning_en": "our land",
+      "meaning_bn": "আমাদের দেশ",
+      "why_en": "Claiming exclusive territorial dominion."
+    },
+    {
+      "pos": 11,
+      "root": "ملل",
+      "lemma": "مِلَّة",
+      "meaning_en": "our religion",
+      "meaning_bn": "আমাদের ধর্মাদর্শ",
+      "why_en": "Pagan ancestral faith."
+    },
+    {
+      "pos": 15,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "We will surely destroy",
+      "meaning_bn": "আমরা অবশ্যই ধ্বংস করব",
+      "why_en": "Divine decree of doom for tyrants."
+    },
+    {
+      "pos": 16,
+      "root": "ظلم",
+      "lemma": "ظالِم",
+      "meaning_en": "the wrongdoers",
+      "meaning_bn": "জালিমদের",
+      "why_en": "Those who commit oppression and reject truth."
+    }
+  ],
+  "lesson_en": "Tyrants may threaten believers with exile. But true victory always belongs to justice.",
+  "lesson_bn": "অত্যাচারীরা সত্যপন্থীদের দেশত্যাগে বাধ্য করার হুমকি দিলেও চূড়ান্ত বিজয় ন্যায়েরই হয়।",
+  "real_life_en": "A journalist is threatened with exile for exposing corruption in his home town. He remains steadfast. In time, corrupt officials face trial, and he returns home to honor.",
+  "real_life_bn": "দুর্নীতির খবর প্রকাশ করায় এক সাংবাদিককে দেশ ছাড়ার হুমকি দেওয়া হয়। তিনি অন্যায়ের কাছে মাথানত করেননি। অবশেষে অপরাধীরা শাস্তি পায় এবং সত্য প্রতিষ্ঠিত হয়।",
+  "context_en": "Threats of expulsion made by disbelievers against their prophets and Allah's promise to save them.",
+  "context_bn": "রাসূলদের দেশ থেকে তাড়িয়ে দেওয়ার কাফিরদের আস্ফালন এবং জালিমদের ধ্বংসের ঐশী আশ্বাস।",
+  "themes": [
+    "oppression",
+    "justice",
+    "divine-help"
+  ],
+  "kinds": [
+    "story",
+    "promise",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When tyrants threatened to banish the messengers, Allah promised to destroy the oppressors.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

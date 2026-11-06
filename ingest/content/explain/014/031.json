@@ -1,0 +1,87 @@
+{
+  "id": "14:31",
+  "simple_en": "Tell My servants who believe to keep up their prayers. Let them give from what We gave them, in secret and in the open. They must do this before a Day comes with no trade and no ransom.",
+  "simple_bn": "আমার মুমিন বান্দাদের বলুন তারা যেন নিয়মিত সালাত কায়েম করে এবং আমি যা দান করেছি তা থেকে গোপনে ও প্রকাশ্যে খরচ করে। সেই দিন আসার আগেই, যেদিন কোনো বেচাকেনা থাকবে না এবং কোনো বন্ধুত্ব কাজে আসবে না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "قوم",
+      "lemma": "أَقامَ",
+      "meaning_en": "they establish",
+      "meaning_bn": "তারা কায়েম করে",
+      "why_en": "Performing prayer with devotion and consistency."
+    },
+    {
+      "pos": 6,
+      "root": "صلو",
+      "lemma": "صَلاة",
+      "meaning_en": "the prayer",
+      "meaning_bn": "সালাত",
+      "why_en": "The prescribed daily worship."
+    },
+    {
+      "pos": 7,
+      "root": "نفق",
+      "lemma": "أَنْفَقَ",
+      "meaning_en": "and spend",
+      "meaning_bn": "এবং তারা খরচ করে",
+      "why_en": "Charity and righteous spending."
+    },
+    {
+      "pos": 10,
+      "root": "سرر",
+      "lemma": "سِرّ",
+      "meaning_en": "secretly",
+      "meaning_bn": "গোপনে",
+      "why_en": "Private giving free of ostentation."
+    },
+    {
+      "pos": 11,
+      "root": "علن",
+      "lemma": "عَلانِيَة",
+      "meaning_en": "and openly",
+      "meaning_bn": "এবং প্রকাশ্যে",
+      "why_en": "Public charity that encourages others."
+    }
+  ],
+  "lesson_en": "Pray regularly and give charity today. No money or friend can buy salvation on Judgment Day.",
+  "lesson_bn": "আজই নিয়মিত সালাত আদায় করুন ও দান-সদকা করুন। কিয়ামতের দিন কোনো অর্থ বা বন্ধু মুক্তির কারণ হবে না।",
+  "real_life_en": "A working woman sets aside part of her paycheck each month. She pays for an orphan's schooling in secret. She also joins colleagues in open charity to inspire the team.",
+  "real_life_bn": "এক কর্মজীবী নারী প্রতি মাসে তাঁর বেতনের একাংশ আলাদা করে রাখেন। তিনি গোপনে এক এতিম শিশুর পড়াশোনার খরচ দেন এবং অন্য সহকর্মীদের উদ্বুদ্ধ করতে দাতব্য তহবিলেও অংশ নেন।",
+  "context_en": "Command to believers to establish prayer and spend charitably before the Day of Judgment.",
+  "context_bn": "কিয়ামত আসার পূর্বেই সালাত কায়েম ও দান-সদকা করার জন্য মুমিনদের প্রতি আদেশ।",
+  "themes": [
+    "prayer",
+    "charity",
+    "hereafter"
+  ],
+  "kinds": [
+    "command",
+    "worship",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are commanded to establish prayer and give charity before the Day of Judgment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

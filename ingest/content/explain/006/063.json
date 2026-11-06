@@ -1,0 +1,84 @@
+{
+  "id": "6:63",
+  "simple_en": "Ask the deniers who saves them when they are lost in the deep dangers of land and sea. In severe distress, they turn to Allah alone. They pray with deep humility in public and in secret. They pledge to be truly thankful if He delivers them from harm.",
+  "simple_bn": "মুশরিকদের জিজ্ঞাসা করুন, স্থল ও জলভাগের ঘোর বিপদে কে তাদের উদ্ধার করেন? চরম বিপদের মুখে তারা বিনীত হয়ে প্রকাশ্যে ও গোপনে এক আল্লাহকেই ডাকে। তারা প্রতিজ্ঞা করে যে, এই মহাবিপদ থেকে রক্ষা পেলে তারা অবশ্যই কৃতজ্ঞ বান্দা হবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نجو",
+      "lemma": "نَجَّى",
+      "meaning_en": "rescues you",
+      "meaning_bn": "তোমাদের উদ্ধার করেন",
+      "why_en": "Points to Allah as the sole rescuer from deadly perils and disasters."
+    },
+    {
+      "pos": 5,
+      "root": "ظلم",
+      "lemma": "ظُلُمَة",
+      "meaning_en": "darknesses and perils",
+      "meaning_bn": "অন্ধকার ও বিপদের তীব্রতা",
+      "why_en": "Depicts terrifying hardships where travel and survival become uncertain."
+    },
+    {
+      "pos": 9,
+      "root": "ضرع",
+      "lemma": "تَضَرُّع",
+      "meaning_en": "humility and pleading",
+      "meaning_bn": "বিনীত কাকূতি-মিনতি",
+      "why_en": "Describes sincere submission and earnest prayer when facing mortal danger."
+    }
+  ],
+  "lesson_en": "Hardship reveals human helplessness. Turn sincerely to Allah in peace, not only when danger strikes.",
+  "lesson_bn": "বিপদ মানুষকে আল্লাহর মুখাপেক্ষী করে তোলে। তাই কেবল সংকটের সময়েই নয়, স্বস্তির দিনগুলোতেও তাঁর কৃতজ্ঞতা প্রকাশ করুন।",
+  "real_life_en": "During a stormy flight or severe illness, people pray with raw urgency. Yet after the crisis passes, many forget their promises. Honor the commitments you make to Allah during distress by serving Him consistently.",
+  "real_life_bn": "ভয়াবহ ঝড় বা মারাত্মক অসুস্থতার সময় মানুষ খুব ব্যাকুল হয়ে আল্লাহর কাছে কাঁদে। কিন্তু বিপদ কেটে গেলে অনেকেই প্রতিশ্রুতি ভুলে যায়। বিপদের মুহূর্তে দেওয়া তাওহীদের অঙ্গীকার সুদিনের জীবনেও বিশ্বস্ততার সাথে পালন করুন।",
+  "context_en": "Allah presents an undeniable argument from human experience, showing how people naturally call upon Him alone during crisis.",
+  "context_bn": "আল্লাহ মানুষের বাস্তব জীবনের অভিজ্ঞতা তুলে ধরেছেন, যেখানে মহাবিপদে মানুষ সব মিথ্যা উপাস্য ভুলে একমাত্র তাঁকেই ডাকে।",
+  "themes": [
+    "dua",
+    "tawhid",
+    "gratitude",
+    "trials",
+    "human nature"
+  ],
+  "kinds": [
+    "argument",
+    "command",
+    "worship"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "land",
+      "sea"
+    ]
+  },
+  "claims": [
+    {
+      "text": "When trapped in mortal peril on land or at sea, people supplicate solely to Allah with profound humility.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "People often pledge complete gratitude and devotion to Allah if He saves them from catastrophe.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "33:49",
+  "simple_en": "When you marry believing women and divorce them before the marriage is consummated, they do not have to observe a waiting period. Give them a gift to soften their pain and help them. Part from them in a gentle, honorable way without cruelty.",
+  "simple_bn": "মুমিন নারীদের বিবাহ করার পর মিলনের আগেই তালাক দিলে তাদের কোনো ইদ্দত পালন করতে হয় না। তাদেরকে সম্মানজনক উপহার দিয়ে সান্ত্বনা দিন এবং কোনো কষ্ট না দিয়ে সুন্দরভাবে বিদায় দিন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نكح",
+      "lemma": "نَكَحَ",
+      "meaning_en": "you marry",
+      "meaning_bn": "তোমরা বিবাহ করো",
+      "why_en": "Entering the sacred contract of marriage."
+    },
+    {
+      "pos": 8,
+      "root": "طلق",
+      "lemma": "طَلَّقَ",
+      "meaning_en": "you divorce them",
+      "meaning_bn": "তাদেরকে তালাক দাও",
+      "why_en": "Dissolving the marital contract."
+    },
+    {
+      "pos": 19,
+      "root": "متع",
+      "lemma": "مَتَّعْ",
+      "meaning_en": "so provide for them / give them a gift",
+      "meaning_bn": "সুতরাং তাদেরকে কিছু উপহার দাও",
+      "why_en": "Mandatory compensation to ease emotional pain."
+    },
+    {
+      "pos": 20,
+      "root": "سرح",
+      "lemma": "سَرِّحُ",
+      "meaning_en": "and release them gracefully",
+      "meaning_bn": "এবং সুন্দরভাবে বিদায় দাও",
+      "why_en": "Parting with dignity, respect, and kindness."
+    }
+  ],
+  "lesson_en": "Treat your spouse with kindness and respect, even when parting.",
+  "lesson_bn": "বিবাহ বিচ্ছেদের মতো কঠিন পরিস্থিতিতেও নারীদের প্রতি সম্মান ও সদাচরণ বজায় রাখা অপরিহার্য।",
+  "real_life_en": "If a deal or friendship must end, pay what you owe. Speak with kindness and do not hold a grudge.",
+  "real_life_bn": "কোনো চুক্তি বা সম্পর্ক শেষ করতে হলে ন্যায্য পাওনা মিটিয়ে দিন। কারো মনে আঘাত না দিয়ে ভদ্রতা ও সম্মানের সাথে বিদায় নিন।",
+  "themes": [
+    "marriage",
+    "family",
+    "justice",
+    "ethics"
+  ],
+  "kinds": [
+    "command",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believing women divorced before consummation have no waiting period, and they should be provided for and released gracefully.",
+      "claim_bn": "স্পর্শ করার পূর্বে মুমিন নারীদের তালাক দিলে তাদের জন্য কোনো ইদ্দত নেই, এবং তাদের উপহার দিয়ে সুন্দরভাবে বিদায় দিতে হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

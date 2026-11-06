@@ -1,0 +1,91 @@
+{
+  "id": "13:43",
+  "simple_en": "The disbelievers claim that you are not a messenger. Tell them that Allah is sufficient as a witness between me and you. Those who truly know the scriptures also bear witness to the truth of this message.",
+  "simple_bn": "কাফিররা বলে, আপনি কোনো রসূল নন। বলুন, আমার ও তোমাদের মাঝে সাক্ষী হিসেবে আল্লাহই যথেষ্ট এবং তারা, যাদের কাছে আসমানি কিতাবের জ্ঞান আছে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "رسل",
+      "lemma": "مُرْسَل",
+      "meaning_en": "a messenger",
+      "meaning_bn": "রসূল",
+      "why_en": "The prophetic office rejected by stubborn deniers."
+    },
+    {
+      "pos": 7,
+      "root": "كفي",
+      "lemma": "كَفَى",
+      "meaning_en": "is sufficient",
+      "meaning_bn": "যথেষ্ট",
+      "why_en": "Allah's testimony outweighs all human approval or rejection."
+    },
+    {
+      "pos": 9,
+      "root": "شهد",
+      "lemma": "شَهِيد",
+      "meaning_en": "as a witness",
+      "meaning_bn": "সাক্ষী হিসেবে",
+      "why_en": "The supreme witness confirming the truthfulness of the Prophet."
+    },
+    {
+      "pos": 14,
+      "root": "علم",
+      "lemma": "عِلْم",
+      "meaning_en": "knowledge",
+      "meaning_bn": "জ্ঞান",
+      "why_en": "Fair scholars of scripture who recognized the signs of the Prophet."
+    },
+    {
+      "pos": 15,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Scripture",
+      "meaning_bn": "কিতাব",
+      "why_en": "Divine books prophesying the arrival of the final messenger."
+    }
+  ],
+  "lesson_en": "God witness is enough when others doubt your good faith.",
+  "lesson_bn": "মানুষ অযথা অস্বীকার বা অবজ্ঞা করলেও আল্লাহর সন্তুষ্টি ও সাক্ষ্যই মুমিনের জন্য যথেষ্ট।",
+  "real_life_en": "An engineer reports a safety issue at a plant. Colleagues deny it, but records confirm her findings. She feels peaceful because truth needs no popular vote.",
+  "real_life_bn": "এক প্রকৌশলী একটি কারখানার ত্রুটি তুলে ধরে। অন্য কর্মীরা অস্বীকার করলেও নথিপত্র তার সত্যতা প্রমাণ করে। সে শান্ত থাকে কারণ সত্যের জন্য কারো সমর্থনের দরকার নেই।",
+  "context_en": "The closing verse of Surah Ar-Rad: divine testimony and scripture knowledge confirming the Prophet.",
+  "context_bn": "সূরা আর-রা'দের সমাপ্তি: নবীজীর নবুওয়াতের পক্ষে আল্লাহর সাক্ষ্য ও কিতাবের জ্ঞানীদের সমর্থন।",
+  "themes": [
+    "witness of Allah",
+    "prophethood",
+    "scripture knowledge"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [
+      "People of the Book"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Scripture"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah and those knowledgeable in earlier scriptures serve as sufficient witness to the Prophet's truth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

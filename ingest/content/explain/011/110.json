@@ -1,0 +1,91 @@
+{
+  "id": "11:110",
+  "simple_en": "Allah gave Moses the Scripture, yet his people disputed about it. Had it not been for a prior decree from your Lord to delay judgment, their dispute would have been settled at once. These disbelievers remain in restless doubt about the truth.",
+  "simple_bn": "আর আমরা অবশ্যই মূসাকে কিতাব দিয়েছিলাম, কিন্তু তাতেও মতভেদ সৃষ্টি করা হয়েছিল। আপনার রবের পক্ষ থেকে পূর্বঘোষিত সিদ্ধান্ত না থাকলে তাদের ফয়সালা হয়ে যেত। আর নিশ্চয় তারা এ ব্যাপারে বিভ্রান্তিকর সন্দেহে রয়েছে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Scripture / Torah",
+      "meaning_bn": "কিতাব",
+      "why_en": "The divine book revealed to Moses."
+    },
+    {
+      "pos": 5,
+      "root": "خلف",
+      "lemma": "اخْتَلَفَ",
+      "meaning_en": "disagreed upon",
+      "meaning_bn": "মতভেদ সৃষ্টি হলো",
+      "why_en": "Sectarian disputes splitting followers."
+    },
+    {
+      "pos": 8,
+      "root": "كلم",
+      "lemma": "كَلِمَة",
+      "meaning_en": "a word / decree",
+      "meaning_bn": "সিদ্ধান্ত / বাণী",
+      "why_en": "Divine decree delaying immediate retribution."
+    },
+    {
+      "pos": 12,
+      "root": "قضي",
+      "lemma": "قَضَى",
+      "meaning_en": "judged / decided",
+      "meaning_bn": "ফয়সালা হতো",
+      "why_en": "Decisive settlement among disputants."
+    },
+    {
+      "pos": 18,
+      "root": "ريب",
+      "lemma": "مُرِيب",
+      "meaning_en": "disquieting / restless",
+      "meaning_bn": "বিভ্রান্তিকর / সন্দেহজনক",
+      "why_en": "Anxious, paralyzing skepticism."
+    }
+  ],
+  "lesson_en": "God delays His punishment to give people time to think and turn back.",
+  "lesson_bn": "আল্লাহর পূর্বনির্ধারিত প্রজ্ঞার কারণেই তাৎক্ষণিক শাস্তি স্থগিত রাখা হয়, যেন মানুষ চিন্তা করতে পারে।",
+  "real_life_en": "When people argue about the truth, stay calm and do not feel dismayed. Earlier generations also differed over scriptures. Keep your faith clear and steadfast.",
+  "real_life_bn": "সত্য নিয়ে মানুষ মতভেদ বা বিতর্ক করলেও বিচলিত হবেন না। অতীতের কিতাব নিয়েও এমন হয়েছিল; আপনি নিজ বিশ্বাসে অবিচল থাকুন।",
+  "themes": [
+    "Scripture of Moses",
+    "sectarian disputes",
+    "divine respite",
+    "doubt"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "belief",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Musa (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Torah (Scripture of Musa)"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Moses was given the Scripture yet his followers differed over it; immediate judgment was held back only by Allah's prior decree of respite.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

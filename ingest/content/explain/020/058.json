@@ -1,0 +1,65 @@
+{
+  "id": "20:58",
+  "simple_en": "Pharaoh threatened: We will bring you magic to match yours. Set an appointed time and a level, open place where neither of us will fail to appear.",
+  "simple_bn": "ফেরাউন হুমকি দিল: আমরাও তোমার বিরুদ্ধে সমকক্ষ জাদু নিয়ে আসব। অতএব আমাদের ও তোমার মধ্যে একটি নির্দিষ্ট দিন ও উন্মুক্ত স্থান নির্ধারণ কর।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "وعد",
+      "lemma": "مَوْعِد",
+      "meaning_en": "an appointed time",
+      "meaning_bn": "নির্ধারিত সময় বা প্রতিশ্রুতি",
+      "why_en": "Arranging a public showdown between truth and falsehood."
+    },
+    {
+      "pos": 14,
+      "root": "سوي",
+      "lemma": "سُوًى",
+      "meaning_en": "level and open",
+      "meaning_bn": "উভয়ের জন্য সমান ও উন্মুক্ত",
+      "why_en": "A flat field where everyone could see the event clearly."
+    }
+  ],
+  "lesson_en": "Falsehood relies on tricks. Truth is ready to be tested in public where all can see.",
+  "lesson_bn": "মিথ্যার ধারকেরা নানা চমক দেখিয়ে প্রভাব ফেলতে চায়, কিন্তু সত্য সর্বদা জনসমক্ষে উন্মুক্ত প্রমাণের মুখোমুখি হতে প্রস্তুত থাকে।",
+  "real_life_en": "Do not fear open tests. When you stand on the truth, your words can face any honest check.",
+  "real_life_bn": "সত্যের পথে থাকলে খোলাখুলি পরীক্ষার মুখোমুখি হতে ভয় পাবেন না। সততা যেকোনো উন্মুক্ত যাচাইয়ে বিজয়ী হয়।",
+  "themes": [
+    "confrontation",
+    "pharaoh",
+    "challenge"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Fir'awn"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh challenged Moses to a public contest against the realm's sorcerers at an agreed venue.",
+      "claim_bn": "ফেরাউন মূসাকে দেশের জাদুকরদের সাথে একটি নির্ধারিত স্থানে উন্মুক্ত প্রতিযোগিতার চ্যালেঞ্জ জানায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,88 @@
+{
+  "id": "6:14",
+  "simple_en": "Say, 'How could I take anyone as a guardian besides Allah? He created the heavens and the earth without any prior model. He feeds all living things while He needs no food Himself.' Say, 'I am commanded to be the first to submit to Him, and never join the polytheists.'",
+  "simple_bn": "বলুন, 'আমি কি আল্লাহকে ছাড়া অন্য কাউকে অভিভাবক বানাব? অথচ তিনিই পূর্ব নমুনা ছাড়াই আকাশ ও জমিন সৃষ্টি করেছেন। তিনি সবাইকে আহার দেন, কিন্তু তাঁর নিজের আহারের প্রয়োজন হয় না।' বলুন, 'আমাকে নির্দেশ দেওয়া হয়েছে যেন আমি প্রথম আত্মসমর্পণকারী হই এবং কখনো মুশরিকদের অন্তর্ভুক্ত না হই।'",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "ولي",
+      "lemma": "وَلِيّ",
+      "meaning_en": "a protector / ally",
+      "meaning_bn": "অভিভাবক বা বন্ধু",
+      "why_en": "Taking Allah alone as our divine protector."
+    },
+    {
+      "pos": 6,
+      "root": "فطر",
+      "lemma": "فاطِر",
+      "meaning_en": "Originator / Creator",
+      "meaning_bn": "স্রষ্টা বা উদ্ভাবক",
+      "why_en": "Points to Allah creating the universe without prior model."
+    },
+    {
+      "pos": 10,
+      "root": "طعم",
+      "lemma": "أَطْعَمَ",
+      "meaning_en": "He feeds / sustains",
+      "meaning_bn": "তিনি আহার করান",
+      "why_en": "Shows that Allah sustains all creatures while needing no food or help."
+    }
+  ],
+  "lesson_en": "Take Allah alone as your protector. He sustains all life and needs nothing in return.",
+  "lesson_bn": "এক আল্লাহকেই অভিভাবক মানুন। তিনি সবাইকে রিজিক দেন, অথচ তিনি কারো মুখাপেক্ষী নন।",
+  "real_life_en": "Do not put your ultimate trust in wealthy people or worldly connections for your livelihood. Turn to Allah first. He provides food, health, and security without depending on anyone.",
+  "real_life_bn": "নিজের রিজিক ও নিরাপত্তার জন্য কোনো সৃষ্টির ওপর অন্ধ নির্ভরতা পরিহার করুন। মহান আল্লাহর কাছে সাহায্য চান, যিনি কাউকে ছাড়া নিজেই গোটা বিশ্বকে টিকিয়ে রাখেন।",
+  "context_en": "The Prophet ﷺ is instructed to proclaim unyielding monotheism and complete reliance on Allah, who sustains all creatures.",
+  "context_bn": "রাসূলুল্লাহ ﷺ-কে দ্ব্যর্থহীনভাবে তাওহীদ ঘোষণা করার এবং বিশ্বজগতের একমাত্র রিযিকদাতা আল্লাহর কাছে পরিপূর্ণ আত্মসমর্পণের নির্দেশ দেওয়া হয়েছে।",
+  "themes": [
+    "tawhid",
+    "reliance on Allah",
+    "Allah needs nothing",
+    "submission"
+  ],
+  "kinds": [
+    "belief",
+    "argument",
+    "command",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Originator of the heavens and the earth"
+    ],
+    "events": [],
+    "things": [
+      "the heavens",
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah alone is the Originator of the heavens and the earth, who feeds His creation while needing no sustenance Himself.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "The Prophet was commanded to be the first to submit to Allah and strictly forbidden from joining polytheists.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

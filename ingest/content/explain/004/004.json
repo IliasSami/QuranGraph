@@ -1,0 +1,81 @@
+{
+ "id": "4:4",
+ "simple_en": "Give women their bridal gifts willingly as an obligatory right that belongs to them alone. It is not a price paid to their family, but their own property. If they freely choose to give back part of it to you, you may take and enjoy it with a clear conscience.",
+ "simple_bn": "নারীদের তাদের মোহরানা সন্তুষ্ট চিত্তে ও আন্তরিক উপহার হিসেবে প্রদান করো। এটি তাদের নিজস্ব অধিকার, পরিবারের অন্য কারো পাওনা নয়। তবে তারা যদি কোনো চাপ ছাড়া নিজের খুশিতে তার কিছু অংশ ছেড়ে দেয়, তবে তোমরা তা স্বাচ্ছন্দ্যে ও আনন্দচিত্তে গ্রহণ করতে পারো।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "صدق",
+   "lemma": "صَدُقَة",
+   "meaning_en": "bridal gifts (dowries)",
+   "meaning_bn": "মোহরানা",
+   "why_en": "The mandatory gift given directly to the bride as her own personal property."
+  },
+  {
+   "pos": 4,
+   "root": "نحل",
+   "lemma": "نِحْلَة",
+   "meaning_en": "a willing gift",
+   "meaning_bn": "আন্তরিক উপহার বা খুশি মনে দান",
+   "why_en": "The dowry must be given freely as a genuine obligation, without reluctance or pressure."
+  },
+  {
+   "pos": 13,
+   "root": "هنأ",
+   "lemma": "هَنِيئ",
+   "meaning_en": "pleasantly (with ease)",
+   "meaning_bn": "স্বাচ্ছন্দ্যে বা তৃপ্তি সহকারে",
+   "why_en": "If a wife willingly forgives part of the gift, the husband may accept it without any guilt."
+  }
+ ],
+ "lesson_en": "Honor a woman's full right to her bridal gift, and never pressure her to give any of it back.",
+ "lesson_bn": "নারীর মোহরানার পূর্ণ অধিকার আন্তরিকভাবে আদায় করুন এবং তা ফেরত দিতে কখনো কোনো চাপ সৃষ্টি করবেন না।",
+ "real_life_en": "When marrying, pay your wife her agreed dowry happily and directly to her personal possession. Never make her feel guilty about keeping it or force her to return it. If she later chooses on her own to share or forgive part of it, accept it with gratitude.",
+ "real_life_bn": "বিয়ের সময় স্ত্রীর মোহরানা আনন্দচিত্তে সরাসরি তার হাতে বুঝিয়ে দিন। এটি ফিরিয়ে দেওয়ার জন্য তাকে কখনো চাপ দেবেন না বা খোঁটা দেবেন না। পরবর্তীতে তিনি যদি স্বেচ্ছায় কোনো অংশ ছাড় দেন বা সহযোগিতা করেন, তবে তা কৃতজ্ঞতার সাথে গ্রহণ করতে পারেন।",
+ "themes": [
+  "marriage",
+  "wealth",
+  "justice",
+  "family",
+  "ethics"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The bridal gift (mahr) is an obligatory right that belongs entirely to the woman, given freely and willingly.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "If a wife voluntarily gifts back any part of her mahr without coercion, the husband may accept and use it lawfully.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

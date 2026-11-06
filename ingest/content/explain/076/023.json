@@ -1,0 +1,74 @@
+{
+ "id": "76:23",
+ "simple_en": "Allah reminds the Prophet ﷺ that He revealed the Quran to him step by step over time. It was not sent down all at once. This gradual sending brought strength to his heart and made its lessons clear.",
+ "simple_bn": "আল্লাহ নবী ﷺ-কে স্মরণ করিয়ে দিচ্ছেন যে, তিনি তাঁর উপর কুরআন একবারে নয়, বরং ধাপে ধাপে অবতীর্ণ করেছেন। এভাবে পর্যায়ক্রমে নাযিল হওয়ার ফলে তা হৃদয়কে দৃঢ় করেছে এবং এর শিক্ষাকে সহজ করেছে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "نزل",
+   "lemma": "نَزَّلَ",
+   "meaning_en": "We revealed",
+   "meaning_bn": "আমি অবতীর্ণ করেছি",
+   "why_en": "Points to Allah sending down revelation from on high."
+  },
+  {
+   "pos": 5,
+   "root": "قرأ",
+   "lemma": "قُرْءان",
+   "meaning_en": "the Quran",
+   "meaning_bn": "কুরআন",
+   "why_en": "The final book of guidance revealed to the Prophet ﷺ."
+  },
+  {
+   "pos": 6,
+   "root": "نزل",
+   "lemma": "تَنزِيل",
+   "meaning_en": "a gradual revelation",
+   "meaning_bn": "ধাপে ধাপে অবতীর্ণ করা",
+   "why_en": "Emphasizes that it was sent down in stages to strengthen hearts."
+  }
+ ],
+ "lesson_en": "Learn the Quran with patience, taking in its wisdom step by step.",
+ "lesson_bn": "ধৈর্যের সাথে ধীরে ধীরে কুরআনের শিক্ষা গ্রহণ করুন এবং তা জীবনে বাস্তবায়ন করুন।",
+ "real_life_en": "When you start studying something deep, like learning a language or memorizing the Quran, trying to finish it all in one day only tires you out. Take small portions daily. Consistency over time builds deep and lasting understanding.",
+ "real_life_bn": "কুরআন হিফজ বা কোনো নতুন জ্ঞান অর্জনের সময় একদিনে সবকিছু শেষ করার চেষ্টা করলে ক্লান্তি আসে। প্রতিদিন অল্প অল্প করে নিয়মিত শিখুন। এই ধারাবাহিকতা দীর্ঘমেয়াদে গভীর জ্ঞান ও সাফল্য এনে দেয়।",
+ "themes": [
+  "revelation",
+  "the Quran",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "address",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": [
+   "the-quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah revealed the Quran to the Prophet ﷺ in stages over time rather than all at once.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

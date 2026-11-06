@@ -1,0 +1,74 @@
+{
+  "id": "11:1",
+  "simple_en": "Alif, Lam, Ra. This is a divine Book whose verses are perfected in wisdom and then explained in detail. It comes from the Lord who is Wise in all He does and Aware of all things.",
+  "simple_bn": "আলিফ-লাম-রা। এটি এমন এক কিতাব, যার আয়াতসমূহ প্রজ্ঞাময়ভাবে সুদৃঢ় করা হয়েছে এবং বিশদভাবে বর্ণনা করা হয়েছে। এটি এক প্রজ্ঞাময় ও সর্বজ্ঞ সত্তার পক্ষ থেকে অবতীর্ণ।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "Book / scripture",
+      "meaning_bn": "কিতাব / গ্রন্থ",
+      "why_en": "The preserved divine revelation of the Quran."
+    },
+    {
+      "pos": 3,
+      "root": "حكم",
+      "lemma": "أُحْكِمَتْ",
+      "meaning_en": "perfected / firmly constructed",
+      "meaning_bn": "সুদৃঢ় করা হয়েছে",
+      "why_en": "Free from flaws, contradictions, or error."
+    },
+    {
+      "pos": 6,
+      "root": "فصل",
+      "lemma": "فُصِّلَتْ",
+      "meaning_en": "explained in detail",
+      "meaning_bn": "বিশদভাবে বিবৃত হয়েছে",
+      "why_en": "Clarifying rules, beliefs, moral values, and stories."
+    }
+  ],
+  "lesson_en": "The Quran is clear guidance with no flaws.",
+  "lesson_bn": "কুরআন এক নিখুঁত জীবনবিধান, যাতে কোনো ভুল নেই এবং যা প্রতিটি বিষয়ে সুস্পষ্ট দিকনির্দেশনা দেয়।",
+  "real_life_en": "When life feels confusing, study the verses of the Quran. Its clear wisdom helps you find practical answers and make good choices every day.",
+  "real_life_bn": "জীবনের যেকোনো জটিলতায় কুরআনের শিক্ষার কাছে ফিরে আসুন; এর প্রজ্ঞাপূর্ণ উপদেশ আপনাকে সঠিক পথের সন্ধান দেবে।",
+  "themes": [
+    "perfection of the Quran",
+    "divine revelation",
+    "wisdom of Allah"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "belief",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Hakeem",
+      "Khabeer"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Surah Hud opens by stating that the Quran's verses are perfected in wording and detailed in meaning, revealed by the All-Wise and All-Aware.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

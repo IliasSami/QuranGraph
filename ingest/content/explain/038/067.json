@@ -1,0 +1,63 @@
+{
+ "id": "38:67",
+ "simple_en": "Say to the people, 'This Quran is great news. It brings the true message of the Day of Judgment.' It tells mankind about their Creator and what will happen after death.",
+ "simple_bn": "মানুষকে বলুন, এই কুরআন এক মহাসংবাদ। এটি সত্য দ্বীন ও বিচার দিবসের বার্তা নিয়ে এসেছে। এটি মানুষকে তাদের স্রষ্টা এবং মৃত্যুর পরের পরিণতি সম্পর্কে অবগত করে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "نبأ",
+   "lemma": "نَبَأ",
+   "meaning_en": "news / message",
+   "meaning_bn": "মহাসংবাদ বা বার্তা",
+   "why_en": "Refers to the weighty divine message and revelation of the Quran."
+  },
+  {
+   "pos": 4,
+   "root": "عظم",
+   "lemma": "عَظِيم",
+   "meaning_en": "great / momentous",
+   "meaning_bn": "মহান বা অতি গুরুত্বপূর্ণ",
+   "why_en": "Highlights the immense importance and supreme authority of this message."
+  }
+ ],
+ "lesson_en": "The message of the Quran is a matter of great importance.",
+ "lesson_bn": "কুরআনের বাণী কোনো তুচ্ছ বিষয় নয়, বরং অত্যন্ত গুরুত্বপূর্ণ বিষয়।",
+ "real_life_en": "Treat the Quran with care. Listen to its message every day so you stay on the straight path.",
+ "real_life_bn": "কুরআনকে গুরুত্ব দিন। এর বাণী প্রতিদিন মন দিয়ে শুনুন যাতে সত্য পথ থেকে বিচ্যুত না হন।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "warning"
+ ],
+ "kinds": [
+  "address",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The Prophet Muhammad is commanded to announce that the Quran and its message of resurrection are momentous news.",
+   "claim_bn": "নবী মুহাম্মদকে ঘোষণা করতে নির্দেশ দেওয়া হয়েছে যে কুরআন ও এর পুনরুত্থানের বার্তা এক মহাসংবাদ।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": false
+}

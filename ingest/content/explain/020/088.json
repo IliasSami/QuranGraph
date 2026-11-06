@@ -1,0 +1,80 @@
+{
+  "id": "20:88",
+  "simple_en": "Samiri produced for them a golden statue of a calf that made a hollow lowing sound. The foolish people claimed: This is your god and Moses' god, but he forgot.",
+  "simple_bn": "সামিরি তাদের জন্য একটি সোনার বাছুরের মূর্তি বের করে আনল যা থেকে হাম্বারব শোনা যেত। বিভ্রান্ত লোকেরা বলল: এটিই তোমাদের উপাস্য এবং মূসার উপাস্য, কিন্তু তিনি তা ভুলে গেছেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "عجل",
+      "lemma": "عِجْل",
+      "meaning_en": "a calf",
+      "meaning_bn": "একটি বাছুর",
+      "why_en": "The golden statue idolized by the Israelites."
+    },
+    {
+      "pos": 4,
+      "root": "جسد",
+      "lemma": "جَسَد",
+      "meaning_en": "a physical lifeless body",
+      "meaning_bn": "প্রাণহীন দেহ বা কাঠামো",
+      "why_en": "Highlights that the statue had no real spirit or life."
+    },
+    {
+      "pos": 6,
+      "root": "خور",
+      "lemma": "خُوَار",
+      "meaning_en": "a lowing sound",
+      "meaning_bn": "হাম্বারব বা বাছুরের আওয়াজ",
+      "why_en": "A hollow noise caused by wind blowing through holes."
+    }
+  ],
+  "lesson_en": "Shiny gold can trick weak minds. Empty noise cannot replace the truth of God.",
+  "lesson_bn": "সোনার চাকচিক্য আর ফাঁকা আওয়াজ সেই সকল মানুষকে সহজেই ধোঁকা দেয় যাদের ঈমানের ভিত্তি দুর্বল।",
+  "real_life_en": "Do not be impressed by shiny worldly statues, riches, or charisma. True worth is built on moral integrity and truth.",
+  "real_life_bn": "বাহ্যিক চাকচিক্য বা জৌলুসে মুগ্ধ হবেন না। সম্পদের চেয়ে অন্তরের সততা ও সঠিক আকিদা হাজার গুণে মূল্যবান।",
+  "themes": [
+    "idolatry",
+    "golden-calf",
+    "deception"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Samiri",
+      "Musa"
+    ],
+    "nations": [
+      "Bani Isra'il"
+    ],
+    "places": [
+      "Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Worship of Calf"
+    ],
+    "things": [
+      "golden calf"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Samiri crafted a golden calf statue that produced a hollow lowing sound, misleading the Israelites.",
+      "claim_bn": "সামিরি একটি বাছুরের মূর্তি বানিয়েছিল যার ভেতর দিয়ে বাতাস গেলে আওয়াজ হতো, যা দেখে মানুষ বিভ্রান্ত হয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

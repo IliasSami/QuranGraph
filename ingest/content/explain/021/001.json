@@ -1,0 +1,66 @@
+{
+  "id": "21:1",
+  "simple_en": "The time of reckoning has drawn near for all people. Yet they remain careless in their daily lives and turn away. They do not prepare for the Day of Judgment.",
+  "simple_bn": "মানুষের জন্য তাদের কর্মের হিসাবের সময় অত্যন্ত কাছে এসে গেছে। অথচ তারা চরম উদাসীনতায় নিমজ্জিত এবং সত্য থেকে মুখ ফিরিয়ে রয়েছে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قرب",
+      "lemma": "اقْتَرَبَ",
+      "meaning_en": "drew near",
+      "meaning_bn": "কাছে এসে গেছে",
+      "why_en": "Approaching time of ultimate divine reckoning."
+    },
+    {
+      "pos": 6,
+      "root": "غفل",
+      "lemma": "غَفْلَة",
+      "meaning_en": "heedlessness",
+      "meaning_bn": "উদাসীনতা",
+      "why_en": "State of careless distraction from spiritual reality."
+    }
+  ],
+  "lesson_en": "The Day of Judgment is coming near. Do not live in heedless distraction.",
+  "lesson_bn": "কিয়ামতের দিন অতি নিকটে। তাই উদাসীন না থেকে আখেরাতের জন্য প্রস্তুতি নিন।",
+  "real_life_en": "Set aside time each day to review your deeds. Prepare for your meeting with God before time runs out.",
+  "real_life_bn": "প্রতিদিন নিজের কাজের আত্মপর্যালোচনা করুন। সময় শেষ হয়ে যাওয়ার আগেই পরকালের পাথেয় সংগ্রহ করুন।",
+  "themes": [
+    "reckoning",
+    "heedlessness",
+    "hereafter",
+    "accountability"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Day of Judgment"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The reckoning approaches humanity while many live in heedlessness and turn away from truth.",
+      "claim_bn": "মানুষের হিসাবের সময় সন্নিকট, অথচ অনেকে অসচেতনভাবে সত্য বিমুখ হয়ে পার্থিব মোহে মত্ত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

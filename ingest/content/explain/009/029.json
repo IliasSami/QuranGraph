@@ -1,0 +1,74 @@
+{
+  "id": "9:29",
+  "simple_en": "Fight those who deny Allah and the Last Day, who ignore what Allah and His Messenger made unlawful, and who reject the true faith. Fight them until they pay the civic tax with their own hands and accept the law.",
+  "simple_bn": "লড়াই করো তাদের বিরুদ্ধে যারা আল্লাহ ও পরকালে বিশ্বাস করে না এবং যা হারাম করা হয়েছে তা মানে না। তাদের বিরুদ্ধে লড়াই চালিয়ে যাও যতক্ষণ না তারা বিনীত হয়ে কর প্রদান করে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قتل",
+      "lemma": "قاتَلَ",
+      "meaning_en": "fight",
+      "meaning_bn": "লড়াই করো",
+      "why_en": "Lawful state defense against aggressive theological regimes."
+    },
+    {
+      "pos": 10,
+      "root": "حرم",
+      "lemma": "حَرَّمَ",
+      "meaning_en": "forbid / make unlawful",
+      "meaning_bn": "হারাম করা / নিষিদ্ধ করা",
+      "why_en": "Recognizing moral and divine prohibitions in law."
+    },
+    {
+      "pos": 25,
+      "root": "جزي",
+      "lemma": "جِزْيَة",
+      "meaning_en": "tribute / tax of protection",
+      "meaning_bn": "জিযিয়া কর",
+      "why_en": "Civic protection tax exempting non-Muslim citizens from military service."
+    }
+  ],
+  "lesson_en": "Just laws and civic taxes keep peace and safety for everyone.",
+  "lesson_bn": "সুষ্ঠু সমাজব্যবস্থায় রাষ্ট্রীয় আইন ও নৈতিক সীমানা রক্ষা করা এবং ন্যায্য নাগরিক দায়িত্ব পালন করা আবশ্যক।",
+  "real_life_en": "Pay your taxes fairly and obey the law of the land. When all citizens share in public duties, the whole town stays safe and peaceful.",
+  "real_life_bn": "নাগরিক হিসেবে কর দেওয়া এবং দেশের আইন মেনে চলা সকলের দায়িত্ব, যা সমাজে শান্তি ও সার্বিক নিরাপত্তা বজায় রাখে।",
+  "themes": [
+    "civic tax",
+    "divine limits",
+    "societal order"
+  ],
+  "kinds": [
+    "law",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Last Day"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hostile nations were engaged until they agreed to peaceful coexistence by paying the civic jizyah tax under Islamic governance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": "6:104",
+  "simple_en": "Clear proofs and signs have come to you from your Lord. Whoever opens their eyes to the truth benefits their own soul. Whoever chooses to remain blind harms only themselves. The Prophet is not a warden sent to force faith or keep tally of deeds.",
+  "simple_bn": "তোমাদের প্রতিপালকের পক্ষ থেকে স্পষ্ট দলীল ও সত্যের নিদর্শন এসেছে। যে ব্যক্তি চোখ মেলে সত্য উপলব্ধি করবে, সে নিজেরই কল্যাণ করবে। আর যে সত্যের প্রতি অন্ধ হয়ে থাকবে, সে নিজেরই ক্ষতি ডেকে আনবে। নবি তোমাদের ওপর কোনো পাহারাদার নন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "بصر",
+      "lemma": "بَصِيرَة",
+      "meaning_en": "clear proofs / insights",
+      "meaning_bn": "সুস্পষ্ট নিদর্শন বা প্রমাণাদি",
+      "why_en": "Refers to the undeniable evidences of truth sent down by Allah."
+    },
+    {
+      "pos": 10,
+      "root": "عمي",
+      "lemma": "عَمِيَ",
+      "meaning_en": "acts blindly",
+      "meaning_bn": "অন্ধ সেজে থাকে",
+      "why_en": "Depicts the state of one who willfully ignores the truth to their own harm."
+    },
+    {
+      "pos": 15,
+      "root": "حفظ",
+      "lemma": "حَفِيظ",
+      "meaning_en": "a keeper / watcher",
+      "meaning_bn": "সংরক্ষক বা পাহারাদার",
+      "why_en": "Clarifies that the Prophet is a conveyor of truth, not a warden over their choices."
+    }
+  ],
+  "lesson_en": "Accepting the truth benefits your own soul. Turning away in blindness harms only you.",
+  "lesson_bn": "সত্য গ্রহণ করলে নিজেরই চিরস্থায়ী লাভ হয়, আর সত্য এড়িয়ে চললে কেবল নিজেরই অপূরণীয় ক্ষতি হয়।",
+  "real_life_en": "When good advice or clear evidence reaches you, do not let pride close your mind. Accept what is right even if it humbles your ego. You alone will carry the results of your daily moral choices.",
+  "real_life_bn": "কোনো সত্য উপদেশ বা খাঁটি প্রমাণ সামনে এলে অহংকার করে তা এড়িয়ে যাবেন না। সত্য মেনে নেওয়া নিজের আত্মার জন্যই মঙ্গলজনক। নিজের প্রতিটি কাজের ভালো বা মন্দ পরিণাম শেষ পর্যন্ত আপনাকেই ভোগ করতে হবে।",
+  "context_en": "Allah declares that the proofs in the Quran are sufficient for any sincere seeker, leaving responsibility with each individual.",
+  "context_bn": "কুরআনের অকাট্য প্রমাণের পর সত্য গ্রহণের দায়িত্ব ব্যক্তির নিজের ওপর ন্যস্ত করা হয়েছে।",
+  "themes": [
+    "guidance",
+    "free will",
+    "accountability",
+    "prophetic mission"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Clear proofs have come from Allah, and seeing them benefits the person while blindness harms them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "The Prophet is a warner and conveyor, not a keeper or watcher over people's deeds.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

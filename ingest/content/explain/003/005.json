@@ -1,0 +1,85 @@
+{
+ "id": "3:5",
+ "simple_en": "Nothing in the earth or in the heavens is hidden from Allah. He knows every single detail of what happens everywhere. Whether things are out in the open or kept deep in secret, His knowledge reaches them all.",
+ "simple_bn": "আসমান ও যমীনের কোনো কিছুই আল্লাহর কাছে গোপন থাকে না। পৃথিবীর প্রতিটি ক্ষুদ্রাতিক্ষুদ্র ঘটনা তিনি পুরোপুরি জানেন। কোনো বিষয় প্রকাশ্যে ঘটুক কিংবা অতি গোপনে লুকিয়ে রাখা হোক, তাঁর জ্ঞান সবকিছুকেই পরিবেষ্টন করে আছে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "خفي",
+   "lemma": "يَخْفَى",
+   "meaning_en": "is hidden",
+   "meaning_bn": "গোপন থাকে",
+   "why_en": "Points out that nothing escapes Allah's sight or awareness."
+  },
+  {
+   "pos": 6,
+   "root": "شيأ",
+   "lemma": "شَىْء",
+   "meaning_en": "anything",
+   "meaning_bn": "কোনো কিছু",
+   "why_en": "An absolute negation showing not even the smallest particle is unknown to Him."
+  },
+  {
+   "pos": 8,
+   "root": "أرض",
+   "lemma": "أَرْض",
+   "meaning_en": "earth",
+   "meaning_bn": "যমীন",
+   "why_en": "Refers to the lower realm of human life and actions."
+  },
+  {
+   "pos": 11,
+   "root": "سمو",
+   "lemma": "سَماء",
+   "meaning_en": "heaven",
+   "meaning_bn": "আসমান",
+   "why_en": "Refers to the vast upper cosmos that is fully known to Allah."
+  }
+ ],
+ "lesson_en": "Live with the awareness that Allah sees and knows all your private and public deeds.",
+ "lesson_bn": "এই অনুভূতি নিয়ে জীবনযাপন করুন যে আপনার প্রকাশ্য ও গোপন প্রতিটি কাজ আল্লাহ দেখছেন এবং জানেন।",
+ "real_life_en": "When you are all alone and feel tempted to do something wrong, stop and remind yourself that Allah sees you right then. Let that awareness protect your choices.",
+ "real_life_bn": "নির্জনে যখন একাকী থাকেন এবং কোনো ভুলের দিকে মন টানে, তখন নিজেকে মনে করিয়ে দিন যে আল্লাহ এখনই আপনাকে দেখছেন। এই বোধ আপনাকে সৎ পথে অবিচল রাখবে।",
+ "context_en": "Affirms Allah's all-encompassing knowledge after warning the disbelievers that none of their plots or deeds can escape His notice.",
+ "context_bn": "অস্বীকারকারীদের সতর্ক করার পর এখানে বলা হয়েছে যে তাদের কোনো গোপন চক্রান্ত বা কর্মকাণ্ডই আল্লাহর জ্ঞানের বাইরে নয়।",
+ "connect_prev": "Links the warning of punishment in 3:4 to the truth that no wrongdoer can hide anything from Allah.",
+ "context": "Sets up the argument in 3:6 that Allah knows and controls everything, even the formation of life inside the womb.",
+ "themes": [
+  "Allah's knowledge",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "heavens",
+   "earth"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Nothing on earth or in the heavens is hidden from Allah; His knowledge encompasses all things, public and secret.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "21:11",
+  "simple_en": "How many unjust towns have We shattered because of their wrongdoing. And We raised up another people after them to live in the land. They faced full justice.",
+  "simple_bn": "কত জনপদকে আমি তাদের অন্যায়ের কারণে ধ্বংস করে দিয়েছি। আর তাদের পর অন্য জাতিকে সৃষ্টি করে সেখানে বসতি স্থাপন করিয়েছি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قصم",
+      "lemma": "قَصَمْ",
+      "meaning_en": "We shattered",
+      "meaning_bn": "আমরা ভেঙে গুঁড়িয়ে দিয়েছি",
+      "why_en": "Decisive destruction of persistent tyrants."
+    },
+    {
+      "pos": 6,
+      "root": "ظلم",
+      "lemma": "ظالِمَة",
+      "meaning_en": "unjust",
+      "meaning_bn": "অত্যাচারী",
+      "why_en": "Moral corruption leading to societal collapse."
+    }
+  ],
+  "lesson_en": "Injustice ruins nations. When people cross moral limits, their worldly power falls away.",
+  "lesson_bn": "অন্যায় ও জুলুম জাতিকে ধ্বংসের দিকে ঠেলে দেয়। নৈতিকতা বিসর্জন দিলে কোনো শক্তিরই অস্তিত্ব টিকে থাকে না।",
+  "real_life_en": "Speak out against wrong deeds in your town. A community stays strong only when all people receive fair treatment.",
+  "real_life_bn": "সমাজে অন্যায় ও দুর্নীতির বিরুদ্ধে অবস্থান নিন। সবার অধিকার নিশ্চিত করলেই একটি জাতি টিকে থাকতে পারে।",
+  "themes": [
+    "past-nations",
+    "injustice",
+    "ruin",
+    "succession"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God shattered many unjust cities due to their wrongdoing and brought forth new generations after them.",
+      "claim_bn": "আল্লাহ অন্যায়ের কারণে বহু জনপদকে ধ্বংস করেছেন এবং তাদের স্থলে নতুন জাতিকে প্রতিষ্ঠা করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

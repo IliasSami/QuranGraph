@@ -1,0 +1,74 @@
+{
+  "id": "12:8",
+  "simple_en": "Joseph's brothers complained among themselves in jealousy. They said that their father loved Joseph and his younger brother more than them, even though they were a strong group. They arrogantly claimed that their father was in clear error.",
+  "simple_bn": "স্মরণ করুন, যখন তারা বলল, আমাদের পিতার কাছে ইউসুফ ও তার সহোদর ভাই আমাদের চেয়ে বেশি প্রিয়, অথচ আমরা একটি শক্তিশালী দল। নিশ্চয় আমাদের পিতা স্পষ্ট পক্ষপাতিত্বে রয়েছেন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "حبب",
+      "lemma": "أَحَبّ",
+      "meaning_en": "more beloved",
+      "meaning_bn": "বেশি প্রিয়",
+      "why_en": "Envy over parental affection."
+    },
+    {
+      "pos": 10,
+      "root": "عصب",
+      "lemma": "عُصْبَة",
+      "meaning_en": "a strong group / clan",
+      "meaning_bn": "একটি শক্তিশালী দল",
+      "why_en": "Pride in collective strength and numbers."
+    },
+    {
+      "pos": 14,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "error / mistake",
+      "meaning_bn": "ভুল / বিভ্রান্তি",
+      "why_en": "Disrespectfully judging their righteous father."
+    }
+  ],
+  "lesson_en": "Jealousy blinds people to their own faults and leads to disrespect toward parents.",
+  "lesson_bn": "হিংসা মানুষের চোখকে অন্ধ করে দেয় এবং পিতামাতার প্রতি অসম্মান প্রদর্শনের দিকে ঠেলে দেয়।",
+  "real_life_en": "Do not let jealousy come between you and your brothers or sisters. Show love to your family and avoid bitter feelings.",
+  "real_life_bn": "ভাই-বোনদের মধ্যে তুলনা বা হিংসার মনোভাব স্থান দেবেন না। পরিবারের সবার প্রতি ভালোবাসা রাখুন এবং হিংসা থেকে হৃদয়কে মুক্ত রাখুন।",
+  "themes": [
+    "sibling rivalry",
+    "envy",
+    "family conflict",
+    "story of Yusuf"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Binyamin (Benjamin)",
+      "Yaqub (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Joseph's brothers were consumed by jealousy over Jacob's love for Joseph and Benjamin, arrogantly accusing their prophet-father of error.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

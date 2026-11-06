@@ -1,0 +1,84 @@
+{
+ "id": "5:22",
+ "simple_en": "The people of Moses answered with fear and hesitation. They said that a mighty and tall people lived in the land. They claimed they had no strength to fight them. They refused to enter until the inhabitants left on their own. Only if the enemy walked away would they go inside.",
+ "simple_bn": "মূসা (আলাইহিস সালাম)-এর সম্প্রদায় ভয় পেয়ে পিছিয়ে গেল। তারা বলল, সেই ভূমিতে এক পরাক্রমশালী ও শক্তিশালী জাতি বাস করে। তাদের সাথে লড়াই করার মতো শক্তি তাদের নেই। তারা সাফ জানিয়ে দিল, সেই জাতি নিজে থেকে বের না হওয়া পর্যন্ত তারা কিছুতেই সেখানে ঢুকবে না। তারা বের হয়ে গেলেই কেবল তারা প্রবেশ করবে।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "جبر",
+   "lemma": "جَبّار",
+   "meaning_en": "tyrants / mighty people",
+   "meaning_bn": "প্রবল পরাক্রান্ত জাতি",
+   "why_en": "Points to the powerful inhabitants whose stature terrified the Israelites."
+  },
+  {
+   "pos": 11,
+   "root": "خرج",
+   "lemma": "خَرَجَ",
+   "meaning_en": "they leave",
+   "meaning_bn": "তারা বের হয়ে যায়",
+   "why_en": "Reveals their weak demand that the enemy leave without any effort from them."
+  },
+  {
+   "pos": 17,
+   "root": "دخل",
+   "lemma": "داخِل",
+   "meaning_en": "entering",
+   "meaning_bn": "প্রবেশকারী",
+   "why_en": "Shows their refusal to act unless victory was handed to them easily."
+  }
+ ],
+ "lesson_en": "Do not let fear stop you from doing what is right. Real goals require effort and patience.",
+ "lesson_bn": "ভয়ের কারণে ভালো কাজ থেকে পিছিয়ে যাবেন না। মহৎ উদ্দেশ্য অর্জনে সাহস ও শ্রম প্রয়োজন।",
+ "real_life_en": "A student wants to pass a hard exam but refuses to study unless the test is made easy. Waiting for success without effort brings nothing. We must face challenges with work and trust in Allah.",
+ "real_life_bn": "একজন শিক্ষার্থী কোনো পরিশ্রম ছাড়াই সহজে পরীক্ষায় সফল হতে চায়। সে কঠিন বিষয় দেখে পিছু হটে। কিন্তু কোনো চেষ্টা ছাড়া সাফল্য আসে না। আল্লাহর ওপর ভরসা করে কঠিন পরিস্থিতির মুখোমুখি হতে হয়।",
+ "context_en": "Shows the cowardly response of the Israelites after Moses commanded them to enter the promised land.",
+ "context_bn": "পবিত্র ভূমিতে প্রবেশের আদেশের বিপরীতে বনী ইসরাঈলের ভীরুতা ও অবাধ্যতার চিত্র তুলে ধরা হয়েছে।",
+ "themes": [
+  "Children of Israel",
+  "stories of the prophets",
+  "trials",
+  "human nature"
+ ],
+ "kinds": [
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Moses (peace be upon him)"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [
+   "the Holy Land"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The people of Moses refused to enter the Holy Land because a powerful people lived there.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "They demanded that the inhabitants leave first before they would agree to enter.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

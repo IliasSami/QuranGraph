@@ -1,0 +1,69 @@
+{
+  "id": "36:40",
+  "simple_en": "It is not possible for the sun to overtake the moon, nor does the night outrun the day. Each celestial body floats smoothly in its own orbit, never colliding or falling out of balance.",
+  "simple_bn": "সূর্যের পক্ষে সম্ভব নয় চাঁদের নাগাল পাওয়া, আর রাতের পক্ষেও সম্ভব নয় দিনকে অতিক্রম করা। প্রতিটি জ্যোতিষ্ক মহাশূন্যে নিজ নিজ কক্ষপথে সুশৃঙ্খলভাবে সাঁতার কেটে চলেছে।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "درك",
+      "lemma": "أَدْرَكَ",
+      "meaning_en": "to overtake / catch up",
+      "meaning_bn": "নাগাল পাওয়া বা ধরা",
+      "why_en": "Shows the strict boundaries separating the roles of sun and moon."
+    },
+    {
+      "pos": 13,
+      "root": null,
+      "lemma": "فِي",
+      "meaning_en": "an orbit",
+      "meaning_bn": "কক্ষপথ",
+      "why_en": "Points to the circular path designed for celestial bodies."
+    },
+    {
+      "pos": 14,
+      "root": "فلك",
+      "lemma": "فَلَك",
+      "meaning_en": "they float / swim",
+      "meaning_bn": "সাঁতার কাটছে বা আবর্তিত হচ্ছে",
+      "why_en": "Describes the smooth, frictionless glide of planets and stars in space."
+    }
+  ],
+  "lesson_en": "All things in space move in peace because each keeps its own place.",
+  "lesson_bn": "মহাবিশ্বের প্রতিটি সৃষ্টি নিজ নিজ সীমারেখা মেনে চলে বলেই নিখিল বিশ্বে শান্তি বজায় থাকে।",
+  "real_life_en": "Keep balance in your daily life. Do not let your work overtake family time, and do not let leisure crowd out your prayers. When each duty has its place, your life runs smoothly.",
+  "real_life_bn": "জীবনের প্রতিটি ক্ষেত্রে ভারসাম্য বজায় রাখুন। কাজের চাপে পরিবারকে ভুলে যাবেন না, আর বিনোদনের জন্য নামাজ বাদ দেবেন না। প্রতিটি দায়িত্ব সঠিক সময়ে পালন করুন।",
+  "themes": [
+    "signs in nature",
+    "creation",
+    "Allah's power"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Neither can the sun overtake the moon nor can night outstrip day; each floats in an orbit.",
+      "claim_bn": "সূর্য চাঁদের নাগাল পায় না এবং রাত দিনকে ছাড়িয়ে যেতে পারে না, প্রত্যেকে নিজ নিজ কক্ষপথে বিচরণ করছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

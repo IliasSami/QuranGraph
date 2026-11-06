@@ -1,0 +1,61 @@
+{
+  "id": "37:141",
+  "simple_en": "The ship ran into heavy waves and was about to sink under its heavy weight. The passengers agreed to draw lots to cast someone overboard and save the rest. Yunus joined the draw, and by Allah's divine decree, the lot fell upon him.",
+  "simple_bn": "জাহাজটি বিপদে পড়ে ডুবে যাওয়ার উপক্রম হলে আরোহীরা ওজন কমাতে লটারি করার সিদ্ধান্ত নেয়। ইউনুসও সেই লটারিতে অংশ নেন। আল্লাহর ফয়সালায় লটারিতে তাঁর নামই উঠে আসে এবং তিনি বাদ পড়েন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سهم",
+      "lemma": "ساهَمَ",
+      "meaning_en": "he cast lots",
+      "meaning_bn": "তিনি লটারিতে অংশ নিলেন",
+      "why_en": "Refers to the drawing of lots among the passengers to lighten the ship's load."
+    },
+    {
+      "pos": 4,
+      "root": "دحض",
+      "lemma": "مُدْحَض",
+      "meaning_en": "those who lose / the condemned",
+      "meaning_bn": "পরাজিতদের বা বাদ পড়াদের",
+      "why_en": "Shows that the lot fell upon Yunus by divine destiny."
+    }
+  ],
+  "lesson_en": "God controls all things and His decree stands.",
+  "lesson_bn": "সব ঘটনার চূড়ান্ত ফয়সালা আল্লাহর হাতে এবং তাঁর তাকদির এড়িয়ে যাওয়া সম্ভব নয়।",
+  "real_life_en": "Even when plans do not turn out the way you hoped, trust in Allah's wisdom. He directs every event for a greater purpose.",
+  "real_life_bn": "জীবনের কোনো জটিল পরিস্থিতিতে নিজের পরিকল্পনা ব্যর্থ হলেও হতাশ হবেন না। বিশ্বাস রাখুন আল্লাহর পরিকল্পনায় কোনো না কোনো কল্যাণ নিহিত থাকে।",
+  "themes": [
+    "divine decree",
+    "trials",
+    "casting lots"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "yunus"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They drew lots to decide who to throw off the ship, and Yunus lost the draw.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

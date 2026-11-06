@@ -1,0 +1,67 @@
+{
+  "id": "27:48",
+  "simple_en": "Nine men in the city of Thamud spread evil across the land. They committed crimes and caused trouble. They never tried to do good or fix what was broken.",
+  "simple_bn": "সামূদ শহরের ভেতরে নয়জন ব্যক্তি ছিল যারা দেশে ফ্যাসাদ সৃষ্টি করত। তারা সর্বদা মানুষের ক্ষতি করত এবং সমাজে কোনো সংশোধনমূলক বা ভালো কাজ করত না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "arabic": "رَهْطٍ",
+      "root": "رهط",
+      "lemma": "رَهْط",
+      "meaning_en": "men",
+      "meaning_bn": "ব্যক্তি বা লোক",
+      "why_en": "The specific group of ringleaders who organized wicked rebellion in Thamud."
+    },
+    {
+      "pos": 6,
+      "arabic": "يُفْسِدُونَ",
+      "root": "فسد",
+      "lemma": "أَفْسَدُ",
+      "meaning_en": "causing corruption",
+      "meaning_bn": "ফ্যাসাদ সৃষ্টি করত",
+      "why_en": "Condemns the persistent destructive deeds of evil conspirators."
+    }
+  ],
+  "lesson_en": "A small group of evil planners can ruin an entire society. People must oppose corruption and promote good deeds.",
+  "lesson_bn": "কতিপয় প্রভাবশালী অপকর্মকারী পুরো সমাজকে ধ্বংসের মুখে ঠেলে দিতে পারে। অন্যায় ও বিশৃঙ্খলা রুখে দেওয়া প্রতিটি নাগরিকের দায়িত্ব।",
+  "real_life_en": "Do not stay silent when harm is done in your community. Work together with honest people to spread peace and repair wrongs.",
+  "real_life_bn": "নিজের এলাকায় অন্যায় ও ক্ষতিসাধন দেখলে চুপ থাকবেন না। সৎ মানুষদের সাথে মিলে শান্তি ও সুবিচার প্রতিষ্ঠায় ভূমিকা রাখুন।",
+  "themes": [
+    "corruption",
+    "justice",
+    "society"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Salih"
+    ],
+    "nations": [
+      "Thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "There were nine men in the city who spread corruption in the land and did not reform.",
+      "claim_bn": "শহরে নয়জন লোক ছিল যারা দেশে অশান্তি ও ফ্যাসাদ সৃষ্টি করত এবং কোনো ভালো কাজ করত না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

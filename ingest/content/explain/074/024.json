@@ -1,0 +1,64 @@
+{
+ "id": "74:24",
+ "simple_en": "He said to his people that the Quran is only magic learned from the past. He claimed that the Prophet ﷺ was just repeating old words. He used this lie to frighten people away from listening.",
+ "simple_bn": "সে তার লোকদের বলল, এই কুরআন তো পুরোনো দিনের জাদু ছাড়া আর কিছুই নয়। সে দাবি করল, নবী ﷺ কেবল অতীত থেকে চলে আসা কথা পুনরাবৃত্তি করছেন। মানুষকে কুরআন শোনা থেকে দূরে রাখতেই সে এই মিথ্যা রটিয়েছিল।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "سحر",
+   "lemma": "سِحْر",
+   "meaning_en": "magic",
+   "meaning_bn": "জাদু",
+   "why_en": "He falsely labelled the Quran's deep impact on listeners as sorcery."
+  },
+  {
+   "pos": 6,
+   "root": "أثر",
+   "lemma": "يُؤْثَرُ",
+   "meaning_en": "transmitted from old",
+   "meaning_bn": "অতীত থেকে বর্ণিত",
+   "why_en": "He claimed it was copied from previous tales rather than revealed by Allah."
+  }
+ ],
+ "lesson_en": "False labels are often used by critics to hide their weakness against the truth.",
+ "lesson_bn": "সত্যের সামনে যুক্তি না থাকলে বিরোধীরা প্রায়ই মিথ্যার আশ্রয় নিয়ে নানা অপবাদ দেয়।",
+ "real_life_en": "Do not be misled when people give bad labels to good deeds or religious practices. Look at the real facts with a clear mind and do not follow blind rumors.",
+ "real_life_bn": "ভালো কাজ বা ধর্মীয় অনুশাসনকে কেউ ব্যঙ্গ বা অপবাদ দিলে বিভ্রান্ত হবেন না। গুজবে কান না দিয়ে নিজে সত্য জেনে সেই অনুযায়ী চলুন।",
+ "themes": [
+  "the Quran",
+  "disbelief",
+  "falsehood"
+ ],
+ "kinds": [
+  "warning",
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "He claimed that the Quran is merely magic transmitted from the ancients.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

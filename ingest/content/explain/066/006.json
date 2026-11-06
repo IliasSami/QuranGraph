@@ -1,0 +1,73 @@
+{
+  "id": "66:6",
+  "simple_en": "O you who believe, save yourselves and your families from a blazing Fire. Its fuel is humans and stones. Over it are appointed angels who are stern and mighty. They never disobey any command Allah gives them, and they carry out exactly what they are ordered to do.",
+  "simple_bn": "হে মুমিনগণ, তোমরা নিজেদের এবং তোমাদের পরিবারবর্গকে সেই আগুন থেকে রক্ষা করো, যার জ্বালানি হবে মানুষ ও পাথর। যার দায়িত্বে নিয়োজিত রয়েছে কঠোর স্বভাবের শক্তিশালী ফেরেশতারা। আল্লাহ তাদের যে নির্দেশ দেন, তারা কখনোই তার অবাধ্য হয় না এবং তাদের যা আদেশ করা হয়, তারা ঠিক তাই পালন করে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "وقي",
+      "lemma": "وَقَى",
+      "meaning_en": "protect and shield yourselves",
+      "meaning_bn": "তোমরা রক্ষা করো",
+      "why_en": "Charges believers with personal and family duty to prevent eternal ruin."
+    },
+    {
+      "pos": 8,
+      "root": "وقد",
+      "lemma": "وَقُود",
+      "meaning_en": "its fuel",
+      "meaning_bn": "তার জ্বালানি",
+      "why_en": "Emphasizes the terrible horror of Hell fueled by stone idols and deniers."
+    },
+    {
+      "pos": 12,
+      "root": "ملك",
+      "lemma": "مَلَك",
+      "meaning_en": "mighty guardian angels",
+      "meaning_bn": "ফেরেশতাগণ",
+      "why_en": "Describes the unyielding obedience and power of the keepers of Hell."
+    }
+  ],
+  "lesson_en": "Teach your family good values and righteous deeds to protect them from the punishment of the Fire.",
+  "lesson_bn": "পরিবারকে দ্বীনি শিক্ষা ও সৎকাজের উপদেশ দিয়ে জাহান্নামের ভয়াবহ আগুন থেকে রক্ষা করা প্রত্যেক মুমিনের দায়িত্ব।",
+  "real_life_en": "A father turns off the television every evening to sit with his children. Together, they read a short hadith and learn their daily prayers. By teaching them right from wrong with love, he shields his family from moral decay and the Fire.",
+  "real_life_bn": "সন্তানদের শুধু বৈষয়িক আরাম-আয়েশ না দিয়ে প্রতিদিন কিছুটা সময় তাদের ভালো-মন্দের শিক্ষা দেওয়া উচিত। ভালোবাসা দিয়ে তাদের নামাজ ও সৎকাজের শিক্ষা দেওয়া জাহান্নামের আগুন থেকে পরিবারকে রক্ষা করার অন্যতম উপায়।",
+  "themes": [
+    "protecting family from Hell",
+    "severity of Hellfire",
+    "obedience of angels"
+  ],
+  "kinds": [
+    "command",
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell",
+      "angels"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are ordered to protect themselves and families from Hell whose fuel is people and stones, guarded by stern angels obedient to Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

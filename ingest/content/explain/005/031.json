@@ -1,0 +1,96 @@
+{
+ "id": "5:31",
+ "simple_en": "After the murder, Cain did not know what to do with the dead body. Allah sent a crow that scratched the earth to bury another bird. Seeing this, Cain felt deep shame. He cried out that even a bird had more sense than him. He covered his brother and was filled with bitter regret.",
+ "simple_bn": "হত্যার পর কাবীল বুঝতে পারছিল না ভাইয়ের মৃতদেহ নিয়ে সে কী করবে। তখন আল্লাহ একটি কাক পাঠালেন, যে মাটি খুঁড়ে আরেকটি মৃত কাককে মাটিচাপা দিচ্ছিল। তা দেখে কাবীল চরম লজ্জা ও অনুশোচনায় ভেঙে পড়ল। সে আফসোস করে বলল, সে একটি কাকের মতোও হতে পারল না! অতঃপর সে গভীর অনুতপ্তদের একজন হলো।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "غرب",
+   "lemma": "غُراب",
+   "meaning_en": "a crow / raven",
+   "meaning_bn": "একটি কাক",
+   "why_en": "The bird sent by Allah to teach human beings the proper burial of the dead."
+  },
+  {
+   "pos": 4,
+   "root": "بحث",
+   "lemma": "يَبْحَثُ",
+   "meaning_en": "scratching / digging",
+   "meaning_bn": "মাটি খুঁড়ছিল",
+   "why_en": "The practical action of digging into the earth to conceal a body."
+  },
+  {
+   "pos": 10,
+   "root": "سوأ",
+   "lemma": "سَوْءَة",
+   "meaning_en": "corpse / body",
+   "meaning_bn": "মৃতদেহ / লাশ",
+   "why_en": "Refers to the dead body which must be covered with dignity."
+  },
+  {
+   "pos": 25,
+   "root": "ندم",
+   "lemma": "نادِم",
+   "meaning_en": "the regretful",
+   "meaning_bn": "অনুতপ্তরা",
+   "why_en": "The bitter sorrow and shame that inevitably strikes the wrongdoer."
+  }
+ ],
+ "lesson_en": "Sin always ends in regret. Treat human life and the dead with deep care.",
+ "lesson_bn": "পাপের সমাপ্তি ঘটে অনুশোচনায়। মানুষের জীবন ও মৃতদেহকে যথাযথ সম্মান প্রদর্শন করুন।",
+ "real_life_en": "A man loses his temper and breaks a cherished heirloom during an argument. As soon as the object shatters, the anger fades and deep regret sets in. Thinking of the end result helps us stop before we cause harm.",
+ "real_life_bn": "রাগের মাথায় একজন মানুষ এমন এক কাজ করে বসে যার ক্ষতি আর পূরণ করা যায় না। ক্রোধ কেটে যাওয়ার পর সে কেবল অনুতপ্ত হয়ে অশ্রু ফেলে। কোনো পদক্ষেপ নেওয়ার আগে পরিণামের কথা ভাবা উচিত।",
+ "context_en": "Shows the aftermath of the first murder, where Allah used a crow to teach Cain how to bury his brother.",
+ "context_bn": "প্রথম মানবহত্যার পর একটি কাকের মাধ্যমে কাবীলকে ভাইয়ের লাশ দাফন শেখানো এবং তার গভীর অনুশোচনার বিবরণ।",
+ "themes": [
+  "repentance",
+  "death",
+  "stories of the prophets",
+  "human nature",
+  "creation"
+ ],
+ "kinds": [
+  "story",
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Cain",
+   "Abel"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "crow"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah sent a crow to scratch the earth to show Cain how to bury his dead brother's body.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Cain felt intense shame that a bird knew better than him how to bury the dead, and he became filled with regret.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "36:15",
+  "simple_en": "The people replied that the messengers were merely humans like them. They claimed that the Most Merciful had revealed nothing at all. They accused the messengers of telling pure lies.",
+  "simple_bn": "জনপদের লোকেরা বলল যে রাসূলগণ তাদের মতোই সাধারণ মানুষ। তারা দাবি করল পরম দয়াময় রহমান কোনো ওহী পাঠাননি। তারা রাসূলগণকে মিথ্যাবাদী বলে দোষারোপ করল।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "بشر",
+      "lemma": "بَشَر",
+      "meaning_en": "human beings",
+      "meaning_bn": "মানুষ",
+      "why_en": "The common excuse disbelievers used to deny prophets who walked among them."
+    },
+    {
+      "pos": 9,
+      "root": "رحم",
+      "lemma": "رَحْمٰن",
+      "meaning_en": "the Most Merciful",
+      "meaning_bn": "পরম দয়াময় রহমান",
+      "why_en": "Names Allah whose mercy the deniers falsely claimed was silent."
+    }
+  ],
+  "lesson_en": "Do not reject the truth just because a human brings it.",
+  "lesson_bn": "অবিশ্বাসীরা প্রায়ই বার্তার গভীর সত্য না বুঝে রাসূলদের বাহ্যিক মানবীয় রূপ নিয়ে আপত্তি তোলে।",
+  "real_life_en": "Never dismiss sincere advice just because of who gives it. Even a young child or a humble worker can speak words of great wisdom.",
+  "real_life_bn": "বক্তার পদমর্যাদা বা বয়স দেখে সত্য উপদেশকে উড়িয়ে দেবেন না। একজন সাধারণ মানুষ বা ছোট শিশুও অনেক সময় সঠিক কথা বলতে পারে।",
+  "themes": [
+    "disbelief",
+    "stories of the prophets",
+    "arrogance"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rahman"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The people argued that the messengers were just humans like them and claimed the Most Merciful had sent down nothing.",
+      "claim_bn": "জনপদের অধিবাসীরা দাবি করেছিল যে রাসূলগণ তাদের মতোই সাধারণ মানুষ এবং রহমান কিছুই নাযিল করেননি।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

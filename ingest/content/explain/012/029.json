@@ -1,0 +1,82 @@
+{
+  "id": "12:29",
+  "simple_en": "The man told Joseph to turn away from this matter and speak no more of it. He told his wife to ask for forgiveness for her sin, for she was in the wrong.",
+  "simple_bn": "সে বলল, হে ইউসুফ, তুমি এ বিষয়টি উপেক্ষা করো। আর হে নারী, তুমি তোমার পাপের জন্য ক্ষমা প্রার্থনা করো; নিশ্চয় তুমিই অপরাধীদের অন্তর্ভুক্ত ছিলে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عرض",
+      "lemma": "أَعْرَضَ",
+      "meaning_en": "ignore / turn away from",
+      "meaning_bn": "উপেক্ষা করো / চেপে যাও",
+      "why_en": "A desire to suppress the scandal discreetly."
+    },
+    {
+      "pos": 5,
+      "root": "غفر",
+      "lemma": "اسْتَغْفَرَ",
+      "meaning_en": "ask forgiveness",
+      "meaning_bn": "ক্ষমা প্রার্থনা করো",
+      "why_en": "Commanding repentance for moral transgression."
+    },
+    {
+      "pos": 6,
+      "root": "ذنب",
+      "lemma": "ذَنب",
+      "meaning_en": "your sin",
+      "meaning_bn": "তোমার পাপ / অপরাধ",
+      "why_en": "Recognizing her unfaithfulness as a grave crime."
+    },
+    {
+      "pos": 10,
+      "root": "خطأ",
+      "lemma": "خاطِئ",
+      "meaning_en": "the sinful",
+      "meaning_bn": "অপরাধীদের অন্তর্ভুক্ত",
+      "why_en": "Acknowledging that she was the true guilty party."
+    }
+  ],
+  "lesson_en": "Admit your fault honestly and ask God for forgiveness when you do wrong.",
+  "lesson_bn": "ভুল স্বীকার করা এবং তওবা করে ক্ষমা প্রার্থনা করাই অপরাধ থেকে মুক্তির প্রথম পদক্ষেপ।",
+  "real_life_en": "When you realize you have done something wrong, do not defend yourself. Own up to your mistake honestly and seek forgiveness from God and those you hurt.",
+  "real_life_bn": "নিজের অন্যায় বুঝতে পারলে অজুহাত দেবেন না। সৎভাবে নিজের ভুল স্বীকার করুন এবং আল্লাহর কাছে ক্ষমা চেয়ে শুধরে নিন।",
+  "themes": [
+    "forgiveness",
+    "acknowledging sin",
+    "story of Yusuf",
+    "scandal control"
+  ],
+  "kinds": [
+    "story",
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Wife of Al-Aziz",
+      "Al-Aziz of Egypt (Potiphar)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The husband urged Joseph to keep the scandal quiet, commanding his wife to repent for her manifest sin.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

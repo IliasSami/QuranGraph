@@ -1,0 +1,76 @@
+{
+  "id": "9:97",
+  "simple_en": "The desert Arabs are the most severe in disbelief and hypocrisy. They are more likely not to know the limits that Allah has sent down to His Messenger. Allah is All-Knowing and All-Wise.",
+  "simple_bn": "মরুবাসী বেদুইনরা কুফরি ও মুনাফেকিতে সবচেয়ে কঠোর এবং আল্লাহ তাঁর রাসূলের ওপর যে বিধান নাযিল করেছেন তার সীমারেখা না জানার সম্ভাবনায় অধিক উপযুক্ত। আর আল্লাহ সর্বজ্ঞ ও প্রজ্ঞাময়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "عرب",
+      "lemma": "أَعْراب",
+      "meaning_en": "the desert Arabs",
+      "meaning_bn": "মরুবাসী বেদুইন",
+      "why_en": "Isolated nomadic populations lacking formal education and guidance."
+    },
+    {
+      "pos": 4,
+      "root": "نفق",
+      "lemma": "نِفاق",
+      "meaning_en": "hypocrisy",
+      "meaning_bn": "কপটতা / মুনাফেকী",
+      "why_en": "Hardened disbelief fostered by isolation from civilized learning."
+    },
+    {
+      "pos": 8,
+      "root": "حدد",
+      "lemma": "حُدُود",
+      "meaning_en": "the limits / laws",
+      "meaning_bn": "সীমারেখা / বিধানসমূহ",
+      "why_en": "Ethical and legal boundaries taught by divine scripture."
+    }
+  ],
+  "lesson_en": "Staying far from good knowledge makes the heart rough and hard.",
+  "lesson_bn": "দ্বীনি জ্ঞান ও নৈতিক শিক্ষা থেকে বিচ্ছিন্ন থাকলে মানুষের স্বভাব কঠোর ও বিভ্রান্ত হয়ে পড়ে।",
+  "real_life_en": "Do not isolate yourself from good teachers and wise friends. Staying connected to honest mentors helps soften your heart and improves your manners.",
+  "real_life_bn": "সৎসঙ্গ ও জ্ঞানচর্চা থেকে দূরে থাকবেন না; ভালো মানুষের সান্নিধ্য মানুষের মেজাজ শান্ত রাখে ও সঠিক পথ চেনায়।",
+  "themes": [
+    "danger of ignorance",
+    "desert Arabs",
+    "divine limits"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "Bedouins"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "All-Knowing",
+      "All-Wise"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Nomadic desert Arabs were prone to harsher disbelief and ignorance of divine statutes due to rough lifestyle and distance from scholarly guidance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

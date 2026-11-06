@@ -1,0 +1,83 @@
+{
+  "id": "7:47",
+  "simple_en": "The eyes of the people on the wall will turn toward the Fire. They see the awful pain of the people in it. Filled with deep fear, they pray to their Lord. They beg Him not to put them with the wrongdoers. They ask for safety from the dreadful Fire.",
+  "simple_bn": "আ'রাফের লোকদের দৃষ্টি যখন জাহান্নামীদের দিকে ফিরিয়ে দেওয়া হবে, তখন তারা তাদের ভয়াবহ শাস্তি প্রত্যক্ষ করবে। ভয়ে শিহরিত হয়ে তারা আল্লাহর দরবারে দোয়া করবে, হে আমাদের প্রতিপালক! আমাদের এই যালিম সম্প্রদায়ের অন্তর্ভুক্ত করবেন না। তারা জাহান্নামের আযাব থেকে সুরক্ষার প্রার্থনা জানাবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "صرف",
+      "lemma": "صَرَفَ",
+      "meaning_en": "are turned",
+      "meaning_bn": "ফিরিয়ে দেওয়া হবে",
+      "why_en": "Shows that their sight is drawn toward the Fire, causing deep dread."
+    },
+    {
+      "pos": 4,
+      "root": "لقي",
+      "lemma": "تِلْقاء",
+      "meaning_en": "in the direction of / toward",
+      "meaning_bn": "দিকে",
+      "why_en": "Points toward the distressing scene of the dwellers of the Fire."
+    },
+    {
+      "pos": 13,
+      "root": "ظلم",
+      "lemma": "ظالِم",
+      "meaning_en": "the wrongdoers",
+      "meaning_bn": "যালিমরা",
+      "why_en": "The category of people from whose company and punishment they urgently seek refuge."
+    }
+  ],
+  "lesson_en": "Seeing the bad end of sinners should make us ask Allah for safety and help.",
+  "lesson_bn": "অন্যের খারাপ পরিণতি দেখে শিক্ষা নিন এবং আল্লাহর কাছে নিরাপত্তার জন্য আন্তরিকভাবে প্রার্থনা করুন।",
+  "real_life_en": "A young man sees a neighbor lose everything through fraud and crime. Instead of boasting, he feels humble. He asks Allah to keep his own heart on the right path.",
+  "real_life_bn": "কাউকে অন্যায়ের কারণে বিপদে পড়তে দেখলে উপহাস না করে নিজের জন্য হেদায়াত চাইতে হয়। অন্যের ভুল থেকে শিক্ষা নিয়ে সৎ পথে চলার জন্য আল্লাহর সাহায্য প্রার্থনা করা উচিত।",
+  "context_en": "While the men on the Heights greeted the dwellers of Paradise with hope, turning toward the Fire fills them with awe and supplication.",
+  "context_bn": "জান্নাতবাসীদের দেখে শান্তি কামনা করার পর জাহান্নামের দিকে দৃষ্টি পড়তেই আ'রাফবাসীরা ভীত হয়ে আল্লাহর আশ্রয় প্রার্থনা করে।",
+  "themes": [
+    "dua",
+    "fear",
+    "Hell",
+    "punishment",
+    "repentance"
+  ],
+  "kinds": [
+    "dua",
+    "hereafter",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When the eyes of the people of the Heights are turned toward the dwellers of Hell, they see their terrifying state.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "They supplicate to Allah not to count them among the wrongdoing people.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

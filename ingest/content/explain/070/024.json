@@ -1,0 +1,79 @@
+{
+ "id": "70:24",
+ "simple_en": "These same people also set aside a fixed share of their money. It is not left to mood, or to whatever happens to be left at the end of the month. They know that part of what they own is owed to others. That share is a right, not a favour they hand out when they feel generous.",
+ "simple_bn": "এই একই মানুষেরা নিজেদের সম্পদের একটা নির্ধারিত অংশ আলাদা করে রাখে। এটা মনের খেয়ালে নয়, মাসের শেষে যা বেঁচে যায় তার উপরেও নয়। তারা জানে, তাদের সম্পদের একটা অংশ অন্যের পাওনা। সেই অংশটা তাদের দান নয়, বরং অন্যের অধিকার।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "مول",
+   "lemma": "مال",
+   "meaning_en": "their wealth",
+   "meaning_bn": "তাদের সম্পদ",
+   "why_en": "The ayah speaks about money people actually own, and what is due from it."
+  },
+  {
+   "pos": 4,
+   "root": "حقق",
+   "lemma": "حَقّ",
+   "meaning_en": "a right, a due",
+   "meaning_bn": "অধিকার, পাওনা",
+   "why_en": "Calling it a right means it belongs to the needy, not to the owner's goodwill."
+  },
+  {
+   "pos": 5,
+   "root": "علم",
+   "lemma": "مَعْلُوم",
+   "meaning_en": "known, fixed",
+   "meaning_bn": "নির্ধারিত, জানা",
+   "why_en": "The amount is set and known, so giving does not depend on feelings."
+  }
+ ],
+ "lesson_en": "Treat a fixed part of your money as a right owed to others, not as a gift you give when you feel like it.",
+ "lesson_bn": "সম্পদের একটা নির্ধারিত অংশকে অন্যের পাওনা মনে করুন; মন চাইলেই দান করব, এমন ভাব নয়।",
+ "real_life_en": "When your salary arrives, you put a set amount aside for people in need before you spend on anything else. You do not wait to see what is left at the end of the month.",
+ "real_life_bn": "বেতন হাতে আসার পরই আপনি একটা নির্দিষ্ট টাকা গরিব মানুষের জন্য আলাদা করে রাখেন। মাসের শেষে দেখি কী বাঁচে, এমন ভাবে নয়। আগে সেই অংশটা সরিয়ে রাখেন, পরে বাকি খরচের হিসাব করেন।",
+ "context_en": "The previous ayah named steady prayer. This one adds money, because both are places where a person's real priorities show.",
+ "context_bn": "আগের আয়াতে নামাজে অবিচল থাকার কথা ছিল। এখানে সম্পদের কথা যোগ হলো, কারণ এই দুই জায়গাতেই মানুষের আসল অগ্রাধিকার বোঝা যায়।",
+ "themes": [
+  "charity",
+  "wealth",
+  "the believers' qualities"
+ ],
+ "kinds": [
+  "belief",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "In the wealth of these believers there is a fixed, known share that is due from it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "This share is the alms Allah has laid down, and its amount is set by Allah rather than left to people's choice.",
+   "sources": [
+    "g-en-maarif",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "The sources speak of this fixed share as the obligatory alms; the explanation keeps to that without giving any amount or rate."
+ ]
+}

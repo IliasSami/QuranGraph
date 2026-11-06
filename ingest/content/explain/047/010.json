@@ -1,0 +1,65 @@
+{
+ "id": "47:10",
+ "simple_en": "Have they not travelled across the land and seen the ruins of past nations? Those people also rebelled against Allah, and He brought total destruction upon them. A similar end awaits all who deny the truth and persist in injustice.",
+ "simple_bn": "তারা কি পৃথিবীতে ভ্রমণ করেনি এবং দেখেনি তাদের পূর্ববর্তীদের কী করুণ পরিণতি হয়েছিল? সেই জাতিগুলোও আল্লাহর বিরুদ্ধে অহংকার করেছিল এবং আল্লাহ তাদের সমূলে ধ্বংস করে দিয়েছিলেন। যারা সত্য অস্বীকার করে এবং অবিচারে অনড় থাকে, তাদের জন্যও একই পরিণাম অপেক্ষা করছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سير",
+   "lemma": "سارَ",
+   "meaning_en": "they travel",
+   "meaning_bn": "তারা ভ্রমণ করল",
+   "why_en": "Travelling and observing history teaches profound lessons about divine justice."
+  },
+  {
+   "pos": 12,
+   "root": "دمر",
+   "lemma": "دَمَّرَ",
+   "meaning_en": "He destroyed completely",
+   "meaning_bn": "তিনি সমূলে ধ্বংস করলেন",
+   "why_en": "No arrogant power can stand against the decree of Allah."
+  }
+ ],
+ "lesson_en": "History shows that no tyrant or denier of truth can escape divine justice.",
+ "lesson_bn": "ইতিহাস সাক্ষী যে কোনো অহংকারী অত্যাচারী আল্লাহর বিচার থেকে রেহাই পায়নি।",
+ "real_life_en": "When you read about ancient ruins, reflect on the people who built them. Remember that only faith and justice endure, while pride always falls.",
+ "real_life_bn": "অতীতের ধ্বংসাবশেষের ইতিহাস পড়লে তা থেকে শিক্ষা নিন। মনে রাখবেন যে কেবল সততা ও ঈমান টিকে থাকে, আর অহংকারের পতন অনিবার্য।",
+ "themes": [
+  "past nations",
+  "reflection",
+  "warning",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "argument",
+  "story"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Past nations were destroyed for their disbelief, and a similar fate awaits those who deny the truth.",
+   "claim_bn": "পূর্ববর্তী জাতিসমূহ অবিশ্বাসের কারণে ধ্বংস হয়েছিল এবং বর্তমানের কাফেরদের জন্যও অনুরূপ পরিণতি রয়েছে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

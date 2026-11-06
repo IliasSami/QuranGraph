@@ -1,0 +1,70 @@
+{
+  "id": "13:1",
+  "simple_en": "These are the verses of the Book. What your Lord has revealed to you is the absolute truth. Even so, most people choose not to believe.",
+  "simple_bn": "এগুলো মহাগ্রন্থ কুরআনের আয়াত। আপনার রবের পক্ষ থেকে যা নাযিল করা হয়েছে তা অবিসংবাদিত সত্য। তবুও অধিকাংশ মানুষ এতে বিশ্বাস স্থাপন করে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Book",
+      "meaning_bn": "কিতাব",
+      "why_en": "Refers to the Quran revealed by divine wisdom."
+    },
+    {
+      "pos": 10,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "Affirms that revelation contains certainty without error."
+    },
+    {
+      "pos": 15,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "they believe",
+      "meaning_bn": "ঈমান আনে",
+      "why_en": "Points out human reluctance to embrace clear divine truth."
+    }
+  ],
+  "lesson_en": "Hold fast to divine truth even when the majority turns away.",
+  "lesson_bn": "সংখ্যাগরিষ্ঠ মানুষ মুখ ফিরিয়ে নিলেও আল্লাহর সত্যের ওপর অবিচল থাকা উচিত।",
+  "real_life_en": "A young person chooses honest work over easy bribes. Many peers mock their choice, but they remain firm because truth matters more than popularity.",
+  "real_life_bn": "এক তরুণ অসদুপায়ে দ্রুত অর্থ উপার্জনের পথ পরিহার করে সৎভাবে কাজ করে। সহকর্মীরা উপহাস করলেও সে সত্যের ওপর অটল থাকে।",
+  "context_en": "The opening of Surah Ar-Rad affirming the divine truth of the Quran against public doubt.",
+  "context_bn": "সূরা আর-রা'দের সূচনা: কুরআনের সত্যতা ঘোষণা এবং মানুষের অস্বীকৃতির চিত্রায়ন।",
+  "themes": [
+    "revelation",
+    "truth",
+    "disbelief"
+  ],
+  "kinds": [
+    "belief",
+    "address"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quran is revealed truth from Allah, though most people reject it.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

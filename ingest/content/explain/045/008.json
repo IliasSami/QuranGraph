@@ -1,0 +1,72 @@
+{
+ "id": "45:8",
+ "simple_en": "Such a person hears the verses of Allah recited to him, yet persists in disbelief out of arrogance, as if he never heard them at all. Give him news of a painful punishment.",
+ "simple_bn": "সে আল্লাহর আয়াত তিলাওয়াত শুনতে পায়, অথচ অহংকার করে এমনভাবে অনড় থাকে যেন সে কিছুই শোনেনি। তাই তাকে এক বেদনাদায়ক শাস্তির সংবাদ দিন।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "صرر",
+   "lemma": "أَصَرُّ",
+   "meaning_en": "he persists / insists",
+   "meaning_bn": "সে অটল থাকে / জেদ ধরে",
+   "why_en": "Stubbornly holding onto disbelief despite hearing the truth."
+  },
+  {
+   "pos": 8,
+   "root": "كبر",
+   "lemma": "مُسْتَكْبِر",
+   "meaning_en": "arrogantly",
+   "meaning_bn": "অহংকারবশত",
+   "why_en": "Arrogance prevents a person from bowing to divine truth."
+  },
+  {
+   "pos": 14,
+   "root": "ألم",
+   "lemma": "أَلِيم",
+   "meaning_en": "painful",
+   "meaning_bn": "যন্ত্রণাদায়ক",
+   "why_en": "The painful consequence that awaits those who turn away in pride."
+  }
+ ],
+ "lesson_en": "Arrogance closes the heart to truth and leads to severe punishment.",
+ "lesson_bn": "অহংকার সত্য গ্রহণের পথ বন্ধ করে দেয় এবং মানুষকে কঠিন শাস্তির মুখে ঠেলে দেয়।",
+ "real_life_en": "When sincere advice or a verse of the Quran corrects you, do not let pride stop you from accepting it. Humbly admit your fault and correct your path.",
+ "real_life_bn": "কেউ কুরআনের আয়াত মনে করিয়ে দিয়ে ভালো উপদেশ দিলে জেদ দেখাবেন না। অহংকার ত্যাগ করে ভুল স্বীকার করুন এবং নিজেকে সংশোধন করে নিন।",
+ "themes": [
+  "arrogance",
+  "humility",
+  "the Quran",
+  "warning"
+ ],
+ "kinds": [
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Whoever hears Allah's verses and stubbornly turns away out of arrogance will face a painful punishment.",
+   "claim_bn": "যে ব্যক্তি আল্লাহর আয়াত শুনেও অহংকারবশত অবাধ্যতায় অনড় থাকে, তার জন্য বেদনাদায়ক শাস্তি রয়েছে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

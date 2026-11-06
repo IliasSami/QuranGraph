@@ -1,0 +1,87 @@
+{
+ "id": "5:76",
+ "simple_en": "Say to them: Why do you worship things besides Allah that cannot harm you or help you? No created thing has power of its own. Only Allah gives life and provision. He is the All-Hearing, who hears every prayer, and the All-Knowing, who knows all things.",
+ "simple_bn": "আপনি তাদের বলুন: তোমরা কি আল্লাহকে বাদ দিয়ে এমন কিছুর ইবাদত করো, যা তোমাদের কোনো ক্ষতি বা উপকার করার ক্ষমতা রাখে না? কোনো সৃষ্টির নিজের থেকেই কারও ভালোমন্দ করার শক্তি নেই। সকল লাভ-ক্ষতি একমাত্র আল্লাহর হাতে। আল্লাহই হলেন সর্বশ্রোতা, যিনি প্রতিটি প্রার্থনা শোনেন, এবং সর্বজ্ঞ, যিনি সবকিছু জানেন।",
+ "key_words": [
+  {
+   "pos": 10,
+   "root": "ضرر",
+   "lemma": "ضَرّ",
+   "meaning_en": "harm",
+   "meaning_bn": "ক্ষতি",
+   "why_en": "Points out that false gods cannot avert harm from their worshipers."
+  },
+  {
+   "pos": 12,
+   "root": "نفع",
+   "lemma": "نَفْع",
+   "meaning_en": "benefit",
+   "meaning_bn": "উপকার",
+   "why_en": "Emphasizes that only Allah has the power to grant goodness and blessings."
+  },
+  {
+   "pos": 15,
+   "root": "سمع",
+   "lemma": "سَمِيع",
+   "meaning_en": "the All-Hearing",
+   "meaning_bn": "সর্বশ্রোতা",
+   "why_en": "Affirms Allah's perfect attribute of hearing every spoken prayer and thought."
+  }
+ ],
+ "lesson_en": "Worship only the One who hears all prayers and holds power over all things.",
+ "lesson_bn": "একমাত্র তাঁরই ইবাদত করুন, যিনি সবকিছু শোনেন এবং সকল লাভ-ক্ষতির পূর্ণ নিয়ন্ত্রণ যাঁর হাতে রয়েছে।",
+ "real_life_en": "Do not rely on charms, good-luck tokens, or graves to solve your problems. When you feel worried or need help, pray directly to Allah. He hears your quiet words and knows what you need.",
+ "real_life_bn": "কোনো মানুষ, তাবিজ বা মাজারের ওপর অন্ধ ভরসা করবেন না। কোনো বিপদ এলে সরাসরি মহান আল্লাহর কাছে সাহায্য চান। তিনি আপনার মনের প্রতিটি আকুল আবেদন শোনেন এবং আপনার জন্য যা সর্বোত্তম তাই নির্ধারণ করেন।",
+ "context_en": "Presents a simple argument against polytheism: why worship something that cannot protect you from harm or bring you benefit?",
+ "context_bn": "যে কোনো ক্ষতি করতে পারে না বা উপকার এনে দিতে পারে না, তার ইবাদত করা সম্পূর্ণ অর্থহীন—এই যুক্তির মাধ্যমে শিরক বর্জনের আহবান জানানো হয়েছে।",
+ "themes": [
+  "tawhid",
+  "shirk",
+  "names and attributes of Allah",
+  "Allah's power",
+  "worship"
+ ],
+ "kinds": [
+  "argument",
+  "description-of-allah",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "As-Sami",
+   "Al-Alim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "False deities have no power whatsoever to bring benefit or cause harm to anyone.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah alone is the All-Hearing and All-Knowing, who hears every prayer and knows every inner thought.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

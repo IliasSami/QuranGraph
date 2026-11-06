@@ -1,0 +1,83 @@
+{
+  "id": "6:144",
+  "simple_en": "Allah also created pairs of camels and cattle. Ask the idolaters again if Allah made the males forbidden, the females, or their unborn young. Were they present as witnesses when Allah supposedly commanded this? None is more unjust than one who invents lies against Allah to mislead others without knowledge. Allah does not guide wrongdoers.",
+  "simple_bn": "আল্লাহ একইভাবে উটের এক জোড়া এবং গরুর এক জোড়া সৃষ্টি করেছেন। আপনি মুশরিকদের আবার জিজ্ঞেস করুন, আল্লাহ কি এগুলোর নর নিষিদ্ধ করেছেন, নাকি মাদী, নাকি তাদের গর্ভের সন্তান? আল্লাহ যখন এমন আদেশ দিয়েছিলেন, তখন কি তারা উপস্থিত ছিল? যে ব্যক্তি না জেনে মানুষকে পথভ্রষ্ট করতে আল্লাহর নামে মিথ্যা রটায়, তার চেয়ে বড় জালিম আর কে? নিশ্চয়ই আল্লাহ জালিম জাতিকে হেদায়েত দেন না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أبل",
+      "lemma": "إِبِل",
+      "meaning_en": "camels",
+      "meaning_bn": "উট",
+      "why_en": "Names camels as one of the major livestock pairs blessed by Allah."
+    },
+    {
+      "pos": 5,
+      "root": "بقر",
+      "lemma": "بَقَر",
+      "meaning_en": "cattle",
+      "meaning_bn": "গরু",
+      "why_en": "Names cattle as an essential livestock pair providing milk and labor."
+    },
+    {
+      "pos": 27,
+      "root": "فري",
+      "lemma": "افْتَرَى",
+      "meaning_en": "invented lies",
+      "meaning_bn": "উদ্ভাবন করল বা বানাল",
+      "why_en": "Denounces the immense sin of inventing lies against Allah."
+    }
+  ],
+  "lesson_en": "Do not make up religious rules. Never attribute your own opinions to Allah.",
+  "lesson_bn": "প্রমাণ ছাড়া দ্বীনের নামে বিধান তৈরি করা মারাত্মক জুলুম। নিজের মনগড়া মতকে কখনো আল্লাহর বিধান বলবেন না।",
+  "real_life_en": "Never speak about Islamic law without knowledge. Do not call an action sinful without clear proof. Speaking without knowledge misleads people and brings blame before Allah.",
+  "real_life_bn": "যথাযথ জ্ঞান ছাড়া দ্বীনের হালাল-হারাম বিষয়ে কথা বলা থেকে বিরত থাকুন। পারিবারিক আড্ডায় দলিল ছাড়া কোনো কাজকে পাপ বা নিষিদ্ধ ফতোয়া দেবেন না। অজ্ঞতাবশত আল্লাহর নামে ভুল কথা বললে মানুষ পথভ্রষ্ট হয়।",
+  "context_en": "Following the mention of sheep and goats, Allah addresses arbitrary pagan taboos on camels and cattle.",
+  "context_bn": "ভেড়া ও ছাগলের পর আল্লাহ উট ও গরুর ওপর মুশরিকদের আরোপিত বানোয়াট বিধিনিষেধের অসারতা তুলে ধরেছেন।",
+  "themes": [
+    "argument",
+    "disbelief",
+    "knowledge",
+    "justice",
+    "creation"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "camels",
+      "cattle"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah created two pairs of large cattle, comprising male and female camels and oxen.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Inventing religious taboos without proof is a grave lie against Allah that misleads people.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

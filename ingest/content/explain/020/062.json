@@ -1,0 +1,72 @@
+{
+  "id": "20:62",
+  "simple_en": "Hearing Moses speak, the magicians began to argue among themselves in private. They felt doubt, but they kept their quiet talk secret from the public crowd.",
+  "simple_bn": "মূসার কথা শুনে জাদুকরদের মধ্যে মতবিরোধ সৃষ্টি হলো। তারা নিজেদের মধ্যে তীব্র আলোচনা করল এবং তাদের গোপন পরামর্শ জনসমক্ষে গোপন রাখল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نزع",
+      "lemma": "تَنَٰزَعَ",
+      "meaning_en": "they disputed among themselves",
+      "meaning_bn": "তারা পরস্পর বাদানুবাদে লিপ্ত হলো",
+      "why_en": "Shows internal division caused by Moses' sincere warning."
+    },
+    {
+      "pos": 4,
+      "root": "سرر",
+      "lemma": "أَسَرَّ",
+      "meaning_en": "they kept secret",
+      "meaning_bn": "তারা গোপন রাখল",
+      "why_en": "Concealing their private hesitation from Pharaoh."
+    },
+    {
+      "pos": 5,
+      "root": "نجو",
+      "lemma": "نَجْوَىٰ",
+      "meaning_en": "their whispered counsel",
+      "meaning_bn": "তাদের গোপন পরামর্শ",
+      "why_en": "Quiet internal debate regarding Moses' speech."
+    }
+  ],
+  "lesson_en": "True words cause doubt in liars. Sincere advice reaches the heart even when foes try to hide it.",
+  "lesson_bn": "সত্যবাণীর এমন এক আধ্যাত্মিক শক্তি থাকে যা মিথ্যার ধারকদের অন্তরেও সংশয় ও আলোড়ন সৃষ্টি করে।",
+  "real_life_en": "Never think your good words are lost. A honest word can make people think deep in their hearts.",
+  "real_life_bn": "আন্তরিক কথার শক্তিকে অবমূল্যায়ন করবেন না। একটি সত্য ও শান্ত বাক্য ভুল ধারণার ভিত নাড়িয়ে দিতে পারে।",
+  "themes": [
+    "inner-conflict",
+    "magicians",
+    "truth-vs-falsehood"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The magicians argued among themselves in secret after hearing Moses' sincere admonition.",
+      "claim_bn": "মূসার সতর্কবার্তা শোনার পর জাদুকররা নিজেদের মধ্যে গোপনে দ্বিধা ও বাদানুবাদে লিপ্ত হয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

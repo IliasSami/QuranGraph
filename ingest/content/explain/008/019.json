@@ -1,0 +1,84 @@
+{
+  "id": "8:19",
+  "simple_en": "If the disbelievers prayed for a clear verdict, the verdict has now arrived. If you stop attacking the believers, it is better for you. If you return to fight, We will defeat you again, no matter how large your army is.",
+  "simple_bn": "তোমরা যদি চূড়ান্ত ফয়সালা চেয়ে থাকো, তবে তা তো এসে গেছে। আর যদি তোমরা বিরত হও তবে তা তোমাদের জন্য উত্তম; কিন্তু তোমরা আবার যুদ্ধ করতে এলে আমরাও শাস্তি দেব এবং তোমাদের বিশাল বাহিনী কোনো কাজে আসবে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "فتح",
+      "lemma": "اسْتَفْتَحُ",
+      "meaning_en": "you sought a decision / judgment",
+      "meaning_bn": "তোমরা ফয়সালা চেয়েছিলে",
+      "why_en": "Abu Jahl's prayer at the Kaaba asking God to give victory to the rightful party."
+    },
+    {
+      "pos": 5,
+      "root": "فتح",
+      "lemma": "فَتْح",
+      "meaning_en": "the judgment / victory",
+      "meaning_bn": "ফয়সালা / বিজয়",
+      "why_en": "The decisive victory granted to the Prophet at Badr."
+    },
+    {
+      "pos": 7,
+      "root": "نهي",
+      "lemma": "انتَهَى",
+      "meaning_en": "you desist / cease",
+      "meaning_bn": "তোমরা বিরত হও",
+      "why_en": "Urging the pagan combatants to abandon their hostilities."
+    }
+  ],
+  "lesson_en": "A huge army cannot win when it fights on the side of wrong.",
+  "lesson_bn": "অন্যায় ও জুলুমের পক্ষে বিশাল সৈন্যবাহিনী বা প্রাচুর্যও কোনো কাজে আসে না।",
+  "real_life_en": "Do not rely on crowds, money, or connections to defend an unfair stance. When you are on the wrong side, stop and make peace. Humility and repentance are always better than stubborn pride.",
+  "real_life_bn": "সংখ্যাগরিষ্ঠতা বা ক্ষমতার জোরে অন্যায়কে সঠিক প্রমাণ করা যায় না। ভুল বুঝতে পেরে সংঘাত থামিয়ে সত্যের কাছে আত্মসমর্পণ করাই বুদ্ধিমানের কাজ।",
+  "context_en": "Addressing the Quraysh leaders who had prayed at the Kaaba for God to judge between them and Muhammad before setting out for Badr.",
+  "context_bn": "কুরাইশ নেতাদের সম্বোধন করে অবতীর্ণ—মক্কায় তাদের চাওয়া বিচার বদরে বাস্তবায়িত হয়েছে।",
+  "themes": [
+    "decisive judgment",
+    "warning to oppressors",
+    "futility of numbers",
+    "divine presence with believers"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Abu Jahl"
+    ],
+    "nations": [
+      "Quraysh",
+      "believers"
+    ],
+    "places": [
+      "Mecca",
+      "Badr"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "the verdict of Badr"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Before Badr, the Quraysh asked for a divine judgment, which arrived decisively against them; numbers cannot prevail against Allah's support for believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": "The supplication of Abu Jahl at the Kaaba asking for victory for whichever side was upon truth.",
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

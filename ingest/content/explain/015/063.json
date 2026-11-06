@@ -1,0 +1,64 @@
+{
+  "id": "15:63",
+  "simple_en": "They said: We have come to you with the very punishment that your people doubted. What they mocked and disputed has now arrived at their doorstep.",
+  "simple_bn": "তারা বলল: আপনার কওম যে শাস্তি নিয়ে সন্দেহ ও বিতর্ক করত, আমরা আপনার কাছে সেই শাস্তি নিয়েই এসেছি। তারা যে সতর্কবার্তাকে উপহাস করত, তা এখন বাস্তবায়িত হওয়ার সময় এসেছে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "جيأ",
+      "lemma": "جاءَ",
+      "meaning_en": "we came to you",
+      "meaning_bn": "আমরা আপনার কাছে এসেছি",
+      "why_en": "Delivering the divine verdict."
+    },
+    {
+      "pos": 7,
+      "root": "مري",
+      "lemma": "يَمْتَرُ",
+      "meaning_en": "they doubted",
+      "meaning_bn": "তারা সন্দেহ করত",
+      "why_en": "Disputing the warning of punishment."
+    }
+  ],
+  "lesson_en": "Doubt does not stop the truth. What Allah warns about will happen, no matter how much people deny it.",
+  "lesson_bn": "অস্বীকার বা সন্দেহ সত্যকে রুখতে পারে না। আল্লাহ যা সতর্ক করেছেন তা ঘটবেই, মানুষ যতই তা নিয়ে বিতর্ক করুক না কেন।",
+  "real_life_en": "Residents ignore warnings about a leaking dam for years. When heavy rain causes the dam to break, they realize that warnings were true all along.",
+  "real_life_bn": "বাঁধের ত্রুটি নিয়ে প্রকৌশলীদের বারবার দেওয়া সতর্কবার্তা অবহেলা করে স্থানীয়রা। একদিন ভারী বর্ষণে বাঁধ ভেঙে গেলে তারা বুঝতে পারে সতর্কবার্তা সঠিক ছিল।",
+  "context_en": "The angels reassuring Lot that they have arrived to bring the promised retribution to his people.",
+  "context_bn": "লূতকে আশ্বস্ত করে কওমের দাবিকৃত শাস্তির আগমন নিশ্চিত করার কথা ফেরেশতাদের ঘোষণা।",
+  "themes": [
+    "warning",
+    "punishment",
+    "truth"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Lot"
+    ],
+    "unseen": [
+      "Angels"
+    ],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The angels told Lot they had arrived with the very destruction that his people doubted.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

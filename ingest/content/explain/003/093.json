@@ -1,0 +1,95 @@
+{
+  "id": "3:93",
+  "simple_en": "All good food was lawful for the Children of Israel. The only exception was what Israel, Prophet Ya'qub (peace be upon him), made unlawful for himself before the Torah came down. When critics claimed that Allah had banned these foods, the Prophet ﷺ challenged them. He told them to bring the Torah and read it, but they could not do so.",
+  "simple_bn": "বনী ইসরাঈলের জন্য সমস্ত পবিত্র খাদ্যই মূলত হালাল ছিল। কেবল সেই খাবারটুকুই ব্যতিক্রম ছিল যা ইসরাঈল অর্থাৎ ইয়াকূব (আলাইহিস সালাম) তাওরাত নাযিল হওয়ার আগে মানতের কারণে নিজের জন্য নিষিদ্ধ করেছিলেন। কিন্তু বিরুদ্ধবাদীরা মিথ্যা দাবি করল যে আল্লাহই প্রাচীনকাল থেকে এসব খাবার হারাম করেছিলেন। তখন নবী ﷺ-কে নির্দেশ দেওয়া হলো তাদের চ্যালেঞ্জ জানাতে: সত্যবাদী হলে তারা যেন তাওরাত এনে তা পড়ে দেখায়। কিন্তু তারা তা করতে পারেনি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حلل",
+      "lemma": "حِلّ",
+      "meaning_en": "lawful / permissible",
+      "meaning_bn": "হালাল বা বৈধ",
+      "why_en": "Shows that wholesome foods were originally allowed by default for the Israelites."
+    },
+    {
+      "pos": 9,
+      "root": "حرم",
+      "lemma": "حَرَّمَ",
+      "meaning_en": "he made unlawful",
+      "meaning_bn": "সে নিষিদ্ধ করেছিল",
+      "why_en": "Refers to Ya'qub (peace be upon him) restricting certain foods upon himself, not a general divine prohibition."
+    },
+    {
+      "pos": 17,
+      "root": null,
+      "lemma": "تَوْراة",
+      "meaning_en": "the Torah",
+      "meaning_bn": "তাওরাত",
+      "why_en": "The revealed scripture cited as conclusive evidence against false historical claims."
+    },
+    {
+      "pos": 24,
+      "root": "صدق",
+      "lemma": "صادِق",
+      "meaning_en": "truthful",
+      "meaning_bn": "সত্যবাদী",
+      "why_en": "Challenges opponents to produce genuine textual evidence for their assertions."
+    }
+  ],
+  "lesson_en": "Rules about what is lawful must come from Allah, not from human guesswork.",
+  "lesson_bn": "দ্বীনের ব্যাপারে যেকোনো দাবি নির্ভরযোগ্য ওহির দলিলের ওপর প্রতিষ্ঠিত হতে হবে, মনগড়া অনুমানের ওপর নয়।",
+  "real_life_en": "People sometimes say a food or custom is forbidden just because of local habits. A wise Muslim does not rush to judge. We check the facts with knowledgeable teachers before saying what Allah has made lawful or unlawful.",
+  "real_life_bn": "অনেক সময় লোকমুখে শুনেই কোনো খাবার বা প্রথাকে হারাম বলে প্রচার করা হয়। কিন্তু কোনো বিষয় হালাল বা হারাম বলার আগে সঠিক দ্বীনি জ্ঞান যাচাই করে নেওয়া এবং নির্ভরযোগ্য আলেমদের পরামর্শ নেওয়া আবশ্যক।",
+  "context_en": "Answers the objection of the People of the Scripture regarding dietary laws by proving that certain restrictions were personal vows of Prophet Ya'qub rather than ancient divine bans.",
+  "context_bn": "খাদ্যদ্রব্য হালাল-হারাম নিয়ে কিতাবধারীদের আপত্তির জবাব দিয়ে স্পষ্ট করা হয়েছে যে কিছু খাবারের নিষেধাজ্ঞা ইয়াকূব (আলাইহিস সালাম)-এর ব্যক্তিগত মানত ছিল, আল্লাহর চিরন্তন বিধান নয়।",
+  "themes": [
+    "Children of Israel",
+    "revelation",
+    "honesty",
+    "law",
+    "stories of the prophets"
+  ],
+  "kinds": [
+    "argument",
+    "law"
+  ],
+  "entities": {
+    "people": [
+      "Ya'qub"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Torah"
+    ]
+  },
+  "claims": [
+    {
+      "text": "All food was lawful for the Children of Israel except what Ya'qub (Israel) forbade for himself before the Torah was revealed.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "The Prophet was commanded to challenge those making false claims about the Torah to bring it and read it.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

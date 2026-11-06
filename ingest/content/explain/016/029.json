@@ -1,0 +1,65 @@
+{
+  "id": "16:29",
+  "simple_en": "They will be told to enter the dark gates of Hell to stay there forever. How terrible is the final resting home of the proud people.",
+  "simple_bn": "তাদের বলা হবে, তোমরা জাহান্নামের উন্মুক্ত ফটক দিয়ে চিরকাল থাকার জন্য প্রবেশ করো। নিশ্চয় উদ্ধত অহংকারীদের জন্য নির্ধারিত এই বাসস্থান অত্যন্ত নিকৃষ্ট ও ভয়াবহ।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "بوب",
+      "lemma": "باب",
+      "meaning_en": "gates",
+      "meaning_bn": "দরজাগুলো",
+      "why_en": "Entrances leading directly into Hellfire."
+    },
+    {
+      "pos": 4,
+      "root": "خلد",
+      "lemma": "خالِد",
+      "meaning_en": "abiding eternally",
+      "meaning_bn": "স্থায়ীভাবে",
+      "why_en": "The eternal nature of punishment for unrepentant disbelief."
+    }
+  ],
+  "lesson_en": "Hell is the end of pride. Arrogance leads to eternal ruin.",
+  "lesson_bn": "অহংকারের চূড়ান্ত পরিণতি হলো জাহান্নাম। বিনয়ী না হলে মানুষ নিজের ধ্বংস নিজেই ডেকে আনে।",
+  "real_life_en": "Crush pride whenever it rises. Remember that the humble are saved while the proud fall into deep misery.",
+  "real_life_bn": "নিজের ভেতর অহংকার জন্ম নিতে দেবেন না। বিনয় ও সত্যের পথ বেছে নিয়ে জাহান্নামের ভয়াবহ পরিণতি থেকে বাঁচুন।",
+  "themes": [
+    "hell",
+    "arrogance",
+    "punishment"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "Hell"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "gates of Hell"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The arrogant are commanded to enter the gates of Hell to abide eternally.",
+      "claim_bn": "অহংকারীদের জাহান্নামের দরজাসমূহ দিয়ে তাতে চিরকালের জন্য প্রবেশের নির্দেশ দেওয়া হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,85 @@
+{
+  "id": "4:10",
+  "simple_en": "Those who take the property of orphans unjustly are only filling their bellies with fire. The stolen wealth they swallow today will turn into real punishment on the Day of Judgment. Soon they will enter a blazing Fire to burn in its intense heat.",
+  "simple_bn": "যারা অন্যায়ভাবে এতিমদের ধন-সম্পদ আত্মসাৎ করে, তারা মূলত নিজেদের পেটে আগুনই ভরছে। দুনিয়ায় তারা যে হারাম সম্পদ খাচ্ছে, তা আখিরাতে তাদের জন্য জ্বলন্ত শাস্তি হবে। অতি শীঘ্রই তারা প্রজ্বলিত জাহান্নামের আগুনে প্রবেশ করবে।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "ظلم",
+      "lemma": "ظُلْم",
+      "meaning_en": "unjustly",
+      "meaning_bn": "অন্যায়ভাবে",
+      "why_en": "Consuming an orphan's wealth without any legal right or necessity is pure oppression."
+    },
+    {
+      "pos": 11,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "fire",
+      "meaning_bn": "আগুন",
+      "why_en": "The unlawful money taken in this world will literally turn into burning fire in their bellies in the Next Life."
+    },
+    {
+      "pos": 13,
+      "root": "سعر",
+      "lemma": "سَعِير",
+      "meaning_en": "a blazing Fire (Hell)",
+      "meaning_bn": "প্রজ্বলিত জাহান্নামের আগুন",
+      "why_en": "The terrifying outcome waiting for those who exploit vulnerable orphans."
+    }
+  ],
+  "lesson_en": "Consuming an orphan's wealth is a fatal sin that brings the blazing punishment of Hell.",
+  "lesson_bn": "এতিমের সম্পদ অন্যায়ভাবে গ্রাস করা এক ধ্বংসাত্মক পাপ, যার পরিণাম জাহান্নামের জ্বলন্ত আগুন।",
+  "real_life_en": "Never use money that belongs to a vulnerable person for your own gain. Using funds meant for needy children brings ruin upon your home. Guard their wealth with care.",
+  "real_life_bn": "কোনো এতিম বা অসহায় ব্যক্তির সম্পদ থেকে একটি পয়সাও অন্যায়ভাবে গ্রহণ করবেন না। হারাম উপার্জন দুনিয়াতে সহজ মনে হলেও আখিরাতে তা আগুনে রূপ নেবে। অন্যায়ভাবে উপার্জিত অর্থ নিজের সংসারে বা সন্তানের মুখে কখনো তুলে দেবেন না।",
+  "themes": [
+    "orphans",
+    "wealth",
+    "punishment",
+    "Hell",
+    "justice"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "Hell"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who unjustly consume the property of orphans are in reality taking fire into their bellies.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They will face a blazing fire in Hell on the Day of Resurrection as punishment for this grave oppression.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-maarif",
+        "g-bn-ahsanul-bayan"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

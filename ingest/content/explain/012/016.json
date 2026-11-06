@@ -1,0 +1,63 @@
+{
+  "id": "12:16",
+  "simple_en": "The brothers came back home to their father in the dark of night. They wept loud tears to hide the bad deed they had done.",
+  "simple_bn": "আর রাতের প্রথম ভাগে তারা তাদের পিতার কাছে কাঁদতে কাঁদতে ফিরে আসল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "عشو",
+      "lemma": "عِشاء",
+      "meaning_en": "at night / evening",
+      "meaning_bn": "রাতের প্রথম ভাগে / সন্ধ্যায়",
+      "why_en": "Using the cover of darkness to hide facial cues."
+    },
+    {
+      "pos": 4,
+      "root": "بكي",
+      "lemma": "بَكَتْ",
+      "meaning_en": "weeping",
+      "meaning_bn": "কাঁদতে কাঁদতে",
+      "why_en": "Feigned sorrow designed to evoke sympathy."
+    }
+  ],
+  "lesson_en": "Tears and loud emotions do not always prove that someone is telling the truth.",
+  "lesson_bn": "চোখের পানি বা কান্নাকাটি সবসময় সত্যবাদী হওয়ার প্রমাণ নয়।",
+  "real_life_en": "Do not let tears fool you. Look at the facts and see what is true, rather than trusting smooth words.",
+  "real_life_bn": "কারো কান্নাকাটি বা আবেগ দেখে তাৎক্ষণিক সিদ্ধান্তে পৌঁছাবেন না। সত্য-মিথ্যা প্রমাণের জন্য যুক্তিসঙ্গত প্রমাণ খোঁজাই বিচক্ষণতা।",
+  "themes": [
+    "false emotions",
+    "deception",
+    "story of Yusuf"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Yaqub (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers returned to their father Jacob under the cover of night, weeping deceitful tears to mask their guilt.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

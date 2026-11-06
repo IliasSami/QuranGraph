@@ -1,0 +1,75 @@
+{
+  "id": "9:124",
+  "simple_en": "Whenever a chapter of the Quran is revealed, some of them ask: Which of you did this increase in faith? As for those who believe, it has increased their faith, and they rejoice in the good news.",
+  "simple_bn": "আর যখনই কোনো সূরা নাযিল হয়, তখন তাদের কেউ কেউ বলে: এটা তোমাদের কার ঈমান বৃদ্ধি করল? বস্তুত যারা ঈমান এনেছে এটা তাদের ঈমান বৃদ্ধি করেছে এবং তারা আনন্দিত হয়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "سور",
+      "lemma": "سُورَة",
+      "meaning_en": "surah / chapter",
+      "meaning_bn": "সূরা",
+      "why_en": "Quranic text bringing wisdom and tests of faith."
+    },
+    {
+      "pos": 9,
+      "root": "زيد",
+      "lemma": "زادَ",
+      "meaning_en": "increased",
+      "meaning_bn": "বৃদ্ধি করল",
+      "why_en": "Dynamic growth of conviction upon hearing truth."
+    },
+    {
+      "pos": 18,
+      "root": "بشر",
+      "lemma": "يَسْتَبْشِرُ",
+      "meaning_en": "rejoice in good tidings",
+      "meaning_bn": "আনন্দ প্রকাশ করে",
+      "why_en": "Joy experienced by pure hearts receiving guidance."
+    }
+  ],
+  "lesson_en": "Truth nourishes an honest heart and makes faith grow stronger.",
+  "lesson_bn": "সত্যবাণী খাঁটি অন্তরকে আলোকিত করে এবং মানুষের বিশ্বাসকে আরও শক্তিশালী করে।",
+  "real_life_en": "Read inspiring wisdom and sacred verses with an open mind. Let good teachings renew your energy and lift your spirits every day.",
+  "real_life_bn": "কুরআনের উপদেশ ও ভালো কথা মনোযোগ দিয়ে শুনুন; সত্য শিক্ষা আপনার মনকে প্রশান্ত করবে এবং কাজের উদ্যম বাড়াবে।",
+  "themes": [
+    "increase in faith",
+    "Quran revelation",
+    "joy of believers"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers",
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran",
+      "surah"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Quranic revelation stimulates intellectual and spiritual growth for believers, while cynical mockers remain unimpressed.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

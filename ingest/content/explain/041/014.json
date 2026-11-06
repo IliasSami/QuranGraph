@@ -1,0 +1,79 @@
+{
+ "id": "41:14",
+ "simple_en": "Messengers came to those nations from every direction, calling them to worship none except Allah. Yet the people argued that if their Lord had wanted to send a message, He would have sent angels. Because the messengers were human beings, the people rejected them.",
+ "simple_bn": "রাসূলগণ ধারাবাহিকভাবে সেই জাতিগুলোর কাছে এসে একমাত্র আল্লাহর ইবাদত করার আহবান জানিয়েছিলেন। কিন্তু লোকেরা অজুহাত দিল যে তাদের রব চাইলে বার্তাবাহক হিসেবে ফিরিশতা পাঠাতেন। রাসূলগণ মানুষ হওয়ার কারণে তারা সত্য অস্বীকার করল।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "the messengers",
+   "meaning_bn": "রাসূলগণ",
+   "why_en": "Refers to the noble prophets sent by Allah to guide people."
+  },
+  {
+   "pos": 10,
+   "root": "عبد",
+   "lemma": "عَبَدَ",
+   "meaning_en": "you worship",
+   "meaning_bn": "তোমরা ইবাদত করবে",
+   "why_en": "The central message of every prophet to devote worship to God alone."
+  },
+  {
+   "pos": 18,
+   "root": "ملك",
+   "lemma": "مَلَك",
+   "meaning_en": "angels",
+   "meaning_bn": "ফিরিশতাগণ",
+   "why_en": "The false excuse deniers used demanding supernatural beings instead of prophets."
+  }
+ ],
+ "lesson_en": "Do not make false excuses to avoid following the truth when it reaches you.",
+ "lesson_bn": "সত্য স্পষ্ট হওয়ার পর তা এড়িয়ে চলার জন্য মিথ্যা অজুহাত খুঁজবেন না।",
+ "real_life_en": "Focus on the value of good advice rather than who is delivering it. Even if a reminder comes from someone younger or simpler than you, accept it with grace.",
+ "real_life_bn": "উপদেশ কে দিচ্ছে তা না দেখে কথার গুরুত্ব অনুধাবন করুন। আপনার চেয়ে ছোট বা সাধারণ কেউ ভালো কথা বললেও তা সানন্দে মেনে নিন।",
+ "themes": [
+  "prophethood",
+  "tawhid",
+  "angels",
+  "past nations"
+ ],
+ "kinds": [
+  "story",
+  "argument",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "ad",
+   "thamud"
+  ],
+  "places": [],
+  "unseen": [
+   "angels"
+  ],
+  "names_of_allah": [
+   "allah",
+   "ar-rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Messengers came successively calling them to worship only Allah, but they disbelieved claiming God should have sent angels instead.",
+   "claim_bn": "রাসূলগণ এক আল্লাহর ইবাদতের আহবান নিয়ে এসেছিলেন, কিন্তু কাফিররা বলল আল্লাহ চাইলে ফিরিশতা পাঠাতেন এবং তারা অস্বীকার করল।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

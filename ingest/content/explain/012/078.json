@@ -1,0 +1,93 @@
+{
+  "id": "12:78",
+  "simple_en": "The brothers pleaded with Yusuf, calling him the honorable chief. They explained that Benjamin's father was an elderly man who loved him deeply. They begged Yusuf to take one of them in Benjamin's place, praising him as a man of goodness.",
+  "simple_bn": "ভাইয়েরা বিনীত হয়ে বলল, হে পরাক্রমশালী আযীয, তাঁর পিতা একজন অতি বৃদ্ধ মানুষ। তিনি তাকে খুব ভালোবাসেন। তাই তার বদলে আমাদের যেকোনো একজনকে বন্দি রাখুন। আমরা তো আপনাকে একজন মহৎ সৎকর্মশীল মানুষ হিসেবে দেখতে পাচ্ছি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "عزز",
+      "lemma": "عَزِيز",
+      "meaning_en": "O chief / noble ruler",
+      "meaning_bn": "হে আযীয বা সম্মানিত শাসক",
+      "why_en": "A respectful title used to address the high ruler of Egypt."
+    },
+    {
+      "pos": 7,
+      "root": "شيخ",
+      "lemma": "شَيْخ",
+      "meaning_en": "an old man",
+      "meaning_bn": "একজন বৃদ্ধ মানুষ",
+      "why_en": "Describing the frail age and emotional vulnerability of Prophet Yaqub."
+    },
+    {
+      "pos": 9,
+      "root": "أخذ",
+      "lemma": "أَخَذَ",
+      "meaning_en": "take one of us",
+      "meaning_bn": "আমাদের একজনকে গ্রহণ করুন",
+      "why_en": "Offering a substitution to honor their oath to their father."
+    },
+    {
+      "pos": 15,
+      "root": "حسن",
+      "lemma": "مُحْسِن",
+      "meaning_en": "the doers of good",
+      "meaning_bn": "সৎকর্মশীলদের অন্তর্ভুক্ত",
+      "why_en": "Appealing to Yusuf’s well-known mercy and kindness."
+    }
+  ],
+  "lesson_en": "Showing respect and pleading for family members in trouble is a sign of care.",
+  "lesson_bn": "বিপদে পরিবারের সদস্যের সুরক্ষায় বিনীত অনুরোধ ও সম্মান প্রদর্শন করা দায়িত্বশীলতার পরিচয়।",
+  "real_life_en": "An older brother pays the hospital bills for his younger sister. He does this so his elderly parents do not worry.",
+  "real_life_bn": "বয়স্ক মা-বাবার দুশ্চিন্তা কমাতে বড় ভাই ছোট ভাইয়ের চিকিৎসার খরচের দায়িত্ব নিজের কাঁধে নেন। তিনি পরিবারের শান্তির জন্য হাসিমুখে বাড়তি পরিশ্রম করেন।",
+  "context_en": "Remembering their oath to Yaqub, the brothers desperately offered a substitute for Benjamin.",
+  "context_bn": "পিতার কাছে করা প্রতিশ্রুতির কথা ভেবে ভাইয়েরা বিন ইয়াকীনের বদলে নিজেদের একজনকে রাখার জন্য আকুল আবেদন করল।",
+  "themes": [
+    "family duty",
+    "plea for mercy",
+    "respect for elders"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "brothers of Yusuf",
+      "Yusuf",
+      "Yaqub",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers pleaded that their father was an elderly man who loved Benjamin.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They offered to let one of them be retained in his place.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

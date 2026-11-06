@@ -1,0 +1,83 @@
+{
+ "id": "4:37",
+ "simple_en": "Allah dislikes those who are stingy and tell other people to be stingy as well. They hide the wealth and knowledge Allah generously gave them. They refuse to help anyone in need. Allah has prepared a humiliating punishment for those who deny His favors and reject the truth.",
+ "simple_bn": "আল্লাহ তাদের অপছন্দ করেন যারা নিজেরা কৃপণতা করে এবং অন্যদেরও কৃপণতার শিক্ষা দেয়। আল্লাহ অনুগ্রহ করে তাদের যে সম্পদ ও জ্ঞান দান করেছেন, তারা তা লুকিয়ে রাখে। তারা কাউকে কোনো সাহায্য করতে চায় না। আল্লাহ অকৃতজ্ঞ অস্বীকারকারীদের জন্য অপমানজনক শাস্তি প্রস্তুত করে রেখেছেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "بخل",
+   "lemma": "بَخِلَ",
+   "meaning_en": "are stingy / hoard",
+   "meaning_bn": "কৃপণতা করে",
+   "why_en": "Condemns withholding required charity and hoarding blessings."
+  },
+  {
+   "pos": 6,
+   "root": "كتم",
+   "lemma": "كَتَمَ",
+   "meaning_en": "they conceal / hide",
+   "meaning_bn": "লুকিয়ে রাখে",
+   "why_en": "Describes hiding wealth or religious knowledge rather than sharing it."
+  },
+  {
+   "pos": 15,
+   "root": "هون",
+   "lemma": "مُهِين",
+   "meaning_en": "humiliating / disgraceful",
+   "meaning_bn": "অপমানজনক",
+   "why_en": "Characterizes the punishment in the Hereafter as degrading for arrogant hoarders."
+  }
+ ],
+ "lesson_en": "Avoid greed and stinginess. Share Allah's gifts instead of hiding them from others.",
+ "lesson_bn": "কৃপণতার ব্যাধি থেকে নিজেকে বাঁচিয়ে রাখুন এবং আল্লাহর দেওয়া সম্পদ ও জ্ঞান মুক্তহস্তে মানুষের কল্যাণে ব্যয় করুন।",
+ "real_life_en": "If Allah gives you wealth or knowledge, use it to help people. Do not hoard it or urge others to be greedy. Thank Allah by sharing His bounty.",
+ "real_life_bn": "বন্যার্তদের জন্য অর্থ সংগ্রহের সময় কেউ হয়তো নিজে টাকা না দিয়ে বন্ধুদেরও দান করতে বারণ করে। একজন মুমিন এই সংকীর্ণ মনোভাব থেকে দূরে থাকে। সে নিজে সামর্থ্যমতো দান করে এবং অন্যদেরও উপকারে উৎসাহিত করে, কারণ সে জানে দান করলে সম্পদ কমে না।",
+ "context_en": "Expands on the traits of the arrogant mentioned in the previous ayah by highlighting stinginess and concealing divine blessings.",
+ "context_bn": "পূর্বের আয়াতে বর্ণিত অহঙ্কারীদের নিন্দিত স্বভাব হিসেবে কৃপণতা ও নেয়ামত গোপন করার বিবরণ।",
+ "themes": [
+  "wealth",
+  "greed",
+  "charity",
+  "punishment",
+  "ethics"
+ ],
+ "kinds": [
+  "warning",
+  "prohibition",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah condemns those who hoard their wealth, advise others to be stingy, and hide what Allah granted them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Concealing Allah's bounty of wealth and knowledge out of greed is an act of ingratitude that brings a humiliating punishment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": "20:48",
+  "simple_en": "They told Pharaoh that God had sent them a warning. Severe punishment will fall on anyone who denies the truth and turns away from God guidance.",
+  "simple_bn": "তাঁরা জানালেন: আমাদের প্রতি ওহি এসেছে যে, যে ব্যক্তি সত্যকে অস্বীকার করে এবং তা থেকে মুখ ফিরিয়ে নেয়, তার ওপরই রয়েছে কঠিন শাস্তি।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "عذب",
+      "lemma": "عَذَاب",
+      "meaning_en": "the punishment",
+      "meaning_bn": "আজাব বা শাস্তি",
+      "why_en": "The severe divine consequence awaiting arrogant denial."
+    },
+    {
+      "pos": 9,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied the truth",
+      "meaning_bn": "অস্বীকার বা মিথ্যা সাব্যস্ত করল",
+      "why_en": "Rejection of clear signs and evident proofs."
+    },
+    {
+      "pos": 10,
+      "root": "ولي",
+      "lemma": "تَوَلَّىٰ",
+      "meaning_en": "turned away",
+      "meaning_bn": "মুখ ফিরিয়ে নিল",
+      "why_en": "Refusing to heed righteous counsel."
+    }
+  ],
+  "lesson_en": "Denying truth out of haughty pride brings severe consequences in this life and the next.",
+  "lesson_bn": "অহংকারবশত সত্য অস্বীকার করা এবং সৎপথ থেকে মুখ ফিরিয়ে নেওয়ার পরিণতি অত্যন্ত ভয়াবহ।",
+  "real_life_en": "Keep your heart open to honest advice. Never reject good reminders simply to protect your pride.",
+  "real_life_bn": "সত্য ও ভালো উপদেশ এলে তা সানন্দে গ্রহণ করুন। অহংকারের কারণে কখনো সত্যকে প্রত্যাখ্যান করবেন না।",
+  "themes": [
+    "warning",
+    "accountability",
+    "divine-justice"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Harun",
+      "Fir'awn"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "punishment"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The messengers warned Pharaoh that divine punishment falls upon those who deny and turn away.",
+      "claim_bn": "রাসুলগণ ফেরাউনকে সতর্ক করেন যে সত্য প্রত্যাখ্যানকারী ও অবাধ্যদের ওপরই আল্লাহর আজাব নির্ধারিত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,62 @@
+{
+  "id": "15:70",
+  "simple_en": "They said: Did we not forbid you from hosting travelers and protecting people from the world? Their arrogance led them to dictate who could visit.",
+  "simple_bn": "তারা বলল: আমরা কি তোমায় দুনিয়ার মানুষকে আশ্রয় দিতে এবং আমাদের কাজে বাধা দিতে নিষেধ করিনি? তাদের অহংকার এতটাই বেড়েছিল যে তারা অন্যদের অধিকার কেড়ে নিত।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نهي",
+      "lemma": "نَهَى",
+      "meaning_en": "did we not forbid you",
+      "meaning_bn": "আমরা কি তোমাকে নিষেধ করিনি",
+      "why_en": "Imposing an unjust restriction."
+    },
+    {
+      "pos": 5,
+      "root": "علم",
+      "lemma": "عالَم",
+      "meaning_en": "the worlds",
+      "meaning_bn": "জগৎবাসীকে",
+      "why_en": "All outside people and travelers."
+    }
+  ],
+  "lesson_en": "Corrupt groups often try to ban good deeds. Stand your ground with courage when wrongdoers tell you to stop helping others.",
+  "lesson_bn": "পাপিষ্ঠ সমাজ প্রায়ই ভালো কাজে বাধা দেওয়ার চেষ্টা করে। সৎ কাজ বন্ধ করার চাপ এলেও সত্য ও ন্যায়ের পথে অবিচল থাকুন।",
+  "real_life_en": "A rich man tells a neighbor to stop giving food to poor families on his street. The neighbor refuses to stop. He keeps sharing meals with hungry people.",
+  "real_life_bn": "এক প্রভাবশালী ব্যক্তি এক সমাজসেবককে গরিবদের সাহায্য করতে নিষেধ করে হুমকি দেয়। কিন্তু সমাজসেবক ভয় না পেয়ে অসহায় মানুষের পাশে দাঁড়ানো চালিয়ে যান।",
+  "context_en": "The arrogant response of the townspeople, claiming they had forbidden Lot from offering hospitality to outsiders.",
+  "context_bn": "বাইরের মানুষকে আশ্রয় দেওয়া ও অতিথিপরায়ণতা দেখানো নিয়ে লূতের ওপর কওমের দাম্ভিক নিষেধাজ্ঞা আরোপের বিবরণ।",
+  "themes": [
+    "tyranny",
+    "arrogance",
+    "oppression"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Lot"
+    ],
+    "unseen": [],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people retorted that they had previously forbidden Lot from protecting strangers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

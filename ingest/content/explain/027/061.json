@@ -1,0 +1,64 @@
+{
+  "id": "27:61",
+  "simple_en": "God made the earth a firm home for living things. He placed rivers running through it, set firm mountains upon it, and put a barrier between the two seas. Is there any deity with God? Most people do not know.",
+  "simple_bn": "তিনি জমিনকে বাসযোগ্য ও স্থির করেছেন, তার মাঝে নদী প্রবাহিত করেছেন, দৃঢ় পাহাড় স্থাপন করেছেন এবং দুই সাগরের মাঝে পর্দা দিয়েছেন। আল্লাহর সাথে কি অন্য উপাস্য আছে। বরং তাদের অধিকাংশই তা জানে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "قَرَارًا",
+      "root": "قرر",
+      "lemma": "قَرار",
+      "meaning_en": "a stable ground",
+      "meaning_bn": "বাসযোগ্য ও স্থির",
+      "why_en": "The creation of the earth as a calm, habitable home."
+    },
+    {
+      "pos": 12,
+      "arabic": "بَيْنَ",
+      "root": "بين",
+      "lemma": "بَيْن",
+      "meaning_en": "a barrier",
+      "meaning_bn": "অন্তরায় বা পর্দা",
+      "why_en": "The invisible boundary separating different bodies of water."
+    }
+  ],
+  "lesson_en": "The balance of the earth shows divine wisdom. Mountains, rivers, and oceans are set in perfect harmony by God.",
+  "lesson_bn": "পৃথিবীর সুষম ভৌগোলিক গঠন মহান সৃষ্টিকর্তার নিখুঁত পরিকল্পনার প্রমাণ। পর্বত, নদী ও সাগরের সীমানা মানুষের জীবনের জন্য নিয়ামত।",
+  "real_life_en": "Feel the firm ground under your feet. Thank God for giving us rivers, mountains, and water to live. Take care of the world around you.",
+  "real_life_bn": "পৃথিবীর স্থিতিশীলতা ও প্রাকৃতিক সম্পদকে আল্লাহর উপহার হিসেবে দেখুন। পরিবেশের ভারসাম্য রক্ষায় সচেষ্ট থাকুন।",
+  "themes": [
+    "earth",
+    "wisdom",
+    "creation"
+  ],
+  "kinds": [
+    "argument",
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah made the earth a stable habitat, placed rivers and mountains within it, and set a barrier between the two seas.",
+      "claim_bn": "আল্লাহ যমীনকে বাসযোগ্য করেছেন, তাতে নদী ও পর্বতমালা স্থাপন করেছেন এবং দুই সাগরের মাঝে অন্তরায় সৃষ্টি করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

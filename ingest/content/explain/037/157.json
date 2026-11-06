@@ -1,0 +1,61 @@
+{
+  "id": "37:157",
+  "simple_en": "Allah challenges the disbelievers to bring forth any heavenly book that teaches their claims. If they are truthful, they should show a single divine verse supporting their ideas. Their inability to bring any scripture proves that their faith is false.",
+  "simple_bn": "আল্লাহ তাদের প্রতি চ্যালেঞ্জ ছুড়ে দিয়ে বলছেন, তারা যদি সত্যবাদী হয় তবে তাদের কিতাব নিয়ে আসুক। আসমানী কোনো কিতাবে তাদের এই শিরকি কথার প্রমাণ নেই। কোনো ঐশী কিতাব দেখাতে না পারা তাদের মিথ্যার সবচেয়ে বড় প্রমাণ।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "your scripture",
+      "meaning_bn": "তোমাদের কিতাব",
+      "why_en": "Challenges them to present any revealed text confirming their words."
+    },
+    {
+      "pos": 5,
+      "root": "صدق",
+      "lemma": "صادِق",
+      "meaning_en": "truthful",
+      "meaning_bn": "সত্যবাদী",
+      "why_en": "Challenges their honesty by showing they cannot back up their assertions."
+    }
+  ],
+  "lesson_en": "Truth has proof from scripture while lies have none.",
+  "lesson_bn": "সত্যের পক্ষে সর্বদা ঐশী কিতাবের প্রমাণ থাকে, কিন্তু মিথ্যার কোনো ভিত্তি থাকে না।",
+  "real_life_en": "Turn to authentic books when you study your faith. If an idea has no proof in divine words, you should leave it.",
+  "real_life_bn": "দ্বীনি যে কোনো বিষয়ে বিতর্ক তৈরি হলে মূল কিতাবের দিকে ফিরে যান। যে কথার পক্ষে কিতাবের কোনো ভিত্তি নেই, তা বর্জন করুন।",
+  "themes": [
+    "scripture",
+    "divine revelation",
+    "challenge",
+    "truthfulness"
+  ],
+  "kinds": [
+    "argument",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah challenges them to produce a revealed scripture if their claims are true.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

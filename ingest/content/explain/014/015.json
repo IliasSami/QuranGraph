@@ -1,0 +1,77 @@
+{
+  "id": "14:15",
+  "simple_en": "The messengers asked Allah for help and victory. Every stubborn tyrant ended up broken and ruined in the end. Pride blinds a person and leads to total loss.",
+  "simple_bn": "রাসূলগণ আল্লাহর কাছে বিজয় প্রার্থনা করলেন, আর প্রত্যেক উদ্ধত স্বৈরাচারী শোচনীয়ভাবে ব্যর্থ ও ধ্বংস হলো। দম্ভ মানুষকে বাস্তবতার ব্যাপারে অন্ধ করে দেয় এবং ধ্বংসের দিকে ঠেলে দেয়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "فتح",
+      "lemma": "اسْتَفْتَحَ",
+      "meaning_en": "and they sought victory",
+      "meaning_bn": "এবং তারা বিজয় প্রার্থনা করল",
+      "why_en": "Praying for divine decision and triumph."
+    },
+    {
+      "pos": 2,
+      "root": "خيب",
+      "lemma": "خابَ",
+      "meaning_en": "and disappointed",
+      "meaning_bn": "এবং ব্যর্থ হলো",
+      "why_en": "Utter failure of worldly tyrants."
+    },
+    {
+      "pos": 4,
+      "root": "جبر",
+      "lemma": "جَبّار",
+      "meaning_en": "tyrant",
+      "meaning_bn": "উদ্ধত স্বৈরাচারী",
+      "why_en": "Arrogant, oppressive ruler."
+    },
+    {
+      "pos": 5,
+      "root": "عند",
+      "lemma": "عَنِيد",
+      "meaning_en": "obstinate",
+      "meaning_bn": "হঠকারী",
+      "why_en": "Stubbornly resisting truth."
+    }
+  ],
+  "lesson_en": "Turn to Allah for help when facing oppression. Arrogant power always crumbles in the end.",
+  "lesson_bn": "অন্যায়ের শিকার হলে আল্লাহর সাহায্য প্রার্থনা করুন। অহংকারীদের দাপট অবশেষে ভেঙে পড়তে বাধ্য।",
+  "real_life_en": "A greedy manager mistreats workers and laughs at their protests. The workers pray together and file an honest complaint. Soon justice prevails, and the abusive manager is removed.",
+  "real_life_bn": "এক নিষ্ঠুর কর্মকর্তা কর্মচারীদের ওপর অবিচার করে উপহাস করে। কর্মচারীরা আল্লাহর কাছে সাহায্য চায় এবং ঊর্ধ্বতন কর্তৃপক্ষের কাছে অভিযোগ করে। তদন্তে সত্য প্রকাশ পায় এবং কর্মকর্তা বরখাস্ত হয়।",
+  "context_en": "Messengers seeking divine victory over oppressors and the downfall of obstinate tyrants.",
+  "context_bn": "রাসূলদের বিজয় প্রার্থনা এবং দাম্ভিক স্বৈরাচারীদের শোচনীয় ব্যর্থতা।",
+  "themes": [
+    "justice",
+    "dua",
+    "warning"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "promise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The messengers sought victory from Allah, resulting in the ruin of every stubborn oppressor.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

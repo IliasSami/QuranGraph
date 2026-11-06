@@ -1,0 +1,60 @@
+{
+  "id": "15:90",
+  "simple_en": "We sent down warnings to past groups who split their holy books. They took only what they liked. Allah holds people accountable for breaking His words.",
+  "simple_bn": "যেভাবে আমরা পূর্ববর্তী বিভক্তকারীদের ওপরও ঐশী কিতাব অবতীর্ণ করেছিলাম। যারা আল্লাহর কিতাবকে নিজেদের মনমতো টুকরো টুকরো করেছিল, তাদের সেই কর্মের জন্য হিসাবের মুখোমুখি হতে হয়েছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نزل",
+      "lemma": "أَنزَلَ",
+      "meaning_en": "We sent down",
+      "meaning_bn": "আমরা নাযিল করেছিলাম",
+      "why_en": "Sending divine revelation."
+    },
+    {
+      "pos": 4,
+      "root": "قسم",
+      "lemma": "مُقْتَسِم",
+      "meaning_en": "the dividers",
+      "meaning_bn": "বিভক্তকারীদের",
+      "why_en": "Those who tore revelation into parts or took oaths against it."
+    }
+  ],
+  "lesson_en": "Accept the word of God as a whole. Do not accept parts you like and discard parts that challenge your desires.",
+  "lesson_bn": "আল্লাহর কিতাবকে সামগ্রিকভাবে গ্রহণ করুন। নিজের পছন্দমতো কিছু অংশ মানা আর বাকি অংশ বাদ দেওয়া থেকে বিরত থাকুন।",
+  "real_life_en": "A worker follows only easy safety rules and ignores hard ones. A machine breaks and hurts his hand. It is wise to obey all rules fully.",
+  "real_life_bn": "এক কর্মী কাজের সব নিয়ম না মেনে কেবল সহজ নিয়মগুলো মানে। তার এই অবহেলার কারণে কারখানায় দুর্ঘটনা ঘটে। নীতি সবসময় পুরোপুরি মেনে চলা উচিত।",
+  "context_en": "Comparing the disbelievers of Quraysh to earlier people of scripture who divided their revelation.",
+  "context_bn": "কুরআনের সাথে কুরাইশদের আচরণকে পূর্ববর্তী কিতাবধারীদের বিভাজনমূলক আচরণের সাথে তুলনা।",
+  "themes": [
+    "scripture",
+    "consistency",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Punishment is sent upon those who divide the scripture just as upon past dividers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

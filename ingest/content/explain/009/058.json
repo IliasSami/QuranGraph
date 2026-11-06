@@ -1,0 +1,72 @@
+{
+  "id": "9:58",
+  "simple_en": "Among them are some who criticize you regarding the distribution of charity. If they are given a share from it, they are pleased. But if they are given nothing, they become furious.",
+  "simple_bn": "তাদের মধ্যে এমন লোকও আছে যারা সদকা বণ্টনে আপনাকে দোষারোপ করে। এর থেকে তাদের কিছু দেওয়া হলে তারা খুশি হয়, আর না দেওয়া হলে তারা রেগে ক্ষিপ্ত হয়ে ওঠে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "لمز",
+      "lemma": "يَلْمِزُ",
+      "meaning_en": "criticizes / slanders",
+      "meaning_bn": "দোষারোপ করে / কটাক্ষ করে",
+      "why_en": "Attacking fair leaders out of personal entitlement."
+    },
+    {
+      "pos": 5,
+      "root": "صدق",
+      "lemma": "صَدَقَة",
+      "meaning_en": "charity / alms",
+      "meaning_bn": "সদকা / দান",
+      "why_en": "Public funds meant exclusively for the vulnerable."
+    },
+    {
+      "pos": 16,
+      "root": "سخط",
+      "lemma": "سَخِطَ",
+      "meaning_en": "become angry / resentful",
+      "meaning_bn": "ক্ষুব্ধ হয় / রেগে যায়",
+      "why_en": "Bitter fury stemming from denied greed."
+    }
+  ],
+  "lesson_en": "Greedy people judge fairness only by what goes into their own pockets.",
+  "lesson_bn": "স্বার্থপর লোকেরা নিজের পকেট ভরলেই খুশি হয়, আর ভাগ না পেলেই অন্যের নীতি নিয়ে প্রশ্ন তোলে।",
+  "real_life_en": "Do not let selfish critics upset fair plans. Stick to fair rules when giving out funds or prizes.",
+  "real_life_bn": "ত্রাণ বা অনুদান বণ্টনের সময় নিজের নীতিতে অটল থাকুন; লোভী ব্যক্তিরা ভাগ না পেয়ে সমালোচনা করলেও ন্যায়ের পথ ছাড়বেন না।",
+  "themes": [
+    "greed",
+    "distribution of alms",
+    "slander"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites unfairly criticized the Prophet's distribution of charity, motivated purely by personal greed rather than justice.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

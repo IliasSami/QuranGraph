@@ -1,0 +1,73 @@
+{
+  "id": "35:25",
+  "simple_en": "If they deny you, O Prophet, then those before them also denied their messengers. Their messengers came to them with clear miracles, written scriptures, and the enlightening Book. Yet those nations stubbornly turned away and refused to believe.",
+  "simple_bn": "তারা যদি আপনাকে অস্বীকার করে, তবে তাদের পূর্ববর্তীরাও তাদের রাসূলদের অস্বীকার করেছিল। তাদের কাছে রাসূলগণ সুস্পষ্ট প্রমাণ ও আলোকময় কিতাব নিয়ে এসেছিলেন। কিন্তু তারা সত্য প্রত্যাখ্যান করেছিল।",
+  "key_words": [
+    {
+      "pos": 10,
+      "root": "بين",
+      "lemma": "بَيِّنَة",
+      "meaning_en": "clear signs / proofs",
+      "meaning_bn": "সুস্পষ্ট প্রমাণ",
+      "why_en": "Evident miracles proving that messengers spoke the divine truth."
+    },
+    {
+      "pos": 11,
+      "root": "زبر",
+      "lemma": "زُبُر",
+      "meaning_en": "scriptures",
+      "meaning_bn": "আসমানী সহিফা",
+      "why_en": "Sacred scrolls and recorded revelations sent down to previous prophets."
+    },
+    {
+      "pos": 13,
+      "root": "نور",
+      "lemma": "مُنِير",
+      "meaning_en": "enlightening",
+      "meaning_bn": "আলোকোজ্জ্বল",
+      "why_en": "Describes scripture that illuminates minds with moral and spiritual guidance."
+    }
+  ],
+  "lesson_en": "Past messengers brought clear proofs and bright books, yet many people still denied them.",
+  "lesson_bn": "পূর্ববর্তী রাসূলগণ স্পষ্ট প্রমাণ ও আলোকময় কিতাব নিয়ে এলেও অনেকে সত্যকে অস্বীকার করেছিল।",
+  "real_life_en": "When standing up for honesty or justice feels unpopular, remember the prophets. They faced opposition despite bringing clear truth, yet they never gave up their mission.",
+  "real_life_bn": "ন্যায়ের পক্ষে কথা বলতে গিয়ে মানুষ যদি আপনাকে ভুল বোঝে, তবে নবীদের কথা স্মরণ করুন। তাঁরা চরম বিরোধিতার মাঝেও সত্য প্রচার অব্যাহত রেখেছিলেন।",
+  "themes": [
+    "prophethood",
+    "past nations",
+    "patience",
+    "revelation"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Past nations denied their messengers who came with clear proofs, scriptures, and an enlightening Book.",
+      "claim_bn": "পূর্ববর্তী জাতিগুলোও তাদের কাছে আসা স্পষ্ট নিদর্শন ও আলোকময় কিতাবসহ রাসূলদের অস্বীকার করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

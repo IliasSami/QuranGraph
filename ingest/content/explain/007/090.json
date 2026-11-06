@@ -1,0 +1,83 @@
+{
+  "id": "7:90",
+  "simple_en": "The disbelieving chieftains tried to scare the public. They told their people that following Shu'ayb would ruin them. They claimed that giving fair measures and stopping robbery would destroy their wealth. They warned that obedience to God would cause financial bankruptcy. They failed to realize that true loss belongs to those who reject the truth.",
+  "simple_bn": "মাদইয়ানের কাফির সর্দাররা সাধারণ মানুষকে বিভ্রান্ত করতে লাগল। তারা ভীতি প্রদর্শন করে বলল যে, তোমরা যদি শুআইবকে অনুসরণ করো, তবে তোমরা পুরোপুরি ক্ষতিগ্রস্ত হবে। তারা মনে করত যে মাপে ঠিক দেয়া এবং রাহাজানি বন্ধ করলে তাদের ধনসম্পদ কমে যাবে। তারা বুঝতে পারেনি যে আল্লাহর অবাধ্যতাই সবচেয়ে বড় ধ্বংস ডেকে আনে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "disbelieved",
+      "meaning_bn": "কুফরি করল",
+      "why_en": "Identifies the corrupt ruling class that rejected divine guidance."
+    },
+    {
+      "pos": 8,
+      "root": "تبع",
+      "lemma": "اتَّبَعَ",
+      "meaning_en": "you follow",
+      "meaning_bn": "তোমরা অনুসরণ করো",
+      "why_en": "Refers to obeying and adhering to the prophet's teachings."
+    },
+    {
+      "pos": 12,
+      "root": "خسر",
+      "lemma": "خاسِر",
+      "meaning_en": "surely losers",
+      "meaning_bn": "অবশ্যই ক্ষতিগ্রস্ত",
+      "why_en": "The false prediction of the chieftains, which in fact turned back upon themselves."
+    }
+  ],
+  "lesson_en": "Do not let bad leaders mislead you. The real loss is leaving the path of Allah.",
+  "lesson_bn": "পাপের নেতারা সৎপথ গ্রহণ করাকে ক্ষতি মনে করে। অথচ আল্লাহর আনুগত্যেই প্রকৃত সাফল্য আর কুফরিতেই চিরস্থায়ী ক্ষতি নিহিত।",
+  "real_life_en": "Unbelieving friends or dishonest colleagues might warn that honesty will hurt your career. Do not believe them. A short-term worldly gain through cheating brings long-term disgrace, while honest work brings lasting divine blessings.",
+  "real_life_bn": "অসৎ সঙ্গীরা আপনাকে বলতে পারে যে নীতিবান হলে ব্যবসায় উন্নতি করা যায় না। তাদের মিথ্যা প্ররোচনায় কান দেবেন না। দুর্নীতির লাভ ক্ষণস্থায়ী ও ধ্বংসাত্মক, কিন্তু হালাল উপার্জনে আল্লাহ বরকত দান করেন।",
+  "context_en": "The disbelieving elite attempt to manipulate the public by portraying moral reform and honest trade as a recipe for poverty.",
+  "context_bn": "কাফির নেতাদের অপপ্রচার: শুআইবের দাওয়াত কবুল করলে এবং ব্যবসায় সততা আনলে পার্থিব ক্ষতি হবে বলে জনগণকে ভয় দেখানো।",
+  "themes": [
+    "Shu'ayb",
+    "disbelief",
+    "deception",
+    "worldly gain",
+    "false promises"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [
+      "people of Madyan"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelieving leaders of Madyan warned their tribe that adhering to Shu'ayb would result in severe loss.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "They feared that adopting fair commerce and abandoning unlawful gains would cause financial ruin.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

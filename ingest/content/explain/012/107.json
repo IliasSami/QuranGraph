@@ -1,0 +1,70 @@
+{
+  "id": "12:107",
+  "simple_en": "Do those who reject the truth feel safe from sudden punishment? Allah can send an overwhelming penalty at any moment. The final Hour could also strike suddenly when they least expect it.",
+  "simple_bn": "সত্য অস্বীকারকারীরা কি আল্লাহর আকস্মিক শাস্তি থেকে নিজেদের নিরাপদ মনে করে? আল্লাহর সর্বগ্রাসী শাস্তি যেকোনো মুহূর্তে নেমে আসতে পারে। এছাড়া কিয়ামত হঠাৎ উপস্থিত হতে পারে যখন তারা কোনো আশঙ্কাই করবে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أمن",
+      "lemma": "أَمِنَ",
+      "meaning_en": "do they feel secure",
+      "meaning_bn": "তারা কি নিরাপদ মনে করে",
+      "why_en": "Rhetorical question challenging false complacency against divine justice."
+    },
+    {
+      "pos": 4,
+      "root": "غشو",
+      "lemma": "غاشِيَة",
+      "meaning_en": "overwhelming punishment",
+      "meaning_bn": "সর্বগ্রাসী শাস্তি",
+      "why_en": "A severe penalty that covers and engulfs wrongdoers completely."
+    },
+    {
+      "pos": 11,
+      "root": "بغت",
+      "lemma": "بَغْتَة",
+      "meaning_en": "suddenly",
+      "meaning_bn": "হঠাৎ",
+      "why_en": "Arrival without prior warning when people are completely unprepared."
+    }
+  ],
+  "lesson_en": "Do not delay repentance, for life can end and judgment arrive without warning.",
+  "lesson_bn": "তওবা করতে দেরি করা উচিত নয়, কারণ কোনো সংকেত ছাড়াই জীবনাবসান ঘটতে পারে ও বিচার উপস্থিত হতে পারে।",
+  "real_life_en": "A driver speeds through red lights and thinks nothing will go wrong. A near crash shocks him. He slows down and starts to obey safety rules.",
+  "real_life_bn": "এক চালক বেপরোয়া গতিতে গাড়ি চালিয়ে ভাবে তার কোনো বিপদ হবে না। অল্পের জন্য একটি বড় দুর্ঘটনা থেকে বেঁচে গিয়ে সে জীবনের মূল্য বোঝে এবং সাবধানী হয়ে ওঠে।",
+  "context_en": "A sharp warning to those who remain heedless of divine retribution and the Final Hour.",
+  "context_bn": "আল্লাহর শাস্তি ও কিয়ামত সম্পর্কে গাফেল লোকদের প্রতি এক সতর্কবার্তা।",
+  "themes": [
+    "divine punishment",
+    "the Day of Judgment",
+    "accountability"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "the Hour"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Heedless sinners are warned that Allah's punishment or the Final Hour can arrive suddenly.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

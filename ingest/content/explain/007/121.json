@@ -1,0 +1,79 @@
+{
+  "id": "7:121",
+  "simple_en": "The magicians saw the truth clearly. They prostrated and declared their faith in the Lord of all creation. They abandoned Pharaoh's false claims and accepted the one true God.",
+  "simple_bn": "জাদুকররা সত্যের সুস্পষ্ট প্রমাণ প্রত্যক্ষ করল। তারা সাথে সাথে সিজদায় লুটিয়ে পড়ে ঘোষণা দিল যে, তারা সমগ্র সৃষ্টির একমাত্র পালনকর্তার প্রতি ঈমান আনল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "we believed",
+      "meaning_bn": "আমরা ঈমান আনলাম",
+      "why_en": "Signals their immediate conversion upon witnessing the divine sign."
+    },
+    {
+      "pos": 3,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "in the Lord",
+      "meaning_bn": "রবের প্রতি",
+      "why_en": "Refers to the Creator and Sustainer whom they now openly accept."
+    },
+    {
+      "pos": 4,
+      "root": "علم",
+      "lemma": "عالَم",
+      "meaning_en": "of the worlds",
+      "meaning_bn": "সৃষ্টিকুলের",
+      "why_en": "Encompasses all creation, denying Pharaoh any divine status."
+    }
+  ],
+  "lesson_en": "Humble people accept clear truth without delay.",
+  "lesson_bn": "সত্য যখন স্পষ্ট হয়ে যায়, তখন তা নিঃসংকোচে মেনে নেওয়াই ঈমানের পরিচয়।",
+  "real_life_en": "Never let pride hold you back from doing what is right. When you realize the truth, accept it right away. True strength lies in following facts, not stubborn pride.",
+  "real_life_bn": "সত্য জানার পর কখনো অহংকার করে তা অস্বীকার করবেন না। নিজের ভুল বুঝতে পারলে বিনয়ের সাথে সংশোধন করে নিন।",
+  "context_en": "Following the collapse of their magic before Moses' staff, the magicians boldly submit to Allah in front of the entire assembly.",
+  "context_bn": "মূসার অলৌকিক লাঠির সামনে নিজেদের জাদু ব্যর্থ হওয়ার পর জাদুকররা সমগ্র জনতার সামনে আল্লাহর আনুগত্য ঘোষণা করে।",
+  "themes": [
+    "faith",
+    "submission to Allah",
+    "triumph of truth",
+    "humility"
+  ],
+  "kinds": [
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "magicians of Pharaoh"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [
+      "magicians prostrating in faith"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The magicians recognized the miracle was beyond human trickery and immediately accepted the Lord of the worlds.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

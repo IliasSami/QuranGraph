@@ -1,0 +1,66 @@
+{
+  "id": "28:11",
+  "simple_en": "The mother told the sister of Moses to follow the floating basket. The girl watched him from a safe distance. Pharaoh's people did not notice her or know who she was.",
+  "simple_bn": "মুসার মা তার বোনকে বলল, তুমি তার পেছনে পেছনে যাও। সে দূর থেকে লক্ষ্য রাখল, অথচ ফেরাউনের লোকেরা তা টেরই পায়নি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "قُصِّيهِ",
+      "root": "قصص",
+      "lemma": "قَصَّ",
+      "meaning_en": "Follow him",
+      "meaning_bn": "তার পেছনে যাও",
+      "why_en": "Instruction to track the baby's path."
+    },
+    {
+      "pos": 6,
+      "arabic": "عَن",
+      "root": null,
+      "lemma": "عَن",
+      "meaning_en": "from a distance",
+      "meaning_bn": "দূর থেকে",
+      "why_en": "Watching discreetly without arousing suspicion."
+    }
+  ],
+  "lesson_en": "Caring for family requires wisdom and caution. Thoughtful action helps protect those we love.",
+  "lesson_bn": "পরিবারের বিপদে বুদ্ধিমত্তা ও সতর্কতার সাথে দায়িত্ব পালন করা অত্যন্ত গুরুত্বপূর্ণ।",
+  "real_life_en": "Look out for your siblings and family members. Use wisdom and tact when helping them in difficult moments.",
+  "real_life_bn": "পরিবারের সদস্যদের সুরক্ষায় সজাগ দৃষ্টি রাখুন। কঠিন পরিস্থিতিতে প্রজ্ঞা ও বিচক্ষণতার সাথে সাহায্য করুন।",
+  "themes": [
+    "musa",
+    "family",
+    "wisdom"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Sister of Moses",
+      "Mother of Moses"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses' sister watched him from afar without arousing suspicion from the Egyptians.",
+      "claim_bn": "মুসার বোন দূর থেকে নজর রেখেছিল যাতে মিশরীয়রা তার পরিচয় বুঝতে না পারে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

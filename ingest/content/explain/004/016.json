@@ -1,0 +1,85 @@
+{
+ "id": "4:16",
+ "simple_en": "If two persons among you commit this wrong act, correct and discipline them. But if they turn back and mend their ways, leave them alone. Allah is ever Ready to accept repentance, Most Merciful to those who return to Him.",
+ "simple_bn": "তোমাদের মধ্য থেকে যে দুজন এই অশ্লীল কাজে লিপ্ত হয়, তোমরা তাদের তিরস্কার ও শাস্তি দাও। কিন্তু এরপর তারা যদি তওবা করে এবং নিজেদের সংশোধন করে নেয়, তবে তাদের থেকে বিরত থাকো। নিশ্চয়ই আল্লাহ তওবা কবুলকারী ও পরম দয়ালু।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "أذي",
+   "lemma": "أُوذِيَ",
+   "meaning_en": "reprimand them (punish them)",
+   "meaning_bn": "তাদের তিরস্কার ও শাস্তি দাও",
+   "why_en": "Disciplining the offenders with verbal rebuke and public censure in the initial phase of legislation."
+  },
+  {
+   "pos": 7,
+   "root": "صلح",
+   "lemma": "أَصْلَحَ",
+   "meaning_en": "they make amends (reform)",
+   "meaning_bn": "তারা নিজেদের সংশোধন করে",
+   "why_en": "Genuine repentance must be accompanied by practical moral correction in conduct."
+  },
+  {
+   "pos": 6,
+   "root": "توب",
+   "lemma": "تابَ",
+   "meaning_en": "the Accepter of Repentance",
+   "meaning_bn": "তওবা কবুলকারী",
+   "why_en": "Allah turns with forgiveness toward those who sincerely regret their past sins."
+  }
+ ],
+ "lesson_en": "When someone truly repents and reforms, forgive them and stop reminding them of their past sins.",
+ "lesson_bn": "কেউ আন্তরিকভাবে তওবা করে নিজেকে সংশোধন করলে তার অতীত ভুল নিয়ে তাকে আর খোঁচা দেবেন না।",
+ "real_life_en": "If a friend makes a serious mistake and truly repents, do not hold the past against them. Welcome them back with care and help them stay on the right track.",
+ "real_life_bn": "পরিবারের কেউ বা বন্ধু ভুল করে অনুতপ্ত হয়ে নিজেকে শুধরে নিলে তাকে আর অতীতের অপরাধ নিয়ে লজ্জা দেবেন না। তাকে ক্ষমার দৃষ্টিতে দেখুন এবং তার ভালো কাজে উৎসাহ দিন। আল্লাহ তওবাকারীদের ভালোবাসেন ও ক্ষমা করে দেন।",
+ "themes": [
+  "repentance",
+  "forgiveness",
+  "Allah's mercy",
+  "ethics",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "command",
+  "ethics",
+  "law",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "At-Tawwab",
+   "Ar-Rahim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The two who committed this offense were initially disciplined with rebuke and reprimand.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "If they repent and reform their behavior, people are commanded to leave them alone, for Allah is the Accepter of repentance and Most Merciful.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

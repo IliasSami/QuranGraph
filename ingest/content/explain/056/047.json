@@ -1,0 +1,69 @@
+{
+  "id": "56:47",
+  "simple_en": "They used to mock the promise of resurrection. They asked, 'When we die and our bodies become dust and rotten bones, will we really be brought back to life?' They thought bringing dead bodies back was impossible.",
+  "simple_bn": "তারা পরকালের পুনরুত্থানকে উপহাস করে বলত, 'আমরা যখন মরে গিয়ে মাটিতে মিশে যাব এবং আমাদের হাড়গুলো পচে গলে যাবে, তখন কি আবার আমাদের জীবিত করা হবে?' তারা মৃতকে জীবিত করা অসম্ভব মনে করত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "موت",
+      "lemma": "ماتَ",
+      "meaning_en": "we have died",
+      "meaning_bn": "আমরা মারা গেছি",
+      "why_en": "States the physical reality of death that they thought was the absolute end."
+    },
+    {
+      "pos": 6,
+      "root": "ترب",
+      "lemma": "تُراب",
+      "meaning_en": "dust",
+      "meaning_bn": "মাটি",
+      "why_en": "Points to human bodies decaying into the soil of the earth."
+    },
+    {
+      "pos": 9,
+      "root": "بعث",
+      "lemma": "مَبْعُوث",
+      "meaning_en": "resurrected",
+      "meaning_bn": "পুনরুত্থিত",
+      "why_en": "Highlights the raising of the dead for final judgment which they denied."
+    }
+  ],
+  "lesson_en": "The Creator who made you from nothing can easily bring you back to life.",
+  "lesson_bn": "যিনি আপনাকে প্রথমবার সৃষ্টি করেছেন, তিনি সহজেই আপনাকে পুনরায় জীবিত করতে পারেন।",
+  "real_life_en": "A child looks at a pile of Lego bricks scattered on the rug. His big brother gathers the pieces and builds the house again in minutes. Rebuilding what already existed is even easier for Allah.",
+  "real_life_bn": "ভাঙা খেলনা দেখে এক শিশু মনে করে তা আর কখনো জোড়া লাগবে না। কিন্তু তার বড় ভাই তা সহজেই আবার আগের মতো তৈরি করে দেয়। যিনি মানুষকে প্রথমবার সৃষ্টি করেছেন, তাঁর জন্য পুনরুজ্জীবিত করা আরও সহজ।",
+  "themes": [
+    "resurrection",
+    "the Last Day",
+    "Allah's power"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelievers rejected the resurrection and mocked the idea of being raised after becoming dust and bones.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

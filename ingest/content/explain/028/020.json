@@ -1,0 +1,70 @@
+{
+  "id": "28:20",
+  "simple_en": "A concerned man came running from the far side of the city. He warned Moses that the city leaders were plotting to kill him. He urged Moses to escape at once, giving him sincere and friendly advice.",
+  "simple_bn": "শহরের দূর প্রান্ত থেকে এক ব্যক্তি ছুটে এসে বলল, হে মুসা, নেতৃবর্গ তোমাকে হত্যা করার জন্য পরামর্শ করছে। অতএব তুমি অবিলম্বে পালিয়ে যাও, আমি তোমার একজন শুভাকাঙ্ক্ষী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "رَجُلٌ",
+      "root": "رجل",
+      "lemma": "رَجُل",
+      "meaning_en": "a man",
+      "meaning_bn": "একজন ব্যক্তি",
+      "why_en": "The sincere advisor coming from the city's edge."
+    },
+    {
+      "pos": 8,
+      "arabic": "يَٰمُوسَىٰٓ",
+      "root": null,
+      "lemma": "مُوسَى",
+      "meaning_en": "are conspiring",
+      "meaning_bn": "পরামর্শ করছে",
+      "why_en": "The rulers plotting to execute Moses."
+    }
+  ],
+  "lesson_en": "True friends give honest warnings in times of danger. Sincere advice can save a person's life.",
+  "lesson_bn": "বিপদের সময় শুভাকাঙ্ক্ষী মানুষের আন্তরিক পরামর্শ অত্যন্ত মূল্যবান। সত্যের পথে একে অপরকে রক্ষা করা কর্তব্য।",
+  "real_life_en": "Listen carefully when well-wishers warn you of danger. Be willing to give honest guidance to help others stay safe.",
+  "real_life_bn": "কেউ বিপদের সতর্কবার্তা দিলে তা গুরুত্বের সাথে শুনুন। কোনো ভাই বা বোন বিপদে পড়লে নিঃস্বার্থভাবে তাকে সতর্ক করুন।",
+  "themes": [
+    "musa",
+    "sincere-advice",
+    "escape"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Believing man"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "A well-wisher hurried from the city's outskirts to warn Moses of the plot to kill him.",
+      "claim_bn": "শহরের এক দূরবর্তী স্থান থেকে এক শুভাকাঙ্ক্ষী ছুটে এসে মুসাকে হত্যার ষড়যন্ত্র সম্পর্কে সতর্ক করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

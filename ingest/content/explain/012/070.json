@@ -1,0 +1,106 @@
+{
+  "id": "12:70",
+  "simple_en": "After loading their bags with grain, Yusuf had the king's cup placed in Benjamin's pack. As the camels started to leave, a guard called out that the men were thieves.",
+  "simple_bn": "খাদ্যশস্য বোঝাই করার পর ইউসুফের নির্দেশে রাজার পানপাত্রটি বিন ইয়াকীনের থলির মধ্যে রেখে দেওয়া হলো। কাফেলা রওনা হতে না হতেই এক ঘোষক চিৎকার করে বলল, হে কাফেলার লোকেরা, তোমরা নিশ্চয়ই চোর।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جهز",
+      "lemma": "جَهَّزَ",
+      "meaning_en": "he furnished them",
+      "meaning_bn": "তিনি প্রস্তুত করে দিলেন",
+      "why_en": "Equipping the brothers with their full provisions."
+    },
+    {
+      "pos": 5,
+      "root": "سقي",
+      "lemma": "سِقايَة",
+      "meaning_en": "the drinking cup",
+      "meaning_bn": "পানপাত্র বা পরিমাপক পাত্র",
+      "why_en": "The valuable royal vessel used for measuring grain."
+    },
+    {
+      "pos": 7,
+      "root": "رحل",
+      "lemma": "رَحْل",
+      "meaning_en": "saddlebag",
+      "meaning_bn": "মালপত্র বা থলি",
+      "why_en": "The specific travel pack belonging to Benjamin."
+    },
+    {
+      "pos": 13,
+      "root": "عير",
+      "lemma": "عِير",
+      "meaning_en": "the caravan",
+      "meaning_bn": "কাফেলা",
+      "why_en": "The brothers departing with their loaded camels."
+    },
+    {
+      "pos": 15,
+      "root": "سرق",
+      "lemma": "سارِق",
+      "meaning_en": "thieves",
+      "meaning_bn": "চোর",
+      "why_en": "The shocking public accusation that halted the caravan."
+    }
+  ],
+  "lesson_en": "Unfolding events often hold wise plans that become clear in time.",
+  "lesson_bn": "ঘটনার আকস্মিকতায় বিভ্রান্ত না হয়ে ধৈর্য ধরা উচিত, কারণ এর ভেতরে থাকে এক গোপন প্রজ্ঞা।",
+  "real_life_en": "A passenger is stopped for extra security screening and misses their bus. Soon, they hear the bus broke down on the road, and they thank God for the delay that kept them safe.",
+  "real_life_bn": "নিরাপত্তা পরীক্ষার কারণে এক ব্যক্তির বাস মিস হয়। পরে জানা যায় সেই বাসটি দুর্ঘটনার শিকার হয়েছে। তিনি অনাকাঙ্ক্ষিত বিলম্বের পেছনের কল্যাণ বুঝতে পেরে আল্লাহর শোকর আদায় করেন।",
+  "context_en": "Yusuf arranged for the cup to be placed in Benjamin's pack to create a lawful pretext to keep him.",
+  "context_bn": "বিন ইয়ামীনকে নিজের কাছে রাখার বৈধ সুযোগ তৈরি করতে ইউসুফ পাত্রটি তার ব্যাগে রাখার ব্যবস্থা করলেন।",
+  "themes": [
+    "divine strategy",
+    "tests",
+    "hidden wisdom"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "Benjamin",
+      "brothers of Yusuf",
+      "royal crier"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "drinking cup",
+      "saddlebag",
+      "caravan"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf placed the royal drinking cup into Benjamin's saddlebag.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "A herald called out accusing the caravan of theft.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

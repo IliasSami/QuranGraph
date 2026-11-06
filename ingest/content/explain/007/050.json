@@ -1,0 +1,83 @@
+{
+  "id": "7:50",
+  "simple_en": "Suffering from burning thirst, the people of the Fire will call to the people of Paradise. They beg for a little water or some food that Allah gave them. The people of Paradise will reply with firm truth. They say that Allah has banned both food and water from those who rejected faith.",
+  "simple_bn": "জাহান্নামীরা তীব্র পিপাসা ও কষ্টে কাতর হয়ে জান্নাতবাসীদের ডেকে অনুনয় করবে, আমাদের ওপর সামান্য পানি ঢেলে দাও অথবা আল্লাহ তোমাদের যে খাবার দিয়েছেন তা থেকে কিছু দাও। জান্নাতবাসীরা উত্তরে জানাবে, নিশ্চয়ই আল্লাহ এ দুটি নিয়ামতই সত্য প্রত্যাখ্যানকারীদের জন্য সম্পূর্ণরূপে হারাম করে দিয়েছেন।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "فيض",
+      "lemma": "أَفاضَ",
+      "meaning_en": "pour / bestow",
+      "meaning_bn": "ঢেলে দাও / কিছু দাও",
+      "why_en": "Captures the desperate plea of the thirsty inhabitants of the Fire for relief."
+    },
+    {
+      "pos": 18,
+      "root": "حرم",
+      "lemma": "حَرَّمَ",
+      "meaning_en": "has forbidden both",
+      "meaning_bn": "এ দুটিকেই হারাম করেছেন",
+      "why_en": "Shows the absolute decree denying the provisions of Paradise to disbelievers."
+    },
+    {
+      "pos": 20,
+      "root": "كفر",
+      "lemma": "كافِر",
+      "meaning_en": "the disbelievers",
+      "meaning_bn": "অবিশ্বাসীদের",
+      "why_en": "Clarifies that total deprivation is the consequence of choosing disbelief."
+    }
+  ],
+  "lesson_en": "Do not waste life in sin. Allah's blessings in the next life belong only to believers.",
+  "lesson_bn": "পরকালে সত্য অস্বীকারকারীদের জন্য কোনো অনুগ্রহ থাকবে না। সময় থাকতে আল্লাহর নিয়ামতের শুকরিয়া ও আনুগত্য করুন।",
+  "real_life_en": "A thirsty person in summer heat knows how precious one cup of cold water is. Clean water is a daily gift today. Use health and energy to obey Allah before life ends.",
+  "real_life_bn": "তীব্র গরমে সামান্য বিশুদ্ধ পানির মূল্য কতখানি তা তৃষ্ণার্ত মানুষ উপলব্ধি করতে পারে। দুনিয়ার অফুরন্ত নিয়ামত পেয়ে অহংকার না করে আল্লাহর কৃতজ্ঞতা প্রকাশ করা কর্তব্য।",
+  "context_en": "Following the triumph of the believers, the scene shifts to the agony of the damned pleading across the divide for basic sustenance.",
+  "context_bn": "জান্নাতীদের আনন্দের পর এখানে জাহান্নামীদের অসহায় আর্তনাদ ও পানি প্রার্থনার করুণ দৃশ্য বর্ণনা করা হয়েছে।",
+  "themes": [
+    "the Hereafter",
+    "Hell",
+    "Paradise",
+    "punishment",
+    "justice"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Paradise",
+      "Hell"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people of Hell plead with the people of Paradise for water and food.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "The inhabitants of Paradise reply that Allah has forbidden its sustenance to the disbelievers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

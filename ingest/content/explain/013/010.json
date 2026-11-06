@@ -1,0 +1,76 @@
+{
+  "id": "13:10",
+  "simple_en": "To Allah, all things are equal. It is the same whether someone whispers in secret or speaks in public. It is the same whether they hide in dark night or walk freely in open day.",
+  "simple_bn": "আল্লাহর কাছে সব সমান। কেউ গোপনে কথা বলুক বা প্রকাশ্যে বলুক, কিংবা কেউ রাতের অন্ধকারে লুকিয়ে থাকুক বা দিনের আলোতে চলাফেরা করুক—কোনো কিছুই তাঁর কাছে গোপন নয়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "سرر",
+      "lemma": "أَسَرَّ",
+      "meaning_en": "conceals",
+      "meaning_bn": "গোপন রাখে",
+      "why_en": "Quiet internal speech or whispering kept away from people."
+    },
+    {
+      "pos": 5,
+      "root": "قول",
+      "lemma": "قَوْل",
+      "meaning_en": "speech",
+      "meaning_bn": "কথা",
+      "why_en": "Any utterance spoken by tongue or stored in heart."
+    },
+    {
+      "pos": 7,
+      "root": "جهر",
+      "lemma": "جَهَرَ",
+      "meaning_en": "speaks openly",
+      "meaning_bn": "প্রকাশ করে",
+      "why_en": "Outward public declaration in the sight of listeners."
+    },
+    {
+      "pos": 11,
+      "root": "خفي",
+      "lemma": "مُسْتَخْفٍ",
+      "meaning_en": "hidden",
+      "meaning_bn": "আত্মগোপনকারী",
+      "why_en": "Attempting concealment under the cover of nocturnal darkness."
+    }
+  ],
+  "lesson_en": "God hears every whisper. Walk in truth by day and night.",
+  "lesson_bn": "অন্ধকার বা নির্জনতা কোনো কিছুই আল্লাহর চোখ থেকে গোপন করতে পারে না, তাই সদা সৎ থাকুন।",
+  "real_life_en": "A student feels tempted to cheat on an online exam late at night with the camera off. They stop and choose honesty because they know Allah knows their screen and heart.",
+  "real_life_bn": "এক শিক্ষার্থী গভীর রাতে ক্যামেরা বন্ধ থাকায় পরীক্ষায় অসদুপায় অবলম্বনের কথা ভাবে। কিন্তু সে বুঝতে পারে শিক্ষক না দেখলেও আল্লাহ তাকে দেখছেন, ফলে সে সততার পথ বেছে নেয়।",
+  "context_en": "Complete equality of private secrets and public speech before Allah's knowledge.",
+  "context_bn": "আল্লাহর সর্বব্যাপী জ্ঞানের সামনে গোপন ও প্রকাশ্য সবকিছু সমান।",
+  "themes": [
+    "sincerity",
+    "omniscience",
+    "conscience"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah hears silent thoughts and loud speech, seeing those hidden in night or walking in day.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

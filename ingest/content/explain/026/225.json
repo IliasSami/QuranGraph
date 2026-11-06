@@ -1,0 +1,63 @@
+{
+  "id": "26:225",
+  "simple_en": "See how vain poets wander aimlessly in every valley of speech. They praise someone without limit today, and then they speak evil words against them tomorrow.",
+  "simple_bn": "আপনি কি দেখেন না যে তারা প্রতিটি উপত্যকায় উদ্দেশ্যহীনভাবে ঘুরে বেড়ায়? তারা আজ কাউকে অতিরঞ্জিত প্রশংসা করে আর কাল অকারণে গালমন্দ করে।",
+  "key_words": [
+    {
+      "pos": 6,
+      "arabic": "وَادٍ",
+      "root": "ودي",
+      "lemma": "واد",
+      "meaning_en": "valley",
+      "meaning_bn": "উপত্যকা বা বিষয়",
+      "why_en": "Metaphor for diverging paths of idle chatter and fantasy."
+    },
+    {
+      "pos": 7,
+      "arabic": "يَهِيمُونَ",
+      "root": "هيم",
+      "lemma": "يَهِيمُ",
+      "meaning_en": "they roam",
+      "meaning_bn": "তারা উদভ্রান্ত হয়ে ঘোরে",
+      "why_en": "Wandering aimlessly without a steady moral compass."
+    }
+  ],
+  "lesson_en": "Unprincipled speech shifts with every mood. True words are steady, honest, and grounded in virtue.",
+  "lesson_bn": "নীতিহীন বক্তব্য মেজাজের সাথে সাথে বদলায়। সত্যবাদী মানুষের কথা সর্বদা ন্যায়নিষ্ঠ ও স্থির থাকে।",
+  "real_life_en": "Be consistent in what you say. Do not flatter people falsely or slander them when you become upset.",
+  "real_life_bn": "নিজের কথায় অবিচল থাকুন। স্বার্থের কারণে কাউকে অতিরিক্ত স্তুতি করা বা ক্ষোভের বশে অপবাদ দেওয়া বর্জন করুন।",
+  "themes": [
+    "speech",
+    "consistency",
+    "ethics"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Unprincipled poets wander aimlessly in every valley of speech.",
+      "claim_bn": "আপনি কি দেখেন না যে তারা প্রতিটি উপত্যকায় উদ্দেশ্যহীনভাবে উদভ্রান্ত হয়ে ঘোরে?",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

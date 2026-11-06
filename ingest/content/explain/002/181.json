@@ -1,0 +1,95 @@
+{
+ "id": "2:181",
+ "simple_en": "When a person makes a fair will, those who hear it must carry it out. Changing it is a major sin. The sin falls only on the person who alters the terms. The one who died keeps their reward with Allah. Allah hears all that we say and knows every secret thought.",
+ "simple_bn": "যখন কোনো ব্যক্তি সঙ্গত অসিয়ত করে এবং দায়িত্বপ্রাপ্তরা তা শোনে, তখন তা বিশ্বস্ততার সাথে বাস্তবায়ন করা তাদের দায়িত্ব। এরপর যদি কেউ অসিয়ত জেনেও তাতে পরিবর্তন আনে, কিছু কম-বেশি করে বা গোপন করে, তবে তার সম্পূর্ণ পাপ পরিবর্তনকারীদের উপরই বর্তাবে। যিনি অসিয়ত করে মারা গেছেন তিনি আল্লাহর কাছে তাঁর নেক প্রতিদান পাবেন। নিশ্চয়ই আল্লাহ তাঁর বান্দাদের সব কথা শোনেন এবং তাঁদের অন্তরের প্রতিটি নিয়ত সম্পর্কে জানেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "بدل",
+   "lemma": "بَدَّلَ",
+   "meaning_en": "changes it",
+   "meaning_bn": "তা পরিবর্তন করে",
+   "why_en": "Altering a bequest violates a sacred trust and brings the burden of sin."
+  },
+  {
+   "pos": 6,
+   "root": "أثم",
+   "lemma": "إِثْم",
+   "meaning_en": "its sin",
+   "meaning_bn": "তার পাপ",
+   "why_en": "The guilt of alteration rests entirely on the one who changes the terms, not the testator."
+  },
+  {
+   "pos": 12,
+   "root": "سمع",
+   "lemma": "سَمِيع",
+   "meaning_en": "All-Hearing",
+   "meaning_bn": "সর্বশ্রোতা",
+   "why_en": "A reminder that Allah hears what the testator said and what the executors claim."
+  }
+ ],
+ "lesson_en": "Never change a trust. Allah hears what you say and knows what you do.",
+ "lesson_bn": "আমানত কিংবা কোনো মৃত ব্যক্তির শেষ ইচ্ছায় কখনোই রদবদল করবেন না, কারণ আল্লাহ আপনার প্রতিটি কথা শোনেন এবং কাজ জানেন।",
+ "real_life_en": "Suppose you help handle money left by a relative. Hand it out just as they asked. Do not change their words to help yourself or a friend. Allah sees what you do, even in secret.",
+ "real_life_bn": "কোনো আত্মীয়ের সম্পদ বণ্টনের দায়িত্ব পেলে তিনি যেভাবে ইসলামসম্মত নির্দেশ দিয়ে গেছেন ঠিক সেভাবেই তা বণ্টন করুন। কেউ দেখছে না ভেবে নিজের কিংবা পছন্দের কারও সুবিধার জন্য তাঁর ইচ্ছায় কোনো হেরফের করবেন না।",
+ "context_en": "This ayah follows the command to make a fair bequest, warning executors and witnesses never to alter the deceased person's instructions.",
+ "context_bn": "পূর্ববর্তী আয়াতে অসিয়ত করার নির্দেশের পর এই আয়াতে দায়িত্বপ্রাপ্তদের সাবধান করা হয়েছে, যেন তারা মৃত ব্যক্তির অসিয়তে কোনো পরিবর্তন না আনে।",
+ "themes": [
+  "justice",
+  "honesty",
+  "keeping promises",
+  "wealth",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "law",
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "As-Sami",
+   "Al-Aleem"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Altering or concealing a valid will after knowing its terms places the burden of sin entirely on those who change it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The testator who made the will in good faith receives their reward from Allah and bears no blame for later alterations.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah hears what people say when making their bequests and knows whether the executors act with fairness or dishonesty.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "qe-arabic-moyassar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

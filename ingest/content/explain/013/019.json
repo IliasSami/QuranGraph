@@ -1,0 +1,76 @@
+{
+  "id": "13:19",
+  "simple_en": "Can a person who knows the Quran is the truth be like someone who is blind to reality? A wise person sees the facts and takes heed. Only people of sound intellect take guidance to heart.",
+  "simple_bn": "আপনার রবের পক্ষ থেকে নাযিল হওয়া কিতাবকে যে সত্য বলে জানে সে কি অন্ধ ব্যক্তির সমান হতে পারে? কেবল বিবেকবান বুদ্ধিমান লোকেরাই উপদেশ গ্রহণ করে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "knows",
+      "meaning_bn": "জানে",
+      "why_en": "Heartfelt conviction based on clear understanding of truth."
+    },
+    {
+      "pos": 8,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "The divine nature of the message revealed to the Prophet."
+    },
+    {
+      "pos": 11,
+      "root": "عمي",
+      "lemma": "أَعْمَى",
+      "meaning_en": "blind",
+      "meaning_bn": "অন্ধ",
+      "why_en": "Spiritual blindness that refuses to perceive obvious guidance."
+    },
+    {
+      "pos": 15,
+      "root": "لبب",
+      "lemma": "أَلْباب",
+      "meaning_en": "people of understanding",
+      "meaning_bn": "বিবেকসম্পন্নরা",
+      "why_en": "Those with sound intellect who weigh evidence fairly."
+    }
+  ],
+  "lesson_en": "True sight is knowing the truth and acting on sound understanding.",
+  "lesson_bn": "প্রকৃত দৃষ্টিশক্তি হলো সত্যকে চেনা এবং প্রজ্ঞা অনুযায়ী আমল করা।",
+  "real_life_en": "A driver checks road signs and stays on track in the fog. A reckless driver ignores the warnings and crashes. Clear knowledge keeps a person safe from harm.",
+  "real_life_bn": "কুয়াশায় ঢাকা রাস্তায় এক চালক সতর্কভাবে সাইনবোর্ড দেখে গাড়ি চালায়। অন্য একজন তা উপেক্ষা করে দুর্ঘটনায় পড়ে। সঠিক নির্দেশনা মেনে চলাই বিপদ থেকে রক্ষা করে।",
+  "context_en": "Contrasting the enlightened believer who knows the truth with the spiritually blind denier.",
+  "context_bn": "সত্যের জ্ঞানে আলোকিত মুমিন এবং আত্মিক অন্ধের মধ্যকার আকাশ-পাতাল ব্যবধান।",
+  "themes": [
+    "knowledge",
+    "intellect",
+    "spiritual sight"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who recognize divine truth possess true vision, unlike those who are blind to guidance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

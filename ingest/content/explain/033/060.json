@@ -1,0 +1,82 @@
+{
+  "id": "33:60",
+  "simple_en": "God gives a stern warning to the hypocrites and rumor-mongers in Madinah. If they do not stop spreading lies and causing division among the believers, God will command the Prophet ﷺ to act against them. They will lose their place and be driven away from the city.",
+  "simple_bn": "মদীনার মুনাফিক এবং সমাজে বিভ্রান্তিকর গুজব ছড়ানো লোকদের আল্লাহ কঠোর হুঁশিয়ারি দিয়েছেন। তারা যদি মুসলমানদের মধ্যে বিশৃঙ্খলা সৃষ্টি করা বন্ধ না করে, তবে তাদের বিরুদ্ধে কঠোর ব্যবস্থা নেওয়া হবে এবং তারা বেশি দিন সেখানে বসবাস করতে পারবে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نهي",
+      "lemma": "انتَهَى",
+      "meaning_en": "they do not desist / stop",
+      "meaning_bn": "বিরত না হয়",
+      "why_en": "Condition for escaping divine wrath."
+    },
+    {
+      "pos": 4,
+      "root": "نفق",
+      "lemma": "مُنافِق",
+      "meaning_en": "the hypocrites",
+      "meaning_bn": "মুনাফিকগণ",
+      "why_en": "Those hiding hatred while pretending faith."
+    },
+    {
+      "pos": 9,
+      "root": "رجف",
+      "lemma": "مُرْجِف",
+      "meaning_en": "a disease",
+      "meaning_bn": "ব্যাধি",
+      "why_en": "Spiritual sickness caused by corrupt desires."
+    },
+    {
+      "pos": 9,
+      "root": "رجف",
+      "lemma": "مُرْجِف",
+      "meaning_en": "and those who spread false rumors",
+      "meaning_bn": "এবং যারা মিথ্যা গুজব রটায়",
+      "why_en": "People who cause social panic and division."
+    }
+  ],
+  "lesson_en": "Spreading false rumors to divide people is a dangerous crime that destroys peace.",
+  "lesson_bn": "সমাজে বিশৃঙ্খলা ও ভীতি ছড়ানোর উদ্দেশ্যে মিথ্যা গুজব রটানো এক মারাত্মক অপরাধ।",
+  "real_life_en": "Do not share news before checking if it is true. False news can hurt people and cause panic.",
+  "real_life_bn": "সামাজিক যোগাযোগ মাধ্যমে কোনো খবর দেখলেই যাচাই না করে প্রচার করবেন না। সমাজে আতঙ্ক ছড়ায় এমন কোনো মিথ্যা তথ্য ছড়ানো থেকে বিরত থাকুন।",
+  "themes": [
+    "hypocrisy",
+    "warning",
+    "peace"
+  ],
+  "kinds": [
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [
+      "madinah"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah warned the hypocrites and agitators in Madinah that if they did not cease spreading false rumors, the Prophet would be authorized to expel them.",
+      "claim_bn": "মুনাফিক ও মিথ্যা গুজব রটনাকারীরা বিরত না হলে তাদের বিরুদ্ধে কঠোর ব্যবস্থা নেওয়া এবং মদীনা থেকে তাদের বিতাড়িত করার সতর্কবার্তা দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

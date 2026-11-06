@@ -1,0 +1,78 @@
+{
+  "id": "12:93",
+  "simple_en": "Yusuf handed his shirt to his brothers. He told them to place it over their father's face so his sight would return. He also asked them to bring the entire family to Egypt without delay.",
+  "simple_bn": "ইউসুফ ভাইদের হাতে নিজের জামা তুলে দিলেন। তিনি বললেন, এটি পিতার চেহারার ওপর রাখবে, এতে তিনি দৃষ্টিশক্তি ফিরে পাবেন। একই সাথে তিনি পুরো পরিবারকে মিসরে নিয়ে আসার নির্দেশ দিলেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قمص",
+      "lemma": "قَمِيص",
+      "meaning_en": "my shirt",
+      "meaning_bn": "আমার জামা",
+      "why_en": "The physical object chosen by divine decree to restore Yaqub's eyesight."
+    },
+    {
+      "pos": 4,
+      "root": "لقي",
+      "lemma": "أَلْقَى",
+      "meaning_en": "cast it",
+      "meaning_bn": "নিক্ষেপ করো",
+      "why_en": "The action of putting the garment onto his father's face."
+    },
+    {
+      "pos": 9,
+      "root": "بصر",
+      "lemma": "بَصِير",
+      "meaning_en": "seeing",
+      "meaning_bn": "দৃষ্টিশক্তি সম্পন্ন",
+      "why_en": "The miraculous recovery of Yaqub's vision lost through weeping."
+    }
+  ],
+  "lesson_en": "Family reunion brings relief and joy after years of sorrow and patience.",
+  "lesson_bn": "দীর্ঘদিনের সবর ও বেদনার পর পরিবারের পুনর্মিলন অপার্থিব প্রশান্তি বয়ে আনে।",
+  "real_life_en": "A worker saves funds to bring his old parents to his home. He buys travel passes. He prepares a warm place so the whole family can live in peace.",
+  "real_life_bn": "প্রবাসে প্রতিষ্ঠিত এক সন্তান মা-বাবাকে নিজের কাছে নিয়ে আসার ব্যবস্থা করে। সে তাদের জন্য টিকিট পাঠায় ও সুন্দর আবাস প্রস্তুত করে পরিবারকে একত্রিত করে।",
+  "context_en": "Yusuf prepared for his father's healing and the family's migration to Egypt.",
+  "context_bn": "ইউসুফ পিতার দৃষ্টিশক্তি ফিরিয়ে আনা এবং পুরো পরিবারকে মিসরে নেওয়ার প্রস্তুতি নিলেন।",
+  "themes": [
+    "family reunion",
+    "healing",
+    "filial piety"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "Yaqub",
+      "brothers of Yusuf"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "shirt of Yusuf"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf instructed his brothers to cast his shirt over his father's face to restore his sight.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "16:69",
+  "simple_en": "Eat from all fruits and follow the paths of your Lord. From their bodies comes honey of varied hues with healing for people. A sign for thinkers.",
+  "simple_bn": "অতঃপর সকল ফল থেকে আহার করো এবং রবের সহজ পথ অনুসরণ করো। তাদের পেট থেকে বিভিন্ন রঙের পানীয় নির্গত হয় যাতে মানুষের নিরাময় রয়েছে। এতে চিন্তাশীলদের জন্য নিদর্শন আছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أكل",
+      "lemma": "أَكَلَ",
+      "meaning_en": "eat",
+      "meaning_bn": "আহার করো",
+      "why_en": "Bees gathering nectar from diverse blossoms."
+    },
+    {
+      "pos": 7,
+      "root": "سبل",
+      "lemma": "سَبِيل",
+      "meaning_en": "paths",
+      "meaning_bn": "পথসমূহ",
+      "why_en": "Flight paths guided by divine instinct."
+    }
+  ],
+  "lesson_en": "Honey is sweet food and medicine. Divine care cures physical pain through natural wonders.",
+  "lesson_bn": "মধু মানুষের জন্য পুষ্টিকর খাদ্য ও আরোগ্যদানকারী ওষুধ। এটি মানবজাতির প্রতি আল্লাহর অনুপম করুণার প্রমাণ।",
+  "real_life_en": "Use natural remedies like pure honey for health. Give praise to the Creator who placed cure in nature.",
+  "real_life_bn": "সুস্থতার জন্য মধুর মতো প্রাকৃতিক খাদ্য ব্যবহার করুন এবং প্রকৃতির মাঝে আরোগ্য দানকারী মহান আল্লাহকে স্মরণ করুন।",
+  "themes": [
+    "honey",
+    "healing",
+    "reflection"
+  ],
+  "kinds": [
+    "creation",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "honey",
+      "bees"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "From the bellies of bees emerges drink of varying colors containing healing for humanity.",
+      "claim_bn": "মৌমাছির পেট থেকে নানা রঙের পানীয় বের হয় যাতে রয়েছে মানুষের জন্য নিরাময়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

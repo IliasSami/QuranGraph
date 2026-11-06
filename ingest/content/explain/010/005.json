@@ -1,0 +1,78 @@
+{
+  "id": "10:5",
+  "simple_en": "It is He who made the sun a glowing radiance and the moon a soft light, setting its phases so you can count years and track time. Allah created all of this for a true purpose. He explains the signs in detail for people of knowledge.",
+  "simple_bn": "তিনিই সেই সত্তা যিনি সূর্যকে তেজস্বী আলো এবং চাঁদকে স্নিগ্ধ জ্যোতি বানিয়েছেন, এবং তার জন্য বিভিন্ন কক্ষপথ নির্ধারণ করেছেন যাতে তোমরা বছরের গণনা ও সময়ের হিসাব জানতে পারো। আল্লাহ অনর্থক এসব সৃষ্টি করেননি, বরং এক মহান সত্যের উদ্দেশ্যে সৃষ্টি করেছেন। তিনি জ্ঞানীদের জন্য এসব নিদর্শন বিশদভাবে ব্যাখ্যা করেন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "شمس",
+      "lemma": "شَمْس",
+      "meaning_en": "the sun",
+      "meaning_bn": "সূর্য",
+      "why_en": "Celestial body providing heat, energy, and radiant daylight."
+    },
+    {
+      "pos": 6,
+      "root": "قمر",
+      "lemma": "قَمَر",
+      "meaning_en": "the moon",
+      "meaning_bn": "চাঁদ",
+      "why_en": "Reflective light source marking monthly lunar calendar cycles."
+    },
+    {
+      "pos": 13,
+      "root": "حسب",
+      "lemma": "حِساب",
+      "meaning_en": "calculation / accounting of time",
+      "meaning_bn": "হিসাব-নিকাশ",
+      "why_en": "Mathematical regularity enabling human science and calendars."
+    }
+  ],
+  "lesson_en": "The harmony of the sun and moon points to a purposeful and caring Creator.",
+  "lesson_bn": "সূর্য ও চন্দ্রের সুশৃঙ্খল আবর্তন প্রমাণ করে যে এই মহাবিশ্ব এক পরম কুশলী স্রষ্টার পরিকল্পনায় চলছে।",
+  "real_life_en": "Look up at the night sky and reflect on the order of the cosmos. Science and astronomy reveal the beauty and wisdom of divine design.",
+  "real_life_bn": "মহাবিশ্বের সুশৃঙ্খল নিয়ম লক্ষ্য করুন; বিজ্ঞান ও জ্যোতির্বিজ্ঞানের প্রতিটি আবিষ্কার মহান আল্লাহর সৃষ্টির নিপুণতাকে স্পষ্ট করে।",
+  "themes": [
+    "sun and moon",
+    "phases of the moon",
+    "timekeeping",
+    "signs of creation"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "cosmos"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the sun",
+      "the moon",
+      "calendar"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The celestial mechanics of the sun and moon are precisely calibrated for human timekeeping and demonstrate purposeful divine creation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

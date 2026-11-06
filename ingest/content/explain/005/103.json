@@ -1,0 +1,84 @@
+{
+  "id": "5:103",
+  "simple_en": "Allah never set up pagan rules about dedicating cattle to idols. The Arabs gave special names to these animals. They called them Bahirah, Sa'ibah, Wasilah, and Ham. The disbelievers invented these lies against Allah. Most of them do not use their minds.",
+  "simple_bn": "মূর্তিপূজকদের কুসংস্কারমূলক প্রথা যেমন বহিরা, সায়েবা, অসীলা ও হাম হিসেবে পশু উৎসর্গ করার কোনো বিধান আল্লাহ দেননি। কাফিররা আল্লাহর ওপর এসব মনগড়া মিথ্যা আরোপ করত। তাদের অধিকাংশই কোনো সঠিক বিবেক-বুদ্ধি খাটায় না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "بحر",
+      "lemma": "بَحِيرَة",
+      "meaning_en": "Bahirah",
+      "meaning_bn": "বহিরা",
+      "why_en": "A pagan practice where an animal's ear was slit and dedicated to idols."
+    },
+    {
+      "pos": 15,
+      "root": "فري",
+      "lemma": "افْتَرَى",
+      "meaning_en": "they invent",
+      "meaning_bn": "তারা বানিয়ে বলে",
+      "why_en": "Highlights the sin of making false religious rules without divine authority."
+    },
+    {
+      "pos": 21,
+      "root": "عقل",
+      "lemma": "عَقَلُ",
+      "meaning_en": "they reason",
+      "meaning_bn": "তারা বিবেক খাটায়",
+      "why_en": "Points out that blind superstition comes from a lack of sound reason."
+    }
+  ],
+  "lesson_en": "True worship comes from Allah alone, not from man-made customs.",
+  "lesson_bn": "ধর্মীয় বিধান একমাত্র আল্লাহর ওহী থেকে আসে, মানুষের মনগড়া কুসংস্কার থেকে নয়।",
+  "real_life_en": "People sometimes create lucky charms or declare certain foods bad without any religious proof. Avoid these false habits. Base all religious beliefs on authentic knowledge.",
+  "real_life_bn": "সমাজে অনেকে নানা ভিত্তিহীন আচার বা কুসংস্কারকে ধর্মের অংশ বানিয়ে ফেলে। কোনো প্রথা মানার আগে তা আল্লাহর কিতাব ও সুন্নাহসম্মত কি না তা যাচাই করা জরুরি।",
+  "context_en": "Exposes superstitious religious additions invented by pagan society without divine proof.",
+  "context_bn": "প্রমাণ ছাড়া মনগড়া কুসংস্কারকে ধর্মে পরিণত করার তীব্র প্রতিবাদ জানানো হয়েছে।",
+  "themes": [
+    "shirk",
+    "reflection",
+    "knowledge"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "Bahirah",
+      "Sa'ibah",
+      "Wasilah",
+      "Ham"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah did not institute pagan animal dedications such as Bahirah, Sa'ibah, Wasilah, or Ham.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Polytheists fabricated these dietary prohibitions falsely against Allah without sound reasoning.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

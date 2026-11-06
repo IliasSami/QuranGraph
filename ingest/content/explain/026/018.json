@@ -1,0 +1,65 @@
+{
+  "id": "26:18",
+  "simple_en": "Pharaoh tried to dismiss Moses by reminding him of his past. He asked if they had not raised Moses in their palace as a baby and kept him in their home for many years of his life.",
+  "simple_bn": "ফিরআউন মূসাকে বলল, আমরা কি তোমাকে শৈশবে আমাদের রাজপ্রাসাদে লালন-পালন করিনি? আর তুমি তো তোমার জীবনের বহু বছর আমাদের মাঝেই কাটিয়েছ।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "نُرَبِّكَ",
+      "root": "ربو",
+      "lemma": "رَبَّيَ",
+      "meaning_en": "did We not raise you",
+      "meaning_bn": "আমরা কি তোমাকে লালন-পালন করিনি",
+      "why_en": "Pharaoh's claim of worldly favor to silence Moses."
+    },
+    {
+      "pos": 5,
+      "arabic": "وَلِيدًا",
+      "root": "ولد",
+      "lemma": "وَلِيد",
+      "meaning_en": "a child",
+      "meaning_bn": "শিশুকালে",
+      "why_en": "Moses's infancy and youth in Pharaoh's palace."
+    }
+  ],
+  "lesson_en": "Tyrants often use past worldly favors to silence the voice of moral truth.",
+  "lesson_bn": "অহংকারী ব্যক্তিরা সত্যের মোকাবিলা করতে না পেরে অতীতের পার্থিব অনুগ্রহের খোঁটা দিয়ে মানুষকে নত করতে চায়।",
+  "real_life_en": "Do not let social pressure or past favors stop you from standing for truth and speaking against wrong.",
+  "real_life_bn": "কাউকে অতীতে কোনো উপকার করে থাকলে তার খোঁটা দেবেন না। অনুগ্রহের খোঁটা ভালো কাজের সওয়াব নষ্ট করে।",
+  "themes": [
+    "ingratitude",
+    "pharaoh",
+    "prophets"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh attempted to dismiss Moses by reminding him of being raised in the royal palace.",
+      "claim_bn": "ফিরআউন মূসাকে রাজপ্রাসাদে তাঁর শৈশবের লালন-পালনের কথা স্মরণ করিয়ে দিয়ে খোঁটা দেওয়ার চেষ্টা করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

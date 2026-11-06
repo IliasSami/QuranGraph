@@ -1,0 +1,74 @@
+{
+  "id": "15:81",
+  "simple_en": "We gave them clear signs, including the miraculous she-camel, but they turned away in stubborn pride. Miracles do not convince people whose hearts refuse the truth.",
+  "simple_bn": "আমরা তাদের কাছে অলৌকিক উটনীর মতো স্পষ্ট নিদর্শন পাঠিয়েছিলাম, কিন্তু তারা অহংকারবশত তা থেকে মুখ ফিরিয়ে নিয়েছিল। যার অন্তরে সত্য মানার ইচ্ছা নেই, অলৌকিক প্রমাণও তার কোনো কাজে আসে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أتي",
+      "lemma": "آتَى",
+      "meaning_en": "We gave them",
+      "meaning_bn": "আমরা তাদের দিয়েছিলাম",
+      "why_en": "Granting divine signs."
+    },
+    {
+      "pos": 2,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "Our signs",
+      "meaning_bn": "আমাদের নিদর্শনসমূহ",
+      "why_en": "Clear miracles like the she-camel."
+    },
+    {
+      "pos": 5,
+      "root": "عرض",
+      "lemma": "مُعْرِض",
+      "meaning_en": "turning away",
+      "meaning_bn": "উপেক্ষা প্রদর্শনকারী",
+      "why_en": "Refusing to reflect on the signs."
+    }
+  ],
+  "lesson_en": "Open your heart to evidence when it appears. Stubborn denial only blinds the soul to goodness and truth.",
+  "lesson_bn": "প্রমাণ পাওয়ার সাথে সাথে সত্যকে সাদরে গ্রহণ করুন। একগুঁয়ে মনোভাব মানুষকে সত্য ও কল্যাণ থেকে দূরে রাখে।",
+  "real_life_en": "A driver sees a red warning light flashing on his car dashboard. Instead of stopping, he covers the light and drives on until the engine breaks. Ignoring clear signs brings avoidable damage.",
+  "real_life_bn": "গাড়ির ড্যাশবোর্ডে সতর্কবার্তা জ্বলে উঠতে দেখেও এক চালক তা গ্রাহ্য না করে গাড়ি চালাতে থাকে। একসময় ইঞ্জিন নষ্ট হয়ে যায়। স্পষ্ট সতর্কবার্তা অবহেলা করলে ক্ষতি অবধারিত হয়।",
+  "context_en": "Thamud's rejection of divine signs, especially the miraculous she-camel sent to test them.",
+  "context_bn": "সামূদ জাতিকে অলৌকিক উটনীসহ অন্যান্য স্পষ্ট নিদর্শন দেওয়া সত্ত্বেও তাদের তা প্রত্যাখ্যানের বিবরণ।",
+  "themes": [
+    "signs",
+    "stubbornness",
+    "thamud"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Salih"
+    ],
+    "nations": [
+      "Thamud"
+    ],
+    "places": [
+      "Al-Hijr"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah provided clear signs to Thamud, but they obstinately turned away from them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

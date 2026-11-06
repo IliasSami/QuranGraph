@@ -1,0 +1,75 @@
+{
+ "id": "73:15",
+ "simple_en": "Allah sent the Prophet Muhammad ﷺ to people as a witness over their deeds. He guides them to the truth and warns them of danger. In the past, Allah sent a noble messenger, Moses (peace be upon him), to Pharaoh. The people of Mecca are warned not to repeat Pharaoh's mistake.",
+ "simple_bn": "আল্লাহ মুহাম্মদ ﷺ-কে মানুষের কাছে তাঁদের কাজের সাক্ষী হিসেবে পাঠিয়েছেন। তিনি সত্যের পথ দেখান এবং অশুভ পরিণতি সম্পর্কে সতর্ক করেন। অতীতেও আল্লাহ ফিরআউনের কাছে মুসা (আলাইহিস সালাম)-কে রাসূল হিসেবে পাঠিয়েছিলেন। মক্কার লোকদের সতর্ক করা হয়েছে যেন তারা ফিরআউনের ভুল না করে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "a Messenger",
+   "meaning_bn": "একজন রাসূল",
+   "why_en": "Prophet Muhammad ﷺ was sent to convey Allah's message."
+  },
+  {
+   "pos": 5,
+   "root": "شهد",
+   "lemma": "شاهِد",
+   "meaning_en": "a witness",
+   "meaning_bn": "সাক্ষী",
+   "why_en": "The Messenger will testify concerning people's response to the message."
+  },
+  {
+   "pos": 10,
+   "root": null,
+   "lemma": "فِرْعَوْن",
+   "meaning_en": "Pharaoh",
+   "meaning_bn": "ফিরআউন",
+   "why_en": "The tyrannical ruler of Egypt who rejected Prophet Musa (peace be upon him)."
+  }
+ ],
+ "lesson_en": "Learn from past nations so you do not repeat their errors.",
+ "lesson_bn": "অতীত জাতিদের ইতিহাস থেকে শিক্ষা নেওয়া উচিত, যাতে তাদের করা ভুলের পুনরাবৃত্তি না ঘটে।",
+ "real_life_en": "When older people share their life lessons with you, listen closely. You do not need to make the same mistakes to learn. Seeing how others failed helps you choose the right path today.",
+ "real_life_bn": "অভিজ্ঞ বা গুরুজনরা যখন অতীত জীবনের ভুলত্রুটি ও শিক্ষা তুলে ধরেন, তখন মন দিয়ে শুনুন। নিজে বিপদে পড়ে শেখার চেয়ে অন্যের ভুল দেখে সাবধান হওয়াই বুদ্ধিমানের কাজ।",
+ "themes": [
+  "prophethood",
+  "Prophet Muhammad ﷺ",
+  "stories of the prophets",
+  "past nations"
+ ],
+ "kinds": [
+  "warning",
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad",
+   "musa",
+   "pharaoh"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah sent Prophet Muhammad ﷺ as a witness over people, just as He sent a messenger to Pharaoh in the past.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

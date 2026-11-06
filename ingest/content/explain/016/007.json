@@ -1,0 +1,61 @@
+{
+  "id": "16:7",
+  "simple_en": "These animals carry your heavy loads to distant lands. You could not reach those towns without deep pain. Truly, your Lord is full of pity and mercy.",
+  "simple_bn": "তারা তোমাদের ভারী বোঝা বহন করে দূরবর্তী জনপদে নিয়ে যায়, যেখানে পৌঁছানো মানুষের পক্ষে চরম কষ্টসাধ্য হতো। নিশ্চয় তোমাদের প্রতিপালক অত্যন্ত স্নেহশীল ও পরম দয়ালু।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ثقل",
+      "lemma": "ثَقَل",
+      "meaning_en": "your loads",
+      "meaning_bn": "তোমাদের বোঝা",
+      "why_en": "Heavy cargo transported across vast deserts."
+    },
+    {
+      "pos": 7,
+      "root": "بلغ",
+      "lemma": "بالِغ",
+      "meaning_en": "reaching it",
+      "meaning_bn": "পৌঁছাতে",
+      "why_en": "Reaching remote towns safely with goods."
+    }
+  ],
+  "lesson_en": "Working beasts ease our travel. They show the deep mercy of God.",
+  "lesson_bn": "ভারবাহী পশু দূরপাল্লার ভ্রমণ সহজ করে দেয়, যা মানবজাতির প্রতি আল্লাহর গভীর অনুগ্রহ ও দয়ার প্রমাণ।",
+  "real_life_en": "Treat pack animals and helpers with kindness. Ease the load of those who work hard for you.",
+  "real_life_bn": "কঠোর পরিশ্রমী প্রাণী ও মানুষের প্রতি সদয় আচরণ করুন এবং আল্লাহ প্রদত্ত সুযোগ-সুবিধার জন্য কৃতজ্ঞ হোন।",
+  "themes": [
+    "mercy",
+    "blessings",
+    "travel"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Animals carry heavy loads to distant lands that humans could scarcely reach alone.",
+      "claim_bn": "ভারবাহী পশু দূরবর্তী স্থানে বোঝা বহন করে নেয়, যেখানে মানুষ নিজে একা কষ্ট ছাড়া পৌঁছাতে পারত না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

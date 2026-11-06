@@ -1,0 +1,90 @@
+{
+ "id": "42:52",
+ "simple_en": "In this way, We revealed to you a spirit from Our command: this noble Quran. You did not know what the Book was, nor the details of faith. But We made it a light by which We guide whom We will of Our servants. And truly, you guide people to a straight path.",
+ "simple_bn": "আর এভাবেই আমরা আমাদের নির্দেশে আপনার প্রতি রূহ তথা এই পবিত্র কুরআন ওহী করেছি। আপনি তো জানতেন না কিতাব কী এবং ঈমানের বিস্তারিত বিষয় কী। কিন্তু আমরা একে এমন এক নূর বানিয়েছি যা দ্বারা আমাদের বান্দাদের মধ্যে যাকে ইচ্ছে পথ দেখাই। আর নিশ্চয় আপনি মানুষকে সরল পথের দিকে আহ্বান করেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "وحي",
+   "lemma": "أَوْحَى",
+   "meaning_en": "We revealed",
+   "meaning_bn": "আমরা ওহী করেছি",
+   "why_en": "Points to divine agency in bestowing the Quran upon Prophet Muhammad."
+  },
+  {
+   "pos": 4,
+   "root": "روح",
+   "lemma": "رُوح",
+   "meaning_en": "a spirit (the Quran)",
+   "meaning_bn": "রূহ (কুরআন)",
+   "why_en": "Compares revelation to a soul that breathes spiritual life into dead hearts."
+  },
+  {
+   "pos": 16,
+   "root": "نور",
+   "lemma": "نُور",
+   "meaning_en": "a light",
+   "meaning_bn": "নূর / জ্যোতি",
+   "why_en": "Describes the Quran as a radiant guide dispelling confusion and darkness."
+  },
+  {
+   "pos": 24,
+   "root": "هدي",
+   "lemma": "هَدَى",
+   "meaning_en": "you guide",
+   "meaning_bn": "আপনি পথ দেখান",
+   "why_en": "Affirms the Prophet's role in directing mankind to the true religion."
+  },
+  {
+   "pos": 27,
+   "root": "قوم",
+   "lemma": "مُسْتَقِيم",
+   "meaning_en": "straight",
+   "meaning_bn": "সরল / সঠিক",
+   "why_en": "Characterizes the Islamic way as balanced, true, and free of deviation."
+  }
+ ],
+ "lesson_en": "The Quran is a living spirit and a bright light that guides seekers to the truth.",
+ "lesson_bn": "পবিত্র কুরআন এমন এক রূহ ও জ্যোতি যা সত্যান্বেষী মানুষকে সরল সঠিক পথ দেখায়।",
+ "real_life_en": "When you feel lost or confused, turn to the Quran. Read its verses, learn its meaning, and let its divine light clear the darkness from your mind and heart.",
+ "real_life_bn": "জীবনে কোনো বিভ্রান্তি বা দ্বিধাদ্বন্দ্বে পড়লে কুরআনের দিকে ফিরে আসুন। মনোযোগ দিয়ে এর অর্থ বুঝুন এবং এর আলোর সাহায্যে মনের অন্ধকার দূর করুন।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "guidance",
+  "prophethood"
+ ],
+ "kinds": [
+  "belief",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah revealed the Quran as a spirit and a guiding light to the Prophet, who guides humanity to the straight path.",
+   "claim_bn": "আল্লাহ কুরআনকে রূহ ও পথপ্রদর্শক নূর হিসেবে নাযিল করেছেন এবং নবী মানুষকে সরল পথের দিকে পরিচালিত করেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

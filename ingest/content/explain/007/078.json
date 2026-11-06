@@ -1,0 +1,82 @@
+{
+  "id": "7:78",
+  "simple_en": "The sudden punishment seized the disbelievers of Thamud. A violent earthquake and deafening blast shook their entire valley. By morning, they lay dead inside their homes, fallen motionless upon their faces. None of their stone mountain dwellings could protect them from the command of God.",
+  "simple_bn": "অবশেষে আল্লাহর পক্ষ থেকে এক ভয়াবহ ভূমিকম্প ও বিকট আওয়াজ তাদের পাকড়াও করল। চোখের পলকে সকালের মধ্যে তারা নিজেদের ঘরবাড়িতে উপুড় হয়ে নিথর লাশের মতো পড়ে রইল। তাদের পাথরের খোদাই করা মজবুত অট্টালিকাও তাদের আল্লাহর আজাব থেকে বাঁচাতে পারল না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رجف",
+      "lemma": "رَجْفَة",
+      "meaning_en": "the earthquake or terrible tremor",
+      "meaning_bn": "ভয়াবহ ভূমিকম্প বা কম্পন",
+      "why_en": "Specifies the violent tremor that struck their land as divine punishment."
+    },
+    {
+      "pos": 5,
+      "root": "دور",
+      "lemma": "دار",
+      "meaning_en": "their homes or dwellings",
+      "meaning_bn": "তাদের ঘরবাড়ি বা ভূখণ্ড",
+      "why_en": "Points out that their solid mountain houses could not shelter them."
+    },
+    {
+      "pos": 6,
+      "root": "جثم",
+      "lemma": "جاثِم",
+      "meaning_en": "fallen lifeless on their knees or faces",
+      "meaning_bn": "উপুড় হয়ে পড়ে থাকা নিথর দেহ",
+      "why_en": "Depicts their complete destruction, lying dead and motionless on the ground."
+    }
+  ],
+  "lesson_en": "No fortress or mountain home can withstand the power of divine judgment.",
+  "lesson_bn": "পাহাড়ের মতো মজবুত দুর্গও আল্লাহর চূড়ান্ত আজাব প্রতিহত করতে পারে না।",
+  "real_life_en": "Strong walls and wealth cannot stop God's command. Human power is very small. True safety comes from living right and seeking shelter with your Lord.",
+  "real_life_bn": "মজবুত দেওয়াল বা অগাধ সম্পদ আল্লাহর হুকুম ঠেকাতে পারে না। মানুষের শক্তি অতি সামান্য। সঠিক পথে চলা ও আল্লাহর আশ্রয় চাওয়াই আসল নিরাপত্তা।",
+  "context_en": "The devastating climax of Thamud: a tremendous shockwave and earthquake leaves their entire valley in ruins.",
+  "context_bn": "সামূদ জাতির অহংকারের করুণ সমাপ্তি: ভয়াবহ ভূমিকম্প ও বিকট গর্জনে পুরো উপত্যকা ধ্বংসস্তূপে পরিণত হয়।",
+  "themes": [
+    "divine punishment",
+    "earthquake",
+    "Thamud",
+    "fragility of life",
+    "ruin"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "destruction of Thamud"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "A devastating earthquake and terrible blast seized the people of Thamud as their promised punishment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "By morning, they were left lying dead and lifeless upon their faces within their homes.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

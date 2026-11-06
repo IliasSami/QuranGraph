@@ -1,0 +1,83 @@
+{
+  "id": "8:74",
+  "simple_en": "Those who believed, left home, and fought for God's way, and those who gave them shelter and help, are the true believers. They will have full pardon and noble gifts.",
+  "simple_bn": "আর যারা ঈমান এনেছে, হিজরত করেছে এবং আল্লাহর পথে সংগ্রাম করেছে, আর যারা আশ্রয় দিয়েছে ও সাহায্য করেছে, তারাই প্রকৃত মুমিন। তাদের জন্য রয়েছে ক্ষমা ও সম্মানজনক জীবিকা।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "هجر",
+      "lemma": "هاجَرَ",
+      "meaning_en": "emigrated",
+      "meaning_bn": "হিজরত করেছে",
+      "why_en": "Sacrificing homeland for God."
+    },
+    {
+      "pos": 4,
+      "root": "جهد",
+      "lemma": "جاهَدَ",
+      "meaning_en": "struggled",
+      "meaning_bn": "সংগ্রাম করেছে",
+      "why_en": "Active dedication to the divine way."
+    },
+    {
+      "pos": 9,
+      "root": "أوي",
+      "lemma": "آوَى",
+      "meaning_en": "gave shelter",
+      "meaning_bn": "আশ্রয় দিয়েছে",
+      "why_en": "The noble Ansar opening their homes to refugees."
+    }
+  ],
+  "lesson_en": "True faith shows in giving help and sharing what you have.",
+  "lesson_bn": "হিজরত, ত্যাগ ও পরোপকারের মাধ্যমেই অন্তরের সত্য ঈমান প্রমাণিত হয় এবং চিরস্থায়ী সম্মান মেলে।",
+  "real_life_en": "Do not let faith remain just words on your lips. Put your beliefs into action by welcoming newcomers, helping poor families, and standing up for justice in your neighborhood.",
+  "real_life_bn": "মুখে শুধু ঈমানের দাবি না করে কাজের মাধ্যমে তা প্রমাণ করুন। অসহায়দের আশ্রয় ও সাহায্য দিন এবং সত্যের পক্ষে ত্যাগ স্বীকার করতে শিখুন।",
+  "context_en": "Praising both the Muhajirun and the Ansar with the highest divine title: the true believers.",
+  "context_bn": "মুহাজির ও আনসারদের আত্মত্যাগের স্বীকৃতি দিয়ে তাদের 'প্রকৃত মুমিন' হিসেবে আল্লাহর পক্ষ থেকে সম্মাননা ও ক্ষমার ঘোষণা।",
+  "themes": [
+    "true believers",
+    "muhajirun and ansar",
+    "forgiveness",
+    "noble provision"
+  ],
+  "kinds": [
+    "praise",
+    "glad-tidings",
+    "promise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Muhajirun",
+      "Ansar"
+    ],
+    "places": [
+      "Medina",
+      "Paradise"
+    ],
+    "unseen": [
+      "Paradise",
+      "forgiveness"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Hijrah"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The emigrants and their helpers are declared the true believers, promised divine forgiveness and noble provision in Paradise.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

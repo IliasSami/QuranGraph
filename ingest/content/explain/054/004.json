@@ -1,0 +1,59 @@
+{
+  "id": "54:4",
+  "simple_en": "News of past ruined towns had already reached them. Those true accounts hold strong lessons. They are enough to stop any fair person from doing wrong.",
+  "simple_bn": "অতীতের ধ্বংসপ্রাপ্ত জাতিদের এমন বহু সংবাদ তাদের কাছে পৌঁছেছে, যা মানুষকে অন্যায় থেকে বিরত রাখার জন্য যথেষ্ট। কুফরী ও জুলুমের করুণ পরিণাম এতে সুস্পষ্ট করে তুলে ধরা হয়েছে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "نبأ",
+      "lemma": "نَبَأ",
+      "meaning_en": "the news",
+      "meaning_bn": "সংবাদসমূহ",
+      "why_en": "Refers to the true historical accounts of earlier nations destroyed for their rebellion."
+    },
+    {
+      "pos": 7,
+      "root": "زجر",
+      "lemma": "مُزْدَجَر",
+      "meaning_en": "a deterrent",
+      "meaning_bn": "নিবৃত্তকারী উপদেশ",
+      "why_en": "Highlights the protective purpose of divine warnings to stop people from committing sins."
+    }
+  ],
+  "lesson_en": "Learn from the mistakes of past people before it is too late.",
+  "lesson_bn": "অতীতের মানুষের ভুল থেকে সময় থাকতেই শিক্ষা গ্রহণ করুন।",
+  "real_life_en": "A shopkeeper reads about past stores that failed due to cheating. He takes this lesson to heart. He chooses to keep every scale fair and honest.",
+  "real_life_bn": "একজন দোকানদার পূর্বের এমন ব্যবসায়ীদের গল্প পড়ে যারা ওজনে কম দিয়ে দেউলিয়া হয়েছিল। সে এই ঘটনা থেকে শিক্ষা নিয়ে নিজের প্রতিটি লেনদেনে সততা বজায় রাখে।",
+  "themes": [
+    "past nations",
+    "reflection",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Reports of earlier destroyed nations came to the disbelievers containing sufficient deterrence against disbelief.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

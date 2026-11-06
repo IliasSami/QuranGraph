@@ -1,0 +1,77 @@
+{
+ "id": "72:10",
+ "simple_en": "The jinn said they could not tell why the sky was now guarded. They wondered if some harm was meant for the people of the earth, or if their Lord wanted to guide them. They had no news from the sky to settle the question, so all they could do was admit that they did not know.",
+ "simple_bn": "জিনরা বলল, আসমান এখন কেন এত কঠোরভাবে পাহারা দেওয়া হচ্ছে, তা তারা জানে না। তাদের মনে প্রশ্ন জাগল, পৃথিবীর মানুষের জন্য কি কোনো ক্ষতি চাওয়া হয়েছে, নাকি তাদের রব তাদের হেদায়েত চান? আসমানের খবর তাদের কাছে বন্ধ হয়ে গিয়েছিল, তাই তারা শুধু এটুকু বলতে পারল যে তারা জানে না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "دري",
+   "lemma": "تَدْرِي",
+   "meaning_en": "we do not know",
+   "meaning_bn": "আমরা জানি না",
+   "why_en": "It marks the limit of their knowledge: the jinn admit plainly that this matter is hidden from them."
+  },
+  {
+   "pos": 4,
+   "root": "شرر",
+   "lemma": "شَرّ",
+   "meaning_en": "harm, evil",
+   "meaning_bn": "অকল্যাণ",
+   "why_en": "The word covers any bad outcome, and the jinn only guessed that it might be intended."
+  },
+  {
+   "pos": 13,
+   "root": "رشد",
+   "lemma": "رَشَد",
+   "meaning_en": "right guidance",
+   "meaning_bn": "সঠিক পথ",
+   "why_en": "It names the good outcome they thought possible: their Lord guiding the people of the earth."
+  }
+ ],
+ "lesson_en": "When something happens that you cannot explain, do not announce what Allah intends. Say clearly that you do not know, and leave the matter with Him.",
+ "lesson_bn": "কোনো ঘটনা বুঝতে না পারলে আল্লাহর ইচ্ছা সম্পর্কে নিশ্চিত কথা বলবেন না। স্পষ্ট বলুন যে আপনি জানেন না, আর বিষয়টি আল্লাহর হাতে ছেড়ে দিন।",
+ "real_life_en": "A neighbour loses his job and people start saying Allah is punishing him. You do not know that. Say instead that you cannot read Allah's plan, then offer something practical, like a meal or help with a job application.",
+ "real_life_bn": "প্রতিবেশীর চাকরি চলে গেলে অনেকে বলে বসেন, আল্লাহ তাকে শাস্তি দিচ্ছেন। আপনি তা জানেন না। বরং বলুন, আল্লাহর পরিকল্পনা আপনি বুঝতে পারেন না। এরপর খাবার দিয়ে বা চাকরির খোঁজে সাহায্য করে পাশে দাঁড়ান।",
+ "themes": [
+  "jinn",
+  "the unseen",
+  "guidance"
+ ],
+ "kinds": [
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn"
+  ],
+  "names_of_allah": [
+   "ar-rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The jinn did not know why the sky was guarded, whether harm was intended for the people of the earth or their Lord intended right guidance for them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "News from the sky had been cut off from them, so they had no way to find out.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

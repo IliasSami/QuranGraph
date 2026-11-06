@@ -1,0 +1,83 @@
+{
+ "id": "7:5",
+ "simple_en": "When Allah's punishment struck those sinful people, they could offer no defense. All they could do was cry out in grief. They confessed their guilt and admitted that they had wronged themselves through disbelief. Yet confessing at that late hour brought them no rescue or relief.",
+ "simple_bn": "যখন আল্লাহর আযাব সেই পাপীদের ওপর এসে পড়ল, তখন আত্মপক্ষ সমর্থনের কোনো উপায় ছিল না। তারা কেবল আর্তনাদ করে নিজেদের অপরাধ স্বীকার করল এবং বলল, আমরা নিশ্চয়ই অন্যায়কারী ছিলাম। কিন্তু শাস্তি দেখার পর সেই স্বীকারোক্তি তাদের কোনো উপকারে আসেনি।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "دعو",
+   "lemma": "دَعْوَى",
+   "meaning_en": "their plea or cry",
+   "meaning_bn": "তাদের আবেদন বা ডাক",
+   "why_en": "Shows the desperate cry of the people when divine judgment arrived."
+  },
+  {
+   "pos": 6,
+   "root": "بأس",
+   "lemma": "بَأْس",
+   "meaning_en": "Our punishment",
+   "meaning_bn": "আমাদের শাস্তি",
+   "why_en": "Refers to the overwhelming divine torment."
+  },
+  {
+   "pos": 12,
+   "root": "ظلم",
+   "lemma": "ظالِم",
+   "meaning_en": "wrongdoers",
+   "meaning_bn": "অত্যাচারী বা সীমালঙ্ঘনকারী",
+   "why_en": "Their own confession of wrongdoing when excuses were useless."
+  }
+ ],
+ "lesson_en": "Admit your mistakes and repent to Allah today before time runs out.",
+ "lesson_bn": "সময় থাকতে নিজের অপরাধ স্বীকার করুন এবং কালবিলম্ব না করে আল্লাহর কাছে তওবা করুন।",
+ "real_life_en": "Do not wait until a crisis forces you to acknowledge your faults. When you hurt someone or break a promise, admit it quickly. Ask for Allah's forgiveness before it is too late.",
+ "real_life_bn": "বিপদে পড়ার আগেই নিজের ভুলগুলো সংশোধন করে নিন। কারো সাথে অন্যায় করলে তৎক্ষণাৎ ক্ষমা চান। অনুশোচনার সুযোগ হারানোর আগেই আল্লাহর দরবারে ফিরে আসুন।",
+ "context_en": "Disbelievers confess their sins only after witnessing the punishment, when repentance is no longer accepted.",
+ "context_bn": "শাস্তি প্রত্যক্ষ করার পর পাপাচারীরা নিজেদের অন্যায় স্বীকার করলেও তখন তওবা আর গ্রহণযোগ্য হয় না।",
+ "themes": [
+  "repentance",
+  "divine punishment",
+  "confession of sins"
+ ],
+ "kinds": [
+  "warning",
+  "story",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "destroyed nations"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "divine retribution"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "When divine punishment arrived, the only response of the destroyed nations was to confess that they had been wrongdoers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Confessing faith and admitting sins after the punishment descends brings no benefit to the unrepentant.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "16:16",
+  "simple_en": "He gave clear landmarks across hills and plains. By the stars in the night sky, people also find their safe way across land and sea.",
+  "simple_bn": "তিনি পৃথিবীতে বহু পথনির্দেশক চিহ্ন স্থাপন করেছেন। আর রাতের ঘন অন্ধকারে উজ্জ্বল তারকারাজির সাহায্যে ভ্রমণকারীরা তাদের সঠিক দিক ও গন্তব্যের পথ খুঁজে পায়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "علم",
+      "lemma": "عَلامَة",
+      "meaning_en": "landmarks",
+      "meaning_bn": "পথচিহ্ন",
+      "why_en": "Distinct natural features that mark geographic locations."
+    },
+    {
+      "pos": 2,
+      "root": "نجم",
+      "lemma": "نَجْم",
+      "meaning_en": "the star",
+      "meaning_bn": "নক্ষত্র",
+      "why_en": "Celestial guides used by navigators for centuries."
+    }
+  ],
+  "lesson_en": "Stars and hills guide travelers. They show the careful design of God.",
+  "lesson_bn": "প্রাকৃতিক নিদর্শন ও নক্ষত্রের অবস্থান মানুষকে দিক নির্ণয় এবং নিরাপদ ভ্রমণের সুযোগ করে দেয়।",
+  "real_life_en": "Use maps and guides wisely. In moral life, look to divine truth to lead your steps.",
+  "real_life_bn": "ভ্রমণের সময় দিক নির্ণয়ের উপায়ের গুরুত্ব বুঝুন। একইভাবে জীবনের চলার পথে আল্লাহর দেওয়া নৈতিক দিকনির্দেশনা মেনে চলুন।",
+  "themes": [
+    "navigation",
+    "stars",
+    "signs"
+  ],
+  "kinds": [
+    "creation",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "landmarks",
+      "the stars"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Landmarks and stars were established as guides for human navigation.",
+      "claim_bn": "মানুষকে পথনির্দেশ দেওয়ার জন্য দিকচিহ্ন এবং নক্ষত্ররাজি সৃষ্টি করা হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,77 @@
+{
+  "id": "35:34",
+  "simple_en": "And they will say upon entering Paradise: All praise belongs to Allah, who has taken away all grief and anxiety from us. Truly, our Lord is Most Forgiving of our mistakes and Most Appreciative of our good deeds.",
+  "simple_bn": "জান্নাতে প্রবেশ করে তারা বলবে: সকল প্রশংসা আল্লাহর, যিনি আমাদের সমস্ত দুঃখ-কষ্ট দূর করে দিয়েছেন। নিশ্চয়ই আমাদের প্রতিপালক পরম ক্ষমাশীল এবং পরম গুণগ্রাহী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حمد",
+      "lemma": "حَمْد",
+      "meaning_en": "all praise",
+      "meaning_bn": "সকল প্রশংসা",
+      "why_en": "The initial grateful utterance of believers as they enter Paradise."
+    },
+    {
+      "pos": 6,
+      "root": null,
+      "lemma": "عَن",
+      "meaning_en": "sorrow / grief",
+      "meaning_bn": "দুঃখ বা বিষাদ",
+      "why_en": "Refers to relief from all worldly anxieties, trials, and fears of Hell."
+    },
+    {
+      "pos": 10,
+      "root": "غفر",
+      "lemma": "غَفُور",
+      "meaning_en": "Most Appreciative",
+      "meaning_bn": "গুণগ্রাহী",
+      "why_en": "Expresses joy that Allah rewards their humble deeds with huge bounties."
+    }
+  ],
+  "lesson_en": "Paradise is a place of total peace where every sorrow and fear will be removed forever.",
+  "lesson_bn": "জান্নাত এমন এক শান্তির নিবাস যেখানে মানুষের সকল দুঃখ, কষ্ট ও দুশ্চিন্তা চিরতরে শেষ হয়ে যাবে।",
+  "real_life_en": "When you go through hardship, sadness, or anxiety in this world, turn to prayer. Look forward to the day when Allah will remove all your pain in Paradise.",
+  "real_life_bn": "দুনিয়ার জীবনে কোনো কষ্ট বা শোকের মুখোমুখি হলে ধৈর্য ধরুন। পরকালে জান্নাতের অনাবিল সুখের কথা স্মরণ করে আল্লাহর সন্তুষ্টি অর্জন করার চেষ্টা করুন।",
+  "themes": [
+    "Paradise",
+    "praise",
+    "gratitude",
+    "forgiveness"
+  ],
+  "kinds": [
+    "praise",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [
+      "allah",
+      "ar-rabb",
+      "al-ghafur",
+      "ash-shakur"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Dwellers of Paradise praise Allah for removing their grief, acknowledging His forgiveness and appreciation.",
+      "claim_bn": "জান্নাতবাসীরা তাদের সকল দুঃখ দূর করার জন্য আল্লাহর প্রশংসা করবে এবং তাঁর ক্ষমা ও অনুগ্রহের স্বীকৃতি দেবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

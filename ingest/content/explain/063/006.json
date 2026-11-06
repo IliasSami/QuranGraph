@@ -1,0 +1,72 @@
+{
+  "id": "63:6",
+  "simple_en": "It is all the same whether you pray for their forgiveness or not. Allah will never forgive them because they have chosen disbelief and mock the truth. Allah does not guide people who persist in open rebellion and refuse to change their wicked ways.",
+  "simple_bn": "আপনি তাদের জন্য ক্ষমা প্রার্থনা করুন আর না করুন, উভয়টিই তাদের জন্য সমান। আল্লাহ তাদের কখনোই ক্ষমা করবেন না। কারণ তারা সত্য জেনেও অবাধ্য হয়েছে। আল্লাহ এমন নাফরমান জাতিকে সৎপথে পরিচালিত করেন না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سوي",
+      "lemma": "سَواء",
+      "meaning_en": "it is all the same",
+      "meaning_bn": "উভয়ই সমান",
+      "why_en": "Indicates that their stubborn rejection makes any prayer on their behalf ineffective."
+    },
+    {
+      "pos": 3,
+      "root": "غفر",
+      "lemma": "اسْتَغْفَرَ",
+      "meaning_en": "whether you ask forgiveness for them",
+      "meaning_bn": "আপনি তাদের জন্য ক্ষমা চান",
+      "why_en": "The Prophet's merciful nature versus their unbending obstinacy."
+    },
+    {
+      "pos": 18,
+      "root": "فسق",
+      "lemma": "فاسِق",
+      "meaning_en": "rebellious wrongdoers",
+      "meaning_bn": "নাফরমান ও ফাসিক সম্প্রদায়",
+      "why_en": "Those who persistently step outside obedience to God."
+    }
+  ],
+  "lesson_en": "Persistent rebellion against God closes the doors of mercy. Seek forgiveness while your heart is still soft.",
+  "lesson_bn": "একগুঁয়েমি করে ক্রমাগত পাপে লিপ্ত থাকলে রহমতের দরজা বন্ধ হয়ে যায়, তাই সময় থাকতে খাঁটি তওবা করা উচিত।",
+  "real_life_en": "A patient throws his medicine into the trash and laughs at the doctor's warnings. No doctor can heal someone who refuses every treatment. In the same way, divine mercy reaches those who want to be healed, not those who mock it.",
+  "real_life_bn": "চিকিৎসক আন্তরিকভাবে চেষ্টা করলেও রোগী যদি ওষুধ ফেলে দেয়, তবে তার আরোগ্য লাভ সম্ভব নয়। তেমনি আল্লাহর অনুগ্রহ পেতে হলে নিজের অন্তরে সত্য মানার সদিচ্ছা থাকতে হয়।",
+  "themes": [
+    "denial of forgiveness for obstinate hypocrites",
+    "divine justice",
+    "loss of guidance"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "It is equal whether the Prophet seeks forgiveness for the hypocrites or not; Allah will not forgive them because He does not guide rebellious transgressors.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

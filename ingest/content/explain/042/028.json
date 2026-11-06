@@ -1,0 +1,91 @@
+{
+ "id": "42:28",
+ "simple_en": "Allah is the One who sends down rain after people have lost hope. He spreads His mercy across the dry land to bring new life. He is Al-Waliyy, the Protecting Friend, and Al-Hamid, the One who is worthy of all praise.",
+ "simple_bn": "মানুষ যখন সম্পূর্ণ নিরাশ হয়ে পড়ে, তখন মহান আল্লাহই বৃষ্টি বর্ষণ করেন। তিনি শুষ্ক যমীনে তাঁর রহমত ছড়িয়ে দিয়ে নতুন প্রাণের সঞ্চার করেন। তিনি প্রকৃত অভিভাবক এবং সকল প্রশংসার একমাত্র যোগ্য।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "غيث",
+   "lemma": "غَيْث",
+   "meaning_en": "the rain / relief",
+   "meaning_bn": "বৃষ্টি / স্বস্তি",
+   "why_en": "Refers to life-giving rain sent down after drought and distress."
+  },
+  {
+   "pos": 8,
+   "root": "قنط",
+   "lemma": "قَنَطُ",
+   "meaning_en": "they despaired",
+   "meaning_bn": "তারা নিরাশ হলো",
+   "why_en": "Describes the human state of hopelessness right before divine relief arrives."
+  },
+  {
+   "pos": 10,
+   "root": "رحم",
+   "lemma": "رَحْمَة",
+   "meaning_en": "His mercy",
+   "meaning_bn": "তাঁর রহমত",
+   "why_en": "Highlights the broad blessings and nourishment Allah spreads upon the earth."
+  },
+  {
+   "pos": 12,
+   "root": "ولي",
+   "lemma": "وَلِيّ",
+   "meaning_en": "the Guardian / Protector",
+   "meaning_bn": "অভিভাবক",
+   "why_en": "Affirms that Allah manages all the affairs of His creation with care."
+  },
+  {
+   "pos": 13,
+   "root": "حمد",
+   "lemma": "حَمِيد",
+   "meaning_en": "the Praiseworthy",
+   "meaning_bn": "প্রশংসিত",
+   "why_en": "Declares that Allah is praised for His continuous gifts and wisdom."
+  }
+ ],
+ "lesson_en": "Never lose hope in Allah, for His relief often comes when things seem hardest.",
+ "lesson_bn": "কখনো আল্লাহর রহমত থেকে নিরাশ হবেন না, কারণ চরম সংকটের পরেই তাঁর সাহায্য আসে।",
+ "real_life_en": "When you face long delays or feel stuck in hardship, keep praying with hope. Trust that Allah can change your situation in an instant, just as He revives the dry earth with rain.",
+ "real_life_bn": "কঠিন সময়ে ধৈর্য ধরে দুআ চালিয়ে যান। বিশ্বাস রাখুন যে আল্লাহ যেমন বৃষ্টির মাধ্যমে শুষ্ক জমিনকে সজীব করেন, তেমনি আপনার জীবনেও স্বস্তি দিতে পারেন।",
+ "themes": [
+  "Allah's mercy",
+  "Allah's power",
+  "gratitude",
+  "creation"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah",
+  "praise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah",
+   "al-waliyy",
+   "al-hamid"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah sends down rain after despair and spreads His mercy, and He is the Protector, the Praiseworthy.",
+   "claim_bn": "মানুষ নিরাশ হওয়ার পর আল্লাহ বৃষ্টি বর্ষণ করেন ও তাঁর রহমত বিস্তার করেন এবং তিনি অভিভাবক ও প্রশংসিত।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

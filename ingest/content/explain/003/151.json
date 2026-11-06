@@ -1,0 +1,96 @@
+{
+ "id": "3:151",
+ "simple_en": "Allah promises to put deep fear into the hearts of the disbelievers. This fear strikes them because they worship false gods with Allah without any proof. In this life, their hearts stay anxious and weak. In the next life, their home will be the Fire. Hell is an evil resting place for the wrongdoers.",
+ "simple_bn": "আল্লাহ কাফেরদের অন্তরে গভীর ভীতির সঞ্চার করার প্রতিশ্রুতি দিয়েছেন। এই ভয়ের কারণ হলো, তারা কোনো প্রকার ঐশী প্রমাণ বা সনদ ছাড়াই আল্লাহর সাথে মনগড়া উপাস্যদের শরিক করেছে। পার্থিব জীবনে তাদের অন্তর সর্বদা অস্থির ও শঙ্কিত থাকে। আর পরকালে তাদের চূড়ান্ত ঠিকানা হবে জাহান্নামের আগুন, যা অত্যাচারীদের জন্য এক নিকৃষ্টতম বাসস্থান।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "رعب",
+   "lemma": "رُعْب",
+   "meaning_en": "dread / terror",
+   "meaning_bn": "ভীতি / আতঙ্ক",
+   "why_en": "Refers to the overwhelming fear Allah casts into enemy hearts, stripping away their confidence."
+  },
+  {
+   "pos": 8,
+   "root": "شرك",
+   "lemma": "أَشْرَكَ",
+   "meaning_en": "they associated partners",
+   "meaning_bn": "তারা শরিক করেছে",
+   "why_en": "Identifies polytheism as the core cause of spiritual insecurity and panic."
+  },
+  {
+   "pos": 14,
+   "root": "سلط",
+   "lemma": "سُلْطان",
+   "meaning_en": "authority / proof",
+   "meaning_bn": "কোনো প্রমাণ / সনদ",
+   "why_en": "Points out that false gods have no divine proof or rational evidence whatsoever."
+  },
+  {
+   "pos": 19,
+   "root": "ظلم",
+   "lemma": "ظالِم",
+   "meaning_en": "the wrongdoers",
+   "meaning_bn": "সীমালঙ্ঘনকারীগণ",
+   "why_en": "Refers to those who act unjustly by committing shirk and opposing divine truth."
+  }
+ ],
+ "lesson_en": "False gods bring fear into the heart, but faith in Allah brings true peace.",
+ "lesson_bn": "আল্লাহর সাথে কাউকে শরিক করা অন্তরে ভীতি ও অস্থিরতা সৃষ্টি করে, আর খাঁটি তাওহীদ অন্তরে প্রশান্তি দেয়।",
+ "real_life_en": "Some people put all their hope in wealth or lucky charms. They live in constant fear of losing what they have. A believer puts full trust in Allah alone. That true faith takes away false fears and fills the heart with calm.",
+ "real_life_bn": "মানুষ যখন পার্থিব ক্ষমতা, কুসংস্কার বা কোনো সৃষ্টির ওপর অন্ধ নির্ভরতা তৈরি করে, তখন তার মনে সবসময় হারানোর ভয় কাজ করে। কিন্তু যিনি একমাত্র আল্লাহর ওপর বিশ্বাস রাখেন, তার অন্তর যাবতীয় ভিত্তিহীন ভয় থেকে মুক্ত থাকে এবং সেখানে আসল প্রশান্তি বিরাজ করে।",
+ "context_en": "Revealed when the idolaters after Uhud felt sudden terror and decided not to march on Medina, fulfilling Allah's promise of casting dread.",
+ "context_bn": "উহুদের পর মক্কার মুশরিকরা মদীনা আক্রমণ করার সুযোগ পেয়েও তাদের অন্তরে আকস্মিক ভীতি সঞ্চার হয়েছিল, যার কারণে তারা ফিরে যায়।",
+ "themes": [
+  "shirk",
+  "tawhid",
+  "Hell",
+  "punishment",
+  "justice"
+ ],
+ "kinds": [
+  "warning",
+  "belief",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "Battle of Uhud"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah casts terror into the hearts of disbelievers because of their shirk for which no authority was revealed.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The final abode of the wrongdoers is the Fire of Hell.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

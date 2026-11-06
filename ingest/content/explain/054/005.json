@@ -1,0 +1,61 @@
+{
+  "id": "54:5",
+  "simple_en": "This Quran brings clear and complete wisdom from Allah. It leaves no room for honest doubt. Yet divine warnings cannot help people who close their hearts against faith.",
+  "simple_bn": "এই কুরআন মহান আল্লাহর পক্ষ থেকে নিখুঁত ও পরিপূর্ণ প্রজ্ঞা নিয়ে এসেছে। এতে সন্দেহের কোনো অবকাশ নেই। কিন্তু যারা অন্তরে কুফরী জিইয়ে রাখে, কোনো সতর্কবার্তা তাদের উপকারে আসে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "حكم",
+      "lemma": "حِكْمَة",
+      "meaning_en": "wisdom",
+      "meaning_bn": "প্রজ্ঞা",
+      "why_en": "Describes the perfect guidance of divine revelation that addresses the human intellect."
+    },
+    {
+      "pos": 5,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "the warnings",
+      "meaning_bn": "সতর্কবার্তা",
+      "why_en": "Refers to the divine admonitions that can only help those who are open to faith."
+    }
+  ],
+  "lesson_en": "Divine guidance helps open hearts, but warnings cannot move the stubborn.",
+  "lesson_bn": "আল্লাহর প্রজ্ঞা উন্মুক্ত হৃদয়কে পথ দেখায়, কিন্তু একগুঁয়ে অন্তরে কোনো প্রভাব ফেলে না।",
+  "real_life_en": "A doctor tells a man to stop smoking to save his heart. If the man refuses to listen, the best advice cannot help him. Change must begin from within.",
+  "real_life_bn": "একজন ডাক্তার রোগীকে সুস্থ থাকার জন্য ধূমপান ছাড়ার পরামর্শ দেন। কিন্তু রোগী যদি নিজে সচেতন না হয়, তবে ডাক্তারের কোনো ভালো উপদেশও তার কাজে আসে না।",
+  "themes": [
+    "the Quran",
+    "guidance",
+    "disbelief"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The revelation contains complete wisdom to establish proof, yet warnings do not benefit those who do not believe.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

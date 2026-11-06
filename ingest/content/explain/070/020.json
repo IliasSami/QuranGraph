@@ -1,0 +1,74 @@
+{
+ "id": "70:20",
+ "simple_en": "This ayah shows what happens when harm strikes a person who lacks strong faith. If sickness, poverty, or pain touches him, he panics right away. He loses hope and begins to complain. He forgets that tests come from Allah to build his patience and draw him closer.",
+ "simple_bn": "এই আয়াতে দেখানো হয়েছে দুর্বল ঈমানের মানুষ বিপদে কেমন আচরণ করে। কোনো রোগ, অভাব বা কষ্ট স্পর্শ করলেই সে আতঙ্কিত হয়ে পড়ে। সে আশা হারিয়ে ফেলে এবং অভিযোগ করতে থাকে। সে ভুলে যায় যে পরীক্ষাগুলো ধৈর্য শেখানোর জন্যই আসে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "مسس",
+   "lemma": "مَسَّ",
+   "meaning_en": "touches him",
+   "meaning_bn": "তাকে স্পর্শ করে",
+   "why_en": "Even a light touch of hardship is enough to rattle him."
+  },
+  {
+   "pos": 3,
+   "root": "شرر",
+   "lemma": "شَرّ",
+   "meaning_en": "evil, harm, hardship",
+   "meaning_bn": "বিপদ, মন্দ",
+   "why_en": "It covers sickness, poverty, or any trial that brings pain."
+  },
+  {
+   "pos": 4,
+   "root": "جزع",
+   "lemma": "جَزُوع",
+   "meaning_en": "impatient, panicking",
+   "meaning_bn": "হা-হুতাশকারী, অধৈর্য",
+   "why_en": "The word denotes a lack of patience and a loss of composure when struck by harm."
+  }
+ ],
+ "lesson_en": "When hard times touch you, hold on to patience and ask Allah for relief instead of losing hope.",
+ "lesson_bn": "কঠিন সময় এলে ধৈর্য ধরুন এবং হতাশ না হয়ে আল্লাহর কাছে মুক্তি চান।",
+ "real_life_en": "A boy fails a school test and wants to give up. Instead of weeping, he asks his teacher for help. He studies hard and passes next time. Patience turns loss into strength.",
+ "real_life_bn": "স্কুলের পরীক্ষায় খারাপ ফল করে এক বালক ভেঙে পড়ল। কেঁদে সময় নষ্ট না করে সে শিক্ষকের কাছে সাহায্য চাইল। মন দিয়ে পড়ে সে পরের বার ভালো ফল করল। ধৈর্য মানুষকে শক্তি জোগায়।",
+ "themes": [
+  "patience",
+  "hardship",
+  "human nature"
+ ],
+ "kinds": [
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "When difficulty like illness or poverty touches an unguided person, he shows little patience and falls into despair.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Impatience and panic are common reactions to hardship when faith is absent.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

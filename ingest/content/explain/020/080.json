@@ -1,0 +1,88 @@
+{
+  "id": "20:80",
+  "simple_en": "God told the Israelites that He saved them from their foe. He met them at Mount Sinai and sent down sweet food and meat in the dry desert.",
+  "simple_bn": "আল্লাহ বনি ইসরাইলকে স্মরণ করিয়ে দিলেন: আমরা তোমাদের শত্রুর হাত থেকে বাঁচিয়েছি এবং তূর পাহাড়ের ডানপাশে সাক্ষাতের স্থান দিয়েছি। আর তোমাদের জন্য মান্না ও সালওয়া অবতীর্ণ করেছি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "نجو",
+      "lemma": "أَنجَىٰ",
+      "meaning_en": "We delivered you",
+      "meaning_bn": "আমরা তোমাদের উদ্ধার করেছি",
+      "why_en": "Rescue from Egyptian slavery and oppression."
+    },
+    {
+      "pos": 9,
+      "root": "طور",
+      "lemma": "طُور",
+      "meaning_en": "Mount Sinai",
+      "meaning_bn": "তূর পর্বত",
+      "why_en": "The sacred mountain where the Torah was revealed."
+    },
+    {
+      "pos": 13,
+      "root": "منن",
+      "lemma": "مَنّ",
+      "meaning_en": "manna",
+      "meaning_bn": "মান্না (মিষ্টি খাবার)",
+      "why_en": "Miraculous dew-like sweet sustenance in the desert."
+    },
+    {
+      "pos": 14,
+      "root": "سلو",
+      "lemma": "سَلْوَىٰ",
+      "meaning_en": "and quails",
+      "meaning_bn": "এবং সালওয়া (পাখির মাংস)",
+      "why_en": "Migratory birds providing delicious fresh meat."
+    }
+  ],
+  "lesson_en": "God gives freedom, good laws, and daily food. He cares for His servants in every need.",
+  "lesson_bn": "আল্লাহ তাঁর অনুগত বান্দাদের অত্যাচার থেকে মুক্তি দেন, সঠিক জীবনবিধান দান করেন এবং অলৌকিক রিজিক নিশ্চিত করেন।",
+  "real_life_en": "Count the gifts in your life. Safety, food, and guidance call for daily thanks to God.",
+  "real_life_bn": "জীবনের অফুরন্ত নিয়ামতগুলোর কথা স্মরণ করুন। নিরাপত্তা, খাদ্য এবং সৎপথের দিশা পেয়ে আল্লাহর শুকরিয়া আদায় করুন।",
+  "themes": [
+    "manna-and-quails",
+    "mount-sinai",
+    "liberation",
+    "gratitude"
+  ],
+  "kinds": [
+    "story",
+    "glad-tidings",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [
+      "Bani Isra'il"
+    ],
+    "places": [
+      "Mount Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "manna",
+      "quails"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God delivered the Israelites, summoned them to Sinai, and provided manna and quails in the desert.",
+      "claim_bn": "আল্লাহ বনি ইসরাইলকে ফেরাউন থেকে মুক্ত করেন, তূরে সাক্ষাতের অঙ্গীকার দেন এবং মরুভূমিতে মান্না ও সালওয়া দান করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

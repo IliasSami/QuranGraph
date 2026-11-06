@@ -1,0 +1,99 @@
+{
+ "id": "4:22",
+ "simple_en": "Do not marry women whom your fathers married in the past. What happened before Islam is pardoned. Doing this is an immoral act, hateful to Allah, and an evil custom.",
+ "simple_bn": "তোমাদের পিতারা যেসব নারীকে বিয়ে করেছেন, তোমরা তাদের কখনোই বিয়ে করো না। ইসলামের পূর্বে সমাজে পিতার মৃত্যুর পর তার স্ত্রীদের বিয়ে করার মতো কুপ্রথা প্রচলিত ছিল। আল্লাহ এই গর্হিত আচরণ চিরতরে নিষিদ্ধ করেছেন। এটি চরম অশ্লীলতা, যা আল্লাহর ক্রোধ ডেকে আনে। তবে এই বিধান আসার আগে যা ঘটেছে, তা ক্ষমা করা হয়েছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نكح",
+   "lemma": "نَكَحَ",
+   "meaning_en": "marry",
+   "meaning_bn": "বিবাহ করো",
+   "why_en": "Forbids entering into marriage contracts with prohibited women."
+  },
+  {
+   "pos": 11,
+   "root": "سلف",
+   "lemma": "سَلَفَ",
+   "meaning_en": "has passed",
+   "meaning_bn": "অতীতে ঘটে গেছে",
+   "why_en": "Indicates that past actions prior to the prohibition are forgiven."
+  },
+  {
+   "pos": 14,
+   "root": "فحش",
+   "lemma": "فاحِشَة",
+   "meaning_en": "an outrage / gross indecency",
+   "meaning_bn": "চরম অশ্লীলতা",
+   "why_en": "Denounces marrying a father's former wife as utterly repulsive."
+  },
+  {
+   "pos": 15,
+   "root": "مقت",
+   "lemma": "مَقْت",
+   "meaning_en": "hateful / wrath-incurring",
+   "meaning_bn": "ক্রোধজনক / ঘৃণ্য কাজ",
+   "why_en": "Shows that the act incurs intense hatred from Allah and sound human nature."
+  }
+ ],
+ "lesson_en": "Honor your family. Never copy bad customs from pagan times.",
+ "lesson_bn": "অতীতের কুপ্রথা বর্জন করুন এবং আল্লাহ নির্ধারিত পারিবারিক সম্মান ও সীমানা মেনে চলুন।",
+ "real_life_en": "Break away from bad traditions in your family or town. Do not follow hurtful customs just because ancestors did. Respect boundaries set by Allah to keep family life pure.",
+ "real_life_bn": "কোনো সমাজে হয়তো এমন প্রথা থাকে যা পারিবারিক শালীনতা নষ্ট করে বা নারীকে উত্তরাধিকার সূত্রে পাওয়া সম্পত্তির মতো মনে করে। একজন মুসলিম সেসব কুপ্রথা ত্যাগ করে আল্লাহর বিধানে অটল থাকে এবং পরিবারে সবার প্রাপ্য সম্মান রক্ষা করে।",
+ "context_en": "Begins the detailed declaration of women permanently forbidden for marriage.",
+ "context_bn": "যাদের বিয়ে করা চিরতরে হারাম করা হয়েছে তাদের বিস্তারিত বিবরণের সূচনা।",
+ "themes": [
+  "marriage",
+  "family",
+  "justice",
+  "ethics"
+ ],
+ "kinds": [
+  "prohibition",
+  "law",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Marrying a woman whom one's father married is permanently forbidden in Islam.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Marriages of this kind that took place before Islam are pardoned, but they cannot be continued.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The practice is condemned as an obscenity, hateful to Allah and people, and an evil custom.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

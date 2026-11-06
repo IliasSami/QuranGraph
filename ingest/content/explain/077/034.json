@@ -1,0 +1,66 @@
+{
+ "id": "77:34",
+ "simple_en": "Woe on that Day to those who denied Allah's warnings about the Fire. Destruction and sorrow await everyone who laughed at the descriptions of Hell and refused to mend their ways.",
+ "simple_bn": "সেই দিনে সত্য অস্বীকারকারীদের জন্য রয়েছে চরম দুর্ভোগ ও বিনাশ। যারা জাহান্নামের শাস্তির সতর্কবার্তাকে মিথ্যা ভেবেছিল এবং নিজেদের সংশোধন করেনি, তারা সেই ভয়াবহ আগুনে নিপতিত হবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "يوم",
+   "lemma": "يَوْم",
+   "meaning_en": "that Day",
+   "meaning_bn": "সেই দিনে",
+   "why_en": "The Day when deniers face the reality of what they mocked."
+  },
+  {
+   "pos": 3,
+   "root": "كذب",
+   "lemma": "مُكَذِّب",
+   "meaning_en": "the deniers",
+   "meaning_bn": "মিথ্যারোপকারীগণ",
+   "why_en": "Those who dismissed the vivid warnings of punishment."
+  }
+ ],
+ "lesson_en": "Mocking the afterlife will turn into bitter grief when the punishment is seen.",
+ "lesson_bn": "পরকাল নিয়ে উপহাস করার পরিণতি হবে শাস্তি প্রত্যক্ষ করার সময় চরম আফসোস।",
+ "real_life_en": "Some people make jokes about sacred warnings to feel bold in front of friends. But a joke cannot protect anyone from reality. Respecting the truth and living with humility protects your heart from regret on that Day.",
+ "real_life_bn": "অনেকে বন্ধুদের আড্ডায় ধর্মের সতর্কবার্তা নিয়ে হালকা মন্তব্য করে। কিন্তু এমন অবহেলা মানুষকে রক্ষা করতে পারে না। সত্যকে সম্মান করা এবং বিনীত জীবনযাপন করাই আখিরাতের অপমান থেকে বাঁচার একমাত্র উপায়।",
+ "themes": [
+  "punishment",
+  "Hell",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [
+   "day-of-judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Destruction on that Day is for those who rejected the reality of Allah's punishment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

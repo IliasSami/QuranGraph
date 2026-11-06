@@ -1,0 +1,75 @@
+{
+  "id": "50:34",
+  "simple_en": "The believers will be welcomed with honor: Enter Paradise in peace and safety from all harm. That day begins eternal life. Joy will never fade, and death will never touch them again.",
+  "simple_bn": "মু'মিনদেরকে সম্মানের সাথে আহ্বান করা হবে: তোমরা সম্পূর্ণ শান্তি ও নিরাপত্তার সাথে জান্নাতে প্রবেশ করো। আজ সেই অনন্তকালের শুরু, যেখানে সুখের কোনো শেষ নেই এবং মৃত্যু আর কখনোই তাদের স্পর্শ করবে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "دخل",
+      "lemma": "دَخَلَ",
+      "meaning_en": "enter it",
+      "meaning_bn": "তাতে প্রবেশ করো",
+      "why_en": "The joyful welcome given to the believers as they step into Paradise."
+    },
+    {
+      "pos": 2,
+      "root": "سلم",
+      "lemma": "سَلام",
+      "meaning_en": "peace and safety",
+      "meaning_bn": "শান্তির সাথে",
+      "why_en": "Free from all fear, illness, grief, or harm."
+    },
+    {
+      "pos": 5,
+      "root": "خلد",
+      "lemma": "خُلُود",
+      "meaning_en": "eternity",
+      "meaning_bn": "অনন্তকাল বা চিরস্থায়িত্ব",
+      "why_en": "Life that continues forever with no death or end to its joy."
+    }
+  ],
+  "lesson_en": "Worldly trouble is short. The peace and joy of Paradise last forever.",
+  "lesson_bn": "দুনিয়ার কষ্ট ক্ষণস্থায়ী, কিন্তু জান্নাতের পরম শান্তি ও নিরাপত্তা চিরন্তন।",
+  "real_life_en": "When you feel worn out by work or sadness, take comfort. Eternal peace is waiting for the patient believer in Paradise.",
+  "real_life_bn": "অসুস্থতা বা মানসিক ক্লান্তির সময় এই ভেবে সান্ত্বনা পান যে ধৈর্যশীল বিশ্বাসীদের জন্য জান্নাতে চিরস্থায়ী শান্তি অপেক্ষা করছে।",
+  "context_en": "The believers receive a joyous greeting of peace and an eternity free from fear.",
+  "context_bn": "শান্তির বার্তা এবং অনন্ত জীবনের ঘোষণা দিয়ে মু'মিনদের জান্নাতে অভ্যর্থনা জানানো হবে।",
+  "themes": [
+    "Paradise",
+    "reward",
+    "peace",
+    "glad-tidings"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "promise",
+    "address"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The believers are welcomed into Paradise in peace to dwell there for eternity.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

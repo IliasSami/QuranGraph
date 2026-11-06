@@ -1,0 +1,60 @@
+{
+  "id": "51:8",
+  "simple_en": "The deniers are caught in confused and contradictory claims about the truth. At times they call the Quran poetry, and at other times they call it magic. Their shifting words reveal their inner confusion and lack of real evidence.",
+  "simple_bn": "সত্য প্রত্যাখ্যানকারীরা পরস্পরবিরোধী এবং বিভ্রান্তিকর কথায় লিপ্ত রয়েছে। তারা কখনো কুরআনকে কবিতা বলে আবার কখনো জাদু বলে নিজেদের বিভ্রান্তি প্রকাশ করে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "قول",
+      "lemma": "قَوْل",
+      "meaning_en": "speech or claims",
+      "meaning_bn": "কথা বা বক্তব্য",
+      "why_en": "The unfounded claims made by opponents of the message."
+    },
+    {
+      "pos": 4,
+      "root": "خلف",
+      "lemma": "مُخْتَلِف",
+      "meaning_en": "contradictory or differing",
+      "meaning_bn": "পরস্পরবিরোধী",
+      "why_en": "How deniers contradict themselves when arguing against truth."
+    }
+  ],
+  "lesson_en": "False claims always clash with each other. Truth stays clear and firm.",
+  "lesson_bn": "মিথ্যার কোনো সুদৃঢ় ভিত্তি নেই, তা সবসময় স্ববিরোধী এবং বিভ্রান্তিকর রূপ ধারণ করে।",
+  "real_life_en": "Do not let conflicting opinions confuse your moral values. Stick to clear divine guidance and speak with honesty rather than changing your story.",
+  "real_life_bn": "মানুষের নানামুখী বিভ্রান্তিকর কথায় কান না দিয়ে সত্যের ওপর অটল থাকুন। কথাবার্তায় সবসময় সততা বজায় রাখুন।",
+  "themes": [
+    "disbelief",
+    "revelation",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelievers utter contradictory claims about the Quran and Prophet Muhammad ﷺ.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

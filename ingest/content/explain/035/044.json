@@ -1,0 +1,83 @@
+{
+  "id": "35:44",
+  "simple_en": "Have they not traveled through the land and seen how previous nations met their end? Those past nations were far greater in physical strength and wealth, yet nothing in the heavens or on the earth could ever escape Allah. Truly, He is ever All-Knowing and All-Powerful.",
+  "simple_bn": "তারা কি জমিনে পরিভ্রমণ করেনি এবং দেখেনি তাদের পূর্ববর্তীদের কী করুণ পরিণতি হয়েছিল? তারা এদের চেয়ে শক্তিতে অনেক বেশি শক্তিশালী ছিল। কিন্তু আসমান ও জমিনের কোনো কিছুই আল্লাহকে পরাভূত করতে পারে না। নিশ্চয়ই তিনি সর্বজ্ঞ ও সর্বশক্তিমান।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "كون",
+      "lemma": "كانَ",
+      "meaning_en": "the end / outcome",
+      "meaning_bn": "চূড়ান্ত পরিণতি",
+      "why_en": "Points to historical ruined ruins as clear proof of divine justice."
+    },
+    {
+      "pos": 12,
+      "root": "كون",
+      "lemma": "كانَ",
+      "meaning_en": "strength / power",
+      "meaning_bn": "শক্তি বা ক্ষমতা",
+      "why_en": "Shows that human military and physical power cannot stop divine punishment."
+    },
+    {
+      "pos": 29,
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "All-Knowing",
+      "meaning_bn": "সর্বজ্ঞ",
+      "why_en": "Attributes perfect awareness of all human actions to Allah."
+    },
+    {
+      "pos": 30,
+      "root": "قدر",
+      "lemma": "قَدِير",
+      "meaning_en": "All-Powerful",
+      "meaning_bn": "সর্বশক্তিমান",
+      "why_en": "Declares Allah's absolute capability to execute justice whenever He wills."
+    }
+  ],
+  "lesson_en": "Human strength cannot stop the will of Allah. He knows all and has power over all things.",
+  "lesson_bn": "পার্থিব শক্তি কাউকে আল্লাহর বিচার থেকে বাঁচাতে পারে না, কারণ তিনি সর্বজ্ঞ ও মহাশক্তিশালী।",
+  "real_life_en": "When you travel and see old ruins, think of the people who lived there. Money and strong walls could not save them. True peace comes from faith in Allah.",
+  "real_life_bn": "প্রাচীন ঐতিহাসিক নিদর্শন দেখার সময় অতীত জাতিগুলোর পতনের কারণ নিয়ে চিন্তা করুন। পার্থিব সম্পদ নয়, কেবল আল্লাহর ওপর ঈমানই মানুষকে রক্ষা করতে পারে।",
+  "themes": [
+    "past nations",
+    "reflection",
+    "allah's power",
+    "warning"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-alim",
+      "al-qadir"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Past powerful nations were destroyed for disbelief, and nothing in the heavens or earth can escape Allah.",
+      "claim_bn": "অতীতের পরাক্রমশালী জাতিগুলো তাদের কুফরীর কারণে ধ্বংস হয়েছিল এবং আসমান-জমিনের কিছুই আল্লাহকে অক্ষম করতে পারে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

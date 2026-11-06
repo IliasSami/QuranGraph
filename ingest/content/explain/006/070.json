@@ -1,0 +1,88 @@
+{
+  "id": "6:70",
+  "simple_en": "Leave those who treat their faith as mere play and sport. The pleasures of this world have deceived them. Warn everyone with the Quran so no soul is ruined by its own sins. On that Day, a person has no protector or helper besides Allah. No ransom will be accepted from anyone. Those who reject faith will face boiling drinks and a painful punishment.",
+  "simple_bn": "তাদের বর্জন করুন যারা নিজেদের দ্বীনকে খেলাধুলা ও তামাশার বস্তু বানিয়েছে এবং পার্থিব জীবন যাদের প্রতারিত করেছে। কুরআনের মাধ্যমে মানুষকে সতর্ক করুন, যাতে কোনো আত্মা নিজের কৃতকর্মের কারণে ধ্বংসের মুখে পতিত না হয়। সেদিন আল্লাহ ছাড়া তার কোনো অভিভাবক বা সুপারিশকারী থাকবে না। সে সব কিছু মুক্তিপণ হিসেবে দিতে চাইলেও তা গ্রহণ করা হবে না। সত্য প্রত্যাখ্যানের কারণে তাদের জন্য থাকবে ফুটন্ত পানি ও যন্ত্রণাদায়ক শাস্তি।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "وذر",
+      "lemma": "يَذَرَ",
+      "meaning_en": "leave or avoid",
+      "meaning_bn": "বর্জন করো বা ছেড়ে দাও",
+      "why_en": "Instructs believers to disconnect from those who trivialize faith."
+    },
+    {
+      "pos": 5,
+      "root": "لعب",
+      "lemma": "لَعِب",
+      "meaning_en": "play",
+      "meaning_bn": "খেল-তামাশা",
+      "why_en": "Denounces treating religion with shallow amusement rather than reverence."
+    },
+    {
+      "pos": 13,
+      "root": "بسل",
+      "lemma": "أُبْسِلُ",
+      "meaning_en": "is given over to ruin",
+      "meaning_bn": "ধ্বংসের মুখে নিক্ষিপ্ত হয়",
+      "why_en": "Warns of a soul being ruined and entrapped by its sinful deeds."
+    }
+  ],
+  "lesson_en": "Take faith seriously. On Judgment Day, no ransom or helper can rescue a soul from its deeds.",
+  "lesson_bn": "দ্বীনকে গুরুত্বের সাথে গ্রহণ করুন। কিয়ামতের দিন কোনো মুক্তিপণ বা সুপারিশকারী পাপী আত্মাকে বাঁচাতে পারবে না।",
+  "real_life_en": "Do not let entertainment and social trends make you view religious duties lightly. Time on earth is brief and purposeful. Keep the Quran as your guide so you do not trade eternal salvation for passing distractions.",
+  "real_life_bn": "দুনিয়ার ভোগবিলাস বা খেল-তামাশায় মগ্ন হয়ে ইবাদত ও দ্বীনদারীকে হালকাভাবে নেবেন না। পার্থিব জীবনের মোহ খুব দ্রুত শেষ হয়ে যায়। কুরআনের নসীহত মেনে চলুন, যাতে তুচ্ছ আনন্দের জন্য আখেরাতের অনন্ত কল্যাণ হারাতে না হয়।",
+  "context_en": "Allah instructs the Messenger on how to deal with disbelievers who treat sacred matters as jest while enjoying worldly distractions.",
+  "context_bn": "কাফেররা যখন ধর্ম নিয়ে ঠাট্টা-বিদ্রূপ করত ও পার্থিব ভোগে মেতে থাকত, তখন তাদের সঙ্গ ত্যাগ করার নির্দেশ দেওয়া হয়েছে।",
+  "themes": [
+    "hereafter",
+    "worldliness",
+    "accountability",
+    "punishment",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hellfire"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": [
+      "boiling water",
+      "ransom"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Believers are instructed to turn away from those who treat religion as mere play and are seduced by worldly pleasures.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "On the Day of Resurrection, no protector, intercessor, or ransom can save a ruined soul from divine justice.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

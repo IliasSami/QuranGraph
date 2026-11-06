@@ -1,0 +1,68 @@
+{
+  "id": "51:33",
+  "simple_en": "The angels explained their mission of justice. They were sent to strike the corrupt people with stones made of baked, hardened clay. This special punishment was decreed to bring an end to their widespread evil.",
+  "simple_bn": "ফেরেশতারা তাঁদের দায়িত্বের কথা জানিয়ে বললেন, আমরা তাদের ওপর শক্ত মাটির তৈরি পাথর নিক্ষেপ করতে এসেছি।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "to send down",
+      "meaning_bn": "নিক্ষেপ করা বা প্রেরণ করা",
+      "why_en": "The execution of the divine sentence of punishment."
+    },
+    {
+      "pos": 3,
+      "root": "حجر",
+      "lemma": "حِجارَة",
+      "meaning_en": "stones",
+      "meaning_bn": "পাথরসমূহ",
+      "why_en": "The physical means of punishment sent upon the town."
+    },
+    {
+      "pos": 5,
+      "root": "طين",
+      "lemma": "طِين",
+      "meaning_en": "clay",
+      "meaning_bn": "মাটি বা পোড়ামাটি",
+      "why_en": "Hardened clay formed into deadly stones by divine command."
+    }
+  ],
+  "lesson_en": "God stops cruelty and brings justice to the world.",
+  "lesson_bn": "মহান আল্লাহ অত্যাচারীদের জুলুম বন্ধ করেন এবং সমাজে ন্যায়বিচার প্রতিষ্ঠা করেন।",
+  "real_life_en": "Stand up against cruelty when you see it. Help make your home and school safe for all.",
+  "real_life_bn": "সমাজে কোনো অবিচার বা দুর্বলদের ওপর নির্যাতন দেখলে সাধ্যমতো বাধা দিন। ন্যায়ের পক্ষে অবস্থান নেওয়া প্রতিটি মুমিনের দায়িত্ব।",
+  "themes": [
+    "punishment",
+    "past nations",
+    "justice"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The angels were dispatched to rain down stones of baked clay upon the corrupt people.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

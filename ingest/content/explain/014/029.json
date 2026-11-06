@@ -1,0 +1,70 @@
+{
+  "id": "14:29",
+  "simple_en": "That place of ruin is Hell, where they will burn in blazing heat. How terrible and wretched an abode it is for those who rejected the truth.",
+  "simple_bn": "সেই ধ্বংসের স্থান হলো জাহান্নাম, যেখানে তারা আগুনে দগ্ধ হবে। সত্য অস্বীকারকারীদের জন্য তা কতই না নিকৃষ্ট বাসস্থান।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "صلي",
+      "lemma": "صَلِيَ",
+      "meaning_en": "they will burn in it",
+      "meaning_bn": "তারা এতে দগ্ধ হবে",
+      "why_en": "Suffering the heat of the fire."
+    },
+    {
+      "pos": 3,
+      "root": "بأس",
+      "lemma": "بِئْسَ",
+      "meaning_en": "and wretched is",
+      "meaning_bn": "আর কতই না নিকৃষ্ট",
+      "why_en": "Expressing extreme vileness."
+    },
+    {
+      "pos": 4,
+      "root": "قرر",
+      "lemma": "قَرار",
+      "meaning_en": "the settlement",
+      "meaning_bn": "আবাসস্থল",
+      "why_en": "Dwelling place."
+    }
+  ],
+  "lesson_en": "The punishment of Hell is real and awful. Seek safety in faith and good works.",
+  "lesson_bn": "জাহান্নামের শাস্তি অত্যন্ত ভয়াবহ ও সত্য। ঈমান ও নেক আমলের মাধ্যমে সেই আগুন থেকে মুক্তি খুঁজুন।",
+  "real_life_en": "A reckless driver races through busy streets, ignoring all red lights. He thinks consequences will never touch him until a crash happens. Reckless sin leads to bitter regret.",
+  "real_life_bn": "এক বেপরোয়া চালক লাল বাতি অমান্য করে দ্রুত গাড়ি চালায়। সে মনে করে কোনো বিপদ হবে না, কিন্তু একসময় দুর্ঘটনা ঘটে। পাপের অবহেলাও এভাবেই তিক্ত পরিণাম ডেকে আনে।",
+  "context_en": "Description of Hell as the final abode for ungrateful deniers.",
+  "context_bn": "অকৃতজ্ঞ কাফিরদের চূড়ান্ত ঠিকানা হিসেবে জাহান্নামের অগ্নিকুণ্ডের বর্ণনা।",
+  "themes": [
+    "hereafter",
+    "hellfire",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hell is the dreadful settlement where those who reject faith will burn.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

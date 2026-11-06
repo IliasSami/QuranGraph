@@ -1,0 +1,77 @@
+{
+  "id": "10:87",
+  "simple_en": "We revealed to Moses and Aaron: Build homes for your folk in Egypt. Turn your houses into places of prayer, keep up the prayer, and give good news to the believers.",
+  "simple_bn": "আর আমরা মূসা ও তার ভাইয়ের প্রতি ওহী পাঠালাম: তোমরা তোমাদের সম্প্রদায়ের জন্য মিসরে ঘর তৈরি কর, তোমাদের ঘরগুলোকে কিবলামুখী কর এবং সালাত কায়েম কর; আর মুমিনদের সুসংবাদ দাও।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "وحي",
+      "lemma": "أَوْحَى",
+      "meaning_en": "We inspired / revealed",
+      "meaning_bn": "আমরা ওহী পাঠালাম",
+      "why_en": "Divine instructions sent during the height of persecution."
+    },
+    {
+      "pos": 8,
+      "root": "مصر",
+      "lemma": "مِصْر",
+      "meaning_en": "in Egypt",
+      "meaning_bn": "মিসরে",
+      "why_en": "The land of trial where believers were instructed to organize."
+    },
+    {
+      "pos": 14,
+      "root": "صلو",
+      "lemma": "صَلاة",
+      "meaning_en": "the prayer",
+      "meaning_bn": "সালাত / নামায",
+      "why_en": "Anchoring communal spiritual life through regular worship."
+    }
+  ],
+  "lesson_en": "When external spaces become hostile, turn your own homes into sanctuaries of prayer and peace.",
+  "lesson_bn": "বাইরের পরিবেশ প্রতিকূল হলে নিজের ঘরকে ইবাদত ও আত্মিক প্রশান্তির কেন্দ্র বানিয়ে নিন।",
+  "real_life_en": "Make your home a place of daily prayer and remembrance. A home filled with worship brings calm and security to your whole family.",
+  "real_life_bn": "পরিবারের সবাইকে নিয়ে ঘরে নিয়মিত সালাত ও সৎ আলোচনার পরিবেশ গড়ে তুলুন; এটি ঘরে বরকত আনে।",
+  "themes": [
+    "homes as sanctuaries",
+    "establishing prayer",
+    "glad tidings in hardship"
+  ],
+  "kinds": [
+    "command",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa (Moses)",
+      "Harun (Aaron)"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt (Misr)"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "houses of prayer"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Moses and Aaron were instructed to convert their residences into places of collective prayer during danger.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

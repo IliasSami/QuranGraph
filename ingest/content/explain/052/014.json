@@ -1,0 +1,63 @@
+{
+  "id": "52:14",
+  "simple_en": "The angels will tell them with stern rebuke: this is the Fire you used to deny. You laughed at the warnings given by the prophets. Now the punishment stands right before your eyes. No one can deny what is clearly felt and seen.",
+  "simple_bn": "তাদেরকে ভর্ৎসনা করে বলা হবে, এই সেই আগুন যাকে তোমরা দুনিয়াতে মিথ্যা মনে করতে। রাসূলগণ যখন তোমাদের সতর্ক করেছিলেন তখন তোমরা তা নিয়ে উপহাস করেছিলে। আজ সেই আগুন তোমাদের সামনে উপস্থিত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the Fire",
+      "meaning_bn": "আগুন",
+      "why_en": "Points directly to the blazing Hellfire they persistently doubted."
+    },
+    {
+      "pos": 6,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "you used to deny",
+      "meaning_bn": "তোমরা মিথ্যা বলতে",
+      "why_en": "Reminds them that their present agony is the direct result of their past denial."
+    }
+  ],
+  "lesson_en": "Truth remains true even when people choose to mock and ignore it.",
+  "lesson_bn": "মানুষ অবহেলা বা অস্বীকার করলেও চরম সত্য কখনোই মিথ্যা হয়ে যায় না।",
+  "real_life_en": "Face uncomfortable truths honestly in your daily life. Ignoring debts, health issues, or moral faults will only make them worse.",
+  "real_life_bn": "জীবনের ভুলত্রুটি বা দুর্বলতাকে এড়িয়ে না গিয়ে সততার সাথে তা মোকাবিলা করুন।",
+  "context_en": "As the deniers are driven into Hell, they are confronted with their past denial.",
+  "context_bn": "জাহান্নামে ঠেলে দেওয়ার সময় অস্বীকারকারীদের তাদের অতীত অস্বীকৃতির কথা স্মরণ করিয়ে দেওয়া হয়।",
+  "themes": [
+    "Hell",
+    "denial",
+    "rebuke"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The deniers will be told in rebuke that this is the fire they used to deny.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": "7:79",
+  "simple_en": "Salih turned away from their ruined homes with deep sadness. He spoke his final words to them. He said he had delivered his Lord's message and given good advice. But they always hated those who told them the truth.",
+  "simple_bn": "সালিহ (আলাইহিস সালাম) গভীর বিষাদে ধ্বংসস্তূপের দিক থেকে মুখ ফিরিয়ে নিলেন। তিনি তাদের উদ্দেশে শেষ কথা বললেন। তিনি জানালেন যে তিনি রবের বাণী পৌঁছে দিয়েছিলেন এবং সঠিক উপদেশ দিয়েছিলেন। কিন্তু তারা সত্য প্রকাশকারীদের পছন্দ করত না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ولي",
+      "lemma": "تَوَلَّى",
+      "meaning_en": "so he turned away",
+      "meaning_bn": "অতঃপর তিনি মুখ ফিরিয়ে নিলেন",
+      "why_en": "Describes Salih leaving the destroyed people after their complete ruin."
+    },
+    {
+      "pos": 9,
+      "root": "نصح",
+      "lemma": "نَصَحُ",
+      "meaning_en": "and I gave you sincere advice",
+      "meaning_bn": "এবং আমি তোমাদের উপদেশ দিয়েছিলাম",
+      "why_en": "Reiterates the deep compassion and honest effort he spent trying to save them."
+    },
+    {
+      "pos": 14,
+      "root": "نصح",
+      "lemma": "নাصِح",
+      "meaning_en": "sincere advisers",
+      "meaning_bn": "হিতাকাঙ্ক্ষী বা উপদেশদাতাগণ",
+      "why_en": "Identifies their fatal flaw: resentment toward those who offered honest counsel."
+    }
+  ],
+  "lesson_en": "Do not resent those who offer sincere advice to protect you from harm.",
+  "lesson_bn": "সৎ উপদেশদাতাকে শত্রু মনে করবেন না, তাদের কথা মনোযোগ দিয়ে শুনুন।",
+  "real_life_en": "Do not get angry when someone points out your mistake. Sincere advice is a gift, not an insult. Listen to good friends who care enough to warn you.",
+  "real_life_bn": "কেউ ভুল ধরিয়ে দিলে রেগে যাবেন না। আন্তরিক উপদেশ কোনো অপমান নয়, বরং উপহার। আপনার ক্ষতি চান না এমন শুভাকাঙ্ক্ষীদের কথা গুরুত্ব দিয়ে শুনুন।",
+  "context_en": "Salih's poignant farewell speech to the lifeless corpses of Thamud, lamenting their fatal hatred of sincere guidance.",
+  "context_bn": "ধ্বংসস্তূপে পরিণত হওয়া জাতির লাশের সামনে দাঁড়িয়ে সালিহ (আলাইহিস সালাম)-এর আক্ষেপ ও বিদায়ী বক্তব্য।",
+  "themes": [
+    "advice",
+    "sorrow",
+    "Thamud",
+    "Salih",
+    "consequences",
+    "regret"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Salih"
+    ],
+    "nations": [
+      "Thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Salih turned away from his destroyed people, declaring that he had delivered his Lord's message and offered sincere advice.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Salih lamented that the fatal flaw of his people was their resentment toward sincere advisers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

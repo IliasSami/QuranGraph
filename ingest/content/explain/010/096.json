@@ -1,0 +1,74 @@
+{
+  "id": "10:96",
+  "simple_en": "Truly, those against whom your Lord word of judgment has been justified will not believe. Their persistent choice to deny the truth has sealed their doom.",
+  "simple_bn": "নিশ্চয় যাদের বিরুদ্ধে আপনার রবের শাস্তির বাক্য সাব্যস্ত হয়ে গেছে, তারা কখনো ঈমান আনবে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حقق",
+      "lemma": "حَقَّ",
+      "meaning_en": "is justified / proved true",
+      "meaning_bn": "সাব্যস্ত হয়ে গেছে",
+      "why_en": "Divine decree of justice falling upon stubborn deniers."
+    },
+    {
+      "pos": 5,
+      "root": "كلم",
+      "lemma": "كَلِمَة",
+      "meaning_en": "word / decree",
+      "meaning_bn": "বাণী / ফয়সালা",
+      "why_en": "The decreed consequence of persistent defiance."
+    },
+    {
+      "pos": 8,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "they believe",
+      "meaning_bn": "তারা ঈমান আনে",
+      "why_en": "Accepting monotheistic faith with sincerity."
+    }
+  ],
+  "lesson_en": "Staying in bad deeds can harden the heart until it can no longer accept good.",
+  "lesson_bn": "একটানা অন্যায় ও অবাধ্যতা অন্তরে এমন অন্ধত্ব তৈরি করে যা থেকে মানুষ আর ফিরে আসতে পারে না।",
+  "real_life_en": "Do not treat sins lightly or let arrogance settle in your heart. Soften your soul with regular repentance before it becomes stubborn.",
+  "real_life_bn": "পাপকে কখনো ছোট মনে করবেন না; নিয়মিত তওবা ও বিনম্র আচরণের মাধ্যমে অন্তরকে সজীব রাখুন।",
+  "themes": [
+    "decree of judgment",
+    "hardened hearts",
+    "stubborn disbelief"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "doomed deniers"
+    ],
+    "places": [],
+    "unseen": [
+      "divine decree"
+    ],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who stubbornly chose disbelief until Allah's decree finalized against them will not accept faith.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

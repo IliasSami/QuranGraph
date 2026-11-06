@@ -1,0 +1,62 @@
+{
+  "id": "24:7",
+  "simple_en": "And the fifth oath is a solemn call for God's curse upon the accuser if he is telling a lie. A false oath brings ruin upon the soul.",
+  "simple_bn": "আর পঞ্চমবারে সে বলবে যে, সে যদি মিথ্যাবাদী হয় তবে তার ওপর আল্লাহর অভিশাপ নেমে আসবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "خمس",
+      "lemma": "خامِسَة",
+      "meaning_en": "and the fifth",
+      "meaning_bn": "এবং পঞ্চম শপথ",
+      "why_en": "The decisive concluding oath in the legal procedure of mutual imprecation."
+    },
+    {
+      "pos": 3,
+      "root": "لعن",
+      "lemma": "لَعْنَة",
+      "meaning_en": "curse",
+      "meaning_bn": "অভিশাপ",
+      "why_en": "Expulsion from divine grace invoked against those who lie under oath."
+    }
+  ],
+  "lesson_en": "Calling down God's curse shows how grave it is to swear falsely in His name.",
+  "lesson_bn": "আল্লাহর নামে মিথ্যা শপথ করা অত্যন্ত ধ্বংসাত্মক অপরাধ। নিজের ওপর আল্লাহর লানত আহ্বান করার ভয় মানুষকে মিথ্যা থেকে বিরত রাখে।",
+  "real_life_en": "Never swear by God falsely in any matter. Keep your tongue truthful and remember that God knows all.",
+  "real_life_bn": "কখনো আল্লাহর নামে মিথ্যা শপথ করবেন না। মনে রাখবেন, মানুষের কাছে কোনো কথা গোপন রাখা গেলেও আল্লাহর কাছে কোনো কিছুই গোপন থাকে না।",
+  "themes": [
+    "oaths",
+    "divine-curse",
+    "truthfulness"
+  ],
+  "kinds": [
+    "law",
+    "oath",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The husband's fifth oath invokes the curse of God upon himself if his accusation is untruthful.",
+      "claim_bn": "স্বামী তার পঞ্চম শপথে মিথ্যাবাদী হওয়ার ক্ষেত্রে নিজের ওপর আল্লাহর অভিশাপ নেমে আসার স্বীকৃতি দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

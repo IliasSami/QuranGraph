@@ -1,0 +1,95 @@
+{
+ "id": "2:182",
+ "simple_en": "Changing a good will is wrong, but there is one clear case where you may step in. If a person makes a mistake in their will, or acts in an unfair way, you should help them fix it. Bringing peace between family members and setting things right brings no sin at all. It is a good deed, and Allah is most forgiving and kind.",
+ "simple_bn": "ন্যায়সঙ্গত অসিয়ত পরিবর্তন করা নিষেধ হলেও, যদি অসিয়তকারী কোনো অন্যায় বা ভুল করে তবে তা সংশোধনের সুযোগ রয়েছে। অসিয়তকারী যদি অনিচ্ছাকৃত ভুলবশত অথবা জেনে-শুনে কোনো অন্যায্য পক্ষপাতিত্ব করে, তবে তা শুধরে দেওয়া উচিত। যে ব্যক্তি অসিয়তকারীকে উপদেশ দিয়ে বা উত্তরাধিকারীদের মধ্যে সমঝোতা করিয়ে ন্যায় প্রতিষ্ঠা করে, তার কোনো অপরাধ হয় না। বরং এমন সৎ উদ্যোগের জন্য পুণ্য রয়েছে, আর আল্লাহ ক্ষমাশীল ও পরম দয়ালু।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "جنف",
+   "lemma": "جَنَف",
+   "meaning_en": "partiality or mistake",
+   "meaning_bn": "পক্ষপাত বা ভুল",
+   "why_en": "Refers to an unintentional error or deviation from fairness in a bequest."
+  },
+  {
+   "pos": 7,
+   "root": "أثم",
+   "lemma": "إِثْم",
+   "meaning_en": "sin or deliberate wrong",
+   "meaning_bn": "পাপ বা ইচ্ছাকৃত অন্যায়",
+   "why_en": "Refers to intentional injustice or favoritism by the testator."
+  },
+  {
+   "pos": 8,
+   "root": "صلح",
+   "lemma": "أَصْلَحَ",
+   "meaning_en": "made peace or reconciled",
+   "meaning_bn": "মীমাংসা করল বা সংশোধন করল",
+   "why_en": "Highlights that intervening to restore justice and reconcile family members is praiseworthy."
+  }
+ ],
+ "lesson_en": "Help people make peace when money causes a dispute. Fixing an unfair choice brings no blame.",
+ "lesson_bn": "সম্পত্তি নিয়ে বিরোধ দেখা দিলে বা অন্যায্য পরিস্থিতি তৈরি হলে প্রজ্ঞার সাথে সমঝোতা করুন এবং ন্যায় প্রতিষ্ঠা করুন।",
+ "real_life_en": "An uncle might leave money to one child and leave out others who are in deep need. If that happens, speak up with care. Help the family talk and share things in a fair way. That brings love back to the home and saves your uncle from doing wrong.",
+ "real_life_bn": "কোনো প্রবীণ আত্মীয় অসিয়তে কাউকে অন্যায্যভাবে বঞ্চিত করতে চাইলে তাকে কোমলভাবে বোঝান। সবার সাথে আলোচনা করে ন্যায়সঙ্গত বণ্টনের ব্যবস্থা করুন, যাতে পরিবারের ঐক্য টিকে থাকে এবং মৃত ব্যক্তিও অবিচারের দায় থেকে মুক্ত থাকেন।",
+ "context_en": "While the previous ayah strictly forbade changing a just will, this ayah permits correcting a will that contains mistakes or clear injustice.",
+ "context_bn": "পূর্ববর্তী আয়াতে সঠিক অসিয়ত পরিবর্তন নিষিদ্ধ করার পর, এই আয়াতে কোনো ভুল বা অন্যায্য অসিয়ত থাকলে তা সমঝোতার মাধ্যমে সংশোধন করার অনুমতি দেওয়া হয়েছে।",
+ "themes": [
+  "justice",
+  "family",
+  "forgiveness",
+  "Allah's mercy",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Ghafoor",
+   "Ar-Rahim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "If a testator makes an unintentional mistake (janafan) or intentionally acts unjustly (ithman), intervening to correct it is permitted.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Mediating between heirs and reconciling them upon justice and divine guidance carries no sin and earns Allah's reward.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah forgives those who rectify past wrongs and shows mercy to His servants who foster reconciliation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

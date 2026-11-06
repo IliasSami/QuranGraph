@@ -1,0 +1,82 @@
+{
+ "id": "5:99",
+ "simple_en": "The duty of the Messenger is only to convey the message clearly to people. Allah knows everything you reveal in public and everything you conceal in your hearts. He will reward or punish each person for their deeds.",
+ "simple_bn": "সুস্পষ্টভাবে বাণী পৌঁছে দেওয়া ছাড়া রাসূলের আর কোনো দায়িত্ব নেই। আর তোমরা প্রকাশ্যে যা প্রকাশ করো এবং গোপনে যা গোপন রাখো, আল্লাহ তা সবই জানেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "the Messenger",
+   "meaning_bn": "রাসূল",
+   "why_en": "His mission is faithful transmission of revelation, not forcing faith."
+  },
+  {
+   "pos": 5,
+   "root": "بلغ",
+   "lemma": "بَلاغ",
+   "meaning_en": "the notification / delivery",
+   "meaning_bn": "সুস্পষ্ট প্রচার বা পৌঁছে দেওয়া",
+   "why_en": "The clear conveyance of divine guidance leaves humanity with no excuse."
+  },
+  {
+   "pos": 11,
+   "root": "كتم",
+   "lemma": "كَتَمَ",
+   "meaning_en": "you conceal / hide",
+   "meaning_bn": "তোমরা গোপন রাখো",
+   "why_en": "Hidden thoughts and secret actions are never concealed from Allah's sight."
+  }
+ ],
+ "lesson_en": "Live with a pure heart. Allah sees what you do in the open and what you hide.",
+ "lesson_bn": "আল্লাহ আমাদের প্রকাশ্য ও গোপন সব বিষয় জানেন, তাই মনে ও কাজে সততা বজায় রাখা জরুরি।",
+ "real_life_en": "A student works on a take-home exam. Although no teacher is watching, she does not look at cheat sheets. She knows Allah is aware of what she keeps private.",
+ "real_life_bn": "অনলাইন পরীক্ষার সময় এক শিক্ষার্থী কোনো অসদুপায় অবলম্বন করে না। কেউ তাকে না দেখলেও সে বিশ্বাস করে যে, তার অন্তরের গোপন চিন্তা ও প্রকাশ্য কর্ম সম্পর্কে আল্লাহ সম্যক অবগত।",
+ "context_en": "Clarifies the scope of prophetic duty and Allah's complete knowledge of human deeds.",
+ "context_bn": "রাসূলের দায়িত্বের পরিধি এবং মানুষের প্রকাশ্য ও অপ্রকাশ্য সকল বিষয়ে আল্লাহর সার্বিক জ্ঞানের ঘোষণা।",
+ "themes": [
+  "Allah's knowledge",
+  "prophethood",
+  "revelation",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "description-of-allah",
+  "argument",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Messenger's duty is only to convey the revelation clearly.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah has full knowledge of what people reveal and what they keep secret.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "26:69",
+  "simple_en": "God commanded the Prophet to recite to his people the news of Ibrahim. His life and steadfast call to monotheism serve as a guiding light for all who seek the pure worship of the One Creator.",
+  "simple_bn": "আল্লাহ নবীকে নির্দেশ দিলেন যেন তিনি মানুষের কাছে ইব্রাহীমের বৃত্তান্ত পড়ে শোনান। তাঁর জীবনের ঘটনা একত্ববাদের উজ্জ্বল আদর্শ।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "recite",
+      "meaning_bn": "বর্ণনা করুন বা পাঠ করুন",
+      "why_en": "The instruction to recount the news of Ibrahim to the people."
+    },
+    {
+      "pos": 3,
+      "root": "نبأ",
+      "lemma": "نَبَأ",
+      "meaning_en": "the news or story",
+      "meaning_bn": "বৃত্তান্ত বা খবর",
+      "why_en": "The momentous account of Ibrahim's life and struggle for pure monotheism."
+    }
+  ],
+  "lesson_en": "The lives of the prophets are full of lessons. Reflecting on their struggles strengthens faith and resolve.",
+  "lesson_bn": "নবীদের জীবনকাহিনী মানুষের জন্য শ্রেষ্ঠ শিক্ষার উৎস। তাঁদের ত্যাগ ও সংগ্রাম আমাদের বিশ্বাসকে মজবুত করে।",
+  "real_life_en": "Read the stories of the prophets with your family. Learn how they faced hard times with patience. Follow their good example in your daily life.",
+  "real_life_bn": "পরিবারের সদস্যদের সাথে নিয়ে নবীদের জীবনের আদর্শ নিয়ে আলোচনা করুন। তাঁদের ধৈর্য ও প্রজ্ঞা থেকে শিক্ষা নিয়ে নিজের জীবন পরিচালনা করুন।",
+  "themes": [
+    "ibrahim",
+    "revelation",
+    "prophethood"
+  ],
+  "kinds": [
+    "story",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim",
+      "muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God commanded the Prophet to recite the story of Ibrahim to his people as an enduring lesson.",
+      "claim_bn": "আল্লাহ নবীকে নির্দেশ দিলেন যেন তিনি মানুষের কাছে ইব্রাহীমের কাহিনী বর্ণনা করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "53:1",
+  "simple_en": "Allah swears by the star when it sets or falls below the horizon. The setting star is a striking sign in the night sky. When it dips out of view, people notice how creation moves by Allah's precise law. Through this oath, Allah draws attention to the truth that follows.",
+  "simple_bn": "আল্লাহ নক্ষত্রের শপথ করেছেন যখন তা অস্তমিত হয় বা ডুবে যায়। রাতের আকাশে তারকার অস্ত যাওয়া এক চমৎকার নিদর্শন। এটি আমাদের স্মরণ করিয়ে দেয় যে সমগ্র সৃষ্টিজগতের প্রতিটি গতি মহান আল্লাহর নিখুঁত নিয়মে পরিচালিত হয়। এই শপথের মাধ্যমে পরবর্তী সত্য বাণীর প্রতি মনোযোগ আকর্ষণ করা হয়েছে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نجم",
+      "lemma": "نَجْم",
+      "meaning_en": "the star",
+      "meaning_bn": "নক্ষত্র বা তারকা",
+      "why_en": "The star is a visible sign in creation that moves by Allah's command."
+    },
+    {
+      "pos": 3,
+      "root": "هوي",
+      "lemma": "هَوَى",
+      "meaning_en": "descends / sets",
+      "meaning_bn": "অস্তমিত হয় বা পতিত হয়",
+      "why_en": "It describes the motion of the star as it disappears below the horizon."
+    }
+  ],
+  "lesson_en": "Reflect on the movement of the stars and remember the greatness of their Creator.",
+  "lesson_bn": "নক্ষত্রের গতিবিধি পর্যবেক্ষণ করে মহান স্রষ্টার অসীম ক্ষমতার কথা স্মরণ করুন।",
+  "real_life_en": "When you look up at the night sky, do not take the stars for granted. Think about the order in the universe and let it strengthen your trust in Allah.",
+  "real_life_bn": "রাতের পরিষ্কার আকাশের দিকে তাকিয়ে আল্লাহর সৃষ্টির মহিমা নিয়ে ভাবুন। এই সুশৃঙ্খল মহাবিশ্ব দেখে মনে গভীর বিশ্বাস ও প্রশান্তি তৈরি করুন।",
+  "context_en": "Surah an-Najm opens with an oath by the stars to confirm the truth of divine revelation.",
+  "context_bn": "সূরা আন-নাজম আসমানী ওহীর সত্যতা প্রমাণের জন্য তারকার শপথের মাধ্যমে শুরু হয়েছে।",
+  "themes": [
+    "oaths",
+    "creation",
+    "signs in nature"
+  ],
+  "kinds": [
+    "oath",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah swears by the star when it descends or sets.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,88 @@
+{
+  "id": "58:10",
+  "simple_en": "Harmful secret talks are only from Satan. He wants to cause grief and anxiety to the believers. But Satan cannot harm believers in any way unless Allah allows it. So let the believers put their full trust in Allah alone.",
+  "simple_bn": "ঈমানদারদের কষ্ট ও উদ্বেগে ফেলার জন্য ষড়যন্ত্রমূলক কানাঘুষা শয়তানের পক্ষ থেকেই হয়ে থাকে। তবে আল্লাহর অনুমতি ছাড়া শয়তান মুমিনদের কোনো ক্ষতি করতে পারে না। সুতরাং মুমিনদের উচিত একমাত্র আল্লাহর উপরই ভরসা রাখা।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نجو",
+      "lemma": "نَجْوَى",
+      "meaning_en": "secret talks",
+      "meaning_bn": "ষড়যন্ত্রমূলক কানাকানি",
+      "why_en": "Malicious whispering intended to create doubt, fear, and sadness among believers."
+    },
+    {
+      "pos": 4,
+      "root": "شطن",
+      "lemma": "شَيْطان",
+      "meaning_en": "Satan",
+      "meaning_bn": "শয়তান",
+      "why_en": "The sworn enemy who stirs evil thoughts to disturb the peace of believers."
+    },
+    {
+      "pos": 5,
+      "root": "حزن",
+      "lemma": "يَحْزُن",
+      "meaning_en": "that he may grieve",
+      "meaning_bn": "যাতে সে ব্যথিত ও চিন্তিত করতে পারে",
+      "why_en": "Exposes Satan's goal of making believers feel sad, lonely, and anxious."
+    },
+    {
+      "pos": 16,
+      "root": "وكل",
+      "lemma": "تَوَكَّلْ",
+      "meaning_en": "let rely",
+      "meaning_bn": "ভরসা করুক",
+      "why_en": "Directs believers to place absolute reliance on Allah's protection."
+    }
+  ],
+  "lesson_en": "Do not let evil whispers make you anxious; trust Allah, for none can harm you without His will.",
+  "lesson_bn": "কুচিন্তা বা ষড়যন্ত্র দেখে শঙ্কিত হবেন না; আল্লাহর ওপর ভরসা রাখুন, কারণ তাঁর ইচ্ছা ছাড়া কেউ ক্ষতি করতে পারে না।",
+  "real_life_en": "A worker sees two peers whispering in the hall and looking her way. She feels sudden worry that they are plotting against her. But she shakes off the fear and remembers Allah. She prays for peace, knowing that nobody can harm her without Allah's will.",
+  "real_life_bn": "এক নারী লক্ষ্য করেন যে অফিসের দুজন সহকর্মী আড়চোখে তাকিয়ে তার দিকে ফিসফিস করছে। তার মনে শয়তানি চিন্তা আসে যে হয়তো তাকে চাকরিচ্যুত করার ফন্দি হচ্ছে। তিনি অহেতুক দুশ্চিন্তা ঝেড়ে ফেলে আল্লাহর কাছে দোয়া করেন এবং নিজের কাজে মনোযোগ দেন।",
+  "themes": [
+    "Satan",
+    "trust in Allah",
+    "trials",
+    "faith"
+  ],
+  "kinds": [
+    "warning",
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "satan"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Evil secret whispering is from Satan to cause distress and grief to the believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Satan cannot harm believers except by the permission of Allah, so believers must rely on Allah alone.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

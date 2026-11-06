@@ -1,0 +1,63 @@
+{
+  "id": "37:36",
+  "simple_en": "They said with scorn: should we abandon the gods of our fathers just for the words of a mad poet? By using such hurtful names, they tried to insult the noble Prophet and dismiss the sacred truth he taught.",
+  "simple_bn": "তারা উপহাস করে বলত, আমরা কি এক উন্মাদ কবির কথায় আমাদের পূর্বপুরুষদের উপাস্যদের ছেড়ে দেব? এভাবেই তারা সত্যের নবীকে অপমান করার এবং পবিত্র কুরআনকে প্রত্যাখ্যান করার চেষ্টা করত।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "شعر",
+      "lemma": "شاعِر",
+      "meaning_en": "a poet",
+      "meaning_bn": "কবি",
+      "why_en": "False label they used to belittle the divine revelation as mere human poetry."
+    },
+    {
+      "pos": 6,
+      "root": "جنن",
+      "lemma": "مَجْنُون",
+      "meaning_en": "a madman",
+      "meaning_bn": "উন্মাদ / পাগল",
+      "why_en": "Insulting claim made by the pagans against the noble character of the Prophet ﷺ."
+    }
+  ],
+  "lesson_en": "When people cannot defeat the truth, they often attack the speaker.",
+  "lesson_bn": "সত্যের বার্তা খণ্ডন করতে না পারলে বিরোধীরা চরিত্র হননের পথ বেছে নেয়।",
+  "real_life_en": "When you stand up for what is right, some people may mock you or call you names. Stay calm, keep your dignity, and do not repay insults with insults.",
+  "real_life_bn": "ভালো কাজ করতে গেলে কেউ কটু কথা বললে ধৈর্য ধরুন। মানুষের কটূক্তিতে বিচলিত না হয়ে শান্ত মনে নিজের দায়িত্ব পালন করে যান।",
+  "themes": [
+    "false accusations",
+    "idolatry",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The idolaters refused to leave their false gods, falsely accusing the Prophet of being a mad poet.",
+      "claim_bn": "মুশরিকরা নিজেদের বাতিল উপাস্যদের ত্যাগ করতে অস্বীকার করত এবং নবীকে উন্মাদ কবি বলে মিথ্যা অপবাদ দিত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

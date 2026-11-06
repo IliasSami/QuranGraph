@@ -1,0 +1,71 @@
+{
+  "id": "20:113",
+  "simple_en": "We sent down this book as an Arabic Quran with clear warnings. This guidance helps people fear God. It also helps them heed its wise reminders.",
+  "simple_bn": "আমরা এই কিতাবকে আরবি ভাষায় কুরআনরূপে অবতীর্ণ করেছি এবং এতে নানাভাবে সতর্কবার্তা দিয়েছি, যাতে তারা আল্লাহকে ভয় করে অথবা এটি তাদের অন্তরে শিক্ষা জাগ্রত করে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "عرب",
+      "lemma": "عَرَبِيّ",
+      "meaning_en": "Arabic",
+      "meaning_bn": "আরবি",
+      "why_en": "Clear, eloquent linguistic vehicle for revelation."
+    },
+    {
+      "pos": 5,
+      "root": "صرف",
+      "lemma": "صَرَّفَ",
+      "meaning_en": "We repeated in various ways",
+      "meaning_bn": "আমরা নানাভাবে বর্ণনা করেছি",
+      "why_en": "Presenting diverse arguments and parables for impact."
+    },
+    {
+      "pos": 8,
+      "root": "وعد",
+      "lemma": "وَعِيد",
+      "meaning_en": "the warnings",
+      "meaning_bn": "সতর্কবাণী",
+      "why_en": "Deterrents against moral corruption and disobedience."
+    }
+  ],
+  "lesson_en": "The words of the Quran soften hard hearts. They guide believers to fear God and remember His truth.",
+  "lesson_bn": "কুরআনের বৈচিত্র্যময় সতর্কবার্তা ও বর্ণনাভঙ্গির উদ্দেশ্য হলো মানুষের হৃদয়কে নরম করা এবং সৎপথে ফিরিয়ে আনা।",
+  "real_life_en": "Read different parts of the Quran regularly. Its stories, laws, and warnings bring renewed light to the soul.",
+  "real_life_bn": "নিয়মিত কুরআনের নানা অংশ পাঠ করুন। এর উপদেশ ও সতর্কবার্তা মনকে সজাগ রাখে এবং অন্তরে আল্লাহর ভয় তৈরি করে।",
+  "themes": [
+    "arabic-quran",
+    "warnings",
+    "spiritual-awakening"
+  ],
+  "kinds": [
+    "belief",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran was revealed in Arabic with diverse warnings so people might attain mindfulness or take heed.",
+      "claim_bn": "কুরআনকে আরবিতে অবতীর্ণ করা হয়েছে এবং বিবিধ সতর্কবাণী দেওয়া হয়েছে যাতে মানুষ তাকওয়া অর্জন করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

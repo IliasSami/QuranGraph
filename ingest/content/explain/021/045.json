@@ -1,0 +1,64 @@
+{
+  "id": "21:45",
+  "simple_en": "Say: I only warn you through divine revelation from God. But the spiritually deaf cannot hear the call when they are warned of coming danger.",
+  "simple_bn": "বলুন: আমি তো কেবল আল্লাহর ওহীর মাধ্যমেই তোমাদের সতর্ক করছি। কিন্তু যারা বধির, তাদের যখন সতর্ক করা হয় তখন তারা এই ডাক শুনতে পায় না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نذر",
+      "lemma": "أَنذَرَ",
+      "meaning_en": "I warn you",
+      "meaning_bn": "আমি তোমাদের সতর্ক করি",
+      "why_en": "Prophetic mission delivering divine warnings."
+    },
+    {
+      "pos": 7,
+      "root": "صمم",
+      "lemma": "أَصَمّ",
+      "meaning_en": "the deaf",
+      "meaning_bn": "বধির",
+      "why_en": "Metaphor for willful spiritual deafness."
+    }
+  ],
+  "lesson_en": "Divine revelation is the only true warning. Those who close their hearts to truth become spiritually deaf to guidance.",
+  "lesson_bn": "আল্লাহর ওহীই হলো সত্যের নির্ভুল পথনির্দেশ। সত্যের প্রতি যারা হৃদয় বন্ধ করে রাখে, তারা প্রকৃতপক্ষে আধ্যাত্মিক বধির।",
+  "real_life_en": "Listen with an open heart to moral guidance. Do not let stubborn pride close your ears when someone offers you honest advice.",
+  "real_life_bn": "উন্মুক্ত হৃদয় নিয়ে নীতিবাক্য শুনুন। কেউ ভালো পরামর্শ দিলে অহংকারের কারণে কান বন্ধ করে রাখবেন না।",
+  "themes": [
+    "warning",
+    "revelation",
+    "spiritual-deafness",
+    "prophetic-duty"
+  ],
+  "kinds": [
+    "command",
+    "parable"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet warns solely through divine revelation, though those who deliberately ignore truth are like the deaf.",
+      "claim_bn": "রাসূল কেবল ওহীর মাধ্যমে সতর্ক করেন, কিন্তু যারা সত্য শুনতে চায় না তারা বধিরের মতো বধির থেকে যায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

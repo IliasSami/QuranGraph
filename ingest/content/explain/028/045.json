@@ -1,0 +1,71 @@
+{
+  "id": "28:45",
+  "simple_en": "God brought forth many generations after Moses, and long centuries passed over them. People forgot God's laws as time went by. You did not live among the people of Madyan to read God's signs to them. Rather, it is God who sends messengers with clear guidance.",
+  "simple_bn": "আল্লাহ মূসার পর বহু জাতি ও প্রজন্ম সৃষ্টি করেছিলেন এবং তাদের ওপর দীর্ঘ যুগ অতিবাহিত হয়েছিল। আপনি মাদইয়ানবাসীদের মাঝেও বসবাস করতেন না যে তাদের কাছে আল্লাহর আয়াত তিলাওয়াত করবেন। বরং আল্লাহই যুগে যুগে রাসূল প্রেরণ করেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "قُرُونًا",
+      "root": "قرن",
+      "lemma": "قَرْن",
+      "meaning_en": "generations",
+      "meaning_bn": "প্রজন্মসমূহ",
+      "why_en": "Generations of people created between Moses and Muhammad."
+    },
+    {
+      "pos": 18,
+      "arabic": "مُرْسِلِينَ",
+      "root": "رسل",
+      "lemma": "مُرْسِل",
+      "meaning_en": "sending messengers",
+      "meaning_bn": "রাসূল প্রেরণকারী",
+      "why_en": "Affirms God's constant practice of sending messengers."
+    }
+  ],
+  "lesson_en": "Faith can grow weak over long periods if people neglect reminders. God sends messengers to guide each era.",
+  "lesson_bn": "দীর্ঘ সময় পার হলে মানুষ প্রায়ই আল্লাহর বিধান ভুলে যায়। তাই সত্যের আলো পুনরুজ্জীবিত করতে আল্লাহ রাসূল পাঠান।",
+  "real_life_en": "Do not let busy days make you forget your faith. Stay close to the Quran and choose good friends.",
+  "real_life_bn": "সময়ের ব্যবধানে বা পার্থিব ব্যস্ততায় নিজের দ্বীন ও আদর্শ ভুলে যাবেন না। নিয়মিত কুরআন তিলাওয়াত ও নেককারদের সঙ্গ বজায় রাখুন।",
+  "themes": [
+    "messengers",
+    "history",
+    "remembrance",
+    "madyan"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad",
+      "Musa"
+    ],
+    "nations": [
+      "Madyan"
+    ],
+    "places": [
+      "Madyan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Generations passed after Moses and forgot their covenants, so God sent messengers to renew guidance.",
+      "claim_bn": "মূসার পর বহু যুগ অতিবাহিত হওয়ায় মানুষ অঙ্গীকার ভুলে গিয়েছিল, ফলে আল্লাহ পুনরায় রাসূল প্রেরণ করে সত্য পুনরুজ্জীবিত করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

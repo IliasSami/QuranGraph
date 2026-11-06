@@ -1,0 +1,85 @@
+{
+  "id": "7:185",
+  "simple_en": "Have they not looked at the vast dominion of the heavens and the earth? Allah created every single thing with purpose. Their own lifetimes may soon come to an end. If they do not believe in the Quran, what message will they trust?",
+  "simple_bn": "তারা কি আকাশমণ্ডলী ও পৃথিবীর সার্বভৌম কর্তৃত্ব এবং আল্লাহর সৃষ্টি করা সব কিছুর দিকে তাকিয়ে দেখে না? আর এটাও কি ভাবে না যে হয়তো তাদের নির্ধারিত শেষ সময় খুব কাছে এসে গেছে? এরপর তারা আর কোন বাণীতে ঈমান আনবে?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ملك",
+      "lemma": "مَلَكُوت",
+      "meaning_en": "the dominion / realm",
+      "meaning_bn": "সার্বভৌম কর্তৃত্ব",
+      "why_en": "The majestic creation and governance of the cosmos."
+    },
+    {
+      "pos": 17,
+      "root": "قرب",
+      "lemma": "اقْتَرَبَ",
+      "meaning_en": "has drawn near",
+      "meaning_bn": "নিকটে এসে গিয়েছে",
+      "why_en": "The nearing of their appointed life span and death."
+    },
+    {
+      "pos": 18,
+      "root": "أجل",
+      "lemma": "أَجَل",
+      "meaning_en": "their term / appointed time",
+      "meaning_bn": "তাদের নির্ধারিত সময়",
+      "why_en": "The end of one's worldly life and the start of accountability."
+    }
+  ],
+  "lesson_en": "Looking at nature and knowing life is short helps you turn to God.",
+  "lesson_bn": "মহাবিশ্বের বিশালতা পর্যবেক্ষণ এবং জীবনের ক্ষণস্থায়িত্বের উপলব্ধি মানুষকে সত্যগ্রহণে অনুপ্রাণিত করে।",
+  "real_life_en": "Take time to look at the sky, the stars, and the natural world. Life passes very quickly, and our time is limited. Live with clear purpose and turn to God while you still can.",
+  "real_life_bn": "মহাবিশ্বের রূপ দেখে স্রষ্টাকে স্মরণ করুন। জীবন অতি দ্রুত শেষ হয়ে যায়, তাই শুভ কাজে দেরি না করে এখনই সৎপথে চলুন।",
+  "context_en": "Urging people to reflect on the universe, the majesty of creation, and the urgency of life before time runs out.",
+  "context_bn": "সৃষ্টিজগতের নিদর্শন ও জীবনের অনিশ্চয়তা তুলে ধরে অবিলম্বে হেদায়েত গ্রহণের আহ্বান।",
+  "themes": [
+    "signs of creation",
+    "brevity of life",
+    "urgency of faith",
+    "reflection"
+  ],
+  "kinds": [
+    "argument",
+    "creation",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "mankind"
+    ],
+    "places": [
+      "heavens and earth"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "end of life"
+    ],
+    "things": [
+      "heavens",
+      "the earth",
+      "creation",
+      "revelation"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Contemplation of the cosmic realm and the reality of imminent death calls humanity to accept the Quran's divine message.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

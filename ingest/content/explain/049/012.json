@@ -1,0 +1,85 @@
+{
+  "id": "49:12",
+  "simple_en": "Believers must avoid making baseless assumptions about others, for some suspicion is a sin. Do not spy on people's private lives. Do not backbite or talk behind someone's back. Speaking ill of an absent brother is as repulsive as eating the dead flesh of your own brother. Fear Allah and turn back to Him, for Allah is full of forgiveness and mercy.",
+  "simple_bn": "আল্লাহ মুমিনদের ভিত্তিহীন ধারণা পোষণ থেকে দূরে থাকার নির্দেশ দেন, কারণ কিছু ধারণা সরাসরি পাপ। মানুষের গোপনীয়তা খুঁজে বেড়াবেন না এবং কারো পেছনে গীবত করবেন না। কোনো ভাইয়ের অনুপস্থিতিতে তার দোষ চর্চা করা মৃত ভাইয়ের গোশত খাওয়ার মতোই জঘন্য। আল্লাহকে ভয় করুন, নিশ্চয় আল্লাহ তওবা কবুলকারী এবং পরম দয়ালু।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "جنب",
+      "lemma": "اجْتَنَبُ",
+      "meaning_en": "avoid / stay away from",
+      "meaning_bn": "তোমরা দূরে থাকো বা বর্জন করো",
+      "why_en": "It strongly warns against dangerous habits that lead to sin."
+    },
+    {
+      "pos": 13,
+      "root": "جسس",
+      "lemma": "تَجَسَّسُ",
+      "meaning_en": "spy",
+      "meaning_bn": "গোয়েন্দাগিরি করা বা গোপন ত্রুটি খোঁজা",
+      "why_en": "It forbids investigating the private lives and faults of others."
+    },
+    {
+      "pos": 15,
+      "root": "غيب",
+      "lemma": "يَغْتَب",
+      "meaning_en": "backbite",
+      "meaning_bn": "গীবত করা",
+      "why_en": "It strictly forbids mentioning someone behind their back in a disliked way."
+    },
+    {
+      "pos": 30,
+      "root": "توب",
+      "lemma": "تَوّاب",
+      "meaning_en": "Accepting of repentance",
+      "meaning_bn": "তওবা কবুলকারী",
+      "why_en": "A name offering hope of forgiveness for those who stop backbiting."
+    }
+  ],
+  "lesson_en": "Backbiting and spying are destructive sins that ruin our relationships and faith.",
+  "lesson_bn": "গীবত করা এবং অন্যের দোষ খোঁজা এমন পাপ যা সম্পর্ক ও ঈমান দুটোই ধ্বংস করে।",
+  "real_life_en": "When people around you begin to gossip about someone who is not there, change the subject. Protect the honor of your friends, and never snoop into someone's phone or private messages.",
+  "real_life_bn": "আড্ডায় কারো অনুপস্থিতিতে তার সমালোচনা শুরু হলে কথা ঘুরিয়ে দিন। কারো অনুমতি ছাড়া তার ফোন বা ব্যক্তিগত বার্তা দেখবেন না।",
+  "themes": [
+    "good character",
+    "repentance",
+    "names and attributes of Allah",
+    "taqwa",
+    "brotherhood"
+  ],
+  "kinds": [
+    "prohibition",
+    "law",
+    "ethics",
+    "parable"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "at-tawwab",
+      "ar-rahim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers are commanded to avoid baseless suspicion, forbidden from spying and backbiting, and reminded that Allah accepts repentance.",
+      "claim_bn": "মুমিনদের কুধারণা পরিহার করতে, গুপ্তচরবৃত্তি ও গীবত থেকে বিরত থাকতে নির্দেশ দেওয়া হয়েছে, আর আল্লাহ তওবা কবুলকারী ও দয়ালু।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

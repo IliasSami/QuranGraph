@@ -1,0 +1,82 @@
+{
+  "id": "11:89",
+  "simple_en": "Shu'ayb warned his people not to let hatred toward him bring about their destruction. He reminded them of the terrible fates of Noah, Hud, and Salih. Also, the destroyed cities of the people of Lot were very near them in time and place.",
+  "simple_bn": "আর হে আমার সম্প্রদায়, আমার সাথে শত্রুতা যেন তোমাদের এমন অপরাধে লিপ্ত না করে যার কারণে তোমাদের ওপর তা-ই ঘটবে যা নূহ, হূদ বা সালিহের সম্প্রদায়ের ওপর ঘটেছিল। আর লূতের সম্প্রদায় তো তোমাদের থেকে খুব বেশি দূরে নয়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "شقق",
+      "lemma": "شِقاق",
+      "meaning_en": "opposition / dissent",
+      "meaning_bn": "বিরোধিতা / শত্রুতা",
+      "why_en": "Hostility driving people to reject divine truth."
+    },
+    {
+      "pos": 6,
+      "root": "صوب",
+      "lemma": "يُصِيبُ",
+      "meaning_en": "afflict / strike",
+      "meaning_bn": "আপতিত হওয়া",
+      "why_en": "The disaster that strikes obstinate nations."
+    },
+    {
+      "pos": 22,
+      "root": "بعد",
+      "lemma": "بَعِيد",
+      "meaning_en": "far off",
+      "meaning_bn": "দূরে",
+      "why_en": "Close historical and geographical proximity of Lot's people."
+    }
+  ],
+  "lesson_en": "Learn from the ruins of earlier nations rather than letting personal bias lead to ruin.",
+  "lesson_bn": "অতীতের ধ্বংসপ্রাপ্ত জাতিগুলোর ইতিহাস থেকে শিক্ষা নিয়ে শত্রুতা ও অহংকার পরিহার করুন।",
+  "real_life_en": "Never let dislike for a messenger or speaker make you reject good advice. Pay attention to warnings from history so you do not repeat the costly errors of others.",
+  "real_life_bn": "ব্যক্তিগত বিদ্বেষের কারণে সত্যকে অস্বীকার করবেন না। ইতিহাসের ভুল থেকে শিক্ষা নিয়ে নিজেকে সঠিক পথে পরিচালিত করুন।",
+  "themes": [
+    "lessons from history",
+    "warning to nations",
+    "prophetic counsel",
+    "destruction of tyrants"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb (peace be upon him)",
+      "Nuh (peace be upon him)",
+      "Hud (peace be upon him)",
+      "Salih (peace be upon him)",
+      "Lut (peace be upon him)"
+    ],
+    "nations": [
+      "People of Madyan",
+      "People of Nuh",
+      "People of Ad",
+      "People of Thamud",
+      "People of Lut"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Shu'ayb warned his nation that stubborn hostility toward him could bring down the same ruin that demolished the nearby peoples of previous prophets.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

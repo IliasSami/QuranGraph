@@ -1,0 +1,83 @@
+{
+  "id": "50:25",
+  "simple_en": "This punishment falls on the one who stopped others from doing good. He withheld charity from the poor. He crossed the moral limits set by Allah. He also spread doubts about Allah's promises.",
+  "simple_bn": "এই শাস্তি তাদের জন্য, যারা কল্যাণকর কাজে বাধা দিত, যাকাত ও দান আটকে রাখত, আল্লাহর নির্ধারিত সীমা লঙ্ঘন করত এবং তাঁর সতর্কবার্তায় সন্দেহ পোষণ করত।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "منع",
+      "lemma": "مَنّاع",
+      "meaning_en": "habitual preventer",
+      "meaning_bn": "প্রবল বাধাদানকারী",
+      "why_en": "Constantly withholding wealth and stopping others from doing good deeds."
+    },
+    {
+      "pos": 2,
+      "root": "خير",
+      "lemma": "خَيْر",
+      "meaning_en": "good",
+      "meaning_bn": "কল্যাণ",
+      "why_en": "Charity, obedience, and fulfilling the rights of others."
+    },
+    {
+      "pos": 3,
+      "root": "عدو",
+      "lemma": "مُعْتَد",
+      "meaning_en": "transgressor",
+      "meaning_bn": "সীমালঙ্ঘনকারী",
+      "why_en": "Crossing the moral and legal bounds set by Allah."
+    },
+    {
+      "pos": 4,
+      "root": "ريب",
+      "lemma": "مُرِيب",
+      "meaning_en": "doubter and cause of doubt",
+      "meaning_bn": "সন্দেহ পোষণকারী",
+      "why_en": "Living in skepticism regarding the promises and warnings of Allah."
+    }
+  ],
+  "lesson_en": "Be generous with your wealth. Respect moral limits and keep your heart free from doubt.",
+  "lesson_bn": "উদারভাবে দান করুন, আল্লাহর সীমারেখা মেনে চলুন এবং মনে কোনো সন্দেহ না রেখে ঈমানের ওপর অবিচল থাকুন।",
+  "real_life_en": "Encourage your friends and family to give charity and do good. Never hold back help or discourage others from doing right.",
+  "real_life_bn": "কাউকে ভালো কাজ বা দান করতে দেখলে নিরুৎসাহিত না করে তাকে উৎসাহ দিন এবং নিজে সামর্থ্য অনুযায়ী সাহায্য করুন।",
+  "context_en": "The specific sins of the obstinate denier are detailed: hindering good, transgression, and doubt.",
+  "context_bn": "কল্যাণে বাধা দেওয়া, সীমালঙ্ঘন ও সন্দেহের মতো যেসকল পাপ জাহান্নামে নিয়ে যায়, তার বিবরণ দেওয়া হয়েছে।",
+  "themes": [
+    "ethics",
+    "charity",
+    "justice",
+    "disbelief"
+  ],
+  "kinds": [
+    "warning",
+    "ethics",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The one thrown into Hell prevented good, transgressed limits, and harbored doubt.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

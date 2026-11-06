@@ -1,0 +1,71 @@
+{
+  "id": "36:73",
+  "simple_en": "People get many other benefits from cattle, such as warm wool and fresh milk to drink. When they enjoy these great gifts, will they not thank Allah?",
+  "simple_bn": "এই গবাদিপশুর মধ্যে মানুষের জন্য আরও বহুবিধ উপকারিতা এবং সুস্বাদু পানীয় রয়েছে। এত নিয়ামত পাওয়ার পরও কি তারা আল্লাহর কৃতজ্ঞতা প্রকাশ করবে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نفع",
+      "lemma": "مَنافِع",
+      "meaning_en": "benefits",
+      "meaning_bn": "উপকারিতাসমূহ",
+      "why_en": "Wool, leather, hair, and labor derived from domestic animals."
+    },
+    {
+      "pos": 4,
+      "root": "شرب",
+      "lemma": "مَشْرَب",
+      "meaning_en": "and drinks",
+      "meaning_bn": "এবং পানীয়সমূহ",
+      "why_en": "Pure, nourishing milk produced within livestock."
+    },
+    {
+      "pos": 6,
+      "root": "شكر",
+      "lemma": "شَكَرَ",
+      "meaning_en": "they give thanks",
+      "meaning_bn": "তারা শুকরিয়া আদায় করবে",
+      "why_en": "A loving reminder that divine blessings require humble gratitude."
+    }
+  ],
+  "lesson_en": "Animals give us food, drink, and goods, calling for thanks to Allah.",
+  "lesson_bn": "গবাদিপশুর মাধ্যমে অসংখ্য উপকার পাওয়া যায়, যার জন্য আল্লাহর শুকরিয়া আদায় করা আবশ্যক।",
+  "real_life_en": "Say thanks to Allah whenever you eat good food or drink milk. Use the strength you get from His gifts to do good deeds.",
+  "real_life_bn": "প্রতিদিন খাবার ও দুধ পান করার সময় আল্লাহর নিয়ামতের কথা স্মরণ করে শুকরিয়া জানান। তাঁর দেওয়া সুস্থতা ও শক্তি দিয়ে ভালো কাজ করুন।",
+  "themes": [
+    "gratitude",
+    "blessings",
+    "sustenance",
+    "creation"
+  ],
+  "kinds": [
+    "creation",
+    "argument",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Livestock provide diverse benefits and nourishing drinks for humans, who ought to give thanks to Allah.",
+      "claim_bn": "গবাদিপশু থেকে মানুষ নানাবিধ উপকার ও দুগ্ধজাত পানীয় লাভ করে, সুতরাং তাদের কৃতজ্ঞ হওয়া উচিত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

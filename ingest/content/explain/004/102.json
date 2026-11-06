@@ -1,0 +1,99 @@
+{
+ "id": "4:102",
+ "simple_en": "When facing an enemy in battle, the leader divides the soldiers into two groups for prayer. One group prays with him while holding their weapons. The other group stands guard. When the first group finishes one unit, they take guard so the second group can pray. Disbelievers hope you leave your weapons behind so they can attack. You may put down your weapons if you are sick or if heavy rain falls, but always stay alert.",
+ "simple_bn": "যুদ্ধের ময়দানে বিপদের মুখে ইমামের নেতৃত্বে সালাত আদায়ের সময় বাহিনীকে দুই দলে ভাগ করতে বলা হয়েছে। এক দল অস্ত্র সাথে নিয়ে ইমামের সঙ্গে সালাতে দাঁড়াবে, আর অন্য দল পাহারায় থাকবে। প্রথম দল এক রাকাত পড়ে পাহারায় গেলে অপর দল এসে ইমামের সঙ্গে সালাত শেষ করবে। কাফেররা চায় তোমরা অসতর্ক হও, যাতে তারা অতর্কিত হামলা করতে পারে। বৃষ্টি বা অসুস্থতার কারণে অস্ত্র রেখে দেওয়া জায়েজ হলেও মুমিনদের সর্বদা সতর্ক থাকতে হবে।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "طوف",
+   "lemma": "طائِفَة",
+   "meaning_en": "a group or detachment",
+   "meaning_bn": "একদল সৈন্য",
+   "why_en": "Refers to dividing soldiers into alternating groups to balance worship with defense."
+  },
+  {
+   "pos": 12,
+   "root": "سلح",
+   "lemma": "أَسْلِحَت",
+   "meaning_en": "their weapons",
+   "meaning_bn": "তাদের অস্ত্রশস্ত্র",
+   "why_en": "Emphasizes the necessity of carrying defense gear even during religious worship."
+  },
+  {
+   "pos": 26,
+   "root": "حذر",
+   "lemma": "حِذْر",
+   "meaning_en": "their precaution / vigilance",
+   "meaning_bn": "তাদের সতর্কতা",
+   "why_en": "Highlights that taking active security precautions is a religious obligation."
+  },
+  {
+   "pos": 62,
+   "root": "هون",
+   "lemma": "مُهِين",
+   "meaning_en": "humiliating",
+   "meaning_bn": "লাঞ্ছনাদায়ক",
+   "why_en": "Describes the shameful torment awaiting disbelievers who plot against the faithful."
+  }
+ ],
+ "lesson_en": "Never leave your prayer even in danger. Stay watchful while you worship your Lord.",
+ "lesson_bn": "চরম বিপদের সময়েও সালাত ত্যাগ করা যাবে না, বরং ইবাদতের পাশাপাশি পূর্ণ সতর্কতা অবলম্বন করতে হবে।",
+ "real_life_en": "When you face danger or heavy stress at work, take turns with others to pray. Do your duties with care while keeping your heart tied to Allah.",
+ "real_life_bn": "জরুরি দায়িত্ব পালন বা চরম ব্যস্ততার মধ্যেও সময় ভাগ করে সালাত আদায় করুন। নিজের নিরাপত্তা বজায় রেখে আল্লাহর ইবাদতকে অগ্রাধিকার দেওয়াই মুমিনের দায়িত্ব।",
+ "context_en": "Building upon shortening prayer during travel, this verse details the specific battlefield prayer known as Salat al-Khawf.",
+ "context_bn": "সফরে সালাত সংক্ষেপ করার পর, শত্রুভীতির মুখে যুদ্ধের ময়দানে সালাতুল খাওফ বা ভয়ের সালাত আদায়ের নিয়ম এখানে বর্ণনা করা হয়েছে।",
+ "themes": [
+  "prayer",
+  "worship",
+  "struggle in Allah's way",
+  "taqwa"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "worship"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "During fear in battle, the army divides into two groups so one prays while the other stands guard.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Soldiers are commanded to keep their weapons with them during prayer to prevent ambush.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Concessions exist to lay aside weapons if hindered by rain or illness, while keeping vigilant.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

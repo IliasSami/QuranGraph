@@ -1,0 +1,66 @@
+{
+  "id": "17:107",
+  "simple_en": "Say, 'Believe in it or do not believe. Those who were given true knowledge before it fall down upon their faces in humble prostration when it is recited to them.'",
+  "simple_bn": "বলুন, 'তোমরা এতে ঈমান আনো বা না আনো, এর পূর্বে যাদের জ্ঞান দেওয়া হয়েছিল তাদের কাছে যখন এটি তিলাওয়াত করা হয় তখন তারা সিজদায় লুটিয়ে পড়ে।'",
+  "key_words": [
+    {
+      "pos": 14,
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "is recited",
+      "meaning_bn": "পাঠ করা হয়",
+      "why_en": "The moving sound of divine verses."
+    },
+    {
+      "pos": 18,
+      "root": "سجد",
+      "lemma": "ساجِد",
+      "meaning_en": "prostrating",
+      "meaning_bn": "সিজদাবনত",
+      "why_en": "Physical submission expressing awe of God."
+    }
+  ],
+  "lesson_en": "True knowledge leads to humility. When sincere scholars hear God words, their hearts bow down in awe.",
+  "lesson_bn": "প্রকৃত জ্ঞান মানুষকে বিনয়ী করে তোলে। নিষ্ঠাবান আলেমগণ ঐশী বাণীর গভীরতা শুনে শ্রদ্ধায় স্রষ্টার সামনে সিজদায় অবনত হন।",
+  "real_life_en": "Let your learning make you more humble before God and kind toward people. Avoid arrogance as your knowledge grows.",
+  "real_life_bn": "জ্ঞান ও শিক্ষা যেন অন্তরে অহংকার না এনে বিনয় বৃদ্ধি করে। আল্লাহর মাহাত্ম্য স্মরণ করে নিজেকে সবসময় ছোট মনে করুন।",
+  "themes": [
+    "prostration",
+    "people-of-knowledge",
+    "humility",
+    "sincere-scholars"
+  ],
+  "kinds": [
+    "argument",
+    "worship"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Whether skeptics believe or not, sincere scholars endowed with earlier knowledge fall in prostration when the Quran is recited.",
+      "claim_bn": "অহংকারীরা বিশ্বাস না করলেও অতীত গ্রন্থের নিষ্ঠাবান জ্ঞানীরা কোরআন শুনে শ্রদ্ধায় সিজদায় লুটিয়ে পড়েন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

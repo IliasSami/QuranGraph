@@ -1,0 +1,81 @@
+{
+  "id": "11:11",
+  "simple_en": "The exception is those who practice patience in hard times and do good deeds in ease. For them there is full forgiveness for their sins and a magnificent reward in the Hereafter.",
+  "simple_bn": "তবে যারা বিপদে ধৈর্য ধারণ করে এবং সৎকাজ করে তারা এর ব্যতিক্রম। তাদের জন্যই রয়েছে পাপের ক্ষমা এবং মহা প্রতিদান।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "are patient",
+      "meaning_bn": "ধৈর্য ধারণ করল",
+      "why_en": "Steadfastness during trials without complaining against God."
+    },
+    {
+      "pos": 5,
+      "root": "صلح",
+      "lemma": "صالِحَة",
+      "meaning_en": "righteous deeds",
+      "meaning_bn": "সৎকর্মসমূহ",
+      "why_en": "Actions done sincerely in accordance with divine law."
+    },
+    {
+      "pos": 8,
+      "root": "غفر",
+      "lemma": "مَّغْفِرَة",
+      "meaning_en": "forgiveness",
+      "meaning_bn": "ক্ষমা",
+      "why_en": "Divine pardoning of faults and sins."
+    },
+    {
+      "pos": 10,
+      "root": "كبر",
+      "lemma": "كَبِير",
+      "meaning_en": "great / immense",
+      "meaning_bn": "মহা / বিশাল",
+      "why_en": "The unbounded scale of the heavenly reward."
+    }
+  ],
+  "lesson_en": "Patience in trials and good deeds bring great forgiveness.",
+  "lesson_bn": "বিপদে ধৈর্য এবং সুদিনে নেক আমলই মানুষকে আল্লাহর ক্ষমা ও চিরস্থায়ী জান্নাতের যোগ্য করে তোলে।",
+  "real_life_en": "Stay calm when plans fail, and keep praying and doing good when life goes well. Consistency in every season is the hallmark of true faith.",
+  "real_life_bn": "পরিস্থিতি ভালো হোক কিংবা খারাপ, সর্বদা আল্লাহর আনুগত্যে অটল থাকুন; এই দৃঢ়তাই আপনাকে সফল করবে।",
+  "themes": [
+    "patience",
+    "righteous deeds",
+    "divine forgiveness",
+    "great reward"
+  ],
+  "kinds": [
+    "promise",
+    "glad-tidings",
+    "ethics",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Paradise"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "True believers are distinguished by patience in trials and good deeds in ease, earning complete forgiveness and great reward.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

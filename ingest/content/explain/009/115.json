@@ -1,0 +1,72 @@
+{
+  "id": "9:115",
+  "simple_en": "Allah would never let a people go astray after He has guided them until He makes clear to them what they must avoid. Indeed, Allah is All-Knowing of everything.",
+  "simple_bn": "আল্লাহ এমন নন যে কোনো জাতিকে হিদায়াত দেওয়ার পর বিভ্রান্ত করবেন, যতক্ষণ না তিনি তাদের জন্য স্পষ্টভাবে বুঝিয়ে দেন যে বিষয়ে তাদের বেঁচে থাকতে হবে। নিশ্চয় আল্লাহ সর্ববিষয়ে সম্যক অবগত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ضلل",
+      "lemma": "أَضَلَّ",
+      "meaning_en": "to let go astray / condemn as lost",
+      "meaning_bn": "বিভ্রান্ত করবেন / বিপথগামী সাব্যস্ত করবেন",
+      "why_en": "Holding people accountable only after clear guidance arrives."
+    },
+    {
+      "pos": 10,
+      "root": "بين",
+      "lemma": "بَيَّنُ",
+      "meaning_en": "He clarifies / explains",
+      "meaning_bn": "স্পষ্ট বুঝিয়ে দেন",
+      "why_en": "Divine mercy establishing laws before holding people guilty."
+    },
+    {
+      "pos": 13,
+      "root": "وقي",
+      "lemma": "اتَّقَى",
+      "meaning_en": "they should avoid / fear",
+      "meaning_bn": "তাদের বেঁচে চলতে হবে",
+      "why_en": "Prohibitions and guardrails protecting human souls."
+    }
+  ],
+  "lesson_en": "God warns people clearly before He holds them to account.",
+  "lesson_bn": "সঠিক দিকনির্দেশনা ও সতর্কবার্তা ছাড়া মহান আল্লাহ কাউকেই পাকড়াও করেন না।",
+  "real_life_en": "As a leader or parent, do not scold people for rules they never knew. Explain what you expect before blaming anyone.",
+  "real_life_bn": "নেতৃত্বে থাকলে স্পষ্ট নিয়ম জানিয়ে না দিয়ে কারও ওপর দোষ চাপাবেন না; শাসন করার আগে সবসময় নিয়ম বুঝিয়ে দেওয়া জরুরি।",
+  "themes": [
+    "divine justice",
+    "clear guidance",
+    "no penalty without notice"
+  ],
+  "kinds": [
+    "argument",
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "All-Knowing"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Divine justice dictates that no community is held accountable or judged astray before explicit commandments and prohibitions are conveyed.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

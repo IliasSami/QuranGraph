@@ -1,0 +1,73 @@
+{
+  "id": "8:57",
+  "simple_en": "If you face these traitors in war, strike them hard to scatter their followers. Make them a clear warning so other enemies will think twice and stop their plots.",
+  "simple_bn": "অতএব যদি তুমি যুদ্ধে তাদের কাবু করতে পারো, তবে তাদের দৃষ্টান্তমূলক শাস্তির মাধ্যমে তাদের পেছনের লোকদের ছত্রভঙ্গ করে দাও, যাতে তারা শিক্ষা গ্রহণ করে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ثقف",
+      "lemma": "ثُقِفُ",
+      "meaning_en": "you capture / overcome",
+      "meaning_bn": "তুমি তাদের কাবু করো",
+      "why_en": "Securing victory over aggressive enemies in battle."
+    },
+    {
+      "pos": 5,
+      "root": "شرد",
+      "lemma": "شَرِّدْ",
+      "meaning_en": "scatter / disperse",
+      "meaning_bn": "ছত্রভঙ্গ করে দাও",
+      "why_en": "Creating deterrence to prevent future aggression."
+    },
+    {
+      "pos": 10,
+      "root": "ذكر",
+      "lemma": "تَذَكَّرَ",
+      "meaning_en": "they may take heed",
+      "meaning_bn": "তারা শিক্ষা গ্রহণ করে",
+      "why_en": "Learning from the consequences of treachery."
+    }
+  ],
+  "lesson_en": "Strong justice against cruel cheats keeps innocent people safe from harm.",
+  "lesson_bn": "বিশ্বাসঘাতক আক্রমণকারীদের বিরুদ্ধে কঠোর ব্যবস্থা গ্রহণ সমাজে শান্তি ও শৃঙ্খলা রক্ষা করে।",
+  "real_life_en": "Enforce firm rules when dealing with chronic bullies or cheats. A clear, decisive penalty stops further harm and teaches others that betrayal has real costs.",
+  "real_life_bn": "অন্যায় ও প্রতারণার বিরুদ্ধে কঠোর অবস্থান নিন। অন্যায়কারীকে দৃষ্টান্তমূলক শাস্তি দিলে অন্যরাও সতর্ক হয় এবং সমাজে শান্তি ফিরে আসে।",
+  "context_en": "Authorizing decisive military deterrence against repeated covenant-breakers to prevent further treason.",
+  "context_bn": "বারংবার বিশ্বাসঘাতকতাকারীদের বিরুদ্ধে কঠোর সামরিক পদক্ষেপ নিয়ে শান্তি বিঘ্নকারীদের জন্য দৃষ্টান্ত স্থাপনের নির্দেশ।",
+  "themes": [
+    "deterrence",
+    "justice",
+    "defense",
+    "law enforcement"
+  ],
+  "kinds": [
+    "command",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "covenant breakers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Decisive punishment in battle against habitual treaty-breakers serves as a deterrent to others.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

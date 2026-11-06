@@ -1,0 +1,76 @@
+{
+ "id": "70:36",
+ "simple_en": "This ayah asks why the disbelievers rush toward the Prophet with hurried steps. They gather around him with stretched necks, staring and mocking what he recites. Instead of listening to find truth, they come only to argue, laugh, and turn others away from the message of Islam.",
+ "simple_bn": "এই আয়াতে প্রশ্ন করা হয়েছে, সত্য অস্বীকারকারীরা কেন নবীর দিকে ছুটে আসছে। তারা ঘাড় উঁচিয়ে ভিড় জমায় এবং যা শোনানো হয় তা নিয়ে ঠাট্টা করে। সত্য জানার জন্য নয়, বরং তর্ক করা ও মানুষকে দূরে সরিয়ে দেওয়াই ছিল তাদের উদ্দেশ্য।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "كفر",
+   "lemma": "كَفَرَ",
+   "meaning_en": "disbelieved",
+   "meaning_bn": "কুফরি করেছে, সত্য অস্বীকার করেছে",
+   "why_en": "It identifies the group rejecting the Prophet's call."
+  },
+  {
+   "pos": 4,
+   "root": "قبل",
+   "lemma": "قِبَل",
+   "meaning_en": "toward you, before you",
+   "meaning_bn": "আপনার দিকে, আপনার সামনে",
+   "why_en": "They rushed right in front of the Prophet to mock him."
+  },
+  {
+   "pos": 5,
+   "root": "هطع",
+   "lemma": "مُهْطِع",
+   "meaning_en": "hastening, craning necks",
+   "meaning_bn": "ছুটে আসছে, দ্রুত এগিয়ে আসছে",
+   "why_en": "It paints a picture of people rushing with outstretched necks to stare and mock."
+  }
+ ],
+ "lesson_en": "Approach guidance with a humble desire to learn, not to argue or make fun of it.",
+ "lesson_bn": "তর্ক বা উপহাস করার জন্য নয়, বরং শেখার জন্য নম্র মনে সত্যের কাছে আসুন।",
+ "real_life_en": "A person joins a discussion online only to pick fights and post rude comments. He never stops to understand what is being said. Listening quietly before reacting saves a person from falling into foolish pride.",
+ "real_life_bn": "একজন ব্যক্তি ইন্টারনেটে আলোচনায় যোগ দেয় কেবল ঝগড়া করতে ও খারাপ মন্তব্য লিখতে। সে অন্যের কথা বোঝার চেষ্টাও করে না। প্রতিক্রিয়া জানানোর আগে মন দিয়ে শুনলে অহংকার ও বোকামি থেকে বাঁচা যায়।",
+ "themes": [
+  "mockery",
+  "disbelief",
+  "Prophet Muhammad"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The disbelievers rushed toward the Prophet in crowds to reject his message and mock him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "They hastened with outstretched necks to sit around him in denial.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

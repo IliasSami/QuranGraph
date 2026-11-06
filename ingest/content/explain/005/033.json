@@ -1,0 +1,100 @@
+{
+  "id": "5:33",
+  "simple_en": "This law deals with armed bandits who attack travelers and spread terror. When criminals wage war against the community, lawful rulers must stop them firmly. Based on the crime, penalties include execution, cross-amputation, or exile. These strict punishments protect innocent people from chaos. They bring disgrace in this world and severe pain in the Hereafter.",
+  "simple_bn": "এই আয়াতে সমাজে ত্রাস সৃষ্টিকারী ও সশস্ত্র ডাকাতদের শাস্তির বিধান দেওয়া হয়েছে। যারা নিরস্ত্র মানুষের ওপর হামলা চালায় ও জনজীবনে বিশৃঙ্খলা সৃষ্টি করে, সমাজকে রক্ষায় তাদের কঠোর শাস্তি দিতে হবে। অপরাধের ধরন অনুযায়ী বিচারক মৃত্যুদণ্ড, অঙ্গচ্ছেদ বা নির্বাসন দেন। এটি দুনিয়াতে তাদের জন্য চরম লাঞ্ছনা এবং পরকালে তাদের জন্য রয়েছে কঠিন আযাব।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حرب",
+      "lemma": "حارَبَ",
+      "meaning_en": "wage war",
+      "meaning_bn": "যুদ্ধ করে",
+      "why_en": "Refers to armed banditry and acts of terror against peaceful society."
+    },
+    {
+      "pos": 10,
+      "root": "فسد",
+      "lemma": "فَساد",
+      "meaning_en": "corruption",
+      "meaning_bn": "ফাসাদ / বিশৃঙ্খলা",
+      "why_en": "Causing widespread fear, bloodshed, and highway robbery."
+    },
+    {
+      "pos": 20,
+      "root": "خلف",
+      "lemma": "خِلاف",
+      "meaning_en": "opposite sides",
+      "meaning_bn": "বিপরীত দিক",
+      "why_en": "The specific legal penalty for armed theft involving cutting crosswise."
+    },
+    {
+      "pos": 27,
+      "root": "خزي",
+      "lemma": "خِزْى",
+      "meaning_en": "disgrace",
+      "meaning_bn": "লাঞ্ছনা / অপমান",
+      "why_en": "The public humiliation and deterrence faced by criminals in this world."
+    }
+  ],
+  "lesson_en": "Protect peace in society. Stand firm against those who spread violence and fear.",
+  "lesson_bn": "সমাজে শান্তি রক্ষা করুন। যারা সহিংসতা ও আতঙ্ক ছড়ায়, তাদের বিরুদ্ধে দৃঢ়ভাবে দাঁড়ান।",
+  "real_life_en": "A gang threatens a quiet neighborhood with armed robberies and fear. The community relies on the legal system to arrest and punish them. Strict laws ensure that roads remain safe and families sleep in peace.",
+  "real_life_bn": "একটি সশস্ত্র চক্র সড়কে পথচারীদের জিম্মি করে অর্থ লুট করে ও আতঙ্ক ছড়ায়। দেশের আইন প্রয়োগকারী সংস্থা তাদের গ্রেপ্তার করে দৃষ্টান্তমূলক শাস্তি দেয়। সমাজে শান্তি ও জননিরাপত্তা বজায় রাখতে অপরাধীদের প্রতিহত করা আবশ্যক।",
+  "context_en": "Prescribes strict legal measures against violent bandits and terrorists to safeguard public peace and security.",
+  "context_bn": "জননিরাপত্তা রক্ষা ও নৈরাজ্য দমনে সশস্ত্র ডাকাত এবং সন্ত্রাসীদের বিরুদ্ধে কঠোর দণ্ডবিধির ঘোষণা।",
+  "themes": [
+    "justice",
+    "law",
+    "punishment",
+    "warning",
+    "peace"
+  ],
+  "kinds": [
+    "law",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who wage war against society and spread violent corruption face severe legal punishments set by authorities.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Depending on their crimes, penalties include execution, crucifixion, cutting limbs crosswise, or exile.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Such harsh measures bring public disgrace in this life and an immense punishment in the Hereafter.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-maarif",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "often-misquoted",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

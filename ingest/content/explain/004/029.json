@@ -1,0 +1,100 @@
+{
+ "id": "4:29",
+ "simple_en": "O believers, do not consume each other's wealth unlawfully. Do not steal, cheat, take bribes, or earn money through dishonest tricks. Instead, trade with one another through honest business based on mutual consent. Also, do not kill yourselves or take the lives of one another. Allah is always Merciful to you.",
+ "simple_bn": "হে মুমিনগণ, তোমরা অন্যায়ভাবে একে অপরের সম্পদ গ্রাস করো না। চুরি, ধোঁকা, ঘুষ কিংবা কোনো অসদুপায়ে অর্থ উপার্জন করো না। বরং পারস্পরিক সম্মতির ভিত্তিতে সততার সাথে ব্যবসা-বাণিজ্য করো। আর তোমরা নিজেদের হত্যা করো না কিংবা একে অপরের প্রাণ নিও না। নিশ্চয় আল্লাহ তোমাদের প্রতি সর্বদা পরম দয়ালু।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "بطل",
+   "lemma": "باطِل",
+   "meaning_en": "unjustly / unlawfully",
+   "meaning_bn": "অন্যায়ভাবে / অসদুপায়ে",
+   "why_en": "Prohibits acquiring wealth through any forbidden means like theft, usury, or deception."
+  },
+  {
+   "pos": 12,
+   "root": "تجر",
+   "lemma": "تِجارَة",
+   "meaning_en": "trade / commerce",
+   "meaning_bn": "ব্যবসা-বাণিজ্য",
+   "why_en": "Identifies legitimate trade as the lawful way to exchange goods and earn wealth."
+  },
+  {
+   "pos": 14,
+   "root": "رضو",
+   "lemma": "تَراض",
+   "meaning_en": "mutual consent",
+   "meaning_bn": "পারস্পরিক সম্মতি",
+   "why_en": "Establishes fair, willing agreement as a core requirement for valid transactions."
+  },
+  {
+   "pos": 17,
+   "root": "قتل",
+   "lemma": "قَتَلَ",
+   "meaning_en": "do not kill",
+   "meaning_bn": "হত্যা করো না",
+   "why_en": "Forbids suicide as well as murdering fellow believers."
+  }
+ ],
+ "lesson_en": "Earn wealth through honest trade and mutual consent. Never take money unjustly.",
+ "lesson_bn": "সততা ও পারস্পরিক সম্মতির মাধ্যমে জীবিকা নির্বাহ করুন এবং প্রতিটি মানবজীবনের পবিত্রতা রক্ষা করুন।",
+ "real_life_en": "In daily business, be clear and truthful. Never hide flaws in goods or force unfair terms. Honest trade with mutual consent earns the blessing of Allah.",
+ "real_life_bn": "একজন দোকানদার পণ্যের ত্রুটি গোপন না করে ক্রেতাকে সবকিছু স্পষ্ট বলে দেয়। উভয়ের পূর্ণ সম্মতিতে সে লেনদেন সম্পন্ন করে। এই সততার মাধ্যমে তার উপার্জিত অর্থ হালাল থাকে এবং সমাজে পারস্পরিক বিশ্বাস অটুট থাকে।",
+ "context_en": "Sets down firm prohibitions protecting private property and the sanctity of life among believers.",
+ "context_bn": "মুমিনদের পারস্পরিক সম্পত্তি এবং জীবনের পবিত্রতা রক্ষার কঠোর অনুশাসন প্রতিষ্ঠা।",
+ "themes": [
+  "wealth",
+  "honesty",
+  "justice",
+  "Allah's mercy",
+  "ethics"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Ar-Rahim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Taking the property of others through unlawful means such as fraud, theft, gambling, and bribery is strictly forbidden.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Earning wealth through business based on mutual consent between buyer and seller is lawful.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Killing oneself or murdering fellow believers is strictly prohibited, and Allah treats believers with great mercy.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

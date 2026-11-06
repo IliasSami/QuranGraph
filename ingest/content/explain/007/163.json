@@ -1,0 +1,84 @@
+{
+  "id": "7:163",
+  "simple_en": "Ask them about the seaside town whose people broke the Sabbath laws. On the Sabbath, fish came openly to the surface for everyone to see. But on other days, the fish did not appear. Allah tested them this way because of their repeated disobedience.",
+  "simple_bn": "আর আপনি তাদেরকে সাগর তীরের সেই জনপদবাসীর কথা জিজ্ঞেস করুন, যারা শনিবারের বিধানে সীমালংঘন করেছিল। শনিবারের দিন প্রচুর মাছ ভেসে ভেসে তাদের সামনে আসত, কিন্তু শনিবার ছাড়া অন্য দিন আসত না। তাদের ক্রমাগত অবাধ্যতার কারণে আমরা এভাবে তাদের পরীক্ষা করছিলাম।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "بحر",
+      "lemma": "بَحْر",
+      "meaning_en": "the sea",
+      "meaning_bn": "সাগর",
+      "why_en": "The coastal location of the town tested with fishing restrictions."
+    },
+    {
+      "pos": 11,
+      "root": "سبت",
+      "lemma": "سَبْت",
+      "meaning_en": "the Sabbath",
+      "meaning_bn": "শনিবার",
+      "why_en": "The day of rest and worship forbidden for commercial work."
+    },
+    {
+      "pos": 14,
+      "root": "حوت",
+      "lemma": "حُوت",
+      "meaning_en": "their fish",
+      "meaning_bn": "তাদের মাছ",
+      "why_en": "The abundance of marine life appearing visibly as a moral test."
+    }
+  ],
+  "lesson_en": "Easy chances to do wrong test how honest you really are.",
+  "lesson_bn": "নিষিদ্ধ সময়ে পাপের সুযোগ সহজ করে দিয়ে আল্লাহ মানুষের আনুগত্য ও সততার পরীক্ষা নেন।",
+  "real_life_en": "When an easy chance to cheat or take bribes appears, stop and think. Easy temptations are tests of your honesty. True character shows when you choose what is right over easy gain.",
+  "real_life_bn": "অন্যায় লাভের সহজ সুযোগ সামনে আসলে প্রলোভনে পা দেবেন না। সততার সাথে হালাল উপায়ে অর্জিত রিযিকেই প্রকৃত বরকত থাকে।",
+  "context_en": "The story of the seaside community tested with the Sabbath fishing ban.",
+  "context_bn": "সাগরপাড়ের অধিবাসীদের শনিবারের মাছ ধরার নিষেধাজ্ঞা লঙ্ঘনের ঐতিহাসিক পরীক্ষা ও বিবরণ।",
+  "themes": [
+    "the Sabbath",
+    "moral trials",
+    "temptation",
+    "divine laws"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "seaside townspeople (Aylah)"
+    ],
+    "places": [
+      "coastal town by the Red Sea"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "the Sabbath test"
+    ],
+    "things": [
+      "fish",
+      "sea"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The seaside community was tested on the Sabbath when fish surfaced visibly on Saturdays but disappeared on weekdays.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

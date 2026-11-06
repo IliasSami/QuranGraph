@@ -1,0 +1,64 @@
+{
+  "id": "20:9",
+  "simple_en": "Has the story of Moses reached you? God shares his life to give us hope. We learn lessons of courage and faith from his walk with God.",
+  "simple_bn": "আপনার কাছে কি মূসার বৃত্তান্ত পৌঁছেছে? ঈমান, ধৈর্য ও সাহসিকতার চিরন্তন শিক্ষা তুলে ধরতে আল্লাহ এই নবীর ঘটনা বর্ণনা করছেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حدث",
+      "lemma": "حَدِيث",
+      "meaning_en": "story or account",
+      "meaning_bn": "সংবাদ বা ঘটনা",
+      "why_en": "Introduces a pivotal prophetic narrative rich in guidance."
+    },
+    {
+      "pos": 2,
+      "root": "أتي",
+      "lemma": "أَتَىٰ",
+      "meaning_en": "has reached you",
+      "meaning_bn": "আপনার কাছে এসেছে",
+      "why_en": "A rhetorical question engaging listeners and drawing their attention."
+    }
+  ],
+  "lesson_en": "The lives of past prophets give us hope. They teach us to stand firm in faith.",
+  "lesson_bn": "পূর্ববর্তী নবীদের জীবনগাথা বিশ্বাসীদের মনে দৃঢ়তা ও সৎপথে চলার অদম্য সাহস জোগায়।",
+  "real_life_en": "Read the stories of the prophets. Their patience helps us when we face tough days in life.",
+  "real_life_bn": "কঠিন সময়ে নবীদের জীবনের ঘটনা থেকে অনুপ্রেরণা নিন। জানুন কীভাবে তাঁরা আল্লাহর উপর পূর্ণ ভরসা রাখতেন।",
+  "themes": [
+    "prophets",
+    "musa",
+    "stories-of-quran"
+  ],
+  "kinds": [
+    "story",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God introduces the narrative of Prophet Moses to instruct and strengthen believers.",
+      "claim_bn": "আল্লাহ মুমিনদের উপদেশ ও শক্তি জোগাতে নবী মূসার ঘটনা বর্ণনার অবতারণা করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

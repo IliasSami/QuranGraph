@@ -1,0 +1,95 @@
+{
+ "id": "3:80",
+ "simple_en": "No prophet would tell you to take angels or prophets as lords beside Allah. Would he tell you to deny faith after you have surrendered to Allah? Every true prophet calls only to one God.",
+ "simple_bn": "আর তিনি তোমাদের এমন নির্দেশও দিতে পারেন না যে, তোমরা ফেরেশতা ও নবীদেরকে নিজেদের রব বা প্রভু হিসেবে গ্রহণ করবে। তোমরা মুসলিম বা আত্মসমর্পণকারী হওয়ার পর তিনি কি তোমাদের কুফরি করার নির্দেশ দিতে পারেন?",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "ملك",
+   "lemma": "مَلَك",
+   "meaning_en": "the angels",
+   "meaning_bn": "ফেরেশতাগণ",
+   "why_en": "Noble created beings whom some pagans falsely worshipped as deities."
+  },
+  {
+   "pos": 6,
+   "root": "نبأ",
+   "lemma": "نَبِيّ",
+   "meaning_en": "the prophets",
+   "meaning_bn": "নবীগণ",
+   "why_en": "Human messengers whom some communities exaggerated into objects of worship."
+  },
+  {
+   "pos": 7,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "as lords",
+   "meaning_bn": "প্রভু হিসেবে",
+   "why_en": "Warns against according divine rights of worship to any created being."
+  },
+  {
+   "pos": 9,
+   "root": "كفر",
+   "lemma": "كُفْر",
+   "meaning_en": "with disbelief",
+   "meaning_bn": "কুফরি",
+   "why_en": "Treating creation as lords alongside Allah is the very definition of disbelief."
+  }
+ ],
+ "lesson_en": "Never treat any created being as a lord, for worship belongs to Allah alone.",
+ "lesson_bn": "কোনো সৃষ্টি বা ব্যক্তিত্বকে রবের আসনে বসাবেন না; সকল ইবাদত ও চূড়ান্ত আনুগত্য কেবল আল্লাহর জন্য।",
+ "real_life_en": "Respect good leaders and teachers, but never worship them. Do not follow anyone blindly against what Allah commands. Keep your heart set on Allah alone.",
+ "real_life_bn": "নেককার ব্যক্তি ও সম্মানিত শিক্ষকদের শ্রদ্ধা করুন, কিন্তু তাদের কোনো অবস্থাতে অন্ধ ভক্তির পর্যায়ে নিয়ে যাবেন না। আমাদের পরম আনুগত্য ও ইবাদত একমাত্র বিশ্বজাহানের রব আল্লাহর জন্য।",
+ "context_en": "Follows the denial that prophets ask for worship by affirming that they never command taking angels or prophets as lords.",
+ "context_bn": "পূর্ববর্তী আয়াতের ধারাবাহিকতায় কোনো ফেরেশতা বা নবীকে প্রভু হিসেবে গ্রহণ করার আহ্বানকে কুফরি আখ্যা দিয়ে তা নাকচ করা হয়েছে।",
+ "themes": [
+  "tawhid",
+  "shirk",
+  "angels",
+  "prophethood",
+  "faith"
+ ],
+ "kinds": [
+  "belief",
+  "prohibition",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "A prophet would never command people to take angels or prophets as lords to be worshipped beside Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Commanding the worship of created beings is disbelief (kufr), which contradicts genuine submission to Allah (Islam).",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

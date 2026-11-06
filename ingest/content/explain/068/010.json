@@ -1,0 +1,59 @@
+{
+  "id": "68:10",
+  "simple_en": "Do not obey every person who swears oaths constantly while living a despicable life. Such people use repeated oaths to hide their deceit and lack of honor.",
+  "simple_bn": "আর আপনি এমন কোনো ব্যক্তির আনুগত্য করবেন না যে কথায় কথায় শপথ করে এবং যে অত্যন্ত হীন ও লাঞ্ছিত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حلف",
+      "lemma": "حَلّاف",
+      "meaning_en": "habitual oath-taker",
+      "meaning_bn": "অধিক শপথকারী",
+      "why_en": "Warns against those who use frequent oaths to deceive others."
+    },
+    {
+      "pos": 5,
+      "root": "مهن",
+      "lemma": "مَهِين",
+      "meaning_en": "despicable and worthless",
+      "meaning_bn": "হীন ও লাঞ্ছিত",
+      "why_en": "Describes the degraded character of dishonest individuals."
+    }
+  ],
+  "lesson_en": "Be honest in speech so that people trust you without the need for endless oaths.",
+  "lesson_bn": "কথায় কথায় মিথ্যা শপথ না করে কাজে ও কথায় নির্ভরযোগ্য হওয়াই মুমিনের গুণ।",
+  "real_life_en": "A car dealer swears on his honor ten times that a broken car has no flaws. A smart buyer walks away. Constant swearing often signals that a person is hiding the truth.",
+  "real_life_bn": "ব্যবসায় অহেতুক কসম না খেয়ে পণ্যের সঠিক অবস্থা তুলে ধরা দরকার। অতিমাত্রায় শপথকারী মানুষ সাধারণত নিজের অসততা ঢাকতেই এমনটি করে থাকে।",
+  "themes": [
+    "honesty",
+    "ethics",
+    "keeping promises"
+  ],
+  "kinds": [
+    "prohibition",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are warned against yielding to worthless individuals who swear oaths persistently to cover deceit.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

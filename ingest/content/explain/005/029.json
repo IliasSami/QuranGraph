@@ -1,0 +1,99 @@
+{
+  "id": "5:29",
+  "simple_en": "Abel warned his brother about the awful fate of a killer. He did not want to take on any sin himself. If Cain killed him, Cain would bear the heavy guilt of murder along with his past wrongs. That heavy burden would lead him straight to the Fire. Hell is the just penalty for all wrongdoers.",
+  "simple_bn": "হাবীল ভাইকে হত্যার ভয়াবহ পরিণাম সম্পর্কে সতর্ক করলেন। তিনি নিজে কোনো পাপের বোঝা বহন করতে চাননি। তিনি বললেন, যদি তুমি আমাকে হত্যা করো, তবে আমার হত্যার পাপ এবং তোমার পূর্বের পাপ—সব তোমার ওপরই বর্তাবে। এর ফলে তুমি জাহান্নামের অধিবাসী হবে। আর এটাই হলো যালিমদের আসল পরিণতি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "بوأ",
+      "lemma": "باءَ",
+      "meaning_en": "return with / bear",
+      "meaning_bn": "বোঝা নিয়ে ফিরে যাওয়া",
+      "why_en": "Describes carrying the heavy burden of sin into the Hereafter."
+    },
+    {
+      "pos": 5,
+      "root": "أثم",
+      "lemma": "إِثْم",
+      "meaning_en": "my sin [of killing me]",
+      "meaning_bn": "আমার পাপ",
+      "why_en": "The guilt of the murder which falls squarely upon the killer."
+    },
+    {
+      "pos": 10,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the Fire",
+      "meaning_bn": "জাহান্নামের আগুন",
+      "why_en": "The terrible punishment awaiting unrepentant murderers."
+    },
+    {
+      "pos": 13,
+      "root": "ظلم",
+      "lemma": "ظالِم",
+      "meaning_en": "the wrongdoers",
+      "meaning_bn": "যালিমরা",
+      "why_en": "Those who transgress Allah's limits and violate innocent life."
+    }
+  ],
+  "lesson_en": "Wronging others only adds heavy sins to your own record on Judgment Day.",
+  "lesson_bn": "অন্যের ওপর যুলুম করলে নিজের পাপের পাল্লাই ভারী হয় এবং কঠিন শাস্তি ডেকে আনে।",
+  "real_life_en": "A businessman feels tempted to cheat his honest partner to get more money. He pauses when he remembers the Day of Judgment. Taking another person's rights means carrying their burdens into the next life. He stops the scheme.",
+  "real_life_bn": "এক ব্যক্তি ব্যবসায়িক অংশীদারকে ঠকিয়ে টাকা আত্মসাতের কথা ভাবে। কিন্তু আখেরাতের কথা মনে করে সে থেমে যায়। সে উপলব্ধি করে, অন্যের অধিকার নষ্ট করলে পরকালে সেই পাপের চরম মূল্য দিতে হবে।",
+  "context_en": "Continues Abel's warning to Cain, making clear the spiritual ruin that awaits an unjust killer.",
+  "context_bn": "অন্যায় হত্যার ফলে আখেরাতে যে কঠিন পরিণতি ও জাহান্নামের শাস্তি ভোগ করতে হবে, সে বিষয়ে হাবীলের চূড়ান্ত সতর্কবার্তা।",
+  "themes": [
+    "justice",
+    "warning",
+    "sin",
+    "punishment",
+    "Hell",
+    "hereafter"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [
+      "Abel",
+      "Cain"
+    ],
+    "nations": [],
+    "places": [
+      "the Fire / Hell"
+    ],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Abel warned Cain that killing him would force Cain to bear the sin of the murder alongside his own sins.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Abel warned that this burden of sin leads to the Fire of Hell, which is the recompense of wrongdoers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

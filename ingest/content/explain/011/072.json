@@ -1,0 +1,88 @@
+{
+  "id": "11:72",
+  "simple_en": "She said in wonder: How can I give birth when I am an old woman and my husband is an old man? Truly, this is an amazing thing.",
+  "simple_bn": "তিনি বললেন: হায় কপাল! আমি কি সন্তান প্রসব করব অথচ আমি একজন বৃদ্ধা এবং আমার স্বামীও একজন বৃদ্ধ? নিশ্চয় এটি এক বিস্ময়কর ব্যাপার!",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ولد",
+      "lemma": "وَلَدَ",
+      "meaning_en": "shall I give birth",
+      "meaning_bn": "আমি কি সন্তান জন্ম দেব",
+      "why_en": "Expressing natural amazement at bearing a child in advanced age."
+    },
+    {
+      "pos": 5,
+      "root": "عجز",
+      "lemma": "عَجُوز",
+      "meaning_en": "an old woman",
+      "meaning_bn": "বৃদ্ধা",
+      "why_en": "Biological impossibility under normal conditions."
+    },
+    {
+      "pos": 7,
+      "root": "بعل",
+      "lemma": "بَعْل",
+      "meaning_en": "my husband",
+      "meaning_bn": "আমার স্বামী",
+      "why_en": "Referring to the aged Abraham."
+    },
+    {
+      "pos": 8,
+      "root": "شيخ",
+      "lemma": "شَيْخ",
+      "meaning_en": "an elderly man",
+      "meaning_bn": "বৃদ্ধ ব্যক্তি",
+      "why_en": "Advanced age beyond ordinary childbearing years."
+    },
+    {
+      "pos": 12,
+      "root": "عجب",
+      "lemma": "عَجِيب",
+      "meaning_en": "astonishing / wondrous",
+      "meaning_bn": "বিস্ময়কর",
+      "why_en": "A miraculous event surpassing natural laws."
+    }
+  ],
+  "lesson_en": "Allah has power over all things, even when human means seem impossible.",
+  "lesson_bn": "জাগতিক উপায় শেষ হয়ে গেলেও আল্লাহর কুদরতের কাছে কোনো কিছুই অসম্ভব নয়।",
+  "real_life_en": "When facing situations that seem medically or practically hopeless, do not lose faith. Trust that Allah has power over every cause and circumstance.",
+  "real_life_bn": "কঠিন কোনো প্রতিকূলতায় ভেঙে পড়বেন না; বিশ্বাস রাখুন আল্লাহ চাইলে যেকোনো মুহূর্তে অসম্ভবকে সম্ভব করতে পারেন।",
+  "themes": [
+    "wonder at divine power",
+    "miraculous birth in old age",
+    "omnipotence of Allah"
+  ],
+  "kinds": [
+    "story",
+    "creation",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Sarah",
+      "Abraham (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Sarah voiced natural astonishment at the prospect of childbearing given her and Abraham's advanced age, calling it a wondrous affair.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "28:7",
+  "simple_en": "God inspired the mother of Moses to breastfeed her newborn son. When she feared for his safety from Pharaoh's guards, God told her to place him in the river. God assured her not to fear or grieve, promising to bring him back and make him a messenger.",
+  "simple_bn": "আমরা মুসার মায়ের অন্তরে নির্দেশ দিলাম যে, সন্তানকে দুধ পান করাও। যখন তার নিরাপত্তার ব্যাপারে আশঙ্কা করবে, তখন তাকে নদীতে ভাসিয়ে দাও। কোনো ভয় বা দুঃখ কোরো না। নিশ্চয় আমরা তাকে তোমার কাছে ফিরিয়ে দেব এবং তাকে রাসুলদের অন্তর্ভুক্ত করব।",
+  "key_words": [
+    {
+      "pos": 1,
+      "arabic": "وَأَوْحَيْنَآ",
+      "root": "وحي",
+      "lemma": "أَوْحَى",
+      "meaning_en": "And We inspired",
+      "meaning_bn": "এবং আমরা ওহি করলাম",
+      "why_en": "Divine inspiration cast into the heart of Moses' mother."
+    },
+    {
+      "pos": 12,
+      "arabic": "ٱلْيَمِّ",
+      "root": "يمم",
+      "lemma": "يَمّ",
+      "meaning_en": "the river",
+      "meaning_bn": "নদীতে",
+      "why_en": "The waters of the Nile where the baby was placed."
+    }
+  ],
+  "lesson_en": "Trust in God brings peace in the hardest trials. God always keeps His divine promises.",
+  "lesson_bn": "আল্লাহর প্রতি পূর্ণ নির্ভরতা বিপদের মুহূর্তে শান্তি এনে দেয়। আল্লাহর প্রতিশ্রুতি সবসময় সত্য প্রমাণিত হয়।",
+  "real_life_en": "When fear enters your heart, place your trust in God. He can protect you through ways you cannot foresee.",
+  "real_life_bn": "জীবনের গভীর সংকটে নিজের দুশ্চিন্তা আল্লাহর সমীপে সমর্পণ করুন। আল্লাহর ওপর আস্থা রেখে প্রয়োজনীয় সঠিক পদক্ষেপ নিন।",
+  "themes": [
+    "musa",
+    "mother-of-musa",
+    "trust-in-allah",
+    "prophethood"
+  ],
+  "kinds": [
+    "story",
+    "command",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Mother of Moses"
+    ],
+    "nations": [],
+    "places": [
+      "Nile River"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "river"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God inspired the mother of Moses to place him in the river with the promise of return and prophethood.",
+      "claim_bn": "আল্লাহ মুসার মাকে সন্তানকে নদীতে ভাসিয়ে দিতে নির্দেশ দেন এবং তাকে ফিরিয়ে দেওয়া ও রাসুল বানানোর প্রতিশ্রুতি দেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

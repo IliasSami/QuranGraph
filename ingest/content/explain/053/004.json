@@ -1,0 +1,70 @@
+{
+  "id": "53:4",
+  "simple_en": "The Quran that Prophet Muhammad ﷺ recites is nothing other than divine revelation sent down to him. Allah revealed it through the noble angel Jibril (peace be upon him). It is pure guidance straight from the Lord of all creation.",
+  "simple_bn": "রাসূলুল্লাহ ﷺ যা তিলাওয়াত করেন তা একান্তই আল্লাহর পক্ষ থেকে অবতীর্ণ ওহী। মহান আল্লাহ সম্মানিত ফেরেশতা জিবরীল (আলাইহিস সালাম)-এর মাধ্যমে এই কিতাব তাঁর কাছে পাঠিয়েছেন। এটি সমগ্র সৃষ্টির প্রতিপালকের পক্ষ থেকে আসা এক নিখাদ পথনির্দেশ।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "وحي",
+      "lemma": "وَحْى",
+      "meaning_en": "a revelation",
+      "meaning_bn": "ওহী",
+      "why_en": "It describes the divine source and sacred character of the Quran."
+    },
+    {
+      "pos": 5,
+      "root": "وحي",
+      "lemma": "أَوْحَى",
+      "meaning_en": "revealed / inspired",
+      "meaning_bn": "প্রেরিত হয় বা ওহী করা হয়",
+      "why_en": "It confirms that revelation is actively communicated by Allah to His messenger."
+    }
+  ],
+  "lesson_en": "Honor the Quran with love and care. Its words are sent down directly from Allah.",
+  "lesson_bn": "কুরআনুল কারীমকে পরম শ্রদ্ধার সাথে গ্রহণ করুন কারণ এর প্রতিটি আয়াত আল্লাহর পক্ষ থেকে অবতীর্ণ ওহী।",
+  "real_life_en": "When you read a verse of the Quran each morning, pause and remind yourself that these words come from Allah. Listen to them with a quiet heart and act upon their guidance.",
+  "real_life_bn": "প্রতিদিন কুরআন পাঠ করার সময় মনে রাখুন যে আপনি আপনার রবের বাণী শুনছেন। মনকে শান্ত রেখে এর প্রতিটি নির্দেশনা জীবনে বাস্তবায়ন করার চেষ্টা করুন।",
+  "context_en": "Building on the previous ayah, this verse identifies the exact nature of the message as pure revelation.",
+  "context_bn": "পূর্বের আয়াতের ধারাবাহিকতায় এখানে বলা হয়েছে যে রাসূলের কাছে আসা এই বাণী সরাসরি আসমানী ওহী।",
+  "themes": [
+    "revelation",
+    "the Quran",
+    "angels",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "jibril"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quran is divine revelation revealed by Allah through Gabriel.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

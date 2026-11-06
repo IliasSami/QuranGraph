@@ -1,0 +1,85 @@
+{
+ "id": "7:109",
+ "simple_en": "The chiefs among Pharaoh's people were shocked by what they saw. Unwilling to accept the truth, they tried to dismiss the miracles. They claimed that Musa was only a highly skilled magician. By calling him a magician, they hoped to turn the common people away from his message.",
+ "simple_bn": "এই স্পষ্ট নিদর্শন প্রত্যক্ষ করে ফিরআউনের সভাসদ ও নেতারা স্তম্ভিত হয়ে গেল। কিন্তু সত্য মেনে নেওয়ার বদলে তারা অহংকারবশত একে উড়িয়ে দেওয়ার চেষ্টা করল। তারা প্রচার করতে লাগল যে মূসা একজন দক্ষ ও পণ্ডিত জাদুকর ছাড়া আর কিছুই নন। জাদুর অপবাদ দিয়ে তারা সাধারণ মানুষকে সত্য গ্রহণ থেকে বিরত রাখতে চেয়েছিল।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ملأ",
+   "lemma": "مَلَأ",
+   "meaning_en": "the chiefs / council",
+   "meaning_bn": "নেতৃস্থানীয় ব্যক্তিবর্গ",
+   "why_en": "The elite advisors of Pharaoh who conspired to dismiss the miracle."
+  },
+  {
+   "pos": 8,
+   "root": "سحر",
+   "lemma": "ساحِر",
+   "meaning_en": "surely a magician",
+   "meaning_bn": "নিশ্চয় এক জাদুকর",
+   "why_en": "The false label they placed upon the prophet to deceive the public."
+  },
+  {
+   "pos": 9,
+   "root": "علم",
+   "lemma": "عَلِيم",
+   "meaning_en": "learned / expert",
+   "meaning_bn": "বিজ্ঞ বা অতি দক্ষ",
+   "why_en": "They acknowledged the extraordinary skill while falsely attributing it to sorcery."
+  }
+ ],
+ "lesson_en": "Proud people often call the truth a lie just to protect their power.",
+ "lesson_bn": "অহংকারী মানুষেরা নিজেদের ক্ষমতা ও প্রভাব টিকিয়ে রাখতে প্রায়ই প্রকাশ্য সত্যকে মিথ্যা অপবাদ দিয়ে ঢেকে রাখতে চায়।",
+ "real_life_en": "Do not reject good advice just because you dislike the person who gave it. Never label good people with bad names. Judge ideas by their truth.",
+ "real_life_bn": "কারো প্রতি পূর্বধারণার কারণে সঠিক পরামর্শকে উপেক্ষা করবেন না। সত্যকে মিথ্যা অপবাদ দিয়ে এড়িয়ে যাওয়ার চেষ্টা করবেন না। যে কোনো কথা বা পরামর্শের ভালো-মন্দ তার সত্যতা ও যৌক্তিকতার ভিত্তিতে বিচার করুন।",
+ "context_en": "Pharaoh's ruling elite react to Musa's miracles by attempting to explain them away as sorcery.",
+ "context_bn": "মু'জিযা দেখে হকচকিয়ে গিয়ে ফিরআউনের পারিষদরা মূসাকে দক্ষ জাদুকর আখ্যা দিয়ে অপপ্রচার শুরু করে।",
+ "themes": [
+  "Pharaoh",
+  "ruling elite",
+  "false accusations",
+  "magic vs miracles",
+  "denial"
+ ],
+ "kinds": [
+  "story",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "Pharaoh",
+   "Musa (Moses)"
+  ],
+  "nations": [
+   "people of Pharaoh"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The chiefs of Pharaoh's people claimed that Musa was merely a highly skilled magician.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The leaders sought to discredit Musa's divine miracles by labeling them as magic.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

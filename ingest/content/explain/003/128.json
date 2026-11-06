@@ -1,0 +1,103 @@
+{
+ "id": "3:128",
+ "simple_en": "The final decision belongs solely to Allah, not to you, O Prophet. It is not for you to decide whether He will guide them to repent or punish them for their wrongdoing. They are indeed wrongdoers, yet their ultimate fate rests in Allah's hands.",
+ "simple_bn": "হে নবী, মানুষের পরিণামের ব্যাপারে কোনো সিদ্ধান্ত আপনার হাতে নেই। আল্লাহ চাইলে তাদের তওবা কবুল করে হেদায়েত দিতে পারেন, কিংবা তাদের অপরাধের জন্য শাস্তি দিতে পারেন। তারা নিশ্চয়ই সীমালঙ্ঘনকারী, তবে তাদের চূড়ান্ত ফয়সালার মালিক একমাত্র আল্লাহ।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "أمر",
+   "lemma": "أَمْر",
+   "meaning_en": "the decision or authority",
+   "meaning_bn": "সিদ্ধান্ত বা কর্তৃত্ব",
+   "why_en": "Affirms that absolute control over guidance and judgment belongs solely to Allah."
+  },
+  {
+   "pos": 7,
+   "root": "توب",
+   "lemma": "تابَ",
+   "meaning_en": "He forgives them",
+   "meaning_bn": "তাদের তওবা কবুল করবেন",
+   "why_en": "Shows that Allah can soften the hardest hearts and grant them repentance."
+  },
+  {
+   "pos": 10,
+   "root": "عذب",
+   "lemma": "عَذَّبَ",
+   "meaning_en": "He punishes them",
+   "meaning_bn": "তাদের শাস্তি দেবেন",
+   "why_en": "Warns that those who persist in stubborn disbelief will face divine punishment."
+  },
+  {
+   "pos": 12,
+   "root": "ظلم",
+   "lemma": "ظالِم",
+   "meaning_en": "wrongdoers",
+   "meaning_bn": "জালিম বা সীমালঙ্ঘনকারী",
+   "why_en": "Identifies their injustice in rejecting truth and persecuting believers."
+  }
+ ],
+ "lesson_en": "Do not judge how someone will end, for Allah alone guides and forgives.",
+ "lesson_bn": "কারো পরিণাম নিয়ে চূড়ান্ত সিদ্ধান্ত দেবেন না; অন্তরের পরিবর্তন ও ক্ষমার মালিক একমাত্র আল্লাহ।",
+ "real_life_en": "If a coworker or relative treats you badly, do not give up on them. Pray for their guidance. Allah can turn any heart toward good at any moment.",
+ "real_life_bn": "সহকর্মী বা আত্মীয় কেউ খারাপ ব্যবহার করলে তাকে একেবারে আশাহীন ভাববেন না। তার হেদায়েতের জন্য দুআ করুন। আল্লাহ যেকোনো সময় যেকোনো অন্তর ভালো দিকে ঘুরিয়ে দিতে পারেন।",
+ "context_en": "Revealed when the Prophet ﷺ was wounded at Uhud and lamented over the harshness of his people, reminding him that judgment belongs to Allah.",
+ "context_bn": "উহুদ যুদ্ধে রাসূলুল্লাহ ﷺ আহত হয়ে ব্যথিত হলে আল্লাহ জানান যে হেদায়েত বা শাস্তির বিষয়টি সম্পূর্ণ তাঁর নিয়ন্ত্রণাধীন।",
+ "themes": [
+  "repentance",
+  "guidance",
+  "justice",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "command",
+  "argument",
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Muhammad"
+  ],
+  "nations": [],
+  "places": [
+   "Uhud"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Battle of Uhud"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The authority to decide whether people are guided to repent or punished belongs exclusively to Allah, not to the Prophet ﷺ.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah may guide wrongdoers to repentance and faith through His grace, or punish them for their wrongdoing through His justice.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": {
+  "text_en": "Revealed when the Prophet ﷺ was wounded in the face and his incisor tooth was broken at Uhud, and he said: 'How can a people succeed who wound their Prophet?'",
+  "text_bn": "উহুদ যুদ্ধে রাসূলুল্লাহ ﷺ-এর দাঁত ভেঙে ও মুখমণ্ডল রক্তাক্ত হলে তিনি বলেছিলেন: 'যে জাতি তাদের নবীকে রক্তাক্ত করে তারা কীভাবে সফল হবে?' তখন এই আয়াত নাজিল হয়।",
+  "sources": [
+   "qe-english-mokhtasar",
+   "g-en-ibn-kathir"
+  ],
+  "strength": "sahih"
+ },
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

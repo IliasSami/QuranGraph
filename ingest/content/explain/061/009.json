@@ -1,0 +1,72 @@
+{
+  "id": "61:9",
+  "simple_en": "It is Allah Who sent His Messenger with clear guidance and the religion of truth. He designed this faith to rise above every false way of life, through strong proof and wisdom. Even if those who set up partners with God dislike it, the truth will prevail.",
+  "simple_bn": "তিনিই আল্লাহ, যিনি স্বীয় রাসূলকে সঠিক পথনির্দেশ ও সত্য দ্বীনসহ পাঠিয়েছেন, যাতে তিনি একে সমস্ত মতবাদের ওপর বিজয়ী করেন। সত্যের আলো সমস্ত বাতিলকে দূর করে প্রকাশ পাবে, যদিও মুশরিকরা তা আন্তরিকভাবে অপছন্দ করে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "His Messenger",
+      "meaning_bn": "তাঁর রাসূল",
+      "why_en": "Refers to Prophet Muhammad sent to all humankind."
+    },
+    {
+      "pos": 5,
+      "root": "هدي",
+      "lemma": "هُدَى",
+      "meaning_en": "guidance",
+      "meaning_bn": "হিদায়াত ও পথনির্দেশ",
+      "why_en": "The clear knowledge and direction granted through the Quran."
+    },
+    {
+      "pos": 8,
+      "root": "ظهر",
+      "lemma": "أَظْهَرَ",
+      "meaning_en": "to make it triumph and manifest",
+      "meaning_bn": "বিজয়ী ও প্রাধান্যশীল করতে",
+      "why_en": "Promises that Islam will prevail with clear proof and authority."
+    }
+  ],
+  "lesson_en": "Islam is the message of truth and guidance. It will always stand high above false ways.",
+  "lesson_bn": "ইসলাম আল্লাহর মনোনীত সত্য দ্বীন, এর সুস্পষ্ট যুক্তি ও প্রমাণ সকল ভ্রান্ত মতবাদের ওপর বিজয়ী থাকবে।",
+  "real_life_en": "Light naturally dispels darkness wherever it shines. A person who holds solid knowledge does not fear false claims, because facts always stand firm. Walking with divine truth gives lasting peace and clarity in life.",
+  "real_life_bn": "ঘরে আলো জ্বললে অন্ধকার যেমন আপনাআপনি দূর হয়ে যায়, তেমনি সত্য প্রতিষ্ঠিত হলে ভ্রান্তি অপসৃত হয়। জীবনের সিদ্ধান্ত গ্রহণে সত্য ও ন্যায়ের পথ বেছে নেওয়া উচিত।",
+  "themes": [
+    "sending the Messenger",
+    "religion of truth",
+    "triumph over all religions"
+  ],
+  "kinds": [
+    "promise",
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah sent His Messenger with guidance and the religion of truth to make it superior over all religions, even though the polytheists dislike it.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

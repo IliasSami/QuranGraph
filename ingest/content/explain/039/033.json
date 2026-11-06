@@ -1,0 +1,73 @@
+{
+  "id": "39:33",
+  "simple_en": "The one who brought the truth, the Prophet Muhammad, and the ones who believed in it with sincere hearts, are truly the righteous. They recognized divine truth and matched their belief with faithful deeds. They are the people who fear their Lord.",
+  "simple_bn": "যিনি সত্য নিয়ে এসেছেন অর্থাৎ রাসূলুল্লাহ, এবং যারা খাঁটি অন্তরে সেই সত্যকে সত্য বলে মেনে নিয়েছে, তারাই প্রকৃতপক্ষে মুত্তাকী। তারা ঐশী সত্যকে চিনে নিয়েছে এবং নিজেদের বিশ্বাসকে সৎকাজে রূপ দিয়েছে। তারাই নিজ রবকে ভয় করে জীবন পরিচালনা করে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "صدق",
+      "lemma": "صِدْق",
+      "meaning_en": "brought the truth",
+      "meaning_bn": "সত্য নিয়ে এসেছেন",
+      "why_en": "Refers to the Prophet delivering the authentic message of monotheism."
+    },
+    {
+      "pos": 4,
+      "root": "صدق",
+      "lemma": "صَدَّقَ",
+      "meaning_en": "believed it / affirmed it",
+      "meaning_bn": "তা সত্য বলে মেনে নিয়েছে",
+      "why_en": "Praises sincere believers who embrace the divine message wholeheartedly."
+    },
+    {
+      "pos": 8,
+      "root": "وقي",
+      "lemma": "مُتَّقي",
+      "meaning_en": "the righteous / pious",
+      "meaning_bn": "মুত্তাকী বা পরহেযগারগণ",
+      "why_en": "Honors those whose faith produces genuine moral responsibility."
+    }
+  ],
+  "lesson_en": "True believers accept the truth with honest hearts. They live by it every day.",
+  "lesson_bn": "প্রকৃত তাকওয়া হলো আল্লাহর প্রেরিত সত্যকে মনেপ্রাণে গ্রহণ করা এবং সততার সাথে সেই আদর্শ অনুযায়ী জীবন গড়া।",
+  "real_life_en": "Stand up for the truth even when it is unpopular. Align your life with what is right, regardless of what the crowd chooses to do.",
+  "real_life_bn": "সবাই ভুল পথে চললেও আপনি সততার পক্ষে থাকুন। সমাজের স্রোতের বিপরীতে গিয়ে হলেও সত্য ও ন্যায়ের ওপর অটল থাকুন।",
+  "themes": [
+    "truth",
+    "faith",
+    "taqwa",
+    "righteousness"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "belief",
+    "praise"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet who brought the truth and those who confirmed it in faith are the truly righteous.",
+      "claim_bn": "যিনি সত্য নিয়ে এসেছেন এবং যারা তা বিশ্বাস করেছে তারাই প্রকৃত মুত্তাকী ও আল্লাহভীরু।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

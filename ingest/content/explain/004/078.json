@@ -1,0 +1,87 @@
+{
+ "id": "4:78",
+ "simple_en": "Death will reach you wherever you are, even inside high and strong stone towers. When good things come to the hypocrites, they say it is from Allah. When bad things happen, they blame the Prophet ﷺ. Tell them that all things happen by the decree of Allah. What is wrong with these people that they cannot grasp a simple word?",
+ "simple_bn": "তোমরা যেখানেই থাক না কেন, মৃত্যু তোমাদের নাগাল পাবেই; এমনকি তোমরা যদি সুউচ্চ ও সুদৃঢ় দুর্গের ভেতরেও অবস্থান কর। এদের কাছে কোনো কল্যাণ বা প্রাচুর্য এলে এরা বলে, ‘এটা আল্লাহর পক্ষ থেকে এসেছে।’ কিন্তু কোনো বিপদ বা অভাব স্পর্শ করলে এরা নবী ﷺ-কে দোষারোপ করে বলে, ‘এটা আপনার অশুভ প্রভাবে হয়েছে!’ আপনি তাদের বলে দিন: ভালো-মন্দ সব কিছুরই মূল ফয়সালা আল্লাহর পক্ষ থেকে আসে। এই সম্প্রদায়ের কী হলো যে এরা কোনো কথাই বুঝতে চায় না!",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "موت",
+   "lemma": "مَوْت",
+   "meaning_en": "death",
+   "meaning_bn": "মৃত্যু",
+   "why_en": "Emphasizes that human lifespan is fixed and inescapable, whether one enters battle or hides away."
+  },
+  {
+   "pos": 9,
+   "root": "شيد",
+   "lemma": "مُشَيَّدَة",
+   "meaning_en": "fortified or towering",
+   "meaning_bn": "সুদৃঢ় ও সুউচ্চ",
+   "why_en": "Illustrates that even the strongest fortress or palace cannot protect against the arrival of death."
+  },
+  {
+   "pos": 35,
+   "root": "فقه",
+   "lemma": "يَفْقَهُ",
+   "meaning_en": "they understand",
+   "meaning_bn": "তারা উপলব্ধি করে বা বোঝে",
+   "why_en": "Points to the spiritual blindness of hypocrites who fail to grasp divine decree."
+  }
+ ],
+ "lesson_en": "Remember that life and death are in the hands of Allah, so trust His wise plan.",
+ "lesson_bn": "মৃত্যু অনিবার্য এবং জীবনের সকল সুখ ও দুঃখ আল্লাহর হুকুমেই ঘটে—এই বিশ্বাস অন্তরে ধারণ করুন।",
+ "real_life_en": "A sick man worries day and night about his health. He takes his medicine and eats well, but he stops being afraid of every small ache. He knows that his life is in the hands of Allah.",
+ "real_life_bn": "ভবিষ্যতের নিরাপত্তা নিয়ে অতিরিক্ত উৎকণ্ঠায় না ভুগে প্রয়োজনীয় সতর্কতা অবলম্বন করুন এবং বিশ্বাস রাখুন যে জীবনের সময়সীমা আল্লাহর নির্ধারিত।",
+ "context_en": "Refutes the illusion that avoiding duty escapes death, and censures hypocrites who blamed the Prophet ﷺ for their troubles.",
+ "context_bn": "মৃত্যু থেকে পালানোর কোনো উপায় নেই তা স্পষ্ট করে দিয়ে বিপদ এলে রাসূলুল্লাহ ﷺ-কে অপবাদ দেওয়ার কপট মানসিকতা খণ্ডন করা হয়েছে।",
+ "themes": [
+  "death",
+  "trust in Allah",
+  "trials",
+  "hypocrisy",
+  "reflection"
+ ],
+ "kinds": [
+  "warning",
+  "argument",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "hypocrites"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "death"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Death will inevitably reach every soul at its appointed time, even within fortified, towering castles.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Hypocrites blame the Prophet ﷺ for setbacks while crediting good fortune to Allah; both ease and hardship occur by Allah's divine decree.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

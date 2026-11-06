@@ -1,0 +1,64 @@
+{
+  "id": "16:65",
+  "simple_en": "Allah sends down fresh water from the sky, reviving the dry earth after it was dead. In that is a clear sign for people who listen.",
+  "simple_bn": "আল্লাহ আকাশ থেকে পানি বর্ষণ করেন, অতঃপর তার মাধ্যমে মৃত জমিনকে পুনরায় সঞ্জীবিত করেন। নিশ্চয় এতে এমন সম্প্রদায়ের জন্য স্পষ্ট নিদর্শন রয়েছে যারা মনোযোগ দিয়ে শোনে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "موه",
+      "lemma": "ماء",
+      "meaning_en": "water",
+      "meaning_bn": "পানি",
+      "why_en": "Rain reviving dry earth."
+    },
+    {
+      "pos": 6,
+      "root": "حيي",
+      "lemma": "أَحْيا",
+      "meaning_en": "revived",
+      "meaning_bn": "সঞ্জীবিত করলেন",
+      "why_en": "Restoring biological life to dormant soil."
+    }
+  ],
+  "lesson_en": "Rain brings dead soil back to life. God can revive dead bodies just as easily.",
+  "lesson_bn": "মৃত জমিনের পুনর্জীবন প্রমাণ করে যে আল্লাহ একইভাবে কিয়ামতের দিন মৃত মানুষকে পুনরায় জীবিত করবেন।",
+  "real_life_en": "Look at barren land turn green after rain. Trust that God can revive your tired spirit in the same way.",
+  "real_life_bn": "বৃষ্টির পর শুষ্ক মাটির সজীবতা দেখে আল্লাহর শক্তির কথা ভাবুন। আপনার অন্তরের ক্লান্তি দূর করতেও তিনি সক্ষম।",
+  "themes": [
+    "rain",
+    "resurrection",
+    "nature"
+  ],
+  "kinds": [
+    "creation",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "rain",
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Allah revives dead land with rain from the sky as a sign for those who listen.",
+      "claim_bn": "আল্লাহ আকাশ থেকে পানি বর্ষণ করে মৃত জমিনকে জীবিত করেন যা শ্রবণকারীদের জন্য নিদর্শন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

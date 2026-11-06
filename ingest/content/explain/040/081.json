@@ -1,0 +1,64 @@
+{
+  "id": "40:81",
+  "simple_en": "Allah shows you His great signs across the heavens and the earth. Which of these clear signs of your Lord will you then refuse to acknowledge?",
+  "simple_bn": "আল্লাহ তোমাদেরকে তাঁর অনন্য নিদর্শনসমূহ প্রদর্শন করেন। অতএব তোমরা আল্লাহর কোন্ কোন্ নিদর্শনকে অস্বীকার করবে?",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "His signs",
+      "meaning_bn": "তাঁর নিদর্শনাবলী",
+      "why_en": "Visible proofs of divine wisdom in the surrounding universe."
+    },
+    {
+      "pos": 6,
+      "root": "نكر",
+      "lemma": "يُنكِرُ",
+      "meaning_en": "you deny / refuse",
+      "meaning_bn": "তোমরা অস্বীকার করবে",
+      "why_en": "Rebuke against stubborn denial when evidence is overwhelming."
+    }
+  ],
+  "lesson_en": "The signs of Allah's power are visible all around us in creation.",
+  "lesson_bn": "মহাবিশ্ব জুড়ে আল্লাহর অপার কুদরত ও মহিমার অসংখ্য নিদর্শন ছড়িয়ে রয়েছে।",
+  "real_life_en": "Pay attention to the beauty of living things, water, and skies. Let everything you see in nature strengthen your faith in God.",
+  "real_life_bn": "প্রকৃতি ও জীবজগতের বৈচিত্র্য দেখে আল্লাহর সৃষ্টির প্রশংসা করুন। চারপাশের সৃষ্টি যেন আপনার ঈমানকে আরও মজবুত করে।",
+  "themes": [
+    "signs in nature",
+    "creation",
+    "Allah's power"
+  ],
+  "kinds": [
+    "creation",
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah shows His miraculous signs, asking which of His signs they will deny.",
+      "claim_bn": "আল্লাহ তাঁর নিদর্শনাবলী প্রদর্শন করেন এবং প্রশ্ন করেন তাঁর কোন্ নিদর্শন অস্বীকার করা সম্ভব।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

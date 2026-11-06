@@ -1,0 +1,78 @@
+{
+  "id": "51:40",
+  "simple_en": "So God seized Pharaoh and his vast soldiers and cast them into the deep sea, where they drowned. Pharaoh brought this ruin upon himself because of his pride and false claim of divinity. He died in disgrace.",
+  "simple_bn": "কাজেই আমরা তাকে ও তার বাহিনীকে পাকড়াও করলাম এবং সমুদ্রে নিক্ষেপ করে ডুবিয়ে ধ্বংস করলাম। আর সে ছিল সম্পূর্ণ তিরস্কৃত।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أخذ",
+      "lemma": "أَخَذَ",
+      "meaning_en": "We seized him",
+      "meaning_bn": "আমরা তাকে পাকড়াও করলাম",
+      "why_en": "God's swift and decisive seizure of the tyrant."
+    },
+    {
+      "pos": 3,
+      "root": "نبذ",
+      "lemma": "نَبَذَ",
+      "meaning_en": "We threw them",
+      "meaning_bn": "আমরা তাদের নিক্ষেপ করলাম",
+      "why_en": "Casting the tyrant and his armies into the water like worthless debris."
+    },
+    {
+      "pos": 5,
+      "root": "يمم",
+      "lemma": "يَمّ",
+      "meaning_en": "the sea",
+      "meaning_bn": "সমুদ্র",
+      "why_en": "The waters where Pharaoh and his soldiers were drowned."
+    },
+    {
+      "pos": 7,
+      "root": "لوم",
+      "lemma": "مُلِيم",
+      "meaning_en": "blameworthy",
+      "meaning_bn": "তিরস্কৃত",
+      "why_en": "Pharaoh was entirely at fault for his own destruction."
+    }
+  ],
+  "lesson_en": "Tyranny and pride always end in ruin and public disgrace.",
+  "lesson_bn": "জুলুম ও অহংকারের পরিণতি সবসময় অপমানজনক ধ্বংস ও পরাজয়।",
+  "real_life_en": "Do not mistreat people under your care. Treat workers and family with kindness, for God sees all deeds.",
+  "real_life_bn": "অধীনস্থদের ওপর ক্ষমতার অপব্যবহার করবেন না। সবার সাথে সম্মান ও ইনসাফের আচরণ করুন, কারণ আল্লাহ প্রতিটি কাজের হিসাব নেন।",
+  "themes": [
+    "punishment",
+    "justice",
+    "past nations"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah seized Pharaoh and his soldiers and threw them into the sea to drown, and he was completely blameworthy.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

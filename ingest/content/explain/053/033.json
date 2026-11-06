@@ -1,0 +1,61 @@
+{
+  "id": "53:33",
+  "simple_en": "Allah draws attention to a person who turns away from true faith. At first, he seemed close to accepting the truth and obeying Allah. But then he retreated into disbelief and turned his back on guidance. His selfish heart pulled him away.",
+  "simple_bn": "আল্লাহ এমন এক ব্যক্তির প্রতি মনোযোগ আকর্ষণ করছেন যে ঈমানের নিকটবর্তী হয়েও সত্য থেকে মুখ ফিরিয়ে নিয়েছে। প্রথমে সে সত্য গ্রহণ ও আনুগত্যের ভাব দেখিয়েছিল। কিন্তু শীঘ্রই সে নিজের অহংকার ও স্বার্থপরতার কারণে পেছনের দিকে সরে গেল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "رأي",
+      "lemma": "رَأَى",
+      "meaning_en": "have you seen / considered",
+      "meaning_bn": "তুমি কি দেখেছ",
+      "why_en": "It calls on the listener to reflect on this tragic moral failure."
+    },
+    {
+      "pos": 3,
+      "root": "ولي",
+      "lemma": "تَوَلَّى",
+      "meaning_en": "turned away",
+      "meaning_bn": "মুখ ফিরিয়ে নিল",
+      "why_en": "Turning back from guidance into denial."
+    }
+  ],
+  "lesson_en": "Stay steadfast upon the truth and do not turn back after finding guidance.",
+  "lesson_bn": "হকের পথ পাওয়ার পর কখনো পেছনের দিকে ফিরে যাবেন না।",
+  "real_life_en": "When you start practicing good habits like praying on time, keep going. Do not let laziness or bad company make you turn away from your faith.",
+  "real_life_bn": "নিয়মিত নামাজ পড়ার মতো ভালো অভ্যাস শুরু করলে তা ধরে রাখুন। বন্ধুদের পাল্লায় পড়ে বা অলসতার কারণে সঠিক পথ ত্যাগ করবেন না।",
+  "context_en": "This begins a passage addressing the person who abandons truth after approaching it.",
+  "context_bn": "সত্যের কাছে এসেও যে ব্যক্তি মুখ ফিরিয়ে নেয় তার দৃষ্টান্ত এখানে তুলে ধরা হয়েছে।",
+  "themes": [
+    "hypocrisy",
+    "misguidance",
+    "disbelief"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah draws attention to the one who turned away from Islam after approaching it.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

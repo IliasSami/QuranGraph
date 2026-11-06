@@ -1,0 +1,62 @@
+{
+ "id": "41:3",
+ "simple_en": "This is a divine Book with clearly explained verses. Allah made it an Arabic Quran so that its meanings are easy to grasp. People of knowledge reflect on its proofs and gain true direction for their lives.",
+ "simple_bn": "এটি এমন এক কিতাব যার আয়াতসমূহ বিশদ ও স্পষ্টভাবে বর্ণনা করা হয়েছে। আল্লাহ একে আরবি ভাষায় কুরআনরূপে নাযিল করেছেন যেন এর অর্থ সহজে বোঝা যায়। জ্ঞানী মানুষেরা এর প্রমাণ নিয়ে চিন্তা করে এবং জীবনের সঠিক পথ খুঁজে পায়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "فصل",
+   "lemma": "فَصَّلَ",
+   "meaning_en": "clearly detailed / explained",
+   "meaning_bn": "বিশদভাবে বিবৃত",
+   "why_en": "Shows how the verses explain faith, laws, and moral lessons with utmost clarity."
+  },
+  {
+   "pos": 7,
+   "root": "علم",
+   "lemma": "عَلِمَ",
+   "meaning_en": "those who have knowledge",
+   "meaning_bn": "যারা জ্ঞান রাখে",
+   "why_en": "Underlines that those with understanding benefit most from divine guidance."
+  }
+ ],
+ "lesson_en": "Clear knowledge of the Quran helps us distinguish right from wrong.",
+ "lesson_bn": "কুরআনের স্পষ্ট জ্ঞান মানুষকে সত্য ও মিথ্যার পার্থক্য বুঝতে সাহায্য করে।",
+ "real_life_en": "Do not just recite the verses quickly. Take time to study their meanings and explanations so that you can apply them in your daily choices.",
+ "real_life_bn": "কেবল দ্রুত তিলাওয়াত না করে আয়াতগুলোর অর্থ ও ব্যাখ্যা বোঝার চেষ্টা করুন। এতে আপনার প্রাত্যহিক জীবনের সিদ্ধান্তগুলো সঠিক হবে।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "guidance",
+  "knowledge"
+ ],
+ "kinds": [
+  "belief",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The Quran is an Arabic Book with clearly detailed verses revealed for a people of knowledge who can understand and benefit from it.",
+   "claim_bn": "কুরআন হলো এমন এক কিতাব যার আয়াতগুলো বিশদভাবে বিবৃত করা হয়েছে জ্ঞানী সম্প্রদায়ের জন্য যাতে তারা উপকৃত হতে পারে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

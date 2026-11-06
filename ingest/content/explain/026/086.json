@@ -1,0 +1,64 @@
+{
+  "id": "26:86",
+  "simple_en": "Ibrahim prayed for his father because he had promised to do so. He prayed before he knew that his father would die as a stubborn idolater.",
+  "simple_bn": "ইব্রাহীম তাঁর পিতার জন্য ক্ষমা চেয়ে দোয়া করলেন, কারণ তিনি পূর্বে তাঁর কাছে এই প্রতিশ্রুতি দিয়েছিলেন। পিতার শিরকের ওপর মৃত্যুর বিষয়টি স্পষ্ট হওয়ার আগেই তিনি এই দোয়া করেছিলেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "غفر",
+      "lemma": "غَفَرَ",
+      "meaning_en": "forgive",
+      "meaning_bn": "ক্ষমা করুন",
+      "why_en": "Ibrahim pleaded for his father based on a prior promise of supplication."
+    },
+    {
+      "pos": 6,
+      "root": "ضلل",
+      "lemma": "ضالّ",
+      "meaning_en": "those who are astray",
+      "meaning_bn": "পথভ্রষ্টদের শামিল",
+      "why_en": "Acknowledging his father's tragic deviance from monotheism through idolatry."
+    }
+  ],
+  "lesson_en": "Love for parents runs deep. We should pray for their good as long as they live.",
+  "lesson_bn": "পিতামাতার প্রতি সন্তানের ভালোবাসা ও দায়িত্ব অত্যন্ত গভীর। জীবিত থাকা পর্যন্ত তাদের হিদায়াত ও কল্যাণের জন্য চেষ্টা করা উচিত।",
+  "real_life_en": "Treat your parents with love and honor. Pray for their guidance each day, and speak to them with kindness and respect.",
+  "real_life_bn": "পিতা-মাতার সাথে সবসময় সদ্ব্যবহার করুন এবং তাঁদের জন্য নিয়মিত দোয়া করুন। তাঁদের ভুলত্রুটি থাকলে তা আদবের সাথে বুঝিয়ে বলুন।",
+  "themes": [
+    "family",
+    "parental-dua",
+    "misguidance"
+  ],
+  "kinds": [
+    "dua",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim",
+      "azar"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Ibrahim prayed for his father's forgiveness before it became clear that his father was an enemy to God who died in idolatry.",
+      "claim_bn": "ইব্রাহীম তাঁর পিতার শিরকের ওপর মৃত্যুর বিষয়টি স্পষ্ট হওয়ার পূর্বে তাঁর ক্ষমার জন্য দোয়া করেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

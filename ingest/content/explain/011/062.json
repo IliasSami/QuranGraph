@@ -1,0 +1,83 @@
+{
+  "id": "11:62",
+  "simple_en": "They said: O Salih, we had high hopes for you among us before this. Do you now forbid us from worshiping what our forefathers worshiped? We are in deep and troubling doubt about what you call us to.",
+  "simple_bn": "তারা বলল: হে সালিহ! এর পূর্বে তুমি আমাদের কাছে ছিলে এক আশার পাত্র। আমাদের পিতৃপুরুষরা যার পূজা করত তুমি কি আমাদের তার পূজা করতে নিষেধ করছ? নিশ্চয় তুমি আমাদের যার দিকে ডাকছ সে বিষয়ে আমরা বিভ্রান্তিকর সন্দেহের মধ্যে আছি।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "رجو",
+      "lemma": "مَرْجُوّ",
+      "meaning_en": "a man of hope / promise",
+      "meaning_bn": "আশার পাত্র",
+      "why_en": "Recognizing his exceptional wisdom and character prior to revelation."
+    },
+    {
+      "pos": 9,
+      "root": "نهي",
+      "lemma": "نَهَى",
+      "meaning_en": "do you forbid us",
+      "meaning_bn": "তুমি কি নিষেধ করছ",
+      "why_en": "Questioning his prohibition of ancestral idolatry."
+    },
+    {
+      "pos": 17,
+      "root": "شكك",
+      "lemma": "شَكّ",
+      "meaning_en": "doubt / skepticism",
+      "meaning_bn": "সন্দেহ",
+      "why_en": "Spiritual uncertainty clouding clear truth."
+    },
+    {
+      "pos": 21,
+      "root": "ريب",
+      "lemma": "مُرِيب",
+      "meaning_en": "troubling / disquieting",
+      "meaning_bn": "বিভ্রান্তিকর / উদ্বেগজনক",
+      "why_en": "Deep confusion caused by rejecting clear signs."
+    }
+  ],
+  "lesson_en": "People may praise your character until you stand up for divine truth and challenge their sins.",
+  "lesson_bn": "সত্য ও ন্যায়ের পক্ষে দাঁড়ালে অনেক সময় প্রিয় মানুষরাও ভুল বুঝে দূরে সরে যেতে পারে।",
+  "real_life_en": "Do not trade the pleasure of Allah for human praise. Even if old friends turn away when you practice faith, remain steadfast in truth.",
+  "real_life_bn": "মানুষের প্রশংসা পাওয়ার জন্য নিজের নীতি ত্যাগ করবেন না; সত্যের ওপর অটল থাকাই চূড়ান্ত সাফল্য।",
+  "themes": [
+    "story of Salih",
+    "ancestral idolatry",
+    "doubts of Thamud"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Salih (peace be upon him)"
+    ],
+    "nations": [
+      "People of Thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "ancestral idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Thamud expressed disillusionment with Salih because he prohibited ancestral polytheism, claiming his call aroused deep skepticism.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

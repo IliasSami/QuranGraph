@@ -1,0 +1,97 @@
+{
+ "id": "3:167",
+ "simple_en": "The trial at Uhud exposed those who hid disbelief in their hearts. When asked to help fight for Allah or defend their homes, they made excuses and turned away. They claimed that if there were real fighting, they would join. On that day, their deeds showed they were closer to disbelief than to faith. They spoke sweet words, but their hearts hid doubt and fear. Allah knows all that they hide.",
+ "simple_bn": "উহুদের কঠিন পরিস্থিতি মুনাফিকদের আসল রূপ প্রকাশ করে দিয়েছিল। যখন তাদের আল্লাহর পথে লড়াই করতে বা নিজেদের পরিবার রক্ষা করতে বলা হলো, তখন তারা মিথ্যা অজুহাত দেখিয়ে ফিরে গেল। তারা দাবি করল, যুদ্ধ হবে জানলে তারা অবশ্যই সাথে থাকত। সেদিন তাদের আচরণ বুঝিয়ে দিয়েছিল তারা ঈমানের চেয়ে কুফরির বেশি কাছাকাছি। তারা মুখে এক কথা বলত কিন্তু অন্তরে অন্য কিছু গোপন রাখত। আল্লাহ তাদের গোপন অভিসন্ধি খুব ভালো করেই জানেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "نفق",
+   "lemma": "نافَقُ",
+   "meaning_en": "they acted hypocritically",
+   "meaning_bn": "তারা মুনাফেকি করেছিল",
+   "why_en": "Identifies the faction that pretended to believe but abandoned the army."
+  },
+  {
+   "pos": 12,
+   "root": "دفع",
+   "lemma": "دَفَعْ",
+   "meaning_en": "defend / ward off",
+   "meaning_bn": "প্রতিরোধ করো",
+   "why_en": "Shows the call given to them to at least defend their own community."
+  },
+  {
+   "pos": 29,
+   "root": "قلب",
+   "lemma": "قَلْب",
+   "meaning_en": "their hearts",
+   "meaning_bn": "তাদের অন্তরসমূহ",
+   "why_en": "Exposes the contradiction between outward speech and inward disbelief."
+  }
+ ],
+ "lesson_en": "Make sure your actions match your words, and do not make fake excuses when duty calls.",
+ "lesson_bn": "কথার সাথে কাজের মিল রাখুন এবং কর্তব্যের সময় কপট অজুহাত দেখানো থেকে বিরত থাকুন।",
+ "real_life_en": "In a team project, some people make grand promises when things are easy. Yet when hard work begins, they make excuses and slip away. True character shows when you show up and help, even when the task is difficult.",
+ "real_life_bn": "দলগত কোনো কাজে অনেকে মুখে বড় বড় কথা বললেও কঠিন কাজের সময় অজুহাত দেখিয়ে সরে পড়ে। প্রকৃত সততা হলো মুখের কথার ওপর অটল থেকে বিপদের দিনেও মানুষের পাশে থাকা।",
+ "context_en": "Directly identifying the hypocrites who deserted before Uhud, showing how trials bring out hidden loyalties.",
+ "context_bn": "উহুদের দিনে যারা যুদ্ধের মাঠ থেকে পালিয়ে গিয়েছিল সেই মুনাফিকদের মুখোশ উন্মোচন করে তাদের দ্বিমুখী চরিত্র তুলে ধরা হয়েছে।",
+ "themes": [
+  "hypocrisy",
+  "disbelief",
+  "Allah's knowledge",
+  "trials",
+  "struggle in Allah's way"
+ ],
+ "kinds": [
+  "warning",
+  "story",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Uhud",
+   "Madinah"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "Battle of Uhud"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The event at Uhud exposed the hypocrites who abandoned the Muslim army with false excuses.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Hypocrites speak words with their tongues that contradict what is hidden in their hearts.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Allah knows best what people conceal within their chests.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

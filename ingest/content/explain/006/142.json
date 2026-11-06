@@ -1,0 +1,83 @@
+{
+  "id": "6:142",
+  "simple_en": "Allah created livestock for your benefit. Some large animals carry heavy loads, while smaller animals provide meat and wool. Eat the wholesome food that Allah has granted you. Do not follow the footsteps of Satan by declaring lawful animals forbidden. Satan is an open enemy to all of you.",
+  "simple_bn": "আল্লাহ মানুষের উপকারের জন্য গবাদিপশু সৃষ্টি করেছেন। কিছু বড় পশু ভারী বোঝা বহন করে, আর ছোট পশু মাংস ও পশম জোগায়। আল্লাহ তোমাদের যে হালাল রিজিক দিয়েছেন তা আহার করো। মনগড়া নিয়মে হালাল পশুকে হারাম করে শয়তানের পদাঙ্ক অনুসরণ কোরো না। নিশ্চয়ই শয়তান তোমাদের প্রকাশ্য শত্রু।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حمل",
+      "lemma": "حَمُولَة",
+      "meaning_en": "burden-bearers",
+      "meaning_bn": "বোঝাবহনকারী পশু",
+      "why_en": "Refers to large animals like mature camels capable of carrying heavy loads."
+    },
+    {
+      "pos": 4,
+      "root": "فرش",
+      "lemma": "فَرْش",
+      "meaning_en": "small livestock",
+      "meaning_bn": "ছোট পশু",
+      "why_en": "Denotes low animals like sheep and goats unsuitable for carrying heavy loads."
+    },
+    {
+      "pos": 12,
+      "root": "شطن",
+      "lemma": "شَيْطان",
+      "meaning_en": "Satan",
+      "meaning_bn": "শয়তান",
+      "why_en": "Warns against following the tempting whispers and innovations of Satan."
+    }
+  ],
+  "lesson_en": "Eat lawful food with gratitude. Reject false taboos that ban what Allah made lawful.",
+  "lesson_bn": "আল্লাহর হালাল করা খাবার কৃতজ্ঞতার সাথে গ্রহণ করুন। মনগড়া কুসংস্কার মেনে হালাল বস্তুকে হারাম করবেন না।",
+  "real_life_en": "Eat healthy, lawful meals without inventing baseless food fears or taboos. When cultural myths dictate that good food is cursed, hold firmly to clear religious guidance. Recognize that dividing people through groundless bans follows the path of Satan.",
+  "real_life_bn": "কোনো কুসংস্কার বা ভিত্তিহীন ভয়ে হালাল খাদ্য বর্জন করবেন না। সমাজে প্রচলিত ভুল ধারণা বা কুপ্রথার বদলে দ্বীনি নির্দেশ অনুসরণ করুন। হালালকে হারাম করা শয়তানের প্ররোচনা, তাই সবসময় সচেতন থাকুন।",
+  "context_en": "Following the mention of crops, Allah mentions livestock as another great blessing given for food and transport.",
+  "context_bn": "ফসলের নিয়ামত বর্ণনার পর আল্লাহ বোঝা বহন ও খাদ্যের জন্য গৃহপালিত পশুর অনুগ্রহ তুলে ধরেছেন।",
+  "themes": [
+    "creation",
+    "Allah's power",
+    "Satan",
+    "gratitude"
+  ],
+  "kinds": [
+    "command",
+    "prohibition",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Satan"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "cattle",
+      "livestock"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah created diverse cattle, both large burden-bearers and smaller livestock for food and fleece.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Believers are commanded to eat lawful provisions and not follow Satan's whispers in forbidding them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

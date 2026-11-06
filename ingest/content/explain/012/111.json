@@ -1,0 +1,88 @@
+{
+  "id": "12:111",
+  "simple_en": "The stories of the prophets hold timeless lessons for wise minds. The Quran is not an invented story. It confirms earlier divine scriptures and gives clear explanations for human life. It offers guidance and mercy for everyone who believes.",
+  "simple_bn": "নবীগণের এসব বৃত্তান্তে বুদ্ধিমানদের জন্য গভীর শিক্ষা রয়েছে। কুরআন কোনো মনগড়া গল্প নয়। এটি পূর্ববর্তী আসমানি কিতাবের সত্যতা নিশ্চিত করে এবং জীবনের সব বিষয়ের বিশদ বিবরণ দেয়। যারা ঈমান আনে তাদের জন্য এটি পথনির্দেশ ও অনুগ্রহ।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "قصص",
+      "lemma": "قَصَص",
+      "meaning_en": "their stories",
+      "meaning_bn": "তাদের কাহিনীতে",
+      "why_en": "The authentic historical narratives related throughout the Quran."
+    },
+    {
+      "pos": 5,
+      "root": "عبر",
+      "lemma": "عِبْرَة",
+      "meaning_en": "a lesson",
+      "meaning_bn": "শিক্ষা বা উপদেশ",
+      "why_en": "Moral and spiritual reflection that transforms hearts and minds."
+    },
+    {
+      "pos": 7,
+      "root": "لبب",
+      "lemma": "أَلْباب",
+      "meaning_en": "people of understanding",
+      "meaning_bn": "বোধশক্তি সম্পন্ন ব্যক্তিরা",
+      "why_en": "Those who possess genuine intellect and discern truth from falsehood."
+    },
+    {
+      "pos": 17,
+      "root": "فصل",
+      "lemma": "تَفْصِيل",
+      "meaning_en": "detailed explanation",
+      "meaning_bn": "বিশদ বিবরণ",
+      "why_en": "Clear elaboration of creed, morals, law, and human purpose."
+    },
+    {
+      "pos": 20,
+      "root": "هدي",
+      "lemma": "هُدًى",
+      "meaning_en": "guidance",
+      "meaning_bn": "হেদায়াত",
+      "why_en": "The path leading to righteousness, peace, and eternal success."
+    }
+  ],
+  "lesson_en": "Read these old stories to gain wisdom. They guide the heart.",
+  "lesson_bn": "কুরআনের কাহিনীগুলো অধ্যয়ন করা উচিত নৈতিক শক্তি, বাস্তব প্রজ্ঞা ও হেদায়াত অর্জনের জন্য।",
+  "real_life_en": "A mother reads this story with her kids before bed. She does not treat it as a mere tale. She teaches them patience, truth, and love.",
+  "real_life_bn": "একজন অভিভাবক সন্তানদের ইউসুফের ঘটনা পড়ে শোনান। কেবল গল্প হিসেবে না নিয়ে তাঁরা আলোচনা করেন কীভাবে বাস্তব জীবনে ধৈর্য, সততা ও পারস্পরিক ক্ষমা অনুশীলন করা যায়।",
+  "context_en": "The closing ayah of Surah Yusuf: highlighting the Quran as divine confirmation, guidance, and mercy.",
+  "context_bn": "সূরা ইউসুফের সমাপ্তি আয়াত: কুরআনকে সত্যের প্রমাণ, হেদায়াত ও রহমত হিসেবে উপস্থাপন।",
+  "themes": [
+    "lessons from history",
+    "confirmation of scripture",
+    "guidance",
+    "mercy"
+  ],
+  "kinds": [
+    "praise",
+    "belief",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The prophetic narratives offer lessons, confirming earlier revelations as guidance and mercy.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

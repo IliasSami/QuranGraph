@@ -1,0 +1,67 @@
+{
+  "id": "30:42",
+  "simple_en": "Tell them to travel through the earth and observe the ruins of past communities. Look at how those who lived before met their ruin. Most of them were idolaters who turned away from God and suffered the results of their rebellion.",
+  "simple_bn": "বলুন, তোমরা পৃথিবীতে ভ্রমণ করো এবং দেখো পূর্ববর্তীদের কী পরিণতি হয়েছিল। তাদের বেশিরভাগই ছিল মুশরিক।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "سِيرُوا۟",
+      "root": "سير",
+      "lemma": "سارَ",
+      "meaning_en": "travel / journey",
+      "meaning_bn": "ভ্রমণ করো",
+      "why_en": "Encouragement to examine historical ruins and learn from past mistakes."
+    },
+    {
+      "pos": 14,
+      "arabic": "مُّشْرِكِينَ",
+      "root": "شرك",
+      "lemma": "مُشْرِك",
+      "meaning_en": "idolaters / polytheists",
+      "meaning_bn": "মুশরিক বা অংশীবাদী",
+      "why_en": "Points out that the ruins belonged to people who joined partners with God."
+    }
+  ],
+  "lesson_en": "Learn from past nations. Those who worshipped false gods and did evil met a terrible end.",
+  "lesson_bn": "ইতিহাস থেকে শিক্ষা নেওয়া বুদ্ধিমানের কাজ। সত্য অস্বীকারকারী জাতিগুলো শেষ পর্যন্ত ধ্বংস হয়ে গেছে।",
+  "real_life_en": "Learn lessons from history and past mistakes. Do not follow the ways of proud groups who ignored moral truth.",
+  "real_life_bn": "অতীতের ঘটনা ও ধ্বংসাবশেষ থেকে শিক্ষা নাও। অহংকার ও পাপের পথ ত্যাগ করে সত্যের পথে চলো।",
+  "themes": [
+    "history",
+    "ruins",
+    "idolatry",
+    "reflection"
+  ],
+  "kinds": [
+    "command",
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "People are commanded to travel the earth and reflect on how past nations were destroyed primarily due to their polytheism.",
+      "claim_bn": "পৃথিবীতে ভ্রমণ করে অতীত জাতিসমূহের পরিণতি প্রত্যক্ষ করতে বলা হয়েছে, যাদের অধিকাংশই ছিল মুশরিক।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

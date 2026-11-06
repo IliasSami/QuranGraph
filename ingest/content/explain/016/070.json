@@ -1,0 +1,66 @@
+{
+  "id": "16:70",
+  "simple_en": "Allah created you, then He will take your life in death. Some people are sent back to feeble old age, forgetting all they knew. Allah is Wise.",
+  "simple_bn": "আল্লাহই তোমাদের সৃষ্টি করেছেন, তারপর তিনি তোমাদের মৃত্যু ঘটাবেন। তোমাদের কাউকে এমন চরম বার্ধক্যে ফিরিয়ে নেওয়া হয় যাতে জ্ঞান থাকার পরও সে আর কিছু জানে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "وفي",
+      "lemma": "تَوَفَّى",
+      "meaning_en": "He takes in death",
+      "meaning_bn": "মৃত্যু ঘটাবেন",
+      "why_en": "The inevitable appointment of death."
+    },
+    {
+      "pos": 9,
+      "root": "رذل",
+      "lemma": "أَرْذَل",
+      "meaning_en": "the most decrepit",
+      "meaning_bn": "চরম বা নিকৃষ্টতম",
+      "why_en": "Feeble old age marked by loss of memory."
+    }
+  ],
+  "lesson_en": "Youth and strength fade away. Human knowledge is fragile and fully dependent upon God.",
+  "lesson_bn": "মানুষের যৌবন ও শক্তি ক্ষণস্থায়ী। চরম বার্ধক্য মানুষকে আবার শিশুর মতো দুর্বল ও নির্ভরশীল করে তোলে।",
+  "real_life_en": "Use your youth and clear mind for good while you can. Be kind and patient with elderly people.",
+  "real_life_bn": "সুস্থ ও তরুণ বয়সে নেক আমল করুন। প্রবীণদের যত্ন নিন এবং তাদের দুর্বলতার সময় ভালোবাসার সাথে পাশে দাঁড়ান।",
+  "themes": [
+    "aging",
+    "mortality",
+    "knowledge"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-Alim",
+      "al-Qadir"
+    ],
+    "events": [
+      "death"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah created mankind and causes them to die, while some reach decrepit old age where they lose knowledge.",
+      "claim_bn": "আল্লাহ মানুষকে সৃষ্টি করেছেন এবং মৃত্যু দেবেন, আর কাউকে বার্ধক্যে এমন দুর্বল অবস্থায় নেওয়া হয় যেখানে সে জ্ঞান হারিয়ে ফেলে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

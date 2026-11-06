@@ -1,0 +1,101 @@
+{
+ "id": "4:6",
+ "simple_en": "Test orphans as they grow near the age of marriage to see how they handle money. If you find they have sound judgment, hand over their wealth in full. Do not consume it in haste before they grow up. A wealthy guardian should take nothing from it, while a needy guardian may take a fair amount for their care. Have witnesses when handing over the property, and Allah is enough as a Reckoner.",
+ "simple_bn": "এতিমরা বিয়ের বয়সে পৌঁছানো পর্যন্ত তাদের আর্থিক বুদ্ধিমত্তা যাচাই করো। যদি তাদের মধ্যে পরিপক্ব বিচারবুদ্ধি দেখতে পাও, তবে তাদের সম্পদ তাদের পুরোপুরি বুঝিয়ে দাও। তারা বড় হয়ে যাবে এই ভয়ে তাড়াহুড়া করে তাদের সম্পদ অপচয় কোরো না। অভিভাবক ধনী হলে সে যেন তা থেকে সম্পূর্ণ বিরত থাকে, আর নিঃস্ব হলে প্রয়োজনমতো ন্যায্য পারিশ্রমিক নিতে পারে। সম্পদ হস্তান্তরের সময় সাক্ষী রাখো, আর হিসাব গ্রহণের জন্য আল্লাহই যথেষ্ট।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "بلو",
+   "lemma": "ابْتَلَى",
+   "meaning_en": "test (evaluate)",
+   "meaning_bn": "পরীক্ষা করো",
+   "why_en": "Guardians must test the orphan's ability to manage money before turning over the full inheritance."
+  },
+  {
+   "pos": 10,
+   "root": "رشد",
+   "lemma": "رُشْد",
+   "meaning_en": "sound judgment (maturity)",
+   "meaning_bn": "সঠিক বুঝ ও পরিপক্বতা",
+   "why_en": "The combination of moral discernment and financial prudence required to receive wealth."
+  },
+  {
+   "pos": 23,
+   "root": "عفف",
+   "lemma": "يَسْتَعْفِفْ",
+   "meaning_en": "let him refrain",
+   "meaning_bn": "সে যেন বিরত থাকে",
+   "why_en": "A wealthy guardian should completely refrain from taking any payment from the orphan's funds."
+  },
+  {
+   "pos": 37,
+   "root": "حسب",
+   "lemma": "حَسِيب",
+   "meaning_en": "an All-Sufficient Reckoner",
+   "meaning_bn": "যথেষ্ট হিসাব গ্রহণকারী",
+   "why_en": "Allah keeps an exact record of every penny and holds every guardian accountable."
+  }
+ ],
+ "lesson_en": "Hand over an orphan's wealth once they show sound judgment. Use witnesses to keep things clear.",
+ "lesson_bn": "এতিম সাবালক ও বুদ্ধিমান হলে সাক্ষীদের উপস্থিতিতে তাদের সম্পদ বুঝিয়ে দিন এবং প্রতিটি পাইয়ের হিসাব পরিষ্কার রাখুন।",
+ "real_life_en": "Give a growing child small budgets to buy books or food. When they become adults, give them their inheritance in front of witnesses. Remember that Allah sees every transfer.",
+ "real_life_bn": "কিশোর বয়সে পৌঁছালে সন্তান বা পোষ্যকে বাজার বা পড়াশোনার ছোটখাটো দায়িত্ব দিয়ে দেখুন তারা ঠিকমতো হিসাব রাখতে পারে কি না। তারা বড় ও বুদ্ধিমান হলে নির্ভরযোগ্য সাক্ষীদের সামনে তাদের সম্পদ বুঝিয়ে দিন। কেউ তদারকি না করলেও মনে রাখবেন আল্লাহ সব দেখছেন।",
+ "themes": [
+  "orphans",
+  "wealth",
+  "justice",
+  "honesty",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "ethics",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Hasib"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Guardians must test orphans' financial ability as they reach the age of marriage and return their wealth when they demonstrate sound judgment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Guardians must not rush to waste orphans' wealth before they mature; wealthy guardians must abstain from taking from it, while needy guardians may take a reasonable amount for maintenance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Property handover should be witnessed to prevent disputes, and Allah suffices as an all-knowing witness and reckoner.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "8:64",
+  "simple_en": "O Prophet, Allah is sufficient for you and for the believers who follow you. Put all your trust in His care and carry out your mission with confidence.",
+  "simple_bn": "হে নবী! তোমার জন্য এবং তোমার অনুসারী মুমিনদের জন্য আল্লাহই যথেষ্ট।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نبأ",
+      "lemma": "نَبِيّ",
+      "meaning_en": "the Prophet",
+      "meaning_bn": "নবী",
+      "why_en": "Direct address to the Messenger of Allah."
+    },
+    {
+      "pos": 3,
+      "root": "حسب",
+      "lemma": "حَسْب",
+      "meaning_en": "sufficient",
+      "meaning_bn": "যথেষ্ট",
+      "why_en": "Complete sufficiency in all matters."
+    },
+    {
+      "pos": 6,
+      "root": "تبع",
+      "lemma": "اتَّبَعَ",
+      "meaning_en": "follows you",
+      "meaning_bn": "তোমাকে অনুসরণ করে",
+      "why_en": "Those committed to the prophetic path."
+    }
+  ],
+  "lesson_en": "God's protection and support are more than enough for all faithful believers.",
+  "lesson_bn": "আল্লাহর সাহায্য ও অভিভাবকত্বই বিশ্বাসীদের জন্য সম্পূর্ণ যথেষ্ট।",
+  "real_life_en": "When you feel all alone or facing big troubles, do not lose heart. God is always there to guide you. He will keep your steps safe in every storm.",
+  "real_life_bn": "কঠিন পরিস্থিতিতে একাকীত্ব বোধ করলে মনে রাখবেন, আল্লাহ আপনার সাথে আছেন। তাঁর সাহায্যই আপনার জন্য যথেষ্ট।",
+  "context_en": "Comforting the Prophet and the early Muslim community with the absolute promise of divine backing.",
+  "context_bn": "রাসুলুল্লাহ (সা.) ও মুমিনদের সাহস ও মনোবল বৃদ্ধির জন্য আল্লাহর পর্যাপ্ততার ঘোষণা।",
+  "themes": [
+    "trust in Allah",
+    "comfort",
+    "companionship of believers",
+    "sufficiency"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "description-of-allah",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah alone is sufficient for the Prophet and for all believers who follow him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

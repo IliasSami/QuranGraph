@@ -1,0 +1,79 @@
+{
+  "id": "11:6",
+  "simple_en": "There is no living creature on the earth except that its provision is guaranteed by Allah. He knows where it lives and where it will die. Everything is recorded in a clear divine Book.",
+  "simple_bn": "জমিনে বিচরণকারী এমন কোনো প্রাণী নেই যার জীবিকার দায়িত্ব আল্লাহর ওপর নেই। তিনি জানেন এদের স্থায়ী বাসস্থান এবং মৃত্যুস্থল; সবকিছুই এক সুস্পষ্ট কিতাবে সংরক্ষিত আছে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "دبب",
+      "lemma": "دابَّة",
+      "meaning_en": "moving creature",
+      "meaning_bn": "বিচরণকারী প্রাণী",
+      "why_en": "Every living organism that crawls or walks on earth."
+    },
+    {
+      "pos": 9,
+      "root": "رزق",
+      "lemma": "رِزْق",
+      "meaning_en": "provision / sustenance",
+      "meaning_bn": "জীবিকা / রিযিক",
+      "why_en": "The nourishment and sustenance provided by God."
+    },
+    {
+      "pos": 15,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "register / book",
+      "meaning_bn": "কিতাব / সংরক্ষিত ফলক",
+      "why_en": "The Preserved Tablet containing all cosmic decrees."
+    }
+  ],
+  "lesson_en": "Allah feeds every creature, so trust Him and work with honesty.",
+  "lesson_bn": "আল্লাহ সমস্ত সৃষ্টির রিযিকের জিম্মাদার; তাই হালাল উপার্জনের চেষ্টা চালিয়ে তাঁর ওপর পূর্ণ ভরসা রাখুন।",
+  "real_life_en": "When money worries cause stress, remember that your life's sustenance is in Allah's hands. Do your honest best at work and trust Him for the outcome.",
+  "real_life_bn": "উপার্জন নিয়ে অতিরিক্ত দুশ্চিন্তা করবেন না। সততার সাথে পরিশ্রম করুন এবং বিশ্বাস রাখুন আল্লাহ কখনো আপনার রিজিক বন্ধ করবেন না।",
+  "themes": [
+    "divine provision",
+    "trust in Allah",
+    "omniscience",
+    "Preserved Tablet"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "creation",
+    "promise",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "earth"
+    ],
+    "unseen": [
+      "Preserved Tablet (al-Lawh al-Mahfuz)"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "Clear Register"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Every living creature's sustenance and lifespans are known to Allah and recorded in the Preserved Tablet.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

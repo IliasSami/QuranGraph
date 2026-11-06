@@ -1,0 +1,66 @@
+{
+  "id": "26:38",
+  "simple_en": "The magicians were gathered together for the contest at an appointed time on a festival day. A large crowd came to see what would happen.",
+  "simple_bn": "অতঃপর এক নির্ধারিত উৎসবের দিনে নির্দিষ্ট সময়ে সকল জাদুকরকে প্রতিযোগিতার জন্য একত্রিত করা হলো।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "ٱلسَّحَرَةُ",
+      "root": "سحر",
+      "lemma": "ساحِر",
+      "meaning_en": "the magicians",
+      "meaning_bn": "যাদুকরগণ",
+      "why_en": "The practitioners assembled to confront Moses."
+    },
+    {
+      "pos": 3,
+      "arabic": "لِمِيقَٰتِ",
+      "root": "وقت",
+      "lemma": "مِيقات",
+      "meaning_en": "for the appointment",
+      "meaning_bn": "নির্দিষ্ট সময়ের জন্য",
+      "why_en": "The agreed-upon time for the public contest."
+    }
+  ],
+  "lesson_en": "God permits public challenges so that truth can win. People can see the light with their own eyes.",
+  "lesson_bn": "আল্লাহ প্রকাশ্য ময়দানে সত্যের চূড়ান্ত বিজয় নিশ্চিত করতে বিরোধীদের সকল প্রস্তুতি সম্পন্ন করার সুযোগ দেন।",
+  "real_life_en": "Do not fear open scrutiny when you act with honesty. Openness always helps the truth become clear to fair observers.",
+  "real_life_bn": "প্রকাশ্য পরীক্ষায় সততা ধরে রাখুন। সততা বজায় থাকলে সকলের উপস্থিতিতেই ন্যায়ের প্রকৃত রূপ স্পষ্ট হয়।",
+  "themes": [
+    "assembly",
+    "contest",
+    "truth-vs-falsehood"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Contest with the Magicians"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The magicians were assembled at an appointed time on a well-known festival day.",
+      "claim_bn": "এক নির্ধারিত উৎসবের দিনে নির্দিষ্ট সময়ে সমস্ত যাদুকরকে একত্রিত করা হয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,70 @@
+{
+  "id": "27:28",
+  "simple_en": "Solomon wrote a formal letter and gave it to the hoopoe. He ordered the bird to fly to Sheba, drop the message before the queen and her court, and observe their response from a close distance.",
+  "simple_bn": "সুলাইমান একটি চিঠি লিখে হুদহুদের হাতে দিলেন। তিনি নির্দেশ দিলেন চিঠিটি তাদের কাছে ফেলে কিছুটা দূরে অপেক্ষা করতে এবং লক্ষ্য করতে যে তারা কী প্রতিক্রিয়া জানায়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "بِّكِتَٰبِى",
+      "root": "كتب",
+      "lemma": "كِتابِي",
+      "meaning_en": "with this letter of mine",
+      "meaning_bn": "আমার এই পত্র নিয়ে",
+      "why_en": "The diplomatic message sent to Sheba."
+    },
+    {
+      "pos": 4,
+      "arabic": "فَأَلْقِهْ",
+      "root": "لقي",
+      "lemma": "أَلْقَى",
+      "meaning_en": "and deliver it",
+      "meaning_bn": "তা তাদের কাছে নিক্ষেপ কর",
+      "why_en": "Delivering the royal message directly."
+    }
+  ],
+  "lesson_en": "Send clear and kind words to invite people to the truth. Watch how they respond.",
+  "lesson_bn": "শান্তি ও সত্যের আহবানে লিখিত ও প্রজ্ঞাপূর্ণ যোগাযোগ ফলপ্রসূ পরিবর্তন নিয়ে আসে।",
+  "real_life_en": "Use polite words to solve problems. Give other people time to think and reply with calm hearts.",
+  "real_life_bn": "যেকোনো জটিল বিষয়ে শালীন ও স্পষ্ট বক্তব্যের মাধ্যমে সমাধান খুঁজুন। অপর পক্ষের প্রতিক্রিয়া ধৈর্য ধরে পর্যবেক্ষণ করুন।",
+  "themes": [
+    "sulayman",
+    "letter",
+    "diplomacy"
+  ],
+  "kinds": [
+    "story",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Solomon"
+    ],
+    "nations": [
+      "Sheba"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "letter",
+      "hoopoe"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Solomon sent a letter with the hoopoe to Sheba to invite them and observe their reaction.",
+      "claim_bn": "সুলাইমান হুদহুদের মাধ্যমে সাবার রানীর কাছে একটি চিঠি পাঠিয়ে তাদের মনোভাব পর্যবেক্ষণ করতে বললেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

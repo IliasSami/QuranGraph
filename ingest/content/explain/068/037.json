@@ -1,0 +1,58 @@
+{
+  "id": "68:37",
+  "simple_en": "Or do you have a holy book sent from God that you study? Show where your book says that the wicked will be treated like the good.",
+  "simple_bn": "নাকি তোমাদের কাছে কোনো আসমানী কিতাব আছে, যা থেকে তোমরা পাঠ করছ?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "a revealed scripture",
+      "meaning_bn": "কোনো কিতাব",
+      "why_en": "Asks whether their false claims have any basis in divine revelation."
+    },
+    {
+      "pos": 5,
+      "root": "درس",
+      "lemma": "دَرَسُ",
+      "meaning_en": "you study and learn",
+      "meaning_bn": "তোমরা পাঠ করো",
+      "why_en": "Demands authentic textual evidence when discussing faith."
+    }
+  ],
+  "lesson_en": "Base your faith on true scripture, not on made-up ideas.",
+  "lesson_bn": "ধর্মীয় বিষয়ে নিজের মনগড়া কথা না বলে সত্য ও নির্ভরযোগ্য দলিলের ওপর নির্ভর করা উচিত।",
+  "real_life_en": "A person claims that certain dates of the year bring bad luck. A friend asks him, 'Which book of authentic guidance teaches that?' The man pauses, realizing his claim was based only on folklore.",
+  "real_life_bn": "কুসংস্কার বা ভিত্তিহীন ধারণাকে ধর্মের অংশ বানানো যাবে না। বিশুদ্ধ দলিলের ভিত্তিতেই বিশ্বাস স্থাপন করতে হয়।",
+  "themes": [
+    "revelation",
+    "knowledge",
+    "argument"
+  ],
+  "kinds": [
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelievers are challenged to produce any scripture that justifies their false assertions.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

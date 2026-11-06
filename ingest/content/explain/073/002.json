@@ -1,0 +1,63 @@
+{
+ "id": "73:2",
+ "simple_en": "Allah commands the Prophet ﷺ to stand in prayer during the night. He does not have to stay awake the entire night, but only most of it. Night prayer brings peace to the heart. It also trains the soul to remain firm in faith.",
+ "simple_bn": "আল্লাহ নবী ﷺ-কে রাতের বেশিরভাগ সময় সালাতে দাঁড়ানোর নির্দেশ দিয়েছেন। তাঁকে সারা রাত জেগে থাকতে বলা হয়নি, বরং কিছু সময় বিশ্রামের সুযোগ দেওয়া হয়েছে। রাতের ইবাদত মনকে শান্ত রাখে এবং ঈমানের পথে অবিচল থাকতে শক্তি জোগায়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قوم",
+   "lemma": "قامَ",
+   "meaning_en": "stand",
+   "meaning_bn": "দাঁড়ান",
+   "why_en": "The command to stand calls for devotion in night prayer."
+  },
+  {
+   "pos": 2,
+   "root": "ليل",
+   "lemma": "لَيْل",
+   "meaning_en": "the night",
+   "meaning_bn": "রাত",
+   "why_en": "The quiet hours of the night offer peace away from daily noise."
+  }
+ ],
+ "lesson_en": "Spending quiet time in worship at night strengthens your faith and brings peace to your heart.",
+ "lesson_bn": "রাতের নির্জনতায় আল্লাহর ইবাদত করলে মন শান্ত হয় এবং ঈমান মজবুত হয়।",
+ "real_life_en": "Try waking up just ten minutes before dawn to pray two units of prayer. You can use this quiet time to speak to Allah when the house is still.",
+ "real_life_bn": "ফজরের ঠিক দশ মিনিট আগে উঠে দুই রাকাত তাহাজ্জুদ পড়ার চেষ্টা করুন। চারপাশ যখন নিস্তব্ধ থাকে, তখন একাকী আল্লাহর কাছে নিজের মনের কথা বলুন।",
+ "themes": [
+  "prayer",
+  "worship"
+ ],
+ "kinds": [
+  "command",
+  "worship"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah commanded the Prophet ﷺ to spend most of the night in prayer, leaving a small portion for rest.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

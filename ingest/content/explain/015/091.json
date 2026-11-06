@@ -1,0 +1,70 @@
+{
+  "id": "15:91",
+  "simple_en": "They tore the message into pieces. Some called it magic, and some called it poetry. They made up wild excuses to avoid following the truth.",
+  "simple_bn": "যারা কুরআনকে খণ্ড-বিখণ্ড করেছিল, কখনো একে জাদু, কখনো কবিতা আবার কখনো পুরোনো গল্প বলে আখ্যায়িত করেছিল। সত্য এড়িয়ে যাওয়ার জন্যই তারা এসব উদ্ভট অজুহাত খাড়া করেছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جعل",
+      "lemma": "جَعَلَ",
+      "meaning_en": "who made",
+      "meaning_bn": "যারা বানিয়েছিল",
+      "why_en": "Arbitrary fragmentation."
+    },
+    {
+      "pos": 3,
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "the Quran",
+      "meaning_bn": "কুরআনকে",
+      "why_en": "The final divine revelation."
+    },
+    {
+      "pos": 4,
+      "root": "عضو",
+      "lemma": "عِضِين",
+      "meaning_en": "into portions",
+      "meaning_bn": "টুকরো টুকরো বা খণ্ড-বিখণ্ড",
+      "why_en": "Dividing it into false labels."
+    }
+  ],
+  "lesson_en": "Do not make excuses when facing the truth. Approach the Quran with sincerity and respect, not with cynical labels.",
+  "lesson_bn": "সত্যের মুখোমুখি হয়ে কোনো অজুহাত খুঁজবেন না। কুরআনকে শ্রদ্ধার সাথে বোঝার চেষ্টা করুন, কোনো ব্যঙ্গ বা খণ্ডিত দৃষ্টিভঙ্গি নিয়ে নয়।",
+  "real_life_en": "A critic refuses to read a complete research report and cherry-picks two isolated lines to attack it online. His bad faith hurts everyone who needs the truth.",
+  "real_life_bn": "এক ব্যক্তি পুরো বই না পড়ে দুই-একটি লাইন কেটে নিয়ে অনলাইনে কুৎসা রটায়। পক্ষপাতদুষ্ট আচরণ কখনো সত্য উদঘাটনে সাহায্য করে না।",
+  "context_en": "Censuring the polytheists of Makkah who labeled the Quran variously as sorcery, poetry, or soothsaying.",
+  "context_bn": "কুরআনকে খণ্ড-বিখণ্ড করে একে জাদু, কবিতা বা অলীক কল্পনা আখ্যা দেওয়া মক্কার মুশরিকদের নিন্দা।",
+  "themes": [
+    "quran",
+    "hypocrisy",
+    "denial"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "things": [
+      "the Quran"
+    ],
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": []
+  },
+  "claims": [
+    {
+      "text": "The polytheists divided the Quran into disparaging categories such as sorcery, poetry, or legend.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

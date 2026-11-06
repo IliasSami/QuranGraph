@@ -1,0 +1,71 @@
+{
+  "id": "69:6",
+  "simple_en": "And as for the people of Ad, they were destroyed by a furious, roaring wind. It was bitterly cold and wild, tearing down everything in its path with unstoppable force.",
+  "simple_bn": "আর আদ সম্প্রদায়কে ধ্বংস করা হয়েছিল এক অতি শীতল, প্রচণ্ড গর্জনকারী ঝঞ্ঝাবায়ু দিয়ে। সেই তীব্র বাতাস অপ্রতিরোধ্য শক্তিতে তাদের সব কিছু গুঁড়িয়ে দিয়েছিল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "روح",
+      "lemma": "رِيح",
+      "meaning_en": "wind",
+      "meaning_bn": "বাতাস",
+      "why_en": "Points to an ordinary element turned into an overwhelming instrument of punishment."
+    },
+    {
+      "pos": 5,
+      "root": "صرصر",
+      "lemma": "صَرْصَر",
+      "meaning_en": "roaring and cold",
+      "meaning_bn": "প্রচণ্ড গর্জনকারী ও তীব্র ঠান্ডা",
+      "why_en": "Describes the freezing chill and deafening noise of the gale."
+    },
+    {
+      "pos": 6,
+      "root": "عتو",
+      "lemma": "عاتِيَة",
+      "meaning_en": "furious and violent",
+      "meaning_bn": "উন্মত্ত ও তীব্র",
+      "why_en": "Indicates that the storm raged with unrestrained fury upon them."
+    }
+  ],
+  "lesson_en": "Even a gentle wind can turn into a crushing force at God's command.",
+  "lesson_bn": "আল্লাহর হুকুমে বাতাসের মতো সাধারণ উপাদানও ধ্বংসের নির্মম হাতিয়ারে পরিণত হতে পারে।",
+  "real_life_en": "People watch massive storms sweep across coastal towns and feel their own weakness. Remembering ancient lessons teaches us to seek safety in God rather than relying on human strength.",
+  "real_life_bn": "প্রাকৃতিক দুর্যোগের তাণ্ডব দেখে মানুষ নিজের অসহায়ত্ব বুঝতে পারে। প্রকৃতির শক্তির চেয়ে স্রষ্টার ক্ষমতা অনেক বড়, তাই সবসময় তাঁর করুণা প্রার্থনা করা উচিত।",
+  "themes": [
+    "divine power",
+    "past nations",
+    "Ad"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "ad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Ad was destroyed by a bitterly cold, violent, roaring wind.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

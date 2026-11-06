@@ -1,0 +1,89 @@
+{
+  "id": "39:5",
+  "simple_en": "Allah created the heavens and the earth with true purpose. He wraps the darkness of night over daylight and wraps the light of day over night. He set the sun and the moon on their paths, each running for a fixed time. Truly, He is the Almighty and the Most Forgiving.",
+  "simple_bn": "আল্লাহ যথাযথ উদ্দেশ্যে আসমান ও জমিন সৃষ্টি করেছেন। তিনি রাত দিয়ে দিনকে ঢেকে দেন এবং দিন দিয়ে রাতকে আচ্ছাদিত করেন। তিনি সূর্য ও চাঁদকে নিয়মের অধীন করেছেন, যা প্রত্যেকেই এক নির্ধারিত সময় পর্যন্ত ঘোরে। জেনে রাখুন, তিনি মহাপরাক্রমশালী এবং পরম ক্ষমাশীল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "He created",
+      "meaning_bn": "তিনি সৃষ্টি করেছেন",
+      "why_en": "Points to divine creation bringing the physical universe into being."
+    },
+    {
+      "pos": 5,
+      "root": "كور",
+      "lemma": "كُوِّرَتْ",
+      "meaning_en": "He winds / wraps",
+      "meaning_bn": "আচ্ছাদিত করেন বা জড়িয়ে দেন",
+      "why_en": "Describes the seamless, continuous alternation of day and night over the sphere."
+    },
+    {
+      "pos": 13,
+      "root": "سخر",
+      "lemma": "سَخَّرَ",
+      "meaning_en": "He subjected",
+      "meaning_bn": "নিয়মাধীন করেছেন",
+      "why_en": "Refers to placing celestial bodies under divine laws for human benefit."
+    },
+    {
+      "pos": 23,
+      "root": "غفر",
+      "lemma": "غَفّار",
+      "meaning_en": "the Perpetual Forgiver",
+      "meaning_bn": "পরম ক্ষমাশীল",
+      "why_en": "Shows that despite His immense power, Allah repeatedly forgives repentant servants."
+    }
+  ],
+  "lesson_en": "The order of nature shows Allah's great power and His gentle mercy toward mankind.",
+  "lesson_bn": "প্রকৃতির নিয়ম ও মহাজাগতিক শৃঙ্খলা আল্লাহর অপার ক্ষমতা এবং বান্দার প্রতি তাঁর ক্ষমার প্রমাণ।",
+  "real_life_en": "Watch the sunset and sunrise as reminders of cosmic order. When you see time moving forward, turn back to Allah and ask for His forgiveness.",
+  "real_life_bn": "সূর্যোদয় ও সূর্যাস্ত দেখে সময়ের পরিবর্তন উপলব্ধি করুন। দিন ও রাতের এই আবর্তনে আল্লাহর কুদরত স্মরণ করে নিজের গুনাহের জন্য ক্ষমা চান।",
+  "themes": [
+    "creation",
+    "cosmic order",
+    "allah's power",
+    "forgiveness"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-aziz",
+      "al-ghaffar"
+    ],
+    "events": [],
+    "things": [
+      "the heavens",
+      "the earth",
+      "the night",
+      "the day",
+      "the sun",
+      "the moon"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Allah created the heavens and earth, wraps night over day, subjected the sun and moon, and is the Forgiver.",
+      "claim_bn": "আল্লাহ আসমান ও জমিন সৃষ্টি করেছেন, রাত ও দিনকে পর্যায়ক্রমে আনেন, সূর্য ও চাঁদকে অনুগত করেছেন এবং তিনি ক্ষমাশীল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

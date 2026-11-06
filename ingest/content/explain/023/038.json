@@ -1,0 +1,61 @@
+{
+  "id": "23:38",
+  "simple_en": "They said: He is just a man who has invented a lie about God. We will never believe him or accept his words. They hardened their hearts against truth.",
+  "simple_bn": "তারা বলল, সে তো এমন এক ব্যক্তি যে আল্লাহ সম্বন্ধে মিথ্যা বানিয়ে বলেছে, আর আমরা কখনো তার প্রতি বিশ্বাস স্থাপন করব না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "فري",
+      "lemma": "افْتَرَى",
+      "meaning_en": "he invented",
+      "meaning_bn": "সে বানিয়ে বলেছে",
+      "why_en": "False allegation of fabrication leveled against the prophet."
+    },
+    {
+      "pos": 12,
+      "root": "أمن",
+      "lemma": "مُؤْمِن",
+      "meaning_en": "believers in him",
+      "meaning_bn": "তার প্রতি বিশ্বাসী",
+      "why_en": "Accepting the prophet with sincere faith and conviction."
+    }
+  ],
+  "lesson_en": "Slander is the weapon of those who cannot defeat truth. Sincere messengers face false claims with quiet patience.",
+  "lesson_bn": "অসত্যের পূজারীরা সত্যের যুক্তি খণ্ডন করতে না পেরে অপবাদ আরোপ করে। মুমিনরা ধৈর্যের সাথে সত্যের ওপর অবিচল থাকে।",
+  "real_life_en": "Stand firm when people spread false rumors about your good work. Truth outlasts all lies and false claims.",
+  "real_life_bn": "ভালো কাজে অপবাদ বা অপপ্রচারের মুখে ভেঙে পড়বেন না। আল্লাহ সত্যবাদীদের সাথে আছেন এই বিশ্বাস নিয়ে কাজ চালিয়ে যান।",
+  "themes": [
+    "false-accusations",
+    "patience",
+    "defiance"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The rebellious people falsely accused their prophet of forging lies against God and refused to believe.",
+      "claim_bn": "বিদ্রোহী নেতারা অপবাদ দিয়েছিল যে নবী আল্লাহর নামে মিথ্যা রটনা করেছেন এবং তারা তাঁর ওপর ঈমান আনতে অস্বীকার করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

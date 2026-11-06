@@ -1,0 +1,78 @@
+{
+  "id": "15:10",
+  "simple_en": "We sent messengers before you among the earlier communities of the past. You are not the first prophet to face disbelief and rejection from your own people.",
+  "simple_bn": "আমরা আপনার পূর্বেও অতীতের বিভিন্ন সম্প্রদায়ের কাছে রাসূলদের পাঠিয়েছিলাম। স্বজাতির পক্ষ থেকে অবাধ্যতা ও অস্বীকৃতির মুখোমুখি হওয়া প্রথম নবী আপনি নন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "We sent",
+      "meaning_bn": "আমরা পাঠিয়েছিলাম",
+      "why_en": "Dispatching prophetic messengers."
+    },
+    {
+      "pos": 4,
+      "root": "قبل",
+      "lemma": "قَبْل",
+      "meaning_en": "before you",
+      "meaning_bn": "আপনার পূর্বে",
+      "why_en": "Earlier prophetic eras."
+    },
+    {
+      "pos": 6,
+      "root": "شيع",
+      "lemma": "شِيعَة",
+      "meaning_en": "factions of",
+      "meaning_bn": "সম্প্রদায়সমূহ",
+      "why_en": "Groups and religious communities."
+    },
+    {
+      "pos": 7,
+      "root": "أول",
+      "lemma": "أَوَّل",
+      "meaning_en": "the ancients",
+      "meaning_bn": "পূর্ববর্তীদের",
+      "why_en": "Past historical generations."
+    }
+  ],
+  "lesson_en": "Knowing that righteous people before you faced hardship brings comfort to your heart.",
+  "lesson_bn": "অতীতের নেককার ব্যক্তিরাও কঠিন পরীক্ষার মুখোমুখি হয়েছিলেন—এ কথা স্মরণ রাখলে অন্তরে সান্ত্বনা আসে।",
+  "real_life_en": "A nurse faces exhaustion and criticism while working in a disaster area. She remembers earlier doctors who served through harsh plagues. She feels honored to follow in noble footsteps.",
+  "real_life_bn": "বিপদগ্রস্ত এলাকায় কাজ করতে গিয়ে এক সেবিকা নানা বাধার মুখে পড়েন। তিনি অতীতের ত্যাগী চিকিৎসকদের কথা মনে করেন এবং নিষ্ঠার সাথে সেবা চালিয়ে যান।",
+  "context_en": "Comforting the Prophet Muhammad by reminding him that all earlier prophets were met with opposition.",
+  "context_bn": "রাসূলুল্লাহ (সা.)-কে সান্ত্বনা দান: পূর্ববর্তী সকল নবীর জাতিও তাঁদের সাথে একই ধরনের অস্বীকৃতি ও বিরোধিতার আচরণ করেছিল।",
+  "themes": [
+    "prophets",
+    "history",
+    "comfort"
+  ],
+  "kinds": [
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah sent messengers to past communities who met similar opposition as the Prophet Muhammad.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

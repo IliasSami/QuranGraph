@@ -1,0 +1,60 @@
+{
+  "id": "15:11",
+  "simple_en": "No messenger ever came to past peoples except that they laughed at him. Proud people often mock what they do not want to obey and follow.",
+  "simple_bn": "তাদের কাছে এমন কোনো রাসূল আসেননি যাঁর সাথে তারা উপহাস ও বিদ্রূপ করেনি। অহংকারী মানুষেরা সত্যের মুখোমুখি হতে ভয় পেয়ে উপহাসকে ঢাল হিসেবে ব্যবহার করে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "a messenger",
+      "meaning_bn": "একজন রাসূল",
+      "why_en": "A divine prophet."
+    },
+    {
+      "pos": 8,
+      "root": "هزأ",
+      "lemma": "اسْتَهْزَأَ",
+      "meaning_en": "they mocked",
+      "meaning_bn": "তারা উপহাস করত",
+      "why_en": "Deriding and belittling truth."
+    }
+  ],
+  "lesson_en": "Never mock what you do not understand. Respect the truth and treat people with honor.",
+  "lesson_bn": "যা বোঝেন না তা নিয়ে উপহাস করবেন না। সত্যের মর্যাদা দিন এবং সবাইকে সম্মান প্রদর্শন করুন।",
+  "real_life_en": "School kids mock a quiet classmate who refuses to cheat on an exam. Years later, that classmate becomes a respected doctor. Mockery cannot stop the fruit of honest living.",
+  "real_life_bn": "সহপাঠীরা পরীক্ষায় নকল না করায় এক শান্ত ছাত্রকে নিয়ে ঠাট্টা করে। বহু বছর পর সেই ছাত্র একজন সৎ ও খ্যাতিমান চিকিৎসক হয়। উপহাস কখনো ন্যায়ের পথে চলাকে থামাতে পারে না।",
+  "context_en": "Highlighting the consistent historical pattern of stubborn nations mocking their prophets.",
+  "context_bn": "সকল নবীর সাথেই তাঁদের জাতির অবিরাম বিদ্রূপ ও অবজ্ঞার আচরণ করার ঐতিহাসিক সত্যতা।",
+  "themes": [
+    "prophets",
+    "mockery",
+    "warning"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Every messenger sent to past nations was met with ridicule and mockery.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

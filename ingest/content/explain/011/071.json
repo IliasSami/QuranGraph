@@ -1,0 +1,76 @@
+{
+  "id": "11:71",
+  "simple_en": "His wife Sarah was standing nearby and smiled in joy. We gave her the glad tidings of Isaac, and after Isaac, of Jacob as a grandson.",
+  "simple_bn": "আর তাঁর স্ত্রী পাশে দাঁড়িয়ে ছিলেন, তিনি সুসংবাদ শুনে হাসলেন; অতঃপর আমরা তাঁকে ইসহাকের এবং ইসহাকের পর ইয়াকূবের সুসংবাদ দিলাম।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "مرأ",
+      "lemma": "امْرَأَت",
+      "meaning_en": "his wife",
+      "meaning_bn": "তাঁর স্ত্রী",
+      "why_en": "Sarah, the righteous wife of Abraham."
+    },
+    {
+      "pos": 3,
+      "root": "ضحك",
+      "lemma": "ضَحِكَتْ",
+      "meaning_en": "she smiled / laughed",
+      "meaning_bn": "তিনি হাসলেন",
+      "why_en": "Joy and wonder at the miraculous angelic tidings."
+    },
+    {
+      "pos": 4,
+      "root": "بشر",
+      "lemma": "بُشِّرَ",
+      "meaning_en": "We gave her good news",
+      "meaning_bn": "আমরা তাঁকে সুসংবাদ দিলাম",
+      "why_en": "Divine announcement of a righteous lineage."
+    }
+  ],
+  "lesson_en": "Allah grants blessings and joy in unexpected ways when all hope seems past.",
+  "lesson_bn": "মানুষের সব আশা যখন শেষ হয়ে যায়, তখনও আল্লাহ অপ্রত্যাশিত আনন্দ ও বরকত দান করতে পারেন।",
+  "real_life_en": "Never despair of having a good family or receiving blessings in life. Keep praying with hope, for Allah can bless you with relief at any age.",
+  "real_life_bn": "জীবনের কোনো চাওয়া দেরিতে মিললেও নিরাশ হবেন না; আল্লাহর পরিকল্পনায় প্রতিটি বিষয়ের সুন্দর সময় নির্ধারিত আছে।",
+  "themes": [
+    "glad tidings to Sarah",
+    "birth of Isaac and Jacob",
+    "prophetic lineage"
+  ],
+  "kinds": [
+    "story",
+    "glad-tidings",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Abraham (peace be upon him)",
+      "Sarah",
+      "Isaac (peace be upon him)",
+      "Jacob (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Glad tidings of Isaac and Jacob"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Abraham's wife Sarah received the glad tidings of bearing Isaac in old age, followed by the birth of her grandson Jacob.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

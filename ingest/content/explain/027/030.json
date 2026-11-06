@@ -1,0 +1,72 @@
+{
+  "id": "27:30",
+  "simple_en": "The queen read the opening of the letter to her court. It came from King Solomon and began with the sacred words of peace: In the name of Allah, the Most Compassionate, the Most Merciful.",
+  "simple_bn": "রানী চিঠির শুরুতে পড়ে শোনাল যে এটি সুলাইমানের পক্ষ থেকে পাঠানো এবং এতে লেখা রয়েছে পরম করুণাময় ও পরম দয়ালু আল্লাহর নামে।",
+  "key_words": [
+    {
+      "pos": 7,
+      "arabic": "ٱلرَّحْمَٰنِ",
+      "root": "رحم",
+      "lemma": "رَحْمٰن",
+      "meaning_en": "the Entirely Merciful",
+      "meaning_bn": "পরম করুণাময়",
+      "why_en": "The divine name expressing boundless mercy."
+    },
+    {
+      "pos": 8,
+      "arabic": "ٱلرَّحِيمِ",
+      "root": "رحم",
+      "lemma": "رَحِيم",
+      "meaning_en": "the Especially Merciful",
+      "meaning_bn": "পরম দয়ালু",
+      "why_en": "The divine name expressing continuous compassion."
+    }
+  ],
+  "lesson_en": "Begin every important message with the name of God and His mercy. Divine compassion sets the tone for peace.",
+  "lesson_bn": "যেকোনো সৎ কাজ ও গুরুত্বপূর্ণ যোগাযোগের শুরু আল্লাহর পবিত্র নাম ও করুণার স্মরণের মাধ্যমে হওয়া উচিত।",
+  "real_life_en": "Start your important tasks and conversations with the remembrance of God. Let mercy guide your dealings with others.",
+  "real_life_bn": "প্রতিটি গুরুত্বপূর্ণ কাজ ও আলাপ আল্লাহর নামে শুরু করুন। মানুষের সাথে আচরণে দয়া ও শালীনতা বজায় রাখুন।",
+  "themes": [
+    "basmala",
+    "sulayman",
+    "mercy"
+  ],
+  "kinds": [
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Solomon",
+      "Queen of Sheba"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Ar-Rahman",
+      "Ar-Raheem"
+    ],
+    "events": [],
+    "things": [
+      "letter"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The letter was from Solomon, opening with the phrase in the name of God, the Entirely Merciful, the Especially Merciful.",
+      "claim_bn": "চিঠিটি ছিল সুলাইমানের পক্ষ থেকে এবং তার শুরুতে পরম করুণাময় ও পরম দয়ালু আল্লাহর নাম লেখা ছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

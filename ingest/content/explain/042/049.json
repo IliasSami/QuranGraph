@@ -1,0 +1,87 @@
+{
+ "id": "42:49",
+ "simple_en": "To Allah alone belongs the kingdom of the heavens and the earth. He creates whatever He wills. He gives daughters to whom He wills, and He gives sons to whom He wills.",
+ "simple_bn": "আসমানসমূহ ও যমীনের সার্বভৌম রাজত্ব কেবল মহান আল্লাহর। তিনি যা ইচ্ছে সৃষ্টি করেন। তিনি যাকে ইচ্ছে কন্যাসন্তান দান করেন এবং যাকে ইচ্ছে পুত্রসন্তান দান করেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ملك",
+   "lemma": "مُلْك",
+   "meaning_en": "dominion / kingdom",
+   "meaning_bn": "সার্বভৌম রাজত্ব",
+   "why_en": "Affirms Allah's total ownership and sovereign control over all existence."
+  },
+  {
+   "pos": 5,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "He creates",
+   "meaning_bn": "তিনি সৃষ্টি করেন",
+   "why_en": "Shows that bringing life into being is an exclusive divine power."
+  },
+  {
+   "pos": 8,
+   "root": "وهب",
+   "lemma": "وَهَبَ",
+   "meaning_en": "He grants / bestows",
+   "meaning_bn": "তিনি দান করেন",
+   "why_en": "Emphasizes that every child is a pure, unearned gift from Allah."
+  },
+  {
+   "pos": 11,
+   "root": "أنث",
+   "lemma": "أُنثَى",
+   "meaning_en": "females (daughters)",
+   "meaning_bn": "কন্যাগণ",
+   "why_en": "Honors daughters by mentioning them first as divine gifts."
+  },
+  {
+   "pos": 15,
+   "root": "ذكر",
+   "lemma": "ذَكَر",
+   "meaning_en": "males (sons)",
+   "meaning_bn": "পুত্রগণ",
+   "why_en": "Shows that sons too are granted according to divine wisdom and will."
+  }
+ ],
+ "lesson_en": "Children are a pure gift from Allah, whether sons or daughters.",
+ "lesson_bn": "পুত্র বা কন্যাসন্তান উভয়ই মহান আল্লাহর একান্ত দান ও অনুগ্রহ।",
+ "real_life_en": "Welcome every newborn child with joy and gratitude, whether a boy or a girl. Raise them with love, teach them good manners, and thank Allah for the blessing of family.",
+ "real_life_bn": "পুত্র হোক বা কন্যাসন্তান, আনন্দের সাথে সন্তানকে বরণ করে নিন। তাদের ভালোবাসা ও দ্বীনি শিষ্টাচার দিয়ে বড় করুন এবং পরিবারের এই নিয়ামতের জন্য আল্লাহর শুকরিয়া আদায় করুন।",
+ "themes": [
+  "creation",
+  "Allah's power",
+  "family"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "To Allah belongs dominion of heavens and earth; He creates as He wills, granting daughters or sons to whom He wills.",
+   "claim_bn": "আসমান ও যমীনের রাজত্ব আল্লাহর; তিনি যা ইচ্ছা সৃষ্টি করেন এবং যাকে ইচ্ছা কন্যা বা পুত্র দান করেন।",
+   "sources": [
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

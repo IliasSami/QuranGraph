@@ -1,0 +1,63 @@
+{
+  "id": "37:72",
+  "simple_en": "Allah did not leave those ancient peoples without guidance. He sent messengers among them to warn them of the consequences of disbelief. These prophets spoke clearly, called to the worship of the one true God, and urged repentance.",
+  "simple_bn": "আল্লাহ প্রাচীন জাতিসমূহকে পথনির্দেশ ছাড়া ছেড়ে দেননি। তিনি তাদের নিকট সতর্ককারী রাসূলদের পাঠিয়েছিলেন যেন তারা কুফরির পরিণতি সম্পর্কে জানতে পারে। এই নবীগণ তাদের এক আল্লাহর ইবাদত ও তওবার আহ্বান জানিয়েছিলেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "We sent",
+      "meaning_bn": "আমরা প্রেরণ করেছিলাম",
+      "why_en": "Shows divine care in sending revelation and messengers to humanity."
+    },
+    {
+      "pos": 4,
+      "root": "نذر",
+      "lemma": "مُنذِر",
+      "meaning_en": "warners",
+      "meaning_bn": "সতর্ককারীগণ",
+      "why_en": "Prophets who warned their people about the punishment of the next world."
+    }
+  ],
+  "lesson_en": "Allah sent noble guides to every people. No one is left without a clear warning.",
+  "lesson_bn": "আল্লাহ নবীগণকে পাঠিয়ে সুস্পষ্ট সতর্কবার্তা দিয়েছেন যাতে মানুষের সামনে কোনো ওজর না থাকে।",
+  "real_life_en": "Value the guidance of the Quran and the teachings of the prophets. They are lamps that keep you safe from harm in this life and the next.",
+  "real_life_bn": "কুরআন ও সুন্নাহর শিক্ষাকে জীবনের দিকনির্দেশক হিসেবে গ্রহণ করুন। এগুলোই আপনাকে পার্থিব ও পরকালীন বিপদ থেকে রক্ষা করবে।",
+  "themes": [
+    "prophethood",
+    "revelation",
+    "warning"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah sent warners among the earlier nations to warn them of divine punishment.",
+      "claim_bn": "আল্লাহ পূর্ববর্তী জাতিসমূহের মধ্যে সতর্ককারী রাসূলদের প্রেরণ করেছিলেন যেন তারা সতর্ক হতে পারে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

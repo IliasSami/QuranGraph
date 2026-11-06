@@ -1,0 +1,62 @@
+{
+  "id": "59:12",
+  "simple_en": "When the disbelievers were driven out, the hypocrites did not leave with them. When fighting began, they offered no help. Even if they had marched out to help them, they would have quickly fled in fear. In the end, they found no one to rescue them from disgrace.",
+  "simple_bn": "যখন তাদের বিতাড়িত করা হলো, তখন মুনাফিকরা তাদের সাথে যায়নি। যখন যুদ্ধ শুরু হলো, তখন তারা কোনো সাহায্যে এগিয়ে আসেনি। এমনকি ময়দানে নামলেও তারা পিঠ দেখিয়ে পালিয়ে যেত। পরিশেষে তারা কোনো সাহায্যকারী পেল না।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "نصر",
+      "lemma": "نَصَرَ",
+      "meaning_en": "they help them",
+      "meaning_bn": "তারা তাদের সাহায্য করবে",
+      "why_en": "Reveals their inability and refusal to assist when tested."
+    },
+    {
+      "pos": 12,
+      "root": "ولي",
+      "lemma": "وَلَّى",
+      "meaning_en": "they will turn their backs",
+      "meaning_bn": "তারা পৃষ্ঠপ্রদর্শন করবে বা পালাবে",
+      "why_en": "Describes how cowardice causes them to flee battle."
+    }
+  ],
+  "lesson_en": "False friends run away when hard times come.",
+  "lesson_bn": "ভিত্তিহীন ও অসৎ উদ্দেশ্যে গড়া বন্ধুত্ব বিপদের মুখোমুখি হওয়ামাত্র ভেঙে যায়।",
+  "real_life_en": "Two partners may run a shop together. But when a big loss comes, a selfish friend runs away. He leaves his partner with all the debt. True friends stick together in times of need.",
+  "real_life_bn": "কোনো ব্যবসায় বড় লোকসান দেখা দিলে স্বার্থপর অংশীদারেরা একে অপরকে দোষারোপ করে পালিয়ে যায়। কিন্তু সততা ও বিশ্বাসের ভিত্তিতে গড়া সম্পর্ক যে কোনো বিপদেও অটুট থাকে।",
+  "themes": [
+    "cowardice of hypocrites",
+    "inevitable betrayal",
+    "lack of divine aid"
+  ],
+  "kinds": [
+    "warning",
+    "promise",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "people-of-the-book"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The hypocrites abandoned their allies during exile and conflict, fleeing rather than providing actual help.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

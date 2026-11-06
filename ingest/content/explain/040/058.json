@@ -1,0 +1,78 @@
+{
+  "id": "40:58",
+  "simple_en": "The blind person and the seeing person are not equal. Likewise, those who believe and work righteousness are not equal to those who do evil. How little you take heed and reflect.",
+  "simple_bn": "অন্ধ এবং দৃষ্টিশক্তি সম্পন্ন ব্যক্তি সমান নয়। তেমনি যারা ঈমান আনে ও সৎকর্ম করে, তারা আর দুষ্কৃতিকারীরা কখনো সমান হতে পারে না। তোমরা খুব সামান্যই উপদেশ গ্রহণ করো।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "عمي",
+      "lemma": "أَعْمَى",
+      "meaning_en": "the blind",
+      "meaning_bn": "অন্ধ",
+      "why_en": "Metaphor for the person spiritually blind to the truth."
+    },
+    {
+      "pos": 4,
+      "root": "بصر",
+      "lemma": "بَصِير",
+      "meaning_en": "the seeing",
+      "meaning_bn": "দৃষ্টিমান",
+      "why_en": "The person whose heart is illuminated with faith and insight."
+    },
+    {
+      "pos": 8,
+      "root": "صلح",
+      "lemma": "صالِحَة",
+      "meaning_en": "the righteous deeds",
+      "meaning_bn": "সৎকর্মসমূহ",
+      "why_en": "Virtuous actions flowing from authentic faith."
+    },
+    {
+      "pos": 10,
+      "root": "سوأ",
+      "lemma": "مُسِيء",
+      "meaning_en": "the evildoer",
+      "meaning_bn": "অন্যায়কারী",
+      "why_en": "Those who choose wickedness and corruption in life."
+    }
+  ],
+  "lesson_en": "A life spent in good deeds and faith is never equal to a life spent in evil.",
+  "lesson_bn": "ঈমান ও নেক আমলে কাটানো জীবন কখনো পাপের জীবনের সমান হতে পারে না।",
+  "real_life_en": "Do not assume that doing good and doing bad have the same outcome. Keep striving to do right even when others choose bad habits around you.",
+  "real_life_bn": "ভালো ও মন্দ কাজের ফলাফল কখনো এক হয় না। আশপাশের মানুষ ভুল পথে চললেও আপনি নিষ্ঠার সাথে সৎকাজ চালিয়ে যান।",
+  "themes": [
+    "ethics",
+    "faith",
+    "justice"
+  ],
+  "kinds": [
+    "parable",
+    "argument",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The blind and seeing are not equal, nor are righteous believers equal to evildoers.",
+      "claim_bn": "অন্ধ ও দৃষ্টিমান যেমন সমান নয়, তেমনি বিশ্বাসী সৎকর্মশীল এবং দুষ্কৃতিকারীও সমান হতে পারে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

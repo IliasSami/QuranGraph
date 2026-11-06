@@ -1,0 +1,79 @@
+{
+  "id": "68:51",
+  "simple_en": "The disbelievers almost strike you down with their furious eyes when they hear the Quran recited. In their bitter jealousy, they say: Indeed, he is a madman.",
+  "simple_bn": "কাফিররা যখন কুরআন তেলাওয়াত শোনে, তখন তারা নিজেদের হিংসাপূর্ণ দৃষ্টি দিয়ে যেন আপনাকে ধরাশায়ী করে ফেলতে চায় এবং হিংসাবশত বলে: নিশ্চয় সে তো এক পাগল।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "زلق",
+      "lemma": "يُزْلِقُ",
+      "meaning_en": "would make you slip or fall",
+      "meaning_bn": "আপনাকে ধরাশায়ী করতে চায়",
+      "why_en": "Describes the intense, spiteful glares directed at the Prophet ﷺ."
+    },
+    {
+      "pos": 6,
+      "root": "بصر",
+      "lemma": "بَصَر",
+      "meaning_en": "with their sharp eyes",
+      "meaning_bn": "নিজেদের চোখ দিয়ে",
+      "why_en": "Depicts hostile stares filled with jealousy and animosity."
+    },
+    {
+      "pos": 9,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "the Reminder (the Quran)",
+      "meaning_bn": "কুরআন বা উপদেশ",
+      "why_en": "Names the Quran as the noble revelation that provoked their bitter rage."
+    },
+    {
+      "pos": 12,
+      "root": "جنن",
+      "lemma": "مَجْنُون",
+      "meaning_en": "truly a madman",
+      "meaning_bn": "অবশ্যই একজন পাগল",
+      "why_en": "Repeats the false accusation uttered by deniers out of desperation."
+    }
+  ],
+  "lesson_en": "Stay firm when opponents glare with jealousy, and seek protection in God.",
+  "lesson_bn": "হিংসুকের কুদৃষ্টি ও বিদ্বেষের মুখে বিচলিত না হয়ে আল্লাহর কাছে নিরাপত্তা প্রার্থনা করা উচিত।",
+  "real_life_en": "A hardworking student wins a scholarship. Some envious classmates give him hostile looks and spread rumors. He ignores their jealousy and thanks God for his success.",
+  "real_life_bn": "সাফল্য পেলে অনেকেই হিংসা করতে পারে। তাদের বিদ্বেষপূর্ণ দৃষ্টি বা মন্তব্যে কান না দিয়ে আল্লাহর আশ্রয়ে থাকাই নিরাপদ।",
+  "themes": [
+    "the Quran",
+    "Prophet Muhammad ﷺ",
+    "patience"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The disbelievers almost cause the Prophet to slip with their sharp, hateful gazes when hearing the Quran, calling him insane.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

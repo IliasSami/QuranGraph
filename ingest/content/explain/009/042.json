@@ -1,0 +1,74 @@
+{
+  "id": "9:42",
+  "simple_en": "Had there been easy worldly gain and a short march, the hypocrites would have followed you. But the distance felt too long for them. They swear by Allah that they could not join, but Allah knows they are lying.",
+  "simple_bn": "যদি সহজে বৈষয়িক লাভ হতো এবং সফরটি সংক্ষিপ্ত হতো, তবে মুনাফিকরা অবশ্যই আপনার অনুসরণ করত। কিন্তু তাদের কাছে পথটি দীর্ঘ মনে হয়েছিল। তারা মিথ্যা শপথ করে অজুহাত দেয়, অথচ আল্লাহ জানেন তারা নিশ্চিত মিথ্যাবাদী।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "عرض",
+      "lemma": "عَرَض",
+      "meaning_en": "gain / worldly goods",
+      "meaning_bn": "পার্থিব সম্পদ / লাভ",
+      "why_en": "Fleeting material spoils enticing fair-weather followers."
+    },
+    {
+      "pos": 5,
+      "root": "سفر",
+      "lemma": "سَفَر",
+      "meaning_en": "march / travel",
+      "meaning_bn": "সফর / পথ",
+      "why_en": "The arduous desert march to Tabuk testing resolve."
+    },
+    {
+      "pos": 7,
+      "root": "تبع",
+      "lemma": "اتَّبَعَ",
+      "meaning_en": "followed you",
+      "meaning_bn": "আপনার অনুসরণ করত",
+      "why_en": "Willingness to support only when convenient."
+    }
+  ],
+  "lesson_en": "Hypocrites seek quick gain but run away from real work.",
+  "lesson_bn": "সুবিধাবাদীরা কেবল সহজ লাভের আশায় সাথে থাকে, কিন্তু ত্যাগের সময় মিথ্যা অজুহাতে কেটে পড়ে।",
+  "real_life_en": "Watch out for people who only join when bonuses are promised, but run away when hard tasks begin.",
+  "real_life_bn": "কাজের জায়গায় এমন লোকদের ব্যাপারে সতর্ক থাকুন যারা শুধু কৃতিত্ব বা লাভের সময় হাজির থাকে, কিন্তু দায়িত্বের সময় পিছিয়ে যায়।",
+  "themes": [
+    "hypocrisy",
+    "false excuses",
+    "Tabuk expedition"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites avoided the long march to Tabuk with false oaths, only willing to participate when quick worldly gains were guaranteed.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

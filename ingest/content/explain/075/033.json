@@ -1,0 +1,68 @@
+{
+ "id": "75:33",
+ "simple_en": "After rejecting the truth, the denier walked back to his family with boastful pride. He felt pleased with his rebellion and strutted arrogantly. He was blind to his own danger and thought his wealth and power made him safe.",
+ "simple_bn": "সত্য প্রত্যাখ্যান করার পর সেই ব্যক্তি দম্ভভরে অহংকার করতে করতে নিজের পরিবারের কাছে ফিরে গেল। সে নিজের অবাধ্যতায় আনন্দ অনুভব করছিল। সে নিজের চরম বিপদের কথা ভুলে গিয়ে ভেবেছিল যে তার ধন ও প্রভাব তাকে চিরকাল নিরাপদ রাখবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ذهب",
+   "lemma": "ذَهَبَ",
+   "meaning_en": "went",
+   "meaning_bn": "গেল",
+   "why_en": "He walked back without any concern for his soul."
+  },
+  {
+   "pos": 4,
+   "root": "أهل",
+   "lemma": "أَهْل",
+   "meaning_en": "his family",
+   "meaning_bn": "পরিবার",
+   "why_en": "Returning home full of pride."
+  },
+  {
+   "pos": 5,
+   "root": "مطو",
+   "lemma": "يَتَمَطَّى",
+   "meaning_en": "swaggering",
+   "meaning_bn": "দম্ভভরে",
+   "why_en": "Walking with boastful, arrogant steps."
+  }
+ ],
+ "lesson_en": "Pride blinds a person to the danger of the Next Life.",
+ "lesson_bn": "অহংকার ও আত্মতুষ্টি মানুষকে পরকালের ভয়াবহ বিপদ দেখতে বাধা দেয়।",
+ "real_life_en": "Be watchful of how you carry yourself. True dignity comes from humility, not pride. When you achieve something good, praise Allah instead of boasting to those around you.",
+ "real_life_bn": "নিজের চলাফেরার দিকে নজর রাখুন। আসল মর্যাদা আসে বিনয় থেকে, অহংকার থেকে নয়। কোনো সাফল্য অর্জন করলে বড়াই না করে আল্লাহর প্রশংসা করুন।",
+ "themes": [
+  "arrogance",
+  "family",
+  "good character"
+ ],
+ "kinds": [
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The disbeliever went back to his family swaggering in his gait out of pride.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

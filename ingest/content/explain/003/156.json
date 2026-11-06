@@ -1,0 +1,98 @@
+{
+ "id": "3:156",
+ "simple_en": "O believers, do not be like the hypocrites who lack faith in divine destiny. When their relatives die while traveling for trade or fighting for a just cause, they say: If they had stayed with us, they would not have died. Allah allows this belief to fill their hearts with bitter regret. In truth, it is Allah alone who gives life and causes death. Allah sees everything that you do.",
+ "simple_bn": "হে মুমিনগণ, তোমরা মুনাফিকদের মতো হয়ো না, যাদের তাকদীরের ওপর বিশ্বাস নেই। তাদের আত্মীয়রা যখন জীবিকার খোঁজে সফরে গিয়ে মারা যায় অথবা যুদ্ধে নিহত হয়, তখন তারা বলে: যদি তারা আমাদের কাছে থাকত, তবে মারা যেত না। এই ভ্রান্ত ধারণার কারণে আল্লাহ তাদের অন্তরে কেবল আক্ষেপ ও মনস্তাপ বাড়িয়ে দেন। অথচ আল্লাহই জীবন দান করেন এবং তিনিই মৃত্যু ঘটান। আর তোমরা যা করো আল্লাহ তার সম্যক দ্রষ্টা।",
+ "key_words": [
+  {
+   "pos": 11,
+   "root": "ضرب",
+   "lemma": "ضَرَبَ",
+   "meaning_en": "they traveled",
+   "meaning_bn": "তারা সফর করেছিল",
+   "why_en": "Refers to journeying across the earth seeking honest work, trade, or provision."
+  },
+  {
+   "pos": 27,
+   "root": "حسر",
+   "lemma": "حَسْرَة",
+   "meaning_en": "deep regret / anguish",
+   "meaning_bn": "আক্ষেপ / মনস্তাপ",
+   "why_en": "The painful remorse that fills the hearts of those who think human action overrides divine decree."
+  },
+  {
+   "pos": 31,
+   "root": "حيي",
+   "lemma": "أَحْيا",
+   "meaning_en": "gives life",
+   "meaning_bn": "জীবন দান করেন",
+   "why_en": "Affirms that creating and sustaining life is solely within the power of Allah."
+  },
+  {
+   "pos": 32,
+   "root": "موت",
+   "lemma": "أَماتَ",
+   "meaning_en": "causes death",
+   "meaning_bn": "মৃত্যু ঘটান",
+   "why_en": "Emphasizes that death arrives only at Allah's appointed time, not by travel or staying home."
+  }
+ ],
+ "lesson_en": "Believing in Allah's decree frees our hearts from useless regret over what could have been.",
+ "lesson_bn": "তাকদীরে বিশ্বাস মানুষকে অনর্থক আক্ষেপ ও মানসিক কষ্ট থেকে মুক্ত রাখে।",
+ "real_life_en": "When someone dies after a sick day or on a trip, people often say, 'If only we stayed home.' Such thoughts only bring deep pain. We must trust that death comes at Allah's set time. Believing in His decree brings peace to a sad heart.",
+ "real_life_bn": "কোনো আত্মীয়ের মৃত্যুর পর অনেকে আক্ষেপ করে বলেন, 'যদি অমুক হাসপাতালে না নিতাম, তবে হয়তো বেঁচে যেত।' এমন চিন্তা কোনো পরিবর্তন আনতে পারে না, বরং কষ্ট বাড়ায়। মৃত্যুর সময় একমাত্র আল্লাহর হাতে নির্ধারিত—এই বিশ্বাস শোকগ্রস্ত হৃদয়কে সান্ত্বনা ও শান্তি দেয়।",
+ "context_en": "Warns believers against adopting the defeatist rhetoric of hypocrites who spread doubts about destiny after casualties at Uhud.",
+ "context_bn": "উহুদের পর মুনাফিকরা যখন তাকদীর নিয়ে সংশয় তৈরি করছিল এবং নিহতদের নিয়ে আক্ষেপ ছড়াচ্ছিল, তখন মুমিনদের সেই মানসিকতা থেকে দূরে থাকতে বলা হয়।",
+ "themes": [
+  "trust in Allah",
+  "death",
+  "trials",
+  "hypocrisy",
+  "Allah's power",
+  "Allah's knowledge"
+ ],
+ "kinds": [
+  "prohibition",
+  "warning",
+  "belief",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Basir"
+  ],
+  "events": [
+   "Battle of Uhud"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Hypocrites claim that staying home prevents death, which fills their hearts with grief and regret.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah alone gives life and causes death, and He sees all that people do.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

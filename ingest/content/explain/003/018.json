@@ -1,0 +1,98 @@
+{
+ "id": "3:18",
+ "simple_en": "Allah bears witness that there is no God worthy of worship except Him. The angels and those with sound knowledge also testify to this truth. He upholds all creation with perfect justice. There is no true deity except Him, the Almighty, the All-Wise.",
+ "simple_bn": "আল্লাহ সাক্ষ্য দেন যে তিনি ছাড়া সত্য কোনো উপাস্য নেই। ফেরেশতারা এবং ন্যায়প্রতিষ্ঠাকারী জ্ঞানী ব্যক্তিরাও একই সাক্ষ্য দেন। তিনি সমগ্র সৃষ্টিকে পরিপূর্ণ ন্যায়বিচারের সাথে পরিচালনা করেন। তিনি ছাড়া সত্য কোনো ইলাহ নেই, তিনি মহাপরাক্রমশালী, পরম প্রজ্ঞাময়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "شهد",
+   "lemma": "شَهِدَ",
+   "meaning_en": "testifies",
+   "meaning_bn": "সাক্ষ্য দেন",
+   "why_en": "The highest witness confirming the supreme reality of monotheism."
+  },
+  {
+   "pos": 8,
+   "root": "ملك",
+   "lemma": "مَلَك",
+   "meaning_en": "the angels",
+   "meaning_bn": "ফেরেশতাগণ",
+   "why_en": "Noble celestial beings who obey Allah and witness His sole right to worship."
+  },
+  {
+   "pos": 10,
+   "root": "علم",
+   "lemma": "عِلْم",
+   "meaning_en": "knowledge",
+   "meaning_bn": "জ্ঞান",
+   "why_en": "People of sound knowledge are elevated by bearing witness to Tawhid."
+  },
+  {
+   "pos": 12,
+   "root": "قسط",
+   "lemma": "قِسْط",
+   "meaning_en": "justice",
+   "meaning_bn": "ন্যায়বিচার",
+   "why_en": "Allah manages the universe and commands all His servants with absolute fairness."
+  }
+ ],
+ "lesson_en": "Seek knowledge with an open heart and stand up for justice in all you do.",
+ "lesson_bn": "সঠিক দ্বীনি জ্ঞান অর্জন করুন, যেন আপনি গভীর বিশ্বাস ও ন্যায়নিষ্ঠার সাথে আল্লাহর একত্বের সাক্ষ্য দিতে পারেন।",
+ "real_life_en": "Treat everyone fairly in your home and at work. When you choose honesty and fairness even when it is hard, you reflect the justice praised in this ayah.",
+ "real_life_bn": "পরিবার ও কর্মক্ষেত্রে সবার সাথে ইনসাফপূর্ণ আচরণ করুন। নিজের সুবিধার ঊর্ধ্বে উঠে যখন ন্যায়ের পক্ষে দাঁড়ান, তখন আপনি এই আয়াতে বর্ণিত ন্যায়বিচারের আদর্শই চর্চা করেন।",
+ "context_en": "Presents the supreme testimony to monotheism: the witness of Allah Himself, His angels, and the people of knowledge.",
+ "context_bn": "তাওহীদের পক্ষে মহাবিশ্বের সবচেয়ে মর্যাদাপূর্ণ সাক্ষ্য: স্বয়ং আল্লাহ, তাঁর ফেরেশতা এবং ন্যায়পরায়ণ আলিমগণের সাক্ষ্যের ঘোষণা।",
+ "connect_prev": "Following the qualities of righteous believers in 3:17, this ayah affirms the ultimate truth of Tawhid that anchors their lives.",
+ "context": "Elevates the status of scholars and people of knowledge by linking their testimony with that of Allah and His angels.",
+ "themes": [
+  "tawhid",
+  "justice",
+  "knowledge",
+  "angels",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels"
+  ],
+  "names_of_allah": [
+   "Allah",
+   "Al-Aziz",
+   "Al-Hakim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah bears witness that none has the right to be worshipped except Him, maintaining creation in justice.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The angels and those endowed with knowledge also testify that none is worthy of worship except the Almighty, the All-Wise.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

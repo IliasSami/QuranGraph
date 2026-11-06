@@ -1,0 +1,85 @@
+{
+ "id": "7:21",
+ "simple_en": "Satan swore a solemn oath to Adam and Eve. He claimed that he was giving them sincere advice. He hid his deep jealousy behind kind words. Adam and Eve did not think anyone would swear falsely by Allah.",
+ "simple_bn": "শয়তান আদম ও হাওয়ার কাছে আল্লাহর নামে শপথ করল। সে দাবি করল যে সে তাদের প্রকৃত কল্যাণকামী। সে মিষ্টি কথার আড়ালে নিজের চরম শত্রুতা লুকিয়ে রেখেছিল। আদম ও হাওয়া ভাবতেও পারেননি যে কেউ আল্লাহর নামে মিথ্যা শপথ করতে পারে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قسم",
+   "lemma": "قاسَمَ",
+   "meaning_en": "he swore to both of them",
+   "meaning_bn": "সে উভয়ের কাছে শপথ করল",
+   "why_en": "Describes Satan falsely swearing by Allah to mislead Adam and Eve."
+  },
+  {
+   "pos": 2,
+   "root": null,
+   "lemma": "إِنّ",
+   "meaning_en": "indeed / surely",
+   "meaning_bn": "নিশ্চয়ই",
+   "why_en": "Shows Satan using strong emphasis to deceive."
+  },
+  {
+   "pos": 5,
+   "root": "نصح",
+   "lemma": "ناصِح",
+   "meaning_en": "sincere advisors",
+   "meaning_bn": "কল্যাণকামী / শুভাকাঙ্ক্ষী",
+   "why_en": "Highlights Satan pretending to offer sincere goodwill."
+  }
+ ],
+ "lesson_en": "Never trust someone just because they swear an oath. False advice often hides behind smooth words.",
+ "lesson_bn": "মিষ্টি কথা বা মিথ্যা শপথে বিভ্রান্ত হবেন না। সর্বদা সতর্ক থেকে আল্লাহর নির্দেশের ওপর অবিচল থাকুন।",
+ "real_life_en": "Deceitful people often pretend to care about your good. They make grand promises to win your trust. Always check advice against the guidance of the Quran and Sunnah before you follow it.",
+ "real_life_bn": "প্রতারক ও অসৎ সঙ্গীরা প্রায়ই শুভাকাঙ্ক্ষী সেজে আসে। তাদের মিষ্টি কথায় ভুলে কোনো সিদ্ধান্ত নেবেন না। যে কোনো পরামর্শ কুরআন ও সুন্নাহর আলোকে যাচাই করে নিন।",
+ "context_en": "Satan continues his plot against Adam and Eve in the Garden by taking a false oath of sincerity.",
+ "context_bn": "জান্নাতে আদম ও হাওয়াকে বিভ্রান্ত করতে শয়তান আল্লাহর নামে মিথ্যা শপথ করে নিজেকে হিতাকাঙ্ক্ষী দাবি করে।",
+ "themes": [
+  "Satan's deception",
+  "false oaths",
+  "Adam and Eve"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "Adam",
+   "Eve"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Iblis (Satan)"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Satan falsely swore by Allah to Adam and Eve that he was an honest and sincere adviser to them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Adam and Eve were misled because they could not imagine a creature swearing falsely by Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

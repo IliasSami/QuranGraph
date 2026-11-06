@@ -1,0 +1,78 @@
+{
+  "id": "48:17",
+  "simple_en": "Allah does not blame people who have clear physical limits. The blind, the lame, and the sick are excused from joining battles. But whoever is healthy and obeys Allah will enter Gardens with running rivers. Anyone who turns away will face a painful punishment.",
+  "simple_bn": "যাদের শারীরিক অক্ষমতা রয়েছে, আল্লাহ দয়াপরবশ হয়ে তাদের অব্যাহতি দিয়েছেন। অন্ধ, খোঁড়া কিংবা অসুস্থ ব্যক্তি জিহাদে অংশ না নিলে তাদের কোনো পাপ হবে না। আর যে ব্যক্তি সক্ষম হয়ে আল্লাহ ও তাঁর রাসূলের আনুগত্য করবে, তিনি তাকে নদীপ্রবাহবিশিষ্ট জান্নাতে প্রবেশ করাবেন। কিন্তু যে মুখ ফিরিয়ে নেবে, তাকে যন্ত্রণাদায়ক শাস্তি দেবেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "عمي",
+      "lemma": "أَعْمَى",
+      "meaning_en": "the blind",
+      "meaning_bn": "অন্ধ",
+      "why_en": "It states a legal exemption for those lacking sight."
+    },
+    {
+      "pos": 4,
+      "root": "حرج",
+      "lemma": "حَرَج",
+      "meaning_en": "blame / hardship / sin",
+      "meaning_bn": "কোনো দোষ বা পাপ",
+      "why_en": "It shows that Islam removes blame when ability is lacking."
+    },
+    {
+      "pos": 7,
+      "root": "عرج",
+      "lemma": "أَعْرَج",
+      "meaning_en": "the lame",
+      "meaning_bn": "খোঁড়া",
+      "why_en": "It names another physical condition that excuses one from combat."
+    }
+  ],
+  "lesson_en": "Allah excuses those who are sick, but calls the healthy to do their part.",
+  "lesson_bn": "আল্লাহ সাধ্যের অতিরিক্ত বোঝা চাপান না, তবে সামর্থ্যবানদের কাছ থেকে পূর্ণ আনুগত্য আশা করেন।",
+  "real_life_en": "Do not judge people who cannot perform certain tasks due to illness or physical limits. Show compassion to them, and fulfill your own duties with full energy while you have health.",
+  "real_life_bn": "অসুস্থতা বা সীমাবদ্ধতার কারণে কেউ কোনো কাজে অপারগ হলে তাকে দোষারোপ করবেন না। তাদের প্রতি সহানুভূতিশীল হোন এবং নিজের সুস্থতার কদর করুন।",
+  "themes": [
+    "justice",
+    "Allah's mercy",
+    "reward",
+    "Paradise",
+    "punishment"
+  ],
+  "kinds": [
+    "law",
+    "promise",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The blind, the lame, and the sick are exempt from military duty without blame; whoever obeys enters Paradise, and whoever turns away is punished.",
+      "claim_bn": "অন্ধ, খোঁড়া ও অসুস্থ ব্যক্তিদের জিহাদে অংশ না নেওয়ার ব্যাপারে কোনো দোষ নেই; যে আনুগত্য করে সে জান্নাতে যাবে, আর যে মুখ ফিরিয়ে নেয় সে শাস্তি পাবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

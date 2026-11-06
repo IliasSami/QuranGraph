@@ -1,0 +1,97 @@
+{
+ "id": "4:88",
+ "simple_en": "Why are you divided into two conflicting groups about the hypocrites? Allah has cast them back into misguidance because of their evil deeds. Do you want to guide those whom Allah has left to stray? Whoever Allah leaves to stray, you will never find a way to guide them.",
+ "simple_bn": "মুনাফিকদের ব্যাপারে তোমাদের মধ্যে দুটি বিপরীত দল কেন সৃষ্টি হলো? তাদের নিজেদের কৃতকর্মের কারণেই আল্লাহ তাদেরকে কুফরির দিকে ফিরিয়ে দিয়েছেন। আল্লাহ যাকে পথভ্রষ্ট করেছেন, তোমরা কি তাকে সৎপথে আনতে চাও? আর আল্লাহ যাকে পথভ্রষ্ট করেন, তুমি তার জন্য হেদায়াতের কোনো পথ পাবে না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "نفق",
+   "lemma": "مُنافِق",
+   "meaning_en": "the hypocrites",
+   "meaning_bn": "মুনাফিকগণ",
+   "why_en": "Refers to those who profess faith insincerely while secretly harboring disbelief."
+  },
+  {
+   "pos": 5,
+   "root": "فأي",
+   "lemma": "فِئَة",
+   "meaning_en": "two divided groups",
+   "meaning_bn": "দুটি দল বা পক্ষ",
+   "why_en": "Refers to the division among early believers regarding how to view double-dealers."
+  },
+  {
+   "pos": 7,
+   "root": "ركس",
+   "lemma": "أَرْكَسَ",
+   "meaning_en": "cast them back into error",
+   "meaning_bn": "তাদের পূর্বাবস্থায় ফিরিয়ে দিয়েছেন",
+   "why_en": "Shows that their own continuous sins caused Allah to overturn them into misguidance."
+  },
+  {
+   "pos": 22,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "a path or way",
+   "meaning_bn": "হেদায়াতের পথ",
+   "why_en": "Affirms that whoever turns away from divine truth cannot be guided by human wishes."
+  }
+ ],
+ "lesson_en": "Do not defend dishonest people; people lose guidance when they choose to do wrong.",
+ "lesson_bn": "কপট লোকদের অন্যায়ের সাফাই গাইবেন না; নিজেদের পাপের কারণেই মানুষ হেদায়াত থেকে বঞ্চিত হয়।",
+ "real_life_en": "Do not make excuses for someone who lies and hurts others while pretending to be good. See their bad deeds clearly. Pray that Allah guides your own heart to truth.",
+ "real_life_bn": "কেউ যদি মুখে ভালো সেজে বারবার ধোঁকাবাজি করে, তবে তার অন্যায়কে অন্ধভাবে সমর্থন করবেন না। সত্যকে সত্য এবং অসততাকে অসততা হিসেবে চিনতে শিখুন।",
+ "context_en": "Advises believers who disagreed on how to deal with hypocrites who abandoned the Muslim ranks.",
+ "context_bn": "মুনাফিকদের দ্বিচারিতা ও দলত্যাগের ঘটনায় মুসলিমদের নিজেদের মধ্যে যে দ্বিমত সৃষ্টি হয়েছিল, তা দূর করার নির্দেশ দেওয়া হয়েছে।",
+ "themes": [
+  "hypocrisy",
+  "guidance",
+  "misguidance",
+  "justice"
+ ],
+ "kinds": [
+  "argument",
+  "warning",
+  "prohibition"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are questioned for dividing into two opposing opinions regarding the hypocrites.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah caused the hypocrites to relapse into disbelief because of their persistent disobedience.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "No human can guide those whom Allah has decreed to leave in their chosen misguidance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

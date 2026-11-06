@@ -1,0 +1,75 @@
+{
+  "id": "50:32",
+  "simple_en": "The believers will hear joyful words. They will be told: This is the great reward you were promised. It is for everyone who often turned to Allah in repentance and kept His commands.",
+  "simple_bn": "মু'মিনদের বলা হবে, এটিই সেই জান্নাত যার প্রতিশ্রুতি তোমাদের দেওয়া হয়েছিল। এ পুরস্কার তাদের প্রত্যেকের জন্য, যারা বারবার অনুতপ্ত হয়ে আল্লাহর দিকে ফিরে আসত এবং তাঁর হুকুম ও সীমারেখা সতর্কভাবে মেনে চলত।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "وعد",
+      "lemma": "وَعَدَ",
+      "meaning_en": "you were promised",
+      "meaning_bn": "তোমাদের ওয়াদা করা হয়েছিল",
+      "why_en": "The fulfillment of Allah's promises made in the scriptures."
+    },
+    {
+      "pos": 5,
+      "root": "أوب",
+      "lemma": "أَوّاب",
+      "meaning_en": "often turning back",
+      "meaning_bn": "বারবার প্রত্যাবর্তনকারী",
+      "why_en": "Constantly turning to Allah in repentance whenever a slip occurs."
+    },
+    {
+      "pos": 6,
+      "root": "حفظ",
+      "lemma": "حَفِيظ",
+      "meaning_en": "careful preserver",
+      "meaning_bn": "সংরক্ষণকারী",
+      "why_en": "Guarding Allah's commands, covenants, and moral duties carefully."
+    }
+  ],
+  "lesson_en": "Turn back to Allah whenever you slip. Protect your daily duties with sincere care.",
+  "lesson_bn": "ভুল হলে সাথে সাথে আল্লাহর কাছে ক্ষমা চান এবং নিজের ফরজ দায়িত্বগুলো যত্নসহকারে পালন করুন।",
+  "real_life_en": "Seek forgiveness before you go to sleep each night. Renew your promise to live by Allah's rules every day.",
+  "real_life_bn": "প্রতি রাতে ঘুমানোর আগে আল্লাহর কাছে ক্ষমা চেয়ে নিন এবং পরদিন তাঁর আদেশগুলো মেনে চলার নতুন সংকল্প করুন।",
+  "context_en": "The qualities of the dwellers of Paradise are highlighted: constant repentance and safeguarding duties.",
+  "context_bn": "জান্নাতবাসীদের বিশেষ গুণাবলী হিসেবে তওবা করা এবং দ্বীনের দায়িত্বসমূহ সংরক্ষণের কথা বলা হয়েছে।",
+  "themes": [
+    "repentance",
+    "Paradise",
+    "reward",
+    "taqwa"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "promise",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Paradise is promised to those who constantly return to Allah in repentance and guard His commands.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

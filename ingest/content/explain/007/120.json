@@ -1,0 +1,88 @@
+{
+ "id": "7:120",
+ "simple_en": "The magicians were top experts in their craft. They knew at once that Musa's miracle was beyond human power. It was no magic trick. Overcome with awe and deep conviction, they fell down in prostration to Allah. They openly surrendered to the truth.",
+ "simple_bn": "জাদুকররা তাদের বিদ্যায় বিশেষজ্ঞ ছিল। তারা তাৎক্ষণিকভাবে বুঝতে পারল যে মূসা (আলাইহিস সালাম)-এর এই মোজেজা কোনো মানবিক কৌশল বা জাদু নয়। এটি ছিল সরাসরি আল্লাহর কুদরত। পরম সত্যের গভীর অনুভূতিতে অভিভূত হয়ে তারা আর দ্বিধা করেনি; সাথে সাথে তারা আল্লাহর উদ্দেশ্যে সিজদায় লুটিয়ে পড়ল।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "لقي",
+   "lemma": "أَلْقَى",
+   "meaning_en": "and were cast down / fell down",
+   "meaning_bn": "এবং নিক্ষিপ্ত হলো / লুটিয়ে পড়ল",
+   "why_en": "The passive voice emphasizes how irresistibly they were moved to prostrate."
+  },
+  {
+   "pos": 2,
+   "root": "سحر",
+   "lemma": "ساحِر",
+   "meaning_en": "the magicians",
+   "meaning_bn": "জাদুকরগণ",
+   "why_en": "The very experts hired by Pharaoh to defend falsehood now submit to truth."
+  },
+  {
+   "pos": 3,
+   "root": "سجد",
+   "lemma": "ساجِد",
+   "meaning_en": "in prostration",
+   "meaning_bn": "সিজদারত অবস্থায়",
+   "why_en": "The highest physical act of submission and worship to the Lord of the worlds."
+  }
+ ],
+ "lesson_en": "When the clear truth touches your heart, bow down to it at once.",
+ "lesson_bn": "স্পষ্ট সত্য সামনে এলে কোনো অহংকার বা দ্বিধা না রেখে অবিলম্বে বিনয়ের সাথে তা গ্রহণ করুন।",
+ "real_life_en": "When you realize you were on the wrong side of an issue, do not let pride keep you there. Change your direction instantly. Admitting the truth and submitting to God is the highest form of courage.",
+ "real_life_bn": "নিজের কোনো ভুল বুঝতে পারলে অহংকার ত্যাগ করে সাথে সাথে সঠিক পথে ফিরে আসুন। সত্য স্বীকার করা কোনো দুর্বলতা নয়, বরং এটি খাঁটি অন্তরের সাহসিকতার পরিচায়ক। আল্লাহর সামনে বিনম্রভাবে মাথা নত করাই শ্রেষ্ঠ সম্মান।",
+ "context_en": "The climax of the confrontation: the magicians instantly surrender and prostrate to Allah.",
+ "context_bn": "ঘটনার চূড়ান্ত পরিণতিতে জাদুকররা সত্যের প্রতি অকুণ্ঠ আত্মসমর্পণ করে আল্লাহর উদ্দেশ্যে সিজদাবনত হয়।",
+ "themes": [
+  "prostration",
+  "submission to truth",
+  "repentance",
+  "magicians believing",
+  "miracles of Allah"
+ ],
+ "kinds": [
+  "story",
+  "worship",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "magicians",
+   "Musa (Moses)"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "prostration of the magicians"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The magicians recognized that Musa's miracle was divine and beyond any magic.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Overcome by conviction, the magicians fell prostrate in submission to Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

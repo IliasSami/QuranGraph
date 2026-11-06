@@ -1,0 +1,73 @@
+{
+  "id": "49:6",
+  "simple_en": "Always be careful with news and rumors. If an untruthful person brings a report, check the facts before you share it. Acting on false claims can harm innocent people by mistake and leave you full of regret.",
+  "simple_bn": "আল্লাহ মুমিনদের যেকোনো সংবাদ শুনেই বিশ্বাস না করে যাচাই করার নির্দেশ দেন। কোনো ফাসিক বা অবিশ্বস্ত ব্যক্তি কোনো খবর নিয়ে এলে তা ভালোভাবে খতিয়ে দেখুন। যাচাই না করে হঠকারী সিদ্ধান্ত নিলে অজান্তেই কোনো নির্দোষ দলের ক্ষতি হয়ে যেতে পারে, যার জন্য পরে সারাজীবন অনুতপ্ত হতে হবে।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "فسق",
+      "lemma": "فاسِق",
+      "meaning_en": "a disobedient / corrupt person",
+      "meaning_bn": "ফাসিক বা অন্যায়কারী",
+      "why_en": "It warns that people of bad character often spread untruths."
+    },
+    {
+      "pos": 8,
+      "root": "بين",
+      "lemma": "تَبَيَّنَ",
+      "meaning_en": "investigate / verify",
+      "meaning_bn": "যাচাই করে দেখো",
+      "why_en": "It establishes the legal and moral duty of checking facts."
+    },
+    {
+      "pos": 17,
+      "root": "ندم",
+      "lemma": "نادِم",
+      "meaning_en": "regretful",
+      "meaning_bn": "অনুতপ্ত",
+      "why_en": "It portrays the sorrow that follows acting on baseless rumors."
+    }
+  ],
+  "lesson_en": "Always verify news before you believe it, spread it, or take action.",
+  "lesson_bn": "যেকোনো সংবাদ বিশ্বাস করার বা ছড়ানোর আগে তার সত্যতা যাচাই করা আবশ্যক।",
+  "real_life_en": "When you read shocking news on social media or hear gossip about a coworker, do not share it right away. Check if it is true from reliable sources, or stay silent to prevent harm.",
+  "real_life_bn": "সামাজিক যোগাযোগমাধ্যমে কোনো খবর দেখলে বা কারো সম্পর্কে কোনো কথা শুনলেই শেয়ার করবেন না। নির্ভরযোগ্য উৎস থেকে সত্যতা যাচাই করুন অথবা চুপ থাকুন।",
+  "themes": [
+    "honesty",
+    "justice",
+    "good character",
+    "trials"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers must verify information brought by an untrustworthy person before acting, to prevent harming innocent people and feeling regret.",
+      "claim_bn": "ফাসিক ব্যক্তির আনা তথ্য যাচাই করা মুমিনদের ওপর আবশ্যক, যেন অজ্ঞতাবশত কারো ক্ষতি করে পরে অনুশোচনা করতে না হয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,82 @@
+{
+  "id": "20:97",
+  "simple_en": "Moses banished him: Begone. In this life you will cry touch me not. Look at your false god: we will burn it and scatter its dust across the sea.",
+  "simple_bn": "মূসা তাকে নির্বাসিত করে বললেন: দূর হয়ে যাও। তোমার শাস্তি এই যে জীবনে তুমি বলবে 'আমাকে স্পর্শ করো না'। আর তোমার পূজিত মূর্তিকে পুড়িয়ে সাগরে ছড়িয়ে দেওয়া হবে।",
+  "key_words": [
+    {
+      "pos": 10,
+      "root": "مسس",
+      "lemma": "مِسَاس",
+      "meaning_en": "touching",
+      "meaning_bn": "স্পর্শ করা",
+      "why_en": "Total physical and social ostracization."
+    },
+    {
+      "pos": 23,
+      "root": "حرق",
+      "lemma": "حَرَّقَ",
+      "meaning_en": "we will surely burn it",
+      "meaning_bn": "আমরা তা নিশ্চিতভাবে পুড়িয়ে ফেলব",
+      "why_en": "Complete physical destruction of the idol."
+    },
+    {
+      "pos": 25,
+      "root": "نسف",
+      "lemma": "نَسَفَ",
+      "meaning_en": "we will scatter its dust",
+      "meaning_bn": "আমরা তা ভাসিয়ে বা ছড়িয়ে দেব",
+      "why_en": "Scattering ashes into the water so nothing remains."
+    }
+  ],
+  "lesson_en": "Remove bad idols from your sight. Burn the roots of sin so it cannot grow back.",
+  "lesson_bn": "শিরকের সকল উপকরণ সমূলে ধ্বংস করে ফেলা জরুরি, যাতে ভবিষ্যতে কেউ তা দেখে পুনরায় বিভ্রান্ত না হয়।",
+  "real_life_en": "Throw out things that drag you to sin. Cut ties with bad habits before they ruin you.",
+  "real_life_bn": "যেসব জিনিস আপনাকে পাপের দিকে টানে তা জীবন থেকে ঝেড়ে ফেলুন। খারাপ অভ্যাসের সকল চিহ্ন দূর করে দিন।",
+  "themes": [
+    "banishment",
+    "destroying-idols",
+    "samiri",
+    "musa"
+  ],
+  "kinds": [
+    "command",
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Samiri"
+    ],
+    "nations": [],
+    "places": [
+      "Sinai",
+      "sea"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Destruction of Calf"
+    ],
+    "things": [
+      "golden calf",
+      "sea"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Moses sentenced the Samiri to solitary banishment and burned the golden calf, scattering its dust in the sea.",
+      "claim_bn": "মূসা সামিরিকে নিঃসঙ্গ নির্বাসনের দণ্ড দেন এবং বাছুরের মূর্তিটি পুড়িয়ে তার ছাই সাগরে ভাসিয়ে দেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

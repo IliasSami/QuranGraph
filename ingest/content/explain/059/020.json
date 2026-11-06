@@ -1,0 +1,63 @@
+{
+  "id": "59:20",
+  "simple_en": "The people of the Fire and the people of Paradise are never equal. Their lives in this world differed, and their outcomes in the next world are opposite. The people of Paradise are the only ones who gain true success, safety, and lasting honor.",
+  "simple_bn": "জাহান্নামের বাসিন্দা আর জান্নাতের বাসিন্দা কখনো সমান হতে পারে না। পার্থিব জীবনে তাদের পথ যেমন ভিন্ন ছিল, তাদের পরিণতিও ভিন্ন হবে। জান্নাতের অধিকারীরাই প্রকৃত অর্থে চিরস্থায়ী সাফল্য লাভ করবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سوي",
+      "lemma": "اسْتَوَى",
+      "meaning_en": "are not equal",
+      "meaning_bn": "সমান হতে পারে না",
+      "why_en": "Emphasizes the massive difference between the two destinations."
+    },
+    {
+      "pos": 10,
+      "root": "فوز",
+      "lemma": "فائِز",
+      "meaning_en": "the attainers of true success",
+      "meaning_bn": "সফলকাম",
+      "why_en": "Only the people of Paradise achieve ultimate safety and joy."
+    }
+  ],
+  "lesson_en": "Righteous deeds lead to Paradise, which is the only real success.",
+  "lesson_bn": "আল্লাহর সন্তুষ্টি ও জান্নাত অর্জন করাই মানবজীবনের একমাত্র প্রকৃত সাফল্য।",
+  "real_life_en": "Two boys sit in the same class. One works hard and does his homework every day. The other wastes his time and plays games. When test day comes, the one who worked hard passes with joy. In the same way, the people of Paradise will win on the Last Day.",
+  "real_life_bn": "ক্লাসের দুজন শিক্ষার্থীর একজন মন দিয়ে পড়ে, অন্যজন সময় নষ্ট করে। পরীক্ষার দিন তাদের ফলাফল কখনো এক হয় না। পরকালের জান্নাত পাওয়ার জন্যও সৎ কাজের আন্তরিক চেষ্টা প্রয়োজন।",
+  "themes": [
+    "contrast between dwellers of Fire and Paradise",
+    "true success"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "hereafter",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise",
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people of the Fire and the people of Paradise are not equal; only the people of Paradise attain true success.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

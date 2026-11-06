@@ -1,0 +1,102 @@
+{
+  "id": "12:84",
+  "simple_en": "Yaqub turned away from them in deep sorrow and wept for Yusuf. His eyes turned white from continuous weeping, yet he suppressed his inward grief with great patience.",
+  "simple_bn": "ইয়াকূব তাদের থেকে মুখ ফিরিয়ে নিলেন এবং ইউসুফের বিরহে কেঁদে বললেন, হায় ইউসুফ। কাঁদতে কাঁদতে তাঁর চোখ দুটি সাদা হয়ে গেল, কিন্তু তিনি নিজের দুঃখকে মনের ভেতরেই চেপে রাখলেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ولي",
+      "lemma": "تَوَلَّى",
+      "meaning_en": "he turned away",
+      "meaning_bn": "তিনি মুখ ফিরিয়ে নিলেন",
+      "why_en": "Seeking solitary prayer to endure his overwhelming sorrow."
+    },
+    {
+      "pos": 4,
+      "root": "أسف",
+      "lemma": "أَسَف",
+      "meaning_en": "alas / my sorrow",
+      "meaning_bn": "হায় আফসোস বা গভীর দুঃখ",
+      "why_en": "His heart’s unending longing for his beloved prophet son Yusuf."
+    },
+    {
+      "pos": 7,
+      "root": "بيض",
+      "lemma": "ابْيَضَّتْ",
+      "meaning_en": "became white",
+      "meaning_bn": "সাদা হয়ে গেল",
+      "why_en": "Loss of sight from prolonged crying and sorrow."
+    },
+    {
+      "pos": 8,
+      "root": "عين",
+      "lemma": "عَيْن",
+      "meaning_en": "his eyes",
+      "meaning_bn": "তাঁর চোখ দুটি",
+      "why_en": "Physical manifestation of intense grief on his eyesight."
+    },
+    {
+      "pos": 12,
+      "root": "كظم",
+      "lemma": "كَظِيم",
+      "meaning_en": "suppressing his grief",
+      "meaning_bn": "দুঃখ সংবরণকারী",
+      "why_en": "Holding back outward rage or complaint against his sons."
+    }
+  ],
+  "lesson_en": "Crying out of love and sorrow is human, and does not contradict true faith in God.",
+  "lesson_bn": "ভালোবাসা ও শোকে অশ্রু বিসর্জন স্বাভাবিক মানবিক অনুভূতি, যা আল্লাহর ওপর ঈমানের পরিপন্থী নয়।",
+  "real_life_en": "A mother weeps quietly after losing her child to illness. Although tears stream down her face, her heart remains peaceful and obedient to God's decree.",
+  "real_life_bn": "সন্তানের বিয়োগে মা নীরবে অশ্রুপাত করেন। চোখ দিয়ে জল পড়লেও তাঁর অন্তর আল্লাহর ফায়সালাকে মেনে নিয়ে শান্ত থাকে।",
+  "context_en": "The mention of Benjamin reopened the deep wound of losing Yusuf, causing Yaqub to weep until he lost his sight.",
+  "context_bn": "বিন ইয়াকীনের হারানোর খবর ইউসুফের পুরানো স্মৃতিকে তীব্র করে তুলল এবং ইয়াকূব দৃষ্টিশক্তি হারিয়ে ফেললেন।",
+  "themes": [
+    "grief",
+    "parental tears",
+    "patience in affliction"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yaqub",
+      "Yusuf"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "eyes",
+      "tears"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yaqub turned away and expressed his intense grief over Yusuf.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "His eyes turned white from sorrow while he suppressed his grief.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

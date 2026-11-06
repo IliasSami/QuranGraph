@@ -1,0 +1,82 @@
+{
+ "id": "72:5",
+ "simple_en": "The jinn went on to explain why they had stayed in the wrong way for so long. They used to think that no human and no jinn would ever tell a lie about Allah. So when they heard false claims about Him, they accepted them. The Quran showed them that such lies had been spread about Allah all along.",
+ "simple_bn": "জিনরা এরপর বলল, কেন তারা এত দিন ভুল পথে ছিল। তারা মনে করত, কোনো মানুষ বা জিন আল্লাহ সম্পর্কে কখনো মিথ্যা বলবে না। তাই তাঁর বিষয়ে ভুল কথা শুনলে তারা তা মেনে নিত। কুরআন শোনার পর তাদের বুঝতে হল, আল্লাহ সম্পর্কে এমন মিথ্যা আগেও ছড়ানো হয়েছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ظنن",
+   "lemma": "ظَنَّ",
+   "meaning_en": "we thought",
+   "meaning_bn": "আমরা ধারণা করতাম",
+   "why_en": "A guess treated as fact kept them from checking the truth."
+  },
+  {
+   "pos": 7,
+   "root": "جنن",
+   "lemma": "جِنّ",
+   "meaning_en": "jinn",
+   "meaning_bn": "জিন",
+   "why_en": "The verse joins humans and jinn, since both can repeat a lie about Allah."
+  },
+  {
+   "pos": 10,
+   "root": "كذب",
+   "lemma": "كَذِب",
+   "meaning_en": "a lie",
+   "meaning_bn": "মিথ্যা",
+   "why_en": "The word names the false claim that Allah has a wife or a child."
+  }
+ ],
+ "lesson_en": "Do not accept a claim about Allah just because many people repeat it. Check it against what He has revealed.",
+ "lesson_bn": "আল্লাহ সম্পর্কে কোনো কথা শুধু অনেক মানুষ বলে—এই কারণে মেনে নেবেন না। তাঁর নাজিল করা শিক্ষার সঙ্গে মিলিয়ে যাচাই করুন।",
+ "real_life_en": "A saying about Allah may spread through family or social media again and again. Repetition makes it sound true. Before you believe it or share it, ask: does this match the Quran and the Prophet's teaching? If you are not sure, leave it and ask someone who knows.",
+ "real_life_bn": "আল্লাহ সম্পর্কে একটি কথা পরিবারে বা সোশ্যাল মিডিয়ায় বারবার ঘুরতে পারে। বারবার শুনলে তা সত্য মনে হয়। বিশ্বাস করা বা শেয়ার করার আগে ভাবুন: কথাটি কি কুরআন ও নবীর শিক্ষার সঙ্গে মেলে? নিশ্চিত না হলে থেমে যান, আর যাঁরা জানেন তাঁদের জিজ্ঞেস করুন।",
+ "themes": [
+  "disbelief",
+  "shirk"
+ ],
+ "kinds": [
+  "belief",
+  "story"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The jinn used to think that humans and jinn would never utter a lie about Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "That assumption kept them following the false claims of the foolish among them.",
+   "sources": [
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "When they heard the Quran they realised that lies had been said about Allah.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

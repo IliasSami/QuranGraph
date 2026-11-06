@@ -1,0 +1,76 @@
+{
+  "id": "49:4",
+  "simple_en": "Some people came to Madinah and shouted loudly for the Prophet Muhammad ﷺ from outside his private rooms. They disturbed his rest instead of waiting with care. Most of them lacked good sense, because they failed to show proper honor to the Messenger of Allah.",
+  "simple_bn": "কিছু মরুভূমির লোক মদিনায় এসে নবী মুহাম্মাদ ﷺ-এর ঘরের বাইরে থেকে চিৎকার করে তাঁকে ডাকতে থাকে। তারা তাঁর বিশ্রামে বিঘ্ন ঘটায় এবং ধৈর্য ধরে অপেক্ষা করেনি। আল্লাহ উল্লেখ করেন যে তাদের অধিকাংশেরই বুদ্ধি ও শিষ্টাচারের অভাব রয়েছে, কারণ তারা রাসূলের মর্যাদাকে উপলব্ধি করতে পারেনি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ندي",
+      "lemma": "نادَى",
+      "meaning_en": "they call you",
+      "meaning_bn": "তারা আপনাকে ডাকে",
+      "why_en": "It describes calling out loudly without consideration."
+    },
+    {
+      "pos": 6,
+      "root": "حجر",
+      "lemma": "حُجُرَة",
+      "meaning_en": "the private rooms / chambers",
+      "meaning_bn": "ঘরসমূহ বা কক্ষসমূহ",
+      "why_en": "The private living quarters of the wives of the Prophet ﷺ."
+    },
+    {
+      "pos": 9,
+      "root": "عقل",
+      "lemma": "عَقَلُ",
+      "meaning_en": "they understand / use reason",
+      "meaning_bn": "তারা বোঝে বা বুদ্ধি খাটায়",
+      "why_en": "It equates lack of respect with a failure of common sense."
+    }
+  ],
+  "lesson_en": "Ignoring the privacy of others shows poor manners and a lack of care.",
+  "lesson_bn": "অন্যের ব্যক্তিগত সময় ও মর্যাদার তোয়াক্কা না করা মূর্খতা ও শিষ্টাচারহীনতার লক্ষণ।",
+  "real_life_en": "Do not knock loudly or call people repeatedly when they are resting at home. Give people their personal space, and avoid calling at late or inconvenient hours.",
+  "real_life_bn": "কারো ব্যক্তিগত বিশ্রামের সময় বাইরে থেকে ডাকাডাকি করবেন না বা ঘন ঘন ফোন করবেন না। অন্যের সুবিধা-অসুবিধার প্রতি যত্নবান হোন।",
+  "themes": [
+    "Prophet Muhammad ﷺ",
+    "good character",
+    "humility",
+    "knowledge"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [
+      "madinah"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Those who called out to the Prophet ﷺ from behind the private rooms lacked wisdom and proper manners.",
+      "claim_bn": "যারা হুজরার বাইরে থেকে নবী ﷺ-কে উচ্চস্বরে ডাকত, তাদের অধিকাংশেরই কাণ্ডজ্ঞান ও শিষ্টাচারের অভাব ছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

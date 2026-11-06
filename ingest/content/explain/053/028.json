@@ -1,0 +1,70 @@
+{
+  "id": "53:28",
+  "simple_en": "The disbelievers possess no real knowledge for what they say. They rely only on guesses and assumptions. But assumptions can never take the place of truth. Belief must be built on sound evidence and clear guidance.",
+  "simple_bn": "কাফিরদের এই অদ্ভুত দাবির পেছনে কোনো সত্য জ্ঞান নেই। তারা কেবল নিজেদের কল্পনা ও অনুমানের উপর নির্ভর করে। কিন্তু অনুমান কখনো সত্যের বিকল্প হতে পারে না। প্রকৃত ঈমান সর্বদা অকাট্য প্রমাণ ও আসমানী ওহীর উপর প্রতিষ্ঠিত থাকে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "علم",
+      "lemma": "عِلْم",
+      "meaning_en": "knowledge",
+      "meaning_bn": "জ্ঞান",
+      "why_en": "True religious certainty requires verified knowledge from Allah."
+    },
+    {
+      "pos": 9,
+      "root": "ظنن",
+      "lemma": "ظَنّ",
+      "meaning_en": "guesswork / assumption",
+      "meaning_bn": "ধারণা বা অনুমান",
+      "why_en": "Speculation has no weight against clear truth."
+    },
+    {
+      "pos": 15,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "The ultimate reality established by divine revelation."
+    }
+  ],
+  "lesson_en": "Build your faith on clear proof. Never rely on mere guesses.",
+  "lesson_bn": "অনুমান ও সন্দেহের বদলে সুস্পষ্ট ও প্রমাণিত সত্যের উপর নিজের বিশ্বাস গড়ে তুলুন।",
+  "real_life_en": "Do not judge people or spread news based on mere hunches. Verify facts before you speak or act, whether at work, school, or on social media.",
+  "real_life_bn": "কেবল অনুমানের বশে কারো প্রতি খারাপ ধারণা পোষণ করবেন না। সামাজিক যোগাযোগ মাধ্যমে কোনো কথা বলার আগে তার সত্যতা যাচাই করে নিন।",
+  "context_en": "Allah explains that pagan mythology has no foundation in true knowledge.",
+  "context_bn": "মুশরিকদের দাবির অসারতা তুলে ধরে বলা হয়েছে যে তা নিছক অনুমানের উপর প্রতিষ্ঠিত।",
+  "themes": [
+    "truth",
+    "knowledge",
+    "disbelief",
+    "argument"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They have no knowledge for their claims, following only speculation which avails nothing against truth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

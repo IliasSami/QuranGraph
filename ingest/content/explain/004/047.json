@@ -1,0 +1,94 @@
+{
+ "id": "4:47",
+ "simple_en": "People of the Book, believe in what We sent down. It confirms what you already have. Believe before We wipe out faces and turn them backward, or curse them like the Sabbath-breakers. Allah's command is always done.",
+ "simple_bn": "হে কিতাবপ্রাপ্তগণ! তোমাদের কিতাবের সত্যতা নিশ্চিতকারী যে বাণী আমি নাযিল করেছি, তার ওপর বিশ্বাস স্থাপন করো। তা না হলে আমি তোমাদের চেহারা বিকৃত করে উল্টো করে দেব, কিংবা অবাধ্যদের মতো তোমাদের ওপর অভিশাপ দেব। জেনে রেখো, আল্লাহর নির্দেশ অবশ্যই কার্যকর হয়।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "صدق",
+   "lemma": "مُصَدِّق",
+   "meaning_en": "confirming",
+   "meaning_bn": "সত্যায়নকারীরূপে",
+   "why_en": "Highlights that the Quran validates the essential monotheistic truth of earlier scriptures."
+  },
+  {
+   "pos": 14,
+   "root": "طمس",
+   "lemma": "طُمِسَتْ",
+   "meaning_en": "We obliterate",
+   "meaning_bn": "আমরা মুছে দিই বা বিকৃত করি",
+   "why_en": "Depicts a severe consequence of removing distinguishing facial features as punishment."
+  },
+  {
+   "pos": 24,
+   "root": "سبت",
+   "lemma": "سَبْت",
+   "meaning_en": "the Sabbath",
+   "meaning_bn": "শনিবারের বা সাবতবাসী",
+   "why_en": "References the historical event where violators of the Sabbath were transformed and cursed."
+  }
+ ],
+ "lesson_en": "Believe in the truth while you can. Disobeying clear signs brings ruin.",
+ "lesson_bn": "সত্যকে চিনে নেওয়ার পর বিলম্ব না করে তা গ্রহণ করুন, অন্যথায় আল্লাহর কঠিন পাকড়াও নেমে আসতে পারে।",
+ "real_life_en": "When clear evidence shows that your current stance or habit goes against what is right, do not stall or make excuses. Accept the truth promptly, because delaying reform only hardens the heart.",
+ "real_life_bn": "নিজের কোনো ভুল বুঝতে পারলে অহংকার না করে সাথে সাথে তা শুধরে নিন। অনুশোচনা ও সংশোধনে দেরি করলে অন্তরে অন্যায়ের কালিমা আরও গভীর হয়।",
+ "context_en": "Addresses the People of the Book directly, calling them to faith before divine punishment falls.",
+ "context_bn": "আহলে কিতাবকে অবিলম্বে কুরআনের প্রতি ঈমান আনার নির্দেশ দিয়ে আসন্ন শাস্তি সম্পর্কে সতর্ক করা হয়েছে।",
+ "themes": [
+  "revelation",
+  "the Quran",
+  "Children of Israel",
+  "punishment",
+  "warning"
+ ],
+ "kinds": [
+  "command",
+  "warning",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The People of the Scripture are commanded to believe in the Quran, which confirms what they already have of original truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "They are warned of severe punishment: having their facial features effaced and turned backward, or being cursed like the Sabbath-breakers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah's decree and command are inevitably executed.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

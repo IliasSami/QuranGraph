@@ -1,0 +1,63 @@
+{
+  "id": "52:23",
+  "simple_en": "In Paradise, companions will pass cups of pure drink pleasantly to one another. Unlike worldly wine, this drink does not cause bad speech or sinful thoughts. It brings only peace, warmth, and joy. Their gathering is free from all foolish talk.",
+  "simple_bn": "জান্নাতে তারা পরম আনন্দে একে অপরের হাতে পানীয়ের পাত্র তুলে দেবে। দুনিয়ার পানীয়ের মতো এতে কোনো মাতলামি বা অনর্থক কথাবার্তা থাকবে না। এই পানীয় পান করে কেউ পাপকাজে লিপ্ত হবে না। তাদের মজলিস হবে নির্মল ও পবিত্র।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كأس",
+      "lemma": "كَأْس",
+      "meaning_en": "a cup (of pure drink)",
+      "meaning_bn": "পানপাত্র",
+      "why_en": "Refers to the joyful sharing of pure heavenly beverages."
+    },
+    {
+      "pos": 5,
+      "root": "لغو",
+      "lemma": "لَغْو",
+      "meaning_en": "vain / foolish talk",
+      "meaning_bn": "অসার কথাবার্তা",
+      "why_en": "Affirms that heavenly gatherings are completely pure from vain chatter."
+    }
+  ],
+  "lesson_en": "Keep your speech clean and build gatherings that bring peace and good.",
+  "lesson_bn": "অনর্থক কথাবার্তা ও অশ্লীলতা থেকে বেঁচে থেকে মুখের পবিত্রতা রক্ষা করুন।",
+  "real_life_en": "When sitting with friends, avoid gossip, lies, and harsh jokes. Turn your conversations toward kindness, wisdom, and mutual support.",
+  "real_life_bn": "বন্ধুদের আড্ডায় গীবত ও অনর্থক গল্প এড়িয়ে চলুন। একে অপরকে ভালো কাজের পরামর্শ দিন।",
+  "context_en": "The social harmony of Paradise is shown through sharing cups without any harmful speech.",
+  "context_bn": "জান্নাতের সামাজিক হৃদ্যতা প্রকাশ পেয়েছে পানপাত্র বিনিময়ের মাধ্যমে যাতে কোনো অনর্থকতা নেই।",
+  "themes": [
+    "pure gatherings",
+    "speech ethics",
+    "Paradise delights"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They pass cups of drink that produce neither vain talk nor sin.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "8:50",
+  "simple_en": "If only you could see the angels taking the souls of the deniers. The angels beat their faces and backs, telling them to taste the burn of the Fire.",
+  "simple_bn": "হায়! তুমি যদি দেখতে পেতে, যখন ফেরেশতারা সত্য প্রত্যাখ্যানকারীদের প্রাণ হরণ করছিল, তখন তারা তাদের মুখে ও পিঠে আঘাত করছিল এবং বলছিল, 'দহনকারী আগুনের শাস্তি আস্বাদন করো!'",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "وفي",
+      "lemma": "تَوَفَّى",
+      "meaning_en": "take the souls",
+      "meaning_bn": "প্রাণ হরণ করে",
+      "why_en": "The extraction of the soul at death by angels."
+    },
+    {
+      "pos": 7,
+      "root": "ملك",
+      "lemma": "مَلَك",
+      "meaning_en": "the angels",
+      "meaning_bn": "ফেরেশতারা",
+      "why_en": "The angels of death executing divine justice."
+    },
+    {
+      "pos": 8,
+      "root": "ضرب",
+      "lemma": "ضَرَبَ",
+      "meaning_en": "striking",
+      "meaning_bn": "আঘাত করছে",
+      "why_en": "Punishing the dying deniers for their crimes."
+    }
+  ],
+  "lesson_en": "Evil men meet pain the moment their souls leave this life.",
+  "lesson_bn": "অন্যায়কারীদের মৃত্যুর মুহূর্ত থেকেই তাদের কৃতকর্মের কঠোর শাস্তি শুরু হয়ে যায়।",
+  "real_life_en": "Live every day with awareness of your final hour. Turn away from cruelty and lies, so your soul can leave this life in peace rather than regret.",
+  "real_life_bn": "মৃত্যুর পরের বাস্তবতাকে স্মরণ রাখুন। কোনো অন্যায়ে জড়াবেন না, যাতে জীবনের শেষ নিঃশ্বাস শান্তির সাথে নির্গত হয়।",
+  "context_en": "Depicting the painful death of pagan warriors struck down at Badr by angels of wrath.",
+  "context_bn": "বদর যুদ্ধে নিহত কাফেরদের মৃত্যুকালে ফেরেশতাদের দ্বারা শাস্তির চিত্রায়ণ।",
+  "themes": [
+    "death",
+    "angels",
+    "punishment",
+    "hereafter"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Quraysh pagans"
+    ],
+    "places": [
+      "Badr"
+    ],
+    "unseen": [
+      "angels",
+      "Hellfire"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Battle of Badr"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Angels strike the faces and backs of disbelievers as their souls are taken at death.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

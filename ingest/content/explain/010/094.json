@@ -1,0 +1,77 @@
+{
+  "id": "10:94",
+  "simple_en": "If you are in any doubt concerning what We have revealed to you, ask those who have been reading the scripture before you. The truth has surely come to you from your Lord, so do not be among the doubters.",
+  "simple_bn": "অতঃপর আমরা আপনার প্রতি যা নাযিল করেছি তাতে যদি আপনি সন্দেহে থাকেন, তবে আপনার পূর্ববর্তী কিতাব যারা পাঠ করে তাদের জিজ্ঞেস করুন। নিশ্চয় আপনার রবের পক্ষ থেকে আপনার কাছে সত্য এসেছে; কাজেই আপনি কখনো সন্দেহ পোষণকারীদের অন্তর্ভুক্ত হবেন না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "شكك",
+      "lemma": "شَكّ",
+      "meaning_en": "doubt / hesitation",
+      "meaning_bn": "সন্দেহ / সংশয়",
+      "why_en": "Hypothetical address confirming absolute certainty of revelation."
+    },
+    {
+      "pos": 8,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "ask!",
+      "meaning_bn": "জিজ্ঞেস করুন",
+      "why_en": "Consulting honest scholars of prior scriptures who know the prophecies."
+    },
+    {
+      "pos": 16,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "The indisputable revelation sent by the Lord."
+    }
+  ],
+  "lesson_en": "The Quran teaches the same core truth that earlier prophets brought in their holy books.",
+  "lesson_bn": "কুরআনের মূল বার্তা পূর্ববর্তী আসমানী কিতাবসমূহের সত্য বাণীর সাথে সম্পূর্ণ সামঞ্জস্যপূর্ণ।",
+  "real_life_en": "When you have questions about faith, ask people of knowledge. Seek clear answers so doubt does not grow in your heart.",
+  "real_life_bn": "দ্বীন সম্পর্কে কোনো প্রশ্ন থাকলে নির্ভরযোগ্য প্রাজ্ঞ আলেমের কাছ থেকে জেনে সংশয় দূর করুন।",
+  "themes": [
+    "confirmation of revelation",
+    "agreement with past scriptures",
+    "banishing doubt"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "readers of earlier scriptures"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [],
+    "things": [
+      "the Quran",
+      "earlier scriptures"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The revelation of the Quran is consistent with the prophecies known to scholars of earlier scriptures.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,75 @@
+{
+ "id": "46:30",
+ "simple_en": "The jinn said to their people: O our people, we have heard a Book sent down after Moses (peace be upon him). It confirms the true scriptures before it. It guides people to the truth of faith and leads them to the straight path of Islam.",
+ "simple_bn": "জিনরা তাদের জাতিকে বলল: হে আমাদের সম্প্রদায়, আমরা এমন এক কিতাবের পাঠ শুনেছি যা মূসা (আলাইহিস সালাম)-এর পরে নাযিল হয়েছে। এটি পূর্ববর্তী আসমানি কিতাবগুলোকে সত্যায়ন করে এবং মানুষকে খাঁটি সত্য ও ইসলামের সরল পথের দিকে পরিচালিত করে।",
+ "key_words": [
+  {
+   "pos": 9,
+   "root": null,
+   "lemma": "مُوسَى",
+   "meaning_en": "Moses",
+   "meaning_bn": "মূসা (আলাইহিস সালাম)",
+   "why_en": "The jinn recognized that the Quran followed the Torah of Prophet Moses."
+  },
+  {
+   "pos": 10,
+   "root": "صدق",
+   "lemma": "مُصَدِّق",
+   "meaning_en": "confirming",
+   "meaning_bn": "সত্যায়নকারী",
+   "why_en": "The Quran verifies the core divine message found in earlier books."
+  },
+  {
+   "pos": 19,
+   "root": "قوم",
+   "lemma": "مُسْتَقِيم",
+   "meaning_en": "straight / upright",
+   "meaning_bn": "সরল বা সঠিক পথ",
+   "why_en": "This Book guides believers firmly to the straight path of Islam."
+  }
+ ],
+ "lesson_en": "The Quran guides honest hearts to the truth and keeps them on the right path.",
+ "lesson_bn": "পবিত্র কুরআন সত্যসন্ধানী মানুষদেরকে পরম সত্য এবং সঠিক সরল পথের সন্ধান দেয়।",
+ "real_life_en": "Whenever you feel confused by differing ideas in the world, use the Quran as your compass. Its clear words confirm timeless truth and keep you walking on the straight path.",
+ "real_life_bn": "পৃথিবীর নানা মতবাদের ভিড়ে দ্বিধায় পড়লে কুরআনকে নিজের পথের দিশারী বানিয়ে নিন। এর সুস্পষ্ট বাণী চিরন্তন সত্যের সন্ধান দেয় এবং আপনাকে সরল পথে অবিচল রাখে।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "guidance",
+  "the unseen",
+  "truth"
+ ],
+ "kinds": [
+  "story",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "musa"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The jinn reported to their people that they heard a Book revealed after Moses confirming prior scriptures and guiding to the straight path.",
+   "claim_bn": "জিনরা নিজ জাতিকে জানায় তারা মূসার পরে অবতীর্ণ এমন কিতাব শুনেছে যা পূর্ববর্তী কিতাবের সত্যায়ন করে এবং সরল পথের দিশা দেয়।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

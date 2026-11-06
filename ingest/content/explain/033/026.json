@@ -1,0 +1,83 @@
+{
+  "id": "33:26",
+  "simple_en": "Allah brought down those of the People of the Book who broke their treaty and aided the invaders. He forced them down from their secure fortresses and cast intense dread into their hearts. A portion of them was slain in battle, and another portion was taken as captives.",
+  "simple_bn": "আহলে কিতাবদের মধ্যে যারা চুক্তি ভেঙে আক্রমণকারী শত্রুদের সাহায্য করেছিল, আল্লাহ তাদের সুরক্ষিত দুর্গ থেকে নামিয়ে আনলেন এবং তাদের অন্তরে চরম ভীতি সঞ্চার করলেন। ফলে তাদের একটি দল যুদ্ধে নিহত হলো এবং অপর দলকে বন্দি করা হলো।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": null,
+      "lemma": "الَّذِي",
+      "meaning_en": "supported them",
+      "meaning_bn": "তাদের সাহায্য করেছিল",
+      "why_en": "Points to the treachery of those who broke their treaty to aid invading forces."
+    },
+    {
+      "pos": 6,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "their fortresses / strongholds",
+      "meaning_bn": "তাদের দুর্গসমূহ",
+      "why_en": "Refers to the fortified towers where the treacherous tribe sought refuge."
+    },
+    {
+      "pos": 10,
+      "root": null,
+      "lemma": "فِي",
+      "meaning_en": "terror / dread",
+      "meaning_bn": "ভীতি ও সন্ত্রাস",
+      "why_en": "The overwhelming psychological fear cast by God into the hearts of traitors."
+    },
+    {
+      "pos": 14,
+      "root": "قتل",
+      "lemma": "قَتَلَ",
+      "meaning_en": "you took captive",
+      "meaning_bn": "তোমরা বন্দি করছ",
+      "why_en": "Describes the outcome of the siege after their surrender."
+    }
+  ],
+  "lesson_en": "Breaking pacts and helping enemies brings shame, defeat, and loss in the end.",
+  "lesson_bn": "চুক্তি ভঙ্গ করে বিশ্বাসঘাতকতা করলে দুর্ভেদ্য দুর্গে থেকেও রক্ষা পাওয়া যায় না, চরম পরিণতি ভোগ করতে হয়।",
+  "real_life_en": "Uphold your agreements and treaties faithfully in all business and social dealings. Never betray those who placed their trust in your word.",
+  "real_life_bn": "ব্যবসায়িক বা সামাজিক যে কোনো অঙ্গীকার বিশ্বস্ততার সাথে রক্ষা করুন। যাদের সাথে চুক্তিতে আবদ্ধ হয়েছেন, তাদের সাথে কখনো বিশ্বাসঘাতকতা করবেন না।",
+  "themes": [
+    "justice",
+    "honesty",
+    "keeping promises",
+    "punishment",
+    "People of the Book"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "people-of-the-book"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah brought down from their fortresses those among the People of the Book who aided the enemy, casting terror into their hearts.",
+      "claim_bn": "আহলে কিতাবদের মধ্যে যারা শত্রুদের সাহায্য করেছিল, আল্লাহ তাদের দুর্গ থেকে নামিয়ে তাদের অন্তরে ভীতি সঞ্চার করেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

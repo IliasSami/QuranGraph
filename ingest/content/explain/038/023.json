@@ -1,0 +1,65 @@
+{
+ "id": "38:23",
+ "simple_en": "One of the disputants said to Dawud (peace be upon him): \"This man is my brother. He owns ninety-nine female sheep, while I have only one. He demanded that I hand my sheep over to him, and he overpowered me in words.\"",
+ "simple_bn": "এক বিবাদী দাউদ (আলাইহিস সালাম) কে বলল, এই ব্যক্তি আমার ভাই। তার নিরানব্বইটি ভেড়া রয়েছে, আর আমার আছে মাত্র একটি। সে আমার ভেড়াটিও দাবি করেছে এবং কথায় আমাকে কাবু করেছে।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "نعج",
+   "lemma": "نَعْجَة",
+   "meaning_en": "female sheep / ewe",
+   "meaning_bn": "ভেড়া",
+   "why_en": "The subject of the dispute presented before Dawud."
+  },
+  {
+   "pos": 13,
+   "root": "عزز",
+   "lemma": "عَزَّ",
+   "meaning_en": "he overpowered me",
+   "meaning_bn": "আমাকে পরাস্ত করেছে",
+   "why_en": "Shows how one party used strong speech to pressure the other."
+  }
+ ],
+ "lesson_en": "Do not use forceful speech to take what belongs to others.",
+ "lesson_bn": "চাতুর্যপূর্ণ কথা বলে অন্যের অধিকার কেড়ে নেওয়া অন্যায়।",
+ "real_life_en": "In trade or family deals, do not pressure weaker people to give up their rights. Be honest and fair in every agreement.",
+ "real_life_bn": "ব্যবসা বা পারিবারিক লেনদেনে কাউকে চাপ দিয়ে তার প্রাপ্য থেকে বঞ্চিত করবেন না। প্রতিটি চুক্তিতে সৎ থাকুন।",
+ "themes": [
+  "justice",
+  "stories of the prophets",
+  "ethics"
+ ],
+ "kinds": [
+  "story",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "dawud"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "One disputant stated that his brother possessed ninety-nine ewes and demanded his single ewe as well.",
+   "claim_bn": "এক বিবাদী বলল যে তার ভাই নিরানব্বইটি ভেড়ার মালিক হওয়া সত্ত্বেও তার একমাত্র ভেড়াটিও দাবি করেছে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": false
+}

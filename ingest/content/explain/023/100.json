@@ -1,0 +1,66 @@
+{
+  "id": "23:100",
+  "simple_en": "He says: Send me back so that I may do good in what I left behind. No, it is only an empty word he utters. Behind them is a barrier until the Day they are raised.",
+  "simple_bn": "যাতে আমি সৎকাজ করতে পারি যা আমি আগে করিনি। কখনও নয়, এটি তো কেবল কথার কথা যা সে বলছে। আর তাদের পেছনে রয়েছে এক অন্তরাল পুনরুত্থান দিবস পর্যন্ত।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "صلح",
+      "lemma": "صالِح",
+      "meaning_en": "righteous deeds",
+      "meaning_bn": "সৎকাজ বা নেক আমল",
+      "why_en": "Virtuous works that the dying person neglected during life."
+    },
+    {
+      "pos": 13,
+      "root": "برزخ",
+      "lemma": "بَرْزَخ",
+      "meaning_en": "a barrier (Barzakh)",
+      "meaning_bn": "একটি অন্তরাল (বরযখ)",
+      "why_en": "The intermediate realm between death and resurrection."
+    }
+  ],
+  "lesson_en": "Promises made in moments of panic hold no weight. The barrier of death separates this world from the next.",
+  "lesson_bn": "বিপদে পড়ে দেওয়া প্রতিশ্রুতির কোনো গ্রহণযোগ্যতা নেই। মৃত্যুর পর বরযখের পর্দা দুনিয়ায় ফিরে আসার সব পথ বন্ধ করে দেয়।",
+  "real_life_en": "Take action today while the door of good deeds is open. Remember that life will not be repeated once it ends.",
+  "real_life_bn": "সুযোগ থাকতে থাকতেই আখেরাতের প্রস্তুতি নিন। মনে রাখবেন এই জীবন একবারই পাওয়া যায়, পুনরায় সুযোগ আসবে না।",
+  "themes": [
+    "barzakh",
+    "empty-promises",
+    "irreversible-death"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "barzakh",
+      "resurrection"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "day-of-resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The desperate promises of the deceased are futile, as the intermediate realm of Barzakh permanently bars return until the Resurrection.",
+      "claim_bn": "মৃত্যুর পর মানুষের ফিরে আসার দাবি অগ্রাহ্য করা হবে এবং পুনরুত্থান পর্যন্ত তারা বরযখের জগতে আবদ্ধ থাকবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

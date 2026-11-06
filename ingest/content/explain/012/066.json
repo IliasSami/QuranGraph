@@ -1,0 +1,88 @@
+{
+  "id": "12:66",
+  "simple_en": "Yaqub refused to let Benjamin go without a solemn oath by Allah. They had to promise to bring him back unless they were trapped. Once they gave their word, Yaqub said Allah was witness over their vow.",
+  "simple_bn": "ইয়াকূব বললেন, তোমরা যতক্ষণ আল্লাহর নামে শপথ না করবে যে তাকে ফিরিয়ে আনবে, ততক্ষণ আমি তাকে পাঠাব না; যদি না তোমরা নিরুপায় হয়ে পড়। তারা শপথ নেওয়ার পর ইয়াকূব বললেন, আমরা যা বলছি তার ওপর আল্লাহ সাক্ষী রইলেন।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "وثق",
+      "lemma": "مَوْثِق",
+      "meaning_en": "a solemn pledge",
+      "meaning_bn": "দৃঢ় অঙ্গীকার বা শপথ",
+      "why_en": "A binding covenant invoking the sacred name of Allah."
+    },
+    {
+      "pos": 14,
+      "root": "حوط",
+      "lemma": "أَحاطَ",
+      "meaning_en": "you are surrounded / trapped",
+      "meaning_bn": "তোমরা পরিবেষ্টিত বা নিরুপায় হও",
+      "why_en": "The only allowable exception: being overwhelmed by circumstances beyond control."
+    },
+    {
+      "pos": 24,
+      "root": "وكل",
+      "lemma": "وَكِيل",
+      "meaning_en": "Witness / Guardian",
+      "meaning_bn": "কর্মবিধায়ক ও সাক্ষী",
+      "why_en": "Allah is named as the supreme guarantor of the covenant."
+    }
+  ],
+  "lesson_en": "Keep your word when you take a solemn oath before God.",
+  "lesson_bn": "আল্লাহর নামে কোনো দৃঢ় অঙ্গীকার করলে তা রক্ষা করার জন্য সদা সচেষ্ট থাকুন।",
+  "real_life_en": "Two partners start a shop and swear before God to share all profits fairly. This promise keeps them honest in every deal.",
+  "real_life_bn": "দুই ব্যবসায়ী আল্লাহর নামে শপথ করে চুক্তিবদ্ধ হন। এই পবিত্র অঙ্গীকারের কথা স্মরণ করে তারা কখনো ব্যবসায়িক হিসাবে লুকোচুরি করেন না।",
+  "context_en": "Faced with famine, Yaqub agreed to send Benjamin only after taking a solemn oath from his sons.",
+  "context_bn": "খাদ্যাভাবের মুখে ইয়াকূব ছেলেদের কাছ থেকে আল্লাহর নামে শক্ত শপথ নিয়েই কেবল বিন ইয়ামীনকে পাঠাতে রাজি হলেন।",
+  "themes": [
+    "oaths",
+    "covenants",
+    "trust in Allah"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "law"
+  ],
+  "entities": {
+    "people": [
+      "Yaqub",
+      "brothers of Yusuf",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "al-Wakil"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Yaqub required a solemn oath by Allah before letting Benjamin leave.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He declared Allah as the guarantor and witness over their pledge.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "37:32",
+  "simple_en": "The leaders confess: yes, we invited you to wander off the right path. We were lost in error ourselves, so we dragged you down with us. When blind people lead the blind, both fall into the same pit.",
+  "simple_bn": "নেতারা স্বীকার করে বলবে, হ্যাঁ, আমরা তোমাদের বিভ্রান্ত করেছিলাম, কারণ আমরা নিজেরাও সঠিক পথ হারিয়ে বিভ্রান্ত হয়ে পড়েছিলাম। পথভ্রষ্টরা কখনো অন্য কাউকে আলোর দিশা দিতে পারে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "غوي",
+      "lemma": "أَغْوَيْ",
+      "meaning_en": "we led you astray",
+      "meaning_bn": "আমরা তোমাদের বিভ্রান্ত করেছিলাম",
+      "why_en": "The admission that they invited others to deviance, having lost the right path themselves."
+    }
+  ],
+  "lesson_en": "Those who are lost cannot guide others, so seek leaders of true knowledge and piety.",
+  "lesson_bn": "ভুল নেতার পেছনে চললে অনুসারীদের ধ্বংসও অনিবার্য হয়ে ওঠে।",
+  "real_life_en": "Before you take advice on matters of faith or values, check who is talking. Seek knowledge from sincere, grounded people who practice what they preach.",
+  "real_life_bn": "দ্বীন ও নৈতিকতার বিষয়ে পরামর্শ নেওয়ার আগে ভেবে দেখুন আপনি কার কথা শুনছেন। নির্ভরযোগ্য ও সৎ জ্ঞানীদের কাছ থেকেই সঠিক শিক্ষা গ্রহণ করুন।",
+  "themes": [
+    "misguidance",
+    "deviance",
+    "confession"
+  ],
+  "kinds": [
+    "hereafter",
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The misleaders admit they called others to deviance while they were already deviant themselves.",
+      "claim_bn": "নেতারা স্বীকার করে যে তারা নিজেরাও পথভ্রষ্ট ছিল এবং তাই অন্যদেরও পথভ্রষ্ট করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

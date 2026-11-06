@@ -1,0 +1,70 @@
+{
+  "id": "12:1",
+  "simple_en": "Alif, Lam, Ra. These are the verses of the clear Scripture. Allah revealed this Book to make truth distinct from falsehood, and to guide people with wisdom.",
+  "simple_bn": "আলিফ-লাম-রা। এগুলো সুস্পষ্ট মহাগ্রন্থের আয়াত। আল্লাহ সত্য ও মিথ্যার পার্থক্য স্পষ্ট করতে এবং মানুষকে সঠিক পথে পরিচালিত করতে এই কিতাব নাযিল করেছেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "verses / signs",
+      "meaning_bn": "আয়াতসমূহ / নিদর্শন",
+      "why_en": "Divine revelation composed of distinct signs."
+    },
+    {
+      "pos": 4,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Book / Scripture",
+      "meaning_bn": "কিতাব / গ্রন্থ",
+      "why_en": "The written preservation of divine guidance."
+    },
+    {
+      "pos": 5,
+      "root": "بين",
+      "lemma": "مُبِين",
+      "meaning_en": "clear / making distinct",
+      "meaning_bn": "সুস্পষ্ট",
+      "why_en": "Clarity that resolves doubt and clarifies truth."
+    }
+  ],
+  "lesson_en": "The Quran is a clear guide that makes truth evident to all who seek it.",
+  "lesson_bn": "কুরআন এক সুস্পষ্ট পথপ্রদর্শক, যা সত্যান্বেষীদের জন্য সত্যকে উন্মোচিত করে।",
+  "real_life_en": "Turn to the Quran for daily clarity. Its teachings provide sound guidance for life's moral decisions and personal peace.",
+  "real_life_bn": "দৈনন্দিন জীবনের দিকনির্দেশনার জন্য কুরআনের আলো গ্রহণ করুন। এটি নীতি ও সত্যের পথ দেখায়।",
+  "themes": [
+    "Quranic revelation",
+    "clarity of Scripture",
+    "divine guidance"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "The Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The verses of the Quran form a clear, luminous Scripture that elucidates divine truth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": "50:2",
+  "simple_en": "The disbelievers knew that the Prophet ﷺ was honest. Still, they found it strange that a human warner was sent to them from their own people. They called his message a weird thing and refused to follow him.",
+  "simple_bn": "অবিশ্বাসীরা রাসুলুল্লাহ ﷺ এর সততা সম্পর্কে জানত। তবুও তাদের নিজেদের মধ্য থেকে একজন মানুষকে সতর্ককারী হিসেবে পাঠানোয় তারা অবাক হলো। তারা একে এক অদ্ভুত ব্যাপার বলে উড়িয়ে দিল এবং তাঁর দাওয়াত গ্রহণ করতে অস্বীকার করল।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نذر",
+      "lemma": "مُنذِر",
+      "meaning_en": "a warner",
+      "meaning_bn": "সতর্ককারী",
+      "why_en": "A messenger sent to caution people against wrongdoing and guide them to safety."
+    },
+    {
+      "pos": 11,
+      "root": "عجب",
+      "lemma": "عَجِيب",
+      "meaning_en": "strange or astonishing",
+      "meaning_bn": "আশ্চর্যজনক",
+      "why_en": "The deniers found it strange that a mortal man was chosen to deliver divine warnings."
+    }
+  ],
+  "lesson_en": "Do not reject the truth. Never turn away just because it comes through someone you know well.",
+  "lesson_bn": "পরিচিত কারো মাধ্যমে সত্য বার্তা এলেই অহংকারবশত তা প্রত্যাখ্যান করা উচিত নয়।",
+  "real_life_en": "Accept good advice with a humble heart. If a younger person points out your mistake, thank them instead of getting upset.",
+  "real_life_bn": "কোনো ছোট ভাই বা সহকর্মী আপনার ভুল ধরিয়ে দিলে রাগ না করে নম্রভাবে তা মেনে নিন।",
+  "context_en": "This verse addresses the doubt of the disbelievers who were amazed that a human prophet was sent to them.",
+  "context_bn": "মানুষের মধ্য থেকেই একজন নবী পাঠানোয় অবিশ্বাসীদের যে বিস্ময় তৈরি হয়েছিল, এই আয়াতে তা উল্লেখ করা হয়েছে।",
+  "themes": [
+    "prophethood",
+    "disbelief",
+    "arrogance"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [
+      "quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelievers were astonished that a human warner from among themselves was sent to them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

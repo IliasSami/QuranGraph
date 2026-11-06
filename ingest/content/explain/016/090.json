@@ -1,0 +1,62 @@
+{
+  "id": "16:90",
+  "simple_en": "Allah commands justice, doing good, and giving help to close relatives. He forbids shameful acts, injustice, and oppression. He warns you so you take heed.",
+  "simple_bn": "নিশ্চয় আল্লাহ ন্যায়পরায়ণতা, সদাচরণ ও আত্মীয়দের দান করার নির্দেশ দেন। আর তিনি অশ্লীলতা, অসৎকাজ ও সীমালঙ্ঘন থেকে নিষেধ করেন। তিনি উপদেশ দেন যাতে তোমরা শিক্ষা নাও।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "عدل",
+      "lemma": "عَدْل",
+      "meaning_en": "justice",
+      "meaning_bn": "ন্যায়পরায়ণতা",
+      "why_en": "The primary pillar of Islamic ethics."
+    },
+    {
+      "pos": 5,
+      "root": "حسن",
+      "lemma": "إِحْسان",
+      "meaning_en": "excellence and good",
+      "meaning_bn": "সদাচরণ",
+      "why_en": "Going beyond mere justice into generosity and compassion."
+    }
+  ],
+  "lesson_en": "Justice and kindness build a good home. Doing wrong breaks people apart.",
+  "lesson_bn": "ন্যায়বিচার ও সদাচরণ সমাজের মূল ভিত্তি। যাবতীয় অশ্লীলতা ও অন্যায় থেকে বিরত থাকা প্রতিটি মুমিনের নৈতিক দায়িত্ব।",
+  "real_life_en": "Be fair in daily life and kind to family. Stand firm against all cruelty and wrong.",
+  "real_life_bn": "ব্যবসায় ও ব্যক্তিগত আচরণে ন্যায় বজায় রাখুন, আত্মীয়দের সাথে সুসম্পর্ক রাখুন এবং যে কোনো অন্যায়ের বিরুদ্ধে থাকুন।",
+  "themes": [
+    "justice",
+    "ihsan",
+    "kinship",
+    "ethics"
+  ],
+  "kinds": [
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah commands justice, excellence, and giving to relatives, and forbids immorality, wrongdoing, and oppression.",
+      "claim_bn": "আল্লাহ ন্যায়বিচার, ইহসান ও আত্মীয়দের অধিকার আদায়ের নির্দেশ দেন এবং অশ্লীলতা, অসৎকাজ ও অবাধ্যতা নিষেধ করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

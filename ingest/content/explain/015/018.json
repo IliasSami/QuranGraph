@@ -1,0 +1,76 @@
+{
+  "id": "15:18",
+  "simple_en": "If any devil tries to sneak a hearing of heavenly secrets, a bright flaming meteor pursues him and strikes him down. Truth is fiercely guarded by divine power.",
+  "simple_bn": "কিন্তু কোনো শয়তান যদি গোপনে কোনো কথা চুরি করে শোনার চেষ্টা করে, তবে এক উজ্জ্বল জ্বলন্ত উল্কাপিণ্ড তার পিছু নিয়ে তাকে ধ্বংস করে দেয়। সত্য সবসময় ঐশী ক্ষমতায় সুরক্ষিত।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سرق",
+      "lemma": "اسْتَرَقَ",
+      "meaning_en": "steals",
+      "meaning_bn": "চুরি করে",
+      "why_en": "Eavesdropping stealthily."
+    },
+    {
+      "pos": 4,
+      "root": "سمع",
+      "lemma": "سَمْع",
+      "meaning_en": "a hearing",
+      "meaning_bn": "শোনার চেষ্টা",
+      "why_en": "Overhearing celestial decrees."
+    },
+    {
+      "pos": 6,
+      "root": "شهب",
+      "lemma": "شِهاب",
+      "meaning_en": "a flame",
+      "meaning_bn": "জ্বলন্ত উল্কা",
+      "why_en": "A shooting star or meteor."
+    },
+    {
+      "pos": 7,
+      "root": "بين",
+      "lemma": "مُبِين",
+      "meaning_en": "clear",
+      "meaning_bn": "উজ্জ্বল",
+      "why_en": "Clearly visible and piercing."
+    }
+  ],
+  "lesson_en": "Falsehood cannot steal divine truth. Do not put trust in fortune tellers or false rumors.",
+  "lesson_bn": "মিথ্যা কখনো সত্যকে গ্রাস করতে পারে না। গণক বা কোনো অলীক গুজবে কখনো বিশ্বাস স্থাপন করবেন না।",
+  "real_life_en": "A woman is tempted to visit a psychic who claims to know the future. A friend reminds her that only Allah knows the unseen. She turns away and saves her faith from deception.",
+  "real_life_bn": "ভবিষ্যৎ জানার লোভে এক নারী এক গণকের কাছে যেতে চেয়েছিল। এক বন্ধু তাকে মনে করিয়ে দেয় যে অদৃশ্যের জ্ঞান একমাত্র আল্লাহর। সে ফিরে আসে এবং নিজের ঈমান রক্ষা করে।",
+  "context_en": "Description of meteors repelling demons who attempt to eavesdrop on celestial news.",
+  "context_bn": "আকাশের গোপন তথ্য চুরি করতে আসা শয়তানদের ওপর উজ্জ্বল উল্কাপিণ্ডের আঘাত হানার বিবরণ।",
+  "themes": [
+    "unseen",
+    "cosmology",
+    "divine-protection"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Devils attempting to eavesdrop on the celestial realm are pursued by a clear burning flame.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

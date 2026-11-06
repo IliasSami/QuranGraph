@@ -1,0 +1,83 @@
+{
+  "id": "3:3",
+  "simple_en": "Allah revealed the Quran to the Prophet Muhammad ﷺ with absolute truth. It confirms the true message of the books that came before it. In the past, Allah also sent down the Torah to Moses (peace be upon him) and the Gospel to Jesus (peace be upon him).",
+  "simple_bn": "আল্লাহ নবী মুহাম্মাদ ﷺ-এর ওপর সত্যসহ কুরআন নাযিল করেছেন। এটি তার আগের আসমানী কিতাবগুলোর মূল সত্যকে সত্যায়িত করে। পূর্বে তিনি মূসা (আলাইহিস সালাম)-এর ওপর তাওরাত এবং ঈসা (আলাইহিস সালাম)-এর ওপর ইঞ্জিল নাযিল করেছিলেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نزل",
+      "lemma": "نَزَّلَ",
+      "meaning_en": "sent down gradually",
+      "meaning_bn": "ধাপে ধাপে নাযিল করেছেন",
+      "why_en": "The form shows the Quran was revealed stage by stage to guide believers."
+    },
+    {
+      "pos": 4,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "in truth",
+      "meaning_bn": "সত্যসহ",
+      "why_en": "The Quran contains pure truth with no falsehood or distortion."
+    },
+    {
+      "pos": 5,
+      "root": "صدق",
+      "lemma": "مُصَدِّق",
+      "meaning_en": "confirming",
+      "meaning_bn": "সত্যায়নকারী",
+      "why_en": "It confirms the core truth taught in the earlier divine books."
+    }
+  ],
+  "lesson_en": "Respect the Quran as Allah's final book that confirms earlier truths.",
+  "lesson_bn": "কুরআনকে আল্লাহর চূড়ান্ত বাণী হিসেবে সম্মান করুন, যা পূর্ববর্তী নবীদের কাছে পাঠানো চিরন্তন সত্যকেই সমর্থন করে।",
+  "real_life_en": "When you read the Quran, remember that it shares the same call to worship one God that previous prophets taught. This gives you peace and clarity about your faith.",
+  "real_life_bn": "কুরআন তিলাওয়াত করার সময় মনে রাখবেন এটি পূর্ববর্তী নবীদের একত্ববাদের মূল শিক্ষাকেই তুলে ধরে। এটি আপনার অন্তরে ঈমানের ব্যাপারে শান্তি ও স্পষ্টতা এনে দেয়।",
+  "context_en": "Having affirmed His oneness and living sovereignty, Allah describes the divine revelation He sent down to guide mankind.",
+  "context_bn": "আল্লাহর একত্ব ও সার্বভৌমত্ব ঘোষণার পর মানবজাতিকে পথ দেখানোর জন্য পাঠানো আসমানী কিতাবসমূহের বর্ণনা দেওয়া হয়েছে।",
+  "connect_prev": "Connects Allah's role as the Living Sustainer (3:2) to His care for humanity through revelation (3:3).",
+  "context": "Addressed to both believers and People of the Book, emphasizing that all genuine divine scriptures stem from one source.",
+  "themes": [
+    "the Quran",
+    "revelation",
+    "truth"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ",
+      "Moses",
+      "Jesus"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran",
+      "the Torah",
+      "the Gospel"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah revealed the Quran in truth to Muhammad ﷺ, confirming earlier scriptures, and previously sent the Torah and the Gospel.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

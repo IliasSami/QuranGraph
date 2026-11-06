@@ -1,0 +1,83 @@
+{
+  "id": "36:60",
+  "simple_en": "Allah will remind all humans of His clear command. He told the children of Adam not to follow Satan or obey him. He warned them that Satan is an open enemy who seeks their ruin.",
+  "simple_bn": "আল্লাহ মানুষকে নবিদের মাধ্যমে প্রেরিত প্রতিশ্রুতির কথা স্মরণ করিয়ে দেবেন। তিনি আদম সন্তানকে নির্দেশ দিয়েছিলেন যে তারা যেন শয়তানের আনুগত্য বা ইবাদত না করে, কারণ শয়তান তাদের প্রকাশ্য শত্রু।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عهد",
+      "lemma": "عَهِدَ",
+      "meaning_en": "enjoin / covenant",
+      "meaning_bn": "নির্দেশ দেওয়া বা প্রতিশ্রুতি নেওয়া",
+      "why_en": "The solemn divine command delivered through all the prophets."
+    },
+    {
+      "pos": 5,
+      "root": "أدم",
+      "lemma": "آدَم",
+      "meaning_en": "Adam",
+      "meaning_bn": "আদম",
+      "why_en": "The father of mankind to whose descendants this warning applies."
+    },
+    {
+      "pos": 10,
+      "root": null,
+      "lemma": "إِنّ",
+      "meaning_en": "Satan",
+      "meaning_bn": "শয়তান",
+      "why_en": "The sworn deceiver who leads humanity away from truth."
+    },
+    {
+      "pos": 13,
+      "root": "بين",
+      "lemma": "مُبِين",
+      "meaning_en": "an enemy",
+      "meaning_bn": "শত্রু",
+      "why_en": "Emphasizes Satan's persistent malice and hatred toward humans."
+    }
+  ],
+  "lesson_en": "Following Satan leads to loss, for he is a clear enemy to man.",
+  "lesson_bn": "শয়তানের অনুসরণ ধ্বংস ডেকে আনে, কারণ সে মানুষের চিরন্তন ও প্রকাশ্য শত্রু।",
+  "real_life_en": "Watch out for bad thoughts that push you to sin or pride. Ask Allah for help and stay on guard against the tricks of Satan.",
+  "real_life_bn": "শয়তান যখন আপনাকে কোনো পাপ বা অহংকারের প্ররোচনা দেয়, তখন সচেতন হোন। শয়তানের কুমন্ত্রণা থেকে বাঁচতে আল্লাহর আশ্রয় প্রার্থনা করুন।",
+  "themes": [
+    "satan's enmity",
+    "covenant",
+    "guidance",
+    "sin"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [
+      "adam"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "satan"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah enjoined the children of Adam through the messengers not to worship or obey Satan, for he is a clear enemy.",
+      "claim_bn": "আল্লাহ আদম সন্তানকে নবিদের মাধ্যমে নির্দেশ দিয়েছিলেন যে তারা যেন শয়তানের ইবাদত না করে, কারণ সে প্রকাশ্য শত্রু।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

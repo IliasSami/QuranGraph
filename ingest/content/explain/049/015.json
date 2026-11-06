@@ -1,0 +1,76 @@
+{
+  "id": "49:15",
+  "simple_en": "True believers are those who have firm faith in Allah and His Messenger ﷺ without any doubt in their hearts. They sacrifice their wealth and their efforts in the path of Allah to support the truth. These are the ones who are honest and truthful in their claims of faith.",
+  "simple_bn": "প্রকৃত মুমিন তারাই যারা আল্লাহ ও তাঁর রাসূলের প্রতি অটল বিশ্বাস স্থাপন করে এবং অন্তরে কোনো সন্দেহ পোষণ করে না। তারা সত্যের প্রসারে আল্লাহর পথে নিজেদের ধনসম্পদ ও জীবন উৎসর্গ করে। এরাই তাদের ঈমানের দাবিতে সত্যবাদী।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "ريب",
+      "lemma": "ارْتابَ",
+      "meaning_en": "they do not doubt",
+      "meaning_bn": "তারা সন্দেহ পোষণ করে না",
+      "why_en": "It emphasizes certainty (yaqin) as a vital condition of true iman."
+    },
+    {
+      "pos": 10,
+      "root": "جهد",
+      "lemma": "جاهَدَ",
+      "meaning_en": "they strive / struggle",
+      "meaning_bn": "তারা জিহাদ বা প্রচেষ্টা চালায়",
+      "why_en": "It shows that real faith inspires action and personal sacrifice."
+    },
+    {
+      "pos": 18,
+      "root": "صدق",
+      "lemma": "صادِق",
+      "meaning_en": "the truthful",
+      "meaning_bn": "সত্যবাদীগণ",
+      "why_en": "It validates those whose actions confirm their spoken faith."
+    }
+  ],
+  "lesson_en": "Real faith shows in firm trust and generous work for Allah.",
+  "lesson_bn": "অন্তরের অটল বিশ্বাস এবং আল্লাহর সন্তুষ্টির জন্য আত্মত্যাগের মাধ্যমেই খাঁটি ঈমানের প্রমাণ মেলে।",
+  "real_life_en": "Support good projects in your community with your time and money. When you give generously to help those in need, you turn your spoken faith into living truth.",
+  "real_life_bn": "নিজের সময় ও অর্থ দিয়ে অসহায় মানুষের পাশে দাঁড়ান। ভালো কাজে সহযোগিতা করা অন্তরের খাঁটি বিশ্বাসের বাস্তব প্রমাণ।",
+  "themes": [
+    "faith",
+    "the believers' qualities",
+    "struggle in Allah's way",
+    "charity",
+    "honesty"
+  ],
+  "kinds": [
+    "belief",
+    "praise",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "True believers are those who believe in Allah and His Messenger without doubting and strive with their wealth and lives in the cause of Allah.",
+      "claim_bn": "প্রকৃত মুমিন তারাই যারা আল্লাহ ও তাঁর রাসূলের ওপর নিঃসংশয় বিশ্বাস স্থাপন করে এবং আল্লাহর পথে জান-মাল দিয়ে প্রচেষ্টা চালায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

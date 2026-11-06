@@ -1,0 +1,61 @@
+{
+  "id": "36:50",
+  "simple_en": "That sudden blast will strike with great speed. No one will have time to make a will. They will not even be able to return to their homes or see their families again.",
+  "simple_bn": "সেই বিকট শব্দ এত দ্রুত নেমে আসবে যে কেউ কোনো অসিয়ত করার সুযোগ পাবে না। এমনকি তারা নিজেদের পরিবারের কাছেও ফিরে যেতে পারবে না, বরং তৎক্ষণাৎ মারা পড়বে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "وصي",
+      "lemma": "تَوْصِيَة",
+      "meaning_en": "a bequest / will",
+      "meaning_bn": "কোনো অসিয়ত",
+      "why_en": "Highlights the complete lack of time to pass on wealth or advice."
+    },
+    {
+      "pos": 7,
+      "root": "رجع",
+      "lemma": "رَجَعَ",
+      "meaning_en": "return",
+      "meaning_bn": "ফিরে যাবে",
+      "why_en": "Shows that no one can rush back home to their loved ones."
+    }
+  ],
+  "lesson_en": "When death arrives, no time is left to settle worldly matters.",
+  "lesson_bn": "মৃত্যুর ফায়সালা কার্যকর হলে পার্থিব কোনো বিষয় গুছিয়ে নেওয়ার সুযোগ শেষ হয়ে যায়।",
+  "real_life_en": "Fulfill your duties and pay your debts today. Settle wrongs with people now, because tomorrow may never arrive.",
+  "real_life_bn": "নিজের দায়িত্ব পালন ও দেনা-পাওনা পরিশোধে অবহেলা করবেন না। কারো হক নষ্ট করে থাকলে আজই মিটিয়ে নিন, কারণ আগামীকালের নিশ্চয়তা নেই।",
+  "themes": [
+    "death",
+    "the Last Day",
+    "repentance"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The sudden blast leaves them unable to make a will or return to their families before perishing.",
+      "claim_bn": "সেই আকস্মিক শব্দের পর তারা কোনো অসিয়ত করতে পারবে না এবং নিজেদের পরিবারের কাছে ফিরে যাওয়ারও সুযোগ পাবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

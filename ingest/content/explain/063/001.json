@@ -1,0 +1,72 @@
+{
+  "id": "63:1",
+  "simple_en": "When the hypocrites come to you, they say that they testify you are the Messenger of Allah. Allah knows that you are His Messenger. But Allah also testifies that the hypocrites are liars. Their tongues say words that their hearts do not believe.",
+  "simple_bn": "যখন মুনাফিকরা আপনার কাছে আসে তখন তারা বলে, আমরা সাক্ষ্য দিচ্ছি যে আপনি নিশ্চয়ই আল্লাহর রাসূল। আল্লাহ জানেন যে আপনি তাঁরই রাসূল। আর আল্লাহ সাক্ষ্য দিচ্ছেন যে মুনাফিকরা তাদের দাবিতে সম্পূর্ণ মিথ্যাবাদী।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نفق",
+      "lemma": "مُنافِق",
+      "meaning_en": "the hypocrites",
+      "meaning_bn": "মুনাফিকগণ",
+      "why_en": "Those who show outward belief while hiding disbelief in their hearts."
+    },
+    {
+      "pos": 5,
+      "root": "شهد",
+      "lemma": "شَهِدَ",
+      "meaning_en": "we testify and bear witness",
+      "meaning_bn": "আমরা সাক্ষ্য দিচ্ছি",
+      "why_en": "Their outward claim of faith spoken only with the tongue."
+    },
+    {
+      "pos": 17,
+      "root": "كذب",
+      "lemma": "كاذِب",
+      "meaning_en": "are surely liars",
+      "meaning_bn": "অবশ্যই মিথ্যাবাদী",
+      "why_en": "Divine exposure that their inward reality contradicts their words."
+    }
+  ],
+  "lesson_en": "True faith lives in the heart. Speaking sweet words while hiding disbelief is mere hypocrisy.",
+  "lesson_bn": "অন্তরের বিশ্বাসই ঈমানের মূল ভিত্তি, মুখে মধুর কথা বলে অন্তরে অবিশ্বাস গোপন করা সুস্পষ্ট মুনাফিকি।",
+  "real_life_en": "A person smiles and praises a coworker to his face, but tries to get him fired behind his back. False praise never hides bad intent forever. Honesty between what you say and what you feel builds real trust.",
+  "real_life_bn": "কেউ যদি সামনে বন্ধুত্বের ভাব দেখায় কিন্তু পেছনে ক্ষতি করার চক্রান্ত করে, তবে সে বিশ্বাসঘাতক হিসেবে চিহ্নিত হয়। মনের ভাব ও মুখের কথায় মিল রাখাই প্রকৃত সততা।",
+  "themes": [
+    "traits of hypocrites",
+    "false testimony",
+    "divine knowledge of deceit"
+  ],
+  "kinds": [
+    "warning",
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites declare with their tongues that Muhammad is Allah's messenger, but Allah testifies that they are liars because their hearts reject what their tongues state.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,65 @@
+{
+ "id": "70:28",
+ "simple_en": "No one can be sure that their Lord's punishment will pass them by. A person cannot claim safety on their own. Only Allah gives safety from it. So the believers stay humble and never treat themselves as safe, however many good deeds they have done.",
+ "simple_bn": "কেউ নিশ্চিত হতে পারে না যে তার রবের শাস্তি তাকে ছেড়ে চলে যাবে। নিজের জোরে কেউ নিরাপত্তার দাবি করতে পারে না। শাস্তি থেকে নিরাপত্তা দেন একমাত্র আল্লাহ। তাই মুমিনরা বিনয়ী থাকে, আর নিজেকে কখনো নিরাপদ ভাবে না, যত নেক কাজই করুক।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "غير",
+   "lemma": "غَيْر",
+   "meaning_en": "not",
+   "meaning_bn": "নয়",
+   "why_en": "It turns the sentence into a denial: the punishment is not a thing anyone is safe from."
+  },
+  {
+   "pos": 5,
+   "root": "أمن",
+   "lemma": "مَأْمُون",
+   "meaning_en": "safe, secure",
+   "meaning_bn": "নিরাপদ",
+   "why_en": "The same root as the word for faith and trust, here used to deny that safety is ours to claim."
+  }
+ ],
+ "lesson_en": "Never treat yourself as safe from Allah's punishment; ask Him for safety and stay humble.",
+ "lesson_bn": "নিজেকে কখনো আল্লাহর শাস্তি থেকে নিরাপদ ভেবো না; তাঁর কাছে নিরাপত্তা চাও আর বিনয়ী থাকো।",
+ "real_life_en": "A driver who has never had an accident can slowly stop checking the mirrors. A person who has prayed for years can slowly stop checking their own heart. This ayah warns about that second kind of carelessness.",
+ "real_life_bn": "যে চালক কখনো দুর্ঘটনায় পড়েননি, তিনি ধীরে ধীরে আয়না দেখা কমিয়ে দিতে পারেন। যে মানুষ বছরের পর বছর নামাজ পড়েছে, সে-ও ধীরে ধীরে নিজের মন যাচাই করা ভুলে যেতে পারে। এই আয়াত সেই উদাসীনতার ব্যাপারে সতর্ক করে।",
+ "context_en": "This sentence answers the fear described in the ayah before it: the fear is real because safety is not something we control.",
+ "context_bn": "আগের আয়াতের ভয়ের কারণ এখানে স্পষ্ট হলো: ভয় ঠিকই আছে, কারণ নিরাপত্তা আমাদের হাতে নয়।",
+ "themes": [
+  "taqwa",
+  "punishment",
+  "humility"
+ ],
+ "kinds": [
+  "belief",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah",
+   "ar-rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "No one is safe from the punishment of their Lord; safety from it comes only from Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

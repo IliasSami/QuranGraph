@@ -1,0 +1,73 @@
+{
+  "id": "20:64",
+  "simple_en": "The leaders told their team to unite their plans and line up together. They believed that whoever won the contest today would gain lasting success and honor.",
+  "simple_bn": "তারা নিজেদের জাদুকরদের সংগঠিত করল: তোমরা তোমাদের কৌশল ঠিক কর এবং সারিবদ্ধভাবে সামনে আস। আজ যে বিজয়ী হবে সে-ই চূড়ান্ত সাফল্য লাভ করবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "جمع",
+      "lemma": "أَجْمَعَ",
+      "meaning_en": "unite your scheme",
+      "meaning_bn": "তোমাদের চক্রান্ত সংহত কর",
+      "why_en": "Calling for total coordination among magicians."
+    },
+    {
+      "pos": 5,
+      "root": "صفف",
+      "lemma": "صَفّ",
+      "meaning_en": "in ranks or unified lines",
+      "meaning_bn": "সারিবদ্ধভাবে",
+      "why_en": "Presenting an impressive, orderly spectacle."
+    },
+    {
+      "pos": 10,
+      "root": "علو",
+      "lemma": "ٱسْتَعْلَىٰ",
+      "meaning_en": "triumphs or gains the upper hand",
+      "meaning_bn": "প্রাধান্য বিস্তার করল বা বিজয়ী হলো",
+      "why_en": "The pursuit of worldly victory and status."
+    }
+  ],
+  "lesson_en": "Unity without truth falls apart. Numbers cannot save a bad cause when God helps the good.",
+  "lesson_bn": "মিথ্যার দল ঐক্যবদ্ধ হয়ে শক্তির মহড়া দিলেও সত্যের আগমনে তাদের সকল কৌশল মুহূর্তে ভেঙে পড়ে।",
+  "real_life_en": "Form partnerships built upon virtue and truth. Numbers and unity cannot save a cause rooted in injustice.",
+  "real_life_bn": "ন্যায়ের ভিত্তিতে মানুষের সাথে ঐক্যবদ্ধ হোন। অসৎ কাজে যত মানুষের সমর্থনই থাকুক, তা কখনো স্থায়ী কল্যাণ আনে না।",
+  "themes": [
+    "unity-in-falsehood",
+    "magicians",
+    "competition"
+  ],
+  "kinds": [
+    "story",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The magicians resolved to unite their skills and advance in disciplined ranks to defeat Moses.",
+      "claim_bn": "জাদুকররা ঐক্যবদ্ধ হয়ে সুশৃঙ্খল সারিতে এগিয়ে এসে মূসাকে পরাজিত করার শপথ নিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

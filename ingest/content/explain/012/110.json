@@ -1,0 +1,79 @@
+{
+  "id": "12:110",
+  "simple_en": "Past prophets faced harsh rejection from their people. The trials grew so hard that hope of faith seemed lost. Then Allah sent His swift help. He saved the believers and punished the wicked folk.",
+  "simple_bn": "পূর্ববর্তী রসূলগণ তাঁদের কওমের চরম বিরোধিতার মুখোমুখি হয়েছিলেন। পরীক্ষা এত কঠিন হয়েছিল যে সম্প্রদায়ের ঈমান আনার আশা প্রায় শেষ হয়ে আসছিল। তখনই আল্লাহর সাহায্য নেমে এল। তিনি মুমিনদের রক্ষা করলেন এবং অপরাধীদের ওপর অবধারিত শাস্তি দিলেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "يأس",
+      "lemma": "اسْتَيْأَسَ",
+      "meaning_en": "despaired",
+      "meaning_bn": "নিরাশ হলেন",
+      "why_en": "Reaching the absolute limit of human patience before divine intervention."
+    },
+    {
+      "pos": 4,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "the messengers",
+      "meaning_bn": "রসূলগণ",
+      "why_en": "The noble leaders tested through prolonged hostility."
+    },
+    {
+      "pos": 10,
+      "root": "نصر",
+      "lemma": "نَصْر",
+      "meaning_en": "Our victory or help",
+      "meaning_bn": "আমাদের সাহায্য",
+      "why_en": "The decisive arrival of divine rescue delivering the righteous."
+    },
+    {
+      "pos": 19,
+      "root": "جرم",
+      "lemma": "مُجْرِم",
+      "meaning_en": "the criminals",
+      "meaning_bn": "অপরাধী সম্প্রদায়",
+      "why_en": "Persistent evildoers who cannot turn away Allah's justice."
+    }
+  ],
+  "lesson_en": "Allah sends His help when tests are hard. Stay strong in faith.",
+  "lesson_bn": "কঠিনতম পরীক্ষার সময়েই আল্লাহর সাহায্য অবতীর্ণ হয় এবং অবিচল ধৈর্যের পুরস্কার মেলে।",
+  "real_life_en": "A relief team runs out of bread during a famine. When hope seems lost, a new truck of food shows up. They feed many hungry souls.",
+  "real_life_bn": "একটি ত্রাণকারী দল দুর্যোগকবলিত এলাকায় রসদ সংকটে পড়ে দিশেহারা হয়ে যায়। চরম হতাশার মুহূর্তে অপ্রত্যাশিত এক উৎস থেকে ত্রাণ পৌঁছে যায় এবং তারা শত শত মানুষকে বাঁচাতে সক্ষম হয়।",
+  "context_en": "Divine rescue arrives for prophets and believers when earthly circumstances look most desperate.",
+  "context_bn": "চরম প্রতিকূল মুহূর্তে নবী ও বিশ্বাসীদের জন্য আল্লাহর চূড়ান্ত সাহায্য নেমে আসে।",
+  "themes": [
+    "divine help",
+    "patience under trial",
+    "victory of truth"
+  ],
+  "kinds": [
+    "promise",
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "divine help"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah's help came to previous messengers when trials peaked, delivering the faithful and punishing wrongdoers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

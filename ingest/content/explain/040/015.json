@@ -1,0 +1,84 @@
+{
+  "id": "40:15",
+  "simple_en": "Allah is high in rank above all creation, and He is the Owner of the mighty Throne. By His command, He sends revelation through angels upon servants He chooses. This message warns people of the Day when all will meet.",
+  "simple_bn": "আল্লাহ সর্বোচ্চ মর্যাদার অধিকারী এবং মহান আরশের অধিপতি। তিনি তাঁর নির্দেশক্রমে নিজ বান্দাদের মধ্য থেকে যাকে ইচ্ছা তার ওপর অহির বাণী অবতীর্ণ করেন, যাতে সে মানুষকে সাক্ষাতের ভয়াবহ দিন সম্পর্কে সতর্ক করতে পারে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "رفع",
+      "lemma": "رَفِيع",
+      "meaning_en": "Exalted in rank",
+      "meaning_bn": "সর্বোচ্চ মর্যাদার অধিকারী",
+      "why_en": "Describes Allah's supreme status and loftiness above the universe."
+    },
+    {
+      "pos": 4,
+      "root": "عرش",
+      "lemma": "عَرْش",
+      "meaning_en": "the Throne",
+      "meaning_bn": "আরশ",
+      "why_en": "The immense, greatest creation of Allah above the heavens."
+    },
+    {
+      "pos": 6,
+      "root": "روح",
+      "lemma": "رُوح",
+      "meaning_en": "the spirit (revelation)",
+      "meaning_bn": "রূহ বা অহি",
+      "why_en": "Divine message brings spiritual life to hearts just as rain brings life to earth."
+    },
+    {
+      "pos": 14,
+      "root": "نذر",
+      "lemma": "أَنذَرَ",
+      "meaning_en": "the Meeting",
+      "meaning_bn": "পরস্পর সাক্ষাৎ",
+      "why_en": "The Day when all generations and creations will meet before their Lord."
+    }
+  ],
+  "lesson_en": "Allah sends His words to warn people before the great Day.",
+  "lesson_bn": "মানুষকে কিয়ামতের মহা সমাবেশ সম্পর্কে সতর্ক করতে আল্লাহ নবীগণের ওপর অহি পাঠিয়েছেন।",
+  "real_life_en": "Treat the Quran as life for your spirit. Read its verses daily so you stay mindful of the day when you will stand before your Creator.",
+  "real_life_bn": "প্রতিদিন কুরআন তিলাওয়াত করে অন্তরকে সতেজ রাখুন। এটি আপনাকে সেই অবশ্যম্ভাবী দিনের কথা স্মরণ করাবে যখন সবার সাথে আল্লাহর দরবারে হাজির হতে হবে।",
+  "themes": [
+    "revelation",
+    "prophethood",
+    "the Throne",
+    "the Last Day",
+    "names and attributes of Allah"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "throne"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Allah is Exalted in degrees, Owner of the Throne, sending revelation by His command to warn of the Day of Meeting.",
+      "claim_bn": "আল্লাহ সর্বোচ্চ মর্যাদাপূর্ণ ও আরশের মালিক; তিনি বান্দাদের সতর্ক করার জন্য মনোনীত রাসূলদের ওপর অহি পাঠান।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

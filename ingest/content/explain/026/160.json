@@ -1,0 +1,65 @@
+{
+  "id": "26:160",
+  "simple_en": "The people of Lot rejected the messengers of God. By rejecting Lot's call to purity, they rejected the message of all the prophets who came before him.",
+  "simple_bn": "লূতের সম্প্রদায়ও আল্লাহর প্রেরিত রাসূলদের প্রতি মিথ্যারোপ করেছিল। লূতের পবিত্রতার আহ্বান অস্বীকার করে তারা সকল নবীর বাণীকেই অমান্য করেছিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied",
+      "meaning_bn": "মিথ্যারোপ করেছিল",
+      "why_en": "The rejection of truth by the people of Lot."
+    },
+    {
+      "pos": 4,
+      "root": "رسل",
+      "lemma": "مُرْسَل",
+      "meaning_en": "the messengers",
+      "meaning_bn": "রাসূলগণ",
+      "why_en": "Rejecting one prophet equates to rejecting all messengers."
+    }
+  ],
+  "lesson_en": "Rejecting pure morals brings harm. Follow the clear guidance of God.",
+  "lesson_bn": "পবিত্রতা ও সত্যের পথ ত্যাগ করলে গোটা জাতি ধ্বংসের মুখে পতিত হয়। নবীদের প্রচারিত নৈতিক শিক্ষাই সমাজের আসল ভিত্তি।",
+  "real_life_en": "Hold to high moral standards in your personal life. Stand up for pure family values even when society tries to change them.",
+  "real_life_bn": "সমাজে অনৈতিক আচরণ ছড়িয়ে পড়লেও নিজের পারিবারিক ও ব্যক্তিগত মূল্যবোধ রক্ষা করুন। আল্লাহর দেওয়া পবিত্র জীবনবিধানের ওপর সন্তুষ্ট থাকুন।",
+  "themes": [
+    "prophethood",
+    "denial",
+    "moral-purity"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "lut"
+    ],
+    "nations": [
+      "qawm-lut"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The people of Lot rejected the messengers of God by turning away from their prophet Lot, thereby repudiating the common foundation of divine guidance.",
+      "claim_bn": "লূতের সম্প্রদায় নিজেদের নবী লূতকে অস্বীকার করার মাধ্যমে মূলত আল্লাহর সকল রাসূলের শিক্ষাকেই প্রত্যাখ্যান করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

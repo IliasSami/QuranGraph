@@ -1,0 +1,65 @@
+{
+  "id": "26:35",
+  "simple_en": "Pharaoh claimed that Moses wanted to drive them out of their land using magic. He asked his council for advice on what to do next.",
+  "simple_bn": "ফিরআউন বলল, সে তার জাদুর জোরে তোমাদেরকে তোমাদের মাতৃভূমি থেকে বের করে দিতে চায়। এখন তোমরা এ বিষয়ে কী সিদ্ধান্ত দেবে?",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "يُخْرِجَكُم",
+      "root": "خرج",
+      "lemma": "أَخْرَجَ",
+      "meaning_en": "he drives you out",
+      "meaning_bn": "সে তোমাদেরকে বের করে দেবে",
+      "why_en": "Fear-mongering to arouse nationalistic panic."
+    },
+    {
+      "pos": 6,
+      "arabic": "بِسِحْرِهِۦ",
+      "root": "سحر",
+      "lemma": "سِحْر",
+      "meaning_en": "by his magic",
+      "meaning_bn": "তার যাদুর মাধ্যমে",
+      "why_en": "Falsely attributing divine miracles to sorcery."
+    }
+  ],
+  "lesson_en": "Unjust leaders stir up fear of outsiders to keep people under their control.",
+  "lesson_bn": "স্বৈরাচারী শাসকরা জাতীয়তাবাদী আবেগ ও দেশ হারানোর ভয় দেখিয়ে সাধারণ মানুষকে সত্যের বিরুদ্ধে উসকে দেয়।",
+  "real_life_en": "Do not let fearful talk make you turn against what is right. Question the claims made by proud leaders.",
+  "real_life_bn": "ভয় ও গুজবের ফাঁদে পা দিয়ে সঠিক পথের বিরোধিতা করবেন না। যেকোনো উসকানির পেছনের উদ্দেশ্য যাচাই করুন।",
+  "themes": [
+    "propaganda",
+    "fear-mongering",
+    "tyranny"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh stirred panic by claiming Moses sought to expel the people from their land by magic.",
+      "claim_bn": "ফিরআউন দেশ থেকে বহিষ্কারের জুজু দেখিয়ে সভাসদদের মাঝে আতঙ্ক সৃষ্টি করে পরামর্শ চাইল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,92 @@
+{
+  "id": "40:60",
+  "simple_en": "Your Lord has said, Call upon Me in prayer and I will answer you. Truly, those who are too proud to worship Me will enter Hell in utter humiliation.",
+  "simple_bn": "তোমাদের রব ঘোষণা করেছেন, তোমরা আমাকে ডাকো, আমি তোমাদের ডাকে সাড়া দেব। নিশ্চয়ই যারা অহংকারবশত আমার ইবাদত থেকে মুখ ফিরিয়ে নেয়, তারা লাঞ্ছিত হয়ে জাহান্নামে প্রবেশ করবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "your Lord",
+      "meaning_bn": "তোমাদের প্রতিপালক",
+      "why_en": "The caring Creator and Sustainer who invites prayers."
+    },
+    {
+      "pos": 3,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "call upon Me",
+      "meaning_bn": "আমাকে ডাকো",
+      "why_en": "Direct divine command to make dua and supplicate to Allah."
+    },
+    {
+      "pos": 4,
+      "root": "جوب",
+      "lemma": "اسْتَجابَ",
+      "meaning_en": "I will answer",
+      "meaning_bn": "আমি সাড়া দেব",
+      "why_en": "Divine promise of answering the sincere supplications of servants."
+    },
+    {
+      "pos": 8,
+      "root": "كبر",
+      "lemma": "اسْتَكْبَرَ",
+      "meaning_en": "they are arrogant",
+      "meaning_bn": "তারা অহংকার করে",
+      "why_en": "Neglecting prayer is considered an act of foolish arrogance."
+    },
+    {
+      "pos": 13,
+      "root": "دخر",
+      "lemma": "داخِر",
+      "meaning_en": "disgraced / humiliated",
+      "meaning_bn": "লাঞ্ছিত অবস্থায়",
+      "why_en": "The humbling state of those who were too proud to pray."
+    }
+  ],
+  "lesson_en": "Prayer is true worship, and Allah answers those who ask Him humbly.",
+  "lesson_bn": "আল্লাহর কাছে দোয়া করা অন্যতম সেরা ইবাদত, আর বিনম্র প্রার্থনা আল্লাহর সাড়া লাভ করে।",
+  "real_life_en": "Never feel too proud or shy to ask Allah for help with your daily needs. Turn to Him in prayer for both small matters and big worries.",
+  "real_life_bn": "প্রতিদিনের যেকোনো ছোট বা বড় প্রয়োজনে আল্লাহর কাছে দোয়া করতে কখনো দ্বিধা করবেন না। একনিষ্ঠ প্রার্থনা মনের সব ভার দূর করে।",
+  "themes": [
+    "dua",
+    "worship",
+    "arrogance",
+    "Hell"
+  ],
+  "kinds": [
+    "command",
+    "promise",
+    "warning",
+    "dua"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Your Lord invites you to call upon Him and promises response, warning the arrogant of Hell in humiliation.",
+      "claim_bn": "তোমাদের রব তাঁকে ডাকার নির্দেশ দিয়ে সাড়া দেওয়ার ওয়াদা করেছেন এবং অহংকারীদের জাহান্নামে প্রবেশের সতর্কবার্তা দিয়েছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

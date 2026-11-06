@@ -1,0 +1,60 @@
+{
+  "id": "40:30",
+  "simple_en": "The believing man said, O my people, I fear for you the fate of past nations. They stood together against their messengers, and punishment overtook them.",
+  "simple_bn": "সেই মুমিন ব্যক্তি আরও বলল, হে আমার কওম, আমি তোমাদের জন্য পূর্ববর্তী দলগুলোর মতো এক ভয়াবহ দিনের আশঙ্কা করছি। যারা নবীদের বিরুদ্ধে ঐক্যবদ্ধ হয়েছিল এবং পরিণামে ধ্বংস হয়েছিল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "I fear",
+      "meaning_bn": "আমি ভয় পাচ্ছি",
+      "why_en": "Shows the believer's genuine concern and compassion for his people."
+    },
+    {
+      "pos": 10,
+      "root": "حزب",
+      "lemma": "حِزْب",
+      "meaning_en": "the confederates / factions",
+      "meaning_bn": "সম্মিলিত দলসমূহ",
+      "why_en": "Past allied groups that banded together against divine truth."
+    }
+  ],
+  "lesson_en": "Joining together to fight the truth brings ruin to a nation.",
+  "lesson_bn": "সত্যের বিরুদ্ধে ঐক্যবদ্ধ হওয়া জাতিগত ধ্বংস ডেকে আনে।",
+  "real_life_en": "Learn from past mistakes of communities and individuals. Do not join crowds in doing what is wrong just because many people are doing it.",
+  "real_life_bn": "অতীতের মানুষের ভুল থেকে শিক্ষা নিন। অনেকে মিলে কোনো খারাপ কাজ করছে দেখলেই তাদের সাথে যোগ দেবেন না।",
+  "themes": [
+    "past nations",
+    "warning"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The believing man warned his people of a fate like that of past allied deniers.",
+      "claim_bn": "সেই মুমিন ব্যক্তি তার জাতিকে পূর্ববর্তী সম্মিলিত অবিশ্বাসী দলগুলোর ধ্বংসের মতো পরিণতির ব্যাপারে সতর্ক করেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

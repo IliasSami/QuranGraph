@@ -1,0 +1,111 @@
+{
+ "id": "2:196",
+ "simple_en": "Complete Hajj and Umrah purely for Allah. If sickness or an enemy stops you, offer an animal you can afford. Do not shave your head until the animal reaches the place of sacrifice. If you are sick and must shave early, pay a ransom by fasting, feeding the poor, or offering a sacrifice. If you enjoy Umrah before Hajj, offer an animal. If you cannot afford one, fast three days during Hajj and seven after you return home. Fear Allah and respect His commands.",
+ "simple_bn": "আল্লাহর সন্তুষ্টির উদ্দেশ্যে হজ্জ ও উমরাহর সমস্ত কাজ পরিপূর্ণভাবে আদায় করো। যদি কোনো অসুস্থতা বা শত্রুর বাধার কারণে তোমরা তা শেষ করতে না পারো, তবে সাধ্যমতো একটি পশু কুরবানী করো। সেই পশু নির্দিষ্ট স্থানে না পৌঁছানো পর্যন্ত মাথা মুণ্ডন করো না। কোনো ব্যক্তি যদি অসুস্থতার কারণে আগে মাথা মুণ্ডন করতে বাধ্য হয়, তবে সে রোজা, সদকা বা পশু কুরবানীর মাধ্যমে ফিদয়া দেবে। হজ্জের সময়ে যারা উমরাহ সেরে হজ্জের নিয়ত করবে, তারা সাধ্যমতো কুরবানী দেবে। আর কুরবানী দিতে না পারলে হজ্জের সময়ে তিন দিন এবং বাড়ি ফিরে সাত দিন রোজা রাখবে। এই নিয়ম তাদের জন্য, যাদের পরিবার মক্কার অধিবাসী নয়। আল্লাহকে ভয় করো এবং জেনে রেখো তাঁর শাস্তি অত্যন্ত কঠিন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "تمم",
+   "lemma": "أَتَمَّ",
+   "meaning_en": "complete fully",
+   "meaning_bn": "পরিপূর্ণভাবে সম্পন্ন করো",
+   "why_en": "Commands carrying out all required pillars and duties of Hajj and Umrah with sincere perfection."
+  },
+  {
+   "pos": 10,
+   "root": "هدي",
+   "lemma": "هَدْي",
+   "meaning_en": "sacrificial offering",
+   "meaning_bn": "হাদি (কুরবানীর পশু)",
+   "why_en": "Refers to cattle, sheep, or camels brought or offered in the sacred sanctuary."
+  },
+  {
+   "pos": 27,
+   "root": "فدي",
+   "lemma": "فِدْيَة",
+   "meaning_en": "ransom / compensation",
+   "meaning_bn": "ফিদয়া (বিনিময় ক্ষতিপূরণ)",
+   "why_en": "The expiation required if a pilgrim must shave their head early due to medical need."
+  },
+  {
+   "pos": 37,
+   "root": "متع",
+   "lemma": "تَمَتَّعَ",
+   "meaning_en": "takes advantage / performs Tamattu'",
+   "meaning_bn": "তামাত্তু করে (সুবিধা গ্রহণ করে)",
+   "why_en": "Refers to performing Umrah during the Hajj months and exiting ihram before assuming ihram for Hajj."
+  }
+ ],
+ "lesson_en": "Do your worship with a pure heart, and use the easy ways Allah gives when hard times come.",
+ "lesson_bn": "ইবাদত আন্তরিকভাবে পরিপূর্ণ করার চেষ্টা করুন এবং অপারগতায় আল্লাহ যে সহজ বিধান দিয়েছেন তা কৃতজ্ঞতার সাথে পালন করুন।",
+ "real_life_en": "When a person goes for Hajj or Umrah, they learn the rules with care before leaving home. If they get sick or face long travel delays, they do not lose hope or break the rules. They ask a trusted teacher for help, follow the easy options Allah allows, and stay calm.",
+ "real_life_bn": "হজ্জ বা উমরাহ করতে যাওয়ার আগে একজন মুমিন সংশ্লিষ্ট নিয়মকানুন ভালোভাবে জেনে নেন। যাত্রাপথে হঠাৎ অসুস্থতা বা অনিবার্য জটিলতা দেখা দিলে অধৈর্য না হয়ে আলেমদের পরামর্শ অনুযায়ী শরীয়তের ছাড় গ্রহণ করেন এবং অত্যন্ত নিষ্ঠার সাথে ইবাদত পূর্ণ করেন।",
+ "context_en": "Establishes the foundational rules for Hajj and Umrah, addressing constraints during pilgrimage and the concession of Tamattu'.",
+ "context_bn": "হজ্জ ও উমরাহ পূর্ণ করার নির্দেশ, অসুস্থতা বা বাধাজনিত পরিস্থিতিতে করণীয় এবং হজ্জে তামাত্তুর ধারাবাহিক বিধান এখানে বিধিবদ্ধ হয়েছে।",
+ "themes": [
+  "hajj",
+  "worship",
+  "patience",
+  "taqwa",
+  "Allah's mercy"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "al-Masjid al-Haram",
+   "Makkah"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Pilgrims are commanded to complete the rites of both Hajj and Umrah purely for Allah once begun.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "If prevented from completing the pilgrimage by an obstacle, a pilgrim must sacrifice an available animal before shaving and exiting ihram.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "A pilgrim needing to shave early due to illness must pay a ransom (fidya) through fasting, charity, or sacrifice.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Performing Tamattu' (combining Umrah and Hajj in one journey) requires a sacrifice, or ten days of fasting (three in Hajj, seven upon return) if unavailable, applicable to non-residents of Makkah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

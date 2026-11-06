@@ -1,0 +1,97 @@
+{
+ "id": "5:3",
+ "simple_en": "Allah forbids eating animals that die on their own. He forbids spilled blood, pork, and meat killed for idols. Animals that die from blows, falls, or wild beasts are also forbidden. But if you slaughter them before they die, they are lawful. Using arrows to tell the future is forbidden. Today, disbelievers give up on defeating your faith. Today, Allah perfected your religion and completed His blessings upon you. He chose Islam as your way of life. If severe hunger forces you to eat, Allah is Most Merciful.",
+ "simple_bn": "তোমাদের জন্য হারাম করা হয়েছে মৃত পশু, প্রবাহিত রক্ত, শূকরের মাংস এবং আল্লাহর নাম ছাড়া অন্যের নামে জবাই করা প্রাণী। শ্বাসরোধে, আঘাতে, ওপর থেকে পড়ে, গুঁতো খেয়ে বা হিংস্র পশুর আক্রমণে মরে যাওয়া পশুও হারাম; তবে জীবিত পেয়ে জবাই করতে পারলে তা বৈধ। মূর্তিপূজার বেদিতে জবাই করা এবং তীরের সাহায্যে ভাগ্য নির্ধারণ করাও পাপ। আজ কাফিররা তোমাদের দ্বীন ধ্বংস করতে নিরাশ হয়েছে। আজ আমি তোমাদের দ্বীনকে পূর্ণাঙ্গ করলাম, আমার অনুগ্রহ সম্পূর্ণ করলাম এবং ইসলামকে তোমাদের দ্বীন হিসেবে মনোনীত করলাম। চরম ক্ষুধার কারণে বাধ্য হলে, পাপের ইচ্ছা ছাড়া খেলে আল্লাহ ক্ষমাশীল ও পরম দয়ালু।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "موت",
+   "lemma": "مَيْتَة",
+   "meaning_en": "carrion (dead animals)",
+   "meaning_bn": "মৃত পশু",
+   "why_en": "Animals that die naturally or through trauma without lawful slaughter are strictly forbidden."
+  },
+  {
+   "pos": 41,
+   "root": "كمل",
+   "lemma": "أَكْمَلْ",
+   "meaning_en": "I perfected",
+   "meaning_bn": "আমি পূর্ণাঙ্গ করলাম",
+   "why_en": "Declares the divine completion and perfection of Islamic faith and guidance."
+  },
+  {
+   "pos": 49,
+   "root": "سلم",
+   "lemma": "إِسْلام",
+   "meaning_en": "Islam",
+   "meaning_bn": "ইসলাম",
+   "why_en": "The final, complete religion chosen and approved by Allah for all humanity."
+  }
+ ],
+ "lesson_en": "Islam is complete and perfect. Always consume what is pure and lawful.",
+ "lesson_bn": "ইসলাম আল্লাহর মনোনীত পূর্ণাঙ্গ জীবনবিধান। তাই সর্বদা পবিত্র ও হালাল খাবার গ্রহণ করুন।",
+ "real_life_en": "Check food labels when you shop. Buy only halal meat and stay away from pork. Clean food keeps your body healthy and makes your prayers pure.",
+ "real_life_bn": "বাজার থেকে মাংস কেনার সময় সেটি সঠিকভাবে জবাই করা হালাল কি না তা নিশ্চিত করুন। শূকরের মাংস ও হারাম উপাদান পরিহার করুন। পবিত্র খাদ্য গ্রহণ শরীরকে সুস্থ রাখে এবং ইবাদত কবুল হতে সাহায্য করে।",
+ "context_en": "Details forbidden meats and dietary rules, followed by the momentous announcement of the completion of Islam during the Farewell Pilgrimage.",
+ "context_bn": "হারাম খাদ্যের বিস্তারিত বিবরণ এবং বিদায় হজের ঐতিহাসিক মুহূর্তে দ্বীন ইসলাম পূর্ণাঙ্গ হওয়ার মহান ঘোষণার বর্ণনা।",
+ "themes": [
+  "halal and haram",
+  "perfection of Islam",
+  "dietary laws",
+  "mercy of Allah",
+  "tawhid"
+ ],
+ "kinds": [
+  "prohibition",
+  "law",
+  "glad-tidings",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Ghafur",
+   "Ar-Rahim"
+  ],
+  "events": [
+   "Farewell Pilgrimage"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Dead animals, blood, pork, animals dedicated to idols, and those dying by strangulation or impact are forbidden unless lawfully slaughtered while alive.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah has perfected the religion of Islam, completed His blessings upon the believers, and chosen Islam as their way of life.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "A person driven by extreme hunger may eat from forbidden food to save life without seeking sin, for Allah is Forgiving and Merciful.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

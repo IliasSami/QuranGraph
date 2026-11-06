@@ -1,0 +1,86 @@
+{
+  "id": "48:25",
+  "simple_en": "The disbelievers denied the truth and blocked you from the Sacred Mosque. They also stopped your sacrificial animals from reaching their proper place. Allah held you back from battle because there were hidden Muslim men and women living in Makkah. If you had attacked, you might have harmed them without knowing it. Allah spared Makkah so that He could bring whom He willed into His mercy.",
+  "simple_bn": "কাফিররা সত্যকে অস্বীকার করেছিল এবং তোমাদের মসজিদুল হারামে প্রবেশ করতে বাধা দিয়েছিল। তারা তোমাদের কুরবানীর পশুকেও নির্দিষ্ট স্থানে পৌঁছাতে দেয়নি। আল্লাহ তখন যুদ্ধ করতে দেননি কারণ মক্কায় কিছু গোপন ঈমানদার পুরুষ ও নারী বাস করছিলেন। আক্রমণ হলে তোমরা না জেনে তাদের ক্ষতি করে ফেলতে পারতে। আল্লাহ যাদের ইচ্ছা স্বীয় রহমতে প্রবেশ করানোর জন্যই তখন রক্তপাত এড়ান।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "صدد",
+      "lemma": "صَدَّ",
+      "meaning_en": "they obstructed / kept back",
+      "meaning_bn": "তারা বাধা দিয়েছিল",
+      "why_en": "It condemns Quraysh for blocking Muslims from worship at the Kabah."
+    },
+    {
+      "pos": 6,
+      "root": "سجد",
+      "lemma": "مَسْجِد",
+      "meaning_en": "the Mosque (al-Haram)",
+      "meaning_bn": "মসজিদ",
+      "why_en": "The holy sanctuary that should be open to all worshipers of Allah."
+    },
+    {
+      "pos": 8,
+      "root": "هدي",
+      "lemma": "هَدْي",
+      "meaning_en": "the sacrificial animals",
+      "meaning_bn": "কুরবানীর পশু",
+      "why_en": "The animals brought for sacrifice during Umrah."
+    },
+    {
+      "pos": 24,
+      "root": "عرر",
+      "lemma": "مَعَرَّة",
+      "meaning_en": "harm / sin / distress",
+      "meaning_bn": "ক্ষতি বা পাপ",
+      "why_en": "It points out the harm of accidentally hurting innocent believers."
+    }
+  ],
+  "lesson_en": "Allah protects weak and hidden believers from harm.",
+  "lesson_bn": "সমাজে লুকিয়ে থাকা দুর্বল ও নিরীহ মুমিনদেরও আল্লাহ বিশেষ করুণায় হেফাজত করেন।",
+  "real_life_en": "Be careful with your words and actions in large groups. Never act with reckless force, because you might hurt good people without realizing it. Think about the hidden feelings of others.",
+  "real_life_bn": "সমাজ বা কর্মক্ষেত্রে কোনো সিদ্ধান্ত নেওয়ার সময় সতর্ক থাকুন। এমন কোনো কঠোর পদক্ষেপ নেবেন না যাতে অজান্তে কোনো নির্দোষ মানুষ ক্ষতিগ্রস্ত হয়।",
+  "themes": [
+    "mercy",
+    "justice",
+    "hajj",
+    "the believers' qualities"
+  ],
+  "kinds": [
+    "warning",
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "quraysh"
+    ],
+    "places": [
+      "makkah",
+      "kaabah"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelievers prevented Muslims and their sacrificial animals from reaching the Sacred Mosque, and Allah prevented war to protect hidden believers in Makkah.",
+      "claim_bn": "কাফিররা মুসলমানদের এবং কুরবানীর পশুকে মসজিদুল হারামে যেতে বাধা দেয়, আর মক্কার অপ্রকাশ্য মুমিনদের রক্ষার স্বার্থে আল্লাহ যুদ্ধ আটকে দেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

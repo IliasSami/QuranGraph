@@ -1,0 +1,85 @@
+{
+  "id": "6:42",
+  "simple_en": "Allah sent messengers to many nations before the Prophet Muhammad ﷺ. When those nations rejected the message, Allah tested them with severe poverty and painful illness. These trials were not meant to crush them without reason. They were a reminder to humble their hearts and turn back to their Lord.",
+  "simple_bn": "নবী মুহাম্মদ ﷺ-এর পূর্বেও আল্লাহ বহু জাতির কাছে রাসূল পাঠিয়েছেন। কিন্তু সেই জাতিগুলো যখন সত্য প্রত্যাখ্যান করল, তখন আল্লাহ তাদেরকে অভাব-অনটন ও রোগব্যাধি দিয়ে পাকড়াও করলেন। এই দুঃখ-কষ্ট দেওয়ার উদ্দেশ্য ছিল, যেন তারা অহংকার ত্যাগ করে বিনীত হয়ে আল্লাহর কাছে ফিরে আসে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "We sent",
+      "meaning_bn": "আমরা পাঠিয়েছি",
+      "why_en": "Reminds that Allah sent guidance through messengers to past nations."
+    },
+    {
+      "pos": 8,
+      "root": "بأس",
+      "lemma": "بَأْساء",
+      "meaning_en": "with extreme poverty",
+      "meaning_bn": "অর্থসংকট ও অভাব দিয়ে",
+      "why_en": "Refers to material hardship sent as a wake-up call."
+    },
+    {
+      "pos": 11,
+      "root": "ضرع",
+      "lemma": "يَتَضَرَّعُ",
+      "meaning_en": "they humble themselves",
+      "meaning_bn": "তারা অনুনয়-বিনয় করে",
+      "why_en": "The intended purpose of trials is to break human pride and bring humility."
+    }
+  ],
+  "lesson_en": "Hardship is often a wake-up call. It urges people to abandon pride and seek Allah with humble prayers.",
+  "lesson_bn": "বিপদ-আপদ অনেক সময় সতর্কবার্তা হিসেবে আসে। তা মানুষের অহংকার চূর্ণ করে বিনয়ের সাথে আল্লাহর দিকে ফিরে যেতে শেখায়।",
+  "real_life_en": "When money problems or illness affect your home, do not become bitter or resentful. Treat difficult times as an invitation to pray more deeply. Turn to Allah with sincere repentance and seek His help.",
+  "real_life_bn": "সংসারে আর্থিক টানাটানি কিংবা পরিবারের কারো অসুস্থতা দেখা দিলে ধৈর্য হারাবেন না। এগুলোকে আল্লাহর কাছে ফেরার সুযোগ হিসেবে গ্রহণ করুন। নিজের ভুলত্রুটির জন্য ক্ষমা চেয়ে বিনম্র মনে তাঁর সাহায্য প্রার্থনা করুন।",
+  "context_en": "Allah consoles the Prophet ﷺ by explaining that earlier nations also opposed their messengers and were tested with adversity.",
+  "context_bn": "পূর্ববর্তী জাতিগুলোও কীভাবে নবীদের প্রত্যাখ্যান করেছিল এবং পরীক্ষায় পড়েছিল, তা জানিয়ে আল্লাহ তাঁর রাসূল ﷺ-কে সান্ত্বনা দিচ্ছেন।",
+  "themes": [
+    "trials",
+    "patience",
+    "humility",
+    "past nations",
+    "dua"
+  ],
+  "kinds": [
+    "warning",
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "past nations"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah sent messengers to earlier nations who denied the message of truth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Allah tested past communities with hardship, poverty, and disease so that they would humble themselves before Him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

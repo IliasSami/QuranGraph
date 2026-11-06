@@ -1,0 +1,63 @@
+{
+  "id": "56:43",
+  "simple_en": "They will sit under the shadow of thick black smoke from Hellfire. Instead of offering relief from the heat, this smoke chokes their throats and burns their eyes. It only adds to their suffering.",
+  "simple_bn": "তারা জাহান্নামের আগুনের ঘন কালো ধোঁয়ার ছায়াতলে থাকবে। এই ছায়া উত্তাপ থেকে কোনো স্বস্তি দেওয়ার বদলে তাদের দম বন্ধ করে দেবে এবং চোখ জ্বালাতন করবে। এটি তাদের যন্ত্রণাকে আরও বহুগুণ বাড়িয়ে দেবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ظلل",
+      "lemma": "ظِلّ",
+      "meaning_en": "shadow or canopy",
+      "meaning_bn": "ছায়া",
+      "why_en": "Used ironically for a suffocating cloud of smoke rather than cool shade."
+    },
+    {
+      "pos": 3,
+      "root": "حمم",
+      "lemma": "يَحْمُوم",
+      "meaning_en": "black smoke",
+      "meaning_bn": "ঘন কালো ধোঁয়া",
+      "why_en": "Describes thick, dark, and suffocating fumes rising from the Fire."
+    }
+  ],
+  "lesson_en": "Earthly wealth cannot save anyone from the pain of Hell.",
+  "lesson_bn": "আল্লাহর অবাধ্যতার শাস্তি থেকে পার্থিব কোনো ছায়া বা সম্পদ মানুষকে বাঁচাতে পারে না।",
+  "real_life_en": "People coughing in heavy smog close their windows and wish for fresh air. But in Hell, wrongdoers find only suffocating black fumes with no escape. A wise person turns to Allah for true safety.",
+  "real_life_bn": "ধোঁয়ায় বাতাস দূষিত হলে মানুষ শ্বাসকষ্টে ভোগে এবং একটু বিশুদ্ধ বাতাসের জন্য ছটফট করে। জাহান্নামে অবাধ্যদের জন্য কেবল শ্বাসরুদ্ধকর কালো ধোঁয়া থাকবে। তাই সময় থাকতেই আল্লাহর দিকে ফেরা উচিত।",
+  "themes": [
+    "Hell",
+    "punishment",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Companions of the Left will be covered by the shade of thick black smoke.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

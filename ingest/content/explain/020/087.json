@@ -1,0 +1,79 @@
+{
+  "id": "20:87",
+  "simple_en": "The people made excuses: We did not break your promise by our own will. We were burdened with Egyptian gold ornaments, so we threw them, and the Samiri cast too.",
+  "simple_bn": "তারা অজুহাত দিয়ে বলল: আমরা স্বেচ্ছায় আপনার অঙ্গীকার ভঙ্গ করিনি। আমাদের ওপর মিসরীয়দের অলঙ্কারের বোঝা ছিল, যা আমরা আগুনে ফেলে দিই এবং সামিরিও কিছু ফেলে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "ملك",
+      "lemma": "مَلْك",
+      "meaning_en": "our own free will",
+      "meaning_bn": "আমাদের নিজস্ব ইচ্ছা বা ক্ষমতায়",
+      "why_en": "Attempting to shift personal blame to external pressure."
+    },
+    {
+      "pos": 8,
+      "root": "وزر",
+      "lemma": "أَوْزَار",
+      "meaning_en": "burdens or heavy loads",
+      "meaning_bn": "ভারী বোঝা বা অলঙ্কার",
+      "why_en": "Gold ornaments borrowed from Egyptian neighbors."
+    },
+    {
+      "pos": 12,
+      "root": "قذف",
+      "lemma": "قَذَفَ",
+      "meaning_en": "we cast them into fire",
+      "meaning_bn": "আমরা তা আগুনে নিক্ষেপ করলাম",
+      "why_en": "Melting down metal under Samiri's supervision."
+    }
+  ],
+  "lesson_en": "People blame others when they sin. Take honest blame for your own bad choices.",
+  "lesson_bn": "মানুষ পাপের মুখোমুখি হলে প্রায়ই পরিবেশ বা পরিস্থিতির ওপর দোষ চাপিয়ে আত্মপক্ষ সমর্থনের চেষ্টা করে।",
+  "real_life_en": "Do not make excuses when you fail. Stand up, say sorry, and fix what you broke.",
+  "real_life_bn": "নিজের ভুলের দায় নিজে নিন। অজুহাত দিয়ে নিজেকে নির্দোষ প্রমাণের চেষ্টা না করে ভুল স্বীকার ও সংশোধন করুন।",
+  "themes": [
+    "making-excuses",
+    "golden-calf",
+    "responsibility"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Samiri"
+    ],
+    "nations": [
+      "Bani Isra'il"
+    ],
+    "places": [
+      "Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Making of Calf"
+    ],
+    "things": [
+      "gold ornaments"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Israelites claimed they only cast the borrowed gold ornaments, which the Samiri then shaped.",
+      "claim_bn": "বনি ইসরাইল দাবি করেছিল যে তারা কেবল অলঙ্কারগুলো আগুনে ফেলেছিল এবং সামিরি তা রূপদান করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

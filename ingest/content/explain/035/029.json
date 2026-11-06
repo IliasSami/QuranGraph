@@ -1,0 +1,73 @@
+{
+  "id": "35:29",
+  "simple_en": "Some believers recite the Book of Allah and follow its guidance. They keep up regular prayer every day. They give charity in secret and in public. These people look forward to a gainful trade that will never fail.",
+  "simple_bn": "যারা আল্লাহর কিতাব তিলাওয়াত করে এবং সালাত কায়েম করে, তারা আল্লাহর প্রিয় বান্দা। তারা প্রদত্ত রিযিক থেকে গোপনে ও প্রকাশ্যে ব্যয় করে এমন এক ব্যবসার প্রত্যাশা করে, যা কখনো লোকসানে পড়বে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "they recite",
+      "meaning_bn": "তারা তিলাওয়াত করে",
+      "why_en": "Reciting and reflecting upon the divine message with reverence."
+    },
+    {
+      "pos": 6,
+      "root": "قوم",
+      "lemma": "أَقامَ",
+      "meaning_en": "they establish",
+      "meaning_bn": "তারা কায়েম করে",
+      "why_en": "Performing prayers properly at their correct times with devotion."
+    },
+    {
+      "pos": 13,
+      "root": "رجو",
+      "lemma": "يَرْجُوا۟",
+      "meaning_en": "a trade / commerce",
+      "meaning_bn": "বাণিজ্য বা ব্যবসা",
+      "why_en": "Metaphor for righteous actions yielding guaranteed eternal profit with God."
+    }
+  ],
+  "lesson_en": "Reciting the Quran, praying on time, and giving charity are investments that never lose value.",
+  "lesson_bn": "কুরআন তিলাওয়াত, সালাত কায়েম এবং দান-সদকা এমন ব্যবসা যাতে কোনোদিন লোকসান নেই।",
+  "real_life_en": "Read a portion of the Quran every morning. Set aside a small amount of money each week for charity, whether people see it or not.",
+  "real_life_bn": "প্রতিদিন নিয়ম করে কিছু সময় কুরআন তিলাওয়াত করুন। সাধ্যমতো গোপনে দান করুন এবং সালাতের সময় সচেতন থেকে নামাজ আদায় করুন।",
+  "themes": [
+    "the Quran",
+    "prayer",
+    "charity",
+    "spiritual-cure",
+    "worship"
+  ],
+  "kinds": [
+    "promise",
+    "worship"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Those who recite Allah's Book, pray, and spend in charity expect an unfailing spiritual trade with Allah.",
+      "claim_bn": "যারা কুরআন পাঠ করে, সালাত পড়ে এবং গোপনে ও প্রকাশ্যে দান করে তারা লোকসানহীন বাণিজ্যের আশা করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

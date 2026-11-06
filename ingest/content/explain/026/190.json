@@ -1,0 +1,65 @@
+{
+  "id": "26:190",
+  "simple_en": "In the destruction of Shu'ayb's people there is a clear sign for wise minds. Yet most of those people remained stubborn and refused to believe.",
+  "simple_bn": "শুআইবের কওমের এই ধ্বংসের মধ্যে চিন্তাশীলদের জন্য স্পষ্ট নিদর্শন রয়েছে। তা সত্ত্বেও তাদের অধিকাংশ মানুষ সত্যে বিশ্বাস স্থাপন করল না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "لَءَايَةً",
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "a sign",
+      "meaning_bn": "একটি নিদর্শন বা শিক্ষা",
+      "why_en": "The historical ruins serving as an enduring moral reminder."
+    },
+    {
+      "pos": 8,
+      "arabic": "مُّؤْمِنِينَ",
+      "root": "أمن",
+      "lemma": "مُؤْمِن",
+      "meaning_en": "believers",
+      "meaning_bn": "বিশ্বাসী বা ঈমানদার",
+      "why_en": "Notes that the majority of people failed to embrace faith."
+    }
+  ],
+  "lesson_en": "Historical ruins carry clear lessons. Yet many people ignore these signs and repeat past mistakes.",
+  "lesson_bn": "অতীতের ধ্বংসপ্রাপ্ত জনপদসমূহে মানুষের জন্য গভীর শিক্ষা রয়েছে। তবুও বহু মানুষ এই নিদর্শনগুলো থেকে শিক্ষা গ্রহণ করে না।",
+  "real_life_en": "Study history to learn from the mistakes of past nations. Let past lessons guide your moral choices today.",
+  "real_life_bn": "ইতিহাস থেকে শিক্ষা গ্রহণ করুন। পূর্ববর্তী অবাধ্য জাতিগুলোর পরিণতি দেখে নিজের জীবনকে সৎ পথে পরিচালিত করুন।",
+  "themes": [
+    "signs",
+    "reflection",
+    "history"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "In the destruction of Shu'ayb's people is a clear sign, yet most people did not believe.",
+      "claim_bn": "শুআইবের কওমের পরিণতির মধ্যে স্পষ্ট শিক্ষা রয়েছে, অথচ অধিকাংশ মানুষই ঈমান আনেনি।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

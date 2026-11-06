@@ -1,0 +1,63 @@
+{
+  "id": "37:95",
+  "simple_en": "Prophet Ibrahim (peace be upon him) faced the angry crowd with calm courage. He asked them how they could worship figures that they carved with their own hands. He used clear logic to show that a maker is greater than what he shapes.",
+  "simple_bn": "নবী ইবরাহীম (আলাইহিস সালাম) শান্ত সাহসের সাথে ক্রুদ্ধ জনতার মুখোমুখি হলেন। তিনি তাদের জিজ্ঞেস করলেন, যে মূর্তিগুলো তারা নিজের হাতে খোদাই করে তৈরি করেছে, সেগুলোরই তারা কীভাবে পূজা করে। তিনি স্পষ্ট যুক্তির মাধ্যমে তাদের অজ্ঞতা তুলে ধরলেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "do you worship",
+      "meaning_bn": "তোমরা কি ইবাদত করো",
+      "why_en": "Challenges the senseless act of worshipping sculpted objects."
+    },
+    {
+      "pos": 4,
+      "root": "نحت",
+      "lemma": "يَنْحِتُ",
+      "meaning_en": "you carve",
+      "meaning_bn": "তোমরা খোদাই করো",
+      "why_en": "Reminds them that they shaped the stones themselves."
+    }
+  ],
+  "lesson_en": "It is foolish to worship what human hands have made.",
+  "lesson_bn": "মানুষ নিজের হাতে যা বানায়, তার পূজা করা চরম নির্বুদ্ধিতার কাজ।",
+  "real_life_en": "Do not let the things you build, such as careers, titles, or wealth, become your main goal in life. Remember that your Creator is far greater than your achievements.",
+  "real_life_bn": "আপনার গড়া কর্মজীবন, পদবি বা বিত্তবৈভবকে জীবনের চূড়ান্ত লক্ষ্য বানাবেন না। মনে রাখবেন, আপনার স্রষ্টা আপনার সব অর্জনের চেয়ে অনেক বড়।",
+  "themes": [
+    "tawhid",
+    "idolatry",
+    "logic"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Ibrahim rebuked his people for worshipping idols that they themselves had carved out of stone.",
+      "claim_bn": "ইবরাহীম তাঁর সম্প্রদায়কে ভর্ৎসনা করে বললেন যে তারা কেন নিজেদের খোদাই করা মূর্তির পূজা করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

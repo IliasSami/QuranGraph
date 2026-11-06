@@ -1,0 +1,77 @@
+{
+  "id": "39:8",
+  "simple_en": "When hardship strikes a person, he prays earnestly to his Lord, turning to Him in humility. But when Allah grants him a blessing, he forgets the distress he cried about before. He even sets up rivals to lead people away from God. Such an ungrateful person will face the Fire.",
+  "simple_bn": "মানুষ যখন কোনো বিপদে পড়ে, তখন সে অত্যন্ত বিনম্র চিত্তে তার রবের দিকে ফিরে তাঁকে ডাকে। কিন্তু আল্লাহ যখন তাকে নিজের পক্ষ থেকে নিয়ামত দান করেন, তখন সে অতীতের সব বিপদ ভুলে যায়। এমনকি সে আল্লাহর শরিক বানিয়ে অন্যদের পথভ্রষ্ট করতে চায়। এমন অকৃতজ্ঞ ব্যক্তি জাহান্নামের শাস্তি ভোগ করবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ضرر",
+      "lemma": "ضُرّ",
+      "meaning_en": "adversity / harm",
+      "meaning_bn": "বিপদ বা দুঃখ-কষ্ট",
+      "why_en": "Shows how sickness and difficulty force people to realize their human weakness."
+    },
+    {
+      "pos": 7,
+      "root": "نوب",
+      "lemma": "مُنِيب",
+      "meaning_en": "turning in repentance",
+      "meaning_bn": "বিনীত হয়ে অভিমুখী হওয়া",
+      "why_en": "Describes the sudden repentance of the distressed soul seeking relief."
+    },
+    {
+      "pos": 23,
+      "root": "ندد",
+      "lemma": "أَنداد",
+      "meaning_en": "rivals / partners",
+      "meaning_bn": "সমকক্ষ বা অংশীদার",
+      "why_en": "Condemns taking false partners or crediting idols when relief arrives."
+    }
+  ],
+  "lesson_en": "True faith remains steady during comfort, not just during times of painful crisis.",
+  "lesson_bn": "প্রকৃত মুমিন কেবল বিপদের দিনেই নয়, বরং সুখের সময়েও আল্লাহর প্রতি আনুগত্যে অবিচল থাকে।",
+  "real_life_en": "When a severe problem ends, do not forget how much you prayed. Keep remembering Allah during good times just as you did during your hardship.",
+  "real_life_bn": "কঠিন সমস্যা কেটে গেলে সেই কাতর দোয়ার কথা ভুলে যাবেন না। বিপদের সময়ের মতোই আনন্দের দিনেও আল্লাহর শুকরিয়া ও ইবাদত অব্যাহত রাখুন।",
+  "themes": [
+    "human nature",
+    "adversity",
+    "ingratitude",
+    "sincerity"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah",
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Man cries to Allah in distress but forgets Him in prosperity, setting up rivals to mislead others.",
+      "claim_bn": "মানুষ বিপদে বিনীত হয়ে আল্লাহকে ডাকে কিন্তু সুখের দিনে ভুলে যায় এবং অন্যকে বিপথগামী করতে আল্লাহর সমকক্ষ দাঁড় করায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

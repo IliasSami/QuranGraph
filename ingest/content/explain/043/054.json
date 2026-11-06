@@ -1,0 +1,71 @@
+{
+ "id": "43:54",
+ "simple_en": "Pharaoh fooled his people with cheap tricks, and they obeyed him blindly. They gave up their reason and followed his corrupt commands. They were truly a corrupt and disobedient people.",
+ "simple_bn": "ফিরআউন কূটকৌশল দিয়ে নিজ জাতিকে বোকা বানিয়েছিল, আর তারাও অন্ধভাবে তার আনুগত্য করেছিল। তারা নিজেদের বিবেক বিসর্জন দিয়ে তার অন্যায় হুকুম মেনে নিয়েছিল। তারা আসলেই এক পাপাচারী জাতি ছিল।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "خفف",
+   "lemma": "اسْتَخَفَّ",
+   "meaning_en": "so he made light of (fooled)",
+   "meaning_bn": "অতএব সে বোকা বানাল বা তুচ্ছ করল",
+   "why_en": "Tyrants manipulate ignorant populations through deception and fear."
+  },
+  {
+   "pos": 3,
+   "root": "طوع",
+   "lemma": "أَطاعَ",
+   "meaning_en": "so they obeyed him",
+   "meaning_bn": "ফলে তারা তার আনুগত্য করল",
+   "why_en": "Blind submission to injustice makes followers complicit in tyranny."
+  },
+  {
+   "pos": 7,
+   "root": "فسق",
+   "lemma": "فاسِق",
+   "meaning_en": "defiantly disobedient",
+   "meaning_bn": "সীমালঙ্ঘনকারী বা ফাসিক",
+   "why_en": "They abandoned moral limits and left the obedience of Allah."
+  }
+ ],
+ "lesson_en": "Never obey anyone who tells you to disobey Allah.",
+ "lesson_bn": "আল্লাহর অবাধ্য হয়ে কোনো মানুষের অন্যায় আদেশ কখনো মানবেন না।",
+ "real_life_en": "If a boss or friend pressures you to lie or cheat, say no. Obeying Allah comes first, and no worldly leader has the right to demand sin.",
+ "real_life_bn": "কর্মক্ষেত্রে বা পরিবারে কেউ অনৈতিক বা অসৎ কাজ করতে বললে তা বিনয়ের সাথে প্রত্যাখ্যান করুন। আল্লাহর হুকুম সবার ওপরে।",
+ "themes": [
+  "justice",
+  "trials",
+  "hypocrisy"
+ ],
+ "kinds": [
+  "warning",
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "pharaoh"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Pharaoh deceived his people and they obeyed him in deviance, as they were a transgressing nation.",
+   "claim_bn": "ফিরআউন তার জাতিকে প্রতারিত করেছিল এবং তারাও অবাধ্য হয়ে তার পথ অনুসরণ করেছিল।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

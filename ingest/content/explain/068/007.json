@@ -1,0 +1,71 @@
+{
+  "id": "68:7",
+  "simple_en": "Your Lord knows best who has strayed from His straight path, and He knows best who is guided. Nothing escapes His sight, and He will judge every person according to their deeds.",
+  "simple_bn": "নিশ্চয় আপনার প্রতিপালক ভালোভাবেই জানেন কে তাঁর পথ থেকে বিচ্যুত হয়েছে এবং তিনি সৎপথপ্রাপ্তদের সম্পর্কেও সম্যক অবগত। কোনো কিছুই তাঁর জ্ঞানের বাইরে নয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "your Lord",
+      "meaning_bn": "আপনার প্রতিপালক",
+      "why_en": "Reminds that Allah watches over every person's moral direction."
+    },
+    {
+      "pos": 4,
+      "root": "علم",
+      "lemma": "أَعْلَم",
+      "meaning_en": "knows best",
+      "meaning_bn": "সর্বাপেক্ষা অবগত",
+      "why_en": "Affirms complete divine awareness of who accepts guidance and who rejects it."
+    },
+    {
+      "pos": 6,
+      "root": "ضلل",
+      "lemma": "ضَلَّ",
+      "meaning_en": "strayed from the path",
+      "meaning_bn": "বিচ্যুত হয়েছে",
+      "why_en": "Identifies those who chose misguidance over truth."
+    }
+  ],
+  "lesson_en": "Leave the final judgment of people to God, who knows all hearts perfectly.",
+  "lesson_bn": "কে সঠিক পথে আছে আর কে বিপথে, তার চূড়ান্ত ফায়সালা সর্বজ্ঞ আল্লাহর ওপর ছেড়ে দেওয়া উচিত।",
+  "real_life_en": "Two neighbors argue over who is more religious. A wise elder reminds them not to boast or pass judgment on each other. God alone knows the sincerity of every heart.",
+  "real_life_bn": "অন্যকে বিচার বা দোষারোপ না করে নিজের আমল ঠিক রাখার দিকে মনোযোগ দেওয়া উচিত। কে খাঁটি বিশ্বাসী তা একমাত্র আল্লাহই সবচেয়ে ভালো জানেন।",
+  "themes": [
+    "Allah's knowledge",
+    "guidance",
+    "misguidance"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah is best aware of who deviates from His path and who remains rightly guided.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

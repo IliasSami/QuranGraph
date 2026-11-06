@@ -1,0 +1,76 @@
+{
+  "id": "20:63",
+  "simple_en": "They said to one another: These two men are magicians. They seek to drive you from your land and abolish your exemplary, cherished way of life.",
+  "simple_bn": "তারা একে অপরকে বলল: এই দুজন নিশ্চিতভাবেই জাদুকর। তারা তোমাদের দেশ থেকে বের করে দিতে চায় এবং তোমাদের আদর্শ জীবনব্যবস্থা ধ্বংস করতে চায়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "سحر",
+      "lemma": "سَٰحِر",
+      "meaning_en": "magicians or sorcerers",
+      "meaning_bn": "জাদুকরদ্বয়",
+      "why_en": "Dismissing Moses and Aaron as political deceivers."
+    },
+    {
+      "pos": 12,
+      "root": "طرق",
+      "lemma": "طَرِيقَة",
+      "meaning_en": "your way of life or culture",
+      "meaning_bn": "তোমাদের জীবনপদ্ধতি বা প্রথা",
+      "why_en": "Appealing to national heritage and tradition."
+    },
+    {
+      "pos": 13,
+      "root": "مثل",
+      "lemma": "مُثْلَىٰ",
+      "meaning_en": "exemplary and honored",
+      "meaning_bn": "সর্বোত্তম বা আদর্শ",
+      "why_en": "Glorifying their pagan system to rally support."
+    }
+  ],
+  "lesson_en": "Defenders of wrong use fear. They claim that moral change will destroy their culture.",
+  "lesson_bn": "অন্যায় ব্যবস্থার রক্ষকেরা নিজেদের কায়েমি স্বার্থ বাঁচাতে প্রায়ই ঐতিহ্য ও জাতীয়তাবাদের দোহাই দেয়।",
+  "real_life_en": "Do not protect bad habits just because they are old. Follow what is right and fair for all.",
+  "real_life_bn": "কেবল রীতিনীতি বলে অবিচারকে সমর্থন করবেন না। সত্য, ন্যায় ও ইনসাফের মাপকাঠিতে সকল বিষয় যাচাই করুন।",
+  "themes": [
+    "cultural-resistance",
+    "magicians",
+    "nationalism"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Harun"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Egyptian elite claimed Moses and Aaron were magicians seeking to destroy their respected way of life.",
+      "claim_bn": "মিসরীয়রা দাবি করেছিল মূসা ও হারুন জাদুকর যারা তাদের প্রচলিত সংস্কৃতি ও ক্ষমতা ধ্বংস করতে চায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

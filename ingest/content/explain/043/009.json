@@ -1,0 +1,73 @@
+{
+ "id": "43:9",
+ "simple_en": "If you ask the idolaters who created the heavens and the earth, they admit that Allah did. They say the Almighty, the All-Knowing created them. Yet despite knowing this truth, they worship false partners.",
+ "simple_bn": "আপনি যদি মুশরিকদের জিজ্ঞেস করেন যে আসমান ও যমীন কে সৃষ্টি করেছে, তবে তারা স্বীকার করে যে মহাপরাক্রমশালী ও সর্বজ্ঞ আল্লাহই এগুলো সৃষ্টি করেছেন। অথচ এই সত্য জানা সত্ত্বেও তারা অন্যদের অংশীদার বানায়।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "created",
+   "meaning_bn": "সৃষ্টি করেছেন",
+   "why_en": "Acknowledging the Creator implies that only He deserves true worship."
+  },
+  {
+   "pos": 9,
+   "root": "عزز",
+   "lemma": "عَزِيز",
+   "meaning_en": "the Almighty",
+   "meaning_bn": "পরাক্রমশালী",
+   "why_en": "Al-Aziz possesses supreme power that none can overcome."
+  },
+  {
+   "pos": 10,
+   "root": "علم",
+   "lemma": "عَلِيم",
+   "meaning_en": "the All-Knowing",
+   "meaning_bn": "সর্বজ্ঞাত",
+   "why_en": "Al-Alim knows every detail of His vast creation."
+  }
+ ],
+ "lesson_en": "Since Allah made all things, we must worship Him alone.",
+ "lesson_bn": "আল্লাহকে একমাত্র সৃষ্টিকর্তা হিসেবে মানলে কেবল তাঁরই আনুগত্য ও ইবাদত করা আবশ্যক।",
+ "real_life_en": "Keep your faith simple and sincere. Since Allah made the world, do not rely on lucky charms. Put your full trust in Him each day.",
+ "real_life_bn": "আপনার বিশ্বাসের সাথে কাজের মিল রাখুন। আল্লাহই যদি সবকিছুর স্রষ্টা হন, তবে কুসংস্কার বর্জন করে কেবল তাঁরই ওপর আস্থা রাখুন।",
+ "themes": [
+  "tawhid",
+  "creation",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "argument",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "al-aziz",
+   "al-alim",
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The disbelievers acknowledge that the heavens and earth were created by the Almighty, the All-Knowing.",
+   "claim_bn": "মুশরিকরা স্বীকার করত যে আসমান ও যমীন পরাক্রমশালী এবং সর্বজ্ঞ আল্লাহই সৃষ্টি করেছেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,82 @@
+{
+  "id": "6:25",
+  "simple_en": "Some people come and listen to you recite the Quran, but they gain no benefit. Because of their stubborn arrogance, coverings have been placed over their hearts. Their ears are blocked from hearing the truth with acceptance. Even if they see every great miracle, they refuse to believe. They only come to argue and dismiss the revelation as ancient tales.",
+  "simple_bn": "মুশরিকদের কেউ কেউ আপনার কাছে এসে কুরআন তিলাওয়াত শোনে, কিন্তু তারা তা থেকে হেদায়াত পায় না। তাদের হঠকারিতা ও একগুঁয়েমির কারণে তাদের অন্তরে পর্দা পড়ে গেছে এবং কানে বধিরতা তৈরি হয়েছে। তারা প্রতিটি সুস্পষ্ট নিদর্শন দেখার পরও বিশ্বাস করে না। তারা কেবল তর্ক করতে আসে এবং কুরআনকে পূর্ববর্তীদের রূপকথা বলে উড়িয়ে দিতে চায়।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "كنن",
+      "lemma": "أَكِنَّة",
+      "meaning_en": "coverings",
+      "meaning_bn": "আবরণসমূহ",
+      "why_en": "Refers to the spiritual veils covering stubborn hearts from understanding the truth."
+    },
+    {
+      "pos": 13,
+      "root": "وقر",
+      "lemma": "وَقْر",
+      "meaning_en": "deafness or heaviness",
+      "meaning_bn": "বধিরতা বা বোঝা",
+      "why_en": "Describes the blockage in ears that prevents beneficial listening."
+    },
+    {
+      "pos": 31,
+      "root": "سطر",
+      "lemma": "أَساطِير",
+      "meaning_en": "tales or myths",
+      "meaning_bn": "উপকথা বা রূপকথা",
+      "why_en": "The false label disbelievers gave to the Quran to dismiss its truth."
+    }
+  ],
+  "lesson_en": "Pride blinds the heart. Be humble so you can see the truth.",
+  "lesson_bn": "অহংকার মানুষের অন্তরকে সত্যের আলো থেকে বঞ্চিত ও অন্ধ করে দেয়।",
+  "real_life_en": "A man goes to a good talk just to mock the speaker. A closed mind stops him from learning any good thing. If you want to learn, listen with an open and humble heart.",
+  "real_life_bn": "কেউ কেউ ভালো আলোচনা শুনতে যায় কেবল খুঁত ধরে ব্যঙ্গ করার জন্য। মন আগে থেকেই বদ্ধ থাকলে কোনো কল্যাণ শেখা যায় না। জ্ঞান ও হেদায়াত পেতে হলে বিনয় ও খোলা মন নিয়ে শুনতে হয়।",
+  "context_en": "Describes stubborn disbelievers whose prejudice prevents them from understanding the Quran.",
+  "context_bn": "কুরআন শোনা সত্ত্বেও হঠকারিতা ও গোঁড়ামির কারণে হেদায়াতবঞ্চিত হওয়া মুশরিকদের স্বরূপ উন্মোচন করা হয়েছে।",
+  "themes": [
+    "guidance",
+    "arrogance",
+    "quran"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Some polytheists listen to Quranic recitation without benefiting because spiritual veils cover their hearts and deafness blocks their ears.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Despite witnessing every clear sign, stubborn disbelievers argue and dismiss the revelation as myths of earlier nations.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

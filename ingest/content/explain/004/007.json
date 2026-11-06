@@ -1,0 +1,81 @@
+{
+ "id": "4:7",
+ "simple_en": "Men have a fixed share in what parents and close kin leave behind. Women also have a fixed share in what parents and close kin leave behind. This share is set by Allah, whether the estate is small or large. In old times, women were denied inheritance. Islam gives everyone their rightful due.",
+ "simple_bn": "পিতামাতা ও নিকটাত্মীয়দের রেখে যাওয়া সম্পদে পুরুষদের একটি নির্ধারিত অংশ রয়েছে, আর পিতামাতা ও নিকটাত্মীয়দের রেখে যাওয়া সম্পদে নারীদেরও একটি নির্ধারিত অংশ রয়েছে। সেই সম্পদ কম হোক কিংবা বেশি, এই অংশ আল্লাহর পক্ষ থেকে নির্ধারিত ও অলঙ্ঘনীয়। ইসলামপূর্ব জাহেলি যুগে নারীদের বঞ্চিত করা হতো, কিন্তু ইসলাম তাদের ন্যায্য অধিকার নিশ্চিত করেছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نصب",
+   "lemma": "نَصِيب",
+   "meaning_en": "a share",
+   "meaning_bn": "একটি অংশ",
+   "why_en": "Establishes that both men and women have a guaranteed, independent legal entitlement in inheritance."
+  },
+  {
+   "pos": 6,
+   "root": "قرب",
+   "lemma": "أَقْرَب",
+   "meaning_en": "close relatives",
+   "meaning_bn": "নিকটাত্মীয়",
+   "why_en": "Property left by deceased parents and close family members belongs to rightful heirs."
+  },
+  {
+   "pos": 19,
+   "root": "فرض",
+   "lemma": "مَفْرُوض",
+   "meaning_en": "made obligatory (ordained)",
+   "meaning_bn": "নির্ধারিত ও অলঙ্ঘনীয়",
+   "why_en": "These shares are a binding duty fixed by Allah, not left to human preferences."
+  }
+ ],
+ "lesson_en": "Both men and women have a right to inheritance that no one can take away.",
+ "lesson_bn": "নারী ও পুরুষ উভয়েরই উত্তরাধিকারে অলঙ্ঘনীয় অধিকার রয়েছে যা কেউ অস্বীকার বা খর্ব করতে পারে না।",
+ "real_life_en": "When dividing family wealth, follow divine guidance strictly. Never leave out daughters or sisters, no matter the size of the estate. Depriving women of their share is a great sin.",
+ "real_life_bn": "পারিবারিক সম্পত্তি বণ্টনের সময় আল্লাহর বিধান অনুযায়ী প্রত্যেক ওয়ারিশকে তার প্রাপ্য বুঝিয়ে দিন। সম্পত্তি কম হোক বা বেশি, মেয়ে বা বোনদের কখনো তাদের ন্যায্য অংশ থেকে বঞ্চিত করবেন না। নারীদের উত্তরাধিকার অস্বীকার করা মারাত্মক অন্যায়।",
+ "themes": [
+  "wealth",
+  "justice",
+  "family",
+  "women",
+  "law"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Men and women both have an ordained, fixed share of what parents and close relatives leave behind, whether the estate is little or much.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "This share is an obligation decreed by Allah, ending the pre-Islamic practice of excluding women and young children from inheritance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

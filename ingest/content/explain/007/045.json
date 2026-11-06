@@ -1,0 +1,81 @@
+{
+  "id": "7:45",
+  "simple_en": "These wrongdoers blocked people from the path of Allah. They tried hard to make the straight path look crooked. They wanted to lead others astray and cause doubt. Most of all, they refused to believe in the Last Day.",
+  "simple_bn": "এই যালিমরা মানুষকে আল্লাহর দ্বীন থেকে বিরত রাখত এবং নিজেরাও তা এড়িয়ে চলত। তারা সরল ও সঠিক পথকে বাঁকা দেখাতে চাইত, যাতে মানুষ সত্য পথ অনুসরণ না করে। অধিকন্তু তারা পরকালের জবাবদিহিতাকে সম্পূর্ণ অস্বীকার করত এবং এর জন্য কোনো প্রস্তুতি নিত না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "صدد",
+      "lemma": "صَدَّ",
+      "meaning_en": "they avert / hinder",
+      "meaning_bn": "তারা বাধা দেয় / বিরত রাখে",
+      "why_en": "Points out their harmful effort to block people from following the truth."
+    },
+    {
+      "pos": 7,
+      "root": "عوج",
+      "lemma": "عِوَج",
+      "meaning_en": "crookedness",
+      "meaning_bn": "বক্রতা / জটিলতা",
+      "why_en": "Describes how they try to make the straight path of Allah appear crooked and objectionable."
+    },
+    {
+      "pos": 10,
+      "root": "كفر",
+      "lemma": "كافِر",
+      "meaning_en": "disbelievers",
+      "meaning_bn": "অস্বীকারকারী",
+      "why_en": "Identifies their root flaw: denying accountability and life after death."
+    }
+  ],
+  "lesson_en": "Never block others from doing good. Keep strong faith in the Day of Judgment.",
+  "lesson_bn": "সত্যের পথকে বিকৃত করবেন না এবং কাউকে ভালো কাজে বাধা দেবেন না। পরকালের প্রতি দৃঢ় বিশ্বাস রাখুন।",
+  "real_life_en": "A person posts fake stories online to make religion look bad. Misleading others brings heavy blame. We should share truth and invite people to what is right.",
+  "real_life_bn": "সামাজিক যোগাযোগ মাধ্যমে বিভ্রান্তিকর তথ্য ছড়িয়ে তরুণদের ধর্মীয় অনুশাসন থেকে দূরে সরিয়ে দেওয়া অত্যন্ত ক্ষতিকর। কাউকে ভালো পথে বাধা না দিয়ে বরং কল্যাণ ও সত্যের পথে উৎসাহিত করা উচিত।",
+  "context_en": "This ayah defines the wrongdoers upon whom the curse was proclaimed in the previous verse.",
+  "context_bn": "পূর্ববর্তী আয়াতে যাদের ওপর আল্লাহর অভিসম্পাত ঘোষণা করা হয়েছে, এখানে তাদের প্রধান অপরাধগুলো চিহ্নিত করা হয়েছে।",
+  "themes": [
+    "misguidance",
+    "disbelief",
+    "the Last Day",
+    "justice"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The wrongdoers turn people away from Allah's path and seek to make it appear crooked.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "They firmly deny the reality of the Hereafter and the Resurrection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

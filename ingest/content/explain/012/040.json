@@ -1,0 +1,92 @@
+{
+  "id": "12:40",
+  "simple_en": "Yusuf explained that idols are just names invented by people and their ancestors. God never sent any proof for them. All rule belongs to Allah alone. He commands us to worship Him only. That is the true religion, but most people do not know.",
+  "simple_bn": "ইউসুফ বুঝিয়ে বললেন, আল্লাহকে বাদ দিয়ে তোমরা যাদের পূজা কর, সেগুলো কেবল কিছু নাম যা তোমরা ও পূর্বপুরুষরা বানিয়ে নিয়েছ। এর পক্ষে আল্লাহ কোনো প্রমাণ দেননি। সার্বভৌম ক্ষমতা কেবল আল্লাহর। তিনি শুধু তাঁরই ইবাদত করতে বলেছেন। এটিই সত্য দ্বীন, কিন্তু অধিকাংশ মানুষ তা বোঝে না।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "سمو",
+      "lemma": "اسْم",
+      "meaning_en": "mere names",
+      "meaning_bn": "কেবল কিছু মনগড়া নাম",
+      "why_en": "Exposes that false gods are artificial concepts with no real substance."
+    },
+    {
+      "pos": 15,
+      "root": "سلط",
+      "lemma": "سُلْطان",
+      "meaning_en": "authority / proof",
+      "meaning_bn": "প্রমাণ বা দলিল",
+      "why_en": "False worship lacks any rational or divine evidence."
+    },
+    {
+      "pos": 17,
+      "root": "حكم",
+      "lemma": "حُكْم",
+      "meaning_en": "judgment / command",
+      "meaning_bn": "হুকুম বা বিধান",
+      "why_en": "Legislative and sovereign authority belongs exclusively to Allah."
+    },
+    {
+      "pos": 27,
+      "root": "قوم",
+      "lemma": "قَيِّم",
+      "meaning_en": "upright / correct",
+      "meaning_bn": "সুপ্রতিষ্ঠিত ও সঠিক",
+      "why_en": "Pure monotheism is the only straight and consistent spiritual path."
+    }
+  ],
+  "lesson_en": "Worship belongs to Allah alone. Do not follow false ideas made up by people.",
+  "lesson_bn": "ইবাদত একমাত্র আল্লাহরই প্রাপ্য, মানুষের বানানো কুসংস্কার অনুসরণ করা উচিত নয়।",
+  "real_life_en": "People around a student wear lucky stones and read daily horoscopes. The student ignores these superstitions. They put all their trust in Allah alone.",
+  "real_life_bn": "চারপাশের মানুষ ভাগ্যের আংটি বা রাশিফলে বিশ্বাস করলেও এক শিক্ষার্থী এসব কুসংস্কার এড়িয়ে চলে। সে কেবল মহান আল্লাহর ওপরই পূর্ণ আস্থা রাখে।",
+  "context_en": "After refuting false gods, Yusuf affirmed the divine authority and the upright religion of pure worship.",
+  "context_bn": "মিথ্যা উপাস্যদের অসারতা প্রমাণের পর ইউসুফ আল্লাহর সার্বভৌমত্ব ও সঠিক দ্বীনের পরিচয় তুলে ধরলেন।",
+  "themes": [
+    "tawhid",
+    "divine rule",
+    "rejection of superstition"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "two prison companions"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf stated that false gods are baseless names invented without divine authority.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He affirmed that all judgment and worship belong to Allah alone, which is the upright religion.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,92 @@
+{
+ "id": "3:12",
+ "simple_en": "Tell those who disbelieve that they will soon be defeated in this life. After that, they will be gathered together and driven into Hell. What a terrible and painful resting place it is.",
+ "simple_bn": "কাফিরদের বলে দিন: অচিরেই তোমরা পরাজিত হবে এবং তোমাদেরকে জাহান্নামে একত্র করা হবে। আর সেটি কতই না নিকৃষ্ট আবাসস্থল।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "غلب",
+   "lemma": "غَلَبَ",
+   "meaning_en": "you will be defeated",
+   "meaning_bn": "তোমরা পরাজিত হবে",
+   "why_en": "A definite divine prediction that falsehood will be overcome."
+  },
+  {
+   "pos": 5,
+   "root": "حشر",
+   "lemma": "حَشَرَ",
+   "meaning_en": "you will be gathered",
+   "meaning_bn": "তোমাদেরকে একত্রিত করা হবে",
+   "why_en": "Shows how disbelievers will be driven together toward their punishment."
+  },
+  {
+   "pos": 7,
+   "root": null,
+   "lemma": "جَهَنَّم",
+   "meaning_en": "Hell",
+   "meaning_bn": "জাহান্নাম",
+   "why_en": "The ultimate place of torment for those who reject their Creator."
+  },
+  {
+   "pos": 9,
+   "root": "مهد",
+   "lemma": "مِهاد",
+   "meaning_en": "resting place",
+   "meaning_bn": "আবাসস্থল",
+   "why_en": "Used with deep irony to describe the agonizing bed of fire in Hell."
+  }
+ ],
+ "lesson_en": "Trust that truth will win in the end, no matter how strong evil looks today.",
+ "lesson_bn": "বিশ্বাস রাখুন যে অন্যায় যতই প্রভাবশালী মনে হোক না কেন, চূড়ান্তভাবে সত্যেরই বিজয় হবে।",
+ "real_life_en": "When you stand up for what is right and face strong opposition, do not lose heart. Wrong ideas can make a lot of noise, but their success never lasts.",
+ "real_life_bn": "ন্যায়ের পক্ষে থাকতে গিয়ে বিরোধিতার মুখে পড়লে ধৈর্য হারাবেন না। অন্যায়ের ক্ষমতা ক্ষণিকের হলেও শেষ পর্যন্ত সত্যের কাছে তা পরাজিত হতে বাধ্য।",
+ "context_en": "The Prophet ﷺ is instructed to warn disbelievers that their plots against the Muslim community will fail both in this life and the next.",
+ "context_bn": "রাসূলুল্লাহ ﷺ-কে নির্দেশ দেওয়া হয়েছে কাফিরদের জানিয়ে দিতে যে ইসলাম বিরোধীদের ষড়যন্ত্র দুনিয়া ও আখিরাতে ব্যর্থ হবে।",
+ "connect_prev": "Builds on the fate of past nations in 3:11 by warning contemporary disbelievers of their coming defeat and punishment.",
+ "context": "Revealed when certain hostile groups mocked the believers after the Battle of Badr, claiming they would defeat the Muslims.",
+ "themes": [
+  "disbelief",
+  "Hell",
+  "punishment",
+  "warning"
+ ],
+ "kinds": [
+  "command",
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hellfire"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Prophet is commanded to tell the disbelievers that they will be overcome in this world.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Disbelievers will be gathered into Hell, which is the worst possible resting place.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

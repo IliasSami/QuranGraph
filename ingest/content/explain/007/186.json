@@ -1,0 +1,75 @@
+{
+  "id": "7:186",
+  "simple_en": "Whoever turns away from guidance and is left astray by Allah has no one to guide them. Allah leaves stubborn wrongdoers wandering blindly in their rebellion.",
+  "simple_bn": "আল্লাহ যাকে পথভ্রষ্ট করেন তার কোনো পথপ্রদর্শক নেই। আর তিনি তাদেরকে তাদের সীমালঙ্ঘনের মধ্যে বিভ্রান্তের মতো ঘুরে বেড়াতে দেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ضلل",
+      "lemma": "أَضَلَّ",
+      "meaning_en": "sends astray / leaves to stray",
+      "meaning_bn": "পথভ্রষ্ট করেন",
+      "why_en": "Leaving those who choose stubborn disbelief without divine guidance."
+    },
+    {
+      "pos": 5,
+      "root": "هدي",
+      "lemma": "هادِي",
+      "meaning_en": "guide",
+      "meaning_bn": "পথপ্রদর্শক",
+      "why_en": "None can guide a heart that Allah has forsaken due to pride."
+    },
+    {
+      "pos": 10,
+      "root": "عمه",
+      "lemma": "يَعْمَهُ",
+      "meaning_en": "they wander blindly",
+      "meaning_bn": "তারা বিভ্রান্তের মতো ঘুরে বেড়ায়",
+      "why_en": "Losing moral direction and roaming without spiritual clarity."
+    }
+  ],
+  "lesson_en": "Pride blinds the heart until a person loses all sense of right and wrong.",
+  "lesson_bn": "অহংকার মানুষের হৃদয়কে অন্ধ করে দেয় এবং জীবনের সঠিক দিশা কেড়ে নেয়।",
+  "real_life_en": "Protect your heart from stubborn pride. When you realize you made a mistake, admit it right away. Welcoming sound advice keeps your moral vision clear.",
+  "real_life_bn": "ভুল বুঝতে পারলে অহংকার না করে সাথে সাথে তা শুধরে নিন। বিনয়ী মন সর্বদা সঠিক পথের সন্ধান পায়।",
+  "context_en": "Stating the divine law that stubborn rejection of truth results in spiritual blindness and wandering.",
+  "context_bn": "সত্যকে ইচ্ছাকৃতভাবে অস্বীকারকারীদের অন্তরে হেদায়েতের আলো না থাকার অনিবার্য ঐশ্বরিক নীতি।",
+  "themes": [
+    "guidance and misguidance",
+    "spiritual blindness",
+    "transgression",
+    "divine justice"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "transgressors"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Guidance is exclusively in Allah's hands; those who obstinately reject the truth are left to wander in confusion.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

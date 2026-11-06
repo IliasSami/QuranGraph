@@ -1,0 +1,82 @@
+{
+  "id": "7:142",
+  "simple_en": "Allah set thirty nights for Moses on Mount Sinai, then added ten more to make forty. Moses placed his brother Aaron in charge of the people. He told Aaron to act with justice and avoid trouble.",
+  "simple_bn": "আল্লাহ মূসার জন্য তুর পাহাড়ে ত্রিশ রাতের অঙ্গীকার করেন এবং আরো দশ রাত যোগ করে তা চল্লিশ রাতে পূর্ণ করেন। মূসা তাঁর ভাই হারূনকে নিজের অনুপস্থিতিতে সম্প্রদায়ের দায়িত্ব দিয়ে বললেন, 'আমার লোকদের মধ্যে সংস্কার করবে এবং কখনো ফাসাদ সৃষ্টিকারীদের পথ অনুসরণ করবে না।'",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "وعد",
+      "lemma": "واعَدْ",
+      "meaning_en": "We appointed",
+      "meaning_bn": "আমরা নির্ধারিত করলাম",
+      "why_en": "The sacred covenant period for receiving the divine revelation of the Torah."
+    },
+    {
+      "pos": 5,
+      "root": "تمم",
+      "lemma": "أَتَمَّ",
+      "meaning_en": "and We perfected / completed them",
+      "meaning_bn": "এবং আমরা তা পূর্ণ করলাম",
+      "why_en": "Extending the retreat to forty complete nights."
+    },
+    {
+      "pos": 19,
+      "root": "صلح",
+      "lemma": "أَصْلَحَ",
+      "meaning_en": "act constructively / set things right",
+      "meaning_bn": "সংস্কার করো / সুবিচার বজায় রাখো",
+      "why_en": "Moses charges Aaron with maintaining harmony and righteousness."
+    }
+  ],
+  "lesson_en": "Wise leaders choose good helpers and give clear instructions to keep peace.",
+  "lesson_bn": "যোগ্য নেতা অন্যকে দায়িত্ব দেওয়ার সময় সৎ পরামর্শ ও ন্যায়ের সুস্পষ্ট দিকনির্দেশনা প্রদান করেন।",
+  "real_life_en": "When you leave someone in charge of a project or team, give them clear guidance. Remind them to be fair and patient. Good handoffs prevent confusion and trouble.",
+  "real_life_bn": "কাউকে কোনো দায়িত্ব অর্পণ করলে তাকে স্পষ্ট নির্দেশনা দিন। দলীয় শৃঙ্খলা ও পারস্পরিক আস্থা বজায় রাখতে সুস্পষ্ট দিকনির্দেশনা খুবই জরুরি।",
+  "context_en": "Moses prepares for his sacred retreat on Mount Sinai by leaving Aaron as deputy over the Israelites.",
+  "context_bn": "তুর পাহাড়ে আল্লাহর সাথে সাক্ষাতের উদ্দেশ্যে রওয়ানা হওয়ার আগে মূসা হারূনকে প্রতিনিধি নিযুক্ত করে উপদেশ দেন।",
+  "themes": [
+    "prophetic leadership",
+    "delegation of authority",
+    "covenant of forty nights",
+    "righteous reform"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Harun"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Mount Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [
+      "covenant of forty nights at Sinai"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah set forty nights for Moses' retreat at Sinai, and Moses appointed Aaron to lead the people with justice.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

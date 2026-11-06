@@ -1,0 +1,88 @@
+{
+  "id": "3:169",
+  "simple_en": "Never think that those who gave their lives in Allah's path are dead. They are alive near their Lord, blessed with continuous gifts. Their life in the unseen is full of honor and peace. While their bodies left this world, their souls enjoy the best care from their Creator.",
+  "simple_bn": "আল্লাহর পথে যারা নিজেদের জীবন উৎসর্গ করেছেন, তাদের কখনোই মৃত মনে করবেন না। তারা তাদের রবের কাছে বিশেষ জীবনে জীবিত এবং অবিরাম সম্মানিত রিজিক পাচ্ছেন। তাদের পার্থিব জীবনের অবসান ঘটলেও তাদের আত্মা জান্নাতের অফুরন্ত নেয়ামত ও পরম শান্তিতে রয়েছে।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "موت",
+      "lemma": "مَيِّت",
+      "meaning_en": "dead",
+      "meaning_bn": "মৃত",
+      "why_en": "Negates the notion that martyrs have simply perished and ceased to exist."
+    },
+    {
+      "pos": 10,
+      "root": "حيي",
+      "lemma": "حَيّ",
+      "meaning_en": "alive",
+      "meaning_bn": "জীবিত",
+      "why_en": "Affirms that martyrs enjoy a real and noble life in the realm of the unseen."
+    },
+    {
+      "pos": 13,
+      "root": "رزق",
+      "lemma": "رَزَقَ",
+      "meaning_en": "they are provided for",
+      "meaning_bn": "তারা রিজিকপ্রাপ্ত",
+      "why_en": "Shows that martyrs continuously receive sustenance and honors near their Lord."
+    }
+  ],
+  "lesson_en": "Sacrifice made for Allah is never lost, and giving your all for Him brings eternal life.",
+  "lesson_bn": "আল্লাহর জন্য করা কোনো ত্যাগই বৃথা যায় না, আর তাঁর সন্তুষ্টির পথে আত্মত্যাগ চিরন্তন জীবনের সম্মান এনে দেয়।",
+  "real_life_en": "When we lose loved ones who stood for truth and justice, we feel deep grief. This verse brings great comfort to our hearts. It tells us that those who sacrifice for Allah are not gone, but rest in peace and honor with Him.",
+  "real_life_bn": "সত্য ও ন্যায়ের পথে থাকা কোনো প্রিয়জনকে হারালে মানুষের মন শোকে ভেঙে পড়ে। এই আয়াত আমাদের অন্তরে গভীর সান্ত্বনা দেয় যে, আল্লাহর সন্তুষ্টির জন্য যারা জীবন দিয়েছে তারা হারিয়ে যায়নি, বরং রবের পরম আশ্রয়ে শান্তিতে আছে।",
+  "context_en": "Comforting the families of the martyrs of Uhud by revealing the high status and real life of those who fell in battle.",
+  "context_bn": "উহুদের যুদ্ধে শহীদদের পরিবার ও জীবিত সাহাবীদের সান্ত্বনা দিতে শহীদদের এই মহান মর্যাদা ও বিশেষ জীবনের কথা জানানো হয়েছে।",
+  "themes": [
+    "struggle in Allah's way",
+    "reward",
+    "the unseen",
+    "death",
+    "Paradise"
+  ],
+  "kinds": [
+    "prohibition",
+    "glad-tidings",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Paradise"
+    ],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [
+      "Battle of Uhud"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who are slain in the path of Allah are not dead, but alive with their Lord.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Martyrs receive continuous provision and honor near Allah in Paradise.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

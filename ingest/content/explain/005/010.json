@@ -1,0 +1,80 @@
+{
+  "id": "5:10",
+  "simple_en": "Those who reject faith and deny Allah's signs will suffer as dwellers of Hell. They will enter the blazing Fire as punishment for their disbelief. Just like close companions never leave each other, they will stay trapped in torment forever.",
+  "simple_bn": "আর যারা কুফরি করেছে এবং আমার নিদর্শনসমূহকে মিথ্যা বলেছে, তারা জ্বলন্ত জাহান্নামের অধিবাসী। নিজেদের অবিশ্বাস ও অস্বীকারের কারণে তারা সেখানে প্রবেশ করবে এবং চিরকাল সেখানেই থাকবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "disbelieved",
+      "meaning_bn": "কুফরি করেছে",
+      "why_en": "Describes the deliberate refusal to believe in Allah and follow His truth."
+    },
+    {
+      "pos": 4,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "Our signs and verses",
+      "meaning_bn": "আমাদের নিদর্শনসমূহ",
+      "why_en": "Refers to the divine proofs and scriptures sent to guide humanity."
+    },
+    {
+      "pos": 7,
+      "root": "جحم",
+      "lemma": "جَحِيم",
+      "meaning_en": "the blazing Hellfire",
+      "meaning_bn": "প্রজ্জ্বলিত জাহান্নাম",
+      "why_en": "The terrifying, eternal dwelling place prepared for unrepentant deniers of truth."
+    }
+  ],
+  "lesson_en": "Do not deny the truth. Those who reject Allah's signs will enter the Fire.",
+  "lesson_bn": "সত্যকে অস্বীকার করবেন না। যারা আল্লাহর নিদর্শন প্রত্যাখ্যান করে তারা জাহান্নামের আগুনে প্রবেশ করবে।",
+  "real_life_en": "Take time to study the Quran with humility and respect. Never mock divine guidance or treat religious truths lightly. Sincere submission protects you from the terrible fate of Hellfire.",
+  "real_life_bn": "কুরআনের বাণী শুনে অহংকার করবেন না কিংবা দ্বীনের সত্য নিয়ে উপহাস করবেন না। বিনয়ের সাথে সত্যকে গ্রহণ করুন, যাতে আখিরাতে জাহান্নামের ভয়াবহ শাস্তি থেকে নিজের আত্মাকে রক্ষা করা যায়।",
+  "context_en": "Contrasts the eternal fate of disbelievers with the glorious reward promised to the righteous in the preceding ayah.",
+  "context_bn": "পূর্ববর্তী আয়াতে মুমিনদের জন্য প্রতিশ্রুত মহা পুরস্কারের বিপরীতে সত্য প্রত্যাখ্যানকারীদের ভয়াবহ পরিণতির বিবরণ।",
+  "themes": [
+    "Hellfire",
+    "disbelief",
+    "denial of truth",
+    "warning",
+    "the Hereafter"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "Hellfire"
+    ],
+    "unseen": [
+      "Hellfire"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who disbelieve in Allah and reject His verses are the eternal companions of the blazing Fire.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

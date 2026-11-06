@@ -1,0 +1,74 @@
+{
+  "id": "39:19",
+  "simple_en": "Can anyone guide a person upon whom the sentence of punishment has been rightfully decreed? Can you save someone who has already thrown himself into the Fire through stubborn disbelief? When people choose darkness over light, they seal their own fate.",
+  "simple_bn": "যার ওপর শাস্তির আদেশ অবধারিত হয়ে গেছে, তাকে কি কেউ বাঁচাতে পারে? আপনি কি তাকে উদ্ধার করতে পারবেন, যে স্বেচ্ছায় কুফরির পথ বেছে নিয়ে জাহান্নামের আগুন নিশ্চিত করেছে? মানুষ যখন নিজেই সত্যকে অস্বীকার করে অন্ধকারের পথ নেয়, তখন সে নিজের বিনাশ ডেকে আনে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حقق",
+      "lemma": "حَقَّ",
+      "meaning_en": "became binding / justified",
+      "meaning_bn": "অবধারিত হয়েছে",
+      "why_en": "Shows the certainty of divine retribution against hardened deniers."
+    },
+    {
+      "pos": 5,
+      "root": "عذب",
+      "lemma": "عَذاب",
+      "meaning_en": "punishment",
+      "meaning_bn": "শাস্তি",
+      "why_en": "Refers to the fair judgment awaiting unrepentant evildoers."
+    },
+    {
+      "pos": 7,
+      "root": "نقذ",
+      "lemma": "أَنقَذَ",
+      "meaning_en": "can you save?",
+      "meaning_bn": "আপনি কি উদ্ধার করতে পারবেন?",
+      "why_en": "Points out that even a prophet cannot rescue someone who rejects faith."
+    }
+  ],
+  "lesson_en": "Allah holds all guidance. People who keep rejecting the truth bring ruin on themselves.",
+  "lesson_bn": "হিদায়াত সম্পূর্ণ আল্লাহর হাতে, আর সত্যের সাথে ক্রমাগত ঔদ্ধত্য প্রদর্শন অনিবার্য ধ্বংস ডেকে আনে।",
+  "real_life_en": "Share the message of Islam with kindness, but do not break your heart if someone refuses. Pray for them while remembering that God alone guides hearts.",
+  "real_life_bn": "মানুষকে ভালোবাসার সাথে সত্যের দাওয়াত দিন, কিন্তু কেউ না মানলে হতাশায় ভেঙে পড়বেন না। তাদের জন্য দোয়া করুন, কারণ হিদায়াত দেওয়ার মালিক একমাত্র আল্লাহ।",
+  "themes": [
+    "guidance",
+    "divine justice",
+    "warning",
+    "limits of human effort"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "One upon whom divine punishment is justified cannot be rescued from the Fire by anyone.",
+      "claim_bn": "যার ওপর আল্লাহর শাস্তির ফয়সালা নির্ধারিত হয়ে গেছে, তাকে আগুনের হাত থেকে কেউ রক্ষা করতে পারবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

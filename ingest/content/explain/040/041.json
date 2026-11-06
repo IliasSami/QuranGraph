@@ -1,0 +1,72 @@
+{
+  "id": "40:41",
+  "simple_en": "The believer asked, O my people, why is this so? I invite you to safety and faith, while you invite me to the Fire of Hell.",
+  "simple_bn": "সেই মুমিন আফসোস করে বলল, হে আমার কওম, কেমন আশ্চর্য যে আমি তোমাদের মুক্তির দিকে ডাকছি, আর তোমরা আমাকে জাহান্নামের আগুনের দিকে ডাকছ?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "I call you",
+      "meaning_bn": "আমি তোমাদের ডাকছি",
+      "why_en": "A heartfelt plea for them to reflect on the contrast between truth and ruin."
+    },
+    {
+      "pos": 6,
+      "root": "نجو",
+      "lemma": "نَجاة",
+      "meaning_en": "the salvation",
+      "meaning_bn": "মুক্তি বা পরিত্রাণ",
+      "why_en": "Safety from punishment and entrance into divine grace."
+    },
+    {
+      "pos": 9,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the Fire",
+      "meaning_bn": "আগুন বা জাহান্নাম",
+      "why_en": "The terrible consequence of associating partners and denying God."
+    }
+  ],
+  "lesson_en": "True friends call you toward salvation, while false friends lead you toward destruction.",
+  "lesson_bn": "প্রকৃত শুভাকাঙ্ক্ষী মুক্তির পথে ডাকে, আর অসৎ সঙ্গীরা ধ্বংসের দিকে টানে।",
+  "real_life_en": "Choose your close friends wisely. Stay close to those who encourage you to pray and do good, not those who invite you to bad habits.",
+  "real_life_bn": "বন্ধু নির্বাচনে সতর্ক হোন। যারা আপনাকে ভালো কাজে উৎসাহিত করে তাদের সাথে মিশুন, যারা অন্যায় কাজে ডাকে তাদের এড়িয়ে চলুন।",
+  "themes": [
+    "guidance",
+    "Hell",
+    "faith"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The believer asked why his people summoned him to the Fire while he summoned them to salvation.",
+      "claim_bn": "সেই মুমিন ব্যক্তি প্রশ্ন করেছিলেন কেন তার জাতি তাকে আগুনের দিকে ডাকছে যেখানে সে তাদের মুক্তির দিকে আহ্বান করছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

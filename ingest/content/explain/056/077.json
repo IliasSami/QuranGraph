@@ -1,0 +1,61 @@
+{
+  "id": "56:77",
+  "simple_en": "The book being recited to you is indeed a noble Quran. It is full of honor, wisdom, and blessings. It brings guidance for human hearts and leads whoever follows it to eternal success.",
+  "simple_bn": "তোমাদের সামনে পঠিত এই কিতাব নিশ্চিতভাবেই এক সম্মানিত কুরআন। এটি গভীর জ্ঞান, প্রজ্ঞা ও বরকতে পরিপূর্ণ। এটি মানব অন্তরের পথপ্রদর্শক এবং এর অনুসারীদের চিরস্থায়ী মুক্তির পথ দেখায়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "a Quran or recitation",
+      "meaning_bn": "কুরআন",
+      "why_en": "Names the final revelation recited and preserved for all mankind."
+    },
+    {
+      "pos": 3,
+      "root": "كرم",
+      "lemma": "كَرِيم",
+      "meaning_en": "noble and generous",
+      "meaning_bn": "সম্মানিত ও মহান",
+      "why_en": "Describes the Quran's high dignity and the abundant benefits it provides."
+    }
+  ],
+  "lesson_en": "Read the Quran with love and respect, and build your life upon its words.",
+  "lesson_bn": "শ্রদ্ধা ও ভালোবাসার সাথে কুরআন তিলাওয়াত করুন এবং এর শিক্ষাকে জীবনে ধারণ করুন।",
+  "real_life_en": "A young man sits quietly every morning to read a page of the Quran. He reflects on its meanings before heading to work. That quiet habit brings wisdom and peace to his entire day.",
+  "real_life_bn": "একজন তরুণ প্রতিদিন সকালে কাজে যাওয়ার আগে মন দিয়ে এক পৃষ্ঠা কুরআন তিলাওয়াত করে। এই অভ্যাস তার সারাদিনের কাজকর্মে সততা ও মনের ভেতর গভীর শান্তি এনে দেয়।",
+  "themes": [
+    "the Quran",
+    "revelation",
+    "guidance"
+  ],
+  "kinds": [
+    "praise",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quran is an honorable, noble book full of great benefits for mankind.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "50:26",
+  "simple_en": "This harsh penalty is for the one who set up false gods alongside Allah. He gave worship to others instead of his Creator. So the angels are told: Throw him into the severe punishment of the Fire.",
+  "simple_bn": "এই কঠোর শাস্তি তার জন্য, যে আল্লাহর সাথে অন্য কোনো মিথ্যা উপাস্যকে শরিক করেছিল। ফেরেশতাদ্বয়কে আবার নির্দেশ দেওয়া হবে: তোমরা তাকে জাহান্নামের কঠিনতম শাস্তির মধ্যে নিক্ষেপ করো।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "Allah",
+      "meaning_bn": "আল্লাহ",
+      "why_en": "The only true Lord worthy of worship."
+    },
+    {
+      "pos": 5,
+      "root": "أله",
+      "lemma": "إِلٰه",
+      "meaning_en": "deity or false god",
+      "meaning_bn": "উপাস্য বা মাবুদ",
+      "why_en": "Any false entity worshipped alongside Allah."
+    },
+    {
+      "pos": 9,
+      "root": "عذب",
+      "lemma": "عَذاب",
+      "meaning_en": "punishment",
+      "meaning_bn": "শাস্তি",
+      "why_en": "The retribution awaiting idolaters in the fire of Hell."
+    },
+    {
+      "pos": 10,
+      "root": "شدد",
+      "lemma": "شَدِيد",
+      "meaning_en": "severe",
+      "meaning_bn": "কঠিন বা তীব্র",
+      "why_en": "Intense torment prepared for those who committed shirk."
+    }
+  ],
+  "lesson_en": "Worship Allah alone with a pure heart. Never set up any partner with Him.",
+  "lesson_bn": "নিজের সমস্ত ইবাদত খাঁটিভাবে একমাত্র আল্লাহর উদ্দেশ্যে করুন এবং শিরক থেকে সম্পূর্ণ দূরে থাকুন।",
+  "real_life_en": "Turn only to Allah in your quiet prayers. Ask Him alone for help, and never put your ultimate trust in created things.",
+  "real_life_bn": "বিপদে-আপদে কোনো সৃষ্টির ওপর ভরসা না করে একমাত্র আল্লাহর কাছে সাহায্য চান ও দুআ করুন।",
+  "context_en": "Associating partners with Allah is highlighted as the ultimate cause of condemnation.",
+  "context_bn": "শিরক বা আল্লাহর সাথে অংশীদার সাব্যস্ত করাই যে চূড়ান্ত ধ্বংসের মূল কারণ, তা এখানে উল্লেখ করা হয়েছে।",
+  "themes": [
+    "tawhid",
+    "shirk",
+    "punishment",
+    "Hell"
+  ],
+  "kinds": [
+    "warning",
+    "command",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels",
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Whoever associates partners with Allah will be thrown into severe punishment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

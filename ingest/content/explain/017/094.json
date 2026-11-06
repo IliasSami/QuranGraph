@@ -1,0 +1,61 @@
+{
+  "id": "17:94",
+  "simple_en": "Clear guidance came to the people. Yet they refused to believe it. They said, 'Has God sent an ordinary human being as a messenger to us?'",
+  "simple_bn": "মানুষের কাছে সঠিক পথ আসার পর ঈমান আনতে তাদের একমাত্র বাধা ছিল এই অজ্ঞতাপূর্ণ উক্তি: 'আল্লাহ কি মানুষকে রাসুল করে পাঠিয়েছেন?'",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "منع",
+      "lemma": "مَنَعَ",
+      "meaning_en": "prevented",
+      "meaning_bn": "বিরত রাখল বা বাধা দিল",
+      "why_en": "Prejudices blocking souls from embracing obvious guidance."
+    },
+    {
+      "pos": 14,
+      "root": "بشر",
+      "lemma": "بَشَر",
+      "meaning_en": "a human",
+      "meaning_bn": "একজন মানুষ",
+      "why_en": "The reluctance to accept a peer as a divine guide."
+    }
+  ],
+  "lesson_en": "People often reject truth because the teacher is a human. Yet only a human can set a real example for us.",
+  "lesson_bn": "মানুষ প্রায়ই রাসুলকে মানুষ হওয়ার কারণে গ্রহণ করতে দ্বিধা করে। অথচ মানুষের জীবন পরিচালনার জন্য মানুষই শ্রেষ্ঠ আদর্শ।",
+  "real_life_en": "Do not dismiss wise advice just because the person speaking looks ordinary or comes from a simple background. Look at the truth of their message.",
+  "real_life_bn": "কোনো ভালো উপদেশকে বক্তার বাহ্যিক সাধারণ অবস্থার কারণে ফিরিয়ে দেবেন না। কথার সত্যতা ও গভীরতা বিবেচনা করুন।",
+  "themes": [
+    "human-messenger",
+    "guidance",
+    "prejudice"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Human prejudice against receiving revelation through a human messenger was the main obstacle preventing people from believing.",
+      "claim_bn": "মানুষকে রাসুল হিসেবে মেনে নিতে না পারার সংকীর্ণতাই অতীত জাতিকে ঈমান আনা থেকে বাধা দিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,63 @@
+{
+  "id": "36:2",
+  "simple_en": "Allah swears by the Wise Quran. Its verses are crafted with complete precision and wisdom. No falsehood can ever touch it from the past or the future. It contains perfect laws, clear truths, and timeless guidance for all mankind.",
+  "simple_bn": "আল্লাহ প্রজ্ঞাময় কুরআনের শপথ করেছেন। এর প্রতিটি আয়াত নিখুঁত জ্ঞান ও প্রজ্ঞায় পরিপূর্ণ। কোনো মিথ্যা বা বিকৃতি এই কিতাবকে স্পর্শ করতে পারে না। এতে রয়েছে মানুষের জন্য সঠিক বিধান, স্পষ্ট সত্য এবং চিরন্তন পথনির্দেশ।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "the Quran",
+      "meaning_bn": "কুরআন",
+      "why_en": "The holy book revealed by Allah as timeless guidance."
+    },
+    {
+      "pos": 2,
+      "root": "حكم",
+      "lemma": "حَكِيم",
+      "meaning_en": "the Wise",
+      "meaning_bn": "প্রজ্ঞাময়",
+      "why_en": "Describes the Quran as full of wisdom and free from contradiction."
+    }
+  ],
+  "lesson_en": "The Quran is true and guides people with great wisdom.",
+  "lesson_bn": "কুরআন সম্পূর্ণ সত্য এবং তা মানুষকে ঐশী প্রজ্ঞার সাথে সঠিক পথ দেখায়।",
+  "real_life_en": "Whenever you face tough choices at home or work, turn to the Quran for guidance. Its timeless principles keep your conscience clear and your steps steady.",
+  "real_life_bn": "জীবনের জটিল মুহূর্তে সিদ্ধান্তহীনতায় ভুগলে কুরআনের নীতিমালার আলো সন্ধান করুন। এর প্রজ্ঞাময় শিক্ষা মানুষকে সঠিক পথে অবিচল রাখে।",
+  "themes": [
+    "the Quran",
+    "revelation"
+  ],
+  "kinds": [
+    "oath",
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-hakim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah swears by the Quran full of wisdom, which is free from flaw and falsehood.",
+      "claim_bn": "আল্লাহ প্রজ্ঞাপূর্ণ কুরআনের শপথ করেছেন, যা সব ধরনের ত্রুটি ও অসত্য থেকে সম্পূর্ণ মুক্ত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

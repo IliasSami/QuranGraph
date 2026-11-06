@@ -1,0 +1,79 @@
+{
+  "id": "50:18",
+  "simple_en": "A person does not speak a single word without a watcher standing by. An angel is always ready to write it down. Every word, whether good or bad, is kept in the record of deeds for the Day of Judgement.",
+  "simple_bn": "মানুষ মুখ দিয়ে যে কথাই উচ্চারণ করুক না কেন, তা লেখার জন্য একজন অতন্দ্র প্রহরী ফেরেশতা পাশে প্রস্তুত থাকেন। ভালো কথা, অপ্রয়োজনীয় আড্ডা বা গীবত যাই হোক না কেন, সবই নিখুঁতভাবে আমলনামায় সংরক্ষিত হয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "لفظ",
+      "lemma": "يَلْفِظُ",
+      "meaning_en": "he utters",
+      "meaning_bn": "উচ্চারণ করে বা বলে",
+      "why_en": "Even the smallest word spoken aloud is noted down."
+    },
+    {
+      "pos": 7,
+      "root": "رقب",
+      "lemma": "رَقِيب",
+      "meaning_en": "a vigilant watcher",
+      "meaning_bn": "সতর্ক প্রহরী",
+      "why_en": "An angel who observes every utterance attentively."
+    },
+    {
+      "pos": 8,
+      "root": "عتد",
+      "lemma": "عَتِيد",
+      "meaning_en": "ready and present",
+      "meaning_bn": "সর্বদা প্রস্তুত",
+      "why_en": "Always present without missing a single sentence."
+    }
+  ],
+  "lesson_en": "Think before you speak. Every single word you say is written in your book.",
+  "lesson_bn": "কথা বলার আগে চিন্তা করুন, কারণ আপনার প্রতিটি কথাই আপনার আমলনামায় জমা হচ্ছে।",
+  "real_life_en": "When you feel like joining in gossip, choose to stay silent. Use your tongue to speak kindly or praise Allah instead.",
+  "real_life_bn": "বন্ধুদের আড্ডায় পরনিন্দা বা মিথ্যা বলার সুযোগ এলে মুখ সংযত রাখুন এবং আল্লাহর জিকির করুন।",
+  "context_en": "The recording angels listen to every word uttered by a human being.",
+  "context_bn": "মানুষের মুখ দিয়ে উচ্চারিত প্রতিটি কথাই ফেরেশতারা লিখে রাখেন বলে আয়াতটিতে স্পষ্ট করা হয়েছে।",
+  "themes": [
+    "angels",
+    "record of deeds",
+    "good character",
+    "the unseen"
+  ],
+  "kinds": [
+    "warning",
+    "ethics",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels",
+      "recording-angels",
+      "record-of-deeds"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Every spoken word is recorded by an observant angel present and ready.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

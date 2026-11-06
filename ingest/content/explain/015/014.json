@@ -1,0 +1,77 @@
+{
+  "id": "15:14",
+  "simple_en": "Even if We opened a door in the sky for them and they climbed up into it in broad daylight, they would still refuse to believe. Their hearts are set against the truth.",
+  "simple_bn": "যদি আমরা তাদের জন্য আকাশের কোনো দরজা খুলে দিতাম এবং তারা দিনের আলোতে তাতে আরোহণ করতে থাকত, তবুও তাদের হঠকারী অন্তর সত্যকে অস্বীকার করার ফন্দি আঁটত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "فتح",
+      "lemma": "فَتَحَ",
+      "meaning_en": "We opened",
+      "meaning_bn": "আমরা খুলে দিলাম",
+      "why_en": "Opening celestial doors."
+    },
+    {
+      "pos": 4,
+      "root": "بوب",
+      "lemma": "باب",
+      "meaning_en": "a gate",
+      "meaning_bn": "একটি দরজা",
+      "why_en": "An entrance into the sky."
+    },
+    {
+      "pos": 6,
+      "root": "سمو",
+      "lemma": "سَماء",
+      "meaning_en": "the heaven",
+      "meaning_bn": "আকাশের",
+      "why_en": "Celestial realms."
+    },
+    {
+      "pos": 9,
+      "root": "عرج",
+      "lemma": "عَرَجَ",
+      "meaning_en": "they ascend",
+      "meaning_bn": "তারা আরোহণ করে",
+      "why_en": "Climbing upward physically."
+    }
+  ],
+  "lesson_en": "When a person refuses to believe, even seeing the heavens will not soften their heart.",
+  "lesson_bn": "কোনো ব্যক্তি যদি সত্য না মানার সংকল্প করে, তবে আকাশে উঠে গেলেও তার মন গলবে না।",
+  "real_life_en": "A man will not admit he broke a rule, even when shown a clear video clip. He claims the clip is fake. When a person is stubborn, proof makes no difference.",
+  "real_life_bn": "ভিডিও ফুটেজ ও স্পষ্ট প্রমাণ দেখার পরও এক অহংকারী ব্যক্তি নিজের ভুল মানতে চায় না। সে প্রমাণকেই ভুয়া বলে দাবি করে। অন্তরের সততা না থাকলে কোনো প্রমাণই কাজে আসে না।",
+  "context_en": "Hypothetical illustration of the extreme obstinacy of disbelievers even if granted a vision of heaven.",
+  "context_bn": "কাফিরদের চরম হঠকারিতার রূপক বর্ণনা: আসমানে ওঠার সুযোগ পেলেও তারা সত্য অস্বীকার করত।",
+  "themes": [
+    "stubbornness",
+    "arguments",
+    "signs"
+  ],
+  "kinds": [
+    "argument",
+    "parable",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Even if a heavenly gate were opened for disbelievers to ascend, they would still reject the truth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

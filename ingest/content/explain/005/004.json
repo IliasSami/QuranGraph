@@ -1,0 +1,85 @@
+{
+ "id": "5:4",
+ "simple_en": "The believers ask what foods are lawful for them. Tell them that all wholesome and clean things are lawful. Game caught by your trained hunting animals and birds is also lawful. You train them using knowledge that Allah gave you. Mention Allah's name when you release them to hunt. Eat what they catch for you, and fear Allah. Allah is swift in taking account.",
+ "simple_bn": "মানুষ আপনার কাছে জানতে চায় তাদের জন্য কী হালাল করা হয়েছে। আপনি বলুন, সমস্ত পবিত্র ও উত্তম বস্তু তোমাদের জন্য হালাল করা হয়েছে। আর শিকারি পশু ও পাখি—যাদের তোমরা আল্লাহর শেখানো জ্ঞানে প্রশিক্ষণ দিয়েছো—তাদের ধরা শিকারও হালাল। সেগুলো যখন শিকার ধরে রাখে, তখন তা থেকে খাও এবং শিকার ছাড়ার সময় আল্লাহর নাম স্মরণ করো। আল্লাহকে ভয় করো, নিশ্চয়ই আল্লাহ দ্রুত হিসাব গ্রহণকারী।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "طيب",
+   "lemma": "طَيِّبَة",
+   "meaning_en": "good and wholesome things",
+   "meaning_bn": "পবিত্র ও উত্তম বস্তুসমূহ",
+   "why_en": "Allah grants permission for all pure, beneficial foods that cause no harm."
+  },
+  {
+   "pos": 12,
+   "root": "جرح",
+   "lemma": "جَوارِح",
+   "meaning_en": "trained hunting animals and birds",
+   "meaning_bn": "শিকারি পশু ও পাখি",
+   "why_en": "Refers to trained predators like hunting dogs and birds of prey."
+  },
+  {
+   "pos": 13,
+   "root": "كلب",
+   "lemma": "مُكَلِّب",
+   "meaning_en": "training hunting animals",
+   "meaning_bn": "শিকারের জন্য প্রশিক্ষণদাতা",
+   "why_en": "Highlights the discipline of training animals so their catch becomes lawful."
+  }
+ ],
+ "lesson_en": "Eat clean and lawful food, and mention Allah's name when preparing it.",
+ "lesson_bn": "সর্বদা পবিত্র ও হালাল খাবার গ্রহণ করুন এবং শিকার ও জবাইয়ের সময় আল্লাহর নাম স্মরণ করুন।",
+ "real_life_en": "Say Bismillah before you eat your food. Choose good, clean meals that give you strength to worship Allah. Stay away from bad or filthy items.",
+ "real_life_bn": "খাবার খাওয়ার আগে সবসময় 'বিসমিল্লাহ' বলুন। পরিবারের জন্য স্বাস্থ্যকর ও হালাল খাদ্য বেছে নিন। ক্ষতিকর বা নোংরা খাবার পরিহার করুন। হালাল উপার্জনে আনা খাবার ঘরে কল্যাণ ও বরকত বয়ে আনে।",
+ "context_en": "Clarifies the general rule of lawful pure foods and the specific conditions for game captured by trained hunting animals.",
+ "context_bn": "পবিত্র ও হালাল খাদ্যের সাধারণ মূলনীতি এবং প্রশিক্ষিত শিকারি পশুর মাধ্যমে শিকারের নির্দিষ্ট শর্তাবলী স্পষ্ট করা হয়েছে।",
+ "themes": [
+  "halal and haram",
+  "hunting",
+  "remembrance of Allah",
+  "taqwa",
+  "purity"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "All pure, wholesome foods are permitted for the believers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Game caught by trained animals or birds of prey is lawful provided Allah's name was mentioned upon releasing them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

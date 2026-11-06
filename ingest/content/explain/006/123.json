@@ -1,0 +1,88 @@
+{
+  "id": "6:123",
+  "simple_en": "In every town, Allah permits corrupt leaders to rise and plot against the truth. They use their wealth and status to oppose the prophets and mislead people. But their wicked schemes only harm their own souls in the end. They do not realize that their evil plans will bring about their own ruin.",
+  "simple_bn": "আল্লাহ অতীতে প্রত্যেক জনপদে প্রভাবশালী অপরাধীদের সুযোগ দিয়েছেন যাতে তারা সেখানে নানা ষড়যন্ত্র করতে পারে। তারা তাদের ক্ষমতা দিয়ে সত্যের বাণীকে বাধাগ্রস্ত করতে চায়। অথচ তাদের এই কুচক্রের কুফল শেষ পর্যন্ত তাদের নিজেদের ওপরই ফিরে আসে। কিন্তু অজ্ঞতা ও অহংকারের কারণে তারা তা বুঝতে পারে না।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "كبر",
+      "lemma": "أَكْبَر",
+      "meaning_en": "prominent leaders / greatest",
+      "meaning_bn": "শীর্ষ ব্যক্তিবর্গ",
+      "why_en": "Identifies the powerful leaders who misuse their influence to oppose the truth."
+    },
+    {
+      "pos": 7,
+      "root": "جرم",
+      "lemma": "مُجْرِم",
+      "meaning_en": "its criminals / evildoers",
+      "meaning_bn": "তার অপরাধীরা",
+      "why_en": "Points to those who commit grave sins and lead others toward wrongdoing."
+    },
+    {
+      "pos": 8,
+      "root": "مكر",
+      "lemma": "مَكَرَ",
+      "meaning_en": "to plot / conspire",
+      "meaning_bn": "ষড়যন্ত্র করতে",
+      "why_en": "Describes the scheming of corrupt leaders against truth and justice."
+    }
+  ],
+  "lesson_en": "Evil leaders plot against truth, but their schemes destroy only themselves. Do not fear their false power.",
+  "lesson_bn": "অহংকারী নেতারা যতই ষড়যন্ত্র করুক, তা তাদের নিজেদেরই ধ্বংস ডেকে আনে। অন্যায় ক্ষমতা দেখে কখনো বিভ্রান্ত হবেন না।",
+  "real_life_en": "Never use your position to trick or harm others. Do not fear corrupt people who oppose what is right. Live with honesty each day. Trust that evil plots always backfire on those who make them.",
+  "real_life_bn": "নিজের পদমর্যাদা বা বুদ্ধিকে কখনো অসৎ উদ্দেশ্যে বা কারও ক্ষতি করতে ব্যবহার করবেন না। সমাজে অসৎ নেতাদের প্রভাব দেখে হতাশ হবেন না। সত্যের পথে অবিচল থাকুন, কারণ অন্যায়ের পতন অবশ্যম্ভাবী।",
+  "context_en": "After contrasting guidance and misguidance, this ayah explains that prominent criminals in every community have always schemed against the truth.",
+  "context_bn": "মুমিন ও কাফিরের অবস্থা বর্ণনার পর এখানে জানানো হয়েছে যে, যুগে যুগে প্রভাবশালী অপরাধীরাই নবীদের বিরুদ্ধে ষড়যন্ত্রে লিপ্ত হয়েছে।",
+  "themes": [
+    "scheming of evildoers",
+    "divine justice",
+    "consequences of sin",
+    "leadership"
+  ],
+  "kinds": [
+    "warning",
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "corrupt leaders",
+      "criminals"
+    ],
+    "nations": [],
+    "places": [
+      "towns",
+      "cities"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Prominent criminals in every community scheme against the prophets and the truth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "The evil plots of corrupt leaders ultimately harm only themselves.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

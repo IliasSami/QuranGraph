@@ -1,0 +1,70 @@
+{
+ "id": "73:13",
+ "simple_en": "The punishment also includes food that chokes. This food is bitter, foul, and full of thorns. It gets stuck in the throat so it cannot be swallowed or spit out. Along with this food, there is a painful punishment that never ends.",
+ "simple_bn": "এই শাস্তির মধ্যে রয়েছে এমন খাবার যা গলায় আটকে যায়। এটি অত্যন্ত তিক্ত, দুর্গন্ধযুক্ত এবং কাঁটায় ভরা। এটি গিলে ফেলাও যায় না, আবার উগরে ফেলাও যায় না। এর সাথে রয়েছে আরও বহু যন্ত্রণাদায়ক শাস্তি।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "طعم",
+   "lemma": "طَعام",
+   "meaning_en": "food",
+   "meaning_bn": "খাদ্য",
+   "why_en": "The bitter nourishment provided in Hell."
+  },
+  {
+   "pos": 3,
+   "root": "غصص",
+   "lemma": "غُصَّة",
+   "meaning_en": "choking",
+   "meaning_bn": "গলায় আটকে যায় এমন",
+   "why_en": "It gets trapped in the throat because of its thorns and bitterness."
+  },
+  {
+   "pos": 5,
+   "root": "ألم",
+   "lemma": "أَلِيم",
+   "meaning_en": "painful",
+   "meaning_bn": "যন্ত্রণাদায়ক",
+   "why_en": "A punishment that brings deep suffering to body and soul."
+  }
+ ],
+ "lesson_en": "The pain of the Hereafter warns us to turn back to Allah before it is too late.",
+ "lesson_bn": "পরকালের কঠিন পরিণতির সতর্কবার্তা সময় থাকতেই আল্লাহর পথে ফিরে আসতে সাহায্য করে।",
+ "real_life_en": "Be grateful for the clean water and good food you enjoy each day. Thank Allah before and after eating. Remember that comfort in this world should lead to praise, not pride.",
+ "real_life_bn": "প্রতিদিন যে ভালো খাবার ও বিশুদ্ধ পানি খান, তার জন্য আল্লাহর শোকর আদায় করুন। খাবার আগে ও পরে আল্লাহর নাম নিন এবং মনে রাখুন—নিয়ামত পেয়ে অহংকার করা উচিত নয়।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "gratitude"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The people of Hell will be given bitter, thorny food that chokes the throat, alongside painful punishment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "37:12",
+  "simple_en": "The Prophet was amazed by the clear signs of Allah and how people could still deny life after death. Yet instead of reflecting with an open heart, the deniers met the truth with mockery and laughter. Arrogance blinds people from seeing what is right in front of them.",
+  "simple_bn": "নবীজী আল্লাহর মহাশক্তি এবং কাফেরদের পুনরুত্থান অস্বীকারের নির্বুদ্ধিতা দেখে বিস্মিত হতেন। অথচ সেই অস্বীকারকারীরা সত্যকে নিয়ে উপহাস ও বিদ্রূপ করত। অহংকার মানুষের চোখকে সত্য দেখা থেকে অন্ধ করে দেয়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سخر",
+      "lemma": "سَخِرَ",
+      "meaning_en": "they mock",
+      "meaning_bn": "তারা বিদ্রূপ করে",
+      "why_en": "Points out the arrogant mockery of those who reject the truth instead of taking it seriously."
+    }
+  ],
+  "lesson_en": "Do not mock what you do not understand, but search for truth with humility.",
+  "lesson_bn": "সত্য উপদেশ নিয়ে উপহাস করা মূর্খতা ও অন্তরের ব্যাধির লক্ষণ।",
+  "real_life_en": "When someone gives you good advice, listen with care. Do not laugh at good words. Mocking good counsel only harms your own heart.",
+  "real_life_bn": "কেউ আপনাকে ভালো কোনো উপদেশ দিলে তা নিয়ে হাসাহাসি করবেন না। খোলা মনে কথা শুনুন এবং নিজের ভুলগুলো সংশোধন করার চেষ্টা করুন।",
+  "themes": [
+    "mockery",
+    "disbelief",
+    "resurrection"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet wondered at their stubborn denial of resurrection while the disbelievers responded with mockery.",
+      "claim_bn": "নবীজী তাদের পুনরুত্থান অস্বীকার দেখে বিস্মিত হতেন, অথচ অস্বীকারকারীরা তা নিয়ে বিদ্রূপ করত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

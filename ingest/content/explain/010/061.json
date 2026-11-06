@@ -1,0 +1,82 @@
+{
+  "id": "10:61",
+  "simple_en": "Whatever matter you are engaged in, whatever portion of the Quran you recite, and whatever deed you perform, We are a Witness over you as you do it. Not even an atom's weight on earth or in heaven escapes your Lord.",
+  "simple_bn": "আর আপনি যে অবস্থাতেই থাকুন এবং কুরআন থেকে যা-ই তিলাওয়াত করুন না কেন, আমরা তা প্রত্যক্ষ করি। তোমরা যে কাজই কর, তাতে ব্যাপৃত থাকার সময় আমরা তোমাদের উপস্থিত থেকে পর্যবেক্ষণ করি। জমিনে ও আসমানে অণু পরিমাণ জিনিসও আপনার রবের অগোচরে থাকে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "شأن",
+      "lemma": "شَأْن",
+      "meaning_en": "matter / circumstance",
+      "meaning_bn": "অবস্থা / বিষয়",
+      "why_en": "Any affair or daily situation in which a person is involved."
+    },
+    {
+      "pos": 6,
+      "root": "تلو",
+      "lemma": "تَلَى",
+      "meaning_en": "you recite",
+      "meaning_bn": "আপনি তিলাওয়াত করেন",
+      "why_en": "Prophetic recitation of divine revelation."
+    },
+    {
+      "pos": 11,
+      "root": "عمل",
+      "lemma": "عَمِلَ",
+      "meaning_en": "you perform / you do",
+      "meaning_bn": "তোমরা কাজ কর",
+      "why_en": "Every human deed monitored by divine awareness."
+    }
+  ],
+  "lesson_en": "God sees and records every single thought and deed, no matter how tiny it is.",
+  "lesson_bn": "আল্লাহ সব কিছু দেখছেন; কোনো ছোট বা গোপন কাজও তাঁর জ্ঞান থেকে বাইরে নয়।",
+  "real_life_en": "Remember God's watchful eye when you are alone. Let that knowledge keep you honest, whether at work, in private, or online.",
+  "real_life_bn": "একাকী অবস্থায় মনে রাখুন আল্লাহ আপনাকে দেখছেন; এই অনুভূতি আপনাকে সর্বাবস্থায় পাপমুক্ত ও সৎ থাকতে সাহায্য করবে।",
+  "themes": [
+    "divine omniscience",
+    "unseen records",
+    "constant observation"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "mankind"
+    ],
+    "places": [
+      "earth",
+      "heaven"
+    ],
+    "unseen": [
+      "clear record"
+    ],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [],
+    "things": [
+      "the Quran",
+      "atom's weight"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah witnesses every human action in real time, and nothing the size of an atom escapes His knowledge.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

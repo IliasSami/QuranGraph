@@ -1,0 +1,72 @@
+{
+ "id": "77:31",
+ "simple_en": "That smoke provides no cool shade at all, nor does it shield anyone from the burning flames. It offers no relief, and the intense heat reaches them from every direction.",
+ "simple_bn": "সেই ধোঁয়া কোনো শীতল ছায়া দান করবে না এবং তা জাহান্নামের আগুনের লেলিহান শিখা থেকেও কাউকে রক্ষা করবে না। এতে কোনো শান্তি নেই, বরং চারপাশ থেকে তীব্র তাপ তাদের স্পর্শ করবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ظلل",
+   "lemma": "ظَلِيل",
+   "meaning_en": "cool, shading",
+   "meaning_bn": "শীতল ছায়া",
+   "why_en": "Unlike true shade, the smoke brings no coolness or ease."
+  },
+  {
+   "pos": 4,
+   "root": "غني",
+   "lemma": "أَغْنَتْ",
+   "meaning_en": "protects, avails",
+   "meaning_bn": "রক্ষা করে",
+   "why_en": "It cannot block or shield against the blazing fire."
+  },
+  {
+   "pos": 6,
+   "root": "لهب",
+   "lemma": "لَهَب",
+   "meaning_en": "the flame",
+   "meaning_bn": "লেলিহান অগ্নিশিখা",
+   "why_en": "The fierce, leaping flames of the Hellfire."
+  }
+ ],
+ "lesson_en": "Nothing can save a person from the heat of the Fire.",
+ "lesson_bn": "আল্লাহর শাস্তির সামনে কোনো মিথ্যা আশ্রয় মানুষকে রক্ষা করতে পারবে না।",
+ "real_life_en": "In life, people sometimes rely on false security, like dishonest wealth or bad friends. When real trouble hits, those supports vanish. Relying on Allah alone gives you true shelter that never fails in times of need.",
+ "real_life_bn": "মানুষ অনেক সময় অসৎ পথ বা অসৎ বন্ধুদের ওপর মিথ্যা ভরসা করে। কিন্তু আসল বিপদে সেইসব আশ্রয় ভেঙে পড়ে। একমাত্র আল্লাহর ওপর ভরসা করাই মানুষকে প্রকৃত নিরাপত্তা ও শান্তি দান করে।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "day-of-judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The smoke of Hell affords no cooling shade and provides no protection from the blazing flame.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

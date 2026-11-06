@@ -1,0 +1,79 @@
+{
+  "id": "7:123",
+  "simple_en": "Pharaoh was furious. He demanded how they dared believe without his consent. He accused them of plotting a secret conspiracy with Moses to expel Egypt's people. He threatened them with severe torture.",
+  "simple_bn": "ফির'আউন ক্ষোভে ফেটে পড়ল। সে বলল, 'আমার অনুমতি ছাড়াই তোমরা এতে ঈমান আনলে? এটি নিশ্চয় নগরবাসীদের বিতাড়িত করার গোপন ষড়যন্ত্র।' এরপর সে তাদের চরম শাস্তির হুমকি দিল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "you believed",
+      "meaning_bn": "তোমরা ঈমান আনলে",
+      "why_en": "Pharaoh expresses outrage that they accepted faith without his authorization."
+    },
+    {
+      "pos": 7,
+      "root": "أذن",
+      "lemma": "أَذِنَ",
+      "meaning_en": "I gave permission",
+      "meaning_bn": "আমি অনুমতি দিলাম",
+      "why_en": "Shows the tyrant's delusion of total control over people's minds and beliefs."
+    },
+    {
+      "pos": 11,
+      "root": "مكر",
+      "lemma": "مَكْر",
+      "meaning_en": "a plot / conspiracy",
+      "meaning_bn": "ষড়যন্ত্র",
+      "why_en": "Pharaoh's false allegation to discredit the magicians' sincere conversion."
+    }
+  ],
+  "lesson_en": "Tyrants make up lies when they lose an argument.",
+  "lesson_bn": "অহংকারী শাসকেরা সত্যের কাছে পরাজিত হলে ষড়যন্ত্রের মিথ্যা অভিযোগ তুলে নিজেদের অপরাধ ঢাকতে চায়।",
+  "real_life_en": "Expect unfair attacks when you stand up for what is right. Corrupt people often label honest voices as troublemakers. Keep your conscience pure and trust the outcome to God.",
+  "real_life_bn": "সত্যের পথে অবিচল থাকলে বিরুদ্ধবাদীরা অপবাদ দেবেই। এমন মিথ্যা অভিযোগে বিভ্রান্ত না হয়ে আল্লাহর ওপর ভরসা রাখুন।",
+  "context_en": "Pharaoh desperately tries to manipulate public opinion after the magicians openly turn away from him.",
+  "context_bn": "জাদুকরদের ঈমান আনার পর জনমত নিজেদের বিপক্ষে যাওয়ার ভয়ে ফির'আউন তাদের ওপর দেশদ্রোহিতার মিথ্যা অভিযোগ চাপিয়ে দেয়।",
+  "themes": [
+    "tyranny",
+    "false accusations",
+    "arrogance",
+    "persecution"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn"
+    ],
+    "nations": [
+      "magicians of Pharaoh"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Pharaoh's threat to magicians"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Pharaoh accused the magicians of staging a prior plot with Moses to drive the locals out of the city.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

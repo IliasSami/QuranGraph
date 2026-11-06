@@ -1,0 +1,85 @@
+{
+  "id": "33:24",
+  "simple_en": "God tests people so He may reward the truthful for their honesty. He will punish the hypocrites if He wills, or accept their return in repentance. God is Most Forgiving and full of mercy to those who seek Him.",
+  "simple_bn": "আল্লাহ এই সকল পরীক্ষার মাধ্যমে সত্যবাদীদের তাদের সত্যবাদিতার পূর্ণ প্রতিদান দান করবেন। আর তিনি চাইলে কপট মুনাফিকদের শাস্তি দেবেন অথবা তাদের তওবা কবুল করে ক্ষমা করবেন। নিশ্চয়ই আল্লাহ পরম ক্ষমাশীল ও অসীম দয়ালু।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "so that He may reward",
+      "meaning_bn": "যাতে তিনি পুরস্কৃত করেন",
+      "why_en": "Shows the ultimate divine purpose of distinguishing between sincerity and falsehood."
+    },
+    {
+      "pos": 3,
+      "root": "صدق",
+      "lemma": "صادِق",
+      "meaning_en": "the truthful",
+      "meaning_bn": "সত্যবাদীগণ",
+      "why_en": "Those who proved true to their faith through action and sacrifice."
+    },
+    {
+      "pos": 11,
+      "root": null,
+      "lemma": "عَلَى",
+      "meaning_en": "accept repentance",
+      "meaning_bn": "তওবা কবুল করেন",
+      "why_en": "Reveals that the door to divine mercy remains open even for repentant hypocrites."
+    },
+    {
+      "pos": 15,
+      "root": "غفر",
+      "lemma": "غَفُور",
+      "meaning_en": "Most Forgiving",
+      "meaning_bn": "পরম ক্ষমাশীল",
+      "why_en": "Affirms God's readiness to pardon those who return to Him with remorse."
+    }
+  ],
+  "lesson_en": "God rewards honest faith and keeps the door of mercy open for all who turn back to Him.",
+  "lesson_bn": "আল্লাহ সত্যবাদিতার উত্তম প্রতিদান দেন এবং আন্তরিকভাবে তওবাকারীদের জন্য ক্ষমার দরজা খোলা রাখেন।",
+  "real_life_en": "Strive to be completely honest in your daily words and deeds. If you make a mistake, turn back to God immediately with sincere repentance and trust in His mercy.",
+  "real_life_bn": "দৈনন্দিন কাজে সততা বজায় রাখুন। কোনো ভুল বা অন্যায় হয়ে গেলে নিরাশ না হয়ে সঙ্গে সঙ্গে আল্লাহর কাছে আন্তরিকভাবে তওবা করুন।",
+  "themes": [
+    "reward",
+    "punishment",
+    "forgiveness",
+    "repentance",
+    "honesty",
+    "Allah's mercy"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-ghafur",
+      "ar-rahim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah rewards the truthful for their truthfulness and either punishes hypocrites or accepts their repentance, for He is Forgiving and Merciful.",
+      "claim_bn": "আল্লাহ সত্যবাদীদের সত্যবাদিতার জন্য পুরস্কৃত করেন এবং মুনাফিকদের শাস্তি দেন অথবা তাদের তওবা কবুল করেন, কারণ তিনি ক্ষমাশীল ও দয়ালু।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

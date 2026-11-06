@@ -1,0 +1,78 @@
+{
+  "id": "55:35",
+  "simple_en": "Allah warns that if disobedient men and jinn try to escape, flames of fire and smoke will be sent against them. In that terrible hour, no one can help or save them from the punishment.",
+  "simple_bn": "আল্লাহ সতর্ক করছেন যে যদি অবিশ্বাসী মানুষ ও জিন পালানোর চেষ্টা করে, তবে তাদের দিকে লেলিহান আগুনের শিখা ও ঘন ধোঁয়া অথবা গলিত তামা নিক্ষেপ করা হবে। সেই ভয়াবহ মুহূর্তে তাদের রক্ষা করার মতো কোনো সাহায্যকারী থাকবে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "will be sent",
+      "meaning_bn": "নিক্ষেপ করা হবে",
+      "why_en": "Divine dispatch of fiery punishment against those who attempt escape."
+    },
+    {
+      "pos": 3,
+      "root": "شوظ",
+      "lemma": "شُواظ",
+      "meaning_en": "flame of smokeless fire",
+      "meaning_bn": "ধোঁয়াহীন আগুনের শিখা",
+      "why_en": "Fierce pure heat blocking any escape."
+    },
+    {
+      "pos": 6,
+      "root": "نحس",
+      "lemma": "نُحاس",
+      "meaning_en": "smoke / molten copper",
+      "meaning_bn": "ধোঁয়া / গলিত তামা",
+      "why_en": "Dense suffocating smoke or molten metal poured upon rebels."
+    },
+    {
+      "pos": 8,
+      "root": "نصر",
+      "lemma": "انتَصَرَ",
+      "meaning_en": "you will not defend yourselves",
+      "meaning_bn": "তোমরা সাহায্য পাবে না",
+      "why_en": "Total inability of creation to resist divine decree."
+    }
+  ],
+  "lesson_en": "Take divine warnings to heart. No one can protect you against Allah except His mercy.",
+  "lesson_bn": "আল্লাহর সতর্কবাণীকে গুরুত্ব দিন। তাঁর করুণা ছাড়া কেউ আপনাকে শাস্তি থেকে বাঁচাতে পারবে না।",
+  "real_life_en": "When reading about the fire of the Hereafter, let it move you to seek safety with Allah. Pray for protection from the fire and turn away from sinful habits while you have time.",
+  "real_life_bn": "জাহান্নামের শাস্তির কথা পড়লে আল্লাহর কাছে নিরাপত্তা চান। সময় থাকতে অন্যায় কাজ বর্জন করুন এবং ক্ষমা চেয়ে নিজেকে জাহান্নামের আগুন থেকে বাঁচান।",
+  "themes": [
+    "Hell",
+    "punishment",
+    "the Last Day"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "jinn",
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "A flame of fire and smoke will be sent upon rebellious men and jinn, and they will not be able to defend themselves.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,71 @@
+{
+ "id": "42:31",
+ "simple_en": "You cannot escape Allah anywhere on earth. If He wills to take you to account, no hiding place can protect you. Other than Allah, you have no true guardian or helper against His judgment.",
+ "simple_bn": "তোমরা যমীনে আল্লাহর পাকড়াও থেকে পালিয়ে বাঁচতে পারবে না। আল্লাহ ছাড়া তোমাদের কোনো প্রকৃত অভিভাবক নেই এবং তাঁর শাস্তির বিরুদ্ধে কোনো সাহায্যকারীও নেই।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "عجز",
+   "lemma": "مُعْجِز",
+   "meaning_en": "escaping / causing failure",
+   "meaning_bn": "পলায়নকারী / অপারগকারী",
+   "why_en": "Warns that no human power can evade Allah's will or authority."
+  },
+  {
+   "pos": 12,
+   "root": "ولي",
+   "lemma": "وَلِيّ",
+   "meaning_en": "a protector",
+   "meaning_bn": "অভিভাবক",
+   "why_en": "Declares that true safety and refuge exist only with the Creator."
+  },
+  {
+   "pos": 14,
+   "root": "نصر",
+   "lemma": "نَصِير",
+   "meaning_en": "a helper",
+   "meaning_bn": "সাহায্যকারী",
+   "why_en": "Shows that none can shield a wrongdoer from divine justice."
+  }
+ ],
+ "lesson_en": "None can escape Allah's decree, and true safety is found only with Him.",
+ "lesson_bn": "আল্লাহর সিদ্ধান্ত থেকে পালানোর কোনো উপায় নেই এবং একমাত্র তাঁর কাছেই প্রকৃত আশ্রয় পাওয়া যায়।",
+ "real_life_en": "Never rely on status, wealth, or powerful people to protect you from wrongdoing. Seek safety by staying obedient to Allah and living an honest life.",
+ "real_life_bn": "অন্যায়ের পরিণাম থেকে বাঁচতে কোনো ক্ষমতা বা প্রভাবের উপর নির্ভর করবেন না। সর্বদা আল্লাহর আনুগত্য মেনে চলুন এবং সৎভাবে জীবন যাপন করুন।",
+ "themes": [
+  "tawhid",
+  "Allah's power",
+  "trials"
+ ],
+ "kinds": [
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "None can escape Allah on earth, and none has any protector or helper besides Him.",
+   "claim_bn": "যমীনে কেউই আল্লাহকে অপারগ করতে পারবে না এবং তিনি ছাড়া কোনো অভিভাবক বা সাহায্যকারী নেই।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

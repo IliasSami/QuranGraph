@@ -1,0 +1,63 @@
+{
+  "id": "53:36",
+  "simple_en": "Did no one tell this person about the books of Prophet Musa (peace be upon him)? Past scriptures taught the exact same truth. Every soul must take responsibility for its own deeds.",
+  "simple_bn": "এই ব্যক্তিকে কি জানানো হয়নি মূসা (আলাইহিস সালাম)-এর কিতাবে কী লিখিত ছিল। যুগের পর যুগ ধরে আসমানী কিতাবসমূহের মূল শিক্ষা একই ছিল। পূর্বের আসমানী কিতাবগুলোতেও মানুষের ব্যক্তিগত দায়বদ্ধতা ও ন্যায়বিচারের কথা স্পষ্টভাবে বলা হয়েছে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نبأ",
+      "lemma": "نَبَّأَ",
+      "meaning_en": "informed / told",
+      "meaning_bn": "সংবাদ দেওয়া হয়েছে",
+      "why_en": "Divine knowledge conveyed through messengers and books."
+    },
+    {
+      "pos": 6,
+      "root": "صحف",
+      "lemma": "صُحُف",
+      "meaning_en": "scriptures / scrolls",
+      "meaning_bn": "পুস্তিকা বা কিতাবসমূহ",
+      "why_en": "The written revelations given to the earlier prophets."
+    }
+  ],
+  "lesson_en": "All prophets of Allah taught people to take responsibility for their deeds.",
+  "lesson_bn": "আল্লাহর সকল নবী মানুষের ব্যক্তিগত দায়বদ্ধতা ও ন্যায়বিচারের একই শিক্ষা দিয়েছিলেন।",
+  "real_life_en": "Read the stories of past prophets. Seeing how Allah guided ancient nations will strengthen your faith.",
+  "real_life_bn": "অতীতের নবী-রাসূলদের জীবনী ও দাওয়াত সম্পর্কে জানুন। এটি আসমানী কিতাবসমূহের মূল সত্যকে বুঝতে এবং ঈমান বৃদ্ধি করতে সাহায্য করবে।",
+  "context_en": "The Quran points back to earlier revealed scriptures to show the timeless unity of divine truth.",
+  "context_bn": "আল্লাহর দ্বীনের চিরন্তন ধারাবাহিকতা প্রমাণ করতে পূর্ববর্তী কিতাবের কথা স্মরণ করিয়ে দেওয়া হয়েছে।",
+  "themes": [
+    "stories of the prophets",
+    "revelation",
+    "justice"
+  ],
+  "kinds": [
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "musa"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "He was informed of what was in the scriptures revealed to Moses.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

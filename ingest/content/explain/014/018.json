@@ -1,0 +1,85 @@
+{
+  "id": "14:18",
+  "simple_en": "The deeds of those who deny their Lord are like ashes on a stormy day. A fierce wind blows them away, leaving nothing behind. They gain no benefit from all their effort. That is the ultimate loss.",
+  "simple_bn": "যারা তাদের রবকে অস্বীকার করে তাদের কাজের উপমা হলো ছাইয়ের মতো, যার ওপর দিয়ে ঝড়ের দিনে প্রচণ্ড বাতাস বয়ে যায়। তারা যা অর্জন করেছিল তার কিছুই তাদের কাজে আসে না। এটাই চরম বিভ্রান্তি ও মহা ক্ষতি।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "عمل",
+      "lemma": "عَمَل",
+      "meaning_en": "their deeds",
+      "meaning_bn": "তাদের কাজসমূহ",
+      "why_en": "Worldly efforts done without faith."
+    },
+    {
+      "pos": 6,
+      "root": "رمد",
+      "lemma": "رَماد",
+      "meaning_en": "like ashes",
+      "meaning_bn": "ছাইয়ের মতো",
+      "why_en": "Frail, weightless remains."
+    },
+    {
+      "pos": 9,
+      "root": "روح",
+      "lemma": "رِيح",
+      "meaning_en": "the wind",
+      "meaning_bn": "বাতাস",
+      "why_en": "A strong gale dispersing everything."
+    },
+    {
+      "pos": 12,
+      "root": "عصف",
+      "lemma": "عاصِف",
+      "meaning_en": "stormy",
+      "meaning_bn": "ঝড়ো",
+      "why_en": "Fierce stormy tempest."
+    },
+    {
+      "pos": 21,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "the straying",
+      "meaning_bn": "বিভ্রান্তি",
+      "why_en": "Wandering far from truth."
+    }
+  ],
+  "lesson_en": "Good deeds must be built on sincere faith, or they scatter like dust.",
+  "lesson_bn": "সৎকাজের ভিত্তি হতে হবে খাঁটি ঈমান, অন্যথায় তা ধূলিকণার মতো উড়ে যাবে।",
+  "real_life_en": "A rich man gives money away only to become famous. At the same time, he mocks faith. Because he has no faith in Allah, his gifts lose all value on the Last Day.",
+  "real_life_bn": "এক ধনী ব্যক্তি সুনাম অর্জনের জন্য দান করেন কিন্তু সৃষ্টিকর্তার বিধানকে উপহাস করেন। ঈমানহীন এই দান ঝড়ে উড়ে যাওয়া ছাইয়ের মতো পরকালে কোনো কাজে আসবে না।",
+  "context_en": "Parable comparing the deeds of disbelievers to ashes scattered by a fierce wind.",
+  "context_bn": "ঈমানহীন ভালো কাজের উপমা: ঝড়ের বাতাসে উড়ে যাওয়া মূল্যহীন ছাই।",
+  "themes": [
+    "parables",
+    "faith",
+    "deeds"
+  ],
+  "kinds": [
+    "parable",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The good deeds of disbelievers become weightless and scattered like ashes on a windy day.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

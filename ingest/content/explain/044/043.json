@@ -1,0 +1,65 @@
+{
+ "id": "44:43",
+ "simple_en": "Allah describes the terrifying reality of Hellfire. In the deepest depths of the Fire grows the bitter tree of Zaqqum. Its fruits are foul and foul-tasting, prepared for the wicked.",
+ "simple_bn": "মহান আল্লাহ জাহান্নামের এক ভয়াবহ বাস্তবতা বর্ণনা করছেন। আগুনের তলদেশে জন্মায় তিক্ত ও কদর্য যাক্কূম গাছ। এর ফল অতি নিকৃষ্ট ও দুর্গন্ধময়, যা পাপীদের জন্য প্রস্তুত রাখা হয়েছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "شجر",
+   "lemma": "شَجَرَة",
+   "meaning_en": "the tree",
+   "meaning_bn": "গাছ",
+   "why_en": "This plant grows in the very core of the raging Fire."
+  },
+  {
+   "pos": 3,
+   "root": "زقم",
+   "lemma": "زَقُّوم",
+   "meaning_en": "of Zaqqum",
+   "meaning_bn": "যাক্কূম",
+   "why_en": "Zaqqum is a dreadful tree designed to torment the inmates of Hell."
+  }
+ ],
+ "lesson_en": "Remember the warnings of Hell to keep your heart mindful and obedient.",
+ "lesson_bn": "জাহান্নামের শাস্তির কথা স্মরণ করে অন্তরকে সাবধান ও আল্লাহর অনুগত রাখুন।",
+ "real_life_en": "When sinful temptations urge you to do wrong, pause and think. Remind yourself that worldly pleasures are temporary, while the punishment of Hell is severe.",
+ "real_life_bn": "কোনো পাপ কাজের প্রলোভন এলে একটু থামুন এবং ভাবুন। মনে রাখবেন যে পার্থিব সুখ ক্ষণস্থায়ী, কিন্তু জাহান্নামের শাস্তি অত্যন্ত কঠিন।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "the unseen"
+ ],
+ "kinds": [
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "hell"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The tree of Zaqqum grows at the bottom of the Hellfire as a severe punishment.",
+   "claim_bn": "যাক্কূম গাছ জাহান্নামের তলদেশে জন্মায় যা পাপীদের শাস্তির জন্য নির্ধারিত।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": "7:164",
+  "simple_en": "Some people in the town asked the preachers why they warned sinners whom Allah would soon punish. The preachers replied that they spoke out to fulfill their duty and hoped the people might change.",
+  "simple_bn": "আর স্মরণ করুন, যখন তাদের একদল লোক বলল, 'আপনারা কেন এমন সম্প্রদায়কে উপদেশ দিচ্ছেন যাদের আল্লাহ ধ্বংস করবেন অথবা কঠিন শাস্তি দেবেন?' উপদেশদাতারা বললেন, 'তোমাদের রবের কাছে নিজেদের দায়মুক্তির জন্য এবং এই আশায় যে হয়তো তারা সাবধান হবে।'",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أمم",
+      "lemma": "أُمَّة",
+      "meaning_en": "a group / party",
+      "meaning_bn": "একদল লোক",
+      "why_en": "The neutral group who gave up on reforming their sinful neighbors."
+    },
+    {
+      "pos": 6,
+      "root": "وعظ",
+      "lemma": "وَعَظْ",
+      "meaning_en": "you advise / preach to",
+      "meaning_bn": "তোমরা উপদেশ দিচ্ছ",
+      "why_en": "The act of speaking out against evil to guide people."
+    },
+    {
+      "pos": 15,
+      "root": "عذر",
+      "lemma": "مَعْذِرَة",
+      "meaning_en": "as an excuse / to clear our duty",
+      "meaning_bn": "দায়মুক্তির জন্য / ওজর পেশের জন্য",
+      "why_en": "Standing before Allah having fulfilled the duty of enjoining good."
+    }
+  ],
+  "lesson_en": "Speak up against wrongdoing to clear your duty before God, even when people refuse to listen.",
+  "lesson_bn": "অন্যরা কথা না শুনলেও আল্লাহর কাছে নিজের দায়িত্ব পালনের স্বার্থে অন্যায়ের বিরুদ্ধে কথা বলা আবশ্যক।",
+  "real_life_en": "Do not stay silent when you see bad behavior just because you think people will not change. Speak kind words of advice. Doing your part clears your conscience and plants seeds of reform.",
+  "real_life_bn": "অন্যায় দেখলে চুপ থাকবেন না। অন্যরা উপদেশ গ্রহণ না করলেও সঠিক কথা সুন্দরভাবে তুলে ধরা আপনার ঈমানী দায়িত্ব।",
+  "context_en": "The division into three groups during the Sabbath violation: the violators, the active preachers, and the passive bystanders.",
+  "context_bn": "শনিবারের নিষেধাজ্ঞা লঙ্ঘনের সময় সমাজের তিন দলের প্রতিক্রিয়া ও সৎকাজের আদেশকারীদের দায়িত্বশীল জবাব।",
+  "themes": [
+    "enjoining good and forbidding evil",
+    "moral responsibility",
+    "social duty",
+    "perseverance"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "townspeople of Aylah"
+    ],
+    "places": [
+      "coastal town"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Ar-Rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When asked why they advised incorrigible sinners, the preachers replied that they did so to be absolved before Allah and hoping the sinners might fear Him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

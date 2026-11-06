@@ -1,0 +1,85 @@
+{
+  "id": "14:11",
+  "simple_en": "Their messengers answered: We are indeed only mortals like you. But Allah bestows His favor upon whichever of His servants He chooses. We cannot bring you a sign without the permission of Allah. In Allah alone let the faithful place their trust.",
+  "simple_bn": "তাদের রাসূলগণ উত্তর দিলেন: আমরা সত্যিই তোমাদের মতোই মানুষ। কিন্তু আল্লাহ তাঁর বান্দাদের মধ্য থেকে যাকে ইচ্ছে বিশেষ অনুগ্রহ দান করেন। আল্লাহর অনুমতি ছাড়া কোনো প্রমাণ নিয়ে আসা আমাদের কাজ নয়। আর মুমিনদের কেবল আল্লাহর ওপরই ভরসা করা উচিত।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "بشر",
+      "lemma": "بَشَر",
+      "meaning_en": "a human",
+      "meaning_bn": "মানুষ",
+      "why_en": "Human nature shared by prophets."
+    },
+    {
+      "pos": 11,
+      "root": "منن",
+      "lemma": "مَنَّ",
+      "meaning_en": "confers favor",
+      "meaning_bn": "অনুগ্রহ করেন",
+      "why_en": "Bestowing prophecy and virtue as a divine gift."
+    },
+    {
+      "pos": 22,
+      "root": "سلط",
+      "lemma": "سُلْطان",
+      "meaning_en": "an authority",
+      "meaning_bn": "প্রমাণ",
+      "why_en": "A miraculous sign."
+    },
+    {
+      "pos": 28,
+      "root": "وكل",
+      "lemma": "تَوَكَّلَ",
+      "meaning_en": "so let rely",
+      "meaning_bn": "ভরসা করা উচিত",
+      "why_en": "Placing complete reliance upon Allah."
+    },
+    {
+      "pos": 29,
+      "root": "أمن",
+      "lemma": "مُؤْمِن",
+      "meaning_en": "the believers",
+      "meaning_bn": "মুমিনগণ",
+      "why_en": "Those who have sincere faith."
+    }
+  ],
+  "lesson_en": "Put all your trust in Allah. He gives strength and guidance beyond human limits.",
+  "lesson_bn": "সকল বিষয়ে একমাত্র আল্লাহর ওপর ভরসা রাখুন। তিনি মানুষের সামর্থ্যের ঊর্ধ্বে শক্তি ও সাহায্য দান করেন।",
+  "real_life_en": "A volunteer starts a free clinic in a poor town with very little money. When critics say the task is impossible, she relies on Allah and keeps working. Donors soon arrive to help.",
+  "real_life_bn": "স্বল্প পুঁজি নিয়ে এক সমাজকর্মী গরিবদের জন্য বিনামূল্যে চিকিৎসাকেন্দ্র শুরু করেন। অনেকে একে অসম্ভব বললেও তিনি আল্লাহর ওপর ভরসা রেখে কাজ চালিয়ে যান। দ্রুতই সহযোগিতার হাত প্রসারিত হয়।",
+  "context_en": "The messengers' humble response acknowledging their human nature and total trust in Allah.",
+  "context_bn": "রাসূলদের বিনম্র উত্তর: নিজেদের সাধারণ মানুষ স্বীকার করে সকল কাজে আল্লাহর ওপর তাওয়াক্কুলের ঘোষণা।",
+  "themes": [
+    "prophethood",
+    "trust-in-allah",
+    "faith"
+  ],
+  "kinds": [
+    "belief",
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Prophets were human beings favored with revelation, unable to bring signs except by Allah's will.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

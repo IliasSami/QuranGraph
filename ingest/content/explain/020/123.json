@@ -1,0 +1,85 @@
+{
+  "id": "20:123",
+  "simple_en": "God said: Go down from here together as enemies to one another. When My guidance comes to you, whoever follows it will not go astray or suffer misery.",
+  "simple_bn": "আল্লাহ বললেন: তোমরা উভয়ে একে অপরের শত্রু হয়ে এখান থেকে নেমে যাও। অতঃপর আমার পক্ষ থেকে হেদায়েত এলে যে তা অনুসরণ করবে সে পথভ্রষ্টও হবে না, কষ্টেও পড়বে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "هبط",
+      "lemma": "ٱهْبِطَا",
+      "meaning_en": "descend both of you",
+      "meaning_bn": "তোমরা দুজন নেমে যাও",
+      "why_en": "Descent from Paradise to dwell on earth."
+    },
+    {
+      "pos": 7,
+      "root": "عدو",
+      "lemma": "عَدُوّ",
+      "meaning_en": "an enemy to each other",
+      "meaning_bn": "পরস্পরের শত্রু",
+      "why_en": "Perpetual moral conflict between humanity and Satan."
+    },
+    {
+      "pos": 16,
+      "root": "ضلل",
+      "lemma": "ضَلَّ",
+      "meaning_en": "will not go astray",
+      "meaning_bn": "পথভ্রষ্ট হবে না",
+      "why_en": "Protection from intellectual and moral error."
+    },
+    {
+      "pos": 18,
+      "root": "شقو",
+      "lemma": "شَقِيَ",
+      "meaning_en": "nor suffer misery",
+      "meaning_bn": "কষ্ট বা দুর্দশায় পড়বে না",
+      "why_en": "Protection from spiritual misery and despair."
+    }
+  ],
+  "lesson_en": "Following God's guidance brings inner peace. It keeps a person safe from grief in both worlds.",
+  "lesson_bn": "আল্লাহর হেদায়েতের অনুসরণ মানুষকে দুনিয়াতে বিভ্রান্তি থেকে এবং আখেরাতে অনন্ত দুর্দশা থেকে রক্ষা করে।",
+  "real_life_en": "Hold tight to the teachings of the Quran. Following divine rules protects you from anxiety, regret, and confusion.",
+  "real_life_bn": "কুরআনের শিক্ষাকে জীবনের পাথেয় বানান। আল্লাহর বিধান মেনে চললে মন অশান্তি ও পাপের গ্লানি থেকে মুক্ত থাকে।",
+  "themes": [
+    "divine-guidance",
+    "earthly-life",
+    "protection-from-misery"
+  ],
+  "kinds": [
+    "command",
+    "promise",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "Adam",
+      "Iblis"
+    ],
+    "nations": [],
+    "places": [
+      "earth"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Descent to Earth"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God promised that whoever follows His guidance will neither go astray nor suffer misery.",
+      "claim_bn": "আল্লাহ প্রতিশ্রুতি দিয়েছেন যে তাঁর হেদায়েত অনুসরণকারী কখনো পথভ্রষ্ট হবে না এবং দুর্ভাগ্যে পতিত হবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

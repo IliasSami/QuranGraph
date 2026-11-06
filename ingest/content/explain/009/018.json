@@ -1,0 +1,75 @@
+{
+  "id": "9:18",
+  "simple_en": "The mosques of Allah should only be cared for by those who believe in Allah and the Last Day. They pray, give charity, and fear none but Allah. These are the ones who are guided on the true path.",
+  "simple_bn": "আল্লাহর মসজিদসমূহ কেবল তারাই আবাদ করবে যারা আল্লাহ ও পরকালের প্রতি ঈমান আনে, সালাত কায়েম করে, যাকাত দেয় এবং আল্লাহ ছাড়া কাউকে ভয় করে না। আশা করা যায় তারাই সঠিক পথের অনুসারী হবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عمر",
+      "lemma": "عَمَرُ",
+      "meaning_en": "maintains / cares for",
+      "meaning_bn": "আবাদ করে / পরিচালনা করে",
+      "why_en": "Fulfilling the spiritual, physical, and moral duties of mosques."
+    },
+    {
+      "pos": 8,
+      "root": "يوم",
+      "lemma": "يَوْم",
+      "meaning_en": "Day / Last Day",
+      "meaning_bn": "দিবস / শেষ দিবস",
+      "why_en": "Belief in resurrection, divine reckoning, and ultimate accountability."
+    },
+    {
+      "pos": 23,
+      "root": "هدي",
+      "lemma": "مُهْتَدي",
+      "meaning_en": "the guided ones",
+      "meaning_bn": "সৎপথপ্রাপ্ত",
+      "why_en": "Those whose inner devotion reflects correctly in action."
+    }
+  ],
+  "lesson_en": "True faith, prayer, and charity bring life to the mosque.",
+  "lesson_bn": "উপাসনালয়ের সেবা করার জন্য গভীর ঈমান, নিয়মানুবর্তিতা, দানশীলতা এবং একমাত্র আল্লাহর ভয় থাকা জরুরি।",
+  "real_life_en": "Help your local center with your time and care, not just money from far away.",
+  "real_life_bn": "এলাকার সামাজিক বা ধর্মীয় প্রতিষ্ঠানের সাথে নিয়মিত যুক্ত থাকুন, শুধু অর্থ সাহায্য নয়, নিজের উপস্থিতি ও শ্রম দিয়েও সেবা করুন।",
+  "themes": [
+    "building mosques",
+    "worship",
+    "guidance"
+  ],
+  "kinds": [
+    "law",
+    "command",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [
+      "Last Day"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Mosques are legitimately maintained by those who believe in the Last Day, pray, pay zakah, and fear Allah alone.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

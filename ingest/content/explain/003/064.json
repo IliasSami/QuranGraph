@@ -1,0 +1,107 @@
+{
+  "id": "3:64",
+  "simple_en": "Tell the People of the Scripture: Come to a just word that is fair between us and you. Let us worship none but Allah alone. Let us associate nothing with Him, and let none of us take other humans as lords beside Him. If they turn away, tell them plainly to witness that we have submitted to Allah as Muslims.",
+  "simple_bn": "বলুন, হে কিতাবধারীগণ! এসো এমন এক ন্যায়সঙ্গত কথায় যা আমাদের ও তোমাদের মাঝে সমান। আমরা একমাত্র আল্লাহ ছাড়া কারও ইবাদত করব না। তাঁর সাথে কাউকে শরিক করব না। আর আমাদের কেউ আল্লাহকে বাদ দিয়ে অন্য কাউকে রব হিসেবে গ্রহণ করব না। এরপরও যদি তারা মুখ ফিরিয়ে নেয়, তবে বলো: তোমরা সাক্ষী থাকো, নিশ্চয়ই আমরা মুসলিম।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "كلم",
+      "lemma": "كَلِمَة",
+      "meaning_en": "a word / statement",
+      "meaning_bn": "একটি বাক্য / মূলনীতি",
+      "why_en": "Refers to the core creed of monotheism common to all divine messages."
+    },
+    {
+      "pos": 7,
+      "root": "سوي",
+      "lemma": "سَواء",
+      "meaning_en": "just / equitable",
+      "meaning_bn": "ন্যায়সঙ্গত / অভিন্ন",
+      "why_en": "Points to a fair principle in which all human beings stand on equal ground."
+    },
+    {
+      "pos": 22,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "lords",
+      "meaning_bn": "প্রভুগণ",
+      "why_en": "Warns against elevating clergy or humans to divine status by obeying them in altering divine law."
+    },
+    {
+      "pos": 31,
+      "root": "سلم",
+      "lemma": "مُسْلِم",
+      "meaning_en": "those who submit (Muslims)",
+      "meaning_bn": "আত্মসমর্পণকারী / মুসলিম",
+      "why_en": "Expresses the defining identity of wholehearted submission to Allah alone."
+    }
+  ],
+  "lesson_en": "Base all dialogue on pure monotheism and declare your faith with dignity and peace.",
+  "lesson_bn": "অন্য ধর্মাবলম্বীদের সাথে আলোচনায় আল্লাহর একত্ববাদের অভিন্ন ভিত্তিকে তুলে ধরুন এবং নিজের বিশ্বাসকে স্পষ্টভাবে ঘোষণা করুন।",
+  "real_life_en": "When talking with people of other backgrounds, start with common ground. Invite them to honor the One Creator who made everyone. If they disagree, stay respectful and remain firm in your own faith.",
+  "real_life_bn": "ভিন্ন বিশ্বাসের মানুষের সাথে আলোচনার সময় পারস্পরিক শ্রদ্ধাবোধ বজায় রেখে এক আল্লাহর আনুগত্যের মূল নীতি তুলে ধরুন। মতের অমিল হলেও সুন্দর ব্যবহারের মাধ্যমে নিজের দ্বীনি পরিচয় বজায় রাখুন।",
+  "context_en": "Calls the People of the Scripture to a shared foundation of pure monotheism after the debate concerning Jesus.",
+  "context_bn": "ঈসা (আলাইহিস সালাম) সম্পর্কিত বিতর্কের পর কিতাবধারীদের একত্ববাদের ন্যায়সঙ্গত অভিন্ন ভিত্তির দিকে আহ্বান জানানো হয়েছে।",
+  "themes": [
+    "tawhid",
+    "worship",
+    "shirk",
+    "faith",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "command",
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "People of the Book",
+      "Jews",
+      "Christians"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet is commanded to invite the People of the Book to unite upon worshiping Allah alone without associates.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Human beings must not take one another as lords by following religious authorities in changing divine laws.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-maarif",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "If opponents refuse, believers should ask them to witness that they are Muslims submitted to Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

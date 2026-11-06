@@ -1,0 +1,66 @@
+{
+  "id": "32:3",
+  "simple_en": "The disbelievers claimed that the Prophet made up this message himself. But it is the pure truth from your Lord. It was sent so that you may warn a people who had not received a warner before, so they might find the right path.",
+  "simple_bn": "কাফেররা দাবি করত যে রাসুল নিজে এই বাণী রচনা করেছেন। কিন্তু এটি আপনার রবের পক্ষ থেকে আসা চিরন্তন সত্য। এটি এমন এক জাতির কাছে পাঠানো হয়েছে যাদের কাছে আগে কোনো সতর্ককারী আসেননি, যেন তারা সঠিক পথের দিশা পায়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "فري",
+      "lemma": "افْتَرَى",
+      "meaning_en": "he invented it / fabricated it",
+      "meaning_bn": "সে এটি নিজে রচনা করেছে",
+      "why_en": "Quotes the false accusation leveled against the Prophet."
+    },
+    {
+      "pos": 6,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "চিরন্তন সত্য",
+      "why_en": "Confirms that the revelation is unblemished divine truth."
+    }
+  ],
+  "lesson_en": "Divine truth arrives to guide people and warn them before it is too late.",
+  "lesson_bn": "আল্লাহর পক্ষ থেকে প্রেরিত সত্য মানুষকে সঠিক পথ দেখায় এবং পথভ্রষ্টতার ক্ষতি থেকে সতর্ক করে।",
+  "real_life_en": "Share truthful advice with kindness. Remind those around you of what is good, so they can live with purpose and peace.",
+  "real_life_bn": "অন্যদের কল্যাণে সদুপদেশ দিন এবং নম্রতার সাথে সত্যের কথা স্মরণ করিয়ে দিন। এতে সমাজে শান্তি ও ন্যায়ের বিস্তার ঘটবে।",
+  "themes": [
+    "prophethood",
+    "truth",
+    "warning",
+    "guidance"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [
+      "Quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran is not an invention of the Prophet, but divine truth revealed to warn humanity.",
+      "claim_bn": "কুরআন মানব রচিত কোনো গ্রন্থ নয়, বরং মানুষকে সতর্ক ও সৎপথ প্রদর্শনের জন্য আল্লাহর পক্ষ থেকে প্রেরিত সত্য বাণী।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

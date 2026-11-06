@@ -1,0 +1,121 @@
+{
+ "id": "2:213",
+ "simple_en": "All people were once one united community following true faith. When they split into groups, Allah sent prophets to bring good news to the obedient and warn the disobedient. He sent holy books with the truth to judge between them. Yet the people who received the book argued out of jealousy, even after clear proofs came. By His will, Allah guided the believers to the truth. Allah guides whom He wills to the straight path.",
+ "simple_bn": "মানবজাতি আদিতে তাওহীদের উপর প্রতিষ্ঠিত এক ঐক্যবদ্ধ জাতি ছিল। পরবর্তীতে তাদের মধ্যে মতভেদ ও পথভ্রষ্টতা দেখা দিলে, আল্লাহ সুসংবাদদাতা ও সতর্ককারী হিসেবে নবী-রাসূলগণকে প্রেরণ করেন। মানুষের বিরোধপূর্ণ বিষয়ের সঠিক ফায়সালা করার জন্য তিনি সত্য কিতাব নাযিল করেন। কিন্তু যাদের কিতাব দেওয়া হয়েছিল, স্পষ্ট প্রমাণ পাওয়ার পরেও তারা কেবল পারস্পরিক বিদ্বেষ ও অহংকারের কারণে বিভেদে লিপ্ত হয়েছিল। অতঃপর আল্লাহ নিজ অনুগ্রহে মুমিনদের সেই মতভেদপূর্ণ সত্যের সঠিক দিশা দিয়েছেন। আল্লাহ যাকে ইচ্ছা সরল পথে পরিচালিত করেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "أمم",
+   "lemma": "أُمَّة",
+   "meaning_en": "community (nation)",
+   "meaning_bn": "জাতি বা সম্প্রদায়",
+   "why_en": "Describes humanity's original unity upon true monotheism before corruption spread."
+  },
+  {
+   "pos": 8,
+   "root": "بشر",
+   "lemma": "مُبَشِّر",
+   "meaning_en": "bearers of good tidings",
+   "meaning_bn": "সুসংবাদদাতা",
+   "why_en": "Highlights the prophetic role of delivering news of divine mercy and Paradise to the faithful."
+  },
+  {
+   "pos": 9,
+   "root": "نذر",
+   "lemma": "مُنذِر",
+   "meaning_en": "warners",
+   "meaning_bn": "সতর্ককারী",
+   "why_en": "Highlights the prophetic duty to caution wrongdoers against divine punishment and error."
+  },
+  {
+   "pos": 31,
+   "root": "بغي",
+   "lemma": "بَغْي",
+   "meaning_en": "rivalry (envy and injustice)",
+   "meaning_bn": "বিদ্বেষ ও হঠকারিতা",
+   "why_en": "Points out that theological deviation was driven by stubborn jealousy rather than lack of proof."
+  },
+  {
+   "pos": 48,
+   "root": "صرط",
+   "lemma": "صِراط",
+   "meaning_en": "path",
+   "meaning_bn": "পথ",
+   "why_en": "Refers to the unwavering way of truth and righteous belief to which Allah guides."
+  }
+ ],
+ "lesson_en": "Follow Allah's Book to solve disputes, and do not let pride divide you.",
+ "lesson_bn": "ঐশী বাণীর নির্দেশনা আঁকড়ে ধরুন এবং ব্যক্তিগত অহমিকা বা হিংসা-বিদ্বেষের কারণে দ্বীনের মাঝে বিভেদ সৃষ্টি করবেন না।",
+ "real_life_en": "When you argue with a family member or friend, do not let anger or pride take control. Sit down and look at what the Quran and the Prophet ﷺ taught about fairness and peace. Accepting the truth shows true strength.",
+ "real_life_bn": "পরিবার বা সমাজে মতভেদ দেখা দিলে নিজের জেদ বা অহংকার বড় করে দেখবেন না। কুরআন ও সুন্নাহর সুস্পষ্ট নির্দেশনার সামনে বিনম্র থাকুন এবং ইনসাফ ও ভ্রাতৃত্বের সাথে সমস্যার সমাধান করুন।",
+ "context_en": "Traces the historical root of human division, explaining why messengers and scriptures were sent to restore truth and guide believers.",
+ "context_bn": "মানুষের মতবিরোধের ঐতিহাসিক পটভূমি তুলে ধরে স্পষ্ট করা হয়েছে কেন আল্লাহ কিতাবসহ রাসূলদের পাঠিয়েছেন এবং কীভাবে মুমিনরা সত্যের পথে অটল থাকে।",
+ "themes": [
+  "prophethood",
+  "revelation",
+  "guidance",
+  "the Quran",
+  "Children of Israel",
+  "unity",
+  "faith"
+ ],
+ "kinds": [
+  "story",
+  "belief",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "Scripture"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Humanity initially existed as one united community following true monotheism before religious disputes emerged.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Allah sent prophets with divine scriptures to deliver glad tidings, issue warnings, and arbitrate between people in their disputes.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Past recipients of scriptures divided not from lack of evidence, but out of mutual envy, rivalry, and transgression.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Allah by His permission guided the believers to the truth concerning matters wherein others disputed.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

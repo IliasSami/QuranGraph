@@ -1,0 +1,74 @@
+{
+  "id": "11:19",
+  "simple_en": "These wrongdoers prevent others from following the path of Allah and try to make it look crooked. They stubbornly deny that there will be an eternal life after death.",
+  "simple_bn": "যারা মানুষকে আল্লাহর পথ থেকে বাধা দেয় এবং তাতে বক্রতা অনুসন্ধান করে, আর তারাই পরকালকে অস্বীকার করে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "صدد",
+      "lemma": "يَصُدُّونَ",
+      "meaning_en": "they hinder / avert",
+      "meaning_bn": "তারা বাধা দেয়",
+      "why_en": "Blocking people from hearing and accepting truth."
+    },
+    {
+      "pos": 4,
+      "root": "سبل",
+      "lemma": "سَبِيل",
+      "meaning_en": "path / way",
+      "meaning_bn": "পথ",
+      "why_en": "The straight and clear religion of God."
+    },
+    {
+      "pos": 7,
+      "root": "عوج",
+      "lemma": "عِوَج",
+      "meaning_en": "crookedness / deviation",
+      "meaning_bn": "বক্রতা",
+      "why_en": "Attempting to distort straight divine guidance."
+    }
+  ],
+  "lesson_en": "Guiding people toward righteousness brings blessings, while misleading them brings ruin.",
+  "lesson_bn": "মানুষকে কল্যাণের পথে ডাকা সওয়াবের কাজ, আর আল্লাহর পথ থেকে দূরে সরানো মহা ধ্বংসের কারণ।",
+  "real_life_en": "Encourage family and friends to pray and live honestly. Never mock someone who is trying to practice their faith sincerely.",
+  "real_life_bn": "অন্যকে সৎকাজে উৎসাহিত করুন। কেউ দ্বীন পালনের চেষ্টা করলে তাকে নিরুৎসাহিত বা কটূক্তি করবেন না।",
+  "themes": [
+    "obstructing God's path",
+    "distorting truth",
+    "denial of the Hereafter"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hereafter"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "Path of Allah"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The unjust actively divert people from Allah's straight path and reject the reality of resurrection and judgment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

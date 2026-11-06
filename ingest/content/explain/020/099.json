@@ -1,0 +1,65 @@
+{
+  "id": "20:99",
+  "simple_en": "God tells these true stories of the past to Prophet Muhammad. They comfort his noble heart. God also gave him the Quran as a clear guide full of wisdom.",
+  "simple_bn": "আল্লাহ নবী মুহাম্মাদের অন্তরকে সান্ত্বনা দিতে অতীতের এই ঘটনাবলি বর্ণনা করেছেন। তিনি তাঁর পক্ষ থেকে কুরআনকে এক পরম উপদেশ হিসেবে অবতীর্ণ করেছেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قصص",
+      "lemma": "نَقُصُّ",
+      "meaning_en": "We narrate",
+      "meaning_bn": "আমরা বর্ণনা করি",
+      "why_en": "Divine storytelling imparting timeless wisdom."
+    },
+    {
+      "pos": 13,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "a reminder",
+      "meaning_bn": "উপদেশ বা স্মারক",
+      "why_en": "The Holy Quran awakening human moral consciousness."
+    }
+  ],
+  "lesson_en": "Stories of the prophets in the Quran guide our minds. They bring peace to our hearts.",
+  "lesson_bn": "কুরআনে বর্ণিত নবীদের জীবনগাথা আমাদের জন্য বিশেষ উপদেশ, যা মনকে শান্ত ও চরিত্রকে দৃঢ় করে।",
+  "real_life_en": "Read the stories of the Quran often. Let historical examples of faith guide your daily decisions.",
+  "real_life_bn": "নিয়মিত কুরআনের ঘটনাবলি পাঠ করুন। অতীতের নবীদের জীবনাদর্শ থেকে বর্তমানের বাস্তব জীবনে সঠিক পথের শিক্ষা নিন।",
+  "themes": [
+    "quranic-narratives",
+    "revelation",
+    "reminder"
+  ],
+  "kinds": [
+    "story",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God relates historical narratives to Prophet Muhammad through the Quran as a vital reminder.",
+      "claim_bn": "আল্লাহ কুরআনের মাধ্যমে নবী মুহাম্মাদকে অতীত জাতিসমূহের ঘটনা স্মরণ করিয়ে দিয়ে উপদেশ দান করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

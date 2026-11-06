@@ -1,0 +1,99 @@
+{
+  "id": "3:65",
+  "simple_en": "O People of the Scripture, why do you argue about Abraham? Some of you claim he was a Jew, while others claim he was a Christian. Both the Torah and the Gospel were revealed long after his time. How can anyone belong to a religion whose book did not yet exist? Will you not use your common sense?",
+  "simple_bn": "হে কিতাবধারীগণ, ইব্রাহীম (আলাইহিস সালাম) সম্পর্কে তোমরা কেন বিতর্ক করছ? অথচ তাওরাত ও ইঞ্জিল তো তাঁর অনেক কাল পরেই অবতীর্ণ হয়েছিল। তবে কি তোমরা সামান্য বুদ্ধিটুকুও খাটাবে না?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أهل",
+      "lemma": "أَهْل",
+      "meaning_en": "people of / family of",
+      "meaning_bn": "অধিবাসী / অনুসারী",
+      "why_en": "Addresses the communities who received previous heavenly scriptures."
+    },
+    {
+      "pos": 4,
+      "root": "حجج",
+      "lemma": "حاجَّ",
+      "meaning_en": "do you argue",
+      "meaning_bn": "তোমরা বিতর্ক করছ",
+      "why_en": "Points out obstinate argumentation that contradicts clear historical facts."
+    },
+    {
+      "pos": 8,
+      "root": "نزل",
+      "lemma": "أَنزَلَ",
+      "meaning_en": "was sent down / revealed",
+      "meaning_bn": "অবতীর্ণ করা হয়েছিল",
+      "why_en": "Emphasizes the chronological revelation of the Torah and Gospel long after Abraham."
+    },
+    {
+      "pos": 15,
+      "root": "عقل",
+      "lemma": "عَقَلُ",
+      "meaning_en": "you use reason",
+      "meaning_bn": "তোমরা বুদ্ধি খাটাও",
+      "why_en": "A direct appeal to apply sound logic and historical chronology."
+    }
+  ],
+  "lesson_en": "Base your beliefs on sound evidence and clear facts, not on wishful thinking.",
+  "lesson_bn": "সত্য যাচাইয়ে সুস্পষ্ট প্রমাণ ও সাধারণ বুদ্ধির প্রয়োগ করুন, অন্ধ ধারণার বশবর্তী হবেন না।",
+  "real_life_en": "Check facts before you argue about history or faith. Do not claim past leaders for your group when facts prove otherwise. Clear thinking saves you from silly debates.",
+  "real_life_bn": "কোনো বিষয়ে বিতর্ক করার আগে ইতিহাস ও তথ্য যাচাই করুন। সত্যের মুখোমুখি হলে অনর্থক দাবি ছেড়ে যুক্তিসঙ্গত প্রমাণ মেনে নেওয়াই বুদ্ধিমানের কাজ।",
+  "context_en": "Exposes the chronological impossibility of claims by Jews and Christians that Abraham belonged exclusively to their religions.",
+  "context_bn": "ইব্রাহীম (আলাইহিস সালাম) ইহুদি বা খ্রিস্টান ছিলেন বলে উভয় দলের দাবির ঐতিহাসিক অসারতা তুলে ধরা হয়েছে।",
+  "themes": [
+    "reflection",
+    "argument",
+    "stories of the prophets",
+    "revelation",
+    "Children of Israel"
+  ],
+  "kinds": [
+    "argument",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim (Abraham)"
+    ],
+    "nations": [
+      "People of the Book",
+      "Jews",
+      "Christians"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Torah",
+      "the Gospel"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Jews and Christians disputed over Abraham, each claiming he adhered to their respective faith.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "The Torah and Gospel were revealed centuries after Abraham, showing the logical impossibility of him being Jewish or Christian.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,71 @@
+{
+ "id": "44:13",
+ "simple_en": "How can their sudden promise be trusted now? A clear and honest messenger had already come to them before. He explained the truth plainly, yet they refused to accept his guidance.",
+ "simple_bn": "এখন তাদের এই আকস্মিক উপদেশ গ্রহণের কী মূল্য আছে? অথচ ইতোপূর্বে তাদের কাছে সুস্পষ্ট সত্য নিয়ে এক বিশ্বস্ত রাসূল এসেছিলেন। তিনি সব পরিষ্কারভাবে তুলে ধরা সত্ত্বেও তারা তা মানেনি।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "ذكر",
+   "lemma": "ذِكْرَى",
+   "meaning_en": "the reminder / taking heed",
+   "meaning_bn": "উপদেশ গ্রহণ",
+   "why_en": "Taking heed only when punishment arrives is rarely lasting or sincere."
+  },
+  {
+   "pos": 6,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "a messenger",
+   "meaning_bn": "এক রাসূল",
+   "why_en": "Prophet Muhammad ﷺ came to them with unquestioned integrity and truth."
+  },
+  {
+   "pos": 7,
+   "root": "بين",
+   "lemma": "مُبِين",
+   "meaning_en": "clear / clarifying",
+   "meaning_bn": "সুস্পষ্ট",
+   "why_en": "His message and personal honesty were completely open and evident."
+  }
+ ],
+ "lesson_en": "Accept the truth when it comes to you rather than delaying until it is too late.",
+ "lesson_bn": "সত্য জানার সাথে সাথে তা গ্রহণ করুন, সময় শেষ হয়ে যাওয়া পর্যন্ত দেরি করবেন না।",
+ "real_life_en": "When someone offers you good moral advice, listen right away. Delaying change until trouble strikes often leads to regret.",
+ "real_life_bn": "কেউ সঠিক উপদেশ দিলে তা সাথে সাথে গ্রহণ করার চেষ্টা করুন। বিপদে পড়া পর্যন্ত পরিবর্তন পিছিয়ে দিলে অনুশোচনা ছাড়া কিছু মেলে না।",
+ "themes": [
+  "prophethood",
+  "reflection",
+  "guidance"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Their late repentance is questioned because a clear messenger had already come to them and was rejected.",
+   "claim_bn": "দেরিতে তওবা করার প্রবণতাকে প্রশ্নবিদ্ধ করা হয়েছে, কারণ সুস্পষ্ট প্রমাণসহ রাসূল আগমন করার পরও তাঁকে প্রত্যাখ্যান করা হয়েছিল।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

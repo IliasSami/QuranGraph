@@ -1,0 +1,66 @@
+{
+  "id": "27:20",
+  "simple_en": "Solomon checked his birds and noticed that the hoopoe was missing. He asked why he could not see the bird. He wondered if it had stayed away without leave.",
+  "simple_bn": "সুলাইমান পাখিদের সৈন্যদল তদারকি করলেন এবং লক্ষ্য করলেন যে হুদহুদ পাখিটি অনুপস্থিত। তিনি সতর্কতার সাথে জিজ্ঞেস করলেন কেন তিনি তাকে দেখতে পাচ্ছেন না, সে কি সত্যিই দল থেকে অনুপস্থিত রয়েছে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "arabic": "وَتَفَقَّدَ",
+      "root": "فقد",
+      "lemma": "تَفَقَّدَ",
+      "meaning_en": "And he inspected",
+      "meaning_bn": "এবং তিনি সন্ধান নিলেন",
+      "why_en": "Carefully checking on all members of his assembly."
+    },
+    {
+      "pos": 8,
+      "arabic": "ٱلْهُدْهُدَ",
+      "root": "هدهد",
+      "lemma": "هُدْهُد",
+      "meaning_en": "the hoopoe",
+      "meaning_bn": "হুদহুদ পাখি",
+      "why_en": "The bird tasked with scouting duties."
+    }
+  ],
+  "lesson_en": "A good leader pays attention to everyone under his care. He notices when someone is missing.",
+  "lesson_bn": "দক্ষ ও দায়িত্বশীল নেতা সবসময় তাঁর অধীনস্থদের খোঁজখবর রাখেন এবং প্রতিটি কাজের জবাবদিহিতা নিশ্চিত করেন।",
+  "real_life_en": "Care for the people around you at home and at work. Check on them when they are absent.",
+  "real_life_bn": "নিজ দায়িত্বের আওতায় থাকা মানুষদের খোঁজখবর রাখুন। কেউ অনুপস্থিত থাকলে কারণ জানার চেষ্টা করুন।",
+  "themes": [
+    "sulayman",
+    "hoopoe",
+    "leadership"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Solomon"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "hoopoe"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Solomon inspected the birds and noticed the absence of the hoopoe, asking for an explanation.",
+      "claim_bn": "সুলাইমান পাখিদের দল তদারকি করে হুদহুদ পাখির অনুপস্থিতি লক্ষ্য করেন এবং তার কারণ অনুসন্ধান করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

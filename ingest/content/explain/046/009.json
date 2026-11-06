@@ -1,0 +1,76 @@
+{
+ "id": "46:9",
+ "simple_en": "Say: I am not the first messenger to be sent to mankind. Many messengers came before me with the same message of faith. I do not claim to know the unseen, nor do I know what will happen to me or to you in this life except what Allah reveals. I only follow the divine guidance sent down to me, and I am only a clear warner.",
+ "simple_bn": "বলুন, রাসূলগণের মধ্যে আমি কোনো প্রথম বা অভিনব ব্যক্তি নই। আমার আগেও বহু রাসূল একই তাওহীদের বাণী নিয়ে এসেছেন। ওহীর জ্ঞান ছাড়া আমার বা তোমাদের সাথে পার্থিব জীবনে কী ঘটবে তা আমি জানি না। আমার প্রতি যে ওহী পাঠানো হয়, আমি কেবল তারই অনুসরণ করি এবং আমি একজন প্রকাশ্য সতর্ককারী মাত্র।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "بدع",
+   "lemma": "بِدْع",
+   "meaning_en": "a novelty / something new",
+   "meaning_bn": "প্রথম বা অভিনব",
+   "why_en": "Prophet Muhammad ﷺ was not the first messenger; many came before him."
+  },
+  {
+   "pos": 18,
+   "root": "وحي",
+   "lemma": "أَوْحَى",
+   "meaning_en": "is revealed / inspired",
+   "meaning_bn": "ওহী করা হয়",
+   "why_en": "He followed divine revelation in every command and action."
+  },
+  {
+   "pos": 23,
+   "root": "نذر",
+   "lemma": "نَذِير",
+   "meaning_en": "a warner",
+   "meaning_bn": "সতর্ককারী",
+   "why_en": "His core mission was to give clear warning of Allah's punishment."
+  }
+ ],
+ "lesson_en": "The Prophet ﷺ followed what Allah sent down. He gave people a clear warning.",
+ "lesson_bn": "রাসূলুল্লাহ ﷺ নিখুঁতভাবে ওহীর অনুসরণ করতেন এবং মানুষকে সত্যের সুস্পষ্ট সতর্কবার্তা দিতেন।",
+ "real_life_en": "Never claim to know what only Allah knows. Live with an open and humble heart. Follow the clear guidance of the Quran each day, just as the Prophet ﷺ did.",
+ "real_life_bn": "যা কেবল আল্লাহ জানেন সে বিষয়ে মনগড়া দাবি করবেন না। প্রিয় নবী ﷺ যেভাবে ওহীর বিধান নিষ্ঠার সাথে মেনে চলতেন, তেমনি আপনিও নম্রতার সাথে আল্লাহর বিধান অনুসরণ করুন।",
+ "themes": [
+  "prophethood",
+  "revelation",
+  "humility",
+  "the unseen",
+  "warning"
+ ],
+ "kinds": [
+  "belief",
+  "argument",
+  "command"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Prophet Muhammad ﷺ is not a novel messenger but follows revelation as a clear warner, without claiming independent knowledge of the unseen.",
+   "claim_bn": "মুহাম্মাদ ﷺ প্রথম কোনো নতুন রাসূল নন, বরং তিনি ওহীর অনুসারী এক স্পষ্ট সতর্ককারী এবং তিনি গায়েবের স্বাধীন জ্ঞানের দাবি করেন না।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

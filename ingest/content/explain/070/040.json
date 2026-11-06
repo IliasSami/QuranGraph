@@ -1,0 +1,88 @@
+{
+ "id": "70:40",
+ "simple_en": "Allah swears by His own majesty as the Lord of every place where the sun, moon, and stars rise and set. As seasons change, the points of sunrise and sunset shift across the sky. The One who controls these vast celestial movements has perfect power over all things. Bringing people back to life is easy for Him.",
+ "simple_bn": "আল্লাহ সূর্য, চাঁদ ও তারকারাজি উদয় এবং অস্তের সমস্ত দিগন্তের রব হিসেবে শপথ করেছেন। ঋতু পরিবর্তনের সাথে সাথে আকাশে সূর্য ওঠার ও ডোবার স্থান পরিবর্তিত হয়। যিনি আকাশের এই বিশাল ব্যবস্থাকে নিয়ন্ত্রণ করেন, সবকিছুর ওপর তাঁর পূর্ণ ক্ষমতা রয়েছে। মানুষকে পুনরুত্থিত করা তাঁর জন্য অত্যন্ত সহজ।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "the Lord",
+   "meaning_bn": "রব, প্রতিপালক",
+   "why_en": "It names Allah who owns and controls the entire universe."
+  },
+  {
+   "pos": 4,
+   "root": "شرق",
+   "lemma": "مَشْرِق",
+   "meaning_en": "the rising places",
+   "meaning_bn": "উদয়াচলসমূহ, পূর্ব দিগন্ত",
+   "why_en": "Plural form pointing to the different places where the sun and stars rise each day."
+  },
+  {
+   "pos": 5,
+   "root": "غرب",
+   "lemma": "مَغْرِب",
+   "meaning_en": "the setting places",
+   "meaning_bn": "অস্তাচলসমূহ, পশ্চিম দিগন্ত",
+   "why_en": "Plural form showing the daily shifting points of sunset across the seasons."
+  },
+  {
+   "pos": 7,
+   "root": "قدر",
+   "lemma": "قادِر",
+   "meaning_en": "all-capable, able",
+   "meaning_bn": "সক্ষম, পরম পরাক্রমশালী",
+   "why_en": "It affirms that Allah has complete power to do whatever He wills."
+  }
+ ],
+ "lesson_en": "Look at the rising and setting sun to see the endless power of Allah over all creation.",
+ "lesson_bn": "সূর্য ওঠা ও ডোবার দিকে তাকিয়ে গোটা সৃষ্টির ওপর আল্লাহর অসীম ক্ষমতার কথা স্মরণ করুন।",
+ "real_life_en": "Watching the sunrise over the hills fills a person with wonder. The sun never fails to rise on time. Seeing this reliable order in nature builds trust in the power of the Creator.",
+ "real_life_bn": "পাহাড়ের ওপর সূর্যোদয় দেখলে মন মুগ্ধতায় ভরে ওঠে। সূর্য কখনো সময়মতো উঠতে ভুল করে না। প্রকৃতির এই নিয়ম দেখে মানুষের মনে সৃষ্টিকর্তার শক্তির প্রতি গভীর বিশ্বাস জন্মায়।",
+ "themes": [
+  "oaths",
+  "power of Allah",
+  "creation"
+ ],
+ "kinds": [
+  "oath",
+  "description-of-allah",
+  "creation"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "rabb"
+  ],
+  "events": [],
+  "things": [
+   "sun",
+   "moon"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah swears by His lordship over all the points of rising and setting of celestial bodies that He is fully capable.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The Lord of all risings and settings has absolute power over creation and resurrection.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

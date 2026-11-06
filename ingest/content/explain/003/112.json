@@ -1,0 +1,92 @@
+{
+ "id": "3:112",
+ "simple_en": "Disgrace falls upon those who rebel against Allah, wherever they are found. They only find safety through a pact with Allah or a treaty with people. They earned Allah's anger and were struck with misery. This happened because they rejected His signs and killed His prophets unjustly. Their own sins and constant wrongdoing brought this upon them.",
+ "simple_bn": "যারা আল্লাহর বিরুদ্ধে বিদ্রোহ করে, তারা যেখানেই থাকুক না কেন তাদের ওপর লাঞ্ছনা নেমে আসে। তারা কেবল আল্লাহর কোনো অঙ্গীকার অথবা মানুষের সাথে চুক্তির মাধ্যমেই নিরাপত্তা পায়। তারা আল্লাহর ক্রোধের শিকার হয়েছে এবং তাদের ওপর চাপিয়ে দেওয়া হয়েছে দীনহীনতা। কারণ তারা আল্লাহর আয়াত অস্বীকার করত এবং নবীদের অন্যায়ভাবে হত্যা করত। তাদের নিজেদের অবাধ্যতা ও সীমালঙ্ঘনই এই পরিণতি ডেকে এনেছে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "ذلل",
+   "lemma": "ذِلَّة",
+   "meaning_en": "humiliation / disgrace",
+   "meaning_bn": "লাঞ্ছনা",
+   "why_en": "Describes the loss of honor and status imposed on those who rebel against divine truth."
+  },
+  {
+   "pos": 20,
+   "root": "سكن",
+   "lemma": "مَسْكَنَة",
+   "meaning_en": "poverty / destitution",
+   "meaning_bn": "দীনহীনতা বা দারিদ্র্য",
+   "why_en": "Points to an inner and outward state of spiritual and moral brokenness."
+  },
+  {
+   "pos": 28,
+   "root": "نبأ",
+   "lemma": "نَبِيّ",
+   "meaning_en": "the prophets",
+   "meaning_bn": "নবীগণ",
+   "why_en": "Recalls the heinous historic crime of slaying righteous messengers of Allah."
+  },
+  {
+   "pos": 35,
+   "root": "عدو",
+   "lemma": "اعْتَدَى",
+   "meaning_en": "transgressing",
+   "meaning_bn": "সীমালঙ্ঘন করত",
+   "why_en": "Shows how repeated minor sins hardened into persistent and violent transgression."
+  }
+ ],
+ "lesson_en": "Rebelling against Allah brings shame and ruin. True honor is found only in obeying Him.",
+ "lesson_bn": "আল্লাহর বিরুদ্ধে বিদ্রোহ লজ্জা ও ধ্বংস ডেকে আনে। প্রকৃত সম্মান কেবল তাঁর আনুগত্যের মধ্যেই নিহিত।",
+ "real_life_en": "Do not brush off small wrongs or tell little lies. Repeating bad habits hardens the heart over time. Staying honest in small matters protects your honor.",
+ "real_life_bn": "ছোট ভুলকে কখনো হালকা মনে করবেন না বা অসততাকে প্রশ্রয় দেবেন না। খারাপ অভ্যাসের পুনরাবৃত্তি সময়ের সাথে অন্তরকে শক্ত করে ফেলে। সততা বজায় রাখাই সম্মান রক্ষা করে।",
+ "context_en": "Explains why the defiant opponents mentioned in 3:110-111 face ongoing humiliation and loss of divine support.",
+ "context_bn": "১১০ ও ১১১ নম্বর আয়াতে উল্লেখিত অবাধ্য গোষ্ঠীর লাঞ্ছনা ও অপমানের পেছনের ঐতিহাসিক কারণ এখানে ব্যাখ্যা করা হয়েছে।",
+ "themes": [
+  "disbelief",
+  "punishment",
+  "past nations",
+  "stories of the prophets",
+  "justice"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who persistently rebelled against Allah are marked by humiliation, finding safety only through a pact from Allah or treaties with people.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "They incurred the wrath of Allah and destitution because they rejected Allah's signs, killed prophets unjustly, and continually transgressed.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

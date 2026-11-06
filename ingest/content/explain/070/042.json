@@ -1,0 +1,87 @@
+{
+ "id": "70:42",
+ "simple_en": "The Prophet is told not to grieve over their stubbornness. Let them dive into empty arguments and amuse themselves with worldly games. Their time is short, and their heedless fun will not last. A promised Day is coming when they will face the truth they mocked, and on that Day, excuses will be useless.",
+ "simple_bn": "অবাধ্য মানুষদের হঠকারিতা দেখে নবীকে দুঃখ না পেতে বলা হয়েছে। তাদের অনর্থক বিতর্ক ও খেল-তামাশায় মেতে থাকতে দিন। তাদের এই অসচেতন আনন্দ বেশি দিন টিকবে না। একটি প্রতিশ্রুত দিন নিশ্চিতভাবে আসছে, যেদিন তারা সত্যের মুখোমুখি হবে এবং কোনো অজুহাত আর কাজে আসবে না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "وذر",
+   "lemma": "يَذَرَ",
+   "meaning_en": "so leave them",
+   "meaning_bn": "তাদেরকে ছেড়ে দিন",
+   "why_en": "A command to the Prophet not to wear himself out over stubborn deniers."
+  },
+  {
+   "pos": 2,
+   "root": "خوض",
+   "lemma": "خاضُ",
+   "meaning_en": "to dive into vain talk, plunge into falsehood",
+   "meaning_bn": "বাক-বিতণ্ডা করা, বাতিলে নিমজ্জিত থাকা",
+   "why_en": "It portrays wading into useless arguments and falsehood as into murky water."
+  },
+  {
+   "pos": 3,
+   "root": "لعب",
+   "lemma": "يَلْعَبْ",
+   "meaning_en": "and play, amuse themselves",
+   "meaning_bn": "এবং খেল-তামাশায় মত্ত থাকা",
+   "why_en": "Treating the worldly life as mere entertainment while neglecting truth."
+  },
+  {
+   "pos": 5,
+   "root": "لقي",
+   "lemma": "يُلاقُ",
+   "meaning_en": "they meet, encounter",
+   "meaning_bn": "তারা সম্মুখীন হবে, সাক্ষাৎ করবে",
+   "why_en": "They will inevitably face the Day of Judgement."
+  }
+ ],
+ "lesson_en": "Do not waste your energy arguing with people who only want to mock and play with serious truths.",
+ "lesson_bn": "যারা সত্য নিয়ে কেবল ঠাট্টা ও বিতর্ক করতে চায়, তাদের পেছনে নিজের মূল্যবান শক্তি নষ্ট করবেন না।",
+ "real_life_en": "When trying to give sincere advice to a colleague who laughs it off and turns it into a joke, it is best to stay quiet. Let your good actions speak instead of getting dragged into useless debates.",
+ "real_life_bn": "কাউকে সৎ উপদেশ দিতে গেলে সে যদি তা উপহাস করে উড়িয়ে দেয়, তবে চুপ থাকাই ভালো। অনর্থক তর্কে না জড়িয়ে নিজের ভালো কাজের মাধ্যমে সঠিক পথ দেখান।",
+ "themes": [
+  "patience",
+  "the Last Day",
+  "vain talk"
+ ],
+ "kinds": [
+  "warning",
+  "command",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [
+   "muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "day of judgement"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Prophet is instructed to leave the stubborn deniers to their vain speech and worldly amusement until the Day of Judgement.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "They will inevitably meet the promised Day of accounting.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

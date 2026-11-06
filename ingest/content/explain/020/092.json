@@ -1,0 +1,68 @@
+{
+  "id": "20:92",
+  "simple_en": "Moses spoke to Aaron with deep grief. He asked what held him back when he saw the people leaving the true path to worship a calf.",
+  "simple_bn": "মূসা নিজ ভাই হারুনকে কঠোরভাবে জবাবদিহিতা করলেন: হে হারুন, যখন তুমি দেখতে পেলে যে তারা পথভ্রষ্ট হয়ে পড়েছে, তখন কিসে তোমাকে বাধা দিয়েছিল?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "منع",
+      "lemma": "مَنَعَ",
+      "meaning_en": "prevented or held you back",
+      "meaning_bn": "তোমাকে বাধা দিল",
+      "why_en": "Demanding a full accounting of leadership."
+    },
+    {
+      "pos": 7,
+      "root": "ضلل",
+      "lemma": "ضَلَّ",
+      "meaning_en": "they went astray",
+      "meaning_bn": "তারা পথভ্রষ্ট হলো",
+      "why_en": "Witnessing the community collapse into idolatry."
+    }
+  ],
+  "lesson_en": "Leaders check on each other. Finding out what went wrong helps keep the group safe.",
+  "lesson_bn": "দায়িত্বশীল নেতৃত্ব পরস্পরের কাজের জবাবদিহি নিশ্চিত করে। কারণ জবাবদিহিতা ছাড়া সমাজের শৃঙ্খলা রক্ষা করা যায় না।",
+  "real_life_en": "Ask questions before you judge friends. Find out what stopped them from doing their work well.",
+  "real_life_bn": "কারো ব্যর্থতা দেখলে চট করে সিদ্ধান্ত নেবেন না। প্রথমে তাকে কারণ ব্যাখ্যা করার সুযোগ দিন এবং পরিস্থিতি বুঝুন।",
+  "themes": [
+    "accountability",
+    "leadership",
+    "musa",
+    "harun"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Harun"
+    ],
+    "nations": [],
+    "places": [
+      "Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Moses confronts Aaron"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses questioned Aaron firmly regarding why he did not stop the people when they went astray.",
+      "claim_bn": "মূসা হারুনকে কঠোরভাবে জিজ্ঞেস করেন যে সম্প্রদায়কে পথভ্রষ্ট হতে দেখেও কেন তিনি কার্যকর ব্যবস্থা নেননি।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

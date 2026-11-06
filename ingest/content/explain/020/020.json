@@ -1,0 +1,67 @@
+{
+  "id": "20:20",
+  "simple_en": "Moses threw the wooden staff down on the ground before him. At once, it turned into a living snake that moved very fast before his eyes.",
+  "simple_bn": "মূসা লাঠিটি মাটিতে ছুড়ে দিলেন। সাথে সাথে তা এক জীবন্ত সাপে রূপান্তরিত হয়ে দ্রুত গতিতে ছুটতে লাগল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حيي",
+      "lemma": "حَيَّة",
+      "meaning_en": "a serpent",
+      "meaning_bn": "একটি সাপ",
+      "why_en": "The wooden stick miraculously gained life and quick movement."
+    },
+    {
+      "pos": 5,
+      "root": "سعي",
+      "lemma": "سَعَىٰ",
+      "meaning_en": "moving swiftly",
+      "meaning_bn": "দ্রুত ছুটছিল",
+      "why_en": "Describes the fast and terrifying motion of the serpent."
+    }
+  ],
+  "lesson_en": "God can give life to dry wood in an instant. Nothing is hard for our Lord.",
+  "lesson_bn": "মহান আল্লাহ তাঁর ইচ্ছামাত্র নির্জীব বস্তুকে মুহূর্তের মধ্যে প্রাণবন্ত জীবন্ত সত্তায় রূপান্তর করতে পারেন।",
+  "real_life_en": "Never lose hope in hard times. God can change your pain into ease in a single moment.",
+  "real_life_bn": "কঠিন পরিস্থিতিতে কখনো আশা হারাবেন না। আল্লাহ মুহূর্তেই মানুষের অবস্থার পরিবর্তন ঘটাতে সক্ষম।",
+  "themes": [
+    "miracle",
+    "divine-power",
+    "musa"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "Tuwa"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "staff",
+      "serpent"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The staff turned into a living, slithering snake by the command of God.",
+      "claim_bn": "আল্লাহর হুকুমে লাঠিটি একটি চলমান জীবন্ত সাপে রূপান্তরিত হয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

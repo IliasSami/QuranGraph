@@ -1,0 +1,61 @@
+{
+  "id": "54:17",
+  "simple_en": "Allah has made the Quran easy to recite, remember, and understand for anyone who seeks guidance. Its words are clear and its lessons are open to all. Is there anyone ready to reflect and take heed?",
+  "simple_bn": "আল্লাহ কুরআন মাজিদকে মুখস্থ করা, তিলাওয়াত করা এবং উপদেশ গ্রহণের জন্য সহজ করে দিয়েছেন। এর বাণী অত্যন্ত প্রাঞ্জল এবং এর শিক্ষা সবার জন্য উন্মুক্ত। এই বাণী থেকে উপদেশ নেওয়ার মতো কেউ কি আছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "يسر",
+      "lemma": "يَسَّرَ",
+      "meaning_en": "We have made easy",
+      "meaning_bn": "আমরা সহজ করে দিয়েছি",
+      "why_en": "Affirms Allah’s divine facilitation in making the Quran accessible to memory and understanding."
+    },
+    {
+      "pos": 4,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "for remembrance",
+      "meaning_bn": "উপদেশ গ্রহণের জন্য",
+      "why_en": "Identifies the core purpose of the Quran as a living reminder and moral guide."
+    }
+  ],
+  "lesson_en": "The Quran is made easy to learn, so build a daily habit of reading it.",
+  "lesson_bn": "কুরআন বোঝা ও শেখা সহজ, তাই প্রতিদিন কুরআন পড়ার অভ্যাস গড়ে তুলুন।",
+  "real_life_en": "A busy worker feels that he has no time to study religion. He decides to read just five verses of the Quran with meaning every morning. Soon he finds that its clear guidance brings calm to his whole day.",
+  "real_life_bn": "একজন ব্যস্ত চাকরিজীবী প্রতিদিন সকালে অর্থসহ মাত্র কয়েকটি আয়াত পড়ার নিয়ম করেন। তিনি বুঝতে পারেন কুরআনের সহজ উপদেশগুলো তার সারাদিনের কাজকর্মে সঠিক দিকনির্দেশনা ও প্রশান্তি এনে দেয়।",
+  "themes": [
+    "the Quran",
+    "reflection",
+    "guidance"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah has made the Quran easy for remembrance and taking heed, asking if there is anyone who will reflect.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

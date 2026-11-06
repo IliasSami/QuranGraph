@@ -1,0 +1,88 @@
+{
+ "id": "42:42",
+ "simple_en": "The blame is only upon those who oppress people and cause corruption on earth without any right. Those who hurt others and act with arrogance will face a painful punishment.",
+ "simple_bn": "অভিযোগ কেবল তাদের বিরুদ্ধে যারা মানুষের উপর যুলুম করে এবং অন্যায়ভাবে যমীনে বিদ্রোহ ও অরাজকতা সৃষ্টি করে বেড়ায়। এদের জন্য রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "the cause / blame",
+   "meaning_bn": "অভিযোগ / পাকড়াও",
+   "why_en": "Directs blame and legal penalty exclusively toward actual oppressors."
+  },
+  {
+   "pos": 5,
+   "root": "ظلم",
+   "lemma": "ظَلَمَ",
+   "meaning_en": "they oppress",
+   "meaning_bn": "তারা যুলুম করে",
+   "why_en": "Identifies unjustified harm against others as a grave transgression."
+  },
+  {
+   "pos": 7,
+   "root": "بغي",
+   "lemma": "بَغَى",
+   "meaning_en": "they rebel / tyrannize",
+   "meaning_bn": "তারা বিদ্রোহ ও সীমালঙ্ঘন করে",
+   "why_en": "Describes arrogant spreading of corruption and disorder across society."
+  },
+  {
+   "pos": 11,
+   "root": "حقق",
+   "lemma": "حَقّ",
+   "meaning_en": "the right / truth",
+   "meaning_bn": "হক / ন্যায়সঙ্গত অধিকার",
+   "why_en": "Stresses that oppression is committed without any valid moral or legal ground."
+  },
+  {
+   "pos": 15,
+   "root": "ألم",
+   "lemma": "أَلِيم",
+   "meaning_en": "painful",
+   "meaning_bn": "যন্ত্রণাদায়ক",
+   "why_en": "Warns of the severe divine recompense awaiting unrepentant tyrants."
+  }
+ ],
+ "lesson_en": "Oppressing people and spreading harm on earth leads to severe punishment from Allah.",
+ "lesson_bn": "মানুষের উপর অবিচার করা এবং সমাজে বিশৃঙ্খলা ছড়ানো আল্লাহর পক্ষ থেকে কঠিন শাস্তি ডেকে আনে।",
+ "real_life_en": "Never use your wealth or status to harm other people. Treat workers, kin, and neighbors with care, knowing that Allah hates all wrong.",
+ "real_life_bn": "নিজের পদমর্যাদা বা শক্তি খাটিয়ে অধীনস্থ কারো উপর অবিচার করবেন না। কর্মচারী, পরিবার ও প্রতিবেশীদের সাথে সুবিচার করুন, কারণ আল্লাহ যুলুম পছন্দ করেন না।",
+ "themes": [
+  "justice",
+  "punishment",
+  "good character"
+ ],
+ "kinds": [
+  "warning",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Blame and retribution are only against those who oppress people and cause tyranny on earth without right, and their punishment is painful.",
+   "claim_bn": "অভিযোগ কেবল তাদের বিরুদ্ধে যারা মানুষের উপর যুলুম করে এবং অন্যায়ভাবে যমীনে সীমালঙ্ঘন করে, তাদের জন্য রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

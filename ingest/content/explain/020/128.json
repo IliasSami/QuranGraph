@@ -1,0 +1,75 @@
+{
+  "id": "20:128",
+  "simple_en": "Has it not guided them how many generations We destroyed before them? They walk through their ruined dwellings. In that are signs for people of reason.",
+  "simple_bn": "এটিও কি তাদের পথ দেখায়নি যে তাদের পূর্বে আমরা কত প্রজন্মকে ধ্বংস করেছি যাদের ধ্বংসপ্রাপ্ত বসতবাড়িতে তারা আজ চলাফেরা করে? এতে জ্ঞানীদের জন্য নিদর্শন আছে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "We destroyed",
+      "meaning_bn": "আমরা ধ্বংস করেছি",
+      "why_en": "Historical eradication of unjust ancient civilizations."
+    },
+    {
+      "pos": 11,
+      "root": "سكن",
+      "lemma": "مَسْكَن",
+      "meaning_en": "their dwellings",
+      "meaning_bn": "তাদের বসতবাড়ি বা ধ্বংসাবশেষ",
+      "why_en": "Ruins left behind as visible warnings."
+    },
+    {
+      "pos": 17,
+      "root": "نهي",
+      "lemma": "نُهَىٰ",
+      "meaning_en": "sound intellect and reason",
+      "meaning_bn": "বিবেক বা বুদ্ধিমান ব্যক্তি",
+      "why_en": "Minds that draw moral lessons from history."
+    }
+  ],
+  "lesson_en": "Old ruins teach us a silent lesson. Seeing past nations fall should fill our hearts with humility.",
+  "lesson_bn": "অতীতের ধ্বংসাবশেষ মানুষের জন্য বড় শিক্ষক। প্রাচীন প্রত্নতাত্ত্বিক নিদর্শন মানুষকে অহংকার ত্যাগ করতে শেখায়।",
+  "real_life_en": "Learn lessons from the past. Wealthy rulers fade away fast, but good deeds last forever.",
+  "real_life_bn": "ইতিহাস থেকে শিক্ষা নিন। বড় বড় সাম্রাজ্য ও ক্ষমতাধর ব্যক্তিরা ধুলোয় মিশে গেছে, কেবল সত্যই টিকে থাকে।",
+  "themes": [
+    "lessons-from-history",
+    "ruined-nations",
+    "intellect"
+  ],
+  "kinds": [
+    "warning",
+    "parable"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Ancient Nations"
+    ],
+    "places": [
+      "Arabia"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "dwellings"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The ruins of destroyed past civilizations provide clear warnings for people of understanding.",
+      "claim_bn": "পূর্ববর্তী ধ্বংসপ্রাপ্ত জাতিসমূহের ফেলে যাওয়া ধ্বংসাবশেষ বুদ্ধিমান মানুষের জন্য স্পষ্ট উপদেশ বহন করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

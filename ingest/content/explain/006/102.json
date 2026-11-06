@@ -1,0 +1,81 @@
+{
+  "id": "6:102",
+  "simple_en": "This is Allah, your true Lord. None has the right to be worshipped except Him. He is the Maker of everything in existence. Therefore, direct all your worship to Him alone. He watches over and manages every single matter in the universe.",
+  "simple_bn": "ইনিই আল্লাহ, তোমাদের একমাত্র প্রতিপালক। তিনি ছাড়া সত্য কোনো উপাস্য নেই। তিনি নিখিল বিশ্বের সবকিছুর স্রষ্টা। অতএব তোমরা কেবল তাঁরই ইবাদত করো। তিনি সব সৃষ্টির রক্ষণাবেক্ষণ করেন এবং সকল বিষয় পরিচালনা করেন।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "خلق",
+      "lemma": "خالِق",
+      "meaning_en": "Creator",
+      "meaning_bn": "স্রষ্টা",
+      "why_en": "Identifies Allah as the sole Maker of everything in existence."
+    },
+    {
+      "pos": 11,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "so worship Him",
+      "meaning_bn": "সুতরাং তাঁর ইবাদত করো",
+      "why_en": "Directs all acts of devotion exclusively to Allah alone."
+    },
+    {
+      "pos": 16,
+      "root": "وكل",
+      "lemma": "وَكِيل",
+      "meaning_en": "Guardian / Trustee",
+      "meaning_bn": "তত্ত্বাবধায়ক বা কর্মবিধায়ক",
+      "why_en": "Affirms that Allah manages, protects, and sustains all of creation."
+    }
+  ],
+  "lesson_en": "Allah made all things. Worship Him alone and trust in His care.",
+  "lesson_bn": "যেহেতু আল্লাহই সবকিছুর একমাত্র স্রষ্টা ও নিয়ন্ত্রক, তাই সবটুকু আনুগত্য ও ভরসা কেবল তাঁরই প্রাপ্য।",
+  "real_life_en": "Begin each day knowing your life is in the hands of the best Trustee. Do not fear future events or depend on worldly masters. Devote your daily prayers solely to Allah and place your worries in His care.",
+  "real_life_bn": "প্রতিটি দিন শুরু করুন এই বিশ্বাস নিয়ে যে আপনার সার্বিক অবস্থা মহান আল্লাহর হাতে। পার্থিব কোনো ক্ষমতার ভয়ে সত্যের পথ ছাড়বেন না। নামাজ ও প্রার্থনায় কেবল তাঁরই মুখাপেক্ষী হোন এবং সমস্ত দুশ্চিন্তা তাঁর কাছে সঁপে দিন।",
+  "context_en": "Following the proof of creation, this ayah demands the natural conclusion: worship Allah alone and trust His care.",
+  "context_bn": "আল্লাহর সৃষ্টি ও জ্ঞানের প্রমাণ দেওয়ার পর এখানে একমাত্র তাঁরই ইবাদত ও তাঁর ওপর ভরসা করার নির্দেশ দেওয়া হয়েছে।",
+  "themes": [
+    "tawhid",
+    "worship",
+    "trust in Allah",
+    "rububiyyah"
+  ],
+  "kinds": [
+    "command",
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah is the Lord and sole Creator, so worship is due to Him alone.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Allah is the Trustee and Guardian Who disposes of all affairs.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

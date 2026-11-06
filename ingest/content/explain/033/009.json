@@ -1,0 +1,88 @@
+{
+  "id": "33:9",
+  "simple_en": "Believers are told to remember Allah's great blessing during the Battle of the Trench. Huge enemy armies arrived to attack Madinah. Allah sent a fierce freezing wind and invisible hosts of angels against them, forcing them to retreat in ruin. Allah sees everything you do.",
+  "simple_bn": "হে মুমিনগণ, খন্দকের যুদ্ধের সময় তোমাদের প্রতি আল্লাহর বিশেষ অনুগ্রহের কথা স্মরণ করো। যখন সম্মিলিত শত্রুবাহিনী মদিনা আক্রমণ করতে এসেছিল, তখন আল্লাহ তাদের ওপর তীব্র ঘূর্ণিবায়ু এবং ফেরেশতাদের অদৃশ্য বাহিনী পাঠিয়েছিলেন। শত্রুরা ব্যর্থ হয়ে পালিয়ে যায় এবং তোমরা যা কিছু করো আল্লাহ তা দেখেন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ذكر",
+      "lemma": "ذَكَرَ",
+      "meaning_en": "favor / blessing",
+      "meaning_bn": "অনুগ্রহ",
+      "why_en": "Reminds the faithful of God's protection and rescue in times of danger."
+    },
+    {
+      "pos": 7,
+      "root": null,
+      "lemma": "عَلَى",
+      "meaning_en": "armies / forces",
+      "meaning_bn": "শত্রুবাহিনী",
+      "why_en": "Refers to the coalition of enemy tribes that surrounded Madinah."
+    },
+    {
+      "pos": 10,
+      "root": "جند",
+      "lemma": "جُند",
+      "meaning_en": "a wind",
+      "meaning_bn": "ঘূর্ণিবায়ু",
+      "why_en": "The fierce wind sent by God to overturn the enemy camp."
+    },
+    {
+      "pos": 21,
+      "root": "بصر",
+      "lemma": "بَصِير",
+      "meaning_en": "All-Seeing",
+      "meaning_bn": "সম্যক দ্রষ্টা",
+      "why_en": "Affirms that God witnesses the patience and deeds of the believers."
+    }
+  ],
+  "lesson_en": "Remember how God helps in dark times. His unseen power can save people when fear is high.",
+  "lesson_bn": "বিপদের দিনে আল্লাহর সাহায্য ও অনুগ্রহ স্মরণ করুন, কারণ অদৃশ্য শক্তি দিয়েও তিনি মুমিনদের রক্ষা করেন।",
+  "real_life_en": "When troubles feel too heavy, do not panic. Pray with a calm heart and trust that God can send help from where you least expect it.",
+  "real_life_bn": "জীবনের কঠিন পরীক্ষায় দিশেহারা না হয়ে ধৈর্য ধরুন ও আল্লাহর সাহায্য প্রার্থনা করুন। সমস্ত প্রতিকূলতার মধ্যেও আল্লাহ অপ্রত্যাশিত উপায়ে মুক্তির পথ খুলে দিতে পারেন।",
+  "themes": [
+    "gratitude",
+    "struggle in Allah's way",
+    "angels",
+    "Allah's power",
+    "trials",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "command",
+    "glad-tidings",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "madinah"
+    ],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [
+      "allah",
+      "al-basir"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah sent wind and unseen armies of angels to defeat the hostile forces during the Battle of the Trench, delivering the believers.",
+      "claim_bn": "খন্দকের যুদ্ধে আল্লাহ বাতাস ও ফেরেশতাদের অদৃশ্য বাহিনী প্রেরণ করে শত্রুদের পরাস্ত করেছিলেন এবং মুমিনদের রক্ষা করেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

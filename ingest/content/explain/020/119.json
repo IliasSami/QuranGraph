@@ -1,0 +1,69 @@
+{
+  "id": "20:119",
+  "simple_en": "You will never feel thirsty in this garden. The fierce heat of the sun will never scorch you or cause you pain in this happy home.",
+  "simple_bn": "আর তোমার জন্য আরও নিশ্চয়তা রয়েছে যে তুমি এখানে তৃষ্ণার্ত হবে না এবং সূর্যের তীব্র উত্তাপে কষ্টও পাবে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ظمأ",
+      "lemma": "ظَمِئَ",
+      "meaning_en": "you suffer thirst",
+      "meaning_bn": "তুমি তৃষ্ণার্ত হবে",
+      "why_en": "Abundant pure water quenching all thirst."
+    },
+    {
+      "pos": 6,
+      "root": "ضحو",
+      "lemma": "ضَحِيَ",
+      "meaning_en": "suffer from heat of the sun",
+      "meaning_bn": "রোদ বা উত্তাপে কষ্ট পাওয়া",
+      "why_en": "Cool, pleasant perpetual shade without harsh heat."
+    }
+  ],
+  "lesson_en": "Paradise is free from all climate extremes, thirst, and physical exhaustion. It is a home of perfect climate.",
+  "lesson_bn": "জান্নাত সকল প্রকার কঠোর আবহাওয়া, তীব্র তৃষ্ণা ও ক্লান্তি থেকে মুক্ত এক চিরশান্তিময় আবাস।",
+  "real_life_en": "Give fresh water to people who are thirsty. Giving cool water to drink is a blessed act of charity.",
+  "real_life_bn": "তৃষ্ণার্ত মানুষকে পানি পান করান। সুপেয় পানির ব্যবস্থা করা অন্যতম শ্রেষ্ঠ ও সওয়াবপূর্ণ দান।",
+  "themes": [
+    "paradise-comforts",
+    "water",
+    "eternal-shade"
+  ],
+  "kinds": [
+    "story",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "Adam"
+    ],
+    "nations": [],
+    "places": [
+      "Paradise"
+    ],
+    "unseen": [
+      "Paradise"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "water"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Paradise protected Adam from both thirst and the scorch of the sun.",
+      "claim_bn": "জান্নাতে আদমের জন্য তৃষ্ণা ও প্রখর রোদের তাপ থেকে সুরক্ষার বন্দোবস্ত ছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

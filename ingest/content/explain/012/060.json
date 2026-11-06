@@ -1,0 +1,88 @@
+{
+  "id": "12:60",
+  "simple_en": "Yusuf warned them not to return without their brother. If they did not bring him, they would get no grain, and they should not come near him again.",
+  "simple_bn": "ইউসুফ তাদের স্পষ্টভাবে জানিয়ে দিলেন যে, যদি তারা ছোট ভাইকে সাথে নিয়ে না আসে, তবে তাদের কোনো খাদ্য দেওয়া হবে না। তারা যেন ভবিষ্যতে তাঁর কাছেও না ঘেঁষে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أتي",
+      "lemma": "أَتَى",
+      "meaning_en": "you bring to me",
+      "meaning_bn": "তোমরা আমার কাছে নিয়ে আসবে",
+      "why_en": "The firm condition required for future trade and grain rationing."
+    },
+    {
+      "pos": 6,
+      "root": "كيل",
+      "lemma": "كَيْل",
+      "meaning_en": "measure of grain",
+      "meaning_bn": "খাদ্যশস্যের পরিমাপ",
+      "why_en": "The vital ration of food needed by their household in Canaan."
+    },
+    {
+      "pos": 8,
+      "root": "عند",
+      "lemma": "عِند",
+      "meaning_en": "with me",
+      "meaning_bn": "আমার কাছে",
+      "why_en": "Denying them access to state food reserves."
+    },
+    {
+      "pos": 10,
+      "root": "قرب",
+      "lemma": "يَقْرَبُ",
+      "meaning_en": "approach me",
+      "meaning_bn": "তোমরা আমার নিকটবর্তী হবে",
+      "why_en": "A strict diplomatic ban against returning without Benjamin."
+    }
+  ],
+  "lesson_en": "Set clear rules to protect loved ones and make sure truth is respected.",
+  "lesson_bn": "প্রিয়জনকে রক্ষা এবং সত্য প্রতিষ্ঠার জন্য সুনির্দিষ্ট ও দৃঢ় নিয়ম ঠিক করা প্রয়োজন।",
+  "real_life_en": "A father sets a firm rule that his sons must show up together for family talks. This clear rule brings peace and keeps the family united.",
+  "real_life_bn": "এক পিতা শর্ত দেন যে পারিবারিক আলোচনায় সব সন্তানকে একসাথে উপস্থিত হতে হবে। এই নিয়ম সবাইকে একত্রিত রাখে এবং ভ্রাতৃত্ব বজায় রাখতে সাহায্য করে।",
+  "context_en": "Yusuf established a strict policy to ensure his brothers would return with his beloved younger brother Benjamin.",
+  "context_bn": "ইউসুফ এমন এক দৃঢ় শর্ত দিলেন যাতে তাঁর ভাইয়েরা ছোট ভাই বিন ইয়ামীনকে নিয়ে পুনরায় ফিরে আসতে বাধ্য হয়।",
+  "themes": [
+    "wisdom in planning",
+    "family protection",
+    "firmness"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "brothers of Yusuf",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "grain"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf warned that without their brother, they would receive no grain and should not approach him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

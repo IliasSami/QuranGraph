@@ -1,0 +1,80 @@
+{
+  "id": "13:18",
+  "simple_en": "Those who answer the call of their Lord will receive the finest reward. Those who refuse would give all the riches of the earth to save themselves on Judgment Day. They will face a harsh accounting, and Hell will be their terrible home.",
+  "simple_bn": "যারা তাদের রবের ডাকে সাড়া দেয় তাদের জন্য রয়েছে সর্বোত্তম প্রতিদান। আর যারা সাড়া দেয় না, তারা কেয়ামতের দিন নিজেদের বাঁচাতে পৃথিবীর সব সম্পদ মুক্তিপণ দিতে চাইবে। তাদের হিসেব হবে অত্যন্ত কঠিন এবং জাহান্নাম হবে তাদের নিকৃষ্ট ঠিকানা।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جوب",
+      "lemma": "اسْتَجابَ",
+      "meaning_en": "responded",
+      "meaning_bn": "সাড়া দিয়েছে",
+      "why_en": "Prompt obedience and acceptance of divine guidance."
+    },
+    {
+      "pos": 4,
+      "root": "حسن",
+      "lemma": "حُسْنَى",
+      "meaning_en": "the best reward",
+      "meaning_bn": "সর্বোত্তম প্রতিদান",
+      "why_en": "Paradise and ultimate divine favor granted to the obedient."
+    },
+    {
+      "pos": 18,
+      "root": "فدي",
+      "lemma": "افْتَدَى",
+      "meaning_en": "they would ransom",
+      "meaning_bn": "তারা মুক্তিপণ দিত",
+      "why_en": "Desperate futile attempt by deniers to escape punishment."
+    },
+    {
+      "pos": 23,
+      "root": "حسب",
+      "lemma": "حِساب",
+      "meaning_en": "account",
+      "meaning_bn": "হিসাব",
+      "why_en": "Thorough interrogation of every deed on Judgment Day."
+    }
+  ],
+  "lesson_en": "Turn to God now. Wealth cannot save anyone on the Last Day.",
+  "lesson_bn": "পার্থিব সম্পদ নিষ্ফল হওয়ার আগেই সময় থাকতে আল্লাহর আহ্বানে সাড়া দেওয়া উচিত।",
+  "real_life_en": "A wealthy man ignores calls to help the needy and hoards his money. On his deathbed, he realizes cash cannot buy a single extra minute of life or pardon from God.",
+  "real_life_bn": "এক বিত্তবান ব্যক্তি সারাজীবন অর্থ জমিয়ে রাখে কিন্তু সৎকাজে ব্যয় করে না। মৃত্যুর মুখে সে উপলব্ধি করে বিপুল সম্পদও এক মুহূর্তের জীবন বা আখেরাতের শান্তি কিনে দিতে পারে না।",
+  "context_en": "The contrasting fates of those who respond to Allah versus those who refuse.",
+  "context_bn": "আল্লাহর আহ্বানে সাড়া দেওয়া মুমিন এবং তা প্রত্যাখ্যানকারীদের বিপরীত পরিণাম।",
+  "themes": [
+    "reward and punishment",
+    "the Day of Judgment",
+    "accountability"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell",
+      "Day of Judgment"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who obey Allah receive paradise, while deniers cannot ransom themselves from Hell.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

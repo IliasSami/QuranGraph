@@ -1,0 +1,67 @@
+{
+  "id": "23:48",
+  "simple_en": "So they rejected Moses and Aaron, and they joined the ranks of those who were destroyed. Their proud kingdom fell under the deep sea waters.",
+  "simple_bn": "সুতরাং তারা উভয়কে মিথ্যাবাদী বলল এবং পরিণামে তারা ধ্বংসপ্রাপ্তদের অন্তর্ভুক্ত হলো।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "they denied them both",
+      "meaning_bn": "তারা উভয়কে মিথ্যাবাদী বলল",
+      "why_en": "The final rejection of Moses and Aaron by Pharaoh's army."
+    },
+    {
+      "pos": 4,
+      "root": "هلك",
+      "lemma": "مُهْلَك",
+      "meaning_en": "those destroyed",
+      "meaning_bn": "ধ্বংসপ্রাপ্তদের অন্তর্ভুক্ত",
+      "why_en": "Drowning in the sea as a divine punishment for oppression."
+    }
+  ],
+  "lesson_en": "Defiance against divine signs leads straight to ruin. The proudest empires crumble when they oppress the weak.",
+  "lesson_bn": "সত্যকে অস্বীকার এবং দুর্বলদের ওপর অবিচার শেষ পর্যন্ত পতনের কারণ হয়। পরাক্রমশালী সাম্রাজ্যও আল্লাহর আজাবের সামনে টিকে থাকতে পারে না।",
+  "real_life_en": "Remember that power is temporary and fragile. Use your position to help others rather than oppress them.",
+  "real_life_bn": "পার্থিব ক্ষমতা স্থায়ী নয়। নিজের ক্ষমতা দিয়ে মানুষের উপকার করার চেষ্টা করুন, কাউকে জুলুম করবেন না।",
+  "themes": [
+    "destruction-of-pharaoh",
+    "divine-retribution",
+    "oppression"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "firaun"
+    ],
+    "nations": [],
+    "places": [
+      "red-sea"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "drowning-of-pharaoh"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh and his hosts were destroyed through drowning following their denial of the messengers.",
+      "claim_bn": "নবীদ্বয়কে অস্বীকার করার অপরাধে ফেরাউন ও তার বাহিনীকে আল্লাহ সমুদ্রে ডুবিয়ে ধ্বংস করেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

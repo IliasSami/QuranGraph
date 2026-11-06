@@ -1,0 +1,79 @@
+{
+  "id": "15:26",
+  "simple_en": "We created human beings from dried clay of altered black mud. Allah formed mankind from simple earth and gave them honor above many of His creatures.",
+  "simple_bn": "আমরা গন্ধযুক্ত কাদার শুকনো ও ঠনঠনে কালো মাটি থেকে মানুষ সৃষ্টি করেছি। আল্লাহ সাধারণ মাটি থেকে মানুষকে সুন্দর রূপ দিয়ে অন্য অনেক সৃষ্টির ওপর মর্যাদা দান করেছেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "We created",
+      "meaning_bn": "আমরা সৃষ্টি করেছি",
+      "why_en": "Divine act of creation from dust."
+    },
+    {
+      "pos": 3,
+      "root": "أنس",
+      "lemma": "إِنسان",
+      "meaning_en": "man",
+      "meaning_bn": "মানুষ",
+      "why_en": "Humanity originating from Adam."
+    },
+    {
+      "pos": 5,
+      "root": "صلصل",
+      "lemma": "صَلْصال",
+      "meaning_en": "clay",
+      "meaning_bn": "ঠনঠনে মাটি",
+      "why_en": "Dry ringing clay."
+    },
+    {
+      "pos": 8,
+      "root": "سنن",
+      "lemma": "مَسْنُون",
+      "meaning_en": "altered mud",
+      "meaning_bn": "কালো কাদা",
+      "why_en": "Dark mud shaped into form."
+    }
+  ],
+  "lesson_en": "Remember your humble origin from earth. Stay humble before Allah and never look down on others.",
+  "lesson_bn": "মাটি থেকে আপনার বিনম্র সূচনার কথা মনে রাখুন। আল্লাহর সামনে বিনীত থাকুন এবং কাউকে কখনো ছোট ভাববেন না।",
+  "real_life_en": "A wealthy executive walks through his luxury office. He remembers that all humans come from dust and will return to dust. This thought keeps him kind and fair to his cleaning staff.",
+  "real_life_bn": "এক ধনী কর্মকর্তা নিজের বিশাল অফিসের ভেতর হাঁটার সময় মনে করেন যে সব মানুষ মাটি থেকেই এসেছে। এই ভাবনা তাঁকে সাধারণ কর্মচারীদের সাথে নম্র ও বিনয়ী হতে সাহায্য করে।",
+  "context_en": "Describing the humble earth material from which Allah created the father of mankind, Adam.",
+  "context_bn": "মানবজাতির আদি পিতা আদমকে সাধারণ মাটি থেকে সৃষ্টি করার বিবরণ।",
+  "themes": [
+    "creation",
+    "human-nature",
+    "humility"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Adam"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Humanity was created from dried clay originating from altered dark mud.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

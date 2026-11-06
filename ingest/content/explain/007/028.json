@@ -1,0 +1,82 @@
+{
+ "id": "7:28",
+ "simple_en": "When idolaters did shameful things, they made excuses. They said their fathers had done the same, and they claimed Allah ordered it. Tell them that Allah never orders shameful deeds. It is a great sin to speak about Allah without knowledge.",
+ "simple_bn": "মুশরিকরা যখন কোনো অশ্লীল কাজ করত, তখন তারা দুটি অজুহাত দিত। তারা বলত যে তাদের পূর্বপুরুষদের তারা এভাবেই পেয়েছে এবং আল্লাহও তাদের এমন আদেশ দিয়েছেন। আল্লাহ তাঁর রাসূলকে এটি খণ্ডন করতে বললেন। নিশ্চয়ই আল্লাহ কখনো অশ্লীল কাজের নির্দেশ দেন না। কোনো প্রমাণ ছাড়াই আল্লাহর ওপর মিথ্যা অপবাদ দেওয়া ঘোর অপরাধ।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "فحش",
+   "lemma": "فاحِشَة",
+   "meaning_en": "an immorality / indecency",
+   "meaning_bn": "অশ্লীল কাজ",
+   "why_en": "Refers to gross sins like performing tawaf unclothed or idolatrous practices."
+  },
+  {
+   "pos": 9,
+   "root": "أمر",
+   "lemma": "أَمَرَ",
+   "meaning_en": "He commanded us",
+   "meaning_bn": "তিনি আমাদের আদেশ করেছেন",
+   "why_en": "Exposes the false claim of polytheists that God ordered their shameful traditions."
+  },
+  {
+   "pos": 22,
+   "root": "علم",
+   "lemma": "عَلِمَ",
+   "meaning_en": "you know",
+   "meaning_bn": "তোমরা জানো",
+   "why_en": "Condemns speaking about Allah without knowledge or authority."
+  }
+ ],
+ "lesson_en": "Allah never commands bad deeds. Do not use old customs to excuse sin.",
+ "lesson_bn": "আল্লাহ কখনো অশ্লীলতার আদেশ দেন না। বাপ-দাদার ঐতিহ্য বলে কোনো পাপকে ইসলামের নামে জায়েজ করবেন না।",
+ "real_life_en": "Old customs are not holy. If a habit goes against modesty or good morals, stop doing it. Never blame faith for bad traditions.",
+ "real_life_bn": "সামাজিক প্রথা হলেই তা সঠিক নয়। কোনো ঐতিহ্য যদি শালীনতার পরিপন্থী হয়, তবে তা ত্যাগ করুন। নিজের ইচ্ছা বা ভুল রীতির সমর্থনে দ্বীনের অপব্যাখ্যা করবেন না।",
+ "context_en": "Refuting the pre-Islamic practice of making naked circumambulation of the Kaaba and blaming it on divine command.",
+ "context_bn": "জাহেলি যুগে উলঙ্গ হয়ে তাওয়াফ করার মতো নির্লজ্জ প্রথাকে আল্লাহর বিধান বলে মুশরিকদের মিথ্যার অপনোদন করা হয়েছে।",
+ "themes": [
+  "refuting false traditions",
+  "indecency forbidden",
+  "lying against Allah"
+ ],
+ "kinds": [
+  "argument",
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "forefathers"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Disbelievers justified their immoral acts by citing ancestral custom and falsely claiming divine command.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah completely refutes them: He never orders shameful deeds, and speaking about Him without knowledge is sinful.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

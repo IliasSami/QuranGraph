@@ -1,0 +1,67 @@
+{
+  "id": "68:11",
+  "simple_en": "Do not follow the person who constantly slanders others and spreads hurtful gossip. Such people tell lies to ruin friendships and cause deep pain between neighbors.",
+  "simple_bn": "যে ব্যক্তি মানুষের পেছনে নিন্দা করে বেড়ায় এবং কানভাঙানি ও চোগলখোরি করে সম্পর্ক নষ্ট করে, তার অনুসরণ করবেন না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "همز",
+      "lemma": "هَمّاز",
+      "meaning_en": "habitual slanderer",
+      "meaning_bn": "পেছনে নিন্দুক",
+      "why_en": "Condemns the practice of defaming others behind their backs."
+    },
+    {
+      "pos": 2,
+      "root": "مشي",
+      "lemma": "مَشّاء",
+      "meaning_en": "walking about",
+      "meaning_bn": "ঘুরে বেড়ানো ব্যক্তি",
+      "why_en": "Depicts active effort spent spreading rumors."
+    },
+    {
+      "pos": 3,
+      "root": "نمم",
+      "lemma": "نَمِيم",
+      "meaning_en": "malicious gossip",
+      "meaning_bn": "চোগলখোরি",
+      "why_en": "Forbids carrying tales between people to ruin relationships."
+    }
+  ],
+  "lesson_en": "Guard your tongue from backbiting and tale-bearing to maintain peace and trust.",
+  "lesson_bn": "চোগলখোরি ও গীবত পরিহার করে সমাজে সৌহার্দ্য ও সম্প্রীতি বজায় রাখা কর্তব্য।",
+  "real_life_en": "A coworker hears a private disagreement between two friends and feels tempted to share it in the group chat. She stops herself. She refuses to be someone who spreads gossip and stirs up trouble.",
+  "real_life_bn": "কারও পারিবারিক বা ব্যক্তিগত গোপন কথা অন্যের কাছে বলে বেড়ানো জঘন্য অপরাধ। সমাজে শান্তি চাইলে পরনিন্দা ও চোগলখোরি থেকে নিজেকে দূরে রাখা আবশ্যক।",
+  "themes": [
+    "ethics",
+    "good character",
+    "honesty"
+  ],
+  "kinds": [
+    "prohibition",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Quran condemns habitual slanderers who walk about carrying malicious gossip to break relationships.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

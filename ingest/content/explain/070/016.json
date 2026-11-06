@@ -1,0 +1,70 @@
+{
+ "id": "70:16",
+ "simple_en": "The fire of Hell is so fierce that it strips away the skin of the head. Its leaping flames tear off the scalp because of its great heat. It leaves no part of the body untouched. This severe punishment waits for those who turned away from faith.",
+ "simple_bn": "জাহান্নামের আগুন এতই তীব্র যে তা মাথার চামড়া খসিয়ে দেয়। প্রচণ্ড উত্তাপের কারণে তা শরীরের বাইরের অংশ পুড়িয়ে ফেলে। কোনো কিছুই সেই আগুনের হাত থেকে রক্ষা পাবে না। যারা সত্য থেকে মুখ ফিরিয়ে নিয়েছিল, এটি তাদের পরিণতি।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "نزع",
+   "lemma": "نَزّاعَة",
+   "meaning_en": "stripping away, tearing off",
+   "meaning_bn": "খসিয়ে দেওয়া, টেনে তুলে ফেলা",
+   "why_en": "It describes how the heat pulls the skin off the head."
+  },
+  {
+   "pos": 2,
+   "root": "شوي",
+   "lemma": "شَوَى",
+   "meaning_en": "the scalp, exteriors",
+   "meaning_bn": "মাথার চামড়া",
+   "why_en": "It points to the outer skin that burns away in the intense heat."
+  }
+ ],
+ "lesson_en": "Remember the reality of the fire and turn to Allah in prayer before your time is up.",
+ "lesson_bn": "জাহান্নামের আগুনের ভয়াবহতা স্মরণ করে সময় শেষ হওয়ার আগেই আল্লাহর দিকে ফিরে আসুন।",
+ "real_life_en": "A cook burns a finger on a hot pan and feels sharp pain at once. Even a small burn hurts for days. Thinking about how weak the body is can keep a person humble and remind them to seek Allah's protection.",
+ "real_life_bn": "রান্না করার সময় গরম পাত্রে সামান্য হাত লাগলে তীব্র জ্বালা করে। কয়েক দিন সেই ব্যথা থাকে। নিজের শরীরের এই দুর্বলতা মানুষকে অহংকার ছেড়ে আল্লাহর আশ্রয় চাইতে সাহায্য করে।",
+ "themes": [
+  "Hell",
+  "punishment",
+  "the Day of Judgement"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "hell"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "day of judgement"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The intense heat of the fire strips the skin of the head and body.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The flames tear off the exteriors of those punished in Hell.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

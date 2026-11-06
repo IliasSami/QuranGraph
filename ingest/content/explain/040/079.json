@@ -1,0 +1,71 @@
+{
+  "id": "40:79",
+  "simple_en": "Allah is the One who created livestock for your benefit. You ride on some of them to travel, and you eat wholesome meat from others.",
+  "simple_bn": "আল্লাহই তোমাদের জন্য গৃহপালিত চতুষ্পদ জন্তু সৃষ্টি করেছেন, যাতে তোমরা তাদের কয়েকটির ওপর আরোহণ করতে পারো এবং কয়েকটি থেকে খাদ্য গ্রহণ করো।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نعم",
+      "lemma": "نَعَم",
+      "meaning_en": "the cattle / livestock",
+      "meaning_bn": "গৃহপালিত জন্তুসমূহ",
+      "why_en": "Domestic animals created to serve human daily needs."
+    },
+    {
+      "pos": 6,
+      "root": "ركب",
+      "lemma": "رَكِبَ",
+      "meaning_en": "that you ride",
+      "meaning_bn": "যাতে তোমরা আরোহণ করো",
+      "why_en": "Using animals for transport and carrying loads."
+    },
+    {
+      "pos": 9,
+      "root": "أكل",
+      "lemma": "أَكَلَ",
+      "meaning_en": "you eat",
+      "meaning_bn": "তোমরা খাও",
+      "why_en": "Obtaining halal nourishing food and meat."
+    }
+  ],
+  "lesson_en": "Livestock and cattle are daily gifts from Allah that help our lives.",
+  "lesson_bn": "গৃহপালিত পশু মানুষের কল্যাণে আল্লাহর পক্ষ থেকে এক পরম নিয়ামত হিসেবে সৃষ্টি করা হয়েছে।",
+  "real_life_en": "Treat animals kindly and thank Allah for the food and transport they provide. Being gentle to living creatures is an act of faith.",
+  "real_life_bn": "পশুপাখির প্রতি সদয় আচরণ করুন এবং তাদের মাধ্যমে প্রাপ্ত খাদ্যের জন্য আল্লাহর শোকর আদায় করুন। প্রাণীদের যত্ন নেওয়াও ঈমানের অংশ।",
+  "themes": [
+    "creation",
+    "signs in nature",
+    "gratitude"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah created livestock for mankind so they may ride some and eat from some.",
+      "claim_bn": "আল্লাহ মানুষের জন্য চতুষ্পদ জন্তু বানিয়েছেন যাতে মানুষ তাদের ওপর সওয়ার হয় এবং তাদের থেকে আহার করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

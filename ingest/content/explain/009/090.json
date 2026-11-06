@@ -1,0 +1,75 @@
+{
+  "id": "9:90",
+  "simple_en": "Those with excuses among the desert Arabs came asking for permission to stay behind. And those who were false to Allah and His Messenger simply sat at home. A painful punishment will strike the disbelievers among them.",
+  "simple_bn": "মরুবাসী বেদুইনদের মধ্য থেকে কিছু লোক ওজর পেশ করতে এলো যাতে তাদের অনুমতি দেওয়া হয়। আর যারা আল্লাহ ও তাঁর রাসূলের সাথে মিথ্যা বলেছিল তারা ঘরে বসেই রইল। তাদের মধ্যে যারা কুফরি করেছে তাদের ওপর অচিরেই যন্ত্রণাদায়ক শাস্তি আপতিত হবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عذر",
+      "lemma": "مُعَذِّر",
+      "meaning_en": "those presenting excuses",
+      "meaning_bn": "ওজর পেশকারীরা",
+      "why_en": "Desert tribesmen claiming hardship to avoid mobilization."
+    },
+    {
+      "pos": 4,
+      "root": "عرب",
+      "lemma": "أَعْراب",
+      "meaning_en": "desert Arabs / Bedouins",
+      "meaning_bn": "মরুবাসী বেদুইন",
+      "why_en": "Nomadic tribes living outside the urban center of Medina."
+    },
+    {
+      "pos": 9,
+      "root": "كذب",
+      "lemma": "كَذَبَ",
+      "meaning_en": "lied / were false",
+      "meaning_bn": "মিথ্যা বলেছিল",
+      "why_en": "Feigning faith while having no genuine loyalty."
+    }
+  ],
+  "lesson_en": "Telling lies to escape duty only brings shame and pain.",
+  "lesson_bn": "দায়িত্ব এড়াতে মিথ্যা ওজর পেশ করা মানুষের চরিত্র নষ্ট করে এবং শাস্তি ডেকে আনে।",
+  "real_life_en": "Be honest about your limits. Do not invent fake sickness or family problems when your help is needed; tell the truth plainly.",
+  "real_life_bn": "কাজের সময়ে মিথ্যা বাহানা বা অসুস্থতার নাটক করবেন না; সততার সাথে নিজের প্রকৃত অবস্থা খুলে বলুন।",
+  "themes": [
+    "false excuses",
+    "desert Arabs",
+    "accountability"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "Bedouins",
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Bedouin hypocrites fabricated excuses to avoid Tabuk, while others stayed back out of pure defiance; both face divine justice.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

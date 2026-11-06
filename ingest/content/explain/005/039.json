@@ -1,0 +1,93 @@
+{
+ "id": "5:39",
+ "simple_en": "A sinner is never beyond hope if they choose to reform. If someone turns back to Allah after stealing and fixes their ways, Allah will forgive them. They must also return the stolen goods to their owners. Allah accepts true repentance. He is Most Forgiving and Most Merciful.",
+ "simple_bn": "গুনাহ করার পরও কোনো বান্দা আল্লাহর রহমত থেকে বঞ্চিত হয় না। অন্যায় বা চুরি করার পর যে ব্যক্তি অনুতপ্ত হয়ে তওবা করে এবং নিজেকে সংশোধন করে, আল্লাহ তার তওবা কবুল করেন। তবে চুরি করা মাল তার মালিককে ফেরত দিতে হবে। নিশ্চয় আল্লাহ অতি ক্ষমাশীল এবং পরম দয়ালু।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "توب",
+   "lemma": "تابَ",
+   "meaning_en": "repented",
+   "meaning_bn": "তওবা করল",
+   "why_en": "The act of sincere regret and turning back to Allah from sin."
+  },
+  {
+   "pos": 5,
+   "root": "ظلم",
+   "lemma": "ظُلْم",
+   "meaning_en": "wrongdoing / injustice",
+   "meaning_bn": "অন্যায় / যুলুম",
+   "why_en": "Refers to the sin of theft and violating others' property."
+  },
+  {
+   "pos": 6,
+   "root": "صلح",
+   "lemma": "أَصْلَحَ",
+   "meaning_en": "reformed / made amends",
+   "meaning_bn": "সংশোধন করল",
+   "why_en": "True repentance must be shown by fixing conduct and returning rights."
+  },
+  {
+   "pos": 13,
+   "root": "غفر",
+   "lemma": "غَفُور",
+   "meaning_en": "Most Forgiving",
+   "meaning_bn": "অতি ক্ষমাশীল",
+   "why_en": "Allah erases the guilt of the one who sincerely reforms."
+  }
+ ],
+ "lesson_en": "True repentance means stopping the sin, fixing the harm, and turning to Allah with a sincere heart.",
+ "lesson_bn": "খাঁটি তওবা হলো পাপ বর্জন করা, ক্ষতিপূরণ দেওয়া এবং আল্লাহর দিকে নিষ্ঠার সাথে ফিরে আসা।",
+ "real_life_en": "A shop assistant stole items from the back room in the past. Overcome with guilt, he approaches the owner, confesses quietly, and pays back every penny. He starts fresh with an honest heart, trusting in Allah's mercy.",
+ "real_life_bn": "একজন তরুণ অতীতে ভুলবশত অন্যের জিনিস চুরি করেছিল। পরে সে অনুতপ্ত হয়ে মালিকের কাছে গিয়ে গোপনে ক্ষতিপূরণ দেয় এবং আল্লাহর কাছে ক্ষমা চায়। সে সত্য ও সৎ উপার্জনের নতুন জীবন শুরু করে।",
+ "context_en": "Opens the gate of spiritual forgiveness for the thief who repents and reforms after the legal penalty was set.",
+ "context_bn": "চুরির কঠোর শাস্তির বিধানের পরপরই আন্তরিক তওবা ও আত্মসংশোধনের মাধ্যমে আল্লাহর রহমত লাভের সুযোগের ঘোষণা।",
+ "themes": [
+  "repentance",
+  "forgiveness",
+  "Allah's mercy",
+  "ethics",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "promise",
+  "ethics",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Ghafur",
+   "Ar-Rahim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Whoever repents after committing theft and reforms their conduct, Allah will accept their repentance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah is Most Forgiving and Most Merciful to servants who turn to Him in sincere reform.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

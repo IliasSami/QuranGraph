@@ -1,0 +1,80 @@
+{
+  "id": "15:53",
+  "simple_en": "The angels said: Do not be afraid. We bring you good news of a baby boy who will grow up to be full of wisdom and knowledge.",
+  "simple_bn": "ফেরেশতারা বলল: ভয় পাবেন না। আমরা আপনাকে এক পুত্রসন্তানের সুসংবাদ দিচ্ছি যে বড় হয়ে গভীর জ্ঞান ও প্রজ্ঞার অধিকারী হবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "وجل",
+      "lemma": "وَجِلَتْ",
+      "meaning_en": "fear not",
+      "meaning_bn": "ভয় পাবেন না",
+      "why_en": "Comforting Abraham to remove fear."
+    },
+    {
+      "pos": 5,
+      "root": "بشر",
+      "lemma": "بُشِّرَ",
+      "meaning_en": "we give good news",
+      "meaning_bn": "আমরা সুসংবাদ দিচ্ছি",
+      "why_en": "Delivering glad tidings of a child."
+    },
+    {
+      "pos": 6,
+      "root": "غلم",
+      "lemma": "غُلام",
+      "meaning_en": "a boy",
+      "meaning_bn": "এক পুত্র",
+      "why_en": "The promised son Isaac."
+    },
+    {
+      "pos": 7,
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "knowledgeable",
+      "meaning_bn": "জ্ঞানী",
+      "why_en": "Possessing divine wisdom."
+    }
+  ],
+  "lesson_en": "Allah gives blessings when least expected. Good news replaces fear when trust in Allah remains strong.",
+  "lesson_bn": "আল্লাহ এমন সময়ে নিয়ামত দেন যা মানুষ কল্পনাও করতে পারে না। আল্লাহর ওপর ভরসা রাখলে মনের ভয় দূর হয়ে যায়।",
+  "real_life_en": "A couple struggling with health worries gets good news from their doctor. They smile with gratitude. Relief comes after long days of patience.",
+  "real_life_bn": "দীর্ঘদিন অসুস্থতায় ভোগা এক দম্পতি ডাক্তারের কাছ থেকে ভালো রিপোর্ট পেয়ে স্বস্তি পায়। ধৈর্য ধরার পর আল্লাহর রহমতে তাদের জীবনে খুশির সংবাদ আসে।",
+  "context_en": "The angels easing Abraham's fear with the glad tidings of the birth of Isaac.",
+  "context_bn": "ইবরাহীমের শঙ্কা দূর করে ফেরেশতাদের পক্ষ থেকে জ্ঞানী পুত্র ইসহাক জন্মের সুসংবাদ।",
+  "themes": [
+    "glad-tidings",
+    "prophets",
+    "family"
+  ],
+  "kinds": [
+    "story",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "Abraham"
+    ],
+    "unseen": [
+      "Angels"
+    ],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The angels dispelled Abraham's fears and gave him glad tidings of a knowledgeable son.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

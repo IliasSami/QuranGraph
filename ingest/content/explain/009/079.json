@@ -1,0 +1,73 @@
+{
+  "id": "9:79",
+  "simple_en": "Some people criticize believers who give extra in charity. They also mock the poor who can only give what they earn with hard labor. Allah will repay their mockery, and they will face a painful punishment.",
+  "simple_bn": "মুমিনদের মধ্যে যারা আনন্দের সাথে বেশি দান করে, মুনাফিকরা তাদের দোষ ধরে। আবার যারা কঠোর শ্রম ছাড়া দানের মতো কিছুই পায় না, তাদের নিয়েও তারা ঠাট্টা করে। আল্লাহ তাদের এই ঠাট্টার শাস্তি দেবেন এবং তাদের জন্য রয়েছে কঠিন শাস্তি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "لمز",
+      "lemma": "يَلْمِزُ",
+      "meaning_en": "criticize / mock",
+      "meaning_bn": "দোষারোপ করে / কটাক্ষ করে",
+      "why_en": "Slandering the noble donations of believers."
+    },
+    {
+      "pos": 3,
+      "root": "طوع",
+      "lemma": "مُطَّوِّع",
+      "meaning_en": "voluntary givers",
+      "meaning_bn": "স্বতঃস্ফূর্ত দানকারী",
+      "why_en": "Believers giving extra beyond obligatory charity."
+    },
+    {
+      "pos": 12,
+      "root": "جهد",
+      "lemma": "جُهْد",
+      "meaning_en": "their effort / labor",
+      "meaning_bn": "তাদের শ্রম / কষ্টার্জিত সামান্য অর্থ",
+      "why_en": "Modest offerings earned through hard manual sweat."
+    }
+  ],
+  "lesson_en": "Never look down on small donations; honest effort is precious with Allah.",
+  "lesson_bn": "কারও সামান্য দানকে কখনো তুচ্ছ মনে করবেন না; কষ্টার্জিত সামান্য দানও আল্লাহর কাছে অনেক দামি।",
+  "real_life_en": "Appreciate every small contribution people make to your fundraiser, even if it is just a single coin. Sincere effort counts most.",
+  "real_life_bn": "কেউ সামান্য কিছু দান করলেও তাকে উপহাস করবেন না; আন্তরিকতার সাথে দেওয়া এক টাকার মূল্যও অনেক বেশি।",
+  "themes": [
+    "charity",
+    "sincere effort",
+    "mockery of good deeds"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers",
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites mocked both large donors as ostentatious and poor manual laborers giving modest alms as insignificant.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,87 @@
+{
+  "id": "14:23",
+  "simple_en": "Those who believed and did righteous deeds will be welcomed into gardens beneath which rivers flow. They will live there forever by the permission of their Lord. Their greeting to one another will be: Peace.",
+  "simple_bn": "আর যারা ঈমান এনেছে এবং সৎকাজ করেছে তাদের প্রবেশ করানো হবে এমন জান্নাতে যার তলদেশে নহরসমূহ প্রবাহিত। তারা সেখানে তাদের রবের অনুমতিক্রমে চিরকাল বসবাস করবে। সেখানে তাদের পারস্পরিক অভিবাদন হবে: সালাম (শান্তি)।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "they believed",
+      "meaning_bn": "তারা ঈমান এনেছে",
+      "why_en": "True faith in Allah."
+    },
+    {
+      "pos": 5,
+      "root": "صلح",
+      "lemma": "صالِحَة",
+      "meaning_en": "the good deeds",
+      "meaning_bn": "সৎকাজসমূহ",
+      "why_en": "Righteous actions pleasing to Allah."
+    },
+    {
+      "pos": 6,
+      "root": "جنن",
+      "lemma": "جَنَّة",
+      "meaning_en": "gardens",
+      "meaning_bn": "জান্নাতসমূহ",
+      "why_en": "Gardens of eternal delight."
+    },
+    {
+      "pos": 11,
+      "root": "خلد",
+      "lemma": "خالِد",
+      "meaning_en": "abiding eternally",
+      "meaning_bn": "চিরকাল বসবাসকারী",
+      "why_en": "Dwelling forever in bliss."
+    },
+    {
+      "pos": 17,
+      "root": "سلم",
+      "lemma": "سَلام",
+      "meaning_en": "peace",
+      "meaning_bn": "শান্তি",
+      "why_en": "Divine greeting of peace."
+    }
+  ],
+  "lesson_en": "Faith and good deeds lead to eternal peace in Paradise. Work for that reward every day.",
+  "lesson_bn": "ঈমান ও নেক আমল জান্নাতে চিরস্থায়ী শান্তির পথ সুগম করে। প্রতিদিন সেই মহা পুরস্কারের জন্য কাজ করুন।",
+  "real_life_en": "An elderly woman spends her life teaching poor children and helping neighbors. She faces many hardships patiently. Her deep faith gives her inner peace, knowing that Paradise awaits the faithful.",
+  "real_life_bn": "এক বৃদ্ধা সারা জীবন সুবিধাবঞ্চিত শিশুদের শিক্ষা দিয়ে ও প্রতিবেশীদের সেবা করে কাটিয়ে দেন। কষ্টের মুখেও তিনি অবিচল থাকেন, কারণ তিনি জানেন আল্লাহর সন্তুষ্টি ও জান্নাতই চির শান্তির ঠিকানা।",
+  "context_en": "The joyful destination of believers in Paradise and their greeting of peace.",
+  "context_bn": "জান্নাতে মুমিনদের অনন্ত নিবাস এবং পরস্পরের প্রতি সালাম ও শান্তির অভ্যর্থনা।",
+  "themes": [
+    "paradise",
+    "righteousness",
+    "peace"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "hereafter",
+    "promise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Paradise"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers who perform righteous deeds will dwell in Paradise forever with the greeting of peace.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

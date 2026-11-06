@@ -1,0 +1,72 @@
+{
+  "id": "12:95",
+  "simple_en": "Those who were with Yaqub answered with harsh words. They swore by Allah that he was still caught in his old grief over Yusuf. They thought he was merely dreaming about an impossible return.",
+  "simple_bn": "ইয়াকুবের কাছে যারা উপস্থিত ছিল তারা কঠিন সুরে উত্তর দিল। তারা আল্লাহর শপথ করে বলল যে, তিনি এখনো ইউসুফের পুরোনো শোকে আচ্ছন্ন হয়ে আছেন এবং অমূলক আশা করছেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "by Allah",
+      "meaning_bn": "আল্লাহর শপথ",
+      "why_en": "An emphatic oath used by the relatives to reject Yaqub's claim."
+    },
+    {
+      "pos": 5,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "error or attachment",
+      "meaning_bn": "বিভ্রান্তি বা অতি-ভালোবাসা",
+      "why_en": "They viewed his enduring love for Yusuf as stubborn delusion."
+    },
+    {
+      "pos": 6,
+      "root": "قدم",
+      "lemma": "قَدِيم",
+      "meaning_en": "old",
+      "meaning_bn": "পুরোনো",
+      "why_en": "Emphasizes the decades-long duration of Yaqub's unwavering hope."
+    }
+  ],
+  "lesson_en": "People often doubt deep faith and steadfast hope when they cannot see the outcome.",
+  "lesson_bn": "মানুষের দূরদৃষ্টি না থাকলে তারা প্রায়ই অন্যের গভীর বিশ্বাস ও আশাকে ভুল বোঝে।",
+  "real_life_en": "An inventor spends years working on clean water filters. Friends tell him to quit and call his effort useless. He keeps working because he knows the design works.",
+  "real_life_bn": "এক তরুণ গবেষক নতুন প্রযুক্তি উদ্ভাবনে বছরের পর বছর কাজ করে যায়। বন্ধুরা একে সময় নষ্ট বললেও সে দৃঢ় বিশ্বাসের সাথে কাজ চালিয়ে সফলতা অর্জন করে।",
+  "context_en": "Yaqub's relatives dismissed his claim of smelling Yusuf as old attachment and grief.",
+  "context_bn": "ইয়াকুবের সঙ্গীরা তাঁর কথাকে বার্ধক্যের মোহ ও পুরোনো স্মৃতি বলে উড়িয়ে দিল।",
+  "themes": [
+    "doubt",
+    "patience",
+    "faith"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Yaqub",
+      "Yusuf"
+    ],
+    "nations": [],
+    "places": [
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Yaqub's companions claimed he remained in his old illusion regarding Yusuf.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

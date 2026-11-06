@@ -1,0 +1,82 @@
+{
+  "id": "6:150",
+  "simple_en": "Tell the idolaters to bring witnesses who claim Allah banned these animals. Even if they lie and testify, do not agree with them. Never follow the desires of people who deny Allah's signs. They reject the Hereafter and set up false rivals to their Lord.",
+  "simple_bn": "মুশরিকদের চ্যালেঞ্জ করে বলুন: তোমাদের সেই সাক্ষীদের হাজির করো, যারা সাক্ষ্য দেবে যে আল্লাহ এগুলো হারাম করেছেন। যদি তারা মিথ্যা সাক্ষ্য দেয়ও, আপনি কখনো তাদের সাথে সাক্ষ্য দেবেন না। যারা আমাদের আয়াতগুলোকে মিথ্যা বলে, পরকালে বিশ্বাস করে না এবং তাদের রবের সাথে অন্যকে সমান মনে করে, আপনি তাদের খেয়ালখুশির অনুসরণ করবেন না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "هلم",
+      "lemma": "هَلُمّ",
+      "meaning_en": "bring forward",
+      "meaning_bn": "হাজির করো",
+      "why_en": "Issues a direct challenge to the idolaters to present valid witnesses."
+    },
+    {
+      "pos": 3,
+      "root": "شهد",
+      "lemma": "شَهِيد",
+      "meaning_en": "your witnesses",
+      "meaning_bn": "তোমাদের সাক্ষীদের",
+      "why_en": "Exposes the impossibility of finding truthful witnesses for invented taboos."
+    },
+    {
+      "pos": 27,
+      "root": "عدل",
+      "lemma": "عَدَلَ",
+      "meaning_en": "they equate or set rivals",
+      "meaning_bn": "তারা সমকক্ষ দাঁড় করায়",
+      "why_en": "Describes the polytheists setting up false rivals alongside their Lord."
+    }
+  ],
+  "lesson_en": "Never endorse false testimony or compromise truth to please people who follow selfish whims.",
+  "lesson_bn": "কখনো মিথ্যা সাক্ষ্যে সমর্থন দেবেন না। পরকালবিমুখ মানুষের খেয়ালখুশি মেটাতে গিয়ে সত্যের সাথে আপস করবেন না।",
+  "real_life_en": "Stand up for truth even when others push you to lie. If a coworker or relative asks you to sign a false paper, refuse with respect. Never sacrifice your honesty just to please people.",
+  "real_life_bn": "পরিবার বা কর্মক্ষেত্রে মিথ্যা কথার সমর্থনে কোনো চাপ এলে আপস করবেন না। কেউ অন্যায্য দাবি বা মিথ্যা কাগজে সাক্ষ্য দিতে বললে দৃঢ়ভাবে অস্বীকার করুন। মানুষের মন জোগাতে গিয়ে আল্লাহর অসন্তুষ্টি কেনা যাবে না।",
+  "context_en": "Allah commands the Prophet to demand verified witnesses for pagan taboos, forbidding him from validating their falsehood.",
+  "context_bn": "মুশরিকদের দাবি যে সম্পূর্ণ অলীক তা প্রমাণের জন্য তাদের কাছে সাক্ষী চাওয়া হয়েছে এবং মিথ্যা সাক্ষ্য গ্রহণ করতে নিষেধ করা হয়েছে।",
+  "themes": [
+    "justice",
+    "the Last Day",
+    "shirk",
+    "honesty"
+  ],
+  "kinds": [
+    "argument",
+    "prohibition",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "Quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet is told to challenge the polytheists to produce witnesses who can truthfully affirm their invented prohibitions.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Believers are strictly forbidden from affirming false testimony or following the desires of those who reject the Hereafter.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

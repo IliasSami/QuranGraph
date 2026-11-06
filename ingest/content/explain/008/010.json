@@ -1,0 +1,82 @@
+{
+  "id": "8:10",
+  "simple_en": "Allah sent the angels only as good news and to bring peace to your troubled hearts. True victory comes only from Allah. Indeed, Allah is Almighty and All-Wise.",
+  "simple_bn": "আর আল্লাহ এটা কেবল সুসংবাদ হিসেবে এবং যাতে তোমাদের অন্তর প্রশান্ত হয় সেজন্য করেছিলেন। সাহায্য তো কেবল আল্লাহর পক্ষ থেকেই আসে; নিশ্চয়ই আল্লাহ মহাপরাক্রমশালী, প্রজ্ঞাময়।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "بشر",
+      "lemma": "بُشْرَى",
+      "meaning_en": "glad tidings",
+      "meaning_bn": "সুসংবাদ",
+      "why_en": "Joyful assurance that victory is at hand."
+    },
+    {
+      "pos": 6,
+      "root": "طمأن",
+      "lemma": "اطْمَأَنَّ",
+      "meaning_en": "find reassurance / be calm",
+      "meaning_bn": "প্রশান্তি লাভ করে",
+      "why_en": "Heartfelt tranquility removing anxiety before battle."
+    },
+    {
+      "pos": 17,
+      "root": "عزز",
+      "lemma": "عَزِيز",
+      "meaning_en": "Almighty / Exalted in Might",
+      "meaning_bn": "মহাপরাক্রমশালী",
+      "why_en": "Supreme power that cannot be defeated by any army."
+    }
+  ],
+  "lesson_en": "Tools and friends can help us, but real victory comes only from God.",
+  "lesson_bn": "বাহ্যিক উপায়-উপকরণ অন্তরে ভরসা জোগায়, কিন্তু প্রকৃত বিজয় আসে একমাত্র আল্লাহর নিকট থেকে।",
+  "real_life_en": "Use every good resource and seek support when working toward a goal. But keep in your heart that success is granted by God alone. Stay humble in victory and thank the Creator.",
+  "real_life_bn": "সাফল্যের জন্য যথাসাধ্য প্রস্তুতি নিন, কিন্তু অহংকার করবেন না। প্রতিটি অর্জনের জন্য অন্তরের গভীর থেকে আল্লাহর শুকরিয়া আদায় করুন।",
+  "context_en": "Clarifying that the angels were a psychological reassurance, while the actual power to grant victory resides exclusively with Allah.",
+  "context_bn": "ফেরেশতাদের উপস্থিতি ছিল অন্তরের সান্ত্বনা ও সুসংবাদ, আর মূল বিজয়ের মালিক কেবল আল্লাহ তায়ালা।",
+  "themes": [
+    "true source of victory",
+    "inner peace",
+    "names of Allah",
+    "tawhid"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "promise",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers"
+    ],
+    "places": [
+      "Badr"
+    ],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [
+      "Allah",
+      "al-'Aziz",
+      "al-Hakim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The descent of the angels served as glad tidings and tranquility for the hearts, while victory originates exclusively from Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

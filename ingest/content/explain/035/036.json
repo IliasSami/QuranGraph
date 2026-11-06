@@ -1,0 +1,71 @@
+{
+  "id": "35:36",
+  "simple_en": "For those who reject faith will be the fire of Hell. Death will not be decreed for them so that they might die and find relief, nor will its agonizing punishment be lightened in any way. Thus We repay every persistent, ungrateful denier.",
+  "simple_bn": "আর যারা কুফরী করেছে তাদের জন্য রয়েছে জাহান্নামের আগুন। তাদের মৃত্যুর ফয়সালা হবে না যে তারা মরে বেঁচে যাবে, আর তাদের থেকে জাহান্নামের শাস্তিও সামান্য কমানো হবে না। এভাবেই আমরা প্রত্যেক অকৃতজ্ঞ কাফিরকে প্রতিদান দিয়ে থাকি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the fire of Hell",
+      "meaning_bn": "জাহান্নামের আগুন",
+      "why_en": "The terrifying place of eternal punishment for persistent deniers."
+    },
+    {
+      "pos": 7,
+      "root": "قضي",
+      "lemma": "قَضَى",
+      "meaning_en": "is decreed",
+      "meaning_bn": "ফয়সালা হবে",
+      "why_en": "Indicates that death will no longer exist in the Hereafter."
+    },
+    {
+      "pos": 18,
+      "root": "كفر",
+      "lemma": "كَفُور",
+      "meaning_en": "ungrateful denier",
+      "meaning_bn": "চরম অকৃতজ্ঞ বা কাফির",
+      "why_en": "Describes those who deny divine blessings and reject the truth."
+    }
+  ],
+  "lesson_en": "Rejecting faith leads to Hellfire, where punishment is continuous and death is impossible.",
+  "lesson_bn": "কুফরীর পরিণতি জাহান্নাম, যেখানে শাস্তি হবে অবিরাম এবং মৃত্যু দিয়েও তা থেকে রেহাই পাওয়া যাবে না।",
+  "real_life_en": "Keep your heart alert against ingratitude and pride. Sincerely ask Allah for safety from the punishment of Hell in your daily prayers.",
+  "real_life_bn": "প্রতিদিনের সালাতে জাহান্নামের কঠিন আযাব থেকে পানাহ চান। আল্লাহর নিয়ামতের প্রতি অকৃতজ্ঞ হওয়া এবং অহংকার করা থেকে সর্বদা সতর্ক থাকুন।",
+  "themes": [
+    "Hell",
+    "punishment",
+    "disbelief",
+    "the Last Day"
+  ],
+  "kinds": [
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Disbelievers will face Hellfire where they will neither die nor have punishment lightened.",
+      "claim_bn": "কাফিরদের জন্য রয়েছে জাহান্নামের আগুন, যেখানে তারা মরবেও না এবং তাদের শাস্তিও কমানো হবে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

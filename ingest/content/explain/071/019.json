@@ -1,0 +1,78 @@
+{
+ "id": "71:19",
+ "simple_en": "Allah spread out the earth like a wide carpet so people could live and travel upon it with ease. He made the land stable and firm rather than rough and impossible to cross. This vast space allows humans to build homes, farm fields, and live in safety.",
+ "simple_bn": "আল্লাহ মানুষের বসবাসের জন্য জমিনকে একটি বিস্তৃত বিছানার মতো বিছিয়ে দিয়েছেন। তিনি মাটিকে এমনভাবে উপযোগী করেছেন যাতে মানুষ সহজে পথ চলতে পারে। এই বিস্তৃত জমিনের কারণেই মানুষ ঘরবাড়ি বানাতে পারে, চাষাবাদ করতে পারে এবং নিরাপদে বসবাস করতে পারে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "جعل",
+   "lemma": "جَعَلَ",
+   "meaning_en": "made, prepared",
+   "meaning_bn": "করেছেন, বানিয়েছেন",
+   "why_en": "Allah shaped the earth specifically for human life."
+  },
+  {
+   "pos": 4,
+   "root": "أرض",
+   "lemma": "أَرْض",
+   "meaning_en": "the earth",
+   "meaning_bn": "জমিন, পৃথিবী",
+   "why_en": "The living space prepared for all creatures."
+  },
+  {
+   "pos": 5,
+   "root": "بسط",
+   "lemma": "بِساط",
+   "meaning_en": "an expanse, wide carpet",
+   "meaning_bn": "বিস্তৃত বিছানা",
+   "why_en": "Smooth, wide terrain suitable for building and living."
+  }
+ ],
+ "lesson_en": "Appreciate the stable ground beneath your feet as a quiet gift from Allah.",
+ "lesson_bn": "পায়ের নিচের এই শান্ত জমিনকে আল্লাহর এক মহান অনুগ্রহ হিসেবে উপলব্ধি করুন।",
+ "real_life_en": "When an earthquake shakes the ground for just a few seconds, buildings crack and panic spreads. That brief tremor shows how precious a steady, quiet earth really is for our daily peace.",
+ "real_life_bn": "কয়েক সেকেন্ডের জন্য ভূমিকম্প হলেই ঘরবাড়ি কেঁপে ওঠে এবং মানুষের মধ্যে ভয় ছড়িয়ে পড়ে। সেই সামান্য ঝাঁকুনি বুঝিয়ে দেয় শান্ত ও স্থির পৃথিবী আমাদের জীবনের জন্য কত বড় নিয়ামত।",
+ "themes": [
+  "earth",
+  "blessings of Allah",
+  "creation"
+ ],
+ "kinds": [
+  "creation",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": [
+   "earth"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah spread out the earth as an expanse suitable for human life and dwelling.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The earth is made stable and accessible for human habitation.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "12:91",
+  "simple_en": "The brothers admitted their wrongdoing to Yusuf. They swore by Allah that He had favored Yusuf over them in knowledge and character. They confessed that they had been sinful in their past actions.",
+  "simple_bn": "ভাইয়েরা ইউসুফের কাছে তাদের ভুলের কথা স্বীকার করল। তারা আল্লাহর শপথ করে বলল যে, আল্লাহ তাকে জ্ঞান ও চরিত্রে তাদের চেয়ে শ্রেষ্ঠত্ব দিয়েছেন। তারা মেনে নিল যে অতীতের কাজে তারা স্পষ্ট অপরাধী ছিল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أثر",
+      "lemma": "آثَرَ",
+      "meaning_en": "preferred you",
+      "meaning_bn": "তোমাকে প্রাধান্য দিয়েছেন",
+      "why_en": "The brothers openly acknowledge Yusuf's higher virtue granted by Allah."
+    },
+    {
+      "pos": 9,
+      "root": "خطأ",
+      "lemma": "خاطِئ",
+      "meaning_en": "sinners",
+      "meaning_bn": "অপরাধী",
+      "why_en": "Full confession of their intentional past sin against Yusuf."
+    }
+  ],
+  "lesson_en": "Admit your errors openly. It brings real peace.",
+  "lesson_bn": "ভুল স্বীকার করা আত্মশুদ্ধি ও পারস্পরিক সম্পর্ক মেরামতের প্রথম ধাপ।",
+  "real_life_en": "A coworker admits they took credit for a shared project. They speak to the team openly, say sorry, and correct the project records to give fair credit to everyone.",
+  "real_life_bn": "একজন সহকর্মী দলগত কাজের কৃতিত্ব নিজে নেওয়ার ভুল স্বীকার করে। সে দলের সবার কাছে আন্তরিকভাবে দুঃখ প্রকাশ করে কাজের নথিপত্র সংশোধন করে নেয়।",
+  "context_en": "Yusuf revealed his identity, and his brothers acknowledged their past sins against him.",
+  "context_bn": "ইউসুফ নিজের পরিচয় প্রকাশ করার পর ভাইয়েরা নিজেদের অপরাধ অকপটে স্বীকার করল।",
+  "themes": [
+    "confession",
+    "humility",
+    "truth"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "brothers of Yusuf"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers admitted that Allah favored Yusuf and confessed their past sins.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

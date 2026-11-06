@@ -1,0 +1,64 @@
+{
+  "id": "16:67",
+  "simple_en": "From the fruits of palm trees and grapes you get sweet drinks and wholesome food. In that is a sign for people of good sense.",
+  "simple_bn": "খেজুর গাছ ও আঙ্গুরের ফল থেকেও তোমরা নেশাজাতীয় পানীয় ও উত্তম খাদ্য তৈরি করো। নিশ্চয় এতে বিবেকবান বুদ্ধিমান সম্প্রদায়ের জন্য বহু গভীর নিদর্শন রয়েছে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نخل",
+      "lemma": "نَخِيل",
+      "meaning_en": "date palms",
+      "meaning_bn": "খেজুর গাছ",
+      "why_en": "A staple desert fruit tree."
+    },
+    {
+      "pos": 4,
+      "root": "عنب",
+      "lemma": "عِنَب",
+      "meaning_en": "grapes",
+      "meaning_bn": "আঙ্গুর",
+      "why_en": "Wholesome sweet fruit used for fresh eating."
+    }
+  ],
+  "lesson_en": "God gives good fruits for food. People must choose what is pure.",
+  "lesson_bn": "ফলমূল মানুষের জন্য উপকারী পুষ্টির উৎস। মানুষ তা থেকে কল্যাণকর খাদ্য নাকি ক্ষতিকর বস্তু গ্রহণ করবে তা তার বিবেচনার ওপর নির্ভর করে।",
+  "real_life_en": "Consume only pure and halal foods. Avoid intoxicants and harmful habits that destroy your mind and health.",
+  "real_life_bn": "সর্বদা হালাল ও পুষ্টিকর খাবার গ্রহণ করুন। ক্ষতিকর মাদক ও নেশাজাতীয় জিনিস থেকে নিজেকে দূরে রাখুন।",
+  "themes": [
+    "agriculture",
+    "sustenance",
+    "halal"
+  ],
+  "kinds": [
+    "creation",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "date palms",
+      "grapes"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Date palms and grapevines produce drinks and wholesome provision as a sign for people who reason.",
+      "claim_bn": "খেজুর ও আঙ্গুর ফল থেকে পানীয় ও উত্তম রিযিক আহরিত হয় যা বুদ্ধিমানদের জন্য নিদর্শন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

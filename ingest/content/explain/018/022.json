@@ -1,0 +1,66 @@
+{
+  "id": "18:22",
+  "simple_en": "People guess blindly about their number, arguing whether they were three, five, or seven with their dog. Say, 'My Lord knows best how many there were.' Do not argue over useless details.",
+  "simple_bn": "মানুষ অনুমানের ওপর ভিত্তি করে তাদের সংখ্যা নিয়ে বিতর্ক করে কেউ বলে তিনজন, কেউ বলে পাঁচজন, আবার কেউ বলে সাতজন তাদের কুকুরসহ। বলুন, 'আমার প্রতিপালকই তাদের সংখ্যা ভালো জানেন।' অনর্থক বিষয়ে বিতর্ক করবেন না।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "رجم",
+      "lemma": "رَجْم",
+      "meaning_en": "guessing blindly",
+      "meaning_bn": "অনুমানের তীর নিক্ষেপ করা বা আন্দাজ করা",
+      "why_en": "Speculating on unseen matters without divine knowledge."
+    },
+    {
+      "pos": 24,
+      "root": "مري",
+      "lemma": "تُمارِ",
+      "meaning_en": "do not dispute",
+      "meaning_bn": "বিতর্ক করবেন না",
+      "why_en": "Avoiding futile debates on trivial details."
+    }
+  ],
+  "lesson_en": "Focus on the moral lessons of stories rather than arguing over numbers and minor details. Knowledge belongs to God.",
+  "lesson_bn": "ঘটনার মূল শিক্ষা গ্রহণ করুন, অপ্রয়োজনীয় সংখ্যা বা খুঁটিনাটি নিয়ে অযথা তর্কে জড়াবেন না। আসল জ্ঞান আল্লাহর কাছে।",
+  "real_life_en": "Avoid pointless debates online or with friends about trivial matters. Spend your time and energy learning things that make you a better person.",
+  "real_life_bn": "অনর্থক তর্ক-বিতর্কে সময় নষ্ট করবেন না। যে জ্ঞানে দুনিয়া ও আখেরাতের কল্যাণ আছে সেই полезные জ্ঞানার্জনে মনোনিবেশ করুন।",
+  "themes": [
+    "avoiding-futile-debate",
+    "number-of-the-cave-youth",
+    "relying-on-knowledge"
+  ],
+  "kinds": [
+    "argument",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad",
+      "Companions of the Cave"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "dog of the cave"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "People speculate without evidence on the exact number of the cave companions, while Allah knows their true count and forbids futile arguments.",
+      "claim_bn": "মানুষ অন্ধকারে ঢিল ছুড়ে গুহাবাসীদের সংখ্যা নিয়ে বিতর্ক করত, অথচ তাদের সঠিক সংখ্যা একমাত্র আল্লাহই জানেন এবং অনর্থক তর্ক নিষিদ্ধ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

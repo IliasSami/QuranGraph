@@ -1,0 +1,83 @@
+{
+  "id": "39:71",
+  "simple_en": "Those who disbelieved will be driven to Hell in large groups. When they reach its blazing gates, the gates will be flung open. Its keeper angels will ask them: Did messengers from among yourselves not come to you, reciting your Lord's verses and warning you of this Day? They will reply: Yes, indeed. But the decree of punishment has been rightfully justified against the disbelievers.",
+  "simple_bn": "যারা কুফরি করেছিল তাদের দলে দলে জাহান্নামের দিকে হাঁকিয়ে নিয়ে যাওয়া হবে। যখন তারা জাহান্নামের কাছে পৌঁছাবে, তখন এর দরজাসমূহ খুলে দেওয়া হবে। এর রক্ষী ফিরিশতারা তাদের জিজ্ঞেস করবেন: তোমাদের কাছে কি তোমাদের মধ্য থেকেই রাসূলগণ আসেননি, যারা তোমাদের রবের আয়াত পাঠ করে শোনাতেন এবং আজকের এই দিনের ব্যাপারে সতর্ক করতেন? তারা বলবে: অবশ্যই এসেছিলেন। কিন্তু কাফিরদের ওপর শাস্তির আদেশ সত্য প্রমাণিত হয়ে গেছে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سوق",
+      "lemma": "سِيقَ",
+      "meaning_en": "will be driven",
+      "meaning_bn": "হাঁকিয়ে নেওয়া হবে",
+      "why_en": "Portrays the humiliating, forceful driving of the condemned into the Fire."
+    },
+    {
+      "pos": 6,
+      "root": "زمر",
+      "lemma": "زُمَر",
+      "meaning_en": "in groups / troops",
+      "meaning_bn": "দলে দলে",
+      "why_en": "The namesake of the Surah (Az-Zumar), describing crowds led to their destinations."
+    },
+    {
+      "pos": 11,
+      "root": "بوب",
+      "lemma": "باب",
+      "meaning_en": "its keepers / guardian angels",
+      "meaning_bn": "তার রক্ষীগণ",
+      "why_en": "Refers to the stern angels guarding the gates of Hell."
+    },
+    {
+      "pos": 30,
+      "root": "حقق",
+      "lemma": "حَقَّ",
+      "meaning_en": "became binding / justified",
+      "meaning_bn": "বাস্তবায়িত বা অবধারিত হয়েছে",
+      "why_en": "Shows the realization of divine warnings against persistent deniers."
+    }
+  ],
+  "lesson_en": "Prophets warned every nation with care. Those who reject the truth bring ruin on themselves.",
+  "lesson_bn": "নবীগণ প্রতিটি জাতিকে স্পষ্টভাবে সতর্ক করেছিলেন, আর তাদের অস্বীকারকারীরা পরকালে অবধারিত শাস্তির মুখে পড়বে।",
+  "real_life_en": "Listen to the warnings of the prophets while you have time. When moral guidance reaches you, do not ignore it, so you never have to confess regret at Hell's gates.",
+  "real_life_bn": "সময় থাকতে নবীগণের দেওয়া সতর্কবার্তা শুনুন ও মেনে চলুন। সৎ উপদেশ অবহেলা করবেন না, যেন পরকালে আফসোস করে সত্য স্বীকার করতে না হয়।",
+  "themes": [
+    "hellfire",
+    "groups",
+    "messengers",
+    "confession",
+    "the Last Day"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Disbelievers are driven to Hell in groups, its keepers ask if messengers warned them, they admit it, but punishment is binding.",
+      "claim_bn": "কাফিরদের দলে দলে জাহান্নামে নেওয়া হবে, রক্ষীরা সতর্ককারীর কথা জিজ্ঞেস করলে তারা স্বীকার করবে এবং শাস্তি কার্যকর হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

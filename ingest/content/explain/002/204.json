@@ -1,0 +1,92 @@
+{
+ "id": "2:204",
+ "simple_en": "Among people is the hypocrite whose sweet words about worldly life impress listeners. He even calls on Allah to witness that his heart is full of faith and truth. In fact, he is a liar who only wants to protect his wealth. When an argument starts, he turns out to be the most stubborn and hateful enemy.",
+ "simple_bn": "মানুষের মধ্যে এমন কিছু মুনাফিক রয়েছে, পার্থিব জীবনের বাহ্যিক কথাবার্তায় যাদের দারুণ মিষ্টভাষী ও আকর্ষণীয় মনে হয়। সে এমনকি নিজের অন্তরের সততা ও ঈমানের ব্যাপারে আল্লাহকেও সাক্ষী রেখে শপথ করে। কিন্তু প্রকৃতপক্ষে সে চরম মিথ্যাবাদী। কোনো বিরোধ বা তর্ক দেখা দিলে সে সত্যের বিরুদ্ধে অত্যন্ত উগ্র, একগুঁয়ে ও বিদ্বেষী শত্রুতে পরিণত হয়।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "عجب",
+   "lemma": "أَعْجَبَ",
+   "meaning_en": "pleases you (impresses you)",
+   "meaning_bn": "আপনাকে মুগ্ধ করে",
+   "why_en": "Describes the superficial charm and polished speech that can deceive listeners."
+  },
+  {
+   "pos": 9,
+   "root": "شهد",
+   "lemma": "أَشْهَدَ",
+   "meaning_en": "he calls to witness",
+   "meaning_bn": "সাক্ষী রাখে",
+   "why_en": "Shows the extreme audacity of taking false oaths by Allah to mask hypocrisy."
+  },
+  {
+   "pos": 14,
+   "root": "قلب",
+   "lemma": "قَلْب",
+   "meaning_en": "his heart",
+   "meaning_bn": "তার অন্তর",
+   "why_en": "Contrasts outward sweet claims with the corrupt hatred hidden inside."
+  },
+  {
+   "pos": 16,
+   "root": "لدد",
+   "lemma": "أَلَدّ",
+   "meaning_en": "fiercest (most stubborn)",
+   "meaning_bn": "চরম কলহপ্রিয় (কঠোরতম)",
+   "why_en": "Exposes intense hostility, deceit, and contentious behavior in dispute."
+  }
+ ],
+ "lesson_en": "Judge people by their deeds and moral integrity rather than smooth words and loud claims of piety.",
+ "lesson_bn": "মানুষের মিষ্টি কথা বা চটকদার দাবির ওপর ভিত্তি করে নয়, বরং তাদের সততা ও বাস্তব কাজের মাধ্যমেই তাদের প্রকৃত চরিত্র বিচার করুন।",
+ "real_life_en": "Be careful with people who speak smooth words and take oaths, but act without honesty. Look at how they treat people and how fair they are in disputes before you place your trust in them.",
+ "real_life_bn": "ব্যবসা-বাণিজ্য বা ব্যক্তিগত সম্পর্কে যারা অতিরঞ্জিত শপথ ও মিষ্টি কথার ফুলঝুরি ছড়ায়, তাদের অন্ধভাবে বিশ্বাস করবেন না। তাদের অতীত আচরণ, লেনদেনের সততা এবং বিরোধের সময় তাদের ইনসাফবোধ পর্যবেক্ষণ করে সিদ্ধান্ত নিন।",
+ "context_en": "Introduces a contrast between two types of human beings: deceitful hypocrites who ruin society and sincere believers who devote their lives to Allah.",
+ "context_bn": "এখানে মানুষের দুটি বিপরীতমুখী চরিত্র তুলে ধরা হয়েছে: একদিকে মিষ্টি কথার আড়ালে সমাজের ক্ষতিসাধনকারী মুনাফিক এবং অন্যদিকে আল্লাহর সন্তুষ্টিতে নিবেদিতপ্রাণ মুমিন।",
+ "themes": [
+  "hypocrisy",
+  "good character",
+  "honesty",
+  "human nature"
+ ],
+ "kinds": [
+  "warning",
+  "belief",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Hypocrites present attractive speech and take false oaths by Allah to conceal their inner disbelief.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Despite their smooth words, hypocrites are the fiercest, most contentious opponents of truth and Muslims.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

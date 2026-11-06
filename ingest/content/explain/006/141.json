@@ -1,0 +1,84 @@
+{
+  "id": "6:141",
+  "simple_en": "Allah created gardens of all kinds. Some plants climb on trellises, while others grow low on the ground. He produces date palms, varied crops, olives, and pomegranates. These plants share similar leaves yet produce different tastes. Eat from their harvest when they bear fruit. Pay the poor-due on the day you gather the crops. Do not waste or exceed limits. Allah does not love wasteful people.",
+  "simple_bn": "আল্লাহই নানা প্রকারের বাগান সৃষ্টি করেছেন। কিছু উদ্ভিদ মাচায় ওঠে এবং কিছু মাটির ওপর ছড়িয়ে বাড়ে। তিনি খেজুর গাছ, বিভিন্ন স্বাদের শস্যদানা, জলপাই ও ডালিম উৎপন্ন করেন। এসবের পাতা দেখতে কাছাকাছি হলেও স্বাদ সম্পূর্ণ ভিন্ন। ফসল পাকার পর তা থেকে আহার করো এবং ফসল তোলার দিনে গরিবের হক আদায় করো। কোনো বিষয়ে অপচয় বা সীমালঙ্ঘন কোরো না। নিশ্চয়ই আল্লাহ অপচয়কারীদের ভালোবাসেন না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "عرش",
+      "lemma": "مَعْرُوشَة",
+      "meaning_en": "trellised gardens",
+      "meaning_bn": "মাচানির্ভর বাগান",
+      "why_en": "Describes climbing plants raised on trellises, showing diverse cultivation."
+    },
+    {
+      "pos": 23,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "its due share",
+      "meaning_bn": "তার হক বা প্রাপ্য",
+      "why_en": "Refers to the poor-due or charity required at harvest time."
+    },
+    {
+      "pos": 31,
+      "root": "سرف",
+      "lemma": "مُسْرِف",
+      "meaning_en": "the wasteful",
+      "meaning_bn": "অপচয়কারী",
+      "why_en": "Warns against excess and waste in consumption and spending."
+    }
+  ],
+  "lesson_en": "Enjoy lawful food with gratitude. Give the poor their due share and avoid all waste.",
+  "lesson_bn": "আল্লাহর নিয়ামত উপভোগ করে শুকরিয়া আদায় করুন। ফসল তোলার সময় গরিবের হক দিন এবং অপচয় পরিহার করুন।",
+  "real_life_en": "When you receive your paycheck or harvest crops, set aside the share for the needy right away. Buy only what you need and avoid throwing away excess food. Gratitude means sharing wealth and living within sensible limits.",
+  "real_life_bn": "বেতন বা ফসলের আয় হাতে এলে শুরুতেই গরিবের নির্ধারিত অংশ আলাদা করে দিন। প্রয়োজনের অতিরিক্ত খাবার কিনে নষ্ট করবেন না। নিয়ামতের প্রকৃত শুকরিয়া হলো দান করা এবং অপচয় না করে সংযমী থাকা।",
+  "context_en": "After addressing pagan taboos on livestock and crops, Allah reminds people that He alone created these fruits for human benefit.",
+  "context_bn": "মুশরিকদের মনগড়া খাদ্য বিধিনিষেধের পর আল্লাহ স্মরণ করিয়ে দিয়েছেন যে তিনিই এসব ফল ও ফসল সৃষ্টি করেছেন।",
+  "themes": [
+    "creation",
+    "signs in nature",
+    "charity",
+    "gratitude",
+    "zakat"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "command",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "date palms",
+      "crops",
+      "olives",
+      "pomegranates"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah created diverse gardens, date palms, crops, olives, and pomegranates that differ in taste.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "People are commanded to eat from the harvest, pay its due right to the needy, and avoid wastefulness.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

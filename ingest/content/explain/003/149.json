@@ -1,0 +1,77 @@
+{
+ "id": "3:149",
+ "simple_en": "O believers, if you obey those who disbelieve, they will lead you away from the truth. They will push you back into disbelief, and you will end up as total losers. You will lose both this life and the next life. Never take your moral guidance from those who reject Allah.",
+ "simple_bn": "হে মুমিনগণ, তোমরা যদি সত্য প্রত্যাখ্যানকারীদের বিভ্রান্তিকর পরামর্শ মেনে চলো, তবে তারা তোমাদের ঈমানের পথ থেকে সরিয়ে দেবে। তারা তোমাদের পুনরায় কুফরির দিকে নিয়ে নেবে, ফলে তোমরা ইহকাল ও পরকালে চূড়ান্ত ক্ষতিগ্রস্ত হবে। যারা আল্লাহতে বিশ্বাস করে না, নিজেদের বিশ্বাস ও জীবনযাত্রার বিষয়ে তাদের ওপর নির্ভর কোরো না।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "طوع",
+   "lemma": "أَطاعَ",
+   "meaning_en": "you obey",
+   "meaning_bn": "তোমরা আনুগত্য করো",
+   "why_en": "Warns against accepting the misleading advice or doubts spread by disbelievers."
+  },
+  {
+   "pos": 8,
+   "root": "ردد",
+   "lemma": "رَدَّ",
+   "meaning_en": "they will turn you back",
+   "meaning_bn": "তারা তোমাদের ফিরিয়ে দেবে",
+   "why_en": "Shows how listening to doubts drags a believer away from truth toward spiritual ruin."
+  },
+  {
+   "pos": 12,
+   "root": "خسر",
+   "lemma": "خاسِر",
+   "meaning_en": "losers",
+   "meaning_bn": "ক্ষতিগ্রস্ত",
+   "why_en": "Describes the total loss in this life and the next that results from turning away from faith."
+  }
+ ],
+ "lesson_en": "Never leave your faith or morals to follow the bad advice of those who reject truth.",
+ "lesson_bn": "নিজের ঈমান ও নৈতিকতা বিসর্জন দিয়ে কখনো সত্য অস্বীকারকারীদের ভ্রান্ত মতাদর্শ অনুসরণ করা উচিত নয়।",
+ "real_life_en": "Online feeds and workplace peers might sometimes urge you to bend your ethics, drink alcohol, or cheat for profit. They claim it is just normal modern life. Standing firm by your Islamic values protects your soul and conscience from regret and loss.",
+ "real_life_bn": "কর্মক্ষেত্র বা সামাজিক যোগাযোগমাধ্যমে হয়তো অনেকে স্বার্থের খাতিরে মিথ্যা বলা বা হারাম উপার্জনের পরামর্শ দিতে পারে। কিন্তু একজন মুমিন কখনো নীতিহীন পরামর্শ গ্রহণ করে না। আল্লাহর নির্দেশ মেনে চলার মধ্যেই রয়েছে প্রকৃত নিরাপত্তা ও আত্মমর্যাদা।",
+ "context_en": "After the setback at Uhud, disbelievers and hypocrites tried to shake the believers' faith, so Allah warned against following their advice.",
+ "context_bn": "উহুদের সাময়িক বিপর্যয়ের সুযোগ নিয়ে অবিশ্বাসী ও মুনাফিকরা যখন সাহাবীদের মনে সন্দেহ সৃষ্টির চেষ্টা করছিল, তখন এই সতর্কবার্তা নাযিল হয়।",
+ "themes": [
+  "faith",
+  "disbelief",
+  "guidance",
+  "misguidance",
+  "trials"
+ ],
+ "kinds": [
+  "warning",
+  "prohibition",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Battle of Uhud"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Obeying the advice and misguidance of disbelievers will turn believers back into disbelief and make them losers in both worlds.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

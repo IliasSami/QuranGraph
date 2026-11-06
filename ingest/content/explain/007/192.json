@@ -1,0 +1,74 @@
+{
+  "id": "7:192",
+  "simple_en": "These false deities cannot help their worshippers in any way when real trouble comes. In fact, they cannot even defend or rescue themselves from any harm.",
+  "simple_bn": "এগুলো তাদেরকে কোনো সাহায্য করতে পারে না এবং নিজেদেরও কোনো সাহায্য করতে পারে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "طوع",
+      "lemma": "اسْتَطاعَ",
+      "meaning_en": "they are able",
+      "meaning_bn": "তারা সক্ষম হয়",
+      "why_en": "The utter helplessness of false gods."
+    },
+    {
+      "pos": 4,
+      "root": "نصر",
+      "lemma": "نَصْر",
+      "meaning_en": "help / assistance",
+      "meaning_bn": "সাহায্য",
+      "why_en": "Delivering aid to callers during distress."
+    },
+    {
+      "pos": 7,
+      "root": "نصر",
+      "lemma": "نَصَرَ",
+      "meaning_en": "they help themselves",
+      "meaning_bn": "তারা নিজেদের সাহায্য করে",
+      "why_en": "Inability even to defend their own forms from harm."
+    }
+  ],
+  "lesson_en": "Powerless things cannot protect you or bring you peace.",
+  "lesson_bn": "যে নিজে নিজেকে রক্ষা করতে পারে না, সে অন্য কাউকে রক্ষা করতে পারে না।",
+  "real_life_en": "When hard times come, ask God for help and do your best. Trusting in lucky charms or helpless statues will only let you down. True help comes from God.",
+  "real_life_bn": "বিপদে পড়লে একমাত্র আল্লাহর কাছে প্রার্থনা করুন। অন্ধ কুসংস্কার কখনো কোনো মানুষের উদ্ধার করতে পারে না।",
+  "context_en": "Exposing the sheer helplessness of false deities who cannot assist their followers or protect themselves.",
+  "context_bn": "উপাস্য হিসেবে পূজিত মূর্তিগুলোর চরম অক্ষমতা ও পরনির্ভরশীলতার উন্মোচন।",
+  "themes": [
+    "futility of idols",
+    "seeking true help",
+    "tawhid"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "False deities cannot render aid to their worshippers nor can they protect themselves from harm.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": "23:25",
+  "simple_en": "They claimed that Noah was merely a man suffering from madness. They told the people to wait and see what would happen to him in time.",
+  "simple_bn": "সে তো উন্মাদগ্রস্ত এক লোক ছাড়া আর কিছু নয়, সুতরাং তার ব্যাপারে কিছুকাল অপেক্ষা করো।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "جنن",
+      "lemma": "جِنَّة",
+      "meaning_en": "madness",
+      "meaning_bn": "পাগলামি বা উন্মাদনা",
+      "why_en": "Cruel insult hurled by opponents against prophetic sanity."
+    },
+    {
+      "pos": 7,
+      "root": "ربص",
+      "lemma": "تَرَبَّصْ",
+      "meaning_en": "so wait",
+      "meaning_bn": "অতএব অপেক্ষা করো",
+      "why_en": "Chiefs urging followers to delay and await Noah's downfall."
+    }
+  ],
+  "lesson_en": "Opponents often slander good people when they cannot defeat their message. Sincere teachers face insults with calm patience.",
+  "lesson_bn": "যুক্তিতে হেরে গেলে মানুষ সত্য প্রচারকদের বিরুদ্ধে অপবাদ দেয়। অপবাদের মুখে ধৈর্য ধারণ করাই সৎ মানুষের গুণ।",
+  "real_life_en": "Stay calm when critics call you names for doing what is right. Time and truth will expose false accusations.",
+  "real_life_bn": "ভালো কাজের জন্য কেউ গালি বা অপবাদ দিলে বিচলিত হবেন না। ধৈর্য ধরুন, কারণ সত্য সবসময় মিথ্যার ওপর বিজয়ী হয়।",
+  "themes": [
+    "slander-against-prophets",
+    "patience",
+    "story-of-noah"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Noah"
+    ],
+    "nations": [
+      "People of Noah"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelieving elite slandered Noah as mentally unstable, advising their followers to wait out his demise.",
+      "claim_bn": "অহংকারী নেতারা নূহ আলাইহিস সালামকে উন্মাদ বলে অপবাদ দিয়েছিল এবং মানুষের মনে বিভ্রান্তি সৃষ্টির অপচেষ্টা করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

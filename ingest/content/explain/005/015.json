@@ -1,0 +1,90 @@
+{
+ "id": "5:15",
+ "simple_en": "O People of the Scripture, Our Messenger has come to you. He makes clear much of what you used to hide from the Scripture, and he overlooks many other things. A radiant light and a clear Book have now come to you from Allah to guide your lives.",
+ "simple_bn": "হে কিতাবিগণ, তোমাদের কাছে আমাদের রাসুল এসেছেন। তোমরা কিতাবের যেসব বিষয় গোপন করতে তিনি তার অনেক কিছুই তোমাদের কাছে স্পষ্ট করে তুলে ধরেন, আর অনেক কিছু এড়িয়ে যান। নিশ্চয়ই তোমাদের কাছে আল্লাহর পক্ষ থেকে এক উজ্জ্বল আলো এবং এক সুস্পষ্ট কিতাব এসেছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "the Scripture",
+   "meaning_bn": "আসমানি কিতাব",
+   "why_en": "Refers to the previous revelations like the Torah and the Gospel."
+  },
+  {
+   "pos": 5,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "Our Messenger",
+   "meaning_bn": "আমাদের রাসুল",
+   "why_en": "Prophet Muhammad was sent to uncover concealed truths and complete divine guidance."
+  },
+  {
+   "pos": 21,
+   "root": "نور",
+   "lemma": "نُور",
+   "meaning_en": "a radiant light",
+   "meaning_bn": "উজ্জ্বল আলো / জ্যোতি",
+   "why_en": "Describes the luminous truth of the Quran and the guidance brought by the Prophet."
+  }
+ ],
+ "lesson_en": "The Quran brings clear light. Follow the Messenger to find the right way.",
+ "lesson_bn": "কুরআন সুস্পষ্ট আলো নিয়ে এসেছে। সঠিক পথের সন্ধান পেতে রাসুলুল্লাহ ﷺ-এর সুন্নাহ অনুসরণ করুন।",
+ "real_life_en": "When you feel lost or doubtful, read the Quran. Its clear words take away dark thoughts. It shows you the best way to live each day in peace.",
+ "real_life_bn": "মনে বিভ্রান্তি বা দ্বিধা তৈরি হলে কুরআন তিলাওয়াত করুন। এর সুস্পষ্ট বাণী মনের অন্ধকার দূর করে দেয় এবং প্রতিদিন শান্তিতে চলার সঠিক পথ দেখায়।",
+ "context_en": "Directly addresses the People of the Scripture, inviting them to recognize the final Messenger and the clear light of the Quran.",
+ "context_bn": "আহলে কিতাবদের প্রতি সরাসরি আহ্বান, যাতে তারা শেষ রাসুলকে চিনতে পারে এবং কুরআনের উজ্জ্বল আলোর আনুগত্য গ্রহণ করে।",
+ "themes": [
+  "People of the Scripture",
+  "Prophethood of Muhammad",
+  "the Quran as light",
+  "clarity of revelation"
+ ],
+ "kinds": [
+  "address",
+  "glad-tidings",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Muhammad"
+  ],
+  "nations": [
+   "People of the Scripture"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The Prophet Muhammad was sent to the People of the Scripture to expose much of what they concealed in their books and to overlook much.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "A great light and a clarifying, manifest Book (the Quran) has been sent by Allah to guide mankind.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

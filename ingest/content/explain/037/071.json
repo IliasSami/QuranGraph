@@ -1,0 +1,71 @@
+{
+  "id": "37:71",
+  "simple_en": "This mistake was not new. Most past nations also strayed from the right path. They made the same error. They turned away from truth and worshipped false idols.",
+  "simple_bn": "এই ভুল কোনো নতুন বিষয় ছিল না। অতীতের বহু জাতিও সরল পথ ছেড়ে বিপথগামী হয়েছিল। তারা সত্যের বাণী অগ্রাহ্য করে মূর্তিপূজায় লিপ্ত হয়েছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ضلل",
+      "lemma": "ضَلَّ",
+      "meaning_en": "went astray",
+      "meaning_bn": "বিপথগামী হয়েছিল",
+      "why_en": "Describes previous nations deviating from the message of the prophets."
+    },
+    {
+      "pos": 4,
+      "root": "كثر",
+      "lemma": "أَكْثَر",
+      "meaning_en": "most / majority",
+      "meaning_bn": "অধিকাংশ",
+      "why_en": "Highlights that the majority often followed falsehood, so numbers do not define truth."
+    },
+    {
+      "pos": 5,
+      "root": "أول",
+      "lemma": "أَوَّل",
+      "meaning_en": "the earlier peoples",
+      "meaning_bn": "পূর্ববর্তী জাতিসমূহ",
+      "why_en": "Refers to past generations whose stories serve as lessons."
+    }
+  ],
+  "lesson_en": "Truth is not about numbers. Many people in the past agreed on what was false.",
+  "lesson_bn": "সংখ্যাগরিষ্ঠতার ওপর সত্য নির্ভর করে না। অতীতেও বহু লোক ভুলের ওপর একমত ছিল।",
+  "real_life_en": "Do not feel discouraged if only a few people stand for honesty and truth. Quality of character matters far more than crowd size.",
+  "real_life_bn": "সততা ও সত্যের পথে চলার লোক সংখ্যায় কম হলেও হতাশ হবেন না। নীতিবান হওয়াই সবচেয়ে মূল্যবান।",
+  "themes": [
+    "past nations",
+    "guidance",
+    "misguidance"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Most of the former ancient nations before them had also gone astray from the truth.",
+      "claim_bn": "তাদের পূর্বেও প্রাচীন জাতিগুলোর অধিকাংশ মানুষই সত্য পথ থেকে বিচ্যুত হয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "56:92",
+  "simple_en": "But if the dying person was among the deniers who strayed from the truth, their ending will be tragic. They mocked the prophets and chose disbelief. Death catches them unprepared and in deep regret.",
+  "simple_bn": "কিন্তু মৃত ব্যক্তি যদি সত্যত্যাগী ও মিথ্যারোপকারীদের একজন হয়, তবে তার পরিণতি হবে অত্যন্ত মর্মান্তিক। সে নবীদের উপহাস করেছিল এবং কুফরি বেছে নিয়েছিল। কোনো প্রস্তুতি ছাড়াই হঠাৎ মৃত্যু তাকে গ্রাস করবে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "كذب",
+      "lemma": "مُكَذِّب",
+      "meaning_en": "deniers",
+      "meaning_bn": "মিথ্যারোপকারীগণ",
+      "why_en": "Identifies those who rejected divine revelation and the Last Day."
+    },
+    {
+      "pos": 6,
+      "root": "ضلل",
+      "lemma": "ضالّ",
+      "meaning_en": "those who are astray",
+      "meaning_bn": "পথভ্রষ্টগণ",
+      "why_en": "Describes those who wandered away from the straight path of guidance."
+    }
+  ],
+  "lesson_en": "Flee from disbelief and denial so you do not face a tragic end.",
+  "lesson_bn": "কুফরি ও সত্য অস্বীকার করা থেকে বাঁচুন যাতে মর্মান্তিক পরিণতির মুখে পড়তে না হয়।",
+  "real_life_en": "A boy wastes his time on games and ignores his tests. On exam morning, deep panic fills his heart. The sorrow of a denier at death is far worse and can never be undone.",
+  "real_life_bn": "একজন ছাত্র সারাবছর পড়াশোনা না করে শুধু খেলায় মেতে থাকে। পরীক্ষার দিন সকালে সে গভীর আতঙ্কে ভোগে। পরকালে অবিশ্বাসী মানুষের অনুশোচনা এর চেয়েও বহুগুণ মারাত্মক হবে।",
+  "themes": [
+    "Hell",
+    "warning",
+    "death"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The soul of the denying straying person meets a dreadful and ruined end at death.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

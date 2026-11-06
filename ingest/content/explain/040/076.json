@@ -1,0 +1,87 @@
+{
+  "id": "40:76",
+  "simple_en": "They will be told to enter the gates of Hell to dwell in it forever. How wretched is the final resting home of the arrogant disbelievers.",
+  "simple_bn": "তোমরা জাহান্নামের দরজাসমূহ দিয়ে এতে চিরকাল বসবাসের জন্য প্রবেশ করো। অহংকারীদের এই বাসস্থান কতই না নিকৃষ্ট।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "دخل",
+      "lemma": "دَخَلَ",
+      "meaning_en": "enter",
+      "meaning_bn": "তোমরা প্রবেশ করো",
+      "why_en": "The decisive command casting the arrogant into the Fire."
+    },
+    {
+      "pos": 2,
+      "root": "بوب",
+      "lemma": "باب",
+      "meaning_en": "gates",
+      "meaning_bn": "দরজাসমূহ",
+      "why_en": "The multiple gates of Hell corresponding to deeds."
+    },
+    {
+      "pos": 3,
+      "root": null,
+      "lemma": "جَهَنَّم",
+      "meaning_en": "Hell",
+      "meaning_bn": "জাহান্নাম",
+      "why_en": "The ultimate abode of punishment."
+    },
+    {
+      "pos": 4,
+      "root": "خلد",
+      "lemma": "خالِد",
+      "meaning_en": "abiding eternally",
+      "meaning_bn": "চিরস্থায়ী হয়ে",
+      "why_en": "Endless dwelling without death or escape."
+    },
+    {
+      "pos": 8,
+      "root": "كبر",
+      "lemma": "مُتَكَبِّر",
+      "meaning_en": "the arrogant ones",
+      "meaning_bn": "অহংকারীগণ",
+      "why_en": "Those whose pride led them to reject truth."
+    }
+  ],
+  "lesson_en": "Hell is the wretched eternal home of those who were full of pride.",
+  "lesson_bn": "অহংকারী ব্যক্তিদের চিরস্থায়ী ঠিকানা হিসেবে জাহান্নামই হলো নিকৃষ্টতম আবাস।",
+  "real_life_en": "Keep your heart free from looking down on other people. A humble heart enters Paradise, while pride leads to loss.",
+  "real_life_bn": "কখনো কাউকে নিজের চেয়ে ছোট বা তুচ্ছ মনে করবেন না। বিনয় মানুষকে জান্নাতের দিকে নিয়ে যায় আর অহংকার সর্বনাশের কারণ হয়।",
+  "themes": [
+    "Hell",
+    "arrogance",
+    "punishment"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The arrogant are commanded to enter the gates of Hell to dwell therein forever, an evil residence.",
+      "claim_bn": "অহংকারীদের জাহান্নামের দরজায় প্রবেশ করে সেখানে চিরকাল থাকার নির্দেশ দেওয়া হবে, যা অতি মন্দ ঠিকানা।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

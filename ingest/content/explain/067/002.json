@@ -1,0 +1,73 @@
+{
+  "id": "67:2",
+  "simple_en": "Allah is the One who created death and life. He did this to test people and see who performs the best deeds. He is the Almighty who cannot be defeated, and the Forgiving toward those who repent.",
+  "simple_bn": "তিনিই সেই সত্তা যিনি জীবন ও মৃত্যু সৃষ্টি করেছেন, যাতে তোমাদের পরীক্ষা করতে পারেন যে কাজে কে সর্বোত্তম। তিনি মহাপরাক্রমশালী এবং তওবাকারী বান্দাদের প্রতি পরম ক্ষমাশীল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "موت",
+      "lemma": "مَوْت",
+      "meaning_en": "death",
+      "meaning_bn": "মৃত্যু",
+      "why_en": "Reminds humans that worldly life has a set end leading to divine accountability."
+    },
+    {
+      "pos": 5,
+      "root": "بلو",
+      "lemma": "بَلَوْ",
+      "meaning_en": "to test you",
+      "meaning_bn": "তোমাদের পরীক্ষা করতে",
+      "why_en": "Defines the true purpose of mortal existence as a test of faith and character."
+    },
+    {
+      "pos": 7,
+      "root": "حسن",
+      "lemma": "أَحْسَن",
+      "meaning_en": "best in deed",
+      "meaning_bn": "কাজে সর্বোত্তম",
+      "why_en": "Focuses on the sincerity and quality of actions rather than mere quantity."
+    }
+  ],
+  "lesson_en": "Focus on sincere, high-quality deeds, for this life is a temporary test.",
+  "lesson_bn": "ইহকাল একটি ক্ষণস্থায়ী পরীক্ষার ক্ষেত্র, তাই সর্বদা আন্তরিক ও উত্তম কাজের প্রতি মনোযোগী হওয়া দরকার।",
+  "real_life_en": "A student wants praise from friends for doing charity. Then she remembers that God looks at sincerity, not social status. She gives help quietly without boasting, seeking only God's pleasure.",
+  "real_life_bn": "মানুষকে দেখানোর উদ্দেশ্যে দান না করে আল্লাহর সন্তুষ্টির জন্য গোপনে অভাবীকে সাহায্য করা উচিত। কাজের বাহ্যিক পরিমাণের চেয়ে অন্তরের খুলূসিয়াত বা একনিষ্ঠতাই আল্লাহর কাছে সবচেয়ে মূল্যবান।",
+  "themes": [
+    "death",
+    "trials",
+    "good character",
+    "forgiveness"
+  ],
+  "kinds": [
+    "belief",
+    "creation",
+    "ethics",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-aziz",
+      "al-ghafur"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah created death and life to test human beings in their deeds, and He is the Almighty and Forgiving.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

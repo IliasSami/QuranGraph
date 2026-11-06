@@ -1,0 +1,53 @@
+{
+  "id": "37:15",
+  "simple_en": "Unable to defeat the truth with facts, the deniers made up false excuses. They claimed that the Quran and the Prophet's miracles were nothing but clear magic. Calling the truth names is an old trick of those who refuse to believe.",
+  "simple_bn": "সত্যের কোনো জবাব দিতে না পেরে অস্বীকারকারীরা মিথ্যা অপবাদ দিত। তারা বলত যে নবীর প্রচারিত বাণী এবং প্রদর্শিত অলৌকিক ঘটনাগুলো সুস্পষ্ট জাদু ছাড়া আর কিছুই নয়।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "سحر",
+      "lemma": "سِحْر",
+      "meaning_en": "magic / sorcery",
+      "meaning_bn": "জাদু",
+      "why_en": "The false label used by disbelievers to dismiss the powerful, divine words of the Quran."
+    }
+  ],
+  "lesson_en": "People often label the truth as fake when they cannot dispute its reality.",
+  "lesson_bn": "যুক্তিতে হেরে গেলে মিথ্যা অপবাদ দেওয়া অসৎ মানুষের বহু পুরোনো অভ্যাস।",
+  "real_life_en": "When facing fair criticism, do not make cheap excuses or attack the speaker. Face the facts honestly and let truth guide your actions.",
+  "real_life_bn": "কারো যৌক্তিক কথার জবাব অপবাদ বা গালি দিয়ে দেবেন না। সত্যের মুখোমুখি হওয়ার মতো সৎ সাহস ও সততা বজায় রাখুন।",
+  "themes": [
+    "false accusations",
+    "sorcery",
+    "the Quran"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelievers dismiss the divine message and miracles as nothing but obvious sorcery.",
+      "claim_bn": "কাফেররা ঐশী বাণী ও মুজিযাকে সুস্পষ্ট জাদু বলে উড়িয়ে দেওয়ার অপচেষ্টা করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,87 @@
+{
+  "id": "5:109",
+  "simple_en": "On the Last Day, Allah will gather all the messengers. He will ask them how their people responded to their call. In awe of His greatness, they will reply that they have no real knowledge compared to His. Only Allah knows the hidden secrets of every heart.",
+  "simple_bn": "যেদিন আল্লাহ সব রাসূলকে একত্র করবেন এবং জিজ্ঞেস করবেন, তোমাদের দাওয়াতের কী উত্তর দেওয়া হয়েছিল? তখন তারা শ্রদ্ধাবনত হয়ে বলবে, আপনার জ্ঞানের তুলনায় আমাদের কোনো জ্ঞান নেই। নিশ্চয় আপনিই অদৃশ্য যাবতীয় বিষয়ে সম্যক জ্ঞাত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "the messengers",
+      "meaning_bn": "রাসূলগণ",
+      "why_en": "The prophets gathered on the Last Day to testify about how people responded."
+    },
+    {
+      "pos": 14,
+      "root": "علم",
+      "lemma": "عَلّام",
+      "meaning_en": "All-Knower",
+      "meaning_bn": "মহাজ্ঞানী",
+      "why_en": "An intensive attribute showing Allah alone knows every inner secret."
+    },
+    {
+      "pos": 15,
+      "root": "غيب",
+      "lemma": "غُيُوب",
+      "meaning_en": "the unseen",
+      "meaning_bn": "অদৃশ্য বিষয়সমূহ",
+      "why_en": "Highlights the hidden realities and intentions that only Allah encompasses."
+    }
+  ],
+  "lesson_en": "Allah alone knows every hidden intention and will judge all people with perfect knowledge.",
+  "lesson_bn": "মানুষের অন্তরের অদৃশ্য বিষয় একমাত্র আল্লাহই জানেন; কিয়ামতের দিন তিনিই প্রকৃত বিচার করবেন।",
+  "real_life_en": "We only see people's outer actions, but Allah knows their private intentions. Do not rush to judge what is inside another person's heart. Leave the unseen to Allah.",
+  "real_life_bn": "মানুষ কেবল বাইরের আচরণ দেখতে পায়, কিন্তু অন্তরের উদ্দেশ্য একমাত্র আল্লাহ জানেন। তাই অন্যের মনের অবস্থা বিচার করতে না গিয়ে নিজের নিয়ত খাঁটি রাখা উচিত।",
+  "context_en": "Transitions to the scene of the Last Day where messengers stand before Allah in awe of His omniscience.",
+  "context_bn": "কিয়ামতের দিবসে আল্লাহর সর্বজ্ঞতার সামনে রাসূলগণের বিনীত জবাবের দৃশ্যপট তুলে ধরা হয়েছে।",
+  "themes": [
+    "the Last Day",
+    "prophethood",
+    "Allah's knowledge",
+    "the unseen"
+  ],
+  "kinds": [
+    "hereafter",
+    "description-of-allah",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "the messengers"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Day of Resurrection"
+    ],
+    "names_of_allah": [
+      "Allah",
+      "Allam al-Ghuyub"
+    ],
+    "events": [
+      "gathering of messengers"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "On the Day of Resurrection, Allah will assemble all messengers and ask about the response of their nations.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "The messengers will defer knowledge to Allah, affirming that He alone fully knows all hidden realities.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

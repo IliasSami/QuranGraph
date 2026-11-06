@@ -1,0 +1,72 @@
+{
+  "id": "20:116",
+  "simple_en": "We told the angels to bow before Adam in respect. All of them obeyed at once, but Iblis refused because of his stubborn pride and envy.",
+  "simple_bn": "আল্লাহ ফেরেশতাদের নির্দেশ দিলেন আদমকে সম্মান জানিয়ে সিজদা করতে। সকল ফেরেশতা সিজদা করল কিন্তু ইবলিস হিংসা ও অহংকারের কারণে তা প্রত্যাখ্যান করল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "سجد",
+      "lemma": "ٱسْجُدُوا",
+      "meaning_en": "prostrate in honor",
+      "meaning_bn": "সিজদা কর",
+      "why_en": "An act of respect ordered by God toward Adam."
+    },
+    {
+      "pos": 9,
+      "root": "أبي",
+      "lemma": "أَبَىٰ",
+      "meaning_en": "he refused stubbornly",
+      "meaning_bn": "সে অস্বীকার বা অহংকার করল",
+      "why_en": "The first act of arrogant disobedience by Satan."
+    }
+  ],
+  "lesson_en": "Pride and envy ruin a person's faith. Arrogance leads straight to disobeying God.",
+  "lesson_bn": "অহংকার ও হিংসা মানুষের সকল ভালো কাজ ধ্বংস করে এবং সরাসরি আল্লাহর বিরুদ্ধে বিদ্রোহের দিকে ঠেলে দেয়।",
+  "real_life_en": "Root out jealousy when others are honored. Rejoice in the success of your peers instead of feeling envious.",
+  "real_life_bn": "অন্যের ভালো দেখলে হিংসা করবেন না। মানুষের সম্মান ও সাফল্যে আনন্দিত হতে শিখুন এবং অহংকার ত্যাগ করুন।",
+  "themes": [
+    "prostration-to-adam",
+    "iblis",
+    "pride",
+    "envy"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Adam",
+      "Iblis"
+    ],
+    "nations": [],
+    "places": [
+      "Paradise"
+    ],
+    "unseen": [
+      "Angels",
+      "Iblis"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Prostration to Adam"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "All the angels prostrated before Adam by God's command, but Iblis refused out of pride.",
+      "claim_bn": "আল্লাহর নির্দেশে সকল ফেরেশতা আদমকে সিজদা করলেও ইবলিস অহংকারের কারণে তা অস্বীকার করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

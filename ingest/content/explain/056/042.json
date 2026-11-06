@@ -1,0 +1,63 @@
+{
+  "id": "56:42",
+  "simple_en": "They will be trapped in scorching winds that burn the skin and boiling water that scorches the throat. The wind offers no cool breeze, and the water brings no relief. Every sensation will be painful.",
+  "simple_bn": "তারা চামড়া ঝলসে দেওয়া জ্বলন্ত লু-হাওয়া এবং কলিজা জ্বালিয়ে দেওয়া ফুটন্ত পানির মধ্যে অবস্থান করবে। সেই বাতাস কোনো শীতলতা দেবে না এবং পানিও কোনো তৃষ্ণা মেটাবে না। প্রতিটি মুহূর্ত হবে চরম যন্ত্রণাদায়ক।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سمم",
+      "lemma": "سَمُوم",
+      "meaning_en": "scorching wind",
+      "meaning_bn": "জ্বলন্ত গরম বাতাস",
+      "why_en": "Describes intensely hot, penetrating wind that burns the body."
+    },
+    {
+      "pos": 3,
+      "root": "حمم",
+      "lemma": "حَمِيم",
+      "meaning_en": "boiling water",
+      "meaning_bn": "ফুটন্ত পানি",
+      "why_en": "Specifies scalding water heated to extreme temperatures."
+    }
+  ],
+  "lesson_en": "Seek refuge with Allah from the torment of the Fire every single day.",
+  "lesson_bn": "প্রতিদিন জাহান্নামের ভয়াবহ শাস্তি থেকে আল্লাহর কাছে আন্তরিকভাবে আশ্রয় প্রার্থনা করুন।",
+  "real_life_en": "A person pulls his hand back fast when a blast of steam bursts from a kettle. He feels the sting instantly. That brief pain makes him remember Hellfire and ask Allah for protection.",
+  "real_life_bn": "কেটলি থেকে গরম বাষ্প বের হয়ে হাতে লাগামাত্র মানুষ ব্যথায় হাত সরিয়ে নেয়। সামান্য উত্তাপের এই জ্বালা তাকে জাহান্নামের কঠিন শাস্তির কথা স্মরণ করিয়ে দেয় এবং সে আল্লাহর আশ্রয় চায়।",
+  "themes": [
+    "Hell",
+    "punishment",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people of the left will be engulfed in intensely scorching wind and boiling water.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

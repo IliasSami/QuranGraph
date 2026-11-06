@@ -1,0 +1,80 @@
+{
+ "id": "42:16",
+ "simple_en": "Some people argue against Allah's truth after people have already accepted it and seen clear signs. Their false arguments have no weight before their Lord. Allah is displeased with them, and a severe punishment awaits them.",
+ "simple_bn": "মানুষ সত্য দ্বীন গ্রহণ করার পর যারা তা নিয়ে বিতর্ক করে, তাদের যুক্তি আল্লাহর কাছে অসার। তাদের উপর রয়েছে আল্লাহর অসন্তোষ এবং তাদের জন্য রয়েছে কঠিন শাস্তি।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "حجج",
+   "lemma": "حاجَّ",
+   "meaning_en": "they dispute / argue",
+   "meaning_bn": "তারা বিতর্ক করে",
+   "why_en": "Condemns stubborn opposition to clear divine truth."
+  },
+  {
+   "pos": 8,
+   "root": "جوب",
+   "lemma": "اسْتَجابَ",
+   "meaning_en": "response was made",
+   "meaning_bn": "সাড়া দেওয়া হয়েছে",
+   "why_en": "Shows that people embraced the truth after seeing undeniable proof."
+  },
+  {
+   "pos": 11,
+   "root": "دحض",
+   "lemma": "داحِضَة",
+   "meaning_en": "invalid / baseless",
+   "meaning_bn": "অসার",
+   "why_en": "Declares that falsehood cannot withstand the strength of truth."
+  },
+  {
+   "pos": 18,
+   "root": "شدد",
+   "lemma": "شَدِيد",
+   "meaning_en": "severe",
+   "meaning_bn": "কঠিন",
+   "why_en": "Warns of the heavy penalty facing those who mislead others."
+  }
+ ],
+ "lesson_en": "Arguing against the clear truth only leads to loss and regret.",
+ "lesson_bn": "স্পষ্ট সত্যের বিরুদ্ধে অযথা তর্ক মানুষের জন্য শুধুই ক্ষতি ও অনুশোচনা বয়ে আনে।",
+ "real_life_en": "Do not waste time in empty debates that seek to mock faith. When someone questions religion with bad intent, reply with calm wisdom or walk away in peace.",
+ "real_life_bn": "দ্বীন নিয়ে অনর্থক বা বিদ্রূপাত্মক তর্কে জড়াবেন না। কেউ অসৎ উদ্দেশ্যে প্রশ্ন করলে প্রজ্ঞার সাথে উত্তর দিন অথবা শান্তভাবে এড়িয়ে চলুন।",
+ "themes": [
+  "disbelief",
+  "punishment",
+  "justice"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah",
+   "ar-rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Those who argue against the truth after evidence has been established hold baseless arguments and earn severe punishment.",
+   "claim_bn": "প্রমাণ প্রকাশিত হওয়ার পর যারা সত্যের বিরোধিতা করে তাদের যুক্তি অসার এবং তাদের জন্য রয়েছে কঠিন শাস্তি।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,93 @@
+{
+ "id": "4:25",
+ "simple_en": "If a man lacks the wealth to marry a free believing woman, he may marry a believing maidservant. Allah knows everyone's faith, and all believers share the same bond. Marry them with permission from their guardians and give them their fair bridal gifts. They must be chaste, avoiding public sin and secret lovers. If they fall into sin after marriage, their legal penalty is half that of a free unmarried woman. This option exists for those who fear falling into sin, but practicing patience is better for you. Allah is All-Forgiving, Most Merciful.",
+ "simple_bn": "তোমাদের মধ্যে যাদের স্বাধীন মুমিন নারীকে বিয়ে করার আর্থিক সামর্থ্য নেই, তারা মুমিন দাসীদের বিয়ে করতে পারে। আল্লাহ তোমাদের সবার ঈমান সম্পর্কে সম্যক অবগত এবং মুমিনরা একে অপরের দ্বীনি ভাই। তাদের অভিভাবকদের অনুমতি নিয়ে তাদের বিয়ে করো এবং তাদের প্রাপ্য মোহরানা সম্মানজনকভাবে দাও। তারা যেন সচ্চরিত্রা হয়, কোনো প্রকাশ্য ব্যভিচারিণী বা গোপন প্রেমিক গ্রহণকারিণী না হয়। বিবাহের পর তারা কোনো অন্যায় করলে তাদের শাস্তি স্বাধীন নারীর অর্ধেক। গুনাহে জড়িয়ে পড়ার ভয় থাকলে এই অনুমতি দেওয়া হয়েছে, তবে ধৈর্য ধারণ করাই তোমাদের জন্য উত্তম। আল্লাহ অতি ক্ষমাশীল ও পরম দয়ালু।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "طول",
+   "lemma": "طَوْل",
+   "meaning_en": "financial means / capacity",
+   "meaning_bn": "আর্থিক সামর্থ্য",
+   "why_en": "Refers to having sufficient wealth to marry a free woman."
+  },
+  {
+   "pos": 34,
+   "root": "خدن",
+   "lemma": "أَخْدان",
+   "meaning_en": "secret lovers",
+   "meaning_bn": "গোপন প্রেমিক / উপপতি",
+   "why_en": "Prohibits taking secret partners alongside public promiscuity."
+  },
+  {
+   "pos": 50,
+   "root": "عنت",
+   "lemma": "عَنَت",
+   "meaning_en": "hardship / falling into sin",
+   "meaning_bn": "গুনাহে লিপ্ত হওয়ার ভয়",
+   "why_en": "Refers to the moral distress of fearing fornication due to lack of marriage."
+  }
+ ],
+ "lesson_en": "Choose marriage with sincere believers. Faith matters more than wealth or social rank.",
+ "lesson_bn": "হালাল উপায়ে নিজের চরিত্র রক্ষা করুন, মানুষের মর্যাদা দিন এবং আর্থিক টানাপোড়েনে ধৈর্য ধারণ করুন।",
+ "real_life_en": "When looking for a spouse, look at character and faith first. Do not reject a good person just because they lack high social standing. True honor is in faith.",
+ "real_life_bn": "স্বল্প আয়ের এক যুবক অন্যায় সম্পর্ক থেকে বাঁচতে বিয়ে করার সিদ্ধান্ত নেয়। সে সামর্থ্যের বাইরে না গিয়ে সাদাসিধে উপায়ে জীবনসঙ্গী খোঁজে এবং তার সঙ্গীকে পূর্ণ সম্মান দেয়। একই সাথে সে ধৈর্য ধরে এবং আল্লাহর কাছে নৈতিক স্থিরতার জন্য দোয়া করে।",
+ "context_en": "Provides a practical legal concession for marrying believing maidservants when unable to afford dowries for free women.",
+ "context_bn": "স্বাধীন নারীর মোহর পরিশোধে অক্ষম হলে ব্যভিচার থেকে বাঁচতে মুমিন দাসীদের বিয়ে করার সুযোগ প্রদান।",
+ "themes": [
+  "marriage",
+  "chastity",
+  "patience",
+  "forgiveness",
+  "faith"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "law"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Ghafoor",
+   "Ar-Rahim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "A man unable to afford marrying a free woman may marry a believing maidservant if he fears falling into fornication.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Marriage to maidservants requires their guardian's permission and payment of their fair dowry, with chastity and no secret affairs.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Practicing patience until one can marry a free woman is superior, and Allah is All-Forgiving and Most Merciful.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

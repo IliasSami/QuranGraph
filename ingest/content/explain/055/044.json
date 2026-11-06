@@ -1,0 +1,69 @@
+{
+  "id": "55:44",
+  "simple_en": "The dwellers of the fire will pace back and forth between blazing flames and fiercely boiling water. When they cry out from the fire, they are given boiling drink that tears their insides. They find no relief or escape.",
+  "simple_bn": "জাহান্নামীরা জ্বলন্ত আগুন এবং তীব্র ফুটন্ত পানির মাঝখানে দিগ্বিদিক ছোটাছুটি করবে। আগুনের তাপে পিপাসার্ত হয়ে তারা যখন পানীয় খুঁজবে, তখন তাদের ফুটন্ত পানি দেওয়া হবে। সেখানে কোনো স্বস্তি থাকবে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "طوف",
+      "lemma": "طافَ",
+      "meaning_en": "they circulate / pace",
+      "meaning_bn": "তারা প্রদক্ষিণ করে / ছোটাছুটি করে",
+      "why_en": "Agonized movement between two severe modes of torment."
+    },
+    {
+      "pos": 4,
+      "root": "حمم",
+      "lemma": "حَمِيم",
+      "meaning_en": "scalding water",
+      "meaning_bn": "ফুটন্ত পানি",
+      "why_en": "Extremely heated drink offered to the condemned."
+    },
+    {
+      "pos": 5,
+      "root": "أني",
+      "lemma": "آن",
+      "meaning_en": "boiling to the utmost",
+      "meaning_bn": "চরম উত্তপ্ত",
+      "why_en": "Reaching the absolute peak of searing heat."
+    }
+  ],
+  "lesson_en": "Seek shelter with Allah every single day from the punishment of Hellfire.",
+  "lesson_bn": "প্রতিদিন জাহান্নামের ভয়াবহ শাস্তি থেকে আল্লাহর কাছে আশ্রয় প্রার্থনা করুন।",
+  "real_life_en": "Make the prophetic prayer a part of your daily supplication: asking Allah for Paradise and seeking refuge from Hell. It keeps your priorities straight in life.",
+  "real_life_bn": "প্রতিদিনের দোয়ায় আল্লাহর কাছে জান্নাত প্রার্থনা করুন এবং জাহান্নাম থেকে মুক্তি চান। এই অভ্যাস আপনার জীবনকে সৎ ও কল্যাণময় পথে পরিচালিত করবে।",
+  "themes": [
+    "Hell",
+    "punishment",
+    "the Last Day"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The guilty will circulate between the fire of Hell and water that is heated to the extreme.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

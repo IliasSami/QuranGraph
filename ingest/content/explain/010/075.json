@@ -1,0 +1,81 @@
+{
+  "id": "10:75",
+  "simple_en": "Then after them We sent Moses and Aaron to Pharaoh and his elite council with Our signs. But they behaved arrogantly, for they were a criminal and rebellious people.",
+  "simple_bn": "তারপর তাদের পরে আমরা মূসা ও হারূনকে আমাদের নিদর্শনসহ ফিরআউন ও তার নেতৃস্থানীয় ব্যক্তিদের কাছে পাঠিয়েছিলাম; কিন্তু তারা অহংকার করল এবং তারা ছিল এক অপরাধী কওম।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "بعث",
+      "lemma": "بَعَثَ",
+      "meaning_en": "We sent",
+      "meaning_bn": "আমরা পাঠিয়েছিলাম",
+      "why_en": "Divine commission of Moses and Aaron to confront tyranny."
+    },
+    {
+      "pos": 10,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "Our signs",
+      "meaning_bn": "আমাদের নিদর্শনসমূহ",
+      "why_en": "Miracles given to Moses demonstrating divine authority."
+    },
+    {
+      "pos": 11,
+      "root": "كبر",
+      "lemma": "اسْتَكْبَرَ",
+      "meaning_en": "they showed arrogance",
+      "meaning_bn": "তারা অহংকার করল",
+      "why_en": "Tyrants rejecting divine commands out of haughty pride."
+    }
+  ],
+  "lesson_en": "Arrogance in the face of divine signs blinds powerful rulers to their own fragility.",
+  "lesson_bn": "ক্ষমতার দম্ভ মানুষকে অন্ধ করে দেয় এবং সত্যের নিদর্শন দেখার পরও তাকে অহংকারী বানিয়ে রাখে।",
+  "real_life_en": "Guard against pride when you hold authority over others. Remember that all worldly power is temporary before God.",
+  "real_life_bn": "ক্ষমতা বা প্রতিপত্তি থাকলে অহংকার পরিহার করুন; মনে রাখুন আসল পরাক্রমশালী একমাত্র আল্লাহ।",
+  "themes": [
+    "Moses and Aaron",
+    "Pharaoh and his council",
+    "destructive arrogance"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Musa (Moses)",
+      "Harun (Aaron)",
+      "Fir'awn (Pharaoh)"
+    ],
+    "nations": [
+      "Egyptians",
+      "court of Pharaoh"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Sending Moses to Pharaoh"
+    ],
+    "things": [
+      "signs and miracles"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Moses and Aaron were sent with divine signs to Pharaoh and his nobles, who rejected them out of pride.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

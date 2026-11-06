@@ -1,0 +1,63 @@
+{
+  "id": "16:2",
+  "simple_en": "Allah sends angels with revelation by His command to chosen servants. They warn people that none is worthy of worship except Him. So fear Him alone.",
+  "simple_bn": "আল্লাহ তাঁর নির্দেশে ফেরেশতাদের ওহীসহ পছন্দমতো বান্দাদের কাছে পাঠান। তাঁদের দায়িত্ব মানুষকে সতর্ক করা যে তিনি ছাড়া কোনো সত্য উপাস্য নেই, কাজেই কেবল তাঁকে ভয় করা উচিত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ملك",
+      "lemma": "مَلَك",
+      "meaning_en": "the angels",
+      "meaning_bn": "ফেরেশতাগণ",
+      "why_en": "The noble emissaries who bring divine messages."
+    },
+    {
+      "pos": 3,
+      "root": "روح",
+      "lemma": "رُوح",
+      "meaning_en": "the revelation",
+      "meaning_bn": "ওহী",
+      "why_en": "Revelation brings spiritual life to human hearts."
+    }
+  ],
+  "lesson_en": "The goal of revelation is pure faith. Worship God alone with sincere devotion.",
+  "lesson_bn": "নবীগণের মাধ্যমে পাঠানো ওহীর মূল উদ্দেশ্য হলো মানুষকে একত্ববাদের শিক্ষা দেওয়া এবং সঠিক পথ দেখানো।",
+  "real_life_en": "Listen closely to good reminders. Choose truth and turn away from false idols every day.",
+  "real_life_bn": "জীবনের সব কাজে একমাত্র স্রষ্টাকে সম্মান করুন। কোনো সৃষ্টিকে স্রষ্টার সমকক্ষ ভাবা থেকে সর্বদা বিরত থাকুন।",
+  "themes": [
+    "revelation",
+    "prophethood",
+    "tawhid"
+  ],
+  "kinds": [
+    "command",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Angels are sent with revelation to command that none has the right to be worshiped but Allah.",
+      "claim_bn": "আল্লাহ ছাড়া আর কোনো সত্য ইলাহ নেই এই ঘোষণা প্রচার করতে ফেরেশতারা ওহী নিয়ে আসেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

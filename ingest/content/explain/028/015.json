@@ -1,0 +1,74 @@
+{
+  "id": "28:15",
+  "simple_en": "Moses entered the city when the people were resting. He found two men fighting, one from his own people and one from his enemies. The Israelite called for help, so Moses struck the enemy with his fist, killing him by mistake. Moses felt remorse at once and said this act was from Satan's evil whisper.",
+  "simple_bn": "মুসা এক সময় শহরে প্রবেশ করল যখন অধিবাসীরা অসতর্ক ছিল। সে সেখানে দুই ব্যক্তিকে লড়াই করতে দেখল, একজন তার নিজের দলের এবং অপরজন তার শত্রুদলের। তখন তার স্বদলীয় ব্যক্তি শত্রুর বিরুদ্ধে সাহায্য চাইল। মুসা তাকে ঘুষি মারল এবং এতে সে মারা গেল। মুসা বলল, এটি শয়তানের কাজ, নিশ্চয় সে প্রকাশ্য বিভ্রান্তকারী শত্রু।",
+  "key_words": [
+    {
+      "pos": 12,
+      "arabic": "هَٰذَا",
+      "root": null,
+      "lemma": "ذا",
+      "meaning_en": "so struck him with his fist",
+      "meaning_bn": "অতঃপর তাকে ঘুষি মারল",
+      "why_en": "The accidental blow that caused death."
+    },
+    {
+      "pos": 21,
+      "arabic": "شِيعَتِهِۦ",
+      "root": "شيع",
+      "lemma": "شِيعَة",
+      "meaning_en": "work of Satan",
+      "meaning_bn": "শয়তানের কাজ",
+      "why_en": "Attributing rash anger to demonic instigation."
+    }
+  ],
+  "lesson_en": "Anger and haste can cause grave harm. A righteous soul admits mistakes quickly and turns away from sin.",
+  "lesson_bn": "ক্রোধ ও উত্তেজনার মুহূর্তে নিয়ন্ত্রণ হারানো ক্ষতিকর। নিজের অনিচ্ছাকৃত ভুল দ্রুত স্বীকার করা সৎ মানুষের কাজ।",
+  "real_life_en": "Control your anger when disputes arise. If you make a mistake, admit your fault at once and ask God to forgive you.",
+  "real_life_bn": "রাগের মাথায় কারও সাথে বিরোধে জড়াবেন না। কোনো ভুল হলে তাৎক্ষণিকভাবে ভুল স্বীকার করে ক্ষমা চান।",
+  "themes": [
+    "musa",
+    "remorse",
+    "satan",
+    "anger"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Satan"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [
+      "Satan"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses intervened in a dispute and struck an Egyptian who died accidentally, recognizing the act as Satan's temptation.",
+      "claim_bn": "মুসা বিবাদে জড়িয়ে অনিচ্ছাকৃতভাবে এক মিশরীয়কে আঘাত করে হত্যা করে এবং তাৎক্ষণিক অনুশোচনা প্রকাশ করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

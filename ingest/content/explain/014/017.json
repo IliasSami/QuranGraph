@@ -1,0 +1,86 @@
+{
+  "id": "14:17",
+  "simple_en": "He will sip that bitter fluid with difficulty, barely able to swallow it. Death will surround him from every side, yet he will not die. Ahead of him lies a relentless and heavy torment.",
+  "simple_bn": "সে অতি কষ্টে তা এক এক ঢোক করে গিলবে এবং তা গলাধঃকরণ করা তার পক্ষে প্রায় অসম্ভব হবে। চারদিক থেকে তার কাছে মৃত্যু এসে হাজির হবে, কিন্তু সে মরবে না। আর তার সামনে রয়েছে আরও এক নিদারুণ শাস্তি।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "جرع",
+      "lemma": "تَجَرَّعَ",
+      "meaning_en": "he gulps it",
+      "meaning_bn": "সে তা ঢোক ঢোক করে গিলবে",
+      "why_en": "Forced painful sipping."
+    },
+    {
+      "pos": 4,
+      "root": "سوغ",
+      "lemma": "أَساغَ",
+      "meaning_en": "he swallows it",
+      "meaning_bn": "সে তা সহজে গিলবে",
+      "why_en": "Inability to swallow the foul liquid."
+    },
+    {
+      "pos": 6,
+      "root": "موت",
+      "lemma": "مَوْت",
+      "meaning_en": "death",
+      "meaning_bn": "মৃত্যু",
+      "why_en": "Agony of death without relief."
+    },
+    {
+      "pos": 12,
+      "root": "موت",
+      "lemma": "مَيِّت",
+      "meaning_en": "dead",
+      "meaning_bn": "মৃত",
+      "why_en": "Unable to escape through death."
+    },
+    {
+      "pos": 16,
+      "root": "غلظ",
+      "lemma": "غَلِيظ",
+      "meaning_en": "heavy",
+      "meaning_bn": "কঠোর",
+      "why_en": "Intense, unyielding punishment."
+    }
+  ],
+  "lesson_en": "Heed the warnings of the Quran before the time for repentance runs out.",
+  "lesson_bn": "তওবা করার সময় ফুরিয়ে যাওয়ার আগেই কুরআনের সতর্কবাণী থেকে শিক্ষা নিন।",
+  "real_life_en": "A person reflects on how earthly pain passes, but the pain of Hell is unending. He turns to Allah in sincere prayer, asking for forgiveness and protection from fire.",
+  "real_life_bn": "এক ব্যক্তি ভাবে যে দুনিয়ার কষ্ট শেষ হয়ে যায়, কিন্তু জাহান্নামের শাস্তি চিরস্থায়ী। সে অনুতপ্ত হয়ে আল্লাহর কাছে ক্ষমা চায় এবং দোযখের আগুন থেকে আশ্রয় প্রার্থনা করে।",
+  "context_en": "Vivid description of eternal suffering in Hell where death brings no relief.",
+  "context_bn": "জাহান্নামের অন্তহীন শাস্তির বিবরণ যেখানে মৃত্যুযন্ত্রণা থাকবে কিন্তু মৃত্যু ঘটবে না।",
+  "themes": [
+    "hereafter",
+    "hellfire",
+    "repentance"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The dweller of Hell endures agony from every side without dying to escape punishment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

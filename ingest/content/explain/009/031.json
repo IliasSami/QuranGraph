@@ -1,0 +1,77 @@
+{
+  "id": "9:31",
+  "simple_en": "They took their rabbis and monks as lords beside Allah, and also the Messiah, son of Mary. Yet they were commanded to worship only One God. There is no deity but Him. Exalted is He far above what they associate with Him.",
+  "simple_bn": "তারা আল্লাহকে বাদ দিয়ে তাদের পণ্ডিত ও দরবেশদের নিজেদের রবরূপে গ্রহণ করেছিল এবং মরিয়ম-পুত্র মসীহ্কেও। অথচ তারা এক উপাস্যের ছাড়া অন্য কারও ইবাদত করতে আদিষ্ট হয়নি। তিনি ছাড়া কোনো সত্য উপাস্য নেই, তারা যাকে শরিক করে তিনি তা থেকে পবিত্র।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حبر",
+      "lemma": "أَحْبار",
+      "meaning_en": "rabbis / scholars",
+      "meaning_bn": "পণ্ডিতগণ / আলেমগণ",
+      "why_en": "Religious figures whose human rulings were blindly accepted over divine law."
+    },
+    {
+      "pos": 3,
+      "root": "رهب",
+      "lemma": "رُهْبان",
+      "meaning_en": "monks",
+      "meaning_bn": "দরবেশগণ / সাধুগণ",
+      "why_en": "Ascetic clergy claiming authority to permit and forbid."
+    },
+    {
+      "pos": 4,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "lords / masters",
+      "meaning_bn": "রব / প্রভু",
+      "why_en": "Granting mortals ultimate legislative obedience that belongs solely to God."
+    }
+  ],
+  "lesson_en": "No human authority has the right to alter divine law or take the place of God.",
+  "lesson_bn": "কোনো মানুষকে অন্ধভাবে এমন মর্যাদা দেওয়া যাবে না, যা কেবল সৃষ্টিকর্তারই প্রাপ্য।",
+  "real_life_en": "Respect teachers and elders, but test their advice by moral truth. Never follow any person blindly when they tell you to do wrong.",
+  "real_life_bn": "জ্ঞানী ব্যক্তিদের সম্মান করুন, তবে কোনো মানুষকেই অন্ধভাবে অনুসরণ করবেন না; সত্য ও ন্যায়ের কষ্টিপাথরে সব কথা যাচাই করে নিন।",
+  "themes": [
+    "blind following",
+    "exclusive worship",
+    "Tawhid"
+  ],
+  "kinds": [
+    "prohibition",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Jesus",
+      "Mary"
+    ],
+    "nations": [
+      "Jews",
+      "Christians"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Taking scholars or clergy as lords means accepting their human alterations of lawful and unlawful matters above divine revelation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

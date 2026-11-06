@@ -1,0 +1,83 @@
+{
+  "id": "5:120",
+  "simple_en": "To Allah alone belongs the kingdom of the heavens and the earth, and everything within them. He created all things, controls all matters, and provides for all creatures. His power is complete and limitless. Nothing can overcome His will.",
+  "simple_bn": "আসমান, জমিন এবং তাদের মাঝে যা কিছু আছে সবকিছুর সার্বভৌম কর্তৃত্ব একমাত্র আল্লাহরই। তিনিই সবকিছু সৃষ্টি করেছেন এবং পরিচালনা করেন। তিনি সবকিছুর ওপর পূর্ণ ক্ষমতাবান, কোনো কিছুই তাঁর ইচ্ছাকে পরাভূত করতে পারে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ملك",
+      "lemma": "مُلْك",
+      "meaning_en": "dominion / kingdom",
+      "meaning_bn": "সার্বভৌমত্ব বা রাজত্ব",
+      "why_en": "Affirms absolute divine sovereignty over the heavens, earth, and all within them."
+    },
+    {
+      "pos": 3,
+      "root": "سمو",
+      "lemma": "سَماء",
+      "meaning_en": "the heavens",
+      "meaning_bn": "আকাশমন্ডলী",
+      "why_en": "The vast celestial creations that belong entirely to Allah."
+    },
+    {
+      "pos": 11,
+      "root": "قدر",
+      "lemma": "قَدِير",
+      "meaning_en": "All-Powerful",
+      "meaning_bn": "সর্বশক্তিমান",
+      "why_en": "The closing declaration that Allah has complete power over every single thing."
+    }
+  ],
+  "lesson_en": "Allah alone owns and controls everything; place your full trust in Him.",
+  "lesson_bn": "সমগ্র মহাবিশ্বের নিরঙ্কুশ রাজত্ব আল্লাহর; তাই জীবনের প্রতিটি ক্ষেত্রে কেবল তাঁরই ওপর ভরসা রাখুন।",
+  "real_life_en": "When life feels overwhelming or out of control, remember that Allah owns the entire universe. Turn your worries over to Him in prayer. Trust that the All-Powerful Creator cares for His servants.",
+  "real_life_bn": "জীবনের কোনো সংকট বা কঠিন মুহূর্তে মনে রাখুন যে মহাবিশ্বের সবকিছুর ওপর একমাত্র আল্লাহর কর্তৃত্ব। তাঁর কাছে সাহায্য চেয়ে মনকে আশ্বস্ত রাখুন, কারণ তিনি সর্ববিষয়ে শক্তিমান।",
+  "context_en": "Concludes Surah Al-Ma'idah by exalting Allah's absolute sovereignty and omnipotence over creation.",
+  "context_bn": "সমগ্র সৃষ্টির ওপর আল্লাহর নিরঙ্কুশ সার্বভৌমত্ব ও সর্বময় ক্ষমতার বর্ণনার মাধ্যমে সূরা আল-মায়েদাহর সমাপ্তি।",
+  "themes": [
+    "tawhid",
+    "creation",
+    "names and attributes of Allah",
+    "Allah's power"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Al-Qadeer"
+    ],
+    "events": [],
+    "things": [
+      "the heavens",
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "To Allah alone belongs the absolute dominion of the heavens, the earth, and all that they contain.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Allah has complete power over all things, and nothing in the universe is beyond His capability.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

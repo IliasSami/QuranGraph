@@ -1,0 +1,94 @@
+{
+  "id": "12:32",
+  "simple_en": "The woman told her guests that Yusuf was the one they had blamed her for loving. She admitted she tried to tempt him, but he stayed pure and refused. She warned that if he did not obey her, he would be sent to prison and disgraced.",
+  "simple_bn": "আযীযের স্ত্রী আগত নারীদের বলল, এ সেই যুবক যার ব্যাপারে তোমরা আমাকে ভর্ৎসনা করছিলে। সে স্বীকার করল যে সে ইউসুফকে প্রলুব্ধ করতে চেয়েছিল, কিন্তু ইউসুফ নিজেকে পবিত্র রেখেছিল। এরপর সে হুমকি দিল যে, ইউসুফ তার নির্দেশ না মানলে তাকে কারাগারে পাঠানো হবে এবং সে অপমানিত হবে।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "رود",
+      "lemma": "راوَدُ",
+      "meaning_en": "I sought to entice him",
+      "meaning_bn": "আমি তাকে প্রলুব্ধ করতে চেয়েছিলাম",
+      "why_en": "The woman admits her direct attempt to seduce Yusuf."
+    },
+    {
+      "pos": 10,
+      "root": "عصم",
+      "lemma": "اسْتَعْصَمَ",
+      "meaning_en": "he firmly refused",
+      "meaning_bn": "সে নিজেকে নিষ্কলুষ রাখল",
+      "why_en": "Shows Yusuf’s uncompromising commitment to chastity and virtue."
+    },
+    {
+      "pos": 16,
+      "root": "سجن",
+      "lemma": "يُسْجَنَ",
+      "meaning_en": "he will surely be imprisoned",
+      "meaning_bn": "তাকে অবশ্যই বন্দি করা হবে",
+      "why_en": "The threat of unjust confinement used to pressure Yusuf."
+    },
+    {
+      "pos": 19,
+      "root": "صغر",
+      "lemma": "صاغِر",
+      "meaning_en": "those debased",
+      "meaning_bn": "অপমানিতদের অন্তর্ভুক্ত",
+      "why_en": "The woman’s desire to humiliate him if he did not yield."
+    }
+  ],
+  "lesson_en": "Stand firm for moral truth. Giving in to sin only brings long-term regret.",
+  "lesson_bn": "সত্য ও নৈতিকতায় অবিচল থাকুন। অন্যায়ের কাছে মাথা নত করলে দীর্ঘমেয়াদী অনুশোচনা ছাড়া কিছুই মেলে না।",
+  "real_life_en": "A boss pressures a worker to sign a false sales report or lose their job. The worker refuses with courage. They choose to keep their honor clean rather than help a lie.",
+  "real_life_bn": "একজন কর্মকর্তা কর্মচারীকে মিথ্যা নথিতে সই করতে চাপ দেয়। কর্মচারী সাহসের সাথে তা প্রত্যাখ্যান করেন। তিনি চাকরি হারানোর ঝুঁকি নিয়ে হলেও নিজের সততা ধরে রাখেন।",
+  "context_en": "Emboldened by the women’s reaction, the wife admitted her actions and issued a direct threat of prison.",
+  "context_bn": "নারীদের প্রতিক্রিয়া দেখে সাহসী হয়ে আযীযের স্ত্রী নিজের দোষ স্বীকার করে এবং ইউসুফকে কারাগারের স্পষ্ট হুমকি দেয়।",
+  "themes": [
+    "chastity",
+    "moral courage",
+    "trials"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "wife of al-Aziz"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "prison"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The wife admitted her attempt to seduce Yusuf and noted his firm refusal.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "She threatened him with imprisonment and disgrace if he disobeyed.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

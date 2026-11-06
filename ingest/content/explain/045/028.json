@@ -1,0 +1,77 @@
+{
+ "id": "45:28",
+ "simple_en": "On that Day, you will see every nation kneeling in awe and fear. Every nation will be called to its record of deeds and told: 'Today you will receive full payment for what you used to do.'",
+ "simple_bn": "সেদিন আপনি প্রত্যেক জাতিকে ভয়ে ও আতঙ্কে হাঁটু গেড়ে বসে থাকতে দেখবেন। প্রত্যেক জাতিকে তার আমলনামার দিকে ডাকা হবে এবং বলা হবে, 'আজ তোমাদেরকে তোমাদের কৃতকর্মের প্রতিফল দেওয়া হবে।'",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "جثو",
+   "lemma": "جاثِيَة",
+   "meaning_en": "kneeling down / on its knees",
+   "meaning_bn": "নতজানু অবস্থায়",
+   "why_en": "Every community will kneel in humble awe and fear on Judgment Day."
+  },
+  {
+   "pos": 9,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "its record of deeds",
+   "meaning_bn": "তার আমলনামা",
+   "why_en": "Every nation will be summoned to read the exact record of its actions."
+  },
+  {
+   "pos": 11,
+   "root": "جزي",
+   "lemma": "جَزَى",
+   "meaning_en": "you are recompensed",
+   "meaning_bn": "তোমাদের প্রতিফল দেওয়া হচ্ছে",
+   "why_en": "The Day of Judgment is the time when every deed receives its payback."
+  }
+ ],
+ "lesson_en": "All people will bow humbly before Allah on Judgment Day to face their records.",
+ "lesson_bn": "কিয়ামতের কঠিন দিনে সব জাতিকে নতজানু হয়ে নিজেদের আমলনামার মুখোমুখি হতে হবে।",
+ "real_life_en": "Think about the record of your actions being prepared right now. Let this thought encourage you to fill each day with acts of kindness, honesty, and prayer.",
+ "real_life_bn": "প্রতিদিন মনে রাখুন যে আপনার সব কাজ লিপিবদ্ধ হচ্ছে। এই অনুভূতি আপনাকে খারাপ কাজ থেকে দূরে রাখবে এবং সৎ আমল করতে উৎসাহিত করবে।",
+ "themes": [
+  "the Last Day",
+  "judgment",
+  "record of deeds",
+  "reward"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "record-of-deeds"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "On the Last Day, every nation will be seen kneeling in humility and called to receive recompense for their recorded deeds.",
+   "claim_bn": "কিয়ামতের দিন প্রত্যেক জাতিকে হাঁটু গেড়ে বসে থাকতে দেখা যাবে এবং তাদের আমলনামার ভিত্তিতে প্রতিদান দেওয়ার জন্য ডাকা হবে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

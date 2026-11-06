@@ -1,0 +1,100 @@
+{
+ "id": "2:184",
+ "simple_en": "The fast is set for a few counted days each year, so it is not too hard. If you are sick or away traveling, you do not have to fast right then. You can make up the missed days when you are well and back home. In the early days of Islam, those who could fast had the choice to feed a poor person instead, though fasting was still better. That choice was later lifted. Today, feeding a needy person is the rule for those who are very old or too ill to fast at all.",
+ "simple_bn": "রোজা বছরে মাত্র কয়েকটি নির্দিষ্ট দিনের জন্য ফরজ করা হয়েছে, যাতে তা মানুষের জন্য সহজ হয়। আল্লাহর বিশেষ অনুগ্রহে অসুস্থ ব্যক্তি এবং মুসাফিরদের জন্য সেই দিনগুলোতে রোজা না রাখার অবকাশ দেওয়া হয়েছে; তারা পরবর্তীতে সমসংখ্যক রোজা কাজা করে নেবে। ইসলামের শুরুর দিকে সক্ষম ব্যক্তিদের রোজা না রেখে একজন মিসকিনকে খাবার খাইয়ে ক্ষতিপূরণ (ফিদ্‌ইয়াহ্) দেওয়ার সুযোগ ছিল, যদিও রোজা রাখাই ছিল উত্তম। পরবর্তীতে রোজা রাখা আবশ্যক করা হয়, আর বার্ধক্য বা দীর্ঘমেয়াদী অসুস্থতার কারণে যারা রোজা রাখতে সম্পূর্ণ অক্ষম, কেবল তাদের জন্যই ফিদ্‌ইয়াহ্ দেওয়ার বিধান বহাল রাখা হয়েছে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "عدد",
+   "lemma": "مَعْدُودَة",
+   "meaning_en": "a limited number",
+   "meaning_bn": "গোনা কয়েক দিন",
+   "why_en": "Emphasizes that the fasting period is short and manageable, not an endless burden."
+  },
+  {
+   "pos": 9,
+   "root": "سفر",
+   "lemma": "سَفَر",
+   "meaning_en": "a journey / travel",
+   "meaning_bn": "সফর / ভ্রমণ",
+   "why_en": "Identifies travel as a legitimate hardship that qualifies for making up the fast later."
+  },
+  {
+   "pos": 17,
+   "root": "فدي",
+   "lemma": "فِدْيَة",
+   "meaning_en": "a compensation / ransom",
+   "meaning_bn": "ফিদ্‌ইয়াহ্ / ক্ষতিপূরণ",
+   "why_en": "Refers to feeding a poor person as a concession for those unable to fast."
+  },
+  {
+   "pos": 19,
+   "root": "سكن",
+   "lemma": "مِسْكِين",
+   "meaning_en": "a needy person",
+   "meaning_bn": "দরিদ্র / মিসকিন",
+   "why_en": "Specifies the recipient of the fidyah compensation."
+  }
+ ],
+ "lesson_en": "Fast when you are able, and accept the relief Allah gives you when you are ill.",
+ "lesson_bn": "আনুগত্যের সাথে ইবাদত পালন করুন, আর কষ্টের সময় আল্লাহ যে ছাড় দিয়েছেন তা কৃতজ্ঞতার সাথে গ্রহণ করুন।",
+ "real_life_en": "If you get very sick during Ramadan, do not put your health at risk. Rest and take your medicine. Feed your body what it needs, and make up the missed fasts after you get well.",
+ "real_life_bn": "রমজানে গুরুতর অসুস্থ হয়ে পড়লে বা দূর সফরে থাকলে জোর করে নিজেকে চরম কষ্টে ফেলবেন না। আল্লাহর দেওয়া অবকাশ গ্রহণ করে নিজের যত্ন নিন, এবং পরবর্তীতে সুস্থ ও নিরাপদ হয়ে সেই রোজাগুলো কাজা করে নিন।",
+ "context_en": "Following the general command to fast in 2:183, this ayah explains the limited duration and outlines concessions for those who face hardship.",
+ "context_bn": "পূর্ববর্তী আয়াতে রোজার মূল নির্দেশের পর, এই আয়াতে এর সীমিত সময়সীমা এবং অসুস্থ ও মুসাফিরদের জন্য বিশেষ ছাড়ের বর্ণনা দেওয়া হয়েছে।",
+ "themes": [
+  "fasting",
+  "worship",
+  "charity",
+  "Allah's mercy",
+  "trials"
+ ],
+ "kinds": [
+  "command",
+  "worship",
+  "law"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The obligatory fast is set for a limited number of days in the year to ensure it is manageable and not overburdening.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "A person who is sick or traveling is permitted to break the fast and make up an equal number of days later.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Initially, able persons had the option to pay fidyah (feeding a needy person) instead of fasting, but this was later specified as a firm duty to fast, while fidyah remained for those permanently unable to fast.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

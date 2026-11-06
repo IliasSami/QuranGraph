@@ -1,0 +1,70 @@
+{
+  "id": "9:66",
+  "simple_en": "Make no excuses. You have fallen into disbelief after you claimed faith. If We forgive some of you because they repent, We will punish others because they were guilty criminals.",
+  "simple_bn": "তোমরা কোনো অজুহাত দেখিয়ো না। তোমরা তো ঈমান আনার পর কুফরি করেছ। আমরা তোমাদের কোনো দলকে ক্ষমা করলেও অন্য দলকে শাস্তি দেব, কারণ তারা ছিল অপরাধী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عذر",
+      "lemma": "يَعْتَذِرُ",
+      "meaning_en": "make excuses",
+      "meaning_bn": "ওজর পেশ করো না",
+      "why_en": "Empty rationalizations offered after blatant disrespect."
+    },
+    {
+      "pos": 8,
+      "root": "عفو",
+      "lemma": "عَفا",
+      "meaning_en": "pardon / forgive",
+      "meaning_bn": "আমরা ক্ষমা করব",
+      "why_en": "Pardoning those who genuinely repent and reform."
+    },
+    {
+      "pos": 16,
+      "root": "جرم",
+      "lemma": "مُجْرِم",
+      "meaning_en": "guilty / criminals",
+      "meaning_bn": "অপরাধী",
+      "why_en": "Persistent offenders who stay unrepentant in their crimes."
+    }
+  ],
+  "lesson_en": "Mocking truth destroys faith, but sincere repentance can restore hope.",
+  "lesson_bn": "সত্য নিয়ে উপহাস করলে বিশ্বাস নষ্ট হয়ে যায়, তবে খাঁটি তাওবা ক্ষমার পথ খুলে দেয়।",
+  "real_life_en": "If you crossed an ethical line, do not make empty excuses. Admit your mistake, say you are sorry, and make things right.",
+  "real_life_bn": "কোনো বড় অন্যায় করে ফেললে মিথ্যা অজুহাত না দিয়ে নিজের দোষ স্বীকার করুন এবং ক্ষতিপূরণ করার চেষ্টা করুন।",
+  "themes": [
+    "accountability",
+    "forgiveness",
+    "consequences of sin"
+  ],
+  "kinds": [
+    "warning",
+    "law"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Mockery of religious sanctities constitutes apostasy, but divine pardon is extended to those who sincerely repent.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

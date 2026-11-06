@@ -1,0 +1,90 @@
+{
+ "id": "7:31",
+ "simple_en": "Allah tells the children of Adam to wear clean clothes for prayer. He permits good food and pure drinks. Yet believers must not waste or cross the limits. Allah does not love those who waste.",
+ "simple_bn": "আল্লাহ মানবজাতিকে নির্দেশ দিয়েছেন যেন তারা প্রতিটি সালাত ও ইবাদতের সময় শালীন ও সুন্দর পোশাক পরিধান করে। তিনি পৃথিবীর পবিত্র খাবার ও পানীয় গ্রহণের অনুমতি দিয়েছেন। তবে অপচয় ও বাড়াবাড়ি করা সম্পূর্ণ নিষিদ্ধ করা হয়েছে। নিশ্চয়ই আল্লাহ অপচয়কারী ও সীমালঙ্ঘনকারীদের ভালোবাসেন না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "زين",
+   "lemma": "زِينَة",
+   "meaning_en": "your adornment / proper clothes",
+   "meaning_bn": "তোমাদের সাজসজ্জা ও শালীন পোশাক",
+   "why_en": "Commands wearing clean and dignified clothing for prayer and tawaf."
+  },
+  {
+   "pos": 7,
+   "root": "سجد",
+   "lemma": "مَسْجِد",
+   "meaning_en": "place of prayer / mosque",
+   "meaning_bn": "মসজিদ / নামাজের স্থান",
+   "why_en": "Specifies places of worship and prostration where proper attire is required."
+  },
+  {
+   "pos": 11,
+   "root": "سرف",
+   "lemma": "أَسْرَفَ",
+   "meaning_en": "do not be extravagant / excessive",
+   "meaning_bn": "তোমরা অপচয় করো না",
+   "why_en": "Prohibits excess and waste in food, drink, and lifestyle."
+  }
+ ],
+ "lesson_en": "Dress with dignity for worship, and enjoy food without waste. Balance is beloved to Allah.",
+ "lesson_bn": "ইবাদতের সময় পরিচ্ছন্ন পোশাক পরুন এবং অপচয় ছাড়া আহার গ্রহণ করুন। জীবনে ভারসাম্য রক্ষা করা অপরিহার্য।",
+ "real_life_en": "Wear clean and modest clothes when going to the mosque for prayer. Avoid throwing away edible food or buying things you do not need. A simple and grateful life pleases Allah and preserves resources.",
+ "real_life_bn": "মসজিদে যাওয়ার সময় পরিপাটি ও মার্জিত পোশাক পরুন। অতিরিক্ত খাবার অপচয় করবেন না বা অপ্রয়োজনীয় বিলাসিতায় জড়াবেন না। জীবনযাত্রায় মিতব্যয়ী হওয়া আল্লাহর সন্তুষ্টি এনে দেয়।",
+ "context_en": "Commanding modest and clean attire at places of prayer, and establishing moderation in eating and drinking.",
+ "context_bn": "সালাত ও ইবাদতের স্থানে শালীন পোশাক পরিধানের নির্দেশ এবং খাদ্য ও পানীয়ে অপচয় পরিহারের বিধান দেওয়া হয়েছে।",
+ "themes": [
+  "clothing in prayer",
+  "halal food",
+  "moderation",
+  "avoiding waste"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "ethics",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "children of Adam"
+  ],
+  "nations": [],
+  "places": [
+   "mosque"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "clothing",
+   "food",
+   "drink"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah commands wearing clean, decent clothing for every prayer, refuting the pagan practice of bare tawaf.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Eating and drinking from lawful sustenance is permitted, while excess and wastefulness are strictly forbidden.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

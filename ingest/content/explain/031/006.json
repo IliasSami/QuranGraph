@@ -1,0 +1,61 @@
+{
+  "id": "31:6",
+  "simple_en": "Some people spend their wealth and time on idle tales and foolish talk. They use amusement to turn people away from the path of God without knowledge. They even mock divine truth. For such people, there will be a humiliating punishment.",
+  "simple_bn": "মানুষের মধ্যে কেউ কেউ অজ্ঞতাবশত আল্লাহর পথ থেকে মানুষকে বিচ্যুত করতে অসার কথা ও গল্পকাহিনি কিনে নেয় এবং তা নিয়ে উপহাস করে। এদের জন্য অবমাননাকর শাস্তি রয়েছে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "لهو",
+      "lemma": "لَهْو",
+      "meaning_en": "idle amusement",
+      "meaning_bn": "অসার বিষয়",
+      "why_en": "Senseless distraction that turns hearts away from truth."
+    },
+    {
+      "pos": 6,
+      "root": "حدث",
+      "lemma": "حَدِيث",
+      "meaning_en": "speech / discourse",
+      "meaning_bn": "কথা",
+      "why_en": "Tales and words used to divert people from God."
+    }
+  ],
+  "lesson_en": "Wasting time on harmful speech and mocking sacred truth leads to humiliation.",
+  "lesson_bn": "অনর্থক কথাবার্তা ও বিভ্রান্তিকর বিনোদন মানুষকে সত্যের পথ থেকে দূরে সরিয়ে দেয় এবং লাঞ্ছনা ডেকে আনে।",
+  "real_life_en": "Choose your words and your entertainment with care. Stay away from idle talk that distracts your heart from God and good deeds.",
+  "real_life_bn": "সময় অপচয়কারী ও ক্ষতিকর বিনোদন পরিহার করুন। এমন কথা ও কাজ থেকে দূরে থাকুন যা আপনাকে সৎপথ থেকে বিচ্যুত করে।",
+  "themes": [
+    "idle-talk",
+    "warning",
+    "distraction"
+  ],
+  "kinds": [
+    "warning",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Purchasing idle speech to lead people away from the path of God and mocking divine verses brings humiliating punishment.",
+      "claim_bn": "আল্লাহর পথ থেকে মানুষকে সরিয়ে রাখার উদ্দেশ্যে অসার কথাবার্তা ক্রয় ও সত্যের উপহাস করা অবমাননাকর শাস্তির কারণ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,100 @@
+{
+  "id": "12:39",
+  "simple_en": "Yusuf asked his two companions a question. Is it better to serve many different gods, or to worship Allah alone? Allah is the One, the All-Powerful, who rules over all things.",
+  "simple_bn": "ইউসুফ তাঁর সহবন্দি দুজনকে উদ্দেশ্য করে বললেন, অনেক ভিন্ন ভিন্ন উপাস্য থাকা ভালো, নাকি পরাক্রমশালী এক আল্লাহর আনুগত্য করা ভালো? এই প্রশ্নের মাধ্যমে তিনি একমাত্র স্রষ্টার শ্রেষ্ঠত্ব তুলে ধরলেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "صحب",
+      "lemma": "صاحِب",
+      "meaning_en": "two companions",
+      "meaning_bn": "দুই সঙ্গী",
+      "why_en": "A warm and respectful way of addressing his fellow prisoners."
+    },
+    {
+      "pos": 3,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "separate lords",
+      "meaning_bn": "বহু ভিন্ন ভিন্ন উপাস্য",
+      "why_en": "Contrasts contradictory pagan deities with the true Master."
+    },
+    {
+      "pos": 4,
+      "root": "فرق",
+      "lemma": "مُتَفَرِّق",
+      "meaning_en": "differing / divided",
+      "meaning_bn": "পরস্পর বিরোধী বা বিভিন্ন",
+      "why_en": "Multiple conflicting false masters compared to One Lord."
+    },
+    {
+      "pos": 8,
+      "root": "وحد",
+      "lemma": "واحِد",
+      "meaning_en": "the One",
+      "meaning_bn": "একক",
+      "why_en": "Allah is singular with no partners in divinity."
+    },
+    {
+      "pos": 9,
+      "root": "قهر",
+      "lemma": "قَهّار",
+      "meaning_en": "the Subduer",
+      "meaning_bn": "মহাসম্মানিত পরাক্রমশালী",
+      "why_en": "Allah controls all creation and nothing can resist His will."
+    }
+  ],
+  "lesson_en": "Serving the One Creator brings true peace. False masters only bring confusion.",
+  "lesson_bn": "এক আল্লাহর আনুগত্যেই অন্তরের শান্তি মেলে, ভিন্ন ভিন্ন প্রভুর দাসত্ব কেবল বিভ্রান্তি বাড়ায়।",
+  "real_life_en": "A worker feels torn trying to please many bosses who give opposite orders. When they focus on doing their best work for God, their daily duties become simple and clear.",
+  "real_life_bn": "বহু কর্মকর্তার বিপরীতমুখী নির্দেশে একজন কর্মী বিভ্রান্ত বোধ করেন। তিনি যখন আল্লাহর সন্তুষ্টির উদ্দেশ্যে সততার সাথে দায়িত্ব পালন করেন, তখন তাঁর মানসিক চাপ দূর হয়।",
+  "context_en": "Yusuf used a gentle logical argument to invite his prison companions to worship the One True God.",
+  "context_bn": "ইউসুফ সুন্দর যুক্তির মাধ্যমে তাঁর দুই সঙ্গীকে এক আল্লাহর ইবাদতের দিকে ডাকলেন।",
+  "themes": [
+    "tawhid",
+    "reasoning",
+    "freedom from false masters"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "two prison companions"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "al-Wahid",
+      "al-Qahhar"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Yusuf asked his companions whether diverse lords are better or Allah, the One, the Subduer.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He highlighted the clarity and majesty of Tawhid over polytheism.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

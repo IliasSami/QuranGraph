@@ -1,0 +1,75 @@
+{
+  "id": "9:112",
+  "simple_en": "The believers are those who repent, who worship, who praise Allah, who fast, who bow, and who prostrate. They encourage what is right, forbid what is wrong, and keep the limits set by Allah. Give good news to the believers.",
+  "simple_bn": "তারা তাওবাকারী, ইবাদতকারী, আল্লাহর প্রশংসাকারী, সিয়াম পালনকারী, রুকূকারী, সিজদাকারী, সৎকাজের আদেশদাতা, অসৎকাজে নিষেধকারী এবং আল্লাহর সীমারেখা সংরক্ষণকারী। আর মুমিনদের সুসংবাদ দিন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "توب",
+      "lemma": "تائِب",
+      "meaning_en": "those who repent",
+      "meaning_bn": "তাওবাকারীরা",
+      "why_en": "Constant return to God with humility."
+    },
+    {
+      "pos": 8,
+      "root": "عرف",
+      "lemma": "مَعْرُوف",
+      "meaning_en": "what is right / good",
+      "meaning_bn": "সৎকাজ / ন্যায়সঙ্গত কাজ",
+      "why_en": "Active moral promotion in community life."
+    },
+    {
+      "pos": 13,
+      "root": "حدد",
+      "lemma": "حُدُود",
+      "meaning_en": "the limits of Allah",
+      "meaning_bn": "আল্লাহর সীমারেখা",
+      "why_en": "Living strictly within the ethical boundaries of divine guidance."
+    }
+  ],
+  "lesson_en": "True faith blends humble worship of God with active service to society.",
+  "lesson_bn": "খাঁটি ঈমান হলো একান্ত ইবাদতের সাথে সাথে সমাজসেবা ও অন্যায়ের বিরুদ্ধে দাঁড়ানোর সুন্দর সমন্বয়।",
+  "real_life_en": "Do not limit your religion to rituals alone. Combine your daily prayers with honest work, kind deeds, and standing up for fairness in your town.",
+  "real_life_bn": "শুধু মসজিদে সালাত পড়াই যথেষ্ট নয়; ব্যক্তিগত জীবনে সৎ থাকুন, ভালো কাজের প্রচার করুন এবং সমাজে সুবিচার কায়েম করুন।",
+  "themes": [
+    "qualities of believers",
+    "worship and action",
+    "glad tidings"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "praise",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The partners in Allah's covenant are characterized by comprehensive spiritual devotion, moral activism, and respect for divine bounds.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

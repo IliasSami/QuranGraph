@@ -1,0 +1,68 @@
+{
+ "id": "74:38",
+ "simple_en": "Every soul is held hostage for what it has earned. People are bound by their own choices and actions. No one else can carry your sins or pay your debt on that day.",
+ "simple_bn": "প্রত্যেক ব্যক্তি তার নিজের উপার্জিত কাজের বিনিময়ে দায়বদ্ধ থাকবে। মানুষ তার নিজের কৃতকর্মের শিকলেই বন্দি হয়ে পড়বে। সেদিন অন্য কেউ কারও পাপের বোঝা বহন করতে পারবে না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نفس",
+   "lemma": "نَفْس",
+   "meaning_en": "soul, person",
+   "meaning_bn": "ব্যক্তি বা আত্মা",
+   "why_en": "It emphasizes individual personal responsibility for one's life choices."
+  },
+  {
+   "pos": 4,
+   "root": "كسب",
+   "lemma": "كَسَبَ",
+   "meaning_en": "it earned / committed",
+   "meaning_bn": "উপার্জন করেছে",
+   "why_en": "Every deed, good or bad, is recorded and accounted for."
+  },
+  {
+   "pos": 5,
+   "root": "رهن",
+   "lemma": "رَهِينَة",
+   "meaning_en": "pledged, held hostage",
+   "meaning_bn": "দায়বদ্ধ, বন্ধক",
+   "why_en": "It paints a vivid picture of a soul held captive until its deeds are repaid."
+  }
+ ],
+ "lesson_en": "You alone answer for your deeds, so make sure what you send ahead is good.",
+ "lesson_bn": "নিজের কাজের হিসাব নিজেকেই দিতে হবে, তাই পরকালের জন্য ভালো কাজ জমা করুন।",
+ "real_life_en": "Do not blame friends or bad company when you choose to do wrong. Take personal ownership of your habits, seek forgiveness, and choose the right path today.",
+ "real_life_bn": "অন্যায় কাজ করার পর বন্ধুদের বা পরিবেশকে দোষ দেবেন না। নিজের ভুলের দায়িত্ব নিজে নিন, অনুতপ্ত হোন এবং সঠিক পথে ফিরে আসুন।",
+ "themes": [
+  "justice",
+  "the Last Day",
+  "judgment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Every person is held hostage and bound by the deeds and sins they have committed.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-arabic-moyassar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

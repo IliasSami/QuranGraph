@@ -1,0 +1,76 @@
+{
+  "id": "9:91",
+  "simple_en": "There is no blame on the weak, nor on the sick, nor on those who find nothing to spend, provided they are sincere to Allah and His Messenger. There is no cause of blame against the doers of good. Allah is Forgiving and Merciful.",
+  "simple_bn": "দুর্বল, অসুস্থ এবং যাদের দান করার সামর্থ্য নেই তাদের কোনো অপরাধ নেই, যদি তারা আল্লাহ ও তাঁর রাসূলের প্রতি নিষ্ঠাবান থাকে। সৎকর্মশীলদের বিরুদ্ধে কোনো অভিযোগের পথ নেই; আর আল্লাহ ক্ষমাশীল ও পরম দয়ালু।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ضعف",
+      "lemma": "ضَعِيف",
+      "meaning_en": "the weak",
+      "meaning_bn": "দুর্বল ব্যক্তিরা",
+      "why_en": "The elderly and physically frail who cannot bear travel."
+    },
+    {
+      "pos": 6,
+      "root": "مرض",
+      "lemma": "مَرِيض",
+      "meaning_en": "the sick",
+      "meaning_bn": "অসুস্থ ব্যক্তিরা",
+      "why_en": "Those prevented by medical illness."
+    },
+    {
+      "pos": 21,
+      "root": "حسن",
+      "lemma": "مُحْسِن",
+      "meaning_en": "doers of good",
+      "meaning_bn": "সৎকর্মশীলরা",
+      "why_en": "People whose hearts are pure and devoted even when physically constrained."
+    }
+  ],
+  "lesson_en": "God looks at your honest heart when your body is weak.",
+  "lesson_bn": "অক্ষমতার কারণে কাজে যোগ দিতে না পারলেও খাঁটি নিয়ত থাকলে আল্লাহর কাছে কোনো তিরস্কার নেই।",
+  "real_life_en": "If illness or lack of money stops you from volunteering, do not feel guilty. Sincere support and good wishes from your heart are counted by God.",
+  "real_life_bn": "অসুস্থতা বা অর্থাভাবের কারণে সমাজসেবায় সরাসরি অংশ নিতে না পারলেও মন খারাপ করবেন না; আপনার আন্তরিক শুভেচ্ছাও আল্লাহর কাছে মূল্যবান।",
+  "themes": [
+    "divine leniency",
+    "excused individuals",
+    "sincere intentions"
+  ],
+  "kinds": [
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Forgiving",
+      "Merciful"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The elderly, sick, and impoverished are excused from military duty provided they maintain sincere loyalty to Allah and His Messenger.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

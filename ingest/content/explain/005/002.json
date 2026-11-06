@@ -1,0 +1,91 @@
+{
+ "id": "5:2",
+ "simple_en": "Respect the sacred symbols of Allah during the pilgrimage. Honor the sacred months, the sacrificial animals, and pilgrims traveling to the Sacred House. Once you end your ihram, you may hunt. Do not let past hatred make you treat others unfairly. Help one another in good deeds and piety. Never help anyone commit sin or harm others. Fear Allah, for His punishment is severe.",
+ "simple_bn": "তোমরা হজের পবিত্র নিদর্শনসমূহ, সম্মানিত মাস, কোরবানির পশু এবং পবিত্র ঘরের উদ্দেশ্যে চলা যাত্রীদের অসম্মান কোরো না। ইহরাম শেষ হলে তোমরা শিকার করতে পারো। কোনো দলের অতীতের শত্রুতা যেন তোমাদের অন্যায় আচরণে বাধ্য না করে। সৎকাজ ও তাকওয়ায় একে অপরকে সাহায্য করো। পাপ ও সীমা লঙ্ঘনে কাউকে সাহায্য কোরো না। আল্লাহকে ভয় করো, নিশ্চয়ই তাঁর শাস্তি অত্যন্ত কঠোর।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "شعر",
+   "lemma": "شَعائِر",
+   "meaning_en": "sacred rites and symbols",
+   "meaning_bn": "আল্লাহর নিদর্শনসমূহ",
+   "why_en": "Refers to the sacred rites of pilgrimage that must be honored and protected."
+  },
+  {
+   "pos": 40,
+   "root": "برر",
+   "lemma": "بِرّ",
+   "meaning_en": "righteousness and virtue",
+   "meaning_bn": "সৎকর্ম",
+   "why_en": "Encompasses all good deeds that draw people closer to Allah and benefit others."
+  },
+  {
+   "pos": 46,
+   "root": "عدو",
+   "lemma": "عُدْوان",
+   "meaning_en": "aggression and hostility",
+   "meaning_bn": "সীমালঙ্ঘন ও শত্রুতা",
+   "why_en": "Believers are strictly forbidden to aid one another in harming others or breaking divine laws."
+  }
+ ],
+ "lesson_en": "Help others in good deeds and never support sin or unfair harm.",
+ "lesson_bn": "সবসময় ভালো কাজে পরস্পরকে সহযোগিতা করুন এবং অন্যায় ও পাপে কাউকে সাহায্য করবেন না।",
+ "real_life_en": "When neighbors organize a food drive for poor families, join in and give your time. But if friends try to spread slander or cheat someone in a trade, refuse to join them. Never support wrong actions.",
+ "real_life_bn": "প্রতিবেশীরা যখন গরিব পরিবারের জন্য খাবারের ব্যবস্থা করে, তখন এগিয়ে গিয়ে সাহায্য করুন। কিন্তু বন্ধুরা যদি কারো বিরুদ্ধে অপবাদ ছড়ায় বা ব্যবসায় কাউকে ঠকাতে চায়, তবে তাদের সাথে যোগ দেবেন না।",
+ "context_en": "Continues pilgrimage laws and introduces a foundational rule of social ethics: active cooperation in righteousness and refusal to support injustice.",
+ "context_bn": "হজের বিধিবিধানের পাশাপাশি সামাজিক ন্যায়বিচারের মৌলিক নীতি স্থাপন করেছে: সৎকাজে পারস্পরিক সহযোগিতা এবং অন্যায়ে সহায়তা না করা।",
+ "themes": [
+  "hajj",
+  "justice",
+  "cooperation in good",
+  "taqwa",
+  "sacred symbols"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "al-Masjid al-Haram"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "Hajj"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers must respect the rites of Allah, the sacred months, sacrificial animals, and peaceful pilgrims to the Sacred Mosque.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Believers are commanded to cooperate in righteousness and piety, and forbidden to cooperate in sin and aggression.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

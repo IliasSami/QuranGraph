@@ -1,0 +1,89 @@
+{
+  "id": "40:78",
+  "simple_en": "We sent messengers before you. About some of them We have told you, and about some We have not told you. No messenger could bring a miracle except by Allah's leave. When Allah's command arrives, judgment will be passed with truth, and the liars will be lost.",
+  "simple_bn": "আমি আপনার পূর্বেও বহু রাসূল প্রেরণ করেছি। তাদের কারও কারও ঘটনা আমি আপনার কাছে বর্ণনা করেছি এবং কারও কারও ঘটনা বর্ণনা করিনি। আল্লাহর অনুমতি ছাড়া কোনো নিদর্শন নিয়ে আসা কোনো রাসূলের কাজ ছিল না। অতঃপর যখন আল্লাহর আদেশ আসবে, তখন সত্যের সাথে ফয়সালা হবে এবং মিথ্যাবাদীরা ক্ষতিগ্রস্ত হবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "messengers",
+      "meaning_bn": "রাসূলগণ",
+      "why_en": "Numerous prophets sent to various communities across history."
+    },
+    {
+      "pos": 8,
+      "root": "قصص",
+      "lemma": "قَصَّ",
+      "meaning_en": "We narrated / told",
+      "meaning_bn": "আমি বর্ণনা করেছি",
+      "why_en": "Stories of select prophets recorded in revelation."
+    },
+    {
+      "pos": 20,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "a sign / miracle",
+      "meaning_bn": "নিদর্শন বা মুজিজা",
+      "why_en": "Miracles given to prophets only by divine decree."
+    },
+    {
+      "pos": 22,
+      "root": "أذن",
+      "lemma": "إِذْن",
+      "meaning_en": "by permission",
+      "meaning_bn": "অনুমতিক্রমে",
+      "why_en": "All miraculous events depend purely on Allah's will."
+    },
+    {
+      "pos": 32,
+      "root": "بطل",
+      "lemma": "مُبْطِل",
+      "meaning_en": "the purveyors of falsehood",
+      "meaning_bn": "মিথ্যাবাদীরা",
+      "why_en": "Those who push lies will suffer eternal defeat."
+    }
+  ],
+  "lesson_en": "Allah sent many messengers, but signs happen only with His leave.",
+  "lesson_bn": "মানব ইতিহাসে বহু নবী এসেছিলেন, কিন্তু মুজিজা প্রদর্শন কেবল আল্লাহর হুকুমেই সম্ভব ছিল।",
+  "real_life_en": "Respect all truthful teachings that call to God. Remember that real guidance comes through divine revelation, not human tricks.",
+  "real_life_bn": "নবী-রাসূলগণের আদর্শকে শ্রদ্ধার সাথে গ্রহণ করুন। মনে রাখুন যে সকল মুজিজা ও সাহায্য একমাত্র আল্লাহর অনুমতিক্রমেই ঘটে থাকে।",
+  "themes": [
+    "prophethood",
+    "stories of the prophets",
+    "revelation"
+  ],
+  "kinds": [
+    "story",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Messengers were sent before, some recounted and some not, and no prophet brought a sign except by Allah's leave.",
+      "claim_bn": "পূর্বে অনেক রাসূল পাঠানো হয়েছিল যাদের কিছু বর্ণনা করা হয়েছে আর কিছু হয়নি; আল্লাহর অনুমতি ছাড়া কোনো মুজিজা আনা সম্ভব ছিল না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

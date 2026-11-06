@@ -1,0 +1,61 @@
+{
+  "id": "36:9",
+  "simple_en": "Allah set a barrier in front of them and a barrier behind them. He placed a covering over their eyes so they cannot see the light of truth. Their stubborn denial has blinded their spiritual sight.",
+  "simple_bn": "আল্লাহ তাদের সামনে একটি প্রাচীর এবং তাদের পেছনে একটি প্রাচীর তৈরি করে দিয়েছেন। তিনি তাদের দৃষ্টি ঢেকে দিয়েছেন, ফলে তারা সত্যের আলো দেখতে পায় না। তাদের একগুঁয়েমির কারণেই তাদের অন্তর্দৃষ্টি অবরুদ্ধ হয়ে পড়েছে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "سدد",
+      "lemma": "سَدّ",
+      "meaning_en": "a barrier",
+      "meaning_bn": "প্রাচীর বা বাধা",
+      "why_en": "Represents the spiritual walls that block stubborn deniers from seeing truth."
+    },
+    {
+      "pos": 12,
+      "root": "بصر",
+      "lemma": "أَبْصَرَ",
+      "meaning_en": "they see",
+      "meaning_bn": "তারা দেখে বা উপলব্ধি করে",
+      "why_en": "Shows the loss of clear sight when a person rejects divine guidance."
+    }
+  ],
+  "lesson_en": "Denying the truth builds walls around the soul and blinds the spiritual eye.",
+  "lesson_bn": "সত্যকে ক্রমাগত অস্বীকার করলে অন্তরের চারপাশে দেয়াল তৈরি হয় এবং অন্তর্দৃষ্টি অন্ধ হয়ে যায়।",
+  "real_life_en": "Keep your eyes and mind open to helpful reminders. If you ignore good advice over and over, you might end up blind to your own worst habits.",
+  "real_life_bn": "ভালো নসিহত শোনার ক্ষেত্রে মন ও চোখ খোলা রাখুন। বারবার সৎ উপদেশ এড়িয়ে চললে মানুষ নিজের খারাপ অভ্যাসের ব্যাপারে অন্ধ হয়ে পড়ে।",
+  "themes": [
+    "disbelief",
+    "misguidance"
+  ],
+  "kinds": [
+    "warning",
+    "parable",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah placed barriers before and behind them and covered their eyes so they cannot see guidance.",
+      "claim_bn": "আল্লাহ তাদের সামনে ও পেছনে প্রাচীর স্থাপন করেছেন এবং তাদের চোখ ঢেকে দিয়েছেন যাতে তারা হেদায়াত দেখতে না পায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,70 @@
+{
+  "id": "27:23",
+  "simple_en": "The hoopoe found a queen ruling the people of Sheba. She had great wealth and power. She sat upon a grand throne that showed her royal status.",
+  "simple_bn": "হুদহুদ জানাল যে সে সাবা সম্প্রদায়ের ওপর এক নারীকে রাজত্ব করতে দেখেছে। তাকে রাজকীয় সকল ক্ষমতা ও সম্পদ দেওয়া হয়েছে এবং তার রয়েছে এক সুবিশাল ও সুসজ্জিত সিংহাসন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "ٱمْرَأَةً",
+      "root": "مرأ",
+      "lemma": "امْرَأَت",
+      "meaning_en": "a woman",
+      "meaning_bn": "একজন নারী",
+      "why_en": "The queen ruling over the people of Sheba."
+    },
+    {
+      "pos": 10,
+      "arabic": "عَرْشٌ",
+      "root": "عرش",
+      "lemma": "عَرْش",
+      "meaning_en": "a throne",
+      "meaning_bn": "সিংহাসন",
+      "why_en": "A magnificent seat of royal power."
+    }
+  ],
+  "lesson_en": "Worldly wealth is not a sign of true guidance. Rich gifts do not make a person right with God.",
+  "lesson_bn": "পার্থিব জাঁকজমক ও বিশাল ধনসম্পদ আত্মিক মুক্তি বা সত্যের পথের নিশ্চয়তা দেয় না।",
+  "real_life_en": "Do not judge the moral worth of a person or group by wealth alone. Look for righteous character and faith.",
+  "real_life_bn": "শুধুমাত্র সম্পদ বা বাহ্যিক প্রতাপ দেখে কোনো ব্যক্তি বা দলের নৈতিক মান বিচার করবেন না।",
+  "themes": [
+    "sheba",
+    "queen",
+    "throne"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Queen of Sheba"
+    ],
+    "nations": [
+      "Sheba"
+    ],
+    "places": [
+      "Yemen"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "throne"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The hoopoe described a powerful queen ruling Sheba with immense wealth and a grand throne.",
+      "claim_bn": "হুদহুদ সাবা রাজ্যের এক রানীর শাসন, প্রভূত সম্পদ এবং তার বিশাল সিংহাসনের বিবরণ দিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

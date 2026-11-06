@@ -1,0 +1,88 @@
+{
+ "id": "74:56",
+ "simple_en": "Yet no one will take heed unless Allah wills. He alone guides whom He chooses. He is worthy of being feared through obedience, and He is worthy to forgive those who turn to Him in sincere repentance.",
+ "simple_bn": "তবে আল্লাহর ইচ্ছা ছাড়া কেউ উপদেশ গ্রহণ করতে পারবে না। তিনিই একমাত্র পথপ্রদর্শক। তিনিই একমাত্র সত্তা যাকে ভয় করে আনুগত্য করা উচিত, আর যারা অনুতপ্ত হয়ে তাঁর দিকে ফিরে আসে তিনি তাদের ক্ষমা করার অধিকারী।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ذكر",
+   "lemma": "ذَكَرَ",
+   "meaning_en": "they remember / take heed",
+   "meaning_bn": "তারা উপদেশ গ্রহণ করবে",
+   "why_en": "Taking heed only happens when Allah grants the person guidance."
+  },
+  {
+   "pos": 8,
+   "root": "أهل",
+   "lemma": "أَهْل",
+   "meaning_en": "worthy of",
+   "meaning_bn": "উপযুক্ত, অধিকারী",
+   "why_en": "Allah alone holds the rightful claim to be obeyed and to forgive."
+  },
+  {
+   "pos": 9,
+   "root": "وقي",
+   "lemma": "تَقْوَى",
+   "meaning_en": "fear, mindfulness (taqwa)",
+   "meaning_bn": "তাকওয়া, ভয়",
+   "why_en": "He is entitled to be revered through following His commands."
+  },
+  {
+   "pos": 11,
+   "root": "غفر",
+   "lemma": "مَغْفِرَة",
+   "meaning_en": "forgiveness",
+   "meaning_bn": "ক্ষমা",
+   "why_en": "He alone pardons the sins of those who turn back to Him."
+  }
+ ],
+ "lesson_en": "Trust in Allah's mercy and seek His help, for all guidance and forgiveness are in His hands.",
+ "lesson_bn": "আল্লাহর রহমতের ওপর ভরসা রাখুন এবং তাঁর সাহায্য চান, কারণ সব হিদায়াত ও ক্ষমা তাঁরই হাতে।",
+ "real_life_en": "When you turn away from a bad habit, thank Allah for helping you change. Never rely only on your own strength; ask Him daily for guidance and forgiveness.",
+ "real_life_bn": "কোনো খারাপ অভ্যাস ছাড়তে পারলে আল্লাহর শুকরিয়া আদায় করুন। নিজের ক্ষমতার ওপর অহংকার না করে প্রতিদিন আল্লাহর কাছে হিদায়াত ও ক্ষমা প্রার্থনা করুন।",
+ "themes": [
+  "taqwa",
+  "forgiveness",
+  "Allah's mercy",
+  "guidance"
+ ],
+ "kinds": [
+  "praise",
+  "promise",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "None will remember or take heed unless Allah wills guidance for them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah is worthy of being feared through obedience and worthy of forgiving those who repent to Him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

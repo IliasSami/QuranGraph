@@ -1,0 +1,73 @@
+{
+ "id": "41:2",
+ "simple_en": "This noble Quran is sent down from Allah. He is Ar-Rahman, the Entirely Merciful, and Ar-Rahim, the Especially Merciful. His vast mercy touches all His creation, and He guides the believers to the truth.",
+ "simple_bn": "এই মহাগ্রন্থ পবিত্র কুরআন মহান আল্লাহর পক্ষ থেকে অবতীর্ণ। তিনি পরম করুণাময় ও অসীম দয়ালু। তাঁর অপার রহমত সমগ্র সৃষ্টিজগতকে ঘিরে রেখেছে এবং তিনি বিশ্বাসীদের সত্যের পথে পরিচালিত করেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "نزل",
+   "lemma": "تَنزِيل",
+   "meaning_en": "revelation sent down",
+   "meaning_bn": "অবতীর্ণ বাণী",
+   "why_en": "Points to the divine sending down of the Quran from above the heavens."
+  },
+  {
+   "pos": 3,
+   "root": "رحم",
+   "lemma": "رَحْمٰن",
+   "meaning_en": "the Entirely Merciful",
+   "meaning_bn": "পরম করুণাময়",
+   "why_en": "Emphasizes Allah's vast and all-encompassing mercy for all creations."
+  },
+  {
+   "pos": 4,
+   "root": "رحم",
+   "lemma": "رَحِيم",
+   "meaning_en": "the Especially Merciful",
+   "meaning_bn": "বিশেষ ফলপ্রসূ দয়ালু",
+   "why_en": "Highlights Allah's special mercy directed toward the faithful."
+  }
+ ],
+ "lesson_en": "The Quran is a gift of pure mercy sent down to guide our lives.",
+ "lesson_bn": "পবিত্র কুরআন আমাদের জীবন পরিচালনার জন্য অবতীর্ণ এক বিশেষ রহমত।",
+ "real_life_en": "Whenever you open the Quran, recall that its words come from your caring Creator. Read it daily to bring mercy and peace into your home.",
+ "real_life_bn": "যখনই কুরআন তিলাওয়াত করবেন, ভাবুন যে এই বাণী আপনার দয়ালু প্রতিপালকের কাছ থেকে এসেছে। ঘরে রহমত ও শান্তি পেতে প্রতিদিন তা পাঠ করুন।",
+ "themes": [
+  "revelation",
+  "the Quran",
+  "names and attributes of Allah",
+  "Allah's mercy"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "ar-rahman",
+   "ar-rahim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The Quran is a divine revelation sent down from Allah, the Entirely Merciful, the Especially Merciful.",
+   "claim_bn": "পবিত্র কুরআন পরম করুণাময় অতি দয়ালু আল্লাহর পক্ষ থেকে অবতীর্ণ গ্রন্থ।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

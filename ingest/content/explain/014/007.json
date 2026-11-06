@@ -1,0 +1,85 @@
+{
+  "id": "14:7",
+  "simple_en": "Your Lord announced: If you give thanks, I will surely grant you more. But if you are ungrateful, know that My punishment is truly severe. Sincere gratitude protects your blessings and opens the door to greater good.",
+  "simple_bn": "তোমাদের রব ঘোষণা করেছিলেন: তোমরা যদি কৃতজ্ঞতা আদায় করো, তবে আমি অবশ্যই তোমাদের বাড়িয়ে দেব। আর যদি অকৃতজ্ঞ হও, তবে নিশ্চয় আমার শাস্তি অতি কঠোর। আন্তরিক কৃতজ্ঞতা নিয়ামত বৃদ্ধি করে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أذن",
+      "lemma": "تَأَذَّنَ",
+      "meaning_en": "proclaimed",
+      "meaning_bn": "ঘোষণা করলেন",
+      "why_en": "A solemn divine declaration."
+    },
+    {
+      "pos": 5,
+      "root": "شكر",
+      "lemma": "شَكَرَ",
+      "meaning_en": "you are grateful",
+      "meaning_bn": "তোমরা কৃতজ্ঞ হও",
+      "why_en": "Expressing heartfelt thanks through words and deeds."
+    },
+    {
+      "pos": 6,
+      "root": "زيد",
+      "lemma": "زادَ",
+      "meaning_en": "I will surely increase you",
+      "meaning_bn": "আমি অবশ্যই বাড়িয়ে দেব",
+      "why_en": "A direct divine promise of expansion in goodness."
+    },
+    {
+      "pos": 8,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "you deny",
+      "meaning_bn": "তোমরা অকৃতজ্ঞ হও",
+      "why_en": "Ungratefulness and denial of favors."
+    },
+    {
+      "pos": 11,
+      "root": "شدد",
+      "lemma": "شَدِيد",
+      "meaning_en": "truly severe",
+      "meaning_bn": "নিশ্চয় অতি কঠোর",
+      "why_en": "Describing the weight of divine retribution."
+    }
+  ],
+  "lesson_en": "Give thanks to Allah for every gift you have, and your blessings will grow.",
+  "lesson_bn": "প্রতিটি নিয়ামতের জন্য আল্লাহর শোকর আদায় করুন, তিনি আপনার নিয়ামত বাড়িয়ে দেবেন।",
+  "real_life_en": "A young worker receives a small bonus. Instead of complaining that it is small, she thanks Allah and shares some food with a neighbor. Soon after, new opportunities open up.",
+  "real_life_bn": "এক তরুণ সামান্য বোনাস পায়। কম পাওয়ার অভিযোগ না করে সে আল্লাহর শোকর আদায় করে এবং প্রতিবেশীকে কিছু খাবার দেয়। কিছুদিন পর তার জন্য আরও ভালো কাজের সুযোগ তৈরি হয়।",
+  "context_en": "The famous divine promise that gratitude brings increase while ingratitude brings punishment.",
+  "context_bn": "কৃতজ্ঞতার বিনিময়ে নিয়ামত বৃদ্ধি এবং অকৃতজ্ঞতার জন্য শাস্তির চিরন্তন ঐশী ঘোষণা।",
+  "themes": [
+    "gratitude",
+    "promise",
+    "warning"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah promises to increase favors for the grateful and warns the ungrateful of severe punishment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

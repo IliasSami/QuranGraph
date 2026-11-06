@@ -1,0 +1,65 @@
+{
+  "id": "68:22",
+  "simple_en": "They said to one another: Go out early to your fields if you want to harvest the fruits. Do it now before anyone can see you.",
+  "simple_bn": "তারা বলল: তোমরা যদি ফল কাটতে চাও, তবে সকাল সকাল তোমাদের ফসলের ক্ষেতে চলো।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "غدو",
+      "lemma": "غَدَ",
+      "meaning_en": "go early",
+      "meaning_bn": "সকালে চলো",
+      "why_en": "Urges haste in carrying out their selfish plan."
+    },
+    {
+      "pos": 4,
+      "root": "حرث",
+      "lemma": "حَرْث",
+      "meaning_en": "your harvest and crops",
+      "meaning_bn": "তোমাদের ফসলে",
+      "why_en": "Refers to the ripe produce they hoped to hoard exclusively."
+    },
+    {
+      "pos": 7,
+      "root": "صرم",
+      "lemma": "صارِم",
+      "meaning_en": "ready to harvest",
+      "meaning_bn": "ফল সংগ্রহে দৃঢ়প্রতিজ্ঞ",
+      "why_en": "Shows their resolute intent to pick all fruits secretly."
+    }
+  ],
+  "lesson_en": "Rushing into selfish deeds only speeds up moral regret.",
+  "lesson_bn": "স্বার্থপর কাজে তাড়াহুড়া করলে শেষ পর্যন্ত মানুষের কপালে আফসোসই জোটে।",
+  "real_life_en": "A store manager hurries to hide returned stock so he does not have to issue refunds. In his rush, he accidentally drops and breaks a crate of expensive glassware. Selfish haste costs him dearly.",
+  "real_life_bn": "অন্যের হক ফাঁকি দেওয়ার তাড়াহুড়া মানুষের বিবেককে অন্ধ করে দেয়। সততার সাথে কাজ করলে ধীরে চললেও তাতে বরকত থাকে।",
+  "themes": [
+    "greed",
+    "parables"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They urged one another to go early to pluck their fruits according to their plan.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

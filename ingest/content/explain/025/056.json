@@ -1,0 +1,66 @@
+{
+  "id": "25:56",
+  "simple_en": "We have sent you, O Prophet, only to bring good news and a clear warning. You bring hope of Paradise to believers and warn sinners of the Fire.",
+  "simple_bn": "আমি আপনাকে কেবল মুমিনদের জন্য জান্নাতের সুসংবাদদাতা এবং অবাধ্যদের জন্য শাস্তির সতর্ককারীরূপেই পাঠিয়েছি। আপনার দায়িত্ব হলো মানুষের কাছে সত্যের আলো পৌঁছে দেওয়া।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "بشر",
+      "lemma": "مُبَشِّر",
+      "meaning_en": "a bearer of good news",
+      "meaning_bn": "সুসংবাদদাতা",
+      "why_en": "The Prophet promises divine reward to those who believe and do good."
+    },
+    {
+      "pos": 5,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "a warner",
+      "meaning_bn": "সতর্ককারী",
+      "why_en": "The Prophet faithfully warns against the consequences of sin and disbelief."
+    }
+  ],
+  "lesson_en": "The prophetic mission combines hope and warning. Divine guidance invites people to joy while warning against ruin.",
+  "lesson_bn": "রাসূলের মূল দায়িত্ব হলো মানুষকে সঠিক পথের সুসংবাদ দেওয়া এবং ভুলের পরিণতি সম্পর্কে সতর্ক করা। হেদায়েতের পথে আশা ও ভয়ের ভারসাম্য থাকা আবশ্যক।",
+  "real_life_en": "When you give advice to family or friends, be gentle. Share good news to give hope, and give kind warnings against bad choices. Speak with love, not harsh words.",
+  "real_life_bn": "কাউকে ভালো কাজের পরামর্শ দেওয়ার সময় কোমল ব্যবহার করুন। অতিরিক্ত কড়া ভাষা ব্যবহার না করে আশা ও ভালোবাসার মাধ্যমে মানুষকে কল্যাণের পথে ডাকুন।",
+  "themes": [
+    "prophethood",
+    "glad-tidings",
+    "warning"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise",
+      "hellfire"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet was sent solely to bring glad tidings of Paradise to believers and a warning of punishment to sinners.",
+      "claim_bn": "রাসূলুল্লাহকে কেবল মুমিনদের জন্য জান্নাতের সুসংবাদদাতা এবং অবাধ্যদের জন্য শাস্তির সতর্ককারীরূপেই পাঠানো হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

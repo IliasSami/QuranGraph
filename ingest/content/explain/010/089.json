@@ -1,0 +1,75 @@
+{
+  "id": "10:89",
+  "simple_en": "God answered: Your prayer has been accepted. So both of you stay firm upon the straight path, and never follow the path of those who lack knowledge.",
+  "simple_bn": "তিনি বললেন: তোমাদের দুজনের দোআ কবুল করা হলো। কাজেই তোমরা দুজন অবিচল থাক এবং যারা অজ্ঞ তাদের পথ কখনো অনুসরণ করো না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "جوب",
+      "lemma": "أُجِيبَت",
+      "meaning_en": "is accepted / answered",
+      "meaning_bn": "কবুল করা হলো",
+      "why_en": "Divine acceptance of the prayers of Moses and Aaron."
+    },
+    {
+      "pos": 5,
+      "root": "قوم",
+      "lemma": "اسْتَقامُ",
+      "meaning_en": "stand firm / be upright",
+      "meaning_bn": "তোমরা দুজন অবিচল থাক",
+      "why_en": "Command to remain steadfast until the promise manifests."
+    },
+    {
+      "pos": 11,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "those who know not",
+      "meaning_bn": "যারা জানে না",
+      "why_en": "Ignorant people who lack wisdom and patient trust."
+    }
+  ],
+  "lesson_en": "When God answers your prayers, remain patient and steadfast on the straight path.",
+  "lesson_bn": "দুআ কবুল হওয়ার পরও ধৈর্য ধারণ করে সত্যের পথে অবিচল থাকা আবশ্যক।",
+  "real_life_en": "After praying for help, do not grow impatient. Continue your daily duties with integrity and trust in God's perfect timing.",
+  "real_life_bn": "আল্লাহর কাছে কোনো কিছু চাওয়ার পর অধৈর্য হবেন না; নিজের সৎ কাজ ও ধৈর্য বজায় রাখুন।",
+  "themes": [
+    "answered prayer",
+    "steadfastness",
+    "avoiding ignorance"
+  ],
+  "kinds": [
+    "command",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Musa (Moses)",
+      "Harun (Aaron)"
+    ],
+    "nations": [
+      "the ignorant"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Acceptance of prophetic prayer"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah confirmed the acceptance of the supplication of Moses and Aaron, commanding them to stay firm.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

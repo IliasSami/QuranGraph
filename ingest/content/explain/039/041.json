@@ -1,0 +1,82 @@
+{
+  "id": "39:41",
+  "simple_en": "We revealed the Book to you with the truth for all of mankind. Whoever accepts guidance does so for the good of his own soul. Whoever strays from the truth hurts only himself. You are not responsible for forcing faith upon them.",
+  "simple_bn": "আমরা আপনার ওপর মানবজাতির কল্যাণে সত্যসহ এই কিতাব নাযিল করেছি। যে ব্যক্তি সৎপথ গ্রহণ করে, সে নিজের আত্মার মঙ্গলের জন্যই তা করে। আর যে বিপথগামী হয়, সে নিজের ধ্বংস ডেকে আনে। তাদের ওপর জোর করে বিশ্বাস চাপিয়ে দেওয়ার কোনো দায়িত্ব আপনার নয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نزل",
+      "lemma": "أَنزَلَ",
+      "meaning_en": "We sent down",
+      "meaning_bn": "আমরা নাযিল করেছি",
+      "why_en": "Affirms the divine origin and authority of the Quran."
+    },
+    {
+      "pos": 6,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "with the truth",
+      "meaning_bn": "সত্যসহ",
+      "why_en": "Describes the scripture as entirely pure and free of deceit."
+    },
+    {
+      "pos": 8,
+      "root": "هدي",
+      "lemma": "اهْتَدَى",
+      "meaning_en": "guided himself",
+      "meaning_bn": "সৎপথ অবলম্বন করল",
+      "why_en": "Points to personal choice in following divine guidance."
+    },
+    {
+      "pos": 17,
+      "root": null,
+      "lemma": "عَلَى",
+      "meaning_en": "a manager / guardian",
+      "meaning_bn": "তত্ত্বাবধায়ক",
+      "why_en": "Clarifies that the Prophet conveys the message without compelling belief."
+    }
+  ],
+  "lesson_en": "Guidance benefits your own soul, and every person is responsible for their own choices.",
+  "lesson_bn": "সঠিক পথে চলার সুফল মানুষ নিজেই ভোগ করে, আর প্রত্যেকে নিজ সিদ্ধান্তের জন্য সম্পূর্ণ দায়ী।",
+  "real_life_en": "Focus on improving yourself before trying to fix others. Encourage people with kindness, but respect their free choice to decide.",
+  "real_life_bn": "অন্যকে সংশোধন করার আগে নিজের সংশোধনে মনোযোগ দিন। মানুষকে ভালো কাজের দাওয়াত দিন, কিন্তু তাদের সিদ্ধান্তের দায় নিজের ওপর চাপিয়ে নেবেন না।",
+  "themes": [
+    "guidance",
+    "free choice",
+    "personal responsibility",
+    "the Quran"
+  ],
+  "kinds": [
+    "belief",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Allah sent down the Quran for mankind in truth; whoever is guided benefits his soul, and the Prophet is not their keeper.",
+      "claim_bn": "আল্লাহ সত্যসহ মানুষের জন্য কিতাব নাযিল করেছেন, যে পথ পায় সে নিজের জন্যই পায় এবং রাসূল তাদের অভিভাবক নন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

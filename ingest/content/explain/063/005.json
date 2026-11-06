@@ -1,0 +1,72 @@
+{
+  "id": "63:5",
+  "simple_en": "When the hypocrites are told to come so that the Messenger of Allah may ask forgiveness for them, they turn their heads in mock and disdain. You see them turning away proudly, refusing to admit their faults. Pride prevents them from taking the path of humble repentance.",
+  "simple_bn": "যখন মুনাফিকদের বলা হয়, তোমরা এসো যাতে আল্লাহর রাসূল তোমাদের জন্য ক্ষমা প্রার্থনা করেন, তখন তারা অহংকারে মাথা ঘুরিয়ে নেয়। আপনি তাদের ঔদ্ধত্যের সাথে মুখ ফিরিয়ে নিতে দেখবেন। তাদের মধ্যকার মিথ্যা অহংকারই তাদের তওবার পথ থেকে দূরে সরিয়ে রাখে।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "لوي",
+      "lemma": "لَوَّ",
+      "meaning_en": "they shake and turn away",
+      "meaning_bn": "তারা ঘুরিয়ে নেয়",
+      "why_en": "Gesture of disdain and mockery when invited to repent."
+    },
+    {
+      "pos": 10,
+      "root": "رأس",
+      "lemma": "رَأْس",
+      "meaning_en": "their heads",
+      "meaning_bn": "তাদের মাথাগুলো",
+      "why_en": "Shaking heads in proud refusal to seek forgiveness."
+    },
+    {
+      "pos": 14,
+      "root": "كبر",
+      "lemma": "مُسْتَكْبِر",
+      "meaning_en": "full of arrogance and pride",
+      "meaning_bn": "অহংকারী",
+      "why_en": "The underlying root of their downfall: destructive pride."
+    }
+  ],
+  "lesson_en": "Pride stops a person from asking for pardon. A wise person admits faults and turns back to God.",
+  "lesson_bn": "অহংকার মানুষকে ক্ষমা প্রার্থনার সুযোগ থেকে বঞ্চিত করে, আর বিনয়ী মানুষ নিজের ভুল স্বীকার করে তওবা করে।",
+  "real_life_en": "A person makes a serious mistake at work. His kind supervisor offers to help him fix it and clear his name. Instead of saying thanks, the worker walks out in anger. Arrogance turns a small fault into deep ruin.",
+  "real_life_bn": "ভুল স্বীকার করে ক্ষমা চাওয়ার সুযোগ পেলে যারা অহংকার করে তা ফিরিয়ে দেয়, তারা নিজেদেরই সবচেয়ে বড় ক্ষতি করে। বিনম্র হয়ে ভুল শুধরে নেওয়াই জ্ঞানীর কাজ।",
+  "themes": [
+    "arrogance of hypocrites",
+    "turning away from repentance",
+    "seeking forgiveness from the Prophet"
+  ],
+  "kinds": [
+    "warning",
+    "ethics",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When invited to come so the Messenger of Allah may seek forgiveness for them, hypocrites turn their heads away and refuse in haughty arrogance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

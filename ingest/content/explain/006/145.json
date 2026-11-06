@@ -1,0 +1,87 @@
+{
+  "id": "6:145",
+  "simple_en": "Say that revelation forbids only four foods. The first is an animal that dies on its own. The second is running blood. The third is pork because it is impure. The fourth is meat offered to idols. If hunger forces you to eat, take only what you need. Allah is Most Forgiving and Merciful.",
+  "simple_bn": "আপনি বলুন, ওহির মাধ্যমে আমাকে জানানো হয়েছে যে কেবল চারটি খাবার নিষিদ্ধ। সেগুলো হলো মৃত প্রাণী, প্রবাহিত রক্ত, শূকরের মাংস—যা অপবিত্র, এবং আল্লাহ ছাড়া অন্যের নামে উৎসর্গ করা পশু। তবে কেউ নিরুপায় হয়ে নাফরমানি বা বাড়াবাড়ি না করে খেলে, আপনার রব পরম ক্ষমাশীল ও দয়ালু।",
+  "key_words": [
+    {
+      "pos": 15,
+      "root": "موت",
+      "lemma": "مَيْتَة",
+      "meaning_en": "carrion",
+      "meaning_bn": "মৃত পশু",
+      "why_en": "Establishes the prohibition of animals dying without lawful slaughter."
+    },
+    {
+      "pos": 18,
+      "root": "سفح",
+      "lemma": "مَسْفُوح",
+      "meaning_en": "flowing blood",
+      "meaning_bn": "প্রবাহিত রক্ত",
+      "why_en": "Restricts the forbidden blood to blood that gushes out during slaughter."
+    },
+    {
+      "pos": 23,
+      "root": "رجس",
+      "lemma": "رِجْس",
+      "meaning_en": "impure and filthy",
+      "meaning_bn": "অপবিত্র",
+      "why_en": "Explains the underlying reason for banning pork due to spiritual and physical filth."
+    }
+  ],
+  "lesson_en": "Eat clean and lawful food. In extreme hunger, take only what saves your life.",
+  "lesson_bn": "পবিত্র ও হালাল খাবার গ্রহণ করুন। চরম নিরুপায় অবস্থায় পাপের উদ্দেশ্য ছাড়া জীবন বাঁচানোর সুযোগ আল্লাহ দিয়েছেন।",
+  "real_life_en": "Check food labels to ensure meat is lawful and free from pork gelatin. If you face extreme hunger with no lawful food, eat only what is needed to stay alive. Allah is Most Merciful.",
+  "real_life_bn": "প্যাকেটজাত খাদ্য কেনার সময় উপকরণ দেখে নিন, যেন তাতে শূকরের চর্বি বা নাপাক উপাদান না থাকে। বিদেশে বা কোনো বিপদে হালাল খাবার না পেলে জীবন রক্ষার জন্য যতটুকু প্রয়োজন গ্রহণ করা যায়, কারণ আল্লাহ পরম ক্ষমাশীল।",
+  "context_en": "After rebuking pagan food taboos, Allah outlines the genuine dietary prohibitions established through divine revelation.",
+  "context_bn": "মুশরিকদের বানোয়াট নিষেধাজ্ঞা নাকচ করার পর আল্লাহ ওহির মাধ্যমে নির্ধারিত প্রকৃত হারাম খাদ্যের তালিকা তুলে ধরেছেন।",
+  "themes": [
+    "forgiveness",
+    "Allah's mercy",
+    "ethics",
+    "justice"
+  ],
+  "kinds": [
+    "law",
+    "prohibition",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-Ghafur",
+      "ar-Rahim"
+    ],
+    "events": [],
+    "things": [
+      "carrion",
+      "blood",
+      "swine"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The ayah outlines four major dietary prohibitions: carrion, running blood, pork, and animals dedicated to other than Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Under life-threatening hunger, eating forbidden food is excused if done without desire to disobey or excess.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

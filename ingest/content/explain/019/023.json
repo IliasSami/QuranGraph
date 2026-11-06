@@ -1,0 +1,64 @@
+{
+  "id": "19:23",
+  "simple_en": "The severe labor pains drove her to the trunk of a date-palm tree. She cried out: I wish I had died before this and was completely forgotten.",
+  "simple_bn": "অতঃপর প্রসববেদনা তাকে এক খেজুর গাছের কাণ্ডে আশ্রয় নিতে বাধ্য করল। সে বেদনায় বলল: হায়, এর আগেই যদি আমি মরে যেতাম এবং মানুষের স্মৃতি থেকে হারিয়ে যেতাম।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "مخض",
+      "lemma": "مَخاض",
+      "meaning_en": "labor pains",
+      "meaning_bn": "প্রসববেদনা",
+      "why_en": "The intense physical pain of childbirth."
+    },
+    {
+      "pos": 13,
+      "root": "نسي",
+      "lemma": "مَنسِيّ",
+      "meaning_en": "forgotten",
+      "meaning_bn": "সম্পূর্ণ বিস্মৃত",
+      "why_en": "Wishing to be erased from memory rather than endure scandal."
+    }
+  ],
+  "lesson_en": "Even the best believers feel great pain. Turning to God in times of distress brings comfort.",
+  "lesson_bn": "চরম ধার্মিক ব্যক্তিও অসহনীয় বেদনা ও মানসিক ক্লান্তিতে ভেঙে পড়তে পারেন। তীব্র কষ্টে আকুল হয়ে ওঠা মানুষের স্বাভাবিক স্বভাব।",
+  "real_life_en": "Do not judge yourself harshly when sorrow feels overwhelming. Remember that God understands your deepest pain and will send comfort.",
+  "real_life_bn": "অসহনীয় মানসিক বা শারীরিক কষ্টে মন ভেঙে গেলে নিরাশ হবেন না। স্মরণ রাখবেন যে আল্লাহ আপনার কষ্ট দেখেন এবং তিনিই স্বস্তি দেবেন।",
+  "themes": [
+    "childbirth-pains",
+    "human-fragility",
+    "extreme-hardship"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Mary"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Palm tree"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Labor pains drove Maryam to a palm tree where she wished she had died before being exposed to this test.",
+      "claim_bn": "প্রসববেদনায় কাতর হয়ে মারইয়াম খেজুর গাছের নিচে যান এবং সামাজিক অপবাদের আশঙ্কায় মৃত্যুর কামনা করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,85 @@
+{
+  "id": "14:32",
+  "simple_en": "Allah created the heavens and the earth. He sends down rain from the clouds to produce fruits for your food. He made ships sail across the sea by His command, and made rivers flow for your benefit.",
+  "simple_bn": "আল্লাহই আসমান ও জমিন সৃষ্টি করেছেন এবং আকাশ থেকে বৃষ্টি বর্ষণ করে তোমাদের জীবিকার জন্য ফলমূল উৎপন্ন করেছেন। তিনি তাঁর হুকুমে সমুদ্রে জাহাজ চলাচলের ব্যবস্থা করেছেন এবং তোমাদের কল্যাণে নদীনালা প্রবাহিত করেছেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "created",
+      "meaning_bn": "সৃষ্টি করেছেন",
+      "why_en": "Bringing the cosmos into being."
+    },
+    {
+      "pos": 9,
+      "root": "موه",
+      "lemma": "ماء",
+      "meaning_en": "water",
+      "meaning_bn": "পানি",
+      "why_en": "Rain bringing life to soil."
+    },
+    {
+      "pos": 13,
+      "root": "ثمر",
+      "lemma": "ثَمَرَة",
+      "meaning_en": "the fruits",
+      "meaning_bn": "ফলমূলসমূহ",
+      "why_en": "Nutritious produce of the earth."
+    },
+    {
+      "pos": 18,
+      "root": "فلك",
+      "lemma": "فُلْك",
+      "meaning_en": "the ships",
+      "meaning_bn": "জাহাজসমূহ",
+      "why_en": "Vessels navigating oceans."
+    },
+    {
+      "pos": 25,
+      "root": "نهر",
+      "lemma": "نَهْر",
+      "meaning_en": "the rivers",
+      "meaning_bn": "নদীসমূহ",
+      "why_en": "Freshwater streams nourishing habitats."
+    }
+  ],
+  "lesson_en": "Look at rain, crops, and flowing rivers. Every blessing is a gift from Allah to you.",
+  "lesson_bn": "বৃষ্টি, ফলমূল এবং বহমান নদীর দিকে তাকান। প্রতিটি নিয়ামতই আপনার জন্য আল্লাহর অনুগ্রহ।",
+  "real_life_en": "A farmer watches his dry fields turn green after gentle rain. He does not take the water for granted. He thanks Allah for sustaining his family and crops.",
+  "real_life_bn": "বৃষ্টির পর শুকনো ক্ষেত সবুজে ভরে উঠতে দেখে এক কৃষক আনন্দিত হন। তিনি এই পানিকে কাকতালীয় মনে না করে পরিবার ও ফসলের রিযিকদাতা আল্লাহর শোকর আদায় করেন।",
+  "context_en": "Enumeration of divine favors in nature: rain, fruits, sailing ships, and freshwater rivers.",
+  "context_bn": "প্রকৃতিতে মানুষের কল্যাণে নিয়োজিত আল্লাহর নিয়ামতসমূহ: বৃষ্টি, ফলমূল, জলযান ও নদী।",
+  "themes": [
+    "creation",
+    "provision",
+    "gratitude"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah created the universe and provided rain, fruits, ships, and rivers to sustain human life.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

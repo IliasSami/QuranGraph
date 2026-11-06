@@ -1,0 +1,89 @@
+{
+ "id": "42:44",
+ "simple_en": "Whoever turns away from the truth has no helper after Allah. On the Last Day, the wrongdoers will see the Fire. They will ask: Is there any way to go back to the world?",
+ "simple_bn": "আল্লাহ যাকে সত্য বিমুখতার কারণে পথভ্রষ্ট করেন, তাঁর পর তার কোনো অভিভাবক নেই। কিয়ামতের দিন যালিমরা যখন শাস্তি দেখতে পাবে, তখন আপনি তাদের বলতে শুনবেন: দুনিয়ায় ফিরে যাওয়ার কোনো উপায় আছে কি?",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ضلل",
+   "lemma": "أَضَلَّ",
+   "meaning_en": "sends astray",
+   "meaning_bn": "পথভ্রষ্ট করেন",
+   "why_en": "Explains that rejecting divine truth leaves a person without divine guidance."
+  },
+  {
+   "pos": 7,
+   "root": "ولي",
+   "lemma": "وَلِيّ",
+   "meaning_en": "a protector",
+   "meaning_bn": "অভিভাবক",
+   "why_en": "Warns that none can rescue a person whom Allah has condemned."
+  },
+  {
+   "pos": 14,
+   "root": "عذب",
+   "lemma": "عَذاب",
+   "meaning_en": "the punishment",
+   "meaning_bn": "শাস্তি",
+   "why_en": "Points to the reality of the Hellfire awaiting unrepentant oppressors."
+  },
+  {
+   "pos": 18,
+   "root": "ردد",
+   "lemma": "مَرَدّ",
+   "meaning_en": "return",
+   "meaning_bn": "প্রত্যাবর্তন",
+   "why_en": "Captures the desperate desire of criminals to return to worldly life."
+  },
+  {
+   "pos": 20,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "any way",
+   "meaning_bn": "কোনো উপায়",
+   "why_en": "Shows the complete futility of seeking a second chance after death."
+  }
+ ],
+ "lesson_en": "Those who reject guidance in this life will find no escape on the Day of Judgment.",
+ "lesson_bn": "যারা দুনিয়ায় সত্য পথ প্রত্যাখ্যান করে, কিয়ামতের দিন তাদের কোনো আশ্রয় বা ফিরে আসার সুযোগ থাকবে না।",
+ "real_life_en": "Take advantage of today to turn your life around. Do not wait for old age or hardship to start praying, because on the Last Day, no one can return to fix past mistakes.",
+ "real_life_bn": "আজকের দিনটিকেই নিজেকে সংশোধনের সুযোগ হিসেবে নিন। সালাত ও নেক আমল শুরু করতে দেরি করবেন না, কারণ মৃত্যুর পর আর ফিরে আসার কোনো উপায় থাকবে না।",
+ "themes": [
+  "misguidance",
+  "the Last Day",
+  "punishment",
+  "justice"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Whoever Allah sends astray has no protector, and wrongdoers facing the punishment will plead in vain for a way to return to the world.",
+   "claim_bn": "আল্লাহ যাকে পথভ্রষ্ট করেন তার কোনো সাহায্যকারী নেই এবং যালিমরা শাস্তি দেখে বৃথাই দুনিয়ায় ফেরার আকুতি জানাবে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "8:6",
+  "simple_en": "Some believers argued with you about fighting after the truth had become clear. They were so terrified that they felt as if they were being driven toward death before their very eyes.",
+  "simple_bn": "সত্য স্পষ্টভাবে প্রকাশ পাওয়ার পরও তারা আপনার সাথে তর্ক করছিল; মনে হচ্ছিল তাদেরকে যেন মৃত্যুর দিকে তাড়িয়ে নিয়ে যাওয়া হচ্ছে আর তারা তা তাকিয়ে দেখছে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "جدل",
+      "lemma": "جادَلُ",
+      "meaning_en": "they dispute / argue with you",
+      "meaning_bn": "তারা আপনার সাথে বিতর্ক করে",
+      "why_en": "Reluctant companions expressing anxiety about fighting unprepared."
+    },
+    {
+      "pos": 5,
+      "root": "بين",
+      "lemma": "تَبَيَّنَ",
+      "meaning_en": "became clear",
+      "meaning_bn": "স্পষ্ট প্রকাশিত হলো",
+      "why_en": "The clarity of the divine command to confront the Quraysh."
+    },
+    {
+      "pos": 7,
+      "root": "سوق",
+      "lemma": "سِيقَ",
+      "meaning_en": "they are driven",
+      "meaning_bn": "হাঁকিয়ে নিয়ে যাওয়া হচ্ছে",
+      "why_en": "Vivid imagery capturing their acute fear of sudden mortal combat."
+    }
+  ],
+  "lesson_en": "Human anxiety is natural, but we must trust God when the duty is clear.",
+  "lesson_bn": "বিপদের মুখে মানবীয় ভয় স্বাভাবিক, তবে কর্তব্য স্পষ্ট হলে আল্লাহর ওপর ভরসা রেখে এগিয়ে যেতে হয়।",
+  "real_life_en": "When faced with a serious duty or danger, you may feel deep fear. Acknowledge your fear, but do not let it paralyze you. Once the right path is clear, move forward with faith in God.",
+  "real_life_bn": "দায়িত্ব পালনের সময় ভয় আসা অস্বাভাবিক নয়; কিন্তু ভয় যেন আপনাকে থামিয়ে না দেয়। সৎ সাহসের সাথে কর্তব্য পালন করুন।",
+  "context_en": "Depicting the intense apprehension of some companions before the battle commenced, which soon transformed into courageous heroism.",
+  "context_bn": "যুদ্ধ শুরুর প্রাক্কালে কিছু সাহাবীর গভীর ভীতি এবং পরবর্তীতে তাদের অতুলনীয় বীরত্বে রূপান্তরের প্রেক্ষাপট।",
+  "themes": [
+    "overcoming fear",
+    "steadfastness",
+    "Battle of Badr",
+    "moral duty"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "reluctant companions"
+    ],
+    "places": [
+      "Badr"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "counsel before Badr"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Before Badr, some companions expressed strong fear of meeting the armed army, feeling as though they were being led to death.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

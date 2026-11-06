@@ -1,0 +1,65 @@
+{
+  "id": "26:27",
+  "simple_en": "Pharaoh had no answer to the words of Moses. So he insulted him and called him a madman who did not know what he was saying.",
+  "simple_bn": "ফিরআউন নিজের সভাসদদের বলল, তোমাদের কাছে প্রেরিত এই রাসূল তো নির্ঘাত একজন উন্মাদ যে নিজের কথার অর্থ বোঝে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "رَسُولَكُمُ",
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "your messenger",
+      "meaning_bn": "তোমাদের রাসূল",
+      "why_en": "Pharaoh mocking the status of Moses as a prophet."
+    },
+    {
+      "pos": 7,
+      "arabic": "لَمَجْنُونٌ",
+      "root": "جنن",
+      "lemma": "مَجْنُون",
+      "meaning_en": "insane",
+      "meaning_bn": "পাগল বা উন্মাদ",
+      "why_en": "Baseless insult used to avoid addressing rational arguments."
+    }
+  ],
+  "lesson_en": "Those who lose an argument often turn to rude insults and false labels.",
+  "lesson_bn": "যুক্তিহীন সমালোচকরা সত্যের ধারকদের চরিত্রহনন করতে পাগল বা জ্ঞানহীন বলে অপবাদ দেয়।",
+  "real_life_en": "When people insult you for doing what is right, keep your dignity. Insults reveal their weakness, not yours.",
+  "real_life_bn": "সৎ কাজের জন্য কেউ আপনাকে বিভ্রান্ত বা বোকা বললে হতাশ হবেন না। আপনার চারিত্রিক মর্যাদা ধরে রাখুন।",
+  "themes": [
+    "slander",
+    "patience",
+    "pharaoh"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Failing to answer logically, Pharaoh resorted to insulting Moses by calling him mad.",
+      "claim_bn": "যুক্তি প্রদর্শনে ব্যর্থ হয়ে ফিরআউন মূসাকে উন্মাদ বলে কটূক্তি করার পথ বেছে নেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

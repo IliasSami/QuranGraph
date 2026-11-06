@@ -1,0 +1,94 @@
+{
+  "id": "12:42",
+  "simple_en": "Yusuf asked the man who would be saved to mention his case to the king. But Satan made the man forget. Because of this, Yusuf remained in prison for several more years.",
+  "simple_bn": "ইউসুফ যে ব্যক্তির মুক্তি নিশ্চিত জেনেছিলেন, তাকে বললেন রাজার কাছে তাঁর কথা তুলতে। কিন্তু শয়তান তাকে সেই কথা ভুলিয়ে দিল। ফলে ইউসুফ আরও কয়েক বছর কারাগারে বন্দি রইলেন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نجو",
+      "lemma": "ناج",
+      "meaning_en": "saved / freed",
+      "meaning_bn": "যে মুক্তি পাবে",
+      "why_en": "The cupbearer whose freedom Yusuf had accurately predicted."
+    },
+    {
+      "pos": 7,
+      "root": "ذكر",
+      "lemma": "ذَكَرَ",
+      "meaning_en": "mention me",
+      "meaning_bn": "আমার কথা স্মরণ করো",
+      "why_en": "Yusuf took a legitimate practical means to seek release."
+    },
+    {
+      "pos": 11,
+      "root": "شطن",
+      "lemma": "شَيْطان",
+      "meaning_en": "Satan",
+      "meaning_bn": "শয়তান",
+      "why_en": "The adversary who caused the servant to forget."
+    },
+    {
+      "pos": 17,
+      "root": "بضع",
+      "lemma": "بِضْع",
+      "meaning_en": "several",
+      "meaning_bn": "কয়েকটি",
+      "why_en": "Indicates a duration between three and nine years."
+    }
+  ],
+  "lesson_en": "Take good steps to solve your problems, but trust God's perfect timing.",
+  "lesson_bn": "সমস্যা সমাধানে বৈধ চেষ্টা করুন, তবে আল্লাহর নিখুঁত পরিকল্পনার ওপর পূর্ণ ভরসা রাখুন।",
+  "real_life_en": "A job seeker interviews well and an interviewer promises to call, but forgets. The seeker does not lose hope. Months later, a much better job opens up at the right time.",
+  "real_life_bn": "চাকরির ইন্টারভিউ ভালো হওয়ার পরও কর্তৃপক্ষ খবর দিতে ভুলে যায়। প্রার্থী নিরাশ না হয়ে অপেক্ষা করেন এবং কিছুদিন পর আরও ভালো চাকরির সুযোগ পান।",
+  "context_en": "Yusuf asked the freed cupbearer to mention him, but the man forgot, prolonging Yusuf's imprisonment.",
+  "context_bn": "ইউসুফ রাজার কাছে তাঁর কথা তুলতে বললেও লোকটি তা ভুলে যায় এবং ইউসুফের কারাবাস দীর্ঘায়িত হয়।",
+  "themes": [
+    "patience",
+    "reliance on Allah",
+    "divine timing"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "freed cupbearer",
+      "king"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [
+      "Satan"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "prison"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf asked the released prisoner to mention his case to the ruler.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Satan made the man forget, causing Yusuf to stay in prison for several more years.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

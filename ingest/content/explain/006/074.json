@@ -1,0 +1,86 @@
+{
+  "id": "6:74",
+  "simple_en": "Recall when Abraham spoke to his father Azar. He asked him: Do you take carved idols as deities to worship? Truly, I see that you and your people are in manifest error. Abraham spoke with clarity, calling his family away from mindless stone worship.",
+  "simple_bn": "স্মরণ করুন, যখন ইবরাহীম তাঁর পিতা আযরকে বলেছিলেন: আপনি কি নির্জীব মূর্তিগুলোকে উপাস্যরূপে গ্রহণ করছেন? আমি আপনাকে ও আপনার সম্প্রদায়কে স্পষ্ট বিভ্রান্তির মধ্যে দেখছি। ইবরাহীম অত্যন্ত সাহসিকতার সাথে তাঁর পরিবারকে পথভ্রষ্টতা বর্জনের আহ্বান জানান।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "صنم",
+      "lemma": "أَصْنام",
+      "meaning_en": "idols",
+      "meaning_bn": "মূর্তিগুলো",
+      "why_en": "Identifies inanimate carved figures falsely worshipped instead of Allah."
+    },
+    {
+      "pos": 8,
+      "root": "أله",
+      "lemma": "إِلٰه",
+      "meaning_en": "gods or deities",
+      "meaning_bn": "উপাস্যরূপে",
+      "why_en": "Denounces the false attribution of divinity to created objects."
+    },
+    {
+      "pos": 13,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "straying or error",
+      "meaning_bn": "পথভ্রষ্টতা",
+      "why_en": "Characterizes idolatry as clear departure from sound intellect and truth."
+    }
+  ],
+  "lesson_en": "Stand for monotheism even if close relatives practice error. Deliver truth with respectful firmness.",
+  "lesson_bn": "পরিবারের নিকটাত্মীয় হলেও শিরক ও ভুলের প্রতিবাদ করুন। সত্য প্রচারে সর্বদা আপসহীন ও শ্রদ্ধাশীল হোন।",
+  "real_life_en": "Speaking truth to family members can feel daunting. Follow Abraham's courage by advising loved ones with sincerity and respect. Never let emotional ties compromise your loyalty to pure faith.",
+  "real_life_bn": "পরিবারের সদস্যদের কোনো কুসংস্কার বা ভুল বিশ্বাস থেকে ফেরানো অনেক সময় কঠিন হয়ে দাঁড়ায়। ইবরাহীম (আ.)-এর মতো নম্রতা ও দৃঢ়তার সাথে সত্যের দাওয়াত দিন। সত্যের খাতিরে কোনো প্রকার আপস করবেন না।",
+  "context_en": "This begins the narrative of Prophet Abraham, demonstrating how pure reason and revelation defeat polytheism.",
+  "context_bn": "এখানে ইবরাহীম (আ.)-এর দাওয়াতের ঘটনা শুরু হয়েছে, যেখানে তিনি যুক্তির মাধ্যমে শিরকের অসারতা প্রমাণ করেন।",
+  "themes": [
+    "tawhid",
+    "prophets",
+    "Abraham",
+    "shirk",
+    "family da'wah"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim",
+      "Azar"
+    ],
+    "nations": [
+      "people of Ibrahim"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Prophet Abraham questioned his father Azar for taking carved idols as worshipped gods.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Abraham openly declared that his father and people were in plain misguidance due to their idol worship.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

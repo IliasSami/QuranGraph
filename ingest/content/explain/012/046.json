@@ -1,0 +1,104 @@
+{
+  "id": "12:46",
+  "simple_en": "The man went to prison and called Yusuf a man of truth. He asked about the seven fat cows eaten by seven thin cows, and the green and dry grain. He wanted to bring the answer back so people would know Yusuf's skill.",
+  "simple_bn": "সেই ব্যক্তি কারাগারে গিয়ে ইউসুফকে সত্যবাদী বলে সম্বোধন করল। সে সাতটি মোটাতাজা গাভীকে সাতটি শীর্ণ গাভীর খাওয়ার এবং সবুজ ও শুকনা শীষের স্বপ্নের ব্যাখ্যা জানতে চাইল। সে যেন এর সঠিক জবাব নিয়ে ফিরে যেতে পারে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "صدق",
+      "lemma": "صِدِّيق",
+      "meaning_en": "man of truth",
+      "meaning_bn": "সত্যবাদী",
+      "why_en": "Acknowledges Yusuf’s complete honesty and reliability."
+    },
+    {
+      "pos": 4,
+      "root": "فتي",
+      "lemma": "يُفْتِي",
+      "meaning_en": "explain to us",
+      "meaning_bn": "আমাদের সুস্পষ্ট ব্যাখ্যা দিন",
+      "why_en": "A respectful request for religious and symbolic guidance."
+    },
+    {
+      "pos": 8,
+      "root": "سمن",
+      "lemma": "سَمِين",
+      "meaning_en": "fat / plump",
+      "meaning_bn": "মোটাতাজা",
+      "why_en": "Representing initial years of agricultural abundance."
+    },
+    {
+      "pos": 11,
+      "root": "عجف",
+      "lemma": "عِجاف",
+      "meaning_en": "lean / emaciated",
+      "meaning_bn": "শীর্ণ বা রোগা",
+      "why_en": "Representing subsequent harsh years of extreme drought."
+    },
+    {
+      "pos": 22,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "they may know",
+      "meaning_bn": "তারা যেন জানতে পারে",
+      "why_en": "Hoping the court realizes Yusuf’s immense wisdom and worth."
+    }
+  ],
+  "lesson_en": "When people know you are honest, they seek your advice in times of trouble.",
+  "lesson_bn": "সত্যবাদিতা ও বিশ্বস্ততা থাকলে সংকটের মুহূর্তে মানুষ পরামর্শের জন্য এগিয়ে আসে।",
+  "real_life_en": "A teacher known for honesty is asked to judge a school contest. Parents trust the result because they know the teacher is fair and truthful.",
+  "real_life_bn": "সততার জন্য পরিচিত এক শিক্ষককে প্রতিযোগিতার বিচারক করা হয়। অভিভাবকরা নির্দ্বিধায় রায় মেনে নেন কারণ তারা জানেন তিনি কখনো পক্ষপাত করেন না।",
+  "context_en": "The messenger approached Yusuf with deep respect, asking for the interpretation to share with the king.",
+  "context_bn": "বার্তা নিয়ে আসা লোকটি গভীর শ্রদ্ধার সাথে ইউসুফের কাছে স্বপ্নের ব্যাখ্যা জানতে চাইল।",
+  "themes": [
+    "truthfulness",
+    "knowledge",
+    "respect for scholars"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "messenger / cupbearer",
+      "king"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "cows",
+      "grain",
+      "dream"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The messenger addressed Yusuf as 'man of truth' and asked him to interpret the dream.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He wanted to bring the explanation back to the court so they would recognize Yusuf's merit.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": "6:98",
+  "simple_en": "Allah created all human beings from a single soul, your father Adam. He gave you a place to stay on this earth and a temporary home before that. Allah explains these signs clearly for people who think deeply. Every stage of life shows His care and power.",
+  "simple_bn": "আল্লাহ সমস্ত মানবজাতিকে একজন ব্যক্তি, তোমাদের আদি পিতা আদম থেকে সৃষ্টি করেছেন। এরপর তিনি তোমাদের জন্য এই পৃথিবীতে বসবাসের ব্যবস্থা এবং তার আগে এক ক্ষণস্থায়ী স্থান নির্ধারণ করেছেন। যারা গভীর অন্তর্দৃষ্টি দিয়ে উপলব্ধি করতে চায়, তাদের জন্য আল্লাহ এই নিদর্শনগুলো বিশদভাবে বর্ণনা করেছেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نشأ",
+      "lemma": "أَنشَأَ",
+      "meaning_en": "He produced you",
+      "meaning_bn": "তিনি তোমাদের সৃষ্টি করেছেন",
+      "why_en": "Highlights Allah as the originator of all human existence from a single person."
+    },
+    {
+      "pos": 7,
+      "root": "قرر",
+      "lemma": "مُسْتَقَرّ",
+      "meaning_en": "a dwelling place / settlement",
+      "meaning_bn": "স্থায়ী আবাস বা গর্ভাশয়",
+      "why_en": "Refers to the dwelling of humans on earth or in the womb."
+    },
+    {
+      "pos": 13,
+      "root": "فقه",
+      "lemma": "يَفْقَهُ",
+      "meaning_en": "they understand deeply",
+      "meaning_bn": "তারা গভীরভাবে উপলব্ধি করে",
+      "why_en": "Commends those who grasp the profound stages of human creation."
+    }
+  ],
+  "lesson_en": "All humans share a single origin. Reflect on your beginnings to know your Creator.",
+  "lesson_bn": "সকল মানুষের উৎপত্তি এক উৎস থেকে। নিজের সৃষ্টির স্তর নিয়ে ভাবলে স্রষ্টার পরিচয় স্পষ্ট হয়।",
+  "real_life_en": "Remember that all humans belong to one family. Treat everyone with dignity regardless of background. Your time in this world is only a short stage, so prepare well for the life to come.",
+  "real_life_bn": "মনে রাখবেন, সমগ্র মানবজাতি এক পরিবারের অন্তর্ভুক্ত। বর্ণ বা বংশের ভেদাভেদ ভুলে সবাইকে সম্মান করুন। এই পৃথিবীতে আপনার বসবাস সাময়িক, তাই পরকালের জন্য উত্তম প্রস্তুতি গ্রহণ করুন।",
+  "context_en": "Points to the unified origin of mankind from Adam and the stages of human existence.",
+  "context_bn": "একক সত্তা আদম থেকে মানবজাতির উৎপত্তি এবং মানব জীবনের বিভিন্ন স্তর বর্ণনা করা হয়েছে।",
+  "themes": [
+    "creation of man",
+    "Adam",
+    "stages of life",
+    "reflection"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "creation",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Adam"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Creator"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah originated the entirety of humanity from a single soul, Adam.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Allah appointed stages of dwelling and resting for human life, clarifying signs for people of understanding.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

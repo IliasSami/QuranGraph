@@ -1,0 +1,73 @@
+{
+  "id": "34:52",
+  "simple_en": "In their panic, they will cry out: We believe in the truth now. But how can they attain real faith from such a distant place? Faith is only accepted during worldly life, not after death arrives.",
+  "simple_bn": "ভীত হয়ে তারা চিৎকার করে বলবে: আমরা এখন কুরআনে ঈমান আনলাম। কিন্তু এত দূরবর্তী পরকাল থেকে তারা কীভাবে ঈমানের নাগাল পাবে? মৃত্যুর পর বা শাস্তি দেখার পর ঈমান কোনো উপকারে আসে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "we believe",
+      "meaning_bn": "আমরা ঈমান আনলাম",
+      "why_en": "Their desperate confession made too late when punishment is already visible."
+    },
+    {
+      "pos": 6,
+      "root": "نوش",
+      "lemma": "تَناوُش",
+      "meaning_en": "attaining / grasping easily",
+      "meaning_bn": "নাগাল পাওয়া / গ্রহণ করা",
+      "why_en": "Shows the impossibility of acquiring acceptable faith in the Hereafter."
+    },
+    {
+      "pos": 9,
+      "root": "بعد",
+      "lemma": "بَعِيد",
+      "meaning_en": "far away",
+      "meaning_bn": "দূরবর্তী স্থান",
+      "why_en": "The vast distance between the time of testing in this world and the final judgment."
+    }
+  ],
+  "lesson_en": "Faith must be chosen freely in this life; seeking it after seeing the punishment will be too late.",
+  "lesson_bn": "দুনিয়ার জীবনেই স্বেচ্ছায় ঈমান আনতে হবে; আখেরাতের শাস্তি দেখার পর ঈমান কোনো উপকারে আসবে না।",
+  "real_life_en": "Do not put off building your faith until old age or illness. Use your youth, energy, and clear mind today to worship Allah and improve your character.",
+  "real_life_bn": "বার্ধক্য বা অসুস্থতার অপেক্ষা না করে আজই নিজের ঈমান মজবুত করুন। সুস্থ শরীরে এবং পূর্ণ শক্তিতে আল্লাহর আনুগত্যে এগিয়ে আসুন।",
+  "themes": [
+    "faith",
+    "repentance",
+    "the Last Day",
+    "hereafter"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Deniers will claim belief upon seeing punishment, but attaining faith from the Hereafter is impossible since repentance is only valid in worldly life.",
+      "claim_bn": "শাস্তি দেখে কাফেররা ঈমানের দাবি করবে, কিন্তু আখিরাত থেকে ঈমান গ্রহণ করার সুযোগ চিরতরে শেষ হয়ে গেছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

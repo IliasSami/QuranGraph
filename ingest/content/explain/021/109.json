@@ -1,0 +1,64 @@
+{
+  "id": "21:109",
+  "simple_en": "If they turn away in pride, say: I have announced the warning clearly to all of you alike. And I do not know whether the promised judgment is near or far.",
+  "simple_bn": "যদি তারা মুখ ফিরিয়ে নেয়, তবে বলুন: আমি তোমাদের সকলকে সমানভাবে সতর্ক করেছি। আর আমি জানি না যে তোমাদের সাথে কৃত প্রতিশ্রুতি কাছে নাকি দূরে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أذن",
+      "lemma": "آذَن",
+      "meaning_en": "I have announced",
+      "meaning_bn": "আমি ঘোষণা করেছি",
+      "why_en": "Open and impartial delivery of warning."
+    },
+    {
+      "pos": 6,
+      "root": "سوي",
+      "lemma": "سَواء",
+      "meaning_en": "equally to all",
+      "meaning_bn": "সমানভাবে",
+      "why_en": "Fair notice given to all without favoritism."
+    }
+  ],
+  "lesson_en": "A messenger shares the message with all people. Only God knows when the final Day will arrive.",
+  "lesson_bn": "সত্যের দাওয়াত সবার কাছে স্পষ্টভাবে পৌঁছে দেওয়াই নবীর দায়িত্ব। কিন্তু বিচারের দিনক্ষণ একমাত্র আল্লাহর অদৃশ্যের জ্ঞানের বিষয়।",
+  "real_life_en": "Communicate your principles clearly and openly with everyone. Do not pretend to know things that only God knows.",
+  "real_life_bn": "সবার সাথে খোলাখুলি ও সততার সাথে কথা বলুন। যে বিষয়ের জ্ঞান কেবল আল্লাহর কাছে, তা নিয়ে অহেতুক অনুমান করবেন না।",
+  "themes": [
+    "open-warning",
+    "impartiality",
+    "timing-of-judgment",
+    "prophetic-duty"
+  ],
+  "kinds": [
+    "command",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet declared the warning equally to all, acknowledging that the timing of the promised Day is known only to God.",
+      "claim_bn": "রাসূল সকলকে সমানভাবে সতর্ক করেছিলেন এবং জানিয়েছিলেন যে কিয়ামতের সময় কেবল আল্লাহই জানেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

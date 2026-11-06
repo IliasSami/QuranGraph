@@ -1,0 +1,113 @@
+{
+  "id": "3:181",
+  "simple_en": "Allah heard the words of those who mocked Him by saying that Allah is poor and they are rich. Allah records every word they utter. He also records their past crime of killing prophets unjustly. On the Day of Judgment, He will tell them to taste the burning punishment of the Fire.",
+  "simple_bn": "আল্লাহ সেই লোকদের ঔদ্ধত্যপূর্ণ কথা শুনেছেন, যারা বলেছিল আল্লাহ অভাবগ্রস্ত এবং তারা নিজেরা ধনী। আল্লাহ তাদের এই অন্যায় কথা লিখে রাখছেন। অতীতে অন্যায়ভাবে নবীগণকে হত্যা করার অপরাধও তিনি লিপিবদ্ধ রেখেছেন। কিয়ামতের দিন তাদের বলা হবে, তোমরা জ্বলন্ত আগুনের শাস্তি ভোগ করো।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سمع",
+      "lemma": "سَمِعَ",
+      "meaning_en": "He heard",
+      "meaning_bn": "তিনি শুনেছেন",
+      "why_en": "Affirms that Allah hears every spoken word and secret thought."
+    },
+    {
+      "pos": 9,
+      "root": "فقر",
+      "lemma": "فَقِير",
+      "meaning_en": "poor / in need",
+      "meaning_bn": "অভাবগ্রস্ত",
+      "why_en": "Highlights the absurd insolence of claiming the Creator is needy."
+    },
+    {
+      "pos": 11,
+      "root": "غني",
+      "lemma": "غَنِيّ",
+      "meaning_en": "rich / self-sufficient",
+      "meaning_bn": "ধনী বা অভাবমুক্ত",
+      "why_en": "Reflects the false pride of those blinded by transient wealth."
+    },
+    {
+      "pos": 12,
+      "root": "كتب",
+      "lemma": "كَتَبَ",
+      "meaning_en": "We will record",
+      "meaning_bn": "আমরা লিখে রাখব",
+      "why_en": "Emphasizes that no word of mockery escapes divine accountability."
+    },
+    {
+      "pos": 22,
+      "root": "حرق",
+      "lemma": "حَرِيق",
+      "meaning_en": "burning fire",
+      "meaning_bn": "জ্বলন্ত আগুন",
+      "why_en": "Names the severe recompense awaiting those who mock Allah and His prophets."
+    }
+  ],
+  "lesson_en": "Allah hears every word we speak and holds people accountable for arrogance.",
+  "lesson_bn": "আল্লাহ আমাদের প্রতিটি কথা শোনেন এবং কোনো ঔদ্ধত্যই তাঁর হিসাবের বাইরে থাকে না।",
+  "real_life_en": "Guard your tongue even in casual talk. Never mock sacred teachings or speak carelessly about Allah when life feels comfortable. True wealth is humility before your Creator.",
+  "real_life_bn": "কথাবার্তায় সর্বদা সতর্ক থাকুন। জীবনের সুযোগ-সুবিধা পেয়ে কখনোই দ্বীনের বিধান নিয়ে উপহাস করবেন না। বিনম্র থাকাই মুমিনের প্রকৃত সম্পদ।",
+  "context_en": "Revealed when opponents mocked the divine call to spend in charity as though Allah were in need of a loan.",
+  "context_bn": "আল্লাহর পথে দান করার আহ্বানকে ঋণ হিসেবে উল্লেখ করা হলে বিরোধীরা উপহাস করে বলেছিল যে আল্লাহ দরিদ্র, এই প্রেক্ষিতে আয়াতটি নাযিল হয়।",
+  "themes": [
+    "Allah's knowledge",
+    "arrogance",
+    "disbelief",
+    "judgment",
+    "punishment",
+    "Hell"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "prophets"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah heard the arrogant claim that Allah is poor and people are rich, and He records every word.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Their blasphemy is joined with their history of killing prophets unjustly, leading to the burning punishment of Hell.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": {
+    "text_en": "When the call to give charity was described as a loan to Allah, some opponents mocked and claimed Allah was poor and they were rich.",
+    "text_bn": "আল্লাহর পথে দানকে 'উত্তম ঋণ' বলা হলে কিছু বিরোধী উপহাস করে বলেছিল যে আল্লাহ অভাবগ্রস্ত আর তারা ধনী।",
+    "sources": [
+      "g-en-ibn-kathir"
+    ],
+    "strength": "reported"
+  },
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

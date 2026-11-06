@@ -1,0 +1,96 @@
+{
+  "id": "3:79",
+  "simple_en": "No human given scripture, wisdom, and prophethood would ever tell people: Worship me instead of Allah. A true prophet says: Be godly scholars who live by what you know. Teach the Book to others and study it with care.",
+  "simple_bn": "কোনো মানুষের পক্ষে এটি শোভনীয় বা সম্ভব নয় যে, আল্লাহ তাকে কিতাব, প্রজ্ঞা ও নবুওয়ত দান করবেন, আর সে মানুষকে বলবে: তোমরা আল্লাহকে ছেড়ে আমার ইবাদতকারী বা দাস হয়ে যাও। বরং সে বলবে: তোমরা রব্বানী বা একনিষ্ঠ জ্ঞানবান হও, যেহেতু তোমরা কিতাব শিক্ষা দাও এবং নিজেরাও তা গভীরভাবে অধ্যয়ন করো।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "بشر",
+      "lemma": "بَشَر",
+      "meaning_en": "for any human being",
+      "meaning_bn": "কোনো মানুষের পক্ষে",
+      "why_en": "Affirms that all prophets, however noble, remain created human beings."
+    },
+    {
+      "pos": 8,
+      "root": "حكم",
+      "lemma": "حُكْم",
+      "meaning_en": "wisdom / sound judgment",
+      "meaning_bn": "প্রজ্ঞা / গভীর বুঝ",
+      "why_en": "Understanding and discernment given by Allah alongside scripture."
+    },
+    {
+      "pos": 9,
+      "root": "نبأ",
+      "lemma": "نُبُوَّة",
+      "meaning_en": "prophethood",
+      "meaning_bn": "নবুওয়ত",
+      "why_en": "The highest spiritual office, which exists solely to call people to Allah."
+    },
+    {
+      "pos": 21,
+      "root": "ربب",
+      "lemma": "رَبّانِيِّن",
+      "meaning_en": "godly scholars and educators (Rabbaniyyin)",
+      "meaning_bn": "রব্বানী / আল্লাহওয়ালা আলেম",
+      "why_en": "Scholars who embody divine teachings and nurture others with wisdom and action."
+    }
+  ],
+  "lesson_en": "True leaders guide people to worship Allah, not to praise leaders.",
+  "lesson_bn": "প্রকৃত ধর্মীয় জ্ঞান মানুষকে ব্যক্তির অন্ধ আনুগত্য থেকে মুক্ত করে একমাত্র আল্লাহর গোলামিতে যুক্ত করে।",
+  "real_life_en": "If you teach or lead, keep your pride in check. Never use religious roles to seek fame or loyal fans. Point people to Allah and help them learn with an open mind.",
+  "real_life_bn": "শিক্ষক বা অভিভাবক হিসেবে দায়িত্ব পালন করার সময় মানুষকে নিজের ব্যক্তিত্বের বদলে আদর্শের অনুসারী হতে শেখান। দ্বীনের জ্ঞান শেখানোর পাশাপাশি নিজের জীবনেও তার বাস্তব চর্চা বজায় রাখুন।",
+  "context_en": "Vindicates all true prophets, especially Jesus, from claims that they demanded worship for themselves.",
+  "context_bn": "ঈসা (আলাইহিস সালাম) সহ কোনো নবীই যে নিজেকে উপাস্য বানানোর শিক্ষা দেননি, তা দ্ব্যর্থহীনভাবে পরিষ্কার করা হয়েছে।",
+  "themes": [
+    "tawhid",
+    "prophethood",
+    "knowledge",
+    "worship",
+    "humility"
+  ],
+  "kinds": [
+    "belief",
+    "command",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Isa (Jesus)",
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "It is impossible for a prophet endowed with scripture, wisdom, and prophethood to instruct people to worship him beside Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Prophets instruct people to become Rabbaniyyin (devoted scholars who practice what they know) by teaching and studying the scripture.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

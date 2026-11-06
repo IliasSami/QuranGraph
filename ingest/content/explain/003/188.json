@@ -1,0 +1,106 @@
+{
+ "id": "3:188",
+ "simple_en": "Do not think that people who rejoice in their evil tricks and love praise for things they never did are safe. Never imagine that they will escape punishment. In truth, a very painful torment is waiting for them.",
+ "simple_bn": "যারা নিজের অসৎ কাজে আনন্দ পায় এবং যা করেনি এমন কাজের জন্যও মানুষের প্রশংসা পেতে ভালোবাসে, তাদের বিষয়ে ভাববেন না যে তারা শাস্তি থেকে বেঁচে যাবে। তারা কখনো শাস্তি থেকে রেহাই পাবে না, বরং তাদের জন্য রয়েছে অত্যন্ত যন্ত্রণাদায়ক শাস্তি।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "فرح",
+   "lemma": "فَرِحَ",
+   "meaning_en": "they rejoice",
+   "meaning_bn": "তারা আনন্দ পায়",
+   "why_en": "Criticizes those who celebrate their deception and disobedience."
+  },
+  {
+   "pos": 7,
+   "root": "حبب",
+   "lemma": "أَحْبَبْ",
+   "meaning_en": "they love",
+   "meaning_bn": "তারা ভালোবাসে",
+   "why_en": "Describes the deep vanity of seeking unearned public adoration."
+  },
+  {
+   "pos": 9,
+   "root": "حمد",
+   "lemma": "يُحْمَدُ",
+   "meaning_en": "to be praised",
+   "meaning_bn": "প্রশংসিত হতে",
+   "why_en": "Exposes their hypocritical desire for acclaim without having done good deeds."
+  },
+  {
+   "pos": 15,
+   "root": "فوز",
+   "lemma": "مَفازَة",
+   "meaning_en": "a place of safety / escape",
+   "meaning_bn": "মুক্তির স্থান বা নিরাপত্তা",
+   "why_en": "Rejects any hope that vain wrongdoers can find refuge from divine justice."
+  },
+  {
+   "pos": 20,
+   "root": "ألم",
+   "lemma": "أَلِيم",
+   "meaning_en": "painful",
+   "meaning_bn": "যন্ত্রণাদায়ক",
+   "why_en": "Specifies the severe nature of the coming retribution for fraudulent piety."
+  }
+ ],
+ "lesson_en": "Never seek praise for good deeds you did not do, nor take pride in wrongdoing.",
+ "lesson_bn": "যে কাজ আপনি করেননি তার জন্য প্রশংসা আশা করবেন না এবং অন্যায় কাজ করে গর্ব করবেন না।",
+ "real_life_en": "At school or work, never claim credit for someone else's effort. Be proud only of what you honestly contribute. Seeking praise for unearned work damages your character before both people and Allah.",
+ "real_life_bn": "পড়াশোনা বা কর্মক্ষেত্রে অন্যের করা কাজের কৃতিত্ব নিজে নেওয়ার চেষ্টা করবেন না। নিজে যা করেছেন তাতে সন্তুষ্ট থাকুন এবং লোকদেখানো মিথ্যা প্রশংসা পাওয়া থেকে দূরে থাকুন।",
+ "context_en": "Denounces both hypocrites who celebrated staying behind from righteous struggles and scholars who deceived followers.",
+ "context_bn": "ধার্মিকতার ভান করে মিথ্যা প্রশংসাপ্রত্যাশী এবং অসৎ চক্রান্তে আনন্দ প্রকাশকারী মুনাফিক ও অসৎ পণ্ডিতদের শাস্তি ঘোষণা করা হয়েছে।",
+ "themes": [
+  "hypocrisy",
+  "arrogance",
+  "judgment",
+  "punishment",
+  "honesty"
+ ],
+ "kinds": [
+  "warning",
+  "ethics",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who delight in their deceitful deeds and crave praise for good things they never did are not safe from punishment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Their vanity will lead them to severe and painful torment in the Hereafter.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": {
+  "text_en": "Reported regarding hypocrites who rejoiced when they stayed behind from campaigns and loved to be praised for piety, or opponents who hid truth and sought praise.",
+  "text_bn": "অভিযানে অংশ না নিয়ে ঘরে বসে আনন্দ প্রকাশকারী এবং ভালো কাজ না করেও প্রশংসা প্রত্যাশী মুনাফিকদের প্রসঙ্গে নাযিল হয়েছিল।",
+  "sources": [
+   "g-en-ibn-kathir"
+  ],
+  "strength": "sahih"
+ },
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

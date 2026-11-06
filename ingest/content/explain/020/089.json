@@ -1,0 +1,73 @@
+{
+  "id": "20:89",
+  "simple_en": "Could they not see that the statue could not answer them a single word? It had no power to cause them harm or bring them any real benefit.",
+  "simple_bn": "তারা কি দেখতে পায়নি যে বাছুরটি তাদের কোনো কথার উত্তর দিতে পারে না? এবং এটি তাদের কোনো ক্ষতি করার ক্ষমতা রাখে না, কোনো উপকারও করতে পারে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "رجع",
+      "lemma": "رَجَعَ",
+      "meaning_en": "it could not return",
+      "meaning_bn": "তা ফিরিয়ে দিত না বা উত্তর দিত না",
+      "why_en": "Total inability to communicate or hear prayers."
+    },
+    {
+      "pos": 10,
+      "root": "ضرر",
+      "lemma": "ضَرّ",
+      "meaning_en": "any harm",
+      "meaning_bn": "কোনো ক্ষতি",
+      "why_en": "Incapable of defending itself or punishing anyone."
+    },
+    {
+      "pos": 12,
+      "root": "نفع",
+      "lemma": "نَفْع",
+      "meaning_en": "any benefit",
+      "meaning_bn": "কোনো উপকার",
+      "why_en": "Incapable of providing sustenance or answering needs."
+    }
+  ],
+  "lesson_en": "Statues cannot help or hurt you. It is foolish to bow down to dry wood or gold.",
+  "lesson_bn": "মূর্তি বা জড়বস্তু সম্পূর্ণ অক্ষম। যে কথা বলতে পারে না বা ক্ষতি-উপকার করতে পারে না, তার পূজা করা চরম অজ্ঞতা।",
+  "real_life_en": "Ask the living God for help. Never trust in lucky charms or gems to save you.",
+  "real_life_bn": "সকল চাওয়া-পাওয়া একমাত্র জীবন্ত আল্লাহর কাছে পেশ করুন। কোনো জড়বস্তু বা তাবিজের ওপর আস্থা রাখবেন না।",
+  "themes": [
+    "futility-of-idolatry",
+    "tawhid",
+    "reason"
+  ],
+  "kinds": [
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Bani Isra'il"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "golden calf"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran exposes the irrationality of worshipping a lifeless calf that cannot speak, harm, or benefit.",
+      "claim_bn": "কুরআন বাছুরের মূর্তিপূজার অযৌক্তিকতা তুলে ধরে জানায় যে তা কথা বলতে, ক্ষতি করতে বা উপকার করতে অক্ষম।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

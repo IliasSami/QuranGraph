@@ -1,103 +1,103 @@
 {
- "id": "2:76",
- "simple_en": "When some hypocrites met the believers, they claimed to believe. But when they were alone together, their leaders scolded them for sharing what their book said about the Prophet ﷺ. They feared the Muslims would use those truths against them before their Lord.",
- "simple_bn": "তারা যখন মুমিনদের সাথে মিলিত হতো, তখন কপটভাবে বলত, ‘আমরাও ঈমান এনেছি’। কিন্তু যখন তারা নিজেদের মধ্যে গোপনে একাকী মিলিত হতো, তখন তাদের নেতারা তিরস্কার করে বলত, ‘তোমরা কি মুসলিমদের কাছে সেইসব তথ্য বলে দিচ্ছ যা আল্লাহ তোমাদের কিতাবে প্রকাশ করেছেন? তাহলে তো তারা তোমাদের প্রতিপালকের সামনে তোমাদেরই বিরুদ্ধে দলিল পেশ করবে! তোমাদের কি কোনো বুদ্ধি নেই?’",
- "key_words": [
-  {
-   "pos": 6,
-   "root": "أمن",
-   "lemma": "آمَنَ",
-   "meaning_en": "we believe",
-   "meaning_bn": "আমরা ঈমান এনেছি",
-   "why_en": "The false declaration of faith uttered to deceive the Muslim community."
-  },
-  {
-   "pos": 8,
-   "root": "خلو",
-   "lemma": "خَلا",
-   "meaning_en": "they met privately",
-   "meaning_bn": "তারা গোপনে মিলিত হতো",
-   "why_en": "Shows their secret gatherings where their real disbelief and plotting were disclosed."
-  },
-  {
-   "pos": 15,
-   "root": "فتح",
-   "lemma": "فَتَحَ",
-   "meaning_en": "revealed and granted",
-   "meaning_bn": "উন্মুক্ত করে দিয়েছেন বা জানিয়েছেন",
-   "why_en": "Refers to the knowledge and prophecies Allah revealed in the Torah regarding the Prophet ﷺ."
-  },
-  {
-   "pos": 18,
-   "root": "حجج",
-   "lemma": "حاجَّ",
-   "meaning_en": "so that they may argue against you",
-   "meaning_bn": "যাতে তারা তোমাদের বিরুদ্ধে প্রমাণ পেশ করে",
-   "why_en": "Their fear that Muslims would use the Torah's own texts to establish the truth of Islam against them."
-  }
- ],
- "lesson_en": "Hiding the truth out of pride only leads to shame and loss.",
- "lesson_bn": "দলীয় স্বার্থ বা অহংকারের কারণে সত্য গোপন করা কপটতার লক্ষণ, যা শেষ পর্যন্ত লাঞ্ছনা ডেকে আনে।",
- "real_life_en": "Never hide facts in a dispute just because the truth helps the other side. A honest person always speaks the truth, even when it goes against their own group.",
- "real_life_bn": "কর্মক্ষেত্রে বা ব্যক্তিগত বিবাদে কোনো তথ্য অন্যের পক্ষে গেলেও তা সততার সাথে স্বীকার করুন। শুধু নিজের দল বা স্বার্থ রক্ষার জন্য সত্যকে চেপে রাখার মানসিকতা মুনাফিকির দিকে ঠেলে দেয়।",
- "context_en": "Exposes the deceptive behavior of hypocrites who admitted the Prophet's truthfulness to Muslims but warned each other in private not to provide evidence.",
- "context_bn": "মুনাফিকদের দ্বিমুখী আচরণের মুখোশ উন্মোচন করা হয়েছে, যারা প্রকাশ্যে ঈমানের দাবি করত কিন্তু গোপনে নিজ দলের লোকদের সত্য সাক্ষ্য প্রকাশ করতে নিষেধ করত।",
- "themes": [
-  "hypocrisy",
-  "honesty",
-  "Children of Israel",
-  "Prophet Muhammad ﷺ",
-  "revelation",
-  "justice"
- ],
- "kinds": [
-  "warning",
-  "ethics",
-  "story"
- ],
- "entities": {
-  "people": [
-   "Muhammad ﷺ"
+  "id": "2:76",
+  "simple_en": "When some hypocrites met the believers, they claimed to believe. But when they were alone together, their leaders scolded them for sharing what their book said about the Prophet ﷺ. They feared the Muslims would use those truths against them before their Lord.",
+  "simple_bn": "তারা যখন মুমিনদের সাথে মিলিত হতো, তখন কপটভাবে বলত, ‘আমরাও ঈমান এনেছি’। কিন্তু যখন তারা নিজেদের মধ্যে গোপনে একাকী মিলিত হতো, তখন তাদের নেতারা তিরস্কার করে বলত, ‘তোমরা কি মুসলিমদের কাছে সেইসব তথ্য বলে দিচ্ছ যা আল্লাহ তোমাদের কিতাবে প্রকাশ করেছেন? তাহলে তো তারা তোমাদের প্রতিপালকের সামনে তোমাদেরই বিরুদ্ধে দলিল পেশ করবে! তোমাদের কি কোনো বুদ্ধি নেই?’",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "we believe",
+      "meaning_bn": "আমরা ঈমান এনেছি",
+      "why_en": "The false declaration of faith uttered to deceive the Muslim community."
+    },
+    {
+      "pos": 8,
+      "root": "خلو",
+      "lemma": "خَلا",
+      "meaning_en": "they met privately",
+      "meaning_bn": "তারা গোপনে মিলিত হতো",
+      "why_en": "Shows their secret gatherings where their real disbelief and plotting were disclosed."
+    },
+    {
+      "pos": 15,
+      "root": "فتح",
+      "lemma": "فَتَحَ",
+      "meaning_en": "revealed and granted",
+      "meaning_bn": "উন্মুক্ত করে দিয়েছেন বা জানিয়েছেন",
+      "why_en": "Refers to the knowledge and prophecies Allah revealed in the Torah regarding the Prophet ﷺ."
+    },
+    {
+      "pos": 18,
+      "root": "حجج",
+      "lemma": "حاجَّ",
+      "meaning_en": "so that they may argue against you",
+      "meaning_bn": "যাতে তারা তোমাদের বিরুদ্ধে প্রমাণ পেশ করে",
+      "why_en": "Their fear that Muslims would use the Torah's own texts to establish the truth of Islam against them."
+    }
   ],
-  "nations": [
-   "Children of Israel"
+  "lesson_en": "Hiding the truth out of pride only leads to shame and loss.",
+  "lesson_bn": "দলীয় স্বার্থ বা অহংকারের কারণে সত্য গোপন করা কপটতার লক্ষণ, যা শেষ পর্যন্ত লাঞ্ছনা ডেকে আনে।",
+  "real_life_en": "Never hide facts in a dispute just because the truth helps the other side. A honest person always speaks the truth, even when it goes against their own group.",
+  "real_life_bn": "কর্মক্ষেত্রে বা ব্যক্তিগত বিবাদে কোনো তথ্য অন্যের পক্ষে গেলেও তা সততার সাথে স্বীকার করুন। শুধু নিজের দল বা স্বার্থ রক্ষার জন্য সত্যকে চেপে রাখার মানসিকতা মুনাফিকির দিকে ঠেলে দেয়।",
+  "context_en": "Exposes the deceptive behavior of hypocrites who admitted the Prophet's truthfulness to Muslims but warned each other in private not to provide evidence.",
+  "context_bn": "মুনাফিকদের দ্বিমুখী আচরণের মুখোশ উন্মোচন করা হয়েছে, যারা প্রকাশ্যে ঈমানের দাবি করত কিন্তু গোপনে নিজ দলের লোকদের সত্য সাক্ষ্য প্রকাশ করতে নিষেধ করত।",
+  "themes": [
+    "hypocrisy",
+    "honesty",
+    "Children of Israel",
+    "Prophet Muhammad ﷺ",
+    "revelation",
+    "justice"
   ],
-  "places": [],
-  "unseen": [],
-  "names_of_allah": [],
-  "events": [],
-  "things": [
-   "Torah"
-  ]
- },
- "claims": [
-  {
-   "text": "When meeting believers, certain hypocrites pretended to have faith.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-ar-saadi"
-   ]
+  "kinds": [
+    "warning",
+    "ethics",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Torah"
+    ]
   },
-  {
-   "text": "In private, their leaders rebuked them for disclosing scriptural descriptions of the Prophet ﷺ to Muslims.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-en-ibn-kathir",
-    "g-en-jalalayn"
-   ]
-  },
-  {
-   "text": "They feared Muslims would use these revealed truths to argue against them before Allah.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-en-maarif",
-    "g-bn-ahsanul-bayan"
-   ]
-  }
- ],
- "occasion": null,
- "sensitivity": "interfaith",
- "scholars_differ": false,
- "confidence": 0.95,
- "uncertain": []
+  "claims": [
+    {
+      "text": "When meeting believers, certain hypocrites pretended to have faith.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "In private, their leaders rebuked them for disclosing scriptural descriptions of the Prophet ﷺ to Muslims.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "They feared Muslims would use these revealed truths to argue against them before Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-maarif",
+        "g-bn-ahsanul-bayan"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
 }

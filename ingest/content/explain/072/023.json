@@ -1,0 +1,98 @@
+{
+ "id": "72:23",
+ "simple_en": "The only duty of the Prophet is to convey the words of Allah faithfully. Whoever rebels against Allah and His messenger by rejecting the truth will enter the fire of Hell. They will stay in its burning flames forever, cut off from any mercy or way out.",
+ "simple_bn": "নবীর মূল দায়িত্ব হলো আল্লাহর বাণী সঠিকভাবে পৌঁছে দেওয়া। যে ব্যক্তি সত্য প্রত্যাখ্যান করে আল্লাহ ও তাঁর রাসূলের অবাধ্য হয়, তার ঠিকানা হবে জাহান্নামের আগুন। সেখানে তারা অনন্তকাল ধরে শাস্তির মধ্যে থাকবে এবং কোনো মুক্তির পথ পাবে না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "بلغ",
+   "lemma": "بَلاغ",
+   "meaning_en": "conveyance of the message",
+   "meaning_bn": "বার্তা পৌঁছানো",
+   "why_en": "Delivering divine revelation without holding anything back."
+  },
+  {
+   "pos": 5,
+   "root": "رسل",
+   "lemma": "رِسالَة",
+   "meaning_en": "His messages",
+   "meaning_bn": "তাঁর বাণিসমূহ",
+   "why_en": "The sacred scriptures and guidance sent down."
+  },
+  {
+   "pos": 7,
+   "root": "عصي",
+   "lemma": "عَصا",
+   "meaning_en": "disobeys",
+   "meaning_bn": "অমান্য করে",
+   "why_en": "Rebellion against divine guidance."
+  },
+  {
+   "pos": 12,
+   "root": "نور",
+   "lemma": "نار",
+   "meaning_en": "the Fire of Hell",
+   "meaning_bn": "জাহান্নামের আগুন",
+   "why_en": "The punishment for obstinate disbelief."
+  },
+  {
+   "pos": 14,
+   "root": "خلد",
+   "lemma": "خالِد",
+   "meaning_en": "abiding eternally",
+   "meaning_bn": "চিরকাল বসবাসকারী",
+   "why_en": "Endless stay in the fire for those who die in disbelief."
+  }
+ ],
+ "lesson_en": "Obey Allah and follow His prophet to save yourself from the fire.",
+ "lesson_bn": "জাহান্নামের আগুন থেকে নিজেকে বাঁচাতে আল্লাহর আনুগত্য করুন এবং তাঁর নবীর দেখানো পথে চলুন।",
+ "real_life_en": "A guard at a railway crossing lowers the gate and waves a red flag to stop cars. If a driver speeds past the warning, disaster follows. Messengers give clear warnings to keep us safe from ruin.",
+ "real_life_bn": "রেললাইনের প্রহরী ব্যারিকেড ফেলে লাল পতাকা উঁচিয়ে গাড়ি থামতে বলে। কোনো চালক সেই সতর্কতা অগ্রাহ্য করে এগিয়ে গেলে ভয়াবহ দুর্ঘটনা ঘটে। নবীরাও মানুষকে ধ্বংস থেকে রক্ষা করতে এমন স্পষ্ট সতর্কবার্তা দেন।",
+ "themes": [
+  "Hell",
+  "obedience",
+  "conveying the message",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter",
+  "command"
+ ],
+ "entities": {
+  "people": [
+   "muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "hell"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The Prophet's role is to convey the messages from Allah, and those who disobey Allah and His Messenger will dwell in Hell forever.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "Disobedience to Allah and His messenger brings the punishment of eternal fire.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

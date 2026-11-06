@@ -1,0 +1,84 @@
+{
+  "id": "6:81",
+  "simple_en": "Abraham asked his people a clear question. Why should he fear idols that have no power to help or harm? Meanwhile, his people had no fear of joining false partners with Allah. They did this without any proof from Him. He then asked which of the two groups has more right to safety. Those who worship Allah alone are truly secure.",
+  "simple_bn": "ইব্রাহীম তাঁর সম্প্রদায়কে একটি স্পষ্ট প্রশ্ন করেছিলেন। তিনি কেন সেই মূর্তিগুলোকে ভয় পাবেন, যাদের কোনো ক্ষতি বা উপকার করার ক্ষমতা নেই? অথচ তাঁর সম্প্রদায় কোনো প্রমাণ ছাড়াই আল্লাহর সাথে অন্যদের অংশীদার বানাতে মোটেও ভয় পাচ্ছিল না। তিনি তাদের জিজ্ঞেস করলেন, এই দুই দলের মধ্যে কারা নিরাপত্তার অধিক হকদার? নিশ্চয়ই যারা এক আল্লাহর ইবাদত করে, তারাই প্রকৃত নিরাপদ।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "خوف",
+      "lemma": "خافَ",
+      "meaning_en": "I fear",
+      "meaning_bn": "আমি ভয় করি",
+      "why_en": "Abraham explains why he has no fear of powerless idols."
+    },
+    {
+      "pos": 15,
+      "root": "سلط",
+      "lemma": "سُلْطان",
+      "meaning_en": "authority / proof",
+      "meaning_bn": "প্রমাণ বা সনদ",
+      "why_en": "Highlights that worshiping partners with Allah has no divine sanction."
+    },
+    {
+      "pos": 19,
+      "root": "أمن",
+      "lemma": "أَمْن",
+      "meaning_en": "security / peace",
+      "meaning_bn": "নিরাপত্তা",
+      "why_en": "Points out that true security belongs exclusively to monotheists."
+    }
+  ],
+  "lesson_en": "Fear Allah alone. Idols and false powers can neither harm nor protect anyone.",
+  "lesson_bn": "একমাত্র আল্লাহকে ভয় করুন। কোনো মিথ্যা শক্তি কারও ক্ষতি বা উপকার করতে পারে না।",
+  "real_life_en": "Do not let superstition or fear of bad luck guide your choices. Put your complete trust in Allah in every matter. A believer finds true courage by relying on the Creator alone.",
+  "real_life_bn": "কুসংস্কার বা অশুভ লক্ষণের ভয়ে ভীত হবেন না। সকল বিষয়ে একমাত্র আল্লাহর ওপর ভরসা রাখুন। খাঁটি মুমিন কেবল তাঁর ওপর নির্ভর করেই অন্তরে সাহস খুঁজে পায়।",
+  "context_en": "Abraham challenges his idol-worshiping people by questioning who truly deserves security.",
+  "context_bn": "ইব্রাহীম তাঁর সম্প্রদায়ের মূর্তিপূজার যুক্তি খণ্ডন করে নিরাপত্তার প্রকৃত দাবিদার সম্পর্কে প্রশ্ন তোলেন।",
+  "themes": [
+    "tawhid",
+    "fear",
+    "shirk",
+    "security"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Abraham"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Abraham questioned his people about why he should fear idols that bring no benefit or harm.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "True security belongs to those who do not associate partners with Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

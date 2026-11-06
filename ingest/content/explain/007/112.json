@@ -1,0 +1,83 @@
+{
+ "id": "7:112",
+ "simple_en": "The men promised to bring every master magician in the land. Pharaoh wanted the best experts in magic. He hoped they would beat Musa and show that his signs were just tricks. They set a date for a big public contest.",
+ "simple_bn": "উপদেষ্টারা নিশ্চয়তা দিল যে সংগ্রাহকেরা দেশের সবচেয়ে অভিজ্ঞ ও দক্ষ জাদুকরদের দরবারে হাজির করবে। ফিরআউন চেয়েছিল জাদুর শীর্ষ বিশেষজ্ঞদের জড়ো করতে। সে ভেবেছিল বড় বড় জাদুকরদের দিয়ে মূসার অলৌকিক নিদর্শনকে মিথ্যা প্রমাণ করা সম্ভব হবে। এভাবেই তারা এক বিশাল প্রকাশ্য প্রতিযোগিতার প্রস্তুতি নিল।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "أتي",
+   "lemma": "أَتَى",
+   "meaning_en": "they will bring to you",
+   "meaning_bn": "তারা তোমার কাছে নিয়ে আসবে",
+   "why_en": "The promise that the mobilizers will bring the magicians directly to the royal court."
+  },
+  {
+   "pos": 3,
+   "root": "سحر",
+   "lemma": "ساحِر",
+   "meaning_en": "magician / sorcerer",
+   "meaning_bn": "জাদুকর",
+   "why_en": "The professionals recruited to counter Musa's divine signs."
+  },
+  {
+   "pos": 4,
+   "root": "علم",
+   "lemma": "عَلِيم",
+   "meaning_en": "learned / expert",
+   "meaning_bn": "অভিজ্ঞ বা অত্যন্ত পণ্ডিত",
+   "why_en": "Emphasizes that only the most proficient and masterful magicians were summoned."
+  }
+ ],
+ "lesson_en": "No matter how skilled people are in deceit, human craft can never match divine power.",
+ "lesson_bn": "মানুষ চক্রান্ত বা মিথ্যা প্রদর্শনীতে যতই পারদর্শী হোক, আল্লাহর কুদরতের সমকক্ষ কখনোই হতে পারে না।",
+ "real_life_en": "Do not feel scared when powerful people bring experts to defend lies. Clever talk cannot change facts. Trust in what is right, because lies fall apart in the end.",
+ "real_life_bn": "কোনো অন্যায় বা মিথ্যাকে প্রতিষ্ঠিত করতে পেশাদার চতুর লোকদের জড়ো করা হলেও বিভ্রান্ত হবেন না। চমৎকার যুক্তি দিয়ে অসত্যকে দীর্ঘকাল টিকিয়ে রাখা যায় না। সততার সাথে বাস্তব সত্য আঁকড়ে ধরুন।",
+ "context_en": "Pharaoh's court plans to summon Egypt's most knowledgeable sorcerers to confront Musa.",
+ "context_bn": "ফিরআউনের দরবার মূসার বিরুদ্ধে মিসরের সবচেয়ে দক্ষ ও পণ্ডিত জাদুকরদের সমবেত করার সিদ্ধান্ত নেয়।",
+ "themes": [
+  "magicians of Egypt",
+  "deceit",
+  "reliance on experts",
+  "false confidence"
+ ],
+ "kinds": [
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Pharaoh",
+   "magicians"
+  ],
+  "nations": [],
+  "places": [
+   "Egypt"
+  ],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The advisors told Pharaoh that the gatherers would bring all the most skilled and knowledgeable magicians to his court.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Pharaoh aimed to use the greatest sorcerers of Egypt to confront and overpower Musa.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

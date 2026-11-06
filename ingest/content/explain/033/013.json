@@ -1,0 +1,74 @@
+{
+  "id": "33:13",
+  "simple_en": "Some hypocrites tried to scare the defenders. They told the people of Yathrib that they had no place to stand and should go home. Others asked the Prophet Muhammad ﷺ to let them leave. They claimed their homes were at risk. But their houses were safe. They only wished to run away from duty.",
+  "simple_bn": "মুনাফিকদের একটি দল মদিনাবাসীদের মনোবল ভেঙে দিয়ে বলতে লাগল যে শত্রুর সামনে তাদের টিকে থাকার সুযোগ নেই, তাই তাদের ঘরে ফিরে যাওয়া উচিত। আরেকটি দল নবী ﷺ-এর কাছে অনুমতি চেয়ে মিথ্যা দাবি করল যে তাদের বাড়িঘর অরক্ষিত। অথচ তাদের বাড়িঘর মোটেই অরক্ষিত ছিল না, তারা কেবল যুদ্ধক্ষেত্র থেকে পালাতে চেয়েছিল।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أهل",
+      "lemma": "أَهْل",
+      "meaning_en": "Yathrib",
+      "meaning_bn": "ইয়াসরিব",
+      "why_en": "The pre-Islamic name of Madinah used by hypocrites trying to discourage defenders."
+    },
+    {
+      "pos": 17,
+      "root": "بيت",
+      "lemma": "بَيْت",
+      "meaning_en": "exposed / vulnerable",
+      "meaning_bn": "অরক্ষিত",
+      "why_en": "The false excuse given by deserters claiming their houses were open to attack."
+    },
+    {
+      "pos": 25,
+      "root": "فرر",
+      "lemma": "فِرار",
+      "meaning_en": "flight / fleeing",
+      "meaning_bn": "পালিয়ে যাওয়া",
+      "why_en": "Unmasks the cowards' real motivation, which was running away from battle."
+    }
+  ],
+  "lesson_en": "Do not invent weak excuses to run from your duty when others need your help.",
+  "lesson_bn": "দায়িত্ব এড়ানোর জন্য ভীরু ব্যক্তিরা মিথ্যা অজুহাত তৈরি করে, যা তাদের কপট মানসিকতার পরিচয় দেয়।",
+  "real_life_en": "When your family or work team faces a hard day, stay by their side. Do not make up small excuses to slip away. Stand up and help.",
+  "real_life_bn": "পরিবার বা সমাজের কোনো প্রয়োজনে নিজের দায়িত্ব এড়িয়ে যাওয়ার জন্য ছলচাতুরীর আশ্রয় নেবেন না। সাহসিকতার সাথে নিজের কর্তব্য পালন করুন।",
+  "themes": [
+    "hypocrisy",
+    "struggle in Allah's way",
+    "honesty",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [
+      "madinah"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Hypocrites called upon defenders to retreat from the front lines and falsely claimed their homes were exposed when they merely wished to flee.",
+      "claim_bn": "মুনাফিকরা প্রতিরোধ ভেঙে দিয়ে ঘরে ফিরে যাওয়ার উসকানি দিয়েছিল এবং বাড়িঘর অরক্ষিত থাকার মিথ্যা অজুহাতে পালাতে চেয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

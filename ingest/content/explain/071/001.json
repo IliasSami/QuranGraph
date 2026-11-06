@@ -1,0 +1,86 @@
+{
+ "id": "71:1",
+ "simple_en": "Allah tells us that He sent Nuh (peace be upon him) to his people with one task: to warn them. A painful punishment was coming, and he had to speak before it arrived. The warning was needed because the people had turned to worshipping others besides Allah. Nuh came as a mercy before the harm, giving them time to change.",
+ "simple_bn": "আল্লাহ জানাচ্ছেন যে, তিনি নূহ (আলাইহিস সালাম)-কে তাঁর সম্প্রদায়ের কাছে পাঠিয়েছিলেন একটি কাজ দিয়ে, তা হলো তাদের সতর্ক করা। তাদের কাছে কষ্টদায়ক শাস্তি আসার আগেই তিনি তাদের ভয় দেখাবেন। লোকেরা আল্লাহর সাথে অন্যকে শরিক করায় এই সতর্কবার্তা দরকার ছিল। নূহ শাস্তির আগেই তাদের কাছে এসেছিলেন আল্লাহর রহমত হিসেবে, যাতে তারা ফিরে আসার সময় পায়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "رسل",
+   "lemma": "أَرْسَلَ",
+   "meaning_en": "We sent",
+   "meaning_bn": "আমি পাঠিয়েছি",
+   "why_en": "Shows that Nuh did not come on his own; Allah chose and sent him."
+  },
+  {
+   "pos": 7,
+   "root": "نذر",
+   "lemma": "أَنذَرَ",
+   "meaning_en": "warn",
+   "meaning_bn": "সতর্ক করা",
+   "why_en": "The root carries the idea of alerting someone to danger before it strikes."
+  },
+  {
+   "pos": 13,
+   "root": "عذب",
+   "lemma": "عَذاب",
+   "meaning_en": "punishment",
+   "meaning_bn": "শাস্তি",
+   "why_en": "Names the harm the people were being warned about."
+  }
+ ],
+ "lesson_en": "A warning given before harm is a mercy, so listen to correction while there is still time.",
+ "lesson_bn": "ক্ষতির আগে দেওয়া সতর্কবার্তা আল্লাহর রহমত, তাই সময় থাকতেই সংশোধনের কথা শুনুন।",
+ "real_life_en": "A father notices his son spending late nights on his phone and skipping schoolwork. Instead of waiting for bad results, he sits with him early and explains the cost. The son has time to change, and the talk saves them both from a harder lesson later.",
+ "real_life_bn": "একজন বাবা দেখলেন, তাঁর ছেলে রাত জেগে ফোন ব্যবহার করছে আর পড়াশোনা ফেলে দিচ্ছে। খারাপ ফলাফলের জন্য অপেক্ষা না করে তিনি আগেই ছেলের সাথে বসে কথা বলেন। ছেলেটি বদলানোর সময় পায়, আর এই কথাবার্তা পরে বড় ক্ষতি থেকে দুজনকেই বাঁচায়।",
+ "themes": [
+  "stories of the prophets",
+  "Allah's mercy",
+  "punishment"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "nuh"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah sent Nuh to his people to warn them before a painful punishment reached them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The punishment was coming because of the people's ascribing partners to Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-arabic-mokhtasar"
+   ]
+  },
+  {
+   "text": "Sending the warner was a mercy that gave the people time to repent before the harm.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

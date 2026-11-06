@@ -1,0 +1,102 @@
+{
+  "id": "12:77",
+  "simple_en": "The brothers said that if Benjamin stole, a full brother of his had stolen in the past as well. Yusuf felt the pain of this insult, but kept his thoughts to himself. He told himself that they were in a far worse moral state, and that Allah knew the truth about what they claimed.",
+  "simple_bn": "ভাইয়েরা বলল, সে যদি চুরি করে থাকে, তবে অতীতে তার সহোদর ভাইও চুরি করেছিল। ইউসুফ এই অপবাদ শুনে কষ্ট পেলেন, কিন্তু নিজের ভেতরেই তা চেপে রাখলেন। তিনি মনে মনে বললেন, তোমরাই তো সবচেয়ে নিকৃষ্ট অবস্থানে আছ, আর তোমরা যা বলছ সে বিষয়ে আল্লাহই ভালো জানেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سرق",
+      "lemma": "سَرَقَ",
+      "meaning_en": "he steals",
+      "meaning_bn": "সে চুরি করে",
+      "why_en": "The brothers’ hasty willingness to accept Benjamin’s guilt."
+    },
+    {
+      "pos": 6,
+      "root": "أخو",
+      "lemma": "أَخ",
+      "meaning_en": "a brother",
+      "meaning_bn": "এক ভাই",
+      "why_en": "Referring to Yusuf himself, whom they falsely blamed."
+    },
+    {
+      "pos": 10,
+      "root": "سرر",
+      "lemma": "أَسَرَّ",
+      "meaning_en": "he kept it secret",
+      "meaning_bn": "তিনি তা গোপন রাখলেন",
+      "why_en": "Yusuf mastered his emotions and did not react with anger."
+    },
+    {
+      "pos": 19,
+      "root": "شرر",
+      "lemma": "شَرّ",
+      "meaning_en": "worse in position",
+      "meaning_bn": "নিকৃষ্ট অবস্থানে",
+      "why_en": "Their past treachery of selling Yusuf was far graver than any alleged theft."
+    },
+    {
+      "pos": 22,
+      "root": "علم",
+      "lemma": "أَعْلَم",
+      "meaning_en": "most knowing",
+      "meaning_bn": "সর্বাধিক অবগত",
+      "why_en": "Allah knows the falsehood and slander they uttered."
+    }
+  ],
+  "lesson_en": "Hold back your anger when people insult you. Leave the truth to God.",
+  "lesson_bn": "কটু কথায় রাগ নিয়ন্ত্রণ করুন এবং অপবাদের বিচার আল্লাহর নিখুঁত ফায়সালার ওপর ছেড়ে দিন।",
+  "real_life_en": "A coworker spreads bad rumors about a team member. The member stays calm and lets good work speak for itself.",
+  "real_life_bn": "এক সহকর্মী মিটিংয়ে অসত্য মন্তব্য করলে অন্যজন রেগে না গিয়ে শান্ত থাকেন। তিনি সংযমের পরিচয় দেন এবং কাজের সঠিক প্রমাণ দিয়ে নিজের সততা ফুটিয়ে তোলেন।",
+  "context_en": "The brothers insulted both Benjamin and Yusuf, but Yusuf bore the pain with patience.",
+  "context_bn": "ভাইয়েরা ইউসুফ ও বিন ইয়ামীনকে চুরির অপবাদ দিলেও ইউসুফ চরম ধৈর্য দেখিয়ে রাগ গোপন করলেন।",
+  "themes": [
+    "patience under slander",
+    "emotional control",
+    "divine justice"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "brothers of Yusuf",
+      "Yusuf",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers alleged that a brother of his had stolen before.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Yusuf suppressed his pain and silently noted that their own state was far worse.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

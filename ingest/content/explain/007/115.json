@@ -1,0 +1,85 @@
+{
+ "id": "7:115",
+ "simple_en": "The magicians stepped forward with confidence. They asked Musa to choose who should begin the contest. They asked whether he would throw his staff first, or if they should throw their objects first. They felt certain that their skill would defeat him.",
+ "simple_bn": "জাদুকররা পূর্ণ আত্মবিশ্বাস নিয়ে ময়দানে এগিয়ে এলো। তারা মূসা (আলাইহিস সালাম)-কে উদ্যোগ নেওয়ার স্বাধীনতা দিয়ে বলল, হে মূসা, হয় আপনি প্রথমে নিক্ষেপ করুন, না হয় আমরাই প্রথমে নিক্ষেপকারী হব। নিজেদের বিদ্যা ও কলাকৌশলের ওপর তাদের অন্ধ আত্মবিশ্বাস ছিল।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "لقي",
+   "lemma": "أَلْقَى",
+   "meaning_en": "you throw / cast",
+   "meaning_bn": "তুমি নিক্ষেপ করবে",
+   "why_en": "Giving Musa the choice of initiating the public demonstration."
+  },
+  {
+   "pos": 8,
+   "root": "كون",
+   "lemma": "كانَ",
+   "meaning_en": "we should be",
+   "meaning_bn": "আমরাই হব",
+   "why_en": "The alternative option indicating their own readiness to perform."
+  },
+  {
+   "pos": 10,
+   "root": "لقي",
+   "lemma": "مُلْقي",
+   "meaning_en": "the ones who throw",
+   "meaning_bn": "প্রথম নিক্ষেপকারী",
+   "why_en": "Reflects their confident willingness to display their illusions first."
+  }
+ ],
+ "lesson_en": "Too much pride in your skills can blind your heart to the truth.",
+ "lesson_bn": "নিজেদের বিদ্যাবুদ্ধির ওপর মাত্রাতিরিক্ত অহংকার প্রায়ই মানুষকে চরম সত্য উপলব্ধি করা থেকে অন্ধ করে রাখে।",
+ "real_life_en": "Never be proud of your skills, money, or schooling. It is good to be confident, but do not look down on other people. All gifts come from Allah.",
+ "real_life_bn": "নিজের প্রতিভা বা দক্ষতার ওপর অহংকার করবেন না। অতি-আত্মবিশ্বাস মানুষকে অন্ধ করে দেয় এবং পতনের পথ দেখায়। যা কিছু দক্ষতা আপনার আছে, তা আল্লাহর দান মনে করে সর্বদা বিনয়ী থাকুন।",
+ "context_en": "At the start of the contest, the magicians politely ask Musa whether he will begin or let them go first.",
+ "context_bn": "প্রতিযোগিতার ময়দানে এসে জাদুকররা মূসাকে প্রথম সুযোগ নেওয়ার কিংবা নিজেদের প্রথমে শুরু করার প্রস্তাব দেয়।",
+ "themes": [
+  "Musa",
+  "magicians",
+  "contest",
+  "overconfidence"
+ ],
+ "kinds": [
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "magicians",
+   "Musa (Moses)"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "contest of Musa and magicians"
+  ],
+  "things": [
+   "staff"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The magicians offered Musa the choice of casting down his staff first or letting them cast first.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The magicians showed confidence in their sorcery, assuming they would prevail.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

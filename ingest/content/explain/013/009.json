@@ -1,0 +1,81 @@
+{
+  "id": "13:9",
+  "simple_en": "Allah knows all that is hidden from sight and all that is visible in the world. He is the Grand and the Most High, far above all flaws and rivals.",
+  "simple_bn": "আল্লাহ প্রকাশ্য ও অপ্রকাশ্য সব বিষয়ের সম্পূর্ণ জ্ঞাতা। তিনি পরম মহান এবং সর্বোচ্চ মর্যাদার অধিকারী, সকল ত্রুটি ও অংশীদার থেকে বহু ঊর্ধ্বে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "علم",
+      "lemma": "عالِم",
+      "meaning_en": "Knower",
+      "meaning_bn": "জ্ঞানী",
+      "why_en": "Complete knowledge encompassing seen and unseen realities."
+    },
+    {
+      "pos": 2,
+      "root": "غيب",
+      "lemma": "غَيْب",
+      "meaning_en": "the unseen",
+      "meaning_bn": "অদৃশ্য",
+      "why_en": "Realities beyond the perception of created intellects."
+    },
+    {
+      "pos": 4,
+      "root": "كبر",
+      "lemma": "كَبِير",
+      "meaning_en": "the Grand",
+      "meaning_bn": "মহান",
+      "why_en": "Divine name denoting supreme greatness above all creation."
+    },
+    {
+      "pos": 5,
+      "root": "علو",
+      "lemma": "مُتَعال",
+      "meaning_en": "the Most Exalted",
+      "meaning_bn": "সর্বোচ্চ",
+      "why_en": "Divine name showing elevation above every defect and false claim."
+    }
+  ],
+  "lesson_en": "Remember that Allah sees both hidden thoughts and open deeds at all times.",
+  "lesson_bn": "আল্লাহ অন্তরের গোপন ভাবনা এবং বাহ্যিক কাজ সবই জানেন—এটি অন্তরে ভয় ও সততা জাগায়।",
+  "real_life_en": "A programmer works alone on code that handles money. No manager is watching, but they refuse to add a secret exploit because they know Allah sees every line.",
+  "real_life_bn": "এক সফটওয়্যার ইঞ্জিনিয়ার একাকী বসে আর্থিক লেনদেনের কোড লেখে। কেউ দেখছে না জেনেও সে কোনো কারচুপি করে না, কারণ সে জানে আল্লাহ তার প্রতিটি কাজ দেখছেন।",
+  "context_en": "Praising the majesty and all-encompassing knowledge of Allah.",
+  "context_bn": "আল্লাহর গায়েব ও প্রকাশ্যের জ্ঞান এবং তাঁর সর্বোচ্চ মর্যাদার ঘোষণা।",
+  "themes": [
+    "divine names",
+    "omniscience",
+    "magnificence"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "the unseen"
+    ],
+    "names_of_allah": [
+      "al-Kabir",
+      "al-Muta'al"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah knows the unseen and the seen, and He is the Grand and Most High.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

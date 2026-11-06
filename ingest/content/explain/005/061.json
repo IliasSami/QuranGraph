@@ -1,0 +1,83 @@
+{
+ "id": "5:61",
+ "simple_en": "When hypocrites come to you, they say they believe. Yet they enter with disbelief in their hearts and leave with it unchanged. Pretending to be faithful cannot fool Allah. He knows best what they try to hide, and He will judge them for it.",
+ "simple_bn": "মুনাফিকরা যখন তোমাদের কাছে আসে, তখন মুখে বলে যে তারা ঈমান এনেছে। অথচ তারা কুফরি অন্তরে নিয়েই তোমাদের কাছে আসে এবং সেই কুফরি নিয়েই বেরিয়ে যায়। লোকদেখানো আচরণ করে আল্লাহকে ফাঁকি দেওয়া যায় না। তারা মনে যা গোপন করে, আল্লাহ তা খুব ভালোভাবেই জানেন এবং তিনি এর বিচার করবেন।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "أمن",
+   "lemma": "آمَنَ",
+   "meaning_en": "we believed",
+   "meaning_bn": "আমরা ঈমান এনেছি",
+   "why_en": "Shows the false claim of faith made outwardly by hypocrites."
+  },
+  {
+   "pos": 7,
+   "root": "كفر",
+   "lemma": "كُفْر",
+   "meaning_en": "disbelief",
+   "meaning_bn": "কুফরি",
+   "why_en": "Describes the persistent rejection settled in their hearts from start to finish."
+  },
+  {
+   "pos": 16,
+   "root": "كتم",
+   "lemma": "كَتَمَ",
+   "meaning_en": "they conceal",
+   "meaning_bn": "তারা গোপন করে",
+   "why_en": "Highlights that Allah knows every secret intention people hide inside."
+  }
+ ],
+ "lesson_en": "Outward claims cannot fool Allah. He knows every hidden thought in the human heart.",
+ "lesson_bn": "মুখের কথা দিয়ে আল্লাহকে ফাঁকি দেওয়া যায় না। তিনি অন্তরের সকল গোপন বিষয় জানেন।",
+ "real_life_en": "Be honest with your faith and your promises. Never pretend to be pious in public while secretly disobeying Allah in private. True peace comes from a clean heart that is sincere with Allah.",
+ "real_life_bn": "নিজের কথা ও কাজে সৎ থাকুন। মানুষের সামনে ধার্মিকতার ভান করে গোপনে পাপকাজে লিপ্ত হবেন না। প্রকৃত শান্তি মেলে এমন এক অন্তরে, যা আল্লাহর কাছে সম্পূর্ণ আন্তরিক।",
+ "context_en": "Exposes the deceit of hypocrites who attended the gatherings of the Prophet ﷺ while secretly clinging to disbelief.",
+ "context_bn": "নবী ﷺ-এর মজলিসে এসে মুখে ঈমানের দাবি করলেও অন্তরে কুফরি ধরে রাখা মুনাফিকদের গোপন প্রতারণা এই আয়াতে প্রকাশ করা হয়েছে।",
+ "themes": [
+  "hypocrisy",
+  "faith",
+  "Allah's knowledge",
+  "judgment"
+ ],
+ "kinds": [
+  "warning",
+  "belief",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Hypocrites claim to believe when they come to the Muslims, but they enter with disbelief and leave with it unchanged.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah knows completely what they hide in their hearts and will hold them accountable.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

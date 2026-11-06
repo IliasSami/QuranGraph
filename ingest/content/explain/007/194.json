@@ -1,0 +1,76 @@
+{
+  "id": "7:194",
+  "simple_en": "Those whom polytheists worship besides Allah are only created beings like themselves. If you think they have divine power, call upon them and see if they can answer your prayers.",
+  "simple_bn": "আল্লাহকে ছেড়ে তোমরা যাদের ডাকো তারা তো তোমাদের মতোই বান্দা। সুতরাং তোমরা তাদের ডাকো, অতঃপর তারা যেন তোমাদের ডাকে সাড়া দেয়, যদি তোমরা সত্যবাদী হও।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "you invoke / call upon",
+      "meaning_bn": "তোমরা আহবান করো",
+      "why_en": "Supplication directed to entities other than God."
+    },
+    {
+      "pos": 7,
+      "root": "عبد",
+      "lemma": "عَبْد",
+      "meaning_en": "servants / creations",
+      "meaning_bn": "বান্দা / দাস",
+      "why_en": "All creatures are subordinate servants under God's dominion."
+    },
+    {
+      "pos": 10,
+      "root": "جوب",
+      "lemma": "اسْتَجابَ",
+      "meaning_en": "let them respond",
+      "meaning_bn": "তারা যেন সাড়া দেয়",
+      "why_en": "A challenge to prove any supernatural response."
+    }
+  ],
+  "lesson_en": "All created beings depend on God, and none share His power.",
+  "lesson_bn": "সমস্ত সৃষ্টিই পরমুখাপেক্ষী দাস; কারো কাছে ঐশ্বরিক ক্ষমতা বা কর্তৃত্ব নেই।",
+  "real_life_en": "Never elevate any created being to the level of God. Every human and creature is limited and needs divine help. Place your ultimate dependence solely on the Lord of all creation.",
+  "real_life_bn": "কোনো মানুষ বা সৃষ্টিকে স্রষ্টার আসনে বসাবেন না। প্রতিটি সৃষ্টিই মুখাপেক্ষী, তাই কেবল মহান আল্লাহর ওপরই পূর্ণ আস্থা রাখুন।",
+  "context_en": "Challenging polytheists with the reality that their venerated objects and beings are mere servants like themselves.",
+  "context_bn": "মিথ্যা উপাস্যদের দাসত্ব ও সৃষ্টির বাস্তবতা তুলে ধরে তাদের কাছে প্রার্থনা করার অসারতা প্রমাণ।",
+  "themes": [
+    "tawhid",
+    "servanthood of all creation",
+    "challenge to polytheism"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "false deities"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Entities worshipped alongside Allah are mere created servants incapable of answering prayers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

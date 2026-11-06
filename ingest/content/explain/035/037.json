@@ -1,0 +1,75 @@
+{
+  "id": "35:37",
+  "simple_en": "They will scream loudly inside Hell: Our Lord, bring us out so we may do good deeds, different from what we used to do. Allah will answer: Did We not give you a long life so that whoever wanted to remember could remember? And the warner came to you. Taste the punishment; wrongdoers have no helper.",
+  "simple_bn": "তারা জাহান্নামে আর্তনাদ করে বলবে: হে আমাদের প্রতিপালক, আমাদের বের করে দিন, আমরা পূর্বে যা করতাম তা ছেড়ে নেক আমল করব। আল্লাহ বলবেন: আমরা কি তোমাদের যথেষ্ট দীর্ঘ জীবন দিইনি যাতে উপদেশ গ্রহণকারী উপদেশ গ্রহণ করতে পারত? তাছাড়া তোমাদের কাছে সতর্ককারীও এসেছিল। অতএব শাস্তি আস্বাদন করো, যালিমদের কোনো সাহায্যকারী নেই।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "صرخ",
+      "lemma": "يَصْطَرِخُ",
+      "meaning_en": "they cry out for help",
+      "meaning_bn": "তারা আর্তনাদ করবে",
+      "why_en": "Depicts the desperate screaming and pleading of dwellers in Hell."
+    },
+    {
+      "pos": 10,
+      "root": "كون",
+      "lemma": "كانَ",
+      "meaning_en": "We granted you life",
+      "meaning_bn": "আমরা কি তোমাদের দীর্ঘায়ু দিইনি",
+      "why_en": "Points out that earthly lifespans were ample time to reflect and repent."
+    },
+    {
+      "pos": 17,
+      "root": null,
+      "lemma": "مَن",
+      "meaning_en": "the warner",
+      "meaning_bn": "সতর্ককারী",
+      "why_en": "Reminds deniers that prophets came with clear warnings before punishment."
+    }
+  ],
+  "lesson_en": "Life on earth is our only chance to believe and do good before it is too late.",
+  "lesson_bn": "ইহকালই ঈমান আনা ও নেক আমল করার একমাত্র সুযোগ, যা চলে গেলে আর ফিরে পাওয়া যাবে না।",
+  "real_life_en": "Do not delay repentance by telling yourself you will practice faith when you are older. Use the time and health you have today to draw close to Allah.",
+  "real_life_bn": "বৃদ্ধ বয়সে আমল করব ভেবে তাওবা করতে দেরি করবেন না। আজকের সুস্থতা ও সুযোগকে কাজে লাগিয়ে এখনই আল্লাহর পথে ফিরে আসুন।",
+  "themes": [
+    "Hell",
+    "punishment",
+    "remorse",
+    "trials"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "People of Hell will plead for a second chance, but are reminded they had a full lifetime and a warner.",
+      "claim_bn": "জাহান্নামবাসীরা সুযোগ চেয়ে আর্তনাদ করবে, কিন্তু তাদের মনে করিয়ে দেওয়া হবে যে তাদের পর্যাপ্ত আয়ু ও সতর্ককারী দেওয়া হয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

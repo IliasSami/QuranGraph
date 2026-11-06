@@ -1,0 +1,96 @@
+{
+ "id": "4:103",
+ "simple_en": "After you finish the prayer, keep remembering Allah. Remember Him while standing, sitting, or lying on your sides. When peace and safety return, perform your full regular prayer with care. Daily prayer is set for believers at fixed times of day and night. Do not delay your prayer without a valid reason.",
+ "simple_bn": "সালাত শেষ করার পর দাঁড়িয়ে, বসে কিংবা শুয়ে সর্বাবস্থায় আল্লাহকে স্মরণ করতে থাকো। এরপর যখন ভয় কেটে যাবে এবং শান্তি ফিরে আসবে, তখন নিয়মিত সালাত পুরোপুরিভাবে আদায় করো। নিশ্চয়ই মুমিনদের জন্য নির্দিষ্ট সময়ে সালাত আদায় করা একটি নির্ধারিত ফরজ বিধান।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "ذكر",
+   "lemma": "ذَكَرَ",
+   "meaning_en": "remember / glorify",
+   "meaning_bn": "স্মরণ করো",
+   "why_en": "Encourages continuous remembrance of Allah in every bodily state after completing prayer."
+  },
+  {
+   "pos": 11,
+   "root": "طمأن",
+   "lemma": "اطْمَأَنَّ",
+   "meaning_en": "you are secure and at peace",
+   "meaning_bn": "তোমরা নিরাপদ ও শান্ত হও",
+   "why_en": "Marks the transition from emergency wartime prayer back to normal complete prayer."
+  },
+  {
+   "pos": 19,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "a prescribed obligation",
+   "meaning_bn": "একটি নির্ধারিত ফরজ বিধান",
+   "why_en": "Highlights that prayer is a mandatory law inscribed upon all believers."
+  },
+  {
+   "pos": 20,
+   "root": "وقت",
+   "lemma": "مَوْقُوت",
+   "meaning_en": "at fixed, appointed times",
+   "meaning_bn": "নির্দিষ্ট সময়ে নির্ধারিত",
+   "why_en": "Stresses that daily prayers have designated start and end time windows."
+  }
+ ],
+ "lesson_en": "Pray your prayers on time. Fill your day with the quiet remembrance of Allah.",
+ "lesson_bn": "প্রতিটি সালাত তার নির্দিষ্ট সময়ে আদায় করুন এবং সারাদিন বিভিন্ন কাজের মাঝেও আল্লাহর স্মরণে নিজেকে যুক্ত রাখুন।",
+ "real_life_en": "Do not let meetings or chores push your prayer past its time. Set an alarm on your phone so you can pause, pray on time, and return to work with peace.",
+ "real_life_bn": "চাকরি বা ব্যবসার কাজে ব্যস্ত থাকলেও সালাতের ওয়াক্ত চলে যেতে দেবেন না। আজানের সময়সূচি দেখে সময়মতো সালাত আদায় করুন এবং কাজের মাঝেও জিকিরের অভ্যাস বজায় রাখুন।",
+ "context_en": "Following the rules for fear prayer, this verse reminds believers that regular complete prayer returns once safety is restored.",
+ "context_bn": "ভীতির সালাতের নির্দেশনার পর, নিরাপত্তা ফিরে এলে নির্ধারিত সময়ে পূর্ণ সালাত কায়েম করার তাকীদ দেওয়া হয়েছে।",
+ "themes": [
+  "prayer",
+  "remembrance of Allah",
+  "worship"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "worship"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are instructed to remember Allah in every physical state, standing, sitting, or lying down.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "When safety returns, prayers must be performed with their full pillars and normal format.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Obligatory prayer is bound to specific, appointed times for believers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

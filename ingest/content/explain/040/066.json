@@ -1,0 +1,75 @@
+{
+  "id": "40:66",
+  "simple_en": "Say, I have been forbidden to worship the idols you pray to besides Allah, now that clear proofs have come to me from my Lord. I have been commanded to submit fully to the Lord of all the worlds.",
+  "simple_bn": "বলুন, আমাকে নিষেধ করা হয়েছে তাদের ইবাদত করতে যাদের তোমরা আল্লাহ ছাড়া ডাকো, যেহেতু আমার রবের পক্ষ থেকে আমার কাছে সুস্পষ্ট প্রমাণ এসেছে। আর আমাকে নির্দেশ দেওয়া হয়েছে যেন আমি বিশ্বজগতের প্রতিপালকের নিকট সম্পূর্ণরূপে আত্মসমর্পণ করি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نهي",
+      "lemma": "نَهَى",
+      "meaning_en": "I was forbidden",
+      "meaning_bn": "আমাকে নিষেধ করা হয়েছে",
+      "why_en": "Divine prohibition against any form of polytheism or idolatry."
+    },
+    {
+      "pos": 13,
+      "root": "بين",
+      "lemma": "بَيِّنَة",
+      "meaning_en": "the clear proofs",
+      "meaning_bn": "সুস্পষ্ট প্রমাণাদি",
+      "why_en": "Decisive intellectual and revelatory evidence for monotheism."
+    },
+    {
+      "pos": 18,
+      "root": "سلم",
+      "lemma": "أَسْلَمَ",
+      "meaning_en": "that I submit",
+      "meaning_bn": "যেন আমি আত্মসমর্পণ করি",
+      "why_en": "Full submission to the divine will in faith and deeds."
+    }
+  ],
+  "lesson_en": "Complete submission to the Lord of the worlds leaves no room for worshipping false deities.",
+  "lesson_bn": "বিশ্বজাহানের রবের কাছে সম্পূর্ণ আত্মসমর্পণই হলো খাঁটি তাওহীদের মূল ভিত্তি।",
+  "real_life_en": "Submit your will willingly to Allah's guidance. Do not let cultural superstitions compromise your pure belief in the one true God.",
+  "real_life_bn": "আপনার জীবনের সকল ক্ষেত্রে আল্লাহর বিধানের সামনে নিজেকে সমর্পণ করুন। কোনো সামাজিক কুসংস্কার বা ভ্রান্ত বিশ্বাসে প্রশ্রয় দেবেন না।",
+  "themes": [
+    "tawhid",
+    "shirk",
+    "worship"
+  ],
+  "kinds": [
+    "command",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "ar-rabb",
+      "rabb-al-alamin"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet is forbidden from worshipping idols after receiving clear proofs and commanded to submit to the Lord of the worlds.",
+      "claim_bn": "সুস্পষ্ট প্রমাণ আসার পর রাসূলুল্লাহ ﷺ কে প্রতিমাপূজা নিষিদ্ধ করা হয়েছে এবং বিশ্বজাহানের রবের প্রতি আত্মসমর্পণের আদেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

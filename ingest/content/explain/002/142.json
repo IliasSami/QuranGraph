@@ -1,117 +1,117 @@
 {
- "id": "2:142",
- "simple_en": "The foolish people will soon ask what turned the Muslims away from the direction of prayer they used to face. Tell them that the east and the west belong entirely to Allah. He commands His servants to face whichever direction He chooses. He guides whoever seeks the truth to the straight path.",
- "simple_bn": "মানুষের মধ্যে যারা নির্বোধ, তারা অচিরেই বলবে, মুসলমানরা এতদিন যে কেবলার দিকে মুখ করত তা থেকে কিসে তাদের ফিরিয়ে দিল? তাদের বলুন, পূর্ব ও পশ্চিম সব দিকই আল্লাহর মালিকানাধীন। তিনি যাকে ইচ্ছা সঠিক পথে পরিচালিত করেন এবং তাঁর আদেশ পালন করাই প্রকৃত আনুগত্য।",
- "key_words": [
-  {
-   "pos": 2,
-   "root": "سفه",
-   "lemma": "سَفِيه",
-   "meaning_en": "the foolish",
-   "meaning_bn": "নির্বোধেরা",
-   "why_en": "Describes critics who object to divine wisdom out of ignorance or stubbornness."
-  },
-  {
-   "pos": 8,
-   "root": "قبل",
-   "lemma": "قِبْلَة",
-   "meaning_en": "their direction of prayer",
-   "meaning_bn": "তাদের কিবলা",
-   "why_en": "Refers to the focal direction uniting the community in daily worship."
-  },
-  {
-   "pos": 14,
-   "root": "شرق",
-   "lemma": "مَشْرِق",
-   "meaning_en": "the east",
-   "meaning_bn": "পূর্ব দিক",
-   "why_en": "Emphasizes that every direction across the earth belongs exclusively to Allah."
-  },
-  {
-   "pos": 20,
-   "root": "صرط",
-   "lemma": "صِراط",
-   "meaning_en": "a path",
-   "meaning_bn": "পথ",
-   "why_en": "Signifies the upright way of living that leads directly to Allah's pleasure."
-  },
-  {
-   "pos": 21,
-   "root": "قوم",
-   "lemma": "مُسْتَقِيم",
-   "meaning_en": "straight",
-   "meaning_bn": "সরল বা সঠিক",
-   "why_en": "Describes guidance that remains clear, upright, and free from deviation."
-  }
- ],
- "lesson_en": "True faith means obeying Allah without doubt.",
- "lesson_bn": "আল্লাহর বিধানের সামনে কোনো দ্বিধা না রেখে সম্পূর্ণ আনুগত্য প্রকাশ করাই প্রকৃত ঈমান।",
- "real_life_en": "When religious duties feel hard or people criticize your practices, remember that obedience is to Allah alone. Do not let cynical comments shake your dedication to your prayers and faith.",
- "real_life_bn": "দ্বীনের কোনো বিধান পালনের কারণে আশপাশের মানুষ উপহাস বা সমালোচনা করলেও বিচলিত হবেন না। সৃষ্টিকে খুশি করার চেয়ে সৃষ্টিকর্তার বিধানের অনুগত থাকাই মুমিনের প্রধান দায়িত্ব।",
- "context_en": "Prepares the believers for the objections of critics before the prayer direction was shifted toward the Kabah.",
- "context_bn": "ক্বিবলা পরিবর্তনের নির্দেশ কার্যকর হওয়ার আগেই অবতীর্ণ হয়ে এটি মুমিনদের সমালোচকদের প্রশ্নের মুখোমুখি হতে প্রস্তুত করে।",
- "themes": [
-  "prayer",
-  "guidance",
-  "prophethood",
-  "hypocrisy"
- ],
- "kinds": [
-  "argument",
-  "command",
-  "glad-tidings",
-  "warning"
- ],
- "entities": {
-  "people": [
-   "Muhammad ﷺ"
+  "id": "2:142",
+  "simple_en": "The foolish people will soon ask what turned the Muslims away from the direction of prayer they used to face. Tell them that the east and the west belong entirely to Allah. He commands His servants to face whichever direction He chooses. He guides whoever seeks the truth to the straight path.",
+  "simple_bn": "মানুষের মধ্যে যারা নির্বোধ, তারা অচিরেই বলবে, মুসলমানরা এতদিন যে কেবলার দিকে মুখ করত তা থেকে কিসে তাদের ফিরিয়ে দিল? তাদের বলুন, পূর্ব ও পশ্চিম সব দিকই আল্লাহর মালিকানাধীন। তিনি যাকে ইচ্ছা সঠিক পথে পরিচালিত করেন এবং তাঁর আদেশ পালন করাই প্রকৃত আনুগত্য।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سفه",
+      "lemma": "سَفِيه",
+      "meaning_en": "the foolish",
+      "meaning_bn": "নির্বোধেরা",
+      "why_en": "Describes critics who object to divine wisdom out of ignorance or stubbornness."
+    },
+    {
+      "pos": 8,
+      "root": "قبل",
+      "lemma": "قِبْلَة",
+      "meaning_en": "their direction of prayer",
+      "meaning_bn": "তাদের কিবলা",
+      "why_en": "Refers to the focal direction uniting the community in daily worship."
+    },
+    {
+      "pos": 14,
+      "root": "شرق",
+      "lemma": "مَشْرِق",
+      "meaning_en": "the east",
+      "meaning_bn": "পূর্ব দিক",
+      "why_en": "Emphasizes that every direction across the earth belongs exclusively to Allah."
+    },
+    {
+      "pos": 20,
+      "root": "صرط",
+      "lemma": "صِراط",
+      "meaning_en": "a path",
+      "meaning_bn": "পথ",
+      "why_en": "Signifies the upright way of living that leads directly to Allah's pleasure."
+    },
+    {
+      "pos": 21,
+      "root": "قوم",
+      "lemma": "مُسْتَقِيم",
+      "meaning_en": "straight",
+      "meaning_bn": "সরল বা সঠিক",
+      "why_en": "Describes guidance that remains clear, upright, and free from deviation."
+    }
   ],
-  "nations": [
-   "Jews",
-   "hypocrites"
+  "lesson_en": "True faith means obeying Allah without doubt.",
+  "lesson_bn": "আল্লাহর বিধানের সামনে কোনো দ্বিধা না রেখে সম্পূর্ণ আনুগত্য প্রকাশ করাই প্রকৃত ঈমান।",
+  "real_life_en": "When religious duties feel hard or people criticize your practices, remember that obedience is to Allah alone. Do not let cynical comments shake your dedication to your prayers and faith.",
+  "real_life_bn": "দ্বীনের কোনো বিধান পালনের কারণে আশপাশের মানুষ উপহাস বা সমালোচনা করলেও বিচলিত হবেন না। সৃষ্টিকে খুশি করার চেয়ে সৃষ্টিকর্তার বিধানের অনুগত থাকাই মুমিনের প্রধান দায়িত্ব।",
+  "context_en": "Prepares the believers for the objections of critics before the prayer direction was shifted toward the Kabah.",
+  "context_bn": "ক্বিবলা পরিবর্তনের নির্দেশ কার্যকর হওয়ার আগেই অবতীর্ণ হয়ে এটি মুমিনদের সমালোচকদের প্রশ্নের মুখোমুখি হতে প্রস্তুত করে।",
+  "themes": [
+    "prayer",
+    "guidance",
+    "prophethood",
+    "hypocrisy"
   ],
-  "places": [
-   "Jerusalem",
-   "Kabah",
-   "East",
-   "West"
+  "kinds": [
+    "argument",
+    "command",
+    "glad-tidings",
+    "warning"
   ],
-  "unseen": [],
-  "names_of_allah": [],
-  "events": [],
-  "things": []
- },
- "claims": [
-  {
-   "text": "Allah informed the Prophet ﷺ beforehand that foolish critics among the Jews and hypocrites would protest the change of the prayer direction from Jerusalem.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-ar-saadi",
-    "g-en-ibn-kathir",
-    "g-en-jalalayn"
-   ]
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "Jews",
+      "hypocrites"
+    ],
+    "places": [
+      "Jerusalem",
+      "Kabah",
+      "East",
+      "West"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
   },
-  {
-   "text": "All directions, including the east and the west, belong to Allah, and He commands His creation to turn wherever He wills.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-ar-saadi",
-    "g-en-maarif",
-    "g-bn-ahsanul-bayan"
-   ]
-  },
-  {
-   "text": "Guidance to the straight path is granted by Allah to whoever He wills through obedience to His commands.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-ar-saadi",
-    "g-en-jalalayn"
-   ]
-  }
- ],
- "occasion": null,
- "sensitivity": "fiqh",
- "scholars_differ": false,
- "confidence": 0.95,
- "uncertain": []
+  "claims": [
+    {
+      "text": "Allah informed the Prophet ﷺ beforehand that foolish critics among the Jews and hypocrites would protest the change of the prayer direction from Jerusalem.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "All directions, including the east and the west, belong to Allah, and He commands His creation to turn wherever He wills.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-maarif",
+        "g-bn-ahsanul-bayan"
+      ]
+    },
+    {
+      "text": "Guidance to the straight path is granted by Allah to whoever He wills through obedience to His commands.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
 }

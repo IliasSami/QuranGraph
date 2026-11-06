@@ -1,0 +1,71 @@
+{
+ "id": "44:12",
+ "simple_en": "In great distress, the people will beg their Lord for relief. They will plead with Him to remove the severe punishment. They will claim that if He spares them, they will truly believe in His message.",
+ "simple_bn": "চরম বিপদে পড়ে মানুষ তাদের প্রতিপালকের কাছে মুক্তির আবেদন জানাবে। তারা বলবে, হে আমাদের প্রতিপালক, আমাদের থেকে শাস্তি দূর করে দিন, আমরা অবশ্যই ঈমান আনব।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "our Lord",
+   "meaning_bn": "আমাদের প্রতিপালক",
+   "why_en": "In extreme agony, even proud deniers call out to their Creator."
+  },
+  {
+   "pos": 2,
+   "root": "كشف",
+   "lemma": "كَشَفَ",
+   "meaning_en": "remove / take away",
+   "meaning_bn": "দূর করে দিন",
+   "why_en": "They ask for the affliction to be lifted from them."
+  },
+  {
+   "pos": 6,
+   "root": "أمن",
+   "lemma": "مُؤْمِن",
+   "meaning_en": "believers",
+   "meaning_bn": "বিশ্বাসী বা ঈমানদার",
+   "why_en": "They make a hurried promise of faith under the pressure of punishment."
+  }
+ ],
+ "lesson_en": "Turn sincerely to Allah at all times, not just when hardship forces you to pray.",
+ "lesson_bn": "সব সময় আন্তরিকভাবে আল্লাহর দিকে ফিরে আসুন, শুধু বিপদে পড়লেই নয়।",
+ "real_life_en": "Do not make promises to Allah only when you are sick or in trouble. Keep your heart attached to prayer and good deeds during easy days as well.",
+ "real_life_bn": "শুধু অসুস্থ বা বিপদে পড়লে আল্লাহর সাথে ওয়াদা করবেন না। সচ্ছল ও আনন্দের দিনগুলোতেও নিয়মিত সালাত ও সৎকাজে যুক্ত থাকুন।",
+ "themes": [
+  "dua",
+  "repentance",
+  "trials"
+ ],
+ "kinds": [
+  "dua",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "ar-rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Under distress, people plead with their Lord to remove the punishment, promising that they will believe.",
+   "claim_bn": "বিপদে পড়ে মানুষ শাস্তি তুলে নেওয়ার জন্য আল্লাহর কাছে প্রার্থনা করবে এবং ঈমান আনার প্রতিশ্রুতি দেবে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

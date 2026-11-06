@@ -1,0 +1,77 @@
+{
+  "id": "20:14",
+  "simple_en": "I am Allah, and there is no god but Me. Worship Me alone and keep up regular prayer to remember My name and glory each day of your life.",
+  "simple_bn": "নিশ্চয় আমিই আল্লাহ; আমি ছাড়া সত্য কোনো উপাস্য নেই। অতএব একান্তভাবে আমারই ইবাদত কর এবং আমার স্মরণের উদ্দেশ্যে সালাত কায়েম কর।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "worship Me alone",
+      "meaning_bn": "আমারই ইবাদত কর",
+      "why_en": "The central duty of human life: pure monotheistic worship."
+    },
+    {
+      "pos": 10,
+      "root": "صلو",
+      "lemma": "صَلَوٰة",
+      "meaning_en": "the prayer",
+      "meaning_bn": "সালাত বা নামাজ",
+      "why_en": "The chief pillar linking the servant directly with God."
+    },
+    {
+      "pos": 11,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "for My remembrance",
+      "meaning_bn": "আমার স্মরণের জন্য",
+      "why_en": "Defines the true heart and primary purpose of ritual prayer."
+    }
+  ],
+  "lesson_en": "Prayer keeps our hearts close to God. It stops us from forgetting our Lord.",
+  "lesson_bn": "দৈনিক সালাতের মূল লক্ষ্য হলো অন্তরকে সর্বদা আল্লাহর স্মরণে সজীব ও সচেতন রাখা।",
+  "real_life_en": "Perform your prayers with presence of heart. Treat every prayer as a direct meeting with your Creator.",
+  "real_life_bn": "মনোযোগের সাথে নামাজ আদায় করুন। প্রতিটি নামাজকে আপনার প্রতিপালকের সাথে একান্ত সাক্ষাতের মুহূর্ত হিসেবে দেখুন।",
+  "themes": [
+    "tawhid",
+    "prayer",
+    "remembrance",
+    "worship"
+  ],
+  "kinds": [
+    "command",
+    "worship",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "prayer"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God commanded Moses to worship Him alone and maintain prayer for His remembrance.",
+      "claim_bn": "আল্লাহ মূসাকে একমাত্র তাঁর ইবাদত করতে এবং তাঁর স্মরণের জন্য সালাত প্রতিষ্ঠা করতে আদেশ দেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

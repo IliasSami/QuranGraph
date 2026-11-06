@@ -1,0 +1,81 @@
+{
+  "id": "8:26",
+  "simple_en": "Remember when you were weak and few in number in Mecca. You feared that enemies might seize you. But Allah gave you shelter in Medina, made you strong, and fed you pure food so you would give thanks.",
+  "simple_bn": "আর স্মরণ করো, যখন তোমরা ছিলে অল্পসংখ্যক, যমীনে দুর্বল হিসেবে পরিগণিত হতে এবং ভয় করতে যে লোকেরা তোমাদের হঠাৎ ছিনিয়ে নিয়ে যাবে। তখন তিনি তোমাদের আশ্রয় দিলেন, সাহায্য দিয়ে শক্তিশালী করলেন এবং উত্তম রিযিক দিলেন যাতে তোমরা কৃতজ্ঞ হও।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "قلل",
+      "lemma": "قَلِيل",
+      "meaning_en": "few in number",
+      "meaning_bn": "স্বল্পসংখ্যক",
+      "why_en": "The early Muslim community's numerical vulnerability in Mecca."
+    },
+    {
+      "pos": 5,
+      "root": "ضعف",
+      "lemma": "مُسْتَضْعَف",
+      "meaning_en": "oppressed / deemed weak",
+      "meaning_bn": "দুর্বল হিসেবে গণ্য",
+      "why_en": "Enduring persecution without social status or political power."
+    },
+    {
+      "pos": 19,
+      "root": "شكر",
+      "lemma": "شَكَرَ",
+      "meaning_en": "you might be grateful",
+      "meaning_bn": "তোমরা কৃতজ্ঞ হও",
+      "why_en": "Recognizing and thanking God for safety and abundance."
+    }
+  ],
+  "lesson_en": "Remembering past hardship helps you thank God for today's gifts.",
+  "lesson_bn": "অতীতের দুর্বলতা ও সংকট স্মরণ করলে বর্তমানের শান্তি ও নেয়ামতের প্রতি অন্তরে গভীর শুকরিয়া জাগ্রত হয়।",
+  "real_life_en": "When life becomes comfortable, never forget the hard days when you had very little. God sheltered you when you were weak. Stay humble, share your wealth, and thank God every single day.",
+  "real_life_bn": "জীবনে সচ্ছলতা আসলে অতীতের দুঃসময় ও অভাবের দিনগুলো ভুলে যাবেন না। আল্লাহর কৃপায় প্রাপ্ত আশ্রয়ের জন্য সর্বদা কৃতজ্ঞ থাকুন।",
+  "context_en": "Reminding the Muhajirun of their vulnerable beginnings in Mecca and how Allah blessed them with sanctuary and victory in Medina.",
+  "context_bn": "মক্কার অসহায় অবস্থার কথা স্মরণ করিয়ে মদীনায় নিরাপত্তা ও সম্মানের নেয়ামতের জন্য শোকর আদায়ের আহ্বান।",
+  "themes": [
+    "gratitude",
+    "remembering blessings",
+    "divine protection",
+    "sanctuary of Medina"
+  ],
+  "kinds": [
+    "story",
+    "praise",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "early Muslims",
+      "Muhajirun and Ansar"
+    ],
+    "places": [
+      "Mecca",
+      "Medina"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "emigration to Medina"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah reminded the early believers of their helpless state in Mecca and how He granted them refuge, strength, and sustenance in Medina to inspire enduring gratitude.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

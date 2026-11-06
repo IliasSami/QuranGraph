@@ -1,0 +1,68 @@
+{
+  "id": "15:15",
+  "simple_en": "They would say: Our eyes have only been dazzled. In fact, we are a people under a spell of magic. A closed mind invents wild excuses rather than admit the truth.",
+  "simple_bn": "তারা বলত: আমাদের দৃষ্টিকে সম্মোহিত করা হয়েছে, বরং আমরা এক জাদুগ্রস্ত জাতি। সংকীর্ণ মন সত্য স্বীকার করার চেয়ে উদ্ভট অজুহাত খাড়া করতেই বেশি পছন্দ করে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سكر",
+      "lemma": "سَكَرَ",
+      "meaning_en": "dazzled",
+      "meaning_bn": "সম্মোহিত করা হয়েছে",
+      "why_en": "Confused or covered over."
+    },
+    {
+      "pos": 4,
+      "root": "بصر",
+      "lemma": "بَصَر",
+      "meaning_en": "our eyes",
+      "meaning_bn": "আমাদের দৃষ্টি",
+      "why_en": "Visual sight."
+    },
+    {
+      "pos": 8,
+      "root": "سحر",
+      "lemma": "مَسْحُور",
+      "meaning_en": "bewitched",
+      "meaning_bn": "জাদুগ্রস্ত",
+      "why_en": "Under the effect of sorcery."
+    }
+  ],
+  "lesson_en": "Do not make excuses to run away from facts. Accept the truth with an honest heart.",
+  "lesson_bn": "বাস্তবতা থেকে পালাতে অজুহাত খুঁজবেন না। খোলা মনে ও সততার সাথে সত্যকে গ্রহণ করুন।",
+  "real_life_en": "A friend loses an argument with undeniable scientific data. Instead of accepting the facts, he claims the researcher is lying. It is noble to admit when you are mistaken.",
+  "real_life_bn": "অকাট্য বৈজ্ঞানিক তথ্যের সামনে এক ব্যক্তি বিতর্কে হেরে যায়। কিন্তু পরাজয় মেনে না নিয়ে সে দাবি করে গবেষকরাই মিথ্যাবাদী। নিজের ভুল স্বীকার করাই সততার লক্ষণ।",
+  "context_en": "The disbelievers claiming that clear miracles are only optical illusions or magic.",
+  "context_bn": "স্পষ্ট অলৌকিক নিদর্শন প্রত্যক্ষ করার পরও কাফিরদের সেটিকে জাদু বা দৃষ্টিবিভ্রম বলে উড়িয়ে দেওয়া।",
+  "themes": [
+    "stubbornness",
+    "magic",
+    "arguments"
+  ],
+  "kinds": [
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers would rationalize miracles as optical illusions or magic rather than accept faith.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

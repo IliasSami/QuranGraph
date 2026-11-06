@@ -1,0 +1,78 @@
+{
+  "id": "13:27",
+  "simple_en": "The disbelievers demanded that a special sign come down from their Lord. The Prophet was told to reply that Allah leaves in misguidance whoever turns away. Yet He guides to His path everyone who turns to Him with an open, repentant heart.",
+  "simple_bn": "কাফিররা বলে, তার রবের পক্ষ থেকে কোনো বিশেষ অলৌকিক নিদর্শন আসল না কেন? বলুন, আল্লাহ যাকে চান তাকে বিভ্রান্তিতে ছেড়ে দেন এবং যে তাঁর দিকে অনুতপ্ত হয়ে ফিরে আসে তাকে সঠিক পথ দেখান।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "disbelieved",
+      "meaning_bn": "কুফরি করেছে",
+      "why_en": "Stubborn refusal of truth despite existing guidance."
+    },
+    {
+      "pos": 13,
+      "root": "ضلل",
+      "lemma": "أَضَلَّ",
+      "meaning_en": "leaves to stray",
+      "meaning_bn": "বিভ্রান্তিতে রাখেন",
+      "why_en": "Allowing obstinate deniers to wander in their chosen falsehood."
+    },
+    {
+      "pos": 16,
+      "root": "هدي",
+      "lemma": "هَدَى",
+      "meaning_en": "guides",
+      "meaning_bn": "সঠিক পথ দেখান",
+      "why_en": "Bestowing clear faith on those who seek the truth sincerely."
+    },
+    {
+      "pos": 19,
+      "root": "نوب",
+      "lemma": "أَنابَ",
+      "meaning_en": "turns in repentance",
+      "meaning_bn": "অনুতপ্ত হয়ে ফিরে আসে",
+      "why_en": "The essential condition for receiving divine guidance."
+    }
+  ],
+  "lesson_en": "Turn to Allah with sincere repentance, and He will guide your steps.",
+  "lesson_bn": "আন্তরিক অনুশোচনা নিয়ে আল্লাহর দিকে ফিরলে তিনি হিদায়াতের পথ খুলে দেন।",
+  "real_life_en": "A young person feels confused by conflicting voices online. They turn to Allah in prayer, asking for clarity. Soon, they find peace and clear moral focus.",
+  "real_life_bn": "এক তরুণ ইন্টারনেটের নানা মতবাদে বিভ্রান্ত হয়ে পড়ে। সে একাকী আল্লাহর কাছে সত্য জানার জন্য দোয়া করে। আল্লাহ তার অন্তরে প্রশান্তি ও সঠিক বুঝ দান করেন।",
+  "context_en": "Answering the skeptics' demand for miracles by highlighting the role of sincerity in guidance.",
+  "context_bn": "মুজিযা দাবির বিপরীতে আন্তরিকভাবে তাওবা করে রবের দিকে ফেরার গুরুত্ব।",
+  "themes": [
+    "guidance",
+    "repentance",
+    "free will"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah guides those who turn to Him in repentance and leaves stubborn rejectors to stray.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

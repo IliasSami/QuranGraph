@@ -1,0 +1,80 @@
+{
+  "id": "6:155",
+  "simple_en": "This Quran is a blessed Book revealed by Allah. It overflows with guidance and goodness for your life in this world and the Next. Follow its teachings closely and be mindful of disobeying its laws. In this way, you will receive Allah's encompassing mercy.",
+  "simple_bn": "এই কুরআন এক বরকতময় কিতাব, যা আল্লাহ নাযিল করেছেন। এতে দুনিয়া ও আখিরাতের অফুরন্ত কল্যাণ নিহিত রয়েছে। কাজেই তোমরা এর নির্দেশাবলি মেনে চলো এবং আল্লাহর নাফরমানি থেকে বেঁচে থাকো, যাতে তোমরা তাঁর রহমত লাভ করতে পারো।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "a Book",
+      "meaning_bn": "এক কিতাব",
+      "why_en": "Identifies the Quran as the final divine scripture sent from Allah."
+    },
+    {
+      "pos": 4,
+      "root": "برك",
+      "lemma": "مُبارَك",
+      "meaning_en": "blessed",
+      "meaning_bn": "বরকতময়",
+      "why_en": "Emphasizes the abundant enduring goodness and benefit in this revelation."
+    },
+    {
+      "pos": 6,
+      "root": "وقي",
+      "lemma": "اتَّقَى",
+      "meaning_en": "be mindful of Allah",
+      "meaning_bn": "তাকওয়া অবলম্বন করো",
+      "why_en": "Urges readers to protect themselves from punishment by obeying its commands."
+    }
+  ],
+  "lesson_en": "Follow the blessed Quran and fear Allah. You will receive His great mercy in both worlds.",
+  "lesson_bn": "বরকতময় কুরআনের বিধান মেনে চলুন এবং তাকওয়া অবলম্বন করে আল্লাহর বিশেষ রহমতের অধিকারী হোন।",
+  "real_life_en": "Build a daily habit of reading and acting upon the Quran. When making career, business, or family choices, consult its principles of honesty and kindness. Living by the Quran brings peace into your home and invites divine blessings into your daily affairs.",
+  "real_life_bn": "প্রতিদিন অর্থ বুঝে কুরআন পড়ার অভ্যাস গড়ে তুলুন। পারিবারিক ও ব্যবসায়িক সিদ্ধান্তে কুরআনের সততা ও ইনসাফের নীতি প্রয়োগ করুন। কুরআনের অনুশাসন মেনে চললে অন্তরে শান্তি পাওয়া যায় এবং জীবনে আল্লাহর রহমত ও বরকত নেমে আসে।",
+  "context_en": "After mentioning the revelation of the Torah to Moses, Allah presents the Quran as the final, blessed book for humanity.",
+  "context_bn": "তাওরাতের উল্লেখের পর আল্লাহ কুরআন মাজিদকে সমগ্র মানবতার জন্য চূড়ান্ত বরকতময় কিতাব হিসেবে উপস্থাপন করেছেন।",
+  "themes": [
+    "the Quran",
+    "revelation",
+    "taqwa",
+    "Allah's mercy"
+  ],
+  "kinds": [
+    "command",
+    "description-of-allah",
+    "promise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quran is a blessed Book revealed with goodness for religion and worldly life.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Believers are commanded to follow its commands and fear Allah so that they may receive mercy.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

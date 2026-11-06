@@ -1,0 +1,84 @@
+{
+  "id": "6:76",
+  "simple_en": "When night covered Abraham in darkness, he saw a shining star. To guide his people through reasoning, he asked: Is this my Lord? But when the star set and faded away, he said: I do not love things that vanish and set. A true God never disappears.",
+  "simple_bn": "যখন রাতের অন্ধকার তাঁকে আচ্ছন্ন করল, তখন তিনি একটি উজ্জ্বল নক্ষত্র দেখতে পেলেন। তাঁর কওমকে শিক্ষা দেওয়ার জন্য তিনি বললেন, এটিই কি আমার প্রতিপালক? কিন্তু যখন নক্ষত্রটি অস্তমিত হয়ে মিলিয়ে গেল, তখন তিনি বললেন, আমি অস্তগামীদের ভালোবাসি না। যা অদৃশ্য হয়ে যায় তা উপাস্য হতে পারে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جنن",
+      "lemma": "جَنَّ",
+      "meaning_en": "grew dark or covered",
+      "meaning_bn": "অন্ধকার আচ্ছন্ন করল",
+      "why_en": "Sets the scene of nightfall when celestial bodies appear."
+    },
+    {
+      "pos": 6,
+      "root": "كوكب",
+      "lemma": "كَوْكَب",
+      "meaning_en": "a star or planet",
+      "meaning_bn": "একটি তারা বা নক্ষত্র",
+      "why_en": "Refers to the shining celestial body his people worshipped."
+    },
+    {
+      "pos": 11,
+      "root": "أفل",
+      "lemma": "أَفَلَ",
+      "meaning_en": "it set or disappeared",
+      "meaning_bn": "তা অস্তমিত হলো",
+      "why_en": "Marks the fading of the object, proving it is a dependent creation and not divine."
+    }
+  ],
+  "lesson_en": "Created things change and disappear. Direct your worship only to the Ever-Living Creator.",
+  "lesson_bn": "সৃষ্টিজগতের সব কিছুই নশ্বর ও পরিবর্তনশীল। কেবল চিরঞ্জীব ও অদ্বিতীয় স্রষ্টারই ইবাদত করুন।",
+  "real_life_en": "People often attach their hearts to wealth, status, or celebrities, but all created things fade. Do not build your happiness on what vanishes. Anchor your soul to Allah, Who never changes or fades.",
+  "real_life_bn": "মানুষ প্রায়ই টাকা-পয়সা, পদমর্যাদা বা ক্ষণস্থায়ী বস্তুকে অতিরিক্ত ভালোবেসে ফেলে। মনে রাখুন, পার্থিব সব কিছুই একদিন শেষ হয়ে যাবে। নিজের আশা-ভরসাকে চিরস্থায়ী আল্লাহর সাথে যুক্ত করুন, যিনি কখনোই শেষ হন না।",
+  "context_en": "Abraham began a public debate with his people, examining star worship step by step through observable logic.",
+  "context_bn": "নক্ষত্রপূজারি সম্প্রদায়ের ভ্রান্তি ধরিয়ে দিতে ইবরাহীম (আ.) একটি নক্ষত্রের অস্তমিত হওয়া দিয়ে যুক্তি উপস্থাপন শুরু করেন।",
+  "themes": [
+    "tawhid",
+    "reasoning",
+    "Abraham",
+    "impermanence",
+    "refutation of shirk"
+  ],
+  "kinds": [
+    "story",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "star",
+      "the night"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Observing a star upon nightfall, Abraham posed a question to his people testing its claim to divinity.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "When the star vanished below the horizon, Abraham rejected it, showing that transient objects cannot be divine.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

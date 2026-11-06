@@ -1,0 +1,104 @@
+{
+ "id": "3:49",
+ "simple_en": "Allah sent Isa as a messenger to the Children of Israel with great signs. By Allah's leave, he shaped birds from clay and breathed life into them. He cured the blind and healed the leper. He even brought the dead back to life by Allah's leave. He also told them what they ate and stored at home. These wonders proved he was a true prophet.",
+ "simple_bn": "আল্লাহ ঈসাকে স্পষ্ট নিদর্শনসহ বনী ইসরাঈলের কাছে রাসুল বানিয়ে পাঠালেন। আল্লাহর হুকুমে তিনি কাদা দিয়ে পাখি বানিয়ে ফুঁ দিলে তা জীবন্ত হয়ে যেত। তিনি জন্মান্ধ ও কুষ্ঠরোগীকে সুস্থ করতেন এবং মৃতকে আল্লাহর হুকুমে জীবিত করতেন। এছাড়া ঘরে রাখা খাবার ও সঞ্চয়ের কথাও তিনি বলে দিতেন। এসব মুজিযা প্রমাণ করত যে তিনি সত্য নবী।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "and a messenger",
+   "meaning_bn": "এবং একজন রাসুলরূপে",
+   "why_en": "Confirms that Isa was sent by Allah as an inspired guide to his people."
+  },
+  {
+   "pos": 22,
+   "root": "أذن",
+   "lemma": "إِذْن",
+   "meaning_en": "by Allah's leave",
+   "meaning_bn": "আল্লাহর হুকুমে",
+   "why_en": "Repeated to show that all his miracles were done by God's permission alone."
+  },
+  {
+   "pos": 25,
+   "root": "كمه",
+   "lemma": "أَكْمَه",
+   "meaning_en": "the born blind",
+   "meaning_bn": "জন্মান্ধকে",
+   "why_en": "Healing a person born without sight was a clear sign from heaven."
+  },
+  {
+   "pos": 35,
+   "root": "ذخر",
+   "lemma": "تَدَّخِرُ",
+   "meaning_en": "you store up",
+   "meaning_bn": "তোমরা জমা করে রাখো",
+   "why_en": "Knowing what was stored in private homes came from divine revelation."
+  }
+ ],
+ "lesson_en": "Miracles only happen by Allah's will to prove the truth of His messengers.",
+ "lesson_bn": "সকল অলৌকিক নিদর্শন কেবল আল্লাহর হুকুমেই ঘটে, যা নবীদের সত্যতা প্রমাণ করে।",
+ "real_life_en": "When a skilled doctor helps heal a sick person, praise Allah who gave the skill and cure. Keep your trust in Allah alone, for all healing comes by His leave.",
+ "real_life_bn": "কোনো দক্ষ চিকিৎসকের দ্বারা রোগী সুস্থ হলে সেই আল্লাহকে ধন্যবাদ জানান যিনি শেফা দিয়েছেন। মনে রাখুন আসল আরোগ্য কেবল আল্লাহর হুকুমেই আসে।",
+ "context_en": "Equipped with revelation, Isa presented clear physical signs to call his people to faith.",
+ "context_bn": "নবুওয়াত লাভের পর ঈসা (আলাইহিস সালাম) বনী ইসরাঈলকে ঈমানের দাওয়াত দিতে এসব স্পষ্ট নিদর্শন পেশ করেন।",
+ "themes": [
+  "prophethood",
+  "Allah's power",
+  "Children of Israel",
+  "stories of the prophets"
+ ],
+ "kinds": [
+  "story",
+  "argument",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Isa (peace be upon him)"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Isa was sent as a messenger to the Children of Israel with miraculous signs from their Lord.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "He fashioned clay birds, healed the blind and leper, and raised the dead exclusively by Allah's leave.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "He informed the people of what they ate and stored in their homes through revelation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "16:115",
+  "simple_en": "God has forbidden dead meat, blood, pork, and animals given to idols. But if someone is forced by hunger, God is kind. He is full of mercy.",
+  "simple_bn": "তিনি তোমাদের জন্য শুধু মৃত পশু, রক্ত, শুকরের গোশত এবং যা আল্লাহর নাম ছাড়া জবাই করা হয়েছে তা হারাম করেছেন। তবে কেউ নিরুপায় হলে আল্লাহ পরম ক্ষমাশীল ও দয়ালু।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "موت",
+      "lemma": "مَيْتَة",
+      "meaning_en": "carrion",
+      "meaning_bn": "মৃত জীব",
+      "why_en": "Unslaughtered animals unfit for consumption."
+    },
+    {
+      "pos": 7,
+      "root": "خنزر",
+      "lemma": "خِنزِير",
+      "meaning_en": "swine",
+      "meaning_bn": "শুকর",
+      "why_en": "Pork explicitly prohibited for believers."
+    }
+  ],
+  "lesson_en": "God's dietary laws protect body and soul. In life-or-death hunger, necessary food is permitted.",
+  "lesson_bn": "আল্লাহ মানুষের শারীরিক ও আত্মিক কল্যাণে ক্ষতিকর খাদ্য হারাম করেছেন। চরম প্রয়োজনে জীবন রক্ষার অনুমতি দেওয়া হয়েছে।",
+  "real_life_en": "Check food labels to ensure what you eat is pure and permissible. Follow divine dietary wisdom for health.",
+  "real_life_bn": "হালাল ও হারাম খাবারের ব্যাপারে সতর্ক থাকুন। শরীরের সুস্থতা ও আত্মিক পবিত্রতার জন্য আল্লাহর খাদ্যবিধি মেনে চলুন।",
+  "themes": [
+    "dietary-laws",
+    "halal",
+    "haram",
+    "mercy"
+  ],
+  "kinds": [
+    "law",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-Ghafur",
+      "ar-Rahim"
+    ],
+    "events": [],
+    "things": [
+      "carrion",
+      "blood",
+      "swine"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Prohibited foods include dead animals, blood, swine flesh, and that slaughtered for others besides Allah, with dispensation in dire necessity.",
+      "claim_bn": "মৃত পশু, রক্ত, শূকরের মাংস ও গায়রুল্লাহর নামে উৎসর্গকৃত খাদ্য হারাম, তবে অনন্যোপায় হলে আল্লাহ ক্ষমাশীল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

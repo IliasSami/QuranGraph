@@ -1,0 +1,76 @@
+{
+  "id": "12:99",
+  "simple_en": "The family came to Egypt. Yusuf met his parents with joy. He held them close and showed them great honor. He asked them to enter Egypt in peace and safety.",
+  "simple_bn": "পরিবারটি মিসরে পৌঁছালে ইউসুফ পিতা-মাতাকে আন্তরিক অভ্যর্থনা জানালেন। তিনি তাঁদের কাছে টেনে নিয়ে সম্মান জানালেন। তিনি তাঁদের সবাইকে আল্লাহর ইচ্ছায় নিরাপদে ও শান্তিতে মিসরে বসবাসের আমন্ত্রণ জানালেন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أوي",
+      "lemma": "آوَى",
+      "meaning_en": "he took to himself",
+      "meaning_bn": "কাছে স্থান দিলেন",
+      "why_en": "Yusuf drew his parents to him with profound affection and honor."
+    },
+    {
+      "pos": 7,
+      "root": "أبو",
+      "lemma": "أَبَوان",
+      "meaning_en": "his parents",
+      "meaning_bn": "তাঁর পিতামাতা",
+      "why_en": "Refers to Yaqub and his wife upon their arrival in Egypt."
+    },
+    {
+      "pos": 14,
+      "root": "أمن",
+      "lemma": "آمِن",
+      "meaning_en": "safe and secure",
+      "meaning_bn": "নিরাপদ",
+      "why_en": "Guarantee of peace, sustenance, and dignity in the new land."
+    }
+  ],
+  "lesson_en": "Honor your parents well. Keep your home safe and warm.",
+  "lesson_bn": "মা-বাবাকে সর্বোচ্চ সম্মান দেওয়া এবং পরিবারের নিরাপত্তা নিশ্চিত করা প্রকৃত মহত্ত্বের লক্ষণ।",
+  "real_life_en": "A young man brings his parents to live in his new house. He takes their bags. He gives them the best room and treats them with love.",
+  "real_life_bn": "এক চাকরিজীবী তার নতুন বাসায় মা-বাবাকে নিয়ে আসে। সে তাদের জন্য সবচেয়ে আরামদায়ক কক্ষটি প্রস্তুত করে এবং অত্যন্ত শ্রদ্ধার সাথে তাদের দেখাশোনা করে।",
+  "context_en": "The family reached Egypt, where Yusuf received his parents with deep respect and hospitality.",
+  "context_bn": "ইয়াকুবের পরিবার মিসরে উপস্থিত হলে ইউসুফ পরম শ্রদ্ধায় পিতা-মাতাকে বরণ করে নিলেন।",
+  "themes": [
+    "honoring parents",
+    "safety",
+    "hospitality"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "Yaqub",
+      "brothers of Yusuf"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Yusuf welcomed his parents and invited his family to enter Egypt in peace and safety.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

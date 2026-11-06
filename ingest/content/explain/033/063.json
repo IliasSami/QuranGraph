@@ -1,0 +1,83 @@
+{
+  "id": "33:63",
+  "simple_en": "People ask the Prophet ﷺ about when the Last Day will arrive. God tells him to answer that its exact time is known only to God. No human or angel knows the day. It may arrive very soon, so people should prepare for it now.",
+  "simple_bn": "মানুষ আপনাকে কিয়ামত কবে সংঘটিত হবে সে সম্পর্কে প্রশ্ন করে। আপনি বলে দিন, এর সঠিক জ্ঞান একমাত্র আল্লাহর কাছেই রয়েছে। হতে পারে সেই দিনটি অত্যন্ত নিকটে, তাই প্রতিটি মানুষের উচিত সৎকাজের মাধ্যমে এর প্রস্তুতি নেওয়া।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "they ask you",
+      "meaning_bn": "তারা আপনাকে জিজ্ঞেস করে",
+      "why_en": "Persistent questioning by skeptics."
+    },
+    {
+      "pos": 4,
+      "root": "سوع",
+      "lemma": "ساعَة",
+      "meaning_en": "the Hour",
+      "meaning_bn": "কিয়ামতের সময়",
+      "why_en": "The Day of Resurrection and Reckoning."
+    },
+    {
+      "pos": 7,
+      "root": "علم",
+      "lemma": "عِلْم",
+      "meaning_en": "the knowledge of it",
+      "meaning_bn": "তার জ্ঞান",
+      "why_en": "Hidden information reserved for God alone."
+    },
+    {
+      "pos": 14,
+      "root": "كون",
+      "lemma": "كانَ",
+      "meaning_en": "near / close",
+      "meaning_bn": "অতি নিকটে",
+      "why_en": "The sudden and impending arrival of the Last Day."
+    }
+  ],
+  "lesson_en": "The exact time of the Last Day is known to God alone, so prepare for it today.",
+  "lesson_bn": "কিয়ামতের সুনির্দিষ্ট জ্ঞান কেবল আল্লাহর কাছেই রয়েছে, তাই প্রতিটি মুহূর্তের প্রস্তুতি নেওয়া জরুরি।",
+  "real_life_en": "Do not put off good deeds until tomorrow. Live each day with care and honesty, knowing that life is short and our time with God draws near.",
+  "real_life_bn": "ভালো কাজ ফেলে রাখবেন না। প্রতিটি দিন সৎভাবে যাপন করুন, কারণ পার্থিব জীবন ক্ষণস্থায়ী এবং মৃত্যুর সময় কারো জানা নেই।",
+  "themes": [
+    "the Last Day",
+    "the unseen",
+    "Allah's knowledge",
+    "resurrection"
+  ],
+  "kinds": [
+    "argument",
+    "address",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "People ask regarding the Hour, but the knowledge of it belongs strictly to Allah alone, and it may be near.",
+      "claim_bn": "মানুষ কিয়ামত সম্পর্কে প্রশ্ন করে, কিন্তু এর জ্ঞান কেবল আল্লাহর কাছেই রয়েছে এবং হতে পারে তা অত্যন্ত নিকটবর্তী।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

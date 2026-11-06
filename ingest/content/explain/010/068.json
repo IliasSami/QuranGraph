@@ -1,0 +1,76 @@
+{
+  "id": "10:68",
+  "simple_en": "They claim: God has taken a son. Glory be to Him, He is completely Self-Sufficient. To Him belongs all that is in the heavens and on earth. You have no proof for this; do you say about God what you do not know?",
+  "simple_bn": "তারা বলে: আল্লাহ সন্তান গ্রহণ করেছেন। তিনি পবিত্র ও মহান! তিনি অভাবমুক্ত! আসমানসমূহ ও জমিনে যা কিছু আছে সবই তাঁর। এ বিষয়ে তোমাদের কাছে কোনো প্রমাণ নেই। তোমরা কি আল্লাহর ব্যাপারে এমন কথা বলছ যা তোমরা জান না?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ولد",
+      "lemma": "وَلَد",
+      "meaning_en": "a son / offspring",
+      "meaning_bn": "সন্তান",
+      "why_en": "False claim that God has physical offspring."
+    },
+    {
+      "pos": 5,
+      "root": "سبح",
+      "lemma": "سُبْحان",
+      "meaning_en": "glory be to Him",
+      "meaning_bn": "তিনি পবিত্র ও মহান",
+      "why_en": "Declaring God's absolute transcendence above human needs."
+    },
+    {
+      "pos": 7,
+      "root": "غني",
+      "lemma": "غَنِيّ",
+      "meaning_en": "the Self-Sufficient",
+      "meaning_bn": "অভাবমুক্ত / বেনিয়ায",
+      "why_en": "God having zero need for children or partners."
+    }
+  ],
+  "lesson_en": "God needs nothing from creation; attributing children to Him is a claim without any proof.",
+  "lesson_bn": "আল্লাহ সম্পূর্ণ অভাবমুক্ত ও সন্তানহীন; তাঁর প্রতি সন্তান আরোপ করা চরম অজ্ঞতা ও মিথ্যা।",
+  "real_life_en": "Do not speak about faith without verified knowledge. Guard your tongue from repeating religious myths that have no basis in revelation.",
+  "real_life_bn": "দ্বীনের ব্যাপারে প্রামাণ্য জ্ঞান ছাড়া কথা বলবেন না; ভুল বিশ্বাস ও মনগড়া কথা ছড়ানো থেকে বিরত থাকুন।",
+  "themes": [
+    "divine transcendence",
+    "self-sufficiency of God",
+    "speaking without knowledge"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists and sectarians"
+    ],
+    "places": [
+      "heavens",
+      "earth"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Al-Ghani"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The claim that Allah has taken offspring is refuted by His absolute self-sufficiency (al-Ghani).",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

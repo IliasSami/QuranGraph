@@ -1,0 +1,65 @@
+{
+  "id": "32:7",
+  "simple_en": "God made everything He created with perfect balance and beauty. Every creature has what it needs to live and grow. He began the creation of the first human being, Adam, from common clay.",
+  "simple_bn": "তিনি যা কিছু সৃষ্টি করেছেন, সবকিছুকেই অত্যন্ত নিখুঁত ও সুন্দরভাবে বানিয়েছেন। প্রতিটি সৃষ্টির মধ্যে তিনি উপযুক্ত বৈশিষ্ট্য ও ভারসাম্য দান করেছেন। আর তিনি কাদা মাটি থেকে প্রথম মানব আদমের সৃষ্টি শুরু করেছেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حسن",
+      "lemma": "أَحْسَنَ",
+      "meaning_en": "perfected / made beautiful",
+      "meaning_bn": "নিখুঁত ও সুন্দর করেছেন",
+      "why_en": "Highlights the flawlessness and wisdom in every created thing."
+    },
+    {
+      "pos": 10,
+      "root": "طين",
+      "lemma": "طِين",
+      "meaning_en": "clay / wet soil",
+      "meaning_bn": "কাদা মাটি",
+      "why_en": "The earthy material from which Adam, the first human, was fashioned."
+    }
+  ],
+  "lesson_en": "Every creation of God is made with divine beauty, purpose, and balance.",
+  "lesson_bn": "আল্লাহর সৃষ্টি নিখুঁত ও পরম সৌন্দর্যময়। প্রতিটি সৃষ্টির পেছনে গভীর উদ্দেশ্য ও নিখুঁত ভারসাম্য রয়েছে।",
+  "real_life_en": "Look at the natural world with wonder. Appreciate how God designed your body and mind to live with dignity.",
+  "real_life_bn": "প্রকৃতির অপরূপ সৃষ্টির দিকে তাকিয়ে আল্লাহর কুদরত উপলব্ধি করুন। তিনি আপনাকে যে দেহ ও বিবেক দিয়েছেন, তার জন্য কৃতজ্ঞ থাকুন।",
+  "themes": [
+    "creation",
+    "human-origins",
+    "divine-design",
+    "wisdom"
+  ],
+  "kinds": [
+    "creation"
+  ],
+  "entities": {
+    "people": [
+      "Adam"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "clay"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Allah perfected the creation of all things and initiated human creation from clay.",
+      "claim_bn": "আল্লাহ সৃষ্টির সবকিছু নিখুঁতভাবে সৃষ্টি করেছেন এবং কাদা মাটি থেকে মানব সৃষ্টির সূচনা করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

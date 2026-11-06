@@ -1,0 +1,60 @@
+{
+  "id": "36:18",
+  "simple_en": "The townspeople said they saw an evil omen in the messengers. They blamed them for their troubles. They threatened to stone them to death and inflict a painful punishment if they did not stop their preaching.",
+  "simple_bn": "জনপদের লোকেরা বলল যে তারা রাসূলদের মধ্যে কুলক্ষণ বা অশুভ কিছু দেখতে পাচ্ছে। তারা নিজেদের সমস্যার জন্য রাসূলদের দায়ী করল। তারা হুমকি দিল যে প্রচার বন্ধ না করলে তারা রাসূলদের পাথর মেরে হত্যা করবে এবং যন্ত্রণাদায়ক শাস্তি দেবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "طير",
+      "lemma": "اطَّيَّرْ",
+      "meaning_en": "we see an evil omen",
+      "meaning_bn": "আমরা তোমাদের কুলক্ষণে মনে করছি",
+      "why_en": "Reflects the false superstitions people invent when they hate the truth."
+    },
+    {
+      "pos": 8,
+      "root": "رجم",
+      "lemma": "رَجَمْ",
+      "meaning_en": "we will surely stone you",
+      "meaning_bn": "আমরা অবশ্যই তোমাদের পাথর ছুড়ে মারব",
+      "why_en": "Highlights the violent threats used by deniers against peaceful callers."
+    }
+  ],
+  "lesson_en": "Superstition and anger lead people to blame others for their own problems.",
+  "lesson_bn": "কুসংস্কার ও অন্ধ ক্রোধ মানুষকে নিজের ভুলের জন্য অন্যের ওপর দোষ চাপাতে প্ররোচিত করে।",
+  "real_life_en": "Never believe in bad luck or omens like black cats or broken glass. When things go wrong, reflect on your own actions instead of blaming innocent people.",
+  "real_life_bn": "কোনো দিন বা ঘটনার ওপর কুলক্ষণের দোষ চাপাবেন না। কোনো বিপদ ঘটলে কুসংস্কারে না ভুগে নিজের কর্ম নিয়ে চিন্তা করুন এবং আল্লাহর কাছে সাহায্য চান।",
+  "themes": [
+    "disbelief",
+    "stories of the prophets"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The people declared an evil omen in the messengers and threatened them with stoning and painful punishment unless they ceased.",
+      "claim_bn": "জনপদের লোকেরা রাসূলদের অশুভ লক্ষণ মনে করল এবং সতর্ক না হলে পাথর নিক্ষেপ ও যন্ত্রণাদায়ক শাস্তির হুমকি দিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

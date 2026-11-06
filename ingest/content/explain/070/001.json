@@ -1,0 +1,88 @@
+{
+ "id": "70:1",
+ "simple_en": "Some of the idolaters did not take the warning seriously. One of them mockingly asked that the punishment come down on him and his people, if the message were true. He did not believe it would ever happen. But the punishment he laughed at is real, and it will fall on the Day of Judgement.",
+ "simple_bn": "মুশরিকদের কেউ কেউ সতর্কবাণীকে হালকা করে দেখেছিল। তাদের একজন ঠাট্টা করে বলেছিল, যদি এই কথা সত্য হয় তবে শাস্তি এসে পড়ুক তার ওপর আর তার লোকদের ওপর। সে মনে করেছিল এটা কখনো ঘটবে না। কিন্তু যে শাস্তিকে সে ঠাট্টা করেছিল, তা সত্য, আর কিয়ামতের দিন তা অবশ্যই ঘটবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سأل",
+   "lemma": "سائِل",
+   "meaning_en": "one who asks, a caller",
+   "meaning_bn": "প্রার্থনাকারী, ডাক দাতা",
+   "why_en": "Here the asker is a mocker demanding that punishment arrive at once."
+  },
+  {
+   "pos": 3,
+   "root": "عذب",
+   "lemma": "عَذاب",
+   "meaning_en": "punishment",
+   "meaning_bn": "শাস্তি",
+   "why_en": "The word covers both a painful penalty and the torment of the next life."
+  },
+  {
+   "pos": 4,
+   "root": "وقع",
+   "lemma": "واقِع",
+   "meaning_en": "bound to happen, falling",
+   "meaning_bn": "অবশ্যই ঘটবে, পতিত হবে",
+   "why_en": "From the root for falling: the punishment is certain to land, whatever the mockers say."
+  }
+ ],
+ "lesson_en": "Do not treat Allah's warnings as a joke, because what He promises always comes to pass.",
+ "lesson_bn": "আল্লাহর সতর্কবাণীকে ঠাট্টার বিষয় বানাবেন না, কারণ তিনি যা প্রতিশ্রুতি দেন তা অবশ্যই ঘটে।",
+ "real_life_en": "A student hears that the exam will be strict and laughs it off, then panics when the paper is in front of him. A warning is a kindness while there is still time to prepare. Take it seriously today, not when it is too late.",
+ "real_life_bn": "একজন ছাত্র শোনে পরীক্ষা খুব কঠিন হবে, সে হেসে উড়িয়ে দেয়। পরে প্রশ্নপত্র সামনে এলে আতঙ্কে বসে থাকে। সময় থাকতে সতর্কবাণী মানা এক ধরনের দয়া। আজই তা গুরুত্ব দিয়ে নিন, দেরি হওয়ার আগে।",
+ "context_en": "The surah opens with a mocking demand for punishment, and the next ayat describe where that punishment comes from.",
+ "context_bn": "সূরার শুরুতে ঠাট্টা করে শাস্তি ত্বরান্বিত করার দাবি এসেছে; পরের আয়াতে বলা হয় এই শাস্তি কোথা থেকে আসে।",
+ "themes": [
+  "the Last Day",
+  "punishment",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "argument",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [
+   "day of judgement"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "A caller among the idolaters mockingly asked for the punishment to fall on himself and his people.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The punishment will certainly occur on the Day of Judgement.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "It was a demand to hasten the torment, like their saying recorded in 8:32.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

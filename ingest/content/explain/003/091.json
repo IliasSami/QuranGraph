@@ -1,0 +1,90 @@
+{
+ "id": "3:91",
+ "simple_en": "Those who die while rejecting faith will find no way out on the Day of Judgment. Even if one of them had an entire earth full of gold and offered it to escape punishment, it would never be accepted. They will face a painful torment, and no one will be able to help or save them.",
+ "simple_bn": "যারা কুফরি অবস্থায় মৃত্যুবরণ করে, কিয়ামতের দিন তাদের মুক্তির কোনো পথ থাকবে না। কেউ যদি শাস্তি থেকে বাঁচতে পৃথিবী পূর্ণ স্বর্ণও মুক্তিপণ হিসেবে দিতে চায়, তবুও তা গ্রহণ করা হবে না। তাদের জন্য রয়েছে যন্ত্রণাদায়ক শাস্তি, আর তাদের রক্ষা করার মতো কোনো সাহায্যকারী থাকবে না।",
+ "key_words": [
+  {
+   "pos": 11,
+   "root": "ملأ",
+   "lemma": "مِلْء",
+   "meaning_en": "fullness / capacity",
+   "meaning_bn": "পূর্ণ পরিমাণ",
+   "why_en": "Presents a striking image of vast worldly wealth filling the entire earth."
+  },
+  {
+   "pos": 13,
+   "root": "ذهب",
+   "lemma": "ذَهَب",
+   "meaning_en": "gold",
+   "meaning_bn": "স্বর্ণ বা সোনা",
+   "why_en": "The most prized material treasure, which becomes totally worthless in the Hereafter."
+  },
+  {
+   "pos": 15,
+   "root": "فدي",
+   "lemma": "افْتَدَى",
+   "meaning_en": "he ransomed",
+   "meaning_bn": "সে মুক্তিপণ দিত",
+   "why_en": "Refers to attempting to buy freedom from divine justice on the Last Day."
+  },
+  {
+   "pos": 24,
+   "root": "نصر",
+   "lemma": "ناصِر",
+   "meaning_en": "helpers",
+   "meaning_bn": "সাহায্যকারীগণ",
+   "why_en": "Shows that no person or false deity can provide aid against Allah's decree."
+  }
+ ],
+ "lesson_en": "Faith and good deeds are far more precious than all the worldly wealth that exists.",
+ "lesson_bn": "পৃথিবীর সমস্ত ধনসম্পদের চেয়ে আল্লাহর প্রতি খাঁটি ঈমান ও নেক আমল বহুগুণে বেশি মূল্যবান।",
+ "real_life_en": "A person might spend a lifetime chasing money while neglecting prayer and good character. Wealth cannot buy peace of mind or salvation in the next life. Investing in faith brings true and lasting security.",
+ "real_life_bn": "সারাজীবন ধনসম্পদ উপার্জনে ব্যস্ত থেকে ইবাদত ভুলে থাকা চরম বোকামি। পার্থিব অর্থ যেমন অন্তরের শান্তি কিনতে পারে না, তেমনি আখিরাতেও তা কাজে আসবে না। বরং নেক আমলই অনন্ত জীবনের আসল সম্বল।",
+ "context_en": "Concludes the passage on disbelief by demonstrating that worldly wealth is completely useless for someone who dies without faith.",
+ "context_bn": "কুফরির পরিণতির আলোচনার সমাপ্তি টেনে এখানে দেখানো হয়েছে যে ঈমানহীন ব্যক্তির জন্য পৃথিবীর সমস্ত ধনদৌলতও পরকালে সম্পূর্ণ অর্থহীন।",
+ "themes": [
+  "the Last Day",
+  "wealth",
+  "punishment",
+  "Hell",
+  "judgment"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "gold"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Those who die in disbelief will not be redeemed even if they offered the earth full of gold as ransom.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "They will face painful punishment and have no helpers to rescue them on the Day of Judgment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "28:48",
+  "simple_en": "When the truth came to them from God, the deniers asked why the Prophet was not given signs like those given to Moses. Yet they also rejected what Moses brought long ago. They claimed both books were magic, and they said they rejected both.",
+  "simple_bn": "যখন তাদের কাছে আল্লাহর পক্ষ থেকে সত্য আসল, তখন তারা বলল, মূসাকে যেরূপ মুজিযা দেওয়া হয়েছিল তাকে সেরূপ দেওয়া হলো না কেন। অথচ পূর্বে তারা মূসার ওপর অবতীর্ণ কিতাবকেও অস্বীকার করেছিল। তারা বলল, উভয় কিতাবই জাদু যা পরস্পরকে সমর্থন করে এবং আমরা সব কিতাবকেই প্রত্যাখ্যান করি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "ٱلْحَقُّ",
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "The divine message brought by the Prophet."
+    },
+    {
+      "pos": 21,
+      "arabic": "سِحْرَانِ",
+      "root": "سحر",
+      "lemma": "سِحْر",
+      "meaning_en": "two works of magic",
+      "meaning_bn": "দুটি জাদু",
+      "why_en": "The false claim made by deniers against the Torah and Quran."
+    }
+  ],
+  "lesson_en": "People who oppose truth often repeat old doubts. Hard hearts look for excuses rather than following facts.",
+  "lesson_bn": "অহংকারী মন সত্য মেনে নেওয়ার বদলে বারবার ভিত্তিহীন প্রশ্ন তোলে। যুগে যুগে সত্য অস্বীকারকারীদের ধরণ একই থাকে।",
+  "real_life_en": "Look at evidence with an open mind. Do not let false doubts keep you from doing what is right.",
+  "real_life_bn": "নিজের মনগড়া শর্ত জুড়ে না দিয়ে বাস্তব প্রমাণের ভিত্তিতে সত্য মেনে নিন। সংশয় সৃষ্টি করে এমন কোনো মিথ্যা প্রচারণায় কান দেবেন না।",
+  "themes": [
+    "denial",
+    "miracles",
+    "truth",
+    "scripture"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad",
+      "Musa"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Disbelievers rejected the truth by inventing excuses and claiming that the Torah and the Quran were works of magic.",
+      "claim_bn": "অস্বীকারকারীরা সত্য প্রত্যাখ্যান করে দাবি করেছিল যে তাওরাত ও কুরআন পরস্পরকে সমর্থনকারী জাদু এবং তারা উভয়কে প্রত্যাখ্যান করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

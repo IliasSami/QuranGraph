@@ -1,0 +1,65 @@
+{
+  "id": "27:3",
+  "simple_en": "True believers perform their daily prayers with care. They give charity to help the poor and needy. Above all, they hold firm faith in the life after death and the final reckoning.",
+  "simple_bn": "সত্যিকারের মুমিনরা নিষ্ঠার সাথে নিয়মিত সালাত কায়েম করে। তারা সমাজের অভাবী মানুষের সাহায্যে নিজেদের সম্পদ থেকে যাকাত প্রদান করে। সর্বোপরি তারা পরকালের হিসাব-নিকাশ ও প্রতিদানে দৃঢ় বিশ্বাস রাখে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "ٱلصَّلَوٰةَ",
+      "root": "صلو",
+      "lemma": "صَلاة",
+      "meaning_en": "the prayer",
+      "meaning_bn": "সালাত বা প্রার্থনা",
+      "why_en": "Daily worship connecting the servant to God."
+    },
+    {
+      "pos": 5,
+      "arabic": "ٱلزَّكَوٰةَ",
+      "root": "زكو",
+      "lemma": "زَكاة",
+      "meaning_en": "the zakah",
+      "meaning_bn": "যাকাত",
+      "why_en": "Purifying charity to support those in need."
+    }
+  ],
+  "lesson_en": "Prayer and charity mark the life of a believer. True faith in the Last Day guides every action.",
+  "lesson_bn": "নিয়মিত সালাত, দানশীলতা এবং পরকালের দৃঢ় বিশ্বাস খাঁটি মুমিনের মূল বৈশিষ্ট্য।",
+  "real_life_en": "Keep your daily prayers on time and help those in need. Let faith in the afterlife keep your intentions pure and honest.",
+  "real_life_bn": "প্রতিদিন সময়মতো সালাত আদায় করুন এবং সামর্থ্য অনুযায়ী দরিদ্রদের পাশে দাঁড়ান। পরকালের জবাবদিহিতার অনুভূতি বজায় রাখুন।",
+  "themes": [
+    "prayer",
+    "charity",
+    "hereafter"
+  ],
+  "kinds": [
+    "worship",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers establish prayer, pay zakah, and hold firm conviction in the reality of the Hereafter.",
+      "claim_bn": "মুমিন বান্দারা সালাত কায়েম করে, যাকাত আদায় করে এবং পরকালের প্রতি দৃঢ় বিশ্বাস রাখে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

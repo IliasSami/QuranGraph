@@ -1,102 +1,102 @@
 {
- "id": "2:99",
- "simple_en": "Allah has sent down to you, O Prophet, clear verses and signs that prove the truth of your prophethood. These proofs are evident and straightforward for anyone seeking guidance. No one rejects these clear signs except those who are defiantly disobedient and have willingly turned away from Allah's obedience.",
- "simple_bn": "হে নবী, নিশ্চয়ই আমরা আপনার প্রতি সুস্পষ্ট নিদর্শন ও আয়াতসমূহ নাযিল করেছি, যা আপনার নবুওয়াতের সত্যতা প্রমাণ করে। সত্যসন্ধানী যেকোনো মানুষের জন্য এ প্রমাণগুলো অত্যন্ত স্পষ্ট। যারা আল্লাহর আনুগত্য থেকে বের হয়ে গিয়ে চরম অবাধ্যতায় লিপ্ত হয়েছে, তারা ছাড়া আর কেউ এই আয়াতগুলোকে অস্বীকার করে না।",
- "key_words": [
-  {
-   "pos": 4,
-   "root": "أيي",
-   "lemma": "آيَة",
-   "meaning_en": "verses (signs)",
-   "meaning_bn": "আয়াত বা নিদর্শনসমূহ",
-   "why_en": "Refers to the revealed passages of the Quran that serve as undeniable proofs of divine origin."
-  },
-  {
-   "pos": 5,
-   "root": "بين",
-   "lemma": "بَيِّنَة",
-   "meaning_en": "clear and manifest",
-   "meaning_bn": "সুস্পষ্ট",
-   "why_en": "Emphasizes that the signs are bright and easy to understand for any honest seeker of truth."
-  },
-  {
-   "pos": 7,
-   "root": "كفر",
-   "lemma": "كَفَرَ",
-   "meaning_en": "disbelieves",
-   "meaning_bn": "অস্বীকার করে",
-   "why_en": "Indicates active rejection of what has been clearly proven to be true."
-  },
-  {
-   "pos": 10,
-   "root": "فسق",
-   "lemma": "فاسِق",
-   "meaning_en": "the defiantly disobedient",
-   "meaning_bn": "ফাসিকরা (চরম অবাধ্য ও সীমালঙ্ঘনকারীরা)",
-   "why_en": "Defines those who reject clear signs as people who have broken away from obedience to Allah."
-  }
- ],
- "lesson_en": "People often reject the truth out of stubborn pride, not because they lack clear proof.",
- "lesson_bn": "সুস্পষ্ট সত্য জানার পরও তা অস্বীকার করার মূল কারণ প্রমাণের অভাব নয়, বরং অহংকার ও অবাধ্যতা।",
- "real_life_en": "When someone shows you a clear ruling or reminder from the Quran about honesty or kindness, do not make excuses to ignore it. Accept the guidance with an open heart and correct your conduct.",
- "real_life_bn": "কুরআন ও হাদিসের সুস্পষ্ট প্রমাণ দেখে নিজের ভুল স্বীকার করতে দ্বিধা করবেন না। একগুঁয়েমি করে সত্য এড়িয়ে যাওয়ার বদলে বিনয়ের সাথে তা মেনে নিয়ে নিজের জীবন সংশোধন করাই মুমিনের পরিচয়।",
- "context_en": "Replies to the detractors who claimed the Prophet ﷺ brought no convincing signs by affirming that the verses themselves are completely clear.",
- "context_bn": "যারা দাবি করত যে নবী ﷺ কোনো স্পষ্ট প্রমাণ আনেননি, তাদের বক্তব্যের জবাবে কুরআনের আয়াতগুলোকে স্বয়ংসম্পূর্ণ ও স্পষ্ট প্রমাণ হিসেবে উল্লেখ করা হয়েছে।",
- "themes": [
-  "the Quran",
-  "revelation",
-  "prophethood",
-  "guidance",
-  "disbelief"
- ],
- "kinds": [
-  "promise",
-  "warning",
-  "argument",
-  "description-of-allah"
- ],
- "entities": {
-  "people": [
-   "Muhammad ﷺ"
+  "id": "2:99",
+  "simple_en": "Allah has sent down to you, O Prophet, clear verses and signs that prove the truth of your prophethood. These proofs are evident and straightforward for anyone seeking guidance. No one rejects these clear signs except those who are defiantly disobedient and have willingly turned away from Allah's obedience.",
+  "simple_bn": "হে নবী, নিশ্চয়ই আমরা আপনার প্রতি সুস্পষ্ট নিদর্শন ও আয়াতসমূহ নাযিল করেছি, যা আপনার নবুওয়াতের সত্যতা প্রমাণ করে। সত্যসন্ধানী যেকোনো মানুষের জন্য এ প্রমাণগুলো অত্যন্ত স্পষ্ট। যারা আল্লাহর আনুগত্য থেকে বের হয়ে গিয়ে চরম অবাধ্যতায় লিপ্ত হয়েছে, তারা ছাড়া আর কেউ এই আয়াতগুলোকে অস্বীকার করে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "verses (signs)",
+      "meaning_bn": "আয়াত বা নিদর্শনসমূহ",
+      "why_en": "Refers to the revealed passages of the Quran that serve as undeniable proofs of divine origin."
+    },
+    {
+      "pos": 5,
+      "root": "بين",
+      "lemma": "بَيِّنَة",
+      "meaning_en": "clear and manifest",
+      "meaning_bn": "সুস্পষ্ট",
+      "why_en": "Emphasizes that the signs are bright and easy to understand for any honest seeker of truth."
+    },
+    {
+      "pos": 7,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "disbelieves",
+      "meaning_bn": "অস্বীকার করে",
+      "why_en": "Indicates active rejection of what has been clearly proven to be true."
+    },
+    {
+      "pos": 10,
+      "root": "فسق",
+      "lemma": "فاسِق",
+      "meaning_en": "the defiantly disobedient",
+      "meaning_bn": "ফাসিকরা (চরম অবাধ্য ও সীমালঙ্ঘনকারীরা)",
+      "why_en": "Defines those who reject clear signs as people who have broken away from obedience to Allah."
+    }
   ],
-  "nations": [],
-  "places": [],
-  "unseen": [],
-  "names_of_allah": [],
-  "events": [],
-  "things": [
-   "the Quran"
-  ]
- },
- "claims": [
-  {
-   "text": "Allah sent down clear and evident signs and verses to the Prophet Muhammad ﷺ confirming his prophethood.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-ar-saadi",
-    "g-en-ibn-kathir"
-   ]
+  "lesson_en": "People often reject the truth out of stubborn pride, not because they lack clear proof.",
+  "lesson_bn": "সুস্পষ্ট সত্য জানার পরও তা অস্বীকার করার মূল কারণ প্রমাণের অভাব নয়, বরং অহংকার ও অবাধ্যতা।",
+  "real_life_en": "When someone shows you a clear ruling or reminder from the Quran about honesty or kindness, do not make excuses to ignore it. Accept the guidance with an open heart and correct your conduct.",
+  "real_life_bn": "কুরআন ও হাদিসের সুস্পষ্ট প্রমাণ দেখে নিজের ভুল স্বীকার করতে দ্বিধা করবেন না। একগুঁয়েমি করে সত্য এড়িয়ে যাওয়ার বদলে বিনয়ের সাথে তা মেনে নিয়ে নিজের জীবন সংশোধন করাই মুমিনের পরিচয়।",
+  "context_en": "Replies to the detractors who claimed the Prophet ﷺ brought no convincing signs by affirming that the verses themselves are completely clear.",
+  "context_bn": "যারা দাবি করত যে নবী ﷺ কোনো স্পষ্ট প্রমাণ আনেননি, তাদের বক্তব্যের জবাবে কুরআনের আয়াতগুলোকে স্বয়ংসম্পূর্ণ ও স্পষ্ট প্রমাণ হিসেবে উল্লেখ করা হয়েছে।",
+  "themes": [
+    "the Quran",
+    "revelation",
+    "prophethood",
+    "guidance",
+    "disbelief"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
   },
-  {
-   "text": "The signs and verses revealed in the Quran are lucid proofs that leave no reasonable room for doubt.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-en-maarif",
-    "g-en-jalalayn"
-   ]
-  },
-  {
-   "text": "Only those who are stubbornly rebellious and defiantly disobedient reject these manifest proofs.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-bn-ahsanul-bayan",
-    "g-ar-saadi"
-   ]
-  }
- ],
- "occasion": null,
- "sensitivity": "none",
- "scholars_differ": false,
- "confidence": 0.95,
- "uncertain": []
+  "claims": [
+    {
+      "text": "Allah sent down clear and evident signs and verses to the Prophet Muhammad ﷺ confirming his prophethood.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "The signs and verses revealed in the Quran are lucid proofs that leave no reasonable room for doubt.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-maarif",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Only those who are stubbornly rebellious and defiantly disobedient reject these manifest proofs.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-bn-ahsanul-bayan",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
 }

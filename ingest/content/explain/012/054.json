@@ -1,0 +1,92 @@
+{
+  "id": "12:54",
+  "simple_en": "The king was pleased with Yusuf's wisdom and character. He asked to keep Yusuf as his close trusted advisor. He told Yusuf that he now held high rank and full trust in the land.",
+  "simple_bn": "ইউসুফের প্রজ্ঞা ও চারিত্রিক দৃঢ়তা দেখে রাজা অত্যন্ত মুগ্ধ হলেন। তিনি ইউসুফকে নিজের একান্ত নির্ভরযোগ্য উপদেষ্টা হিসেবে কাছে রাখতে চাইলেন। তিনি ঘোষণা করলেন যে আজ থেকে ইউসুফ পূর্ণ মর্যাদাবান ও বিশ্বস্ত ব্যক্তি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ملك",
+      "lemma": "مَلِك",
+      "meaning_en": "the king",
+      "meaning_bn": "রাজা",
+      "why_en": "The Egyptian ruler recognizing true merit and character."
+    },
+    {
+      "pos": 5,
+      "root": "خلص",
+      "lemma": "أَسْتَخْلِصْ",
+      "meaning_en": "I select him exclusively",
+      "meaning_bn": "আমি তাকে একান্ত কাছের করে নেব",
+      "why_en": "Choosing Yusuf for high state leadership."
+    },
+    {
+      "pos": 13,
+      "root": "مكن",
+      "lemma": "مَكِين",
+      "meaning_en": "established in position",
+      "meaning_bn": "সুপ্রতিষ্ঠিত মর্যাদাবান",
+      "why_en": "Granted elevated status and legal authority."
+    },
+    {
+      "pos": 14,
+      "root": "أمن",
+      "lemma": "أَمِين",
+      "meaning_en": "trusted / trustworthy",
+      "meaning_bn": "বিশ্বস্ত ও নির্ভরযোগ্য",
+      "why_en": "Entrusted with the most vital interests of the kingdom."
+    }
+  ],
+  "lesson_en": "Honest work and practical skill earn deep respect from leaders and peers.",
+  "lesson_bn": "সততা ও কর্মদক্ষতা থাকলে সবার কাছে গভীর সম্মান ও আস্থা অর্জন করা যায়।",
+  "real_life_en": "A quiet engineer is chosen to lead a big city project. The mayor selects them because of their long record of honesty, skill, and hard work.",
+  "real_life_bn": "এক শান্ত ও দক্ষ প্রকৌশলীকে একটি বড় প্রকল্পের দায়িত্ব দেওয়া হয়। তাঁর সততা, মেধা ও নিষ্ঠার দীর্ঘ ইতিহাস দেখেই কর্তৃপক্ষ তাঁকে এই গুরুদায়িত্ব অর্পণ করে।",
+  "context_en": "After clearing Yusuf's honor and conversing with him, the king invited him into the highest tier of governance.",
+  "context_bn": "ইউসুফের সততা যাচাই ও তাঁর সাথে আলোচনার পর রাজা তাঁকে রাষ্ট্রের সর্বোচ্চ মর্যাদায় অধিষ্ঠিত করলেন।",
+  "themes": [
+    "honor",
+    "leadership",
+    "trustworthiness"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "king of Egypt"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The king wanted Yusuf as his personal, trusted aide.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "After speaking with Yusuf, the king affirmed his high status and trustworthiness.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

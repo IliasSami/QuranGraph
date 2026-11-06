@@ -1,0 +1,76 @@
+{
+  "id": "34:28",
+  "simple_en": "Allah sent the Prophet Muhammad ﷺ to all of humanity without exception. He came to bring glad news of Paradise to those who believe and to warn people of punishment for wrongdoing. Yet most people do not understand his universal mission.",
+  "simple_bn": "আল্লাহ নবী মুহাম্মাদ ﷺ-কে সমগ্র মানবজাতির জন্য সুসংবাদদাতা ও সতর্ককারী হিসেবে পাঠিয়েছেন। তিনি মুমিনদের জান্নাতের সুসংবাদ দেন এবং অন্যায়কারীদের শাস্তির ব্যাপারে সতর্ক করেন। কিন্তু অধিকাংশ মানুষ এই সার্বজনীন সত্য উপলব্ধি করে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كفف",
+      "lemma": "كافَّة",
+      "meaning_en": "comprehensively / to all",
+      "meaning_bn": "সমগ্র / সার্বজনীনভাবে",
+      "why_en": "Confirms the universal scope of the Prophet's mission to all mankind."
+    },
+    {
+      "pos": 7,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "bringer of good tidings",
+      "meaning_bn": "সুসংবাদদাতা",
+      "why_en": "The mission of bringing glad news of mercy and Paradise to believers."
+    },
+    {
+      "pos": 8,
+      "root": null,
+      "lemma": "لٰكِنّ",
+      "meaning_en": "a warner",
+      "meaning_bn": "সতর্ককারী",
+      "why_en": "Warning mankind against sin, disbelief, and Hellfire."
+    }
+  ],
+  "lesson_en": "Islam is a message for all people. It brings clear guidance, hope, and warning.",
+  "lesson_bn": "ইসলামের বার্তা সমগ্র মানবজাতির জন্য হিদায়াত, আশা ও সতর্কবার্তা বয়ে এনেছে।",
+  "real_life_en": "Show the beauty of faith through good deeds. Be kind, honest, and helpful to all people you meet at work or school.",
+  "real_life_bn": "নিজের ভালো আচরণ ও সততার মাধ্যমে সবার কাছে ইসলামের সুন্দর শিক্ষা তুলে ধরুন। মানুষের সাথে সদয় ও বিনয়ী ব্যবহার করুন।",
+  "themes": [
+    "prophethood",
+    "Prophet Muhammad ﷺ",
+    "guidance",
+    "the Quran"
+  ],
+  "kinds": [
+    "belief",
+    "address",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise",
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Prophet Muhammad ﷺ was sent to all mankind as a giver of glad tidings and a warner, though most people fail to recognize this truth.",
+      "claim_bn": "রাসূলুল্লাহ ﷺ-কে সকল মানুষের জন্য সুসংবাদদাতা ও সতর্ককারীরূপে প্রেরণ করা হয়েছে, যদিও অধিকাংশ মানুষ তা উপলব্ধি করে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "56:84",
+  "simple_en": "At that solemn moment, you sit nearby watching him helplessly. Loved ones look into the dying person's face with tears and sorrow. Yet with all your strength and love, you cannot stop death.",
+  "simple_bn": "সেই শোকাবহ মুহূর্তে তোমরা কাছে বসে কেবল চেয়ে চেয়ে দেখ। স্বজনেরা অশ্রুসজল চোখে বিদায়ী ব্যক্তির মুখের দিকে তাকিয়ে থাকে। কিন্তু সমস্ত ভালোবাসা ও শক্তি থাকা সত্ত্বেও কেউ মৃত্যুকে থামাতে পারে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حين",
+      "lemma": "حِين",
+      "meaning_en": "at that time",
+      "meaning_bn": "সেই সময়",
+      "why_en": "Points to the exact moment when human helplessness is laid bare."
+    },
+    {
+      "pos": 3,
+      "root": "نظر",
+      "lemma": "نَظَرَ",
+      "meaning_en": "you look on",
+      "meaning_bn": "তোমরা দেখতে থাকো",
+      "why_en": "Depicts bystanders watching the dying person without the power to intervene."
+    }
+  ],
+  "lesson_en": "Human strength is limited, so rely upon Allah who controls life and death.",
+  "lesson_bn": "মানুষের শক্তি সীমাবদ্ধ, তাই জীবন ও মৃত্যুর মালিক আল্লাহর ওপর সম্পূর্ণ ভরসা রাখুন।",
+  "real_life_en": "A loving son holds his father's hand in an emergency room. The monitors beep and then fall flat. The son weeps, realizing that only Allah has absolute control over life.",
+  "real_life_bn": "হাসপাতালে এক ছেলে তার অসুস্থ বাবার হাত ধরে বসে থাকে। যন্ত্রের শব্দ ধীরে ধীরে থেমে যায়। ছেলেটি কেঁদে ফেলে এবং উপলব্ধি করে যে জীবনের ওপর একমাত্র আল্লাহরই পূর্ণ কর্তৃত্ব রয়েছে।",
+  "themes": [
+    "death",
+    "human nature",
+    "trust in Allah"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Relatives and bystanders look on helplessly as the dying person breathes their last.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

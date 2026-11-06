@@ -1,0 +1,63 @@
+{
+  "id": "16:20",
+  "simple_en": "Those false gods that people call upon besides Allah cannot create a single thing. In truth, they are created objects that have no life or power.",
+  "simple_bn": "আল্লাহকে ছাড়া তারা অন্য যাদেরকে সাহায্যকারী হিসেবে ডাকে, তারা বিন্দুমাত্র কোনো কিছু সৃষ্টি করতে পারে না, বরং তাদেরকে নিজেদেরকেই তো অন্যের দ্বারা সৃষ্টি করা হয়েছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "they invoke",
+      "meaning_bn": "তারা ডাকে",
+      "why_en": "Calling upon idols in false worship."
+    },
+    {
+      "pos": 7,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "they create",
+      "meaning_bn": "সৃষ্টি করে",
+      "why_en": "False gods lack creative power completely."
+    }
+  ],
+  "lesson_en": "False gods have no power to create. They cannot answer any call for help.",
+  "lesson_bn": "যেসব বস্তু নিজেরা সৃষ্ট এবং কোনো কিছু সৃষ্টির ক্ষমতা রাখে না, তারা উপাসনা পাওয়ার উপযুক্ত নয়।",
+  "real_life_en": "Put your trust in the Living God. Do not rely on charms, stones, or weak men.",
+  "real_life_bn": "কোনো নশ্বর মানুষের কাছে পরম প্রাপ্তির আশা করবেন না। আপনার সব চাওয়া-পাওয়া একমাত্র সৃষ্টিকর্তার কাছে সমর্পণ করুন।",
+  "themes": [
+    "tawhid",
+    "idolatry",
+    "logic"
+  ],
+  "kinds": [
+    "argument",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "False deities invoked besides Allah create nothing and are themselves created.",
+      "claim_bn": "আল্লাহ ছাড়া যাদের ডাকা হয় তারা কিছুই সৃষ্টি করে না বরং তারা নিজেরাও সৃষ্ট।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

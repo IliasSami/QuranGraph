@@ -1,0 +1,65 @@
+{
+  "id": "26:34",
+  "simple_en": "Pharaoh was afraid when he saw these signs. He told his chiefs that Moses was only a skilled magician who wanted to fool the people.",
+  "simple_bn": "এসব দেখে ফিরআউন ভীত হয়ে তার আশেপাশের নেতৃবৃন্দকে বলল, এ তো দেখছি এক অতি দক্ষ ও চতুর জাদুকর।",
+  "key_words": [
+    {
+      "pos": 6,
+      "arabic": "لَسَٰحِرٌ",
+      "root": "سحر",
+      "lemma": "ساحِر",
+      "meaning_en": "a magician",
+      "meaning_bn": "একজন যাদুকর",
+      "why_en": "Pharaoh's false label to dismiss Moses's miracles."
+    },
+    {
+      "pos": 7,
+      "arabic": "عَلِيمٌ",
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "skilled",
+      "meaning_bn": "অভিজ্ঞ বা বিজ্ঞ",
+      "why_en": "Possessing mastery over trickery and illusions."
+    }
+  ],
+  "lesson_en": "Arrogant rulers try to label true signs as tricks so they do not lose their power.",
+  "lesson_bn": "সত্যের প্রকাশ্য মুজিযা দেখেও ক্ষমতা হারানোর ভয়ে অত্যাচারী শাসকরা একে জাদু বা প্রতারণা বলে অপপ্রচার চালায়।",
+  "real_life_en": "Be careful not to dismiss true facts as mere tricks. Look at evidence with an open and fair mind.",
+  "real_life_bn": "সুস্পষ্ট সত্যকে অন্ধ অহংকারের কারণে অস্বীকার করবেন না। কোনো ভালো বিষয়ের বিরুদ্ধে বিভ্রান্তিকর অপপ্রচার চালানো পাপ।",
+  "themes": [
+    "slander",
+    "pharaoh",
+    "miracles"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh alarmed by the signs falsely accused Moses of being a skilled magician.",
+      "claim_bn": "নিদর্শন দেখে ভীত হয়ে ফিরআউন মূসাকে এক অভিজ্ঞ যাদুকর বলে অপবাদ দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,66 @@
+{
+ "id": "75:27",
+ "simple_en": "Family and friends stand around the dying person in distress. They ask each other if there is any doctor, medicine, or prayer that can heal him. But when the appointed time comes, no one in the world can hold the soul back.",
+ "simple_bn": "মুমূর্ষু ব্যক্তির পাশে দাঁড়িয়ে থাকা পরিবার ও বন্ধুরা অসহায় হয়ে পড়ে। তারা একে অপরকে জিজ্ঞেস করে, এমন কোনো চিকিৎসক বা আরোগ্যকারী আছে কি যে তাকে বাঁচাতে পারে। কিন্তু মৃত্যুর নির্ধারিত সময় এসে গেলে পৃথিবীর কেউই তাকে ধরে রাখতে পারে না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قول",
+   "lemma": "قالَ",
+   "meaning_en": "it is said",
+   "meaning_bn": "বলা হবে",
+   "why_en": "Helpless onlookers asking if anyone can heal him."
+  },
+  {
+   "pos": 3,
+   "root": "رقي",
+   "lemma": "راق",
+   "meaning_en": "healer",
+   "meaning_bn": "আরোগ্যকারী",
+   "why_en": "Searching desperately for a doctor or healer to save his life."
+  }
+ ],
+ "lesson_en": "When Allah decrees the moment of death, no medicine or doctor can turn it away.",
+ "lesson_bn": "আল্লাহ যখন মৃত্যুর হুকুম দেন, তখন কোনো ওষুধ বা চিকিৎসক তা ঠেকাতে পারে না।",
+ "real_life_en": "Medicine and doctors help us heal, but life and death are in Allah's hands. Always trust in Allah when you seek medical care.",
+ "real_life_bn": "চিকিৎসা করা একটি মাধ্যম মাত্র, কিন্তু হায়াত ও মউত সম্পূর্ণ আল্লাহর হাতে। অসুস্থ হলে ডাক্তারের কাছে গেলেও অন্তরে একমাত্র আল্লাহর ওপরই ভরসা রাখুন।",
+ "themes": [
+  "death",
+  "trust in Allah",
+  "human nature"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "death"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [
+   "death"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those around the dying person desperately ask if anyone can heal him, but no one can prevent his departure.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

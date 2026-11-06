@@ -1,0 +1,83 @@
+{
+ "id": "45:26",
+ "simple_en": "Say to them: It is Allah who gives you life, then causes you to die, and then gathers all of you together on the Day of Resurrection, about which there is no doubt. Yet most people do not understand.",
+ "simple_bn": "বলুন, আল্লাহই তোমাদের জীবন দেন, অতঃপর তিনি তোমাদের মৃত্যু ঘটান, এরপর কিয়ামতের দিন তিনি তোমাদের সবাইকে একত্রিত করবেন—যাতে কোনো সন্দেহ নেই। কিন্তু অধিকাংশ মানুষই তা জানে না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "حيي",
+   "lemma": "أَحْيا",
+   "meaning_en": "gives you life",
+   "meaning_bn": "তোমাদের জীবন দেন",
+   "why_en": "Allah brought each human from non-existence into life."
+  },
+  {
+   "pos": 5,
+   "root": "موت",
+   "lemma": "أَماتَ",
+   "meaning_en": "causes you to die",
+   "meaning_bn": "তোমাদের মৃত্যু ঘটান",
+   "why_en": "Death happens solely by Allah's fixed decree."
+  },
+  {
+   "pos": 7,
+   "root": "جمع",
+   "lemma": "جَمَعَ",
+   "meaning_en": "He will gather you",
+   "meaning_bn": "তিনি তোমাদের একত্রিত করবেন",
+   "why_en": "Every generation will assemble before Allah on the Last Day."
+  },
+  {
+   "pos": 12,
+   "root": "ريب",
+   "lemma": "رَيْب",
+   "meaning_en": "no doubt",
+   "meaning_bn": "কোনো সন্দেহ নেই",
+   "why_en": "The Day of Resurrection is an absolute certainty."
+  }
+ ],
+ "lesson_en": "Allah controls our birth, death, and final resurrection on the Day of Judgment.",
+ "lesson_bn": "আমাদের জন্ম, মৃত্যু এবং কিয়ামতের ময়দানে পুনরুত্থান সবকিছুই একমাত্র আল্লাহর নিয়ন্ত্রণে।",
+ "real_life_en": "Remember that the same Creator who gave you life today will gather all people on the Last Day. Prepare for that certain gathering with good deeds and constant prayer.",
+ "real_life_bn": "মনে রাখবেন যিনি আজ জীবন দিয়েছেন, তিনিই পরকালে হিসাবের জন্য সবাইকে উপস্থিত করবেন। সেই অবধারিত দিনের জন্য নিয়মিত সালাত ও সৎকাজের মাধ্যমে প্রস্তুতি নিন।",
+ "themes": [
+  "resurrection",
+  "the Last Day",
+  "tawhid",
+  "Allah's power"
+ ],
+ "kinds": [
+  "belief",
+  "argument",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah creates life from non-existence, ordains death, and will gather all humanity on the indubitable Day of Resurrection.",
+   "claim_bn": "আল্লাহই মানুষকে অস্তিত্বহীনতা থেকে জীবন দেন, মৃত্যু ঘটান এবং নিঃসন্দেহে কিয়ামতের দিন সবাইকে সমবেত করবেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

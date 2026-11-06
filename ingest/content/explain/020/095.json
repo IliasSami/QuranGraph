@@ -1,0 +1,68 @@
+{
+  "id": "20:95",
+  "simple_en": "Moses then turned to the maker of the calf: What is your story, O Samiri? He asked what made him lead the people into such a terrible sin.",
+  "simple_bn": "অতঃপর মূসা মূল চক্রান্তকারীর দিকে ফিরলেন: হে সামিরি, তোমার ব্যাপার কী? তিনি জানতে চাইলেন কিসে তাকে এমন প্রতারণামূলক মূর্তি তৈরিতে প্ররোচিত করল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "خطب",
+      "lemma": "خَطْب",
+      "meaning_en": "your affair or motive",
+      "meaning_bn": "তোমার উদ্দেশ্য বা বিষয়",
+      "why_en": "Direct questioning of the criminal culprit."
+    },
+    {
+      "pos": 4,
+      "root": "سمر",
+      "lemma": "سَّامِرِيّ",
+      "meaning_en": "the Samiri",
+      "meaning_bn": "সামিরি",
+      "why_en": "The mastermind of the idol deception."
+    }
+  ],
+  "lesson_en": "Call out the real culprits. Do not blame only the crowd when a leader led them wrong.",
+  "lesson_bn": "ইনসাফের দাবি হলো বিভ্রান্ত সাধারণ মানুষের চেয়ে যারা পেছন থেকে চক্রান্ত করেছে তাদের আসল জবাবদিহির মুখোমুখি করা।",
+  "real_life_en": "Hold ringleaders accountable for bad actions. Focus your corrective efforts on the root causes of wrongdoing.",
+  "real_life_bn": "সমস্যা সমাধানের সময় মূল হোতাদের চিহ্নিত করুন। শুধু অনুসারীদের দোষারোপ না করে মূল কারণ নির্মূল করুন।",
+  "themes": [
+    "justice",
+    "confronting-evil",
+    "musa",
+    "samiri"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Samiri"
+    ],
+    "nations": [],
+    "places": [
+      "Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Questioning Samiri"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses interrogated the Samiri to uncover the motives behind his corrupt innovation.",
+      "claim_bn": "মূসা সামিরিকে সরাসরি জিজ্ঞাসাবাদ করেন যাতে তার এই জঘন্য চক্রান্তের মূল উদ্দেশ্য প্রকাশ পায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,73 @@
+{
+  "id": "12:92",
+  "simple_en": "Yusuf pardoned his brothers immediately. He told them that there was no blame or shame on them today. He prayed that Allah would forgive them, for Allah is the most merciful of all who show mercy.",
+  "simple_bn": "ইউসুফ তখনই তাঁর ভাইদের ক্ষমা করে দিলেন। তিনি বললেন, আজ তোমাদের ওপর কোনো দোষারোপ বা শাস্তি নেই। তিনি আল্লাহর কাছে তাদের ক্ষমার জন্য দোয়া করলেন, কারণ আল্লাহ সর্বাধিক দয়ালু।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ثرب",
+      "lemma": "تَثْرِيب",
+      "meaning_en": "blame or reproach",
+      "meaning_bn": "দোষারোপ বা ভর্ৎসনা",
+      "why_en": "Yusuf lifts all guilt and punishment from them at once."
+    },
+    {
+      "pos": 6,
+      "root": "غفر",
+      "lemma": "غَفَرَ",
+      "meaning_en": "may He forgive",
+      "meaning_bn": "তিনি ক্ষমা করুন",
+      "why_en": "Yusuf pairs human pardon with supplication for divine forgiveness."
+    },
+    {
+      "pos": 10,
+      "root": "رحم",
+      "lemma": "أَرْحَم",
+      "meaning_en": "most merciful",
+      "meaning_bn": "সর্বাধিক দয়ালু",
+      "why_en": "Affirms Allah's boundless mercy that exceeds all human compassion."
+    }
+  ],
+  "lesson_en": "Noble people choose forgiveness and prayer instead of revenge when they hold power.",
+  "lesson_bn": "ক্ষমতায় থাকা অবস্থায় প্রতিশোধ না নিয়ে ক্ষমা ও দোয়া করাই মহৎ চরিত্রের পরিচয়।",
+  "real_life_en": "A boss learns an old peer said bad things about him. In his new role, he does not harm them. He treats them with kindness and fair care.",
+  "real_life_bn": "একজন বড় কর্মকর্তা জানতে পারলেন অতীতে এক সহকর্মী তাঁর বিরুদ্ধে মিথ্যা অপবাদ দিয়েছিল। এখন বড় পদে থেকেও তিনি কোনো প্রতিশোধ না নিয়ে সেই ব্যক্তির সাথে সদাচরণ করলেন।",
+  "context_en": "After the brothers confessed their sins, Yusuf showed complete mercy and prayed for their forgiveness.",
+  "context_bn": "ভাইদের অনুশোচনা দেখে ইউসুফ তাঁদেরকে সম্পূর্ণ ক্ষমা করে দিলেন এবং তাঁদের জন্য দোয়া করলেন।",
+  "themes": [
+    "forgiveness",
+    "mercy",
+    "generosity"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "brothers of Yusuf"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Yusuf pardoned his brothers without reproach and prayed for Allah to forgive them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

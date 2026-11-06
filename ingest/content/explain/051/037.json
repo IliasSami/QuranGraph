@@ -1,0 +1,68 @@
+{
+  "id": "51:37",
+  "simple_en": "God left behind clear signs and ruins where that corrupt city once stood. These traces serve as a lasting lesson for people who fear the painful punishment of God. Seeing the ruins reminds humanity to avoid the same mistakes.",
+  "simple_bn": "আর যারা বেদনাদায়ক শাস্তিকে ভয় করে, তাদের জন্য আমরা সেখানে এক শিক্ষণীয় নিদর্শন অবশিষ্ট রেখেছি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "a lasting sign",
+      "meaning_bn": "নিদর্শন",
+      "why_en": "The preserved ruins that bear witness to the divine punishment."
+    },
+    {
+      "pos": 5,
+      "root": "خوف",
+      "lemma": "خافَ",
+      "meaning_en": "they fear",
+      "meaning_bn": "তারা ভয় করে",
+      "why_en": "Those who possess enough reverence to learn from history."
+    },
+    {
+      "pos": 7,
+      "root": "ألم",
+      "lemma": "أَلِيم",
+      "meaning_en": "painful",
+      "meaning_bn": "মর্মন্তুদ বা কষ্টদায়ক",
+      "why_en": "The severe nature of the punishment that befell the deniers."
+    }
+  ],
+  "lesson_en": "Learn from the past. Do not repeat the mistakes of ruined nations.",
+  "lesson_bn": "অতীতের ধ্বংসপ্রাপ্ত জাতির ইতিহাস মানুষকে অন্যায় ও অহংকার থেকে দূরে থাকার শিক্ষা দেয়।",
+  "real_life_en": "When reading about the rise and fall of ancient societies, pay attention to the causes of their decline. Learn lessons from the past to guide your choices today.",
+  "real_life_bn": "অতীতের ধ্বংসপ্রাপ্ত সভ্যতার ইতিহাস পাঠ করে শিক্ষা গ্রহণ করুন। যেসব অন্যায় তাদের পতন ডেকে এনেছিল তা থেকে সবসময় দূরে থাকুন।",
+  "themes": [
+    "signs in nature",
+    "punishment",
+    "past nations"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Signs of punishment were left in the city of Lot as a lesson for those who fear painful punishment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

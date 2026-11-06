@@ -1,0 +1,71 @@
+{
+  "id": "18:77",
+  "simple_en": "They traveled until they reached a town. They asked its people for food, but the residents refused to host them. Finding a broken wall, the wise man rebuilt it.",
+  "simple_bn": "অতঃপর তারা চলতে লাগল এবং এক জনপদে পৌঁছে তাদের কাছে খাবার চাইল। কিন্তু তারা আতিথেয়তা করতে অস্বীকার করল। সেখানে একটি পতনোন্মুখ দেয়াল দেখে সে তা সোজা করে দাঁড় করিয়ে দিল।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "قري",
+      "lemma": "قَرْيَة",
+      "meaning_en": "a town",
+      "meaning_bn": "একটি জনপদ",
+      "why_en": "The inhospitable city visited by the two travelers."
+    },
+    {
+      "pos": 14,
+      "root": "جدر",
+      "lemma": "جِدار",
+      "meaning_en": "a wall",
+      "meaning_bn": "একটি দেয়াল",
+      "why_en": "The collapsing barrier restored without demanding payment."
+    }
+  ],
+  "lesson_en": "Do good even to those who treat you coldly. Sincere charity is done for God, not for human applause.",
+  "lesson_bn": "অসদাচরণকারীদের প্রতিও ভালো ব্যবহার করুন। নিঃস্বার্থ পরোপকার আল্লাহর সন্তুষ্টির জন্যই করা হয়।",
+  "real_life_en": "Help people in need even if they were unkind to you in the past. Overcome bitterness with constructive action.",
+  "real_life_bn": "মানুষ রুক্ষ আচরণ করলেও প্রতিশোধপরায়ণ হবেন না। ভালো কাজের মাধ্যমে মানুষের কঠোর মন জয় করুন।",
+  "themes": [
+    "rebuilding-the-wall",
+    "inhospitable-town",
+    "unconditional-kindness",
+    "serving-without-fee"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "al-Khidr"
+    ],
+    "nations": [],
+    "places": [
+      "The-Inhospitable-Town"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Rebuilding-the-Wall"
+    ],
+    "things": [
+      "Wall"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Despite the townspeople refusing food and hospitality, al-Khidr rebuilt a collapsing wall without seeking wages.",
+      "claim_bn": "জনপদের লোকেরা খাবার দিতে অস্বীকার করলেও খিজির তাদের ভেঙে পড়া দেয়ালটি ঠিক করে দিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "26:185",
+  "simple_en": "The disbelievers replied by mocking prophet Shu'ayb with harsh words. They claimed he was bewitched and had lost his sound mind because of dark magic spells.",
+  "simple_bn": "অবিশ্বাসী লোকেরা উপহাস করে শুআইবকে বলল, তুমি তো জাদুগ্ৰস্তদের একজন। তারা মিথ্যা অপবাদ দিয়ে তাঁর সুস্থ বিবেক ও সত্য বাণীকে উড়িয়ে দিতে চাইল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "arabic": "قَالُوٓا۟",
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "they said",
+      "meaning_bn": "তারা বলল",
+      "why_en": "Introduces the haughty response of the disbelievers."
+    },
+    {
+      "pos": 5,
+      "arabic": "ٱلْمُسَحَّرِينَ",
+      "root": "سحر",
+      "lemma": "مُسَحَّر",
+      "meaning_en": "the bewitched",
+      "meaning_bn": "জাদুগ্ৰস্তদের অন্তর্ভুক্ত",
+      "why_en": "Reflects the baseless insult used to discredit the prophet."
+    }
+  ],
+  "lesson_en": "Stubborn people often insult sincere teachers. They mock the truth instead of answering sound arguments.",
+  "lesson_bn": "অহংকারী মানুষেরা যুক্তি না পেয়ে সত্য প্রচারককে ব্যক্তিগত আক্রমণ ও উপহাস করে। বিদ্রূপ করা অন্ধ অহংকারের লক্ষণ।",
+  "real_life_en": "Stay calm when people mock your good values. Respond with patience and let truth speak through your character.",
+  "real_life_bn": "ভালো কাজের জন্য কেউ আপনাকে কটূক্তি করলে ধৈর্য ধারণ করুন। নিজের নৈতিক আচরণ ও সত্যের মাধ্যমে জবাব দিন।",
+  "themes": [
+    "denial",
+    "mockery",
+    "prophethood"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelievers accused Shu'ayb of being affected by magic to dismiss his message.",
+      "claim_bn": "অবিশ্বাসীরা শুআইবকে জাদুগ্ৰস্ত বলে কটাক্ষ করল যেন তারা তাঁর নবুওয়াতকে অস্বীকার করতে পারে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

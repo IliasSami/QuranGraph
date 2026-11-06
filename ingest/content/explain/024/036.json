@@ -1,0 +1,67 @@
+{
+  "id": "24:36",
+  "simple_en": "This light shines in houses of worship that God has ordered to be built and honored. In them His holy name is remembered. Faithful believers praise Him there morning and evening.",
+  "simple_bn": "এই আলো রয়েছে এমন গৃহগুলোতে, যা সমুন্নত রাখতে এবং যেখানে নিজের নাম স্মরণ করতে আল্লাহ আদেশ দিয়েছেন। সেখানে সকাল-সন্ধ্যায় একান্ত অনুগত বান্দারা তাঁর পবিত্রতা ও মহিমা ঘোষণা করে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "بيت",
+      "lemma": "بَيْت",
+      "meaning_en": "houses (mosques)",
+      "meaning_bn": "গৃহসমূহ বা মসজিদসমূহ",
+      "why_en": "Dedicated sanctuaries established for prayer and the remembrance of God."
+    },
+    {
+      "pos": 7,
+      "root": "ذكر",
+      "lemma": "ذَكَرَ",
+      "meaning_en": "and be remembered",
+      "meaning_bn": "স্মরণ করা হয়",
+      "why_en": "Continuous mention, invocation, and glorification of God's name."
+    }
+  ],
+  "lesson_en": "Mosques are sacred places built for prayer and divine remembrance. Keeping them clean and vibrant honors God.",
+  "lesson_bn": "মসজিদ হলো আল্লাহর ইবাদত ও স্মরণের পবিত্র স্থান। মসজিদগুলোর সম্মান রক্ষা করা ও সেখানে নিয়মিত ইবাদত করা মুমিনের বৈশিষ্ট্য।",
+  "real_life_en": "Visit the mosque to pray with others. Treat houses of prayer with care and respect. Keep quiet so people can focus on God.",
+  "real_life_bn": "জামাতে সালাত আদায়ের জন্য নিয়মিত মসজিদে উপস্থিত হোন। মসজিদের সম্মান ও পরিচ্ছন্নতা বজায় রাখুন এবং সেখানে শান্ত মনে আল্লাহর জিকিরে নিমগ্ন থাকুন।",
+  "themes": [
+    "mosques",
+    "remembrance-of-allah",
+    "worship",
+    "congregation"
+  ],
+  "kinds": [
+    "command",
+    "description-of-allah",
+    "worship"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "mosque"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Houses of worship (mosques) are ordained by God to be elevated and honored, where devoted believers glorify His holy name morning and evening.",
+      "claim_bn": "মসজিদসমূহকে সমুন্নত রাখতে ও সম্মান করতে আল্লাহ নির্দেশ দিয়েছেন, যেখানে সকাল-সন্ধ্যায় নিষ্ঠাবান মুমিনরা তাঁর তাসবীহ ও মহিমা পাঠ করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

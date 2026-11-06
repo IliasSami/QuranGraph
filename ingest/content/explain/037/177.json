@@ -1,0 +1,67 @@
+{
+  "id": "37:177",
+  "simple_en": "When the punishment falls in their yards, it will be a dark morning for them. They were warned many times, but they laughed. Their past joy will turn to deep sorrow.",
+  "simple_bn": "যখন আল্লাহর আযাব হঠাৎ করে তাদের আঙিনায় নেমে আসবে, তখন সতর্কীকৃত এই অবাধ্য মানুষদের সকাল কতই না ভয়াবহ হবে। যে সতর্কবাণী তারা অবহেলা করেছিল, তা চাক্ষুষ দেখে তারা কোনো রক্ষা পাবে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نزل",
+      "lemma": "نَزَلَ",
+      "meaning_en": "it descends",
+      "meaning_bn": "তা নেমে আসবে",
+      "why_en": "Depicts punishment falling suddenly like an invading force."
+    },
+    {
+      "pos": 3,
+      "root": "سوح",
+      "lemma": "ساحَة",
+      "meaning_en": "their courtyard / open grounds",
+      "meaning_bn": "তাদের আঙিনায় বা চত্বরে",
+      "why_en": "Shows the disaster striking right into the heart of their homes."
+    },
+    {
+      "pos": 6,
+      "root": "نذر",
+      "lemma": "مُنذَر",
+      "meaning_en": "those who were warned",
+      "meaning_bn": "সতর্কীকৃতদের",
+      "why_en": "Highlights that they had received clear warnings before this ruin fell."
+    }
+  ],
+  "lesson_en": "Do not ignore warnings, or harm will come fast.",
+  "lesson_bn": "বারবার সতর্ক করার পরেও গাফেল থাকলে হঠাৎ আসা ধ্বংস কেউ থামাতে পারে না।",
+  "real_life_en": "Listen to good advice before small errors turn into big harm. Fixing mistakes early saves you from sudden pain.",
+  "real_life_bn": "জীবনের যে কোনো ভুলের ব্যাপারে শুরুতেই সচেতন হোন। সময় থাকতে সংশোধন না করলে হঠাৎ আসা সংকট চরম অনুশোচনার কারণ হয়।",
+  "themes": [
+    "divine punishment",
+    "warning",
+    "sudden doom"
+  ],
+  "kinds": [
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When Allah's punishment descends upon the warned disbelievers, their morning will be terrible.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

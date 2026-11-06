@@ -1,0 +1,75 @@
+{
+  "id": "6:29",
+  "simple_en": "The disbelievers say that there is only this worldly life. They claim that people live and die without any resurrection. By denying the Day of Judgment, they feel free to indulge in sins and ignore divine guidance. This false belief blinds them to the real purpose of life.",
+  "simple_bn": "কাফিররা অহংকার করে বলে যে, পার্থিব জীবন ছাড়া আর কোনো জীবন নেই এবং মৃত্যুর পর কাউকে পুনরায় জীবিত করা হবে না। আখিরাত ও হিসাব-নিকাশ অস্বীকার করার কারণেই তারা পাপাচারে লিপ্ত হয় এবং সত্যের পরোয়া করে না। এই ভুল বিশ্বাস মানুষকে জীবনের আসল উদ্দেশ্য ভুলিয়ে দেয়।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "حيي",
+      "lemma": "حَياة",
+      "meaning_en": "our life",
+      "meaning_bn": "আমাদের জীবন",
+      "why_en": "Reflects the materialist view that restricts human existence to this earthly life."
+    },
+    {
+      "pos": 6,
+      "root": "دنو",
+      "lemma": "دُنْيا",
+      "meaning_en": "worldly or earthly",
+      "meaning_bn": "পার্থিব",
+      "why_en": "Points to the transient earthly realm that disbelievers obsess over."
+    },
+    {
+      "pos": 9,
+      "root": "بعث",
+      "lemma": "مَبْعُوث",
+      "meaning_en": "resurrected",
+      "meaning_bn": "পুনরুত্থিত",
+      "why_en": "Highlights the central belief in resurrection which the deniers rejected."
+    }
+  ],
+  "lesson_en": "We will all rise again. Knowing we must answer to Allah guides our choices.",
+  "lesson_bn": "পুনরুত্থান ও চূড়ান্ত জবাবদিহিতায় বিশ্বাস মানুষকে দায়িত্বশীল ও সৎ জীবনযাপন করতে শেখায়।",
+  "real_life_en": "A person who thinks life ends at death lives only for selfish joy. But a person who knows judgment is coming acts with care. He speaks the truth, treats people well, and seeks the pleasure of Allah.",
+  "real_life_bn": "মৃত্যুর পর আর কোনো জীবন নেই—এমন ভাবলে মানুষ কেবল তাৎক্ষণিক ভোগের পেছনে ছোটে। কিন্তু আল্লাহর কাছে জবাবদিহিতার চেতনা মানুষকে ন্যায়ের পথে অবিচল রাখে এবং অন্যের প্রতি সহানুভূতিশীল হতে শেখায়।",
+  "context_en": "Exposes the materialist mindset that denies the afterlife and rejects moral accountability.",
+  "context_bn": "ইহজাগতিক বস্তুবাদী দৃষ্টিভঙ্গি তুলে ধরা হয়েছে, যা পরকাল অস্বীকার করে জবাবদিহিতাহীন জীবনের দাবি করে।",
+  "themes": [
+    "resurrection",
+    "worldly-life",
+    "disbelief"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Resurrection"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers claim that existence is confined strictly to worldly life and deny the resurrection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

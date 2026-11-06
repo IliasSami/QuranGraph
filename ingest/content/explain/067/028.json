@@ -1,0 +1,73 @@
+{
+  "id": "67:28",
+  "simple_en": "Say: Tell me, if Allah causes me and the believers to die, or has mercy on us, who will save the disbelievers from painful torment? Wishing harm on others will not save you from God's judgment.",
+  "simple_bn": "বলুন: তোমরা ভেবে দেখেছ কি, আল্লাহ যদি আমাকে ও আমার সঙ্গীদের মৃত্যু দেন কিংবা আমাদের ওপর দয়া করেন, তবে কাফিরদের যন্ত্রণাদায়ক শাস্তি থেকে কে রক্ষা করবে?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "causes me to die",
+      "meaning_bn": "আমাকে মৃত্যু দেন",
+      "why_en": "Addresses the spiteful hope of enemies that the Prophet ﷺ would pass away."
+    },
+    {
+      "pos": 9,
+      "root": "رحم",
+      "lemma": "رَحِمَ",
+      "meaning_en": "has mercy on us",
+      "meaning_bn": "আমাদের ওপর দয়া করেন",
+      "why_en": "Affirms that believers place all their hope in the grace of their Lord."
+    },
+    {
+      "pos": 11,
+      "root": "جور",
+      "lemma": "يُجِيرُ",
+      "meaning_en": "will protect",
+      "meaning_bn": "রক্ষা করবে",
+      "why_en": "Challenges the deniers to find any protector against divine wrath."
+    }
+  ],
+  "lesson_en": "Worry about your own deeds before God instead of wishing harm on other people.",
+  "lesson_bn": "অন্যের অমঙ্গল কামনা না করে নিজের পরকালীন মুক্তির চিন্তা করাই প্রতিটি মানুষের কর্তব্য।",
+  "real_life_en": "A shop owner wastes time wishing that his neighbor's shop would fail. Soon his own debts grow. He sees that envy did not help him at all. It is better to focus on fixing one's own work.",
+  "real_life_bn": "অন্যের ক্ষতি চেয়ে নিজের আখেরাত বরবাদ করা উচিত নয়। নিজের জবাবদিহিতার কথা স্মরণ রেখে নিজের আমল শুদ্ধ করাই আসল মুক্তি।",
+  "themes": [
+    "prophethood",
+    "punishment",
+    "disbelief",
+    "trust in Allah"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet questions the disbelievers on who would protect them from painful punishment regardless of what happens to the believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

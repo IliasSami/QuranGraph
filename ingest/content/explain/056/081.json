@@ -1,0 +1,63 @@
+{
+  "id": "56:81",
+  "simple_en": "Do you treat this noble speech of Allah with compromise or denial? Instead of accepting its guidance with open hearts, some people make light of its warnings and look down upon its verses.",
+  "simple_bn": "তোমরা কি আল্লাহর এই মহান বাণীকে অবহেলা বা অস্বীকার করছো? খোলা মনে এর হেদায়েত গ্রহণ করার বদলে কিছু মানুষ এর সতর্কবার্তাকে তুচ্ছ জ্ঞান করে এবং সত্য থেকে মুখ ফিরিয়ে নেয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حدث",
+      "lemma": "حَدِيث",
+      "meaning_en": "this statement or discourse",
+      "meaning_bn": "এই বাণী বা কুরআন",
+      "why_en": "Refers to the Quranic revelation as a clear, truthful message."
+    },
+    {
+      "pos": 4,
+      "root": "دهن",
+      "lemma": "مُدْهِن",
+      "meaning_en": "treating with indifference or compromise",
+      "meaning_bn": "অবহেলাকারী বা উদাসীন",
+      "why_en": "Scolds those who take divine truth lightly or dismiss it casually."
+    }
+  ],
+  "lesson_en": "Take the Quran to heart and never ignore its words.",
+  "lesson_bn": "কুরআনের প্রতিটি বাণীকে গুরুত্ব দিন এবং কখনো একে অবহেলা করবেন না।",
+  "real_life_en": "A patient ignores his doctor's strict health warning and keeps eating harmful foods. His careless attitude puts his health in danger. Treating divine guidance lightly brings far greater loss.",
+  "real_life_bn": "ডাক্তারের জরুরি স্বাস্থ্যবিধি অবহেলা করে ক্ষতিকর খাবার খেয়ে রোগী নিজের বিপদ ডেকে আনে। একইভাবে আল্লাহর বাণীকে অবহেলা করলে পরকালে অপূরণীয় ক্ষতি হয়।",
+  "themes": [
+    "the Quran",
+    "warning",
+    "reflection"
+  ],
+  "kinds": [
+    "address",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The idolaters are scolded for treating the Quranic discourse with disdain, doubt, or denial.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

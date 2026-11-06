@@ -1,0 +1,62 @@
+{
+  "id": "56:44",
+  "simple_en": "That smoky shade is neither cool to soothe the body nor pleasant to look at. Unlike comforting shade on earth that brings rest, this dark cloud brings only heat, stench, and terror.",
+  "simple_bn": "সেই ধোঁয়ার ছায়া শরীর জুড়ানোর মতো শীতলও নয় এবং দেখতেও সুন্দর নয়। দুনিয়ার আরামদায়ক ছায়ার মতো এতে কোনো বিশ্রাম নেই, বরং তা শুধু উত্তাপ, দুর্গন্ধ ও আতঙ্ক বয়ে আনবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "برد",
+      "lemma": "بارِد",
+      "meaning_en": "cool",
+      "meaning_bn": "শীতল",
+      "why_en": "Denies any soothing temperature in the smoke of Hell."
+    },
+    {
+      "pos": 4,
+      "root": "كرم",
+      "lemma": "كَرِيم",
+      "meaning_en": "pleasant or noble",
+      "meaning_bn": "সম্মানজনক বা সুন্দর",
+      "why_en": "Shows it has no dignity, beauty, or honorable quality."
+    }
+  ],
+  "lesson_en": "True relief and noble peace are found only in the obedience of Allah.",
+  "lesson_bn": "প্রকৃত শান্তি ও সম্মান কেবল আল্লাহর আনুগত্যের মাধ্যমেই লাভ করা সম্ভব।",
+  "real_life_en": "A person seeks shade behind an old exhaust pipe on a hot day, but the hot smelly fumes make him feel worse. Relying on falsehood in life ends in the same painful disappointment.",
+  "real_life_bn": "রোদের মধ্যে এক ব্যক্তি গাড়ির সাইলেন্সারের পাশে ছায়া খুঁজতে গেলে বিষাক্ত গরম বাতাসে তার কষ্ট আরও বেড়ে যায়। একইভাবে সত্য ছেড়ে পাপের পথে শান্তি খুঁজতে গেলে মানুষ শেষ পর্যন্ত ক্ষতিগ্রস্ত হয়।",
+  "themes": [
+    "Hell",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The shade of smoke in Hell is neither cool to enjoy nor pleasant to behold.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

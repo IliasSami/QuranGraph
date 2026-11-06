@@ -1,0 +1,74 @@
+{
+  "id": "10:42",
+  "simple_en": "Among them are some who listen to you recite the Quran, yet can you make the deaf hear when they refuse to use their intellect? Words cannot guide a heart that closes itself to understanding.",
+  "simple_bn": "তাদের মধ্যে কেউ কেউ আপনার তিলাওয়াত শোনে; কিন্তু আপনি কি বধিরকে শোনাতে পারবেন, যদি তারা বুদ্ধি খাটিয়ে সত্য উপলব্ধি না করে?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سمع",
+      "lemma": "اسْتَمَعَ",
+      "meaning_en": "they listen",
+      "meaning_bn": "তারা কান পেতে শোনে",
+      "why_en": "Physical hearing without any sincere spiritual intention."
+    },
+    {
+      "pos": 7,
+      "root": "صمم",
+      "lemma": "أَصَمّ",
+      "meaning_en": "the deaf",
+      "meaning_bn": "বধির",
+      "why_en": "Spiritual deafness that blocks reception of guidance."
+    },
+    {
+      "pos": 11,
+      "root": "عقل",
+      "lemma": "عَقَلُ",
+      "meaning_en": "they comprehend / use reason",
+      "meaning_bn": "তারা বুদ্ধি খাটিয়ে বোঝে",
+      "why_en": "Using sound reasoning to reflect on revelation."
+    }
+  ],
+  "lesson_en": "Hearing guidance with the ears is useless unless the mind and heart are ready to accept it.",
+  "lesson_bn": "শুধু কানে শোনাই যথেষ্ট নয়, সত্যকে উপলব্ধি করতে অন্তরের সদিচ্ছা ও বিবেক জাগ্রত থাকতে হয়।",
+  "real_life_en": "When someone gives you advice, listen with an open heart. Do not argue while they speak. Try to understand what helps you grow.",
+  "real_life_bn": "কারও ভালো পরামর্শ শোনার সময় আত্মপক্ষ সমর্থনের বদলে মন দিয়ে তার মর্ম বোঝার চেষ্টা করুন।",
+  "themes": [
+    "spiritual deafness",
+    "listening with understanding",
+    "intellect"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "disbelievers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Listening to revelation without the desire to reflect leaves a person spiritually deaf.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

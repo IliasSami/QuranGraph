@@ -1,0 +1,84 @@
+{
+  "id": "6:20",
+  "simple_en": "The scholars of the Jews and Christians who received earlier scriptures recognized Prophet Muhammad ﷺ clearly. His descriptions were written in their own books. They knew him just as unmistakably as a parent knows their own child. Yet those who let pride ruin their souls refused to believe.",
+  "simple_bn": "আমরা যাদের কিতাব দিয়েছি, অর্থাৎ ইহুদি ও খ্রিস্টান পণ্ডিতরা, তারা রাসূলুল্লাহ ﷺ-কে ঠিক সেভাবেই চিনত যেভাবে মানুষ নিজের সন্তানকে চিনে। তাদের ধর্মগ্রন্থে তাঁর সুস্পষ্ট গুণাবলী বর্ণিত ছিল। কিন্তু যারা অহংকার করে নিজেদের আত্মাকে ধ্বংসের মুখে ঠেলে দিয়েছে, কেবল তারাই ঈমান আনতে অস্বীকার করে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Scripture",
+      "meaning_bn": "কিতাব",
+      "why_en": "Refers to the earlier scriptures like the Torah and Gospel."
+    },
+    {
+      "pos": 4,
+      "root": "عرف",
+      "lemma": "عَرَفَ",
+      "meaning_en": "they recognize him / it",
+      "meaning_bn": "তারা তাকে চিনে",
+      "why_en": "Signifies intimate, undeniable knowledge of Prophet Muhammad ﷺ."
+    },
+    {
+      "pos": 7,
+      "root": "بني",
+      "lemma": "ابْن",
+      "meaning_en": "their sons / children",
+      "meaning_bn": "তাদের সন্তানরা",
+      "why_en": "A powerful simile showing unmistakable familiarity."
+    }
+  ],
+  "lesson_en": "Knowing the truth is not enough. You must also have the humility to follow it.",
+  "lesson_bn": "কেবল সত্য জানাই যথেষ্ট নয়, বরং অহংকার মুক্ত হয়ে তা মেনে নেওয়ার মানসিকতা থাকতে হবে।",
+  "real_life_en": "Never let pride or family pressure stop you from accepting the truth. When you know what is right, follow it with an open heart. Sincerity before God is worth more than worldly status.",
+  "real_life_bn": "মর্যাদা হারানো বা সামাজিক চাপের ভয়ে কখনো সত্যকে অস্বীকার করবেন না। কোনো বিষয় সঠিক বলে জানতে পারলে বিনম্র চিত্তে তা মেনে নেওয়াই সৎ চরিত্রের লক্ষণ।",
+  "context_en": "Addresses how earlier scriptures contained clear signs of Prophet Muhammad ﷺ, making their denial a deliberate choice of pride.",
+  "context_bn": "পূর্ববর্তী আসমানি কিতাবে শেষ নবী ﷺ-এর সুস্পষ্ট লক্ষণ থাকার পরেও একদল কিতাবধারীর একগুঁয়েমির কারণে ঈমান না আনার চিত্র তুলে ধরা হয়েছে।",
+  "themes": [
+    "People of the Book",
+    "recognition of Prophet Muhammad",
+    "loss of soul"
+  ],
+  "kinds": [
+    "belief",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "People of the Scripture"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Scripture"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Those given earlier scriptures recognized Prophet Muhammad ﷺ as clearly as they recognized their own children.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Those who destroyed their own souls through arrogance and stubbornness refused to believe.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

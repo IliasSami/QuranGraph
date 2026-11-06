@@ -1,0 +1,65 @@
+{
+  "id": "26:141",
+  "simple_en": "The people of Thamud rejected the messengers of God. By turning away from their prophet Salih, they rejected the message of all the prophets who came before him.",
+  "simple_bn": "সামূদ সম্প্রদায়ও আল্লাহর প্রেরিত রাসূলদের প্রতি মিথ্যারোপ করেছিল। নিজেদের নবী সালিহকে অস্বীকার করার মাধ্যমে তারা মূলত সকল নবীর শিক্ষাকেই অমান্য করেছিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied",
+      "meaning_bn": "মিথ্যারোপ করেছিল",
+      "why_en": "Thamud's rejection of prophetic guidance."
+    },
+    {
+      "pos": 3,
+      "root": "رسل",
+      "lemma": "مُرْسَل",
+      "meaning_en": "the messengers",
+      "meaning_bn": "রাসূলগণ",
+      "why_en": "The divine ambassadors carrying the single message of truth."
+    }
+  ],
+  "lesson_en": "Rejecting a prophet means turning away from God. Do not turn from truth.",
+  "lesson_bn": "নবীদের বার্তা অস্বীকার করা আত্মবিনাশের কারণ। ঐশী দিকনির্দেশনা ত্যাগ করলে জাতি নৈতিকভাবে পথভ্রষ্ট হয়ে পড়ে।",
+  "real_life_en": "Hold fast to the teachings of God's messengers. Do not let public opinion lead you away from what is right and true.",
+  "real_life_bn": "ধর্মীয় নীতি ও সত্যের শিক্ষাকে কোনো অবস্থাতেই অবহেলা করবেন না। প্রচলিত ফ্যাশন বা সমাজ যাই বলুক, সত্যের মানদণ্ডে নিজের পথ বেছে নিন।",
+  "themes": [
+    "prophethood",
+    "denial",
+    "earlier-nations"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "salih"
+    ],
+    "nations": [
+      "thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The tribe of Thamud denied all the messengers of God when they rejected their own prophet Salih, for rejecting one prophet amounts to rejecting all.",
+      "claim_bn": "সামূদ সম্প্রদায় নিজেদের নবী সালিহকে অস্বীকার করার মাধ্যমে মূলত আল্লাহর সকল রাসূলকেই অস্বীকার করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,88 @@
+{
+ "id": "5:1",
+ "simple_en": "Believers must honor all their contracts and solemn promises. Allah permits you to eat grazing livestock like cattle, sheep, and camels. However, you must avoid animals that are explicitly forbidden. You must also not hunt wild game while in the sacred state of ihram for pilgrimage. Allah decrees whatever He wills with perfect wisdom.",
+ "simple_bn": "হে মুমিনগণ, তোমরা নিজেদের সকল অঙ্গীকার ও চুক্তি পূর্ণ করো। আল্লাহ তোমাদের জন্য গৃহপালিত চতুষ্পদ পশু যেমন উট, গরু ও ছাগল হালাল করেছেন। তবে যেসব পশুর নিষেধাজ্ঞা তোমাদের পড়ে শোনানো হবে সেগুলো বাদ। আর হজের বা উমরার ইহরাম অবস্থায় তোমরা শিকার হালাল মনে কোরো না। নিশ্চয়ই আল্লাহ তাঁর প্রজ্ঞায় যা ইচ্ছে নির্দেশ দেন।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "وفي",
+   "lemma": "أَوْفَى",
+   "meaning_en": "fulfill faithfully",
+   "meaning_bn": "তোমরা পূর্ণ করো",
+   "why_en": "Fulfilling every promise and contract is a core duty of faith."
+  },
+  {
+   "pos": 5,
+   "root": "عقد",
+   "lemma": "عُقُود",
+   "meaning_en": "covenants and contracts",
+   "meaning_bn": "অঙ্গীকার ও চুক্তিসমূহ",
+   "why_en": "Refers to solemn commitments made with Allah and with fellow human beings."
+  },
+  {
+   "pos": 8,
+   "root": "بهم",
+   "lemma": "بَهِيمَة",
+   "meaning_en": "grazing livestock",
+   "meaning_bn": "গৃহপালিত চতুষ্পদ পশু",
+   "why_en": "Allah graciously permits cattle, sheep, and camels as lawful food."
+  }
+ ],
+ "lesson_en": "Keep your word to Allah. Always honor your promises to people.",
+ "lesson_bn": "আল্লাহর সাথে এবং মানুষের সাথে কৃত প্রতিটি অঙ্গীকার সততার সাথে পূর্ণ করুন।",
+ "real_life_en": "When you sign a business contract or rent a home, follow every rule you agreed upon. Deliver quality work on time and pay your bills promptly. Sincere believers never break their word.",
+ "real_life_bn": "বাড়ি ভাড়া নেওয়ার চুক্তি কিংবা ব্যবসার লেনদেনে দেওয়া কথা অক্ষরে অক্ষরে পালন করুন। পণ্যের সঠিক মূল্য ও প্রতিশ্রুতি সময়মতো পরিশোধ করুন। মুমিন কখনো চুক্তি ভঙ্গ করে না।",
+ "context_en": "Surah al-Ma'idah opens with a comprehensive command to honor religious covenants and mutual human contracts, introducing lawful foods and pilgrim sanctities.",
+ "context_bn": "সূরা আল-মায়েদাহ দ্বীনি অঙ্গীকার ও সামাজিক চুক্তি রক্ষার সার্বিক নির্দেশ দিয়ে শুরু হয়েছে এবং হালাল খাদ্য ও ইহরামের বিধান স্পষ্ট করেছে।",
+ "themes": [
+  "contracts",
+  "halal and haram",
+  "hajj",
+  "obedience to Allah",
+  "divine will"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "prohibition"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "Hajj",
+   "Umrah"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are commanded to fulfill all covenants made with Allah and contracts made with people.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Grazing livestock such as camels, cattle, and sheep are made lawful except what is specifically prohibited, and hunting is forbidden during ihram.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

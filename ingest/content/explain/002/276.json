@@ -1,0 +1,100 @@
+{
+ "id": "2:276",
+ "simple_en": "Allah takes away all blessing from interest and ruins what is gained through it. At the same time, He blesses and multiplies what is given in charity. Allah does not love any stubborn denier who persists in sin and unlawful gain.",
+ "simple_bn": "আল্লাহ সুদকে নিঃশেষ করে দেন এবং তার সমস্ত বরকত ধ্বংস করেন, বাহ্যিকভাবে তা যত বেশিই মনে হোক না কেন। অপরদিকে তিনি দান-সদকার মধ্যে বরকত বাড়িয়ে দেন এবং পরকালে তার প্রতিদান বহুগুণ বৃদ্ধি করেন। আল্লাহ এমন কোনো চরম অকৃতজ্ঞ ও ঘোর পাপীকে ভালোবাসেন না, যে তাঁর নির্দেশ অগ্রাহ্য করে অবৈধ উপার্জনে লিপ্ত থাকে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "محق",
+   "lemma": "يَمْحَقُ",
+   "meaning_en": "He obliterates / destroys",
+   "meaning_bn": "তিনি নিঃশেষ করেন",
+   "why_en": "Signifies that Allah deprives usury of all spiritual and material blessing, leading to ruin."
+  },
+  {
+   "pos": 4,
+   "root": "ربو",
+   "lemma": "أَرْبَى",
+   "meaning_en": "and He increases / grows",
+   "meaning_bn": "এবং তিনি বৃদ্ধি করেন",
+   "why_en": "Contrasts the real divine multiplication of charity with the artificial increase of usury."
+  },
+  {
+   "pos": 5,
+   "root": "صدق",
+   "lemma": "صَدَقَة",
+   "meaning_en": "charities",
+   "meaning_bn": "দান-সদকা",
+   "why_en": "Voluntary spending that brings divine growth and protection to wealth."
+  },
+  {
+   "pos": 10,
+   "root": "كفر",
+   "lemma": "كَفّار",
+   "meaning_en": "ungrateful denier",
+   "meaning_bn": "চরম অকৃতজ্ঞ বা অস্বীকারকারী",
+   "why_en": "Describes the person who stubbornly denies Allah's prohibition of usury."
+  },
+  {
+   "pos": 11,
+   "root": "أثم",
+   "lemma": "أَثِيم",
+   "meaning_en": "habitual sinner",
+   "meaning_bn": "ঘোর পাপী",
+   "why_en": "Refers to the person steeped in wrongful actions and consuming illicit gains."
+  }
+ ],
+ "lesson_en": "Never be fooled by quick dishonest profit; genuine blessing and lasting growth lie only in clean giving.",
+ "lesson_bn": "অসৎ উপার্জনের ক্ষণস্থায়ী চমকে কখনো প্রতারিত হবেন না; জীবনের আসল বরকত ও মানসিক শান্তি কেবল সৎ দানশীলতার মধ্যেই থাকে।",
+ "real_life_en": "You might feel tempted to take easy interest payments thinking your bank account will grow faster. In reality, that money often vanishes through unexpected trouble or leaves you feeling empty inside. Instead, give a small portion to charity each week, and watch how peace and barakah fill your daily life.",
+ "real_life_bn": "সুদের মাধ্যমে জমানো টাকা দ্রুত বাড়বে ভেবে অনেকে সেদিকে ঝুঁকে পড়েন। কিন্তু বাস্তবে দেখা যায় সে অর্থ কোনো না কোনো অনাকাঙ্ক্ষিত বিপদে শেষ হয়ে যায় এবং মনে অশান্তি বয়ে আনে। এর চেয়ে প্রতি সপ্তাহে অল্প কিছু টাকা কোনো অভাবীকে দান করুন; দেখবেন আপনার মনের ভেতরে অপার প্রশান্তি ও রিজিকে বরকত ছড়িয়ে পড়েছে।",
+ "context_en": "Contrasts the spiritual and practical outcomes of usury and charity, showing how each is treated by Allah.",
+ "context_bn": "সুদ ও সদকার পার্থিব ও পরকালীন ফলাফলের বিপরীত চিত্র তুলে ধরে বোঝানো হয়েছে যে আল্লাহ এদের সাথে কেমন আচরণ করেন।",
+ "themes": [
+  "wealth",
+  "charity",
+  "justice",
+  "punishment",
+  "gratitude"
+ ],
+ "kinds": [
+  "warning",
+  "promise",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah erases all spiritual blessings from usurious wealth and destroys its real benefit, while multiplying charity.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah dislikes ungrateful sinners who persist in consuming illicit gains and rejecting divine boundaries.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

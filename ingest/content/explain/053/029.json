@@ -1,0 +1,80 @@
+{
+  "id": "53:29",
+  "simple_en": "Allah tells Prophet Muhammad ﷺ to turn away from those who reject His message. Such people ignore the remembrance of Allah and care only for worldly gain. They spend all their time chasing worldly pleasures and do not work for the life to come.",
+  "simple_bn": "আল্লাহ তাঁর রাসূল ﷺ-কে নির্দেশ দিচ্ছেন যেন তিনি সেইসব লোকদের থেকে মুখ ফিরিয়ে নেন যারা উপদেশ গ্রহণ করে না। তারা আল্লাহর স্মরণ থেকে দূরে থাকে এবং কেবল দুনিয়ার ভোগবিলাসের পেছনে ছোটে। তারা পরকালের মুক্তির জন্য কোনো নেক আমল করে না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "عرض",
+      "lemma": "أَعْرَضَ",
+      "meaning_en": "turn away",
+      "meaning_bn": "মুখ ফিরিয়ে নিন বা উপেক্ষা করুন",
+      "why_en": "A command to avoid futile arguments with stubborn deniers."
+    },
+    {
+      "pos": 6,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "Our remembrance / the Quran",
+      "meaning_bn": "আমাদের স্মরণ বা কুরআন",
+      "why_en": "The divine revelation that brings life to the human heart."
+    },
+    {
+      "pos": 10,
+      "root": "حيي",
+      "lemma": "حَياة",
+      "meaning_en": "life",
+      "meaning_bn": "জীবন",
+      "why_en": "The short worldly existence that deludes the disbelievers."
+    },
+    {
+      "pos": 11,
+      "root": "دنو",
+      "lemma": "دُنْيا",
+      "meaning_en": "this world",
+      "meaning_bn": "দুনিয়া বা পার্থিব জীবন",
+      "why_en": "The temporary world prioritized over eternal salvation."
+    }
+  ],
+  "lesson_en": "Do not let the love of this world distract you from Allah.",
+  "lesson_bn": "পার্থিব অর্জনের মোহে পড়ে আল্লাহর স্মরণ এবং আখিরাতের প্রস্তুতি থেকে কখনো গাফেল হবেন না।",
+  "real_life_en": "Work hard to earn an honest living. But never skip your daily prayers for worldly gain.",
+  "real_life_bn": "দুনিয়ার বৈধ উপার্জনে ব্যস্ত থাকুন, তবে কখনো নামাজের মতো ফরজ ইবাদত অবহেলা করবেন না। দুনিয়ার স্বার্থের চেয়ে দ্বীনকে সর্বদা অগ্রাধিকার দিন।",
+  "context_en": "The Prophet ﷺ is advised to ignore those whose only aim is worldly comfort.",
+  "context_bn": "যাদের একমাত্র লক্ষ্য দুনিয়ার সুখ-শান্তি, তাদের থেকে মুখ ফিরিয়ে নেওয়ার নির্দেশ রাসূলকে দেওয়া হয়েছে।",
+  "themes": [
+    "remembrance of Allah",
+    "this world",
+    "the Last Day",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet ﷺ is instructed to turn away from whoever turns from Allah's remembrance and desires only this life.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

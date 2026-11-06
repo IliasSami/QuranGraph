@@ -1,0 +1,64 @@
+{
+  "id": "15:51",
+  "simple_en": "Tell them the story of the guests who visited Abraham. These guests were noble angels sent in the form of men with important news from Allah.",
+  "simple_bn": "তাদেরকে ইবরাহীমের কাছে আসা মেহমানদের ঘটনা শোনান। এই মেহমানরা ছিলেন মানুষের রূপ ধরে আসা সম্মানিত ফেরেশতা, যাঁরা আল্লাহর পক্ষ থেকে গুরুত্বপূর্ণ খবর নিয়ে এসেছিলেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نبأ",
+      "lemma": "نَبَّأَ",
+      "meaning_en": "and inform them",
+      "meaning_bn": "তাদেরকে জানান",
+      "why_en": "Directing the Prophet to recount the story."
+    },
+    {
+      "pos": 3,
+      "root": "ضيف",
+      "lemma": "ضَيْف",
+      "meaning_en": "guests",
+      "meaning_bn": "মেহমানদের",
+      "why_en": "Angels visiting Abraham as guests."
+    }
+  ],
+  "lesson_en": "Welcome guests with honor and kindness. Hospitality is a noble character trait taught by the prophets.",
+  "lesson_bn": "মেহমানদের সম্মান ও আন্তরিকতার সাথে বরণ করুন। অতিথিপরায়ণতা হলো নবীদের শেখানো এক মহান গুণ।",
+  "real_life_en": "A man opens his door to a tired traveler. He gives him water and fresh food. His kind welcome makes the visitor feel safe and happy.",
+  "real_life_bn": "এক গৃহকর্তা অচেনা পথিককে ঘরে বসিয়ে চা ও খাবার দিয়ে আপ্যায়ন করেন। তাঁর এই আন্তরিক আচরণে ক্লান্ত মেহমান স্বস্তি পায় এবং তাঁদের মধ্যে সুন্দর সম্পর্ক গড়ে ওঠে।",
+  "context_en": "Commanding the Prophet to recount the visit of the angelic guests to Abraham.",
+  "context_bn": "ইবরাহীমের কাছে ফেরেশতাদের মেহমান হিসেবে আগমনের ঘটনা স্মরণ করিয়ে দেওয়ার নির্দেশ।",
+  "themes": [
+    "prophets",
+    "hospitality",
+    "angels"
+  ],
+  "kinds": [
+    "story",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Abraham"
+    ],
+    "unseen": [
+      "Angels"
+    ],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Prophet Muhammad was commanded to inform the people about Abraham's angelic guests.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

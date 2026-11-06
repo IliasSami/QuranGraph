@@ -1,0 +1,83 @@
+{
+  "id": "6:148",
+  "simple_en": "The polytheists will argue that their idol worship and self-made taboos were willed by Allah. They claim that if Allah had not approved, they and their forefathers would not have acted this way. Past generations made the same false excuse until they tasted divine punishment. Ask them if they have any real knowledge to present. They only follow empty guesses and baseless lies.",
+  "simple_bn": "মুশরিকরা নিজেদের শিরক ও মনগড়া নিষেধাজ্ঞার সাফাই গেয়ে বলবে: আল্লাহ চাইলে আমরা ও আমাদের পূর্বপুরুষরা শিরক করতাম না এবং কোনো কিছু হারাম করতাম না। তাদের আগের লোকেরাও এভাবে সত্য অস্বীকার করেছিল, অবশেষে তারা আল্লাহর শাস্তি আস্বাদন করেছে। তাদের জিজ্ঞেস করুন, তোমাদের কাছে কি কোনো নিশ্চিত জ্ঞান আছে যা দেখাতে পারো? তোমরা কেবল ধারণার পেছনে ছুটছ এবং মিথ্যা বলছ।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "شرك",
+      "lemma": "أَشْرَكَ",
+      "meaning_en": "associated partners",
+      "meaning_bn": "শিরক করেছিল",
+      "why_en": "Describes the core sin of polytheism defended with false excuses."
+    },
+    {
+      "pos": 21,
+      "root": "ذوق",
+      "lemma": "ذاقُ",
+      "meaning_en": "they tasted",
+      "meaning_bn": "তারা আস্বাদন করল",
+      "why_en": "Refers to past nations tasting divine punishment despite making the same excuses."
+    },
+    {
+      "pos": 37,
+      "root": "خرص",
+      "lemma": "يَخْرُصُ",
+      "meaning_en": "they invent lies",
+      "meaning_bn": "মিথ্যা অনুমান করে",
+      "why_en": "Exposes that their theological claims rest purely on groundless conjecture."
+    }
+  ],
+  "lesson_en": "Divine decree never excuses personal sin. You possess moral choice and bear full responsibility for your actions.",
+  "lesson_bn": "তাকদিরের দোহাই দিয়ে নিজের পাপকে বৈধ করা যায় না। মানুষ নিজের ইচ্ছায় কাজ করে এবং আমলের জন্য দায়ী থাকে।",
+  "real_life_en": "Never blame destiny or fate when you commit a wrongdoing. If you lose your temper or neglect a duty, take full responsibility instead of saying it was out of your control. Seek forgiveness immediately and actively change your behavior.",
+  "real_life_bn": "কোনো অন্যায় করে ভাগ্যের দোষ দেবেন না। অলসতা বা ভুলের পর নিজের দায়িত্ব স্বীকার করে তওবা করুন। তাকদিরের অজুহাত না দেখিয়ে নিজের ভুল শুধরে নেওয়াই মুমিনের কাজ।",
+  "context_en": "Allah exposes the deceptive theological argument used by polytheists who blamed divine destiny for their idolatry.",
+  "context_bn": "মুশরিকরা তাদের শিরক ও মনগড়া কুসংস্কারকে আল্লাহর ইচ্ছার ওপর চাপিয়ে দিয়ে যে মিথ্যা যুক্তি দিত, এখানে তা খণ্ডন করা হয়েছে।",
+  "themes": [
+    "shirk",
+    "argument",
+    "past nations",
+    "disbelief",
+    "knowledge"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "Quraysh",
+      "past nations"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The polytheists falsely argued that their shirk and taboos were justified by Allah's divine decree.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Past nations used the same deceptive logic until punishment struck them, proving their reliance on mere conjecture.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

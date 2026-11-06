@@ -1,0 +1,76 @@
+{
+  "id": "15:13",
+  "simple_en": "They will not believe in this Quran, even though the fate of earlier nations has already passed before them. History shows what happens to those who reject truth.",
+  "simple_bn": "তারা এই কুরআনে বিশ্বাস করবে না, অথচ তাদের চোখের সামনে পূর্ববর্তীদের শোচনীয় পরিণতি গত হয়ে গেছে। ইতিহাস স্পষ্ট দেখিয়ে দেয় সত্য অস্বীকারকারীদের কী পরিণতি হয়েছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "they believe",
+      "meaning_bn": "তারা ঈমান আনে",
+      "why_en": "Attaining sincere faith."
+    },
+    {
+      "pos": 5,
+      "root": "خلو",
+      "lemma": "خَلا",
+      "meaning_en": "has passed",
+      "meaning_bn": "গত হয়েছে",
+      "why_en": "Passed away in history."
+    },
+    {
+      "pos": 6,
+      "root": "سنن",
+      "lemma": "سُنَّة",
+      "meaning_en": "the way of",
+      "meaning_bn": "রীতি",
+      "why_en": "Divine historical laws of retribution."
+    },
+    {
+      "pos": 7,
+      "root": "أول",
+      "lemma": "أَوَّل",
+      "meaning_en": "the ancients",
+      "meaning_bn": "পূর্ববর্তীদের",
+      "why_en": "Earlier destroyed nations."
+    }
+  ],
+  "lesson_en": "Open your eyes to the lessons of the past. History warns us against repeated mistakes.",
+  "lesson_bn": "অতীতের শিক্ষা থেকে চোখ বন্ধ রাখবেন না। ইতিহাস আমাদের পুরোনো ভুলের পুনরাবৃত্তি থেকে সতর্ক করে।",
+  "real_life_en": "A shop owner looks at why an old business went broke from greed. He decides to run his shop with fair prices and honesty. He avoids past errors and keeps his work safe.",
+  "real_life_bn": "এক বিনিয়োগকারী অতীতে লোভের কারণে ঘটা অর্থনৈতিক বিপর্যয়ের ইতিহাস পড়েন। তিনি জুয়া ও অতিরিক্ত ঝুঁকি এড়িয়ে সৎ পথে বিনিয়োগ করেন এবং নিজের মূলধন রক্ষা করেন।",
+  "context_en": "Disbelievers ignoring the clear historical precedent of destroyed nations.",
+  "context_bn": "অতীতের ধ্বংসপ্রাপ্ত জাতিগুলোর সুস্পষ্ট নিদর্শন সত্ত্বেও কুরাইশদের ঈমান না আনার ঘোষণা।",
+  "themes": [
+    "history",
+    "warning",
+    "reflection"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers refuse to believe despite seeing the established precedent of past nations.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

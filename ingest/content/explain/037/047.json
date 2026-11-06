@@ -1,0 +1,63 @@
+{
+  "id": "37:47",
+  "simple_en": "This heavenly drink has no harmful side effects. It never causes headaches or stomach pains. It does not cloud the mind or make a person lose control. The minds and bodies of the dwellers of Paradise remain safe and clear.",
+  "simple_bn": "জান্নাতের পানীয়তে কোনো ক্ষতিকর প্রভাব থাকবে না। এটি মাথা ব্যথা বা শারীরিক কষ্টের সৃষ্টি করে না। তা মানুষের বুদ্ধি লোপ করে না কিংবা মাতালও বানায় না। জান্নাতবাসীদের দেহ ও মন সম্পূর্ণ নিরাপদ ও সুস্থ থাকবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "غول",
+      "lemma": "غَوْل",
+      "meaning_en": "harm / bad effect",
+      "meaning_bn": "ক্ষতিকর প্রভাব বা মাথা ব্যথা",
+      "why_en": "Shows that the heavenly drink contains no toxins, aches, or sickness."
+    },
+    {
+      "pos": 7,
+      "root": "نزف",
+      "lemma": "يُنزَفُ",
+      "meaning_en": "intoxicated / losing senses",
+      "meaning_bn": "বুদ্ধি লোপ হওয়া বা মাতাল হওয়া",
+      "why_en": "Confirms that the drink does not cause loss of self-control or drunkenness."
+    }
+  ],
+  "lesson_en": "True joy in the next life brings pure satisfaction without harm or regret.",
+  "lesson_bn": "পরকালের প্রকৃত আনন্দ কোনো ধরনের ক্ষতি বা অনুশোচনা ছাড়াই পূর্ণ তৃপ্তি দেয়।",
+  "real_life_en": "Choose what brings lasting peace to your soul over short-term pleasures that harm your body or cloud your thinking.",
+  "real_life_bn": "ক্ষণস্থায়ী যেসব বস্তু বুদ্ধি বা শরীর নষ্ট করে তা বর্জন করে আত্মিক প্রশান্তি দেয় এমন পথ বেছে নিন।",
+  "themes": [
+    "Paradise",
+    "reward",
+    "the unseen"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The drink of Paradise causes no headache, harm, or intoxication, keeping bodies and minds completely safe.",
+      "claim_bn": "জান্নাতের পানীয়তে কোনো মাথা ব্যথা, ক্ষতি বা মাতলামি থাকবে না, বরং তা পানকারীর শরীর ও বিবেককে নিরাপদ রাখবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

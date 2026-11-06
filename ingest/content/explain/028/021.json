@@ -1,0 +1,72 @@
+{
+  "id": "28:21",
+  "simple_en": "Moses fled the city in fear, looking around with vigilance. He prayed to God with a humble heart, asking to be saved from the unjust and cruel people who sought his life.",
+  "simple_bn": "মুসা ভীত ও সতর্ক অবস্থায় সেখান থেকে বের হয়ে পড়ল। সে প্রার্থনা করল, হে আমার রব, এই জালিম কওমের হাত থেকে আমাকে রক্ষা করুন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "مِنْهَا",
+      "root": null,
+      "lemma": "مِن",
+      "meaning_en": "fearful",
+      "meaning_bn": "ভীত-সন্ত্রস্ত হয়ে",
+      "why_en": "Departing Egypt in secret vigilance."
+    },
+    {
+      "pos": 9,
+      "arabic": "ٱلْقَوْمِ",
+      "root": "قوم",
+      "lemma": "قَوْم",
+      "meaning_en": "save me",
+      "meaning_bn": "আমাকে রক্ষা করো",
+      "why_en": "Supplication seeking safety from oppressive people."
+    }
+  ],
+  "lesson_en": "Prayer is the best refuge in moments of fear. God protects those who call on Him.",
+  "lesson_bn": "ভয় ও বিপদের মুখে দোয়াই মুমিনের সর্বশ্রেষ্ঠ আশ্রয়। আল্লাহই জালেমদের হাত থেকে রক্ষাকারী।",
+  "real_life_en": "When facing threat or danger, take safe action and pray to God. Trust Him to guide your steps to safety.",
+  "real_life_bn": "শত্রুর চক্রান্ত বা ক্ষতির মুখে পড়লে আল্লাহর আশ্রয় প্রার্থনা করুন। নিরাপত্তা নিশ্চিত করতে প্রয়োজনীয় সতর্কতা অবলম্বন করুন।",
+  "themes": [
+    "musa",
+    "dua",
+    "protection",
+    "fear"
+  ],
+  "kinds": [
+    "story",
+    "dua"
+  ],
+  "entities": {
+    "people": [
+      "Moses"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Lord"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses fled Egypt in fear and prayed to God for salvation from the unjust people.",
+      "claim_bn": "মুসা ভীত হয়ে মিশর ত্যাগ করেন এবং জালেমদের হাত থেকে রক্ষার জন্য আল্লাহর কাছে দোয়া করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "32:16",
+  "simple_en": "These righteous believers leave their warm beds in the quiet night to stand in prayer. They call upon their Lord with reverence, fearing His displeasure and longing for His grace. They also spend generously from what God has given them to help others.",
+  "simple_bn": "এই নেককার মুমিনদের পার্শ্বদেশ রাতের আরামদায়ক বিছানা থেকে আলাদা থাকে। তারা ভয় ও আশার সাথে নিজেদের রবকে ডাকে এবং আল্লাহ যে রিজিক দিয়েছেন তা থেকে অভাবীদের জন্য দান করে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "جفو",
+      "lemma": "تَتَجافَى",
+      "meaning_en": "forsake / separate themselves",
+      "meaning_bn": "আলাদা থাকে বা ত্যাগ করে",
+      "why_en": "Vividly describes leaving bodily comfort to engage in late-night worship."
+    },
+    {
+      "pos": 7,
+      "root": "خوف",
+      "lemma": "خَوْف",
+      "meaning_en": "in fear / awe",
+      "meaning_bn": "ভয় ও শ্রদ্ধার সাথে",
+      "why_en": "One of the two essential wings of worship: reverent fear of God."
+    }
+  ],
+  "lesson_en": "Night prayer and charitable giving reflect deep love for God, balanced between fear and hope.",
+  "lesson_bn": "রাতের নির্জনে তাহাজ্জুদ আদায় এবং দানশীলতা মহান আল্লাহর প্রতি গভীর ভালোবাসার সুস্পষ্ট লক্ষণ।",
+  "real_life_en": "Wake up a few minutes before dawn to pray and speak to God. Share some of your money with those in need.",
+  "real_life_bn": "ভোরের কিছু আগে ঘুম থেকে উঠে রবের কাছে দোয়া করুন। আর নিজের উপার্জিত সম্পদ থেকে গরিব ও অসহায়দের সাহায্য করুন।",
+  "themes": [
+    "tahajjud",
+    "night-prayer",
+    "charity",
+    "fear-and-hope"
+  ],
+  "kinds": [
+    "worship",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Night Prayer"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Righteous believers leave their beds to pray in fear and hope and spend charity from their provision.",
+      "claim_bn": "মুমিনরা রাতের বিছানা ত্যাগ করে ভয় ও আশায় আল্লাহর ইবাদত করে এবং তাঁর দেওয়া রিজিক থেকে ব্যয় করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

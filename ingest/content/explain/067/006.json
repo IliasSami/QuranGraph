@@ -1,0 +1,73 @@
+{
+  "id": "67:6",
+  "simple_en": "Those who reject their Lord will face the punishment of Hell. That is a terrible and wretched destination. Rejecting divine guidance leads to grief and ruin.",
+  "simple_bn": "যারা তাদের প্রতিপালককে অস্বীকার করে তাদের জন্য রয়েছে জাহান্নামের কঠিন শাস্তি। আর তা কতই না নিকৃষ্ট ঠিকানা। সত্য প্রত্যাখ্যানের পরিণতি সর্বদা ধ্বংস ডেকে আনে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "they disbelieved",
+      "meaning_bn": "তারা অস্বীকার করেছে",
+      "why_en": "Points out stubborn denial of one's Creator as the root cause of ruin."
+    },
+    {
+      "pos": 3,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "their Lord",
+      "meaning_bn": "তাদের প্রতিপালক",
+      "why_en": "Highlights the Lord who nurtures human beings with blessings yet is denied."
+    },
+    {
+      "pos": 7,
+      "root": "صير",
+      "lemma": "مَصِير",
+      "meaning_en": "final destination",
+      "meaning_bn": "চূড়ান্ত ঠিকানা",
+      "why_en": "Warns about the tragic end awaiting those who persist in disbelief."
+    }
+  ],
+  "lesson_en": "Rejecting the truth leads to severe consequences in the life to come.",
+  "lesson_bn": "সত্যকে অহংকারের সাথে অস্বীকার করলে পরকালে ভয়াবহ পরিণতির মুখোমুখি হতে হবে।",
+  "real_life_en": "A young man ignores advice from his parents and teachers, chasing harmful habits. A close call opens his eyes. He repents before it is too late, realizing that bad choices always lead to painful regret.",
+  "real_life_bn": "ভুল পথে চলার পরিণাম যে কতটা খারাপ হতে পারে তা সময় থাকতেই উপলব্ধি করা দরকার। বিপথগামিতা পরিহার করে সত্য ও ন্যায়ের পথে ফিরে আসাই মানুষের জন্য আসল নিরাপত্তা।",
+  "themes": [
+    "disbelief",
+    "Hell",
+    "punishment",
+    "the Last Day"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who disbelieve in their Lord will face the punishment of Hell, an evil final destination.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "7:128",
+  "simple_en": "Moses advised his people to turn to Allah for help and stay patient. He reminded them that the whole earth belongs to God. Allah gives power to whichever servants He wills, and the final victory belongs to the righteous.",
+  "simple_bn": "মূসা তাঁর সম্প্রদায়কে সান্ত্বনা দিয়ে বললেন, 'আল্লাহর কাছে সাহায্য চাও এবং ধৈর্য ধর। সমগ্র পৃথিবী তো আল্লাহরই। তিনি তাঁর বান্দাদের মধ্যে যাকে ইচ্ছা এর উত্তরাধিকার দেন। আর শুভ পরিণাম কেবল মুত্তাকীদের জন্যই।'",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "عون",
+      "lemma": "اسْتَعِينُ",
+      "meaning_en": "seek help",
+      "meaning_bn": "তোমরা সাহায্য চাও",
+      "why_en": "Directing an oppressed community to draw power from the Almighty alone."
+    },
+    {
+      "pos": 6,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "and be patient",
+      "meaning_bn": "এবং ধৈর্য ধর",
+      "why_en": "Endurance in the face of violent state persecution."
+    },
+    {
+      "pos": 15,
+      "root": "عقب",
+      "lemma": "عاقِبَة",
+      "meaning_en": "the ultimate outcome",
+      "meaning_bn": "শুভ পরিণাম",
+      "why_en": "Divine guarantee that justice and godfearing people ultimately prevail."
+    }
+  ],
+  "lesson_en": "Patience and trust in Allah bring ultimate success to those who fear Him.",
+  "lesson_bn": "আল্লাহর ওপর ভরসা ও অটল ধৈর্য ধারণকারীদের জন্যই ইহকাল ও পরকালের প্রকৃত বিজয় নির্ধারিত।",
+  "real_life_en": "When you face deep hardship, do not lose hope. Seek help through prayer and keep your character clean. Rulers and circumstances change, but God's promise to the righteous never fails.",
+  "real_life_bn": "জীবনে চরম প্রতিকূলতা আসলেও ধৈর্য হারাবেন না। সততার পথ আঁকড়ে ধরুন, শেষ পর্যন্ত বিজয় সত্যের পথেই আসবে।",
+  "context_en": "Moses offers prophetic leadership and moral courage to calm his terrified community under Pharaoh's threats.",
+  "context_bn": "ফির'আউনের নতুন নিপীড়নের মুখে আতঙ্কিত বনী ইসরাঈলকে মূসা নবীসুলভ সান্ত্বনা ও ঈমানের দীক্ষা দেন।",
+  "themes": [
+    "trust in Allah",
+    "patience",
+    "divine sovereignty",
+    "taqwa"
+  ],
+  "kinds": [
+    "ethics",
+    "story",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "the earth"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Moses told his people to seek Allah's aid and bear trials with patience, assuring them that the earth belongs to Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

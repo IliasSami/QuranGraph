@@ -1,0 +1,72 @@
+{
+  "id": "37:180",
+  "simple_en": "Your Lord is the Lord of Power and Glory. He is far above all the low things the pagans say about Him. He has no child, no partner, and no weakness.",
+  "simple_bn": "আপনার প্রতিপালক সমস্ত ক্ষমতার অধিকারী এবং তিনি মুশরিকদের সকল মনগড়া ও ত্রুটিপূর্ণ বিবরণ থেকে বহু ঊর্ধ্বে ও পবিত্র। তাঁর কোনো শরিক বা সন্তান নেই এবং তিনি নিখুঁত মর্যাদার অধিকারী।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سبح",
+      "lemma": "سُبْحان",
+      "meaning_en": "exalted and pure",
+      "meaning_bn": "পবিত্র ও মহান",
+      "why_en": "Opens the surah's majestic conclusion by declaring God's absolute perfection."
+    },
+    {
+      "pos": 4,
+      "root": "عزز",
+      "lemma": "عِزَّة",
+      "meaning_en": "might / honor",
+      "meaning_bn": "সকল ক্ষমতার বা সম্মানের",
+      "why_en": "Declares that all supreme honor, power, and glory belong exclusively to Allah."
+    },
+    {
+      "pos": 6,
+      "root": "وصف",
+      "lemma": "يَصِفُ",
+      "meaning_en": "they describe",
+      "meaning_bn": "তারা বর্ণনা করে",
+      "why_en": "Refers to the deficient attributes falsely claimed by the polytheists."
+    }
+  ],
+  "lesson_en": "Praise your Lord and remember His great power.",
+  "lesson_bn": "আল্লাহর অসীম ক্ষমতা ও পবিত্রতা স্মরণ করে সর্বদা তাঁর মহিমা ঘোষণা করা উচিত।",
+  "real_life_en": "Conclude your prayers and gatherings by praising Allah as the Lord of Honor. Remembering His perfection fills the soul with deep reverence and peace.",
+  "real_life_bn": "যেকোনো দোয়া বা ভালো কাজের শেষে আল্লাহর মহিমা ও প্রশংসা বর্ণনা করুন। এতে অন্তর পবিত্র হয় এবং আল্লাহর প্রতি সম্মানবোধ বৃদ্ধি পায়।",
+  "themes": [
+    "tasbih",
+    "glory",
+    "might",
+    "transcendence"
+  ],
+  "kinds": [
+    "praise",
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah, the Lord of Honor, is far exalted above all the false attributes polytheists assign to Him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

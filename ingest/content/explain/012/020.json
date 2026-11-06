@@ -1,0 +1,80 @@
+{
+  "id": "12:20",
+  "simple_en": "The merchants sold Joseph cheaply for just a few silver coins. They attached little value to him, eager only to get rid of him quickly and make a quick profit.",
+  "simple_bn": "আর তারা তাকে খুব সামান্য মূল্যে, মাত্র কয়েকটি দিরহামের বিনিময়ে বিক্রি করে দিল; কারণ তার ব্যাপারে তারা ছিল অনীহ ও অনাগ্রহী।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "شري",
+      "lemma": "شَرَ",
+      "meaning_en": "they sold him",
+      "meaning_bn": "তারা তাকে বিক্রি করল",
+      "why_en": "Illegal sale of a free noble prophet."
+    },
+    {
+      "pos": 3,
+      "root": "بخس",
+      "lemma": "بَخْس",
+      "meaning_en": "reduced / deficient",
+      "meaning_bn": "সামান্য / নগণ্য",
+      "why_en": "Paltry price far below true worth."
+    },
+    {
+      "pos": 4,
+      "root": "درهم",
+      "lemma": "دَراهِم",
+      "meaning_en": "dirhams / silver coins",
+      "meaning_bn": "দিরহাম / রৌপ্যমুদ্রা",
+      "why_en": "Ancient currency of small value."
+    },
+    {
+      "pos": 9,
+      "root": "زهد",
+      "lemma": "زاهِد",
+      "meaning_en": "content with little / eager to discard",
+      "meaning_bn": "অনাগ্রহী / যা নিয়ে উদাসীন",
+      "why_en": "Caring nothing for him, fearing ownership dispute."
+    }
+  ],
+  "lesson_en": "Worldly people often fail to see the immense true value of God's noble servants.",
+  "lesson_bn": "পার্থিব দৃষ্টিতে মানুষ প্রায়ই মহান ও মূল্যবান ব্যক্তিত্বের প্রকৃত মূল্য বুঝতে ব্যর্থ হয়।",
+  "real_life_en": "Do not feel discouraged if others do not appreciate your true character and worth. God knows your real value, and that divine esteem is all that matters.",
+  "real_life_bn": "অন্যেরা আপনার মর্যাদা বা যোগ্যতা না বুঝলেও ভেঙে পড়বেন না। আল্লাহর কাছে আপনার আন্তরিকতার মূল্য রয়েছে, যা দুনিয়ার চেয়ে অনেক বড়।",
+  "themes": [
+    "story of Yusuf",
+    "low price",
+    "worldly devaluation",
+    "trials of Yusuf"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Joseph was sold into slavery for a meager sum of counted dirhams by people indifferent to his immense worth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

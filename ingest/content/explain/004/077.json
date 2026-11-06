@@ -1,0 +1,93 @@
+{
+ "id": "4:77",
+ "simple_en": "Look at those who were once told to hold back their hands, pray, and give charity. Later, when fighting was ordered to defend the faith, some of them shook with fear. They feared mortals as they should fear Allah. They asked why fighting was decreed so soon. Tell them that the joys of this world are short, while the Hereafter is far better for those who fear Allah. No one will be cheated in the least.",
+ "simple_bn": "আপনি কি তাদের অবস্থা লক্ষ্য করেছেন, যাদের পূর্বে বলা হয়েছিল যুদ্ধ থেকে নিজেদের হাত গুটিয়ে রাখতে, সালাত কায়েম করতে এবং যাকাত দিতে? পরবর্তীতে যখন তাদের ওপর আত্মরক্ষার্থে যুদ্ধের আদেশ হলো, তখন তাদের একটি দল মানুষকে এমনভাবে ভয় পেতে লাগল যেমন আল্লাহকে ভয় করা উচিত, কিংবা তার চেয়েও বেশি। তারা বলতে লাগল: ‘হে আমাদের রব! কেন আমাদের ওপর এই আদেশ দিলেন? আমাদের আরও কিছুদিনের অবকাশ দিলেন না কেন?’ তাদের বলে দিন: পার্থিব জীবনের ভোগ-বিলাস অত্যন্ত ক্ষণস্থায়ী, আর যারা তাকওয়া অবলম্বন করে তাদের জন্য আখিরাতই সর্বোত্তম। কারো সাথে সামান্যতম অবিচারও করা হবে না।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "كفف",
+   "lemma": "كَفَّ",
+   "meaning_en": "restrain or hold back",
+   "meaning_bn": "সংবরণ কর বা বিরত রাখ",
+   "why_en": "Recalls the earlier Makkan phase when believers were ordered to show patience and withhold their hands."
+  },
+  {
+   "pos": 20,
+   "root": "خشي",
+   "lemma": "خَشِيَ",
+   "meaning_en": "they fear",
+   "meaning_bn": "তারা ভয় পায়",
+   "why_en": "Exposes how some people fear worldly harm from mortals more than they revere Allah."
+  },
+  {
+   "pos": 39,
+   "root": "متع",
+   "lemma": "مَتاع",
+   "meaning_en": "the enjoyment or comfort",
+   "meaning_bn": "ভোগ বা সামগ্রী",
+   "why_en": "Contrasts the brief and perishable pleasures of this world with the lasting rewards of the Hereafter."
+  },
+  {
+   "pos": 48,
+   "root": "فتل",
+   "lemma": "فَتِيل",
+   "meaning_en": "by the thread of a date-stone",
+   "meaning_bn": "তিল পরিমাণ বা সামান্যতম",
+   "why_en": "An idiom illustrating that Allah's justice is flawless and no deed is ever diminished."
+  }
+ ],
+ "lesson_en": "Fear Allah alone above all worldly threats, and seek the lasting peace of the Hereafter.",
+ "lesson_bn": "মানুষের ভয়ের চেয়ে আল্লাহর ভয়কে হৃদয়ে স্থান দিন এবং জেনে রাখুন দুনিয়ার আরামের চেয়ে আখিরাতই শ্রেয়।",
+ "real_life_en": "A man is afraid to speak the truth because his boss might get upset. He stops to think. He reminds his heart that his life and food come from Allah alone. That thought gives him peace to do what is right.",
+ "real_life_bn": "কর্মস্থলে সত্য কথা বললে বসের অসন্তোষের ভয় জাগলে নিজেকে স্মরণ করিয়ে দিন যে মানুষের ভয় যেন আল্লাহর ভয়ের চেয়ে বড় না হয়। নীতিতে অবিচল থাকাই আসল সাফল্য।",
+ "context_en": "Addresses those who were impatient for battle in Makkah but shrank back in fear when duty arrived in Madinah, reminding them of the fleeting nature of worldly life.",
+ "context_bn": "মক্কায় যারা যুদ্ধের জন্য ব্যাকুল ছিল কিন্তু মদীনায় নির্দেশ আসার পর ভীত হয়ে পিছু হঠতে চেয়েছিল, তাদের দুর্বলতা প্রকাশ করে আখিরাতের গুরুত্ব স্মরণ করিয়ে দেওয়া হয়েছে।",
+ "themes": [
+  "this world",
+  "hereafter",
+  "taqwa",
+  "trials",
+  "justice"
+ ],
+ "kinds": [
+  "argument",
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the Hereafter"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Some who were told to restrain their hands, pray, and give charity shrank in fear of people when fighting was ordained.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Worldly enjoyment is short-lived, while the Hereafter is far better for the righteous, and no deed will be unjustly diminished.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "10:22",
+  "simple_en": "He enables you to travel on land and sea. When you sail on ships with a pleasant breeze, everyone rejoices. But then a fierce gale strikes, waves crash from every side, and people fear they are doomed. In that moment, they cry out to Allah alone with pure devotion: If You save us from this, we will surely be grateful.",
+  "simple_bn": "তিনিই তোমাদের স্থলে ও জলে ভ্রমণ করান। এমনকি তোমরা যখন নৌযানে থাকো এবং অনুকূল বাতাসে আনন্দ নিয়ে চলতে থাকো, হঠাৎ এক তীব্র ঝড় আঘাত হানে। চারদিক থেকে ঢেউ এসে তাদের ঘিরে ফেলে এবং তারা নিশ্চিত মৃত্যুর আশঙ্কা করে। তখন তারা একনিষ্ঠভাবে আল্লাহকে ডেকে বলে: আপনি যদি আমাদের রক্ষা করেন তবে আমরা অবশ্যই কৃতজ্ঞ হব।",
+  "key_words": [
+    {
+      "pos": 11,
+      "root": "فلك",
+      "lemma": "فُلْك",
+      "meaning_en": "ships / vessels",
+      "meaning_bn": "নৌযান / জাহাজ",
+      "why_en": "Ships sailing on vast waters under divine laws of buoyancy."
+    },
+    {
+      "pos": 20,
+      "root": "عصف",
+      "lemma": "عاصِف",
+      "meaning_en": "fierce storm / gale",
+      "meaning_bn": "তীব্র ঝড় / ঘূর্ণিবায়ু",
+      "why_en": "Sudden tempests demonstrating human fragility on the high seas."
+    },
+    {
+      "pos": 32,
+      "root": "خلص",
+      "lemma": "مُخْلِص",
+      "meaning_en": "sincere in devotion",
+      "meaning_bn": "একনিষ্ঠ চিত্তে",
+      "why_en": "Total monotheistic focus when all worldly help vanishes."
+    }
+  ],
+  "lesson_en": "Deep crises force the human heart to admit that only God can save.",
+  "lesson_bn": "চরম সংকট মানুষের সব অহংকার চূর্ণ করে দিয়ে একমাত্র আল্লাহর ওপর নির্ভরশীলতাকে স্পষ্ট করে তোলে।",
+  "real_life_en": "Notice how quickly human pride fades when danger strikes. Keep your faith strong during calm days, not just in times of crisis.",
+  "real_life_bn": "ঝড়-তুফানে পড়লে মানুষ যেভাবে কেবল আল্লাহকে ডাকে, শান্ত ও স্বাভাবিক দিনগুলোতেও সেই একনিষ্ঠতা ধরে রাখা উচিত।",
+  "themes": [
+    "travel on sea",
+    "storm at sea",
+    "sincere prayer in crisis"
+  ],
+  "kinds": [
+    "parable",
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "mankind",
+      "travelers"
+    ],
+    "places": [
+      "sea",
+      "land"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "ships",
+      "waves",
+      "wind"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Humanity naturally reverts to pure monotheism when facing mortal peril at sea, acknowledging Allah as the sole Savior.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

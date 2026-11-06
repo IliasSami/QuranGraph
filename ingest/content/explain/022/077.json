@@ -1,0 +1,62 @@
+{
+  "id": "22:77",
+  "simple_en": "O you who believe, bow down, prostrate, and worship your Lord faithfully. Do good deeds across your lives so that you may attain true success.",
+  "simple_bn": "হে ঈমানদারগণ, তোমরা রুকু করো, সিজদাহ করো, তোমাদের প্রতিপালকের ইবাদত করো এবং সৎকাজ করো, যাতে তোমরা সফল হতে পারো।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ركع",
+      "lemma": "يَرْكَعُ",
+      "meaning_en": "bow down",
+      "meaning_bn": "তোমরা রুকু করো",
+      "why_en": "Physical bowing in prayer expressing humility before the Creator."
+    },
+    {
+      "pos": 9,
+      "root": "خير",
+      "lemma": "خَيْر",
+      "meaning_en": "what is good",
+      "meaning_bn": "সৎকাজ বা কল্যাণ",
+      "why_en": "Performing good deeds across society to attain true success."
+    }
+  ],
+  "lesson_en": "True success comes from prayer, worship, and doing good. Faithful living brings peace in this life and the next.",
+  "lesson_bn": "নামাজ, বندگی এবং সৎকাজের মাধ্যমেই জীবনের প্রকৃত সফলতা অর্জিত হয়। এই আমলগুলো উভয় জাহানে মানুষকে শান্তি দেয়।",
+  "real_life_en": "Combine your daily prayers with acts of charity and kindness. Strive to help others every single day.",
+  "real_life_bn": "দৈনন্দিন নামাজের পাশাপাশি মানুষের উপকারে দান ও পরোপকারে এগিয়ে আসুন। প্রতিদিন অন্তত একটি ভালো কাজ করার চেষ্টা করুন।",
+  "themes": [
+    "prayer",
+    "prostration",
+    "doing-good",
+    "true-success"
+  ],
+  "kinds": [
+    "command",
+    "worship"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers are commanded to bow, prostrate, worship their Lord, and perform deeds of goodness to attain eternal success.",
+      "claim_bn": "মুমিনদের রুকু, সিজদাহ ও ইবাদত পালন করার এবং সৎকাজে লিপ্ত থাকার আদেশ দেওয়া হয়েছে যেন তারা সফলতা লাভ করতে পারে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

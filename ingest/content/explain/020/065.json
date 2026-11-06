@@ -1,0 +1,67 @@
+{
+  "id": "20:65",
+  "simple_en": "The magicians asked Moses to choose who should begin. They offered to let him cast his staff first or let them throw down their ropes before the watching crowd.",
+  "simple_bn": "জাদুকররা মূসাকে আহ্বান জানিয়ে বলল: আপনি কি প্রথমে নিক্ষেপ করবেন নাকি আমরাই প্রথমে আমাদের দড়ি ও লাঠি ছুড়ে দেব।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "لقي",
+      "lemma": "أَلْقَىٰ",
+      "meaning_en": "you cast first",
+      "meaning_bn": "আপনি নিক্ষেপ করবেন",
+      "why_en": "Offering the opening move in the contest."
+    },
+    {
+      "pos": 9,
+      "root": "أول",
+      "lemma": "أَوَّل",
+      "meaning_en": "the first",
+      "meaning_bn": "প্রথম ব্যক্তি",
+      "why_en": "Polite challenge establishing order of demonstration."
+    }
+  ],
+  "lesson_en": "Stand firm in the truth. Let your foes speak first without fear in your heart.",
+  "lesson_bn": "সত্যের ওপর গভীর আস্থা থাকলে প্রতিপক্ষকে আগে নিজের বক্তব্য উপস্থাপনের সুযোগ দেওয়া যায়।",
+  "real_life_en": "Be polite and calm when debating others. Let your opponents speak first so you can address their points with clarity.",
+  "real_life_bn": "আলোচনা বা যুক্তিতর্কে ধৈর্য দেখান। প্রতিপক্ষকে আগে কথা বলতে দিন যাতে তাদের বক্তব্য সুন্দরভাবে খণ্ডন করা যায়।",
+  "themes": [
+    "contest",
+    "magicians",
+    "manners-in-debate",
+    "musa"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Contest with Magicians"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The magicians offered Moses the choice to cast his staff first or allow them to initiate the contest.",
+      "claim_bn": "জাদুকররা মূসাকে প্রথমে নিক্ষেপ করার অথবা তাদের শুরু করতে দেওয়ার প্রস্তাব দিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

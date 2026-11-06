@@ -1,0 +1,74 @@
+{
+  "id": "65:1",
+  "simple_en": "O Prophet, when you or the believers divorce women, divorce them at the start of their waiting period during a time of purity without intimacy. Count the waiting period carefully. Fear Allah your Lord. Do not expel them from their homes, and they should not leave, unless they commit open indecency. These are the limits set by Allah. Whoever crosses His limits has wronged his own soul. You do not know, perhaps Allah will bring reconciliation afterward.",
+  "simple_bn": "হে নবী, আপনি ও মুমিনগণ যখন স্ত্রীদের তালাক দিতে চান, তখন তাদের এমন পবিত্রতার সময়ে তালাক দিন যাতে তাদের সাথে মেলামেশা হয়নি। এরপর ইদ্দতের দিনগুলোর সঠিক হিসেব রাখুন। নিজেদের প্রতিপালক আল্লাহকে ভয় করুন। ইদ্দত চলাকালে তাদের বাড়ি থেকে বের করে দেবেন না এবং তারাও যেন বের না হয়, যদি না তারা প্রকাশ্য অশ্লীলতায় লিপ্ত হয়। এগুলো আল্লাহর নির্ধারিত সীমারেখা। যে ব্যক্তি আল্লাহর সীমারেখা লঙ্ঘন করে, সে নিজের ওপরই অবিচার করে। আপনি জানেন না, হয়তো আল্লাহ এর পর কোনো অনুকূল পরিস্থিতি সৃষ্টি করে দেবেন।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "عدد",
+      "lemma": "عِدَّة",
+      "meaning_en": "their waiting period",
+      "meaning_bn": "তাদের ইদ্দতকাল",
+      "why_en": "Specifies the required legal waiting term before divorce becomes final."
+    },
+    {
+      "pos": 8,
+      "root": "حصي",
+      "lemma": "أَحْصَى",
+      "meaning_en": "calculate and keep count",
+      "meaning_bn": "গণনা ও হিসেব রাখো",
+      "why_en": "Commands exact tracking of months or cycles to preserve rights and lineage."
+    },
+    {
+      "pos": 25,
+      "root": "حدد",
+      "lemma": "حُدُود",
+      "meaning_en": "limits and boundaries of Allah",
+      "meaning_bn": "আল্লাহর সীমারেখা",
+      "why_en": "Highlights that marital procedures are sacred divine boundaries not to be violated."
+    }
+  ],
+  "lesson_en": "Follow God's rules with care if you part ways, and keep the door open for peace.",
+  "lesson_bn": "দাম্পত্যে বিচ্ছেদ ঘটাতে হলেও আল্লাহর সীমারেখা মেনে চলা এবং ভবিষ্যতে সমঝোতার সুযোগ খোলা রাখা উচিত।",
+  "real_life_en": "A couple decides to separate after trying counseling. Instead of shouting or throwing her belongings outside, the husband follows the Quranic way. He lets her stay in the home with dignity during the waiting period. This calm space allows them to speak fairly and avoid hatred.",
+  "real_life_bn": "মনোমালিন্যের পর বিচ্ছেদ অনিবার্য হলেও স্ত্রীকে অপমান করে বাড়ি থেকে বের করে দেওয়া উচিত নয়। নির্ধারিত সময়ে তাকে সম্মানের সাথে নিজের ঘরে থাকতে দিলে শান্ত মাথায় কথা বলার এবং প্রয়োজনে সমঝোতায় ফেরার সুযোগ থাকে।",
+  "themes": [
+    "divorce regulations",
+    "waiting period",
+    "limits of Allah",
+    "reconciliation"
+  ],
+  "kinds": [
+    "command",
+    "prohibition",
+    "law"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Divorce must be issued during a period of purity without intimacy, the waiting period must be counted, and women must not be expelled from their homes except for clear indecency.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,97 @@
+{
+ "id": "3:135",
+ "simple_en": "When the righteous commit a shameful act or wrong themselves, they remember Allah at once and ask forgiveness for their sins. They know that no one can forgive sins except Allah. They do not knowingly persist in their mistakes, but stop and repent.",
+ "simple_bn": "মুত্তাকীদের দিয়ে কোনো অশ্লীল কাজ বা অন্যায় হয়ে গেলে তারা অবিলম্বে আল্লাহকে স্মরণ করে এবং নিজেদের পাপের জন্য ক্ষমা চায়। তারা জানে যে আল্লাহ ছাড়া আর কে পাপ ক্ষমা করতে পারে? উপরন্তু তারা জেনে-শুনে নিজেদের ভুলের ওপর জিদ ধরে থাকে না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "فحش",
+   "lemma": "فاحِشَة",
+   "meaning_en": "a shameful deed",
+   "meaning_bn": "অশ্লীল কাজ",
+   "why_en": "Refers to major sins or serious moral lapses that require urgent repentance."
+  },
+  {
+   "pos": 8,
+   "root": "ذكر",
+   "lemma": "ذَكَرَ",
+   "meaning_en": "they remember Allah",
+   "meaning_bn": "তারা আল্লাহকে স্মরণ করে",
+   "why_en": "Recalling Allah's majesty and mercy brings immediate remorse after slipping into sin."
+  },
+  {
+   "pos": 10,
+   "root": "غفر",
+   "lemma": "اسْتَغْفَرَ",
+   "meaning_en": "and seek forgiveness",
+   "meaning_bn": "এবং ক্ষমা প্রার্থনা করে",
+   "why_en": "Asking Allah with a sincere heart to wipe away one's faults."
+  },
+  {
+   "pos": 18,
+   "root": "صرر",
+   "lemma": "أَصَرُّ",
+   "meaning_en": "they do not persist",
+   "meaning_bn": "তারা অটল থাকে না",
+   "why_en": "Refusing to stubbornly continue in wrongdoing is a pillar of true repentance."
+  }
+ ],
+ "lesson_en": "When you slip into sin, turn to Allah right away and do not keep doing it.",
+ "lesson_bn": "ভুল বা পাপ হয়ে গেলে তৎক্ষণাৎ আল্লাহকে স্মরণ করে ক্ষমা চান এবং সেই পাপে অটল থাকবেন না।",
+ "real_life_en": "If you lose your temper and say hurtful words, do not make excuses. Stop right away. Ask Allah to forgive you, say sorry to the person, and try not to repeat it.",
+ "real_life_bn": "রাগের মাথায় কাউকে কটুকথা বলে ফেললে নিজের দোষ ঢাকতে যাবেন না। তখনই মনে মনে আল্লাহর কাছে ক্ষমা চান, সংশ্লিষ্ট ব্যক্তির কাছে দুঃখ প্রকাশ করুন এবং ভবিষ্যতে এমনটি না করার প্রতিজ্ঞা নিন।",
+ "context_en": "Describes how the righteous deal with human weakness, showing that slipping into sin does not disqualify one from piety if met with immediate repentance.",
+ "context_bn": "মুত্তাকীরাও ভুলের ঊর্ধ্বে নয়, তবে তারা পাপে লিপ্ত হওয়ার সাথে সাথে তওবা করে ফিরে আসে—এখানে তা বর্ণনা করা হয়েছে।",
+ "themes": [
+  "repentance",
+  "forgiveness",
+  "remembrance of Allah",
+  "taqwa",
+  "human nature"
+ ],
+ "kinds": [
+  "ethics",
+  "description-of-allah",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "When the righteous commit an immoral deed or wrong themselves, they remember Allah and ask forgiveness for their sins.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "None has the power to forgive sins except Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "A crucial quality of true repentance is not persisting in sin knowingly.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

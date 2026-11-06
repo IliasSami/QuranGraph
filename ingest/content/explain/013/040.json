@@ -1,0 +1,80 @@
+{
+  "id": "13:40",
+  "simple_en": "Whether you see their punishment or die before it comes, your job is only to preach the truth. The final count of their deeds belongs to Us.",
+  "simple_bn": "আমরা তাদের যে শাস্তির প্রতিশ্রুতি দিয়েছি তার কিছু যদি আপনাকে দেখিয়ে দিই কিংবা আপনার ওফাত ঘটাই—আপনার দায়িত্ব তো কেবল বার্তা পৌঁছে দেওয়া, আর হিসাব নেওয়ার দায়িত্ব আমাদের।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "وعد",
+      "lemma": "وَعَدَ",
+      "meaning_en": "We promised them",
+      "meaning_bn": "আমরা তাদের প্রতিশ্রুতি দিয়েছি",
+      "why_en": "The divine retribution promised to persistent oppressors."
+    },
+    {
+      "pos": 8,
+      "root": "وفي",
+      "lemma": "تَوَفَّى",
+      "meaning_en": "We cause you to die",
+      "meaning_bn": "আমরা আপনার ওফাত দিই",
+      "why_en": "The Prophet's earthly life ends when his appointed term arrives."
+    },
+    {
+      "pos": 11,
+      "root": "بلغ",
+      "lemma": "بَلاغ",
+      "meaning_en": "delivery of message",
+      "meaning_bn": "বার্তা পৌঁছে দেওয়া",
+      "why_en": "The clear conveyance of truth without responsibility for results."
+    },
+    {
+      "pos": 13,
+      "root": "حسب",
+      "lemma": "حِساب",
+      "meaning_en": "the account",
+      "meaning_bn": "হিসাব নেওয়া",
+      "why_en": "Judgment and recompense belong exclusively to Allah."
+    }
+  ],
+  "lesson_en": "Do your duty with care. Leave the final outcome to God.",
+  "lesson_bn": "নিজের দায়িত্ব সততার সাথে পালন করে যান, পরিণামের ভার আল্লাহর ওপর ছেড়ে দিন।",
+  "real_life_en": "A doctor gives his best treatment to an ill patient. He stays humble and calm, knowing his role is to provide care while healing rests with God.",
+  "real_life_bn": "একজন চিকিৎসক মন দিয়ে রোগীর চিকিৎসা করেন। তিনি জানেন তাঁর কাজ নিষ্ঠার সাথে সেবা দেওয়া, আর আরোগ্যের চূড়ান্ত মালিক আল্লাহ।",
+  "context_en": "Defining the boundary of prophetic mission: clear delivery belongs to the messenger, judgment to Allah.",
+  "context_bn": "দাওয়াতের দায়িত্ব স্পষ্টকরণ: নবীর কাজ শুধু পৌঁছে দেওয়া, হিসাব নেওয়ার ভার আল্লাহর।",
+  "themes": [
+    "conveying message",
+    "accountability",
+    "prophetic duty"
+  ],
+  "kinds": [
+    "address",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Day of Judgment"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet's duty is only to deliver the message, while the final account belongs to Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

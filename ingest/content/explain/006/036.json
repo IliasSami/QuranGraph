@@ -1,0 +1,84 @@
+{
+  "id": "6:36",
+  "simple_en": "Only those who listen with open hearts can respond to the truth. Those who stubbornly reject guidance are like the dead who cannot hear. Allah will raise all the dead on the Day of Resurrection. Then everyone will return to Him to receive recompense for their actions.",
+  "simple_bn": "কেবল তারাই সত্যের ডাকে সাড়া দেয়, যারা খোলা মনে কথা শোনে ও উপলব্ধি করে। আর যারা সত্য গ্রহণে অনড়, তারা তো আত্মিক দিক থেকে মৃতদের মতো। কিয়ামতের দিন আল্লাহ সমস্ত মৃতকে পুনরুত্থিত করবেন। অতঃপর সবাইকে তাঁর কাছেই ফিরে যেতে হবে নিজেদের কর্মের চূড়ান্ত প্রতিদান পাওয়ার জন্য।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جوب",
+      "lemma": "اسْتَجابَ",
+      "meaning_en": "will respond",
+      "meaning_bn": "সাড়া দেবে",
+      "why_en": "Describes how an open and living heart responds to the call of truth."
+    },
+    {
+      "pos": 5,
+      "root": "موت",
+      "lemma": "مَيِّت",
+      "meaning_en": "the dead",
+      "meaning_bn": "মৃতরা",
+      "why_en": "Compares spiritually dead disbelievers to corpses unable to hear."
+    },
+    {
+      "pos": 6,
+      "root": "بعث",
+      "lemma": "بَعَثَ",
+      "meaning_en": "He resurrects them",
+      "meaning_bn": "তিনি তাদের পুনরুজ্জীবিত করবেন",
+      "why_en": "Affirms resurrection when even the dead will be raised for judgment."
+    }
+  ],
+  "lesson_en": "An open heart listens to the truth. Pride closes the mind like death.",
+  "lesson_bn": "খোলা মন সত্যের ডাকে সাড়া দেয়, আর অহংকার মানুষকে আত্মিক মৃত্যুর দিকে ঠেলে দেয়।",
+  "real_life_en": "A teacher helps students who want to learn. Trying to force someone who shuts his ears only brings sorrow. Keep your mind open and listen well so you can grow in wisdom and faith.",
+  "real_life_bn": "যে শিক্ষার্থী শিখতে চায়, শিক্ষক তাকে আগ্রহ নিয়ে শেখান। কিন্তু যে শুনতেই চায় না, তাকে জোর করে শেখানো যায় না। নিজের মনকে সবসময় সত্য ও জ্ঞান গ্রহণের জন্য উন্মুক্ত রাখা আবশ্যক।",
+  "context_en": "Contrasts spiritually living people who heed revelation with the spiritually dead who remain deaf.",
+  "context_bn": "সত্য গ্রহণকারী জীবিত হৃদয় এবং হঠকারিতায় নিমজ্জিত আত্মিক মৃতদের মধ্যে সুস্পষ্ট পার্থক্য তুলে ধরা হয়েছে।",
+  "themes": [
+    "guidance",
+    "spiritual-life",
+    "resurrection"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Day of Resurrection"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Only those who listen attentively and with understanding respond to the call of faith.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Disbelievers are spiritually dead, and Allah will resurrect all the dead on the Day of Judgment to face recompense.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "20:120",
+  "simple_en": "Satan whispered bad thoughts to Adam. He asked: Shall I show you the Tree of Eternity and a kingdom that will never fade away or end?",
+  "simple_bn": "শয়তান তাকে কুমন্ত্রণা দিয়ে বলল: হে আদম, আমি কি তোমাকে অনন্ত জীবনের গাছের এবং কখনো ক্ষয় না হওয়া চিরস্থায়ী রাজত্বের সন্ধান দেব?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "وسوس",
+      "lemma": "وَسْوَسَ",
+      "meaning_en": "he whispered evil suggestions",
+      "meaning_bn": "সে কুমন্ত্রণা দিল",
+      "why_en": "Subtle deceit targeting human desires."
+    },
+    {
+      "pos": 9,
+      "root": "شجر",
+      "lemma": "شَجَرَة",
+      "meaning_en": "the tree",
+      "meaning_bn": "গাছ",
+      "why_en": "The forbidden tree disguised with false promises."
+    },
+    {
+      "pos": 10,
+      "root": "خلد",
+      "lemma": "خُلْد",
+      "meaning_en": "immortality",
+      "meaning_bn": "অনন্তকাল বা অমরত্ব",
+      "why_en": "Appealing to the desire to live forever."
+    }
+  ],
+  "lesson_en": "Satan lies by giving nice names to bad deeds. He lures people with fake promises of wealth.",
+  "lesson_bn": "শয়তান পাপের জিনিসকে সুন্দর নাম ও মিথ্যার চাদরে ঢেকে মানুষের কাছে লোভনীয় হিসেবে উপস্থাপন করে।",
+  "real_life_en": "Do not fall for sweet words that hide bad deeds. Look closely at what lies behind bold promises.",
+  "real_life_bn": "আকর্ষণীয় বিজ্ঞাপনী ভাষা বা চটকদার প্রতিশ্রুতির ফাঁদে পা দেবেন না। কাজের আসল পরিণতি যাচাই করে সিদ্ধান্ত নিন।",
+  "themes": [
+    "satanic-whispers",
+    "forbidden-tree",
+    "deception"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Adam",
+      "Shaytan"
+    ],
+    "nations": [],
+    "places": [
+      "Paradise"
+    ],
+    "unseen": [
+      "Shaytan"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Satan whispers to Adam"
+    ],
+    "things": [
+      "tree"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Satan whispered to Adam, falsely calling the forbidden tree the Tree of Immortality and Eternal Kingdom.",
+      "claim_bn": "শয়তান নিষিদ্ধ গাছটিকে অমরত্ব ও চিরস্থায়ী রাজত্বের গাছ বলে মিথ্যা প্রলোভনে আদমকে ধোঁকা দিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

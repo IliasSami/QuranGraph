@@ -1,0 +1,72 @@
+{
+  "id": "18:90",
+  "simple_en": "He marched east until he reached the rising sun. He found it rising upon a people for whom We provided no shelter against its heat.",
+  "simple_bn": "চলতে চলতে সে যখন সূর্যোদয়ের স্থানে পৌঁছাল, তখন সে দেখল সূর্য এমন এক জাতির ওপর উদিত হচ্ছে যাদের জন্য রোদের বিরুদ্ধে আমরা কোনো আবরণের ব্যবস্থা করিনি।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "طلع",
+      "lemma": "مَطْلِع",
+      "meaning_en": "rising place",
+      "meaning_bn": "সূর্যোদয়ের স্থান",
+      "why_en": "Eastern limit where the sun appeared to rise over open plains."
+    },
+    {
+      "pos": 15,
+      "root": "ستر",
+      "lemma": "سِتْر",
+      "meaning_en": "shelter or cover",
+      "meaning_bn": "আবরণ বা ছায়া",
+      "why_en": "The primitive living conditions lacking structural housing."
+    }
+  ],
+  "lesson_en": "People live in different ways across the earth. A wise leader respects all cultures and helps the poor.",
+  "lesson_bn": "পৃথিবীতে মানুষ বিভিন্ন পরিবেশে বাস করে। দূরদর্শী শাসক সব মানুষের জীবনযাত্রার প্রতি সহানুভূতিশীল থাকেন।",
+  "real_life_en": "Show compassion to people who live with fewer comforts. Be grateful for basic shelters like roofs and cool homes.",
+  "real_life_bn": "যাদের থাকার উপযুক্ত ঘর নেই বা তীব্র রোদে কাজ করতে হয় তাদের প্রতি দয়ার দৃষ্টি দিন। নিজের বাসস্থানের নেয়ামতের জন্য কৃতজ্ঞ থাকুন।",
+  "themes": [
+    "rising-sun",
+    "primitive-peoples",
+    "human-diversity",
+    "compassion-for-simple-societies"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Dhul-Qarnayn"
+    ],
+    "nations": [
+      "Eastern-People"
+    ],
+    "places": [
+      "Rising-Place-of-Sun"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Encounter-at-Sunrise"
+    ],
+    "things": [
+      "Sun"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "In the east, Dhul-Qarnayn found a people living in open exposure without physical shelter from the sun.",
+      "claim_bn": "পূর্বাঞ্চলে পৌঁছে যুল-কারনাইন এমন এক জাতি পেলেন যাদের রোদের বিরুদ্ধে কোনো ঘরবাড়ি ছিল না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

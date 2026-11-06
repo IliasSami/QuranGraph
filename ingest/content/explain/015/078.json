@@ -1,0 +1,66 @@
+{
+  "id": "15:78",
+  "simple_en": "The people of Madyan were wrongdoers who cheated people in trade. They refused to listen to Prophet Shu'ayb. Unjust trade and greed ruined their town.",
+  "simple_bn": "আর আইকাবাসীরাও ছিল ঘোর সীমালঙ্ঘনকারী ও অন্যায়কারী। তারা মাপে কম দিত এবং শু'আইব আলাইহিস সালামের আনীত সত্য পথ প্রত্যাখ্যান করেছিল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "صحب",
+      "lemma": "أَصْحاب",
+      "meaning_en": "the companions",
+      "meaning_bn": "অধিবাসীরা",
+      "why_en": "Inhabitants of the forested area of Madyan."
+    },
+    {
+      "pos": 5,
+      "root": "ظلم",
+      "lemma": "ظالِم",
+      "meaning_en": "wrongdoers",
+      "meaning_bn": "সীমালঙ্ঘনকারী",
+      "why_en": "Committing injustice through fraud and disbelief."
+    }
+  ],
+  "lesson_en": "Be honest in business. Cheating people ruins trust and brings harm to the whole town.",
+  "lesson_bn": "ব্যবসায় সততা বজায় রাখা একটি বড় ধর্মীয় দায়িত্ব। ওজনে কম দেওয়া এবং মানুষকে ঠকানো পুরো সমাজকে ধ্বংসের দিকে নিয়ে যায়।",
+  "real_life_en": "A shopkeeper checks his scale every week to be fair. He makes sure buyers get full weight. He prefers honest money over quick unlawful gain.",
+  "real_life_bn": "এক ব্যবসায়ী প্রতিদিন সকালে নিজের দাঁড়িপাল্লা পরীক্ষা করেন যাতে কাউকে ওজনে কম দেওয়া না হয়। তিনি অবৈধ লাভের চেয়ে হালাল জীবিকাকে বেশি ভালোবাসেন।",
+  "context_en": "Brief historical reference to the wrongdoing and trade corruption of the people of Madyan.",
+  "context_bn": "আইকাবাসী অর্থাৎ মাদইয়ানবাসীদের অসততা ও সীমালঙ্ঘনের ঐতিহাসিক বিবরণ।",
+  "themes": [
+    "justice",
+    "history",
+    "trade"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [
+      "People of Madyan"
+    ],
+    "places": [
+      "Madyan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The dwellers of the wooded thicket, the people of Madyan, were persistent wrongdoers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

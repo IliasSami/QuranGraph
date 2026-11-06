@@ -1,0 +1,75 @@
+{
+  "id": "20:52",
+  "simple_en": "Moses answered wisely: The knowledge of them is preserved with my Lord in a Record. My Lord never errs in judgment, nor does He ever forget.",
+  "simple_bn": "মূসা প্রজ্ঞার সাথে উত্তর দিলেন: সে বিষয়ে জ্ঞান আমার রবের নিকট এক কিতাবে সংরক্ষিত আছে। আমার প্রতিপালক ভুল করেন না এবং বিস্মৃতও হন না।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "كتب",
+      "lemma": "كِتَٰب",
+      "meaning_en": "a Record",
+      "meaning_bn": "একটি কিতাব বা লিপিবদ্ধ গ্রন্থ",
+      "why_en": "The Preserved Tablet containing all deeds of history."
+    },
+    {
+      "pos": 8,
+      "root": "ضلل",
+      "lemma": "ضَلَّ",
+      "meaning_en": "errs or loses",
+      "meaning_bn": "ভুল করা বা ভ্রান্ত হওয়া",
+      "why_en": "God's knowledge is free from any error or mistake."
+    },
+    {
+      "pos": 11,
+      "root": "نسي",
+      "lemma": "نَسِيَ",
+      "meaning_en": "forgets",
+      "meaning_bn": "ভুলে যাওয়া",
+      "why_en": "God never forgets any deed of creation."
+    }
+  ],
+  "lesson_en": "God knows all things in history. He never makes mistakes and never forgets any deed.",
+  "lesson_bn": "আল্লাহর জ্ঞান নিখুঁত ও পূর্ণাঙ্গ। মানব ইতিহাসের ক্ষুদ্রাতিক্ষুদ্র কাজও ইনসাফের সাথে সংরক্ষিত রয়েছে।",
+  "real_life_en": "Do not fear that good acts will be lost. God sees all your work and will reward you fairly.",
+  "real_life_bn": "আপনার ভালো কাজ বৃথা যাবে না। আল্লাহ কোনো কিছুই ভুলে যান না এবং প্রতিটি কাজের যথাযথ প্রতিদান দেন।",
+  "themes": [
+    "omniscience",
+    "divine-justice",
+    "preserved-tablet"
+  ],
+  "kinds": [
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Preserved Tablet"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Record"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Moses affirmed that God's knowledge of all generations is preserved without error or forgetfulness.",
+      "claim_bn": "মূসা ঘোষণা করলেন যে অতীত জাতিসমূহের জ্ঞান আল্লাহর নিকট সংরক্ষিত, যিনি কোনো ভুল করেন না বা ভুলে যান না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

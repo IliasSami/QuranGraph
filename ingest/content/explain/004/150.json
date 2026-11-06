@@ -1,0 +1,80 @@
+{
+ "id": "4:150",
+ "simple_en": "Some people reject Allah and His messengers. They try to make a false split between Allah and His prophets. They say, 'We believe in some messengers, but we deny others.' They wish to invent a middle path between faith and disbelief. But true belief cannot be split into parts.",
+ "simple_bn": "যারা আল্লাহ ও তাঁর রাসূলদের অস্বীকার করে এবং আল্লাহ ও তাঁর রাসূলদের মধ্যে পার্থক্য করতে চায়, তারা বলে, আমরা কিছু নবীর উপর ঈমান আনি আর কিছু নবীকে প্রত্যাখ্যান করি। তারা ঈমান ও কুফরের মাঝে একটি মধ্যবর্তী পথ খুঁজতে চায়। কিন্তু এমন খণ্ডিত ঈমান আল্লাহর কাছে কখনোই গ্রহণযোগ্য নয়।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "فرق",
+   "lemma": "فَرَّقُ",
+   "meaning_en": "to separate or divide",
+   "meaning_bn": "পার্থক্য বা বিভেদ সৃষ্টি করা",
+   "why_en": "Exposes the attempt to accept some messengers while rejecting others."
+  },
+  {
+   "pos": 13,
+   "root": "أمن",
+   "lemma": "آمَنَ",
+   "meaning_en": "we believe",
+   "meaning_bn": "আমরা ঈমান আনি",
+   "why_en": "Quotes the partial and selective claim of faith made by deniers."
+  },
+  {
+   "pos": 22,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "a path or middle way",
+   "meaning_bn": "ভিন্ন একটি পথ",
+   "why_en": "Refers to inventing an invalid middle route between faith and open denial."
+  }
+ ],
+ "lesson_en": "True faith honors all the messengers of Allah. Do not reject any prophet.",
+ "lesson_bn": "আল্লাহর পাঠানো সকল নবীর প্রতি সমানভাবে বিশ্বাস স্থাপন করা ঈমানের অবিচ্ছেদ্য শর্ত।",
+ "real_life_en": "You cannot pick and choose which parts of faith to accept. Respect and believe in every prophet sent by Allah. Follow His teachings fully, not just when it fits your personal comfort or daily habits.",
+ "real_life_bn": "দীনের বিধান মানার ক্ষেত্রে নিজের সুবিধার পেছনে ছুটবেন না। নিজের পছন্দমতো কিছু আদেশ মেনে বাকিগুলো অবহেলা করবেন না। আল্লাহর প্রতিটি নবী ও বিধানকে আন্তরিকভাবে সম্মান ও বিশ্বাস করুন।",
+ "context_en": "This verse addresses communities who accepted some prophets like Moses while rejecting subsequent messengers like Jesus and Muhammad ﷺ.",
+ "context_bn": "এখানে পূর্ববর্তী আহলে কিতাবদের মনোভাব তুলে ধরা হয়েছে, যারা মূসা (আ.)-কে মানলেও পরবর্তী নবী ঈসা ও মুহাম্মদ ﷺ-কে অস্বীকার করে মনগড়া পথ চেয়েছিল।",
+ "themes": [
+  "prophethood",
+  "faith",
+  "disbelief",
+  "belief"
+ ],
+ "kinds": [
+  "warning",
+  "belief",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Rejecting even one of Allah's messengers is equivalent to rejecting Allah and all His messengers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Attempting to create a middle path between faith and disbelief by believing in some prophets and denying others is unacceptable.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

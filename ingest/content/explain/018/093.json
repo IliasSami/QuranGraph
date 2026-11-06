@@ -1,0 +1,70 @@
+{
+  "id": "18:93",
+  "simple_en": "He arrived between two high cliffs and found people living near them. They could barely understand any speech because their spoken tongue was so strange.",
+  "simple_bn": "চলতে চলতে সে যখন দুই পর্বতপ্রাচীরের মধ্যস্থলে পৌঁছাল, তখন সেখানে এক জাতির দেখা পেল যারা প্রায় কোনো কথাই বুঝতে পারছিল না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "سدد",
+      "lemma": "سَدّ",
+      "meaning_en": "the two mountain barriers",
+      "meaning_bn": "দুই পর্বত-প্রাচীর",
+      "why_en": "The natural mountain pass between which the wall was built."
+    },
+    {
+      "pos": 13,
+      "root": "قول",
+      "lemma": "قَوْل",
+      "meaning_en": "speech or words",
+      "meaning_bn": "কথা",
+      "why_en": "The foreign dialect of the isolated tribe."
+    }
+  ],
+  "lesson_en": "Language barriers should not stop mutual help. True leaders make an effort to communicate with isolated people.",
+  "lesson_bn": "ভাষাগত দূরত্ব যেন পরোপকারের পথে বাধা না হয়। বিচক্ষণ নেতৃত্ব বিচ্ছিন্ন জনগোষ্ঠীর সাথেও যোগাযোগের উপায় বের করে।",
+  "real_life_en": "Be patient when talking to people who speak other languages. Sincere kindness can cross all language barriers.",
+  "real_life_bn": "ভিন্ন ভাষার মানুষের সাথে ধৈর্য ধরে কথা বলুন। আন্তরিকতা ও ভালো ব্যবহার সব ভাষার ব্যবধান ঘুচিয়ে দেয়।",
+  "themes": [
+    "two-mountain-barriers",
+    "isolated-people",
+    "cross-cultural-communication",
+    "seeking-protection"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Dhul-Qarnayn"
+    ],
+    "nations": [
+      "Isolated-Mountain-People"
+    ],
+    "places": [
+      "Between-the-Two-Mountains"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Arrival-at-the-Pass"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Between two natural mountain barriers, Dhul-Qarnayn found an isolated population with an unfamiliar language.",
+      "claim_bn": "দুই পর্বতের মাঝে যুল-কারনাইন এমন এক জাতি পেলেন যাদের ভাষা বোঝা অত্যন্ত কঠিন ছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

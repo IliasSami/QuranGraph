@@ -1,0 +1,114 @@
+{
+ "id": "2:270",
+ "simple_en": "Whatever money you spend or vow you make to do good, Allah knows it all. For the wrongdoers who break their duties, there will be no helpers to save them from punishment.",
+ "simple_bn": "তোমরা যা কিছু ব্যয় করো কিংবা যে মানতই করো না কেন, নিশ্চয় আল্লাহ তা জানেন। আর জালিমদের জন্য কোনো সাহায্যকারী থাকবে না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نفق",
+   "lemma": "أَنفَقَ",
+   "meaning_en": "you spend",
+   "meaning_bn": "তোমরা ব্যয় করো",
+   "why_en": "Covers all forms of spending, both obligatory like zakat and voluntary charity."
+  },
+  {
+   "pos": 6,
+   "root": "نذر",
+   "lemma": "نَذَرْ",
+   "meaning_en": "you vowed",
+   "meaning_bn": "তোমরা মানত করলে",
+   "why_en": "Refers to vows made to perform acts of obedience for Allah's sake."
+  },
+  {
+   "pos": 11,
+   "root": "علم",
+   "lemma": "عَلِمَ",
+   "meaning_en": "knows it",
+   "meaning_bn": "তা জানেন",
+   "why_en": "Reassures givers that not a single penny or intention is lost or forgotten by Allah."
+  },
+  {
+   "pos": 13,
+   "root": "ظلم",
+   "lemma": "ظالِم",
+   "meaning_en": "the wrongdoers",
+   "meaning_bn": "জালিমরা",
+   "why_en": "Those who withhold obligatory charity, break vows, or spend to promote evil."
+  },
+  {
+   "pos": 15,
+   "root": "نصر",
+   "lemma": "نَصِير",
+   "meaning_en": "helpers / protectors",
+   "meaning_bn": "সাহায্যকারী",
+   "why_en": "Affirms that nobody can shield evildoers from the consequences of their injustice."
+  }
+ ],
+ "lesson_en": "Keep every promise you make to Allah, knowing that He sees every penny you give.",
+ "lesson_bn": "মনে রাখুন যে আপনার প্রতিটি ব্যয় ও নিয়ত আল্লাহ জানেন; তাই সকল প্রতিশ্রুতি ও ইবাদত নিষ্ঠার সাথে পূরণ করুন।",
+ "real_life_en": "Whether you drop loose coins into a mosque box or promise to help an orphan each month, do not worry if no one sees you. Allah knows your deed and will reward you in full.",
+ "real_life_bn": "মসজিদের দানবাক্সে গোপনে সামান্য কিছু টাকা ফেলুন কিংবা প্রতি মাসে কোনো গরিব ছাত্রকে সাহায্যের অঙ্গীকার করুন—মানুষ জানুক বা না জানুক, আল্লাহ তা অবগত আছেন এবং তিনিই এর সর্বোত্তম প্রতিদান দেবেন।",
+ "context_en": "Concludes the passage on spending by assuring believers that all charitable expenditures and sincere vows are known and preserved by Allah.",
+ "context_bn": "দান-সদকার আলোচনার সমাপ্তিতে মুমিনদের আশ্বস্ত করা হয়েছে যে তাদের প্রতিটি ব্যয় ও মানত আল্লাহর কাছে সংরক্ষিত রয়েছে।",
+ "themes": [
+  "charity",
+  "Allah's knowledge",
+  "justice",
+  "warning",
+  "reward",
+  "trust in Allah"
+ ],
+ "kinds": [
+  "promise",
+  "warning",
+  "description-of-allah",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "spending",
+   "vows"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah has complete knowledge of all wealth spent in charity, whether open or secret, large or small.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah knows all vows made in obedience to Him and will reward those who fulfill them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The wrongdoers who withhold dues, break valid vows, or spend in disobedience will find no one to protect them from Allah's punishment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

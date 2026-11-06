@@ -1,0 +1,63 @@
+{
+  "id": "56:85",
+  "simple_en": "Allah is closer to the dying person than you are, through His knowledge, power, and His angels of death. Yet you cannot see those angels standing right in front of you. The unseen world surrounds every human soul.",
+  "simple_bn": "আল্লাহ নিজ জ্ঞান, কুদরত এবং মৃত্যুর ফেরেশতাদের মাধ্যমে তোমাদের চেয়েও সেই মুমূর্ষু ব্যক্তির অধিক নিকটবর্তী। অথচ তোমরা চোখের সামনে থাকা সেই ফেরেশতাদের দেখতে পাও না। অদৃশ্য জগৎ সবসময় মানুষকে ঘিরে রয়েছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قرب",
+      "lemma": "أَقْرَب",
+      "meaning_en": "nearer",
+      "meaning_bn": "অধিক নিকটবর্তী",
+      "why_en": "Affirms divine nearness in knowledge and the nearness of His angels."
+    },
+    {
+      "pos": 7,
+      "root": "بصر",
+      "lemma": "أَبْصَرَ",
+      "meaning_en": "you see or perceive",
+      "meaning_bn": "তোমরা দেখতে পাও না",
+      "why_en": "Highlights the human limitation of being blind to the angels present at death."
+    }
+  ],
+  "lesson_en": "Trust in the unseen, for angels surround us at all times.",
+  "lesson_bn": "অদৃশ্যের প্রতি দৃঢ় ঈমান রাখুন, কারণ চোখের আড়ালে ফেরেশতারা আমাদের পরিবেষ্টন করে আছেন।",
+  "real_life_en": "We cannot see radio waves or oxygen, yet we know they fill the room. In the same way, a believer trusts that Allah's angels are present and carrying out their duties, even though eyes cannot see them.",
+  "real_life_bn": "বাতাসের অক্সিজেন বা বেতার তরঙ্গ আমরা চোখে দেখি না, তবুও তা ঘরে বিদ্যমান থাকে। একইভাবে একজন মুমিন বিশ্বাস করে যে আল্লাহর ফেরেশতারা দৃষ্টির আড়ালে থেকে তাদের দায়িত্ব পালন করছেন।",
+  "themes": [
+    "the unseen",
+    "angels",
+    "Allah's knowledge"
+  ],
+  "kinds": [
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah is nearer to the dying person through His knowledge and angels than the bystanders, though they cannot see the angels.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

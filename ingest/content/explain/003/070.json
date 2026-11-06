@@ -1,0 +1,89 @@
+{
+  "id": "3:70",
+  "simple_en": "O People of the Scripture, why do you reject the signs and verses of Allah when you witness their truth? You recognize the signs of this message in your own texts. Denying what you know to be true is a betrayal of your own conscience.",
+  "simple_bn": "হে কিতাবধারীগণ! তোমরা কেন আল্লাহর আয়াত ও নিদর্শনগুলোকে অস্বীকার করছ, অথচ তোমরা নিজেরাই তার সত্যতার সাক্ষ্য দিচ্ছ?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "do you disbelieve / reject",
+      "meaning_bn": "তোমরা অস্বীকার করছ",
+      "why_en": "Rebukes deliberate rejection of divine signs after knowing their reality."
+    },
+    {
+      "pos": 5,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "the verses / signs",
+      "meaning_bn": "আয়াতসমূহ / নিদর্শনাবলী",
+      "why_en": "Refers to Quranic verses and prophecies describing the Prophet in their texts."
+    },
+    {
+      "pos": 8,
+      "root": "شهد",
+      "lemma": "شَهِدَ",
+      "meaning_en": "you witness",
+      "meaning_bn": "তোমরা সাক্ষ্য দিচ্ছ",
+      "why_en": "Highlights their personal awareness that the message is authentic."
+    }
+  ],
+  "lesson_en": "Never deny the truth when your conscience and clear signs confirm it.",
+  "lesson_bn": "অন্তরে সত্য উপলব্ধি করার পর পার্থিব স্বার্থ বা অহংকারের কারণে তা অস্বীকার করবেন না।",
+  "real_life_en": "When you clearly see the right choice in an ethical dilemma, do not pretend you do not know. Acknowledging the truth requires courage, but denying it damages your character. Always follow what you know is right.",
+  "real_life_bn": "নিজের ভুল বা অন্যের সঠিক কথা স্পষ্ট জানার পর জেদ ধরে অস্বীকার করবেন না। সত্য মেনে নেওয়াই মানবিক সততার পরিচয়।",
+  "context_en": "Directly censures the People of the Scripture for denying the Quran when their own scriptures verified its truth.",
+  "context_bn": "নিজের কিতাবে সত্যের বিবরণ দেখেও কুরআনের আয়াত অস্বীকার করায় কিতাবধারীদের তিরস্কার করা হয়েছে।",
+  "themes": [
+    "disbelief",
+    "revelation",
+    "the Quran",
+    "honesty",
+    "knowledge"
+  ],
+  "kinds": [
+    "warning",
+    "address",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "People of the Book"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The People of the Scripture are rebuked for disbelieving in Allah's revelations and signs.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They witnessed the truth of the Prophet ﷺ and his message in their own scriptures.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

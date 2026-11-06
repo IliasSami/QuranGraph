@@ -1,0 +1,99 @@
+{
+ "id": "2:241",
+ "simple_en": "Divorced women have a right to fair financial support and a parting gift. This kindness helps soften the pain caused by divorce. Giving this support is a duty for everyone who fears Allah.",
+ "simple_bn": "তালাকপ্রাপ্ত নারীদের জন্য প্রচলিত নিয়ম অনুযায়ী যুক্তিসঙ্গত ভরণপোষণ বা সম্মানজনক উপহার দেওয়া কর্তব্য। বিচ্ছেদের কারণে তাদের মনের যে কষ্ট ও ক্ষত তৈরি হয়, এই উপহার তা কিছুটা লাঘব করে। যারা আল্লাহকে ভয় করে এবং তাকওয়া অবলম্বন করে, এটি তাদের ওপর এক অপরিহার্য দায়িত্ব।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "طلق",
+   "lemma": "مُطَلَّقَة",
+   "meaning_en": "divorced women",
+   "meaning_bn": "তালাকপ্রাপ্ত নারীরা",
+   "why_en": "Identifies the group entitled to care and fair financial treatment upon separation."
+  },
+  {
+   "pos": 2,
+   "root": "متع",
+   "lemma": "مَتاع",
+   "meaning_en": "provision / gift",
+   "meaning_bn": "ভরণপোষণ বা উপহার",
+   "why_en": "Refers to clothing, money, or support given to comfort the woman after divorce."
+  },
+  {
+   "pos": 3,
+   "root": "عرف",
+   "lemma": "مَعْرُوف",
+   "meaning_en": "in a fair manner",
+   "meaning_bn": "ন্যায়সঙ্গত ও প্রচলিত নিয়মে",
+   "why_en": "Requires that the gift be dignified, kind, and matched to the husband's financial ability."
+  },
+  {
+   "pos": 6,
+   "root": "وقي",
+   "lemma": "مُتَّقي",
+   "meaning_en": "the righteous / mindful",
+   "meaning_bn": "মুত্তাকী বা আল্লাহভীরুগণ",
+   "why_en": "Emphasizes that honoring women's post-divorce rights is a hallmark of true piety."
+  }
+ ],
+ "lesson_en": "Treat a divorced wife with kindness, and give her fair support with a good heart.",
+ "lesson_bn": "বিবাহবিচ্ছেদ ঘটলেও তিক্ততা পরিহার করে সম্মানজনক আচরণ করুন এবং সাধ্য অনুযায়ী সাবেক স্ত্রীর প্রাপ্য সুন্দরভাবে প্রদান করুন।",
+ "real_life_en": "If a marriage ends in divorce, a man should not act petty or hold back his former wife's due support. He should give her a generous parting gift to help her start anew. He should speak to a knowledgeable scholar to ensure all legal rights are fulfilled fairly.",
+ "real_life_bn": "দাম্পত্য জীবনের বিচ্ছেদ ঘটলে ক্ষোভ পুষে রেখে সাবেক স্ত্রীর পাওনা আটকে রাখা উচিত নয়। বরং সাধ্য অনুযায়ী সম্মানজনক উপহার ও খরচ দিয়ে তাকে নতুনভাবে জীবন শুরু করতে সহায়তা করা উচিত, এবং শরীয়তের বিধান মেনে সকল হক পুরোপুরি আদায় করা দরকার।",
+ "context_en": "Concludes the detailed rulings on divorce and waiting periods by reaffirming kindness, fairness, and generosity toward divorced women.",
+ "context_bn": "তালাক ও ইদ্দতের ধারাবাহিক বিধানের সমাপ্তি টেনে তালাকপ্রাপ্ত নারীদের প্রতি অনুগ্রহ, সহানুভূতি ও নৈতিক দায়িত্বের গুরুত্ব তুলে ধরা হয়েছে।",
+ "themes": [
+  "marriage",
+  "family",
+  "justice",
+  "taqwa",
+  "ethics"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Divorced women have a right to reasonable maintenance or a parting gift according to custom and the husband's financial ability.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Providing parting support comforts the woman's heart and softens the emotional hardship of divorce.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Fulfilling this financial duty is a binding obligation and a mark of righteousness for those mindful of Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "20:133",
+  "simple_en": "The critics ask: Why does he not bring us a physical sign from his Lord? Has there not come to them clear proof in earlier revealed scriptures?",
+  "simple_bn": "অবিশ্বাসীরা বলে: সে কেন তার রবের নিকট থেকে আমাদের কাছে কোনো অলৌকিক নিদর্শন নিয়ে আসে না? তাদের কাছে কি পূর্ববর্তী কিতাবসমূহের স্পষ্ট প্রমাণ আসেনি?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أيي",
+      "lemma": "ءَايَة",
+      "meaning_en": "a miraculous sign",
+      "meaning_bn": "অলৌকিক নিদর্শন",
+      "why_en": "Demanding spectacular physical signs out of stubbornness."
+    },
+    {
+      "pos": 9,
+      "root": "بين",
+      "lemma": "بَيِّنَة",
+      "meaning_en": "clear proof or testimony",
+      "meaning_bn": "স্পষ্ট প্রমাণ",
+      "why_en": "Scriptural prophecies confirming Muhammad's mission."
+    },
+    {
+      "pos": 12,
+      "root": "صحف",
+      "lemma": "صُحُف",
+      "meaning_en": "the former scriptures",
+      "meaning_bn": "পূর্ববর্তী কিতাবসমূহ",
+      "why_en": "Past revelations foretelling the coming of the Quran."
+    }
+  ],
+  "lesson_en": "Skeptics always ask for new signs. They overlook the clear proofs already sent in earlier books.",
+  "lesson_bn": "অবিশ্বাসী মন সর্বদা নতুন অলৌকিক প্রদর্শনী দেখতে চায়, অথচ চোখের সামনে থাকা স্পষ্ট প্রমাণগুলোকে অবহেলা করে।",
+  "real_life_en": "Do not demand unrealistic proof when clear evidence is already before you. Look honestly at the truth around you.",
+  "real_life_bn": "অযৌক্তিক দাবি না করে সামনে থাকা বাস্তব প্রমাণের মূল্যায়ন করুন। সত্যের লক্ষণগুলো বোঝার চেষ্টা করুন।",
+  "themes": [
+    "demanding-signs",
+    "earlier-scriptures",
+    "prophetic-proofs"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "scriptures"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelievers asked for miracles, ignoring that earlier scriptures already attested to the Quran's truth.",
+      "claim_bn": "অবিশ্বাসীরা নতুন মোজেজা দাবি করেছিল, অথচ পূর্ববর্তী কিতাবসমূহে ইতোমধ্যেই কুরআনের সত্যতার প্রমাণ বিদ্যমান ছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

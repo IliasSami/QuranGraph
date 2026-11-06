@@ -1,0 +1,86 @@
+{
+  "id": "11:81",
+  "simple_en": "The angels said: O Lot, we are messengers sent by your Lord. These wicked people will never harm you. Take your family and leave during the night. Let no one look back, except your wife, who will share their doom. Their punishment will strike at dawn. Is not dawn very near?",
+  "simple_bn": "ফিরিশতারা বললেন, হে লূত, আমরা আপনার রবের প্রেরিত দূত। এরা কখনোই আপনার কাছে পৌঁছাতে পারবে না। কাজেই আপনি রাতের এক অংশে আপনার পরিবার নিয়ে বের হয়ে যান। আপনাদের কেউ যেন পেছনে ফিরে না তাকায়; কেবল আপনার স্ত্রী ছাড়া। কারণ তাদের ওপর যা ঘটবে, তার ওপরও তা আপতিত হবে। প্রভাতেই তাদের নির্ধারিত সময়; প্রভাত কি খুব নিকটবর্তী নয়?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "messengers",
+      "meaning_bn": "প্রেরিত দূতগণ",
+      "why_en": "The angels revealing their divine mission."
+    },
+    {
+      "pos": 7,
+      "root": "وصل",
+      "lemma": "يَصِلُ",
+      "meaning_en": "reach / harm",
+      "meaning_bn": "পৌঁছাতে পারা",
+      "why_en": "Divine guarantee of protection for the Prophet."
+    },
+    {
+      "pos": 9,
+      "root": "سري",
+      "lemma": "أَسْرَى",
+      "meaning_en": "travel by night",
+      "meaning_bn": "রাতে নিয়ে রওয়ানা হোন",
+      "why_en": "Order to evacuate before the morning punishment."
+    },
+    {
+      "pos": 26,
+      "root": "صبح",
+      "lemma": "صُبْح",
+      "meaning_en": "morning / dawn",
+      "meaning_bn": "সকাল / প্রভাত",
+      "why_en": "The appointed time of the final destruction."
+    }
+  ],
+  "lesson_en": "God protects His sincere servants and grants them a safe exit before His punishment falls.",
+  "lesson_bn": "আল্লাহ তাঁর অনুগত বান্দাদের রক্ষা করেন এবং পাপীদের ধ্বংসের আগেই তাদের মুক্তির ব্যবস্থা করেন।",
+  "real_life_en": "Trust that hardship has an appointed end. When you obey God's commands, divine relief comes right on time, delivering you from harm and distress.",
+  "real_life_bn": "কঠিন পরিস্থিতি অনন্তকাল থাকে না। আল্লাহর নির্দেশ মেনে চললে সঠিক সময়েই মুক্তির পথ খুলে যায়।",
+  "themes": [
+    "story of Lut",
+    "divine rescue",
+    "angels",
+    "punishment of wrongdoers"
+  ],
+  "kinds": [
+    "story",
+    "promise",
+    "warning",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Lut (peace be upon him)",
+      "Wife of Lut"
+    ],
+    "nations": [
+      "People of Lut"
+    ],
+    "places": [],
+    "unseen": [
+      "Angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The angels comforted Lot, revealing that the corrupt people could not touch him and that dawn would bring their destruction.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

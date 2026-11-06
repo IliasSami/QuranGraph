@@ -1,0 +1,72 @@
+{
+  "id": "15:82",
+  "simple_en": "They used to carve strong homes out of solid mountains, feeling completely safe from harm. They trusted in rock and stone rather than in Allah.",
+  "simple_bn": "তারা শক্ত পাহাড় কেটে মজবুত ঘর বানিয়ে পরম নিশ্চিন্তে বাস করত। তারা আল্লাহর রহমতের ওপর ভরসা না করে পাহাড়ের পাথরের ওপরই বেশি আস্থা রেখেছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نحت",
+      "lemma": "يَنْحِتُ",
+      "meaning_en": "they carved",
+      "meaning_bn": "তারা খোদাই করত",
+      "why_en": "Excavating dwellings into solid rock."
+    },
+    {
+      "pos": 4,
+      "root": "جبل",
+      "lemma": "جَبَل",
+      "meaning_en": "the mountains",
+      "meaning_bn": "পাহাড়সমূহ",
+      "why_en": "Stony cliffs used as shelters."
+    },
+    {
+      "pos": 6,
+      "root": "أمن",
+      "lemma": "آمِن",
+      "meaning_en": "feeling secure",
+      "meaning_bn": "নিরাপদ ভেবে",
+      "why_en": "False sense of invulnerability."
+    }
+  ],
+  "lesson_en": "Material strength cannot protect you from divine decree. Place your ultimate trust in Allah rather than in stone and steel.",
+  "lesson_bn": "দুনিয়াবি শক্তি বা সম্পদ কাউকে আল্লাহর ফায়সালা থেকে বাঁচাতে পারে না। বাড়িঘর বা প্রযুক্তির চেয়ে আল্লাহর ওপরই আসল ভরসা রাখুন।",
+  "real_life_en": "A wealthy homeowner builds a reinforced concrete fortress with high walls. Yet a sudden illness strikes within the house. True security comes from Allah, not from physical barriers.",
+  "real_life_bn": "এক ধনী ব্যক্তি চারপাশে উঁচু দেয়াল দিয়ে আধুনিক দুর্গ গড়ে তোলে। কিন্তু পরিবারের একজন হঠাৎ গুরুতর অসুস্থ হয়ে পড়ে। আসল নিরাপত্তা পাথরের প্রাচীরে নয়, আল্লাহর রহমতেই থাকে।",
+  "context_en": "Describing the architectural prowess and false sense of security among the people of Thamud.",
+  "context_bn": "পাহাড় কেটে দুর্ভেদ্য ঘর নির্মাণ করে সামূদ জাতির মিথ্যা নিরাপত্তার বড়াই করার বিবরণ।",
+  "themes": [
+    "thamud",
+    "security",
+    "pride"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "nations": [
+      "Thamud"
+    ],
+    "places": [
+      "Al-Hijr"
+    ],
+    "people": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people of Thamud carved dwellings from mountains, presuming themselves secure from harm.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

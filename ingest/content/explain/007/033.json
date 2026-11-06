@@ -1,0 +1,84 @@
+{
+ "id": "7:33",
+ "simple_en": "The Prophet was told to make plain what is forbidden. Allah has banned shameful acts, both open and hidden. He bans all sins, unjust harm to others, and worshiping false gods. He also forbids speaking about Him without true knowledge.",
+ "simple_bn": "রাসূলকে ঘোষণা করতে বলা হয়েছে যে মূলত আল্লাহ কী কী বিষয় হারাম করেছেন। তিনি প্রকাশ্য ও অপ্রকাশ্য সকল অশ্লীলতা, যাবতীয় গুনাহ এবং মানুষের ওপর অন্যায় জুলুম নিষিদ্ধ করেছেন। তিনি আল্লাহর সাথে কোনো অংশীদার স্থাপন করা এবং জ্ঞান ছাড়া দ্বীনের ব্যাপারে মনগড়া কথা বলা সম্পূর্ণ হারাম করেছেন।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "فحش",
+   "lemma": "فاحِشَة",
+   "meaning_en": "immoralities / shameful acts",
+   "meaning_bn": "অশ্লীল কাজকর্ম",
+   "why_en": "Includes all forms of indecency, whether open or hidden."
+  },
+  {
+   "pos": 12,
+   "root": "بغي",
+   "lemma": "بَغْي",
+   "meaning_en": "oppression / unjust aggression",
+   "meaning_bn": "অন্যায় বাড়াবাড়ি ও জুলুম",
+   "why_en": "Refers to transgressing against people's rights, lives, or property without right."
+  },
+  {
+   "pos": 22,
+   "root": "سلط",
+   "lemma": "سُلْطان",
+   "meaning_en": "authority / proof",
+   "meaning_bn": "প্রমাণ ও দলিল",
+   "why_en": "Highlights that polytheism has zero divine sanction or evidence."
+  }
+ ],
+ "lesson_en": "Shun secret sins and cruelty to others. Never speak about Allah without true knowledge.",
+ "lesson_bn": "প্রকাশ্য-গোপন অশ্লীলতা, মানুষের ওপর জুলুম এবং দ্বীন নিয়ে না জেনে মন্তব্য করা থেকে সম্পূর্ণ বিরত থাকুন।",
+ "real_life_en": "Avoid secret sins online just as you avoid public sins. Never wrong people at work or at home. Do not speak about religion without sound knowledge.",
+ "real_life_bn": "গোপন পাপ থেকেও নিজেকে রক্ষা করুন যেমনটি প্রকাশ্যে করেন। কারও ওপর জুলুম বা অবিচার করবেন না। সঠিক ইলম ছাড়া ধর্মীয় বিষয়ে কোনো মন্তব্য বা ফতোয়া দেওয়া থেকে বিরত থাকুন।",
+ "context_en": "A clear declaration of true moral prohibitions: indecency, sin, oppression, shirk, and speaking about God without knowledge.",
+ "context_bn": "আল্লাহ প্রকৃতপক্ষে কী কী বিষয় হারাম করেছেন—যেমন অশ্লীলতা, জুলুম, শিরক ও দলিলবিহীন ধর্মীয় মনগড়া বক্তব্য—তার বিশদ বিবরণ।",
+ "themes": [
+  "forbidden acts",
+  "secret sins",
+  "justice vs oppression",
+  "shirk",
+  "speaking without knowledge"
+ ],
+ "kinds": [
+  "prohibition",
+  "law",
+  "ethics",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Lord",
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah explicitly enumerates real prohibitions: open and secret indecency, sin, unjust aggression, shirk, and attributing claims to Allah without proof.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Speaking about divine rulings without sound knowledge is among the gravest forms of corruption.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

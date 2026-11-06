@@ -1,0 +1,72 @@
+{
+ "id": "3:94",
+ "simple_en": "Anyone who makes up lies against Allah after seeing the truth is doing great wrong. Inventing false rules misleads people and corrupts religion. Those who do this only hurt themselves by turning away from clear guidance.",
+ "simple_bn": "সুস্পষ্ট প্রমাণ আসার পরও যারা আল্লাহর নামে মিথ্যা রচনা করে, তারা চরম জালিম। আল্লাহর নামে মনগড়া বিধান চাপিয়ে দেওয়া ধর্মকে বিকৃত করে এবং মানুষকে বিভ্রান্ত করে। এমন লোকেরা সত্যকে অস্বীকার করে আসলে নিজেদের ওপরই অবিচার করে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "فري",
+   "lemma": "افْتَرَى",
+   "meaning_en": "invented / fabricated",
+   "meaning_bn": "রটনা করল বা বানাল",
+   "why_en": "Points to fabricating false teachings and falsely claiming they come from Allah."
+  },
+  {
+   "pos": 5,
+   "root": "كذب",
+   "lemma": "كَذِب",
+   "meaning_en": "the lie",
+   "meaning_bn": "মিথ্যা",
+   "why_en": "Refers to untrue statements made about divine laws and scriptures."
+  },
+  {
+   "pos": 11,
+   "root": "ظلم",
+   "lemma": "ظالِم",
+   "meaning_en": "the wrongdoers",
+   "meaning_bn": "জালিমরা",
+   "why_en": "Describes those who transgress boundaries by speaking about religion without knowledge."
+  }
+ ],
+ "lesson_en": "Never say something comes from Allah without clear proof.",
+ "lesson_bn": "যথাযথ দলিল ছাড়া আল্লাহর নামে কোনো বিধান আরোপ করা মারাত্মক গুনাহ।",
+ "real_life_en": "When talking with friends, do not say Allah forbids something unless you know for sure. Speaking without knowledge leads people astray. It is better and safer to say you do not know.",
+ "real_life_bn": "বন্ধুবান্ধব বা পরিবারের সাথে আলাপের সময় না জেনে কোনো বিষয়ে এটা ধর্মে নিষিদ্ধ বলে মন্তব্য করবেন না। নিশ্চিত না জেনে দ্বীনের বিষয়ে কথা বলার চেয়ে আমি জানি না বলাই নিরাপদ।",
+ "context_en": "Follows the challenge given to the People of the Scripture, condemning those who continue to invent lies against Allah despite being unable to bring textual proof.",
+ "context_bn": "তাওরাত এনে সত্য প্রমাণের চ্যালেঞ্জে ব্যর্থ হওয়ার পরও যারা আল্লাহর ওপর মিথ্যারোপ চালিয়ে যায়, এই আয়াতে তাদের অন্যায়ের নিন্দা করা হয়েছে।",
+ "themes": [
+  "honesty",
+  "justice",
+  "disbelief",
+  "law"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who fabricate lies against Allah after clear evidence has been established are unjust wrongdoers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

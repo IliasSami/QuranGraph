@@ -1,0 +1,99 @@
+{
+ "id": "3:154",
+ "simple_en": "After the distress, Allah sent down peaceful calm upon you. A light sleep overtook the sincere believers and gave them rest. At the same time, the hypocrites cared only about saving themselves. They had bad thoughts about Allah like in pagan times. They said that staying home would have saved lives. But Allah made clear that if death is written for someone, they will meet it wherever they are. Hard trials test and cleanse what is in human hearts.",
+ "simple_bn": "সেই কঠিন বিপদের পর আল্লাহ মুমিনদের অন্তরে প্রশান্তি দান করলেন এক তন্দ্রারূপে, যা তাদের ক্লান্তি দূর করেছিল। কিন্তু মুনাফিকরা শুধু নিজেদের প্রাণ বাঁচানোর চিন্তায় মগ্ন ছিল এবং অজ্ঞতার যুগের মতো আল্লাহ সম্পর্কে খারাপ ধারণা করছিল। তারা বলছিল যে ঘরে থাকলে কেউ নিহত হতো না। আল্লাহ জানিয়ে দিলেন, মৃত্যুর নির্ধারিত সময়ে মানুষ নিজের ঘরে থাকলেও মৃত্যুর স্থানে পৌঁছাত। এই পরীক্ষার মাধ্যমে আল্লাহ অন্তরের খাঁটি বিশ্বাস প্রকাশ করেন এবং মনের কালিমা দূর করেন।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "أمن",
+   "lemma": "أَمَنَة",
+   "meaning_en": "security / calm",
+   "meaning_bn": "প্রশান্তি / নিরাপত্তা",
+   "why_en": "The miraculous calm and peace of mind sent down by Allah upon the sincere believers."
+  },
+  {
+   "pos": 8,
+   "root": "نعس",
+   "lemma": "نُعاس",
+   "meaning_en": "slumber / drowsiness",
+   "meaning_bn": "তন্দ্রা",
+   "why_en": "A physical blessing of restful sleep that renewed the strength of the faithful."
+  },
+  {
+   "pos": 21,
+   "root": "جهل",
+   "lemma": "جاهِلِيَّة",
+   "meaning_en": "the Ignorance",
+   "meaning_bn": "অজ্ঞতার যুগ (জাহিলিয়্যাত)",
+   "why_en": "Contrasts trusting Allah with the cynical, panicked doubts of the hypocrites."
+  },
+  {
+   "pos": 68,
+   "root": "محص",
+   "lemma": "يُمَحِّصَ",
+   "meaning_en": "to purify",
+   "meaning_bn": "দূর করার জন্য / পরিশোধন করতে",
+   "why_en": "Underlines the divine purpose of hardships in cleansing hidden flaws from hearts."
+  }
+ ],
+ "lesson_en": "Allah controls all life and death, and trials show what is truly in our hearts.",
+ "lesson_bn": "জীবনের প্রতিটি পরিণাম আল্লাহর হুকুমে নির্ধারিত, আর কঠিন পরিস্থিতি অন্তরের আসল রূপ প্রকাশ করে।",
+ "real_life_en": "When a sudden crisis hits a community, you see two kinds of people. Sincere believers remain calm, pray, and help others. Selfish people panic, complain, and look only after themselves. Facing pressure tests your character and shows you where your trust truly lies.",
+ "real_life_bn": "কোনো আকস্মিক প্রাকৃতিক দুর্যোগ বা বিপদের সময় দুই ধরনের মানুষ দেখা যায়। ঈমানদার মানুষ শান্ত থাকে, দোয়া করে এবং অন্যদের সহায়তায় এগিয়ে আসে। অন্যদিকে স্বার্থপর মানুষ শুধু নিজের বাঁচা নিয়ে ব্যস্ত থাকে ও দোষারোপ করে। কঠিন পরিস্থিতি মানুষের আসল মানসিকতা উন্মোচন করে।",
+ "context_en": "Describes the aftermath of Uhud, contrasting the miraculous peace given to believers with the anxiety and false doubts of the hypocrites.",
+ "context_bn": "উহুদের পর মুমিনদের ওপর নাযিল হওয়া অলৌকিক তন্দ্রা ও মানসিক প্রশান্তির বিপরীতে মুনাফিকদের স্বার্থপরতা ও ভ্রান্ত ধারণার চিত্র তুলে ধরা হয়েছে।",
+ "themes": [
+  "trust in Allah",
+  "trials",
+  "hypocrisy",
+  "faith",
+  "death",
+  "Allah's knowledge"
+ ],
+ "kinds": [
+  "story",
+  "argument",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Mount Uhud"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Alim"
+  ],
+  "events": [
+   "Battle of Uhud"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah sent down security and slumber upon sincere believers, while hypocrites worried only for themselves and thought wrongly of Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Death is decreed by Allah and cannot be avoided by staying home, and trials test and purify what is in the breasts.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

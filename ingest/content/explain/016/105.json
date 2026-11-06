@@ -1,0 +1,61 @@
+{
+  "id": "16:105",
+  "simple_en": "Only those who disbelieve in God's signs invent falsehood. It is they who are the true liars, not the noble messenger who preaches divine truth.",
+  "simple_bn": "কেবল তারাই মিথ্যা অপবাদ উদ্ভাবন করে যারা আল্লাহর নিদর্শনাবলীতে বিশ্বাস করে না। মূলত তারাই প্রকৃত মিথ্যাবাদী, সত্য প্রচারকারী মহান রাসুল কখনো মিথ্যাবাদী নন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "فري",
+      "lemma": "افْتَرَى",
+      "meaning_en": "invents",
+      "meaning_bn": "উদ্ভাবন করে",
+      "why_en": "Fabricating lies against divine scriptures."
+    },
+    {
+      "pos": 3,
+      "root": "كذب",
+      "lemma": "كَذِب",
+      "meaning_en": "falsehood",
+      "meaning_bn": "মিথ্যা",
+      "why_en": "Untruth concocted by skeptics."
+    }
+  ],
+  "lesson_en": "Disbelievers project their own habit of lying onto the Prophet. Sincere faith hates all falsehood.",
+  "lesson_bn": "মিথ্যার উদ্ভাবন অবিশ্বাসীদের বৈশিষ্ট্য। সত্য পথের বার্তাবাহক কখনো মনগড়া কোনো অসত্য প্রচার করেন না।",
+  "real_life_en": "Speak truth under all circumstances. Never invent rumors or distort facts to win a cheap argument.",
+  "real_life_bn": "সব সময় সত্য কথা বলুন। তর্কে জেতার জন্য কোনো মিথ্যা কথা বা অপবাদ রচনা করা থেকে বিরত থাকুন।",
+  "themes": [
+    "honesty",
+    "falsehood",
+    "slander"
+  ],
+  "kinds": [
+    "argument",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Only those who disbelieve in Allah's verses invent falsehood, and they are the true liars.",
+      "claim_bn": "যারা আল্লাহর আয়াত বিশ্বাস করে না তারাই শুধু মিথ্যা রটনা করে এবং তারাই মিথ্যাবাদী।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

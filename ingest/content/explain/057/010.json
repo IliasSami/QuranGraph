@@ -1,0 +1,95 @@
+{
+  "id": "57:10",
+  "simple_en": "Why should you hold back from spending in the cause of Allah when all wealth in the heavens and the earth belongs to Him? Those who spent and struggled before the conquest of Makkah hold a higher rank than those who did so afterward. Yet Allah has promised Paradise to both groups, and He is fully aware of all your deeds.",
+  "simple_bn": "তোমাদের কী হলো যে তোমরা আল্লাহর পথে ব্যয় করছ না, অথচ আসমান ও যমীনের সমস্ত উত্তরাধিকার একমাত্র আল্লাহরই? মক্কা বিজয়ের আগে যারা সম্পদ ব্যয় করেছে এবং লড়াই করেছে, তারা মর্যাদায় পরবর্তীকালে ব্যয় ও লড়াইকারীদের সমান নয়। তবে আল্লাহ উভয় দলকেই জান্নাতের প্রতিশ্রুতি দিয়েছেন, আর তোমরা যা করো সে বিষয়ে আল্লাহ সম্যক অবগত।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "ورث",
+      "lemma": "مِيراث",
+      "meaning_en": "inheritance",
+      "meaning_bn": "উত্তরাধিকার",
+      "why_en": "Shows that all worldly wealth ultimately returns to Allah alone."
+    },
+    {
+      "pos": 19,
+      "root": "فتح",
+      "lemma": "فَتْح",
+      "meaning_en": "the victory",
+      "meaning_bn": "বিজয়",
+      "why_en": "Refers to the conquest of Makkah, a turning point for the Muslim community."
+    },
+    {
+      "pos": 33,
+      "root": "حسن",
+      "lemma": "حُسْنَى",
+      "meaning_en": "the best reward",
+      "meaning_bn": "উত্তম প্রতিদান (জান্নাত)",
+      "why_en": "Refers to Paradise, promised by Allah to all sincere believers."
+    }
+  ],
+  "lesson_en": "Give for the sake of Allah when the need is greatest, for He rewards every good deed.",
+  "lesson_bn": "কঠিন সময়ে দ্বীনের সহায়তায় এগিয়ে আসুন এবং জেনে রাখুন যে আল্লাহ প্রতিটি আন্তরিক প্রচেষ্টার উত্তম প্রতিদান দেন।",
+  "real_life_en": "A local clinic urgently needs funds to stay open. A worker gives part of his savings when few people step forward to help. Later, when things get easy, many others donate too. But the first helper holds a special rank with Allah because he gave during hard times.",
+  "real_life_bn": "একটি নতুন মসজিদ নির্মাণে প্রাথমিক পর্যায়ে তীব্র আর্থিক সংকট দেখা দেয়। যখন কেউ এগিয়ে আসছিল না, তখন এক ব্যক্তি নিজের সঞ্চয় থেকে বড় অঙ্কের অর্থ দান করেন। পরবর্তীকালে অনেকেই স্বাচ্ছন্দ্যে দান করেন, কিন্তু বিপদের দিনে সেই নিঃস্বার্থ ত্যাগের মর্যাদা আল্লাহর কাছে চিরকাল অনন্য থাকে।",
+  "themes": [
+    "charity",
+    "struggle in Allah's way",
+    "reward",
+    "Paradise"
+  ],
+  "kinds": [
+    "command",
+    "promise",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "makkah"
+    ],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [
+      "allah",
+      "al-khabir"
+    ],
+    "events": [
+      "Conquest of Makkah"
+    ],
+    "things": [
+      "the sky",
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The inheritance of the heavens and the earth belongs entirely to Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Those who spent and fought before the conquest of Makkah have a higher degree than those who spent and fought after it.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Allah has promised the best reward, which is Paradise, to all sincere believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

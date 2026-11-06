@@ -1,0 +1,61 @@
+{
+  "id": "54:51",
+  "simple_en": "Allah has already destroyed many past nations that shared the same disbelief and arrogance. Their ruins still stand as silent witnesses. Is there anyone ready to reflect on their end and turn back to Allah?",
+  "simple_bn": "আল্লাহ অতীতে তোমাদের মতো বহু সমমনা কাফির জাতিকে ধ্বংস করেছেন। তাদের ধ্বংসাবশেষ আজও সাক্ষী হয়ে দাঁড়িয়ে আছে। উপদেশ গ্রহণ করার মতো কেউ কি আছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "We have destroyed",
+      "meaning_bn": "আমরা ধ্বংস করেছি",
+      "why_en": "Recalls the historic punishment meted out to earlier rebellious civilizations."
+    },
+    {
+      "pos": 3,
+      "root": "شيع",
+      "lemma": "شِيعَة",
+      "meaning_en": "your likes",
+      "meaning_bn": "তোমাদের মতো বা সমমনাদের",
+      "why_en": "Draws an undeniable parallel between past destroyed idolaters and present deniers."
+    }
+  ],
+  "lesson_en": "Learn from the ruin of past deniers before your own time runs out.",
+  "lesson_bn": "নিজের আয়ু শেষ হওয়ার আগেই অতীতের ধ্বংসপ্রাপ্ত জাতিদের পরিণতি থেকে শিক্ষা নিন।",
+  "real_life_en": "A driver slows down when he spots a wrecked car on the highway. Seeing the danger reminds him to drive with care. Looking at past mistakes protects us from repeating them.",
+  "real_life_bn": "মহাসড়কে একটি দুমড়েমুচড়ে যাওয়া গাড়ি দেখে এক চালক নিজের গাড়ির গতি কমিয়ে দেয়। অন্যের ভুল ও পরিণতি দেখে সতর্ক হওয়া মানুষের জানমাল রক্ষা করে।",
+  "themes": [
+    "past nations",
+    "reflection",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah destroyed previous nations of similar disbelief, asking if anyone will take heed.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

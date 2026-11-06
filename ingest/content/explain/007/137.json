@@ -1,0 +1,88 @@
+{
+  "id": "7:137",
+  "simple_en": "Allah gave the blessed lands to the oppressed Israelites. He fulfilled His good promise because they stayed patient through hard times. He destroyed the grand buildings and towers that Pharaoh had built.",
+  "simple_bn": "আর যেসব মানুষকে অত্যন্ত দুর্বল মনে করা হত, আমরা তাদের কল্যাণপ্রাপ্ত ভূমির পূর্ব ও পশ্চিম অংশের উত্তরাধিকারী বানালাম। তাদের ধৈর্যের কারণে বনী ইসরাঈলের প্রতি আপনার রবের শুভ প্রতিশ্রুতি পূর্ণ হল। আর ফির'আউন ও তার জাতির যাবতীয় শিল্পকর্ম ও সুউচ্চ প্রাসাদসমূহ আমরা ধূলিসাৎ করে দিলাম।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ورث",
+      "lemma": "أَوْرَثَ",
+      "meaning_en": "We made inherit",
+      "meaning_bn": "আমরা উত্তরাধিকারী বানালাম",
+      "why_en": "Bestowing land and authority upon previously enslaved people."
+    },
+    {
+      "pos": 5,
+      "root": "ضعف",
+      "lemma": "اسْتَضْعَفُ",
+      "meaning_en": "were deemed weak / oppressed",
+      "meaning_bn": "দুর্বল মনে করা হত",
+      "why_en": "Highlights how God elevates the oppressed over their oppressors."
+    },
+    {
+      "pos": 20,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "they patiently endured",
+      "meaning_bn": "তারা ধৈর্য ধারণ করেছিল",
+      "why_en": "Identifies patience as the core virtue that brought divine fulfillment."
+    }
+  ],
+  "lesson_en": "Patience through hard times brings help and honor from Allah.",
+  "lesson_bn": "অন্যায়ের মুখে অবিচল ধৈর্য ধারণ করলে আল্লাহ নির্যাতিতদের সম্মান ও শ্রেষ্ঠত্ব দান করেন।",
+  "real_life_en": "Never look down on humble or struggling people. When you endure tough times with patience, God can raise you to great honors. Earthly kingdoms vanish, but sincere endurance pays off.",
+  "real_life_bn": "কষ্টের সময়ে ধৈর্য ধরে থাকলে আল্লাহ তার উত্তম প্রতিদান দেন। দুর্বল মানুষদের তুচ্ছ জ্ঞান করবেন না, কারণ আল্লাহ সৎ ও ধৈর্যশীলদের ভালোবাসেন।",
+  "context_en": "The historic fulfillment of God's promise to liberate the Israelites and grant them the blessed land.",
+  "context_bn": "বনী ইসরাঈলের ওপর আল্লাহর প্রতিশ্রুতি পূর্ণ হওয়া এবং শাম ও বায়তুল মুকাদ্দাসের বরকতময় ভূমির উত্তরাধিকার লাভের বিবরণ।",
+  "themes": [
+    "victory of the oppressed",
+    "patience rewarded",
+    "fulfillment of divine promise",
+    "destruction of tyrant monuments"
+  ],
+  "kinds": [
+    "promise",
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn"
+    ],
+    "nations": [
+      "Children of Israel",
+      "people of Pharaoh"
+    ],
+    "places": [
+      "the Levant",
+      "ash-Sham"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [
+      "Israelites inherit the blessed land"
+    ],
+    "things": [
+      "buildings",
+      "towers"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah granted the previously oppressed Israelites inheritance of the blessed lands of the Levant on account of their patience, while destroying Pharaoh's edifices.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

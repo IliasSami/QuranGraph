@@ -1,0 +1,93 @@
+{
+  "id": "14:37",
+  "simple_en": "Our Lord, I have settled some of my family in a barren valley near Your sacred House. Our Lord, this is so they may establish prayer. Make the hearts of people yearn toward them, and provide them with fruits so they may give thanks.",
+  "simple_bn": "হে আমাদের রব, আমি আমার পরিবারের একাংশকে আপনার পবিত্র ঘরের কাছে এক অনুর্বর উপত্যকায় রেখে এলাম। হে আমাদের রব, যাতে তারা সালাত কায়েম করে। অতএব আপনি কিছু মানুষের অন্তর তাদের প্রতি অনুরক্ত করে দিন এবং ফলমূল দিয়ে তাদের রিযিকের ব্যবস্থা করুন যাতে তারা কৃতজ্ঞ হতে পারে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سكن",
+      "lemma": "أَسْكَنَ",
+      "meaning_en": "I settled",
+      "meaning_bn": "আমি বসবাস করালাম",
+      "why_en": "Placing family in Makkah."
+    },
+    {
+      "pos": 5,
+      "root": "ذرر",
+      "lemma": "ذُرِّيَّة",
+      "meaning_en": "my offspring",
+      "meaning_bn": "আমার বংশধরদের",
+      "why_en": "Hajar and baby Ismail."
+    },
+    {
+      "pos": 12,
+      "root": "حرم",
+      "lemma": "مُحَرَّم",
+      "meaning_en": "sacred",
+      "meaning_bn": "পবিত্র",
+      "why_en": "The honored sanctuary of the Kaaba."
+    },
+    {
+      "pos": 15,
+      "root": "صلو",
+      "lemma": "صَلاة",
+      "meaning_en": "the prayer",
+      "meaning_bn": "সালাত",
+      "why_en": "Establishing worship in the desert."
+    },
+    {
+      "pos": 20,
+      "root": "هوي",
+      "lemma": "هَوى",
+      "meaning_en": "yearn",
+      "meaning_bn": "অনুরক্ত হয়",
+      "why_en": "Longing with deep affection."
+    }
+  ],
+  "lesson_en": "Place worship at the center of your family life. Allah provides for those who honor His house.",
+  "lesson_bn": "পারিবারিক জীবনের কেন্দ্রে সালাতকে স্থান দিন। যারা আল্লাহর আনুগত্য করে, তিনি তাদের রিযিকের সুব্যবস্থা করেন।",
+  "real_life_en": "A newly married couple moves to a quiet town with few resources to start a community center. They put prayer and service first. Soon friends and supplies arrive from across the country.",
+  "real_life_bn": "এক নবদম্পতি সাধারণ সুযোগ-সুবিধাসম্পন্ন এক এলাকায় গিয়ে জনসেবা শুরু করেন। তারা সবার আগে সালাত ও সেবাকে প্রাধান্য দেন। অল্প সময়েই বহু মানুষ তাদের ভালোবাসায় ও সহযোগিতায় এগিয়ে আসে।",
+  "context_en": "Ibrahim's supplication when leaving Hajar and Ismail in the valley of Makkah near the Kaaba.",
+  "context_bn": "মক্কার নির্জন উপত্যকায় কাবার কাছে স্ত্রী হাজেরা ও পুত্র ইসমাঈলকে রেখে ইবরাহীম (আ.)-এর ঐতিহাসিক দো'আ।",
+  "themes": [
+    "prophets",
+    "makkah",
+    "prayer",
+    "family",
+    "dua"
+  ],
+  "kinds": [
+    "dua",
+    "story",
+    "worship"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim",
+      "Isma'il"
+    ],
+    "places": [
+      "Makkah",
+      "Kaaba"
+    ],
+    "nations": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Ibrahim settled his offspring in Makkah near the sacred House so they would establish prayer and be sustained.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

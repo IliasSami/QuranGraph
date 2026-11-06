@@ -1,0 +1,77 @@
+{
+  "id": "8:3",
+  "simple_en": "True believers pray on time each day. They also share what they have with people in need, giving from the good things Allah provided for them.",
+  "simple_bn": "যারা নিষ্ঠার সাথে নিয়মিত সালাত কায়েম করে এবং আমরা তাদের যে রিযিক দান করেছি তা থেকে আল্লাহর পথে ব্যয় করে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قوم",
+      "lemma": "أَقامَ",
+      "meaning_en": "they establish",
+      "meaning_bn": "তারা কায়েম করে",
+      "why_en": "Performing prayer with proper conditions, humility, and regularity."
+    },
+    {
+      "pos": 3,
+      "root": "صلو",
+      "lemma": "صَلاة",
+      "meaning_en": "the prayer",
+      "meaning_bn": "সালাত",
+      "why_en": "The foremost pillar of worship connecting the servant to God."
+    },
+    {
+      "pos": 6,
+      "root": "نفق",
+      "lemma": "أَنفَقَ",
+      "meaning_en": "they spend",
+      "meaning_bn": "তারা ব্যয় করে",
+      "why_en": "Giving obligatory and voluntary charity to support others."
+    }
+  ],
+  "lesson_en": "True devotion shows through personal prayer and helping others in need.",
+  "lesson_bn": "সালাত ও দানশীলতার সমন্বয়েই খাঁটি ঈমানের বাস্তব বহিঃপ্রকাশ ঘটে।",
+  "real_life_en": "Balance your spiritual life with practical kindness. Pray on time every day, and set aside part of your income to help poor families. Worship and charity must always go together.",
+  "real_life_bn": "নিয়মিত নামাজ আদায় করুন এবং উপার্জনের একটি অংশ অসহায় মানুষের সাহায্যে ব্যয় করুন। ইবাদত ও দান সর্বদা একসাথে চলে।",
+  "context_en": "Continuing the description of true believers by emphasizing their outer acts of devotion and social responsibility.",
+  "context_bn": "মুমিনের বাস্তব আমল হিসেবে নিয়মিত সালাত ও দানশীলতার অপরিহার্য ভূমিকার বিবরণ।",
+  "themes": [
+    "prayer",
+    "charity",
+    "spending for Allah",
+    "practical faith"
+  ],
+  "kinds": [
+    "praise",
+    "worship",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "prayer",
+      "wealth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "True faith combines inward devotion with outward righteous actions: fulfilling prayer and spending generously from Allah's provision.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

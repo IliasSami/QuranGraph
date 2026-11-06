@@ -1,0 +1,95 @@
+{
+  "id": "12:58",
+  "simple_en": "When the drought spread, Yusuf's brothers came to Egypt to buy grain. They entered his presence, and he knew them at once. But they did not recognize him after so many years.",
+  "simple_bn": "দুর্ভিক্ষ দেখা দিলে ইউসুফের ভাইয়েরা খাদ্যশস্য কিনতে মিসরে এলো। তারা তাঁর দরবারে প্রবেশ করল। ইউসুফ তাঁদের দেখা মাত্রই চিনতে পারলেন, কিন্তু দীর্ঘ সময় পেরিয়ে যাওয়ায় তারা তাঁকে চিনতে পারল না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أخو",
+      "lemma": "إِخْوَة",
+      "meaning_en": "brothers",
+      "meaning_bn": "ভাইয়েরা",
+      "why_en": "The older sons of Yaqub who had once thrown Yusuf into the well."
+    },
+    {
+      "pos": 4,
+      "root": "دخل",
+      "lemma": "دَخَلَ",
+      "meaning_en": "they entered",
+      "meaning_bn": "তারা প্রবেশ করল",
+      "why_en": "Standing before the powerful Egyptian minister as needy petitioners."
+    },
+    {
+      "pos": 6,
+      "root": "عرف",
+      "lemma": "عَرَفَ",
+      "meaning_en": "he recognized them",
+      "meaning_bn": "তিনি তাদের চিনতে পারলেন",
+      "why_en": "Yusuf’s sharp memory and perception."
+    },
+    {
+      "pos": 9,
+      "root": "نكر",
+      "lemma": "مُنكِر",
+      "meaning_en": "they did not recognize him",
+      "meaning_bn": "তারা চিনতে পারেনি",
+      "why_en": "They never imagined that the lost boy had become ruler of Egypt."
+    }
+  ],
+  "lesson_en": "Positions of power can flip quickly. Treat others well while you are on top.",
+  "lesson_bn": "সময়ের সাথে ক্ষমতার সমীকরণ বদলে যায়। ক্ষমতায় থাকার সময়েও সবার সাথে ভালো আচরণ করুন।",
+  "real_life_en": "A person who was once teased by schoolmates meets them years later in business. The person treats them with respect and helps them find work.",
+  "real_life_bn": "শৈশবে সহপাঠীদের উপহাসের শিকার এক ব্যক্তি বড় হয়ে সফল হন। পরবর্তীতে সেই সহপাঠীদের সাথে দেখা হলে তিনি কোনো বিদ্বেষ না রেখে তাঁদের কর্মসংস্থানে সাহায্য করেন।",
+  "context_en": "The predicted drought arrived, driving Yusuf's brothers from Canaan to Egypt for food.",
+  "context_bn": "পূর্বাভাস অনুযায়ী দুর্ভিক্ষ শুরু হলে ইউসুফের ভাইয়েরা খাদ্য সংগ্রহের জন্য কানআন থেকে মিসরে এলো।",
+  "themes": [
+    "family",
+    "divine planning",
+    "reversal of fortunes"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "brothers of Yusuf"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt",
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "grain"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf's brothers arrived in Egypt to buy grain during the drought.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Yusuf recognized them, but they failed to recognize him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

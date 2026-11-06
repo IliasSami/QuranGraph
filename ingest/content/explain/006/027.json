@@ -1,0 +1,79 @@
+{
+  "id": "6:27",
+  "simple_en": "If you could see these deniers when they stand before the Fire of Hell, you would see a dreadful sight. In deep horror, they will cry out with longing. They will wish to be sent back to worldly life. They will promise to believe in the signs of their Lord. But their wish comes far too late.",
+  "simple_bn": "আপনি যদি সেই দৃশ্য দেখতেন, যখন তাদের জাহান্নামের আগুনের সামনে দাঁড় করানো হবে! তখন তারা চরম আক্ষেপে বলবে, 'হায়, আমাদের যদি আবার দুনিয়ায় ফিরিয়ে দেওয়া হতো, তবে আমরা আমাদের প্রতিপালকের আয়াতসমূহ অস্বীকার করতাম না এবং মুমিনদের অন্তর্ভুক্ত হতাম।' কিন্তু সেই মুহূর্তে এমন ইচ্ছা কোনো কাজে আসবে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "وقف",
+      "lemma": "وُقِفُ",
+      "meaning_en": "they are made to stand",
+      "meaning_bn": "তাদের দাঁড় করানো হবে",
+      "why_en": "Captures the intense scene of disbelievers facing the Fire of Hell."
+    },
+    {
+      "pos": 6,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the Fire",
+      "meaning_bn": "আগুন বা জাহান্নাম",
+      "why_en": "The dreadful punishment awaiting those who reject faith."
+    },
+    {
+      "pos": 9,
+      "root": "ردد",
+      "lemma": "رَدَّ",
+      "meaning_en": "we could be sent back",
+      "meaning_bn": "আমাদের যদি ফিরিয়ে দেওয়া হতো",
+      "why_en": "Expresses their futile wish for a second chance in worldly life."
+    }
+  ],
+  "lesson_en": "Regret after seeing punishment cannot change the past or save anyone.",
+  "lesson_bn": "আখিরাতে শাস্তি দেখার পর অতীতের ভুলের জন্য অনুশোচনা কোনো উপকারে আসবে না।",
+  "real_life_en": "A driver ignores road signs until he crashes his car. In hospital, he wishes he had slowed down. But the harm is done. Obey safety rules today before it is too late.",
+  "real_life_bn": "গাড়ির গতি ও নিরাপত্তা বিধি অবহেলা করলে বড় দুর্ঘটনার মুখোমুখি হতে হয়। হাসপাতালে পৌঁছে আফসোস করলেও অতীতকে ফেরানো যায় না। সময় থাকতে সচেতন হওয়াই মানুষকে বড় ক্ষতি থেকে রক্ষা করে।",
+  "context_en": "Portrays the intense terror and futile regret of disbelievers when exposed to Hellfire.",
+  "context_bn": "জাহান্নামের আগুনের সামনে দাঁড় করানোর পর সত্য অস্বীকারকারীদের নিস্ফল হাহাকার ও অনুশোচনা বর্ণিত হয়েছে।",
+  "themes": [
+    "hellfire",
+    "regret",
+    "day-of-judgment"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hellfire",
+      "Day of Resurrection"
+    ],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When confronted with Hellfire, disbelievers will express deep regret and wish to return to the world to accept faith.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

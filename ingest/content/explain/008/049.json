@@ -1,0 +1,82 @@
+{
+  "id": "8:49",
+  "simple_en": "The doubters with sick hearts said, \"Their faith has tricked these men.\" But whoever trusts in God will find that God is Mighty and Wise.",
+  "simple_bn": "স্মরণ করো, যখন মুনাফিকরা এবং যাদের অন্তরে ব্যাধি ছিল তারা বলেছিল, 'এদের ধর্ম এদের বিভ্রান্ত করেছে।' অথচ যে ব্যক্তি আল্লাহর ওপর ভরসা করে, সে জানে আল্লাহ মহাপরাক্রমশালী, প্রজ্ঞাময়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نفق",
+      "lemma": "مُنافِق",
+      "meaning_en": "the hypocrites",
+      "meaning_bn": "মুনাফিকরা",
+      "why_en": "Those claiming belief while hiding doubt and hostility."
+    },
+    {
+      "pos": 7,
+      "root": "مرض",
+      "lemma": "مَرَض",
+      "meaning_en": "disease / sickness",
+      "meaning_bn": "ব্যাধি",
+      "why_en": "Doubts and hypocrisy corrupting the heart."
+    },
+    {
+      "pos": 8,
+      "root": "غرر",
+      "lemma": "غَرَّ",
+      "meaning_en": "has deluded",
+      "meaning_bn": "বিভ্রান্ত করেছে",
+      "why_en": "Mocking the believers' confidence in divine support."
+    }
+  ],
+  "lesson_en": "Cynics mock sincere faith, but true reliance on God brings real honor.",
+  "lesson_bn": "আল্লাহর ওপর গভীর তাওয়াক্কুল মানুষের মনে এমন শক্তি তৈরি করে যা সংশয়বাদীরা কল্পনাও করতে পারে না।",
+  "real_life_en": "When people mock your faith or tell you that doing the right thing is foolish, do not be shaken. Place your trust in God and move forward with quiet confidence.",
+  "real_life_bn": "ন্যায়ের পথে চলতে গিয়ে দুর্বলমনা মানুষের উপহাস বা কটূক্তিতে বিচলিত হবেন না। আল্লাহর ওপর ভরসা রাখুন।",
+  "context_en": "Refuting the hypocrites who mocked the small Muslim army for daring to face the mighty Quraysh.",
+  "context_bn": "বদরের ময়দানে মুমিনদের ক্ষুদ্র দল দেখে মুনাফিকদের কটাক্ষ এবং আল্লাহর ওপর আস্থার গুরুত্ব।",
+  "themes": [
+    "hypocrisy",
+    "trust in Allah",
+    "divine power",
+    "sincere faith"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "hypocrites",
+      "believers"
+    ],
+    "places": [
+      "Badr"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Al-Aziz",
+      "Al-Hakim"
+    ],
+    "events": [
+      "Battle of Badr"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites claimed the Muslims were deluded by their faith, but whoever trusts Allah finds Him Almighty and Wise.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

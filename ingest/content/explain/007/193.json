@@ -1,0 +1,74 @@
+{
+  "id": "7:193",
+  "simple_en": "If you call these idols to guidance, they will not hear or follow you. Whether you call upon them or remain silent, it makes no difference.",
+  "simple_bn": "আর তোমরা যদি ওদের সঠিক পথে ডাকো তবে ওরা তোমাদের অনুসরণ করবে না। তোমরা ওদের ডাকো কিংবা চুপ থাকো, উভয়ই তোমাদের জন্য সমান।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "you invite / call them",
+      "meaning_bn": "তোমরা তাদের ডাকো",
+      "why_en": "Calling upon idols or lifeless objects."
+    },
+    {
+      "pos": 4,
+      "root": "هدي",
+      "lemma": "هُدًى",
+      "meaning_en": "the guidance",
+      "meaning_bn": "সঠিক পথ / হেদায়েত",
+      "why_en": "The path of truth and sound understanding."
+    },
+    {
+      "pos": 12,
+      "root": "صمت",
+      "lemma": "صامِت",
+      "meaning_en": "silent",
+      "meaning_bn": "চুপ থাকো / নীরব",
+      "why_en": "Lifeless statues show zero reaction whether addressed or ignored."
+    }
+  ],
+  "lesson_en": "Praying to statues or dead things cannot help you at all.",
+  "lesson_bn": "নির্জীব পদার্থের কাছে কোনো কিছুর প্রত্যাশা করা নিরর্থক।",
+  "real_life_en": "Direct your prayers to the Living God who hears every whispered word. Praying to dead objects or statues yields nothing because they have no life or senses.",
+  "real_life_bn": "যিনি শুনেন এবং দেখেন সেই চিরঞ্জীব আল্লাহর কাছেই নিজের চাওয়া পেশ করুন; জড়বস্তুর কাছে কিছু চাওয়া অবান্তর।",
+  "context_en": "Demonstrating that idols possess neither senses nor consciousness to respond to any call.",
+  "context_bn": "মূর্তিদের বধিরতা ও অসাড়তা প্রমাণ করে তাদের উপাসনার সার্বিক অসারতা তুলে ধরা।",
+  "themes": [
+    "irrationality of polytheism",
+    "living faith",
+    "prayer"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Idols lack perception and response, making calling upon them or staying silent entirely indistinguishable.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

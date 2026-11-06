@@ -1,0 +1,67 @@
+{
+  "id": "27:49",
+  "simple_en": "The nine men swore an oath by God to attack Salih and his family by night and kill them. Then they planned to lie to his heir and claim that they knew nothing about their deaths.",
+  "simple_bn": "তারা বলল, তোমরা আল্লাহর নামে শপথ কর যে আমরা রাতে সালিহ ও তার পরিবারকে হত্যা করব। তারপর তার অভিভাবককে বলব, আমরা তাদের ধ্বংসের দৃশ্য দেখিনি এবং আমরা সত্যবাদী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "تَقَاسَمُوا۟",
+      "root": "قسم",
+      "lemma": "تَقاسَمُ",
+      "meaning_en": "swear an oath",
+      "meaning_bn": "শপথ কর",
+      "why_en": "The hypocritical plotters invoking Allah's name to plan murder."
+    },
+    {
+      "pos": 4,
+      "arabic": "لَنُبَيِّتَنَّهُۥ",
+      "root": "بيت",
+      "lemma": "بَيَّتَ",
+      "meaning_en": "attack by night",
+      "meaning_bn": "রাতে আক্রমণ করব",
+      "why_en": "The secret assassination plot targeting Salih and his household."
+    }
+  ],
+  "lesson_en": "Conspirators often hide behind lies and oaths. Hypocrites even misuse the name of God to cover their wicked deeds.",
+  "lesson_bn": "ষড়যন্ত্রকারীরা প্রায়ই মিথ্যা শপথ দিয়ে নিজেদের অপরাধ আড়াল করতে চায়। আল্লাহর নামে মিথ্যা বলা চরম পাপ।",
+  "real_life_en": "Never make false promises or use oaths to deceive others. Always speak the truth, even when facing tough situations.",
+  "real_life_bn": "কখনো অসৎ উদ্দেশ্য হাসিলের জন্য শপথ করবেন না। সর্বদা সত্য কথা বলুন এবং গোপন ষড়যন্ত্র থেকে দূরে থাকুন।",
+  "themes": [
+    "deceit",
+    "hypocrisy",
+    "justice"
+  ],
+  "kinds": [
+    "story",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [
+      "Salih"
+    ],
+    "nations": [
+      "Thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The conspirators swore by Allah to attack Salih and his family by night and lie to his guardian.",
+      "claim_bn": "ষড়যন্ত্রকারীরা আল্লাহর নামে শপথ করে রাতে সালিহ ও তাঁর পরিবারকে হত্যা করার এবং পরে মিথ্যা বলার পরিকল্পনা করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

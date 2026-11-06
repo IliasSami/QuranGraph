@@ -1,0 +1,77 @@
+{
+  "id": "61:6",
+  "simple_en": "Prophet Isa, son of Maryam, spoke to the Children of Israel. He said he was a messenger of Allah sent to them. He confirmed the Torah that came before him. He also gave good news of a messenger to come after him named Ahmad. But when clear signs came, they called it pure magic.",
+  "simple_bn": "মারইয়াম তনয় ঈসা বনী ইসরাইলকে বলেছিলেন, আমি তোমাদের প্রতি আল্লাহর রাসূল। আমি আমার পূর্ববর্তী তাওরাতের সত্যায়নকারী এবং আমার পরে আগমনকারী আহমাদ নামের এক রাসূলের সুসংবাদদাতা। কিন্তু যখন তিনি সুস্পষ্ট প্রমাণ নিয়ে আসলেন, তখন তারা তাকে প্রকাশ্য জাদু বলে উড়িয়ে দিল।",
+  "key_words": [
+    {
+      "pos": 12,
+      "root": "صدق",
+      "lemma": "مُصَدِّق",
+      "meaning_en": "confirming and verifying",
+      "meaning_bn": "সত্যয়নকারী ও সমর্থনকারী",
+      "why_en": "Isa confirms the previous revelation sent in the Torah."
+    },
+    {
+      "pos": 18,
+      "root": "بشر",
+      "lemma": "مُبَشِّر",
+      "meaning_en": "bearer of glad tidings",
+      "meaning_bn": "সুসংবাদদাতা",
+      "why_en": "Isa announces the joyful coming of the final Prophet."
+    },
+    {
+      "pos": 24,
+      "root": "حمد",
+      "lemma": "أَحْمَد",
+      "meaning_en": "Ahmad",
+      "meaning_bn": "আহমদ",
+      "why_en": "The blessed name of the final Messenger prophesied by Isa."
+    }
+  ],
+  "lesson_en": "Prophets come with one clear message from God, and denying clear truth leads only to regret.",
+  "lesson_bn": "সকল নবী একই তাওহিদের বার্তা নিয়ে এসেছেন, তাই পক্ষপাতিত্ব ভুলে নির্দ্বিধায় সত্য প্রমাণ গ্রহণ করা উচিত।",
+  "real_life_en": "Some people refuse facts simply because the person sharing them comes from another group. Clinging to bias blinds the mind. A sincere heart seeks truth regardless of who brings it.",
+  "real_life_bn": "মানুষ অনেক সময় সত্য জানার পরও অহংকারবশত তা মেনে নিতে চায় না। গোঁড়ামি মানুষকে সঠিক জ্ঞান থেকে দূরে রাখে। সত্য যেখান থেকেই আসুক, খোলা মনে তা গ্রহণ করাই নৈতিকতা।",
+  "themes": [
+    "prophecy of Ahmad",
+    "prophethood of Isa",
+    "continuity of revelation",
+    "rejection of clear signs"
+  ],
+  "kinds": [
+    "story",
+    "glad-tidings",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "isa",
+      "maryam",
+      "prophet-muhammad"
+    ],
+    "nations": [
+      "bani-israil"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Jesus told the Children of Israel he was Allah's messenger confirming the Torah and giving glad tidings of a messenger after him named Ahmad, yet they rejected the clear proofs.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

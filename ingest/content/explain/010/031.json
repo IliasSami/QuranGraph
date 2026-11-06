@@ -1,0 +1,83 @@
+{
+  "id": "10:31",
+  "simple_en": "Say: Who gives you sustenance from the sky and the earth? Who controls hearing and sight? Who brings the living out of the dead and the dead out of the living? And who directs every affair? They will surely answer: Allah. Say: Will you not then fear Him?",
+  "simple_bn": "বলুন: আকাশ ও পৃথিবী থেকে কে তোমাদের জীবিকা দান করেন? কিংবা কে শ্রবণশক্তি ও দৃষ্টিশক্তির মালিক? কে মৃত থেকে জীবিতকে বের করেন এবং জীবিত থেকে মৃতকে বের করেন? আর কে সব বিষয় পরিচালনা করেন? তারা অবশ্যই বলবে: আল্লাহ। বলুন: তবুও কি তোমরা খোদাভীতি অবলম্বন করবে না?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "رزق",
+      "lemma": "رَزَقَ",
+      "meaning_en": "provides / sustains",
+      "meaning_bn": "রিজিক দেন / জীবিকা জোগান",
+      "why_en": "Sending rain from sky and crops from earth."
+    },
+    {
+      "pos": 13,
+      "root": "حيي",
+      "lemma": "حَيّ",
+      "meaning_en": "the living",
+      "meaning_bn": "জীবিত",
+      "why_en": "Bringing bird from egg, plant from seed, and believer from disbeliever."
+    },
+    {
+      "pos": 21,
+      "root": "دبر",
+      "lemma": "يُدَبِّرُ",
+      "meaning_en": "directs every affair",
+      "meaning_bn": "সব বিষয় পরিচালনা করেন",
+      "why_en": "Managing universal creation and human destinies."
+    }
+  ],
+  "lesson_en": "If you know that God gives you food and life, worship Him alone.",
+  "lesson_bn": "আল্লাহকে একমাত্র রিজিকদাতা ও পরিচালক হিসেবে মানলে কেবল তাঁরই আনুগত্য করা আবশ্যক।",
+  "real_life_en": "If you know in your heart that your life, health, and food come from God, live by that truth. Do not pray to anyone else for your needs.",
+  "real_life_bn": "নিজের সুস্থতা ও খাদ্যের জন্য আল্লাহর ওপর ভরসা রাখুন; যিনি সবকিছু দিচ্ছেন তাঁর প্রতি আনুগত্য প্রদর্শন করাই বিবেকের দাবি।",
+  "themes": [
+    "divine sustenance",
+    "hearing and sight",
+    "life from death",
+    "sovereignty over affairs"
+  ],
+  "kinds": [
+    "argument",
+    "description-of-allah",
+    "creation"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "polytheists",
+      "mankind"
+    ],
+    "places": [
+      "sky",
+      "earth"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "hearing",
+      "sight"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Even pagan polytheists conceded that Allah alone provides sustenance, creates life from death, and governs all cosmic affairs.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

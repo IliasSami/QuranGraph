@@ -1,0 +1,83 @@
+{
+  "id": "33:53",
+  "simple_en": "Believers were taught good manners when visiting the home of the Prophet ﷺ. They were told not to enter without an invitation, not to stay too long after eating, and to ask for things from behind a partition. These rules protect privacy and keep hearts pure. Believers were also commanded never to hurt the Prophet ﷺ in any way.",
+  "simple_bn": "নবী ﷺ-এর ঘরে প্রবেশের ক্ষেত্রে আল্লাহ মুমিনদের সুন্দর আদব শিক্ষা দিয়েছেন। দাওয়াত ছাড়া সেখানে না যাওয়া এবং আহার শেষ হলে বিলম্ব না করে চলে যাওয়ার নির্দেশ দেওয়া হয়েছে। নবীপত্নীদের কাছে কিছু চাইতে হলে পর্দার আড়াল থেকে চাওয়ার হুকুম দেওয়া হলো, যা সবার অন্তরের পবিত্রতার জন্য অধিক সহায়ক। রাসূলকে কোনোভাবে কষ্ট দেওয়া বৈধ নয়।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "دخل",
+      "lemma": "دَخَلَ",
+      "meaning_en": "do not enter",
+      "meaning_bn": "তোমরা প্রবেশ করো না",
+      "why_en": "Protecting home privacy and setting boundaries."
+    },
+    {
+      "pos": 23,
+      "root": "نشر",
+      "lemma": "تَنتَشِرُ",
+      "meaning_en": "then disperse / depart",
+      "meaning_bn": "তখন তোমরা ছড়িয়ে পড়ো",
+      "why_en": "Instruction to leave promptly after eating."
+    },
+    {
+      "pos": 45,
+      "root": "حجب",
+      "lemma": "حِجاب",
+      "meaning_en": "a screen / barrier / partition",
+      "meaning_bn": "পর্দার আড়াল",
+      "why_en": "Modesty rule established for household interactions."
+    },
+    {
+      "pos": 47,
+      "root": "طهر",
+      "lemma": "أَطْهَر",
+      "meaning_en": "purer",
+      "meaning_bn": "অধিকতর পবিত্র",
+      "why_en": "Preserving spiritual purity and clean hearts."
+    }
+  ],
+  "lesson_en": "Respect the privacy of others and guard good manners in speech.",
+  "lesson_bn": "অন্যের ব্যক্তিগত গোপনীয়তা ও সময়ের মূল্য দেওয়া এবং কথাবার্তায় শালীনতা বজায় রাখা মুমিনের ভূষণ।",
+  "real_life_en": "When you visit friends, do not stay too long. Give them space and ask before you enter their home.",
+  "real_life_bn": "কারো বাসায় বেড়াতে গেলে বেশি সময় বসে থেকে তাদের বিরক্তির কারণ হবেন না। অন্যের ঘরের গোপনীয়তা রক্ষা করুন এবং প্রবেশের পূর্বে অনুমতি নিন।",
+  "themes": [
+    "good character",
+    "modesty",
+    "ethics",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "command",
+    "prohibition",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers are instructed on home etiquette regarding entering the Prophet's houses, departing after eating, and speaking to his wives from behind a screen.",
+      "claim_bn": "মুমিনদের নবীর ঘরে প্রবেশের শিষ্টাচার, খাবার শেষে দ্রুত প্রস্থান করা এবং তাঁর স্ত্রীদের সাথে পর্দার আড়াল থেকে কথা বলার নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

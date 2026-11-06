@@ -1,0 +1,86 @@
+{
+  "id": "7:87",
+  "simple_en": "The people of Madyan split into two opposing groups. One group believed in the message of Shu'ayb, while the other rejected it with stubborn pride. Shu'ayb told them to wait patiently. God would judge between the truthful believers and the proud rejecters. God is the best and most just of all judges. His judgment always brings triumph to truth.",
+  "simple_bn": "মাদইয়ান সম্প্রদায় দুই ভাগে বিভক্ত হয়ে পড়েছিল। একটি দল শুআইব (আলাইহিস সালাম)-এর বাণীর ওপর ঈমান এনেছিল, আর অপর দল তা অহংকারের সাথে অস্বীকার করেছিল। শুআইব তাদের বললেন, তবে তোমরা ধৈর্য ধরে অপেক্ষা করো। আল্লাহ আমাদের উভয় দলের মধ্যে চূড়ান্ত ফায়সালা করে দেবেন। তিনিই সবচেয়ে শ্রেষ্ঠ এবং নিরপেক্ষ বিচারক। তাঁর বিচারে সত্য অবশ্যই বিজয়ী হবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "طوف",
+      "lemma": "طائِفَة",
+      "meaning_en": "a group or party",
+      "meaning_bn": "একটি দল বা গোষ্ঠী",
+      "why_en": "Refers to the division of the community into believers and rejecters."
+    },
+    {
+      "pos": 12,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "so be patient",
+      "meaning_bn": "সুতরাং ধৈর্য ধারণ করো",
+      "why_en": "Counsel to the oppressed believers to endure until divine judgment unfolds."
+    },
+    {
+      "pos": 19,
+      "root": "حكم",
+      "lemma": "حاكِم",
+      "meaning_en": "the judges",
+      "meaning_bn": "বিচারকগণ",
+      "why_en": "Affirms that Allah is the supreme and fairest arbiter between truth and falsehood."
+    }
+  ],
+  "lesson_en": "When people oppose the truth, remain patient. God is the supreme judge who always vindicates the righteous.",
+  "lesson_bn": "সত্যের বিরোধীদের মুখোমুখি হলে ধৈর্য ধারণ করুন। মহান আল্লাহই সর্বোত্তম বিচারক, তিনি যথাসময়ে সত্যকে বিজয়ী করবেন।",
+  "real_life_en": "When facing hostility for practicing your faith, do not despair or react with rage. Continue your good works and trust in God's perfect timing. God never ignores injustice and will set all matters right in the end.",
+  "real_life_bn": "দ্বীন পালন করতে গিয়ে বিরোধিতার মুখোমুখি হলে ভেঙে পড়বেন না। ধৈর্য ধারণ করুন এবং সৎকাজে অবিচল থাকুন। আল্লাহর প্রজ্ঞার ওপর পূর্ণ ভরসা রাখুন, কারণ তিনি সর্বোত্তম সময়ে মজলুমকে সাহায্য করেন এবং ন্যায়বিচার প্রতিষ্ঠা করেন।",
+  "context_en": "Shu'ayb responds to the ideological rift in his community by urging patience until God delivers His ultimate judgment.",
+  "context_bn": "সম্প্রদায়ের মধ্যকার দ্বিধাবিভক্তির প্রেক্ষিতে শুআইব (আলাইহিস সালাম)-এর বক্তব্য: আল্লাহর ফায়সালা না আসা পর্যন্ত ধৈর্যশীল অপেক্ষা।",
+  "themes": [
+    "Shu'ayb",
+    "patience",
+    "divine judgment",
+    "believers and disbelievers",
+    "justice of Allah"
+  ],
+  "kinds": [
+    "story",
+    "command",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [
+      "people of Madyan"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Khayrul Hakimin"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The community of Madyan became divided between those who embraced Shu'ayb's message and those who denied it.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Shu'ayb advised both parties to wait for Allah's decisive judgment, affirming that Allah is the best of all judges.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

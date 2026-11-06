@@ -1,0 +1,97 @@
+{
+ "id": "5:73",
+ "simple_en": "Those who say that Allah is one of three have fallen into disbelief. There is only One God. He has no partners, no equals, and no children. If they do not stop saying this, a painful punishment will strike those who stay upon disbelief.",
+ "simple_bn": "নিশ্চয় তারা কুফরি করেছে যারা বলে, 'আল্লাহ হলেন তিন জনের তৃতীয় জন।' অথচ এক ও অদ্বিতীয় উপাস্য ছাড়া কোনো সত্য ইলাহ নেই। তাঁর কোনো অংশীদার বা সমকক্ষ নেই। তারা যদি তাদের এই মনগড়া কথা থেকে বিরত না হয়, তবে তাদের মধ্যে যারা এই কুফরিতে অবিচল থাকবে, তাদের ওপর যন্ত্রণাদায়ক শাস্তি আপতিত হবে।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "ثلث",
+   "lemma": "ثالِث",
+   "meaning_en": "the third",
+   "meaning_bn": "তৃতীয় জন",
+   "why_en": "Directly cites and rejects the false doctrine of the Trinity."
+  },
+  {
+   "pos": 14,
+   "root": "وحد",
+   "lemma": "واحِد",
+   "meaning_en": "One",
+   "meaning_bn": "একক",
+   "why_en": "Affirms pure divine monotheism: there is no god except One God."
+  },
+  {
+   "pos": 25,
+   "root": "ألم",
+   "lemma": "أَلِيم",
+   "meaning_en": "painful",
+   "meaning_bn": "যন্ত্রণাদায়ক",
+   "why_en": "Describes the agonizing punishment awaiting those who persist in polytheism."
+  }
+ ],
+ "lesson_en": "Allah is One without partners. Saying He has family or equals is a grave sin.",
+ "lesson_bn": "আল্লাহ এক ও একক, তাঁর কোনো অংশীদার নেই। শিরকের ওপর অবিচল থাকলে আখিরাতে কঠিন শাস্তি অবধারিত।",
+ "real_life_en": "Hold fast to the belief that Allah is One. Never join customs that treat creation as divine. Teach your children that our prayers belong to Allah alone.",
+ "real_life_bn": "আল্লাহর একত্ববাদে অটল থাকুন এবং কোনো সৃষ্টিকে স্রষ্টার সমকক্ষ ভাববেন না। সমাজে তাওহিদের বাণী সুন্দর ও বিনম্র ভাষায় মানুষের সামনে তুলে ধরুন। শিরকমুক্ত খাঁটি বিশ্বাসই পরকালের নাজাতের চাবিকাঠি।",
+ "context_en": "Directly refutes the doctrine of the Trinity by affirming that Allah is strictly One without partners.",
+ "context_bn": "ত্রিত্ববাদের ভ্রান্ত আকিদা খণ্ডন করে একমাত্র আল্লাহর পূর্ণাঙ্গ একত্ববাদ ও তাওহিদকে এই আয়াতে তুলে ধরা হয়েছে।",
+ "themes": [
+  "tawhid",
+  "shirk",
+  "punishment",
+  "Hell",
+  "warning"
+ ],
+ "kinds": [
+  "warning",
+  "belief",
+  "argument",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Christians"
+  ],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [
+   "Allah",
+   "Al-Wahid"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who claim that Allah is one of three in a trinity have committed clear disbelief.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "There is absolutely no deity worthy of worship except the One True God, Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Those who persist in polytheistic claims without desisting will face a painful punishment in the Hereafter.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

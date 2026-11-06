@@ -1,0 +1,89 @@
+{
+ "id": "3:127",
+ "simple_en": "Allah aids the believers to break the power of those who reject faith. He destroys a faction of them in battle, or humiliates them so deeply that their plans collapse. In the end, they turn back broken and empty-handed.",
+ "simple_bn": "আল্লাহ মুমিনদের সাহায্য করেন যেন সত্য অস্বীকারকারীদের শক্তি খর্ব হয়। তিনি তাদের একটি অংশকে যুদ্ধে ধ্বংস করেন, অথবা তাদের এমনভাবে অপদস্থ করেন যে তাদের পরিকল্পনা ভেস্তে যায় এবং তারা চরম ব্যর্থতা নিয়ে ফিরে যায়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قطع",
+   "lemma": "قُطِعَ",
+   "meaning_en": "that He might cut off",
+   "meaning_bn": "যাতে তিনি নির্মূল করেন",
+   "why_en": "Refers to breaking the leadership and military strength of the hostile forces."
+  },
+  {
+   "pos": 2,
+   "root": "طرف",
+   "lemma": "طَرَف",
+   "meaning_en": "a faction or flank",
+   "meaning_bn": "একটি দল বা অংশ",
+   "why_en": "Signifies striking down a major group of disbelievers through death or capture."
+  },
+  {
+   "pos": 7,
+   "root": "كبت",
+   "lemma": "كُبِتَ",
+   "meaning_en": "suppress and humiliate them",
+   "meaning_bn": "তাদের অপদস্থ করেন",
+   "why_en": "Describes shattering their pride so they return home burdened with shame."
+  },
+  {
+   "pos": 9,
+   "root": "خيب",
+   "lemma": "خائِب",
+   "meaning_en": "disappointed and failed",
+   "meaning_bn": "ব্যর্থ ও হতাশ হয়ে",
+   "why_en": "Shows the ultimate failure of their evil schemes against the truth."
+  }
+ ],
+ "lesson_en": "Evil plans built on pride and injustice will always end in failure.",
+ "lesson_bn": "অন্যায় ও অহংকারের ওপর গড়ে ওঠা যেকোনো চক্রান্ত শেষ পর্যন্ত ব্যর্থ হতে বাধ্য।",
+ "real_life_en": "When dishonest rivals plot against you or spread false rumors, do not panic. Stay honest and trust in Allah. In time, their plots unravel and their efforts fail.",
+ "real_life_bn": "কর্মক্ষেত্রে কেউ আপনার বিরুদ্ধে অপপ্রচার বা ষড়যন্ত্র করলে বিচলিত হবেন না। সততা বজায় রাখুন; সত্য প্রকাশিত হলে ষড়যন্ত্রকারীরাই ব্যর্থ ও লজ্জিত হবে।",
+ "context_en": "Explains the divine purpose behind Allah's help: weakening the disbelievers through casualties or humiliating defeat.",
+ "context_bn": "আল্লাহর সাহায্য প্রদানের উদ্দেশ্য বর্ণনা করা হয়েছে: শত্রু বাহিনীকে নিশ্চিহ্ন করা অথবা তাদের পরাজিত ও লাঞ্ছিত করা।",
+ "themes": [
+  "struggle in Allah's way",
+  "justice",
+  "Allah's power",
+  "trials"
+ ],
+ "kinds": [
+  "warning",
+  "promise",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah assisted the believers in order to destroy a portion of the disbelievers through death and captivity.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah sought to humiliate the enemy so that they would retreat defeated without achieving their goals.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

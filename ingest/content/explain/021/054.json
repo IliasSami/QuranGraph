@@ -1,0 +1,64 @@
+{
+  "id": "21:54",
+  "simple_en": "Abraham spoke out with courage. He said to them: You and your fathers have been in clear error by worshipping things that cannot hear or see.",
+  "simple_bn": "ইবরাহীম সাহসের সাথে ঘোষণা করলেন: তোমরা এবং তোমাদের পূর্বপুরুষরা নিশ্চয়ই প্রকাশ্য বিভ্রান্তির মধ্যে ছিলে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "he said",
+      "meaning_bn": "তিনি বললেন",
+      "why_en": "Bold prophetic declaration of truth."
+    },
+    {
+      "pos": 7,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "error",
+      "meaning_bn": "বিভ্রান্তি বা পথভ্রষ্টতা",
+      "why_en": "Manifest deviation from true monotheism."
+    }
+  ],
+  "lesson_en": "Speak the truth with a brave heart. Never flatter people when they stray from goodness.",
+  "lesson_bn": "সত্যকে স্পষ্ট ও নির্ভীকভাবে তুলে ধরুন। ভ্রষ্টতার মোকাবিলায় মিথ্যা তোষামোদি করার কোনো সুযোগ নেই।",
+  "real_life_en": "Have the courage to speak up against harmful customs in your community. Offer gentle but clear corrections when people stray from goodness.",
+  "real_life_bn": "সমাজের অন্যায়ের বিরুদ্ধে স্পষ্ট কথা বলার সাহস রাখুন। কেউ বিভ্রান্ত হলে বিনম্র কিন্তু দৃঢ়ভাবে তাকে সঠিক পথ দেখান।",
+  "themes": [
+    "ibrahim",
+    "speaking-truth",
+    "manifest-error",
+    "courage"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Abraham openly stated that both his contemporaries and their ancestors were in clear misguidance.",
+      "claim_bn": "ইবরাহীম সুস্পষ্ট জানিয়ে দেন যে তাঁর সম্প্রদায় এবং তাদের পূর্বপুরুষ উভয়েই প্রকাশ্য পথভ্রষ্টতায় লিপ্ত ছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

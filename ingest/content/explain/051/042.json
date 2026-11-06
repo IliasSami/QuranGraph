@@ -1,0 +1,60 @@
+{
+  "id": "51:42",
+  "simple_en": "That wind spared nothing it touched. People, buildings, crops, and trees were crushed into decayed ruins. In a brief moment, their mighty city was turned into dust, showing the fragile nature of worldly power.",
+  "simple_bn": "সেই বাতাস যার ওপর দিয়েই প্রবাহিত হয়েছিল, তাকেই চূর্ণ-বিচূর্ণ করে ধ্বংসস্তূপে পরিণত করেছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "وذر",
+      "lemma": "يَذَرَ",
+      "meaning_en": "it left not",
+      "meaning_bn": "তা অবশিষ্ট রাখেনি",
+      "why_en": "The total, sweeping reach of the destructive windstorm."
+    },
+    {
+      "pos": 9,
+      "root": "رمم",
+      "lemma": "رَمِيم",
+      "meaning_en": "crushed ruins or decayed bones",
+      "meaning_bn": "চূর্ণ-বিচূর্ণ ধ্বংসাবশেষ",
+      "why_en": "Reducing solid structures and human bodies to fragile dust."
+    }
+  ],
+  "lesson_en": "Worldly might and grand structures cannot withstand the decree of God.",
+  "lesson_bn": "পার্থিব শক্তি বা বিশাল অট্টালিকা কোনো কিছুই আল্লাহর ফায়সালার সামনে টিকে থাকতে পারে না।",
+  "real_life_en": "Build a good character instead of bragging about wealth. Money can fade in a day, but good deeds last.",
+  "real_life_bn": "জাগতিক সম্পদের অহংকার না করে ভালো চরিত্র গঠনের দিকে মনোযোগ দিন। পার্থিব জিনিস ধ্বংসশীল, কিন্তু নেক আমল চিরকাল রয়ে যায়।",
+  "themes": [
+    "punishment",
+    "past nations",
+    "justice"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "ad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The wind left nothing it struck without turning it into decayed, crushed ruins.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

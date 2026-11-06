@@ -1,0 +1,66 @@
+{
+  "id": "25:61",
+  "simple_en": "Blessed is God who placed constellations in the sky and made in it a shining sun and an illuminating moon. These great lights guide travelers and mark the passing of seasons on earth.",
+  "simple_bn": "কতই না বরকতময় তিনি যিনি আকাশে তারকামণ্ডলী স্থাপন করেছেন। তিনি তাতে প্রদীপের মতো উজ্জ্বল সূর্য এবং আলো ছড়ানো চাঁদ সৃষ্টি করেছেন।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "برج",
+      "lemma": "بُرُوج",
+      "meaning_en": "constellations or great stars",
+      "meaning_bn": "বিশাল তারকাপুঞ্জ বা গ্রহের কক্ষপথ",
+      "why_en": "Stations of celestial bodies beautify the night sky and guide travelers."
+    },
+    {
+      "pos": 11,
+      "root": "نور",
+      "lemma": "مُنِير",
+      "meaning_en": "illuminating and luminous",
+      "meaning_bn": "আলো বিকিরণকারী বা উজ্জ্বল",
+      "why_en": "The moon shines gently in the night sky to light up the earth."
+    }
+  ],
+  "lesson_en": "The sun, moon, and stars declare God's wisdom. Celestial lights guide humanity through darkness.",
+  "lesson_bn": "আকাশের সূর্য, চাঁদ ও তারকারাজি আল্লাহর নিখুঁত পরিকল্পনার সাক্ষ্য দেয়। আলো ও ছায়ার এই ভারসাম্য পৃথিবীর প্রাণীকুলকে পথ দেখায়।",
+  "real_life_en": "Look up at the moon and stars at night. Remember that the same Lord who guides celestial bodies in their orbits can guide your daily steps if you seek His help.",
+  "real_life_bn": "রাতের আকাশে চাঁদের স্নিগ্ধ আলো দেখে আল্লাহর কুদরতের কথা চিন্তা করুন। আপনার জীবনের অন্ধকার মুহূর্তগুলোতে আল্লাহর কাছে সঠিক পথের আলো প্রার্থনা করুন।",
+  "themes": [
+    "astronomy",
+    "signs-of-god",
+    "sun-and-moon"
+  ],
+  "kinds": [
+    "praise",
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the stars",
+      "the sun",
+      "the moon"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God blessed creation with immense constellations in the sky, placing therein the radiant sun and the illuminating moon.",
+      "claim_bn": "আল্লাহ আকাশে তারকামণ্ডলী স্থাপন করে এবং তাতে প্রদীপ্ত সূর্য ও আলো বিকিরণকারী চাঁদ সৃষ্টি করে সৃষ্টিজগতকে সমৃদ্ধ করেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

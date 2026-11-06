@@ -1,0 +1,79 @@
+{
+  "id": "10:38",
+  "simple_en": "Do they say: He fabricated it? Say: Then bring a single chapter like it, and call upon anyone you can besides Allah, if what you say is true.",
+  "simple_bn": "তারা কি বলে: সে এটি নিজে বানিয়ে নিয়েছে? বলুন: তবে তোমরা এর অনুরূপ একটি সূরাও নিয়ে এসো, এবং আল্লাহ ছাড়া যাকে পারো ডেকে নাও—যদি তোমরা সত্যবাদী হও।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "فري",
+      "lemma": "افْتَرَى",
+      "meaning_en": "he fabricated it",
+      "meaning_bn": "সে তা বানিয়ে নিয়েছে",
+      "why_en": "Baseless claim that the Prophet wrote the Quran himself."
+    },
+    {
+      "pos": 6,
+      "root": "سور",
+      "lemma": "سُورَة",
+      "meaning_en": "a chapter / surah",
+      "meaning_bn": "একটি সূরা",
+      "why_en": "The divine challenge to produce even the shortest chapter."
+    },
+    {
+      "pos": 16,
+      "root": "صدق",
+      "lemma": "صادِق",
+      "meaning_en": "truthful",
+      "meaning_bn": "সত্যবাদী",
+      "why_en": "Testing their claim against genuine linguistic capability."
+    }
+  ],
+  "lesson_en": "The Quran stands unchallenged in its beauty, truth, and wisdom.",
+  "lesson_bn": "কুরআনের ভাষা ও প্রজ্ঞার অলৌকিকতার মোকাবিলা করা কারও পক্ষেই কোনোদিন সম্ভব হয়নি।",
+  "real_life_en": "When people doubt your faith, ask them to read the Quran for themselves. Its powerful words have never been matched by anyone.",
+  "real_life_bn": "কুরআনের সত্যতা নিয়ে কেউ প্রশ্ন তুললে তাকে সরাসরি এর বাণী অধ্যয়ন করার আহ্বান জানান; এর অকাট্য যুক্তি নিজেই নিজের প্রমাণ।",
+  "themes": [
+    "challenge of the Quran",
+    "inimitability",
+    "call to produce a surah"
+  ],
+  "kinds": [
+    "argument",
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "critics",
+      "mankind"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran",
+      "surah"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The divine challenge invites skeptics to produce even a single surah matching the Quran's linguistic and moral excellence.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

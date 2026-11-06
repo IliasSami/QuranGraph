@@ -1,0 +1,61 @@
+{
+  "id": "56:19",
+  "simple_en": "The drink of Paradise will never cause headaches or cloud the mind. Unlike drinks in this world that make people dizzy or sick, it brings only joy and clear thinking. Those who drink it remain completely at ease.",
+  "simple_bn": "জান্নাতের পবিত্র পানীয় পানে কারো মাথাব্যথা হবে না এবং কারও জ্ঞান লোপ পাবে না। পার্থিব ক্ষতিকর পানীয়ের মতো এতে কোনো অসংলগ্নতা বা অসুস্থতা নেই। এটি কেবল অনাবিল আনন্দ ও প্রশান্তি বয়ে আনবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "صدع",
+      "lemma": "يُصَدَّعُ",
+      "meaning_en": "they suffer headaches",
+      "meaning_bn": "মাথাব্যথা হবে",
+      "why_en": "Denies any pain or ache resulting from the heavenly drink."
+    },
+    {
+      "pos": 5,
+      "root": "نزف",
+      "lemma": "يُنزَفُ",
+      "meaning_en": "they become intoxicated",
+      "meaning_bn": "জ্ঞান লোপ পাবে",
+      "why_en": "Affirms that their intellect and mind remain perfectly sound and sober."
+    }
+  ],
+  "lesson_en": "Protect your mind and health by staying away from harmful substances.",
+  "lesson_bn": "ক্ষতিকর বস্তু পরিহার করে নিজের বিবেক ও স্বাস্থ্যকে সুস্থ রাখুন।",
+  "real_life_en": "A driver drinks plain water instead of intoxicating drinks. He stays alert and drives his family home safely. Guarding the mind brings safety now and reward later.",
+  "real_life_bn": "একজন গাড়িচালক নেশাজাতীয় পানীয় বর্জন করে বিশুদ্ধ পানি পান করে। এর ফলে সে সজাগ থাকে এবং পরিবারকে নিরাপদে বাড়ি পৌঁছে দেয়। বুদ্ধি ও চেতনা রক্ষা করা উভয় জাহানে কল্যাণ বয়ে আনে।",
+  "themes": [
+    "Paradise",
+    "health",
+    "reflection"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The drink of Paradise causes neither headaches nor loss of intellect or intoxication.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

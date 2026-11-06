@@ -1,0 +1,71 @@
+{
+  "id": "40:54",
+  "simple_en": "That sacred scripture was sent down as a guide and a reminder for all people of deep thought. It helps sincere minds find the truth and walk in righteousness.",
+  "simple_bn": "সেই কিতাব ছিল বুদ্ধিমান ও বিবেকবান লোকদের জন্য এক অনন্য পথনির্দেশ ও উপদেশ।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "هدي",
+      "lemma": "هُدًى",
+      "meaning_en": "a guidance",
+      "meaning_bn": "পথনির্দেশ",
+      "why_en": "Direction showing the straight path of faith."
+    },
+    {
+      "pos": 2,
+      "root": "ذكر",
+      "lemma": "ذِكْرَى",
+      "meaning_en": "a reminder",
+      "meaning_bn": "উপদেশ",
+      "why_en": "Calling human hearts back to moral and spiritual truth."
+    },
+    {
+      "pos": 4,
+      "root": "لبب",
+      "lemma": "أَلْباب",
+      "meaning_en": "understanding / intellect",
+      "meaning_bn": "বোধসম্পন্ন ব্যক্তিগণ",
+      "why_en": "People of sound reason who reflect upon divine revelation."
+    }
+  ],
+  "lesson_en": "Divine reminders speak directly to those who use their minds with sound reason.",
+  "lesson_bn": "বিবেকবান ও চিন্তাশীল মানুষই আসমানি কিতাবের উপদেশ থেকে সঠিক শিক্ষা গ্রহণ করে।",
+  "real_life_en": "Use your mind to reflect upon the words of scripture. Do not just read without thought, but let the message shape your character.",
+  "real_life_bn": "কুরআন তিলাওয়াতের সময় এর অর্থ ও বার্তা নিয়ে গভীরভাবে চিন্তা করুন। চিন্তা ও উপলদ্ধি আপনার নৈতিক চরিত্রকে উন্নত করবে।",
+  "themes": [
+    "revelation",
+    "reflection",
+    "guidance"
+  ],
+  "kinds": [
+    "belief",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "bani-israil"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Scripture was given as guidance and reminder for people of sound intellect.",
+      "claim_bn": "কিতাবটি বিবেকবান মানুষের জন্য পথনির্দেশ ও উপদেশস্বরূপ ছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,66 @@
+{
+ "id": "70:22",
+ "simple_en": "This ayah makes an exception to the dark pattern described before. Those who establish regular prayer are saved from extreme greed and restless panic. Their daily connection with Allah cleanses their hearts. Prayer reminds them who provides all things and trains them to stand firm through hard times.",
+ "simple_bn": "এই আয়াতটি আগের খারাপ স্বভাবগুলো থেকে একদল মানুষকে আলাদা করে দেখায়। যারা নিয়মিত নামাজ আদায় করে, তারা তীব্র লোভ ও অস্থিরতা থেকে রক্ষা পায়। আল্লাহর সাথে তাদের প্রতিদিনের সম্পর্ক অন্তরকে পবিত্র রাখে। নামাজ তাদের স্মরণ করিয়ে দেয় কে সব কিছুর মালিক, আর কঠিন সময়ে তাদের অবিচল থাকতে শেখায়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": null,
+   "lemma": "إِلّا",
+   "meaning_en": "except",
+   "meaning_bn": "ব্যতীত, ছাড়া",
+   "why_en": "It makes a sharp exception, showing who escapes these blameworthy traits."
+  },
+  {
+   "pos": 2,
+   "root": "صلو",
+   "lemma": "مُصَلّي",
+   "meaning_en": "those who pray",
+   "meaning_bn": "নামাজ আদায়কারীগণ",
+   "why_en": "Prayer is the first shield that protects a person from greed and impatience."
+  }
+ ],
+ "lesson_en": "Let your prayer be a shield that protects your heart from panic and greed.",
+ "lesson_bn": "নামাজকে এমন এক ঢাল বানান, যা আপনার অন্তরকে অস্থিরতা ও লোভ থেকে রক্ষা করবে।",
+ "real_life_en": "When work stress builds up during the day, stepping away for Zuhr prayer brings calm. Standing before Allah breaks the rush of the world and restores peace to the mind.",
+ "real_life_bn": "কাজের চাপে দিনের বেলা মন অস্থির হয়ে উঠলে জোহরের নামাজের জন্য একটু সময় নিন। আল্লাহর সামনে দাঁড়ালে পার্থিব ব্যস্ততা কেটে যায় এবং মনে শান্তি ফিরে আসে।",
+ "themes": [
+  "prayer",
+  "patience",
+  "salvation"
+ ],
+ "kinds": [
+  "belief",
+  "worship"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who perform prayer are protected from these blameworthy qualities of impatience and greed.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The observers of prayer stand as the exception to mankind's natural anxiety.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "8:72",
+  "simple_en": "The believers who left their homes and gave their wealth and lives for God's way, and those who took them in and helped them, are true friends of one another. You do not have to guard believers who stayed behind until they leave home too. But if they ask for help in faith, you must help them, unless they fight a tribe you made peace with. God sees all that you do.",
+  "simple_bn": "নিশ্চয়ই যারা ঈমান এনেছে, হিজরত করেছে এবং জান ও মাল দিয়ে আল্লাহর পথে সংগ্রাম করেছে, আর যারা আশ্রয় ও সাহায্য দিয়েছে, তারা পরস্পরের প্রকৃত বন্ধু। যারা ঈমান এনে হিজরত করেনি, তাদের রক্ষার কোনো দায়িত্ব তোমাদের নেই। তবে দ্বীনের ব্যাপারে তারা সাহায্য চাইলে সাহায্য করা তোমাদের কর্তব্য, যদি তা চুক্তিবদ্ধ জাতির বিরুদ্ধে না হয়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "هجر",
+      "lemma": "هاجَرَ",
+      "meaning_en": "emigrated",
+      "meaning_bn": "হিজরত করেছে",
+      "why_en": "Leaving home and property for faith (Muhajirun)."
+    },
+    {
+      "pos": 5,
+      "root": "جهد",
+      "lemma": "جاهَدَ",
+      "meaning_en": "struggled / fought",
+      "meaning_bn": "সংগ্রাম করেছে",
+      "why_en": "Sacrificing lives and assets for justice."
+    },
+    {
+      "pos": 6,
+      "root": "مول",
+      "lemma": "مال",
+      "meaning_en": "their wealth",
+      "meaning_bn": "তাদের সম্পদ",
+      "why_en": "Financial sacrifices in the divine cause."
+    }
+  ],
+  "lesson_en": "Shared faith and mutual sacrifice create a stronger bond than mere geography or blood.",
+  "lesson_bn": "ঈমান ও ত্যাগের ভিত্তিতে গড়ে ওঠা ভ্রাতৃত্বের বন্ধন রক্ত ও ভৌগোলিক সম্পর্কের চেয়েও অনেক বেশি শক্তিশালী।",
+  "real_life_en": "Stand by friends who love what is right. Help each other in times of need. At the same time, keep your word and honor all peace pacts with your neighbors.",
+  "real_life_bn": "সৎ ও দ্বীনদার বন্ধুদের সাথে মজবুত সম্পর্ক গড়ে তুলুন। বিপদে একে অপরের পাশে দাঁড়ান এবং সবার সাথে সম্পাদিত চুক্তি বিশ্বস্ততার সাথে রক্ষা করুন।",
+  "context_en": "Establishing mutual brotherhood and political alliance between the Muhajirun and the Ansar in the new Medina state.",
+  "context_bn": "মুহাজির ও আনসারদের মধ্যে ঐতিহাসিক রাজনৈতিক ও অর্থনৈতিক ভ্রাতৃত্বের প্রতিষ্ঠা এবং অ-হিজরতকারীদের সাথে সম্পর্কের বিধান।",
+  "themes": [
+    "muhajirun and ansar",
+    "brotherhood",
+    "treaty obligations",
+    "solidarity"
+  ],
+  "kinds": [
+    "law",
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Muhajirun",
+      "Ansar",
+      "believers"
+    ],
+    "places": [
+      "Medina",
+      "Mecca"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Hijrah"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Muhajirun and Ansar are mutual allies and guardians, while support for non-emigrant believers cannot violate existing treaties.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

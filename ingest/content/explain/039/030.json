@@ -1,0 +1,64 @@
+{
+  "id": "39:30",
+  "simple_en": "Indeed, you, O Prophet, will surely die, and all of them will also die. Death is the universal truth that touches every human soul without exception. No person remains alive forever on this earth. We must all prepare for what comes after this life.",
+  "simple_bn": "নিশ্চয় আপনিও মৃত্যুবরণ করবেন এবং তারাও মৃত্যুবরণ করবে। মৃত্যু এমন এক শাশ্বত সত্য যা থেকে কোনো মানুষের নিস্তার নেই। পৃথিবীর বুকে কেউই চিরকাল বেঁচে থাকবে না। তাই এই জীবনের পর যা আসবে, তার জন্য আমাদের প্রস্তুতি নিতে হবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "موت",
+      "lemma": "مَيِّت",
+      "meaning_en": "will surely die",
+      "meaning_bn": "অবশ্যই মৃত্যুবরণ করবেন",
+      "why_en": "Confirms that even the greatest messenger will taste physical death."
+    },
+    {
+      "pos": 4,
+      "root": "موت",
+      "lemma": "مَيِّت",
+      "meaning_en": "they will die",
+      "meaning_bn": "তারাও মৃত্যুবরণ করবে",
+      "why_en": "Reminds disbelievers and oppressors that their worldly time is strictly limited."
+    }
+  ],
+  "lesson_en": "Death comes to every single human being, reminding us to live with purpose and humility.",
+  "lesson_bn": "মৃত্যু প্রতিটি মানুষের জন্যই অবধারিত, যা আমাদের অহংকার ত্যাগ করে অর্থপূর্ণ জীবন যাপনের তাগিদ দেয়।",
+  "real_life_en": "Remember that life is short and temporary. Resolve disputes quickly, forgive others, and do not hold grudges against people who will soon leave this world.",
+  "real_life_bn": "মনে রাখুন, জীবন অত্যন্ত ক্ষণস্থায়ী। মানুষের সাথে বিরোধ মিটিয়ে ফেলুন, ক্ষমা করার অভ্যাস গড়ে তুলুন এবং অল্প কদিনের দুনিয়ায় বিদ্বেষ পুষে রাখবেন না।",
+  "themes": [
+    "mortality",
+    "death",
+    "humility",
+    "preparation for afterlife"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Both the Prophet and all people will inevitably die, as death is the decreed end for all humans.",
+      "claim_bn": "রাসূল এবং সকল মানুষ নিশ্চিতভাবে মৃত্যুবরণ করবে, কারণ প্রতিটি মানুষের জন্যই মৃত্যু অবধারিত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

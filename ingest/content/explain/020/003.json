@@ -1,0 +1,63 @@
+{
+  "id": "20:3",
+  "simple_en": "The Quran is revealed as an active reminder for every person who fears God. It softens sincere hearts and inspires them to seek righteous deeds.",
+  "simple_bn": "এই কুরআন কেবল তাদের জন্য উপদেশ যারা আল্লাহকে ভয় করে। এটি সত্যসন্ধানী মানুষের অন্তরকে নরম করে এবং সৎকাজে অনুপ্রাণিত করে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ذكر",
+      "lemma": "تَذْكِرَة",
+      "meaning_en": "a reminder",
+      "meaning_bn": "একটি উপদেশ বা স্মারক",
+      "why_en": "Defines the core role of scripture as awakening moral awareness."
+    },
+    {
+      "pos": 4,
+      "root": "خشي",
+      "lemma": "خَشِيَ",
+      "meaning_en": "fears God with reverence",
+      "meaning_bn": "শ্রদ্ধার সাথে ভয় করে",
+      "why_en": "Shows that reverence opens human hearts to guidance."
+    }
+  ],
+  "lesson_en": "Only those who revere God benefit from the Quran. A soft heart accepts the truth.",
+  "lesson_bn": "যাদের অন্তরে আল্লাহর প্রতি সত্যিকারের ভয় ও শ্রদ্ধা রয়েছে, কেবল তারাই ঐশী উপদেশের মর্ম বুঝতে পারে।",
+  "real_life_en": "Read the Quran with an open mind. Let its gentle warnings guide your daily choices and actions.",
+  "real_life_bn": "বিনম্র মন নিয়ে কুরআন পড়ুন। এর স্মরণ ও সতর্কবার্তা যেন আপনার প্রতিটি কাজের সিদ্ধান্তকে পরিশুদ্ধ করে।",
+  "themes": [
+    "reminder",
+    "god-consciousness",
+    "piety"
+  ],
+  "kinds": [
+    "belief",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran functions as an effective reminder for those who revere and fear God.",
+      "claim_bn": "কুরআন তাদের জন্যই এক ফলপ্রসূ উপদেশ যারা আল্লাহকে সম্ভ্রমের সাথে ভয় করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

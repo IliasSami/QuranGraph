@@ -1,0 +1,79 @@
+{
+ "id": "72:7",
+ "simple_en": "The jinn added that people had made the same mistake. Like the jinn, many humans thought that Allah would never raise anyone from the dead. They did not expect a day when every person would be brought back and judged.",
+ "simple_bn": "জিনরা আরও বলল, মানুষেরাও একই ভুল করেছিল। জিনদের মতো অনেক মানুষ মনে করত, আল্লাহ মৃতদের কাউকে আর জীবিত করবেন না। তারা হিসাব ও প্রতিদানের সেই দিনের আশাই করত না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ظنن",
+   "lemma": "ظَنَّ",
+   "meaning_en": "they thought",
+   "meaning_bn": "তারা ধারণা করত",
+   "why_en": "It shows the false belief was only a guess, not knowledge."
+  },
+  {
+   "pos": 7,
+   "root": "بعث",
+   "lemma": "بَعَثَ",
+   "meaning_en": "to raise up",
+   "meaning_bn": "পুনরুত্থিত করা",
+   "why_en": "The word refers to bringing the dead back to life for judgement."
+  },
+  {
+   "pos": 9,
+   "root": "أحد",
+   "lemma": "أَحَد",
+   "meaning_en": "anyone",
+   "meaning_bn": "কাউকে",
+   "why_en": "The denial is total: not a single person would be raised."
+  }
+ ],
+ "lesson_en": "What you believe about being raised after death shapes how you live now, so keep the meeting with Allah in mind.",
+ "lesson_bn": "মৃত্যুর পর পুনরুত্থানের বিশ্বাস আপনার এখনকার জীবন গড়ে দেয়। তাই আল্লাহর সামনে দাঁড়ানোর কথা মনে রাখুন।",
+ "real_life_en": "When no one is watching, it is easy to think that a small wrong will never be counted. Belief in being raised and judged changes that thought. Remind yourself that every act, even a quiet one, is seen and will be brought forward.",
+ "real_life_bn": "কেউ না দেখলে সহজেই মনে হয়, ছোট ভুলটির হিসাব কেউ নেবে না। পুনরুত্থান ও বিচারের বিশ্বাস এই ভাবনা বদলে দেয়। মনে করিয়ে দিন, ছোট বা গোপন—প্রতিটি কাজ দেখা হয় এবং একদিন সামনে আনা হবে।",
+ "themes": [
+  "resurrection",
+  "the Last Day",
+  "disbelief"
+ ],
+ "kinds": [
+  "belief",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Humans thought as the jinn did, that Allah would not resurrect anyone after death for reckoning and recompense.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Denying the resurrection led people to shirk and rebellion.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Some explanations read 'raise' here as sending a messenger rather than raising the dead. The explanation follows the clearer meaning given in the displayed tafsir, while both are reported."
+ ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "6:66",
+  "simple_en": "Your people have rejected this Quran, even though it is the undeniable truth. Tell them that you are not appointed as a guardian over their affairs. Your duty is only to deliver the message clearly. Their final reckoning rests with Allah alone.",
+  "simple_bn": "আপনার সম্প্রদায় এই কুরআনকে মিথ্যা বলেছে, অথচ এটি চিরন্তন সত্য। আপনি তাদের বলে দিন, আমি তোমাদের ওপর কোনো অভিভাবক বা রক্ষক নই। আমার দায়িত্ব কেবল বার্তা পৌঁছে দেওয়া। তোমাদের কর্মের হিসাব নেওয়ার মালিক একমাত্র আল্লাহ।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied",
+      "meaning_bn": "মিথ্যা সাব্যস্ত করেছে",
+      "why_en": "Points out the obstinate denial of the divine message by the Quraysh."
+    },
+    {
+      "pos": 5,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "Affirms the divine revelation as indisputable reality."
+    },
+    {
+      "pos": 9,
+      "root": "وكل",
+      "lemma": "وَكِيل",
+      "meaning_en": "a keeper or guardian",
+      "meaning_bn": "অভিভাবক বা কর্মবিধায়ক",
+      "why_en": "Defines the Messenger's role as conveyer of the message, not responsible for their choice."
+    }
+  ],
+  "lesson_en": "Convey the truth with patience. You are not responsible for whether others choose to believe.",
+  "lesson_bn": "ধৈর্যের সাথে সত্য প্রচার করুন। মানুষ তা গ্রহণ করল কি না, তার দায় আপনার ওপর নয়।",
+  "real_life_en": "When you share good advice with family or friends and they reject it, do not lose your temper. Present the truth gently without forcing them. Trust that guiding hearts belongs only to Allah.",
+  "real_life_bn": "কাউকে সৎ কাজের দাওয়াত দিলে যদি সে তা গ্রহণ না করে, তবে হতাশ বা ক্ষুব্ধ হবেন না। সুন্দরভাবে সত্য তুলে ধরাই আপনার দায়িত্ব। হেদায়াত দেওয়ার মালিক একমাত্র আল্লাহ, জোর করে কাউকে বিশ্বাস করানো যায় না।",
+  "context_en": "The Prophet is comforted after the Quraysh rejected the Quran's clear warnings about divine power and judgment.",
+  "context_bn": "কুরাইশরা কুরআনের সত্য বাণী অস্বীকার করায় নবীজিকে সান্ত্বনা দিয়ে জানানো হচ্ছে যে, সত্য প্রত্যাখ্যানকারীদের ওপর তিনি দারোগা নন।",
+  "themes": [
+    "revelation",
+    "truth",
+    "patience",
+    "da'wah",
+    "prophethood"
+  ],
+  "kinds": [
+    "warning",
+    "belief",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [
+      "Quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The people of Makkah rejected the Quran despite its status as the absolute truth from Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "The Prophet is a warner and conveyer of the message, not a warden compelled to enforce faith upon people.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

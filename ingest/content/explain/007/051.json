@@ -1,0 +1,85 @@
+{
+  "id": "7:51",
+  "simple_en": "These disbelievers treated their faith as fun and games. Worldly life tricked them with short pleasures. They forgot the meeting of this Day, so today Allah leaves them in the Fire. They denied His clear signs in the world, and now they face the painful result.",
+  "simple_bn": "এই অবিশ্বাসীরা তাদের দ্বীনকে খেলাধুলা ও তামাশার বিষয়ে পরিণত করেছিল। দুনিয়ার ক্ষণস্থায়ী ভোগবিলাস তাদের প্রতারিত করেছিল। তারা যেমন এই বিচার দিবসের সাক্ষাতকে ভুলে গিয়েছিল, তেমনি আজ তাদেরও শাস্তির মধ্যে ছেড়ে রাখা হবে। তারা জেনে-বুঝে আল্লাহর নিদর্শনসমূহকে অস্বীকার করেছিল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "لهو",
+      "lemma": "لَهْو",
+      "meaning_en": "amusement / distraction",
+      "meaning_bn": "তামাশা / অনর্থক কাজ",
+      "why_en": "Describes how they treated sacred religion as light entertainment and distraction."
+    },
+    {
+      "pos": 6,
+      "root": "غرر",
+      "lemma": "غَرَّ",
+      "meaning_en": "and deluded them",
+      "meaning_bn": "এবং তাদের প্রতারিত করেছিল",
+      "why_en": "Shows how worldly vanity deceived them into forgetting their ultimate fate."
+    },
+    {
+      "pos": 10,
+      "root": "نسي",
+      "lemma": "نَسِيَ",
+      "meaning_en": "We leave them / forget them",
+      "meaning_bn": "আমরা তাদের ছেড়ে রাখব",
+      "why_en": "Expresses divine justice: as they neglected Allah's reminder, they are abandoned in torment."
+    }
+  ],
+  "lesson_en": "Do not treat faith like a game. Remember that we must all meet our Lord.",
+  "lesson_bn": "ধর্মকে খেল-তামাশা মনে করবেন না। পরকালের হিসাবকে গুরুত্ব দিয়ে দুনিয়ার জীবন পরিচালনা করুন।",
+  "real_life_en": "A young man spends all his free hours on silly jokes and forgets his prayers. Treating serious moral duties as games leaves a person unprepared for the real test of life.",
+  "real_life_bn": "দুনিয়ার চাকচিক্য ও বিনোদনে গা ভাসিয়ে অনেকে জীবনের আসল লক্ষ্য ভুলে যায়। ধর্মকে অবহেলা করে কেবল পার্থিব আনন্দে মেতে থাকা শেষ পর্যন্ত চরম ক্ষতির কারণ হয়। তাই সময় থাকতে সতর্ক হওয়া প্রয়োজন।",
+  "context_en": "Allah explains why the dwellers of Hell are denied all relief, detailing their mockery of faith and neglect of the Hereafter.",
+  "context_bn": "জাহান্নামীদের কেন সব রকম সাহায্য থেকে বঞ্চিত করা হলো, তার কারণ হিসেবে দ্বীন নিয়ে তাদের তামাশা করার কথা উল্লেখ করা হয়েছে।",
+  "themes": [
+    "disbelief",
+    "the Last Day",
+    "punishment",
+    "this world",
+    "justice"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The disbelievers treated religion as play and amusement and were deceived by worldly life.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Allah leaves them to punishment just as they neglected the meeting of the Day of Judgment and rejected His signs.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

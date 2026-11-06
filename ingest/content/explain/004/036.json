@@ -1,0 +1,102 @@
+{
+ "id": "4:36",
+ "simple_en": "Worship Allah alone and do not set up any partner with Him. Treat your parents with honor and kindness. Be good to relatives, orphans, and the needy. Show kindness to near neighbors, distant neighbors, close companions, stranded travelers, and your servants. Allah does not love those who are proud, arrogant, and boastful.",
+ "simple_bn": "তোমরা একমাত্র আল্লাহর ইবাদত করো এবং তাঁর সাথে কাউকে শরিক কোরো না। পিতা-মাতার সাথে উত্তম আচরণ করো। নিকটাত্মীয়, এতিম ও দরিদ্রদের প্রতি সদয় হও। আত্মীয় প্রতিবেশী, অনাত্মীয় প্রতিবেশী, সহকর্মী বা সঙ্গী, মুসাফির ও অধীনস্ত কর্মচারীদের সাথে সুন্দর ব্যবহার করো। নিশ্চয় আল্লাহ অহঙ্কারী ও দাম্ভিক মানুষদের ভালোবাসেন না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "عبد",
+   "lemma": "عَبَدَ",
+   "meaning_en": "worship",
+   "meaning_bn": "ইবাদত করো",
+   "why_en": "Establishes the fundamental duty of devoting all worship exclusively to Allah."
+  },
+  {
+   "pos": 4,
+   "root": "شرك",
+   "lemma": "أَشْرَكَ",
+   "meaning_en": "associate partners",
+   "meaning_bn": "শরিক কোরো না",
+   "why_en": "Strictly forbids shirk in all its forms alongside the command to worship."
+  },
+  {
+   "pos": 8,
+   "root": "حسن",
+   "lemma": "إِحْسان",
+   "meaning_en": "excellence and kindness",
+   "meaning_bn": "সদাচরণ / উত্তম ব্যবহার",
+   "why_en": "Commands high moral excellence in treatment of parents and society."
+  },
+  {
+   "pos": 31,
+   "root": "خيل",
+   "lemma": "مُخْتال",
+   "meaning_en": "self-deluded / arrogant",
+   "meaning_bn": "আত্মম্ভরী / অহঙ্কারী",
+   "why_en": "Denounces looking down on others with conceit and pride."
+  }
+ ],
+ "lesson_en": "Worship Allah alone and treat parents, orphans, neighbors, and friends with kindness.",
+ "lesson_bn": "এক আল্লাহর ইবাদতের সাথে সাথে পরিবার, প্রতিবেশী ও সমাজের দুর্বল মানুষের প্রতি আন্তরিক দয়া প্রকাশ করুন।",
+ "real_life_en": "A Muslim prays regularly and guards their faith. They also visit their aging parents, check on elderly neighbors next door, and greet coworkers warmly. They avoid bragging about their accomplishments, keeping their heart humble before Allah.",
+ "real_life_bn": "এক ব্যক্তি নিয়মিত সালাত আদায় করে এবং শিরক থেকে বেঁচে থাকে। পাশাপাশি সে বৃদ্ধ বাবা-মার সেবা করে, পাশের ফ্ল্যাটের প্রতিবেশীর খোঁজখবর নেয় এবং অধীনস্তদের সম্মান দিয়ে কথা বলে। সে নিজের সম্পদ বা ক্ষমতা নিয়ে কখনো অহংকার দেখায় না।",
+ "context_en": "Sets forth the core social and religious obligations of Islam, uniting exclusive worship of Allah with comprehensive kindness to humanity.",
+ "context_bn": "তাওহীদের মূল ভিত্তির সাথে পিতা-মাতা, আত্মীয়, প্রতিবেশী ও সমাজের প্রতি দায়িত্বের সমন্বিত রূপরেখা।",
+ "themes": [
+  "tawhid",
+  "worship",
+  "parents",
+  "orphans",
+  "charity",
+  "good character",
+  "arrogance",
+  "humility"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are commanded to worship Allah alone without associating any partners with Him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Treating parents, relatives, orphans, the poor, neighbors, companions, travelers, and servants with excellence is an obligatory duty.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Allah detests those who are arrogant, conceited, and boastful toward people.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

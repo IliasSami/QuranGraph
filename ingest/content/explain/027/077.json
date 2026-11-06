@@ -1,0 +1,63 @@
+{
+  "id": "27:77",
+  "simple_en": "The Quran is a true guide and a source of mercy for the believers. Those who trust its message find light for their hearts and peace in their daily lives.",
+  "simple_bn": "নিশ্চয় এই কুরআন মুমিনদের জন্য এক মহা হেদায়াত এবং আল্লাহর বিশেষ রহমত। যারা এর ওপর আমল করে, তারা জীবনে প্রকৃত শান্তি লাভ করে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "لَهُدًى",
+      "root": "هدي",
+      "lemma": "هُدًى",
+      "meaning_en": "guidance",
+      "meaning_bn": "হেদায়াত",
+      "why_en": "Clear light leading believers toward righteousness."
+    },
+    {
+      "pos": 3,
+      "arabic": "وَرَحْمَةٌ",
+      "root": "رحم",
+      "lemma": "رَحْمَة",
+      "meaning_en": "mercy",
+      "meaning_bn": "রহমত",
+      "why_en": "Divine blessing and compassion bestowed on the faithful."
+    }
+  ],
+  "lesson_en": "Belief opens the heart to receive divine mercy. The Quran guides faithful souls toward goodness in both worlds.",
+  "lesson_bn": "কুরআনের হেদায়াত ও রহমত কেবল আন্তরিক বিশ্বাসীদের জন্যই উন্মুক্ত হয়। এর বিধান মানলে জীবন সুন্দর ও অর্থবহ হয়ে ওঠে।",
+  "real_life_en": "Read the Quran with a heart eager to learn and follow. Let its verses bring comfort and direction to your daily choices.",
+  "real_life_bn": "নিয়মিত কুরআন পাঠ করুন এবং তার শিক্ষা নিজের জীবনে বাস্তবায়ন করুন। এতে পরিবার ও সমাজে প্রশান্তি ও বরকত লাভ হবে।",
+  "themes": [
+    "quran",
+    "guidance",
+    "mercy"
+  ],
+  "kinds": [
+    "promise",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "And indeed, the Quran is guidance and mercy for the believers.",
+      "claim_bn": "আর নিশ্চয় এ কুরআন মুমিনদের জন্য হেদায়াত ও রহমত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

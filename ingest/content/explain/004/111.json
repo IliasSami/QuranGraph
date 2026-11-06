@@ -1,0 +1,91 @@
+{
+ "id": "4:111",
+ "simple_en": "Whoever commits a sin earns the bad outcome only for their own soul. A person's wrongdoing does not harm Allah in the least. No innocent person will carry their guilt. Allah knows all that His servants do, and He is Wise in all His rules and judgments.",
+ "simple_bn": "যে ব্যক্তি কোনো পাপ অর্জন করে, সে মূলত নিজের আত্মার ক্ষতি করার জন্যই তা করে। কারো পাপে আল্লাহর কোনো ক্ষতি হয় না, আর অন্য কেউ তার পাপের বোঝা বহন করবে না। আল্লাহ তাঁর বান্দাদের সকল কাজকর্ম জানেন এবং তিনি তাঁর বিধানে পরম প্রজ্ঞাময়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "كسب",
+   "lemma": "كَسَبَ",
+   "meaning_en": "earns / commits",
+   "meaning_bn": "উপার্জন করে / করে",
+   "why_en": "Conveys that sins are deeds intentionally acquired and recorded on one's account."
+  },
+  {
+   "pos": 3,
+   "root": "أثم",
+   "lemma": "إِثْم",
+   "meaning_en": "sin / guilt",
+   "meaning_bn": "পাপ বা অপরাধ",
+   "why_en": "Refers to intentional disobedience that incurs divine punishment."
+  },
+  {
+   "pos": 7,
+   "root": "نفس",
+   "lemma": "نَفْس",
+   "meaning_en": "his own soul",
+   "meaning_bn": "নিজের আত্মা",
+   "why_en": "Underlines the principle of personal accountability in Islamic theology."
+  },
+  {
+   "pos": 11,
+   "root": "حكم",
+   "lemma": "حَكِيم",
+   "meaning_en": "All-Wise",
+   "meaning_bn": "পরম প্রজ্ঞাময়",
+   "why_en": "Affirms that Allah's governance and moral laws reflect perfect wisdom."
+  }
+ ],
+ "lesson_en": "Every person bears the weight of their own deeds. Protect your soul from wrongdoing.",
+ "lesson_bn": "নিজের কৃতকর্মের ফল মানুষ নিজেই ভোগ করে, তাই পাপ থেকে নিজেকে রক্ষা করার দায়িত্ব নিজেরই।",
+ "real_life_en": "When you feel tempted to cheat or take what is not yours, pause and think. The fleeting gain will fade, but the harm will stain your own soul.",
+ "real_life_bn": "ঘুষ গ্রহণ বা ঠকানোর সুযোগ সামনে এলে ভাবুন, এই ক্ষণিক লাভ আপনার নিজের আত্মাকেই কলুষিত করবে। নিজের কাজের দায়ভার নিজেকেই নিতে হবে—এই বোধ মানুষকে সৎ রাখে।",
+ "context_en": "In contrast to seeking forgiveness in the previous verse, this ayah addresses those who persist in sin without remorse.",
+ "context_bn": "পূর্বের আয়াতে তাওবার সুযোগ দেওয়ার পর, যারা তাওবা না করে পাপ আঁকড়ে থাকে তাদের পরিণতির কথা এখানে বলা হয়েছে।",
+ "themes": [
+  "human nature",
+  "Allah's knowledge",
+  "justice"
+ ],
+ "kinds": [
+  "warning",
+  "argument",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Aleem",
+   "Al-Hakeem"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Whoever commits a sin earns its consequences solely against his own soul and harms no one but himself.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah is All-Knowing of all human actions and All-Wise in His administration and decrees.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

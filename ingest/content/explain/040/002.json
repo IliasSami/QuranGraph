@@ -1,0 +1,77 @@
+{
+  "id": "40:2",
+  "simple_en": "The Quran is sent down directly from Allah to Prophet Muhammad ﷺ. Allah is the Almighty, whom no one can ever defeat. He is also the All-Knowing, who knows everything about His servants and what is good for them.",
+  "simple_bn": "এই পবিত্র কুরআন পরাক্রমশালী ও সর্বজ্ঞ আল্লাহর পক্ষ থেকে প্রেরিত। আল্লাহ মহাশক্তিশালী, যাকে কেউ পরাভূত করতে পারে না। তিনি তাঁর সৃষ্টি ও বান্দাদের প্রতিটি প্রয়োজন সম্পর্কে সম্যক অবগত।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نزل",
+      "lemma": "تَنزِيل",
+      "meaning_en": "revelation / sending down",
+      "meaning_bn": "নাযিল হওয়া",
+      "why_en": "Shows that the Quran comes directly down from the Lord of the worlds."
+    },
+    {
+      "pos": 5,
+      "root": "عزز",
+      "lemma": "عَزِيز",
+      "meaning_en": "the All-Mighty",
+      "meaning_bn": "পরাক্রমশালী",
+      "why_en": "Emphasizes that Allah possesses absolute dominance and strength."
+    },
+    {
+      "pos": 6,
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "the All-Knowing",
+      "meaning_bn": "সর্বজ্ঞ",
+      "why_en": "Affirms that divine revelation is grounded in perfect and complete knowledge."
+    }
+  ],
+  "lesson_en": "True guidance comes only from the Creator who holds all power and knowledge.",
+  "lesson_bn": "মানুষের জীবনের প্রকৃত পথনির্দেশ একমাত্র পরাক্রমশালী ও সর্বজ্ঞ স্রষ্টার পক্ষ থেকেই আসে।",
+  "real_life_en": "When you seek advice on how to live with honor and justice, turn first to the book of Allah. Its teachings come from the One who created you and knows your heart.",
+  "real_life_bn": "জীবনের জটিল মুহূর্তে সঠিক পথের খোঁজে প্রথমেই কুরআনের দিকনির্দেশনা স্মরণ করুন। কারণ আপনার স্রষ্টাই সবচেয়ে ভালো জানেন কিসে আপনার প্রকৃত কল্যাণ রয়েছে।",
+  "themes": [
+    "revelation",
+    "the Quran",
+    "names and attributes of Allah"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-aziz",
+      "al-alim"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran is revealed by Allah, who is the Almighty and the All-Knowing.",
+      "claim_bn": "পবিত্র কুরআন পরাক্রমশালী ও সর্বজ্ঞ আল্লাহর পক্ষ থেকে অবতীর্ণ হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

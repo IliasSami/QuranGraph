@@ -1,0 +1,108 @@
+{
+ "id": "2:173",
+ "simple_en": "Allah makes clear which foods are forbidden for you. You must not eat animals that die on their own, flowing blood, pork, or meat dedicated to other than Allah. But in times of extreme need, Allah shows mercy. If a person faces starvation and finds no halal food, they may eat a small amount to stay alive. They must not crave it or take more than they need. In this case there is no sin, for Allah is Most Forgiving and Merciful.",
+ "simple_bn": "আল্লাহ তোমাদের জন্য কিছু খাবার স্পষ্টভাবে নিষিদ্ধ করেছেন। এগুলো হলো: জবাই ছাড়া মারা যাওয়া পশু, প্রবাহিত রক্ত, শূকরের মাংস এবং আল্লাহর নাম ছাড়া অন্যের নামে উৎসর্গ করা প্রাণী। তবে বিপদের সময় ইসলাম মানুষের জীবন রক্ষাকে অগ্রাধিকার দেয়। কোনো ব্যক্তি যদি অনাহারে নিরুপায় হয়ে পড়ে, তবে জীবন বাঁচাতে সামান্য পরিমাণ খেতে পারবে। কিন্তু সে যেন স্বাদ নেওয়ার ইচ্ছা না করে এবং প্রয়োজনের অতিরিক্ত না খায়। এমন পরিস্থিতিতে তার কোনো পাপ হবে না, কারণ আল্লাহ পরম ক্ষমাশীল ও দয়ালু।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "موت",
+   "lemma": "مَيْتَة",
+   "meaning_en": "dead animals (carrion)",
+   "meaning_bn": "মৃত জন্তু",
+   "why_en": "Refers to animals that die by illness, injury, or without proper ritual slaughter."
+  },
+  {
+   "pos": 5,
+   "root": "دمو",
+   "lemma": "دَم",
+   "meaning_en": "blood (flowing blood)",
+   "meaning_bn": "রক্ত (প্রবাহিত রক্ত)",
+   "why_en": "Specifically denotes flowing blood, which carries impurities and harms health."
+  },
+  {
+   "pos": 7,
+   "root": "خنزر",
+   "lemma": "خِنزِير",
+   "meaning_en": "swine (pig)",
+   "meaning_bn": "শূকর",
+   "why_en": "All parts of the pig are deemed impure and completely prohibited for consumption."
+  },
+  {
+   "pos": 9,
+   "root": "هلل",
+   "lemma": "أُهِلَّ",
+   "meaning_en": "dedicated (slaughtered for)",
+   "meaning_bn": "উৎসর্গ করা হয়েছে",
+   "why_en": "Refers to raising the voice with a name other than Allah during slaughter, violating pure monotheism."
+  },
+  {
+   "pos": 14,
+   "root": "ضرر",
+   "lemma": "اضْطُرَّ",
+   "meaning_en": "is forced by necessity",
+   "meaning_bn": "নিরুপায় হয়ে বাধ্য হয়",
+   "why_en": "Establishes the principle that dire necessity to save life temporarily excuses eating forbidden food."
+  }
+ ],
+ "lesson_en": "Stay away from forbidden foods, but know that Allah allows what is needed to save a life in danger.",
+ "lesson_bn": "আল্লাহর হারাম করা খাদ্য বর্জন করুন এবং মনে রাখুন যে জীবন বাঁচাতে চরম বিপদের সময় ইসলাম প্রয়োজনীয় ছাড় দিয়েছে।",
+ "real_life_en": "Check food labels when you buy snacks to make sure there is no pork or non-halal meat. If you ever face an urgent health crisis where food choices are hard, ask a trusted scholar how the rules of need apply.",
+ "real_life_bn": "খাবারের মোড়কের বিবরণ ভালো করে দেখে শূকরের চর্বি বা হারাম মিশ্রণ এড়িয়ে চলুন। অসুস্থতা বা চরম সংকটকালে কোনো খাদ্যের বৈধতা নিয়ে অনিশ্চয়তা তৈরি হলে অভিজ্ঞ আলেমের সাথে পরামর্শ করুন।",
+ "context_en": "After encouraging believers to eat wholesome food in the previous ayah, this ayah defines the specific categories of food that are prohibited, along with rules for extreme necessity.",
+ "context_bn": "পূর্ববর্তী আয়াতে পবিত্র খাদ্য খাওয়ার নির্দেশ দেওয়ার পর, এই আয়াতে নিষিদ্ধ খাবারের তালিকা স্পষ্ট করা হয়েছে এবং জীবন রক্ষার প্রয়োজনে বিশেষ ছাড়ের বিধান ঘোষণা করা হয়েছে।",
+ "themes": [
+  "Allah's mercy",
+  "forgiveness",
+  "trials",
+  "human nature"
+ ],
+ "kinds": [
+  "prohibition",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Ghafur",
+   "Ar-Rahim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Four main categories of food are forbidden: carrion, flowing blood, swine, and animals dedicated to other than Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "A person driven by severe hunger may consume forbidden food strictly to save life, without enjoying it or taking excess.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Allah concludes by affirming His forgiveness and mercy toward servants who face unavoidable distress.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

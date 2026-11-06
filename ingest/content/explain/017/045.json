@@ -1,0 +1,66 @@
+{
+  "id": "17:45",
+  "simple_en": "When you recite the Quran, We place an unseen barrier between you and those who do not believe in the Hereafter. Their denial shields them from truth.",
+  "simple_bn": "আর যখন আপনি কোরআন তিলাওয়াত করেন, তখন আমরা আপনার মাঝে এবং যারা আখেরাতে বিশ্বাস করে না তাদের মাঝে এক অদৃশ্য পর্দা রেখে দিই।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "the Quran",
+      "meaning_bn": "কোরআন",
+      "why_en": "The living revelation recited by the Prophet."
+    },
+    {
+      "pos": 4,
+      "root": "جعل",
+      "lemma": "جَعَلَ",
+      "meaning_en": "We placed",
+      "meaning_bn": "আমরা রেখে দিই",
+      "why_en": "Spiritual barrier preventing obstinate hearts from benefit."
+    }
+  ],
+  "lesson_en": "Rejecting the Next Life blinds a person to the beauty of the Quran. Faith is the key that opens spiritual understanding.",
+  "lesson_bn": "পরকালে অবিশ্বাস মানুষের অন্তরে সত্য উপলব্ধির পথে এক অদৃশ্য প্রাচীর হয়ে দাঁড়ায়।",
+  "real_life_en": "Approach the Quran with sincere faith and humility. When you read with a seeking heart, its meanings shine clearly.",
+  "real_life_bn": "বিনয়ী ও শ্রদ্ধাশীল মনোভাব নিয়ে কোরআন অধ্যয়ন করুন। অন্তরে অহংকার না থাকলে কোরআনের আলো সহজেই হৃদয় স্পর্শ করবে।",
+  "themes": [
+    "quran",
+    "disbelief",
+    "unseen-barrier",
+    "hereafter"
+  ],
+  "kinds": [
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "When the Prophet recites the Quran, Allah places an invisible veil between him and those who do not believe in the Hereafter.",
+      "claim_bn": "নবী কোরআন তিলাওয়াত করলে আল্লাহ তাঁর এবং আখেরাতে অবিশ্বাসী কাফিরদের মধ্যে এক অদৃশ্য আবরণ ফেলে দেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

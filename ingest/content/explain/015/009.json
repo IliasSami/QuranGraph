@@ -1,0 +1,71 @@
+{
+  "id": "15:9",
+  "simple_en": "It is We who sent down the Quran, and We will surely preserve it from any change. No human hand can ever corrupt its sacred words or erase its divine truth.",
+  "simple_bn": "নিশ্চয় আমরাই এই কুরআন অবতীর্ণ করেছি এবং আমরা অবশ্যই এর পূর্ণ সংরক্ষক। কোনো মানবীয় শক্তি কখনো এর পবিত্র বাণী বিকৃত বা মুছে ফেলতে পারবে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نزل",
+      "lemma": "نَزَّلَ",
+      "meaning_en": "We sent down",
+      "meaning_bn": "আমরা নাযিল করেছি",
+      "why_en": "Direct revelation from Allah."
+    },
+    {
+      "pos": 4,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "the reminder",
+      "meaning_bn": "উপদেশ",
+      "why_en": "The Quran as divine remembrance."
+    },
+    {
+      "pos": 7,
+      "root": "حفظ",
+      "lemma": "حافِظ",
+      "meaning_en": "surely guardians",
+      "meaning_bn": "অবশ্যই সংরক্ষক",
+      "why_en": "Divine guarantee of preservation."
+    }
+  ],
+  "lesson_en": "The Quran is protected forever by Allah. You can trust every letter of its message.",
+  "lesson_bn": "কুরআন আল্লাহর পক্ষ থেকে চিরকালের জন্য সুরক্ষিত। এর প্রতিটি হরফ ও বার্তার ওপর নির্দ্বিধায় বিশ্বাস রাখুন।",
+  "real_life_en": "A young student memorizes the Quran in a small village school. Millions of children across the world recite the exact same words without error. Allah preserves His Book through loving hearts.",
+  "real_life_bn": "এক কিশোর মাদ্রাসায় কুরআন হিফজ করে। বিশ্বের লাখ লাখ শিশু একই সাথে কোনো পরিবর্তন ছাড়াই ঠিক একই হরফে কুরআন তিলাওয়াত করে। আল্লাহ মানুষের অন্তরের মাধ্যমে এই গ্রন্থ রক্ষা করছেন।",
+  "context_en": "The famous divine guarantee that the Quran will be preserved intact until the end of time.",
+  "context_bn": "কুরআন মাজীদের সংরক্ষণ ও অবিকৃত থাকার ব্যাপারে আল্লাহর প্রত্যক্ষ ও চিরন্তন গ্যারান্টি।",
+  "themes": [
+    "the-quran",
+    "revelation",
+    "divine-protection"
+  ],
+  "kinds": [
+    "promise",
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "things": [
+      "the Quran"
+    ],
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": []
+  },
+  "claims": [
+    {
+      "text": "Allah revealed the Quran and has undertaken its preservation against all corruption.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

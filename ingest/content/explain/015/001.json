@@ -1,0 +1,78 @@
+{
+  "id": "15:1",
+  "simple_en": "Alif Lam Ra. These are the verses of the Book and a clear Quran. Its guidance explains divine truth in plain words for everyone who seeks light.",
+  "simple_bn": "আলিফ-লাম-রা। এগুলো মহাগ্রন্থ ও সুস্পষ্ট কুরআনের আয়াত। এর হেদায়াত সত্য সন্ধানীদের জন্য আল্লাহর দ্বীনকে অত্যন্ত সহজ ভাষায় স্পষ্ট করে দেয়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "verses",
+      "meaning_bn": "আয়াতসমূহ",
+      "why_en": "Divine signs and verses."
+    },
+    {
+      "pos": 4,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "of the Book",
+      "meaning_bn": "কিতাবের",
+      "why_en": "The preserved celestial Scripture."
+    },
+    {
+      "pos": 5,
+      "root": "قرأ",
+      "lemma": "قُرْآن",
+      "meaning_en": "and a Quran",
+      "meaning_bn": "এবং কুরআনের",
+      "why_en": "The recited revelation."
+    },
+    {
+      "pos": 6,
+      "root": "بين",
+      "lemma": "مُبِين",
+      "meaning_en": "clear",
+      "meaning_bn": "সুস্পষ্ট",
+      "why_en": "Manifesting truth with clarity."
+    }
+  ],
+  "lesson_en": "Read the Quran with an open heart. Its clear verses guide you to true peace.",
+  "lesson_bn": "খোলা মনে কুরআন তিলাওয়াত করুন। এর সুস্পষ্ট আয়াত আপনাকে প্রকৃত শান্তির সন্ধান দেবে।",
+  "real_life_en": "A seeker looks through many books on philosophy and ends up confused. He opens the Quran and reads its simple message of monotheism. His heart settles in calm clarity.",
+  "real_life_bn": "বিভিন্ন দর্শনের বই পড়ে এক ব্যক্তি দ্বিধাদ্বন্দ্বে জড়িয়ে পড়ে। অবশেষে সে কুরআন খুলে তাওহীদের সহজ বাণী পড়ে। তার মন এক গভীর প্রশান্তিতে ভরে ওঠে।",
+  "context_en": "Opening of Surah Al-Hijr establishing the divine clarity of the Quran.",
+  "context_bn": "সূরা আল-হিজরের সূচনা: কুরআনের সুস্পষ্ট ওহী এবং হেদায়াতের বাণী ঘোষণা।",
+  "themes": [
+    "revelation",
+    "guidance",
+    "the-quran"
+  ],
+  "kinds": [
+    "belief",
+    "address"
+  ],
+  "entities": {
+    "things": [
+      "the Quran"
+    ],
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": []
+  },
+  "claims": [
+    {
+      "text": "The Quran is a clear scripture revealed to clarify truth and guide mankind.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

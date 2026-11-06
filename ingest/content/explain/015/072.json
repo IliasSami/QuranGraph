@@ -1,0 +1,72 @@
+{
+  "id": "15:72",
+  "simple_en": "By your life, O Muhammad, they were wandering blindly in their wild intoxication. Sin had made them deaf and blind to all good advice and reason.",
+  "simple_bn": "আপনার জীবনের শপথ, হে মুহাম্মাদ, নিশ্চয় তারা তাদের মোহে মাতাল হয়ে অন্ধের মতো ঘুরে বেড়াচ্ছিল। পাপ তাদের বুদ্ধি ও বিবেককে সম্পূর্ণ ধ্বংস করে দিয়েছিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "عمر",
+      "lemma": "عَمْر",
+      "meaning_en": "by your life",
+      "meaning_bn": "আপনার জীবনের শপথ",
+      "why_en": "Divine oath honoring the Prophet's life."
+    },
+    {
+      "pos": 4,
+      "root": "سكر",
+      "lemma": "سَكْرَة",
+      "meaning_en": "their intoxication",
+      "meaning_bn": "তাদের নেশা বা মোহ",
+      "why_en": "Blinded by lust and sin."
+    },
+    {
+      "pos": 5,
+      "root": "عمه",
+      "lemma": "يَعْمَهُ",
+      "meaning_en": "wandering blindly",
+      "meaning_bn": "অন্ধের ন্যায় বিভ্রান্ত",
+      "why_en": "Stumbling heedlessly without guidance."
+    }
+  ],
+  "lesson_en": "Lust and stubborn sin create a dangerous blindness. Seek Allah's guidance to keep your heart clear and awake.",
+  "lesson_bn": "কুপ্রবৃত্তি ও সীমাহীন পাপ মানুষের অন্তরকে অন্ধ করে দেয়। নিজের বুদ্ধি ও বিবেক সজাগ রাখতে সবসময় আল্লাহর হেদায়াত চান।",
+  "real_life_en": "A reckless driver races through busy streets ignoring red lights and shouts from pedestrians. His foolish thrill blinds him until he crashes into a wall.",
+  "real_life_bn": "এক বেপরোয়া গাড়িচালক অন্য সবার সতর্কবার্তা উপেক্ষা করে দ্রুত গাড়ি চালাতে থাকে। তার এই পাগলামি একসময় বড় দুর্ঘটনার মাধ্যমে শেষ হয়।",
+  "context_en": "Allah swearing by the life of Prophet Muhammad regarding the extreme moral blindness of the people of Lot.",
+  "context_bn": "রাসূলুল্লাহর জীবনের শপথ করে লূতের কওমের চরম পাপাসক্তি ও অন্ধ মোহের বিবরণ।",
+  "themes": [
+    "oath",
+    "warning",
+    "blindness"
+  ],
+  "kinds": [
+    "oath",
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad",
+      "Lot"
+    ],
+    "unseen": [],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah swore by the life of the Prophet that Lot's people were bewildered in their blind intoxication.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,113 @@
+{
+ "id": "2:268",
+ "simple_en": "Satan threatens you with poverty and tells you to be stingy and commit sins. Allah promises you His forgiveness and great bounty. Allah is Boundless in His gifts and All-Knowing of every deed.",
+ "simple_bn": "শয়তান তোমাদেরকে অভাব-অনটনের ভয় দেখায় এবং অশ্লীল ও কৃপণ কাজের নির্দেশ দেয়। আর আল্লাহ তোমাদেরকে তাঁর পক্ষ থেকে ক্ষমা ও অনুগ্রহের প্রতিশ্রুতি দেন। বস্তুত আল্লাহ প্রাচুর্যময় ও সর্বজ্ঞানী।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "شطن",
+   "lemma": "شَيْطان",
+   "meaning_en": "Satan",
+   "meaning_bn": "শয়তান",
+   "why_en": "Names the sworn enemy who instills unwarranted anxiety over worldly loss."
+  },
+  {
+   "pos": 3,
+   "root": "فقر",
+   "lemma": "فَقْر",
+   "meaning_en": "poverty",
+   "meaning_bn": "দরিদ্রতা / অভাব",
+   "why_en": "The primary psychological weapon used by Satan to stop people from spending for good."
+  },
+  {
+   "pos": 5,
+   "root": "فحش",
+   "lemma": "فَحْشاء",
+   "meaning_en": "immorality / sins",
+   "meaning_bn": "অশ্লীলতা / পাপকাজ",
+   "why_en": "Encompasses stinginess, withholding dues, and committing shameful deeds."
+  },
+  {
+   "pos": 8,
+   "root": "غفر",
+   "lemma": "مَغْفِرَة",
+   "meaning_en": "forgiveness",
+   "meaning_bn": "ক্ষমা",
+   "why_en": "Allah's pledge to wipe away sins in exchange for sincere charity and obedience."
+  },
+  {
+   "pos": 10,
+   "root": "فضل",
+   "lemma": "فَضْل",
+   "meaning_en": "bounty / increase",
+   "meaning_bn": "অনুগ্রহ / প্রাচুর্য",
+   "why_en": "Allah's promise to compensate givers with blessed sustenance in this life and the next."
+  }
+ ],
+ "lesson_en": "Do not let the fear of poverty stop you from giving, for Allah's bounty is vast.",
+ "lesson_bn": "অভাবের শয়তানি ভয়কে অগ্রাহ্য করে মুক্তহস্তে দান করুন; আল্লাহর ক্ষমা ও প্রাচুর্যের প্রতিশ্রুতির ওপর ভরসা রাখুন।",
+ "real_life_en": "When you want to give charity and feel worried that your funds will run low, remember who gives you food and shelter. Give with trust in Allah, and He will bless your earnings.",
+ "real_life_bn": "ভালো কাজে দান করার সময় যদি মনে ভয় আসে যে টাকা কমে গেলে কীভাবে চলব, তখন বুঝবেন এটি শয়তানের ধোঁকা। আল্লাহর ওপর পূর্ণ আস্থা রেখে সামর্থ্য অনুযায়ী দান করুন; তিনি আপনার রিজিক ও জীবনে বরকত বাড়িয়ে দেবেন।",
+ "context_en": "Reveals the psychological conflict behind spending: Satan discourages giving through fear of poverty, while Allah promises forgiveness and bounty.",
+ "context_bn": "উদারভাবে দান করার ক্ষেত্রে মানুষের অন্তরের দ্বিধাদ্বন্দ্ব প্রকাশ করা হয়েছে; শয়তান দারিদ্র্যের ভয় দেখায় আর আল্লাহ ক্ষমার ওয়াদা করেন।",
+ "themes": [
+  "charity",
+  "Satan",
+  "wealth",
+  "trust in Allah",
+  "forgiveness",
+  "Allah's mercy"
+ ],
+ "kinds": [
+  "warning",
+  "promise",
+  "description-of-allah",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Satan"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Satan frightens people with the prospect of poverty to encourage stinginess and commands sinful, immoral deeds.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah promises those who spend in His way forgiveness for their sins and vast bounty in their provision and reward.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Allah is All-Encompassing in His generosity and All-Knowing of who spends with sincere intentions.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

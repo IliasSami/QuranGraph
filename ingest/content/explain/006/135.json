@@ -1,0 +1,86 @@
+{
+  "id": "6:135",
+  "simple_en": "Say to the disbelievers, keep doing what you choose, and I will continue my work. Soon you will see who gains the best home in the hereafter. Those who do wrong will never find true success in this world or the next.",
+  "simple_bn": "রাসূলকে নির্দেশ দেওয়া হয়েছে তিনি যেন কাফিরদের বলেন, হে আমার সম্প্রদায়, তোমরা নিজেদের অবস্থানে থেকে কাজ করে যাও, আমিও আমার কর্তব্য পালন করে যাচ্ছি। খুব শীঘ্রই তোমরা জানতে পারবে কার জন্য অপেক্ষা করছে পরকালের শুভ পরিণাম। নিশ্চয় জালিমরা কখনো সফলকাম হতে পারবে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "عمل",
+      "lemma": "عَمِلَ",
+      "meaning_en": "work / act",
+      "meaning_bn": "তোমরা কাজ করে যাও",
+      "why_en": "A solemn challenge to the opponents to continue on their chosen course."
+    },
+    {
+      "pos": 13,
+      "root": "عقب",
+      "lemma": "عاقِبَة",
+      "meaning_en": "the outcome / good end",
+      "meaning_bn": "শুভ পরিণাম",
+      "why_en": "Points to the victorious and blessed final home in the hereafter."
+    },
+    {
+      "pos": 17,
+      "root": "فلح",
+      "lemma": "أَفْلَحَ",
+      "meaning_en": "will succeed / prosper",
+      "meaning_bn": "সফলকাম হবে",
+      "why_en": "Denies any true or lasting success to those who commit injustice and polytheism."
+    }
+  ],
+  "lesson_en": "Remain steadfast in faith regardless of what others do. True and lasting victory belongs only to the righteous.",
+  "lesson_bn": "অন্যদের বিরুদ্ধাচরণ সত্ত্বেও সত্যের পথে অবিচল থাকুন। চিরস্থায়ী সাফল্য ও শুভ পরিণাম কেবল সৎকর্মশীলদের ভাগ্যেই নির্ধারিত।",
+  "real_life_en": "Do not let the stubbornness or hostility of others stop you from doing good. Continue fulfilling your moral obligations with patience. Trust that justice will prevail, and those who harm others will never achieve true success.",
+  "real_life_bn": "মানুষের অসহযোগিতা বা অন্যায়ের মুখেও নিজের নেক আমল চালিয়ে যান। ধৈর্যের সাথে দায়িত্ব পালন করুন এবং আল্লাহর ফায়সালার ওপর ভরসা রাখুন। নিশ্চিত জানুন, মিথ্যা ও জুলুমের জয় কখনো স্থায়ী হয় না।",
+  "context_en": "The Prophet is instructed to challenge the disbelievers to continue their path, declaring that the ultimate victory belongs to the righteous.",
+  "context_bn": "অবাধ্য কাফিরদের জানিয়ে দেওয়া হয়েছে যে, তারা তাদের অপতৎপরতা চালিয়ে যেতে পারে; তবে শেষ পর্যন্ত সত্যের বিজয়ী হওয়া অনিবার্য।",
+  "themes": [
+    "steadfastness",
+    "ultimate victory",
+    "failure of wrongdoers",
+    "hereafter"
+  ],
+  "kinds": [
+    "command",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "the Prophet",
+      "his people / disbelievers",
+      "wrongdoers"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "the ultimate home / Paradise"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet challenges opponents to persist in their ways while he continues his righteous mission.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "The righteous will receive the blessed final home, while wrongdoers will never prosper.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

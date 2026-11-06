@@ -1,0 +1,72 @@
+{
+  "id": "66:9",
+  "simple_en": "O Prophet, strive with all your effort against the open disbelievers through clear proofs and against the hypocrites through firm speech. Stand firm with them so they do not harm the community of faith. Their final home is Hell, and what a terrible, wretched destination.",
+  "simple_bn": "হে নবী, সত্য অস্বীকারকারীদের বিরুদ্ধে সুস্পষ্ট প্রমাণের মাধ্যমে এবং কপট মুনাফিকদের বিরুদ্ধে দৃঢ় কথার মাধ্যমে লড়াই করুন। তাদের ব্যাপারে কঠোর অবস্থান নিন, যেন তারা বিশ্বাসীদের ক্ষতি করতে না পারে। তাদের চূড়ান্ত ঠিকানা জাহান্নাম, আর তা কতই না নিকৃষ্ট গন্তব্য।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "جهد",
+      "lemma": "جاهَدَ",
+      "meaning_en": "strive with full effort",
+      "meaning_bn": "সংগ্রাম ও চেষ্টা করুন",
+      "why_en": "Commands active defense of truth against open foes and hidden hypocrites."
+    },
+    {
+      "pos": 6,
+      "root": "غلظ",
+      "lemma": "اغْلُظْ",
+      "meaning_en": "be stern and unyielding",
+      "meaning_bn": "কঠোর অবস্থান নিন",
+      "why_en": "Calls for firm resolve without compromise when confronting hostility."
+    },
+    {
+      "pos": 11,
+      "root": "صير",
+      "lemma": "مَصِير",
+      "meaning_en": "wretched destination",
+      "meaning_bn": "চূড়ান্ত গন্তব্য",
+      "why_en": "Declares Hell as the tragic end for unrepentant hypocrites and deniers."
+    }
+  ],
+  "lesson_en": "Stand firm against falsehood and lies, and never give up what is right.",
+  "lesson_bn": "সত্য ও ন্যায়ের পক্ষে দৃঢ় অবস্থান নেওয়া উচিত এবং কপটতা ও মিথ্যার সাথে কোনো আপস না করা কর্তব্য।",
+  "real_life_en": "A community board faces smooth talk from a corrupt contractor who wants to cheat the town. The chairman does not smile or look away. He presents clear receipts and confronts the fraud with firm, honest words, keeping the town safe from deceit.",
+  "real_life_bn": "সমাজে বা কর্মক্ষেত্রে কোনো সুবিধাবাদী ব্যক্তি মিষ্টি কথায় প্রতারণা করতে চাইলে দুর্বল হওয়া ঠিক নয়। তথ্যের ভিত্তিতে দৃঢ় ও স্পষ্ট কথা বলে অন্যায় প্রতিরোধ করাই সঠিক কাজ।",
+  "themes": [
+    "striving against falsehood",
+    "firmness against hypocrisy",
+    "Hell as destination"
+  ],
+  "kinds": [
+    "command",
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet is commanded to strive against disbelievers and hypocrites with firmness, and their destination is Hell.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

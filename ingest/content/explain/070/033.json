@@ -1,0 +1,68 @@
+{
+ "id": "70:33",
+ "simple_en": "These people stand by their testimony. When they are asked to tell what they saw or know, they say it straight. Family ties do not bend it, and dislike of someone does not change it. They do not hide what they know or add to it.",
+ "simple_bn": "এই মানুষেরা নিজেদের সাক্ষ্যের উপর অবিচল থাকে। যা তারা দেখেছে বা জানে, তা জিজ্ঞেস করলে সোজাসুজি বলে। আত্মীয়তার টানে তারা তা বদলায় না, কারও প্রতি শত্রুতাও তা বদলায় না। যা জানে তা গোপনও করে না, বাড়িয়েও বলে না।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "شهد",
+   "lemma": "شَهادَة",
+   "meaning_en": "their testimony",
+   "meaning_bn": "তাদের সাক্ষ্য",
+   "why_en": "The plural covers every kind of witness: in court, in daily dealings, and about faith itself."
+  },
+  {
+   "pos": 4,
+   "root": "قوم",
+   "lemma": "قائِم",
+   "meaning_en": "standing firm",
+   "meaning_bn": "অবিচলভাবে দাঁড়ানো",
+   "why_en": "The image is of someone standing up to give evidence and not sitting down until it is complete."
+  }
+ ],
+ "lesson_en": "Tell the truth exactly as it is, whether the person it helps is a friend or not.",
+ "lesson_bn": "সত্য ঠিক যেমন আছে তেমনভাবেই বলুন, তাতে যার উপকার হোক সে বন্ধু হোক বা না হোক।",
+ "real_life_en": "Two classmates argue and the teacher asks what you saw. One of them is your close friend. You still describe exactly what happened, including the part where your friend was wrong.",
+ "real_life_bn": "দুই সহপাঠীর ঝগড়া হলো, শিক্ষক জিজ্ঞেস করলেন আপনি কী দেখেছেন। তাদের একজন আপনার খুব কাছের বন্ধু। তবু আপনি ঠিক যা ঘটেছে তাই বললেন, বন্ধুর ভুলের অংশটুকুও বাদ দিলেন না।",
+ "context_en": "This quality follows trust and promises, because all three are about words people can rely on.",
+ "context_bn": "আমানত ও অঙ্গীকারের পরই সাক্ষ্যের গুণটি এসেছে, কারণ তিনটিই মানুষের কথার উপর ভরসার বিষয়।",
+ "themes": [
+  "honesty",
+  "justice",
+  "the believers' qualities"
+ ],
+ "kinds": [
+  "belief",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "These believers give their testimony as it should be given, and neither family ties nor enmity affect it.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "They guard their testimony, neither adding to it nor reducing it, and they do not conceal it.",
+   "sources": [
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

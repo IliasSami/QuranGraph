@@ -1,0 +1,65 @@
+{
+  "id": "26:105",
+  "simple_en": "The people of Nuh rejected God's messengers. When they called Nuh a liar, they rejected all the prophets. Every prophet came with the same call to worship God alone.",
+  "simple_bn": "নূহের সম্প্রদায় রাসূলদের প্রতি মিথ্যারোপ করেছিল। নূহকে অস্বীকার করার মাধ্যমে তারা মূলত সকল নবীর আনীত সত্য বাণীকেই অস্বীকার করেছিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied / rejected",
+      "meaning_bn": "মিথ্যারোপ করেছিল",
+      "why_en": "The people of Nuh rejected the divine truth brought by their messenger."
+    },
+    {
+      "pos": 4,
+      "root": "رسل",
+      "lemma": "مُرْسَل",
+      "meaning_en": "the messengers",
+      "meaning_bn": "রাসূলগণের প্রতি",
+      "why_en": "Rejecting Nuh was tantamount to rejecting all messengers of God."
+    }
+  ],
+  "lesson_en": "Rejecting one prophet is like rejecting all of them. The core message of divine guidance is unified throughout history.",
+  "lesson_bn": "একজন নবীকে অস্বীকার করা মানে সকল নবীকেই অস্বীকার করা। সকল নবীর মূল দাওয়াত ছিল এক আল্লাহর ইবাদত করা।",
+  "real_life_en": "Respect every prophet sent by God. All the messengers taught people to worship the one true Lord and live with good morals.",
+  "real_life_bn": "সকল নবীর প্রতি শ্রদ্ধা ও সম্মান বজায় রাখুন। তাঁদের সকলের অভিন্ন শিক্ষাকে নিজের জীবনে ধারণ করার চেষ্টা করুন।",
+  "themes": [
+    "nuh",
+    "rejection-of-messengers",
+    "denial"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "nuh"
+    ],
+    "nations": [
+      "people-of-noah"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The people of Nuh rejected the messengers by disbelieving in Nuh, as all prophets bring one unified message.",
+      "claim_bn": "নূহের সম্প্রদায় তাঁর প্রতি মিথ্যারোপ করে কার্যত সকল রাসূলের প্রতিই মিথ্যারোপ করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

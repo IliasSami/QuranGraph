@@ -1,0 +1,81 @@
+{
+  "id": "6:33",
+  "simple_en": "Allah comforts His Messenger during times of hardship. Allah knows well that the hurtful words of the disbelievers cause him sorrow. Deep in their hearts, they know you are truthful. Their real rejection is against the signs and commands of Allah, because arrogance blinds them to the truth.",
+  "simple_bn": "আল্লাহ তাঁর রাসূলকে সান্ত্বনা দিয়ে বলছেন, বিরোধীদের মিথ্যা অপবাদ যে আপনাকে কষ্ট দেয় তা তিনি জানেন। প্রকৃতপক্ষে অন্তরে তারা আপনাকে মিথ্যাবাদী মনে করে না, কারণ তারা আপনার সততা সম্পর্কে অবগত। মূলত এই জালেমরা অহংকারবশত আল্লাহর স্পষ্ট আয়াত ও সত্য বাণীকেই অস্বীকার করছে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حزن",
+      "lemma": "يَحْزُن",
+      "meaning_en": "grieves you",
+      "meaning_bn": "আপনাকে ব্যথিত করে",
+      "why_en": "Acknowledges the emotional distress the Prophet felt from his people's harsh words."
+    },
+    {
+      "pos": 9,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "they deny you",
+      "meaning_bn": "তারা আপনাকে মিথ্যাবাদী বলে",
+      "why_en": "Clarifies that deep down they knew the Prophet was truthful and honest."
+    },
+    {
+      "pos": 14,
+      "root": "جحد",
+      "lemma": "جَحَدُ",
+      "meaning_en": "they stubbornly reject",
+      "meaning_bn": "তারা অস্বীকার করে",
+      "why_en": "Exposes their obstinate denial of Allah's revelation out of pride and stubbornness."
+    }
+  ],
+  "lesson_en": "When people attack the truth, remember that their real fight is against Allah.",
+  "lesson_bn": "সত্য প্রচার করতে গিয়ে মানুষের কটূক্তিতে ভেঙে না পড়ে আল্লাহর ওপর ভরসা রাখা মুমিনের কর্তব্য।",
+  "real_life_en": "A good person speaks up for what is fair at work. Others mock him because they want an easy way out. Their harsh words are not about him; they just dislike the truth. Stay calm and keep doing good.",
+  "real_life_bn": "কর্মক্ষেত্রে ন্যায়ের কথা বলতে গেলে স্বার্থান্বেষী মহলের উপহাসের শিকার হতে হয়। এতে হতাশ না হয়ে বুঝতে হবে যে মানুষ সত্য ও ন্যায়পরায়ণতাকেই ভয় পায়। শান্ত থেকে সততার ওপর অবিচল থাকাই আসল শক্তি।",
+  "context_en": "Comforts the Prophet by revealing that the opposition stems from stubborn denial of Allah's signs.",
+  "context_bn": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লামকে সান্ত্বনা দিয়ে বিরোধীদের একগুঁয়েমির অন্তর্নিহিত কারণ প্রকাশ করা হয়েছে।",
+  "themes": [
+    "prophethood",
+    "patience",
+    "revelation"
+  ],
+  "kinds": [
+    "address",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah acknowledges the grief caused to the Prophet by the false claims of the polytheists.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "In their hearts, the deniers knew the Prophet was truthful, but their injustice led them to reject Allah's signs.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

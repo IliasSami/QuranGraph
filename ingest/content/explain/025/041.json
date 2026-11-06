@@ -1,0 +1,65 @@
+{
+  "id": "25:41",
+  "simple_en": "Whenever the disbelievers see you, they treat you with mockery. They say: Is this the one whom God has sent as a messenger? They refuse to accept that a mortal human from among them was chosen for divine revelation.",
+  "simple_bn": "কাফেররা যখন আপনাকে দেখে, তখন তারা আপনাকে নিয়ে উপহাস করে। তারা বিদ্রূপ করে বলে: ইনিই কি সেই ব্যক্তি যাকে আল্লাহ রাসূল করে পাঠিয়েছেন? তারা অহংকারের কারণে সত্যকে মেনে নিতে অস্বীকার করে।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "هزأ",
+      "lemma": "هُزُو",
+      "meaning_en": "ridicule",
+      "meaning_bn": "উপহাস বা ঠাট্টা",
+      "why_en": "The mockers treated the Prophet's divine mission with scorn."
+    },
+    {
+      "pos": 11,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "messenger",
+      "meaning_bn": "রাসূল বা বার্তাবাহক",
+      "why_en": "The central office of prophethood sent to guide humanity."
+    }
+  ],
+  "lesson_en": "Mockery is an old weapon used against truth. A believer stays calm when people ridicule faith.",
+  "lesson_bn": "সত্যের বাণী শুনে উপহাস করা মূর্খের স্বভাব। বিরূপ মন্তব্যের মুখে মুমিনের কর্তব্য হলো ধৈর্য বজায় রাখা।",
+  "real_life_en": "Do not let sarcasm or peer pressure shake your values. Respond to insults with patience and good character. Keep your focus on pleasing God.",
+  "real_life_bn": "দ্বীন পালন করতে গিয়ে কেউ ঠাট্টা করলে মন খারাপ করবেন না। তাদের সাথে তর্কে না জড়িয়ে ভদ্র আচরণের মাধ্যমে নিজের সততা প্রমাণ করুন।",
+  "themes": [
+    "prophethood",
+    "mockery",
+    "disbelief"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "When the rejecters see the Messenger of God, they mockingly question how God could choose a human being like him for divine prophethood.",
+      "claim_bn": "কাফেররা যখন রাসূলুল্লাহকে দেখে, তখন তারা উপহাসচ্ছলে বলে যে আল্লাহ কি একেই রাসূল করে পাঠিয়েছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

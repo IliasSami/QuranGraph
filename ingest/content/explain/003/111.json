@@ -1,0 +1,79 @@
+{
+ "id": "3:111",
+ "simple_en": "Those who oppose you cannot truly harm your faith or your community. At most, they can only cause minor annoyance through insults and false rumors. If they gather to fight you, they will turn their backs and flee in defeat, finding no one to help or rescue them.",
+ "simple_bn": "বিরোধীরা তোমাদের ঈমান বা সমাজের কোনো স্থায়ী ক্ষতি করতে পারবে না। তারা কেবল কটুকথা ও মিথ্যা অপপ্রচারের মাধ্যমে সামান্য কষ্ট দিতে পারে। আর যদি তারা তোমাদের বিরুদ্ধে যুদ্ধে লিপ্ত হয়, তবে তারা পিঠ দেখিয়ে পালিয়ে যাবে এবং তারা কোনো সাহায্য পাবে না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ضرر",
+   "lemma": "يَضُرَّ",
+   "meaning_en": "they will harm you",
+   "meaning_bn": "তারা তোমাদের ক্ষতি করবে",
+   "why_en": "Assures believers that the enemies cannot inflict lasting spiritual or fatal harm."
+  },
+  {
+   "pos": 4,
+   "root": "أذي",
+   "lemma": "أَذًى",
+   "meaning_en": "annoyance / minor hurt",
+   "meaning_bn": "সামান্য কষ্ট বা যন্ত্রণা",
+   "why_en": "Limits enemy hostility to verbal abuse, insults, or petty harassment."
+  },
+  {
+   "pos": 8,
+   "root": "دبر",
+   "lemma": "دُبُر",
+   "meaning_en": "their backs",
+   "meaning_bn": "তাদের পিঠ (পলায়ন করবে)",
+   "why_en": "Describes the retreat and rout of opponents when confronting steadfast believers."
+  }
+ ],
+ "lesson_en": "Put your trust in Allah and stand firm. Harsh words from others cannot harm the truth.",
+ "lesson_bn": "আল্লাহর ওপর ভরসা রাখুন এবং অটল থাকুন। মানুষের কটূক্তি সত্যকে কখনো পরাজিত করতে পারে না।",
+ "real_life_en": "When people mock your faith or spread petty gossip about you, do not lose heart or react with anger. Their words are only temporary annoyances that cannot diminish your standing with Allah.",
+ "real_life_bn": "কেউ যদি আপনার দীনদারি নিয়ে উপহাস করে বা পেছনে কটু কথা বলে, তবে ধৈর্য ধারণ করুন। তাদের এই সামান্য কটূক্তি আল্লাহর কাছে আপনার মর্যাদার কোনো ক্ষতি করতে পারবে না।",
+ "context_en": "Reassures believers of divine protection following the description of the corrupt among the People of the Book in 3:110.",
+ "context_bn": "১১০ নম্বর আয়াতে অবাধ্যদের স্বভাব উল্লেখের পর এই আয়াতে বিশ্বাসীদের জন্য ঐশী সুরক্ষা ও বিজয়ের নিশ্চয়তা দেওয়া হয়েছে।",
+ "themes": [
+  "trials",
+  "patience",
+  "promise",
+  "struggle in Allah's way"
+ ],
+ "kinds": [
+  "promise",
+  "glad-tidings"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Opponents cannot inflict lasting harm upon the believers, except for passing verbal annoyance such as mockery or insults.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "If opponents fight against the steadfast believers, they will flee in defeat and receive no help.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

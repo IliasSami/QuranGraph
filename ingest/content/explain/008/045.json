@@ -1,0 +1,73 @@
+{
+  "id": "8:45",
+  "simple_en": "O believers, when you face an enemy army, stand your ground. Remember God often with all your heart, so you will win and find peace.",
+  "simple_bn": "হে ঈমানদারগণ! যখন তোমরা কোনো শত্রু দলের মুখোমুখি হও, তখন অবিচল থাকো এবং আল্লাহকে অধিক পরিমাণে স্মরণ করো, যাতে তোমরা সফলকাম হতে পারো।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "فأي",
+      "lemma": "فِئَة",
+      "meaning_en": "a company / enemy force",
+      "meaning_bn": "শত্রু দল",
+      "why_en": "An opposing hostile group in combat."
+    },
+    {
+      "pos": 7,
+      "root": "ثبت",
+      "lemma": "اثْبُتُ",
+      "meaning_en": "stand firm",
+      "meaning_bn": "অবিচল থাকো",
+      "why_en": "Command to show steadfastness and refuse retreat."
+    },
+    {
+      "pos": 8,
+      "root": "ذكر",
+      "lemma": "ذَكَرَ",
+      "meaning_en": "remember",
+      "meaning_bn": "স্মরণ করো",
+      "why_en": "Seeking strength through constant prayer and dhikr."
+    }
+  ],
+  "lesson_en": "Patience and constant remembrance of God are the two greatest keys to victory.",
+  "lesson_bn": "ধৈর্য ও আল্লাহর স্মরণই যেকোনো সংকট ও যুদ্ধে সফলতার মূল চাবিকাঠি।",
+  "real_life_en": "When you face intense stress or opposition, keep your mind anchored in prayer. Remembering God keeps you calm and gives you the grit to stand firm.",
+  "real_life_bn": "কঠিন মানসিক চাপ বা বিরোধিতার মুহূর্তে আল্লাহর জিকির করুন। অন্তরের স্থিরতা ও সাহস আপনাকে সংকট কাটিয়ে উঠতে সাহায্য করবে।",
+  "context_en": "Commanding believers to maintain steadfastness and remember Allah when facing hostile enemy ranks.",
+  "context_bn": "যুদ্ধের ময়দানে শত্রুর মুখোমুখি হলে অবিচল থাকা এবং আল্লাহকে অধিক স্মরণের নির্দেশ।",
+  "themes": [
+    "steadfastness",
+    "remembrance of Allah",
+    "courage",
+    "victory"
+  ],
+  "kinds": [
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are commanded to stay firm and remember Allah frequently when confronting enemies.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

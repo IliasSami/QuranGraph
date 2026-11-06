@@ -1,0 +1,69 @@
+{
+  "id": "28:34",
+  "simple_en": "Moses asked God to send his brother Aaron with him. He explained that Aaron was more clear and fluent in speech. Moses wanted Aaron as a helper to confirm the truth, because he feared that the Egyptians would deny his message.",
+  "simple_bn": "আর আমার ভাই হারুন আমার চেয়ে অধিক স্পষ্টভাষী ও বাগ্মী। অতএব তাকে আমার সাথে সাহায্যকারী হিসেবে পাঠান যাতে সে আমার সত্যতা সমর্থন করতে পারে। আমি আশঙ্কা করছি যে তারা আমাকে মিথ্যাবাদী বলবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "أَفْصَحُ",
+      "root": "فصح",
+      "lemma": "أَفْصَح",
+      "meaning_en": "more eloquent",
+      "meaning_bn": "অধিক বাকপটু",
+      "why_en": "Acknowledging Aaron's superior clarity of speech."
+    },
+    {
+      "pos": 8,
+      "arabic": "مَعِىَ",
+      "root": null,
+      "lemma": "مَع",
+      "meaning_en": "an aide",
+      "meaning_bn": "সাহায্যকারী হিসেবে",
+      "why_en": "Requesting a reliable partner in conveying truth."
+    }
+  ],
+  "lesson_en": "Good companions support each other in noble work. Seeking help from skilled partners shows wisdom.",
+  "lesson_bn": "সৎ কাজে যোগ্য সঙ্গীর সহযোগিতা গ্রহণ করা বুদ্ধিমত্তার পরিচায়ক। বিনম্র ব্যক্তি অন্যের দক্ষতা অকপটে স্বীকার করে।",
+  "real_life_en": "Value team work and seek partners who have strengths you lack. Work together to accomplish good goals.",
+  "real_life_bn": "কোনো গুরুত্বপূর্ণ কাজ সফল করতে দক্ষ সাথীর সাহায্য নিন। অন্যের যোগ্যতার যথার্থ মূল্যায়ন ও প্রশংসা করুন।",
+  "themes": [
+    "musa",
+    "harun",
+    "cooperation",
+    "truth"
+  ],
+  "kinds": [
+    "story",
+    "dua"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Aaron"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses requested his brother Aaron as an eloquent aide to confirm the divine message.",
+      "claim_bn": "মুসা তাঁর ভাই হারুনকে তাঁর স্পষ্টভাষী বৈশিষ্ট্যের কারণে সহায়ক হিসেবে পাঠানোর প্রার্থনা জানান।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

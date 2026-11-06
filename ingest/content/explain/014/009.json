@@ -1,0 +1,90 @@
+{
+  "id": "14:9",
+  "simple_en": "Have you not heard the story of earlier nations like Noah, Aad, and Thamud? Many other peoples came after them whom only Allah knows. Their messengers brought clear proofs, but they put their hands to their mouths in denial and refused to listen.",
+  "simple_bn": "তোমাদের কাছে কি পূর্ববর্তী জাতিগুলোর খবর পৌঁছেনি—নূহ, ‘আদ ও সামূদের সম্প্রদায় এবং তাদের পরবর্তী জাতিদের? যাদের সঠিক সংখ্যা আল্লাহ ছাড়া কেউ জানে না। তাদের কাছে রাসূলগণ স্পষ্ট প্রমাণ নিয়ে এসেছিলেন, কিন্তু তারা বিরোধিতায় মুখে হাত দিল এবং বিশ্বাস করতে অস্বীকার করল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نبأ",
+      "lemma": "نَبَأ",
+      "meaning_en": "the news",
+      "meaning_bn": "সংবাদ",
+      "why_en": "Historical reports of past generations."
+    },
+    {
+      "pos": 7,
+      "root": "قوم",
+      "lemma": "قَوْم",
+      "meaning_en": "people of",
+      "meaning_bn": "সম্প্রদায়",
+      "why_en": "The community of Prophet Noah."
+    },
+    {
+      "pos": 9,
+      "root": "عود",
+      "lemma": "عاد",
+      "meaning_en": "and Aad",
+      "meaning_bn": "এবং ‘আদ",
+      "why_en": "The ancient Arabian nation of Prophet Hud."
+    },
+    {
+      "pos": 20,
+      "root": "بين",
+      "lemma": "بَيِّنَة",
+      "meaning_en": "with clear proofs",
+      "meaning_bn": "স্পষ্ট প্রমাণাদিসহ",
+      "why_en": "Miracles and unambiguous messages."
+    },
+    {
+      "pos": 27,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "we disbelieve",
+      "meaning_bn": "আমরা অস্বীকার করি",
+      "why_en": "Outright rejection of revelation."
+    }
+  ],
+  "lesson_en": "Learn from the ruins of past nations who closed their minds to truth.",
+  "lesson_bn": "অতীতের জাতিগুলোর পরিণতি থেকে শিক্ষা নিন, যারা সত্যের প্রতি অন্ধ অহংকার দেখিয়েছিল।",
+  "real_life_en": "A history student visits ancient ruins in the desert. He reflects on how mighty civilizations fell because of arrogance and injustice. He vows to live with honesty and care.",
+  "real_life_bn": "ইতিহাসের এক ছাত্র মরুভূমির প্রাচীন ধ্বংসাবশেষ দেখতে যায়। সে ভাবে যে অহংকার ও অবিচারের কারণেই এককালের শক্তিশালী জাতিগুলো ধ্বংস হয়েছিল। সে বিনম্র ও সৎ জীবনযাপনের সংকল্প করে।",
+  "context_en": "Reminder of destroyed ancient nations who rejected their messengers.",
+  "context_bn": "নূহ, ‘আদ, সামূদ ও পরবর্তী জাতিগুলোর অবাধ্যতা এবং সত্য প্রত্যাখ্যানে তাদের ধ্বংসের বিবরণ।",
+  "themes": [
+    "history",
+    "warning",
+    "prophets"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Nuh"
+    ],
+    "nations": [
+      "Aad",
+      "Thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Past nations like Noah's people, Aad, and Thamud rejected their messengers despite clear proofs.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

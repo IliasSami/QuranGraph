@@ -1,0 +1,71 @@
+{
+  "id": "12:7",
+  "simple_en": "In the story of Joseph and his brothers, there are clear signs and practical lessons for all who seek guidance. It shows how God protects the sincere and humbles the proud.",
+  "simple_bn": "নিশ্চয় ইউসুফ ও তাঁর ভাইদের ঘটনার মাঝে জিজ্ঞাসুদের জন্য বহু শিক্ষণীয় নিদর্শন রয়েছে। এতে বোঝা যায় কীভাবে আল্লাহ নিষ্ঠাবান বান্দাকে রক্ষা করেন এবং অহংকারীদের পথ দেখান।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أخو",
+      "lemma": "إِخْوَة",
+      "meaning_en": "his brothers",
+      "meaning_bn": "তাঁর ভাইয়েরা",
+      "why_en": "The brothers whose envy sparked the great test."
+    },
+    {
+      "pos": 6,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "signs / lessons",
+      "meaning_bn": "নিদর্শনসমূহ",
+      "why_en": "Moral and spiritual lessons for seekers of truth."
+    },
+    {
+      "pos": 7,
+      "root": "سأل",
+      "lemma": "سائِل",
+      "meaning_en": "those who inquire",
+      "meaning_bn": "জিজ্ঞাসুগণ",
+      "why_en": "Inquirers seeking guidance from history."
+    }
+  ],
+  "lesson_en": "The story of Joseph holds rich lessons for anyone seeking wisdom and moral clarity.",
+  "lesson_bn": "ইউসুফের জীবনকাহিনীতে জ্ঞান ও সত্য অন্বেষণকারীদের জন্য বহু মূল্যবান শিক্ষা রয়েছে।",
+  "real_life_en": "Approach historical stories with an inquiring mind. Look past the simple plot to find lasting lessons about family dynamics, patience, and divine justice.",
+  "real_life_bn": "কুরআনের কাহিনীগুলো কেবল শোনার জন্য নয়, তা থেকে পারিবারিক ও চারিত্রিক শিক্ষা নিয়ে নিজের জীবনে কাজে লাগান।",
+  "themes": [
+    "story of Yusuf",
+    "signs for inquirers",
+    "lessons from history"
+  ],
+  "kinds": [
+    "story",
+    "creation",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The narrative of Joseph and his siblings contains profound signs and moral proof for all inquirers seeking divine guidance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

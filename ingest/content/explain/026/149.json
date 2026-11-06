@@ -1,0 +1,65 @@
+{
+  "id": "26:149",
+  "simple_en": "With great skill and pride, you carve fine homes out of solid rocky hills. You boast of your strong buildings, yet they cannot save you from the decree of God.",
+  "simple_bn": "এবং তোমরা অত্যন্ত দক্ষ ও অহংকারী হয়ে পাহাড় কেটে সুরম্য বাড়িঘর নির্মাণ করছ।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "نحت",
+      "lemma": "يَنْحِتُ",
+      "meaning_en": "you carve",
+      "meaning_bn": "তোমরা খোদাই করো বা কাটো",
+      "why_en": "Carving rock dwellings with extraordinary engineering ability."
+    },
+    {
+      "pos": 5,
+      "root": "فره",
+      "lemma": "فارِه",
+      "meaning_en": "skillful / proud",
+      "meaning_bn": "দক্ষ ও গর্বিতভাবে",
+      "why_en": "Their proud, boastful attitude in their architectural skill."
+    }
+  ],
+  "lesson_en": "Human skill should lead to humility, not empty pride.",
+  "lesson_bn": "স্থাপত্য ও কারিগরি দক্ষতা মানুষের অহংকার প্রকাশের মাধ্যম হওয়া উচিত নয়। মেধা ও সামর্থ্য দিয়ে মানুষের সেবা করাই প্রকৃত সাফল্য।",
+  "real_life_en": "Use your talents and skills to help others. Build things that serve your community, and stay humble about your achievements.",
+  "real_life_bn": "নিজের জ্ঞান, মেধা বা পেশাগত দক্ষতা নিয়ে অহংকার করবেন না। আল্লাহ আপনাকে যে দক্ষতা দিয়েছেন, তা দিয়ে মানুষের উপকারে আসে এমন কাজ করুন।",
+  "themes": [
+    "engineering",
+    "pride",
+    "materialism"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "salih"
+    ],
+    "nations": [
+      "thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "With remarkable engineering mastery and boastful pride, they carved secure and luxurious homes directly into the solid rocky mountains.",
+      "claim_bn": "তারা অত্যন্ত দক্ষ কিন্তু উদ্ধত ও গর্বিত হয়ে পাহাড় কেটে নিজেদের জন্য সুরম্য বাসস্থান তৈরি করত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

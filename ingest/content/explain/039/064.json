@@ -1,0 +1,74 @@
+{
+  "id": "39:64",
+  "simple_en": "Say to the people: Do you tell me to worship others instead of Allah, O foolish ones? Praying to created idols is sheer ignorance. Only Allah deserves our worship and love.",
+  "simple_bn": "মুশরিকদের বলুন, হে অজ্ঞ লোকেরা, তোমরা কি আমাকে আল্লাহ ছাড়া অন্যের ইবাদত করার নির্দেশ দিচ্ছ? সর্বশক্তিমান স্রষ্টাকে ছেড়ে তাঁর কোনো সৃষ্টির পূজা করা হলো চরম মূর্খতা ও বিবেকের দৈন্য।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "غير",
+      "lemma": "غَيْر",
+      "meaning_en": "is it other than?",
+      "meaning_bn": "অন্য কারো কি?",
+      "why_en": "Expresses strong astonishment and condemnation of polytheistic proposals."
+    },
+    {
+      "pos": 4,
+      "root": "أمر",
+      "lemma": "أَمَرَ",
+      "meaning_en": "you order me",
+      "meaning_bn": "তোমরা আমাকে নির্দেশ দিচ্ছ",
+      "why_en": "Exposes the audacity of pagans demanding compromise in monotheism."
+    },
+    {
+      "pos": 7,
+      "root": "جهل",
+      "lemma": "جاهِل",
+      "meaning_en": "O ignorant ones",
+      "meaning_bn": "হে অজ্ঞ ব্যক্তিগণ",
+      "why_en": "Characterizes idolatry as deep moral and intellectual ignorance."
+    }
+  ],
+  "lesson_en": "Never pray to false idols. Worship Allah alone with all your heart.",
+  "lesson_bn": "স্রষ্টাকে ছেড়ে সৃষ্টির পূজা করা চরম মূর্খতা, আর তাওহীদের ব্যাপারে কোনো আপস করা চলবে না।",
+  "real_life_en": "When society pushes you to follow false ideals or compromise your Islamic values, be firm. Explain with gentle confidence that you answer only to God.",
+  "real_life_bn": "ভুল আদর্শের সাথে আপস করার জন্য চারপাশ থেকে চাপ এলে অবিচল থাকুন। বিনয়ের সাথে দৃঢ়ভাবে জানিয়ে দিন যে আপনি কেবল এক আল্লাহরই অনুগত।",
+  "themes": [
+    "tawhid",
+    "rejecting compromise",
+    "ignorance of polytheism",
+    "courage"
+  ],
+  "kinds": [
+    "argument",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet is told to ask the ignorant pagans if they dare order him to worship other than Allah.",
+      "claim_bn": "রাসূলকে অজ্ঞ মুশরিকদের জিজ্ঞেস করতে বলা হয়েছে যে তারা কি তাঁকে আল্লাহ ছাড়া অন্যের ইবাদত করতে বলে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

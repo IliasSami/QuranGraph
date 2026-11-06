@@ -1,0 +1,106 @@
+{
+  "id": "12:79",
+  "simple_en": "Yusuf said he sought refuge in God from taking an innocent person. He would only hold the one who had the cup. Punishing anyone else would be unjust and wrong.",
+  "simple_bn": "ইউসুফ বললেন, যার কাছে আমাদের জিনিস পাওয়া গেছে তাকে ছাড়া অন্য কাউকে বন্দি করা থেকে আমরা আল্লাহর আশ্রয় চাই। এমনটি করলে আমরা নিশ্চয়ই অবিচারকারী হয়ে যাব।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "he said",
+      "meaning_bn": "তিনি বললেন",
+      "why_en": "Yusuf’s firm, principled refusal to punish the innocent."
+    },
+    {
+      "pos": 2,
+      "root": "عوذ",
+      "lemma": "مَعاذ",
+      "meaning_en": "Allah forbid / we seek refuge",
+      "meaning_bn": "আল্লাহর আশ্রয় চাই",
+      "why_en": "Expressing revulsion at committing legal injustice."
+    },
+    {
+      "pos": 5,
+      "root": "أخذ",
+      "lemma": "أَخَذَ",
+      "meaning_en": "that we take",
+      "meaning_bn": "আমরা কাউকে পাকড়াও করি",
+      "why_en": "Detaining someone who did not commit the act."
+    },
+    {
+      "pos": 8,
+      "root": "وجد",
+      "lemma": "وَجَدَ",
+      "meaning_en": "we found",
+      "meaning_bn": "আমরা পেয়েছি",
+      "why_en": "Justice demands holding accountable only the one with the evidence."
+    },
+    {
+      "pos": 13,
+      "root": "ظلم",
+      "lemma": "ظالِم",
+      "meaning_en": "the unjust",
+      "meaning_bn": "অবিচারকারী বা জালেম",
+      "why_en": "Punishing an innocent substitute is an act of clear tyranny."
+    }
+  ],
+  "lesson_en": "True justice is fair. Never blame someone for another person's act.",
+  "lesson_bn": "প্রকৃত বিচার কখনোই একজনের অপরাধের জন্য অন্য নিরপরাধ ব্যক্তিকে শাস্তি দেওয়ার অনুমতি দেয় না।",
+  "real_life_en": "A teacher finds a broken window. The teacher refuses to punish the whole class, and only questions the students who were playing nearby.",
+  "real_life_bn": "দুজন ছাত্রের ভুলের কারণে প্রধান শিক্ষক পুরো ক্লাসের সবাইকে শাস্তি দিতে অস্বীকৃতি জানান। তিনি নিরপেক্ষ তদন্ত করে কেবল আসল দোষীদেরই জবাবদিহিতার আওতায় আনেন।",
+  "context_en": "Yusuf stood firm on strict justice to keep Benjamin while refusing any innocent substitute.",
+  "context_bn": "ইউসুফ ন্যায়বিচারের মূলনীতি তুলে ধরে বিন ইয়ামীনকে কাছে রাখলেন এবং অন্য কাউকে রাখার প্রস্তাব নাকচ করলেন।",
+  "themes": [
+    "justice",
+    "individual accountability",
+    "fairness"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "law"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "brothers of Yusuf",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "measuring bowl"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf refused to take anyone other than the one in whose bag the cup was found.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He declared that substituting an innocent person would be an injustice.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "8:61",
+  "simple_en": "If the enemy inclines toward peace, then incline toward peace as well, and put your trust in Allah. He is truly the All-Hearing, the All-Knowing.",
+  "simple_bn": "আর তারা যদি শান্তির দিকে ঝুঁকে পড়ে, তবে তুমিও শান্তির দিকে ঝুঁকবে এবং আল্লাহর ওপর ভরসা করবে। নিশ্চয়ই তিনি সর্বশ্রোতা, সর্বজ্ঞ।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جنح",
+      "lemma": "جَنَحُ",
+      "meaning_en": "they incline",
+      "meaning_bn": "তারা ঝুঁকে পড়ে",
+      "why_en": "Willingness to cease hostilities."
+    },
+    {
+      "pos": 3,
+      "root": "سلم",
+      "lemma": "سَلْم",
+      "meaning_en": "peace / treaty",
+      "meaning_bn": "শান্তি বা সন্ধি",
+      "why_en": "Ceasefire and peaceful reconciliation."
+    },
+    {
+      "pos": 6,
+      "root": "وكل",
+      "lemma": "تَوَكَّلْ",
+      "meaning_en": "rely / trust",
+      "meaning_bn": "ভরসা করো",
+      "why_en": "Placing ultimate security in Allah."
+    }
+  ],
+  "lesson_en": "Always choose peace when your foes want to stop fighting.",
+  "lesson_bn": "শত্রুপক্ষ শান্তির প্রস্তাব দিলে তা গ্রহণ করা উচিত এবং আল্লাহর ওপর ভরসা রাখা আবশ্যক।",
+  "real_life_en": "When an opponent or coworker offers to make peace after a quarrel, welcome the chance. Do not let old grudges keep conflicts burning. Choose reconciliation with an open heart.",
+  "real_life_bn": "বিরোধের পর কেউ যদি আপসের হাত বাড়ায়, তবে তা সানন্দে গ্রহণ করুন। অতীতের ক্ষোভ ভুলে শান্তির পথ বেছে নিন।",
+  "context_en": "Directing the Prophet and the Muslim state to accept peace proposals from enemies while maintaining reliance on Allah.",
+  "context_bn": "শত্রুপক্ষ সন্ধি ও শান্তির প্রস্তাব দিলে তা গ্রহণ করার এবং আল্লাহর ওপর তাওয়াক্কুল করার নির্দেশ।",
+  "themes": [
+    "peace",
+    "diplomacy",
+    "trust in Allah",
+    "reconciliation"
+  ],
+  "kinds": [
+    "command",
+    "ethics",
+    "law"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "believers",
+      "hostile tribes"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "As-Sami",
+      "Al-Alim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are instructed to accept peace if the enemy inclines toward it, relying fully upon Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

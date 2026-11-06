@@ -1,0 +1,96 @@
+{
+  "id": "12:49",
+  "simple_en": "Yusuf shared good news that was not in the king's dream. He said a blessed year of rain would come after the drought. Crops would grow well again, and people would press grapes and olives in joy.",
+  "simple_bn": "ইউসুফ এমন এক সুসংবাদ দিলেন যা রাজার স্বপ্নে ছিল না। তিনি বললেন, দুর্ভিক্ষের পর প্রচুর বৃষ্টির এক বছর আসবে। ফসল আবার ভালো জন্মাবে এবং মানুষ আনন্দের সাথে আঙুর ও জলপাইয়ের রস নিংড়াবে।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "عوم",
+      "lemma": "عام",
+      "meaning_en": "a year",
+      "meaning_bn": "এমন এক বছর",
+      "why_en": "A specific season of divine relief after prolonged distress."
+    },
+    {
+      "pos": 8,
+      "root": "غيث",
+      "lemma": "يُغاثُ",
+      "meaning_en": "they will be given rain",
+      "meaning_bn": "তাদের বৃষ্টি দ্বারা উদ্ধার করা হবে",
+      "why_en": "Rain bringing mercy and life back to the parched earth."
+    },
+    {
+      "pos": 9,
+      "root": "أنس",
+      "lemma": "ناس",
+      "meaning_en": "the people",
+      "meaning_bn": "মানুষজন",
+      "why_en": "The entire population benefiting from returning prosperity."
+    },
+    {
+      "pos": 11,
+      "root": "عصر",
+      "lemma": "يَعْصِرُ",
+      "meaning_en": "they will press",
+      "meaning_bn": "তারা রস নিংড়াবে",
+      "why_en": "Pressing olives and fruits indicates bountiful harvest."
+    }
+  ],
+  "lesson_en": "Hard times do not last forever. Allah sends relief after patient waiting.",
+  "lesson_bn": "কষ্টের দিন চিরস্থায়ী হয় না, ধৈর্যের পর আল্লাহ নিশ্চয়ই স্বস্তি ও প্রাচুর্য দান করেন।",
+  "real_life_en": "A family faces sickness and heavy debts for years. They remain patient and pray for relief. Over time, health returns, debts are paid, and peaceful days return.",
+  "real_life_bn": "একটি পরিবার দীর্ঘদিন অসুস্থতা ও ঋণের কষ্টে ধৈর্য ধরে আল্লাহর ওপর ভরসা রাখে। একসময় আল্লাহ তাঁদের সুস্থতা দেন, ঋণমুক্ত করেন এবং সুখের দিন ফিরিয়ে দেন।",
+  "context_en": "Yusuf concluded his interpretation with an inspired prediction of rain and abundance beyond the king's vision.",
+  "context_bn": "ইউসুফ স্বপ্নের ব্যাখ্যার বাইরেও নিজের ইলম দিয়ে খরার শেষে বরকতময় বৃষ্টি ও সচ্ছলতার সুসংবাদ দিলেন।",
+  "themes": [
+    "hope",
+    "relief after hardship",
+    "Allah's mercy"
+  ],
+  "kinds": [
+    "story",
+    "glad-tidings",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "Egyptians"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "rain",
+      "olives",
+      "wine"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf announced that after the famine, a year of abundant rain and relief would arrive.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "People would press juice from grapes and olives in abundance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

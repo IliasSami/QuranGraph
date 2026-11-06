@@ -1,0 +1,61 @@
+{
+  "id": "17:15",
+  "simple_en": "Whoever chooses guidance is guided for his own good. Whoever strays harms only his own soul. No soul carries another's burden, and We never punish before sending a messenger.",
+  "simple_bn": "যে সৎপথ অবলম্বন করে সে নিজের মঙ্গলের জন্যই তা করে, আর যে বিপথগামী হয় সে নিজের ক্ষতিই ডেকে আনে। কেউ অন্যের পাপের বোঝা বইবে না, আর রাসুল না পাঠিয়ে আমরা কখনো শাস্তি দিই না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "هدي",
+      "lemma": "اهْتَدَى",
+      "meaning_en": "is guided",
+      "meaning_bn": "সৎপথ অবলম্বন করে",
+      "why_en": "Voluntary choice to follow divine guidance."
+    },
+    {
+      "pos": 7,
+      "root": "ضلل",
+      "lemma": "ضَلَّ",
+      "meaning_en": "strays",
+      "meaning_bn": "পথভ্রষ্ট হয়",
+      "why_en": "Choosing falsehood to one's own ruin."
+    }
+  ],
+  "lesson_en": "Each person is responsible for their own deeds. God never punishes anyone without sending a messenger first.",
+  "lesson_bn": "প্রত্যেকে নিজ নিজ কাজের জন্য দায়ী। আল্লাহ সুস্পষ্ট সতর্কবার্তা না পাঠিয়ে কাউকে শাস্তি দেন না।",
+  "real_life_en": "Do not blame family or peers for your moral slip-ups. Take responsibility for your own life and strive for virtue.",
+  "real_life_bn": "নিজের অপরাধের জন্য অন্যকে দোষারোপ করবেন না। নিজের কৃতকর্মের দায় স্বীকার করে সততার সাথে জীবন পরিচালনা করুন।",
+  "themes": [
+    "justice",
+    "individual-responsibility",
+    "messengers"
+  ],
+  "kinds": [
+    "law",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Guidance and straying benefit or harm only oneself, no soul bears another's burden, and Allah never punishes until He sends a messenger.",
+      "claim_bn": "সৎপথ ও ভ্রষ্টতার ফল ব্যক্তি নিজেই পায়, কেউ অপরের ভার বহন করে না এবং রাসুল না পাঠিয়ে আল্লাহ শাস্তি দেন না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

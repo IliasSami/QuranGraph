@@ -1,0 +1,80 @@
+{
+ "id": "76:4",
+ "simple_en": "Allah has prepared severe punishment for those who reject the truth. In the Fire, they will face heavy chains on their feet and iron collars around their necks. They will be dragged into a blazing fire because they chose to deny their Lord.",
+ "simple_bn": "আল্লাহ সত্য অস্বীকারকারীদের জন্য কঠিন শাস্তি প্রস্তুত রেখেছেন। জাহান্নামে তাদের পায়ে পরানো হবে ভারী শিকল এবং গলায় লোহার বেড়ি। তাদের টেনে-হেঁচড়ে প্রজ্বলিত আগুনে ফেলা হবে, কারণ তারা নিজেদের রবকে অস্বীকার করেছিল।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "كفر",
+   "lemma": "كافِر",
+   "meaning_en": "disbelievers",
+   "meaning_bn": "অবিশ্বাসীদের জন্য",
+   "why_en": "Identifies those who knowingly reject faith in Allah."
+  },
+  {
+   "pos": 4,
+   "root": "سلسل",
+   "lemma": "سِلْسِلَة",
+   "meaning_en": "chains",
+   "meaning_bn": "শিকল",
+   "why_en": "Chains used to drag the dwellers of Hell."
+  },
+  {
+   "pos": 5,
+   "root": "غلل",
+   "lemma": "غِلّ",
+   "meaning_en": "iron collars, shackles",
+   "meaning_bn": "বেড়ি",
+   "why_en": "Heavy collars tied around their necks in punishment."
+  },
+  {
+   "pos": 6,
+   "root": "سعر",
+   "lemma": "سَعِير",
+   "meaning_en": "blazing fire",
+   "meaning_bn": "লেলিহান আগুন",
+   "why_en": "Names the intense, burning heat of Hell."
+  }
+ ],
+ "lesson_en": "The blazing fire warns us to stay away from disbelief and pride.",
+ "lesson_bn": "জাহান্নামের ভয়াবহ পরিণতি আমাদের সতর্ক করে, যেন আমরা কুফরি ও অহংকার পরিহার করি।",
+ "real_life_en": "When rules are broken without care, consequences follow in life. Thinking of the blazing fire helps you stop before doing wrong. It gives you the strength to leave bad deeds behind and seek Allah's forgiveness.",
+ "real_life_bn": "দায়িত্বজ্ঞানহীন কাজের পরিণতি খারাপ হয়। জাহান্নামের কঠিন শাস্তির কথা স্মরণ করলে অন্যায় কাজ থেকে বিরত থাকা সহজ হয়। এটি মনে আল্লাহর ভয় তৈরি করে এবং ক্ষমা চাইতে প্রেরণা দেয়।",
+ "themes": [
+  "punishment",
+  "Hell",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "hell"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah prepared chains, iron collars, and a blazing fire for the disbelievers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

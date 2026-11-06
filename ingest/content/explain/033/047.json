@@ -1,0 +1,84 @@
+{
+  "id": "33:47",
+  "simple_en": "God tells the Prophet ﷺ to share happy news with the believers. They will receive great favor and rich blessings from God. He will help them in this life and grant them peace and joy in the Hereafter.",
+  "simple_bn": "মুমিনদের সুসংবাদ দিন যে তাদের জন্য আল্লাহর পক্ষ থেকে রয়েছে মহা অনুগ্রহ। আল্লাহ দুনিয়াতে তাদের সাহায্য করবেন এবং আখিরাতে জান্নাতের স্থায়ী শান্তি দান করবেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "بشر",
+      "lemma": "بُشِّرَ",
+      "meaning_en": "and give glad tidings",
+      "meaning_bn": "সুসংবাদ দিন",
+      "why_en": "Bringing joy and hope to the righteous."
+    },
+    {
+      "pos": 2,
+      "root": "أمن",
+      "lemma": "مُؤْمِن",
+      "meaning_en": "to the believers",
+      "meaning_bn": "মুমিনদেরকে",
+      "why_en": "Those who put their trust in God and obey His guidance."
+    },
+    {
+      "pos": 7,
+      "root": "فضل",
+      "lemma": "فَضْل",
+      "meaning_en": "a bounty / grace",
+      "meaning_bn": "অনুগ্রহ",
+      "why_en": "The vast gifts of forgiveness and Paradise."
+    },
+    {
+      "pos": 8,
+      "root": "كبر",
+      "lemma": "كَبِير",
+      "meaning_en": "great",
+      "meaning_bn": "বিশাল বা মহান",
+      "why_en": "Emphasizes the boundless scale of divine favor."
+    }
+  ],
+  "lesson_en": "God has promised vast bounty and ultimate success to those who hold firm to faith.",
+  "lesson_bn": "মুমিনদের জন্য আল্লাহর পক্ষ থেকে অফুরন্ত রহমত ও মহা পুরস্কারের প্রতিশ্রুতি রয়েছে।",
+  "real_life_en": "Never lose hope when going through trials. Remember that God has promised great good to those who stay true to their faith.",
+  "real_life_bn": "কষ্টের সময়েও নিরাশ হবেন না। মনে রাখবেন যে ধৈর্যের সাথে সৎপথে চললে আল্লাহ অসীম পুরস্কার দান করবেন।",
+  "themes": [
+    "glad-tidings",
+    "faith",
+    "Allah's mercy"
+  ],
+  "kinds": [
+    "command",
+    "promise",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet is instructed to convey glad tidings to believers that they have from Allah a great bounty.",
+      "claim_bn": "মুমিনদের সুসংবাদ দেওয়ার নির্দেশ দেওয়া হয়েছে যে আল্লাহর পক্ষ থেকে তাদের জন্য রয়েছে মহা অনুগ্রহ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

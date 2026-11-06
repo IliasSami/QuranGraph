@@ -1,0 +1,100 @@
+{
+ "id": "4:95",
+ "simple_en": "Believers who sit back without a valid excuse are not equal to those who strive in Allah's path with their wealth and their lives. Allah has raised those who strive with their wealth and lives a rank above those who stay home. Yet to all sincere believers, Allah has promised a good reward of Paradise. Still, Allah has favored those who strive over those who stay behind with an immense reward.",
+ "simple_bn": "অক্ষমতা বা যুক্তিসঙ্গত ওজর ছাড়া ঘরে বসে থাকা মুমিনরা এবং আল্লাহর পথে নিজেদের জান ও মাল দিয়ে সংগ্রামকারীরা সমান নয়। যারা সম্পদ ও জীবন দিয়ে সংগ্রাম করে, আল্লাহ তাদেরকে ঘরে বসে থাকা লোকদের ওপর এক বিশেষ মর্যাদা দিয়েছেন। তবে প্রত্যেকের জন্যই আল্লাহ কল্যাণের তথা জান্নাতের প্রতিশ্রুতি দিয়েছেন। আর যারা সংগ্রাম করেছে আল্লাহ তাদেরকে ঘরে বসে থাকা লোকদের চেয়ে মহা প্রতিদানে শ্রেষ্ঠত্ব দিয়েছেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "قعد",
+   "lemma": "قاعِد",
+   "meaning_en": "those who remain behind",
+   "meaning_bn": "বসে থাকা ব্যক্তিরা",
+   "why_en": "Refers to believers who stay at home without participating in military defense."
+  },
+  {
+   "pos": 8,
+   "root": "ضرر",
+   "lemma": "ضَرَر",
+   "meaning_en": "injury or disability",
+   "meaning_bn": "অক্ষমতা বা শারীরিক ত্রুটি",
+   "why_en": "Exempts those with genuine disabilities, blindness, or chronic illness from blame."
+  },
+  {
+   "pos": 9,
+   "root": "جهد",
+   "lemma": "مُجاهِد",
+   "meaning_en": "those who strive in Allah's path",
+   "meaning_bn": "সংগ্রামকারী",
+   "why_en": "Honors those who actively sacrifice their wealth and lives in the service of Allah."
+  },
+  {
+   "pos": 26,
+   "root": "حسن",
+   "lemma": "حُسْنَى",
+   "meaning_en": "the best reward (Paradise)",
+   "meaning_bn": "উত্তম প্রতিদান (জান্নাত)",
+   "why_en": "Reassures that all sincere believers with sound faith are promised Paradise."
+  }
+ ],
+ "lesson_en": "Giving your wealth and life for Allah brings great rank in the next life.",
+ "lesson_bn": "দ্বীনের জন্য জান ও মাল দিয়ে সক্রিয় ত্যাগ স্বীকার করা ঘরে নিষ্ক্রিয় বসে থাকার চেয়ে অনেক বেশি মর্যাদাপূর্ণ।",
+ "real_life_en": "Do not sit back when people need help. Spend from what you earn and use your time to serve others. Giving your effort for Allah brings great honor in the next life.",
+ "real_life_bn": "সমাজের কল্যাণে বা দ্বীনি প্রয়োজনে কেবল মুখে ভালো না চেয়ে নিজের অর্থ ও শ্রম দিয়ে সরাসরি ভূমিকা রাখুন। আল্লাহর জন্য ত্যাগের মাধ্যমেই উচ্চ মর্যাদা অর্জিত হয়।",
+ "context_en": "Distinguishes between those who actively strive in Allah's path and those who remain behind, while excusing the disabled.",
+ "context_bn": "আল্লাহর পথে জান-মাল দিয়ে ত্যাগ স্বীকারকারী এবং ঘরে বসে থাকা মুমিনদের মর্যাদাগত পার্থক্য তুলে ধরা হয়েছে।",
+ "themes": [
+  "struggle in Allah's way",
+  "charity",
+  "reward",
+  "Paradise"
+ ],
+ "kinds": [
+  "promise",
+  "belief",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Paradise"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who stay behind without a genuine disabling excuse are not equal in status to those who strive with their wealth and lives.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Those with legitimate disabilities like blindness or sickness are excused and granted divine reward according to their intention.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah has promised the best reward (Paradise) to all sincere believers, while granting an immense surplus in rank to those who actively strive.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

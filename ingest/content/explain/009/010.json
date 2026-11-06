@@ -1,0 +1,63 @@
+{
+  "id": "9:10",
+  "simple_en": "They do not respect family ties or solemn pacts with any believer. It is they who cross all moral boundaries and act as hostile aggressors.",
+  "simple_bn": "তারা কোনো মুমিনের সাথে আত্মীয়তা বা চুক্তির মর্যাদা রক্ষা করে না; আর এরাই প্রকৃত সীমালঙ্ঘনকারী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رقب",
+      "lemma": "يَرْقُبُ",
+      "meaning_en": "observe / care for",
+      "meaning_bn": "মর্যাদা রক্ষা করে / খেয়াল রাখে",
+      "why_en": "Failing to respect ethical boundaries and human decency."
+    },
+    {
+      "pos": 10,
+      "root": "عدو",
+      "lemma": "مُعْتَدي",
+      "meaning_en": "transgressors / aggressors",
+      "meaning_bn": "সীমালঙ্ঘনকারী",
+      "why_en": "Violating legal limits and initiating unjust conflict."
+    }
+  ],
+  "lesson_en": "Hatred blinds people to basic rights and family ties.",
+  "lesson_bn": "অন্ধ বিদ্বেষ মানুষকে এতটাই বিবেকহীন করে যে সে মৌলিক মানবিক সম্পর্ক ও প্রতিশ্রুতির কোনো পরোয়া করে না।",
+  "real_life_en": "Do not let group pride make you treat someone from another team unfairly or with disrespect.",
+  "real_life_bn": "কেউ যদি পক্ষপাতদুষ্ট হয়ে আপনাকে বা আপনার দলকে অবহেলা করে, তবে ভেঙে না পড়ে ধৈর্যের সাথে ন্যায়ের ওপর অবিচল থাকুন।",
+  "themes": [
+    "transgression",
+    "hostility",
+    "justice"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers",
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hostile adversaries ignored all kinship bonds and pacts when confronting the community of believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

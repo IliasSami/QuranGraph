@@ -1,0 +1,66 @@
+{
+  "id": "21:68",
+  "simple_en": "Losing the debate, the leaders shouted in anger. They said: Burn him in a fire and save your gods, if you are able to act.",
+  "simple_bn": "যুক্তিতে হেরে গিয়ে নেতারা ক্রুদ্ধ হয়ে চিৎকার করে বলল: একে আগুনে পুড়িয়ে ফেলো এবং তোমাদের দেব-দেবীদের সাহায্য করো, যদি তোমরা কিছু করতে চাও।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حرق",
+      "lemma": "حَرِّقُ",
+      "meaning_en": "burn him",
+      "meaning_bn": "তাকে পুড়িয়ে ফেলো",
+      "why_en": "Vindictive violence resorted to after losing debate."
+    },
+    {
+      "pos": 3,
+      "root": "نصر",
+      "lemma": "نَصَرَ",
+      "meaning_en": "support",
+      "meaning_bn": "সাহায্য করো",
+      "why_en": "Ironic cry to aid supposedly almighty gods."
+    }
+  ],
+  "lesson_en": "When tyrants lose an argument, they resort to violence. If gods must be saved by humans, they are not gods at all.",
+  "lesson_bn": "যুক্তিতে হেরে গেলে জালিমরা শক্তির ব্যবহারে নামে। মানুষেরই যদি উপাস্যকে রক্ষা করতে হয়, তবে সে উপাস্য হতে পারে না।",
+  "real_life_en": "Never respond with anger or violence when you lose a fair discussion. Accept defeat gracefully and align yourself with the truth.",
+  "real_life_bn": "যুক্তিতর্কে হেরে গেলে কখনো রাগ বা বলপ্রয়োগ করবেন না। সত্যকে আনন্দের সাথে মেনে নিন এবং নিজের ভুল শুধরে নিন।",
+  "themes": [
+    "tyranny",
+    "violence",
+    "helpless-gods",
+    "ibrahim-fire"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "fire"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Unable to counter Abraham logically, his opponents resolved to execute him by burning to defend their idols.",
+      "claim_bn": "ইবরাহীমের যুক্তির মুখে পরাস্ত হয়ে বিরোধীরা নিজেদের দেব-দেবীদের রক্ষার নামে তাঁকে আগুনে পুড়িয়ে হত্যার সিদ্ধান্ত নিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

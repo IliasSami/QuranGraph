@@ -1,0 +1,77 @@
+{
+  "id": "8:15",
+  "simple_en": "O believers, when you meet an advancing enemy army on the battlefield, stand firm together. Do not turn your backs to run away in fear.",
+  "simple_bn": "হে মুমিনগণ, তোমরা যখন শত্রু বাহিনীর মুখোমুখি হবে যুদ্ধের ময়দানে, তখন তোমরা তাদের সামনে পিঠ প্রদর্শন করে পালাবে না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "لقي",
+      "lemma": "لَقُ",
+      "meaning_en": "you meet / encounter",
+      "meaning_bn": "তোমরা মুখোমুখি হও",
+      "why_en": "Clashing with enemy forces on the field of combat."
+    },
+    {
+      "pos": 8,
+      "root": "زحف",
+      "lemma": "زَحْف",
+      "meaning_en": "advancing in force / marching",
+      "meaning_bn": "নিকটবর্তী অবস্থায় / অগ্রসরমান",
+      "why_en": "An army marching forward in dense ranks."
+    },
+    {
+      "pos": 11,
+      "root": "دبر",
+      "lemma": "دُبُر",
+      "meaning_en": "your backs",
+      "meaning_bn": "তোমাদের পিঠ",
+      "why_en": "Fleeing the line of defense out of fear."
+    }
+  ],
+  "lesson_en": "True courage means standing by your duty without running away in fear.",
+  "lesson_bn": "সত্য ও ন্যায়ের দায়িত্ব পালনে পিছু হটে পলায়ন করা ঈমানদারদের জন্য শোভনীয় নয়।",
+  "real_life_en": "When tough responsibilities test your courage, do not run away or abandon your team. Standing firm during hard trials earns deep respect and builds resilient character. Face challenges head-on.",
+  "real_life_bn": "কঠিন সংকটের মুখে নিজের দল ও কর্তব্য ফেলে পালাবেন না। সাহসিকতার সাথে নিজের দায়িত্বে অবিচল থাকাই প্রকৃত বীরত্ব।",
+  "context_en": "A fundamental rule of military discipline in Islam forbidding panic-stricken flight during battle.",
+  "context_bn": "যুদ্ধের ময়দানে শত্রুর মুখোমুখি হলে মনোবল বজায় রাখা এবং কাপুরুষোচিত পলায়ন নিষিদ্ধকরণের বিধান।",
+  "themes": [
+    "steadfastness",
+    "courage",
+    "prohibition of fleeing battle",
+    "military ethics"
+  ],
+  "kinds": [
+    "prohibition",
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers",
+      "enemy army"
+    ],
+    "places": [
+      "battlefield"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are strictly forbidden from fleeing the battlefield when facing an advancing enemy, commanding steadfastness.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

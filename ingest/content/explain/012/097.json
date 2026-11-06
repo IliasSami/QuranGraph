@@ -1,0 +1,75 @@
+{
+  "id": "12:97",
+  "simple_en": "The sons realized the gravity of their past conduct. They came to their father Yaqub and begged him to pray for their forgiveness. They admitted openly that they had been sinful.",
+  "simple_bn": "ছেলেরা তাদের অতীতের অপরাধের ভয়াবহতা বুঝতে পারল। তারা তাদের পিতা ইয়াকুবের কাছে এসে তাঁদের পাপ মোচনের জন্য আল্লাহর কাছে ক্ষমা চাওয়ার অনুরোধ জানাল। তারা অকপটে স্বীকার করল যে তারা বড় অপরাধী ছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أبو",
+      "lemma": "أَب",
+      "meaning_en": "O our father",
+      "meaning_bn": "হে আমাদের পিতা",
+      "why_en": "An affectionate plea recognizing their father's status and closeness to Allah."
+    },
+    {
+      "pos": 3,
+      "root": "غفر",
+      "lemma": "اسْتَغْفَرَ",
+      "meaning_en": "ask forgiveness",
+      "meaning_bn": "ক্ষমা প্রার্থনা করুন",
+      "why_en": "They request their father's prayers to atone for their past sins."
+    },
+    {
+      "pos": 8,
+      "root": "خطأ",
+      "lemma": "خاطِئ",
+      "meaning_en": "sinful",
+      "meaning_bn": "অপরাধী",
+      "why_en": "Direct confession without making excuses for their betrayal."
+    }
+  ],
+  "lesson_en": "Ask for pardon from those you hurt. It mends broken bonds.",
+  "lesson_bn": "যাদের আঘাত করা হয়েছে তাদের কাছে ক্ষমা প্রার্থনা করা পারিবারিক শান্তি ফিরিয়ে আনার মূল শর্ত।",
+  "real_life_en": "A man feels bad for speaking rudely to his parents long ago. He visits his dad, says sorry, and asks him to pray for his heart.",
+  "real_life_bn": "এক ব্যক্তি বুঝতে পারে যে অতীতে সে মা-বাবার সাথে রূঢ় আচরণ করেছিল। সে পিতার কাছে গিয়ে ভুল স্বীকার করে আন্তরিকভাবে ক্ষমা চায় এবং তাঁর দোয়ার আবেদন করে।",
+  "context_en": "Seeing the truth unfold, the brothers turned to their father to seek divine pardon.",
+  "context_bn": "সত্য উন্মোচিত হওয়ার পর ভাইয়েরা তাদের পিতার কাছে এসে অনুতপ্ত হয়ে ক্ষমা প্রার্থনার অনুরোধ করল।",
+  "themes": [
+    "repentance",
+    "humility",
+    "forgiveness"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yaqub",
+      "brothers of Yusuf"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers asked their father Yaqub to pray for Allah's forgiveness for their sins.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

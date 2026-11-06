@@ -1,0 +1,80 @@
+{
+  "id": "5:108",
+  "simple_en": "These rules help ensure that witnesses speak the truth from the start. It also makes them fear that their false oaths will be rejected and replaced by the oaths of others. Be mindful of Allah and listen to His commands. Allah does not guide those who choose defiance.",
+  "simple_bn": "এই বিধান সাক্ষীগণকে সঠিকভাবে সাক্ষ্য দিতে উদ্বুদ্ধ করে অথবা তাদের মনে ভয় সৃষ্টি করে যে তাদের শপথের পর উত্তরাধিকারীদের শপথ দ্বারা তা বাতিল হয়ে যাবে। তোমরা আল্লাহকে ভয় করো এবং তাঁর নির্দেশ শোনো। আল্লাহ অবাধ্য জাতিকে সৎপথে পরিচালিত করেন না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "شهد",
+      "lemma": "شَهادَة",
+      "meaning_en": "the testimony",
+      "meaning_bn": "সাক্ষ্য",
+      "why_en": "The central duty of giving upright and honest evidence before Allah."
+    },
+    {
+      "pos": 12,
+      "root": "يمن",
+      "lemma": "يَمِين",
+      "meaning_en": "oaths",
+      "meaning_bn": "শপথসমূহ",
+      "why_en": "The solemn pledges whose fear of exposure encourages truthful testimony."
+    },
+    {
+      "pos": 22,
+      "root": "فسق",
+      "lemma": "فاسِق",
+      "meaning_en": "defiantly disobedient",
+      "meaning_bn": "ফাসেক বা অবাধ্য সম্প্রদায়",
+      "why_en": "Warns that persistent dishonesty cuts one off from divine guidance."
+    }
+  ],
+  "lesson_en": "Fear Allah in your oaths, for dishonesty ruins justice and repels guidance.",
+  "lesson_bn": "সাক্ষ্য ও শপথে আল্লাহকে ভয় করুন; অসততা ন্যায়বিচার নষ্ট করে এবং আল্লাহর হেদায়েত থেকে বঞ্চিত করে।",
+  "real_life_en": "People think twice before lying when they know others will question their claims. Fearing Allah and dreading public shame helps keep witnesses honest in court and in business.",
+  "real_life_bn": "আদালতে বা ব্যবসায় চুক্তির সময় জবাবদিহিতার ভয় মানুষকে মিথ্যা বলা থেকে বিরত রাখে। সত্য সাক্ষ্য দিলে সমাজে মানুষের অধিকার সুরক্ষিত থাকে।",
+  "context_en": "Explains the wisdom behind solemn oaths and warns against rebellious dishonesty.",
+  "context_bn": "শপথের মাধ্যমে সাক্ষ্য গ্রহণের হিকমত বর্ণনা করে অবাধ্যতার ব্যাপারে সতর্ক করা হয়েছে।",
+  "themes": [
+    "justice",
+    "honesty",
+    "taqwa",
+    "guidance"
+  ],
+  "kinds": [
+    "law",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The prescribed oath procedure encourages witnesses to deliver truthful testimony out of fear that false claims will be overturned.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Believers are commanded to fear Allah and obey, while those who persist in rebellious disobedience are deprived of guidance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

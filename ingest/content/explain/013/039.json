@@ -1,0 +1,81 @@
+{
+  "id": "13:39",
+  "simple_en": "Allah erases what He wills and keeps what He wills. With Him is the Master Book where all divine knowledge is kept safe and secure.",
+  "simple_bn": "আল্লাহ যা চান মুছে দেন এবং যা চান বহাল রাখেন। আর তাঁর কাছেই রয়েছে মূল কিতাব—উম্মুল কিতাব বা লাওহে মাহফুজ।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "محو",
+      "lemma": "مَحَوْ",
+      "meaning_en": "erases",
+      "meaning_bn": "মুছে দেন",
+      "why_en": "Abrogating legal rulings or modifying secondary divine decrees."
+    },
+    {
+      "pos": 5,
+      "root": "ثبت",
+      "lemma": "يُثْبِتُ",
+      "meaning_en": "confirms",
+      "meaning_bn": "বহাল রাখেন",
+      "why_en": "Establishing fixed rules and decisions according to wisdom."
+    },
+    {
+      "pos": 7,
+      "root": "أمم",
+      "lemma": "أُمّ",
+      "meaning_en": "Mother / Source",
+      "meaning_bn": "উম্ম বা মূল",
+      "why_en": "The origin and foundation of all divine records (Preserved Tablet)."
+    },
+    {
+      "pos": 8,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Book",
+      "meaning_bn": "কিতাব",
+      "why_en": "The Preserved Tablet where everything is perfectly recorded."
+    }
+  ],
+  "lesson_en": "God rules all things with care. Trust His wise decree each day.",
+  "lesson_bn": "আল্লাহর ইচ্ছায় সব বিধান ও ভাগ্য পরিচালিত হয়, তাঁর প্রজ্ঞার ওপর ভরসা রাখা উচিত।",
+  "real_life_en": "A student prays for a college admission that gets denied, but later gains a much better scholarship elsewhere. She sees how God changes paths for the better.",
+  "real_life_bn": "এক ছাত্রী একটি প্রতিষ্ঠানে ভর্তির সুযোগ না পেয়ে কষ্ট পায়, কিন্তু পরে আরও ভালো সুযোগ পেয়ে বোঝে আল্লাহ কীভাবে উত্তম ফায়সালা করেন।",
+  "context_en": "Divine sovereignty over abrogation, fate, and the eternal Preserved Tablet.",
+  "context_bn": "বিধান রদবদল এবং লাওহে মাহফুজের মূল গ্রন্থের ওপর আল্লাহর সার্বভৌমত্ব।",
+  "themes": [
+    "decree",
+    "abrogation",
+    "preserved tablet",
+    "divine knowledge"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Mother of the Book"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Mother of the Book"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah abolishes or confirms what He wills, and with Him is the Mother of the Book.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

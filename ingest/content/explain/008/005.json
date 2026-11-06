@@ -1,0 +1,83 @@
+{
+  "id": "8:5",
+  "simple_en": "Your Lord led you out of your home in Medina with the truth to confront the threat. Yet some believers were reluctant because they did not expect a battle.",
+  "simple_bn": "যেমন আপনার রব আপনাকে সত্যের খাতিরে আপনার ঘর থেকে বের করেছিলেন, অথচ মুমিনদের একটি দল তা অপছন্দ করছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "خرج",
+      "lemma": "أَخْرَجَ",
+      "meaning_en": "brought you out",
+      "meaning_bn": "আপনাকে বের করেছিলেন",
+      "why_en": "Allah commanding the Prophet to march out toward Badr."
+    },
+    {
+      "pos": 5,
+      "root": "بيت",
+      "lemma": "بَيْت",
+      "meaning_en": "your home",
+      "meaning_bn": "আপনার ঘর",
+      "why_en": "The Prophet's residence in Medina from which he departed."
+    },
+    {
+      "pos": 11,
+      "root": "كره",
+      "lemma": "كارِه",
+      "meaning_en": "unwilling / reluctant",
+      "meaning_bn": "অপছন্দকারী / অনিচ্ছুক",
+      "why_en": "Hesitation of some companions facing an unexpected pitched battle."
+    }
+  ],
+  "lesson_en": "God often leads us through tough trials to bring about great good.",
+  "lesson_bn": "মানুষ যা অপছন্দ করে, অনেক সময় আল্লাহর হিকমতে তার মধ্যেই নিহিত থাকে চূড়ান্ত কল্যাণ।",
+  "real_life_en": "When life pushes you into tough challenges you would rather avoid, trust that God knows best. What feels difficult today may become your greatest victory tomorrow. Face hardships with courage.",
+  "real_life_bn": "জীবনের কঠিন পরীক্ষায় পিছিয়ে যাবেন না। আপাতদৃষ্টিতে কঠিন পথটিই হয়তো আল্লাহর রহমতে আপনার জীবনের শ্রেষ্ঠ সাফল্যের সোপান হতে পারে।",
+  "context_en": "Recalling the departure from Medina toward Badr, when believers were surprised to face the army instead of the caravan.",
+  "context_bn": "মদীনা থেকে বদরের উদ্দেশ্যে যাত্রার ঐতিহাসিক প্রেক্ষাপট এবং মুমিনদের প্রাথমিক মানসিক দ্বিধাদ্বন্দ্বের বিবরণ।",
+  "themes": [
+    "Battle of Badr",
+    "divine decree",
+    "trust in Allah",
+    "unseen wisdom"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "early Muslims of Medina"
+    ],
+    "places": [
+      "Medina",
+      "Badr"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [
+      "marching to Badr"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet's expedition to Badr was divinely ordained in truth, even though some believers felt hesitation about facing the Meccan army.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": "The departure of the Muslims from Medina toward Badr.",
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

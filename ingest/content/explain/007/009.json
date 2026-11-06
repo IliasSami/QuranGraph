@@ -1,0 +1,89 @@
+{
+ "id": "7:9",
+ "simple_en": "Those whose scales are light will have lost their very souls. They will face great ruin on that Day. Their bad deeds will outweigh any good they did. This terrible loss happens because they denied Allah's signs and rejected the clear truth during their lives in the world.",
+ "simple_bn": "যাদের নেক আমলের পাল্লা হালকা হবে, তারা নিজেদের আত্মাকে ধ্বংসের মুখে ঠেলে দিয়েছে। কিয়ামতের দিন তারা মহা ক্ষতির সম্মুখীন হবে। এই করুণ পরিণতি তাদের ভোগ করতে হবে, কারণ তারা দুনিয়ার জীবনে আল্লাহর আয়াতসমূহকে অস্বীকার করত এবং সত্যের প্রতি অন্যায় আচরণ করত।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "خفف",
+   "lemma": "خَفَّتْ",
+   "meaning_en": "are light",
+   "meaning_bn": "হালকা হবে",
+   "why_en": "Describes the scales devoid of good deeds due to disbelief or sin."
+  },
+  {
+   "pos": 6,
+   "root": "خسر",
+   "lemma": "خَسِرَ",
+   "meaning_en": "they lost",
+   "meaning_bn": "তারা ক্ষতিগ্রস্ত করেছে",
+   "why_en": "Highlights the ultimate ruin of those who waste their earthly lives."
+  },
+  {
+   "pos": 11,
+   "root": "ظلم",
+   "lemma": "ظَلَمَ",
+   "meaning_en": "they treated unjustly",
+   "meaning_bn": "তারা অন্যায় করত",
+   "why_en": "Explains that rejection and mockery of divine signs caused their doom."
+  }
+ ],
+ "lesson_en": "Rejecting Allah's guidance leads to the ultimate loss of your own soul.",
+ "lesson_bn": "আল্লাহর বাণীকে অবহেলা করা মানুষের সবচেয়ে বড় আত্মিক ক্ষতির কারণ।",
+ "real_life_en": "Protect yourself from spiritual bankruptcy. Avoid arrogance and do not brush aside religious advice. Fill your days with worship, honesty, and charity so that your record remains rich with good deeds.",
+ "real_life_bn": "পাপ কাজের মাধ্যমে নিজের পরকাল বরবাদ করবেন না। কুরআনের উপদেশ পেলে অহংকার না করে তা গ্রহণ করুন। নিয়মিত ইবাদত ও সৎ কাজের মাধ্যমে নিজের আমলনামা ভারী রাখুন।",
+ "context_en": "A severe warning to those who reject divine revelation, showing their spiritual loss when their deeds are weighed.",
+ "context_bn": "আল্লাহর আয়াত প্রত্যাখ্যানকারীদের সতর্ক করে জানানো হয়েছে যে, আমলের পাল্লা হালকা হওয়ার ফলে তারা চিরস্থায়ী ক্ষতির শিকার হবে।",
+ "themes": [
+  "spiritual loss",
+  "the Scales (Mizan)",
+  "disbelief",
+  "divine justice"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the Scales (Mizan)",
+   "Hellfire"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "weighing of deeds"
+  ],
+  "things": [
+   "signs of Allah"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Those whose scales are light will suffer total ruin because their evil deeds outbalance their good deeds.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Their eternal loss is the direct result of their unjust rejection of Allah's clear signs and messengers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

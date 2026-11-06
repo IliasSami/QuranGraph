@@ -1,0 +1,86 @@
+{
+  "id": "48:10",
+  "simple_en": "Those who gave their oath of loyalty to the Prophet Muhammad ﷺ at Hudaybiyyah were pledging to Allah. The Hand of Allah was above their hands, witnessing their true faith. Whoever breaks a solemn promise hurts only himself. But whoever stays true to his word to Allah will receive a great reward.",
+  "simple_bn": "হুদাইবিয়ায় যেসব সাহাবী নবী মুহাম্মাদ ﷺ-এর হাতে আনুগত্যের শপথ নিয়েছিলেন, তারা মূলত আল্লাহর সঙ্গেই অঙ্গীকার করেছিলেন। আল্লাহর হাত তাদের হাতের ওপর ছিল এবং তিনি তাদের বিশ্বস্ততার সাক্ষী। যে ব্যক্তি নিজের শপথ ভাঙে, সে নিজেরই ক্ষতি করে। আর যে আল্লাহর সাথে কৃত অঙ্গীকার পূরণ করে, তিনি তাকে মহাপুরস্কার দেবেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "بيع",
+      "lemma": "بايَعْ",
+      "meaning_en": "they pledge allegiance to you",
+      "meaning_bn": "তারা আপনার নিকট বাইয়াত গ্রহণ করে",
+      "why_en": "It refers to the solemn Pledge of Ridwan made to the Prophet ﷺ."
+    },
+    {
+      "pos": 7,
+      "root": "يدي",
+      "lemma": "يَد",
+      "meaning_en": "Hand (of Allah)",
+      "meaning_bn": "হাত",
+      "why_en": "An attribute of Allah affirmed as revealed, without comparing to creation."
+    },
+    {
+      "pos": 12,
+      "root": "نكث",
+      "lemma": "نَكَثَ",
+      "meaning_en": "broke / violated",
+      "meaning_bn": "ভঙ্গ করল",
+      "why_en": "It warns against breaking promises made to Allah and His Messenger."
+    },
+    {
+      "pos": 18,
+      "root": "وفي",
+      "lemma": "أَوْفَى",
+      "meaning_en": "fulfilled",
+      "meaning_bn": "পূর্ণ করল",
+      "why_en": "It praises those who remain true to their sacred word."
+    }
+  ],
+  "lesson_en": "Keeping our promises to Allah and to people brings huge rewards.",
+  "lesson_bn": "আল্লাহ ও মানুষের সাথে করা অঙ্গীকার রক্ষা করা জীবনে প্রভূত কল্যাণ বয়ে আনে।",
+  "real_life_en": "Treat every promise as a serious trust. If you agree to a deadline at work or give your word to a friend, keep it. Being faithful to your word shows true faith.",
+  "real_life_bn": "প্রতিটি ওয়াদাকে আমানত হিসেবে গণ্য করুন। কর্মক্ষেত্রে বা বন্ধুদের কোনো কথা দিলে তা নিষ্ঠার সাথে পালন করুন। কথা রাখা একজন খাঁটি মুমিনের অন্যতম বড় গুণ।",
+  "themes": [
+    "keeping promises",
+    "the believers' qualities",
+    "reward",
+    "Prophet Muhammad ﷺ",
+    "names and attributes of Allah"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [
+      "Pledge of Ridwan"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pledging allegiance to the Prophet ﷺ is a pledge to Allah; Allah's Hand is above their hands, and fulfilling this pledge brings a great reward.",
+      "claim_bn": "রাসূলের হাতে বাইয়াত গ্রহণ মূলত আল্লাহর সাথেই বাইয়াত; আল্লাহর হাত তাদের হাতের ওপর রয়েছে এবং অঙ্গীকার পূরণকারীদের জন্য মহা পুরস্কার রয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

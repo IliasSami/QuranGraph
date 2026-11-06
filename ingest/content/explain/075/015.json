@@ -1,0 +1,64 @@
+{
+ "id": "75:15",
+ "simple_en": "A person will try to present many excuses on that Day to defend himself. He may blame bad company or make false arguments to escape punishment. But none of these excuses will be accepted, because the truth will be clear for everyone to see.",
+ "simple_bn": "সেদিন মানুষ নিজেকে বাঁচাতে নানা রকম অজুহাত দাঁড় করানোর চেষ্টা করবে। শাস্তি এড়াতে সে হয়তো খারাপ সঙ্গীদের দোষ দেবে বা মনগড়া যুক্তি দেখাবে। কিন্তু কোনো অজুহাতই গ্রহণ করা হবে না, কারণ সমস্ত সত্য তখন সবার সামনে উন্মোচিত হয়ে যাবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "لقي",
+   "lemma": "أَلْقَى",
+   "meaning_en": "presents, offers",
+   "meaning_bn": "উপস্থাপন করে",
+   "why_en": "Offering excuses to defend oneself."
+  },
+  {
+   "pos": 3,
+   "root": "عذر",
+   "lemma": "مَعاذِير",
+   "meaning_en": "his excuses",
+   "meaning_bn": "তার অজুহাতসমূহ",
+   "why_en": "Plea and arguments presented to deny guilt."
+  }
+ ],
+ "lesson_en": "Excuses will not help on the Last Day, so own your mistakes today.",
+ "lesson_bn": "পরকালে মিথ্যা অজুহাত কোনো কাজে আসবে না, তাই এখনই নিজের কাজের দায়িত্ব নিন।",
+ "real_life_en": "When you make a mistake at home or work, do not make up excuses or blame others. Admit your fault right away, apologize sincerely, and work to fix it.",
+ "real_life_bn": "সংসারে বা কর্মক্ষেত্রে কোনো ভুল হলে মিথ্যা অজুহাত দেবেন না বা অন্যের ঘাড়ে দোষ চাপাবেন না। সাথে সাথে ভুল স্বীকার করে আন্তরিকভাবে ক্ষমা চান এবং তা শুধরে নিন।",
+ "themes": [
+  "judgment",
+  "honesty",
+  "ethics"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "day-of-judgment"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "day-of-judgment"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Even if the sinner puts forward excuses to defend himself, they will not benefit him or be accepted.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,87 @@
+{
+ "id": "6:2",
+ "simple_en": "Allah created your father Adam from clay, and from him human life began. He set a fixed time for your life on this earth. He also set another fixed time for the Day of Resurrection, known only to Him. In spite of these clear signs, some people still doubt that they will be raised back to life.",
+ "simple_bn": "আল্লাহ তোমাদের আদি পিতা আদমকে মাটি থেকে সৃষ্টি করেছেন। এরপর তিনি পার্থিব জীবনের জন্য একটি নির্দিষ্ট আয়ু নির্ধারণ করেছেন। এছাড়া পুনরুত্থানের জন্য আরেকটি সময় নির্ধারিত রয়েছে, যার জ্ঞান কেবল তাঁরই কাছে আছে। এতসব প্রমাণের পরও কিছু মানুষ পরকালে আবার জীবিত হওয়ার বিষয়ে সন্দেহ পোষণ করে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "He created you",
+   "meaning_bn": "তিনি তোমাদের সৃষ্টি করেছেন",
+   "why_en": "Points to Allah as the originator of human life."
+  },
+  {
+   "pos": 5,
+   "root": "طين",
+   "lemma": "طِين",
+   "meaning_en": "clay / mud",
+   "meaning_bn": "কাদামাটি",
+   "why_en": "Reminds mankind of their humble origin from earth."
+  },
+  {
+   "pos": 14,
+   "root": "مري",
+   "lemma": "يَمْتَرُ",
+   "meaning_en": "you doubt",
+   "meaning_bn": "তোমরা সন্দেহ পোষণ করো",
+   "why_en": "Rebukes those who doubt the resurrection after seeing proof of creation."
+  }
+ ],
+ "lesson_en": "Our time on earth is limited. Trust in the Day of Resurrection and prepare for it.",
+ "lesson_bn": "দুনিয়ার জীবন অত্যন্ত ক্ষণস্থায়ী। তাই পরকালের পুনরুত্থানকে নিশ্চিত বিশ্বাস করে নেক আমলের মাধ্যমে প্রস্তুতি নেওয়া দরকার।",
+ "real_life_en": "Remember your humble origin whenever pride enters your heart. Use your remaining days on earth wisely. Build good deeds before your appointed time arrives.",
+ "real_life_bn": "অহংকার দূর করতে নিজের মাটির সৃষ্টির কথা স্মরণ করুন। নির্ধারিত আয়ু শেষ হওয়ার আগেই সৎ কাজের মাধ্যমে আখেরাতের পাথেয় সংগ্রহ করুন।",
+ "context_en": "Reminds human beings of their origin from clay and the certainty of their appointed lifespans and resurrection.",
+ "context_bn": "মানুষের মাটির তৈরি সূচনা, পার্থিব আয়ুর সমাপ্তি এবং পরকালের নির্দিষ্ট পুনরুত্থানের কথা স্মরণ করিয়ে দেওয়া হয়েছে।",
+ "themes": [
+  "creation of man",
+  "lifespan",
+  "resurrection",
+  "doubt"
+ ],
+ "kinds": [
+  "belief",
+  "argument",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [
+   "Adam"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Day of Resurrection"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "clay"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah created humanity originating from clay and appointed a lifespan for their earthly life.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Allah appointed a second specific term for the resurrection known only to Him, yet disbelievers still doubt.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

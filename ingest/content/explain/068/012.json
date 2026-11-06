@@ -1,0 +1,67 @@
+{
+  "id": "68:12",
+  "simple_en": "Do not follow someone who prevents good, transgresses all limits of justice, and persists in deep sin. Such a person harms society by blocking charity and spreading wrong.",
+  "simple_bn": "যে ব্যক্তি ভালো কাজে বাধা দেয়, সীমালঙ্ঘনকারী এবং পাপাচারী, তার কথা শুনবেন না। এমন মানুষ সমাজে কল্যাণ বন্ধ করে অন্যায় ছড়িয়ে দেয়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "منع",
+      "lemma": "مَنّاع",
+      "meaning_en": "preventer of good",
+      "meaning_bn": "কল্যাণকাজে বাধাদানকারী",
+      "why_en": "Condemns those who actively stop charity and righteous deeds."
+    },
+    {
+      "pos": 3,
+      "root": "عدو",
+      "lemma": "مُعْتَد",
+      "meaning_en": "transgressor",
+      "meaning_bn": "সীমালঙ্ঘনকারী",
+      "why_en": "Points to individuals who overstep the limits of justice."
+    },
+    {
+      "pos": 4,
+      "root": "أثم",
+      "lemma": "أَثِيم",
+      "meaning_en": "persistent sinner",
+      "meaning_bn": "পাপাচারী",
+      "why_en": "Highlights a life steeped in continuous wrongdoing."
+    }
+  ],
+  "lesson_en": "Always support good deeds, and never stop others from helping the poor.",
+  "lesson_bn": "ভালো কাজে বাধা না দিয়ে সর্বদা জনকল্যাণ ও দানশীলতায় সহযোগিতা করা উচিত।",
+  "real_life_en": "When neighbors collect food for poor families, one man tells people not to give. A wise elder steps in and encourages everyone to share generously.",
+  "real_life_bn": "অন্যেরা যখন ভালো কাজ বা সমাজসেবায় এগিয়ে আসে, তখন তাদের উৎসাহ দেওয়া উচিত। ভালো কাজে বাধা দেওয়া অন্তরের মারাত্মক ব্যাধি।",
+  "themes": [
+    "charity",
+    "justice",
+    "ethics"
+  ],
+  "kinds": [
+    "prohibition",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The ayah condemns the one who blocks good, transgresses against others, and plunges into sin.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

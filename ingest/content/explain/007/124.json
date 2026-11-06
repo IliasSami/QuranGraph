@@ -1,0 +1,79 @@
+{
+  "id": "7:124",
+  "simple_en": "Pharaoh issued a brutal threat to the magicians. He vowed to cut off their hands and feet on opposite sides. Then he promised to crucify all of them publicly to terrify the crowd.",
+  "simple_bn": "ফির'আউন জাদুকরদের নির্মম শাস্তির হুমকি দিল। সে ঘোষণা করল যে, সে বিপরীত দিক থেকে তাদের হাত ও পা কেটে ফেলবে এবং তারপর তাদের সবাইকে শূলে চড়িয়ে মৃত্যুদণ্ড দেবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قطع",
+      "lemma": "قَطَّعَ",
+      "meaning_en": "I will surely cut off",
+      "meaning_bn": "আমি অবশ্যই কেটে ফেলব",
+      "why_en": "Expresses the tyrant's savage punishment against those who chose faith."
+    },
+    {
+      "pos": 5,
+      "root": "خلف",
+      "lemma": "خِلاف",
+      "meaning_en": "opposite sides",
+      "meaning_bn": "বিপরীত দিক থেকে",
+      "why_en": "Mutilating the right hand and left foot, designed for maximum cruelty."
+    },
+    {
+      "pos": 7,
+      "root": "صلب",
+      "lemma": "يُصَلَّبُ",
+      "meaning_en": "I will surely crucify you",
+      "meaning_bn": "আমি তোমাদের শূলে চড়াব",
+      "why_en": "Public execution on palm trunks meant to terrorize the onlookers."
+    }
+  ],
+  "lesson_en": "Worldly power may harm the body, but it cannot break a soul grounded in faith.",
+  "lesson_bn": "অত্যাচারীরা দেহের ওপর জুলুম চালাতে পারে, কিন্তু ঈমানদারদের দৃঢ় আত্মাকে নত করতে পারে না।",
+  "real_life_en": "Do not let bullies scare you away from what is right. Stand firm when people threaten you. Physical harm passes, but losing your values causes deep harm.",
+  "real_life_bn": "ভয়ভীতি বা চাপের মুখে কখনো নিজের আদর্শ বিসর্জন দেবেন না। অন্যায়ের কাছে মাথা নত না করে সত্যের পথে অবিচল থাকা শিখুন।",
+  "context_en": "Pharaoh announces the most severe punishment of his time to discourage anyone else from following Moses.",
+  "context_bn": "অন্য কেউ যেন মূসার পথে চলার সাহস না পায়, সেজন্য ফির'আউন জাদুকরদের প্রতি চরম নৃশংস শাস্তির ঘোষণা দেয়।",
+  "themes": [
+    "tyranny",
+    "persecution",
+    "steadfastness",
+    "punishment"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn"
+    ],
+    "nations": [
+      "magicians of Pharaoh"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Pharaoh threatens crucifixion"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Pharaoh threatened cross-amputation and public crucifixion against the magicians for accepting faith.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

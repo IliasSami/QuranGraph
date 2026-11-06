@@ -1,0 +1,63 @@
+{
+  "id": "26:96",
+  "simple_en": "Inside the fire of Hell, the sinners will argue with each other. They will blame their false gods and corrupt leaders for leading them to ruin.",
+  "simple_bn": "জাহান্নামের আগুনে প্রবেশ করে তারা একে অপরের সাথে চরম বিতর্কে লিপ্ত হবে। নিজেদের দুর্ভাগ্যের জন্য তারা পরস্পরকে দোষারোপ করতে থাকবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "they will say",
+      "meaning_bn": "তারা বলবে",
+      "why_en": "The confessions and disputes voiced in total despair inside Hell."
+    },
+    {
+      "pos": 4,
+      "root": "خصم",
+      "lemma": "اختَصَمَ",
+      "meaning_en": "disputing / arguing",
+      "meaning_bn": "বিতর্কে লিপ্ত হয়ে",
+      "why_en": "Bitter arguments breaking out among the damned as they blame one another."
+    }
+  ],
+  "lesson_en": "Friends in sin become enemies in Hell. Fighting inside the fire brings no relief.",
+  "lesson_bn": "পাপের সঙ্গীরা পরকালে একে অপরের চরম শত্রুতে পরিণত হয়। সেই সময়ের ঝগড়া ও বিবাদ কোনো কাজে আসবে না।",
+  "real_life_en": "Do not follow bad friends into sin. The very people who push you to do wrong today will turn against you tomorrow.",
+  "real_life_bn": "অসৎ বন্ধুদের প্ররোচনায় কোনো অন্যায় কাজে জড়াবেন না। যারা আজ পাপের উৎসাহ দেয় তারা বিপদের সময় আপনাকে একা ফেলে চলে যাবে।",
+  "themes": [
+    "regret",
+    "dispute-in-hell",
+    "blame"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hellfire"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Inside Hell, the disbelievers will argue bitterly with each other and with the objects of their worship.",
+      "claim_bn": "জাহান্নামের আগুনে নিমজ্জিত হয়ে মুশরিকরা নিজেদের বাতিল উপাস্যদের সাথে ঝগড়ায় লিপ্ত হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

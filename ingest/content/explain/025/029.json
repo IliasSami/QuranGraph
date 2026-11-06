@@ -1,0 +1,65 @@
+{
+  "id": "25:29",
+  "simple_en": "The sinner will say: he led me away from the reminder after it came to me. In the end, Satan always leaves man in the time of need.",
+  "simple_bn": "সে-ই তো আমার কাছে উপদেশ আসার পর আমাকে তা থেকে বিভ্রান্ত করেছিল। আর শয়তান তো মানুষের জন্য এক চরম বিশ্বাসঘাতক।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "ٱلذِّكْرِ",
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "the reminder",
+      "meaning_bn": "উপদেশ বা কুরআন",
+      "why_en": "The divine message guiding toward truth."
+    },
+    {
+      "pos": 10,
+      "arabic": "لِلْإِنسَٰنِ",
+      "root": "أنس",
+      "lemma": "إِنسان",
+      "meaning_en": "a deserter",
+      "meaning_bn": "চরম প্রতারক বা পরিত্যাগকারী",
+      "why_en": "Satan's betrayal of human followers when judgment comes."
+    }
+  ],
+  "lesson_en": "Satan tricks people with false promises and leaves them to face the consequences alone. Stay attached to God's remembrance.",
+  "lesson_bn": "শয়তান মানুষকে অন্যায়ের প্ররোচনা দিয়ে বিপদের মুহূর্তে একা ফেলে পালিয়ে যায়। সত্যের দিশা পেয়ে তা ত্যাগ করা চরম মূর্খতা।",
+  "real_life_en": "Hold fast to the Quran even when friends tempt you to ignore it. Never let bad company pull you away from the truth.",
+  "real_life_bn": "কুরআনের উপদেশকে শক্তভাবে আঁকড়ে ধরুন। বন্ধুদের প্ররোচনায় পড়ে কখনো আল্লাহর আদেশ অমান্য করবেন না।",
+  "themes": [
+    "satan",
+    "deception",
+    "quranic-reminder"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Satan"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Evil company misleads a person away from the reminder, and Satan always betrays mankind in the end.",
+      "claim_bn": "অসৎ বন্ধু মানুষকে কুরআনের উপদেশ থেকে দূরে সরিয়ে দেয় এবং শয়তান মানুষকে বিপদের সময় প্রতারিত করে ফেলে চলে যায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

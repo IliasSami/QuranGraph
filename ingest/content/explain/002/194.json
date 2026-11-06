@@ -1,0 +1,101 @@
+{
+ "id": "2:194",
+ "simple_en": "A sacred month is repaid by a sacred month, and violations of sacred boundaries require equal retribution. If someone attacks you or violates your rights, you are permitted to respond fairly, but only in equal measure. Never exceed the limits or seek revenge through injustice. Remain mindful of Allah at all times, and know that His help and support are with those who maintain taqwa.",
+ "simple_bn": "পবিত্র মাস পবিত্র মাসের বিনিময়ে, এবং সব পবিত্র বিষয়ের ক্ষেত্রে সমপরিমাণ বদলা নেওয়ার বিধান রয়েছে। অতএব কেউ যদি তোমাদের ওপর আক্রমণ বা সীমালঙ্ঘন করে, তবে তোমরাও তার ওপর ঠিক ততটুকুই আঘাত হানো যতটুকু সে তোমাদের ওপর করেছে। কোনো অবস্থাতেই বাড়াবাড়ি করো না। সর্বদা আল্লাহকে ভয় করে চলো এবং জেনে রেখো, নিশ্চয়ই আল্লাহ মুত্তাকীদের সঙ্গে আছেন।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "حرم",
+   "lemma": "حَرام",
+   "meaning_en": "the sacred",
+   "meaning_bn": "পবিত্র / সম্মানিত",
+   "why_en": "Points to the four sacred months in which fighting was historically prohibited unless attacked."
+  },
+  {
+   "pos": 6,
+   "root": "قصص",
+   "lemma": "قِصاص",
+   "meaning_en": "just retribution / equal compensation",
+   "meaning_bn": "কিসাস (সমপরিমাণ প্রতিফল)",
+   "why_en": "Establishes that breaches of sanctity and rights allow only proportional and balanced recompense."
+  },
+  {
+   "pos": 8,
+   "root": "عدو",
+   "lemma": "اعْتَدَى",
+   "meaning_en": "transgressed / attacked",
+   "meaning_bn": "সীমাবদ্ধতা লঙ্ঘন করল / আক্রমণ করল",
+   "why_en": "Defines the offense of unwarranted aggression that permits a measured response."
+  },
+  {
+   "pos": 22,
+   "root": "وقي",
+   "lemma": "مُتَّقي",
+   "meaning_en": "those who fear Allah (maintain piety)",
+   "meaning_bn": "মুত্তাকীগণ",
+   "why_en": "Reminds believers that divine support is reserved for those who restrain themselves within lawful limits."
+  }
+ ],
+ "lesson_en": "Respond to harm fairly without crossing lines, and always keep fear of Allah in your heart.",
+ "lesson_bn": "অন্যায়ের প্রতিকার কেবল সমপরিমাণে নেওয়া বৈধ, তবে প্রতিশোধের নামে বাড়াবাড়ি করা আল্লাহর কাছে সম্পূর্ণ নিষিদ্ধ।",
+ "real_life_en": "If someone insults you or causes damage to your belongings, you have the right to seek fair compensation or defend your name. You must not, however, insult their innocent family or destroy more of their property in return. True piety requires self-control even when hurt.",
+ "real_life_bn": "কেউ যদি আপনার কোনো সম্পদের ক্ষতি করে, তবে আইনিভাবে সমপরিমাণ ক্ষতিপূরণ চাওয়ার অধিকার আপনার আছে। কিন্তু রাগের মাথায় তার অন্য কোনো জিনিসের ক্ষতি করা বা তার পরিবারকে গালি দেওয়া কখনোই জায়েজ নয়। তাকওয়া বজায় রেখে নিজের ক্ষোভকে নিয়ন্ত্রণে রাখাই মুমিনের ভূষণ।",
+ "context_en": "Addresses the sanctity of sacred months, compensating for the pilgrimage blocked at Hudaybiyyah while setting rules of proportional response.",
+ "context_bn": "হুদায়বিয়ার সন্ধির প্রেক্ষাপটে পবিত্র মাস ও হারামের মর্যাদা স্পষ্ট করে সমপরিমাণ প্রতিফল ও আত্মনিয়ন্ত্রণের নির্দেশ দেওয়া হয়েছে।",
+ "themes": [
+  "justice",
+  "taqwa",
+  "peace",
+  "struggle in Allah's way",
+  "good character"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "ethics",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "Treaty of Hudaybiyyah"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The sacred month of the makeup Umrah (7 AH) compensated for the sacred month when believers were blocked at Hudaybiyyah (6 AH).",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Retaliation against aggression must be strictly equal and proportional, without any excess or injustice.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Allah commands mindfulness of Him (taqwa) and promises His aid to those who restrain themselves within His limits.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

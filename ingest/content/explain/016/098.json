@@ -1,0 +1,65 @@
+{
+  "id": "16:98",
+  "simple_en": "When you read the holy Quran, seek refuge in Allah from Satan, the rejected outcast. Clear your heart so divine words can enter with pure light.",
+  "simple_bn": "সুতরাং যখন আপনি পবিত্র কোরআন পাঠ করবেন, তখন বিতাড়িত অভিশপ্ত শয়তান থেকে আল্লাহর আশ্রয় প্রার্থনা করুন। এতে আপনার অন্তর সর্বদা সুরক্ষিত ও আলোকিত থাকবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "عوذ",
+      "lemma": "اسْتَعِذْ",
+      "meaning_en": "seek refuge",
+      "meaning_bn": "আশ্রয় প্রার্থনা করো",
+      "why_en": "Asking divine shielding from demonic whispers."
+    },
+    {
+      "pos": 7,
+      "root": "شطن",
+      "lemma": "شَيْطان",
+      "meaning_en": "Satan",
+      "meaning_bn": "শয়তান",
+      "why_en": "The arch-deceiver trying to block light."
+    }
+  ],
+  "lesson_en": "Ask God for safety when you read. It keeps your mind free from bad thoughts.",
+  "lesson_bn": "কোরআন তিলাওয়াতের আগে শয়তানের কুমন্ত্রণা থেকে আল্লাহর আশ্রয় চাওয়া অন্তরের একাগ্রতা বাড়ায়।",
+  "real_life_en": "Say the words of refuge before opening the Quran or starting any sacred task. Ask God to guard your mind from evil whispers.",
+  "real_life_bn": "কোরআন পড়ার আগে নিষ্ঠার সাথে বিতাড়িত শয়তান থেকে আল্লাহর আশ্রয় চান। এর মাধ্যমে অন্তরের বিভ্রান্তি দূর হয়।",
+  "themes": [
+    "quran",
+    "seeking-refuge",
+    "satan"
+  ],
+  "kinds": [
+    "command",
+    "worship"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Satan"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "When reciting the Quran, believers are commanded to seek refuge in Allah from the expelled Satan.",
+      "claim_bn": "কোরআন তিলাওয়াতের সময় বিতাড়িত শয়তান থেকে আল্লাহর কাছে আশ্রয় চাওয়ার নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

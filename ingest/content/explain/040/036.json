@@ -1,0 +1,72 @@
+{
+  "id": "40:36",
+  "simple_en": "Pharaoh ordered, O Haman, build for me a tall tower so that I may reach the pathways of the sky. He pretended that he could look up into the heavens to check on the Lord of Musa.",
+  "simple_bn": "ফিরআউন হুকুম দিল, হে হামান, আমার জন্য একটি সুউচ্চ প্রাসাদ বা টাওয়ার নির্মাণ করো, যাতে আমি আকাশে ওঠার পথসমূহে পৌঁছাতে পারি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": null,
+      "lemma": "هامان",
+      "meaning_en": "Haman",
+      "meaning_bn": "হামান",
+      "why_en": "Pharaoh's minister commissioned to undertake the building project."
+    },
+    {
+      "pos": 6,
+      "root": "صرح",
+      "lemma": "صَرْح",
+      "meaning_en": "a tower / lofty palace",
+      "meaning_bn": "সুউচ্চ প্রাসাদ বা স্তম্ভ",
+      "why_en": "A vain monument built out of sheer insolence and pride."
+    },
+    {
+      "pos": 9,
+      "root": "سبب",
+      "lemma": "سَبَب",
+      "meaning_en": "the ways / pathways",
+      "meaning_bn": "পথসমূহ",
+      "why_en": "Pharaoh's foolish claim of reaching the routes of the sky."
+    }
+  ],
+  "lesson_en": "Pride drives foolish leaders to waste wealth and make false claims.",
+  "lesson_bn": "চরম অহংকার মানুষকে হাস্যকর দাবি ও মূর্খতামূলক কাজে লিপ্ত করে।",
+  "real_life_en": "Do not let vanity lead you into wasteful projects. Spend your time, effort, and money on things that genuinely bring good to people.",
+  "real_life_bn": "নিজেকে বড় প্রমাণ করতে গিয়ে অযথা অর্থের অপচয় করবেন না। অর্থ ও সময় এমন কাজে ব্যয় করুন যা মানুষের প্রকৃত কল্যাণে আসে।",
+  "themes": [
+    "arrogance",
+    "past nations",
+    "stories of the prophets"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "pharaoh",
+      "haman"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh instructed Haman to build a high tower to reach the pathways of the heavens.",
+      "claim_bn": "ফিরআউন হামানকে আকাশে ওঠার জন্য একটি সুউচ্চ টাওয়ার নির্মাণের নির্দেশ দিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

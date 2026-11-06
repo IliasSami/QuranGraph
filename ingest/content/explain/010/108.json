@@ -1,0 +1,76 @@
+{
+  "id": "10:108",
+  "simple_en": "Say: O people, truth has come to you from your Lord. Whoever chooses guidance does so for their own good, and whoever goes astray does so to their own loss. I am not set over you as a keeper.",
+  "simple_bn": "বলুন: হে মানুষ, অবশ্যই তোমাদের রবের কাছ থেকে তোমাদের কাছে সত্য এসেছে। কাজেই যে সৎপথ অবলম্বন করবে, সে তো নিজের মঙ্গলের জন্যই তা করবে; আর যে বিপথগামী হবে, সে তো নিজের ধ্বংসের জন্যই তা করবে। আর আমি তোমাদের ওপর কোনো তত্ত্বাবধায়ক নই।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "The clear revelation and moral proof brought by the Prophet."
+    },
+    {
+      "pos": 10,
+      "root": "هدي",
+      "lemma": "اهْتَدَى",
+      "meaning_en": "is guided",
+      "meaning_bn": "সৎপথ অবলম্বন করে",
+      "why_en": "Choosing the beneficial path of faith and virtue."
+    },
+    {
+      "pos": 22,
+      "root": "وكل",
+      "lemma": "وَكِيل",
+      "meaning_en": "a keeper / trustee over you",
+      "meaning_bn": "তত্ত্বাবধায়ক / কর্মবিধায়ক",
+      "why_en": "Prophet responsible only for conveying, not coercing."
+    }
+  ],
+  "lesson_en": "Guidance is a gift for your own soul, and each person bears their own choice.",
+  "lesson_bn": "সৎপথ গ্রহণের সুফল নিজের জন্য এবং বিপথগামী হওয়ার ক্ষতিও সম্পূর্ণ নিজের ঘাড়ে বর্তায়।",
+  "real_life_en": "Take responsibility for your personal growth. Choose the path of honesty and kindness, knowing that the benefits are yours to reap.",
+  "real_life_bn": "নিজের ভালো-মন্দের দায়িত্ব নিজে গ্রহণ করুন; সৎভাবে জীবনযাপন করলে তার শুভ ফল আপনি নিজেই পাবেন।",
+  "themes": [
+    "individual accountability",
+    "truth from the Lord",
+    "prophetic role as deliverer"
+  ],
+  "kinds": [
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "all mankind"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [],
+    "things": [
+      "the truth (Quran)"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Prophet emphasizes that following guidance brings self-benefit while misguidance harms only the individual.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

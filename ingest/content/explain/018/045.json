@@ -1,0 +1,62 @@
+{
+  "id": "18:45",
+  "simple_en": "Give them the parable of the life of this world. It is like rain We send down from the sky. Green plants drink it and grow, but soon become dry stubble scattered by the wind.",
+  "simple_bn": "আপনি তাদের পার্থিব জীবনের উপমা দিন। এটি আকাশের বৃষ্টির মতো, যার সাহায্যে ভূমির উদ্ভিদ সতেজ হয়ে ওঠে, কিন্তু অচিরেই তা শুকিয়ে যায় যা বাতাস উড়িয়ে নিয়ে যায়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حيي",
+      "lemma": "حَياة",
+      "meaning_en": "life",
+      "meaning_bn": "জীবন",
+      "why_en": "Earthly existence characterized by fleeting beauty and rapid passing."
+    },
+    {
+      "pos": 15,
+      "root": "هشم",
+      "lemma": "هَشِيم",
+      "meaning_en": "dry stubble or chaff",
+      "meaning_bn": "শুকনো খড়কুটো",
+      "why_en": "Metaphor for the ephemeral nature of worldly glory."
+    }
+  ],
+  "lesson_en": "Worldly life is brief and fragile. Like spring flowers that turn into dry chaff by autumn, earthly glory fades away.",
+  "lesson_bn": "পার্থিব জীবন অত্যন্ত ক্ষণস্থায়ী। সবুজ মাঠ যেমন একসময় শুকিয়ে ধূলিসাৎ হয়, মানুষের পার্থিব জাঁকজমকও তেমনি মিলিয়ে যায়।",
+  "real_life_en": "Do not let youth, beauty, or wealth make you careless. Prepare for the eternal life today before your earthly days dry up.",
+  "real_life_bn": "সৌন্দর্য বা প্রাচুর্য দেখে গাফেল হবেন না। সময় থাকতে আখেরাতের জীবনের জন্য নেক আমলের প্রস্তুতি নিন।",
+  "themes": [
+    "parable-of-dunya",
+    "transience-of-life",
+    "rain-and-vegetation",
+    "impermanence"
+  ],
+  "kinds": [
+    "parable",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The life of this world is like rain that produces lush vegetation before turning into dry, wind-blown chaff.",
+      "claim_bn": "পার্থিব জীবন বৃষ্টির মতো যা উদ্ভিদ সতেজ করে, কিন্তু দ্রুত তা শুকনো খড়কুটোয় পরিণত হয়ে বাতাসে উড়ে যায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

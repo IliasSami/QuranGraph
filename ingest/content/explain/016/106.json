@@ -1,0 +1,63 @@
+{
+  "id": "16:106",
+  "simple_en": "Whoever rejects faith after believing will face the wrath of God. But a person forced by harm is spared if faith stays firm in his heart. Great punishment awaits those who choose disbelief freely.",
+  "simple_bn": "ঈমান আনার পর যে কেউ কুফরি করে সে আল্লাহর কঠিন ক্রোধের শিকার হয়। তবে যাকে বাধ্য করা হয় অথচ তার অন্তর ঈমানে অটল থাকে সে ক্ষমার যোগ্য, কিন্তু যে স্বেচ্ছায় কুফরি বেছে নেয় তার জন্য রয়েছে মহাশাস্তি।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "كره",
+      "lemma": "أُكْرِهَ",
+      "meaning_en": "is compelled",
+      "meaning_bn": "বাধ্য করা হয়",
+      "why_en": "Forced duress under torture excusing outward spoken disbelief."
+    },
+    {
+      "pos": 6,
+      "root": "أمن",
+      "lemma": "إِيمان",
+      "meaning_en": "faith",
+      "meaning_bn": "ঈমান",
+      "why_en": "Inner steadfast faith that remains uncompromised."
+    }
+  ],
+  "lesson_en": "Coerced words under torture do not break faith if the heart remains firm upon God.",
+  "lesson_bn": "চরম নির্যাতনের মুখে বাধ্য হয়ে কোনো কথা বললে ঈমান নষ্ট হয় না, যদি অন্তর সত্যে অবিচল থাকে।",
+  "real_life_en": "Guard the sincere faith in your heart. True belief resides in inner conviction, not mere forced words.",
+  "real_life_bn": "অন্তর দিয়ে ঈমানকে আঁকড়ে ধরুন। বিপদে পড়লে আল্লাহ মনের গোপন অবস্থা ও দৃঢ়তাকে সবচেয়ে ভালো বিচার করেন।",
+  "themes": [
+    "ikrah",
+    "apostasy",
+    "persecution"
+  ],
+  "kinds": [
+    "law",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Ammar ibn Yasir"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Whoever disbelieves after faith earns Allah's wrath, except one compelled under duress while his heart is firm in faith.",
+      "claim_bn": "জোরপূর্বক বাধ্য করা ব্যক্তি যার অন্তর ঈমানে দৃঢ় সে ছাড়া, যে কেউ স্বেচ্ছায় কুফরি গ্রহণ করলে তার ওপর আল্লাহর গযব নেমে আসে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

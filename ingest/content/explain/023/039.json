@@ -1,0 +1,61 @@
+{
+  "id": "23:39",
+  "simple_en": "The prophet prayed for divine help: My Lord, grant me victory. They have rejected me and called me a liar. He placed his whole trust in God.",
+  "simple_bn": "রাসুল বললেন, হে আমার প্রতিপালক, তারা আমাকে মিথ্যাবাদী বলেছে, তাই আপনি আমাকে সাহায্য করুন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نصر",
+      "lemma": "نَصَرَ",
+      "meaning_en": "help me",
+      "meaning_bn": "আমাকে সাহায্য করুন",
+      "why_en": "Pleading for divine intervention and victory against oppressors."
+    },
+    {
+      "pos": 5,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "they denied me",
+      "meaning_bn": "তারা আমাকে মিথ্যাবাদী বলেছে",
+      "why_en": "The persistent rejection faced by the prophet."
+    }
+  ],
+  "lesson_en": "When peaceful advice is rejected, turn to God for help. The prayer of an honest servant is never ignored.",
+  "lesson_bn": "চরম বিপদে ও বিরোধিতার মুখে একমাত্র আল্লাহর কাছেই সাহায্য চাইতে হয়। নিপীড়িত সত্যবাদীদের প্রার্থনা আল্লাহ ফিরিয়ে দেন না।",
+  "real_life_en": "Seek divine help when you feel misunderstood by those around you. Place your trust in God's perfect timing.",
+  "real_life_bn": "যখন মানুষের কাছ থেকে অন্যায় ব্যবহারের শিকার হবেন, তখন আল্লাহর দরবারে মোনাজাত করুন এবং সবর অবলম্বন করুন।",
+  "themes": [
+    "supplication",
+    "divine-help",
+    "reliance-on-allah"
+  ],
+  "kinds": [
+    "story",
+    "dua"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The prophet called upon God for divine support and victory after his people persistently rejected his message.",
+      "claim_bn": "জাতি কর্তৃক ক্রমাগত প্রত্যাখ্যাত হয়ে নবী আল্লাহর কাছে সাহায্য ও বিজয়ের জন্য প্রার্থনা করেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

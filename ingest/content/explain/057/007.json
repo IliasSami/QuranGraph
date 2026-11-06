@@ -1,0 +1,81 @@
+{
+  "id": "57:7",
+  "simple_en": "Believe with true faith in Allah and His Messenger. Spend in good ways from the wealth that Allah put in your hands as caretakers. Those among you who believe and give for Allah's sake will have a great reward in Paradise.",
+  "simple_bn": "আল্লাহ ও তাঁর রাসূলের প্রতি খাঁটি ঈমান আনুন এবং যে সম্পদে আল্লাহ আপনাদের প্রতিনিধি বানিয়েছেন তা থেকে সৎকাজে ব্যয় করুন। আপনাদের মধ্যে যারা ঈমান আনবে এবং আল্লাহর সন্তুষ্টির জন্য ব্যয় করবে, তাদের জন্য রয়েছে জান্নাতের মহা প্রতিদান।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "believe",
+      "meaning_bn": "ঈমান আনুন",
+      "why_en": "Calls people to accept faith in Allah and His Messenger wholeheartedly."
+    },
+    {
+      "pos": 4,
+      "root": "نفق",
+      "lemma": "أَنفَقَ",
+      "meaning_en": "and spend",
+      "meaning_bn": "এবং ব্যয় করুন",
+      "why_en": "Commands believers to give from their wealth in paths approved by Allah."
+    },
+    {
+      "pos": 7,
+      "root": "خلف",
+      "lemma": "مُسْتَخْلَف",
+      "meaning_en": "trustees",
+      "meaning_bn": "প্রতিনিধি",
+      "why_en": "Reminds humans that wealth is not their absolute possession but a trust from Allah."
+    }
+  ],
+  "lesson_en": "Treat your wealth as a trust from Allah and use it to help others.",
+  "lesson_bn": "নিজের ধনসম্পদকে আল্লাহর আমানত মনে করুন এবং তা দিয়ে মানুষের উপকারে এগিয়ে আসুন।",
+  "real_life_en": "A shop owner has a profitable month. He knows that his wealth comes from Allah and that he is only its caretaker. He sets aside a portion of his profit to buy food for struggling families in his neighbourhood.",
+  "real_life_bn": "এক ব্যবসায়ীর একটি মাসে বেশ ভালো লাভ হলো। তিনি মনে রাখেন যে এই সম্পদ আল্লাহর দেওয়া এক নিয়ামত এবং তিনি এর জিম্মাদার মাত্র। তাই তিনি লাভের একটি অংশ আলাদা করে এলাকার অভাবী পরিবারের জন্য খাদ্যসামগ্রী কিনে দেন।",
+  "themes": [
+    "faith",
+    "charity",
+    "wealth",
+    "trust in Allah"
+  ],
+  "kinds": [
+    "command",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are commanded to believe in Allah and His Messenger and spend from the wealth entrusted to them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Those who have faith and spend in Allah's cause will receive a great reward in Paradise.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,106 @@
+{
+ "id": "4:136",
+ "simple_en": "O believers, keep your faith firm in Allah and His Messenger. Believe in the Quran sent to the Prophet Muhammad ﷺ and in earlier scriptures. Whoever denies Allah, His angels, His books, His messengers, or the Last Day has lost the way. That person has fallen into deep error.",
+ "simple_bn": "হে মুমিনগণ! তোমরা আল্লাহ, তাঁর রাসূল এবং যে কিতাব তিনি তাঁর রাসূলের ওপর নাযিল করেছেন এবং পূর্বে প্রেরিত কিতাবসমূহের প্রতি ঈমানে অটল থাকো। আর যে ব্যক্তি আল্লাহ, তাঁর ফেরেশতাগণ, তাঁর কিতাবসমূহ, তাঁর রাসূলগণ এবং শেষ দিবসকে অস্বীকার করে, সে নিঃসন্দেহে সুদূর বিভ্রান্তিতে নিমজ্জিত হলো।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "أمن",
+   "lemma": "آمَنَ",
+   "meaning_en": "believe or remain firm in faith",
+   "meaning_bn": "ঈমান আনো বা অটল থাকো",
+   "why_en": "Urges believers to constantly renew, deepen, and preserve their faith."
+  },
+  {
+   "pos": 20,
+   "root": "ملك",
+   "lemma": "مَلَك",
+   "meaning_en": "His angels",
+   "meaning_bn": "তাঁর ফেরেশতাগণ",
+   "why_en": "One of the fundamental pillars of Islamic belief in the unseen."
+  },
+  {
+   "pos": 21,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "His books",
+   "meaning_bn": "তাঁর কিতাবসমূহ",
+   "why_en": "Includes all divine scriptures revealed to guide humanity across history."
+  },
+  {
+   "pos": 24,
+   "root": "أخر",
+   "lemma": "آخِر",
+   "meaning_en": "the Last Day",
+   "meaning_bn": "শেষ দিবস বা পরকাল",
+   "why_en": "The Day of Resurrection and Judgment where deeds will be weighed."
+  },
+  {
+   "pos": 28,
+   "root": "بعد",
+   "lemma": "بَعِيد",
+   "meaning_en": "far-reaching or deep",
+   "meaning_bn": "সুদূর",
+   "why_en": "Emphasizes how drastically a person strays when rejecting the core articles of faith."
+  }
+ ],
+ "lesson_en": "Hold firm to your faith and never doubt what Allah has revealed.",
+ "lesson_bn": "ঈমানের সবকয়টি স্তম্ভের প্রতি পূর্ণ বিশ্বাস রাখা অপরিহার্য; কোনো একটিকে অস্বীকার করলে সত্যের পথ থেকে বিচ্যুত হতে হয়।",
+ "real_life_en": "Take time to learn what your faith teaches. Reading the Quran and remembering the Last Day keeps your heart calm when doubts or distractions come your way.",
+ "real_life_bn": "অন্ধভাবে নয়, বরং কুরআন বুঝে পড়ে ও জেনে নিজের ঈমানকে মজবুত করুন। আখিরাত ও ফেরেশতাদের বিশ্বাসের অনুভূতি মানুষকে একাকী অবস্থাতেও পাপমুক্ত রাখে।",
+ "context_en": "After laying down moral and legal duties, the Quran reminds believers of the core beliefs that give life to all righteous actions.",
+ "context_bn": "সামাজিক ও নৈতিক নির্দেশনার পর সমস্ত সৎকাজের প্রাণশক্তি হিসেবে ঈমানের মৌলিক ভিত্তিগুলো পুনরুচ্চারণ করা হয়েছে।",
+ "themes": [
+  "faith",
+  "the Quran",
+  "angels",
+  "prophethood",
+  "the Last Day",
+  "revelation"
+ ],
+ "kinds": [
+  "command",
+  "belief",
+  "warning",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels"
+  ],
+  "names_of_allah": [],
+  "events": [
+   "the Last Day"
+  ],
+  "things": [
+   "the Quran",
+   "scriptures"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Believers are commanded to be steadfast in faith in Allah, His Messenger, the Quran, and prior scriptures.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Denying Allah, His angels, His scriptures, His messengers, or the Last Day is extreme misguidance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

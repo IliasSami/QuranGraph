@@ -1,0 +1,78 @@
+{
+  "id": "13:7",
+  "simple_en": "The deniers asked for unusual miracles. Allah told them that the Prophet is only a warner. Every nation in history had a guide to show the right way.",
+  "simple_bn": "কাফিররা প্রশ্ন করত কেন তাদের দাবি অনুযায়ী কোনো বিশেষ অলৌকিক নিদর্শন নাযিল হয় না। আল্লাহ জানিয়ে দিলেন যে নবীজী কেবল একজন সতর্ককারী। মানবজাতির প্রতিটি জাতির জন্যই আল্লাহ পথপ্রদর্শক পাঠিয়েছেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "disbelieved",
+      "meaning_bn": "কুফরি করেছে",
+      "why_en": "Denial of the clear truth despite evident proofs."
+    },
+    {
+      "pos": 7,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "a sign",
+      "meaning_bn": "নিদর্শন",
+      "why_en": "Demands for visual miracles on their own arbitrary terms."
+    },
+    {
+      "pos": 12,
+      "root": "نذر",
+      "lemma": "مُنذِر",
+      "meaning_en": "a warner",
+      "meaning_bn": "সতর্ককারী",
+      "why_en": "The fundamental mission of the Prophet to alert mankind."
+    },
+    {
+      "pos": 15,
+      "root": "هدي",
+      "lemma": "هاد",
+      "meaning_en": "a guide",
+      "meaning_bn": "পথপ্রদর্শক",
+      "why_en": "Every nation received messengers calling them to the straight path."
+    }
+  ],
+  "lesson_en": "Listen to the truth with care. Do not ask for strange signs.",
+  "lesson_bn": "অলৌকিক কিছু দেখার অপেক্ষা না করে সুস্পষ্ট বাণীর প্রতি মনোযোগ দেওয়া উচিত।",
+  "real_life_en": "A sick man takes his pills as told by his doctor. He does not ask for magic tricks. He trusts sound advice to get well.",
+  "real_life_bn": "এক রোগী চিকিৎসকের নিয়ম মেনে ওষুধ সেবন করে। সে অলৌকিক কোনো ঝাড়ফুঁকের অপেক্ষা না করে সঠিক পরামর্শ মেনে সুস্থ হয়ে ওঠে।",
+  "context_en": "Refocusing people on the prophetic purpose rather than stubborn demands for signs.",
+  "context_bn": "অলৌকিক চিহ্নের অপ্রয়োজনীয় দাবির বিপরীতে নবীদের মূল লক্ষ্য তুলে ধরা।",
+  "themes": [
+    "prophethood",
+    "warning",
+    "guidance"
+  ],
+  "kinds": [
+    "argument",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet is a warner, and every community has had a guide sent by Allah.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,66 @@
+{
+  "id": "20:67",
+  "simple_en": "Moses felt a brief fear in his heart before the people. He worried that this magic show might deceive the crowd and hide the clear truth from them.",
+  "simple_bn": "মূসা নিজের মনে সামান্য ভয়ের অনুভূতি পেলেন। তিনি আশঙ্কা করলেন এই জাদুকরি চাতুর্য হয়তো সাধারণ মানুষকে সত্য চেনা থেকে বিভ্রান্ত করবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "وجس",
+      "lemma": "أَوْجَسَ",
+      "meaning_en": "he felt within",
+      "meaning_bn": "সে মনে মনে অনুভব করল",
+      "why_en": "An internal, hidden human feeling of concern."
+    },
+    {
+      "pos": 4,
+      "root": "خوف",
+      "lemma": "خِيفَة",
+      "meaning_en": "apprehension or fear",
+      "meaning_bn": "ভয় বা শঙ্কা",
+      "why_en": "Concern for the public being misled by falsehood."
+    }
+  ],
+  "lesson_en": "Feeling natural concern during big trials is human. Prophets rely on God to overcome doubt.",
+  "lesson_bn": "কঠিন পরীক্ষার সময় মনে সামান্য শঙ্কা আসা স্বাভাবিক মানবিক স্বভাব, কিন্তু আল্লাহর ভরসাই তা দূর করে।",
+  "real_life_en": "Acknowledge your private anxieties without shame. Turn to God in prayer whenever fear attempts to shake your confidence.",
+  "real_life_bn": "মনে সংশয় বা ভয় এলে বিচলিত হবেন না। অবিলম্বে আল্লাহর দিকে ফিরে গিয়ে তাঁর কাছে সাহস ও আশ্রয় চান।",
+  "themes": [
+    "human-nature",
+    "overcoming-fear",
+    "musa"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Contest with Magicians"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses felt a brief internal apprehension when he saw the massive optical illusion.",
+      "claim_bn": "বিশাল জাদুর প্রভাব দেখে মূসা নিজের মনে কিছুটা ভয়ের উপস্থিতি অনুভব করেছিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

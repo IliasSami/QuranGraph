@@ -1,0 +1,90 @@
+{
+ "id": "3:197",
+ "simple_en": "Their worldly enjoyment is very brief and quickly fades away. After this short life ends, their final home will be Hell. That fire is a terrible resting place.",
+ "simple_bn": "তাদের এই পার্থিব সুখ-স্বাচ্ছন্দ্য অতি সামান্য সময়ের জন্য। এরপরে তাদের চিরস্থায়ী ঠিকানা হবে জাহান্নাম। আর বিশ্রামস্থল হিসেবে সেই আগুন কতই না নিকৃষ্ট!",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "متع",
+   "lemma": "مَتاع",
+   "meaning_en": "enjoyment / provision",
+   "meaning_bn": "ভোগ-সম্ভোগ",
+   "why_en": "Characterizes worldly wealth as mere transient goods rather than permanent wealth."
+  },
+  {
+   "pos": 2,
+   "root": "قلل",
+   "lemma": "قَلِيل",
+   "meaning_en": "brief / little",
+   "meaning_bn": "সামান্য বা ক্ষণস্থায়ী",
+   "why_en": "Stresses the trivial duration of earthly pleasure compared to the eternal life."
+  },
+  {
+   "pos": 4,
+   "root": "أوي",
+   "lemma": "مَأْوَى",
+   "meaning_en": "their destination / abode",
+   "meaning_bn": "তাদের বাসস্থান বা ঠিকানা",
+   "why_en": "Points to the inescapable end station where the defiant will dwell."
+  },
+  {
+   "pos": 7,
+   "root": "مهد",
+   "lemma": "مِهاد",
+   "meaning_en": "resting place / bed",
+   "meaning_bn": "বিশ্রামস্থল বা শয্যা",
+   "why_en": "An ironic contrast: instead of a restful bed, their dwelling will be searing fire."
+  }
+ ],
+ "lesson_en": "Worldly pleasures end quickly, but our deeds in the next life last forever.",
+ "lesson_bn": "পার্থিব ভোগ-বিলাস অতি দ্রুত শেষ হয়ে যায়, কিন্তু পরকালের ফলাফল অনন্তকাল থাকে।",
+ "real_life_en": "Never give up honesty or skip your prayers for quick money. Short-lived gains fade fast. The choices you make today will stay with you forever in the next life.",
+ "real_life_bn": "সাময়িক লাভ বা সুবিধার জন্য কখনোই নিজের সততা বিসর্জন দেবেন না বা নামাজ ছাড়বেন না। পার্থিব ক্ষণিকের আনন্দ দ্রুত ফুরিয়ে যায়, কিন্তু ভালো কাজের সওয়াব অনন্তকাল সঙ্গী হয়।",
+ "context_en": "Directly complements 3:196 by stating the bleak, eternal destination that follows the brief luxuries of disbelief.",
+ "context_bn": "১৯৬ নম্বর আয়াতের ধারাবাহিকতায় কাফিরদের পার্থিব প্রাচুর্যের ক্ষণস্থায়িত্ব এবং তাদের চূড়ান্ত ঠিকানা হিসেবে জাহান্নামের বর্ণনা দেওয়া হয়েছে।",
+ "themes": [
+  "this world",
+  "Hell",
+  "punishment",
+  "warning"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter",
+  "parable"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "All material pleasures enjoyed by the disbelievers are short-lived and will quickly come to an end.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Their final abode will be the Hellfire, which is the most miserable resting place.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

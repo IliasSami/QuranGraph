@@ -1,0 +1,64 @@
+{
+  "id": "20:51",
+  "simple_en": "Pharaoh asked about the old tribes of the past. He wanted to turn the talk away from his own sins and pull Moses into a useless debate.",
+  "simple_bn": "ফেরাউন আলোচনা অন্যদিকে ঘোরাতে চাইল: তাহলে পূর্ববর্তী প্রজন্মগুলোর অবস্থা কী? সে মূসাকে অতীত জাতিসমূহের বিতর্কিত তর্কে জড়াতে চেয়েছিল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "بول",
+      "lemma": "بَال",
+      "meaning_en": "condition or fate",
+      "meaning_bn": "অবস্থা বা পরিণতি",
+      "why_en": "Inquiring about the destiny of ancestors."
+    },
+    {
+      "pos": 4,
+      "root": "قرن",
+      "lemma": "قَرْن",
+      "meaning_en": "the generations",
+      "meaning_bn": "প্রজন্মসমূহ বা অতীত জাতি",
+      "why_en": "Past peoples who worshipped idols."
+    }
+  ],
+  "lesson_en": "Do not let people pull you off track. Keep your focus on the main truth.",
+  "lesson_bn": "সত্য বিরোধীরা অনেক সময় মূল বিষয় থেকে মনোযোগ সরাতে পূর্বপুরুষদের প্রসঙ্গ টেনে বিতর্ক সৃষ্টি করে।",
+  "real_life_en": "Stay calm in debates. When others try to change the topic, bring the talk back to what matters.",
+  "real_life_bn": "সত্য তুলে ধরার সময় মূল বিষয়ে স্থির থাকুন। মনোযোগ নষ্ট করার উদ্দেশ্যে উত্থাপিত অযথা তর্কে জড়াবেন না।",
+  "themes": [
+    "deflection",
+    "pharaoh",
+    "argumentation"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Fir'awn"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh questioned the status of earlier generations to divert from Moses' core message.",
+      "claim_bn": "ফেরাউন মূল আলোচনা থেকে দৃষ্টি সরাতে পূর্ববর্তী প্রজন্মের অবস্থা সম্পর্কে প্রশ্ন করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

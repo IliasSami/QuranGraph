@@ -1,0 +1,100 @@
+{
+  "id": "12:100",
+  "simple_en": "Yusuf placed his parents on his high seat. His parents and eleven brothers bowed to show him deep honor. Yusuf told his father that his boyhood dream had come true. He thanked Allah for saving him from prison and uniting his family after Satan made strife. Allah fulfills His plans with care and wisdom.",
+  "simple_bn": "ইউসুফ তাঁর পিতা-মাতাকে রাজকীয় আসনে বসালেন। তাঁর পিতা-মাতা ও এগারো ভাই শ্রদ্ধার সাথে তাঁর প্রতি অবনত হলেন, যা তাঁদের শরিয়তে বৈধ ছিল। ইউসুফ পিতাকে বললেন, এটিই শৈশবের সেই স্বপ্নের বাস্তব রূপ। তিনি আল্লাহর কৃতজ্ঞতা জানালেন যিনি তাঁকে কারাগার থেকে মুক্ত করেছেন এবং শয়তানের প্ররোচনার পর পরিবারকে একত্রিত করেছেন। তিনি বললেন, তাঁর রব সূক্ষ্ম উপায়ে যা চান তা বাস্তবায়ন করেন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "عرش",
+      "lemma": "عَرْش",
+      "meaning_en": "the throne",
+      "meaning_bn": "সিংহাসন",
+      "why_en": "The high seat of honor where Yusuf placed his parents."
+    },
+    {
+      "pos": 7,
+      "root": "سجد",
+      "lemma": "ساجِد",
+      "meaning_en": "prostrating",
+      "meaning_bn": "সিজদারত",
+      "why_en": "A bow of greeting and honor customary in their ancient legal dispensation."
+    },
+    {
+      "pos": 11,
+      "root": "أول",
+      "lemma": "تَأْوِيل",
+      "meaning_en": "interpretation or reality",
+      "meaning_bn": "বাস্তবায়ন",
+      "why_en": "The physical fulfillment of Yusuf's early vision of the sun, moon, and stars."
+    },
+    {
+      "pos": 34,
+      "root": "شطن",
+      "lemma": "شَيْطان",
+      "meaning_en": "Satan",
+      "meaning_bn": "শয়তান",
+      "why_en": "Yusuf magnanimously attributes the discord to Satan rather than his brothers."
+    },
+    {
+      "pos": 40,
+      "root": "لطف",
+      "lemma": "لَطِيف",
+      "meaning_en": "Subtle",
+      "meaning_bn": "সূক্ষ্মদর্শী",
+      "why_en": "Praises Allah whose gentle plans unfold through seemingly opposing events."
+    }
+  ],
+  "lesson_en": "Allah brings ease after hardship. His plans are full of care.",
+  "lesson_bn": "আল্লাহ চরম বিপদের মধ্য দিয়েও সূক্ষ্ম কৌশলে তাঁর বান্দার জন্য কল্যাণকর পরিণতি নির্ধারিত করেন।",
+  "real_life_en": "A doctor looks back at years of poverty and tough tests. He now runs a free clinic for the poor. He sees that each trial made him strong to serve others.",
+  "real_life_bn": "একজন চিকিৎসক পেছনের দারিদ্র্য ও ব্যর্থতার দিনগুলোর কথা স্মরণ করেন। বর্তমানে নিজের দাতব্য ক্লিনিকে অসহায় মানুষের সেবা করতে গিয়ে তিনি বুঝতে পারেন প্রতিটি কঠিন অভিজ্ঞতাই তাঁকে গড়ে তুলেছে।",
+  "context_en": "Yusuf celebrated the fulfillment of his dream as his family gathered before him in Egypt.",
+  "context_bn": "মিসরে পুরো পরিবার একত্রিত হওয়ার মাধ্যমে ইউসুফের শৈশবের স্বপ্ন বাস্তবে পরিণত হলো।",
+  "themes": [
+    "fulfillment of dreams",
+    "gratitude",
+    "divine subtlety"
+  ],
+  "kinds": [
+    "story",
+    "praise"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "Yaqub",
+      "brothers of Yusuf"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [
+      "Satan"
+    ],
+    "names_of_allah": [
+      "al-Latif",
+      "al-Alim",
+      "al-Hakim"
+    ],
+    "events": [],
+    "things": [
+      "throne"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf's dream was fulfilled as his parents and brothers honored him on the throne.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

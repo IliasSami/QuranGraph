@@ -1,0 +1,75 @@
+{
+  "id": "40:11",
+  "simple_en": "The dwellers of the Fire will say in desperation, Our Lord, You caused us to be lifeless twice and gave us life twice. Now we confess our sins and shortcomings. Is there any way for us to leave this punishment and return to the world to do good?",
+  "simple_bn": "জাহান্নামীরা আক্ষেপ করে বলবে, হে আমাদের রব, আপনি আমাদের দুইবার নির্জীব রেখেছিলেন এবং দুইবার জীবন দান করেছেন। আজ আমরা নিজেদের অপরাধ স্বীকার করছি। এখন কি এই শাস্তি থেকে বের হওয়ার কোনো পথ আছে?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "موت",
+      "lemma": "أَماتَ",
+      "meaning_en": "You caused us to die",
+      "meaning_bn": "আপনি আমাদের নির্জীব করেছেন",
+      "why_en": "Refers to before creation as non-existence, and physical death at the end of life."
+    },
+    {
+      "pos": 6,
+      "root": "ثني",
+      "lemma": "اثْنَتَيْن",
+      "meaning_en": "and You gave us life",
+      "meaning_bn": "এবং জীবন দান করেছেন",
+      "why_en": "Points to being born into this world and then resurrected for judgment."
+    },
+    {
+      "pos": 9,
+      "root": null,
+      "lemma": "هَل",
+      "meaning_en": "we have confessed",
+      "meaning_bn": "আমরা স্বীকার করেছি",
+      "why_en": "Their admission of guilt comes too late to change their fate."
+    }
+  ],
+  "lesson_en": "Acknowledging your faults matters now, while time remains to repent and reform.",
+  "lesson_bn": "সময় থাকতে নিজের ভুল স্বীকার করে সংশোধন হওয়াই বুদ্ধিমানের কাজ।",
+  "real_life_en": "When someone points out a mistake you made, do not argue back in pride. Admit your fault with a calm heart and make things right while you still have time.",
+  "real_life_bn": "নিজের কোনো ত্রুটি ধরা পড়লে জেদ না করে বিনয়ের সাথে ভুল স্বীকার করুন। সময় থাকতেই ক্ষতিপূরণ করা পরকালীন চরম লজ্জা থেকে বাঁচায়।",
+  "themes": [
+    "resurrection",
+    "repentance",
+    "judgment",
+    "Hell"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Inmates of Hell confess their sins after experiencing two deaths and two lives, asking if there is a way out.",
+      "claim_bn": "জাহান্নামের অধিবাসীরা দুইবার মৃত্যু ও দুইবার জীবনের বাস্তবতা মেনে নিয়ে নিজেদের পাপ স্বীকার করবে এবং মুক্তির পথ খুঁজবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

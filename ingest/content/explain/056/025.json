@@ -1,0 +1,61 @@
+{
+  "id": "56:25",
+  "simple_en": "In Paradise, they will hear no idle chatter, foolish speech, or harmful words. No one will speak a lie, curse, or slander another person. The environment will be completely clean and peaceful.",
+  "simple_bn": "জান্নাতে তারা কোনো অনর্থক কথা, অশ্লীল বাক্য বা পাপের আলোচনা শুনবেন না। সেখানে কেউ মিথ্যা বলবে না, গালি দেবে না বা পরনিন্দা করবে না। জান্নাতের সমস্ত পরিবেশ থাকবে সম্পূর্ণ পবিত্র ও শান্তিময়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "لغو",
+      "lemma": "لَغْو",
+      "meaning_en": "idle speech",
+      "meaning_bn": "অনর্থক কথা",
+      "why_en": "Emphasizes the complete absence of useless or foolish words in Paradise."
+    },
+    {
+      "pos": 6,
+      "root": "أثم",
+      "lemma": "تَأْثِيم",
+      "meaning_en": "sinful speech",
+      "meaning_bn": "পাপের কথা",
+      "why_en": "Guarantees that no talk causing guilt, offense, or sin will ever be heard."
+    }
+  ],
+  "lesson_en": "Guard your tongue today so that your words bring peace instead of harm.",
+  "lesson_bn": "জিহ্বাকে সংযত রাখুন যাতে আপনার কথা অন্যের জন্য ক্ষতির কারণ না হয়।",
+  "real_life_en": "When coworkers begin gossiping about a colleague behind his back, an honest employee leaves the room quietly. He refuses to take part in slander. He keeps his ears clean from foul speech.",
+  "real_life_bn": "সহকর্মীরা যখন একজনের অনুপস্থিতিতে তার গীবত শুরু করে, তখন এক ব্যক্তি সেখান থেকে উঠে যায়। সে পরনিন্দায় অংশ নিতে অস্বীকৃতি জানায় এবং নিজের কানকে পাপ থেকে দূরে রাখে।",
+  "themes": [
+    "Paradise",
+    "good character",
+    "peace"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The dwellers of Paradise will hear neither vain speech nor any words incurring sin.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

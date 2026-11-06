@@ -1,0 +1,73 @@
+{
+  "id": "28:36",
+  "simple_en": "Moses brought clear signs from God to Pharaoh and his chiefs. But they rejected the truth with pride. They claimed the signs were only fake magic that their ancestors had never heard of.",
+  "simple_bn": "মুসা যখন তাদের কাছে আমাদের সুস্পষ্ট নিদর্শনাবলী নিয়ে উপস্থিত হলো, তখন তারা বলল, এটি তো এক মনগড়া জাদু ছাড়া আর কিছুই নয়। আমরা আমাদের পূর্বপুরুষদের যুগেও এমন কথা শুনিনি।",
+  "key_words": [
+    {
+      "pos": 5,
+      "arabic": "بَيِّنَٰتٍ",
+      "root": "بين",
+      "lemma": "بَيِّنَة",
+      "meaning_en": "clear signs",
+      "meaning_bn": "সুস্পষ্ট নিদর্শনসমূহ",
+      "why_en": "Undeniable miracles demonstrating divine truth."
+    },
+    {
+      "pos": 10,
+      "arabic": "سِحْرٌ",
+      "root": "سحر",
+      "lemma": "سِحْر",
+      "meaning_en": "magic",
+      "meaning_bn": "জাদু",
+      "why_en": "The false dismissal used by arrogant disbelievers."
+    }
+  ],
+  "lesson_en": "Arrogance drives people to reject clear truth. Deniers often hide behind traditions of their ancestors.",
+  "lesson_bn": "অহংকারী মানুষ সত্য প্রমাণকে জাদু বা বানোয়াট বলে উড়িয়ে দেওয়ার চেষ্টা করে। অন্ধ ঐতিহ্যপ্রীতি সত্যের প্রতিবন্ধক।",
+  "real_life_en": "Do not dismiss the truth simply because it challenges old habits. Accept sound evidence with an open mind.",
+  "real_life_bn": "কেবল ঐতিহ্যের দোহাই দিয়ে স্পষ্ট সত্য প্রত্যাখ্যান করবেন না। সত্যের অকাট্য দলিল সামনে এলে তা মেনে নিন।",
+  "themes": [
+    "musa",
+    "pharaoh",
+    "magic",
+    "denial"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "signs"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh's people dismissed the clear divine signs as fabricated magic, citing ancestral traditions.",
+      "claim_bn": "মিশরীয়রা মুসার স্পষ্ট নিদর্শনগুলোকে বানোয়াট জাদু বলে প্রত্যাখ্যান করে এবং পূর্বপুরুষের দোহাই দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "62:5",
+  "simple_en": "Those who were given the Torah but failed to live by it are like a donkey carrying heavy books. A donkey feels only the heavy load, but it gains no benefit from the knowledge inside. How terrible is this example for people who reject Allah's signs. Allah does not guide wrongdoers.",
+  "simple_bn": "যাদের ওপর তাওরাতের দায়িত্ব দেওয়া হয়েছিল কিন্তু তারা তা পালন করেনি, তাদের উদাহরণ হলো ওই গাধার মতো যে পিঠে বইয়ের বোঝা বহন করে। সেই ভারবাহী প্রাণী যেমন কিতাবের জ্ঞান থেকে কোনো উপকার পায় না, তেমনই তারাও উপকৃত হয়নি। আল্লাহর আয়াত প্রত্যাখ্যানকারী সম্প্রদায়ের উদাহরণ কতই না নিকৃষ্ট। আল্লাহ অবিচারকারীদের সৎপথ দেখান না।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "حمر",
+      "lemma": "حِمار",
+      "meaning_en": "the donkey",
+      "meaning_bn": "গাধা",
+      "why_en": "A vivid parable for someone who carries knowledge without understanding or acting on it."
+    },
+    {
+      "pos": 11,
+      "root": "سفر",
+      "lemma": "أَسْفار",
+      "meaning_en": "heavy books of knowledge",
+      "meaning_bn": "বড় বড় কিতাব বা গ্রন্থসমূহ",
+      "why_en": "Refers to sacred texts containing laws and moral guidance."
+    },
+    {
+      "pos": 16,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "they denied and rejected",
+      "meaning_bn": "তারা অস্বীকার করল ও মিথ্যাজ্ঞান করল",
+      "why_en": "Points to rejecting divine signs after receiving them."
+    }
+  ],
+  "lesson_en": "Knowledge is useless if you do not practice it. True faith means living by what you learn.",
+  "lesson_bn": "জ্ঞান অর্জন করার পর সেই অনুযায়ী আমল না করলে সেই জ্ঞানের কোনো মূল্য থাকে না, বরং তা ভারী বোঝার মতো হয়ে দাঁড়ায়।",
+  "real_life_en": "A person buys ten medical books about healthy food, but eats only junk food and never exercises. The books on his shelf cannot make him healthy unless he changes his habits. In the same way, reading scripture requires acting on its teachings.",
+  "real_life_bn": "কোনো রোগী চিকিৎসার বই কিনে ঘরে জমিয়ে রাখলে তার রোগ সারে না, ওষুধ সেবন করলেই সুস্থ হওয়া যায়। একইভাবে ধর্মীয় কিতাবের মূল উদ্দেশ্য হলো তা জীবনে বাস্তবায়ন করা।",
+  "themes": [
+    "parable of the donkey carrying books",
+    "neglect of scripture",
+    "rejection of divine signs"
+  ],
+  "kinds": [
+    "parable",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "people-of-the-book"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those entrusted with the Torah who failed to act on it are likened to a donkey carrying heavy books, and Allah does not guide people who deny His verses.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

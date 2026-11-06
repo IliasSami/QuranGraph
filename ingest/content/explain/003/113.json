@@ -1,0 +1,93 @@
+{
+ "id": "3:113",
+ "simple_en": "They are not all the same. Among the People of the Book is an upright and righteous community who stand firmly upon the truth. During the quiet hours of the night, they recite the verses of Allah and fall prostrate in humble worship. Their sincere devotion distinguishes them from those who turned away.",
+ "simple_bn": "তারা সবাই একরকম নয়। কিতাবধারীদের মধ্যে একটি ন্যায়নিষ্ঠ দল রয়েছে, যারা সত্যের ওপর অবিচল। তারা রাতের নিস্তব্ধ প্রহরে আল্লাহর আয়াত তিলাওয়াত করে এবং বিনীতভাবে সিজদায় অবনত হয়। এই আন্তরিক ইবাদতই তাদের অন্য সবার থেকে আলাদা করে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سوي",
+   "lemma": "سَواء",
+   "meaning_en": "equal / alike",
+   "meaning_bn": "সমান",
+   "why_en": "Rejects broad, unfair generalizations by affirming moral distinctions among people."
+  },
+  {
+   "pos": 7,
+   "root": "قوم",
+   "lemma": "قائِمَة",
+   "meaning_en": "upright / steadfast",
+   "meaning_bn": "অবিচল বা দণ্ডায়মান",
+   "why_en": "Describes those who stand firmly upon truth, justice, and devoted worship."
+  },
+  {
+   "pos": 11,
+   "root": "أني",
+   "lemma": "آناء",
+   "meaning_en": "hours / periods",
+   "meaning_bn": "প্রহরগুলোতে",
+   "why_en": "Specifies the quiet hours of the night chosen for deep prayer and communion with Allah."
+  },
+  {
+   "pos": 14,
+   "root": "سجد",
+   "lemma": "سَجَدَ",
+   "meaning_en": "they prostrate",
+   "meaning_bn": "সিজদা করে",
+   "why_en": "Shows ultimate humility and devotion in night prayer."
+  }
+ ],
+ "lesson_en": "Be fair and see the good in others. Sincere prayer in the quiet night shows deep faith.",
+ "lesson_bn": "সবার ক্ষেত্রে ন্যায়পরায়ণ হোন এবং অন্যের ভালো গুণগুলো দেখুন। রাতের নিস্তব্ধ প্রহরে আন্তরিক ইবাদত গভীর ঈমানের পরিচয় দেয়।",
+ "real_life_en": "Do not judge an entire group or community by the bad behavior of some individuals. Make time at night for quiet prayer and reading the Quran, where sincere worship builds your bond with Allah.",
+ "real_life_bn": "কয়েকজনের ভুলের কারণে কোনো জাতি বা গোষ্ঠীকে ঢালাওভাবে খারাপ মনে করবেন না। রাতের কিছু সময় নিরিবিলিতে কুরআন তিলাওয়াত ও প্রার্থনায় ব্যয় করুন, যা আল্লাহর সান্নিধ্য পেতে সাহায্য করে।",
+ "context_en": "Offers a balanced, nuanced evaluation of the People of the Scripture after the stern critique in 3:112, praising their upright members.",
+ "context_bn": "১১২ নম্বর আয়াতে কঠোর সমালোচনার পর এই আয়াতে ন্যায়বিচারের দৃষ্টান্ত স্থাপন করে আহলে কিতাবের নেককার দলের প্রশংসা করা হয়েছে।",
+ "themes": [
+  "prayer",
+  "worship",
+  "justice",
+  "the believers' qualities"
+ ],
+ "kinds": [
+  "praise",
+  "description-of-allah",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "People of the Book"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The People of the Scripture are not all alike; among them is an upright group that adheres to the truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "This righteous group recites the verses of Allah during the hours of the night while bowing and prostrating in worship.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

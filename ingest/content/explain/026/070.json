@@ -1,0 +1,64 @@
+{
+  "id": "26:70",
+  "simple_en": "Ibrahim asked his father and his people what they were worshipping. He did not ask because he was in doubt. He wanted them to see that their carved idols had no power.",
+  "simple_bn": "ইব্রাহীম তাঁর পিতা ও সম্প্রদায়কে জিজ্ঞেস করলেন যে তারা কিসের পূজা করছে। তিনি তাদের বিবেককে জাগ্রত করতে এবং মূর্তিপূজার অসারতা বোঝাতে এই প্রশ্ন করেছিলেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أبو",
+      "lemma": "أَب",
+      "meaning_en": "his father",
+      "meaning_bn": "তাঁর পিতা",
+      "why_en": "Ibrahim addressed his father Azar directly to turn him from idol worship."
+    },
+    {
+      "pos": 6,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "you worship",
+      "meaning_bn": "তোমরা উপাসনা করো",
+      "why_en": "The question challenged the fundamental premise of their false devotions."
+    }
+  ],
+  "lesson_en": "Good questions make people think. Calm words help others see the truth.",
+  "lesson_bn": "সুন্দর প্রশ্ন মানুষের চিন্তাশক্তিকে নাড়া দেয়। যুক্তি ও প্রজ্ঞার মাধ্যমে অন্যকে নিজের ভুল বুঝতে সাহায্য করা উচিত।",
+  "real_life_en": "When you talk about faith, ask gentle questions. Do not argue in anger. Help people think for themselves with kind words.",
+  "real_life_bn": "কারো সাথে কোনো বিষয়ে মতভেদ হলে আক্রমণাত্মক না হয়ে শান্তভাবে প্রশ্ন করুন। মানুষকে চিন্তাভাবনা করার সুযোগ দিলে সত্য অনুধাবন করা সহজ হয়।",
+  "themes": [
+    "idolatry",
+    "reasoning",
+    "dialogue"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim",
+      "azar"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Ibrahim questioned his father and his people about the false idols they chose to worship instead of God.",
+      "claim_bn": "ইব্রাহীম তাঁর পিতা ও জাতিকে জিজ্ঞেস করলেন যে তারা আল্লাহ ছাড়া কিসের পূজা করছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

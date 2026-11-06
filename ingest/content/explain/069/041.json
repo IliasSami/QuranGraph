@@ -1,0 +1,61 @@
+{
+  "id": "69:41",
+  "simple_en": "And it is not the word of a poet; little is it that you believe. The Quran is divine truth, not lines of poetry made up by human imagination.",
+  "simple_bn": "আর এটি কোনো কবির কথা নয়; তোমরা খুব সামান্যই বিশ্বাস করো। কুরআন কোনো মানুষের বানানো ছন্দময় কবিতা নয়, বরং তা জীবন বদলে দেওয়া ঐশী হেদায়েত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "شعر",
+      "lemma": "شاعِر",
+      "meaning_en": "a poet",
+      "meaning_bn": "কবি",
+      "why_en": "Refutes the false claim of disbelievers that the Quran was poetry."
+    },
+    {
+      "pos": 7,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "you believe",
+      "meaning_bn": "তোমরা বিশ্বাস করো",
+      "why_en": "Reproaches those who refuse to accept obvious guidance."
+    }
+  ],
+  "lesson_en": "Divine truth is far above human poetry and passing feelings.",
+  "lesson_bn": "কুরআনের বাণী মানুষের রচিত কবিতার চেয়ে অনেক ঊর্ধ্বে এবং তা এক চিরন্তন সত্য।",
+  "real_life_en": "Poetry often plays with fantasies and moods that change every day. The Quran gives us timeless truth and moral guidance that help us live clean, honest lives.",
+  "real_life_bn": "কবিতা মানুষের কল্পনা ও আবেগ নিয়ে খেলা করে। কিন্তু কুরআন মানুষকে সত্যের পথে পরিচালিত করে এবং দায়িত্বশীল জীবন গড়ার দিকনির্দেশনা দেয়।",
+  "themes": [
+    "not poetry",
+    "divine origin",
+    "faith"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Quran is not poetry as the disbelievers claimed, yet few of them accept faith.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

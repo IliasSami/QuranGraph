@@ -1,0 +1,61 @@
+{
+  "id": "17:28",
+  "simple_en": "If you must turn away from someone in need because you have nothing to give, speak kind and gentle words. Promise to help them when God provides for you.",
+  "simple_bn": "যদি নিজের অসচ্ছলতার কারণে তাদের সাহায্য করতে না পেরে মুখ ফিরিয়ে নিতে হয়, তবে তাদের সাথে অন্তত নম্র ও সান্ত্বনামূলক ভাষায় কথা বলো।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عرض",
+      "lemma": "أَعْرَضَ",
+      "meaning_en": "you turn away",
+      "meaning_bn": "তুমি মুখ ফিরিয়ে নাও",
+      "why_en": "Inability to grant immediate material aid."
+    },
+    {
+      "pos": 5,
+      "root": "رحم",
+      "lemma": "رَحْمَة",
+      "meaning_en": "mercy and provision",
+      "meaning_bn": "রহমত বা জীবিকা",
+      "why_en": "Awaiting future provision from God."
+    }
+  ],
+  "lesson_en": "When you lack money to give, offer kind words. Gentle speech softens hearts and comforts the needy.",
+  "lesson_bn": "কাউকে আর্থিক সাহায্য দিতে না পারলেও তার সাথে সুন্দর ও মিষ্টি ভাষায় কথা বলুন। ভালো কথা অন্তরে শান্তি দেয়।",
+  "real_life_en": "If someone in need asks for help and you have no coins to spare, smile kindly. Wish them well instead of walking away in silence.",
+  "real_life_bn": "কাউকে কিছু দেওয়ার সামর্থ্য না থাকলে বিরক্ত না হয়ে বিনয়ের সাথে নিজের অপারগতা জানান এবং তার জন্য দোয়া করুন।",
+  "themes": [
+    "kindness",
+    "gentle-speech",
+    "charity"
+  ],
+  "kinds": [
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "If turning away from those in need due to lack of means while awaiting Allah's provision, speak gentle words to them.",
+      "claim_bn": "অর্থ না থাকার কারণে প্রার্থনাকারীকে সাহায্য করতে না পারলে তার সাথে উত্তম ও সান্ত্বনাপূর্ণ ভাষায় কথা বলার আদেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

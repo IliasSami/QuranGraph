@@ -1,0 +1,62 @@
+{
+  "id": "37:169",
+  "simple_en": "They claimed that if they received a book, they would become the most devoted servants of Allah. They boasted that their worship would be pure, sincere, and free from hypocrisy. But their actions later showed that these words were completely empty.",
+  "simple_bn": "তারা দাবি করত যে কিতাব পেলে তারা আল্লাহর সবচেয়ে খাঁটি ও একনিষ্ঠ বান্দায় পরিণত হতো। তারা অহংকার করে বলত যে তাদের আনুগত্য হবে নিখাদ। কিন্তু বাস্তবে যখন কিতাব এলো, তখন তারা সম্পূর্ণ বিপরীত আচরণ করল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عبد",
+      "lemma": "عَبْد",
+      "meaning_en": "servants",
+      "meaning_bn": "বান্দাগণ",
+      "why_en": "The status of devoted servitude they claimed they would eagerly uphold."
+    },
+    {
+      "pos": 4,
+      "root": "خلص",
+      "lemma": "مُخْلَص",
+      "meaning_en": "sincere / chosen",
+      "meaning_bn": "একনিষ্ঠ বা খাঁটি",
+      "why_en": "The quality of pure faith they boasted they would exhibit."
+    }
+  ],
+  "lesson_en": "Prove your faith through good deeds, not proud talk.",
+  "lesson_bn": "বড় বড় বুলি না আউড়ে আমল ও সৎকাজের মাধ্যমে আন্তরিকতা প্রমাণ করতে হয়।",
+  "real_life_en": "Avoid boasting about how loyal or faithful you will be in the future. Let your daily honesty and quiet prayers demonstrate your genuine sincerity.",
+  "real_life_bn": "ভবিষ্যতে বড় কিছু করব বলে বড়াই করবেন না। প্রতিদিনের ছোট ছোট সৎকাজ ও নিয়মিত ইবাদতের মাধ্যমেই নিজের নিষ্ঠা প্রকাশ করুন।",
+  "themes": [
+    "pretense",
+    "sincerity",
+    "false oaths"
+  ],
+  "kinds": [
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They claimed they would be Allah's sincere and chosen servants if a scripture came to them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

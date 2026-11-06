@@ -1,0 +1,100 @@
+{
+ "id": "2:271",
+ "simple_en": "Giving charity openly is good because it sets a positive example for others. Giving secretly to the poor is even better because it keeps your heart humble and sincere. Giving with a clean heart also wipes away some of your sins. Remember that Allah knows everything you do and the secrets inside your chest.",
+ "simple_bn": "তোমরা যদি প্রকাশ্যে দান করো তবে তা ভালো, কারণ এটি অন্যদেরও সৎকাজে উৎসাহ দেয়। কিন্তু গোপনে অভাবগ্রস্তদের দান করা আরও উত্তম, কারণ এতে মন অহংকার ও লোক-দেখানো ভাব থেকে মুক্ত থাকে। আন্তরিকভাবে দান করলে আল্লাহ তোমাদের কিছু পাপও মোচন করে দেবেন। তোমরা যা কিছু করো, আল্লাহ সে বিষয়ে পুরোপুরি অবগত আছেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "صدق",
+   "lemma": "صَدَقَة",
+   "meaning_en": "charities / donations",
+   "meaning_bn": "দান-সদকা",
+   "why_en": "Refers to both voluntary charity and obligatory giving in the cause of Allah."
+  },
+  {
+   "pos": 7,
+   "root": "خفي",
+   "lemma": "أُخْفِيَ",
+   "meaning_en": "you conceal them",
+   "meaning_bn": "তোমরা তা গোপনে দাও",
+   "why_en": "Highlights the virtue of private giving to protect the recipient's dignity and the giver's sincerity."
+  },
+  {
+   "pos": 9,
+   "root": "فقر",
+   "lemma": "فَقِير",
+   "meaning_en": "the poor",
+   "meaning_bn": "অভাবগ্রস্তদের",
+   "why_en": "Specifies the most deserving recipients of secret assistance."
+  },
+  {
+   "pos": 13,
+   "root": "كفر",
+   "lemma": "كَفَّرَ",
+   "meaning_en": "and He removes / expiates",
+   "meaning_bn": "তিনি মোচন করবেন",
+   "why_en": "Promises that sincere charity serves as an expiation for minor sins."
+  },
+  {
+   "pos": 20,
+   "root": "خبر",
+   "lemma": "خَبِير",
+   "meaning_en": "All-Aware",
+   "meaning_bn": "সম্যক অবহিত",
+   "why_en": "Emphasizes that Allah knows the hidden intentions behind every gift."
+  }
+ ],
+ "lesson_en": "Give quietly to keep your heart clean, for sincere giving wipes away past sins.",
+ "lesson_bn": "মনকে অহংকারমুক্ত রাখতে গোপনে দান করার চেষ্টা করুন, কারণ আন্তরিক দান গুনাহ মাফের মাধ্যম হয়।",
+ "real_life_en": "When you donate money to help a struggling neighbour, send it without putting your name on it. Keeping your gift between you and your Creator shields your heart from seeking praise and brings greater peace.",
+ "real_life_bn": "বিপদে পড়া কোনো প্রতিবেশীকে সাহায্য করার সময় নিজের নাম প্রকাশ না করে সহযোগিতা করার চেষ্টা করুন। আপনার দান শুধু আপনার ও আল্লাহর মধ্যে রাখলে তা মনকে লোক-দেখানো প্রশংসা থেকে রক্ষা করে এবং অন্তরে শান্তি এনে দেয়।",
+ "context_en": "Follows the earlier guidelines on spending by explaining the relative merits of open versus hidden charity.",
+ "context_bn": "পূর্ববর্তী আয়াতসমূহে অর্থ ব্যয়ের নির্দেশনার পর এখানে প্রকাশ্যে ও গোপনে দানের তুলনামূলক মর্যাদা ব্যাখ্যা করা হয়েছে।",
+ "themes": [
+  "charity",
+  "forgiveness",
+  "taqwa",
+  "Allah's knowledge",
+  "good character"
+ ],
+ "kinds": [
+  "command",
+  "promise",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Khabeer"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Open charity is praised, while giving privately to the poor is superior because it ensures sincerity and protects the dignity of the recipient.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Sincere giving serves as an expiation for sins, and Allah is fully aware of both outward acts and inward intentions.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

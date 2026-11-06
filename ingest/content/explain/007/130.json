@@ -1,0 +1,82 @@
+{
+  "id": "7:130",
+  "simple_en": "Allah tested Pharaoh's people with years of severe drought and a shortage of crops. These hardships were sent as warnings. Allah gave them signs so they might reflect, humble themselves, and repent.",
+  "simple_bn": "আল্লাহ ফির'আউনের জাতিকে কয়েক বছরব্যাপী খরা ও ফসলের ঘাটতি দিয়ে পাকড়াও করলেন। এ ধরনের সংকট তাদের সাবধান করার জন্যই পাঠানো হয়েছিল, যাতে তারা শিক্ষা গ্রহণ করে নিজেদের সংশোধন করে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "سنو",
+      "lemma": "سِنِين",
+      "meaning_en": "years of drought / famine",
+      "meaning_bn": "দুর্ভিক্ষ ও খরার বছরগুলো",
+      "why_en": "Prolonged dry seasons sent to shake Egyptian pride in agricultural abundance."
+    },
+    {
+      "pos": 6,
+      "root": "نقص",
+      "lemma": "نَقْص",
+      "meaning_en": "and scarcity / shortage",
+      "meaning_bn": "এবং ঘাটতি",
+      "why_en": "Direct loss of agricultural yields reminding them of their dependence on God."
+    },
+    {
+      "pos": 8,
+      "root": "ثمر",
+      "lemma": "ثَمَرَة",
+      "meaning_en": "of fruits / crops",
+      "meaning_bn": "ফলফসলের",
+      "why_en": "Reflects the staple food supply of Egypt affected by divine decree."
+    }
+  ],
+  "lesson_en": "Hardships and loss of resources are wake-up calls to turn back to God.",
+  "lesson_bn": "জীবনযাত্রার সংকট ও ফসলের অভাব মানুষকে অহংকার ভুলে আল্লাহর প্রতি বিনীত হওয়ার সুযোগ দেয়।",
+  "real_life_en": "When life hits you with financial setbacks or personal struggles, pause and reflect. Do not just complain about the bad luck. Use tough times to fix your habits and reconnect with God.",
+  "real_life_bn": "জীবনে অভাব-অনটন বা ক্ষতি আসলে হতাশ হবেন না। এটিকে নিজের ভুল শুধরে নেওয়ার এবং আল্লাহর কাছে ফেরার সুযোগ হিসেবে গ্রহণ করুন।",
+  "context_en": "Before delivering the final drowning, Allah gave Pharaoh's people repeated opportunities to repent through environmental hardship.",
+  "context_bn": "চূড়ান্ত শাস্তির আগে আল্লাহ ফির'আউনের সম্প্রদায়কে খরা ও ফসলের অভাব দিয়ে সতর্ক করলেন, যাতে তারা তাওবা করার সুযোগ পায়।",
+  "themes": [
+    "trials",
+    "warnings",
+    "divine mercy in hardship",
+    "reflection"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Fir'awn"
+    ],
+    "nations": [
+      "people of Pharaoh"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "famine and drought in Egypt"
+    ],
+    "things": [
+      "crops",
+      "fruits"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah afflicted Pharaoh's people with drought and reduced harvest yields so they might remember and repent.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": "12:13",
+  "simple_en": "Jacob told his sons that parting with Joseph saddened his heart deeply. He expressed his great fear that a wild wolf might attack and eat him while they were busy and unaware.",
+  "simple_bn": "পিতা বললেন, এটা আমাকে সত্যিই ব্যথিত করে যে তোমরা তাকে নিয়ে যাবে; আর আমার ভয় হয় যে তোমরা যখন অসাবধান থাকবে তখন নেকড়ে বাঘ তাকে খেয়ে ফেলবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حزن",
+      "lemma": "يَحْزُن",
+      "meaning_en": "it saddens me",
+      "meaning_bn": "আমাকে ব্যথিত করে",
+      "why_en": "Jacob's deep parental attachment and apprehension."
+    },
+    {
+      "pos": 7,
+      "root": "خوف",
+      "lemma": "خافَ",
+      "meaning_en": "I fear",
+      "meaning_bn": "আমি ভয় পাই",
+      "why_en": "Fatherly intuition sensing danger."
+    },
+    {
+      "pos": 10,
+      "root": "ذأب",
+      "lemma": "ذِئْب",
+      "meaning_en": "the wolf",
+      "meaning_bn": "নেকড়ে বাঘ",
+      "why_en": "The predatory danger used in the narrative."
+    },
+    {
+      "pos": 13,
+      "root": "غفل",
+      "lemma": "غافِل",
+      "meaning_en": "unaware / neglectful",
+      "meaning_bn": "অসাবধান / উদাসীন",
+      "why_en": "Lapse of watchful guardianship."
+    }
+  ],
+  "lesson_en": "A parent's protective heart naturally senses danger when children are put at risk.",
+  "lesson_bn": "সন্তানের প্রতি মা-বাবার ভালোবাসা ও উদ্বেগের অনুভূতি এক গভীর প্রাকৃতিক নিয়ামত।",
+  "real_life_en": "Listen to the loving concerns of your parents. Their intuition and experience often perceive subtle risks that younger eyes overlook.",
+  "real_life_bn": "পিতামাতার উদ্বেগ ও পরামর্শকে শ্রদ্ধা করুন। তাঁদের দীর্ঘ অভিজ্ঞতা অনেক সময় গোপন বিপদ বুঝতে পারে।",
+  "themes": [
+    "parental love",
+    "fatherly concern",
+    "story of Yusuf"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Yaqub (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Jacob voiced his sorrow at being separated from Joseph and his worry that a wolf might devour him during a lapse in their vigilance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

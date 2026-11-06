@@ -1,0 +1,78 @@
+{
+  "id": "15:66",
+  "simple_en": "We revealed this decree to him: the root of these wicked people will be cut off completely by morning. Their power will end before sunrise.",
+  "simple_bn": "আমরা লূতকে এই চূড়ান্ত ফায়সালা জানিয়ে দিলাম যে ভোরবেলার মধ্যেই এই পাপিষ্ঠ কওমকে সমূলে ধ্বংস করে দেওয়া হবে। সূর্য ওঠার আগেই তাদের অস্তিত্ব মুছে যাবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قضي",
+      "lemma": "قَضَى",
+      "meaning_en": "We decreed",
+      "meaning_bn": "আমরা ফায়সালা করলাম",
+      "why_en": "Issuing the irrevocable divine verdict."
+    },
+    {
+      "pos": 6,
+      "root": "دبر",
+      "lemma": "دابِر",
+      "meaning_en": "the root",
+      "meaning_bn": "মূল",
+      "why_en": "Total eradication of their line."
+    },
+    {
+      "pos": 8,
+      "root": "قطع",
+      "lemma": "مَقْطُوع",
+      "meaning_en": "cut off",
+      "meaning_bn": "ছিন্ন বা বিনাশ",
+      "why_en": "Completely uprooted."
+    },
+    {
+      "pos": 9,
+      "root": "صبح",
+      "lemma": "مُصْبِح",
+      "meaning_en": "by morning",
+      "meaning_bn": "ভোরে",
+      "why_en": "At the break of dawn."
+    }
+  ],
+  "lesson_en": "Wrongdoing has an expiration date. No oppressor can stop the timing of divine justice.",
+  "lesson_bn": "অন্যায়ের একটি নির্দিষ্ট মেয়াদ থাকে। কোনো জালিমই আল্লাহর ইনসাফ ও শাস্তির নির্ধারিত সময়কে রুখতে পারে না।",
+  "real_life_en": "A corrupt boss who mistreats workers thinks he owns the company. The board meets early in the morning and votes to fire him. Injustice ends abruptly.",
+  "real_life_bn": "কর্মচারীদের ওপর জুলুম করা এক কর্মকর্তা মনে করত কেউ তার কিছু করতে পারবে না। কিন্তু একদিন সকালেই কর্তৃপক্ষ তাকে চাকরিচ্যুত করে। অন্যায়ের দাপট হঠাৎই শেষ হয়ে যায়।",
+  "context_en": "The divine announcement of the complete destruction of Lot's people at the break of dawn.",
+  "context_bn": "ভোরবেলাতেই লূতের কওমকে সমূলে ধ্বংস করে দেওয়ার চূড়ান্ত ঐশী ফায়সালার ঘোষণা।",
+  "themes": [
+    "punishment",
+    "justice",
+    "divine-decree"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Lot"
+    ],
+    "unseen": [],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah revealed to Lot that the transgressing people would be utterly eradicated by morning.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

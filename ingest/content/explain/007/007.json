@@ -1,0 +1,86 @@
+{
+  "id": "7:7",
+  "simple_en": "Allah will recount to all people everything they did during their lives. His record is based on perfect knowledge. Nothing was ever hidden from Him. Allah was never absent at any time or place. He saw every deed, heard every word, and knows every secret thought.",
+  "simple_bn": "মহান আল্লাহ মানুষের পার্থিব জীবনের সমস্ত কর্মকাণ্ড নিখুঁত জ্ঞানের সাথে তাদের সামনে তুলে ধরবেন। কোনো কিছুই তাঁর কাছে গোপন ছিল না। তিনি কখনো কোথাও অনুপস্থিত ছিলেন না। তিনি প্রতিটি কাজ দেখেছেন, প্রতিটি কথা শুনেছেন এবং মনের প্রতিটি গোপন সংকল্প অবগত আছেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قصص",
+      "lemma": "قَصَّ",
+      "meaning_en": "We will surely narrate",
+      "meaning_bn": "আমরা অবশ্যই বর্ণনা করব",
+      "why_en": "Affirms that Allah will recount all human actions on the Day of Judgment."
+    },
+    {
+      "pos": 3,
+      "root": "علم",
+      "lemma": "عِلْم",
+      "meaning_en": "with full knowledge",
+      "meaning_bn": "পূর্ণ জ্ঞানের সাথে",
+      "why_en": "Shows that Allah's accounting is based on complete, flawless knowledge."
+    },
+    {
+      "pos": 6,
+      "root": "غيب",
+      "lemma": "غائِب",
+      "meaning_en": "absent",
+      "meaning_bn": "অনুপস্থিত",
+      "why_en": "Highlights Allah's omnipresence; He is always aware of all events."
+    }
+  ],
+  "lesson_en": "Allah sees and knows all that you do. Live with pure intention.",
+  "lesson_bn": "আল্লাহর জ্ঞান সব কিছুকে পরিবেষ্টন করে আছে, তাই গোপনেও পাপ কাজ থেকে বিরত থাকুন।",
+  "real_life_en": "Even when you are alone in a room, you are never truly alone. Allah is with you through His knowledge and sight. Let this awareness stop you from doing wrong and inspire you to do good in secret.",
+  "real_life_bn": "একাকী থাকলেও মনে রাখবেন আল্লাহ আপনাকে দেখছেন। কেউ না দেখলেও পাপ থেকে বেঁচে থাকুন। গোপনে দান-সদকা ও ভালো কাজের মাধ্যমে আল্লাহর নৈকট্য অর্জন করুন।",
+  "context_en": "Allah asserts His all-encompassing knowledge and constant presence, confirming that no deed is forgotten.",
+  "context_bn": "আল্লাহর সার্বক্ষণিক জ্ঞান ও উপস্থিতির কথা উল্লেখ করে নিশ্চিত করা হয়েছে যে কোনো আমলই হারিয়ে যাবে না।",
+  "themes": [
+    "divine knowledge",
+    "omnipresence",
+    "accountability",
+    "records of deeds"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "records of deeds"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah will recount to all created beings their deeds with perfect knowledge on the Day of Resurrection.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Allah was never absent from any of His creation at any moment, fully aware of their open and secret actions.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

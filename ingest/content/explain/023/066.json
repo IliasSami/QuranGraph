@@ -1,0 +1,61 @@
+{
+  "id": "23:66",
+  "simple_en": "My verses were recited to you clearly, but you used to turn back on your heels in pride. You turned away from the truth and refused to listen to guidance.",
+  "simple_bn": "আমার আয়াতসমূহ তো তোমাদের কাছে তিলাওয়াত করা হতো, কিন্তু তোমরা উল্টো পায়ে পেছনে সরে পড়তে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "My verses",
+      "meaning_bn": "আমার আয়াতসমূহ",
+      "why_en": "Divine words recited to invite people toward truth."
+    },
+    {
+      "pos": 9,
+      "root": "نكص",
+      "lemma": "نَكَصَ",
+      "meaning_en": "you turned back",
+      "meaning_bn": "তোমরা পেছনে সরে পড়তে",
+      "why_en": "Fleeing in disdain from listening to divine revelation."
+    }
+  ],
+  "lesson_en": "Rejecting divine verses harms the soul. Walking away from truth leaves a person lost in error.",
+  "lesson_bn": "আল্লাহর আয়াত অবহেলা করা আত্মিক ধ্বংস ডেকে আনে। অহংকার করে সত্য থেকে মুখ ফিরিয়ে নিলে সঠিক পথের দিশা মেলে না।",
+  "real_life_en": "Listen attentively whenever you hear sacred verses or good advice. Never let pride make you walk away from truth.",
+  "real_life_bn": "কোরআনের বাণী বা সৎ উপদেশ মনোযোগ সহকারে শুনুন। সত্যের মুখোমুখি হলে কখনো ঔদ্ধত্য দেখিয়ে মুখ ফিরিয়ে নেবেন না।",
+  "themes": [
+    "turning-away",
+    "rejection-of-revelation",
+    "heedless-flight"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Disbelievers actively fled and turned away when God's verses were recited to them in clear communication.",
+      "claim_bn": "যখন আল্লাহর আয়াত তিলাওয়াত করে শোনানো হতো, তখন অবিশ্বাসীরা তা অবজ্ঞা করে পেছনে সরে যেত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

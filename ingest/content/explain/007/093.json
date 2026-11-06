@@ -1,0 +1,85 @@
+{
+  "id": "7:93",
+  "simple_en": "Shu'ayb turned away from the ruins of his destroyed people. With a heavy heart, he addressed their lifeless remains. He stated that he had conveyed the divine message with total honesty. He had given them sincere advice to protect them from harm. Since they chose stubborn disbelief, he could no longer mourn their self-inflicted doom.",
+  "simple_bn": "শুআইব (আলাইহিস সালাম) ধ্বংসস্তূপের দিকে তাকিয়ে তাঁর মৃত জাতির কাছ থেকে মুখ ফিরিয়ে নিলেন। তিনি গভীর বেদনার সাথে বললেন, হে আমার সম্প্রদায়, আমি তো আমার রবের বাণী তোমাদের কাছে পৌঁছে দিয়েছিলাম। আমি তোমাদের মঙ্গলের জন্য আন্তরিক উপদেশ দিয়েছিলাম। কিন্তু তোমরা সত্যকে প্রত্যাখ্যান করেছিলে, সুতরাং অবিশ্বাসী জাতির ধ্বংসের জন্য আমি কীভাবে আক্ষেপ করব?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ولي",
+      "lemma": "تَوَلَّى",
+      "meaning_en": "so he turned away",
+      "meaning_bn": "অতঃপর সে মুখ ফিরিয়ে নিল",
+      "why_en": "Marks Shu'ayb's final departure from the destroyed settlement."
+    },
+    {
+      "pos": 6,
+      "root": "بلغ",
+      "lemma": "أَبْلَغُ",
+      "meaning_en": "I conveyed to you",
+      "meaning_bn": "আমি তোমাদের কাছে পৌঁছে দিয়েছি",
+      "why_en": "Affirms that he fulfilled his prophetic trust completely."
+    },
+    {
+      "pos": 9,
+      "root": "نصح",
+      "lemma": "نَصَحُ",
+      "meaning_en": "and I advised",
+      "meaning_bn": "এবং আমি সদুপদেশ দিয়েছি",
+      "why_en": "Underscores the prophet's sincere goodwill toward his people."
+    }
+  ],
+  "lesson_en": "Prophets fulfill their duty with sincere love. When people deliberately choose ruin, grief cannot change their fate.",
+  "lesson_bn": "নবীগণ পরম আন্তরিকতায় সত্যের দাওয়াত দেন। কিন্তু মানুষ যখন জেনেবুঝে ধ্বংসের পথ বেছে নেয়, তখন তাদের জন্য আক্ষেপ করে লাভ নেই।",
+  "real_life_en": "Share good advice with family and friends with kindness and patience. If someone refuses guidance and chooses a harmful path, do not destroy yourself with endless sorrow. Do your best to guide them, and leave the outcome to God.",
+  "real_life_bn": "পরিবার ও বন্ধুদের কাছে ভালোবাসা ও ধৈর্য নিয়ে সত্যের দাওয়াত পৌঁছে দিন। কেউ যদি আপনার উপদেশ অমান্য করে ভুল পথে চলে যায়, তবে অতিরিক্ত হতাশায় ভেঙে পড়বেন না। নিজের দায়িত্ব সততার সাথে পালন করে ফলাফল আল্লাহর ওপর ছেড়ে দিন।",
+  "context_en": "Shu'ayb's final sorrowful farewell to his ruined tribe, clearing himself of their willful destruction after having delivered the complete truth.",
+  "context_bn": "ধ্বংসপ্রাপ্ত জাতির প্রতি শুআইব (আলাইহিস সালাম)-এর অন্তিম বিদায়বাণী: আন্তরিক উপদেশ সত্ত্বেও সত্য অমান্যকারী জাতির পরিণতিতে সান্ত্বনা লাভ।",
+  "themes": [
+    "Shu'ayb",
+    "sincere advice",
+    "conveying the message",
+    "grief",
+    "personal responsibility"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [
+      "people of Madyan"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Ar-Rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Shu'ayb turned away from the ruins of Madyan, declaring that he had faithfully conveyed his Lord's messages and offered sincere counsel.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "He affirmed that he could not grieve over a people who willfully persisted in disbelief and brought destruction upon themselves.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

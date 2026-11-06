@@ -1,0 +1,74 @@
+{
+  "id": "10:56",
+  "simple_en": "God alone gives life, and He alone causes death. Every living creature belongs to Him, and to Him you will all return for your final reckoning.",
+  "simple_bn": "তিনিই জীবন দান করেন এবং তিনিই মৃত্যু ঘটান, আর তাঁরই কাছে তোমাদের সবাইকে ফিরিয়ে নেওয়া হবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حيي",
+      "lemma": "أَحْيا",
+      "meaning_en": "He gives life",
+      "meaning_bn": "তিনি জীবন দেন",
+      "why_en": "Divine origination and preservation of life."
+    },
+    {
+      "pos": 3,
+      "root": "موت",
+      "lemma": "أَماتَ",
+      "meaning_en": "He causes death",
+      "meaning_bn": "তিনি মৃত্যু ঘটান",
+      "why_en": "Ending physical existence at the appointed time."
+    },
+    {
+      "pos": 5,
+      "root": "رجع",
+      "lemma": "رَجَعَ",
+      "meaning_en": "you will be returned",
+      "meaning_bn": "তোমাদের ফিরিয়ে নেওয়া হবে",
+      "why_en": "Final return to the Creator for judgment."
+    }
+  ],
+  "lesson_en": "God gives us life and takes it back. We will all stand before Him in the end.",
+  "lesson_bn": "জীবন ও মৃত্যুর একমাত্র মালিক আল্লাহ; পরিশেষে আমাদের সবাইকে তাঁর কাছেই ফিরে যেতে হবে।",
+  "real_life_en": "Remember death often as a reminder to live honorably. Use the breath you have today to do good deeds that will comfort you tomorrow.",
+  "real_life_bn": "মৃত্যুকে স্মরণ করে প্রতিদিন এমন সৎ কাজ করুন যা আল্লাহর কাছে উপস্থিত হওয়ার সময় আপনাকে শান্তি দেবে।",
+  "themes": [
+    "giver of life and death",
+    "final return",
+    "sovereignty"
+  ],
+  "kinds": [
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "all humanity"
+    ],
+    "places": [],
+    "unseen": [
+      "the Hereafter"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Life and death are solely within Allah's domain, affirming His power to resurrect all souls.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "64:5",
+  "simple_en": "Have you not heard the news of past nations who denied the truth? They tasted the bitter fruit of their wrongdoing in this life. In the Hereafter, an agonizing punishment awaits them.",
+  "simple_bn": "তোমাদের কাছে কি পূর্ববর্তী অবিশ্বাসী জাতিগুলোর সংবাদ পৌঁছেনি? তারা দুনিয়াতেই নিজেদের মন্দ কর্মের পরিণতি ভোগ করেছিল, আর পরকালে তাদের জন্য রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نبأ",
+      "lemma": "نَبَأ",
+      "meaning_en": "news and history",
+      "meaning_bn": "সংবাদ ও বিবরণ",
+      "why_en": "Draws attention to the historical record of earlier rebellious generations."
+    },
+    {
+      "pos": 9,
+      "root": "وبل",
+      "lemma": "وَبال",
+      "meaning_en": "evil consequences and harm",
+      "meaning_bn": "মারাত্মক পরিণতি",
+      "why_en": "Describes the destructive outcome that sin brings upon nations."
+    }
+  ],
+  "lesson_en": "Learn from past history so you do not repeat the errors that brought ruin to earlier peoples.",
+  "lesson_bn": "অতীতের ধ্বংসপ্রাপ্ত জাতিগুলোর ইতিহাস থেকে শিক্ষা নেওয়া উচিত, যেন তাদের মতো ভুলের পুনরাবৃত্তি না ঘটে।",
+  "real_life_en": "A driver sees warning signs along a sharp mountain turn where bad crashes happened before. He slows down instead of speeding. Taking lessons from past disasters keeps a person safe from ruin.",
+  "real_life_bn": "বিপজ্জনক রাস্তায় দুর্ঘটনার চিহ্ন দেখে বুদ্ধিমান চালক গতি কমিয়ে দেয়। অতীতের ভুল ও বিপর্যয় থেকে শিক্ষা নিয়ে চললে মানুষ বড় ক্ষতি থেকে রক্ষা পায়।",
+  "themes": [
+    "lessons from history",
+    "consequences of disbelief",
+    "divine justice"
+  ],
+  "kinds": [
+    "warning",
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Past disbelieving nations suffered the bad consequences of their disbelief in this world, and a painful punishment awaits them in the next.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

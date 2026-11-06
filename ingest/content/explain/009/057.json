@@ -1,0 +1,70 @@
+{
+  "id": "9:57",
+  "simple_en": "If they could find a fort, or caves, or any place to hide, they would turn to it. They would run toward it with wild fear.",
+  "simple_bn": "তারা যদি কোনো নিরাপদ আশ্রয়, কোনো গুহা বা লুকিয়ে থাকার কোনো প্রবেশপথ পেত, তবে তারা সেদিকেই দ্রুতগতিতে ছুটে পালাত।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "لجأ",
+      "lemma": "مَلْجَإ",
+      "meaning_en": "refuge / fortress",
+      "meaning_bn": "আশ্রয়স্থল / নিরাপদ স্থান",
+      "why_en": "A stronghold to escape from collective social duty."
+    },
+    {
+      "pos": 5,
+      "root": "غور",
+      "lemma": "مَغارَة",
+      "meaning_en": "caves",
+      "meaning_bn": "গিরিগুহা",
+      "why_en": "Dark hideouts in rugged mountains."
+    },
+    {
+      "pos": 11,
+      "root": "جمح",
+      "lemma": "يَجْمَحُ",
+      "meaning_en": "rush headlong / run wildly",
+      "meaning_bn": "দ্রুতগতিতে পালিয়ে যায়",
+      "why_en": "Uncontrollable panic like a runaway beast."
+    }
+  ],
+  "lesson_en": "Guilt and deceit fill the heart with panic, driving people to run from their own shadow.",
+  "lesson_bn": "অপরাধবোধ ও অসততা মানুষের মনকে এতটাই ভীত করে যে সে যেকোনো গর্তে পালিয়ে বাঁচতে চায়।",
+  "real_life_en": "Live honestly so that you never have to hide or run from the consequences of your words and deeds.",
+  "real_life_bn": "সত্য ও সততার সাথে জীবনযাপন করুন, যাতে কখনো কোনো কাজের জন্য মাথা নিচু করে পালিয়ে বেড়াতে না হয়।",
+  "themes": [
+    "panic of guilt",
+    "cowardice",
+    "hypocrisy"
+  ],
+  "kinds": [
+    "parable",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites are so gripped by terror that they would flee into any cave or fissure to avoid standing with the believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

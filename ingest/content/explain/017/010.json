@@ -1,0 +1,65 @@
+{
+  "id": "17:10",
+  "simple_en": "As for those who do not believe in the Hereafter, We have prepared a painful punishment for them. Their denial of the truth brings severe sorrow in the end.",
+  "simple_bn": "আর যারা আখেরাতে বিশ্বাস করে না, তাদের জন্য আমরা প্রস্তুত রেখেছি যন্ত্রণাদায়ক কঠিন শাস্তি। সত্য অস্বীকারের পরিণামে তাদের চরম দুর্ভোগ পোহাতে হবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "they believe",
+      "meaning_bn": "তারা বিশ্বাস করে",
+      "why_en": "Inner conviction regarding life after death."
+    },
+    {
+      "pos": 8,
+      "root": "عذب",
+      "lemma": "عَذاب",
+      "meaning_en": "punishment",
+      "meaning_bn": "শাস্তি",
+      "why_en": "The consequence awaiting willful skeptics."
+    }
+  ],
+  "lesson_en": "Disbelieving in the Next Life leads to moral ruin and eternal regret.",
+  "lesson_bn": "পরকালকে অস্বীকার করলে মানুষের নীতিবোধ নষ্ট হয় এবং অনন্ত দুর্ভোগের মুখোমুখি হতে হয়।",
+  "real_life_en": "Keep the Last Day in mind every day. Knowing that God sees you helps you stay fair and honest.",
+  "real_life_bn": "সব সময় পরকালের জবাবদিহিতার কথা মনে রাখুন। এটি মানুষকে অন্যায় করা থেকে বিরত রাখে এবং সত্যের পথে অবিচল রাখে।",
+  "themes": [
+    "hereafter",
+    "punishment",
+    "disbelief"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [
+      "Hereafter"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah has prepared a painful punishment for those who reject belief in the Hereafter.",
+      "claim_bn": "যারা আখেরাতে বিশ্বাস স্থাপন করে না তাদের জন্য আল্লাহ যন্ত্রণাদায়ক শাস্তি প্রস্তুত রেখেছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

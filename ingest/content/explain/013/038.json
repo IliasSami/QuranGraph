@@ -1,0 +1,87 @@
+{
+  "id": "13:38",
+  "simple_en": "Allah sent messengers before you with wives and kids. No prophet brought a sign without God leave. Each fixed time has its own written decree from God.",
+  "simple_bn": "আপনার পূর্বেও আমরা বহু রসূল পাঠিয়েছি এবং তাঁদের স্ত্রী ও সন্তানসন্ততি দিয়েছি। আল্লাহর অনুমতি ছাড়া কোনো নিদর্শন নিয়ে আসা কোনো রসূলের কাজ নয়। প্রতিটি নির্দিষ্ট সময়ের জন্য একটি নির্ধারিত কিতাব রয়েছে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "messengers",
+      "meaning_bn": "রসূলগণ",
+      "why_en": "Human messengers who lived normal mortal lives among their people."
+    },
+    {
+      "pos": 8,
+      "root": "زوج",
+      "lemma": "زَوْج",
+      "meaning_en": "wives",
+      "meaning_bn": "স্ত্রীগণ",
+      "why_en": "Refuting false monastic ideas that prophets should not marry."
+    },
+    {
+      "pos": 9,
+      "root": "ذرر",
+      "lemma": "ذُرِّيَّة",
+      "meaning_en": "children",
+      "meaning_bn": "সন্তানসন্ততি",
+      "why_en": "Prophets lived wholesome family lives as examples for humanity."
+    },
+    {
+      "pos": 17,
+      "root": "أذن",
+      "lemma": "إِذْن",
+      "meaning_en": "permission",
+      "meaning_bn": "অনুমতি",
+      "why_en": "Miracles occur solely by divine command, not human will."
+    },
+    {
+      "pos": 21,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "written decree",
+      "meaning_bn": "নির্ধারিত কিতাব",
+      "why_en": "The set schedule for every event, revelation, and nation."
+    }
+  ],
+  "lesson_en": "Prophets lived as noble men with families to guide our daily lives.",
+  "lesson_bn": "নবীগণ মানুষ ছিলেন এবং তাঁরা স্বাভাবিক ও পবিত্র পারিবারিক জীবনযাপন করে আদর্শ রেখে গেছেন।",
+  "real_life_en": "A young father works hard and raises his kids with love. He feels happy knowing God messengers also cared for home and kin.",
+  "real_life_bn": "এক যুবক কর্মক্ষেত্র, সংসার ও ইবাদতের মাঝে ভারসাম্য রক্ষা করে চলে। নবীদেরও পরিবার ছিল জেনে সে পবিত্র সংসার জীবন পালনে উৎসাহ পায়।",
+  "context_en": "Affirming that messengers were mortal men with families, acting only with divine leave.",
+  "context_bn": "রসূলগণের মানবীয় সত্ত্বা, পরিবার ও সন্তান থাকা এবং আল্লাহর হুকুম ছাড়া মুজিযা অসম্ভব হওয়া।",
+  "themes": [
+    "prophethood",
+    "family life",
+    "miracles",
+    "divine timing"
+  ],
+  "kinds": [
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Messengers were mortal men with families who brought signs only by Allah's leave at appointed times.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,83 @@
+{
+ "id": "4:2",
+ "simple_en": "Allah commands guardians to give orphans their full wealth when they reach maturity. Do not swap your poor goods for their good property. Never mix their wealth into your own to consume it unfairly. Misusing what belongs to an orphan is a grave sin in the sight of Allah.",
+ "simple_bn": "অভিভাবকদের নির্দেশ দেওয়া হচ্ছে যেন এতিমরা বড় হলে তাদের পূর্ণ সম্পদ তাদের হাতে তুলে দেওয়া হয়। নিজের খারাপ জিনিস দিয়ে তাদের ভালো জিনিস বদলে নেবেন না। তাদের সম্পদ নিজের সম্পদের সাথে মিশিয়ে অন্যায়ভাবে খেয়ে ফেলবেন না। নিশ্চয় এতিমের সম্পদ গ্রাস করা আল্লাহর দৃষ্টিতে এক মহাপাপ।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "يتم",
+   "lemma": "يَتِيم",
+   "meaning_en": "orphans",
+   "meaning_bn": "এতিম শিশু",
+   "why_en": "Vulnerable children who lost their fathers and need their inheritance safeguarded."
+  },
+  {
+   "pos": 6,
+   "root": "خبث",
+   "lemma": "خَبِيث",
+   "meaning_en": "the bad (unlawful)",
+   "meaning_bn": "মন্দ বা হারাম",
+   "why_en": "Refers to taking poor or worthless goods and replacing them with the orphan's prime assets."
+  },
+  {
+   "pos": 15,
+   "root": "حوب",
+   "lemma": "حُوب",
+   "meaning_en": "a great sin",
+   "meaning_bn": "মহাপাপ",
+   "why_en": "Consuming an orphan's wealth or trading unfairly with it is condemned as a grave transgression."
+  }
+ ],
+ "lesson_en": "Guard the wealth of orphans with honesty. Never trade your bad goods for their good items.",
+ "lesson_bn": "এতিমদের সম্পদ পুরোপুরি সততার সাথে রক্ষা করুন এবং তাদের কোনো হক নিজের স্বার্থে আত্মসাৎ করবেন না।",
+ "real_life_en": "If you manage money for a child without parents, keep clear records. Never spend their cash on yourself. Hand over every coin when they grow up.",
+ "real_life_bn": "মৃত কোনো আত্মীয়ের এতিম সন্তানের টাকা বা সম্পত্তির দায়িত্ব পেলে তার সুস্পষ্ট হিসাব রাখুন। নিজের সংসারের প্রয়োজনে তাদের অর্থ খরচ করবেন না বা তাদের ভালো জিনিস নিজের মন্দ জিনিসের সাথে বদল করবেন না। তারা প্রাপ্তবয়স্ক ও দায়িত্বশীল হলে সব বুঝিয়ে দিন।",
+ "themes": [
+  "orphans",
+  "wealth",
+  "justice",
+  "honesty",
+  "ethics"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Guardians must hand over orphans' wealth in full once the orphans come of age.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Guardians are forbidden from substituting poor quality items for the orphans' good assets or mixing wealth to consume it, which is a major sin.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

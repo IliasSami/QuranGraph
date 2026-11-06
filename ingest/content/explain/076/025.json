@@ -1,0 +1,80 @@
+{
+ "id": "76:25",
+ "simple_en": "Allah tells the Prophet ﷺ to remember the name of his Lord at the start of the day and at its close. This includes the morning prayer and the prayers of the afternoon, keeping the heart connected to Allah all day.",
+ "simple_bn": "আল্লাহ নবী ﷺ-কে নির্দেশ দিয়েছেন দিনের শুরুতে এবং দিনের শেষে তাঁর রবের নাম স্মরণ করতে। এর মধ্যে ফজরের নামাজ এবং দুপুর ও বিকালের নামাজ অন্তর্ভুক্ত, যা সারাদিন অন্তরকে আল্লাহর সাথে যুক্ত রাখে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ذكر",
+   "lemma": "ذَكَرَ",
+   "meaning_en": "remember",
+   "meaning_bn": "স্মরণ করুন",
+   "why_en": "Dhikr and prayer to keep Allah at the center of life."
+  },
+  {
+   "pos": 2,
+   "root": "سمو",
+   "lemma": "اسْم",
+   "meaning_en": "the name",
+   "meaning_bn": "নাম",
+   "why_en": "Calling upon Allah by His beautiful names in worship."
+  },
+  {
+   "pos": 4,
+   "root": "بكر",
+   "lemma": "بُكْرَة",
+   "meaning_en": "morning",
+   "meaning_bn": "প্রভাত, দিনের শুরুতে",
+   "why_en": "The early part of the day, including the morning prayer."
+  },
+  {
+   "pos": 5,
+   "root": "أصل",
+   "lemma": "أَصِيل",
+   "meaning_en": "evening, late afternoon",
+   "meaning_bn": "সন্ধ্যা, দিনের শেষে",
+   "why_en": "The end of the day, including the afternoon prayers."
+  }
+ ],
+ "lesson_en": "Begin and end your day with the remembrance of Allah to keep your heart peaceful.",
+ "lesson_bn": "দিনের শুরু ও শেষ আল্লাহর স্মরণের মাধ্যমে করুন, এতে অন্তর শান্ত ও স্থির থাকে।",
+ "real_life_en": "Before you check your phone in the morning, remember Allah and pray. In the afternoon, take a short break from busy work for prayer. Keeping these regular moments of worship anchors your day in peace and keeps your mind clear.",
+ "real_life_bn": "সকালে ঘুম থেকে উঠে ফোনের দিকে না তাকিয়ে আগে আল্লাহর নাম নিন ও নামাজ পড়ুন। কাজের ব্যস্ততার মাঝে দুপুরে ও বিকালে নামাজের জন্য সময় বের করুন। এই নিয়মিত ইবাদত দিনটিকে শান্তিময় রাখে।",
+ "themes": [
+  "remembrance of Allah",
+  "prayer",
+  "worship"
+ ],
+ "kinds": [
+  "command",
+  "worship"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah commands remembering His name morning and evening through prayers and remembrance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

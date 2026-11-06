@@ -1,0 +1,74 @@
+{
+ "id": "46:22",
+ "simple_en": "His people replied: have you come to turn us away from our gods? We will never leave what our fathers worshipped. Bring on us the punishment you threaten us with, if you are telling the truth.",
+ "simple_bn": "তার জাতি উত্তর দিল: তুমি কি আমাদের উপাস্যদের কাছ থেকে আমাদের ফিরিয়ে দিতে এসেছ? আমরা আমাদের বাপ-দাদার ধর্ম ত্যাগ করব না। তুমি যদি সত্যবাদী হও, তবে যার ভয় দেখাচ্ছ সেই শাস্তি নিয়ে এসো।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "أفك",
+   "lemma": "أُفِكَ",
+   "meaning_en": "to turn us away / delude us",
+   "meaning_bn": "আমাদের ফিরিয়ে দিতে বা বিভ্রান্ত করতে",
+   "why_en": "They accused Hud of trying to trick them away from their ancestral gods."
+  },
+  {
+   "pos": 5,
+   "root": "أله",
+   "lemma": "إِلٰه",
+   "meaning_en": "our gods",
+   "meaning_bn": "আমাদের উপাস্যসমূহ",
+   "why_en": "Their blind devotion to idols blinded them from accepting monotheism."
+  },
+  {
+   "pos": 8,
+   "root": "وعد",
+   "lemma": "وَعَدَ",
+   "meaning_en": "you promise / threaten us",
+   "meaning_bn": "তুমি যার ভয় দেখাচ্ছ",
+   "why_en": "They arrogantly dared the prophet to bring down the punishment."
+  }
+ ],
+ "lesson_en": "Pride makes foolish people dare Allah to send His punishment.",
+ "lesson_bn": "অহংকার নির্বোধ মানুষকে আল্লাহর সতর্কবার্তাকে ঔদ্ধত্যের সাথে চ্যালেঞ্জ করতে প্ররোচিত করে।",
+ "real_life_en": "Never mock divine warnings or act stubborn when someone corrects your errors. When good advice comes your way, pause and change your course before harm catches up with you.",
+ "real_life_bn": "কেউ ভুল শুধরে দিলে অহংকার করে সত্যের বিরোধিতা করবেন না। ভালো নসীহত পেলে তা সাদরে গ্রহণ করুন, যাতে কোনো বিপদে পড়তে না হয়।",
+ "themes": [
+  "arrogance",
+  "disbelief",
+  "past nations",
+  "warning"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "hud"
+  ],
+  "nations": [
+   "ad"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The people of Ad refused to abandon their idols, arrogantly challenging Hud to bring upon them the promised punishment.",
+   "claim_bn": "আদ জাতি তাদের মূর্তি পূজা ত্যাগ করতে অস্বীকার করে এবং ঔদ্ধত্য দেখিয়ে হূদকে প্রতিশ্রুত শাস্তি নিয়ে আসার চ্যালেঞ্জ জানায়।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

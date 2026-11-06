@@ -1,0 +1,63 @@
+{
+  "id": "26:100",
+  "simple_en": "In deep sorrow, they will say that they have no one to speak up for them before God. No one can save them from the burning fire.",
+  "simple_bn": "গভীর হতাশায় তারা বলবে যে আজ তাদের জন্য কোনো সুপারিশকারী নেই যে তাদের শাস্তি থেকে রক্ষা করতে পারবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": null,
+      "lemma": "ما",
+      "meaning_en": "none / so not",
+      "meaning_bn": "সুতরাং নেই",
+      "why_en": "Particle indicating total absence of any intercessor for the damned."
+    },
+    {
+      "pos": 4,
+      "root": "شفع",
+      "lemma": "شافِع",
+      "meaning_en": "intercessors",
+      "meaning_bn": "কোনো সুপারিশকারী",
+      "why_en": "Those who plead before God to save sinners from torment."
+    }
+  ],
+  "lesson_en": "False hopes of unearned intercession will vanish on that Day. Only true faith and divine permission enable help.",
+  "lesson_bn": "পরকালে মিথ্যা আশার কোনো মূল্য থাকবে না। আল্লাহর অনুমতি এবং ঈমান ছাড়া কোনো সুপারিশ কার্যকর হবে না।",
+  "real_life_en": "Do not rely on false assumptions that someone else will bail you out on the Day of Judgment. Work sincerely on your own relationship with God today.",
+  "real_life_bn": "পরকালে কেউ আপনাকে সহজে পার করে দেবে এমন ভ্রান্ত ধারণায় থাকবেন না। নিজের ঈমান ও আমল ঠিক রাখার জন্য নিজেই সচেষ্ট হোন।",
+  "themes": [
+    "intercession",
+    "despair",
+    "lack-of-helpers"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "day-of-judgment"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The sinners will despair upon realizing they have no intercessors before God to save them from punishment.",
+      "claim_bn": "অপরাধীরা হতাশ হয়ে বুঝতে পারবে যে আজ আল্লাহর আযাব থেকে রক্ষার জন্য কোনো সুপারিশকারী নেই।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

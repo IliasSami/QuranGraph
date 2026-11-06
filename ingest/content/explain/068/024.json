@@ -1,0 +1,58 @@
+{
+  "id": "68:24",
+  "simple_en": "They whispered to each other: Make sure that no poor person comes into the garden today. Do not let anyone ask you for any fruit or help.",
+  "simple_bn": "তারা বলছিল: সাবধান, আজ যেন কোনো অভাবী ব্যক্তি বাগানে তোমাদের কাছে প্রবেশ করতে না পারে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "دخل",
+      "lemma": "دَخَلَ",
+      "meaning_en": "shall enter",
+      "meaning_bn": "প্রবেশ করবে",
+      "why_en": "Reveals their strict plan to block the poor from their property."
+    },
+    {
+      "pos": 6,
+      "root": "سكن",
+      "lemma": "مِسْكِين",
+      "meaning_en": "a poor person",
+      "meaning_bn": "কোনো অভাবী ব্যক্তি",
+      "why_en": "Highlights their cold lack of charity toward vulnerable people."
+    }
+  ],
+  "lesson_en": "Welcome the poor with kindness, and never turn them away from your door.",
+  "lesson_bn": "অভাবী মানুষকে তাড়িয়ে না দিয়ে সাধ্যমতো সাহায্য ও সম্মানের সাথে গ্রহণ করা উচিত।",
+  "real_life_en": "A restaurant owner places a sign outside welcoming hungry people who cannot afford a meal. He feeds them with respect. Unlike the garden owners, he opens his door to the needy.",
+  "real_life_bn": "গরিবের মুখের গ্রাস কেড়ে নেওয়া বা তাদের তাড়িয়ে দেওয়া আল্লাহর ক্রোধ ডেকে আনে। অভাবীদের প্রতি সদয় আচরণই সম্পদে বরকত আনে।",
+  "themes": [
+    "charity",
+    "greed",
+    "ethics"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They conspired strictly that no poor person should be allowed into their garden that day.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

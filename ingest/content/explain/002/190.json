@@ -1,0 +1,105 @@
+{
+ "id": "2:190",
+ "simple_en": "Allah commands the believers to fight for His cause against those who wage war against them. At the same time, He forbids stepping over moral bounds. This means Muslims must not harm women, children, old people, or monks who do not fight. They must never cut down trees or mutilate the dead. Fighting is permitted only to repel aggression, and Allah does not love those who cross the line.",
+ "simple_bn": "আল্লাহ মু'মিনদের নির্দেশ দিয়েছেন তাঁর পথে সেই আক্রমণকারীদের বিরুদ্ধে লড়াই করতে, যারা তাঁদের ধর্ম থেকে সরিয়ে দেওয়ার জন্য যুদ্ধ করে। পাশাপাশি সব ধরনের বাড়াবাড়ি বা অন্যায় সীমা লঙ্ঘন কঠোরভাবে নিষিদ্ধ করা হয়েছে। এই সীমালঙ্ঘনের মধ্যে রয়েছে অকারণে যুদ্ধ শুরু করা, মৃতদেহের অঙ্গহানি করা এবং নারী, শিশু, বৃদ্ধ ও ইবাদতে রত ব্যক্তিদের ওপর আক্রমণ করা। ইসলামে আত্মরক্ষা ও ন্যায় প্রতিষ্ঠার জন্যই যুদ্ধের অনুমতি দেওয়া হয়েছে, আর আল্লাহ সীমা লঙ্ঘনকারীদের কখনোই পছন্দ করেন না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قتل",
+   "lemma": "قاتَلَ",
+   "meaning_en": "and fight",
+   "meaning_bn": "এবং যুদ্ধ করো",
+   "why_en": "Commands defense against hostile combatants to protect the community and religious freedom."
+  },
+  {
+   "pos": 3,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "way / path",
+   "meaning_bn": "পথ / উদ্দেশ্য",
+   "why_en": "Requires that struggle be undertaken purely for Allah's cause, upholding justice rather than seeking worldly gain or vengeance."
+  },
+  {
+   "pos": 8,
+   "root": "عدو",
+   "lemma": "اعْتَدَى",
+   "meaning_en": "transgress / overstep limits",
+   "meaning_bn": "সীমালঙ্ঘন করো",
+   "why_en": "Strictly forbids harming non-combatants, mutilating the dead, or destroying civilian property."
+  },
+  {
+   "pos": 13,
+   "root": "عدو",
+   "lemma": "مُعْتَدي",
+   "meaning_en": "the transgressors",
+   "meaning_bn": "সীমালঙ্ঘনকারীগণ",
+   "why_en": "Warns that those who exceed moral and legal boundaries lose the love and pleasure of Allah."
+  }
+ ],
+ "lesson_en": "Stand up for what is right, but never cross moral lines, even when people treat you poorly.",
+ "lesson_bn": "ন্যায় ও আত্মরক্ষার প্রশ্নে আপসহীন থাকুন, তবে বিরোধ ও সংঘাতের চরম মুহূর্তেও নৈতিক সীমারেখা ও মানবিকতা বিসর্জন দেবেন না।",
+ "real_life_en": "Even when someone treats you badly at school or work, do not strike back in a cruel way. Speak the truth and set firm limits, but never spread lies or hurt their family. Allah loves those who stay fair.",
+ "real_life_bn": "কর্মক্ষেত্র বা সমাজে কেউ আপনার সাথে অন্যায় আচরণ বা বৈরিতা করলেও সীমা লঙ্ঘন করবেন না। অন্ধ আক্রোশের বশে প্রতিপক্ষের নিরপরাধ পরিবারকে জড়ানো, অপবাদ ছড়ানো বা অসংযত প্রতিশোধ নেওয়া থেকে বিরত থাকুন, কারণ আল্লাহ কোনো অবস্থাতেই বাড়াবাড়ি পছন্দ করেন না।",
+ "context_en": "After enduring persecution and displacement from Makkah, Muslims were preparing to perform pilgrimage after the Treaty of Hudaybiyyah. Allah permitted them to fight in self-defense against hostile forces who waged war against them, while strictly prohibiting aggression against non-combatants.",
+ "context_bn": "মক্কায় দীর্ঘদিন জুলুম ও বিতাড়নের শিকার হওয়ার পর এবং হুদায়বিয়ার সন্ধির পর যখন মুসলিমরা উমরাহ করার প্রস্তুতি নিচ্ছিলেন, তখন এই বিধান নাজিল হয়। যারা মুসলিমদের বিরুদ্ধে সরাসরি যুদ্ধ করছিল তাদের বিরুদ্ধে আত্মরক্ষামূলক লড়াইয়ের অনুমতি দেওয়া হয়, তবে নিরপরাধ বেসামরিক ব্যক্তিদের ক্ষতিসাধন কঠোরভাবে নিষিদ্ধ করা হয়।",
+ "themes": [
+  "struggle in Allah's way",
+  "justice",
+  "ethics",
+  "peace"
+ ],
+ "kinds": [
+  "command",
+  "prohibition",
+  "law",
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are commanded to fight in the cause of Allah strictly against hostile combatants who wage war against them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Transgression is strictly prohibited, including initiating unprovoked war, mutilating the dead, and harming women, children, the elderly, or religious devotees.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Allah does not love those who exceed the ethical limits and sacred laws established by Him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

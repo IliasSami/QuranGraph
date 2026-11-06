@@ -1,0 +1,72 @@
+{
+ "id": "41:26",
+ "simple_en": "The disbelievers told one another not to listen to the Quran. They urged each other to shout and make noise while it was recited. They hoped that by making a disturbance, they might stop people from hearing the truth and overcome the Prophet ﷺ.",
+ "simple_bn": "কাফিররা পরস্পরকে উপদেশ দিয়েছিল যে তারা যেন কুরআন না শোনে। তারা তিলাওয়াত চলার সময় হট্টগোল ও চিৎকার করতে বলল। তারা আশা করেছিল যে এমন বিশৃঙ্খলা সৃষ্টি করে তারা হয়তো মানুষকে সত্য শুনতে বাধা দেবে এবং নবী ﷺ-এর ওপর বিজয়ী হবে।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "سمع",
+   "lemma": "سَمِعَ",
+   "meaning_en": "do not listen",
+   "meaning_bn": "তোমরা শুনো না",
+   "why_en": "Depicts intentional avoidance and blocking of the divine message."
+  },
+  {
+   "pos": 8,
+   "root": "لغو",
+   "lemma": "الْغَ",
+   "meaning_en": "and make noise / disrupt",
+   "meaning_bn": "এবং শোরগোল সৃষ্টি করো",
+   "why_en": "Tactics of shouting and clapping to drown out the recitation of the Quran."
+  },
+  {
+   "pos": 11,
+   "root": "غلب",
+   "lemma": "غَلَبُ",
+   "meaning_en": "you may overcome",
+   "meaning_bn": "তোমরা জয়ী হতে পারো",
+   "why_en": "Their vain hope to defeat the undeniable truth through noise."
+  }
+ ],
+ "lesson_en": "Truth stands on clear evidence, while falsehood relies on noise and confusion.",
+ "lesson_bn": "সত্য সবসময় স্পষ্ট প্রমাণের ওপর দাঁড়ায়, আর মিথ্যা কেবল কোলাহল ও বিভ্রান্তির আশ্রয় নেয়।",
+ "real_life_en": "When someone speaks words of truth or reads the Quran, listen quietly with respect. Do not mock or disrupt meaningful conversations.",
+ "real_life_bn": "কেউ সত্য কথা বললে বা কুরআন তিলাওয়াত করলে শ্রদ্ধার সাথে শুনুন। কোনো ভালো ও গঠনমূলক আলোচনার মাঝে বিশৃঙ্খলা সৃষ্টি করবেন না।",
+ "themes": [
+  "the Quran",
+  "disbelief",
+  "arrogance",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Disbelievers urged each other not to listen to the Quran and to make loud noise during its recitation hoping to drown out the truth.",
+   "claim_bn": "কাফিররা পরস্পরকে কুরআন না শুনতে এবং তিলাওয়াতের সময় শোরগোল করতে উৎসাহিত করত যাতে তারা সত্যকে স্তব্ধ করতে পারে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

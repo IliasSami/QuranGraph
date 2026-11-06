@@ -1,0 +1,74 @@
+{
+  "id": "40:26",
+  "simple_en": "Pharaoh said to his court, Let me kill Musa, and let him call upon his Lord to save him. Pharaoh claimed he was afraid that Musa would change their religion or spread disorder across the land.",
+  "simple_bn": "ফিরআউন তার পারিষদদের বলল, আমাকে মূসাকে হত্যা করতে দাও, আর সে তার রবকে ডাকুক। ফিরআউন দাবি করল যে সে ভয় পায় মূসা তাদের ধর্ম বদলে দেবে অথবা দেশে বিশৃঙ্খলা সৃষ্টি করবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "قتل",
+      "lemma": "قَتَلَ",
+      "meaning_en": "I kill",
+      "meaning_bn": "আমি হত্যা করব",
+      "why_en": "Reveals Pharaoh's murderous intent toward the messenger of Allah."
+    },
+    {
+      "pos": 5,
+      "root": null,
+      "lemma": "مُوسَى",
+      "meaning_en": "Musa",
+      "meaning_bn": "মূসা",
+      "why_en": "The intended target of the tyrant's death threat."
+    },
+    {
+      "pos": 18,
+      "root": "فسد",
+      "lemma": "فَساد",
+      "meaning_en": "corruption / disorder",
+      "meaning_bn": "বিশৃঙ্খলা বা বিপর্যয়",
+      "why_en": "Tyrants cynically accuse truth-tellers of causing corruption."
+    }
+  ],
+  "lesson_en": "Unjust leaders often blame good people for the harm they cause.",
+  "lesson_bn": "স্বৈরাচারী শাসকরা প্রায়শই সত্যপন্থীদের ওপর নিজেদের কৃত অপরাধ ও বিশৃঙ্খলা চাপিয়ে দেয়।",
+  "real_life_en": "Be careful when power-hungry people try to blame good people for problems. Always seek facts rather than believing false political talk.",
+  "real_life_bn": "সমাজে অন্যায়কারী ব্যক্তিরা নিজেদের দোষ ঢাকতে অন্যদের ওপর মিথ্যা অপবাদ দিলে সতর্ক থাকুন। গুজবে কান না দিয়ে সর্বদা সত্য অনুসন্ধান করুন।",
+  "themes": [
+    "stories of the prophets",
+    "arrogance",
+    "justice"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "pharaoh",
+      "musa"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh resolved to kill Musa, alleging Musa would change their religion or cause corruption.",
+      "claim_bn": "ফিরআউন মূসাকে হত্যার ইচ্ছা প্রকাশ করে দাবি করেছিল যে মূসা তাদের দ্বীন পরিবর্তন করবে বা দেশে বিশৃঙ্খলা ছড়াবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,66 @@
+{
+  "id": "26:40",
+  "simple_en": "The rulers hoped that the magicians would win so that people would stay with their old ways. They wanted to keep their power over the crowd.",
+  "simple_bn": "তারা বলল, যদি জাদুকরেরা জয়ী হয় তবে আমরা যেন তাদের ধর্মেরই অনুসরণ করতে পারি এবং প্রচলিত ধর্মে অটল থাকতে পারি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "نَتَّبِعُ",
+      "root": "تبع",
+      "lemma": "اتَّبَعَ",
+      "meaning_en": "we follow",
+      "meaning_bn": "আমরা অনুসরণ করি",
+      "why_en": "Adopting the religious practices and outcome of the victor."
+    },
+    {
+      "pos": 7,
+      "arabic": "ٱلْغَٰلِبِينَ",
+      "root": "غلب",
+      "lemma": "غالِب",
+      "meaning_en": "the victorious",
+      "meaning_bn": "বিজয়ীগণ",
+      "why_en": "Those who prevail in the public challenge."
+    }
+  ],
+  "lesson_en": "People often stick to old habits just because they fear change and loss of power.",
+  "lesson_bn": "মানুষ অন্ধ অনুকরণের বশে সত্য যাচাই না করেই সংখ্যাগরিষ্ঠ বা ক্ষমতাবানদের মতাদর্শ অনুসরণ করতে চায়।",
+  "real_life_en": "Follow what is right rather than following the crowd. Choose the truth based on facts, not popularity.",
+  "real_life_bn": "কোনো দল বা ব্যক্তিত্বের অন্ধ অনুসরণ করবেন না। সর্বদা সত্য ও ন্যায়ের পক্ষে নিজের অবস্থান নিশ্চিত করুন।",
+  "themes": [
+    "blind-following",
+    "tradition",
+    "faith"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Contest with the Magicians"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The rulers hoped the magicians would win so the people would remain upon their ancestral religion.",
+      "claim_bn": "তারা আশা করেছিল যাদুকররা বিজয়ী হলে তারা বাপ-দাদার ধর্মেই অটল থাকতে পারবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

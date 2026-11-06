@@ -1,0 +1,79 @@
+{
+  "id": "50:27",
+  "simple_en": "The devil who accompanied the sinner in life will disown him before Allah. He will say: Our Lord, I did not force him into wrongdoing. He chose error by himself and wandered far from the truth.",
+  "simple_bn": "দুনিয়ায় মানুষের সাথে থাকা শয়তান সঙ্গীটি সেদিন তার সাথে সম্পর্ক অস্বীকার করবে। সে বলবে: হে আমাদের রব, আমি তাকে জোর করে বিদ্রোহী করিনি। সে নিজেই সত্য থেকে বহু দূরে চরম ভ্রান্তির মধ্যে ছিল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قرن",
+      "lemma": "قَرِين",
+      "meaning_en": "his companion (devil)",
+      "meaning_bn": "তার সহচর (শয়তান)",
+      "why_en": "The personal devil that whispered evil to the person during life."
+    },
+    {
+      "pos": 5,
+      "root": "طغي",
+      "lemma": "أَطْغَيْ",
+      "meaning_en": "caused him to transgress",
+      "meaning_bn": "বিদ্রোহী বা সীমালঙ্ঘনকারী করেছি",
+      "why_en": "The devil claims he had no power to compel the person into sin."
+    },
+    {
+      "pos": 9,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "misguidance or error",
+      "meaning_bn": "বিভ্রান্তি বা পথভ্রষ্টতা",
+      "why_en": "Wandering far from truth by one's own voluntary choices."
+    }
+  ],
+  "lesson_en": "Own your choices today. Satan will leave you all alone on the Last Day.",
+  "lesson_bn": "নিজের কাজের দায়ভার নিজেই নিন, কারণ কিয়ামতের দিন শয়তান আপনাকে একা ফেলে পালিয়ে যাবে।",
+  "real_life_en": "Do not let bad friends push you into wrongdoing. When trouble comes, they will make excuses and leave you to face the blame alone.",
+  "real_life_bn": "খারাপ বন্ধুদের কথায় অন্যায় কাজে জড়িয়ে পড়বেন না, কারণ বিপদের সময় তারা দায় এড়িয়ে আপনাকেই বিপদে ফেলবে।",
+  "context_en": "The evil companion attempts to clear himself of responsibility for the sinner's downfall.",
+  "context_bn": "শয়তান সহচরটি পাপীকে বিপথগামী করার দায় এড়াতে আল্লাহর সামনে নিজেকে নির্দোষ দাবি করবে।",
+  "themes": [
+    "Satan",
+    "misguidance",
+    "human nature",
+    "judgment"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "satan",
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah",
+      "ar-rabb"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Satan will disown the sinner on the Day of Judgement, arguing that the person chose misguidance freely.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

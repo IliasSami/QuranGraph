@@ -1,0 +1,83 @@
+{
+  "id": "7:148",
+  "simple_en": "While Moses was away on the mountain, his people melted their gold jewelry and formed a statue of a calf that made a hollow sound. Did they not notice that it could neither talk to them nor guide them to any path? Yet they took it as a god and wronged their own souls.",
+  "simple_bn": "মূসার অনুপস্থিতিতে তাঁর সম্প্রদায় নিজেদের অলংকার গলিয়ে একটি বাছুরের মূর্তি তৈরি করল, যা ছিল এক নিরেট অবয়ব এবং তা থেকে 'হাম্বা' শব্দ বের হতো। তারা কি ভাবল না যে, এটি তাদের সাথে কথা বলে না এবং কোনো পথও দেখাতে পারে না? তবু তারা তাকে উপাস্য বানিয়ে নিল এবং নিজেদের প্রতি চরম যুলুম করল।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "حلي",
+      "lemma": "حُلِيّ",
+      "meaning_en": "their ornaments / jewelry",
+      "meaning_bn": "নিজেদের অলংকার",
+      "why_en": "Egyptian gold and trinkets used to cast the idol."
+    },
+    {
+      "pos": 8,
+      "root": "عجل",
+      "lemma": "عِجْل",
+      "meaning_en": "a calf",
+      "meaning_bn": "একটি বাছুর",
+      "why_en": "The physical idol forged while Moses was at Sinai."
+    },
+    {
+      "pos": 11,
+      "root": "خور",
+      "lemma": "خُوار",
+      "meaning_en": "a lowing sound",
+      "meaning_bn": "হাম্বা শব্দ / ডাক",
+      "why_en": "The hollow wind noise that deceived the ignorant into worshipping it."
+    }
+  ],
+  "lesson_en": "Worshipping objects made by human hands makes no sense.",
+  "lesson_bn": "মানুষের তৈরি কোনো বস্তুকে উপাস্য মনে করা মানবীয় বুদ্ধিবৃত্তির জন্য চরম অবমাননাকর।",
+  "real_life_en": "Do not let shiny material things distract you from worshipping the true Creator. Money and possessions cannot talk to you or solve your deepest needs. Keep your heart set on God alone.",
+  "real_life_bn": "পার্থিব সম্পদ বা চাকচিক্যের মোহে অন্ধ হয়ে সত্য পথ হারাবেন না। ধনসম্পদ কখনো মানুষকে সঠিক পথ দেখাতে পারে না।",
+  "context_en": "The dramatic fall of the Israelites into idolatry during Moses' absence on Mount Sinai.",
+  "context_bn": "তুর পাহাড়ে মূসার অবস্থানের সুযোগে বনী ইসরাঈলের গো-বাছুর পূজায় লিপ্ত হওয়ার ঘটনা।",
+  "themes": [
+    "the golden calf",
+    "idolatry",
+    "shirk",
+    "folly of false gods"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Sinai"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "worship of the golden calf"
+    ],
+    "things": [
+      "golden calf",
+      "jewelry"
+    ]
+  },
+  "claims": [
+    {
+      "text": "In Moses' absence, his people fashioned a calf from gold ornaments that made a sound, worshipping it despite its obvious lifelessness.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

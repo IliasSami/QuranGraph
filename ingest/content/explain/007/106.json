@@ -1,0 +1,85 @@
+{
+ "id": "7:106",
+ "simple_en": "Pharaoh doubted Musa's words and demanded physical evidence. He told Musa that if he had truly brought a miracle from God, he should show it now. Pharaoh challenged him to prove that he was telling the truth.",
+ "simple_bn": "ফিরআউন মূসা (আলাইহিস সালাম)-এর বক্তব্যে সন্দেহ প্রকাশ করল এবং চাক্ষুষ প্রমাণ চাইল। সে মূসাকে বলল, যদি তুমি সত্যিই আল্লাহর পক্ষ থেকে কোনো নিদর্শন এনে থাকো, তবে তা এখনই সবার সামনে পেশ করো। এভাবে সে মূসার সত্যবাদিতা প্রমাণের জন্য সরাসরি চ্যালেঞ্জ ছুঁড়ে দিল।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "أيي",
+   "lemma": "آيَة",
+   "meaning_en": "with a sign / miracle",
+   "meaning_bn": "কোনো নিদর্শনসহ",
+   "why_en": "Pharaoh demands visible empirical proof of Musa's prophethood."
+  },
+  {
+   "pos": 6,
+   "root": "أتي",
+   "lemma": "أَتَى",
+   "meaning_en": "then produce / bring it",
+   "meaning_bn": "তবে তা পেশ কর",
+   "why_en": "A direct challenge issued to Musa to display his miraculous sign."
+  },
+  {
+   "pos": 11,
+   "root": "صدق",
+   "lemma": "صادِق",
+   "meaning_en": "the truthful",
+   "meaning_bn": "সত্যবাদীদের অন্তর্ভুক্ত",
+   "why_en": "Pharaoh casts doubt on Musa's honesty by questioning his truthfulness."
+  }
+ ],
+ "lesson_en": "When people doubt your words, stay calm and rely on clear truth from Allah.",
+ "lesson_bn": "সন্দেহবাদীদের অযৌক্তিক প্রশ্নের মুখে বিচলিত না হয়ে আল্লাহর সত্য ও প্রমাণের ওপর অবিচল ভরসা রাখুন।",
+ "real_life_en": "When presenting facts at school or work, people may challenge your honesty. Do not take it personally or lose your temper. Simply offer your verifiable evidence calmly and let the facts speak.",
+ "real_life_bn": "পড়ালেখা বা কর্মক্ষেত্রে আপনার কথার সত্যতা নিয়ে কেউ প্রশ্ন তুললে উত্তেজিত হবেন না। ধৈর্য ধরে সঠিক প্রমাণ ও তথ্য তুলে ধরুন। শান্তভাবে স্পষ্ট দলিল উপস্থাপন করলে সত্য সহজেই প্রতিষ্ঠিত হয়।",
+ "context_en": "Pharaoh responds to Musa's call by challenging him to produce a verifiable miracle proving his divine mission.",
+ "context_bn": "মূসার বক্তব্য শুনে ফিরআউন অহংকারভরে তাঁর সত্যবাদিতার প্রমাণ হিসেবে মু'জিযা দেখানোর দাবি জানায়।",
+ "themes": [
+  "Musa",
+  "Pharaoh",
+  "demanding miracles",
+  "skepticism",
+  "truthfulness"
+ ],
+ "kinds": [
+  "story",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "Pharaoh",
+   "Musa (Moses)"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "miracle / sign"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Pharaoh challenged Musa to present the sign he claimed to possess if he was truthful.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Pharaoh demanded tangible proof before believing Musa's prophetic claim.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

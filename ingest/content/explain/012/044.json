@@ -1,0 +1,93 @@
+{
+  "id": "12:44",
+  "simple_en": "The court advisors could not explain the dream. They said it was just a confused mix of thoughts. They admitted that they did not know how to read such mixed-up dreams.",
+  "simple_bn": "রাজার সভাসদরা স্বপ্নের অর্থ বুঝতে ব্যর্থ হলো। তারা বলল, এগুলো বিভ্রান্তিকর স্বপ্নের জটলা মাত্র। তারা অকপটে স্বীকার করল যে এমন এলোমেলো স্বপ্নের ব্যাখ্যা তাদের জানা নেই।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ضغث",
+      "lemma": "ضِغْث",
+      "meaning_en": "confused mix",
+      "meaning_bn": "এলোমেলো জটলা",
+      "why_en": "The court brushed off the profound vision as random mental clutter."
+    },
+    {
+      "pos": 3,
+      "root": "حلم",
+      "lemma": "حُلُم",
+      "meaning_en": "dreams",
+      "meaning_bn": "স্বপ্নসমূহ",
+      "why_en": "Ordinary or confused night thoughts with no divine significance."
+    },
+    {
+      "pos": 6,
+      "root": "أول",
+      "lemma": "تَأْوِيل",
+      "meaning_en": "interpretation",
+      "meaning_bn": "ব্যাখ্যা বা রহস্যভেদ",
+      "why_en": "Deciphering the symbolic meaning behind true visions."
+    },
+    {
+      "pos": 8,
+      "root": "علم",
+      "lemma": "عالِم",
+      "meaning_en": "learned / skilled",
+      "meaning_bn": "জ্ঞানী বা অভিজ্ঞ",
+      "why_en": "The nobles admitted their lack of true insight into divine signs."
+    }
+  ],
+  "lesson_en": "Admit when you do not know something. It is better to be humble than to guess.",
+  "lesson_bn": "না জানা থাকলে তা স্বীকার করুন। আন্দাজে অনুমান করার চেয়ে অজ্ঞতা স্বীকার করা শ্রেয়।",
+  "real_life_en": "A mechanic is asked to fix an engine they do not understand. Instead of guessing and risking harm, they admit they do not know and send the driver to an expert.",
+  "real_life_bn": "একজন মেকানিক কোনো জটিল ত্রুটি বুঝতে না পেরে বানিয়ে কথা না বলে ড্রাইভারকে অভিজ্ঞ বিশেষজ্ঞের কাছে যাওয়ার পরামর্শ দেন।",
+  "context_en": "When the court sages failed to interpret the king's vision, the stage was set for Yusuf's unique gift.",
+  "context_bn": "রাজার পারিষদরা ব্যাখ্যা দিতে ব্যর্থ হওয়ায় ইউসুফের বিশেষ জ্ঞানের প্রয়োজনীয়তা স্পষ্ট হয়ে উঠল।",
+  "themes": [
+    "honesty in knowledge",
+    "humility",
+    "divine wisdom"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "king of Egypt",
+      "court advisors"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "dream"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The advisors called the king's dream a muddled mixture of illusions.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They admitted that they lacked the ability to interpret such confused dreams.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

@@ -1,0 +1,91 @@
+{
+ "id": "42:24",
+ "simple_en": "Do they claim that the Prophet made up a lie about Allah? If Allah willed, He could seal your heart. Allah wipes out falsehood and confirms the truth by His words. He knows all the secrets kept inside human hearts.",
+ "simple_bn": "তারা কি বলে যে নবী আল্লাহর উপর মিথ্যা অপবাদ দিয়েছেন? আল্লাহ চাইলে আপনার অন্তরে মোহর মেরে দিতেন। আল্লাহ মিথ্যাকে মুছে দেন এবং তাঁর বাণী দিয়ে সত্যকে সুপ্রতিষ্ঠিত করেন। অন্তরে যা কিছু লুকিয়ে থাকে সে সম্পর্কে তিনি সম্যক অবগত।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "قول",
+   "lemma": "قالَ",
+   "meaning_en": "they say",
+   "meaning_bn": "তারা বলে",
+   "why_en": "Exposes the baseless accusations made by deniers against the Prophet."
+  },
+  {
+   "pos": 10,
+   "root": "ختم",
+   "lemma": "خَتَمَ",
+   "meaning_en": "He would seal",
+   "meaning_bn": "তিনি মোহর মেরে দিতেন",
+   "why_en": "Shows that Allah protects divine revelation from human alteration."
+  },
+  {
+   "pos": 13,
+   "root": "محو",
+   "lemma": "مَحَوْ",
+   "meaning_en": "and He erases",
+   "meaning_bn": "এবং তিনি মুছে দেন",
+   "why_en": "Affirms that falsehood is doomed to vanish before divine truth."
+  },
+  {
+   "pos": 17,
+   "root": "حقق",
+   "lemma": "حَقّ",
+   "meaning_en": "the truth",
+   "meaning_bn": "সত্য",
+   "why_en": "Points to Allah's unchanging promise to make truth prevail."
+  },
+  {
+   "pos": 20,
+   "root": "علم",
+   "lemma": "عَلِيم",
+   "meaning_en": "All-Knowing",
+   "meaning_bn": "সম্যক অবগত",
+   "why_en": "Affirms that nothing hidden in human thoughts escapes Allah's knowledge."
+  }
+ ],
+ "lesson_en": "Falsehood will always fade away, and Allah will make the truth stand firm.",
+ "lesson_bn": "মিথ্যা সবসময় দূর হয়ে যায় এবং মহান আল্লাহ সত্যকে দৃঢ়ভাবে প্রতিষ্ঠিত করেন।",
+ "real_life_en": "When false rumors or unfair words are spoken about you, stay patient and cling to the truth. Allah knows what is in every heart, and He will make the truth clear in time.",
+ "real_life_bn": "কেউ আপনাকে নিয়ে অপবাদ বা মিথ্যা কথা বললে ধৈর্য ধরুন এবং সত্যের উপর থাকুন। আল্লাহ মানুষের মনের সব খবর জানেন এবং তিনি সত্যকে প্রকাশ করে দেবেন।",
+ "themes": [
+  "prophethood",
+  "the Quran",
+  "Allah's knowledge",
+  "justice"
+ ],
+ "kinds": [
+  "argument",
+  "belief",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The Prophet did not invent lies against Allah; Allah establishes truth and knows all thoughts in human chests.",
+   "claim_bn": "নবী আল্লাহর উপর কোনো মিথ্যা আরোপ করেননি; আল্লাহ সত্যকে বিজয়ী করেন এবং অন্তরের সব ভেদ জানেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

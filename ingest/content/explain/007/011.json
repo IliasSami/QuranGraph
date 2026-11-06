@@ -1,0 +1,90 @@
+{
+ "id": "7:11",
+ "simple_en": "Allah created human life by making your father Adam from clay. He gave him an upright and noble shape. Then Allah commanded the angels to prostrate before Adam as a sign of respect and honor. All the angels obeyed and prostrated. Only Iblis refused to bow down with them.",
+ "simple_bn": "আল্লাহ মানুষের আদি পিতা আদমকে মাটি দিয়ে সৃষ্টি করেছেন এবং সুন্দর আকৃতি দান করেছেন। এরপর তিনি ফেরেশতাদের নির্দেশ দিলেন আদমকে সম্মান জানিয়ে সিজদা করতে। সব ফেরেশতা তখনই সিজদা করলেন, কিন্তু ইবলিস অহংকারবশত সিজদা করতে অস্বীকার করল এবং অবাধ্যদের অন্তর্ভুক্ত হলো।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "We created you",
+   "meaning_bn": "আমরা তোমাদের সৃষ্টি করেছি",
+   "why_en": "Recalls the origin of humanity starting with the creation of Adam."
+  },
+  {
+   "pos": 4,
+   "root": "صور",
+   "lemma": "صَوَّرَ",
+   "meaning_en": "We shaped you",
+   "meaning_bn": "আমরা তোমাদের আকৃতি দিয়েছি",
+   "why_en": "Refers to giving human form beauty and upright stature."
+  },
+  {
+   "pos": 8,
+   "root": "سجد",
+   "lemma": "سَجَدَ",
+   "meaning_en": "prostrate yourselves",
+   "meaning_bn": "তোমরা সিজদা করো",
+   "why_en": "The divine order to honor Adam through prostration of respect."
+  }
+ ],
+ "lesson_en": "Obey Allah with a humble heart. Beware of pride and Satan's envy.",
+ "lesson_bn": "আল্লাহর আদেশের সামনে অহংকার ত্যাগ করে বিনীতভাবে আনুগত্য প্রকাশ করুন।",
+ "real_life_en": "Allah gave you a noble mind and form. Never waste your potential on sinful habits or low desires. When Allah gives a command, obey at once rather than making excuses like Iblis did.",
+ "real_life_bn": "আল্লাহ মানুষকে সম্মানিত সৃষ্টি হিসেবে রূপ দিয়েছেন। নিজের জীবনকে অসৎ কাজে নষ্ট করবেন না। যখন কোনো ভালো কাজের আদেশ আসে, অলসতা বা বাহানা না করে দ্রুত সাড়া দিন।",
+ "context_en": "The narrative of human creation begins with the honor given to Adam and the rebellion of Iblis.",
+ "context_bn": "আদম আলাইহিস সালামের সম্মান ও সৃষ্টি এবং ইবলিসের ঔদ্ধত্যের মাধ্যমে মানব সৃষ্টির ইতিহাস শুরু হয়েছে।",
+ "themes": [
+  "creation of Adam",
+  "angels",
+  "Iblis",
+  "prostration",
+  "disobedience"
+ ],
+ "kinds": [
+  "story",
+  "belief",
+  "command"
+ ],
+ "entities": {
+  "people": [
+   "Adam"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "angels",
+   "Iblis"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [
+   "prostration to Adam"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah originated human creation with Adam, gave him form, and commanded the angels to prostrate to him out of respect.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "All the angels complied with Allah's command to prostrate, except Iblis who obstinately refused.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

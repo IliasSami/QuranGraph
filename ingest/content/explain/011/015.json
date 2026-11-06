@@ -1,0 +1,81 @@
+{
+  "id": "11:15",
+  "simple_en": "Whoever cares only for the life of this world and its fleeting charms will receive full payment for their worldly efforts. They will not be denied what they worked for in this temporary life.",
+  "simple_bn": "যে ব্যক্তি কেবল পার্থিব জীবন ও এর সৌন্দর্য কামনা করে, দুনিয়াতে আমরা তাদের কর্মের পূর্ণ প্রতিফল দিয়ে দিই এবং তাতে কোনো কমতি করা হয় না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "رود",
+      "lemma": "يُرِيدُ",
+      "meaning_en": "desires / seeks",
+      "meaning_bn": "কামনা করে",
+      "why_en": "Focusing one's ultimate intent solely on worldly gain."
+    },
+    {
+      "pos": 5,
+      "root": "دنو",
+      "lemma": "دُنْيا",
+      "meaning_en": "this worldly life",
+      "meaning_bn": "পার্থিব জীবন",
+      "why_en": "The short and temporary existence on earth."
+    },
+    {
+      "pos": 6,
+      "root": "زين",
+      "lemma": "زِينَة",
+      "meaning_en": "adornment / glitter",
+      "meaning_bn": "শোভা / সৌন্দর্য",
+      "why_en": "The material allurements of wealth, status, and luxury."
+    },
+    {
+      "pos": 14,
+      "root": "بخس",
+      "lemma": "يُبْخَسُونَ",
+      "meaning_en": "deprived / diminished",
+      "meaning_bn": "কম দেওয়া হয় না",
+      "why_en": "Receiving complete temporal reward without reduction."
+    }
+  ],
+  "lesson_en": "Working only for material gains leaves a person empty of reward in the life to come.",
+  "lesson_bn": "কেবল পার্থিব লাভের আশায় কাজ করলে পরকালে কোনো সওয়াব পাওয়া যাবে না; তাই আখিরাতের নিয়ত রাখুন।",
+  "real_life_en": "Do good deeds for the sake of Allah, not just for applause or money. When your intentions are pure, you earn peace here and reward in the Hereafter.",
+  "real_life_bn": "যেকোনো ভালো কাজ করার সময় মানুষের প্রশংসা বা জাগতিক স্বার্থের চেয়ে আল্লাহর সন্তুষ্টিকে প্রাধান্য দিন।",
+  "themes": [
+    "worldly desires",
+    "intention and reward",
+    "fleeting nature of the world"
+  ],
+  "kinds": [
+    "warning",
+    "ethics",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "this world"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "worldly adornments"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Those who strive purely for worldly success receive their temporal recompense in full, but forfeit any share in the Hereafter.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

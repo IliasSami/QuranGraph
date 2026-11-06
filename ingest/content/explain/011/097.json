@@ -1,0 +1,83 @@
+{
+  "id": "11:97",
+  "simple_en": "Moses was sent to Pharaoh and his ruling council. Yet the people foolishly chose to obey Pharaoh's orders, even though his decisions were reckless and devoid of true wisdom.",
+  "simple_bn": "ফিরআউন ও তার সভাসদদের কাছে। কিন্তু তারা ফিরআউনের নির্দেশেরই অনুসরণ করল; অথচ ফিরআউনের নির্দেশ মোটেই সঠিক ছিল না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ملأ",
+      "lemma": "مَلَأ",
+      "meaning_en": "his chiefs / assembly",
+      "meaning_bn": "তার পারিষদবর্গ",
+      "why_en": "The elite establishment supporting tyranny."
+    },
+    {
+      "pos": 4,
+      "root": "تبع",
+      "lemma": "اتَّبَعَ",
+      "meaning_en": "they followed",
+      "meaning_bn": "তারা অনুসরণ করল",
+      "why_en": "Blind obedience to an unjust ruler."
+    },
+    {
+      "pos": 5,
+      "root": "أمر",
+      "lemma": "أَمْر",
+      "meaning_en": "command",
+      "meaning_bn": "আদেশ / কাজ",
+      "why_en": "The decrees and policies of Pharaoh."
+    },
+    {
+      "pos": 10,
+      "root": "رشد",
+      "lemma": "رَشِيد",
+      "meaning_en": "right-minded / wise",
+      "meaning_bn": "সঠিক / প্রজ্ঞাময়",
+      "why_en": "Pharaoh's lack of moral and sound discernment."
+    }
+  ],
+  "lesson_en": "Following an evil leader leads people into harm and ruin.",
+  "lesson_bn": "অত্যাচারী নেতার অন্ধ আনুগত্য মানুষকে বিভ্রান্তি ও ধ্বংসের দিকে নিয়ে যায়।",
+  "real_life_en": "Do not follow bad leaders just because they are famous or powerful. Look at what they do and choose what is right.",
+  "real_life_bn": "ক্ষমতাধর কোনো ব্যক্তির অন্যায় আদেশ অন্ধভাবে মেনে নেবেন না। নিজের বিবেক ও নৈতিক মানদণ্ডের ভিত্তিতে সঠিক সিদ্ধান্ত নিন।",
+  "themes": [
+    "story of Musa",
+    "tyranny of Pharaoh",
+    "blind obedience",
+    "false leadership"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Musa (peace be upon him)",
+      "Fir'awn (Pharaoh)"
+    ],
+    "nations": [
+      "People of Fir'awn"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Pharaoh's court blindly adhered to his flawed decrees, ignoring the clear guidance brought by Moses.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

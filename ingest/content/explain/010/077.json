@@ -1,0 +1,77 @@
+{
+  "id": "10:77",
+  "simple_en": "Moses said: Do you speak of the truth like this when it has reached you? Is this magic? Real magicians never achieve true success or defeat the truth.",
+  "simple_bn": "মূসা বললেন: সত্য যখন তোমাদের কাছে আসল তখন কি তোমরা তা সম্পর্কে এমন কথা বলছ? এটা কি জাদু? অথচ জাদুকরেরা কখনোই সফল হয় না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "Divine message backed by undeniable signs."
+    },
+    {
+      "pos": 7,
+      "root": "سحر",
+      "lemma": "سِحْر",
+      "meaning_en": "is this magic?",
+      "meaning_bn": "এটা কি জাদু?",
+      "why_en": "Refuting the accusation that divine miracles are sorcery."
+    },
+    {
+      "pos": 10,
+      "root": "فلح",
+      "lemma": "أَفْلَحَ",
+      "meaning_en": "they succeed",
+      "meaning_bn": "সফলকাম হয়",
+      "why_en": "Sorcery and deception can never triumph over divine truth."
+    }
+  ],
+  "lesson_en": "Lies can never beat the truth. False tricks always fall apart before what is real.",
+  "lesson_bn": "মিথ্যার ছলচাতুরী বা জাদু কখনো সত্যকে পরাভূত করতে পারে না; সত্যের বিজয় অবধারিত।",
+  "real_life_en": "Do not be intimidated by deceit or flashy manipulation. Stand firm on honesty, knowing that truth will outlast every trick.",
+  "real_life_bn": "কারও কূটকৌশল বা প্রতারণা দেখে বিচলিত হবেন না; সততার ওপর অটল থাকলে প্রতারণা নিজেই ধ্বংস হবে।",
+  "themes": [
+    "truth versus magic",
+    "failure of sorcerers",
+    "prophetic conviction"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Musa (Moses)"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Moses debating Pharaoh's court"
+    ],
+    "things": [
+      "magic",
+      "truth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Moses challenged the accusation of magic, noting that sorcerers never attain true success.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

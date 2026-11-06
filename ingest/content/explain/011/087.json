@@ -1,0 +1,82 @@
+{
+  "id": "11:87",
+  "simple_en": "His people mocked him with sarcasm. They asked if his regular prayers commanded them to give up their ancestors' idols. They also resented being told how to spend their own money. Yet they sarcastically called him patient and sensible.",
+  "simple_bn": "তারা ব্যঙ্গ করে বলল, হে শুআইব, তোমার সালাত কি তোমাকে আমাদের পূর্বপুরুষদের উপাস্য বর্জন করতে শেখায়? আমরা কি নিজেদের ধন-সম্পদ ইচ্ছামতো ব্যয় করতে পারব না? নিশ্চয়ই তুমি তো খুব সহনশীল ও সুবোধ ব্যক্তি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "صلو",
+      "lemma": "صَلاة",
+      "meaning_en": "prayer",
+      "meaning_bn": "নামাজ / সালাত",
+      "why_en": "Shu'ayb's devotion and frequent prayer."
+    },
+    {
+      "pos": 6,
+      "root": "ترك",
+      "lemma": "تَرَكَ",
+      "meaning_en": "abandon / leave",
+      "meaning_bn": "বর্জন করা",
+      "why_en": "Abandoning idolatrous ancestral traditions."
+    },
+    {
+      "pos": 19,
+      "root": "حلم",
+      "lemma": "حَلِيم",
+      "meaning_en": "forbearing",
+      "meaning_bn": "সহনশীল",
+      "why_en": "Sarcastic use of a noble virtue."
+    },
+    {
+      "pos": 20,
+      "root": "رشد",
+      "lemma": "رَشِيد",
+      "meaning_en": "right-minded",
+      "meaning_bn": "সুবোধ / বুদ্ধিমান",
+      "why_en": "Mocking his moral guidance."
+    }
+  ],
+  "lesson_en": "Faith shapes both our spiritual devotion and how we handle our financial wealth.",
+  "lesson_bn": "ইসলাম কেবল ইবাদত নয়, বরং ধন-সম্পদ ব্যবহারের ক্ষেত্রেও সঠিক নৈতিক বিধান দেয়।",
+  "real_life_en": "Let your prayers show in your daily work. Deal fairly with others and do not cheat in trade.",
+  "real_life_bn": "সালাতের প্রভাব আপনার ব্যবসায়িক ও আর্থিক জীবনে বজায় রাখুন। নিজের সম্পদের ব্যাপারেও আল্লাহর বিধান মেনে চলা জরুরি।",
+  "themes": [
+    "story of Shu'ayb",
+    "prayer",
+    "financial ethics",
+    "ancestral tradition",
+    "mockery of prophets"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb (peace be upon him)"
+    ],
+    "nations": [
+      "People of Madyan"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people of Madyan sarcastically rejected Shu'ayb's message, refusing to let divine law govern their business transactions and ancestral idols.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

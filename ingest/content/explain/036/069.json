@@ -1,0 +1,80 @@
+{
+  "id": "36:69",
+  "simple_en": "Allah did not teach the Prophet poetry, and writing poems does not suit his noble rank. What he brought is not poetry from men, but a divine reminder and a clear Quran full of truth.",
+  "simple_bn": "আল্লাহ নবিকে কবিতা শেখাননি এবং কবিতা রচনা তাঁর মর্যাদার সাথে মানানসইও নয়। তিনি যা নিয়ে এসেছেন তা কোনো কাল্পনিক কথা নয়, বরং এক উপদেশ ও সুস্পষ্ট কুরআন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "شعر",
+      "lemma": "شِعْر",
+      "meaning_en": "poetry",
+      "meaning_bn": "কবিতা",
+      "why_en": "Refutes the false claim of idolaters who called the Prophet a poet."
+    },
+    {
+      "pos": 5,
+      "root": "بغي",
+      "lemma": "يَنۢبَغِي",
+      "meaning_en": "is suitable / befitting",
+      "meaning_bn": "মানানসই বা শোভনীয়",
+      "why_en": "Confirms that composing poetry does not suit the dignity of prophethood."
+    },
+    {
+      "pos": 10,
+      "root": "ذكر",
+      "lemma": "ذِكْر",
+      "meaning_en": "a reminder",
+      "meaning_bn": "এক উপদেশ",
+      "why_en": "The Quran serves to awaken heedless hearts to the remembrance of Allah."
+    },
+    {
+      "pos": 12,
+      "root": "بين",
+      "lemma": "مُبِين",
+      "meaning_en": "a recitation / Quran",
+      "meaning_bn": "কুরআন",
+      "why_en": "The clear, divine scripture revealed to guide humanity."
+    }
+  ],
+  "lesson_en": "The Quran is pure divine truth, not human poetry or invention.",
+  "lesson_bn": "কুরআন মহান আল্লাহর বাণী, এটি মানুষের বানানো কোনো কাব্য নয়।",
+  "real_life_en": "Read the Quran as a direct message of guidance from your Lord. Do not treat it as plain text, but live by its clear rules.",
+  "real_life_bn": "কুরআনকে মহান আল্লাহর প্রত্যক্ষ উপদেশ হিসেবে গ্রহণ করুন। কেবল পাঠের মধ্যে সীমাবদ্ধ না রেখে এর শিক্ষাকে জীবনে বাস্তবায়ন করুন।",
+  "themes": [
+    "the Quran",
+    "prophethood",
+    "revelation",
+    "truth"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah did not teach the Prophet poetry, nor is it fitting for him; the revelation is solely a reminder and a clear Quran.",
+      "claim_bn": "আল্লাহ রাসুলকে কবিতা শেখাননি এবং তা তাঁর জন্য শোভনীয়ও নয়, এ কুরআন কেবল এক উপদেশ ও স্পষ্ট ঐশী গ্রন্থ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

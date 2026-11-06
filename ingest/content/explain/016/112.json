@@ -1,0 +1,64 @@
+{
+  "id": "16:112",
+  "simple_en": "Allah gives a parable of a town that was safe and secure, receiving rich food from every place. But it denied God's favors, so hunger and fear struck it down.",
+  "simple_bn": "আল্লাহ এক জনপদের উপমা দিচ্ছেন যা ছিল নিরাপদ ও শান্তিময়, যেখানে সর্বদিক থেকে প্রচুর জীবিকা আসত। কিন্তু তারা আল্লাহর নেয়ামতের অকৃতজ্ঞতা করল, ফলে আল্লাহ তাদের ক্ষুধা ও ভয়ের স্বাদ আস্বাদন করালেন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "قري",
+      "lemma": "قَرْيَة",
+      "meaning_en": "a township",
+      "meaning_bn": "এক জনপদ",
+      "why_en": "A once prosperous community given as a cautionary parable."
+    },
+    {
+      "pos": 20,
+      "root": "جوع",
+      "lemma": "جُوع",
+      "meaning_en": "hunger",
+      "meaning_bn": "ক্ষুধা",
+      "why_en": "Famine resulting from collective ingratitude."
+    }
+  ],
+  "lesson_en": "Peace and plenty depend on gratitude to God. Ingratitude turns blessing into poverty and fear.",
+  "lesson_bn": "নিরাপত্তা ও প্রাচুর্য আল্লাহর নেয়ামত। অকৃতজ্ঞতা সমাজে দারিদ্র্য, ক্ষুধা ও ভয়ের কারণ ডেকে আনে।",
+  "real_life_en": "Guard the peace and prosperity of your nation by practicing thankfulness and honesty. Greed ruins whole cities.",
+  "real_life_bn": "নিজের দেশের শান্তি ও প্রাচুর্যের জন্য কৃতজ্ঞ হোন। অপচয় ও অন্যায় আচরণ সমৃদ্ধ জাতিকে ধ্বংসের মুখে ঠেলে দেয়।",
+  "themes": [
+    "parables",
+    "gratitude",
+    "ingratitude",
+    "security"
+  ],
+  "kinds": [
+    "parable",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "Makkah"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "A secure, well-provided town denied Allah's favors and was struck with hunger and fear as a consequence.",
+      "claim_bn": "একটি নিরাপদ ও সম্পদশালী জনপদ নেয়ামতের অকৃতজ্ঞতা করায় আল্লাহ তাদের ক্ষুধা ও ভয়ের শাস্তি দিলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

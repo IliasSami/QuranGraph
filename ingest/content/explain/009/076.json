@@ -1,0 +1,70 @@
+{
+  "id": "9:76",
+  "simple_en": "Allah gave them great wealth from His bounty. But they became stingy with it and turned away, breaking the promise they had made to Him.",
+  "simple_bn": "অতঃপর যখন তিনি নিজ অনুগ্রহে তাদের দান করলেন, তখন তারা তাতে কার্পণ্য করল এবং অঙ্গীকার ভঙ্গ করে মুখ ফিরিয়ে নিল।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "بخل",
+      "lemma": "بَخِلَ",
+      "meaning_en": "were stingy / miserly",
+      "meaning_bn": "কার্পণ্য করল",
+      "why_en": "Greedily withholding wealth promised for charity."
+    },
+    {
+      "pos": 7,
+      "root": "ولي",
+      "lemma": "تَوَلَّى",
+      "meaning_en": "turned away",
+      "meaning_bn": "বিমুখ হলো",
+      "why_en": "Walking away from religious and moral vows."
+    },
+    {
+      "pos": 9,
+      "root": "عرض",
+      "lemma": "مُعْرِض",
+      "meaning_en": "refusing / evasive",
+      "meaning_bn": "উপেক্ষা প্রদর্শনকারী",
+      "why_en": "Deliberate avoidance of spiritual duty."
+    }
+  ],
+  "lesson_en": "Greed makes people forget the solemn promises they made in times of need.",
+  "lesson_bn": "সম্পদের মোহ মানুষকে নিজের দেওয়া প্রতিশ্রুতি ও শপথ ভুলিয়ে দেয়।",
+  "real_life_en": "Do not let sudden wealth turn your heart stingy. Keep your hands open to help others just as you wished when you had little.",
+  "real_life_bn": "হাতে অর্থকড়ি এলে কৃপণ হবেন না; অভাবের দিনের কথা স্মরণ করে অসহায় মানুষের পাশে দাঁড়ান।",
+  "themes": [
+    "miserliness",
+    "broken promises",
+    "ingratitude"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Upon receiving wealth, hypocrites hoarded it and broke their vows to Allah, turning away in stubborn refusal.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

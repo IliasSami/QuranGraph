@@ -1,0 +1,64 @@
+{
+  "id": "26:37",
+  "simple_en": "They told Pharaoh that these messengers would bring every skilled magician in the land. They wanted them to defeat Moses before the eyes of the public.",
+  "simple_bn": "তারা বলল, সেই সংগ্রাহকরা যেন আপনার কাছে দেশের প্রতিটি অভিজ্ঞ ও সুদক্ষ জাদুকরকে উপস্থিত করে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "arabic": "سَحَّارٍ",
+      "root": "سحر",
+      "lemma": "سَحّار",
+      "meaning_en": "skilled magician",
+      "meaning_bn": "অভিজ্ঞ যাদুকর",
+      "why_en": "A practitioner of illusions and sorcery."
+    },
+    {
+      "pos": 4,
+      "arabic": "عَلِيمٍ",
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "learned",
+      "meaning_bn": "বিজ্ঞ",
+      "why_en": "Highly trained in the arts of deception."
+    }
+  ],
+  "lesson_en": "Falsehood calls on all its forces to fight against the light of truth.",
+  "lesson_bn": "বাতিল শক্তি সত্যকে দমন করার জন্য সমাজের সকল বিভ্রান্তিকর প্রতিভাকে একত্রিত করার চেষ্টা করে।",
+  "real_life_en": "Expect resistance when doing good work. Stay calm because truth remains strong no matter who opposes it.",
+  "real_life_bn": "মিথ্যা যত বড় শক্তিতেই আবির্ভূত হোক, তার স্থায়িত্ব ক্ষণস্থায়ী। ন্যায়ের পথে অবিচল থাকলে মিথ্যা পরাভূত হবে।",
+  "themes": [
+    "gathering",
+    "falsehood",
+    "magic"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "They advised gathering every skilled and learned magician to challenge Moses publicly.",
+      "claim_bn": "তারা পরামর্শ দিল যেন দেশের সমস্ত অভিজ্ঞ যাদুকরকে একত্রিত করে প্রতিযোগিতার মুখোমুখি করা হয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

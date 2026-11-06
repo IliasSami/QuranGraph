@@ -1,0 +1,96 @@
+{
+  "id": "12:47",
+  "simple_en": "Yusuf explained the dream right away without asking for his freedom. He told them to farm hard for seven good years. He advised them to leave the harvest in its ears to keep it fresh, eating only what was needed.",
+  "simple_bn": "ইউসুফ মুক্তির কোনো দাবি না করে সরাসরি স্বপ্নের বাস্তবসম্মত সমাধান দিলেন। তিনি বললেন, তোমরা পরপর সাত বছর ভালোভাবে চাষাবাদ করবে। ফসল কাটার পর সামান্য অংশ খাবারের জন্য রেখে বাকিটা শীষের মধ্যেই সংরক্ষণ করবে যাতে নষ্ট না হয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "زرع",
+      "lemma": "تَزْرَعُ",
+      "meaning_en": "you will plant / sow",
+      "meaning_bn": "তোমরা চাষাবাদ করবে",
+      "why_en": "Direct instruction for productive agricultural planning."
+    },
+    {
+      "pos": 5,
+      "root": "دأب",
+      "lemma": "دَأَب",
+      "meaning_en": "consecutively",
+      "meaning_bn": "একটানা নিরলসভাবে",
+      "why_en": "Demands continuous labor during years of plenty."
+    },
+    {
+      "pos": 7,
+      "root": "حصد",
+      "lemma": "حَصَد",
+      "meaning_en": "you harvest",
+      "meaning_bn": "তোমরা ফসল কাটবে",
+      "why_en": "The grain collected during fertile farming seasons."
+    },
+    {
+      "pos": 10,
+      "root": "سنبل",
+      "lemma": "سُنبُل",
+      "meaning_en": "its ears / spikes",
+      "meaning_bn": "এর শীষের মধ্যে",
+      "why_en": "A brilliant preservation technique to prevent grain decay."
+    }
+  ],
+  "lesson_en": "True wisdom pairs clear insight with helpful action and smart planning.",
+  "lesson_bn": "প্রকৃত প্রজ্ঞা হলো দূরদর্শিতার সাথে সঠিক পরিকল্পনা ও মানবকল্যাণে এগিয়ে আসা।",
+  "real_life_en": "When a family earns extra money during good months, they save it wisely. They do not waste it on luxury. Later, their savings help them survive a slow season.",
+  "real_life_bn": "ভালো আয়ের সময়ে এক পরিবার অপচয় না করে সঞ্চয় করে। পরবর্তীতে কঠিন সময় এলে সেই সঞ্চয় তাদের নিরাপদে দিন কাটাতে সাহায্য করে।",
+  "context_en": "Yusuf explained the first seven years of plenty and provided an innovative grain storage plan.",
+  "context_bn": "ইউসুফ প্রথম সাত বছরের প্রাচুর্যের ব্যাখ্যা দিলেন এবং শস্য সংরক্ষণের এক অনন্য কৌশল শেখালেন।",
+  "themes": [
+    "planning",
+    "stewardship",
+    "generosity",
+    "foresight"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "Egyptians"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "grain",
+      "crops"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf instructed them to cultivate crops continuously for seven fertile years.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He advised leaving harvested grain in its ears to preserve it from decay.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

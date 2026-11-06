@@ -1,0 +1,61 @@
+{
+  "id": "16:94",
+  "simple_en": "Do not use your oaths to cheat one another, lest your feet slip after being firm. You would taste evil for blocking God's way, and face great pain.",
+  "simple_bn": "তোমরা নিজেদের মধ্যকার শপথকে প্রতারণার মাধ্যম বানিয়ো না, অন্যথায় দৃঢ়ভাবে প্রতিষ্ঠিত হওয়ার পর পা পিছলে যাবে এবং মানুষকে আল্লাহর পথে বাধা দেওয়ার কারণে ভয়াবহ শাস্তি ভোগ করবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "يمن",
+      "lemma": "يَمِين",
+      "meaning_en": "your oaths",
+      "meaning_bn": "তোমাদের শপথ",
+      "why_en": "Oaths sworn in mutual agreements."
+    },
+    {
+      "pos": 6,
+      "root": "زلل",
+      "lemma": "زَلَلْ",
+      "meaning_en": "slips",
+      "meaning_bn": "পিছলে যাবে",
+      "why_en": "Metaphor for sudden moral collapse and ruin."
+    }
+  ],
+  "lesson_en": "Breaking oaths ruins trust. Betrayal turns other people away from the truth.",
+  "lesson_bn": "প্রতারণামূলক শপথ মানুষের দ্বীনের ভিত্তিকে নাড়িয়ে দেয় এবং অন্যদের সত্যের পথ থেকে বিচ্যুত করে।",
+  "real_life_en": "Be honest in trade and life. Never cheat people using false promises or holy words.",
+  "real_life_bn": "ধর্মের নাম ভাঙিয়ে কারও সাথে প্রতারণা করবেন না। আপনার অসৎ আচরণের কারণে যেন অন্য কেউ ধর্ম থেকে দূরে না যায়।",
+  "themes": [
+    "honesty",
+    "oaths",
+    "scandal"
+  ],
+  "kinds": [
+    "warning",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Do not use oaths for deceit lest your foot slips after firmness, causing you to taste evil and great punishment.",
+      "claim_bn": "শপথকে প্রতারণার মাধ্যম বানালে দৃঢ়তার পর পা পিছলে যাবে এবং আল্লাহর পথ থেকে বিমুখ করার কারণে মহাশাস্তি ভোগ করতে হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

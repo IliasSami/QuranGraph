@@ -1,0 +1,62 @@
+{
+  "id": "56:64",
+  "simple_en": "Is it you who makes the seed grow into a crop, or is Allah the true Grower? Humans can only plow and water the ground. Allah alone splits the seed, sends up shoots, and produces ears of grain.",
+  "simple_bn": "তোমরাই কি সেই বীজ থেকে ফসল উৎপাদন করো, না কি আল্লাহই আসল ফসল উৎপাদনকারী? মানুষ কেবল জমি চাষ ও পানি দিতে পারে। আল্লাহ একাই বীজ বিদীর্ণ করে সবুজ শস্যদানা তৈরি করেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "زرع",
+      "lemma": "تَزْرَعُ",
+      "meaning_en": "you make it grow",
+      "meaning_bn": "তোমরা তা উৎপাদন করো",
+      "why_en": "Questions human claims to power over agricultural production."
+    },
+    {
+      "pos": 5,
+      "root": "زرع",
+      "lemma": "زارِع",
+      "meaning_en": "the true Grower",
+      "meaning_bn": "আসল উৎপাদনকারী",
+      "why_en": "Affirms that Allah alone gives biological life and growth to plants."
+    }
+  ],
+  "lesson_en": "Every grain of rice on your plate is a direct gift grown by Allah.",
+  "lesson_bn": "আপনার থালার প্রতিটি ভাতের দানা আল্লাহর কুদরতে উৎপাদিত এক বিশেষ উপহার।",
+  "real_life_en": "A rice farmer works under the sun all season. When golden paddy covers his field, he bows down in gratitude to Allah. He knows his effort was small, but Allah made the crop grow.",
+  "real_life_bn": "একজন কৃষক রোদে পুড়ে মাঠে কাজ করে। মাঠভরা সোনালী ধান দেখে সে আল্লাহর শুকরিয়া জানায়। সে জানে তার পরিশ্রমের পর আল্লাহই মেহেরবানি করে ফসল ফলিয়ে দিয়েছেন।",
+  "themes": [
+    "gratitude",
+    "signs in nature",
+    "Allah's power"
+  ],
+  "kinds": [
+    "argument",
+    "creation",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "It is Allah who makes crops grow from seeds, not human effort alone.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

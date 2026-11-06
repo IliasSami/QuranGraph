@@ -1,0 +1,64 @@
+{
+  "id": "37:137",
+  "simple_en": "Allah reminds the people of Makkah of the visible signs along their trade journeys. When they travel north toward the Levant in the morning light, they pass right by the ruins of Lut's destroyed nation. These silent stones are visible evidence of what happened to past rejecters.",
+  "simple_bn": "মক্কার কুরাইশরা যখন বাণিজ্যের উদ্দেশ্যে শাম বা সিরিয়ার পথে যাত্রা করত, তখন সকালবেলা তারা লূত সম্প্রদায়ের ধ্বংসাবশেষের পাশ দিয়ে যেত। আল্লাহ তাদের মনে করিয়ে দিচ্ছেন যে অতীতের ধ্বংসপ্রাপ্ত জাতির পরিণতি তাদের চোখের সামনেই রয়েছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "مرر",
+      "lemma": "مَرَّ",
+      "meaning_en": "you pass by",
+      "meaning_bn": "তোমরা অতিক্রম করো",
+      "why_en": "Emphasizes that the ruins of the ruined towns are visible and known along their trade route."
+    },
+    {
+      "pos": 4,
+      "root": "صبح",
+      "lemma": "مُصْبِح",
+      "meaning_en": "in the morning",
+      "meaning_bn": "সকালে",
+      "why_en": "Describes the time of day when travelers clearly see these ancient ruins."
+    }
+  ],
+  "lesson_en": "Signs of past nations remain so that later generations can see the truth.",
+  "lesson_bn": "অতীতের ধ্বংসাবশেষ দেখে মানুষের শিক্ষা নেওয়া উচিত যাতে তারা একই ভুল না করে।",
+  "real_life_en": "When you travel and see ancient ruins, reflect on the people who once lived there. Let their fate remind you to stay humble before God.",
+  "real_life_bn": "ভ্রমণের সময় প্রাচীন ধ্বংসাবশেষ চোখে পড়লে ভাবুন সেই মানুষেরা একসময় কতটা প্রতাপশালী ছিল। এই দৃশ্য যেন আমাদের মনে আল্লাহর ভয় ও নম্রতা এনে দেয়।",
+  "themes": [
+    "reflection",
+    "travel",
+    "historical ruins",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "lut"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people of Makkah pass by the ruins of Lut's people during their morning travels toward Syria.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

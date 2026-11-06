@@ -1,0 +1,66 @@
+{
+  "id": "26:39",
+  "simple_en": "The officials called out to the people to assemble in large numbers. They wanted everyone to watch the grand contest between the magicians and Moses.",
+  "simple_bn": "এবং সাধারণ মানুষকে আহ্বান জানিয়ে বলা হলো, তোমরাও কি এই প্রকাশ্য প্রতিযোগিতা দেখতে সমবেত হচ্ছো?",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "لِلنَّاسِ",
+      "root": "أنس",
+      "lemma": "ناس",
+      "meaning_en": "to the people",
+      "meaning_bn": "মানুষদেরকে",
+      "why_en": "The general public invited to witness the contest."
+    },
+    {
+      "pos": 5,
+      "arabic": "مُّجْتَمِعُونَ",
+      "root": "جمع",
+      "lemma": "مُجْتَمِع",
+      "meaning_en": "gathering",
+      "meaning_bn": "সমবেত হওয়া",
+      "why_en": "Assembling in large crowds to observe the contest."
+    }
+  ],
+  "lesson_en": "Truth is never afraid of public view. Real light shines best when all eyes are watching.",
+  "lesson_bn": "বাতিল মতবাদ নিজের পক্ষে জনসমর্থন বাড়াতে জনতাকে জড়ো করতে চায়, যা পরিণামে সত্যের পক্ষে সাক্ষ্য হয়ে দাঁড়ায়।",
+  "real_life_en": "Seek truth openly rather than hiding from debate. Welcome honest discussions that help people learn and grow.",
+  "real_life_bn": "কোনো জমায়েত বা আয়োজনে উপস্থিত হলে অন্ধভাবে কারো পক্ষ নেবেন না। নিরপেক্ষ দৃষ্টিতে সত্য অনুসন্ধান করুন।",
+  "themes": [
+    "crowd",
+    "public-witness",
+    "dawah"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Contest with the Magicians"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The people were summoned to gather in large numbers to witness the grand contest.",
+      "claim_bn": "সাধারণ মানুষকে প্রতিযোগিতার দৃশ্য অবলোকন করার জন্য বিপুল সংখ্যায় উপস্থিত হওয়ার আহ্বান জানানো হলো।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

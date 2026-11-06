@@ -1,0 +1,61 @@
+{
+  "id": "68:29",
+  "simple_en": "They said: Glory be to our Lord. He is free from all wrong. Truly, we were the ones who acted with greed and did injustice.",
+  "simple_bn": "তারা বলল: আমাদের প্রতিপালক কতই না পবিত্র। নিশ্চয় আমরাই অন্যায়কারী ও অবিচারক ছিলাম।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سبح",
+      "lemma": "سُبْحان",
+      "meaning_en": "glory be to",
+      "meaning_bn": "মহাপবিত্র",
+      "why_en": "Declares the perfection of God, who never commits injustice."
+    },
+    {
+      "pos": 6,
+      "root": "ظلم",
+      "lemma": "ظالِم",
+      "meaning_en": "wrongdoers",
+      "meaning_bn": "জালেম বা অন্যায়কারী",
+      "why_en": "Records their honest admission of wrongdoing and greed."
+    }
+  ],
+  "lesson_en": "When trouble comes, admit your own fault and do not blame God.",
+  "lesson_bn": "বিপদে পড়লে আল্লাহকে দোষারোপ না করে নিজের কৃতকর্মের ভুল স্বীকার করা উচিত।",
+  "real_life_en": "A driver causes a car crash because he was texting on his phone. In court, he admits his fault honestly and pays for the damages. Taking responsibility is the first step toward genuine reform.",
+  "real_life_bn": "ভুল হলে তা অকপটে স্বীকার করে আল্লাহর কাছে ক্ষমা চাওয়া দরকার। নিজের অন্যায় মেনে নেওয়াই সংশোধনের প্রথম ধাপ।",
+  "themes": [
+    "repentance",
+    "humility",
+    "justice"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers glorified their Lord, acknowledging His justice and confessing their own wrongdoing.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

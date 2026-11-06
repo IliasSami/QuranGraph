@@ -1,0 +1,62 @@
+{
+ "id": "74:43",
+ "simple_en": "The criminals will confess their first major fault. They will say, \"We did not perform prayer.\" They neglected the primary duty of worship owed to their Creator.",
+ "simple_bn": "অপরাধীরা তাদের প্রধান অপরাধের কথা স্বীকার করে বলবে, “আমরা সালাত আদায়কারীদের অন্তর্ভুক্ত ছিলাম না।” তারা মহান সৃষ্টিকর্তার সবচেয়ে গুরুত্বপূর্ণ ইবাদত তথা নামাজ আদায় করেনি।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "قول",
+   "lemma": "قالَ",
+   "meaning_en": "they said",
+   "meaning_bn": "তারা বলবে",
+   "why_en": "They openly admit their failures with deep regret when it is too late."
+  },
+  {
+   "pos": 5,
+   "root": "صلو",
+   "lemma": "مُصَلّي",
+   "meaning_en": "those who pray",
+   "meaning_bn": "সালাত আদায়কারী",
+   "why_en": "Regular prayer is the pillar of faith connecting the servant to Allah."
+  }
+ ],
+ "lesson_en": "Prayer is the foundation of faith; neglecting it puts one's entire future at risk.",
+ "lesson_bn": "সালাত হলো ঈমানের ভিত্তি, সালাত অবহেলা করলে পরকালে ভয়াবহ বিপদের ঝুঁকি তৈরি হয়।",
+ "real_life_en": "Never let work, play, or sleep push your daily prayers out of schedule. Make your prayers your highest priority every single day so you stay connected to Allah.",
+ "real_life_bn": "কাজ, আড্ডা বা ঘুমের কারণে কখনোই সময়মতো সালাত আদায়ে অবহেলা করবেন না। প্রতিদিনের রুটিনে সালাতকে সবার আগে রাখুন, যেন আল্লাহর সাথে আপনার সম্পর্ক অটুট থাকে।",
+ "themes": [
+  "prayer",
+  "worship",
+  "the Last Day"
+ ],
+ "kinds": [
+  "warning",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The first cause the criminals confess for entering Hell is that they did not establish prayer.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

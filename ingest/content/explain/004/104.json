@@ -1,0 +1,97 @@
+{
+ "id": "4:104",
+ "simple_en": "Do not lose heart when pursuing your foes. If you feel pain from your wounds, they feel the exact same pain. But you have hope from Allah for help and reward, while they have no such hope. Allah knows all that you face and is Wise in all His plans.",
+ "simple_bn": "শত্রুদের মোকাবিলা ও তাদের অনুসন্ধানে তোমরা কখনো দুর্বল বা অলস হয়ো না। লড়াইয়ের কষ্টে যদি তোমরা ব্যথিত হও, তবে তারাও তোমাদের মতোই কষ্ট পাচ্ছে। অথচ তোমরা আল্লাহর কাছ থেকে যে সাওয়াব ও অনুগ্রহের আশা রাখো, তারা সেই আশা করতে পারে না। নিশ্চয়ই আল্লাহ তোমাদের সব অবস্থা সম্পর্কে পূর্ণ অবগত এবং পরম প্রজ্ঞাময়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "وهن",
+   "lemma": "وَهَنَ",
+   "meaning_en": "you weaken or lose heart",
+   "meaning_bn": "তোমরা দুর্বল বা হতোদ্যম হও",
+   "why_en": "Warns against falling into sluggishness or mental defeat despite battle exhaustion."
+  },
+  {
+   "pos": 4,
+   "root": "بغي",
+   "lemma": "ابْتِغاء",
+   "meaning_en": "pursuit / seeking out",
+   "meaning_bn": "অনুসন্ধান বা পেছনে যাওয়া",
+   "why_en": "Commands active pursuit of hostile forces rather than retreating in despair."
+  },
+  {
+   "pos": 8,
+   "root": "ألم",
+   "lemma": "يَأْلَمُ",
+   "meaning_en": "you suffer pain",
+   "meaning_bn": "তোমরা যন্ত্রণা ভোগ করো",
+   "why_en": "Acknowledges that physical suffering and injuries are shared by both sides."
+  },
+  {
+   "pos": 13,
+   "root": "رجو",
+   "lemma": "يَرْجُوا۟",
+   "meaning_en": "and you hope / expect",
+   "meaning_bn": "এবং তোমরা আশা রাখো",
+   "why_en": "Identifies divine hope and heavenly reward as the believer's unique source of strength."
+  }
+ ],
+ "lesson_en": "Be patient in hard times. The believer hopes for Allah's reward while others suffer in vain.",
+ "lesson_bn": "কঠিন পরিস্থিতিতে ধৈর্য ধারণ করুন, কারণ একজন মুমিন সবসময় আল্লাহর প্রতিদান ও ক্ষমার আশা নিয়ে সংগ্রাম করে।",
+ "real_life_en": "When you feel tired while doing good, do not give up. Everyone faces hardship in life, but your effort earns reward from Allah.",
+ "real_life_bn": "সৎ কাজ করতে গিয়ে কষ্ট বা ক্লান্তির মুখে পড়লে হাল ছেড়ে দেবেন না। জীবনে সবাইকেই কোনো না কোনো কষ্ট সহ্য করতে হয়, কিন্তু মুমিনের কষ্ট আল্লাহর সন্তুষ্টি ও জান্নাত এনে দেয়।",
+ "context_en": "Revealed after the battle of Uhud, this verse urged wounded believers to pursue the retreating enemy forces with courage.",
+ "context_bn": "ওহুদ যুদ্ধের আঘাতের পর দুর্বলতা কাটিয়ে শত্রুর বিরুদ্ধে দৃঢ় মনোবল বজায় রাখার উদ্দেশ্যে এই আয়াত অবতীর্ণ হয়।",
+ "themes": [
+  "patience",
+  "trust in Allah",
+  "struggle in Allah's way",
+  "reward"
+ ],
+ "kinds": [
+  "command",
+  "warning",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Believers are instructed not to succumb to weakness when pursuing their enemies.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Both believers and enemies suffer physical pain, but believers uniquely possess hope in Allah's mercy and reward.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah is All-Knowing of His servants' pain and All-Wise in His planning.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "often-misquoted",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

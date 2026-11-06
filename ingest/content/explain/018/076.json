@@ -1,0 +1,67 @@
+{
+  "id": "18:76",
+  "simple_en": "Moses said, \"If I ask you about anything after this, then do not keep me as a companion. You have received a fair excuse from me.\"",
+  "simple_bn": "মূসা বললেন, এর পর যদি আমি আপনাকে কোনো বিষয়ে জিজ্ঞেস করি তবে আপনি আমাকে সঙ্গে রাখবেন না। আপনি আমার পক্ষ থেকে সংগত ওজর পেয়েছেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "I ask you",
+      "meaning_bn": "আমি আপনাকে জিজ্ঞেস করি",
+      "why_en": "Final condition setting a boundary on future inquiries."
+    },
+    {
+      "pos": 13,
+      "root": "عذر",
+      "lemma": "عُذْر",
+      "meaning_en": "excuse or justification",
+      "meaning_bn": "ওজর বা উপযুক্ত কারণ",
+      "why_en": "Legitimate reason for parting if the covenant is broken again."
+    }
+  ],
+  "lesson_en": "Honest words set good rules. Admitting your limits shows real humility.",
+  "lesson_bn": "সৎ অঙ্গীকার সুস্থ সম্পর্ক গড়ে তোলে। নিজের সীমাবদ্ধতা স্বীকার করা নৈতিক দায়িত্বশীলতার পরিচয় দেয়।",
+  "real_life_en": "Set clear limits for your promises. If you fail to keep them, admit your mistake honestly.",
+  "real_life_bn": "প্রতিশ্রুতি রক্ষার ব্যাপারে স্পষ্ট থাকুন। যদি কথা রাখতে না পারেন, তবে অজুহাত না দিয়ে ভুল স্বীকার করুন।",
+  "themes": [
+    "final-stipulation",
+    "accountability",
+    "admitting-limits",
+    "fair-excuse"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "al-Khidr"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Final-Pact"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses declared that if he questioned al-Khidr again, al-Khidr was fully justified in parting company.",
+      "claim_bn": "মূসা (আ.) বললেন এর পর কোনো প্রশ্ন করলে তাঁকে সঙ্গছাড়া করার পূর্ণ অধিকার খিজিরের থাকবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

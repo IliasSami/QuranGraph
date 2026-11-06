@@ -1,0 +1,75 @@
+{
+  "id": "35:40",
+  "simple_en": "Say to the polytheists, O Prophet: Consider those false partners you call upon besides Allah. Show me what part of the earth they have created. Or do they share in creating the heavens? Or did We give them a revealed book with clear proof for their worship? In truth, wrongdoers promise each other nothing but deception and false hopes.",
+  "simple_bn": "হে নবী, মুশরিকদের বলুন: তোমরা আল্লাহর পরিবর্তে যাদের ডাকো, তাদের কথা কি ভেবে দেখেছ? আমাকে দেখাও তো তারা জমিনে কী সৃষ্টি করেছে? নাকি আসমান তৈরিতে তাদের কোনো অংশীদারিত্ব রয়েছে? নাকি আমরা তাদের কোনো কিতাব দিয়েছি যার প্রমাণের ওপর তারা নির্ভর করছে? প্রকৃতপক্ষে যালিমরা একে অপরকে ধোঁকা ছাড়া আর কিছুই দেয় না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "شرك",
+      "lemma": "شَرِيك",
+      "meaning_en": "your partners",
+      "meaning_bn": "তোমাদের শরীকগণ",
+      "why_en": "Refers to idols and false entities wrongly worshiped alongside Allah."
+    },
+    {
+      "pos": 22,
+      "root": null,
+      "lemma": null,
+      "meaning_en": "clear proof",
+      "meaning_bn": "সুস্পষ্ট প্রমাণ",
+      "why_en": "Challenges polytheists to produce textual or rational evidence for their idolatry."
+    },
+    {
+      "pos": 33,
+      "root": "غرر",
+      "lemma": "غُرُور",
+      "meaning_en": "delusion / deception",
+      "meaning_bn": "প্রতারণা ও ধোঁকা",
+      "why_en": "Exposes the hollow myths that wrongdoers use to mislead one another."
+    }
+  ],
+  "lesson_en": "False gods have created nothing, and polytheism is built entirely on delusion.",
+  "lesson_bn": "মিথ্যা উপাস্যদের কোনো সৃষ্টির ক্ষমতা নেই এবং শিরকের ভিত্তি সম্পূর্ণ ভিত্তিহীন ধোঁকার ওপর প্রতিষ্ঠিত।",
+  "real_life_en": "Base your faith on clear evidence and divine revelation, not on blind tradition or superstitious claims. Turn only to the Creator who formed the universe.",
+  "real_life_bn": "অন্ধ কুসংস্কার বা ভিত্তিহীন ধারণার পেছনে ছুটবেন না। কুরআন ও সুন্নাহর সুস্পষ্ট প্রমাণের ওপর নিজের বিশ্বাস গড়ে তুলুন এবং একমাত্র আল্লাহরই ইবাদত করুন।",
+  "themes": [
+    "tawhid",
+    "shirk",
+    "argument",
+    "creation"
+  ],
+  "kinds": [
+    "argument",
+    "prohibition",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "False deities created nothing on earth or in heaven, have no scriptural proof, and wrongdoers promise only delusion.",
+      "claim_bn": "মিথ্যা উপাস্যরা আসমান-জমিনে কিছুই সৃষ্টি করেনি, তাদের কোনো দলীল নেই এবং যালিমরা একে অপরকে প্রতারণাপূর্ণ আশ্বাস দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

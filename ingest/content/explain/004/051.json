@@ -1,0 +1,82 @@
+{
+ "id": "4:51",
+ "simple_en": "Look at those given a share of the Book. They believe in idols and false deities. They say that disbelievers are better guided than the faithful believers.",
+ "simple_bn": "লক্ষ্য করুন সেই লোকদের প্রতি, যাদের কিতাবের কিছু অংশ দেওয়া হয়েছিল। তারা হিংসা ও বিদ্বেষের বশবর্তী হয়ে মূর্তি ও তাগুতের ওপর বিশ্বাস স্থাপন করল। তারা মক্কার মূর্তিপূজকদের তুষ্ট করতে দাবি করল যে, এই কাফেররাই নাকি মুমিনদের চেয়েও বেশি সঠিক পথে রয়েছে। বিদ্বেষের কারণে তারা নিজেদের আসমানী কিতাবের তাওহীদকেও জলাঞ্জলি দিল।",
+ "key_words": [
+  {
+   "pos": 10,
+   "root": "جبت",
+   "lemma": "جِبْت",
+   "meaning_en": "in idols and superstition",
+   "meaning_bn": "মূর্তি ও কুসংস্কারে",
+   "why_en": "Encompasses idolatry, sorcery, and all false objects of belief outside divine revelation."
+  },
+  {
+   "pos": 11,
+   "root": "طغي",
+   "lemma": "طاغُوت",
+   "meaning_en": "and false deities or transgressors",
+   "meaning_bn": "তাগুত বা সীমালঙ্ঘনকারীতে",
+   "why_en": "Denotes any tyrant, idol, or entity worshipped or obeyed in rebellion against Allah."
+  },
+  {
+   "pos": 16,
+   "root": "هدي",
+   "lemma": "أَهْدَى",
+   "meaning_en": "more guided",
+   "meaning_bn": "অধিকতর সঠিক পথে",
+   "why_en": "Exposes their dishonest assertion that pagan idolaters were spiritually superior to monotheistic believers."
+  }
+ ],
+ "lesson_en": "Never support false beliefs or praise falsehood to gain worldly favors.",
+ "lesson_bn": "দুনিয়াবি স্বার্থ বা রাজনৈতিক বন্ধুত্বের লোভে কখনো অন্যায় ও বাতিলকে সমর্থন বা প্রশংসা করবেন না।",
+ "real_life_en": "Never compromise your values to please wealthy or powerful people. Speak the truth even when others want flattery. Standing by faith earns Allah's love.",
+ "real_life_bn": "ব্যক্তিগত বা দলীয় স্বার্থের খাতিরে কখনো কোনো অন্যায়কারীকে নির্দোষ বা ভালো বলবেন না। সত্যের পক্ষে থাকুন, এমনকি যদি তাতে কারও বিরাগভাজন হতে হয় তবুও মিথ্যার তোষামোদ করবেন না।",
+ "context_en": "Exposes how certain Jewish leaders allied with the pagan Quraysh against the Prophet ﷺ, flattering idol worship.",
+ "context_bn": "নবী ﷺ-এর বিরুদ্ধে মক্কার মুশরিকদের সাথে আঁতাত করতে গিয়ে কীভাবে মূর্তিপূজার তোষামোদ করা হয়েছিল তা প্রকাশ করা হয়েছে।",
+ "themes": [
+  "Children of Israel",
+  "shirk",
+  "justice",
+  "hypocrisy",
+  "misguidance"
+ ],
+ "kinds": [
+  "warning",
+  "address"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those given a portion of the Scripture believed in jibt and taghut (idols, sorcery, and false deities).",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Out of hatred and jealousy, they flattered the pagan disbelievers by asserting they were better guided than the Prophet Muhammad ﷺ and his companions.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

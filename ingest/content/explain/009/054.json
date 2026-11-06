@@ -1,0 +1,74 @@
+{
+  "id": "9:54",
+  "simple_en": "Their charity is rejected because they deny Allah and His Messenger. They pray only with laziness, and they spend their money only with a sad heart.",
+  "simple_bn": "তাদের দান কবুল হওয়া বন্ধ হওয়ার একমাত্র কারণ হলো তারা আল্লাহ ও তাঁর রাসূলকে অস্বীকার করেছে, সালাতে আসে কেবল অলসতার সাথে এবং অনিচ্ছাকৃতভাবে ছাড়া দান করে না।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "نفق",
+      "lemma": "نَفَقَة",
+      "meaning_en": "spending / contributions",
+      "meaning_bn": "দান / ব্যয়কৃত অর্থ",
+      "why_en": "Material offerings rendered invalid by hidden rejection."
+    },
+    {
+      "pos": 17,
+      "root": "كسل",
+      "lemma": "كُسالَى",
+      "meaning_en": "lazily / sluggishly",
+      "meaning_bn": "অলসভাবে / ভারাক্রান্ত মনে",
+      "why_en": "Worship performed purely as an empty chore."
+    },
+    {
+      "pos": 22,
+      "root": "كره",
+      "lemma": "كارِه",
+      "meaning_en": "unwillingly / grudgingly",
+      "meaning_bn": "অনিচ্ছুক হয়ে / অসন্তোষ নিয়ে",
+      "why_en": "Parting with money with deep regret."
+    }
+  ],
+  "lesson_en": "Praying with laziness and giving with regret spoils your reward.",
+  "lesson_bn": "অলসতার সাথে ইবাদত করা এবং অনিচ্ছায় দান করা আত্মিক বরকত নষ্ট করে দেয়।",
+  "real_life_en": "When it is time to pray or help others, do it with energy and warmth. Rushing through chores with a bitter face robs life of its joy.",
+  "real_life_bn": "নামাজ ও ভালো কাজগুলো আনন্দের সাথে আদায় করুন; বিরক্তি বা অলসতা নিয়ে দায়িত্ব পালন করলে কোনো তৃপ্তি পাওয়া যায় না।",
+  "themes": [
+    "laziness in prayer",
+    "reluctant giving",
+    "invalid deeds"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Charity is rejected when coupled with disbelief, indolence in prayer, and resentment in spending.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

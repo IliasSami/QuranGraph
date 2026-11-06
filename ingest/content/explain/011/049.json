@@ -1,0 +1,86 @@
+{
+  "id": "11:49",
+  "simple_en": "These narratives are from the news of the unseen which We reveal to you. Neither you nor your people knew them before this. So be patient, for the best outcome in this life and the next belongs to the righteous.",
+  "simple_bn": "এগুলো অদৃশ্যের সংবাদ, যা আমরা আপনার প্রতি ওহীর মাধ্যমে পাঠাচ্ছি; এর আগে আপনি বা আপনার সম্প্রদায় এগুলো জানতে না। অতএব ধৈর্য ধারণ করুন; নিশ্চয় শুভ পরিণাম কেবল মুত্তাকীদের জন্যই নির্ধারিত।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نبأ",
+      "lemma": "نَبَأ",
+      "meaning_en": "news / accounts",
+      "meaning_bn": "সংবাদসমূহ",
+      "why_en": "Historical accounts revealed with exact divine precision."
+    },
+    {
+      "pos": 4,
+      "root": "غيب",
+      "lemma": "غَيْب",
+      "meaning_en": "the unseen",
+      "meaning_bn": "অদৃশ্য",
+      "why_en": "Ancient historical truths unknown to contemporaries."
+    },
+    {
+      "pos": 16,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "be patient",
+      "meaning_bn": "ধৈর্য ধারণ করুন",
+      "why_en": "Commanding steadfastness in the face of opposition."
+    },
+    {
+      "pos": 19,
+      "root": "وقي",
+      "lemma": "مُتَّقي",
+      "meaning_en": "the righteous / God-fearing",
+      "meaning_bn": "মুত্তাকীগণ",
+      "why_en": "Those who revere Allah and remain obedient."
+    }
+  ],
+  "lesson_en": "Patience and obedience to Allah lead to true success in the end.",
+  "lesson_bn": "ধৈর্য ও তাকওয়াই শেষ পর্যন্ত মানুষকে দুনিয়া ও আখিরাতে বিজয়ী করে তোলে।",
+  "real_life_en": "When doing the right thing feels lonely or difficult, remember how the prophets stood firm. Keep going patiently, knowing that Allah gives final victory to the mindful.",
+  "real_life_bn": "সৎপথে চলতে গিয়ে কষ্ট হলে নবীদের ধৈর্যের কথা স্মরণ করুন; শেষ সাফল্য আল্লাহভীরুদের জন্যই নির্ধারিত।",
+  "themes": [
+    "news of the unseen",
+    "patience in preaching",
+    "ultimate success of the God-fearing"
+  ],
+  "kinds": [
+    "story",
+    "command",
+    "promise",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "People of Quraysh"
+    ],
+    "places": [],
+    "unseen": [
+      "the unseen (al-Ghayb)"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Quranic historical news"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The story of Noah is from previously unrecorded unseen history revealed to the Prophet, encouraging him to persevere because victory belongs to the God-conscious.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

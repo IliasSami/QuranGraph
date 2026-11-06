@@ -1,0 +1,73 @@
+{
+  "id": "9:14",
+  "simple_en": "Fight them, and Allah will punish them through your hands. He will disgrace them and grant you victory. He will bring peace and healing to the hearts of the believers who suffered for so long.",
+  "simple_bn": "তোমরা তাদের বিরুদ্ধে লড়াই করো, আল্লাহ তোমাদের হাতে তাদের শাস্তি দেবেন, তাদের লাঞ্ছিত করবেন, তোমাদের বিজয় দান করবেন এবং বিশ্বাসীদের ব্যথিত অন্তরকে শান্ত করবেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عذب",
+      "lemma": "عَذَّبَ",
+      "meaning_en": "punishes / chastises",
+      "meaning_bn": "শাস্তি দেবেন",
+      "why_en": "Divine retribution executed through human defense of justice."
+    },
+    {
+      "pos": 6,
+      "root": "نصر",
+      "lemma": "نَصَرَ",
+      "meaning_en": "grants victory",
+      "meaning_bn": "সাহায্য করবেন / বিজয়ী করবেন",
+      "why_en": "Divine assistance ensuring the triumph of the oppressed."
+    },
+    {
+      "pos": 8,
+      "root": "شفي",
+      "lemma": "يَشْفِ",
+      "meaning_en": "heals / comforts",
+      "meaning_bn": "শান্ত করবেন / উপশম করবেন",
+      "why_en": "Relieving long-standing pain and trauma suffered by the wronged."
+    }
+  ],
+  "lesson_en": "Justice brings relief and heals the pain of the oppressed.",
+  "lesson_bn": "ন্যায়ের পক্ষে দৃঢ় অবস্থান অত্যাচারীদের পরাজিত করে এবং মজলুমের দুঃখভারাক্রান্ত হৃদয়ে প্রশান্তি ফিরিয়ে আনে।",
+  "real_life_en": "Help a bullied coworker speak up. Seeing fairness win brings peace to the whole office.",
+  "real_life_bn": "নির্যাতিত বা অবহেলিত সহকর্মীর পক্ষে পাশে দাঁড়ালে এবং অন্যায়ের বিচার হলে পুরো দলের আত্মবিশ্বাস ও মানসিক শান্তি ফিরে আসে।",
+  "themes": [
+    "victory",
+    "healing",
+    "justice for the oppressed"
+  ],
+  "kinds": [
+    "promise",
+    "command",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah promised victory through the believers, bringing punishment to oppressors and comfort to injured believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": "7:46",
+  "simple_en": "A high wall stands between the people of Paradise and the people of Hell. On this wall, called al-Araf, are people whose good and bad deeds are equal. They look down and know both groups by clear marks on their faces. They call to the people of Paradise with greetings of peace. They have not yet entered it, but they hope for Allah's mercy.",
+  "simple_bn": "জান্নাত ও জাহান্নামের মাঝে একটি উঁচু প্রাচীর থাকবে। এই প্রাচীরের উপরিভাগে, যার নাম আ'রাফ, এমন কিছু লোক অবস্থান করবে যাদের ভালো ও মন্দ কাজ সমান ছিল। তারা চেহারার বিশেষ চিহ্ন দেখে উভয় দলকে চিনতে পারবে। তারা জান্নাতবাসীদের ডেকে বলবে, তোমাদের ওপর শান্তি বর্ষিত হোক। তারা নিজেরা তখনও জান্নাতে প্রবেশ করেনি, তবে প্রবেশের তীব্র আশা রাখে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حجب",
+      "lemma": "حِجاب",
+      "meaning_en": "a partition / barrier",
+      "meaning_bn": "পর্দা বা প্রাচীর",
+      "why_en": "Refers to the wall separating the dwellers of Paradise from the dwellers of Hell."
+    },
+    {
+      "pos": 4,
+      "root": "عرف",
+      "lemma": "أَعْراف",
+      "meaning_en": "the Heights",
+      "meaning_bn": "আ'রাফ / উঁচু প্রাচীর",
+      "why_en": "The elevated barrier where certain people wait before entering Paradise."
+    },
+    {
+      "pos": 18,
+      "root": "طمع",
+      "lemma": "يَطْمَعُ",
+      "meaning_en": "they eagerly hope",
+      "meaning_bn": "তারা তীব্র আশা পোষণ করে",
+      "why_en": "Captures the intense longing and hope for Allah's forgiveness and entry into Paradise."
+    }
+  ],
+  "lesson_en": "Even small good deeds count on the scale. Never lose hope in Allah's mercy.",
+  "lesson_bn": "ছোট ছোট নেক আমলও আমলের পাল্লা ভারী করে। আল্লাহর রহমতের ওপর সর্বদা প্রবল আশা রাখুন।",
+  "real_life_en": "A person feels bad about past mistakes and fears the future. Do not lose hope. Do small acts of kindness each day to build a good record.",
+  "real_life_bn": "নিজের দুর্বলতা দেখে কখনো নিরাশ হতে নেই। প্রতিদিন সামান্য হলেও ভালো কাজ করার চেষ্টা করুন। কারণ ছোট একটি নেক আমলও জীবনের সামগ্রিক ফলাফল বদলে দিতে পারে।",
+  "context_en": "After contrasting Paradise and Hell, Allah introduces a third group waiting on the elevated partition between them.",
+  "context_bn": "জান্নাত ও জাহান্নামের আলোচনার পর এখানে এই দুইয়ের মধ্যবর্তী উঁচু প্রাচীরে অপেক্ষমাণ দলের বিবরণ তুলে ধরা হয়েছে।",
+  "themes": [
+    "the Hereafter",
+    "Paradise",
+    "Hell",
+    "judgment",
+    "hope"
+  ],
+  "kinds": [
+    "hereafter",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "al-A'raf"
+    ],
+    "unseen": [
+      "Paradise",
+      "Hell"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "A barrier separates the companions of Paradise from the companions of the Fire, upon which are the people of the Heights.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "The people on the Heights recognize the inhabitants of both realms by their marks.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They greet the people of Paradise with peace while eagerly hoping to enter it themselves.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

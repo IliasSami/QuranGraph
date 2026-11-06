@@ -1,0 +1,68 @@
+{
+  "id": "51:59",
+  "simple_en": "Those who wrong themselves through disbelief have an appointed share of punishment, just like past deniers. A fixed time is set for each nation. Therefore, they should not foolishly ask God to rush it upon them.",
+  "simple_bn": "সুতরাং যারা জুলুম করেছে, তাদের জন্য রয়েছে তাদের অতীত সাথীদের মতো শাস্তির নির্ধারিত অংশ। কাজেই তারা যেন তা দ্রুত নিয়ে আসার জন্য তাড়াহুড়ো না করে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ظلم",
+      "lemma": "ظَلَمَ",
+      "meaning_en": "those who wronged",
+      "meaning_bn": "যারা জুলুম করেছে",
+      "why_en": "Those who harm their own souls through rejection of truth."
+    },
+    {
+      "pos": 4,
+      "root": "ذنب",
+      "lemma": "ذَنُوب",
+      "meaning_en": "a portion of punishment",
+      "meaning_bn": "শাস্তির অংশ",
+      "why_en": "An allotted share of divine retribution."
+    },
+    {
+      "pos": 9,
+      "root": "عجل",
+      "lemma": "اسْتَعْجَلَ",
+      "meaning_en": "let them not urge Me to hasten",
+      "meaning_bn": "তারা যেন তাড়াহুড়ো না করে",
+      "why_en": "Warning against demanding punishment to arrive before its time."
+    }
+  ],
+  "lesson_en": "Justice has an appointed time set by God that will not fail.",
+  "lesson_bn": "আল্লাহর প্রতিটি ফায়সালা ও ইনসাফের একটি নির্ধারিত সময় রয়েছে যা নিশ্চয়ই বাস্তবায়িত হবে।",
+  "real_life_en": "When wrongdoers seem to get away with bad deeds, do not lose hope. Divine justice works with wisdom and patience in its proper time.",
+  "real_life_bn": "সমাজে কোনো অন্যায়কারীকে আপাতদৃষ্টিতে পার পেয়ে যেতে দেখলে হতাশ হবেন না। আল্লাহর দরবারে প্রতিটি কাজের হিসাব যথাসময়ে নিশ্চিতভাবে হবে।",
+  "themes": [
+    "punishment",
+    "justice",
+    "past nations"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The wrongdoers have an appointed share of punishment like that of their past companions, so they should not hasten it.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

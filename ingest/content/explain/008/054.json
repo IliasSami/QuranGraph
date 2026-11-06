@@ -1,0 +1,80 @@
+{
+  "id": "8:54",
+  "simple_en": "Like the ways of Pharaoh's people and those before them, they rejected the signs of their Lord. So We destroyed them for their sins, and We drowned Pharaoh's army. They were all persistent wrongdoers.",
+  "simple_bn": "ফিরআউনের দল ও তাদের পূর্ববর্তীদের মতো এরাও তাদের রবের নিদর্শনাবলীতে মিথ্যারোপ করেছিল। ফলে আমরা তাদের অপরাধের কারণে তাদের ধ্বংস করেছিলাম এবং ফিরআউনের দলকে ডুবিয়ে মেরেছিলাম। তারা সবাই ছিল সীমালঙ্ঘনকারী।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "they denied",
+      "meaning_bn": "তারা মিথ্যারোপ করল",
+      "why_en": "Active rejection of divine guidance."
+    },
+    {
+      "pos": 10,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "We destroyed them",
+      "meaning_bn": "আমরা তাদের ধ্বংস করলাম",
+      "why_en": "Complete societal eradication due to persistent sin."
+    },
+    {
+      "pos": 12,
+      "root": "غرق",
+      "lemma": "أُغْرِقُ",
+      "meaning_en": "We drowned",
+      "meaning_bn": "আমরা নিমজ্জিত করলাম",
+      "why_en": "The destruction of Pharaoh's army in the sea."
+    }
+  ],
+  "lesson_en": "Refusing truth brings ruin, no matter how strong a nation seems.",
+  "lesson_bn": "অবিরাম সত্য প্রত্যাখ্যান এবং সীমালঙ্ঘন জাতির সর্বাত্মক ধ্বংস ডেকে আনে।",
+  "real_life_en": "Do not let worldly success make you reckless. Pay attention to moral warnings in life and mend your ways before bad habits bring painful consequences.",
+  "real_life_bn": "পার্থিব সাফল্য পেয়ে উদ্ধত হবেন না। নৈতিক সতর্কবার্তা মেনে চলুন এবং সময়ের সাথে সাথে নিজের ভুল শুধরে নিন।",
+  "context_en": "Reiterating the destruction of Pharaoh's drowning army to warn those who persist in harassing the believers.",
+  "context_bn": "ফিরআউনের পানিতে ডুবে মরার ঐতিহাসিক বাস্তবতাকে স্মরণ করিয়ে দিয়ে সত্যবিরোধীদের হুঁশিয়ারি।",
+  "themes": [
+    "pharaoh",
+    "destruction of tyrants",
+    "historical warning",
+    "divine justice"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "parable"
+  ],
+  "entities": {
+    "people": [
+      "Pharaoh"
+    ],
+    "nations": [
+      "people of Pharaoh"
+    ],
+    "places": [
+      "the Red Sea"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Drowning of Pharaoh"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Pharaoh's people and earlier generations were destroyed by drowning and ruin for their persistence in wrongdoing.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

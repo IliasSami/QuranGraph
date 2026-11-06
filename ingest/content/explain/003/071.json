@@ -1,0 +1,95 @@
+{
+  "id": "3:71",
+  "simple_en": "O People of the Scripture, why do you mix the truth with falsehood and hide the truth while you know better? You blur divine teachings with your own fabrications and conceal clear prophecies about the Prophet ﷺ. Knowing the truth makes disguising it even worse.",
+  "simple_bn": "হে কিতাবধারীগণ! তোমরা জেনে-বুঝে কেন সত্যের সাথে মিথ্যার মিশ্রণ ঘটাচ্ছ এবং সত্যকে গোপন করছ?",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "لبس",
+      "lemma": "لَبَسْ",
+      "meaning_en": "do you mix / confuse",
+      "meaning_bn": "তোমরা সংমিশ্রণ ঘটাচ্ছ",
+      "why_en": "Refers to deliberately blending falsehood into truth to mislead the common people."
+    },
+    {
+      "pos": 6,
+      "root": "بطل",
+      "lemma": "باطِل",
+      "meaning_en": "with falsehood",
+      "meaning_bn": "বাতিলের সাথে",
+      "why_en": "Human fabrications and distortions introduced into sacred guidance."
+    },
+    {
+      "pos": 7,
+      "root": "كتم",
+      "lemma": "كَتَمَ",
+      "meaning_en": "you conceal",
+      "meaning_bn": "তোমরা গোপন করছ",
+      "why_en": "Intentionally withholding scriptural prophecies and ethical truths."
+    },
+    {
+      "pos": 10,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "you know",
+      "meaning_bn": "তোমরা জানো",
+      "why_en": "Highlights that their deception was carried out with full knowledge."
+    }
+  ],
+  "lesson_en": "Never dilute or hide the truth to protect personal interests or pride.",
+  "lesson_bn": "জেনে-বুঝে কখনো সত্যকে মিথ্যার সাথে মেশাবেন না এবং স্বার্থের খাতিরে সত্য গোপন করবেন না।",
+  "real_life_en": "In your work and relationships, never twist facts or leave out vital information to look good. Be clear and honest in your reports and promises. Mixing a little lie into the truth ruins trust.",
+  "real_life_bn": "কর্মক্ষেত্রে বা ব্যক্তিগত লেনদেনে কোনো সুবিধা পাওয়ার জন্য আংশিক সত্য বলে আসল তথ্য গোপন করবেন না। স্পষ্ট ও শতভাগ সততা বজায় রাখাই বিশ্বাসের ভিত্তি।",
+  "context_en": "Confronts religious leaders among the People of the Book for corrupting the truth and concealing prophetic descriptions.",
+  "context_bn": "কিতাবধারীদের পণ্ডিতরা সাধারণ মানুষকে বিভ্রান্ত করতে সত্য গোপন ও মিথ্যার সংমিশ্রণ করায় তাদের প্রতি কঠোর প্রশ্ন।",
+  "themes": [
+    "honesty",
+    "the Quran",
+    "revelation",
+    "hypocrisy",
+    "knowledge"
+  ],
+  "kinds": [
+    "warning",
+    "address",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "People of the Book"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The People of the Book are reprimanded for mixing revealed truth with human falsehood.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They knowingly concealed the description of Prophet Muhammad ﷺ found in their scriptures.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-jalalayn",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,100 @@
+{
+ "id": "2:176",
+ "simple_en": "This punishment is completely just because Allah revealed the Book with truth and purpose. Divine scripture is meant to unite people upon guidance, so it must be proclaimed clearly and never concealed. Those who dispute the Book by accepting the parts that suit their wishes while ignoring or hiding the rest are caught in deep opposition. Their stubborn hostility removes them far from truth and sound judgment.",
+ "simple_bn": "এই শাস্তি সম্পূর্ণ ন্যায়সঙ্গত, কারণ আল্লাহ তাঁর কিতাব নাযিল করেছেন সুস্পষ্ট সত্য ও ন্যায়ের সাথে। ঐশী গ্রন্থের দাবি হলো সত্যকে প্রকাশ করা, লুকিয়ে রাখা নয়। যারা কিতাব নিয়ে মতভেদ সৃষ্টি করে—নিজেদের পছন্দমতো কিছু অংশ মানে আর বাকি অংশ গোপন বা অস্বীকার করে—তারা গভীর বিরোধ ও একগুঁয়েমিতে লিপ্ত রয়েছে। তাদের এই শত্রুতা তাদেরকে সত্য ও সঠিক পথ থেকে বহু দূরে সরিয়ে দিয়েছে।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "the Book (Scripture)",
+   "meaning_bn": "কিতাব বা ঐশী গ্রন্থ",
+   "why_en": "Refers to Allah's revealed guidance sent to lead people out of darkness into light."
+  },
+  {
+   "pos": 6,
+   "root": "حقق",
+   "lemma": "حَقّ",
+   "meaning_en": "in truth and justice",
+   "meaning_bn": "সত্য ও ন্যায়ের সাথে",
+   "why_en": "Affirms that revelation is free from falsehood, obligating believers to follow and share it fully."
+  },
+  {
+   "pos": 9,
+   "root": "خلف",
+   "lemma": "اخْتَلَفَ",
+   "meaning_en": "they differed (split)",
+   "meaning_bn": "তারা মতভেদ করল",
+   "why_en": "Describes how people divide by accepting parts of revelation and rejecting or hiding others."
+  },
+  {
+   "pos": 13,
+   "root": "شقق",
+   "lemma": "شِقاق",
+   "meaning_en": "dissension (deep opposition)",
+   "meaning_bn": "চরম বিরোধ ও অনৈক্য",
+   "why_en": "Derives from a root meaning to split apart, conveying stubborn hostility against the truth."
+  },
+  {
+   "pos": 14,
+   "root": "بعد",
+   "lemma": "بَعِيد",
+   "meaning_en": "far (deeply removed)",
+   "meaning_bn": "সুদূর বা গভীর",
+   "why_en": "Emphasizes how distant their stubborn disputes have taken them from fairness and true guidance."
+  }
+ ],
+ "lesson_en": "Accept God's guidance as a whole instead of choosing only what fits your own wishes.",
+ "lesson_bn": "নিজের পছন্দ অনুযায়ী কিতাবের কিছু অংশ গ্রহণ আর কিছু অংশ বর্জন না করে আল্লাহর বিধানকে সামগ্রিকভাবে মেনে নিন।",
+ "real_life_en": "Do not use religious rules out of context just to win an argument with family or friends. Be honest and humble with what you learn. Taking only what suits you hurts trust and causes useless fights.",
+ "real_life_bn": "তর্কে জেতার জন্য বা নিজের সুবিধার্থে কোনো ধর্মীয় নিয়মকে আংশিকভাবে ব্যবহার করবেন না। পুরো বিধান বোঝার মানসিকতা পারস্পরিক সম্পর্কে শান্তি বজায় রাখে, আর সুবিধাবাদী ব্যাখ্যা পরিবারে দূরত্ব সৃষ্টি করে।",
+ "context_en": "Explains the basis for the punishment described in the previous ayat: Allah sent scripture with truth, so disputing it and hiding parts of it creates destructive dissension.",
+ "context_bn": "আগের আয়াতগুলোতে বর্ণিত শাস্তির কারণ ব্যাখ্যা করে বলা হয়েছে যে, আল্লাহ সত্যসহ কিতাব পাঠিয়েছেন; তাই তা নিয়ে মনগড়া বিরোধ সৃষ্টি করা মানুষকে সত্য থেকে দূরে সরিয়ে দেয়।",
+ "themes": [
+  "the Quran",
+  "revelation",
+  "truth",
+  "justice",
+  "unity",
+  "misguidance"
+ ],
+ "kinds": [
+  "argument",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the Book"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The punishment is deserved because Allah sent down the scripture with absolute truth, obligating clarity rather than concealment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Those who dispute the scripture by accepting portions and rejecting or concealing others fall into extreme hostility far from the truth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

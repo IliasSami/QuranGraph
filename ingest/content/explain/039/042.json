@@ -1,0 +1,84 @@
+{
+  "id": "39:42",
+  "simple_en": "Allah takes the souls of human beings at the moment of their death. He also takes the souls of the living while they sleep. He keeps the souls whose death has been decreed, and sends the others back until their fixed time is reached. Truly, in this are clear signs for those who reflect.",
+  "simple_bn": "আল্লাহ মানুষের মৃত্যুর সময় তাদের প্রাণ হরণ করেন। আর যারা মৃত্যুবরণ করেনি, ঘুমের সময়ও তিনি তাদের প্রাণ নিয়ে নেন। তারপর যার জন্য মৃত্যুর আদেশ হয়েছে তার প্রাণ তিনি রেখে দেন এবং অন্যগুলো নির্দিষ্ট সময় পর্যন্ত ফিরিয়ে দেন। যারা চিন্তা করে তাদের জন্য এতে স্পষ্ট নিদর্শন রয়েছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "وفي",
+      "lemma": "تَوَفَّى",
+      "meaning_en": "He takes souls / takes in full",
+      "meaning_bn": "প্রাণ হরণ করেন বা পুরোপুরি গ্রহণ করেন",
+      "why_en": "Affirms Allah's sovereign control over life, sleep, and death."
+    },
+    {
+      "pos": 5,
+      "root": "موت",
+      "lemma": "مَوْت",
+      "meaning_en": "their death",
+      "meaning_bn": "তাদের মৃত্যু",
+      "why_en": "The final departure of the soul from the physical body."
+    },
+    {
+      "pos": 10,
+      "root": "نوم",
+      "lemma": "مَنام",
+      "meaning_en": "their sleep",
+      "meaning_bn": "তাদের নিদ্রা",
+      "why_en": "Points to sleep as a temporary form of soul departure and return."
+    },
+    {
+      "pos": 20,
+      "root": "سمو",
+      "lemma": "مُسَمًّى",
+      "meaning_en": "an appointed term",
+      "meaning_bn": "এক নির্দিষ্ট মেয়াদ",
+      "why_en": "Shows that every human lifespan is precisely set by divine decree."
+    }
+  ],
+  "lesson_en": "Sleep is a reminder of death, showing that our life and return are entirely in Allah's hands.",
+  "lesson_bn": "নিদ্রা হলো মৃত্যুর এক নীরব স্মারক, যা আমাদের মনে করিয়ে দেয় জীবন ও মরণ একমাত্র আল্লাহর হাতে।",
+  "real_life_en": "Before you sleep each night, say your prayers and forgive anyone who wronged you. Remember that waking up in the morning is a fresh gift of life from God.",
+  "real_life_bn": "প্রতি রাতে ঘুমাতে যাওয়ার আগে আল্লাহর নাম নিন এবং সবাইকে ক্ষমা করে মন শান্ত করুন। সকালে চোখ মেলা আল্লাহর দেওয়া নতুন এক জীবনের সুযোগ।",
+  "themes": [
+    "life and death",
+    "sleep",
+    "soul",
+    "divine power",
+    "reflection"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "creation",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": [
+      "the soul"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Allah takes souls at death and during sleep, holding those decreed to die and releasing others until an appointed time.",
+      "claim_bn": "আল্লাহ মৃত্যুর সময় এবং ঘুমের মধ্যে মানুষের প্রাণ গ্রহণ করেন, তারপর নির্ধারিত জনের প্রাণ রেখে দেন এবং অন্যদের নির্দিষ্ট মেয়াদ পর্যন্ত ফিরিয়ে দেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

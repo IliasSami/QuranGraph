@@ -1,0 +1,66 @@
+{
+ "id": "70:21",
+ "simple_en": "When good things come to such a person, he changes completely. Wealth, health, and comfort fill his hands, but he holds them tight. He does not share with the poor and refuses to give what Allah made obligatory. Greed takes over his heart and makes him fear losing what he has.",
+ "simple_bn": "যখন এমন মানুষের কাছে ভালো কিছু আসে, তখন তার রূপ বদলে যায়। ধনসম্পদ, সুস্থতা ও সুখ পেলেও সে হাত গুটিয়ে রাখে। গরিবদের সাথে তা ভাগ করে না এবং আল্লাহর নির্ধারিত হক দিতে অস্বীকার করে। লোভ তার মনে বাসা বাঁধে এবং সম্পদ হারানোর ভয় তাকে কৃপণ বানিয়ে দেয়।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "خير",
+   "lemma": "خَيْر",
+   "meaning_en": "good, wealth, blessings",
+   "meaning_bn": "কল্যাণ, প্রাচুর্য",
+   "why_en": "It covers health, wealth, and ease given by Allah."
+  },
+  {
+   "pos": 4,
+   "root": "منع",
+   "lemma": "مَنُوع",
+   "meaning_en": "withholding, stingy",
+   "meaning_bn": "অতি কৃপণ, আটকে রাখা",
+   "why_en": "It expresses tight refusal to share or spend in good causes."
+  }
+ ],
+ "lesson_en": "When Allah blesses you with ease and wealth, give generously and do not hold back.",
+ "lesson_bn": "আল্লাহ যখন আপনাকে প্রাচুর্য দেন, তখন উদারভাবে দান করুন এবং হাত গুটিয়ে রাখবেন না।",
+ "real_life_en": "A shopkeeper earns good money this month. Instead of keeping every coin for fancy things, he buys warm coats for poor children. Sharing his gain brings joy to his town.",
+ "real_life_bn": "এক দোকানদার এ মাসে ভালো লাভ করল। সব টাকা নিজের বিলাসের জন্য না রেখে সে গরিব শিশুদের জন্য শীতের পোশাক কিনল। সম্পদ ভাগ করে নিলে সমাজেও আনন্দ বাড়ে।",
+ "themes": [
+  "wealth",
+  "generosity",
+  "gratitude"
+ ],
+ "kinds": [
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "When wealth and blessings come to him, he becomes stingy and withholds spending in the way of Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The unguided human withholds good from others when prosperous.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

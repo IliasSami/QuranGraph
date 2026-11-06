@@ -1,0 +1,80 @@
+{
+ "id": "5:93",
+ "simple_en": "Those who believe and do good deeds are not blamed for what they consumed in the past, before the prohibition. This holds as long as they fear Allah, maintain faith, and perform righteous acts, growing in piety and excellence. Allah loves those who do good.",
+ "simple_bn": "যারা ঈমান এনেছে ও সৎকাজ করেছে, অতীতে যা তারা ভক্ষণ করেছে তার জন্য তাদের কোনো গুনাহ নেই; যদি তারা তাকওয়া বজায় রাখে, ঈমান আনে, সৎকাজ করে এবং ইহসানের স্তরে পৌঁছায়। আর আল্লাহ সৎকর্মশীলদের ভালোবাসেন।",
+ "key_words": [
+  {
+   "pos": 7,
+   "root": "جنح",
+   "lemma": "جُناح",
+   "meaning_en": "blame / sin",
+   "meaning_bn": "পাপ বা অপরাধ",
+   "why_en": "Past acts done before a law was revealed carry no sin or blame."
+  },
+  {
+   "pos": 9,
+   "root": "طعم",
+   "lemma": "طَعِمُ",
+   "meaning_en": "they consumed / ate",
+   "meaning_bn": "তারা পানাহার বা ভক্ষণ করেছিল",
+   "why_en": "Refers to drinking wine or eating before the divine prohibition was announced."
+  },
+  {
+   "pos": 24,
+   "root": "حسن",
+   "lemma": "مُحْسِن",
+   "meaning_en": "the doers of good",
+   "meaning_bn": "সৎকর্মশীল ব্যক্তিবর্গ",
+   "why_en": "Those who worship Allah with sincerity as though they see Him."
+  }
+ ],
+ "lesson_en": "Allah pardons past mistakes done in ignorance when you turn to Him and do good.",
+ "lesson_bn": "দ্বীনের সঠিক বিধান জানার আগের ভুলের জন্য অনুশোচনা করে সৎপথে অবিচল থাকলে আল্লাহ ক্ষমা করেন।",
+ "real_life_en": "A man worries about bad choices he made before learning his faith. A wise friend comforts him. Sincere prayer and good deeds today wipe away past wrongs.",
+ "real_life_bn": "ইসলামের পথে নতুন ফিরে আসা এক ব্যক্তি অতীতের অজ্ঞতার পাপ নিয়ে দুঃশ্চিন্তায় পড়েছিলেন। একজন আলেম তাকে আশ্বস্ত করলেন যে, খাঁটি তাওবা ও বর্তমানের নেক আমল পেছনের ভুল মুছে দেয়।",
+ "context_en": "Reassures believers regarding companions who drank wine before its prohibition was revealed.",
+ "context_bn": "মদ নিষিদ্ধ হওয়ার পূর্বে যারা তা পান করে মারা গিয়েছেন, তাদের ব্যাপারে সাহাবিদের সংশয় দূরীকরণ।",
+ "themes": [
+  "forgiveness",
+  "Allah's mercy",
+  "faith",
+  "good character"
+ ],
+ "kinds": [
+  "promise",
+  "belief",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "There is no sin on believers for what they consumed prior to the prohibition if they remain God-fearing and righteous.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Allah loves those who excel in their faith, piety, and good deeds.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

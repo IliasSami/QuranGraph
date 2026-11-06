@@ -1,0 +1,75 @@
+{
+  "id": "29:37",
+  "simple_en": "The people of Madyan denied their prophet and refused to listen to his good counsel. Because of their stubborn disbelief, a violent earthquake struck them suddenly. Morning found them lying dead and still inside their own homes.",
+  "simple_bn": "মাদইয়ানবাসী তাদের নবী শুআইবকে মিথ্যাবাদী বলে উড়িয়ে দিল। ফলে এক আকস্মিক প্রচণ্ড ভূমিকম্প তাদেরকে পাকড়াও করল। পরদিন সকালে তারা নিজেদের ঘরের ভেতরেই মৃত এবং নিথর অবস্থায় পড়ে রইল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "arabic": "فَكَذَّبُوهُ",
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "they denied him",
+      "meaning_bn": "তারা তাকে মিথ্যাবাদী বলল",
+      "why_en": "The persistent rejection by the people of Madyan."
+    },
+    {
+      "pos": 3,
+      "arabic": "ٱلرَّجْفَةُ",
+      "root": "رجف",
+      "lemma": "رَجْفَة",
+      "meaning_en": "the earthquake",
+      "meaning_bn": "প্রচণ্ড ভূমিকম্প",
+      "why_en": "The violent shock that destroyed the deniers in their homes."
+    }
+  ],
+  "lesson_en": "Stubborn denial of divine truth brings swift ruin. Worldly homes offer no shelter against divine judgment.",
+  "lesson_bn": "আল্লাহর প্রেরিত সত্যকে একগুঁয়েমি করে অস্বীকার করলে ধ্বংস অনিবার্য হয়ে ওঠে। জাগতিক বাড়িঘর আল্লাহর পাকড়াও থেকে কাউকে বাঁচাতে পারে না।",
+  "real_life_en": "Listen when good friends or family give you advice. Do not ignore wise reminders. Correct your small mistakes before they turn into lasting regret.",
+  "real_life_bn": "হিতাকাঙ্ক্ষীদের ভালো উপদেশ কখনও অবহেলা করবেন না। ছোট ভুল বড় বিপদে রূপ নেওয়ার আগেই নিজেকে সংশোধন করে নিন।",
+  "themes": [
+    "madyan",
+    "denial",
+    "earthquake",
+    "destruction",
+    "punishment"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Shu'ayb"
+    ],
+    "nations": [
+      "People of Madyan"
+    ],
+    "places": [
+      "Madyan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "earthquake of Madyan"
+    ],
+    "things": [
+      "homes"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The people of Madyan rejected Prophet Shu'ayb, and a violent earthquake destroyed them inside their homes.",
+      "claim_bn": "মাদইয়ানবাসী নবী শুআইবকে অস্বীকার করায় প্রচণ্ড ভূমিকম্প তাদের নিজ ঘরেই ধ্বংস করে দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "10:1",
+  "simple_en": "Alif, Lam, Ra. These are the verses of the wise Book. It is filled with clear wisdom and divine guidance for everyone who seeks the truth.",
+  "simple_bn": "আলিফ-লাম-রা। এগুলো মহাজ্ঞানপূর্ণ কিতাবের আয়াত, যা সত্য সন্ধানকারীদের জন্য প্রজ্ঞা ও সঠিক দিকনির্দেশনায় পরিপূর্ণ।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "verses / signs",
+      "meaning_bn": "আয়াতসমূহ / নিদর্শন",
+      "why_en": "Divine units of speech carrying profound guidance."
+    },
+    {
+      "pos": 4,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Book",
+      "meaning_bn": "কিতাব / গ্রন্থ",
+      "why_en": "The preserved scripture of divine revelation."
+    },
+    {
+      "pos": 5,
+      "root": "حكم",
+      "lemma": "حَكِيم",
+      "meaning_en": "wise / full of wisdom",
+      "meaning_bn": "প্রজ্ঞাময় / বিজ্ঞানময়",
+      "why_en": "Flawless divine order and practical wisdom."
+    }
+  ],
+  "lesson_en": "The Quran is a treasure of wisdom that brings light and clarity to daily life.",
+  "lesson_bn": "কুরআন এক অতুলনীয় প্রজ্ঞার ভান্ডার, যা মানুষের প্রাত্যহিক জীবনে সঠিক পথের দিশা দেয়।",
+  "real_life_en": "When life feels confusing, turn to the Quran for timeless guidance. Its wise teachings help you make sound moral choices.",
+  "real_life_bn": "জীবনের যেকোনো সিদ্ধান্তহীনতায় কুরআনের জ্ঞান অনুসন্ধান করুন; এর প্রজ্ঞাপূর্ণ উপদেশ আপনাকে সঠিক পথ দেখাবে।",
+  "themes": [
+    "wisdom of the Quran",
+    "divine revelation",
+    "guidance"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "praise",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran",
+      "wise Book"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Surah Yunus opens by asserting that the Quran is a wise scripture whose verses contain flawless order and deep wisdom.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

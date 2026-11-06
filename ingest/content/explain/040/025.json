@@ -1,0 +1,80 @@
+{
+  "id": "40:25",
+  "simple_en": "When Musa brought the truth, Pharaoh gave a cruel command. He ordered his men to kill the newborn sons of those who believed and spare the females to humiliate them. But the evil plot of the disbelievers only ended in total failure.",
+  "simple_bn": "মূসা যখন সত্য নিয়ে আসলেন, তখন ফিরআউন এক নিষ্ঠুর আদেশ জারি করল। সে মুমিনদের পুত্রসন্তানদের হত্যা করতে এবং কন্যাদের অপমানিত করে বাঁচিয়ে রাখতে বলল। কিন্তু কাফিরদের এই ষড়যন্ত্র ব্যর্থতায় পর্যবসিত হয়েছিল।",
+  "key_words": [
+    {
+      "pos": 7,
+      "root": "قتل",
+      "lemma": "قَتَلَ",
+      "meaning_en": "kill / slay",
+      "meaning_bn": "হত্যা করো",
+      "why_en": "Pharaoh's ruthless command intended to wipe out male believers."
+    },
+    {
+      "pos": 8,
+      "root": "بني",
+      "lemma": "ابْن",
+      "meaning_en": "sons",
+      "meaning_bn": "পুত্রসন্তানগণ",
+      "why_en": "The vulnerable target of Pharaoh's oppressive decree."
+    },
+    {
+      "pos": 15,
+      "root": "كيد",
+      "lemma": "كَيْد",
+      "meaning_en": "plot / scheme",
+      "meaning_bn": "চক্রান্ত বা কূটকৌশল",
+      "why_en": "Tyrants plot against truth, but their schemes ultimately fall apart."
+    },
+    {
+      "pos": 19,
+      "root": "ضلل",
+      "lemma": "ضَلال",
+      "meaning_en": "error / ruin",
+      "meaning_bn": "ব্যর্থতা ও ভ্রষ্টতা",
+      "why_en": "Shows the utter futility of opposing divine will."
+    }
+  ],
+  "lesson_en": "Cruel schemes to extinguish the truth will always collapse and fail.",
+  "lesson_bn": "সত্যকে দমন করার যেকোনো নিষ্ঠুর চক্রান্ত চূড়ান্তভাবে ব্যর্থ হয়।",
+  "real_life_en": "Never fear unjust threats when you stand for what is right. Trust that corrupt plans have no real power against the plan of Allah.",
+  "real_life_bn": "ন্যায়ের পক্ষে দাঁড়ানোর সময় অন্যায়কারীদের হুমকিতে ভয় পাবেন না। ভরসা রাখুন যে কোনো অশুভ পরিকল্পনাই আল্লাহর ইচ্ছার বিরুদ্ধে টিকে থাকতে পারে না।",
+  "themes": [
+    "stories of the prophets",
+    "trials",
+    "patience",
+    "justice"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Pharaoh ordered the sons of believers killed and women spared, but the disbelievers' plot ended in ruin.",
+      "claim_bn": "ফিরআউন মুমিনদের পুত্রসন্তানদের হত্যা ও কন্যাদের বাঁচিয়ে রাখার নির্দেশ দেয়, কিন্তু তাদের চক্রান্ত ব্যর্থ হয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

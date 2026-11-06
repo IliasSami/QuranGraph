@@ -1,0 +1,62 @@
+{
+  "id": "24:4",
+  "simple_en": "Those who accuse chaste women of evil but fail to bring four witnesses shall receive eighty lashes. Never accept their word again. They have acted corruptly.",
+  "simple_bn": "যারা সচ্চরিত্রা নারীদের প্রতি অপবাদ দেয় এবং চারজন প্রত্যক্ষদর্শী সাক্ষী হাজির করতে পারে না, তাদের আশিটি বেত্রাঘাত কর। কখনো তাদের সাক্ষ্য গ্রহণ করবে না, কারণ তারা পাপাচারী।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حصن",
+      "lemma": "مُحْصَنَة",
+      "meaning_en": "chaste women",
+      "meaning_bn": "সচ্চরিত্রা নারীগণ",
+      "why_en": "Virtuous women whose dignity and reputation are guarded by divine law."
+    },
+    {
+      "pos": 7,
+      "root": "ربع",
+      "lemma": "أَرْبَعَة",
+      "meaning_en": "with four",
+      "meaning_bn": "চারজন দ্বারা",
+      "why_en": "The strict evidentiary requirement established to protect innocent people from slander."
+    }
+  ],
+  "lesson_en": "Protecting good names is a sacred duty. False charges break trust and bring hard punishment.",
+  "lesson_bn": "কারো সুনাম ও সম্মানের সুরক্ষা নিশ্চিত করা একটি বড় সামাজিক দায়িত্ব। প্রমাণ ছাড়া অপবাদ রটানো মারাত্মক পাপ ও কঠোর শাস্তির কারণ।",
+  "real_life_en": "Never spread rumors about anyone's honor. If you hear gossip about another person, stop it right away.",
+  "real_life_bn": "কারো চরিত্র বা সম্মান নিয়ে কোনো গুজব ছড়াবেন না। কারো বিরুদ্ধে অসত্য কথা শুনতে পেলে তা তৎক্ষণাৎ প্রতিহত করুন।",
+  "themes": [
+    "false-accusation",
+    "guarding-honor",
+    "justice"
+  ],
+  "kinds": [
+    "law",
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "False accusers who fail to present four witnesses to prove immorality receive eighty lashes and permanent legal disqualification.",
+      "claim_bn": "সচ্চরিত্র নারীদের বিরুদ্ধে ব্যভিচারের অভিযোগ তুলে চারজন সাক্ষী হাজির করতে ব্যর্থ হলে আশিটি বেত্রাঘাত ও সাক্ষ্যদানের অযোগ্যতার দণ্ড নির্ধারিত হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

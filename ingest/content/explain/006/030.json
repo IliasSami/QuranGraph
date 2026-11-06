@@ -1,0 +1,87 @@
+{
+  "id": "6:30",
+  "simple_en": "Imagine the day when those who denied the resurrection are made to stand before their Lord. Allah will ask them if this return is the truth. They will admit and swear by their Lord that it is true. Then Allah will tell them to taste the painful punishment for their disbelief.",
+  "simple_bn": "আপনি যদি সেই দৃশ্য দেখতেন, যখন পুনরুত্থান অস্বীকারকারীদের তাদের প্রতিপালকের সামনে দাঁড় করানো হবে! আল্লাহ তাদের জিজ্ঞেস করবেন, 'এ কি সত্য নয়?' তারা তখন প্রতিপালকের কসম খেয়ে স্বীকার করবে, 'হ্যাঁ, এটি সত্য।' অতঃপর আল্লাহ তাদের নির্দেশ দেবেন, কুফরির প্রতিফল হিসেবে শাস্তির স্বাদ গ্রহণ করো।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "their Lord",
+      "meaning_bn": "তাদের প্রতিপালক",
+      "why_en": "Emphasizes the direct accountability of all creatures before their Creator."
+    },
+    {
+      "pos": 10,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the truth",
+      "meaning_bn": "সত্য",
+      "why_en": "Affirms that resurrection and judgment are undeniable realities."
+    },
+    {
+      "pos": 15,
+      "root": "ذوق",
+      "lemma": "ذاقُ",
+      "meaning_en": "taste!",
+      "meaning_bn": "তোমরা আস্বাদন করো",
+      "why_en": "The divine command delivering the painful consequence of disbelief."
+    }
+  ],
+  "lesson_en": "Denying the truth in this life will lead to deep regret in the next.",
+  "lesson_bn": "পার্থিব জীবনে সত্য অস্বীকার করলে পরকালে অনিবার্য অনুশোচনা ও শাস্তির মুখোমুখি হতে হবে।",
+  "real_life_en": "A worker ignores safety rules on a building site. When he gets hurt, he admits the rules were right. But he cannot undo the pain. Take the truth seriously now to save yourself from loss.",
+  "real_life_bn": "নির্মাণকাজে নিরাপত্তার নিয়ম অবহেলা করে আহত হওয়ার পর নিয়মের প্রয়োজনীয়তা বুঝতে পারলে আর আঘাত এড়ানো যায় না। সময় থাকতে সত্য মেনে চলাই মানুষকে অপূরণীয় ক্ষতি থেকে বাঁচিয়ে রাখে।",
+  "context_en": "Portrays the inescapable accountability of resurrection deniers standing before Allah.",
+  "context_bn": "পুনরুত্থান অস্বীকারকারীদের আল্লাহর সামনে উপস্থিত করার মুহূর্ত এবং তাদের সত্য স্বীকার ও শাস্তির নির্দেশ বর্ণিত হয়েছে।",
+  "themes": [
+    "day-of-judgment",
+    "truth",
+    "punishment"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Day of Resurrection"
+    ],
+    "names_of_allah": [
+      "Allah",
+      "Ar-Rabb"
+    ],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who denied resurrection will stand before their Lord and be compelled to confess that the resurrection is true.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Disbelievers will be commanded to taste torment because of their rejection of the truth in worldly life.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

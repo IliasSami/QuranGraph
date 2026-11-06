@@ -1,0 +1,94 @@
+{
+ "id": "72:4",
+ "simple_en": "The jinn also admitted that the foolish one among them used to say outrageous things about Allah. He claimed that Allah has a wife and a son. This was a serious lie that went far beyond the truth. Such talk came from weak understanding, not from knowledge of Allah.",
+ "simple_bn": "জিনরা আরও স্বীকার করল, তাদের মধ্যকার নির্বোধ লোকটি আল্লাহ সম্পর্কে বাড়াবাড়ি কথা বলত। সে দাবি করত, আল্লাহর স্ত্রী ও সন্তান আছে। এটি ছিল সত্য থেকে অনেক দূরে এক বড় মিথ্যা। এমন কথা আল্লাহ সম্পর্কে জ্ঞান থেকে নয়, বরং বোকামি থেকে এসেছিল।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "كون",
+   "lemma": "كانَ",
+   "meaning_en": "used to be",
+   "meaning_bn": "ছিল, করত",
+   "why_en": "It shows this was a repeated habit in the past, not a single slip."
+  },
+  {
+   "pos": 4,
+   "root": "سفه",
+   "lemma": "سَفِيه",
+   "meaning_en": "the foolish one",
+   "meaning_bn": "নির্বোধ লোক",
+   "why_en": "The word ties the false claim to a lack of sound judgement."
+  },
+  {
+   "pos": 6,
+   "root": "أله",
+   "lemma": "اللَّه",
+   "meaning_en": "Allah",
+   "meaning_bn": "আল্লাহ",
+   "why_en": "The lie is measured against Allah Himself, which makes it very serious."
+  },
+  {
+   "pos": 7,
+   "root": "شطط",
+   "lemma": "شَطَط",
+   "meaning_en": "excess, outrageous falsehood",
+   "meaning_bn": "বাড়াবাড়ি, চরম মিথ্যা",
+   "why_en": "It means going far past the limits of truth and fairness."
+  }
+ ],
+ "lesson_en": "Speak about Allah only with knowledge. Careless words about Him can become serious falsehood.",
+ "lesson_bn": "আল্লাহ সম্পর্কে কেবল জেনে-বুঝে কথা বলুন, কারণ তাঁর বিষয়ে অসতর্ক কথা বড় মিথ্যায় পরিণত হতে পারে।",
+ "real_life_en": "Someone may tell you a strange claim about Allah and expect you to repeat it. You do not have to argue. Ask where the claim comes from, check it with people who know, and do not pass it on. Passing on an unchecked claim makes you part of it.",
+ "real_life_bn": "কেউ হয়তো আল্লাহ সম্পর্কে অদ্ভুত একটি কথা বলে আপনার কাছে তা ছড়াতে চাইবে। তর্ক করা জরুরি নয়। জিজ্ঞেস করুন কথাটি কোথা থেকে এসেছে, যাঁরা জানেন তাঁদের কাছে যাচাই করুন, আর নিজে তা ছড়াবেন না। যাচাই না করে কথা ছড়ালে আপনি নিজেও তার অংশ হয়ে যান।",
+ "themes": [
+  "disbelief",
+  "shirk"
+ ],
+ "kinds": [
+  "belief",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn",
+   "satan"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The foolish one among the jinn used to utter outrageous falsehood about Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The falsehood meant here is the claim that Allah has a wife and a son.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "This talk came from foolishness and weak understanding.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.9,
+ "uncertain": [
+  "Commentators differ on who the foolish one is: Iblis, or the foolish ones among the jinn, or anyone who claims Allah has a child. The text keeps the wording general."
+ ]
+}

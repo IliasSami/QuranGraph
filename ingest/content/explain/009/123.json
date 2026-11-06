@@ -1,0 +1,74 @@
+{
+  "id": "9:123",
+  "simple_en": "O you who believe, fight those disbelievers who are near to you, and let them find strength in you. Know that Allah is always with those who are mindful of Him.",
+  "simple_bn": "হে ঈমানদারগণ! কাফেরদের মধ্যে যারা তোমাদের কাছাকাছি রয়েছে তাদের বিরুদ্ধে লড়াই করো, আর তারা যেন তোমাদের মধ্যে দৃঢ়তা দেখতে পায়। জেনে রাখো, নিশ্চয় আল্লাহ মুত্তাকীদের সাথে আছেন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "قتل",
+      "lemma": "قاتَلَ",
+      "meaning_en": "fight",
+      "meaning_bn": "লড়াই করো",
+      "why_en": "Defending borders against neighboring hostile threats."
+    },
+    {
+      "pos": 11,
+      "root": "غلظ",
+      "lemma": "غِلْظَة",
+      "meaning_en": "firmness / strength",
+      "meaning_bn": "দৃঢ়তা / কঠোরতা",
+      "why_en": "Displaying solid discipline and resolve against aggression."
+    },
+    {
+      "pos": 16,
+      "root": "وقي",
+      "lemma": "مُتَّقي",
+      "meaning_en": "those mindful of Allah",
+      "meaning_bn": "মুত্তাকীগণ / খোদাভীরুরা",
+      "why_en": "Those whose strength is rooted in piety, not tyranny."
+    }
+  ],
+  "lesson_en": "Stand strong against enemies, but keep your heart full of fear of God.",
+  "lesson_bn": "অন্যায়ের বিরুদ্ধে দৃঢ় অবস্থান নিন, তবে সব ক্ষেত্রে খোদাভীতি ও ন্যায়পরায়ণতা বজায় রাখুন।",
+  "real_life_en": "When defending your rights or protecting your neighborhood, show courage and firm resolve. Never let fear make you compromise on justice.",
+  "real_life_bn": "নিজের অধিকার রক্ষায় সাহসী ও দৃঢ় থাকুন; কোনো অন্যায়ের মুখে দুর্বলতা প্রকাশ করে মাথা নত করবেন না।",
+  "themes": [
+    "firm resolve",
+    "defending borders",
+    "Allah is with the mindful"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers",
+      "disbelievers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers were directed to confront adjacent aggressive threats systematically while showing deterrence and adhering to piety.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

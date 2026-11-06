@@ -1,0 +1,78 @@
+{
+  "id": "13:34",
+  "simple_en": "For stubborn deniers, there is suffering in this present world. But the punishment of the next world is far harsher and everlasting. When divine justice arrives, no one will be able to defend or protect them against Allah.",
+  "simple_bn": "সত্য অস্বীকারকারীদের জন্য দুনিয়ার জীবনে রয়েছে লাঞ্ছনা ও শাস্তি। আর আখেরাতের শাস্তি তো আরও অনেক বেশি কঠোর। সেদিন আল্লাহর পাকড়াও থেকে তাদের রক্ষা করার মতো কোনো আশ্রয়দাতা থাকবে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عذب",
+      "lemma": "عَذاب",
+      "meaning_en": "punishment",
+      "meaning_bn": "শাস্তি",
+      "why_en": "The painful penalty meted out for persistent wrongdoing."
+    },
+    {
+      "pos": 7,
+      "root": "أخر",
+      "lemma": "آخِر",
+      "meaning_en": "the Hereafter",
+      "meaning_bn": "আখেরাত",
+      "why_en": "The next world where retribution is permanent and intense."
+    },
+    {
+      "pos": 8,
+      "root": "شقق",
+      "lemma": "أَشَقّ",
+      "meaning_en": "harsher",
+      "meaning_bn": "আরও কঠোর",
+      "why_en": "Surpassing any earthly pain in severity and duration."
+    },
+    {
+      "pos": 14,
+      "root": "وقي",
+      "lemma": "واق",
+      "meaning_en": "defender / protector",
+      "meaning_bn": "রক্ষা পাওয়ার কোনো উপায়",
+      "why_en": "Zero shields exist against divine justice on Judgment Day."
+    }
+  ],
+  "lesson_en": "Fear the eternal penalty of the Hereafter and mend your ways today.",
+  "lesson_bn": "আখেরাতের কঠিন শাস্তিকে ভয় করুন এবং আজই নিজের জীবন সংশোধন করে নিন।",
+  "real_life_en": "A thief is caught and put in jail. He realizes worldly trouble is small next to God judgment, so he turns to good.",
+  "real_life_bn": "এক চোর ধরা পড়ে কারাগারে যায়। সে বোঝে দুনিয়ার কষ্ট আল্লাহর বিচারের তুলনায় কিছুই নয়, তাই সে খাঁটি মনে ভালো মানুষ হয়ে যায়।",
+  "context_en": "The dual punishment of wrongdoers in this world and the far more severe penalty of the Hereafter.",
+  "context_bn": "দুনিয়ায় অবাধ্যদের লাঞ্ছনা এবং আখেরাতের কঠোরতম শাস্তির অনিবার্য পরিণতি।",
+  "themes": [
+    "punishment",
+    "hereafter",
+    "justice"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hereafter"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Deniers face worldly punishment, while the punishment of the Hereafter is harsher with no defender.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

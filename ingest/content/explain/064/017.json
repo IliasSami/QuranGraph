@@ -1,0 +1,80 @@
+{
+  "id": "64:17",
+  "simple_en": "If you spend your wealth in the way of Allah, it is like a good loan to Him. He will multiply your reward many times and forgive your sins. Allah is full of thanks for small deeds, and He is deeply gentle and patient.",
+  "simple_bn": "তোমরা যদি আল্লাহর সন্তুষ্টির জন্য উত্তম ঋণ দাও, তবে তিনি তোমাদের প্রতিদান বহুগুণ বাড়িয়ে দেবেন এবং তোমাদের পাপ ক্ষমা করবেন। আল্লাহ কৃতজ্ঞ ও সহনশীল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "قرض",
+      "lemma": "قَرْض",
+      "meaning_en": "a goodly loan",
+      "meaning_bn": "উত্তম ঋণ",
+      "why_en": "Metaphor for spending sincerely in God's path with expectation of divine reward."
+    },
+    {
+      "pos": 6,
+      "root": "ضعف",
+      "lemma": "يُضاعِفُ",
+      "meaning_en": "He will multiply it",
+      "meaning_bn": "তিনি বহুগুণ বাড়িয়ে দেবেন",
+      "why_en": "Promises that a sincere charity will be multiplied tenfold or even seven hundred times."
+    },
+    {
+      "pos": 11,
+      "root": "شكر",
+      "lemma": "شَكُور",
+      "meaning_en": "Most Appreciative",
+      "meaning_bn": "কৃতজ্ঞ ও মূল্যায়নকারী",
+      "why_en": "Describes Allah rewarding small acts of obedience with abundant blessings."
+    },
+    {
+      "pos": 12,
+      "root": "حلم",
+      "lemma": "حَلِيم",
+      "meaning_en": "Most Forbearing",
+      "meaning_bn": "পরম সহনশীল",
+      "why_en": "Shows that Allah does not rush punishment and gives people room to turn back."
+    }
+  ],
+  "lesson_en": "Give to others with a kind heart, for Allah multiplies small gifts into huge rewards.",
+  "lesson_bn": "আন্তরিকতার সাথে দান করা উচিত, কারণ আল্লাহ ছোট আমলের বিনিময়েও বহুগুণ বড় পুরস্কার দান করেন।",
+  "real_life_en": "A woman sponsors school supplies for a poor orphan every month. She does not feel poorer; instead, she feels blessed. She trusts that Allah repays every good deed with forgiveness and multiplied reward.",
+  "real_life_bn": "প্রতি মাসে সামর্থ্য অনুযায়ী কোনো এতিম শিশুর পড়াশোনার খরচ বহন করা একটি মহৎ কাজ। এতে সম্পদ কমে না, বরং আল্লাহ এর বিনিময়ে জীবনে বরকত ও পরকালে মহা পুরস্কার দান করেন।",
+  "themes": [
+    "sincere charity",
+    "multiplied reward",
+    "forgiveness",
+    "divine gratitude"
+  ],
+  "kinds": [
+    "promise",
+    "command",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "ash-shakur"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Spending sincerely in the way of Allah is treated as a good loan which Allah multiplies and forgives sins for, and Allah is Appreciative and Forbearing.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

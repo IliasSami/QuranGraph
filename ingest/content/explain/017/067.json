@@ -1,0 +1,61 @@
+{
+  "id": "17:67",
+  "simple_en": "When danger strikes you at sea, all the false gods you pray to vanish from your mind except Him alone. Yet when He brings you safely to land, you turn away in ungratefulness.",
+  "simple_bn": "আর সাগরে যখন তোমাদের বিপদ স্পর্শ করে তখন তিনি ছাড়া যাদের তোমরা ডাকতে তারা মন থেকে মুছে যায়। অতঃপর তিনি যখন তোমাদের নিরাপদে তীরে নিয়ে আসেন তখন তোমরা মুখ ফিরিয়ে নাও। মানুষ বড়োই অকৃতজ্ঞ।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ضرر",
+      "lemma": "ضُرّ",
+      "meaning_en": "adversity and danger",
+      "meaning_bn": "বিপদ বা দুর্যোগ",
+      "why_en": "Life-threatening crises exposing human helplessness."
+    },
+    {
+      "pos": 6,
+      "root": "ضلل",
+      "lemma": "ضَلَّ",
+      "meaning_en": "vanish and disappear",
+      "meaning_bn": "হারিয়ে যায় বা বিস্মৃত হয়",
+      "why_en": "False idols forgotten in moments of extreme peril."
+    }
+  ],
+  "lesson_en": "Crisis reveals your true faith. Do not be like those who pray only during storms and forget God once they reach safety.",
+  "lesson_bn": "বিপদের সময় মানুষ খাঁটি মনে স্রষ্টাকে ডাকে। কিন্তু সংকট কেটে যাওয়ার পর তাঁকে ভুলে যাওয়া চরম অকৃতজ্ঞতা।",
+  "real_life_en": "Remember God during easy and calm days. Do not wait for a sudden storm or illness before you turn to Him in prayer.",
+  "real_life_bn": "সুস্থ ও সুখী দিনগুলোতেও আল্লাহকে স্মরণ করুন। কেবল বিপদে পড়ে দোয়া করা এবং ভালো সময়ে তাঁকে ভুলে যাওয়া উচিত নয়।",
+  "themes": [
+    "distress-at-sea",
+    "ingratitude",
+    "tawhid"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "In peril at sea, all deities are forgotten except Allah, yet when saved to dry land, mankind turns away ungratefully.",
+      "claim_bn": "সাগরে মহাবিপদের সময় মানুষ আল্লাহ ছাড়া সবাইকে ভুলে যায়, কিন্তু তীরে এসে নিরাপদ হলেই আবার অকৃতজ্ঞ হয়ে পড়ে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "21:50",
+  "simple_en": "And this Quran is a blessed reminder that We have revealed from on high. Will you then dare to reject its truth and deny its blessings?",
+  "simple_bn": "আর এই কুরআন হলো এক বরকতময় উপদেশ যা আমি অবতীর্ণ করেছি। তবে কি তোমরা এর সত্যতাকে অস্বীকার করবে?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "برك",
+      "lemma": "مُبارَك",
+      "meaning_en": "blessed",
+      "meaning_bn": "বরকতময়",
+      "why_en": "Abundant and enduring goodness of the Quran."
+    },
+    {
+      "pos": 7,
+      "root": "نكر",
+      "lemma": "مُنكِر",
+      "meaning_en": "those who reject",
+      "meaning_bn": "অস্বীকারকারী",
+      "why_en": "Unjustified denial of divine gift."
+    }
+  ],
+  "lesson_en": "The Quran is packed with blessings and wisdom. Denying this sacred gift only harms the person who rejects it.",
+  "lesson_bn": "কুরআন অফুরন্ত বরকত ও কল্যাণে ভরপুর। এই পবিত্র কিতাবকে অস্বীকার করলে মানুষ কেবল নিজেরই ক্ষতি ডেকে আনে।",
+  "real_life_en": "Read the Quran every single day. Bring its blessings into your house by reciting its verses and following its ethical teachings.",
+  "real_life_bn": "প্রতিদিন কুরআন পাঠ করুন। তিলাওয়াত ও এর শিক্ষাকে জীবনে বাস্তবায়নের মাধ্যমে নিজের ঘরে রহমত ও বরকত নিয়ে আসুন।",
+  "themes": [
+    "quran",
+    "blessed-message",
+    "rejection",
+    "divine-revelation"
+  ],
+  "kinds": [
+    "address",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran is a blessed reminder sent by God, confronting those who ungratefully deny its divine origin.",
+      "claim_bn": "কুরআন হলো আল্লাহর পক্ষ থেকে অবতীর্ণ এক বরকতময় উপদেশ, যা অস্বীকারকারীদের বিবেককে নাড়া দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

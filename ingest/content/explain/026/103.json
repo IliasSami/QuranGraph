@@ -1,0 +1,63 @@
+{
+  "id": "26:103",
+  "simple_en": "The story of Ibrahim and the end of his people is a great lesson for those who think. Yet most people in this world still turn away from the truth.",
+  "simple_bn": "ইব্রাহীমের এই ঘটনা এবং অস্বীকারকারীদের পরিণতির মধ্যে এক বিরাট শিক্ষা রয়েছে। তবুও তাদের অধিকাংশ মানুষ ঈমান আনে না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "a sign or lesson",
+      "meaning_bn": "এক বিরাট নিদর্শন বা শিক্ষা",
+      "why_en": "The story of Ibrahim carries enduring lessons for reflective minds."
+    },
+    {
+      "pos": 8,
+      "root": "أمن",
+      "lemma": "مُؤْمِن",
+      "meaning_en": "believers",
+      "meaning_bn": "বিশ্বাসী বা মুমিন",
+      "why_en": "Despite historical lessons, the majority of humanity persisted in disbelief."
+    }
+  ],
+  "lesson_en": "Past events teach clear lessons. Do not follow the crowd when they turn away from what is right.",
+  "lesson_bn": "অতীতের ঘটনা থেকে শিক্ষা নেওয়া বুদ্ধিমানের পরিচয়। অধিকাংশ মানুষ ভুল পথে চলছে বলেই তাদের অনুসরণ করা উচিত নয়।",
+  "real_life_en": "Do not follow the crowd simply because a lifestyle is popular. Search for truth with an independent mind and follow what is right, even if few others do so.",
+  "real_life_bn": "সংখ্যাগরিষ্ঠ মানুষ কোনো কাজ করছে দেখেই তাকে সঠিক মনে করবেন না। সত্যের পথ কঠিন হলেও একাকী সেই পথে চলার সাহস রাখুন।",
+  "themes": [
+    "signs-of-allah",
+    "historical-lessons",
+    "disbelief"
+  ],
+  "kinds": [
+    "warning",
+    "parable"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "In the story of Ibrahim and the fate of those who rejected him lies a clear sign, yet most people do not believe.",
+      "claim_bn": "ইব্রাহীমের এই ঘটনা ও অস্বীকারকারীদের পরিণতির মধ্যে বিরাট শিক্ষা রয়েছে, তবুও অধিকাংশ মানুষ ঈমান আনে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

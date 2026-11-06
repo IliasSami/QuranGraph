@@ -1,0 +1,99 @@
+{
+ "id": "2:280",
+ "simple_en": "If someone owes you money and faces hard times, give them time until life becomes easier for them. If you forgive the debt as an act of charity, that is even better for you. Showing mercy brings great blessing in this world and a high reward in the Hereafter.",
+ "simple_bn": "ঋণগ্রহীতা যদি অভাব-অনটনে থাকে এবং ঋণ পরিশোধে অক্ষম হয়, তবে তার সচ্ছলতা না আসা পর্যন্ত তাকে অবকাশ দাও। আর যদি তোমরা পাওনা অর্থ সদকা হিসেবে পুরোপুরি বা আংশিক মাফ করে দাও, তবে তা তোমাদের জন্য আরও বেশি কল্যাণকর—যদি তোমরা জানতে এর ভেতরে কত বড় প্রতিদান লুকিয়ে আছে। অভাবীর প্রতি এই সহানুভূতি পার্থিব জীবনে বরকত এবং আখিরাতে বিপুল সাওয়াব বয়ে আনে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "عسر",
+   "lemma": "عُسْرَة",
+   "meaning_en": "hardship / difficulty",
+   "meaning_bn": "অভাব-অনটন / সংকট",
+   "why_en": "Describes the financial distress that prevents a debtor from repaying on time."
+  },
+  {
+   "pos": 5,
+   "root": "نظر",
+   "lemma": "نَظِرَة",
+   "meaning_en": "postponement / respite",
+   "meaning_bn": "অবকাশ / সময় দেওয়া",
+   "why_en": "Mandates an extension of time without penalties for a struggling debtor."
+  },
+  {
+   "pos": 7,
+   "root": "يسر",
+   "lemma": "مَيْسَرَة",
+   "meaning_en": "ease / time of ease",
+   "meaning_bn": "সচ্ছলতা",
+   "why_en": "The point in time when the debtor recovers financial ability to repay."
+  },
+  {
+   "pos": 9,
+   "root": "صدق",
+   "lemma": "تَصَدَّقَ",
+   "meaning_en": "you give as charity / forgive",
+   "meaning_bn": "তোমরা সদকা করে দাও",
+   "why_en": "Encourages the superior moral act of writing off the loan for Allah's sake."
+  },
+  {
+   "pos": 10,
+   "root": "خير",
+   "lemma": "خَيْر",
+   "meaning_en": "better",
+   "meaning_bn": "অধিক কল্যাণকর",
+   "why_en": "Affirms that forgiving debts yields superior blessings both in this world and the next."
+  }
+ ],
+ "lesson_en": "Show mercy to those in hardship by giving them time, or forgive the debt for Allah's sake.",
+ "lesson_bn": "বিপদে পড়া ঋণগ্রহীতাকে সময় দিয়ে দয়া প্রদর্শন করুন, অথবা আল্লাহর সন্তুষ্টির জন্য ঋণ মাফ করে মহৎ প্রতিদান অর্জন করুন।",
+ "real_life_en": "A friend borrowed money for a medical bill and later lost his job. He cannot pay you back on time. Instead of pressing him, give him extra time. If you can afford it, forgive part of the loan to ease his worry.",
+ "real_life_bn": "এক বন্ধু চিকিৎসার জন্য কিছু টাকা ধার নিয়েছিলেন, পরে চাকরি হারিয়ে তিনি সময়মতো তা শোধ করতে পারছেন না। তাকে চাপ না দিয়ে আরো কিছু সময় দিন। আপনার সামর্থ্য থাকলে ঋণের কিছুটা অংশ মাফ করে দিয়ে তার দুশ্চিন্তা লাঘব করুন।",
+ "context_en": "Complements the ruling on principal recovery by establishing ethical mercy for impoverished debtors.",
+ "context_bn": "মূলধন ফেরতের বিধানের পর অভাবগ্রস্ত ঋণগ্রহীতার ক্ষেত্রে দয়া ও অবকাশ প্রদর্শনের মানবিক বিধান যুক্ত করা হয়েছে।",
+ "themes": [
+  "charity",
+  "mercy",
+  "wealth",
+  "patience",
+  "good character",
+  "reward"
+ ],
+ "kinds": [
+  "command",
+  "ethics",
+  "promise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Creditors are commanded to grant respite to a debtor facing severe hardship until their financial condition eases.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Remitting the debt partially or entirely as voluntary charity is superior in virtue and reward before Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

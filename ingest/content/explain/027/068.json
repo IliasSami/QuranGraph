@@ -1,0 +1,63 @@
+{
+  "id": "27:68",
+  "simple_en": "The disbelievers said they had heard these warnings before. They said their fathers were promised the same thing long ago. They called the truth nothing but old tales of the past.",
+  "simple_bn": "তারা বলে, এ বিষয়ে তো আমাদের এবং পূর্বে আমাদের পূর্বপুরুষদেরও প্রতিশ্রুতি দেওয়া হয়েছিল। এগুলো অতীতের উপকথা ও গল্পকাহিনী ছাড়া আর কিছুই নয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "وُعِدْنَا",
+      "root": "وعد",
+      "lemma": "وَعَدَ",
+      "meaning_en": "we were promised",
+      "meaning_bn": "আমাদের প্রতিশ্রুতি দেয়া হয়েছিল",
+      "why_en": "The prophetic promises of resurrection."
+    },
+    {
+      "pos": 11,
+      "arabic": "أَسَٰطِيرُ",
+      "root": "سطر",
+      "lemma": "أَساطِير",
+      "meaning_en": "legends",
+      "meaning_bn": "উপকথা বা কল্পকাহিনী",
+      "why_en": "The derogatory label disbelievers used to dismiss divine revelation."
+    }
+  ],
+  "lesson_en": "Calling the truth old tales is an old excuse. People often say words are made up so they do not have to obey.",
+  "lesson_bn": "আল্লাহর সত্য বাণীতে অবিশ্বাসীরা অলীক গল্প বলে উড়িয়ে দিতে চায়। যুগে যুগে সত্যের বিরুদ্ধে অজ্ঞদের অভিযোগ একই রকম।",
+  "real_life_en": "Do not dismiss moral truths simply because they are ancient. Eternal wisdom from God remains true in every age and place.",
+  "real_life_bn": "কুরআনের নির্দেশনাকে পুরোনো বলে অবহেলা করবেন না। ঐশী শিক্ষা সকল যুগের মানুষের জন্য শাশ্বত সত্য ও আলোকবর্তিকা।",
+  "themes": [
+    "revelation",
+    "denial",
+    "hereafter"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The disbelievers claimed that resurrection was promised to previous generations and dismissed it as ancient legends.",
+      "claim_bn": "কাফিররা দাবি করল যে এই প্রতিশ্রুতি তাদের পূর্বপুরুষদেরও দেওয়া হয়েছিল এবং একে অতীতের রূপকথা বলে উড়িয়ে দিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

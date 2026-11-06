@@ -1,0 +1,65 @@
+{
+  "id": "37:182",
+  "simple_en": "All praise belongs exclusively to Allah, the Lord and Sustainer of all creation. He is the Creator of the heavens, the earth, and everything between them. Every blessing in this world and the next comes from His endless grace.",
+  "simple_bn": "সকল প্রশংসা একমাত্র বিশ্বজগতের প্রতিপালক আল্লাহর জন্য। তিনি সমস্ত সৃষ্টির ধারক ও পালনকর্তা। দুনিয়া ও আখেরাতের প্রতিটি নেয়ামত তাঁর অপার অনুগ্রহ ও করুণার মাধ্যমেই লাভ হয়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "حمد",
+      "lemma": "حَمْد",
+      "meaning_en": "all praise and gratitude",
+      "meaning_bn": "সকল প্রশংসা",
+      "why_en": "The supreme expression of gratitude due to Allah alone for His perfection and blessings."
+    },
+    {
+      "pos": 4,
+      "root": "علم",
+      "lemma": "عالَم",
+      "meaning_en": "the worlds / all creation",
+      "meaning_bn": "সৃষ্টিকুল বা বিশ্বজগৎ",
+      "why_en": "Declares that Allah is the Creator, Sustainer, and Lord of everything that exists."
+    }
+  ],
+  "lesson_en": "End every matter with praise and thanks to God.",
+  "lesson_bn": "যেকোনো কাজ বা কথার সমাপ্তি আল্লাহর প্রশংসা ও কৃতজ্ঞতার মাধ্যমে করা উচিত।",
+  "real_life_en": "End your day by thanking God for His gifts. A thankful heart brings peace and joy to your whole life.",
+  "real_life_bn": "প্রতিটি ভালো কাজের শেষে এবং দিনশেষে আলহামদুলিল্লাহ বলুন। কৃতজ্ঞ অন্তরে আল্লাহর প্রশংসা করলে জীবনে বরকত ও মানসিক শান্তি বাড়ে।",
+  "themes": [
+    "praise",
+    "hamd",
+    "Lord of the worlds",
+    "gratitude"
+  ],
+  "kinds": [
+    "praise",
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "rabb-al-alamin"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "All praise is due to Allah alone, the Creator and Sustainer of all the worlds.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

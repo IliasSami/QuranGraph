@@ -1,0 +1,69 @@
+{
+ "id": "44:11",
+ "simple_en": "That thick smoke will envelop the people from every side. In their sheer terror, they will cry out that this is a painful torment. They will finally realize the bitter cost of their past arrogance.",
+ "simple_bn": "সেই ঘন ধোঁয়া চতুর্দিক থেকে মানুষকে ঘিরে ফেলবে। চরম আতঙ্কে তারা চিৎকার করে বলবে যে এটি এক যন্ত্রণাদায়ক শাস্তি। তারা অবশেষে তাদের অহংকারের মারাত্মক পরিণতি উপলব্ধি করতে পারবে।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "غشو",
+   "lemma": "غَشِيَ",
+   "meaning_en": "covering / enveloping",
+   "meaning_bn": "ঘিরে ফেলবে বা আচ্ছন্ন করবে",
+   "why_en": "The smoke will surround them completely, leaving no escape."
+  },
+  {
+   "pos": 4,
+   "root": "عذب",
+   "lemma": "عَذاب",
+   "meaning_en": "a punishment / torment",
+   "meaning_bn": "শাস্তি",
+   "why_en": "It is a severe affliction sent upon those who rejected guidance."
+  },
+  {
+   "pos": 5,
+   "root": "ألم",
+   "lemma": "أَلِيم",
+   "meaning_en": "painful",
+   "meaning_bn": "যন্ত্রণাদায়ক",
+   "why_en": "The punishment causes intense distress and suffering."
+  }
+ ],
+ "lesson_en": "Ignoring the truth brings deep regret when pain arrives.",
+ "lesson_bn": "আল্লাহর উপদেশ অবহেলা করলে শাস্তি আসার পর কেবল গভীর অনুশোচনাই অবশিষ্ট থাকে।",
+ "real_life_en": "Do not wait for a crisis to turn back to Allah. Seek His forgiveness today while you are healthy and safe, before hardships leave you helpless.",
+ "real_life_bn": "বিপদে পড়ার আগেই আল্লাহর দিকে ফিরে আসুন। সুস্থ ও নিরাপদ থাকা অবস্থাতেই তওবা করুন, কঠিন পরিস্থিতি আসার অপেক্ষা করবেন না।",
+ "themes": [
+  "punishment",
+  "the Last Day",
+  "repentance"
+ ],
+ "kinds": [
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The smoke will cover the people, who will recognize it as a painful punishment.",
+   "claim_bn": "ধোঁয়া মানুষকে গ্রাস করবে এবং তারা এটিকে এক যন্ত্রণাদায়ক শাস্তি হিসেবে মেনে নেবে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

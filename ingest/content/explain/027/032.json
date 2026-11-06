@@ -1,0 +1,66 @@
+{
+  "id": "27:32",
+  "simple_en": "The queen asked her leaders for their wise counsel. She told them that she never made a big choice without their presence, advice, and full support.",
+  "simple_bn": "রানী পরিষদবর্গকে উদ্দেশ্য করে বলল যে এই কঠিন বিষয়ে তারা যেন মতামত দেয়। সে পরিষ্কার জানাল যে পরিষদবর্গের উপস্থিতি ও পরামর্শ ছাড়া সে কোনো চূড়ান্ত সিদ্ধান্ত নেয় না।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "أَفْتُونِى",
+      "root": "فتي",
+      "lemma": "يُفْتِي",
+      "meaning_en": "advise me",
+      "meaning_bn": "আমাকে পরামর্শ দাও",
+      "why_en": "Seeking guidance and wise counsel."
+    },
+    {
+      "pos": 12,
+      "arabic": "تَشْهَدُونِ",
+      "root": "شهد",
+      "lemma": "شَهِدَ",
+      "meaning_en": "you witness for me",
+      "meaning_bn": "তোমরা উপস্থিত থাকা ছাড়া",
+      "why_en": "Presenting advice in joint consultation."
+    }
+  ],
+  "lesson_en": "Talk things over before taking big steps. Shared counsel prevents mistakes.",
+  "lesson_bn": "পারস্পরিক পরামর্শ শাসনব্যবস্থাকে সুদৃঢ় করে এবং বড় বিপর্যয় থেকে জাতিকে রক্ষা করে।",
+  "real_life_en": "Ask for advice from family and team members before making a choice. Working together brings better results.",
+  "real_life_bn": "পারিবারিক বা প্রাতিষ্ঠানিক ক্ষেত্রে অন্যদের মতামতকে সম্মান দিন। যৌথ সিদ্ধান্তের মাধ্যমে ভুল এড়ানো যায়।",
+  "themes": [
+    "consultation",
+    "leadership",
+    "sheba"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Queen of Sheba"
+    ],
+    "nations": [
+      "Sheba"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Queen sought the counsel of her nobles, stating she would not decide without their presence.",
+      "claim_bn": "সাবার রানী গুরুত্বপূর্ণ বিষয়ে তার পরিষদবর্গের পরামর্শ চাইল এবং তাদের সম্মতি ছাড়া সিদ্ধান্ত না নেওয়ার নীতি জানাল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

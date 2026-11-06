@@ -1,0 +1,70 @@
+{
+  "id": "51:24",
+  "simple_en": "Has the news reached you of the honored guests of Prophet Ibrahim (peace be upon him)? They were noble angels sent in human form. Ibrahim greeted them with warmth and served them a fine meal.",
+  "simple_bn": "আপনার কাছে কি ইবরাহীম (আলাইহিস সালাম)-এর সম্মানিত মেহমানদের বৃত্তান্ত পৌঁছেছে? তাঁরা ছিলেন মানববেশে আগত সম্মানিত ফেরেশতা।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حدث",
+      "lemma": "حَدِيث",
+      "meaning_en": "story or news",
+      "meaning_bn": "বৃত্তান্ত বা খবর",
+      "why_en": "The account of Ibrahim's angelic visitors."
+    },
+    {
+      "pos": 4,
+      "root": "ضيف",
+      "lemma": "ضَيْف",
+      "meaning_en": "guests",
+      "meaning_bn": "মেহমানগণ",
+      "why_en": "The noble angels who visited the home of Ibrahim."
+    },
+    {
+      "pos": 6,
+      "root": "كرم",
+      "lemma": "مُكْرَم",
+      "meaning_en": "the honored ones",
+      "meaning_bn": "সম্মানিত",
+      "why_en": "Angels who are held in high honor and received with dignity."
+    }
+  ],
+  "lesson_en": "Treating guests with warmth and honor is the way of the prophets.",
+  "lesson_bn": "মেহমানকে সম্মান ও সমাদর করা নবীগণের অন্যতম প্রধান শিষ্টাচার।",
+  "real_life_en": "When visitors arrive at your home, greet them with warmth and joy. Offering food and hospitality to guests is a sign of good character.",
+  "real_life_bn": "ঘরে মেহমান আসলে হাসিমুখে অভ্যর্থনা জানান। সাধ্যমতো ভালো খাবার পরিবেশন করে তাদের সম্মান রক্ষা করুন।",
+  "themes": [
+    "stories of the prophets",
+    "Prophet Muhammad ﷺ"
+  ],
+  "kinds": [
+    "story",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad",
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The story of the honored angelic guests of Prophet Ibrahim (peace be upon him) is brought to the attention of the Prophet ﷺ.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

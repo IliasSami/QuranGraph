@@ -1,0 +1,70 @@
+{
+  "id": "53:34",
+  "simple_en": "This person gave only a little bit of wealth and then stopped completely. Greed and stinginess took over his heart. He cut off his charity because he feared losing his money. Yet despite his tight fist, he praised himself as generous.",
+  "simple_bn": "এই ব্যক্তি নামমাত্র কিছু সম্পদ দান করে পরক্ষণেই হাত গুটিয়ে নিয়েছিল। কার্পণ্য ও লোভ তার অন্তরকে গ্রাস করেছিল। অর্থ কমে যাওয়ার ভয়ে সে দান করা বন্ধ করে দেয়। অথচ এই কৃপণতার পরেও সে নিজেকে পরম দানশীল মনে করত।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "عطو",
+      "lemma": "أَعْطَى",
+      "meaning_en": "he gave",
+      "meaning_bn": "সে দান করল বা দিল",
+      "why_en": "He made a tiny token payment without real sincerity."
+    },
+    {
+      "pos": 2,
+      "root": "قلل",
+      "lemma": "قَلِيل",
+      "meaning_en": "a little",
+      "meaning_bn": "সামান্য বা যৎকিঞ্চিৎ",
+      "why_en": "A very small fraction of what he was capable of giving."
+    },
+    {
+      "pos": 3,
+      "root": "كدي",
+      "lemma": "أَكْدَى",
+      "meaning_en": "held back / ceased",
+      "meaning_bn": "ক্ষান্ত হলো বা হাত গুটিয়ে নিল",
+      "why_en": "Stopping charity abruptly due to inner miserliness."
+    }
+  ],
+  "lesson_en": "Be generous with your wealth and guard your heart against stinginess.",
+  "lesson_bn": "মুক্তহস্তে দান করুন এবং অন্তরকে কৃপণতা থেকে মুক্ত রাখুন।",
+  "real_life_en": "When you give to charity, give with an open heart. Do not stop giving simply because you fear your bank balance will drop.",
+  "real_life_bn": "গরিব-মিসকিনদের দান করার সময় উদার মনে দিন। টাকা কমে যাওয়ার ভয়ে দান করা থেকে কখনো পিছপা হবেন না।",
+  "context_en": "The verse exposes the miserly attitude of the one who turns away from righteous charity.",
+  "context_bn": "দান করা থেকে বিরত থাকা কৃপণ ব্যক্তির মানসিকতা এখানে উন্মোচন করা হয়েছে।",
+  "themes": [
+    "charity",
+    "greed",
+    "wealth",
+    "hypocrisy"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "He gave only a little wealth and then withheld further giving due to stinginess.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

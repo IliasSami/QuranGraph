@@ -1,0 +1,85 @@
+{
+  "id": "33:6",
+  "simple_en": "The Prophet Muhammad ﷺ has more right over the believers than they have over themselves. His wives are like their mothers. Blood relatives have first right in inheritance by God decree. You may still do good and give gifts to your close friends. This rule is set in the Book.",
+  "simple_bn": "মুমিনদের জন্য নবী ﷺ তাদের নিজেদের প্রাণের চেয়েও অধিক ঘনিষ্ঠ। তাঁর সম্মানিত স্ত্রীগণ সকল মুমিনের মাতা। আর আল্লাহর বিধানে রক্তের সম্পর্কের আত্মীয়রা উত্তরাধিকারের ক্ষেত্রে সাধারণ মুমিন ও মুহাজিরদের চেয়ে অগ্রাধিকার রাখে। তবে তোমরা চাইলে অ-উত্তরাধিকারী বন্ধুদের প্রতিদান বা দান-সহায়তা করতে পারো। এই চিরন্তন বিধান কিতাবে লিপিবদ্ধ রয়েছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ولي",
+      "lemma": "أَوْلَى",
+      "meaning_en": "has more right / closer",
+      "meaning_bn": "অধিক ঘনিষ্ঠ / অধিক হকদার",
+      "why_en": "Establishes the supreme authority and love due to the Prophet ﷺ over oneself."
+    },
+    {
+      "pos": 7,
+      "root": "أمم",
+      "lemma": "أُمّ",
+      "meaning_en": "their mothers",
+      "meaning_bn": "তাদের জননী",
+      "why_en": "Declares the wives of the Prophet ﷺ as mothers of the believers in honor and marriage prohibition."
+    },
+    {
+      "pos": 9,
+      "root": "رحم",
+      "lemma": "أَرْحام",
+      "meaning_en": "blood ties / kinship",
+      "meaning_bn": "রক্তের সম্পর্ক",
+      "why_en": "Prioritizes biological relatives in inheritance over early contractual brotherhood."
+    },
+    {
+      "pos": 24,
+      "root": "عرف",
+      "lemma": "مَعْرُوف",
+      "meaning_en": "good / kindness",
+      "meaning_bn": "কল্যাণকর কিছু",
+      "why_en": "Allows giving gifts or bequests to non-inheriting friends and allies."
+    }
+  ],
+  "lesson_en": "Love the Prophet Muhammad ﷺ above yourself. Give family their proper rights in life.",
+  "lesson_bn": "রাসূলুল্লাহ ﷺ-কে নিজের জীবনের চেয়ে ভালোবাসুন এবং আত্মীয়দের সাথে রক্তের হক আদায় করে সুসম্পর্ক রক্ষা করুন।",
+  "real_life_en": "Put the way of the Prophet Muhammad ﷺ before your own wishes. Be kind to your parents and kin. Share what you have with friends who need help.",
+  "real_life_bn": "নিজের যে কোনো ব্যক্তিগত ইচ্ছার চেয়ে রাসূলুল্লাহ ﷺ-এর সুন্নতকে প্রাধান্য দিন। পিতা-মাতা ও নিকটাত্মীয়ের অধিকার আদায় করার পাশাপাশি অভাবী বন্ধুদেরও সাহায্য করুন।",
+  "themes": [
+    "Prophet Muhammad ﷺ",
+    "family",
+    "justice",
+    "brotherhood",
+    "revelation"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "ethics",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet has closer ties to believers than themselves, his wives are mothers of believers, and biological kinship governs inheritance.",
+      "claim_bn": "নবী মুমিনদের কাছে তাদের নিজেদের চেয়েও ঘনিষ্ঠ, তাঁর স্ত্রীগণ মুমিনদের মা এবং উত্তরাধিকারের ক্ষেত্রে রক্তের আত্মীয়রা অগ্রাধিকার পাবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

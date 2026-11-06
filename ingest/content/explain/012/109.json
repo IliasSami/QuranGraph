@@ -1,0 +1,90 @@
+{
+  "id": "12:109",
+  "simple_en": "All past messengers were human men chosen from town communities. They received revelation just like the Prophet. People should travel and see the ruined homes of past deniers. The eternal home of the next world is far better for those who fear Allah.",
+  "simple_bn": "পূর্ববর্তী সকল রসূল মানব পুরুষ ছিলেন, যাদের বিভিন্ন জনপদ থেকে নির্বাচিত করে ওহী দেওয়া হয়েছিল। মানুষের উচিত পৃথিবীতে ভ্রমণ করে অতীতের সত্য অস্বীকারকারীদের ধ্বংসাবশেষ দেখা ও শিক্ষা নেওয়া। যারা আল্লাহকে ভয় করে তাদের জন্য পরকালের আবাসই সর্বোত্তম।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "We sent",
+      "meaning_bn": "আমরা পাঠিয়েছি",
+      "why_en": "Confirms the unbroken chain of divine messengers sent to guide humanity."
+    },
+    {
+      "pos": 6,
+      "root": "رجل",
+      "lemma": "رِجال",
+      "meaning_en": "men",
+      "meaning_bn": "পুরুষদের",
+      "why_en": "Clarifies that messengers were mortal human beings, not angelic apparitions."
+    },
+    {
+      "pos": 11,
+      "root": "قري",
+      "lemma": "قَرْيَة",
+      "meaning_en": "towns",
+      "meaning_bn": "জনপদ",
+      "why_en": "Messengers came from settled communities rather than wandering deserts."
+    },
+    {
+      "pos": 16,
+      "root": "نظر",
+      "lemma": "نَظَرَ",
+      "meaning_en": "observe",
+      "meaning_bn": "দেখুক",
+      "why_en": "Active intellectual reflection upon the fate of earlier civilizations."
+    },
+    {
+      "pos": 24,
+      "root": "أخر",
+      "lemma": "آخِر",
+      "meaning_en": "the Hereafter",
+      "meaning_bn": "আখেরাত",
+      "why_en": "The final lasting home which vastly surpasses temporary worldly pleasures."
+    }
+  ],
+  "lesson_en": "Look at old ruins. Truth stands while proud rulers fall.",
+  "lesson_bn": "ইতিহাস থেকে শিক্ষা নেওয়া উচিত যে অহংকার ধ্বংস হয়ে যায় আর আল্লাহর সত্য চিরকাল টিকে থাকে।",
+  "real_life_en": "A traveler walks through old ruins of lost kings. Seeing empty halls, he learns that pride fades away. Only good deeds last.",
+  "real_life_bn": "এক পর্যটক প্রাচীন ধ্বংসাবশেষ ঘুরে দেখে। অতীতের পরাক্রমশালী রাজাদের শূন্য প্রাসাদ দেখে সে উপলব্ধি করে ক্ষমতা ও সম্পদ ক্ষণস্থায়ী, সৎ জীবনযাপনই সবচেয়ে মূল্যবান।",
+  "context_en": "Allah explained that messengers were mortal men and urged people to learn from historical ruins.",
+  "context_bn": "নবী-রসূলগণ মানবজাতির মধ্য থেকেই প্রেরিত হয়েছিলেন এবং অতীতের ধ্বংসাবশেষ দেখে শিক্ষা নেওয়ার তাগিদ দেওয়া হয়েছে।",
+  "themes": [
+    "prophets",
+    "historical lessons",
+    "hereafter",
+    "god-fearing"
+  ],
+  "kinds": [
+    "belief",
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hereafter"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Past messengers were mortal men, and the ruins of deniers serve as a warning for future generations.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

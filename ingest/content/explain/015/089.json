@@ -1,0 +1,70 @@
+{
+  "id": "15:89",
+  "simple_en": "Say: I am indeed the clear warner sent to you. A prophet warns people out of deep care and love to save them from future grief.",
+  "simple_bn": "বলুন: নিশ্চয় আমিই তোমাদের কাছে আসা প্রকাশ্য ও সুস্পষ্ট সতর্ককারী। একজন নবী মানুষের প্রতি গভীর ভালোবাসা ও দরদ থেকেই তাদের পরকালীন ক্ষতি থেকে বাঁচানোর জন্য সতর্ক করেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قول",
+      "lemma": "قالَ",
+      "meaning_en": "and say",
+      "meaning_bn": "এবং বলুন",
+      "why_en": "Proclaiming the prophetic mission."
+    },
+    {
+      "pos": 4,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "the warner",
+      "meaning_bn": "সতর্ককারী",
+      "why_en": "Warning of divine consequences."
+    },
+    {
+      "pos": 5,
+      "root": "بين",
+      "lemma": "مُبِين",
+      "meaning_en": "clear",
+      "meaning_bn": "প্রকাশ্য ও সুস্পষ্ট",
+      "why_en": "Conveying guidance with total clarity."
+    }
+  ],
+  "lesson_en": "Heed the warnings of the Prophet. A clear warning helps you avoid danger before it catches you unprepared.",
+  "lesson_bn": "রাসূলের দেওয়া সতর্কবার্তাকে গুরুত্ব দিন। সময়মতো পাওয়া সঠিক সতর্কবার্তা মানুষকে অপ্রত্যাশিত বড় বিপদ থেকে রক্ষা করে।",
+  "real_life_en": "A doctor tells a patient plainly about the health risks of smoking. The honest warning gives the patient courage to quit and protect his family.",
+  "real_life_bn": "এক ডাক্তার রোগীকে ধূমপানের মারাত্মক ঝুঁকি সম্পর্কে স্পষ্ট জানিয়ে দেন। এই অকপট সতর্কবার্তা পেয়ে রোগী ধূমপান ছেড়ে দিয়ে সুস্থ জীবন শুরু করে।",
+  "context_en": "Commanding the Prophet to proclaim his mission as an open, unambiguous warner to mankind.",
+  "context_bn": "রাসূলুল্লাহর নিজেকে সুস্পষ্ট সতর্ককারী হিসেবে ঘোষণা করার ঐশী নির্দেশ।",
+  "themes": [
+    "prophets",
+    "warning",
+    "guidance"
+  ],
+  "kinds": [
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet was instructed to openly declare his status as an unambiguous warner to the people.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

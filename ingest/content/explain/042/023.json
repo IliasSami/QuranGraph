@@ -1,0 +1,93 @@
+{
+ "id": "42:23",
+ "simple_en": "This is the glad tidings that Allah gives to His servants who believe and do good deeds. Tell them, O Prophet ﷺ: I ask you for no payment for this message, only that you show love and respect for our family ties. Whoever does a good deed, Allah will increase its goodness. Allah is Most Forgiving and Most Ready to appreciate.",
+ "simple_bn": "এই হলো সেই সুসংবাদ যা আল্লাহ তাঁর ঈমানদার ও নেককার বান্দাদের দেন। বলুন: আমি এই দ্বীনের দাওয়াতের জন্য তোমাদের কাছে কোনো পারিশ্রমিক চাই না, কেবল আত্মীয়তার ভালোবাসা ছাড়া। যে ব্যক্তি কোনো উত্তম কাজ করে, আল্লাহ তার জন্য তার সওয়াব বাড়িয়ে দেন। নিশ্চয় আল্লাহ অতি ক্ষমাশীল ও গুণগ্রাহী।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "بشر",
+   "lemma": "بُشِّرَ",
+   "meaning_en": "gives glad tidings",
+   "meaning_bn": "সুসংবাদ দেন",
+   "why_en": "Shows Allah comforting and encouraging faithful believers with joyful news."
+  },
+  {
+   "pos": 16,
+   "root": "ودد",
+   "lemma": "مَوَدَّة",
+   "meaning_en": "affection / love",
+   "meaning_bn": "ভালোবাসা",
+   "why_en": "Calls for warmth, respect, and mutual care among relatives."
+  },
+  {
+   "pos": 18,
+   "root": "قرب",
+   "lemma": "قُرْبَى",
+   "meaning_en": "kinship / near relations",
+   "meaning_bn": "আত্মীয়তা",
+   "why_en": "Reminds the Quraysh of their close ties of kinship with the Prophet."
+  },
+  {
+   "pos": 28,
+   "root": "غفر",
+   "lemma": "غَفُور",
+   "meaning_en": "Most Forgiving",
+   "meaning_bn": "অতি ক্ষমাশীল",
+   "why_en": "Affirms that Allah overlooks shortcomings when people do good deeds."
+  },
+  {
+   "pos": 29,
+   "root": "شكر",
+   "lemma": "شَكُور",
+   "meaning_en": "Most Appreciative",
+   "meaning_bn": "গুণগ্রাহী",
+   "why_en": "Highlights that Allah rewards even the smallest sincere deeds generously."
+  }
+ ],
+ "lesson_en": "Serving the faith is done for Allah, and Allah rewards every good deed with more grace.",
+ "lesson_bn": "দ্বীনের খিদমত করতে হয় একমাত্র আল্লাহর সন্তুষ্টির জন্য এবং তিনি সৎকাজের প্রতিদান বহুগুণ বাড়িয়ে দেন।",
+ "real_life_en": "Help people without asking for money or praise. Treat your family with love and respect. Trust that Allah sees every good thing you do.",
+ "real_life_bn": "মানুষকে সাহায্য করার পর প্রশংসা বা প্রতিদানের আশা করবেন না। আত্মীয়দের সাথে সুসম্পর্ক বজায় রাখুন এবং বিশ্বাস রাখুন যে আল্লাহ আপনার ছোট ভালো কাজেরও উত্তম বদলা দেবেন।",
+ "themes": [
+  "good character",
+  "reward",
+  "forgiveness",
+  "family"
+ ],
+ "kinds": [
+  "glad-tidings",
+  "command",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah",
+   "al-ghafur",
+   "ash-shakur"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah gives glad tidings to believers, the Prophet asks only for affection due to kinship, and Allah is Forgiving and Appreciative.",
+   "claim_bn": "আল্লাহ মুমিনদের সুসংবাদ দেন, নবী আত্মীয়তার সৌহার্দ্য ছাড়া কোনো পারিশ্রমিক চান না এবং আল্লাহ অতি ক্ষমাশীল ও গুণগ্রাহী।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

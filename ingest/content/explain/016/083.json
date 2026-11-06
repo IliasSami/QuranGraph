@@ -1,0 +1,61 @@
+{
+  "id": "16:83",
+  "simple_en": "They know the blessings of Allah deep down in their hearts, yet they deny them in word and deed. Most of them are stubborn ungrateful people.",
+  "simple_bn": "তারা অন্তরে আল্লাহর অনুগ্রহ ও নেয়ামত স্পষ্টভাবে চিনতে পারে, তবুও তা প্রকাশ্যে অস্বীকার করে। আর তাদের অধিকাংশ লোকই উদ্ধত ও চরম অকৃতজ্ঞ অবিশ্বাসী।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "عرف",
+      "lemma": "عَرَفَ",
+      "meaning_en": "they recognize",
+      "meaning_bn": "তারা চিনতে পারে",
+      "why_en": "Inner cognitive recognition of divine favors."
+    },
+    {
+      "pos": 5,
+      "root": "نكر",
+      "lemma": "يُنكِرُ",
+      "meaning_en": "they deny it",
+      "meaning_bn": "তারা অস্বীকার করে",
+      "why_en": "Willful rejection of acknowledged reality."
+    }
+  ],
+  "lesson_en": "Denial is often a choice of pride, not lack of evidence. Truth is plain to honest eyes.",
+  "lesson_bn": "সত্য অস্বীকারের কারণ প্রমাণের অভাব নয়, বরং অহংকার। মানুষ সত্য জেনেও মাঝে মাঝে তা অগ্রাহ্য করে।",
+  "real_life_en": "Acknowledge the help you receive from God and people. Do not let pride make you act ungrateful.",
+  "real_life_bn": "আল্লাহ ও মানুষের উপকারের কথা অকপটে স্বীকার করুন। অহংকারবশত অন্যের অবদান অস্বীকার করবেন না।",
+  "themes": [
+    "ingratitude",
+    "denial",
+    "pride"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Disbelievers recognize the favor of Allah yet deny it, and most are ungrateful.",
+      "claim_bn": "তারা আল্লাহর নেয়ামত চিনেও তা অস্বীকার করে এবং তাদের অধিকাংশই কাফির অকৃতজ্ঞ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

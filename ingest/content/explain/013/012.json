@@ -1,0 +1,79 @@
+{
+  "id": "13:12",
+  "simple_en": "Allah shows you flashes of lightning across the dark sky. It brings both fear of danger and hope for gentle rain. He builds up heavy rain clouds to water the thirsty land.",
+  "simple_bn": "আল্লাহই আকাশে চমকপ্রদ বিজলী দেখান, যা বজ্রপাতের ভয় এবং বৃষ্টির আশা জাগিয়ে তোলে। তিনিই আকাশে বৃষ্টির ভারী মেঘমালা তৈরি করেন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "برق",
+      "lemma": "بَرْق",
+      "meaning_en": "lightning",
+      "meaning_bn": "বিজলী",
+      "why_en": "Bright flash illuminating clouds with intense energy."
+    },
+    {
+      "pos": 5,
+      "root": "خوف",
+      "lemma": "خَوْف",
+      "meaning_en": "fear",
+      "meaning_bn": "ভয়",
+      "why_en": "Awe and dread of lightning bolts and destructive storms."
+    },
+    {
+      "pos": 6,
+      "root": "طمع",
+      "lemma": "طَمَع",
+      "meaning_en": "hope",
+      "meaning_bn": "আশা",
+      "why_en": "Expectation of beneficial rainfall reviving crops and springs."
+    },
+    {
+      "pos": 8,
+      "root": "سحب",
+      "lemma": "سَحاب",
+      "meaning_en": "clouds",
+      "meaning_bn": "মেঘমালা",
+      "why_en": "Dense water-laden vapour gathered across the upper air."
+    }
+  ],
+  "lesson_en": "Live with both healthy fear of Allah's might and deep hope in His mercy.",
+  "lesson_bn": "আল্লাহর ক্ষমতার ভয় এবং তাঁর দয়ার আশা—উভয় অনুভূতিকে অন্তরে ধারণ করে জীবন পরিচালনা করা উচিত।",
+  "real_life_en": "A gardener watches storm clouds gather. He secures his fragile glass pots against wind, then smiles as the cool rain starts to water his dry soil.",
+  "real_life_bn": "এক মালী আকাশে ঝড়ো মেঘ দেখে। সে বাতাসের হাত থেকে গাছের টবগুলো সাবধানে নিরাপদ জায়গায় রাখে, এরপর জমিনে বৃষ্টি নামতে দেখে আনন্দিত হয়।",
+  "context_en": "Lightning and heavy rain clouds as signs evoking fear and hope.",
+  "context_bn": "বিজলী ও মেঘমালার সৃষ্টিতে ভয় এবং আশার সহাবস্থানের ঐশী নিদর্শন।",
+  "themes": [
+    "fear and hope",
+    "nature",
+    "rain"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "lightning",
+      "clouds"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah displays lightning causing fear and hope, and forms heavy clouds with water.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

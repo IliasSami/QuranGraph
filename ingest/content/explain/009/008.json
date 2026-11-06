@@ -1,0 +1,70 @@
+{
+  "id": "9:8",
+  "simple_en": "How can you trust their treaties? If they gain the upper hand over you, they respect neither family ties nor solemn agreements. They try to please you with sweet words, while their hearts reject you and most of them are corrupt.",
+  "simple_bn": "চুক্তি কীভাবে থাকে, যখন তারা বিজয়ী হলে কোনো আত্মীয়তা বা চুক্তির পরোয়া করবে না? তারা মুখে মিষ্ট কথায় তোমাদের সন্তুষ্ট করতে চায়, কিন্তু তাদের অন্তর তা অস্বীকার করে এবং তাদের অধিকাংশই পাপাচারী।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "ألل",
+      "lemma": "إِلّ",
+      "meaning_en": "kinship / blood pact",
+      "meaning_bn": "আত্মীয়তা / রক্তের সম্পর্ক",
+      "why_en": "Sacred ties of blood honored in classical desert law."
+    },
+    {
+      "pos": 10,
+      "root": "ذمم",
+      "lemma": "ذِمَّة",
+      "meaning_en": "covenant of protection",
+      "meaning_bn": "অঙ্গীকার / নিরাপত্তার প্রতিশ্রুতি",
+      "why_en": "Formal guarantee of safety that should never be breached."
+    },
+    {
+      "pos": 16,
+      "root": "فسق",
+      "lemma": "فاسِق",
+      "meaning_en": "defiantly disobedient",
+      "meaning_bn": "পাপাচারী / সীমালঙ্ঘনকারী",
+      "why_en": "People who habitually break moral rules and basic loyalty."
+    }
+  ],
+  "lesson_en": "Do not trust sweet words when actions show bad faith.",
+  "lesson_bn": "মুখের মিষ্টি কথায় না ভুলে ক্ষমতা পাওয়ার পর মানুষের আচরণ দেখে তাদের বিশ্বাসযোগ্যতা যাচাই করতে হয়।",
+  "real_life_en": "Watch how people act when they hold power over you. Sweet talk cannot hide bad deeds.",
+  "real_life_bn": "কর্মে এমন সহযোগীদের ব্যাপারে সতর্ক থাকুন যারা সামনে মিষ্টি কথা বলে কিন্তু ক্ষমতা পেলে অন্যদের অধিকার নষ্ট করে।",
+  "themes": [
+    "hypocrisy",
+    "broken pacts",
+    "discernment"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Pagan aggressors flattered Muslims verbally but would disregard all kinship and pacts if they gained dominance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

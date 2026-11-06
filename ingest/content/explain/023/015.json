@@ -1,0 +1,63 @@
+{
+  "id": "23:15",
+  "simple_en": "Then after living your earthly span, you will surely face death. Every soul must leave this mortal world. No one can escape this appointed end.",
+  "simple_bn": "এরপর পার্থিব জীবনের নির্দিষ্ট মেয়াদ শেষে তোমরা অবশ্যই মৃত্যুবরণ করবে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "بعد",
+      "lemma": "بَعْد",
+      "meaning_en": "after",
+      "meaning_bn": "এরপর",
+      "why_en": "The mortal life span leading inevitably to physical death."
+    },
+    {
+      "pos": 5,
+      "root": "موت",
+      "lemma": "مَيِّت",
+      "meaning_en": "surely to die",
+      "meaning_bn": "অবশ্যই মৃত্যুবরণ করবে",
+      "why_en": "The undeniable reality of mortal death facing every human being."
+    }
+  ],
+  "lesson_en": "Death is certain for every living soul. Remembering the end of life keeps our goals pure and clean.",
+  "lesson_bn": "মৃত্যু প্রতিটি জীবিত প্রাণীর জন্য অবধারিত সত্য। মৃত্যুর স্মরণ মানুষের জীবনের উদ্দেশ্যকে খাঁটি রাখে।",
+  "real_life_en": "Live each day with clean intentions. Resolve conflicts with loved ones quickly, for life can end at any time.",
+  "real_life_bn": "প্রতিটি দিন ভালো কাজের প্রস্তুতি নিয়ে যাপন করুন। মানুষের সাথে বিবাদ মিটিয়ে ফেলুন, কারণ জীবন যেকোনো মুহূর্তে শেষ হতে পারে।",
+  "themes": [
+    "certainty-of-death",
+    "mortality",
+    "preparation-for-hereafter"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Death"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Every human generation created through these biological phases is decreed to undergo inevitable mortal death.",
+      "claim_bn": "এই অপূর্ব নিয়মে সৃষ্ট সকল মানুষকেই নির্দিষ্ট সময়ের পর অনিবার্য মৃত্যুর স্বাদ গ্রহণ করতে হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

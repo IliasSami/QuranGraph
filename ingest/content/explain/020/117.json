@@ -1,0 +1,69 @@
+{
+  "id": "20:117",
+  "simple_en": "God warned: O Adam, this Iblis is an open enemy to you and your wife. Do not let him drive you out of Paradise, or you will suffer hardship.",
+  "simple_bn": "আল্লাহ সতর্ক করলেন: হে আদম, এই ইবলিস তোমার এবং তোমার স্ত্রীর প্রকাশ্য শত্রু। সে যেন তোমাদের জান্নাত থেকে বের না করে, অন্যথায় তোমরা কষ্টে পতিত হবে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "عدو",
+      "lemma": "عَدُوّ",
+      "meaning_en": "a sworn enemy",
+      "meaning_bn": "প্রকাশ্য শত্রু",
+      "why_en": "Explicit identification of Satan as an active foe."
+    },
+    {
+      "pos": 12,
+      "root": "شقو",
+      "lemma": "تَشْقَىٰ",
+      "meaning_en": "you will suffer distress",
+      "meaning_bn": "তুমি কষ্টে বা পরিশ্রমে পড়বে",
+      "why_en": "The physical toil and struggles of earthly life."
+    }
+  ],
+  "lesson_en": "Satan is a clear foe to humankind. He aims to make people lose peace and joy.",
+  "lesson_bn": "শয়তান মানুষের চিরন্তন শত্রু, যার একমাত্র লক্ষ্য হলো মানুষকে আল্লাহর রহমত ও শান্তি থেকে বঞ্চিত করা।",
+  "real_life_en": "Watch out for bad temptations. Protect your home and family from evil thoughts and harmful habits.",
+  "real_life_bn": "পাপের প্রলোভনকে শত্রুর আক্রমণ হিসেবে দেখুন। পরিবারকে এমন সকল কাজ থেকে বাঁচিয়ে রাখুন যা আত্মিক শান্তি বিনষ্ট করে।",
+  "themes": [
+    "satanic-enmity",
+    "adam-and-eve",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Adam",
+      "Hawwa",
+      "Iblis"
+    ],
+    "nations": [],
+    "places": [
+      "Paradise"
+    ],
+    "unseen": [
+      "Iblis"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God warned Adam that Satan was a declared enemy who would cause him hardship if he obeyed him.",
+      "claim_bn": "আল্লাহ আদমকে সতর্ক করেন যে শয়তান তার শত্রু এবং তার প্ররোচনায় চললে তাকে কষ্টে পড়তে হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

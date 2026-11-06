@@ -1,0 +1,71 @@
+{
+  "id": "9:122",
+  "simple_en": "It is not right for all believers to go out to battle together. A group from each community should stay behind to gain deep understanding in the faith. They can teach their people when they return, so that all may guard against wrongdoing.",
+  "simple_bn": "সব মুমিনের একসাথে অভিযানে বের হওয়া সংগত নয়। বরং তাদের প্রতিটি দল থেকে এক অংশ কেন বের হয় না, যাতে তারা দ্বীনের গভীর জ্ঞান অর্জন করতে পারে? তারা ফিরে এসে নিজ জাতিকে সতর্ক করবে, যাতে সবাই অন্যায় থেকে বেঁচে থাকে।",
+  "key_words": [
+    {
+      "pos": 10,
+      "root": "فرق",
+      "lemma": "فِرْقَة",
+      "meaning_en": "division / group",
+      "meaning_bn": "দল / গোত্র",
+      "why_en": "Balanced distribution of community roles."
+    },
+    {
+      "pos": 13,
+      "root": "فقه",
+      "lemma": "يَتَفَقَّهُ",
+      "meaning_en": "to gain deep understanding",
+      "meaning_bn": "দ্বীনের গভীর জ্ঞান অর্জন করা",
+      "why_en": "Specialized dedication to learning and wisdom."
+    },
+    {
+      "pos": 16,
+      "root": "نذر",
+      "lemma": "أَنذَرَ",
+      "meaning_en": "to warn / teach",
+      "meaning_bn": "সতর্ক করা / শিক্ষা দেওয়া",
+      "why_en": "Educating the broader public upon their return."
+    }
+  ],
+  "lesson_en": "A good community needs both brave protectors and wise teachers.",
+  "lesson_bn": "একটি ভারসাম্যপূর্ণ সমাজের জন্য যেমন প্রতিরক্ষা প্রয়োজন, তেমনই জ্ঞানচর্চা ও শিক্ষকতার গুরুত্ব অপরিসীম।",
+  "real_life_en": "Not everyone can do the same job. Support your local teachers and students so your community grows in knowledge and good manners.",
+  "real_life_bn": "সবাইকে একই কাজ করতে হবে এমন নয়; সমাজে শিক্ষক ও জ্ঞানচর্চাকারীদের কদর করুন যাতে প্রজন্ম সৎশিক্ষা লাভ করতে পারে।",
+  "themes": [
+    "pursuit of knowledge",
+    "division of roles",
+    "teaching community"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are instructed to divide communal responsibilities so a dedicated cohort specializes in religious learning to educate the community.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

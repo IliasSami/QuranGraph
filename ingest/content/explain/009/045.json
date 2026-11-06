@@ -1,0 +1,76 @@
+{
+  "id": "9:45",
+  "simple_en": "Only those ask your leave who do not believe in Allah and the Last Day, and whose hearts are filled with doubt. In their doubt, they waiver back and forth without conviction.",
+  "simple_bn": "কেবল তারাই আপনার কাছে অব্যাহতির অনুমতি চায় যারা আল্লাহ ও পরকালে বিশ্বাস করে না এবং যাদের অন্তরে সন্দেহ বাসা বেঁধেছে। তারা নিজেদের সংশয়ের দোলাচলে দ্বিধাগ্রস্ত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أذن",
+      "lemma": "اسْتَأْذَنَ",
+      "meaning_en": "ask permission",
+      "meaning_bn": "অনুমতি চায়",
+      "why_en": "Using formal permission to mask weak conviction."
+    },
+    {
+      "pos": 9,
+      "root": "ريب",
+      "lemma": "ارْتابَ",
+      "meaning_en": "doubted / wavered",
+      "meaning_bn": "সন্দেহ করেছে / সংশয়ে পড়েছে",
+      "why_en": "Inner skepticism eroding moral commitment."
+    },
+    {
+      "pos": 14,
+      "root": "ردد",
+      "lemma": "يَتَرَدَّدُ",
+      "meaning_en": "hesitating / wavering",
+      "meaning_bn": "দ্বিধাগ্রস্ত থাকে",
+      "why_en": "Paralysis caused by the absence of genuine faith."
+    }
+  ],
+  "lesson_en": "Doubt leads to fear, while firm faith leads to action.",
+  "lesson_bn": "অন্তরের সংশয় মানুষকে দ্বিধাগ্রস্ত ও ভীরু করে তোলে, আর খাঁটি বিশ্বাস সাহসী পদক্ষেপ নিতে শেখায়।",
+  "real_life_en": "Clear your mind of toxic cynicism. When you believe firmly in the good of your mission, you act with confidence and purpose.",
+  "real_life_bn": "অযথা দ্বিধাদ্বন্দ্ব মনের মধ্যে পুষে রাখবেন না; সত্য ও ন্যায়ের ওপর বিশ্বাস রেখে আত্মবিশ্বাসের সাথে দায়িত্ব পালন করুন।",
+  "themes": [
+    "doubt",
+    "wavering",
+    "hypocrisy"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [
+      "Last Day"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Seeking unwarranted excuses to avoid striving is a sign of underlying doubt and disbelief in the Hereafter.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

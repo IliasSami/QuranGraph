@@ -1,0 +1,102 @@
+{
+ "id": "4:12",
+ "simple_en": "Allah sets the shares for husbands, wives, and siblings who leave no children. Debts must be paid first before shares are given out. Do not harm any heir through false claims. This order is a binding command from Allah, All-Knowing and Forbearing.",
+ "simple_bn": "তোমাদের স্ত্রীদের রেখে যাওয়া সম্পদের অর্ধেক তোমাদের, যদি তাদের কোনো সন্তান না থাকে। কিন্তু তাদের সন্তান থাকলে তোমরা চার ভাগের এক ভাগ পাবে, যা তাদের করা ওসিয়ত বা ঋণ পরিশোধের পর কার্যকর হবে। অনুরূপভাবে, তোমাদের কোনো সন্তান না থাকলে তোমাদের স্ত্রীরা এক-চতুর্থাংশ পাবে। আর সন্তান থাকলে তারা পাবে এক-অষ্টমাংশ। মৃত ব্যক্তির পিতা বা সন্তান না থাকলে ভাই-বোনরা নির্দিষ্ট অংশ পাবে। কারো ক্ষতি না করে এই অংশ বণ্টন করতে হবে। এটি আল্লাহর পক্ষ থেকে নির্ধারিত নির্দেশ।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "زوج",
+   "lemma": "زَوْج",
+   "meaning_en": "your spouses (wives)",
+   "meaning_bn": "তোমাদের স্ত্রীগণ",
+   "why_en": "Specifies the mutual inheritance rights between husbands and wives."
+  },
+  {
+   "pos": 54,
+   "root": "كلل",
+   "lemma": "كَلالَة",
+   "meaning_en": "kalalah (one leaving neither parents nor children)",
+   "meaning_bn": "কালালাহ (যার পিতামাতা ও সন্তান নেই)",
+   "why_en": "Describes an estate where the deceased leaves no direct ascendants or descendants."
+  },
+  {
+   "pos": 82,
+   "root": "ضرر",
+   "lemma": "مُضارّ",
+   "meaning_en": "causing harm",
+   "meaning_bn": "ক্ষতিসাধন না করে",
+   "why_en": "Wills or debts must not be fabricated to hurt rightful heirs or deprive them of their shares."
+  },
+  {
+   "pos": 88,
+   "root": "حلم",
+   "lemma": "حَلِيم",
+   "meaning_en": "All-Forbearing",
+   "meaning_bn": "পরম সহনশীল",
+   "why_en": "Allah does not rush to punish transgressors, giving them time to repent and follow His laws."
+  }
+ ],
+ "lesson_en": "Follow the shares set by Allah with care, and never harm heirs when making a will.",
+ "lesson_bn": "স্বামী-স্ত্রী ও ভাইবোনের প্রাপ্য অংশ সততার সাথে আদায় করুন এবং কাউকে বঞ্চিত করতে কোনো ক্ষতিকর অসিয়ত করবেন না।",
+ "real_life_en": "If drafting a will, keep it strictly within the Islamic limit of one-third and name only non-heirs. Never invent fake debts or gift property away right before death to reduce a spouse's or daughter's share. Doing harm through a will is a major sin.",
+ "real_life_bn": "অসিয়ত করার সময় তা মোট সম্পদের এক-তৃতীয়াংশের মধ্যে সীমাবদ্ধ রাখুন এবং কোনো ওয়ারিশের ক্ষতি করার উদ্দেশ্যে অসিয়ত করবেন না। মৃত্যুর আগে ভুয়া ঋণের দাবি তৈরি করা বা কাউকে বঞ্চিত করতে সম্পত্তি লিখে দেওয়া মারাত্মক গোনাহ।",
+ "themes": [
+  "wealth",
+  "family",
+  "marriage",
+  "justice",
+  "law",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "prohibition",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Alim",
+   "Al-Halim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "A husband inherits half if his wife has no child, and a quarter if she does; wives inherit a quarter if childless, and an eighth if there is a child.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "For one who leaves neither parent nor child (kalalah), maternal siblings inherit a sixth for one, or share a third if more than one, without distinction between male and female.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "All distribution follows debts and bequests that do not cause harm to heirs, ordained by the All-Knowing, All-Forbearing Lord.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

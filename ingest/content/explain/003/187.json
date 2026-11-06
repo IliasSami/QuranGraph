@@ -1,0 +1,103 @@
+{
+ "id": "3:187",
+ "simple_en": "Allah took a firm promise from those given earlier scriptures. They were told to make the truth clear to people and never hide it. Instead, they ignored their pledge and traded it away for tiny worldly gains. What an awful trade they made.",
+ "simple_bn": "স্মরণ করুন, যখন আল্লাহ পূর্ববর্তী কিতাবধারীদের কাছ থেকে অঙ্গীকার নিয়েছিলেন যে, তারা মানুষের কাছে কিতাবের সত্য স্পষ্টভাবে তুলে ধরবে এবং তা গোপন করবে না। কিন্তু তারা সেই প্রতিশ্রুতি অগ্রাহ্য করল এবং সামান্য পার্থিব লাভের বিনিময়ে তা বিক্রি করে দিল। তারা যা বিনিময় হিসেবে গ্রহণ করেছে, তা কতই না নিকৃষ্ট!",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "وثق",
+   "lemma": "مِيثاق",
+   "meaning_en": "covenant / solemn pledge",
+   "meaning_bn": "দৃঢ় অঙ্গীকার",
+   "why_en": "Refers to the sacred obligation placed upon scholars to preserve revelation."
+  },
+  {
+   "pos": 8,
+   "root": "بين",
+   "lemma": "بَيَّنُ",
+   "meaning_en": "you must make it clear",
+   "meaning_bn": "অবশ্যই স্পষ্টভাবে প্রকাশ করবে",
+   "why_en": "Demands open transmission of divine guidance without distortion."
+  },
+  {
+   "pos": 11,
+   "root": "كتم",
+   "lemma": "كَتَمَ",
+   "meaning_en": "you conceal it",
+   "meaning_bn": "তোমরা তা গোপন করবে",
+   "why_en": "Condemns hiding scriptural truths, especially descriptions of the coming Prophet ﷺ."
+  },
+  {
+   "pos": 12,
+   "root": "نبذ",
+   "lemma": "نَبَذَ",
+   "meaning_en": "they cast it away",
+   "meaning_bn": "তারা তা ছুড়ে ফেলে দিল",
+   "why_en": "Vividly depicts their careless abandonment of Allah's command."
+  },
+  {
+   "pos": 17,
+   "root": "ثمن",
+   "lemma": "ثَمَن",
+   "meaning_en": "a price",
+   "meaning_bn": "মূল্য বা বিনিময়",
+   "why_en": "Contrasts divine favor with the cheap prestige and profits of this world."
+  }
+ ],
+ "lesson_en": "Never hide the truth for money, and share knowledge with honesty.",
+ "lesson_bn": "জ্ঞান ও সত্যকে প্রকাশ করা আল্লাহর আমানত, দুনিয়ার কোনো লাভের জন্য তা গোপন করা মহাপাপ।",
+ "real_life_en": "If you are trusted with knowledge—whether in religion, law, or science—never bend the truth to please a boss or make quick cash. Speak the truth fairly, even when silence seems easier.",
+ "real_life_bn": "ধর্ম, আইন কিংবা কর্মক্ষেত্রে আপনার যে জ্ঞান রয়েছে, তা কোনো ব্যক্তি বা সামান্য লাভের খাতিরে গোপন বা বিকৃত করবেন না। সততার সাথে সত্য কথা বলাই একজন বিশ্বাসীর কর্তব্য।",
+ "context_en": "Exposes how earlier custodians of scripture corrupted their trust by hiding the truth to preserve status and income.",
+ "context_bn": "পূর্ববর্তী কিতাবধারীদের পণ্ডিতরা পার্থিব স্বার্থ ও প্রভাব বজায় রাখার জন্য কীভাবে আল্লাহর আমানত খেয়ানত করেছিল, তা তুলে ধরা হয়েছে।",
+ "themes": [
+  "knowledge",
+  "keeping promises",
+  "revelation",
+  "greed",
+  "Children of Israel"
+ ],
+ "kinds": [
+  "warning",
+  "story",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "People of the Book"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "scriptures"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah took a solemn pledge from scholars among the People of the Book to teach scripture clearly and never hide its guidance.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "They cast the pledge behind their backs, hiding guidance and trading it away for petty worldly prestige and wealth.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

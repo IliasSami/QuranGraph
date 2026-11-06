@@ -1,0 +1,72 @@
+{
+  "id": "33:14",
+  "simple_en": "If enemy troops had entered the town from every side and asked them to leave faith, they would have done it. They would have joined the rebels with little delay. Their hearts had no real loyalty to truth.",
+  "simple_bn": "যদি শত্রু বাহিনী মদিনার চতুর্দিক দিয়ে শহরে প্রবেশ করত এবং এই মুনাফিকদেরকে ঈমান ত্যাগ করে শির্ক ও বিদ্রোহে যোগ দিতে বলত, তবে তারা বিন্দুমাত্র ইতস্তত না করে তাতে সায় দিত। তারা সামান্য সময়ও বিলম্ব না করে সত্যের সাথে বিশ্বাসঘাতকতা করত।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": null,
+      "lemma": "مِن",
+      "meaning_en": "its quarters / sides",
+      "meaning_bn": "তার বিভিন্ন দিক",
+      "why_en": "Refers to the surrounding districts and approaches of Madinah."
+    },
+    {
+      "pos": 7,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "treason / disbelief (fitnah)",
+      "meaning_bn": "শির্ক ও ফিতনা",
+      "why_en": "Describes the call to renounce Islam and join the enemy against the believers."
+    },
+    {
+      "pos": 9,
+      "root": "أتي",
+      "lemma": "آتَى",
+      "meaning_en": "they would hesitate / delay",
+      "meaning_bn": "বিলম্ব করত",
+      "why_en": "Exposes how swiftly the hypocrites would surrender their principles."
+    }
+  ],
+  "lesson_en": "Those who lack sincere faith will compromise their core values as soon as pressure strikes.",
+  "lesson_bn": "যাদের অন্তরে খাঁটি ঈমান নেই, চাপের মুখে তারা সহজেই নিজেদের নীতি ও বিশ্বাস বিসর্জন দেয়।",
+  "real_life_en": "Build your values on deep truth, not easy gains. When bad pressure comes, stand for what is right instead of giving in to wrong deeds.",
+  "real_life_bn": "সুবিধাবাদী না হয়ে খাঁটি বিশ্বাসের ওপর নিজের চরিত্র গড়ে তুলুন। যাতে কোনো চাপের মুখে অন্যায়ের সাথে আপস না করে সততার ওপর অটল থাকতে পারেন।",
+  "themes": [
+    "hypocrisy",
+    "disbelief",
+    "faith",
+    "trials"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "madinah"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Had the enemy breached Madinah and demanded their apostasy and treason, the hypocrites would have complied with minimal hesitation.",
+      "claim_bn": "শত্রুরা মদিনায় প্রবেশ করে তাদের বিদ্রোহ ও শির্কে যোগ দিতে বললে মুনাফিকরা সামান্যতম বিলম্ব না করে তা মেনে নিত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

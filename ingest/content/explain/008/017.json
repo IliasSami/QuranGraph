@@ -1,0 +1,88 @@
+{
+  "id": "8:17",
+  "simple_en": "You did not kill them by your strength alone, but Allah gave the victory. When you threw a handful of sand, O Prophet, it was Allah who made it blind the enemy. Allah tested the believers with a gracious test.",
+  "simple_bn": "তোমরা নিজেদের শক্তিতে তাদের বধ করোনি, বরং আল্লাহই তাদের ফয়সালা করেছিলেন। আর আপনি যখন ধূলিকণা নিক্ষেপ করেছিলেন তখন আপনি নিক্ষেপ করেননি, বরং আল্লাহই তা নিক্ষেপ করেছিলেন যাতে মুমিনদের উত্তম পরীক্ষার মাধ্যমে সম্মানিত করেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قتل",
+      "lemma": "قَتَلَ",
+      "meaning_en": "you did not kill them",
+      "meaning_bn": "তোমরা বধ করোনি",
+      "why_en": "Attributing the miraculous victory to divine decree rather than mere human strength."
+    },
+    {
+      "pos": 7,
+      "root": "رمي",
+      "lemma": "رَمَى",
+      "meaning_en": "you threw",
+      "meaning_bn": "আপনি নিক্ষেপ করেছিলেন",
+      "why_en": "The Prophet casting a handful of pebbles and dust at the enemy ranks."
+    },
+    {
+      "pos": 16,
+      "root": "بلو",
+      "lemma": "بَلاء",
+      "meaning_en": "a gracious trial / test",
+      "meaning_bn": "উত্তম পরীক্ষা / অনুগ্রহ",
+      "why_en": "Blessing the believers through trial to elevate their ranks."
+    }
+  ],
+  "lesson_en": "God blesses our small efforts and turns them into great success.",
+  "lesson_bn": "মানুষের ক্ষুদ্র প্রচেষ্টায় বরকত দিয়ে মহান আল্লাহ তাকে এক অবিশ্বাস্য মহাবিজয়ে রূপ দেন।",
+  "real_life_en": "When you achieve great success, do not become boastful. Remember that God opened the doors and guided your efforts. Give credit to God and stay humble after every achievement.",
+  "real_life_bn": "জীবনে বড় সাফল্য পেলে অহংকারী হবেন না। মনে রাখবেন, আল্লাহই আপনার ক্ষুদ্র প্রচেষ্টায় সাফল্য দান করেছেন; তাঁর প্রতি কৃতজ্ঞ থাকুন।",
+  "context_en": "Highlighting the divine miracle at Badr when the Prophet threw a handful of sand that entered the eyes of all pagan combatants.",
+  "context_bn": "বদর প্রান্তরে রাসূলুল্লাহ ﷺ-এর মুঠো ভর্তি বালু নিক্ষেপ এবং তার অলৌকিকভাবে শত্রু সৈন্যের চোখে প্রবেশ করার ঘটনা।",
+  "themes": [
+    "miracle at Badr",
+    "divine agency",
+    "humility in victory",
+    "tawhid"
+  ],
+  "kinds": [
+    "story",
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "Muslims",
+      "Quraysh"
+    ],
+    "places": [
+      "Badr"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "as-Sami'",
+      "al-'Alim"
+    ],
+    "events": [
+      "throwing of the sand at Badr"
+    ],
+    "things": [
+      "sand / pebbles"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The triumph at Badr and the miraculous effect of the dust thrown by the Prophet were divine acts testing believers with honor.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": "The Prophet ﷺ throwing a handful of dust toward the Meccan army at Badr.",
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": "12:82",
+  "simple_en": "He told them to invite their father to question the people of the city where they stayed, and to ask the caravan they traveled with. They maintained that they were speaking the honest truth.",
+  "simple_bn": "সে তাদের বলল, পিতাকে বলো যেন তিনি আমরা যে শহরে ছিলাম সেখানকার মানুষ এবং আমাদের সাথে আসা কাফেলাকে জিজ্ঞাসা করেন। আমরা অবশ্যই সত্যি কথা বলছি।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "ask / inquire",
+      "meaning_bn": "জিজ্ঞাসা করুন",
+      "why_en": "Inviting independent verification of their honest claim."
+    },
+    {
+      "pos": 2,
+      "root": "قري",
+      "lemma": "قَرْيَة",
+      "meaning_en": "the town / city",
+      "meaning_bn": "শহর বা নগরী",
+      "why_en": "The Egyptian capital where the public inspection took place."
+    },
+    {
+      "pos": 6,
+      "root": "عير",
+      "lemma": "عِير",
+      "meaning_en": "the caravan",
+      "meaning_bn": "কাফেলা",
+      "why_en": "Fellow merchants who witnessed the events along the journey."
+    },
+    {
+      "pos": 11,
+      "root": "صدق",
+      "lemma": "صادِق",
+      "meaning_en": "truthful",
+      "meaning_bn": "সত্যবাদী",
+      "why_en": "Asserting that they were not fabricating this painful story."
+    }
+  ],
+  "lesson_en": "When people doubt you, offer clear proof to show the truth.",
+  "lesson_bn": "সন্দেহের মুখে পড়লে নিরপেক্ষ সাক্ষ্য ও প্রমাণের সুযোগ দিন যাতে সত্য নিজেই প্রকাশিত হয়।",
+  "real_life_en": "A delivery driver accused of losing a box shows the front door photo. The photo proves the box was dropped off on time.",
+  "real_life_bn": "পণ্য না পৌঁছানোর অভিযোগ উঠলে ডেলিভারি কর্মী বাড়ির ছবি দেখান। ছবিতে দেখা যায় পার্সেলটি ঠিক সময়েই দরজার সামনে রাখা হয়েছিল।",
+  "context_en": "Anticipating their father's disbelief, the sons offered witnesses from Egypt and the traveling caravan.",
+  "context_bn": "পিতা তাদের কথা বিশ্বাস করবেন না ভেবে ভাইয়েরা মিসরের অধিবাসী ও সহযাত্রীদের সাক্ষ্য নেওয়ার পরামর্শ দিল।",
+  "themes": [
+    "witnessing",
+    "verification",
+    "truthfulness"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "brothers of Yusuf",
+      "Yaqub",
+      "caravan travelers"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt",
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "caravan"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The sons urged Yaqub to ask the people of Egypt and the caravan to confirm their story.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They insisted they were telling the truth.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

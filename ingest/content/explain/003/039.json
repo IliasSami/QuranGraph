@@ -1,0 +1,99 @@
+{
+ "id": "3:39",
+ "simple_en": "While he stood praying in the sanctuary, angels called out to him with good news. They said that Allah gives him glad tidings of a son named Yahya (peace be upon him). This son would confirm a word from Allah, lead with noble character, live a pure life of worship, and be a prophet among the righteous.",
+ "simple_bn": "তিনি যখন ইবাদতের কক্ষে নামাজে দাঁড়িয়েছিলেন, তখন ফেরেশতারা তাঁকে ডেকে সুসংবাদ দিলেন। তাঁরা বললেন, নিশ্চয়ই আল্লাহ আপনাকে ইয়াহইয়া (আলাইহিস সালাম) নামের এক সন্তানের সুসংবাদ দিচ্ছেন। সে আল্লাহর পক্ষ থেকে একটি বাণীকে সমর্থন করবে, সে হবে মহান চরিত্রের নেতা, সংযমী এবং সৎকর্মশীলদের অন্তর্ভুক্ত একজন নবী।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ملك",
+   "lemma": "مَلَك",
+   "meaning_en": "the angels",
+   "meaning_bn": "ফেরেশতাগণ",
+   "why_en": "The heavenly messengers sent by Allah to deliver glad tidings."
+  },
+  {
+   "pos": 5,
+   "root": "صلو",
+   "lemma": "صَلَّى",
+   "meaning_en": "praying",
+   "meaning_bn": "নামাজরত অবস্থায়",
+   "why_en": "Shows that the divine response arrived while he was actively engaged in prayer."
+  },
+  {
+   "pos": 11,
+   "root": "حيي",
+   "lemma": "يَحْيَى",
+   "meaning_en": "with Yahya (John)",
+   "meaning_bn": "ইয়াহইয়ার (আলাইহিস সালাম)",
+   "why_en": "The noble prophet whose name was chosen directly by Allah."
+  },
+  {
+   "pos": 16,
+   "root": "سود",
+   "lemma": "سَيِّد",
+   "meaning_en": "a leader",
+   "meaning_bn": "নেতা",
+   "why_en": "Signifies moral authority, wisdom, and leadership in religious devotion."
+  }
+ ],
+ "lesson_en": "Prayer is the doorway through which Allah's greatest gifts and blessings enter our lives.",
+ "lesson_bn": "সালাত হলো এমন এক মাধ্যম যার ভেতর দিয়ে মানুষের জীবনে আল্লাহর রহমত ও বড় বড় নেয়ামত নেমে আসে।",
+ "real_life_en": "A man facing heavy business debt stands in late-night prayer, pouring his worries out to Allah. Next morning, an honest partner offers to clear the debt and invest in his project. Sincere prayer while standing before Allah brings relief when all human doors seem closed.",
+ "real_life_bn": "ব্যবসায়ে বড় ঋণের চাপে পড়ে এক ব্যক্তি গভীর রাতে সালাতে দাঁড়িয়ে আল্লাহর কাছে সাহায্য চাইলেন। পরদিন সকালে এক বিশ্বস্ত বন্ধু তাঁকে ঋণ পরিশোধে বড় ধরনের সহযোগিতা করলেন। আল্লাহর সামনে সালাতে দাঁড়িয়ে দোয়া করলে এমন সব পথ খুলে যায় যা মানুষ কল্পনাও করতে পারে না।",
+ "context_en": "This ayah answers the prayer of Zachariah in the previous verse, giving him the glad tidings of Yahya (peace be upon him) and describing his noble prophetic qualities.",
+ "context_bn": "পূর্ববর্তী আয়াতে করা দোয়ার উত্তরে এই আয়াতে যাকারিয়া (আলাইহিস সালাম)-কে পুত্রসন্তানের সুসংবাদ দেওয়া হয়েছে এবং ইয়াহইয়া (আলাইহিস সালাম)-এর মহান গুণাবলি তুলে ধরা হয়েছে।",
+ "themes": [
+  "angels",
+  "prayer",
+  "stories of the prophets",
+  "prophethood"
+ ],
+ "kinds": [
+  "glad-tidings",
+  "story",
+  "worship",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Zakariyya (peace be upon him)",
+   "Yahya (peace be upon him)",
+   "'Isa (peace be upon him)"
+  ],
+  "nations": [],
+  "places": [
+   "the sanctuary (Mihrab)"
+  ],
+  "unseen": [
+   "angels"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Angels announced to Zachariah while he stood in prayer that Allah granted him a son named Yahya.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Yahya would confirm a Word from Allah (Jesus), lead in righteousness, practice chaste self-restraint, and be a prophet.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "21:6",
+  "simple_en": "Not one of the ancient towns that We destroyed believed in Our physical miracles. When signs came, they still rejected them. Will these people now believe?",
+  "simple_bn": "অতীতে যে সব জনপদ আমি ধ্বংস করেছিলাম, তাদের কেউ চাওয়া অলৌকিক নিদর্শন দেখেও বিশ্বাস করেনি। তারা সত্য প্রত্যাখ্যান করেছিল। তবে কি এরা এখন বিশ্বাস করবে?",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "believed",
+      "meaning_bn": "ঈমান এনেছিল",
+      "why_en": "Faith that ancient deniers failed to show."
+    },
+    {
+      "pos": 6,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "We destroyed",
+      "meaning_bn": "আমরা ধ্বংস করেছি",
+      "why_en": "Divine consequence when miracles are mocked."
+    }
+  ],
+  "lesson_en": "Demanding signs is often an excuse. Past nations saw great signs and still refused to believe.",
+  "lesson_bn": "নিদর্শন দাবি করা অনেক সময় কেবল অজুহাত মাত্র। অতীতের জাতিগুলো স্পষ্ট নিদর্শন দেখেও বিশ্বাস করেনি।",
+  "real_life_en": "Appreciate the signs of truth around you today. Do not wait for dramatic wonders to soften your heart.",
+  "real_life_bn": "চারপাশের সত্যের নিদর্শনগুলো উপলব্ধি করুন। হৃদয় পরিবর্তন করার জন্য কোনো অদ্ভুত ঘটনার অপেক্ষায় থাকবেন না।",
+  "themes": [
+    "past-nations",
+    "destruction",
+    "signs",
+    "rejection"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Earlier destroyed communities did not believe even after witnessing the exact miraculous signs they demanded.",
+      "claim_bn": "অতীতের ধ্বংসপ্রাপ্ত জনপদগুলো তাদের দাবি করা অলৌকিক নিদর্শন প্রত্যক্ষ করার পরও ঈমান আনেনি।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

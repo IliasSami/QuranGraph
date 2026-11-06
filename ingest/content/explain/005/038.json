@@ -1,0 +1,93 @@
+{
+ "id": "5:38",
+ "simple_en": "Islam protects the wealth and security of all people. Under Islamic law, legitimate judges enforce the penalty for theft. When the strict legal conditions are met, the thief's hand is cut off. This serves as a warning to protect society from crime. Allah is Almighty in power and Wise in His laws.",
+ "simple_bn": "ইসলাম মানুষের জানমালের পূর্ণ নিরাপত্তা দেয়। শরীয়তের কঠোর শর্ত ও প্রমাণ সাপেক্ষে রাষ্ট্র বা বিচারক চোরের হাত কাটার দণ্ড কার্যকর করেন। এটি তাদের কৃতকর্মের প্রতিফল এবং সমাজে চুরি রোধের জন্য আল্লাহর পক্ষ থেকে এক দৃষ্টান্তমূলক শাস্তি। নিশ্চয় আল্লাহ মহাপরাক্রমশালী এবং তাঁর প্রতিটি বিধানে প্রজ্ঞাময়।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "سرق",
+   "lemma": "سارِق",
+   "meaning_en": "the male thief",
+   "meaning_bn": "পুরুষ চোর",
+   "why_en": "The one who illicitly takes property from a secure place."
+  },
+  {
+   "pos": 3,
+   "root": "قطع",
+   "lemma": "قُطِعَ",
+   "meaning_en": "cut off [the hand]",
+   "meaning_bn": "কেটে দাও",
+   "why_en": "The mandated legal penalty executed by legitimate authorities under strict conditions."
+  },
+  {
+   "pos": 8,
+   "root": "نكل",
+   "lemma": "نَكال",
+   "meaning_en": "a deterrent punishment",
+   "meaning_bn": "দৃষ্টান্তমূলক শাস্তি",
+   "why_en": "A stern measure that prevents society from falling into crime and theft."
+  },
+  {
+   "pos": 12,
+   "root": "عزز",
+   "lemma": "عَزِيز",
+   "meaning_en": "Almighty",
+   "meaning_bn": "পরাক্রমশালী",
+   "why_en": "Allah possesses supreme power to enforce His laws."
+  }
+ ],
+ "lesson_en": "Respect the property of others and never take what is not rightfully yours.",
+ "lesson_bn": "অন্যের সম্পদের সম্মান রক্ষা করুন এবং অন্যায়ভাবে অন্যের জিনিস কখনো আত্মসাৎ করবেন না।",
+ "real_life_en": "A cashier works around stacks of money every day. Even when no one is watching, he never pockets a single coin. He knows that taking another person's wealth is a grave sin that ruins lives and brings shame.",
+ "real_life_bn": "এক কর্মচারী দোকানে একা কাজ করার সময় ক্যাশ থেকে সহজে টাকা সরিয়ে নিতে পারত। কিন্তু সে আল্লাহকে ভয় করে এবং অন্যের সম্পদে লোভ করে না। সততা তার জীবনে বরকত এনে দেয় এবং বড় বিপদ থেকে বাঁচায়।",
+ "context_en": "Lays down the legal punishment for theft to protect private property and secure society against crime.",
+ "context_bn": "মানুষের সম্পদের নিরাপত্তা নিশ্চিত করতে এবং চুরি প্রতিরোধে চোরের শাস্তির সুস্পষ্ট আইনি বিধান।",
+ "themes": [
+  "law",
+  "justice",
+  "names and attributes of Allah",
+  "warning",
+  "wealth"
+ ],
+ "kinds": [
+  "law",
+  "warning",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Aziz",
+   "Al-Hakim"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Legal authorities are commanded to cut off the hand of a proven thief as a punishment and deterrent from Allah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "This penalty serves to protect people's wealth and deter others from theft, reflecting Allah's might and wisdom.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

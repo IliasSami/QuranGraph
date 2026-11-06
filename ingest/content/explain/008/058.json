@@ -1,0 +1,75 @@
+{
+  "id": "8:58",
+  "simple_en": "If you have good reason to fear treachery from a group with whom you have a treaty, dissolve the pact openly and fairly so both sides stand on equal footing. Allah does not love the treacherous.",
+  "simple_bn": "আর যদি তুমি কোনো সম্প্রদায়ের পক্ষ থেকে চুক্তি ভঙ্গের আশঙ্কা করো, তবে তাদের চুক্তি সরাসরি তাদের দিকে ফিরিয়ে দাও যাতে উভয় পক্ষ সমান হয়। নিশ্চয়ই আল্লাহ বিশ্বাসঘাতকদের ভালোবাসেন না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "خون",
+      "lemma": "خِيانَة",
+      "meaning_en": "treachery / betrayal",
+      "meaning_bn": "বিশ্বাসঘাতকতা",
+      "why_en": "Suspected or planned breach of an alliance."
+    },
+    {
+      "pos": 6,
+      "root": "نبذ",
+      "lemma": "نَبَذَ",
+      "meaning_en": "cast back / throw back",
+      "meaning_bn": "ছুঁড়ে ফেলে দাও বা ফিরিয়ে দাও",
+      "why_en": "Formal, transparent repudiation of a treaty."
+    },
+    {
+      "pos": 9,
+      "root": "سوي",
+      "lemma": "سَواء",
+      "meaning_en": "equal terms",
+      "meaning_bn": "সমান সমানে",
+      "why_en": "Ensuring open knowledge of the cancellation for both parties."
+    }
+  ],
+  "lesson_en": "Never attack by stealth. End a pact out loud so both sides know the truth.",
+  "lesson_bn": "চুক্তি শেষ করতে হলে প্রকাশ্যে ও স্বচ্ছতার সাথে তা বাতিল করা উচিত, গোপনে বিশ্বাসঘাতকতা করা হারাম।",
+  "real_life_en": "If a work pact is breaking down, talk face to face. End the deal in the open before you move on. Never plot behind someone's back.",
+  "real_life_bn": "কারো সাথে লেনদেন বা চুক্তি ভেঙে যাওয়ার উপক্রম হলে গোপনে চাল না চেলে সরাসরি ও স্পষ্টভাবে বিষয়টি জানিয়ে দিন। সততা বজায় রাখুন।",
+  "context_en": "Establishing high moral standards of transparency in diplomacy, banning sneaky preemptive strikes without prior notice.",
+  "context_bn": "আন্তর্জাতিক চুক্তি ও কূটনীতিতে গোপন আক্রমণ নিষিদ্ধ করে প্রকাশ্য নোটিশ প্রদানের মাধ্যমে চুক্তি বাতিলের অনুশাসন।",
+  "themes": [
+    "treaty repudiation",
+    "transparency",
+    "honor in diplomacy",
+    "forbidding treachery"
+  ],
+  "kinds": [
+    "law",
+    "command",
+    "prohibition",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "allies"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "If treachery is feared from an ally, their treaty must be formally renounced on equal terms, as Allah dislikes the treacherous.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

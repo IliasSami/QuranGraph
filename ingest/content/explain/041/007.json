@@ -1,0 +1,70 @@
+{
+ "id": "41:7",
+ "simple_en": "This ayah describes the qualities of the polytheists. They refuse to pay the required charity to help those in need, and they deny the reality of the Life to Come. Because they do not believe in the Day of Judgment, they feel no duty to care for the poor or purify their wealth.",
+ "simple_bn": "এই আয়াতে মুশরিকদের কিছু বৈশিষ্ট্যের বিবরণ দেওয়া হয়েছে। তারা অভাবীদের সহায়তায় যাকাত দেয় না এবং পরকালকে অস্বীকার করে। শেষ বিচারের দিনে বিশ্বাস না থাকার কারণে তারা সম্পদ পবিত্র করার বা দরিদ্রদের সাহায্য করার কোনো প্রয়োজন বোধ করে না।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "زكو",
+   "lemma": "زَكاة",
+   "meaning_en": "the Zakat / purifying charity",
+   "meaning_bn": "যাকাত",
+   "why_en": "Emphasizes the vital duty of sharing wealth to purify one's life and help the poor."
+  },
+  {
+   "pos": 6,
+   "root": "أخر",
+   "lemma": "آخِر",
+   "meaning_en": "in the Hereafter",
+   "meaning_bn": "আখিরাতে বা পরকালে",
+   "why_en": "Points to the eternal reality where all deeds will be accounted for."
+  },
+  {
+   "pos": 8,
+   "root": "كفر",
+   "lemma": "كافِر",
+   "meaning_en": "disbelievers / deniers",
+   "meaning_bn": "অস্বীকারকারী",
+   "why_en": "Describes those who reject faith in resurrection and divine accountability."
+  }
+ ],
+ "lesson_en": "Belief in the Hereafter motivates us to share our wealth and assist those in need.",
+ "lesson_bn": "পরকালের বিশ্বাস মানুষকে নিজের সম্পদ ভাগ করে নিতে এবং অভাবীদের পাশে দাঁড়াতে অনুপ্রাণিত করে।",
+ "real_life_en": "Look around your community for people who struggle to buy basic groceries. Help them with a cheerful spirit to show true gratitude for what Allah has provided you.",
+ "real_life_bn": "আপনার আশেপাশে যারা নিত্যপ্রয়োজনীয় জিনিস কিনতে হিমশিম খাচ্ছে তাদের খোঁজ নিন। আল্লাহর নিয়ামতের কৃতজ্ঞতা হিসেবে হাসিমুখে তাদের পাশে দাঁড়ান।",
+ "themes": [
+  "zakat",
+  "charity",
+  "the Last Day",
+  "disbelief"
+ ],
+ "kinds": [
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The idolaters withhold Zakat from their wealth and completely deny the reality of the Hereafter and its reckoning.",
+   "claim_bn": "মুশরিকরা নিজেদের সম্পদের যাকাত দেয় না এবং পরকাল ও তার প্রতিদানকে পুরোপুরি অস্বীকার করে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

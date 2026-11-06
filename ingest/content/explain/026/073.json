@@ -1,0 +1,64 @@
+{
+  "id": "26:73",
+  "simple_en": "Ibrahim asked if their idols could bring them any good or cause them any harm. He showed them that an idol that cannot help itself cannot be a true god.",
+  "simple_bn": "ইব্রাহীম আরও জানতে চাইলেন যে মূর্তিগুলো তাদের কোনো উপকার বা ক্ষতি করতে পারে কি না। তারা যদি ভালো-মন্দ কিছুই করতে না পারে, তবে তাদের উপাসনা করা অর্থহীন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "نفع",
+      "lemma": "نَفَعَ",
+      "meaning_en": "they benefit you",
+      "meaning_bn": "তারা তোমাদের উপকার করে",
+      "why_en": "A true deity must have power to bestow good upon worshippers."
+    },
+    {
+      "pos": 4,
+      "root": "ضرر",
+      "lemma": "يَضُرَّ",
+      "meaning_en": "they harm you",
+      "meaning_bn": "তারা তোমাদের ক্ষতি করে",
+      "why_en": "Idols possess neither the power to benefit nor the ability to harm."
+    }
+  ],
+  "lesson_en": "Power to benefit and harm belongs to God alone. Created things cannot grant good or evil independently.",
+  "lesson_bn": "লাভ ও ক্ষতি করার চূড়ান্ত ক্ষমতা কেবল আল্লাহর হাতে। সৃষ্ট কোনো বস্তু নিজের ইচ্ছায় কারো কল্যাণ বা অকল্যাণ করতে পারে না।",
+  "real_life_en": "Free your heart from superstition and fear of created things. No person or object can harm or benefit you unless God permits it.",
+  "real_life_bn": "মন থেকে কুসংস্কার ও অমঙ্গলের ভয় দূর করে দিন। কোনো মানুষ বা বস্তু আল্লাহর অনুমতি ছাড়া আপনার ক্ষতি করতে পারে না।",
+  "themes": [
+    "benefit-and-harm",
+    "helplessness-of-idols"
+  ],
+  "kinds": [
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Ibrahim challenged whether the idols could bring any benefit if obeyed or cause any harm if disobeyed.",
+      "claim_bn": "ইব্রাহীম জানতে চাইলেন যে মূর্তিগুলো তাদের কোনো উপকার বা ক্ষতি সাধন করতে সক্ষম কি না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

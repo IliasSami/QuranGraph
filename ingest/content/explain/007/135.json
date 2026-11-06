@@ -1,0 +1,75 @@
+{
+  "id": "7:135",
+  "simple_en": "Whenever Allah removed the plague from them for a set time, they immediately broke their word. They went back to their arrogance and rejected the truth once again.",
+  "simple_bn": "কিন্তু আমরা যখনই তাদের ওপর থেকে নির্দিষ্ট একটি মেয়াদের জন্য আযাব তুলে নিতাম, তখনই তারা তাদের দেওয়া প্রতিশ্রুতি ভঙ্গ করত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "كشف",
+      "lemma": "كَشَفَ",
+      "meaning_en": "We removed",
+      "meaning_bn": "আমরা দূর করে দিতাম",
+      "why_en": "Allah's temporary relief granting them a chance to fulfill their vows."
+    },
+    {
+      "pos": 6,
+      "root": "أجل",
+      "lemma": "أَجَل",
+      "meaning_en": "a term / period",
+      "meaning_bn": "একটি নির্ধারিত সময়",
+      "why_en": "The decreed time window leading to their ultimate judgment."
+    },
+    {
+      "pos": 11,
+      "root": "نكث",
+      "lemma": "نَكَثَ",
+      "meaning_en": "they broke their word",
+      "meaning_bn": "তারা অঙ্গীকার ভঙ্গ করত",
+      "why_en": "Their habitual treachery whenever hardship subsided."
+    }
+  ],
+  "lesson_en": "Breaking your promises harms your character and brings bad results.",
+  "lesson_bn": "বিপদ কেটে যাওয়ার সাথে সাথে অঙ্গীকার ভঙ্গ করা মানুষের অন্তরে মোনাফেকির বীজ বপন করে।",
+  "real_life_en": "Be a person of your word. If you promise to reform after a mistake, stick to that plan. Going back on your word destroys your credibility and inner peace.",
+  "real_life_bn": "প্রতিশ্রুতি ভঙ্গ করা থেকে সর্বদা সতর্ক থাকুন। কাউকে কথা দিলে তা রক্ষা করুন, এটিই মোমিনের প্রধান পরিচয়।",
+  "context_en": "The recurring pattern of treachery sealed the doom of Pharaoh and his followers.",
+  "context_bn": "আযাব মুক্তির পর তাদের এই ক্রমাগত বিশ্বাসঘাতকতাই শেষ পর্যন্ত তাদের ধ্বংসকে অনিবার্য করে তোলে।",
+  "themes": [
+    "treachery",
+    "breaking covenants",
+    "hypocrisy",
+    "divine respite"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "people of Pharaoh"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Each time the plague was lifted for an appointed term, Pharaoh's people broke their vows to believe and free the Israelites.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "26:199",
+  "simple_en": "Even if that non-Arab read the book to them clearly in Arabic, they would not believe. Their stubborn pride blinded them from accepting God's holy words.",
+  "simple_bn": "এমনকি সেই অনারব ব্যক্তি যদি তাদের সামনে নির্ভুলভাবে এই কিতাব পড়ে শোনাত, তবুও তাদের অহংকার তাদেরকে ঈমান আনা থেকে দূরে রাখত।",
+  "key_words": [
+    {
+      "pos": 1,
+      "arabic": "فَقَرَأَهُۥ",
+      "root": "قرأ",
+      "lemma": "قَرَأَ",
+      "meaning_en": "and he recited it",
+      "meaning_bn": "অতঃপর সে তা পাঠ করত",
+      "why_en": "Reciting the divine words clearly to the audience."
+    },
+    {
+      "pos": 6,
+      "arabic": "مُؤْمِنِينَ",
+      "root": "أمن",
+      "lemma": "مُؤْمِن",
+      "meaning_en": "believers",
+      "meaning_bn": "বিশ্বাসী বা ঈমানদার",
+      "why_en": "Accepting the message with sincere inner conviction."
+    }
+  ],
+  "lesson_en": "When arrogance takes root, no proof is enough. Disbelief comes from stubborn will rather than lack of proof.",
+  "lesson_bn": "অহংকারের কারণে মানুষ স্পষ্ট সত্যকে প্রত্যাখ্যান করে। মানুষের বিশ্বাসহীনতা প্রমাণের অভাবে নয় বরং অন্তরের অবাধ্যতার কারণে হয়।",
+  "real_life_en": "Stay humble before the truth. Never let personal pride or social pressure stop you from accepting what is right.",
+  "real_life_bn": "সত্যের সামনে সর্বদা বিনীত থাকুন। সামাজিক অহমিকা বা লোকলজ্জার ভয়ে কখনো সঠিক সিদ্ধান্ত নেওয়া থেকে পিছপা হবেন না।",
+  "themes": [
+    "arrogance",
+    "denial",
+    "belief"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Even if recited to them clearly, their stubborn arrogance would keep them from believing.",
+      "claim_bn": "এমনকি যদি তা তাদের কাছে পরিষ্কারভাবে পাঠ করা হতো, তবুও তারা অহংকারের কারণে বিশ্বাস করত না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

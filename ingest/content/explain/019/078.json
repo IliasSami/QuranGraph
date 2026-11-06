@@ -1,0 +1,65 @@
+{
+  "id": "19:78",
+  "simple_en": "Has he gained knowledge of the unseen, or has he taken a binding promise from the Most Merciful? He has no basis for his bold claim.",
+  "simple_bn": "সে কি অদৃশ্য জগতের জ্ঞান লাভ করেছে, নাকি পরম দয়াময় আল্লাহর কাছ থেকে কোনো বিশেষ প্রতিশ্রুতি পেয়েছে? তার এই দাবির কোনো ভিত্তি নেই।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "غيب",
+      "lemma": "غَيْب",
+      "meaning_en": "the unseen",
+      "meaning_bn": "অদৃশ্য বা গায়েব",
+      "why_en": "The hidden realm known only to God."
+    },
+    {
+      "pos": 7,
+      "root": "عهد",
+      "lemma": "عَهْد",
+      "meaning_en": "a covenant or promise",
+      "meaning_bn": "অঙ্গীকার বা প্রতিশ্রুতি",
+      "why_en": "A formal divine guarantee which he clearly lacks."
+    }
+  ],
+  "lesson_en": "No one knows the unseen except God. Claims about the future without divine revelation are sheer delusion.",
+  "lesson_bn": "আল্লাহ ছাড়া গায়েবের খবর কেউ জানে না। ওহীর জ্ঞান ছাড়া পরকাল নিয়ে মনগড়া দাবি করা চরম আত্মপ্রবঞ্চনা মাত্র।",
+  "real_life_en": "Do not talk about faith without proof. Trust in what God has made clear in His holy book.",
+  "real_life_bn": "যথাযথ জ্ঞান ছাড়া দ্বীনের কোনো বিষয়ে মন্তব্য করবেন না। অনুমান বাদ দিয়ে কুরআন ও সুন্নাহর স্পষ্ট দলিলের ওপর আস্থা রাখুন।",
+  "themes": [
+    "knowledge-of-the-unseen",
+    "refuting-false-claims",
+    "unseen-realm"
+  ],
+  "kinds": [
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "The Unseen"
+    ],
+    "names_of_allah": [
+      "Ar-Rahman"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "God exposes the baseless claim of the denier, noting he neither viewed the unseen nor received a divine covenant.",
+      "claim_bn": "আল্লাহ কাফেরের দাবিকে মিথ্যা প্রমাণ করেন যে সে না গায়েব দেখেছে, না আল্লাহর পক্ষ থেকে কোনো ওয়াদা পেয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

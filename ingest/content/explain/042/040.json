@@ -1,0 +1,89 @@
+{
+ "id": "42:40",
+ "simple_en": "The payback for an evil act is an equal harm in return, without crossing the limit. But whoever pardons the wrongdoer and makes peace, their reward is guaranteed by Allah. Truly, Allah does not love those who commit injustice.",
+ "simple_bn": "মন্দের প্রতিফল হলো অনুরূপ মন্দ। কিন্তু যে ব্যক্তি ক্ষমা করে দেয় এবং আপস-মীমাংসা করে, তার পুরস্কার আল্লাহর কাছে নির্ধারিত। নিশ্চয় তিনি অবিচারকারী যালিমদের পছন্দ করেন না।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "جزي",
+   "lemma": "جَزاء",
+   "meaning_en": "the retribution / payback",
+   "meaning_bn": "প্রতিফল / প্রতিদান",
+   "why_en": "Sets the legal principle that justice requires equal measure without excess."
+  },
+  {
+   "pos": 2,
+   "root": "سوأ",
+   "lemma": "سَيِّئَة",
+   "meaning_en": "an evil act",
+   "meaning_bn": "মন্দ কাজ",
+   "why_en": "Refers to wrongful harm or injury caused by an offending person."
+  },
+  {
+   "pos": 6,
+   "root": "عفو",
+   "lemma": "عَفا",
+   "meaning_en": "pardoned",
+   "meaning_bn": "ক্ষমা করল",
+   "why_en": "Highlights the nobility of waiving one's right to revenge."
+  },
+  {
+   "pos": 7,
+   "root": "صلح",
+   "lemma": "أَصْلَحَ",
+   "meaning_en": "and made reconciliation",
+   "meaning_bn": "এবং আপস-মীমাংসা করল",
+   "why_en": "Encourages restoring peace, goodwill, and harmony between disputing parties."
+  },
+  {
+   "pos": 14,
+   "root": "ظلم",
+   "lemma": "ظالِم",
+   "meaning_en": "the wrongdoers",
+   "meaning_bn": "যালিমগণ",
+   "why_en": "Warns those who cross the limits of fair retaliation into oppression."
+  }
+ ],
+ "lesson_en": "Taking your right is fair, but forgiving and making peace brings greater reward from Allah.",
+ "lesson_bn": "অনুরূপ প্রতিফল নেওয়ার সুযোগ থাকলেও ক্ষমা করে শান্তি স্থাপন করা আল্লাহর কাছে বহুগুণ উত্তম।",
+ "real_life_en": "If someone wrongs you, the law allows you to ask for your fair right. Yet if you choose to forgive them for the sake of Allah, your reward will be far greater.",
+ "real_life_bn": "কেউ আপনার কোনো ক্ষতি করলে সমান প্রতিকার চাওয়ার অধিকার আপনার আছে। তবে যদি আপনি ক্ষমা করে দিয়ে সম্পর্ক সুন্দর করেন, তবে আল্লাহ আপনাকে উত্তম প্রতিদান দেবেন।",
+ "themes": [
+  "justice",
+  "forgiveness",
+  "good character",
+  "reward"
+ ],
+ "kinds": [
+  "law",
+  "ethics",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Recompense for an evil is an equivalent evil, but whoever pardons and reconciles has a reward with Allah, who dislikes wrongdoers.",
+   "claim_bn": "মন্দের প্রতিদান অনুরূপ মন্দ, তবে যে ক্ষমা করে শান্তি আনে তার পুরস্কার আল্লাহর দায়িত্বে, আর আল্লাহ যালিমদের ভালোবাসেন না।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

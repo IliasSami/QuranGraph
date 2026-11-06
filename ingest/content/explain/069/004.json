@@ -1,0 +1,62 @@
+{
+  "id": "69:4",
+  "simple_en": "The ancient peoples of Thamud and Ad denied the Day of Judgment. It is the Calamity that strikes hearts with fear. They rejected the warnings and chose disbelief. Their stubborn ways led to their end.",
+  "simple_bn": "সামূদ ও আদ সম্প্রদায় কিয়ামতের সেই মহাবিপদকে অস্বীকার করেছিল। তারা অন্তরে আঘাত হানার মতো এই ভয়ংকর দিবসের সতর্কবার্তাকে মিথ্যা ভেবে চরম ঔদ্ধত্য দেখিয়েছিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied and rejected",
+      "meaning_bn": "মিথ্যারোপ করেছিল",
+      "why_en": "Highlights the persistent denial of past nations despite clear warnings."
+    },
+    {
+      "pos": 4,
+      "root": "قرع",
+      "lemma": "قارِعَة",
+      "meaning_en": "the Striking Calamity",
+      "meaning_bn": "ভীতিপ্রদ মহাবিপদ",
+      "why_en": "Names the Resurrection because it strikes creation with great terror."
+    }
+  ],
+  "lesson_en": "Denying the truth does not protect a person from its harm.",
+  "lesson_bn": "সত্যকে অস্বীকার করলে তার পরিণতি থেকে রক্ষা পাওয়া যায় না, বরং ধ্বংস অনিবার্য হয়ে ওঠে।",
+  "real_life_en": "A driver ignores all traffic warning signs because he wants to drive fast. His denial does not remove the danger ahead. Taking warnings seriously keeps a person safe in this life and the next.",
+  "real_life_bn": "রাস্তার সতর্কবার্তা উপেক্ষা করে দ্রুত গাড়ি চালালে বিপদ নেমে আসে। তেমনি পরকালের সতর্কবার্তাকে অবহেলা না করে সময় থাকতেই নিজেকে শুধরে নেওয়া বুদ্ধিমানের কাজ।",
+  "themes": [
+    "denial of truth",
+    "past nations",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "thamud",
+      "ad"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Thamud and Ad rejected the Striking Calamity, which is the Day of Judgment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

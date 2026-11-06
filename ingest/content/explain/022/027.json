@@ -1,0 +1,67 @@
+{
+  "id": "22:27",
+  "simple_en": "Announce the sacred pilgrimage to all people. They will come to you walking on foot. They will ride lean camels from every distant mountain path.",
+  "simple_bn": "আর মানুষের কাছে হজের ঘোষণা দাও। তারা তোমার কাছে আসবে পায়ে হেঁটে এবং দূর-দূরান্তের পথ অতিক্রমকারী ক্লান্ত উটের পিঠে চড়ে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أذن",
+      "lemma": "أَذَّنَ",
+      "meaning_en": "and proclaim",
+      "meaning_bn": "এবং ঘোষণা দাও",
+      "why_en": "Universal summons to all people to perform the sacred pilgrimage."
+    },
+    {
+      "pos": 4,
+      "root": "حجج",
+      "lemma": "حَجّ",
+      "meaning_en": "the Pilgrimage",
+      "meaning_bn": "হজের",
+      "why_en": "The great annual pilgrimage uniting believers before God."
+    }
+  ],
+  "lesson_en": "The call to pilgrimage unites all believers. People of faith travel through hard roads to worship God together.",
+  "lesson_bn": "হজের আহ্বান বিশ্বের সকল প্রান্তের মুমিনদের একত্রিত করে। আল্লাহর ভালোবাসাই মানুষকে শত কষ্ট সহ্য করে পবিত্র ভূমিতে আসার প্রেরণা জোগায়।",
+  "real_life_en": "Answer God's call with an open heart. When doing good deeds, focus on patience rather than the hard path.",
+  "real_life_bn": "আল্লাহর ডাকে সর্বদা সাড়া দিন। হজ বা যেকোনো নেক কাজের প্রস্তুতি নেওয়ার সময় পথের কষ্টের চেয়ে আত্মিক প্রাপ্তিকে বেশি গুরুত্ব দিন।",
+  "themes": [
+    "hajj",
+    "pilgrimage",
+    "call-to-truth"
+  ],
+  "kinds": [
+    "command",
+    "worship"
+  ],
+  "entities": {
+    "people": [
+      "Abraham"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "The Pilgrimage (Hajj)"
+    ],
+    "things": [
+      "Camels"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Abraham was commanded to proclaim the pilgrimage to all humanity, who would respond from every distant road.",
+      "claim_bn": "ইব্রাহিমকে সমগ্র মানবজাতির উদ্দেশ্যে হজের ঘোষণা দেওয়ার নির্দেশ দেওয়া হয়, যাতে মানুষ দূর-দূরান্ত থেকে সমবেত হয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

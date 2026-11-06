@@ -1,0 +1,69 @@
+{
+  "id": "55:5",
+  "simple_en": "The sun and the moon move along precise paths according to a fine divine calculation. Through their steady movement, people calculate days, months, and years. This exact celestial order makes human life orderly on earth.",
+  "simple_bn": "সূর্য ও চাঁদ এক নিখুঁত হিসেব মেনে নিজেদের কক্ষপথে আবর্তন করে। এদের নিয়মিত চলাচলের মাধ্যমে মানুষ দিন, মাস ও বছরের হিসাব রাখতে পারে। আকাশের এই সুশৃঙ্খল নিয়ম মানুষের জীবনকে সুন্দর ও সহজ করে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "شمس",
+      "lemma": "شَمْس",
+      "meaning_en": "the sun",
+      "meaning_bn": "সূর্য",
+      "why_en": "The great light marking days and seasons."
+    },
+    {
+      "pos": 2,
+      "root": "قمر",
+      "lemma": "قَمَر",
+      "meaning_en": "the moon",
+      "meaning_bn": "চাঁদ",
+      "why_en": "The lunar body marking months and nights."
+    },
+    {
+      "pos": 3,
+      "root": "حسب",
+      "lemma": "حُسْبان",
+      "meaning_en": "precise calculation",
+      "meaning_bn": "নির্ধারিত হিসাব",
+      "why_en": "Exact astronomical orbits determined by divine decree."
+    }
+  ],
+  "lesson_en": "Look at the order of the sun and moon. Bring that same order to your own days.",
+  "lesson_bn": "সূর্য ও চাঁদের শৃঙ্খলার দিকে তাকান। নিজের জীবনেও সেই নিয়ম ও শৃঙ্খলা গড়ে তুলুন।",
+  "real_life_en": "When you schedule your daily work around the prayer times, you sync your routine with the cosmic order of the sun. Keeping your time structured brings calm and focus into your daily life.",
+  "real_life_bn": "সূর্যের হিসাবের সাথে মিলিয়ে যখন আপনি নামাজের সময় কাজ সাজান, তখন জীবনের কাজে বরকত আসে। সময়মতো দায়িত্ব পালন আপনাকে একজন সচেতন মানুষ হতে সাহায্য করবে।",
+  "themes": [
+    "signs in nature",
+    "creation",
+    "reflection"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The sun and the moon move by a precise calculation to let mankind calculate time and years.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "19:28",
+  "simple_en": "They said: O sister of Aaron, your father was not an evil man, nor was your mother an unchaste woman. Why have you brought shame upon your noble family?",
+  "simple_bn": "তারা বলল: হে হারূনের বোন, তোমার পিতা কোনো অসৎ ব্যক্তি ছিলেন না এবং তোমার মাতাও ব্যভিচারিণী ছিলেন না। তবে তুমি কেন এমন কাজ করলে?",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "أخو",
+      "lemma": "أُخْت",
+      "meaning_en": "sister or descendant",
+      "meaning_bn": "বোন বা বংশধর",
+      "why_en": "Belonging to the pious lineage of Aaron."
+    },
+    {
+      "pos": 11,
+      "root": "بغي",
+      "lemma": "بَغِيّ",
+      "meaning_en": "unchaste woman",
+      "meaning_bn": "ব্যভিচারিণী নারী",
+      "why_en": "Highlighting the moral uprightness of her mother."
+    }
+  ],
+  "lesson_en": "Good parents set a high standard. Children should protect their family honor with good deeds.",
+  "lesson_bn": "উন্নত বংশমর্যাদা মানুষের কাছে নৈতিক দায়িত্ব বৃদ্ধি করে। ধার্মিক পিতা-মাতা সন্তানের জন্য এক অনুপম আদর্শ রেখে যান।",
+  "real_life_en": "Honor your parents through good manners. Make choices that bring respect and honor to your home.",
+  "real_life_bn": "সৎ কাজের মাধ্যমে পিতা-মাতা ও পরিবারের সম্মান রক্ষা করুন। আপনার আচরণের মাধ্যমে যেন পরিবারের মর্যাদায় আঘাত না লাগে সেদিকে খেয়াল রাখুন।",
+  "themes": [
+    "family-lineage",
+    "moral-expectations",
+    "chaste-heritage"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Mary",
+      "Aaron"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Her people addressed Maryam as sister of Aaron, reminding her that both her parents were morally upright.",
+      "claim_bn": "লোকেরা মারইয়ামকে হারূনের বোন বলে সম্বোধন করে তাঁর পিতা-মাতার সচ্চরিত্রতার কথা স্মরণ করিয়ে দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

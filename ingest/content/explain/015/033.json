@@ -1,0 +1,72 @@
+{
+  "id": "15:33",
+  "simple_en": "Iblis said: I will never prostrate to a human whom You created from dried clay of altered black mud. He thought his fiery origin made him better than dust.",
+  "simple_bn": "ইবলীস বলল: আপনি কালচে কাদার শুকনো মাটি দিয়ে যে মানুষ বানিয়েছেন, আমি তাকে সিজদা করার নই। সে ভেবেছিল আগুনের তৈরি হওয়ায় সে মাটির তৈরি মানুষের চেয়ে শ্রেষ্ঠ।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "سجد",
+      "lemma": "سَجَدَ",
+      "meaning_en": "to prostrate",
+      "meaning_bn": "সিজদা করতে",
+      "why_en": "Refusing the act of prostration."
+    },
+    {
+      "pos": 5,
+      "root": "بشر",
+      "lemma": "بَشَر",
+      "meaning_en": "to a human",
+      "meaning_bn": "মানুষকে",
+      "why_en": "Adam as a mortal creation."
+    },
+    {
+      "pos": 6,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "You created him",
+      "meaning_bn": "আপনি তাকে সৃষ্টি করেছেন",
+      "why_en": "Acknowledging Allah as Creator yet disobeying."
+    }
+  ],
+  "lesson_en": "Judging people by their outward origin is the path of Satan. True worth lies in piety, not in material status.",
+  "lesson_bn": "বংশ বা বাহ্যিক উপাদান দিয়ে কাউকে বিচার করা শয়তানের স্বভাব। মানুষের আসল মর্যাদা নির্ভর করে তাকওয়া ও সদাচরণের ওপর।",
+  "real_life_en": "A candidate looks down on a job applicant because of where he grew up. He overlooks the applicant's talent and honesty. Bias blinds people to real merit and character.",
+  "real_life_bn": "এক ব্যক্তি কেবল এলাকার পরিচয়ের কারণে এক যোগ্য প্রার্থীর আবেদন নাকচ করে দেয়। তার এই অন্ধ অহংকার এক সৎ ও প্রতিভাবান কর্মীকে বঞ্চিত করে।",
+  "context_en": "Iblis giving his arrogant justification for refusing to bow to Adam.",
+  "context_bn": "আদমকে সিজদা না করার পক্ষে ইবলীসের দাম্ভিক যুক্তি উপস্থাপন।",
+  "themes": [
+    "pride",
+    "envy",
+    "sin"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "unseen": [
+      "Iblis"
+    ],
+    "people": [
+      "Adam"
+    ],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Iblis insolently asserted his superiority over mankind based on the material of creation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

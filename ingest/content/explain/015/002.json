@@ -1,0 +1,70 @@
+{
+  "id": "15:2",
+  "simple_en": "A time will come when those who deny the truth will wish with all their hearts that they had surrendered to Allah as Muslims. On Judgment Day, reality becomes unmistakable.",
+  "simple_bn": "এমন এক সময় আসবে যখন সত্য অস্বীকারকারীরা ব্যাকুল হয়ে আকাঙ্ক্ষা করবে যে তারা যদি মুসলিম হতো। শেষ বিচারের দিনে সমস্ত বাস্তবতা সবার সামনে স্পষ্ট হয়ে যাবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ودد",
+      "lemma": "وَدَّ",
+      "meaning_en": "will wish",
+      "meaning_bn": "আকাঙ্ক্ষা করবে",
+      "why_en": "Intense longing and regret."
+    },
+    {
+      "pos": 4,
+      "root": "كفر",
+      "lemma": "كَفَرَ",
+      "meaning_en": "those who disbelieved",
+      "meaning_bn": "যারা কুফরী করেছে",
+      "why_en": "Those who turned away from truth."
+    },
+    {
+      "pos": 7,
+      "root": "سلم",
+      "lemma": "مُسْلِم",
+      "meaning_en": "Muslims",
+      "meaning_bn": "মুসলিম",
+      "why_en": "Those who surrender in peace to Allah."
+    }
+  ],
+  "lesson_en": "Accept the truth today. Do not wait for a day when regrets cannot change the past.",
+  "lesson_bn": "আজই সত্যকে গ্রহণ করুন। এমন দিনের অপেক্ষায় থাকবেন না যখন আক্ষেপ করে কোনো লাভ হবে না।",
+  "real_life_en": "A man laughs off advice to pray and repent while he is young and rich. Later in life, when illness strikes, he wishes he had lived with faith. It is best to turn to Allah early.",
+  "real_life_bn": "যৌবনে এক ব্যক্তি নামাজ ও তওবার উপদেশ শুনে তাচ্ছিল্য করত। বার্ধক্যে অসুস্থ হয়ে সে অনুতাপ করে যে কেন সে ঈমানের পথে চলেনি। সুসময়েই আল্লাহর দিকে ফিরে আসা বুদ্ধিমানের কাজ।",
+  "context_en": "Warning about the bitter regret that will seize disbelievers on the Day of Judgment.",
+  "context_bn": "কিয়ামতের দিন সত্য অস্বীকারকারীদের তীব্র আক্ষেপ ও মুসলিম হওয়ার ব্যর্থ কামনার বিবরণ।",
+  "themes": [
+    "hereafter",
+    "regret",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "events": [
+      "Day of Judgement"
+    ],
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Disbelievers will bitterly wish on Judgment Day that they had submitted to Allah as Muslims.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

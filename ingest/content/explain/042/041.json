@@ -1,0 +1,71 @@
+{
+ "id": "42:41",
+ "simple_en": "Whoever defends their rights after being wronged has done nothing bad. There is no blame or sin upon them for seeking justice in a fair and lawful way.",
+ "simple_bn": "অত্যাচারিত হওয়ার পর যে ব্যক্তি নিজের অধিকার রক্ষায় প্রতিবিধান করে, তার বিরুদ্ধে কোনো অভিযোগ বা ব্যবস্থা গ্রহণের অবকাশ নেই।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "نصر",
+   "lemma": "انتَصَرَ",
+   "meaning_en": "retaliates / defends himself",
+   "meaning_bn": "প্রতিবিধান করে",
+   "why_en": "Confirms the right of an oppressed person to seek lawful redress."
+  },
+  {
+   "pos": 4,
+   "root": "ظلم",
+   "lemma": "ظُلْم",
+   "meaning_en": "his being wronged",
+   "meaning_bn": "তার উপর যুলুমের",
+   "why_en": "Specifies that defending oneself is justified in response to oppression."
+  },
+  {
+   "pos": 9,
+   "root": "سبل",
+   "lemma": "سَبِيل",
+   "meaning_en": "cause / blame",
+   "meaning_bn": "অভিযোগ / পথ",
+   "why_en": "Affirms that taking one's lawful right carries no moral or legal blame."
+  }
+ ],
+ "lesson_en": "It is lawful to defend your rights against injustice in a fair way.",
+ "lesson_bn": "ন্যায্য পন্থায় অন্যায়ের বিরুদ্ধে আত্মরক্ষা করা এবং নিজের অধিকার চাওয়া সম্পূর্ণ বৈধ।",
+ "real_life_en": "If someone takes your goods or treats you badly, you may ask for what is fair. Stand up for yourself in peace and do not act with hate.",
+ "real_life_bn": "কেউ আপনার সম্পদ আত্মসাৎ বা অধিকার হরণ করলে আইনের আশ্রয় নিন। শান্তভাবে নিজের অধিকার প্রতিষ্ঠা করুন এবং সীমা লঙ্ঘন করা থেকে বিরত থাকুন।",
+ "themes": [
+  "justice",
+  "the believers' qualities"
+ ],
+ "kinds": [
+  "law",
+  "ethics",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "There is no blame upon those who retaliate and defend themselves after being wronged.",
+   "claim_bn": "অত্যাচারিত হওয়ার পর যারা প্রতিবিধান করে তাদের উপর কোনো দোষারোপের অবকাশ নেই।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

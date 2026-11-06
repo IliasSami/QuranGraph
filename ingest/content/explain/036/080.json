@@ -1,0 +1,79 @@
+{
+  "id": "36:80",
+  "simple_en": "It is Allah who makes fire for you from green, wet trees, and you use it to kindle flame. The One who joins fire and water together can easily raise the dead to life.",
+  "simple_bn": "তিনিই সেই মহান সত্তা, যিনি তোমাদের জন্য সবুজ আর্দ্র গাছ থেকে আগুন উৎপাদন করেন, যা দিয়ে তোমরা আগুন প্রজ্বলিত করো। যিনি এমন পরস্পরবিরোধী জিনিস একত্র করতে পারেন, তিনি মৃতকে জীবন দিতেও সক্ষম।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "شجر",
+      "lemma": "شَجَر",
+      "meaning_en": "the tree",
+      "meaning_bn": "গাছ বা বৃক্ষ",
+      "why_en": "The source of wood containing moisture and fuel."
+    },
+    {
+      "pos": 6,
+      "root": "خضر",
+      "lemma": "أَخْضَر",
+      "meaning_en": "the green",
+      "meaning_bn": "সবুজ",
+      "why_en": "Indicates moisture and sap, contrasting with dry kindle."
+    },
+    {
+      "pos": 7,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "fire",
+      "meaning_bn": "আগুন",
+      "why_en": "Blazing heat generated from moist green branches."
+    },
+    {
+      "pos": 11,
+      "root": "وقد",
+      "lemma": "أَوْقَدُ",
+      "meaning_en": "you ignite / kindle",
+      "meaning_bn": "তোমরা আগুন জ্বালাও",
+      "why_en": "The practical benefit of warmth and light humans utilize daily."
+    }
+  ],
+  "lesson_en": "Bringing fire from wet wood proves that Allah can raise the dead.",
+  "lesson_bn": "ভেজা সবুজ গাছ থেকে আগুন বের করার কুদরত প্রমাণ করে যে আল্লাহ বিপরীত অবস্থাকে একত্র করতে এবং মৃতকে বাঁচাতে সক্ষম।",
+  "real_life_en": "Look at the signs in nature around you. The One who brings fire from green trees has the power to answer your prayers and bring good from hardship.",
+  "real_life_bn": "প্রকৃতির বৈচিত্র্য ও রহস্যের দিকে তাকিয়ে আল্লাহর অসীম ক্ষমতা উপলব্ধি করুন। প্রতিদিনের আগুন জ্বালানোর নিয়ামত যেন আপনার ঈমানকে মজবুত করে।",
+  "themes": [
+    "creation",
+    "fire",
+    "nature",
+    "allah's power"
+  ],
+  "kinds": [
+    "argument",
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah produces fire for humans from green, moist trees, proving His power to bring life from death.",
+      "claim_bn": "আল্লাহ সবুজ আর্দ্র বৃক্ষ থেকে মানুষের জন্য আগুন তৈরি করেন, যা প্রমাণ করে তিনি মৃতকে জীবিত করতে সক্ষম।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

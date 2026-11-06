@@ -1,113 +1,113 @@
 {
- "id": "2:149",
- "simple_en": "Wherever you travel and from whatever place you set out, turn your face toward al-Masjid al-Haram in prayer. This command is the absolute truth from your Lord, not a temporary preference. Allah is fully aware of all your deeds, watching over you wherever you go.",
- "simple_bn": "সফরে বা যে কোনো প্রয়োজনে আপনি যেখান থেকেই বের হোন না কেন, সালাতের সময় মসজিদুল হারামের দিকে মুখ ফেরান। এই বিধানটি আপনার প্রতিপালকের পক্ষ থেকে অবতীর্ণ অকাট্য সত্য। আপনারা যা করেন সে বিষয়ে আল্লাহ কখনোই অসচেতন নন, বরং তিনি সব পর্যবেক্ষণ করছেন।",
- "key_words": [
-  {
-   "pos": 3,
-   "root": "خرج",
-   "lemma": "خَرَجَ",
-   "meaning_en": "you set out",
-   "meaning_bn": "তুমি বের হলে",
-   "why_en": "Covers all forms of journeys, travels, and departures away from home."
-  },
-  {
-   "pos": 6,
-   "root": "شطر",
-   "lemma": "شَطْر",
-   "meaning_en": "toward the direction",
-   "meaning_bn": "অভিমুখে বা দিকে",
-   "why_en": "Reiterates the required geographical and ritual focus in prayer."
-  },
-  {
-   "pos": 7,
-   "root": "سجد",
-   "lemma": "مَسْجِد",
-   "meaning_en": "the mosque",
-   "meaning_bn": "মসজিদ",
-   "why_en": "Specifies the Sacred Mosque containing the Ka'bah as the unifier of hearts."
-  },
-  {
-   "pos": 10,
-   "root": "حقق",
-   "lemma": "حَقّ",
-   "meaning_en": "the absolute truth",
-   "meaning_bn": "নিশ্চয়ই অকাট্য সত্য",
-   "why_en": "Uses double linguistic emphasis to dispel any suspicion of arbitrary decree."
-  },
-  {
-   "pos": 15,
-   "root": "غفل",
-   "lemma": "غافِل",
-   "meaning_en": "unaware",
-   "meaning_bn": "উদাসীন বা অসচেতন",
-   "why_en": "Reminds believers of constant divine surveillance over their compliance and intentions."
-  }
- ],
- "lesson_en": "Turn to Allah in prayer wherever you travel.",
- "lesson_bn": "সফরে কিংবা প্রবাসে, যেখানেই থাকুন না কেন, নিয়মিত সালাত ও আল্লাহর হুকুম পালনে অবিচল থাকুন।",
- "real_life_en": "Whether traveling for work or on vacation in an unfamiliar city, look up the prayer direction and pray facing the Ka'bah. Staying committed to your prayers away from home anchors your faith anywhere you go.",
- "real_life_bn": "কাজের সূত্রে বা ভ্রমণে কোনো দূরবর্তী জায়গায় গেলেও সালাতের সময় ক্বিবলা নির্ধারণ করে নামাজ আদায় করুন। বাড়ির বাইরে থাকা অবস্থাতেও সালাতের সময় সচেতন থাকা আপনাকে সবসময় আল্লাহর সাথে যুক্ত রাখে।",
- "context_en": "Emphasizes that facing the Kabah is a universal obligation for all circumstances, including travel.",
- "context_bn": "স্পষ্ট করা হয়েছে যে, কেবল মদিনায় অবস্থানকালে নয়, বরং যে কোনো সফরেও কাবার দিকে মুখ করে সালাত আদায় করা স্থায়ী বিধান।",
- "themes": [
-  "prayer",
-  "truth",
-  "revelation",
-  "Allah's knowledge"
- ],
- "kinds": [
-  "command",
-  "law",
-  "ethics",
-  "description-of-allah"
- ],
- "entities": {
-  "people": [
-   "Muhammad ﷺ"
+  "id": "2:149",
+  "simple_en": "Wherever you travel and from whatever place you set out, turn your face toward al-Masjid al-Haram in prayer. This command is the absolute truth from your Lord, not a temporary preference. Allah is fully aware of all your deeds, watching over you wherever you go.",
+  "simple_bn": "সফরে বা যে কোনো প্রয়োজনে আপনি যেখান থেকেই বের হোন না কেন, সালাতের সময় মসজিদুল হারামের দিকে মুখ ফেরান। এই বিধানটি আপনার প্রতিপালকের পক্ষ থেকে অবতীর্ণ অকাট্য সত্য। আপনারা যা করেন সে বিষয়ে আল্লাহ কখনোই অসচেতন নন, বরং তিনি সব পর্যবেক্ষণ করছেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "خرج",
+      "lemma": "خَرَجَ",
+      "meaning_en": "you set out",
+      "meaning_bn": "তুমি বের হলে",
+      "why_en": "Covers all forms of journeys, travels, and departures away from home."
+    },
+    {
+      "pos": 6,
+      "root": "شطر",
+      "lemma": "شَطْر",
+      "meaning_en": "toward the direction",
+      "meaning_bn": "অভিমুখে বা দিকে",
+      "why_en": "Reiterates the required geographical and ritual focus in prayer."
+    },
+    {
+      "pos": 7,
+      "root": "سجد",
+      "lemma": "مَسْجِد",
+      "meaning_en": "the mosque",
+      "meaning_bn": "মসজিদ",
+      "why_en": "Specifies the Sacred Mosque containing the Ka'bah as the unifier of hearts."
+    },
+    {
+      "pos": 10,
+      "root": "حقق",
+      "lemma": "حَقّ",
+      "meaning_en": "the absolute truth",
+      "meaning_bn": "নিশ্চয়ই অকাট্য সত্য",
+      "why_en": "Uses double linguistic emphasis to dispel any suspicion of arbitrary decree."
+    },
+    {
+      "pos": 15,
+      "root": "غفل",
+      "lemma": "غافِل",
+      "meaning_en": "unaware",
+      "meaning_bn": "উদাসীন বা অসচেতন",
+      "why_en": "Reminds believers of constant divine surveillance over their compliance and intentions."
+    }
   ],
-  "nations": [],
-  "places": [
-   "al-Masjid al-Haram",
-   "Makkah"
+  "lesson_en": "Turn to Allah in prayer wherever you travel.",
+  "lesson_bn": "সফরে কিংবা প্রবাসে, যেখানেই থাকুন না কেন, নিয়মিত সালাত ও আল্লাহর হুকুম পালনে অবিচল থাকুন।",
+  "real_life_en": "Whether traveling for work or on vacation in an unfamiliar city, look up the prayer direction and pray facing the Ka'bah. Staying committed to your prayers away from home anchors your faith anywhere you go.",
+  "real_life_bn": "কাজের সূত্রে বা ভ্রমণে কোনো দূরবর্তী জায়গায় গেলেও সালাতের সময় ক্বিবলা নির্ধারণ করে নামাজ আদায় করুন। বাড়ির বাইরে থাকা অবস্থাতেও সালাতের সময় সচেতন থাকা আপনাকে সবসময় আল্লাহর সাথে যুক্ত রাখে।",
+  "context_en": "Emphasizes that facing the Kabah is a universal obligation for all circumstances, including travel.",
+  "context_bn": "স্পষ্ট করা হয়েছে যে, কেবল মদিনায় অবস্থানকালে নয়, বরং যে কোনো সফরেও কাবার দিকে মুখ করে সালাত আদায় করা স্থায়ী বিধান।",
+  "themes": [
+    "prayer",
+    "truth",
+    "revelation",
+    "Allah's knowledge"
   ],
-  "unseen": [],
-  "names_of_allah": [],
-  "events": [],
-  "things": [
-   "Kabah"
-  ]
- },
- "claims": [
-  {
-   "text": "The command to turn toward al-Masjid al-Haram applies in all places, whether a person is traveling or at home.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-ar-saadi",
-    "g-en-jalalayn",
-    "g-bn-ahsanul-bayan"
-   ]
+  "kinds": [
+    "command",
+    "law",
+    "ethics",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [],
+    "places": [
+      "al-Masjid al-Haram",
+      "Makkah"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Kabah"
+    ]
   },
-  {
-   "text": "The decree to face the Sacred Mosque is the confirmed truth revealed by Allah, not a matter of human preference.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-ar-saadi",
-    "g-en-maarif"
-   ]
-  },
-  {
-   "text": "Allah is never unaware of human actions, and every person will be held accountable for their obedience.",
-   "sources": [
-    "qe-english-mokhtasar",
-    "g-ar-saadi",
-    "g-en-ibn-kathir"
-   ]
-  }
- ],
- "occasion": null,
- "sensitivity": "fiqh",
- "scholars_differ": false,
- "confidence": 0.95,
- "uncertain": []
+  "claims": [
+    {
+      "text": "The command to turn toward al-Masjid al-Haram applies in all places, whether a person is traveling or at home.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn",
+        "g-bn-ahsanul-bayan"
+      ]
+    },
+    {
+      "text": "The decree to face the Sacred Mosque is the confirmed truth revealed by Allah, not a matter of human preference.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-maarif"
+      ]
+    },
+    {
+      "text": "Allah is never unaware of human actions, and every person will be held accountable for their obedience.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
 }

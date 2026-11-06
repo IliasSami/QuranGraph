@@ -1,0 +1,92 @@
+{
+ "id": "2:175",
+ "simple_en": "These people have made a terrible bargain. They gave up divine guidance to purchase misguidance, and exchanged Allah's forgiveness for His punishment. The ayah concludes with an expression of astonishment at their reckless attitude: how bold they seem in facing the Fire. In reality, no human can endure the agony of Hell, yet their actions look as though they are actively preparing to enter it.",
+ "simple_bn": "এরা নিজেদের জন্য সবচেয়ে লোকসানি কারবার বেছে নিয়েছে। তারা আল্লাহর দেওয়া পথনির্দেশের বিনিময়ে পথভ্রষ্টতা কিনে নিয়েছে এবং তাঁর ক্ষমার বদলে শাস্তি গ্রহণ করেছে। আয়াতে তাদের এমন অদ্ভুত বেপরোয়া মনোভাবের ওপর বিস্ময় প্রকাশ করে বলা হয়েছে: জাহান্নামের আগুনের মুখে তারা কতই না ধৈর্যশীল। প্রকৃতপক্ষে আগুনের শাস্তি সহ্য করার সাধ্য কারও নেই, অথচ তাদের কাজকর্ম দেখে মনে হয় যেন তারা আগুনে যাওয়ার জন্যই প্রস্তুত হচ্ছে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "شري",
+   "lemma": "اشْتَرَى",
+   "meaning_en": "they purchased (exchanged)",
+   "meaning_bn": "তারা ক্রয় করেছে (বিনিময় করেছে)",
+   "why_en": "Frames their spiritual failure as a disastrous trade where priceless guidance was thrown away for error."
+  },
+  {
+   "pos": 4,
+   "root": "ضلل",
+   "lemma": "ضَلالَة",
+   "meaning_en": "misguidance (error)",
+   "meaning_bn": "পথভ্রষ্টতা",
+   "why_en": "Refers to turning away from truth toward falsehood after understanding clear guidance."
+  },
+  {
+   "pos": 7,
+   "root": "غفر",
+   "lemma": "مَغْفِرَة",
+   "meaning_en": "forgiveness",
+   "meaning_bn": "ক্ষমা",
+   "why_en": "Shows that they voluntarily walked away from Allah's generous pardon to embrace His punishment."
+  },
+  {
+   "pos": 9,
+   "root": "صبر",
+   "lemma": "صَبَرَ",
+   "meaning_en": "how patient they seem (how bold)",
+   "meaning_bn": "তারা কতই না ধৈর্যশীল (কী দুঃসাহসী)",
+   "why_en": "Expresses utter amazement at their reckless defiance of Hellfire as if they could bear its heat."
+  }
+ ],
+ "lesson_en": "Do not trade lasting peace and forgiveness for short-lived desires that lead only to remorse.",
+ "lesson_bn": "ক্ষণস্থায়ী লোভের বশবর্তী হয়ে পরকালের চিরস্থায়ী ক্ষমা ও শান্তিকে হাতছাড়া করবেন না।",
+ "real_life_en": "Taking dishonest shortcuts to make quick cash is like trading your peace of mind for future misery. Choose honesty even when progress feels slow, because living with a clean conscience is worth far more than temporary wealth.",
+ "real_life_bn": "বেশি লাভের আশায় অনৈতিক পথ বেছে নেওয়া মানে নিজের আত্মিক প্রশান্তি ও ভবিষ্যৎ নষ্ট করা। সাময়িক সুবিধার চেয়ে সততার পথ বেছে নিন, কারণ একটি পরিচ্ছন্ন বিবেক যেকোনো সম্পদের চেয়ে বেশি মূল্যবান।",
+ "context_en": "Continues from ayah 174 by summarizing the foolish transaction of those who suppress the Book, trading guidance and forgiveness for misguidance and torment.",
+ "context_bn": "১৭৪ নম্বর আয়াতে সত্য গোপনকারীদের পরিণাম জানানোর পর, এই আয়াতে তাদের সিদ্ধান্তকে একটি চরম লোকসানি কারবার হিসেবে তুলে ধরা হয়েছে যেখানে তারা ক্ষমার বদলে শাস্তি কিনে নিয়েছে।",
+ "themes": [
+  "misguidance",
+  "guidance",
+  "forgiveness",
+  "punishment",
+  "Hell"
+ ],
+ "kinds": [
+  "warning",
+  "argument",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "Hell"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Those who conceal the truth exchange guidance for error and divine forgiveness for torment.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The phrase expressing amazement at their endurance of Fire censures their boldness in committing sins that lead straight to Hell.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "8:41",
+  "simple_en": "Know that one-fifth of all war spoils belongs to God and His Messenger. A share also goes to near kin, orphans, the poor, and travelers in need. Keep this rule if you truly believe in God and His clear signs.",
+  "simple_bn": "আর জেনে রাখো, যুদ্ধে যা কিছু সম্পদ তোমরা লাভ করেছ, তার এক-পঞ্চমাংশ আল্লাহ, তাঁর রাসূল, রাসূলের নিকটাত্মীয়, এতিম, নিঃস্ব ও মুসাফিরদের জন্য। যদি তোমরা আল্লাহর প্রতি বিশ্বাস রাখো, তবে এই বিধান মেনে নাও।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "know",
+      "meaning_bn": "জেনে রাখো",
+      "why_en": "Direct command to learn divine distribution laws."
+    },
+    {
+      "pos": 3,
+      "root": "غنم",
+      "lemma": "غَنِمْ",
+      "meaning_en": "you gained booty",
+      "meaning_bn": "তোমরা গনীমত লাভ করেছ",
+      "why_en": "War spoils acquired legitimately in struggle."
+    },
+    {
+      "pos": 8,
+      "root": "خمس",
+      "lemma": "خُمُس",
+      "meaning_en": "one fifth of it",
+      "meaning_bn": "তার এক-পঞ্চমাংশ",
+      "why_en": "The specified divine share reserved for public welfare."
+    }
+  ],
+  "lesson_en": "Public wealth must help poor and weak people, not just the rich.",
+  "lesson_bn": "সম্পদের একটি অংশ সর্বদা এতিম, অসহায় ও সমাজের দুর্বল মানুষের কল্যাণে ব্যয় করা উচিত।",
+  "real_life_en": "When you receive income or bonuses, remember those who have nothing. Setting aside a portion of your gains for orphans and poor neighbors purifies your wealth.",
+  "real_life_bn": "উপার্জন বা মুনাফা থেকে সমাজের সুবিধাবঞ্চিত ও অসহায় মানুষদের হক আদায় করুন। এতে সম্পদে বরকত আসে।",
+  "context_en": "Establishing legal rules for the fair distribution of spoils taken after the victory at Badr.",
+  "context_bn": "বদরের যুদ্ধের পর যুদ্ধলব্ধ সম্পদ সুষম বণ্টনের নীতিমালা নির্ধারণ।",
+  "themes": [
+    "booty distribution",
+    "charity",
+    "social welfare",
+    "day of distinction"
+  ],
+  "kinds": [
+    "law",
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers",
+      "orphans",
+      "the needy"
+    ],
+    "places": [
+      "Badr"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Battle of Badr"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "One-fifth of acquired spoils belongs to Allah, the Prophet, his kin, orphans, the poor, and travelers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

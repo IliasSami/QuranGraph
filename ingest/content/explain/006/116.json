@@ -1,0 +1,81 @@
+{
+  "id": "6:116",
+  "simple_en": "If you were to follow the majority of people on earth, they would mislead you away from Allah's path. Most people do not seek proven truth. Instead, they follow baseless assumptions and trade in mere guesswork. True guidance is not decided by popularity.",
+  "simple_bn": "আপনি যদি দুনিয়ার অধিকাংশ মানুষের কথামতো চলেন, তবে তারা আপনাকে আল্লাহর সরল পথ থেকে বিচ্যুত করবে। তারা মূলত ভিত্তিহীন অনুমানের পেছনে ছোটে এবং মনগড়া কথা বলে। সত্যের মানদণ্ড কখনোই মানুষের সংখ্যাধিক্যের ওপর নির্ভর করে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كثر",
+      "lemma": "أَكْثَر",
+      "meaning_en": "the majority / most",
+      "meaning_bn": "অধিকাংশ",
+      "why_en": "Warns that sheer numbers or majority consensus on earth do not define truth."
+    },
+    {
+      "pos": 14,
+      "root": "ظنن",
+      "lemma": "ظَنّ",
+      "meaning_en": "conjecture / assumptions",
+      "meaning_bn": "ধারণা বা অনুমান",
+      "why_en": "Points out that misguided beliefs rest on baseless assumptions rather than evidence."
+    },
+    {
+      "pos": 18,
+      "root": "خرص",
+      "lemma": "يَخْرُصُ",
+      "meaning_en": "they invent lies / conjecture",
+      "meaning_bn": "তারা মনগড়া বা আন্দাজে কথা বলে",
+      "why_en": "Exposes the baseless guesswork behind polytheistic and immoral practices."
+    }
+  ],
+  "lesson_en": "Truth does not depend on numbers. Follow clear proof, not the whims of the crowd.",
+  "lesson_bn": "হক বা সত্য প্রমাণনির্ভর, অধিকাংশ লোক কী করছে তা কখনো সঠিক পথের মাপকাঠি হতে পারে না।",
+  "real_life_en": "Do not change your moral values just to fit in with the crowd. Peer pressure often makes harmful actions seem fashionable and normal. Stand up for what is right even if you find yourself walking alone.",
+  "real_life_bn": "জনপ্রিয় সংস্কৃতি বা সংখ্যাগুরু মানুষের স্রোতে গা ভাসিয়ে নিজের আদর্শ বিসর্জন দেবেন না। সমাজ অনেক ভুল কাজকে স্বাভাবিক বানিয়ে ফেলতে পারে। সত্য পথে অবিচল থাকুন, এমনকি যদি চারপাশের সবাই আপনার বিপরীত দিকে যায়।",
+  "context_en": "This ayah warns believers against being misled by the majority of mankind, who base their beliefs on mere guesswork.",
+  "context_bn": "সংখ্যাগরিষ্ঠতার দোহাই দিয়ে বিভ্রান্ত হওয়া থেকে সতর্ক করে বলা হয়েছে যে সত্য অনুমানের ওপর নয়, অকাট্য প্রমাণের ওপর প্রতিষ্ঠিত।",
+  "themes": [
+    "truth vs popularity",
+    "conjecture",
+    "majority fallacy",
+    "guidance"
+  ],
+  "kinds": [
+    "warning",
+    "ethics",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Following the majority of people on earth leads astray from Allah's path.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "Most misguided people rely on baseless conjecture and mere guesswork.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

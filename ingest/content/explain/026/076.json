@@ -1,0 +1,63 @@
+{
+  "id": "26:76",
+  "simple_en": "He asked about the gods they worshipped and the gods of their old fathers. Just because an idea is very old does not mean it is true.",
+  "simple_bn": "তিনি বর্তমান প্রজন্ম এবং তাদের অতীত পূর্বপুরুষদের কাজের ভুল ধরিয়ে দিলেন। তিনি স্পষ্ট করলেন যে অনেক কাল ধরে প্রচলিত থাকলেই কোনো ভুল সঠিক হয়ে যায় না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "أبو",
+      "lemma": "آباء",
+      "meaning_en": "your forefathers",
+      "meaning_bn": "তোমাদের পিতৃপুরুষরা",
+      "why_en": "Extending the critique to both current worshippers and past ancestors."
+    },
+    {
+      "pos": 3,
+      "root": "قدم",
+      "lemma": "أَقْدَم",
+      "meaning_en": "ancient or previous",
+      "meaning_bn": "পূর্ববর্তী বা প্রাচীন",
+      "why_en": "Demonstrating that the antiquity of an error does not grant it legitimacy."
+    }
+  ],
+  "lesson_en": "Age does not sanctify error. False ideas remain false even if practiced for centuries.",
+  "lesson_bn": "প্রাচীন হলেই কোনো ধারণা সত্য হয়ে যায় না। শত শত বছর ধরে চলে আসা ভ্রান্ত বিশ্বাসও বর্জনীয়।",
+  "real_life_en": "Never defend a wrong deed just because people did it long ago. Choose what is right based on God's clear truth.",
+  "real_life_bn": "সমাজে কোনো ভুল বিষয় দীর্ঘদিন ধরে প্রচলিত থাকলেও তা এড়িয়ে চলুন। প্রাচীনতার চেয়ে সত্য ও ন্যায়ের মূল্য সবসময় বেশি।",
+  "themes": [
+    "ancestors",
+    "customs",
+    "truth-vs-tradition"
+  ],
+  "kinds": [
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Ibrahim challenged the worship performed by them and their earliest ancestors, exposing the falsehood of ancient custom.",
+      "claim_bn": "ইব্রাহীম বর্তমান ও অতীতের সকল বিভ্রান্তিকর মূর্তিপূজার অসারতা তুলে ধরলেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,89 @@
+{
+ "id": "42:26",
+ "simple_en": "Allah answers the prayers of those who have faith and do righteous deeds. He gives them even more than they asked from His vast grace. But those who reject faith will face a painful punishment.",
+ "simple_bn": "যারা ঈমান আনে এবং সৎকাজ করে, আল্লাহ তাদের ডাকে সাড়া দেন এবং নিজ অনুগ্রহে তাদের পুরস্কার বাড়িয়ে দেন। আর যারা সত্য প্রত্যাখ্যান করে, তাদের জন্য রয়েছে কঠিন শাস্তি।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "جوب",
+   "lemma": "اسْتَجابَ",
+   "meaning_en": "and He responds / answers",
+   "meaning_bn": "এবং তিনি সাড়া দেন",
+   "why_en": "Assures believers that Allah hears and answers their heartfelt prayers."
+  },
+  {
+   "pos": 5,
+   "root": "صلح",
+   "lemma": "صالِحَة",
+   "meaning_en": "the righteous deeds",
+   "meaning_bn": "সৎকাজসমূহ",
+   "why_en": "Links the acceptance of prayer to active obedience and good character."
+  },
+  {
+   "pos": 6,
+   "root": "زيد",
+   "lemma": "زادَ",
+   "meaning_en": "and He increases them",
+   "meaning_bn": "এবং তিনি তাদের বাড়িয়ে দেন",
+   "why_en": "Shows that Allah's generosity exceeds human expectations."
+  },
+  {
+   "pos": 8,
+   "root": "فضل",
+   "lemma": "فَضْل",
+   "meaning_en": "His bounty",
+   "meaning_bn": "তাঁর অনুগ্রহ",
+   "why_en": "Points to unearned divine blessings bestowed on faithful servants."
+  },
+  {
+   "pos": 11,
+   "root": "عذب",
+   "lemma": "عَذاب",
+   "meaning_en": "punishment",
+   "meaning_bn": "শাস্তি",
+   "why_en": "Contrasts the reward of believers with the penalty of persistent deniers."
+  }
+ ],
+ "lesson_en": "Faith and righteous deeds open the doors for prayers to be answered.",
+ "lesson_bn": "ঈমান ও সৎ আমল বান্দার দুআ কবুল হওয়ার পথ সুগম করে।",
+ "real_life_en": "When you pray to Allah, do so with certainty in your heart. Back your prayers with good deeds and honest work, knowing that Allah gives far more than we ask.",
+ "real_life_bn": "মনে দৃঢ় বিশ্বাস নিয়ে আল্লাহর কাছে দুআ করুন। দুআর সাথে সাথে নেক আমল বাড়িয়ে দিন, কারণ আল্লাহ বান্দার চাওয়ার চেয়েও অনেক বেশি দান করেন।",
+ "themes": [
+  "dua",
+  "faith",
+  "reward",
+  "punishment"
+ ],
+ "kinds": [
+  "promise",
+  "warning",
+  "dua"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Allah responds to believers who do righteous deeds, granting them extra from His bounty, while disbelievers have severe punishment.",
+   "claim_bn": "আল্লাহ নেককার মুমিনদের ডাকে সাড়া দেন এবং নিজ অনুগ্রহে আরও বাড়িয়ে দেন, আর কাফিরদের জন্য কঠিন শাস্তি রয়েছে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

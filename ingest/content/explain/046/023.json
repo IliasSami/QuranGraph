@@ -1,0 +1,76 @@
+{
+ "id": "46:23",
+ "simple_en": "Hud said: knowledge of when the punishment will strike is with Allah alone. My duty is only to convey to you the message I was sent with. But I see that you are a people acting with deep ignorance, demanding your own ruin.",
+ "simple_bn": "হূদ (আলাইহিস সালাম) বললেন: শাস্তি কখন আসবে সে জ্ঞান কেবল আল্লাহর কাছেই রয়েছে। আমাকে যে বার্তা দিয়ে পাঠানো হয়েছে, আমি কেবল তা তোমাদের কাছে পৌঁছে দিচ্ছি। কিন্তু আমি দেখছি তোমরা এমন এক জাতি যারা চরম অজ্ঞতার আচরণ করছ।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "علم",
+   "lemma": "عِلْم",
+   "meaning_en": "the knowledge",
+   "meaning_bn": "জ্ঞান",
+   "why_en": "Only Allah knows the exact time when punishment will arrive."
+  },
+  {
+   "pos": 6,
+   "root": "بلغ",
+   "lemma": "بَلَّغْ",
+   "meaning_en": "I convey to you",
+   "meaning_bn": "আমি তোমাদের কাছে পৌঁছে দিই",
+   "why_en": "The duty of the messenger is to deliver Allah's message faithfully."
+  },
+  {
+   "pos": 13,
+   "root": "جهل",
+   "lemma": "يَجْهَلُ",
+   "meaning_en": "behaving ignorantly",
+   "meaning_bn": "তোমরা অজ্ঞতা প্রকাশ করছ",
+   "why_en": "Asking to hasten punishment is pure foolishness and ignorance."
+  }
+ ],
+ "lesson_en": "A messenger delivers the truth with care, while judgment remains in Allah's hands.",
+ "lesson_bn": "রাসূলের দায়িত্ব সত্য পৌঁছে দেওয়া, আর শেষ বিচার ও ফয়সালা কেবল আল্লাহর হাতে।",
+ "real_life_en": "Do your duty with patience every single day. Teach good things and help those in need. Do not worry about results you cannot control, for Allah is in charge of all things.",
+ "real_life_bn": "জ্ঞানের কথা জানানো বা দায়িত্ব পালনের ক্ষেত্রে নিজের ভূমিকা নিষ্ঠার সাথে পালন করুন। ফলাফলের নিয়ন্ত্রণ মানুষের হাতে নেই, তাই চূড়ান্ত ফল আল্লাহর ওপর ছেড়ে দিন।",
+ "themes": [
+  "prophethood",
+  "knowledge",
+  "patience",
+  "ignorance"
+ ],
+ "kinds": [
+  "story",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "hud"
+  ],
+  "nations": [
+   "ad"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Prophet Hud explained that knowledge of punishment belongs to Allah alone, while he conveys the message to an ignorant people.",
+   "claim_bn": "নবী হূদ স্পষ্ট করেন যে শাস্তির সময় কেবল আল্লাহই জানেন এবং তিনি অজ্ঞ জাতিকে কেবল আল্লাহর বাণী পৌঁছে দেওয়ার দায়িত্ব পালন করছেন।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,105 @@
+{
+ "id": "4:23",
+ "simple_en": "Allah clearly lists the women you cannot marry. You cannot marry your mothers, daughters, sisters, aunts, or nieces. Foster mothers who nursed you and foster sisters are also forbidden. You cannot marry mothers-in-law, stepdaughters whose mothers you lived with as husband, or wives of your biological sons. Marrying two sisters at once is also unlawful. Past mistakes are forgiven.",
+ "simple_bn": "আল্লাহ স্পষ্ট করে জানিয়ে দিয়েছেন কাদের বিয়ে করা তোমাদের জন্য হারাম। তোমরা তোমাদের মা, মেয়ে, বোন, ফুফু, খালা এবং ভাই ও বোনের মেয়েদের বিয়ে করতে পারবে না। দুধমাতা ও দুধবোনদের বিয়ে করাও নিষিদ্ধ। একইভাবে শাশুড়ি, সহবাস করা স্ত্রীর পূর্বের ঘরের কন্যা এবং নিজের ঔরসজাত ছেলের স্ত্রীকে বিয়ে করা যাবে না। দুই বোনকে একসঙ্গে বিয়ে করাও হারাম। অতীতে যা ঘটে গেছে তা আল্লাহ ক্ষমা করে দিয়েছেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "حرم",
+   "lemma": "حَرَّمَ",
+   "meaning_en": "forbidden to you",
+   "meaning_bn": "তোমাদের জন্য হারাম করা হয়েছে",
+   "why_en": "Sets forth the permanent and temporary prohibitions regarding marriage."
+  },
+  {
+   "pos": 14,
+   "root": "رضع",
+   "lemma": "أَرْضَعَتْ",
+   "meaning_en": "foster nursing",
+   "meaning_bn": "দুধপান",
+   "why_en": "Establishes that nursing creates kinship ties that prohibit marriage like bloodlines do."
+  },
+  {
+   "pos": 20,
+   "root": "ربب",
+   "lemma": "رَبائِب",
+   "meaning_en": "your stepdaughters",
+   "meaning_bn": "তোমাদের সৎকন্যারা",
+   "why_en": "Specifies stepdaughters from consummated marriages who are under a man's care."
+  },
+  {
+   "pos": 41,
+   "root": "صلب",
+   "lemma": "صُلْب",
+   "meaning_en": "your biological loins",
+   "meaning_bn": "তোমাদের ঔরসজাত",
+   "why_en": "Clarifies that the prohibition applies to biological sons, not adopted ones."
+  }
+ ],
+ "lesson_en": "Respect marriage bounds set by Allah. They guard family trust and moral purity.",
+ "lesson_bn": "পারিবারিক সম্পর্কের পবিত্রতা রক্ষা করুন এবং কেবল আল্লাহর নির্ধারিত হালাল ক্ষেত্রেই বিবাহ সন্ধান করুন।",
+ "real_life_en": "Learn the rules of marriage in Islam before proposing. Never cross divine limits regarding family relations. Keeping clean boundaries protects the home from harm.",
+ "real_life_bn": "একটি পরিবার বিয়ের আলোচনার সময় জানতে পারে যে পাত্রের মা শৈশবে পাত্রীকে দুধ খাইয়েছিলেন। তারা বুঝতে পারে দুধপানের কারণে তারা পরস্পর ভাই-বোন হয়ে গেছে। ফলে আল্লাহর বিধানের প্রতি শ্রদ্ধা রেখে তারা প্রস্তাবটি বাদ দেয়।",
+ "context_en": "Follows the ban on marrying a father's wife by listing all prohibited categories by blood, nursing, and marriage.",
+ "context_bn": "পিতার স্ত্রীকে বিয়ে নিষিদ্ধ করার পর বংশগত, দুধপান ও বৈবাহিক সূত্রে হারাম নারীদের পূর্ণ তালিকা প্রদান।",
+ "themes": [
+  "marriage",
+  "family",
+  "justice",
+  "forgiveness"
+ ],
+ "kinds": [
+  "prohibition",
+  "law"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Seven categories of blood relatives are permanently prohibited for marriage: mothers, daughters, sisters, paternal aunts, maternal aunts, and nieces.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Foster mothers and foster sisters through nursing are prohibited for marriage just like blood relatives.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "In-law prohibitions include mothers-in-law, stepdaughters after consummation, and daughters-in-law of biological sons.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Combining two sisters in marriage simultaneously is forbidden, while past occurrences are forgiven.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

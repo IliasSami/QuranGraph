@@ -1,0 +1,82 @@
+{
+ "id": "5:70",
+ "simple_en": "Allah took a firm promise from the Children of Israel. He sent many messengers to guide them. Yet whenever a prophet brought rules they did not like, they grew angry. They called some prophets liars, and they killed other prophets.",
+ "simple_bn": "আল্লাহ বনী ইসরাঈলের কাছ থেকে আনুগত্যের দৃঢ় অঙ্গীকার নিয়েছিলেন এবং তাদের পথ দেখাতে বহু রাসূল পাঠিয়েছিলেন। কিন্তু যখনই কোনো রাসূল এমন বিধান নিয়ে আসতেন যা তাদের মনের মতো হতো না, তখনই তারা অবাধ্যতা প্রদর্শন করত। তারা নবীদের এক দলকে মিথ্যাবাদী বলেছিল এবং অন্য দলকে নির্মমভাবে হত্যা করেছিল।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "وثق",
+   "lemma": "مِيثاق",
+   "meaning_en": "covenant",
+   "meaning_bn": "অঙ্গীকার",
+   "why_en": "The solemn binding oath taken to worship Allah and obey His messengers."
+  },
+  {
+   "pos": 14,
+   "root": "هوي",
+   "lemma": "هَوَى",
+   "meaning_en": "desired / fancied",
+   "meaning_bn": "পছন্দ করত / কামনা করত",
+   "why_en": "Exposes how they subjected divine truth to their personal desires."
+  },
+  {
+   "pos": 19,
+   "root": "قتل",
+   "lemma": "قَتَلَ",
+   "meaning_en": "they kill",
+   "meaning_bn": "তারা হত্যা করত",
+   "why_en": "Highlights their extreme transgression in murdering innocent prophets."
+  }
+ ],
+ "lesson_en": "Follow the truth even when it goes against what your self wants.",
+ "lesson_bn": "নিজের খেয়ালখুশির অনুসারী না হয়ে আল্লাহর অবতীর্ণ বিধানের সামনে সম্পূর্ণ আত্মসমর্পণ করুন।",
+ "real_life_en": "When you learn a clear rule from the Quran or the Prophet ﷺ, accept it. Do not ignore the truth just because it is hard for you to change. True faith means putting Allah first.",
+ "real_life_bn": "কুরআন ও হাদিসের কোনো সহিহ বিধান নিজের পছন্দের বিপরীত হলেও তা সানন্দে মেনে নিন। নিজের সুবিধা বা লোভের কারণে দ্বীনি হুকুমকে উপেক্ষা করবেন না বা মনগড়া ব্যাখ্যা দাঁড় করাবেন না।",
+ "context_en": "Recalls how past generations broke their sacred pact with Allah by choosing their own desires over divine guidance.",
+ "context_bn": "পূর্ববর্তী জাতি কীভাবে নিজেদের খেয়ালখুশির পূজা করে নবীদের অস্বীকার ও হত্যা করার মাধ্যমে আল্লাহর সাথে কৃত অঙ্গীকার ভেঙেছিল, তা স্মরণ করিয়ে দেওয়া হয়েছে।",
+ "themes": [
+  "Children of Israel",
+  "stories of the prophets",
+  "past nations",
+  "prophethood",
+  "warning"
+ ],
+ "kinds": [
+  "story",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah took a firm covenant from the Children of Israel to worship Him and obey His messengers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Whenever prophets came with divine laws that conflicted with their personal desires, they rejected some prophets and killed others.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

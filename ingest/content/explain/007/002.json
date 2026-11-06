@@ -1,0 +1,86 @@
+{
+ "id": "7:2",
+ "simple_en": "Allah revealed this noble Book to the Prophet. He tells him not to feel any worry or doubt in his heart about it. He must share it without fear. The Quran came to warn those who reject the truth. It also serves as a gentle reminder of faith for all believers.",
+ "simple_bn": "আল্লাহ তাঁর রাসূলের প্রতি এই সম্মানিত কিতাব নাযিল করেছেন। তিনি তাঁকে নির্দেশ দিচ্ছেন যেন এটি প্রচারে অন্তরে কোনো ভয় বা দ্বিধা না রাখেন। এই কুরআন এসেছে সত্য অস্বীকারকারীদের সতর্ক করার জন্য। পাশাপাশি এটি বিশ্বাসীদের অন্তরে ঈমান ও নেক আমলের এক সুন্দর স্মারক।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "كتب",
+   "lemma": "كِتاب",
+   "meaning_en": "a Scripture / Book",
+   "meaning_bn": "একটি কিতাব",
+   "why_en": "Refers to the Quran sent down from Allah to guide humanity."
+  },
+  {
+   "pos": 8,
+   "root": "حرج",
+   "lemma": "حَرَج",
+   "meaning_en": "distress or doubt",
+   "meaning_bn": "সংকীর্ণতা বা সংশয়",
+   "why_en": "Instructs the Prophet not to feel anxious or hesitant in conveying the message."
+  },
+  {
+   "pos": 10,
+   "root": "نذر",
+   "lemma": "أَنذَرَ",
+   "meaning_en": "that you may warn",
+   "meaning_bn": "যাতে আপনি সতর্ক করেন",
+   "why_en": "Highlights the primary purpose of the revelation to admonish the heedless."
+  }
+ ],
+ "lesson_en": "Share the truth with confidence, and let the Quran guide your daily choices.",
+ "lesson_bn": "সত্য প্রচারে কোনো দ্বিধা রাখবেন না এবং কুরআন থেকে নিয়মিত উপদেশ গ্রহণ করুন।",
+ "real_life_en": "Never feel shy or anxious about following the Quran. When you share good values with friends, speak with kindness and courage. Let Allah's word bring peace to your heart.",
+ "real_life_bn": "দ্বীনের সঠিক কথা প্রকাশ করতে কখনো লজ্জা বা ভয় পাবেন না। পরিবার ও বন্ধুদের মাঝে কুরআন থেকে ভালো কথাগুলো সুন্দরভাবে তুলে ধরুন। আল্লাহর বাণীর মাধ্যমে নিজের অন্তরকে শান্ত রাখুন।",
+ "context_en": "Allah reassures the Prophet to convey the message firmly, comforting him against the stubbornness of his opponents.",
+ "context_bn": "রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে দৃঢ়তার সাথে দ্বীন প্রচারের নির্দেশ দিয়ে তাঁর অন্তরকে সান্ত্বনা দেওয়া হয়েছে।",
+ "themes": [
+  "the Quran",
+  "prophethood",
+  "warning",
+  "remembrance"
+ ],
+ "kinds": [
+  "command",
+  "glad-tidings",
+  "warning"
+ ],
+ "entities": {
+  "people": [
+   "the Prophet"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The Quran is revealed by Allah to the Prophet, and he is commanded to deliver it without distress or doubt.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "The purpose of the Quran is to warn the disbelievers and to serve as a reminder for the believers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

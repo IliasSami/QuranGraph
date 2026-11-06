@@ -1,0 +1,92 @@
+{
+ "id": "2:236",
+ "simple_en": "There is no blame on a man if he divorces his wife before the marriage is consummated and before fixing a dowry. In this case, she does not receive a set dowry, but he must give her a parting gift to comfort her heart. The wealthy man gives according to his riches, and the poor man gives according to his means. Providing this fair gift is a duty for those who wish to do good.",
+ "simple_bn": "স্ত্রীর সাথে সহবাসের পূর্বে এবং মোহরানা ধার্য করার আগেই যদি তোমরা তাকে তালাক দাও, তবে তাতে কোনো গুনাহ নেই। এই অবস্থায় তার জন্য কোনো নির্দিষ্ট মোহর নেই, তবে তার মনের সান্ত্বনার জন্য তাকে কিছু উপহার দেওয়া ওয়াজিব। যার সামর্থ্য বেশি সে তার সামর্থ্য অনুযায়ী দেবে, আর যার সামর্থ্য কম সে তার সঙ্গতি অনুযায়ী দেবে। ন্যায়সঙ্গতভাবে এই উপহার দেওয়া সৎকর্মশীলদের উপর একটি জরুরি কর্তব্য।",
+ "key_words": [
+  {
+   "pos": 13,
+   "root": "فرض",
+   "lemma": "فَرِيضَة",
+   "meaning_en": "a fixed dowry (obligation)",
+   "meaning_bn": "নির্ধারিত মোহর",
+   "why_en": "Refers to fixing a specific mandatory dowry at the time of the marriage contract."
+  },
+  {
+   "pos": 14,
+   "root": "متع",
+   "lemma": "مَتَّعْ",
+   "meaning_en": "provide them with a parting gift",
+   "meaning_bn": "উপহার দাও",
+   "why_en": "Commands providing a comforting parting gift (mut'ah) to ease the woman's heartache."
+  },
+  {
+   "pos": 16,
+   "root": "وسع",
+   "lemma": "مُوسِع",
+   "meaning_en": "the wealthy (one of ample means)",
+   "meaning_bn": "সচ্ছল (ধনী)",
+   "why_en": "Establishes that financial obligations are adjusted in proportion to a person's actual means."
+  }
+ ],
+ "lesson_en": "Show kindness by giving a fair gift when a marriage ends before starting.",
+ "lesson_bn": "সংসার শুরুর আগেই বিচ্ছেদ ঘটে গেলেও উদারতা দেখিয়ে সঙ্গতি অনুযায়ী উপহার দিয়ে সান্ত্বনা দিন।",
+ "real_life_en": "A wedding contract is signed, but the couple parts ways before moving in together or fixing a dowry. The man should not walk away leaving her empty-handed. He buys her a suitable gift, such as clothing or money, to soften the hurt.",
+ "real_life_bn": "বিয়ের আকদ হওয়ার পর কিন্তু সংসার শুরু বা মোহর নির্ধারণের আগেই কোনো কারণে বিচ্ছেদ ঘটে যেতে পারে। এমন ক্ষেত্রে পুরুষটির উচিত নয় নারীকে শূন্যহাতে ফিরিয়ে দেওয়া। তার মনের ক্ষতে প্রলেপ দিতে সাধ্যমতো পোশাক বা অর্থ উপহার হিসেবে প্রদান করা উচিত।",
+ "context_en": "Clarifies financial rights when divorce occurs before marital intimacy and before any dowry has been specified.",
+ "context_bn": "সহবাসের পূর্বে এবং মোহর ধার্য করার আগেই তালাক সংঘটিত হলে আর্থিক অধিকার কী হবে, তা পরিষ্কার করা হয়েছে।",
+ "themes": [
+  "marriage",
+  "charity",
+  "justice",
+  "wealth",
+  "ethics"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "ethics"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "It is permissible to divorce a wife prior to marital intimacy and before a dowry has been designated.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "A woman divorced before intimacy and without a designated dowry is entitled to a compensatory gift (mut'ah).",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "The amount of the gift is determined according to the husband's financial ease or hardship.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

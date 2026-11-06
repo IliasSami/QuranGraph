@@ -1,0 +1,63 @@
+{
+  "id": "17:9",
+  "simple_en": "This Quran guides to the path that is most upright and straight. It gives glad news to the believers who do good deeds that a great reward awaits them.",
+  "simple_bn": "নিশ্চয় এই কোরআন এমন এক পথের দিশা দেয় যা সবচেয়ে সঠিক ও সুদৃঢ়। আর এটি সেই মুমিনদের মহাপুরস্কারের সুসংবাদ দেয় যারা নেক আমল করে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "هدي",
+      "lemma": "هَدَى",
+      "meaning_en": "guides",
+      "meaning_bn": "হেদায়েত দেয়",
+      "why_en": "Directing hearts toward ultimate truth."
+    },
+    {
+      "pos": 7,
+      "root": "قوم",
+      "lemma": "أَقْوَم",
+      "meaning_en": "most upright",
+      "meaning_bn": "সবচেয়ে সঠিক ও দৃঢ়",
+      "why_en": "The superior balance and truth of Quranic law."
+    }
+  ],
+  "lesson_en": "The Quran is the best guide for life. It leads to peace and great reward from God.",
+  "lesson_bn": "কোরআন হলো জীবনের শ্রেষ্ঠতম পথপ্রদর্শক, যা মুমিনকে পার্থিব শান্তি ও পরকালীন সাফল্যের পথ দেখায়।",
+  "real_life_en": "Read the Quran when making major life choices. Its wisdom will keep your steps balanced and your goals clear.",
+  "real_life_bn": "জীবনের যেকোনো গুরুত্বপূর্ণ সিদ্ধান্তে কোরআনের শিক্ষা অনুসরণ করুন। এতে অন্তর শান্ত থাকবে এবং সঠিক পথ খুঁজে পাবেন।",
+  "themes": [
+    "quran",
+    "guidance",
+    "righteousness"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran guides to what is most upright and gives glad tidings of great reward to righteous believers.",
+      "claim_bn": "কোরআন সবচেয়ে সঠিক পথের দিশা দেয় এবং সৎকর্মশীল মুমিনদের মহাপুরস্কারের সুসংবাদ জানায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

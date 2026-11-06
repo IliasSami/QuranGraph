@@ -1,0 +1,98 @@
+{
+  "id": "12:59",
+  "simple_en": "Yusuf gave them full supplies of grain. Then he told them to bring their younger brother next time. He showed them that he gave honest measure and treated his guests with care.",
+  "simple_bn": "তাদের প্রয়োজনীয় খাদ্যশস্য পুরোপুরি মেপে দেওয়ার পর ইউসুফ নির্দেশ দিলেন, পরবর্তী সফরে তাদের সৎ ভাইকে যেন সঙ্গে আনে। তিনি দেখিয়ে দিলেন যে তিনি পরিমাপে কম দেননি এবং তিনি অতি উত্তম মেহমানদার।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جهز",
+      "lemma": "جَهَّزَ",
+      "meaning_en": "he furnished them",
+      "meaning_bn": "তিনি তাদের প্রস্তুত করে দিলেন",
+      "why_en": "Equipping them with food provisions and travel supplies."
+    },
+    {
+      "pos": 6,
+      "root": "أخو",
+      "lemma": "أَخ",
+      "meaning_en": "a brother",
+      "meaning_bn": "একজন ভাই",
+      "why_en": "Benjamin, Yusuf’s full brother, left behind with Yaqub."
+    },
+    {
+      "pos": 13,
+      "root": "وفي",
+      "lemma": "أَوْفَى",
+      "meaning_en": "I give full measure",
+      "meaning_bn": "আমি পুরোপুরি মেপে দিই",
+      "why_en": "Highlighting his honesty and strict adherence to fair trade."
+    },
+    {
+      "pos": 17,
+      "root": "نزل",
+      "lemma": "مُنزِل",
+      "meaning_en": "hosts",
+      "meaning_bn": "মেহমানদার বা আশ্রয়দাতা",
+      "why_en": "Providing noble hospitality to foreign travelers in need."
+    }
+  ],
+  "lesson_en": "Fair dealing and good hosting build trust and bring people closer together.",
+  "lesson_bn": "সততা ও উত্তম আতিথেয়তার মাধ্যমে মানুষের আস্থা অর্জন করা যায় এবং সম্পর্ক মধুর হয়।",
+  "real_life_en": "A shopkeeper gives full bags of rice and welcomes foreign buyers with tea. Their honest scales and good manners make customers return happily.",
+  "real_life_bn": "একজন দোকানদার ওজনে সঠিক দেন এবং ক্রেতাদের সাথে হাসিমুখে কথা বলেন। তাঁর এই বিশ্বস্ততায় মুগ্ধ হয়ে ক্রেতারা বারবার তাঁর কাছেই ফিরে আসেন।",
+  "context_en": "Yusuf treated his brothers generously and set a condition for their return to test and reunite his family.",
+  "context_bn": "ইউসুফ তাঁর ভাইদের উদারভাবে আতিথেয়তা দিলেন এবং পরিবারকে আবার একত্রিত করার জন্য এক শর্ত রাখলেন।",
+  "themes": [
+    "hospitality",
+    "justice in trade",
+    "family reunion"
+  ],
+  "kinds": [
+    "story",
+    "ethics",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "brothers of Yusuf",
+      "Benjamin",
+      "Yaqub"
+    ],
+    "nations": [
+      "Children of Israel",
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "grain",
+      "supplies"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Yusuf gave them full grain supplies and asked them to bring their brother from their father next time.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He highlighted that he gave full measure and was the best of hosts.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

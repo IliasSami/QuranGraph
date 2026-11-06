@@ -1,0 +1,71 @@
+{
+  "id": "37:85",
+  "simple_en": "Abraham confronted his father and his people with courage and clarity. He asked them, 'What are these things that you are worshipping?' He wanted to make them think deeply about whether carved stone deserved devotion.",
+  "simple_bn": "ইবরাহীম তাঁর পিতা ও সম্প্রদায়কে সাহসিকতা ও দূরদর্শিতার সাথে প্রশ্ন করেছিলেন, 'তোমরা এগুলো কীসের পূজা করছ?' তিনি তাদের বিবেককে জাগ্রত করতে চেয়েছিলেন যেন তারা পাথরের মূর্তির অসারতা বুঝতে পারে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أبو",
+      "lemma": "أَب",
+      "meaning_en": "his father",
+      "meaning_bn": "তাঁর পিতা",
+      "why_en": "Highlights his gentle yet firm approach in calling even his closest family to truth."
+    },
+    {
+      "pos": 4,
+      "root": "قوم",
+      "lemma": "قَوْم",
+      "meaning_en": "his people",
+      "meaning_bn": "তাঁর সম্প্রদায়",
+      "why_en": "The idolatrous society that blindly followed inherited polytheistic practices."
+    },
+    {
+      "pos": 6,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "you worship",
+      "meaning_bn": "তোমরা ইবাদত করো",
+      "why_en": "Direct challenge against giving divine worship to helpless creations."
+    }
+  ],
+  "lesson_en": "Ask thoughtful questions with care. Calm words can help people see their errors.",
+  "lesson_bn": "ভদ্রভাবে চিন্তাশীল প্রশ্ন করলে তা মানুষের বিবেককে নাড়া দেয় এবং সত্য বুঝতে সাহায্য করে।",
+  "real_life_en": "When you discuss faith with others, stay polite. Ask gentle questions to help them think instead of arguing.",
+  "real_life_bn": "মানুষের সাথে দ্বীন নিয়ে কথা বলার সময় শান্ত থাকুন। তর্কে না জড়িয়ে নম্রভাবে ভাবিয়ে তোলার চেষ্টা করুন।",
+  "themes": [
+    "stories of the prophets",
+    "tawhid",
+    "reflection"
+  ],
+  "kinds": [
+    "story",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Abraham questioned his father and his people, challenging their worship of powerless idols instead of Allah.",
+      "claim_bn": "ইবরাহীম তাঁর পিতা ও সম্প্রদায়কে জিজ্ঞাসা করেছিলেন যে তারা আল্লাহর পরিবর্তে কিসের ইবাদত করছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

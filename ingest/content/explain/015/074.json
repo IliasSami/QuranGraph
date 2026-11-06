@@ -1,0 +1,80 @@
+{
+  "id": "15:74",
+  "simple_en": "We turned the city upside down and rained down stones of baked clay upon them. The land of wickedness was thoroughly shattered by divine decree.",
+  "simple_bn": "আমরা সেই পাপিষ্ঠ জনপদকে উল্টে দিয়ে উপর-নিচ করে দিলাম এবং তাদের ওপর পোড়ামাটির শক্ত পাথর বর্ষণ করলাম। আল্লাহর আদেশে তাদের পুরো বসতি মাটির সাথে মিশে গেল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "علو",
+      "lemma": "عالِي",
+      "meaning_en": "its highest",
+      "meaning_bn": "তার ওপরের অংশ",
+      "why_en": "The upper level of the town."
+    },
+    {
+      "pos": 3,
+      "root": "سفل",
+      "lemma": "سافِل",
+      "meaning_en": "its lowest",
+      "meaning_bn": "তার নিচের অংশ",
+      "why_en": "Inverting the entire settlement."
+    },
+    {
+      "pos": 4,
+      "root": "مطر",
+      "lemma": "أُمْطِرَتْ",
+      "meaning_en": "and We rained",
+      "meaning_bn": "এবং আমরা বর্ষণ করলাম",
+      "why_en": "Raining down clay stones."
+    },
+    {
+      "pos": 6,
+      "root": "حجر",
+      "lemma": "حِجارَة",
+      "meaning_en": "stones",
+      "meaning_bn": "পাথরসমূহ",
+      "why_en": "Baked clay missiles."
+    }
+  ],
+  "lesson_en": "Extreme evil leads to complete ruin. Stay far from actions that bring down the anger of Allah.",
+  "lesson_bn": "চরম পাপের শেষ পরিণতি হলো সম্পূর্ণ ধ্বংস। এমন সব কাজ থেকে দূরে থাকুন যা আল্লাহর ক্রোধ ডেকে আনে।",
+  "real_life_en": "An old house used for illegal games falls down in a storm. Only broken bricks remain. Things built on wrong ways never last long.",
+  "real_life_bn": "অসৎ কাজে ব্যবহৃত একটি পুরোনো ঘর ঝড়ের মুখে ধসে মাটির সাথে মিশে যায়। পাপের ওপর প্রতিষ্ঠিত কোনো জিনিসই দীর্ঘস্থায়ী হয় না।",
+  "context_en": "The total physical overturning of Sodom and the rain of hard baked stones upon its sinful residents.",
+  "context_bn": "লূতের কওমের জনপদকে উল্টে দেওয়া এবং পোড়ামাটির পাথর নিক্ষেপ করে ধ্বংস করার ঐশী বিবরণ।",
+  "themes": [
+    "punishment",
+    "justice",
+    "history"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "places": [
+      "Sodom"
+    ],
+    "people": [
+      "Lot"
+    ],
+    "unseen": [],
+    "nations": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah inverted the city and rained upon its sinful inhabitants stones of baked clay.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,79 @@
+{
+  "id": "63:4",
+  "simple_en": "When you look at the hypocrites, their fine looks and smart clothes impress you. When they speak, their smooth words catch your ear. Yet inside, they are hollow like wooden logs leaned against a wall. Because they are cowards, they think every loud shout is an attack against them. They are the real enemy, so beware of them.",
+  "simple_bn": "আপনি যখন মুনাফিকদের দেখেন, তখন তাদের বাহ্যিক রূপ ও বেশভূষা আপনাকে মুগ্ধ করে। আর তারা কথা বললে তাদের সুন্দর বক্তব্যের প্রতি আপনি কান পেতে শোনেন। অথচ অন্তরে তারা দেয়ালে ঠেকিয়ে রাখা প্রাণহীন কাঠের গুঁড়ির মতো ফাঁপা। ভীরুতার কারণে প্রতিটি চিৎকারকেই তারা নিজেদের বিরুদ্ধে মনে করে। তারাই আসল শত্রু, অতএব তাদের ব্যাপারে সতর্ক থাকুন।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "جسم",
+      "lemma": "جِسْم",
+      "meaning_en": "their outward forms and bodies",
+      "meaning_bn": "তাদের শরীর ও রূপ-সৌন্দর্য",
+      "why_en": "Their attractive physical looks and luxurious dress."
+    },
+    {
+      "pos": 10,
+      "root": "خشب",
+      "lemma": "خُشُب",
+      "meaning_en": "blocks of wood and timber",
+      "meaning_bn": "কাঠের গুঁড়ি",
+      "why_en": "Metaphor for bodies devoid of faith, spirit, and real courage."
+    },
+    {
+      "pos": 11,
+      "root": "سند",
+      "lemma": "مُسَنَّدَة",
+      "meaning_en": "propped up against a wall",
+      "meaning_bn": "দেয়ালে ঠেকিয়ে রাখা",
+      "why_en": "Lifeless timbers that have no internal strength to stand on their own."
+    },
+    {
+      "pos": 18,
+      "root": "حذر",
+      "lemma": "يَحْذَرُ",
+      "meaning_en": "so beware of them",
+      "meaning_bn": "অতএব তাদের ব্যাপারে সতর্ক থাকুন",
+      "why_en": "Warning to stay vigilant against their hidden sabotage and plots."
+    }
+  ],
+  "lesson_en": "Do not be tricked by smooth talk and fine looks. True worth lies in sincere faith and character.",
+  "lesson_bn": "মুখের মিষ্টি কথা বা চটকদার রূপ দেখে বিভ্রান্ত হওয়া অনুচিত, মানুষের আসল সৌন্দর্য তার অন্তরের সততায়।",
+  "real_life_en": "A painted dummy in a shop looks like a real person, but it cannot move or help anyone. It is only hollow plastic. In the same way, an impressive speaker without honest faith brings no real benefit to the community.",
+  "real_life_bn": "চকচক করলেই যেমন সোনা হয় না, তেমনি চটকদার পোশাক বা সুন্দর কথার মানুষ সবসময় নির্ভরযোগ্য হয় না। মানুষের কাজের সততা ও নৈতিক চরিত্র দেখেই তাকে মূল্যায়ন করা উচিত।",
+  "themes": [
+    "impressive appearance of hypocrites",
+    "hollow inside like propped-up timbers",
+    "inner cowardice and paranoia",
+    "beware of internal enemies"
+  ],
+  "kinds": [
+    "warning",
+    "parable",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The hypocrites impress by their outward appearance and speech, but inwardly they are hollow like propped timbers and live in constant fear; they are the true enemy to beware of.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

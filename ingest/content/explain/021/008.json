@@ -1,0 +1,61 @@
+{
+  "id": "21:8",
+  "simple_en": "We did not give the prophets bodies that did not need food. They ate like other people. Nor were they made to live forever on earth.",
+  "simple_bn": "আমি তাঁদের এমন দেহ বিশিষ্ট বানাইনি যা খাবার খায় না। তাঁরা অন্যদের মতোই আহার করতেন এবং পৃথিবীতে কেউই চিরস্থায়ী ছিলেন না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "جسد",
+      "lemma": "جَسَد",
+      "meaning_en": "a body",
+      "meaning_bn": "দেহ বা শরীর",
+      "why_en": "Physical human constitution of prophets."
+    },
+    {
+      "pos": 6,
+      "root": "طعم",
+      "lemma": "طَعام",
+      "meaning_en": "food",
+      "meaning_bn": "খাদ্য বা আহার",
+      "why_en": "Universal biological need shared by prophets."
+    }
+  ],
+  "lesson_en": "Prophets lived as mortal human beings. Their shared human nature makes them perfect role models for us.",
+  "lesson_bn": "নবীগণ সাধারণ মানুষের মতোই জীবন যাপন করতেন। তাঁদের এই মানবীয় বৈশিষ্ট্যই আমাদের জন্য সেরা আদর্শ।",
+  "real_life_en": "Follow the practical examples of the prophets. They ate, worked, and walked among people while maintaining deep faith.",
+  "real_life_bn": "নবীর বাস্তব জীবনের অনুকরণ করুন। তিনি সাধারণ মানুষের মতোই খাবার খেতেন ও পরিশ্রম করতেন কিন্তু আল্লাহর অনুগত থাকতেন।",
+  "themes": [
+    "humanity-of-prophets",
+    "mortality",
+    "role-models"
+  ],
+  "kinds": [
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Prophets were human beings who ate food to sustain life and were subject to natural mortality.",
+      "claim_bn": "রাসূলগণ আহার গ্রহণ করতেন এবং মানুষের ন্যায় তাঁদের পার্থিব জীবনও মরণশীল ছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

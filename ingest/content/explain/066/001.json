@@ -1,0 +1,74 @@
+{
+  "id": "66:1",
+  "simple_en": "O Prophet, why do you make unlawful for yourself what Allah has made lawful, seeking to please your wives? Allah does not obligate you to deny yourself what He permitted. Allah is most Forgiving and deeply Merciful.",
+  "simple_bn": "হে নবী, আপনি নিজের স্ত্রীদের সন্তুষ্টি লাভের জন্য কেন এমন বিষয় নিজের ওপর নিষিদ্ধ করছেন, যা আল্লাহ আপনার জন্য হালাল করেছেন? আল্লাহ আপনাকে এমন ত্যাগ স্বীকারের নির্দেশ দেননি। বস্তুত আল্লাহ পরম ক্ষমাশীল ও পরম দয়ালু।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "حرم",
+      "lemma": "حَرَّمَ",
+      "meaning_en": "you make unlawful",
+      "meaning_bn": "আপনি নিষিদ্ধ করছেন",
+      "why_en": "Addresses self-imposed deprivation of things God made permissible."
+    },
+    {
+      "pos": 6,
+      "root": "حلل",
+      "lemma": "أَحَلَّ",
+      "meaning_en": "He made lawful",
+      "meaning_bn": "তিনি হালাল করেছেন",
+      "why_en": "Affirms that only Allah has the right to declare what is lawful."
+    },
+    {
+      "pos": 10,
+      "root": "رضو",
+      "lemma": "مَرْضات",
+      "meaning_en": "pleasure and approval",
+      "meaning_bn": "সন্তুষ্টি",
+      "why_en": "Identifies the human motive of pleasing loved ones that led to the vow."
+    }
+  ],
+  "lesson_en": "Never declare unlawful what God made lawful, even if you wish to please those you love.",
+  "lesson_bn": "প্রিয়জনকে খুশি করার উদ্দেশ্যেও কোনো হালাল বিষয়কে নিজের জন্য নিষিদ্ধ বা হারাম ঘোষণা করা উচিত নয়।",
+  "real_life_en": "A husband loves his family and wants to avoid arguments. When his relatives dislike a wholesome food or a lawful job, he feels like swearing never to touch it again. Instead, he stays balanced. He enjoys what God made lawful without letting pressure force him into harsh vows.",
+  "real_life_bn": "পরিবার বা বন্ধুদের চাপে পড়ে কোনো বৈধ কাজ বা হালাল খাবার চিরতরে বর্জন করার শপথ নেওয়া সমীচীন নয়। ভারসাম্য বজায় রেখে আল্লাহর হালাল করা নিয়ামতের শুকরিয়া আদায় করাই সঠিক পথ।",
+  "themes": [
+    "lawful and unlawful",
+    "marital harmony",
+    "forgiveness"
+  ],
+  "kinds": [
+    "command",
+    "prohibition",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-ghafur",
+      "ar-rahim"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Prophet is gently reproached for making unlawful upon himself what Allah made lawful in order to please his wives, and Allah is Forgiving and Merciful.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

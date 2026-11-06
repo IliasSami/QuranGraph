@@ -1,0 +1,63 @@
+{
+  "id": "56:54",
+  "simple_en": "After eating that bitter food, they will drink boiling water. The water will be intensely hot and scalding. Instead of quenching their burning thirst, it will burn their lips and stomach.",
+  "simple_bn": "সেই তিক্ত ফল খাওয়ার পর তারা তার ওপর প্রচণ্ড ফুটন্ত পানি পান করবে। সেই পানি হবে অত্যন্ত উত্তপ্ত ও ফুটন্ত। তা তাদের তৃষ্ণা মেটানোর বদলে ঠোঁট ও পেটকে দগ্ধ করে ফেলবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "شرب",
+      "lemma": "شارِب",
+      "meaning_en": "drinking",
+      "meaning_bn": "পানকারী",
+      "why_en": "Depicts their desperate attempt to drink to cool their mouths."
+    },
+    {
+      "pos": 4,
+      "root": "حمم",
+      "lemma": "حَمِيم",
+      "meaning_en": "boiling water",
+      "meaning_bn": "ফুটন্ত পানি",
+      "why_en": "Specifies scalding liquid heated to the highest degree in Hell."
+    }
+  ],
+  "lesson_en": "Thank Allah every day for the gift of clean water.",
+  "lesson_bn": "প্রতিদিন ঠাণ্ডা ও সুমিষ্ট পানির নেয়ামত স্মরণ করে আল্লাহর শুকরিয়া আদায় করুন।",
+  "real_life_en": "On a hot day, a thirsty man drinks a cup of cool water. He feels glad. A believer thanks Allah and asks Him to save him from the fire of Hell.",
+  "real_life_bn": "তপ্ত দুপুরে এক গ্লাস ঠাণ্ডা পানি পান করে মানুষ পরম তৃপ্তি পায়। একজন মুমিন আলহামদুলিল্লাহ পড়ে আল্লাহর শুকরিয়া জানায় এবং পরকালের ফুটন্ত পানীয় থেকে মুক্তি কামনা করে।",
+  "themes": [
+    "Hell",
+    "gratitude",
+    "punishment"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They will drink boiling, scalding water on top of the bitter food of Zaqqum.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

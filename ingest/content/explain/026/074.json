@@ -1,0 +1,63 @@
+{
+  "id": "26:74",
+  "simple_en": "They had no real answer to his words. They said only that they found their fathers doing the same thing. They just copied the past without thinking.",
+  "simple_bn": "কোনো যুক্তি খুঁজে না পেয়ে তারা বলল যে তাদের বাপ-দাদাকে তারা এভাবে পূজা করতে দেখেছে। তারা কেবল পূর্বপুরুষদের অন্ধ অনুকরণ করছিল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "وجد",
+      "lemma": "وَجَدَ",
+      "meaning_en": "we found",
+      "meaning_bn": "আমরা পেয়েছি",
+      "why_en": "The idolaters admitted their only justification was finding ancient practice."
+    },
+    {
+      "pos": 4,
+      "root": "أبو",
+      "lemma": "آباء",
+      "meaning_en": "our forefathers",
+      "meaning_bn": "আমাদের পিতৃপুরুষদের",
+      "why_en": "Blind adherence to ancestors replaced reason and proof."
+    }
+  ],
+  "lesson_en": "Blindly following custom is dangerous. We must look for proof before we follow old ways.",
+  "lesson_bn": "প্রমাণের অভাব হলে মানুষ ঐতিহ্যের দোহাই দিয়ে ভুলকে ঢাকতে চায়। পূর্বপুরুষদের অন্ধ অনুসরণ সত্য গ্রহণ থেকে মানুষকে বিরত রাখে।",
+  "real_life_en": "Do not follow old habits just because your elders did. If a custom goes against God's law, choose the truth instead.",
+  "real_life_bn": "পরিবারের প্রাচীন কোনো প্রথা যদি সত্যের বিপরীত হয় তবে তা ত্যাগ করুন। সমাজ যা করে তা অন্ধভাবে না মেনে সঠিক পথ বেছে নিন।",
+  "themes": [
+    "blind-following",
+    "tradition",
+    "ancestors"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Lacking proof, the idolaters conceded that they merely imitated the ancestral practices of their fathers.",
+      "claim_bn": "প্রমাণের অভাবে তারা স্বীকার করল যে তারা কেবল বাপ-দাদাদের অন্ধ অনুকরণ করছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

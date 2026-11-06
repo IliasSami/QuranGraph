@@ -1,0 +1,86 @@
+{
+  "id": "6:90",
+  "simple_en": "Those were the noble prophets whom Allah guided. Follow their shining example of patience and pure devotion. Tell the people that you ask for no money or reward for sharing this message. The Quran is simply a reminder for everyone on earth to find their Lord.",
+  "simple_bn": "এঁরাই ছিলেন সেই পথপ্রদর্শক নবীগণ, যাঁদের আল্লাহ হিদায়াত দিয়েছেন। তাঁদের ধৈর্য ও একনিষ্ঠতার আদর্শ অনুসরণ করুন। মানুষকে জানিয়ে দিন যে, এই বাণী পৌঁছে দেওয়ার বিনিময়ে আপনি কোনো অর্থ বা পার্থিব প্রতিদান চান না। এই কুরআন হলো বিশ্বের সকল মানুষের জন্য এক মূল্যবান উপদেশ।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "قدو",
+      "lemma": "اقْتَدِهْ",
+      "meaning_en": "follow / take example",
+      "meaning_bn": "অনুসরণ করো",
+      "why_en": "Commands the Prophet and believers to follow the guidance of earlier messengers."
+    },
+    {
+      "pos": 11,
+      "root": "أجر",
+      "lemma": "أَجْر",
+      "meaning_en": "payment / reward",
+      "meaning_bn": "পারিশ্রমিক বা বিনিময়",
+      "why_en": "Emphasizes that preaching the message is done purely for Allah without worldly charges."
+    },
+    {
+      "pos": 15,
+      "root": "ذكر",
+      "lemma": "ذِكْرَى",
+      "meaning_en": "a reminder",
+      "meaning_bn": "একটি উপদেশ",
+      "why_en": "Describes the Quran as a universal reminder for all people."
+    }
+  ],
+  "lesson_en": "Follow the noble prophets. Teach the truth with a pure heart and ask for no payment.",
+  "lesson_bn": "নবীদের আদর্শ অনুসরণ করুন এবং পার্থিব স্বার্থ ছাড়া নিঃস্বার্থভাবে সত্যের প্রচার করুন।",
+  "real_life_en": "When you help others learn about good values, do it with a pure heart. Do not look for praise or financial gain. True service to humanity seeks only the pleasure of Allah.",
+  "real_life_bn": "অন্যকে ভালো কাজের দাওয়াত দেওয়ার সময় নিয়ত পরিষ্কার রাখুন। প্রশংসা বা পার্থিব লাভের আশা করবেন না। নিঃস্বার্থভাবে ভালো কাজ করাই আল্লাহর সন্তুষ্টি অর্জনের শ্রেষ্ঠ উপায়।",
+  "context_en": "Commands the Prophet to follow the guidance of past prophets and preach without seeking reward.",
+  "context_bn": "পূর্ববর্তী নবীগণের আদর্শ অনুসরণ এবং নিঃস্বার্থভাবে সত্য প্রচারের নির্দেশ দেওয়া হয়েছে।",
+  "themes": [
+    "prophets",
+    "guidance",
+    "sincerity",
+    "reminder",
+    "Quran"
+  ],
+  "kinds": [
+    "command",
+    "ethics",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Lord"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Prophet is commanded to follow the guidance of the earlier noble messengers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "The message of the Quran is a reminder for all creation, delivered without asking for any worldly wage.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "6:32",
+  "simple_en": "This worldly life is only fleeting play and passing amusement. Its pleasures fade away quickly. The home of the Hereafter is far better and everlasting for those who fear Allah and do good. Will you not use your intellect to see which life is truly worth your effort?",
+  "simple_bn": "পার্থিব জীবন তো ক্ষণস্থায়ী খেলাধুলা ও অনর্থক তামাশা ছাড়া আর কিছুই নয়। যারা আল্লাহকে ভয় করে এবং সৎপথে চলে, তাদের জন্য পরকালের আবাস অনেক বেশি উত্তম ও চিরস্থায়ী। তোমরা কি বিবেক-বুদ্ধি খাটিয়ে এই সহজ সত্যটি উপলব্ধি করবে না?",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "لعب",
+      "lemma": "لَعِب",
+      "meaning_en": "play or amusement",
+      "meaning_bn": "খেলাধুলা",
+      "why_en": "Characterizes the fleeting and empty nature of worldly pursuits."
+    },
+    {
+      "pos": 11,
+      "root": "وقي",
+      "lemma": "اتَّقَى",
+      "meaning_en": "are mindful of Allah",
+      "meaning_bn": "তাকওয়া অবলম্বন করে",
+      "why_en": "Specifies that the eternal reward of the Hereafter belongs to the God-conscious."
+    },
+    {
+      "pos": 13,
+      "root": "عقل",
+      "lemma": "عَقَلُ",
+      "meaning_en": "do you use reason?",
+      "meaning_bn": "তোমরা কি উপলব্ধি করবে না?",
+      "why_en": "Appeals to sound intellect to choose eternal gain over temporary distraction."
+    }
+  ],
+  "lesson_en": "This life is short and passing. Work for the lasting peace of the world to come.",
+  "lesson_bn": "পার্থিব জীবন ক্ষণস্থায়ী, তাই পরকালের চিরন্তন কল্যাণের জন্য সৎকাজে আত্মনিয়োগ করা বুদ্ধিমানের কাজ।",
+  "real_life_en": "A young man spends all his time chasing online fame. Soon years pass, leaving him feeling empty inside. Use your time to pray, help others, and earn lasting good deeds for the next life.",
+  "real_life_bn": "সামাজিক যোগাযোগমাধ্যমে জনপ্রিয়তার পেছনে দিনরাত সময় কাটালে একসময় অন্তরে গভীর শূন্যতা তৈরি হয়। সময়ের সঠিক ব্যবহার করে আল্লাহর সন্তুষ্টি ও মানুষের সেবায় কাজ করলেই পরকালের জন্য স্থায়ী পুণ্য অর্জন সম্ভব।",
+  "context_en": "Contrasts the fleeting distractions of worldly life with the lasting rewards of the Hereafter.",
+  "context_bn": "পার্থিব জীবনের অনিত্যতা এবং মুত্তাকীদের জন্য আখিরাতের চিরস্থায়ী মর্যাদার তুলনা করা হয়েছে।",
+  "themes": [
+    "worldly-life",
+    "hereafter",
+    "taqwa",
+    "wisdom"
+  ],
+  "kinds": [
+    "argument",
+    "ethics",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "the Hereafter"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Worldly life is merely fleeting play and diversion compared to the permanent bliss of the Hereafter.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "The eternal abode of the Afterlife is superior for those who practice piety and avoid disobedience.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": "68:23",
+  "simple_en": "So they walked out quietly, whispering to each other along the road. They took great care so that no poor person would hear them or follow them.",
+  "simple_bn": "অতঃপর তারা ফিসফিস করে কথা বলতে বলতে রওয়ানা হলো, যেন কোনো গরিব মানুষ তাদের টের না পায়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "طلق",
+      "lemma": "انطَلَقَ",
+      "meaning_en": "they set off",
+      "meaning_bn": "তারা রওয়ানা হলো",
+      "why_en": "Describes their stealthy march toward the garden."
+    },
+    {
+      "pos": 3,
+      "root": "خفت",
+      "lemma": "يَتَخافَتُ",
+      "meaning_en": "whispering quietly",
+      "meaning_bn": "ফিসফিস করে কথা বলতে বলতে",
+      "why_en": "Exposes their secrecy so that no needy person would notice them."
+    }
+  ],
+  "lesson_en": "Secrecy used to deprive the poor is a sign of a hardened heart.",
+  "lesson_bn": "অভাবীকে বঞ্চিত করতে গোপনে ফন্দি আঁটা অন্তর কঠোর হওয়ার প্রমাণ।",
+  "real_life_en": "Some workers plan a party in secret to avoid sharing food with the office cleaner. Their whispering hurts his feelings. True kindness means sharing with all.",
+  "real_life_bn": "গরিব বা অসহায় মানুষকে বাদ দিয়ে গোপনে কোনো সুবিধা ভোগের চেষ্টা করা নীচ মানসিকতার পরিচয়। মুমিনের মন হবে সবার জন্য উদার।",
+  "themes": [
+    "greed",
+    "charity",
+    "ethics"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They went out whispering in secret to conceal their harvest from the needy.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

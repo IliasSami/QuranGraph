@@ -1,0 +1,96 @@
+{
+ "id": "5:23",
+ "simple_en": "Two righteous men who feared Allah urged the people to move forward. Allah had blessed both of them with strong faith and courage. They told the people to march through the city gate. If they took the first step, Allah would grant them victory. They reminded them to place their full trust in Allah alone.",
+ "simple_bn": "আল্লাহভীরু দুজন ব্যক্তি, যাদের প্রতি আল্লাহ ঈমান ও সাহসের বিশেষ নিয়ামত দিয়েছিলেন, মানুষকে এগিয়ে যাওয়ার তাগিদ দিলেন। তারা বললেন, তোমরা শহরের প্রধান ফটক দিয়ে প্রবেশ করো। তোমরা ভেতরে ঢুকলেই আল্লাহর সাহায্যে জয়ী হবে। তারা সম্প্রদায়কে স্মরণ করিয়ে দিলেন যে, যদি তোমরা সত্যিকারের মুমিন হও তবে কেবল আল্লাহর ওপরই ভরসা রাখো।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "خوف",
+   "lemma": "خافَ",
+   "meaning_en": "they feared [Allah]",
+   "meaning_bn": "তারা ভয় করত",
+   "why_en": "Shows that reverence for Allah removes the fear of human tyrants."
+  },
+  {
+   "pos": 6,
+   "root": "نعم",
+   "lemma": "أَنْعَمَ",
+   "meaning_en": "He favored / blessed",
+   "meaning_bn": "অনুগ্রহ করেছিলেন",
+   "why_en": "Points to Allah's gift of courage, insight, and strong faith."
+  },
+  {
+   "pos": 15,
+   "root": "غلب",
+   "lemma": "غالِب",
+   "meaning_en": "victorious / predominant",
+   "meaning_bn": "বিজয় লাভকারী",
+   "why_en": "Assures them that taking action with trust in Allah brings victory."
+  },
+  {
+   "pos": 18,
+   "root": "وكل",
+   "lemma": "تَوَكَّلْ",
+   "meaning_en": "put your trust",
+   "meaning_bn": "ভরসা করো",
+   "why_en": "Commands relying upon Allah as a core requirement of true faith."
+  }
+ ],
+ "lesson_en": "Take the right practical steps and place your full trust in Allah for success.",
+ "lesson_bn": "সঠিক পদক্ষেপ গ্রহণ করুন এবং চূড়ান্ত ফলাফলের জন্য একমাত্র আল্লাহর ওপর তাওয়াক্কুল করুন।",
+ "real_life_en": "A small team faces a daunting task that seems impossible. Instead of giving up in despair, two leaders encourage the rest to begin with a clear plan. They trust Allah and find that taking action removes their fear.",
+ "real_life_bn": "একটি দল বড় চ্যালেঞ্জের মুখে পড়ে হতাশ হয়ে পড়ে। তখন দুজন সদস্য সবাইকে সাহস দিয়ে কাজ শুরু করতে বলে। তারা আল্লাহর ওপর ভরসা রেখে প্রথম কদম বাড়ায় এবং তাদের ভয় কেটে যায়।",
+ "context_en": "Contrasts the cowardly refusal of the crowd with the brave counsel of two faithful leaders.",
+ "context_bn": "অধিকাংশ লোকের ভীরুতার বিপরীতে দুজন বিশ্বাসী ব্যক্তির সৎপরামর্শ ও সাহসিকতার বর্ণনা।",
+ "themes": [
+  "trust in Allah",
+  "faith",
+  "patience",
+  "guidance",
+  "stories of the prophets"
+ ],
+ "kinds": [
+  "command",
+  "ethics",
+  "story"
+ ],
+ "entities": {
+  "people": [
+   "Joshua",
+   "Caleb"
+  ],
+  "nations": [
+   "Children of Israel"
+  ],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Two God-fearing men whom Allah blessed with faith urged the people to enter the gate against their foes.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "They explained that taking the initiative and trusting in Allah would grant them victory.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "interfaith",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

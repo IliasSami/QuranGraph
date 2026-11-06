@@ -1,0 +1,80 @@
+{
+  "id": "39:28",
+  "simple_en": "Allah sent down this Quran in clear Arabic. It has no faults or crooked parts. Its laws are straight and easy to understand. Allah gave it to us so we can fear Him and avoid bad deeds.",
+  "simple_bn": "আল্লাহ এটি আরবি ভাষায় এক নির্ভুল কুরআনরূপে অবতীর্ণ করেছেন, যাতে কোনো বক্রতা বা অসঙ্গতি নেই। এর ভাষা প্রাঞ্জল এবং এর বিধান নিখুঁত, যাতে মানুষ তাকওয়া অবলম্বন করতে পারে এবং যাবতীয় পাপ ও ধ্বংস থেকে নিজেদের বাঁচাতে পারে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قرأ",
+      "lemma": "قُرْءان",
+      "meaning_en": "a Quran",
+      "meaning_bn": "এক পঠিত কিতাব বা কুরআন",
+      "why_en": "Names the eternal Book recited by millions of believers worldwide."
+    },
+    {
+      "pos": 2,
+      "root": "عرب",
+      "lemma": "عَرَبِيّ",
+      "meaning_en": "in Arabic",
+      "meaning_bn": "আরবি ভাষায়",
+      "why_en": "Specifies the clear, rich language chosen for the final revelation."
+    },
+    {
+      "pos": 5,
+      "root": "عوج",
+      "lemma": "عِوَج",
+      "meaning_en": "crookedness / defect",
+      "meaning_bn": "বক্রতা বা ত্রুটি",
+      "why_en": "Affirms that the scripture has zero contradictions, errors, or distortion."
+    },
+    {
+      "pos": 7,
+      "root": "وقي",
+      "lemma": "اتَّقَى",
+      "meaning_en": "they become mindful / fear Allah",
+      "meaning_bn": "তারা যেন তাকওয়া অবলম্বন করে",
+      "why_en": "Points to piety as the practical goal of studying the clear text."
+    }
+  ],
+  "lesson_en": "The Quran is completely straight without any flaws, sent to build righteous awareness in our souls.",
+  "lesson_bn": "কুরআন সম্পূর্ণ নির্ভুল ও বক্রতামুক্ত, যা মানুষের অন্তরে আল্লাহর প্রতি ভয় ও তাকওয়া সৃষ্টি করতে এসেছে।",
+  "real_life_en": "Seek moral clarity in the words of the Quran. When modern debates confuse you, let its straight guidance anchor your convictions.",
+  "real_life_bn": "কুরআনের অকাট্য বাণীতে সত্যের সন্ধান করুন। চারপাশের সংশয় ও মতভেদের ভিড়ে কুরআনের সহজ-সরল নির্দেশ দিয়ে নিজের বিশ্বাস দৃঢ় রাখুন।",
+  "themes": [
+    "the Quran",
+    "taqwa",
+    "clarity",
+    "perfection of scripture"
+  ],
+  "kinds": [
+    "praise",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran is an Arabic text free from crookedness, revealed so that people may be mindful of Allah.",
+      "claim_bn": "কুরআন আরবি ভাষায় বক্রতামুক্ত এক কিতাব, যা নাযিল হয়েছে যেন মানুষ তাকওয়া অবলম্বন করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

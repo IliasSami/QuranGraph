@@ -1,0 +1,72 @@
+{
+  "id": "15:58",
+  "simple_en": "The angels answered: We have been sent to punish a people guilty of terrible crimes. They had reached the limit of open wrongdoing and persistent defiance.",
+  "simple_bn": "ফেরেশতারা বলল: আমাদেরকে এক অপরাধী ও পাপিষ্ঠ সম্প্রদায়ের কাছে পাঠানো হয়েছে। তারা লাগামহীন অন্যায় ও অবাধ্যতায় সীমা ছাড়িয়ে গিয়েছিল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "we have been sent",
+      "meaning_bn": "আমাদের পাঠানো হয়েছে",
+      "why_en": "Delegated for divine retribution."
+    },
+    {
+      "pos": 5,
+      "root": "قوم",
+      "lemma": "قَوْم",
+      "meaning_en": "a people",
+      "meaning_bn": "এক সম্প্রদায়",
+      "why_en": "The people of Sodom."
+    },
+    {
+      "pos": 6,
+      "root": "جرم",
+      "lemma": "مُجْرِم",
+      "meaning_en": "criminals",
+      "meaning_bn": "অপরাধীদের",
+      "why_en": "Hardened sinners who rejected warning."
+    }
+  ],
+  "lesson_en": "Evil acts bring down punishment. Turn away from bad deeds before it is too late.",
+  "lesson_bn": "অন্যায় ও পাপে অবিচল থাকলে আল্লাহর শাস্তি অবধারিত হয়। শাস্তি আসার আগেই পাপের পথ পরিহার করুন।",
+  "real_life_en": "A group of bullies hurts poor neighbors for months. Police arrive one morning and arrest them all. Crime cannot last forever.",
+  "real_life_bn": "একটি এলাকায় দীর্ঘকাল ধরে সাধারণ মানুষকে অত্যাচার করা একদল দুর্বৃত্তকে পুলিশ গ্রেপ্তার করে। অবিচার কখনো চিরকাল টিকে থাকতে পারে না।",
+  "context_en": "The angels informing Abraham of their assignment to destroy the corrupt people of Lot.",
+  "context_bn": "লূতের অপরাধী কওমকে ধ্বংস করার জন্য প্রেরিত হওয়ার কথা ইবরাহীমকে জানানো।",
+  "themes": [
+    "justice",
+    "warning",
+    "punishment"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Abraham"
+    ],
+    "unseen": [
+      "Angels"
+    ],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The angels stated they were sent to destroy a guilty people who persisted in grievous sins.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

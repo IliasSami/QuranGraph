@@ -1,0 +1,61 @@
+{
+  "id": "31:3",
+  "simple_en": "The Quran serves as a guide and a mercy for the doers of good. Those who fulfill their duties to God and show kindness to fellow people find light and comfort in its message. It protects them from confusion and brings peace to their hearts.",
+  "simple_bn": "এই কিতাব সৎকর্মশীলদের জন্য হিদায়াত ও করুণাস্বরূপ। যারা আল্লাহর হক ও মানুষের হক সুন্দরভাবে আদায় করে, তারা এই কিতাবের মাধ্যমে সঠিক পথের দিশা পায়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "هدي",
+      "lemma": "هُدًى",
+      "meaning_en": "guidance",
+      "meaning_bn": "হিদায়াত",
+      "why_en": "The Quran guides hearts toward righteousness."
+    },
+    {
+      "pos": 2,
+      "root": "رحم",
+      "lemma": "رَحْمَة",
+      "meaning_en": "and mercy",
+      "meaning_bn": "ও রহমত",
+      "why_en": "Divine compassion and blessings showered upon believers."
+    }
+  ],
+  "lesson_en": "God gives guidance and mercy to people who do good and help others.",
+  "lesson_bn": "যারা সৎ কাজ করে এবং মানুষের উপকার করে, তারা আল্লাহর বিশেষ রহমত ও হিদায়াত লাভ করে।",
+  "real_life_en": "Treat people with kindness and maintain honesty in all dealings. Good deeds invite the mercy of God into your daily routine.",
+  "real_life_bn": "মানুষের সাথে সদাচরণ করুন এবং সততা বজায় রাখুন। উত্তম কাজের অভ্যাস আপনার জীবনে আল্লাহর রহমত বয়ে আনবে।",
+  "themes": [
+    "guidance",
+    "mercy",
+    "righteousness"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Quran provides clear guidance and divine mercy for those who do good deeds and fulfill their duties.",
+      "claim_bn": "কুরআন সৎকর্মশীল ব্যক্তিদের জন্য সঠিক পথের নির্দেশনা ও পরম রহমতস্বরূপ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

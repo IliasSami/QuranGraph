@@ -1,0 +1,93 @@
+{
+ "id": "5:6",
+ "simple_en": "When you stand for prayer, wash your face, and your arms to the elbows. Wipe over your head, and wash your feet to the ankles. If you are impure, wash your whole body. If you are sick, traveling, or find no water, use clean earth. Wipe your face and hands with it. Allah does not want hardship for you. He wants to cleanse you and complete His favor so you give thanks.",
+ "simple_bn": "হে মুমিনগণ, যখন তোমরা সালাতের জন্য প্রস্তুতি নেবে, তখন তোমাদের মুখমণ্ডল এবং কনুই পর্যন্ত হাত ধুয়ে নাও। তোমাদের মাথা মাসেহ করো এবং টাখনু পর্যন্ত পা ধুয়ে নাও। আর যদি তোমরা অপবিত্র অবস্থায় থাকো, তবে পুরো শরীর গোসল করে পবিত্র হও। যদি তোমরা অসুস্থ হও, সফরে থাকো বা শৌচাগার থেকে আসো অথবা স্ত্রীর সাথে মিলিত হও এবং পানি না পাও, তবে পবিত্র মাটি দিয়ে তায়াম্মুম করো। তা দিয়ে তোমাদের মুখ ও হাত মুছে নাও। আল্লাহ তোমাদের জন্য কোনো কষ্ট চান না, বরং তিনি তোমাদের পবিত্র করতে চান এবং তাঁর অনুগ্রহ পূর্ণ করতে চান, যেন তোমরা শোকর করো।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "غسل",
+   "lemma": "اغْسِلُ",
+   "meaning_en": "wash",
+   "meaning_bn": "তোমরা ধৌত করো",
+   "why_en": "Defines the essential action of washing the face, arms, and feet for prayer."
+  },
+  {
+   "pos": 21,
+   "root": "طهر",
+   "lemma": "تَطَهَّرْ",
+   "meaning_en": "purify yourselves fully",
+   "meaning_bn": "তোমরা গোসল করে পবিত্র হও",
+   "why_en": "Commands complete ritual bath (ghusl) following major ritual impurity."
+  },
+  {
+   "pos": 41,
+   "root": "صعد",
+   "lemma": "صَعِيد",
+   "meaning_en": "clean earth or soil",
+   "meaning_bn": "পবিত্র মাটি",
+   "why_en": "Permits dry ablution using clean earth when water is absent or harmful to use."
+  }
+ ],
+ "lesson_en": "Clean your body before prayer. Allah gives ease when water is hard to find.",
+ "lesson_bn": "সালাতের আগে শরীর পবিত্র করুন। পানি ব্যবহারে কষ্ট হলে আল্লাহ তায়াম্মুমের সহজ বিকল্প দিয়েছেন।",
+ "real_life_en": "Take time to make wudu thoroughly before each prayer. Ensure water reaches every required spot. If severe illness makes water harmful, use clean earth for tayammum without skipping your prayer.",
+ "real_life_bn": "সালাতের পূর্বে মনোযোগ দিয়ে ওজু করুন যাতে প্রতিটি অঙ্গ ঠিকমতো ধোয়া হয়। তীব্র অসুখে বা পানির অভাবে থাকলে তায়াম্মুম করে সঠিক সময়ে সালাত আদায় করুন। অলসতা করে সালাত ছাড়বেন না।",
+ "context_en": "Establishes the detailed rules of bodily purification for prayer, balancing the duty of cleanliness with divine mercy through tayammum.",
+ "context_bn": "সালাতের জন্য দৈহিক পবিত্রতার পূর্ণাঙ্গ বিধান এবং পানি ব্যবহারের অক্ষমতায় তায়াম্মুমের মতো সহজ বিকল্পের বর্ণনা।",
+ "themes": [
+  "wudu",
+  "purification",
+  "prayer",
+  "ease in religion",
+  "gratitude"
+ ],
+ "kinds": [
+  "command",
+  "law",
+  "worship"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Prescribes the four obligations of wudu: washing the face, washing arms to the elbows, wiping the head, and washing feet to the ankles.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Mandates full bath for major ritual impurity and permits tayammum with clean soil when water is unavailable or dangerous to health.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "Allah intends ease and spiritual cleanliness for believers, not burdensome hardship, to complete His blessings.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

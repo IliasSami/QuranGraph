@@ -1,0 +1,95 @@
+{
+ "id": "4:97",
+ "simple_en": "When the angels take the souls of those who wronged themselves by staying in lands of oppression, the angels ask them about their condition. They reply that they were helpless and weak in the land. The angels ask if Allah's earth was not spacious enough for them to migrate to safety. The final home of such people is Hell, which is a dreadful destination.",
+ "simple_bn": "নিশ্চয়ই যারা নিজেদের ওপর জুলুম করেছিল, ফেরেশতারা যখন তাদের জান কবজ করে তখন জিজ্ঞাসা করে, 'তোমরা কী অবস্থায় ছিলে?' তারা বলে, 'আমরা তো জমিনে অসহায় ও দুর্বল ছিলাম।' ফেরেশতারা বলে, 'আল্লাহর জমিন কি এমন প্রশস্ত ছিল না যেখানে তোমরা হিজরত করতে পারতে?' এদেরই ঠিকানা হলো জাহান্নাম, আর তা কতই না নিকৃষ্ট গন্তব্য!",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "ملك",
+   "lemma": "مَلَك",
+   "meaning_en": "the angels taking souls",
+   "meaning_bn": "ফেরেশতাগণ",
+   "why_en": "Refers to the angels of death questioning souls at the moment of passing."
+  },
+  {
+   "pos": 5,
+   "root": "ظلم",
+   "lemma": "ظالِمِي",
+   "meaning_en": "wronging themselves",
+   "meaning_bn": "নিজেদের ওপর জুলুমকারী",
+   "why_en": "Describes those who harmed their own souls by staying in humiliation and compromising faith."
+  },
+  {
+   "pos": 20,
+   "root": "وسع",
+   "lemma": "واسِعَة",
+   "meaning_en": "spacious and wide",
+   "meaning_bn": "প্রশস্ত",
+   "why_en": "Points out that Allah's earth is vast enough to find a place to worship Him freely."
+  }
+ ],
+ "lesson_en": "Do not stay in places that harm your faith when you have the power to move away.",
+ "lesson_bn": "সামর্থ্য থাকা সত্ত্বেও যেখানে দ্বীন পালন অসম্ভব এমন পাপের পরিবেশে পড়ে থেকে নিজের ক্ষতি করবেন না।",
+ "real_life_en": "If a job or bad company forces you to commit sins, do not make excuses. Look for honest work and move to a better place to guard your faith.",
+ "real_life_bn": "যদি আপনার কর্মস্থল বা পরিবেশ আপনাকে প্রতিনিয়ত অন্যায়ে লিপ্ত হতে বাধ্য করে, তবে অক্ষমতার অজুহাত না দিয়ে সৎভাবে বাঁচার মতো ভালো পরিবেশ বেছে নিন।",
+ "context_en": "Rebukes those who stayed among pagan oppressors in Makkah despite having the means to migrate to Madinah.",
+ "context_bn": "হিজরতের সামর্থ্য থাকা সত্ত্বেও মক্কায় কাফিরদের মাঝে পড়ে থেকে ঈমানকে বিপন্নকারীদের পরকালীন জবাবদিহিতা তুলে ধরা হয়েছে।",
+ "themes": [
+  "migration",
+  "angels",
+  "death",
+  "Hell",
+  "punishment",
+  "justice"
+ ],
+ "kinds": [
+  "warning",
+  "story",
+  "hereafter"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "Hell"
+  ],
+  "unseen": [
+   "angels"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Angels question the souls of those who wronged themselves by remaining in lands where they could not practice faith despite being able to leave.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The angels reject their excuse of weakness because Allah's earth was spacious enough for them to migrate to safety.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Those who willfully neglected migration without genuine inability face Hell as their final abode.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,73 @@
+{
+ "id": "6:11",
+ "simple_en": "Tell the skeptics, 'Travel through the earth with open eyes. Look at the ruined dwellings of past nations who called their prophets liars.' Their empty homes stand as proof that rejecting divine guidance leads to ultimate collapse.",
+ "simple_bn": "আপনি অবাধ্যদের বলুন, 'তোমরা পৃথিবীতে ভ্রমণ করো এবং গভীরভাবে প্রত্যক্ষ করো, যারা সত্যকে অস্বীকার করেছিল তাদের কী করুণ পরিণতি হয়েছিল।' অতীত ধ্বংসপ্রাপ্ত জনপদগুলো সাক্ষ্য দেয় যে, সত্যের বিরুদ্ধাচরণ করলে কোনো জাতিই টিকে থাকতে পারে না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "سير",
+   "lemma": "سارَ",
+   "meaning_en": "travel / journey",
+   "meaning_bn": "ভ্রমণ করো",
+   "why_en": "Encourages traveling with eyes open to moral lessons."
+  },
+  {
+   "pos": 6,
+   "root": "نظر",
+   "lemma": "نَظَرَ",
+   "meaning_en": "observe / reflect",
+   "meaning_bn": "লক্ষ করো বা দেখো",
+   "why_en": "Directs deep contemplation on historical consequences."
+  },
+  {
+   "pos": 9,
+   "root": "عقب",
+   "lemma": "عاقِبَة",
+   "meaning_en": "the end / consequence",
+   "meaning_bn": "চূড়ান্ত পরিণতি",
+   "why_en": "Highlights the ruined fate of those who rejected truth."
+  }
+ ],
+ "lesson_en": "Learn from history. Observe how past civilizations fell when they defied Allah.",
+ "lesson_bn": "ইতিহাসের শিক্ষা গ্রহণ করুন এবং অন্যায়কারী প্রাচীন জাতিসমূহের করুণ পরিণতি থেকে সতর্ক হোন।",
+ "real_life_en": "When you visit old ruins, look closely and reflect. Powerful rulers once lived there, but they are gone. Only Allah remains forever. Let their empty homes remind you to stay on the right path.",
+ "real_life_bn": "ঐতিহাসিক স্থান পরিদর্শনের সময় কেবল ছবি না তুলে গভীর চিন্তা করুন। অতীতে প্রবল প্রতাপশালী রাজারা কীভাবে নিশ্চিহ্ন হয়ে গেছে তা দেখে অহংকার ত্যাগ করুন।",
+ "context_en": "Commands people to observe historical ruins across Arabia and beyond as living testimony to the destruction of deniers.",
+ "context_bn": "অতীত মিথ্যারোপকারী জাতিসমূহের ধ্বংসাবশেষ স্বচক্ষে প্রত্যক্ষ করে শিক্ষা গ্রহণের নির্দেশ দেওয়া হয়েছে।",
+ "themes": [
+  "travel and reflection",
+  "lessons from history",
+  "fate of deniers"
+ ],
+ "kinds": [
+  "command",
+  "warning",
+  "argument"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": [
+   "the earth"
+  ]
+ },
+ "claims": [
+  {
+   "text": "People are commanded to travel the earth and reflect on the ruined end of past deniers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

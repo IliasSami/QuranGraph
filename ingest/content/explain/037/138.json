@@ -1,0 +1,63 @@
+{
+  "id": "37:138",
+  "simple_en": "Travelers pass by these same ruins at night as well as in the morning. Allah asks why they do not use their minds to understand this clear warning. Seeing the ruined homes of those who sinned should make any reasonable person turn back to God.",
+  "simple_bn": "তোমরা শুধু সকালেই নয়, রাতেও এই ধ্বংসাবশেষগুলো অতিক্রম করো। আল্লাহ প্রশ্ন করছেন যে তোমরা কি বিবেক খাটিয়ে বিষয়টি উপলব্ধি করবে না। পূর্ববর্তীদের পরিণতি দেখেও বুদ্ধিমান মানুষের সচেতন হওয়া উচিত।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ليل",
+      "lemma": "لَيْل",
+      "meaning_en": "at night",
+      "meaning_bn": "রাতে",
+      "why_en": "Points out that they pass by these ruins both day and night on their travels."
+    },
+    {
+      "pos": 3,
+      "root": "عقل",
+      "lemma": "عَقَلُ",
+      "meaning_en": "use reason / understand",
+      "meaning_bn": "বুদ্ধি খাটাও বা অনুধাবন করো",
+      "why_en": "Urges people to use their minds to draw lessons from past destruction."
+    }
+  ],
+  "lesson_en": "Use your mind to learn from the past.",
+  "lesson_bn": "বুদ্ধি ও চিন্তাশক্তি ব্যবহার করে পূর্ববর্তীদের করুণ পরিণতি থেকে শিক্ষা গ্রহণ করা উচিত।",
+  "real_life_en": "Do not go through life ignoring the clear lessons around you. When you see bad habits lead others to ruin, use your intellect to change your own path.",
+  "real_life_bn": "চোখের সামনে অন্যদের পাপের খারাপ পরিণতি দেখে নিজের ভুল শুধরে নিন। বিবেককে কাজে লাগিয়ে সঠিক পথে চলা বুদ্ধিমান মানুষের পরিচয়।",
+  "themes": [
+    "intellect",
+    "reflection",
+    "taking heed",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "lut"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "They also pass by these ruins at night, yet fail to use their reason to learn from their fate.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

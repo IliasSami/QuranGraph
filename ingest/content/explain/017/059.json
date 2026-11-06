@@ -1,0 +1,66 @@
+{
+  "id": "17:59",
+  "simple_en": "Nothing prevented Us from sending tangible signs except that earlier peoples denied them. We gave Thamud the she-camel as a clear sign, but they mistreated it. Signs are sent to warn.",
+  "simple_bn": "পূর্ববর্তীরা অস্বীকার করেছিল বলেই অলৌকিক নিদর্শন পাঠানো আমরা বন্ধ রেখেছি। আমরা সামূদ জাতিকে স্পষ্ট নিদর্শন হিসেবে উটনী দিয়েছিলাম, কিন্তু তারা তার ওপর জুলুম করেছিল। আমরা সতর্ক করার জন্যই নিদর্শন পাঠাই।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "the signs and miracles",
+      "meaning_bn": "নিদর্শনসমূহ",
+      "why_en": "Demanded physical miracles."
+    },
+    {
+      "pos": 8,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied",
+      "meaning_bn": "অস্বীকার করেছিল",
+      "why_en": "Rejection of past miracles bringing swift destruction."
+    }
+  ],
+  "lesson_en": "Miracles alone do not create faith. When people demand signs and then deny them, swift destruction follows.",
+  "lesson_bn": "কেবল অলৌকিক দৃশ্য দেখে সত্য গ্রহণ করা যায় না। নিদর্শন দেখেও অবাধ্য হলে আল্লাহর চূড়ান্ত শাস্তি নেমে আসে।",
+  "real_life_en": "Do not demand constant supernatural signs before you decide to obey God. Look at the beauty of the Quran and the universe around you.",
+  "real_life_bn": "ঈমান আনার জন্য অলৌকিক কিছু ঘটার অপেক্ষা করবেন না। কোরআনের শিক্ষা ও সৃষ্টির নিদর্শনই বিশ্বাস স্থাপনের জন্য যথেষ্ট।",
+  "themes": [
+    "miracles",
+    "thamud",
+    "she-camel",
+    "denial"
+  ],
+  "kinds": [
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "she-camel"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Allah withheld demanded physical signs because earlier nations denied them, as Thamud mistreated the she-camel, and signs are sent only as warnings.",
+      "claim_bn": "অতীত জাতিদের অস্বীকারের কারণেই অলৌকিক নিদর্শন দেওয়া বন্ধ করা হয়েছিল, যেমন সামূদ জাতি উটনীর ওপর অবিচার করেছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

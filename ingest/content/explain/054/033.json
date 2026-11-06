@@ -1,0 +1,62 @@
+{
+  "id": "54:33",
+  "simple_en": "The people of Lut (peace be upon him) denied the clear warnings brought to them. They persisted in their shameful sins and mocked their prophet instead of turning back to Allah.",
+  "simple_bn": "লুত (আলাইহিস সালাম) এর জাতি তাদের কাছে পৌঁছানো সতর্কবার্তাকে মিথ্যা বলেছিল। তারা চরম নির্লজ্জতায় লিপ্ত হয়ে নিজেদের নবীর আহ্বানকে উপহাস করেছিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "كذب",
+      "lemma": "كَذَّبَ",
+      "meaning_en": "denied",
+      "meaning_bn": "মিথ্যারোপ করেছিল",
+      "why_en": "Describes the open rejection of Lut's message by his corrupt people."
+    },
+    {
+      "pos": 4,
+      "root": "نذر",
+      "lemma": "نَذِير",
+      "meaning_en": "the warnings",
+      "meaning_bn": "সতর্কবার্তা",
+      "why_en": "Points to the moral admonitions warning against unnatural, shameless behavior."
+    }
+  ],
+  "lesson_en": "Shameless deeds blind the heart and lead to sudden ruin.",
+  "lesson_bn": "নির্লজ্জ পাপ বিবেককে অন্ধ করে দেয় এবং চূড়ান্ত ধ্বংস ডেকে আনে।",
+  "real_life_en": "A youth ignores the good advice of his parents and hangs out with bad company. Over time, he loses his sense of right and wrong. Guarding one’s morals requires choosing pure friends.",
+  "real_life_bn": "এক যুবক পরিবারের ভালো উপদেশ অমান্য করে অসৎ সঙ্গ বেছে নেয়। ধীরে ধীরে সে ভালো ও মন্দের পার্থক্য ভুলে যায়। চারিত্রিক পবিত্রতা রক্ষার জন্য ভালো বন্ধুদের সাথে থাকা জরুরি।",
+  "themes": [
+    "past nations",
+    "stories of the prophets",
+    "warning",
+    "ethics"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "lut"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people of Lut rejected the warnings of their prophet and persisted in transgression.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

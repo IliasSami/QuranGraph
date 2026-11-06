@@ -1,0 +1,79 @@
+{
+  "id": "8:14",
+  "simple_en": "This worldly defeat is yours to taste. Beyond this life, the disbelievers who fought against the truth will face the painful punishment of the Fire.",
+  "simple_bn": "এটি তোমাদের শাস্তি, অতএব এর স্বাদ গ্রহণ করো। আর নিশ্চয়ই সত্য অস্বীকারকারীদের জন্য রয়েছে জাহান্নামের শাস্তি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ذوق",
+      "lemma": "ذاقُ",
+      "meaning_en": "taste it",
+      "meaning_bn": "এর স্বাদ নাও",
+      "why_en": "Experiencing immediate humiliation and retribution in this world."
+    },
+    {
+      "pos": 4,
+      "root": "كفر",
+      "lemma": "كافِر",
+      "meaning_en": "the disbelievers",
+      "meaning_bn": "কাফিররা / অস্বীকারকারীরা",
+      "why_en": "Those who rejected truth and waged violent warfare against believers."
+    },
+    {
+      "pos": 6,
+      "root": "نور",
+      "lemma": "نار",
+      "meaning_en": "the Fire",
+      "meaning_bn": "আগুন / জাহান্নাম",
+      "why_en": "The final penalty awaiting unrepentant oppressors."
+    }
+  ],
+  "lesson_en": "Hurting others brings shame in this life and harsh punishment in the next.",
+  "lesson_bn": "অন্যায়ের শাস্তি শুধু দুনিয়ার লাঞ্ছনাতেই শেষ হয় না, পরকালেও চরম পরিণতির মুখোমুখি হতে হবে।",
+  "real_life_en": "Those who use power to hurt innocent people will face the consequences of their deeds. Even if they feel proud today, justice will catch up with them. Live honestly to save yourself from regret.",
+  "real_life_bn": "অত্যাচারীরা দুনিয়ায় অপদস্থ হবে এবং আখেরাতেও তাদের জন্য জাহান্নামের আগুন অপেক্ষা করছে। অন্যায় পথ থেকে বিরত থাকুন।",
+  "context_en": "Addressing the defeated pagan leaders that their loss at Badr is only the worldly prelude to their punishment in the hereafter.",
+  "context_bn": "বদরে পরাজিত অহংকারী নেতাদের প্রতি হুঁশিয়ারি যে তাদের বর্তমান লাঞ্ছনা আখেরাতের জাহান্নামের আগাম সূচনা।",
+  "themes": [
+    "warning",
+    "the Fire",
+    "divine justice",
+    "retribution"
+  ],
+  "kinds": [
+    "warning",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "disbelievers"
+    ],
+    "places": [
+      "Hellfire"
+    ],
+    "unseen": [
+      "the Fire (an-Nar)"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "punishment"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The military defeat at Badr served as an immediate consequence for the aggressors, foreshadowing the greater punishment of Hell.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

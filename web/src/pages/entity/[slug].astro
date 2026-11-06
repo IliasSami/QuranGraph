@@ -7,7 +7,13 @@ import surahsData from "../../lib/search/surahs.json" with { type: "json" };
 export function getStaticPaths() {
   const entries = Object.entries(entitiesData as Record<string, any>);
   return entries.map(([id, data]) => ({
-    params: { slug: id.replace(":", "-") },
+    params: {
+      slug: id
+        .replace(/[:\/]+/g, "-")
+        .replace(/[^a-zA-Z0-9_\-\u0980-\u09FF\u0600-\u06FF]+/g, "-")
+        .replace(/-+/g, "-")
+        .replace(/^-|-$/g, "")
+    },
     props: { entity: data }
   }));
 }

@@ -1,0 +1,78 @@
+{
+  "id": "5:102",
+  "simple_en": "Earlier communities also asked their prophets for extra rules. When those duties were made binding upon them, they refused to obey. Because they turned away from what they demanded, they became disbelievers. Asking too much often leads to neglect and loss.",
+  "simple_bn": "তোমাদের পূর্ববর্তী জাতিগুলোও তাদের নবীদের কাছে এমন অতিরিক্ত বিধান চেয়ে প্রশ্ন করেছিল। অতঃপর যখন সেগুলো তাদের ওপর বাধ্যতামূলক করা হলো, তখন তারা তা অমান্য করল। এর ফলে তারা অবিশ্বাসী হয়ে পড়ল।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سأل",
+      "lemma": "سَأَلَ",
+      "meaning_en": "they asked",
+      "meaning_bn": "তারা প্রশ্ন করেছিল",
+      "why_en": "Shows how past nations demanded difficult details from their prophets."
+    },
+    {
+      "pos": 3,
+      "root": "قوم",
+      "lemma": "قَوْم",
+      "meaning_en": "a people",
+      "meaning_bn": "এক সম্প্রদায়",
+      "why_en": "Refers to past communities who questioned their messengers unnecessarily."
+    },
+    {
+      "pos": 9,
+      "root": "كفر",
+      "lemma": "كافِر",
+      "meaning_en": "disbelievers",
+      "meaning_bn": "অবিশ্বাসী বা কাফির",
+      "why_en": "The tragic outcome of questioning commands and then refusing to obey."
+    }
+  ],
+  "lesson_en": "Asking for extra rules often leads people to disobey.",
+  "lesson_bn": "অতিরিক্ত বিধানের জন্য বাড়াবাড়ি মানুষকে অবাধ্যতা ও ধ্বংসের দিকে ঠেলে দেয়।",
+  "real_life_en": "A group asks their manager for extra strict policies. When the new rules are set, no one can follow them. Be content with simple, clear guidelines.",
+  "real_life_bn": "অফিসের কর্মীরা নিজেরাই অতিরিক্ত কড়া নিয়ম দাবি করে পরে তা মানতে ব্যর্থ হয়। দ্বীন ও জীবনের ক্ষেত্রে সহজ ও কার্যকর নীতি মেনে চলাই নিরাপদ।",
+  "context_en": "Cites the failure of earlier nations as a warning against unnecessary questioning.",
+  "context_bn": "অপ্রয়োজনীয় প্রশ্নের কুফল বোঝাতে পূর্ববর্তী জাতিসমূহের ব্যর্থতাকে উদাহরণ হিসেবে তুলে ধরা হয়েছে।",
+  "themes": [
+    "past nations",
+    "warning",
+    "disbelief"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "past nations"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Past communities asked their prophets for specific rules and then failed to fulfill them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Neglecting the commands they demanded caused those earlier people to fall into disbelief.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

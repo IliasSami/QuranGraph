@@ -1,0 +1,82 @@
+{
+ "id": "5:95",
+ "simple_en": "O believers, do not hunt wild game while on the pilgrimage. If anyone kills an animal on purpose, they must pay a penalty. They must offer a farm animal of equal size, judged by two fair men. It is sent as a gift to the Ka'bah. Or they must feed poor people or fast. Allah pardons the past, but He punishes those who repeat it.",
+ "simple_bn": "হে মু’মিনগণ, তোমরা ইহরাম অবস্থায় শিকার-প্রাণী বধ করো না। তোমাদের কেউ ইচ্ছাকৃতভাবে তা বধ করলে, তাকে সমমানের গৃহপালিত পশু কুরবানী হিসেবে কা’বায় পাঠাতে হবে, যার ফয়সালা করবে দুজন ন্যায়পরায়ণ ব্যক্তি। অথবা কাফফারা হিসেবে মিসকীনকে খাবার দিতে হবে কিংবা সমপরিমাণ রোযা রাখতে হবে। অতীতে যা হয়েছে আল্লাহ তা ক্ষমা করেছেন, তবে কেউ পুনরায় তা করলে আল্লাহ তার থেকে প্রতিশোধ গ্রহণ করবেন।",
+ "key_words": [
+  {
+   "pos": 6,
+   "root": "صيد",
+   "lemma": "صَيْد",
+   "meaning_en": "the game",
+   "meaning_bn": "শিকার",
+   "why_en": "Hunting land animals is strictly forbidden while consecrated in ihram."
+  },
+  {
+   "pos": 12,
+   "root": "عمد",
+   "lemma": "مُتَعَمِّد",
+   "meaning_en": "intentionally / deliberately",
+   "meaning_bn": "ইচ্ছাকৃতভাবে",
+   "why_en": "Willful transgression triggers the obligation of legal penalty and expiation."
+  },
+  {
+   "pos": 24,
+   "root": "هدي",
+   "lemma": "هَدْي",
+   "meaning_en": "as a sacrificial offering",
+   "meaning_bn": "হাদী বা কুরবানীর পশু হিসেবে",
+   "why_en": "An animal sent to Makkah to be sacrificed for the poor as an atonement."
+  }
+ ],
+ "lesson_en": "Respect sacred rules. If you make a mistake, pay the fine and seek Allah's pardon.",
+ "lesson_bn": "হজের পবিত্র বিধান মেনে চলা এবং ভুল হলে আন্তরিকভাবে নির্ধারিত কাফফারা আদায় করা আবশ্যক।",
+ "real_life_en": "A pilgrim harms an animal during Hajj. He does not hide his mistake. He asks a teacher what penalty is due and pays it with a humble heart.",
+ "real_life_bn": "এক ব্যক্তি হজে গিয়ে ভুলবশত একটি শিকারী প্রাণীর ক্ষতি করে ফেলেন। তিনি বিষয়টি গোপন না রেখে বিজ্ঞ মুফতির পরামর্শ নেন এবং কাফফারা আদায় করে আল্লাহর ক্ষমা প্রার্থনা করেন।",
+ "context_en": "Specifies the penalties and expiation for hunting game during ihram.",
+ "context_bn": "ইহরাম অবস্থায় ইচ্ছাকৃতভাবে শিকার করলে তার ক্ষতিপূরণ ও কাফফারার বিস্তারিত শরয়ী বিধান।",
+ "themes": [
+  "hajj",
+  "justice",
+  "taqwa",
+  "punishment"
+ ],
+ "kinds": [
+  "prohibition",
+  "law",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [
+   "the Ka'bah"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Killing game in ihram intentionally requires an equivalent livestock penalty judged by two just men and sent to the Ka'bah.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Alternative expiations include feeding the needy or fasting, and Allah warns against repeating the offense.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

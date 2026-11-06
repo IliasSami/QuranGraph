@@ -1,0 +1,72 @@
+{
+  "id": "15:35",
+  "simple_en": "The curse will remain upon you until the Day of Judgment. Allah cut off Iblis from all goodness because he chose pride over humble obedience.",
+  "simple_bn": "প্রতিদান দিবস পর্যন্ত তোমার ওপর রইল অভিসম্পাত। অহংকারকে বেছে নেওয়ার কারণে আল্লাহ ইবলীসকে সকল কল্যাণ ও অনুগ্রহ থেকে বঞ্চিত করলেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "لعن",
+      "lemma": "لَعْنَة",
+      "meaning_en": "the curse",
+      "meaning_bn": "লা'নত",
+      "why_en": "Deprivation of divine mercy."
+    },
+    {
+      "pos": 5,
+      "root": "يوم",
+      "lemma": "يَوْم",
+      "meaning_en": "the Day",
+      "meaning_bn": "দিবস",
+      "why_en": "The Day of Final Judgment."
+    },
+    {
+      "pos": 6,
+      "root": "دين",
+      "lemma": "دِين",
+      "meaning_en": "of Judgment",
+      "meaning_bn": "প্রতিদানের",
+      "why_en": "The day when all deeds are requited."
+    }
+  ],
+  "lesson_en": "The curse of Allah falls upon those who persist in open rebellion. Always seek forgiveness and turn back to Him.",
+  "lesson_bn": "আল্লাহর লা'নত তাদের ওপরই পড়ে যারা জেনে-বুঝে অবাধ্যতায় অটল থাকে। সবসময় আল্লাহর ক্ষমা প্রার্থনা করুন এবং তাঁর পথে ফিরুন।",
+  "real_life_en": "A corrupt official loses his job, his reputation, and the trust of his family. He lives with shame because he refused to stop stealing. Dishonesty brings lasting disgrace.",
+  "real_life_bn": "এক দুর্নীতিবাজ কর্মকর্তা চাকরি ও সুনাম হারিয়ে সমাজে অপদস্থ হন। পাপের পথে অবিচল থাকার কারণে তিনি সবার আস্থা ও সম্মান চিরতরে হারান।",
+  "context_en": "The permanent curse laid upon Iblis until the Day of Resurrection.",
+  "context_bn": "কিয়ামত পর্যন্ত ইবলীসের ওপর স্থায়ী অভিশাপ জারির ঘোষণা।",
+  "themes": [
+    "curse",
+    "judgment-day",
+    "justice"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "unseen": [
+      "Iblis"
+    ],
+    "people": [],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The curse of Allah remains upon Iblis continuously until the Day of Recompense.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

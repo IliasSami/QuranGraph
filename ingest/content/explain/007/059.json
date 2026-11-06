@@ -1,0 +1,87 @@
+{
+  "id": "7:59",
+  "simple_en": "Allah sent Noah to his people as a messenger. He said: O my people, worship Allah alone. You have no true god other than Him. I fear for you the punishment of a terrible Day.",
+  "simple_bn": "আল্লাহ নূহ (আলাইহিস সালাম)-কে তাঁর সম্প্রদায়ের নিকট রাসূল হিসেবে প্রেরণ করেছিলেন। তিনি অত্যন্ত দরদ দিয়ে ডেকে বললেন, হে আমার কওম! তোমরা কেবল এক আল্লাহর ইবাদত করো। তিনি ছাড়া তোমাদের কোনো সত্য উপাস্য নেই। তোমরা সত্য অমান্য করলে আমি তোমাদের জন্য এক মহাদিবসের কঠিন শাস্তির আশঙ্কা করছি।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "worship",
+      "meaning_bn": "তোমরা ইবাদত করো",
+      "why_en": "The primary command given by Prophet Noah, calling to pure monotheism."
+    },
+    {
+      "pos": 13,
+      "root": "أله",
+      "lemma": "إِلٰه",
+      "meaning_en": "god / deity",
+      "meaning_bn": "উপাস্য",
+      "why_en": "Negates every false deity and establishes that only Allah deserves worship."
+    },
+    {
+      "pos": 20,
+      "root": "عظم",
+      "lemma": "عَظِيم",
+      "meaning_en": "tremendous / awful",
+      "meaning_bn": "মহাদিবস / ভয়াবহ",
+      "why_en": "Highlights the terrible intensity of the Day of Judgment awaiting the unrepentant."
+    }
+  ],
+  "lesson_en": "Every prophet called people to worship Allah alone. Turn to your true Creator.",
+  "lesson_bn": "সকল নবীর মূল দাওয়াত ছিল তাওহীদ। একনিষ্ঠভাবে কেবল এক আল্লাহরই ইবাদত করুন।",
+  "real_life_en": "A caring father sees his son hang out with bad friends. He warns his son with love and patience. Good leaders warn those they love before harm comes to them.",
+  "real_life_bn": "সন্তান ভুল পথে পা বাড়ালে একজন মমতাময়ী পিতা দরদ দিয়ে তাকে সঠিক পথে ফিরিয়ে আনার চেষ্টা করেন। একইভাবে নূহ (আলাইহিস সালাম) তাঁর জাতিকে বিপদের হাত থেকে বাঁচাতে আকুল আহ্বান জানিয়েছিলেন।",
+  "context_en": "After setting forth the proofs of monotheism and resurrection, the Surah begins the historical narratives of past prophets, opening with Noah.",
+  "context_bn": "তাওহীদ ও পুনরুত্থানের অকাট্য প্রমাণের পর এখানে পূর্ববর্তী জাতিসমূহের ইতিহাস ও নবীগণের দাওয়াতের বিবরণ শুরু হয়েছে, যার সূচনা নূহ (আলাইহিস সালাম)-কে দিয়ে।",
+  "themes": [
+    "prophethood",
+    "stories of the prophets",
+    "tawhid",
+    "worship",
+    "warning"
+  ],
+  "kinds": [
+    "story",
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Noah"
+    ],
+    "nations": [
+      "People of Noah"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Day of Resurrection"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah sent Noah to his people to call them to worship Allah alone without any partner.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Noah warned his people of the punishment of a tremendous Day if they persisted in disbelief.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

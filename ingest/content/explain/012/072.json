@@ -1,0 +1,96 @@
+{
+  "id": "12:72",
+  "simple_en": "The guards said the king's golden cup was missing. A full camel load of grain was offered as a reward. The chief guard gave his personal word to pay it.",
+  "simple_bn": "প্রহরীরা বলল, রাজার মাপার পাত্রটি খুঁজে পাওয়া যাচ্ছে না। তারা ঘোষণা করল যে ব্যক্তি এটি এনে দেবে তাকে এক উট বোঝাই খাদ্য পুরস্কার দেওয়া হবে এবং কর্মকর্তা নিজে এর নিশ্চয়তা দিলেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "فقد",
+      "lemma": "تَفْقِدُ",
+      "meaning_en": "we are missing",
+      "meaning_bn": "আমরা পাচ্ছি না বা হারিয়েছে",
+      "why_en": "Identifying the lost royal property."
+    },
+    {
+      "pos": 3,
+      "root": "صوع",
+      "lemma": "صُواع",
+      "meaning_en": "measuring bowl",
+      "meaning_bn": "পরিমাপ পাত্র",
+      "why_en": "The golden bowl of the king used to measure grain."
+    },
+    {
+      "pos": 8,
+      "root": "حمل",
+      "lemma": "حِمْل",
+      "meaning_en": "load",
+      "meaning_bn": "বোঝাই",
+      "why_en": "The bounty offered for returning the missing vessel."
+    },
+    {
+      "pos": 12,
+      "root": "زعم",
+      "lemma": "زَعِيم",
+      "meaning_en": "guarantor / responsible",
+      "meaning_bn": "জামিনদার বা নিশ্চয়তাকারী",
+      "why_en": "Personal pledge from the official that the reward will be honored."
+    }
+  ],
+  "lesson_en": "Clear talk and backed promises help solve public disputes.",
+  "lesson_bn": "সুনির্দিষ্ট আলোচনা এবং নির্ভরযোগ্য নিশ্চয়তা বড় বড় বিরোধ নিষ্পত্তিতে সাহায্য করে।",
+  "real_life_en": "A firm loses an important file and offers a reward to find it. An honest worker finds it and hands it over right away.",
+  "real_life_bn": "অফিসের প্রয়োজনীয় ফাইল হারিয়ে গেলে কর্তৃপক্ষ তা খুঁজে দেওয়ার জন্য নিশ্চিত পুরস্কার ঘোষণা করে। এক কর্মী নিষ্ঠার সাথে তা খুঁজে বের করে কর্তৃপক্ষের হাতে তুলে দেন।",
+  "context_en": "The guards named the lost bowl and offered a reward to encourage voluntary return.",
+  "context_bn": "কর্মকর্তারা হারানো পাত্রটির কথা জানিয়ে স্বেচ্ছায় ফেরত দেওয়ার জন্য পুরস্কার ঘোষণা করল।",
+  "themes": [
+    "justice",
+    "rewards",
+    "honesty"
+  ],
+  "kinds": [
+    "story",
+    "law"
+  ],
+  "entities": {
+    "people": [
+      "Egyptian officials",
+      "brothers of Yusuf"
+    ],
+    "nations": [
+      "Egyptians",
+      "Children of Israel"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "measuring bowl",
+      "grain",
+      "camel"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The officials stated they were searching for the king's measuring cup.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "A camel's load of grain was guaranteed as a reward for its return.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

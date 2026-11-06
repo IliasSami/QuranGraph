@@ -1,0 +1,85 @@
+{
+  "id": "14:45",
+  "simple_en": "You lived in the homes of earlier peoples who wronged themselves. You saw clearly how We dealt with them, and We set forth many examples for you. Yet you failed to take a lesson from their fate.",
+  "simple_bn": "তোমরা সেই পূর্ববর্তীদের আবাসভূমিতে বাস করেছিলে যারা নিজেদের ওপর জুলুম করেছিল। তোমরা স্পষ্ট দেখেছিলে আমরা তাদের কী পরিণতি ঘটিয়েছিলাম এবং তোমাদের শিক্ষার জন্য বহু দৃষ্টান্ত দিয়েছিলাম। তবুও তোমরা শিক্ষা গ্রহণ করোনি।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سكن",
+      "lemma": "مَسْكَن",
+      "meaning_en": "dwellings of",
+      "meaning_bn": "আবাসভূমি",
+      "why_en": "Ruins of ancient civilizations."
+    },
+    {
+      "pos": 5,
+      "root": "ظلم",
+      "lemma": "ظَلَمَ",
+      "meaning_en": "wronged",
+      "meaning_bn": "জুলুম করেছিল",
+      "why_en": "Committed oppression and idolatry."
+    },
+    {
+      "pos": 6,
+      "root": "نفس",
+      "lemma": "نَفْس",
+      "meaning_en": "themselves",
+      "meaning_bn": "নিজেদের",
+      "why_en": "Harm reflected upon the soul."
+    },
+    {
+      "pos": 10,
+      "root": "فعل",
+      "lemma": "فَعَلَ",
+      "meaning_en": "We dealt",
+      "meaning_bn": "আমরা কী করেছিলাম",
+      "why_en": "Historical destruction of tyrants."
+    },
+    {
+      "pos": 14,
+      "root": "مثل",
+      "lemma": "مَثَل",
+      "meaning_en": "the examples",
+      "meaning_bn": "উপমাসমূহ",
+      "why_en": "Instructive parables."
+    }
+  ],
+  "lesson_en": "Learn from the mistakes of past generations so you do not repeat their ruin.",
+  "lesson_bn": "অতীতের জাতিগুলোর ভুল থেকে শিক্ষা নিন যাতে তাদের মতো ধ্বংসের মুখোমুখি হতে না হয়।",
+  "real_life_en": "A new boss looks at why an old shop failed because of fraud. He decides to stay honest in all deals. He checks the books regularly to keep his workers safe.",
+  "real_life_bn": "এক নতুন পরিচালক দেখতে পান আগের কর্তৃপক্ষ অসততা ও দুর্নীতির কারণে দেউলিয়া হয়েছিল। তিনি সেই ভুলের পুনরাবৃত্তি না করে প্রতিষ্ঠানে স্বচ্ছতা ও জবাবদিহিতা নিশ্চিত করেন।",
+  "context_en": "Reproach to the Quraysh for walking past the ruins of Aad, Thamud, and Midian without reflection.",
+  "context_bn": "অতীতের ধ্বংসপ্রাপ্ত ধ্বংসাবশেষ দেখেও কুরাইশদের শিক্ষা গ্রহণ না করার প্রতি তিরস্কার।",
+  "themes": [
+    "history",
+    "reflection",
+    "warning"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "People lived among the ruins of destroyed unjust nations, yet failed to heed the clear warnings.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

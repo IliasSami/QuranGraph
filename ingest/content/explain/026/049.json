@@ -1,0 +1,66 @@
+{
+  "id": "26:49",
+  "simple_en": "Pharaoh was angry that they believed without his word. He called Moses their master and threatened to cut off their limbs and crucify them on trees.",
+  "simple_bn": "ফিরআউন ক্রুদ্ধ হয়ে বলল, কী, আমার অনুমতির আগেই তোমরা তার প্রতি ঈমান আনলে? সে-ই তো তোমাদের প্রধান যে তোমাদের জাদু শিখিয়েছে। আমি অবশ্যই তোমাদের হাত-পা বিপরীত দিক থেকে কেটে ফেলব এবং তোমাদের সবাইকে শূলে চড়াব।",
+  "key_words": [
+    {
+      "pos": 2,
+      "arabic": "ءَامَنتُمْ",
+      "root": "أمن",
+      "lemma": "آمَنَ",
+      "meaning_en": "you believed",
+      "meaning_bn": "তোমরা ঈমান আনলে",
+      "why_en": "Pharaoh's outrage at conscience operating without his approval."
+    },
+    {
+      "pos": 14,
+      "arabic": "تَعْلَمُونَ",
+      "root": "علم",
+      "lemma": "عَلِمَ",
+      "meaning_en": "I will surely cut off",
+      "meaning_bn": "আমি অবশ্যই কেটে ফেলব",
+      "why_en": "The horrific punishment threatened by Pharaoh."
+    }
+  ],
+  "lesson_en": "Tyrants try to control the hearts of people and turn to cruelty when they lose power.",
+  "lesson_bn": "স্বৈরাচারী শাসকরা মানুষের অন্তরের বিশ্বাসের স্বাধীনতাকে দমন করতে চরম পৈশাচিক শাস্তির আশ্রয় নেয়।",
+  "real_life_en": "Your heart belongs to God alone. Stand firm in your faith even when threatened by bullies or unjust authority.",
+  "real_life_bn": "মানুষের মন ও বিবেক কেবল আল্লাহর অধীন। কোনো হুমকি বা অত্যাচারের ভয়ে নিজের নীতি ও বিশ্বাস পরিত্যাগ করবেন না।",
+  "themes": [
+    "tyranny",
+    "persecution",
+    "steadfastness"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Moses",
+      "Pharaoh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Enraged by their faith, Pharaoh threatened to amputate their limbs on opposite sides and crucify them.",
+      "claim_bn": "ফিরআউন ক্ষিপ্ত হয়ে যাদুকরদের হাত-পা বিপরীত দিক থেকে কেটে শূলে চড়ানোর পৈশাচিক হুমকি দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

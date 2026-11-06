@@ -1,0 +1,71 @@
+{
+  "id": "51:28",
+  "simple_en": "When the visitors did not eat, Ibrahim felt a sense of fear inside. The angels quickly told him not to be afraid. They gave him glad news of a baby boy blessed with great knowledge, who was Ishaq (peace be upon him).",
+  "simple_bn": "তাঁরা যখন খাবার খেলেন না, তখন ইবরাহীমের মনে ভয়ের উদ্রেক হলো। ফেরেশতারা বললেন, আপনি ভয় পাবেন না এবং তাঁরা তাঁকে এক জ্ঞানী পুত্র সন্তানের সুসংবাদ দিলেন।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "خوف",
+      "lemma": "خِيفَة",
+      "meaning_en": "fear or apprehension",
+      "meaning_bn": "ভীতি বা আশঙ্কা",
+      "why_en": "The inner concern felt by Ibrahim when the guests did not eat."
+    },
+    {
+      "pos": 7,
+      "root": "بشر",
+      "lemma": "بُشِّرَ",
+      "meaning_en": "they gave glad news",
+      "meaning_bn": "তাঁরা সুসংবাদ দিলেন",
+      "why_en": "Relieving his anxiety with the joyful announcement of a child."
+    },
+    {
+      "pos": 9,
+      "root": "علم",
+      "lemma": "عَلِيم",
+      "meaning_en": "possessing knowledge",
+      "meaning_bn": "জ্ঞানী",
+      "why_en": "Describes the son Ishaq who would be blessed with divine wisdom."
+    }
+  ],
+  "lesson_en": "God removes fear from the faithful and replaces it with good news.",
+  "lesson_bn": "আল্লাহ মুমিনের ভয় দূর করে দেন এবং তাকে শুভ সংবাদ দিয়ে আশ্বস্ত করেন।",
+  "real_life_en": "When unexpected events make you feel anxious, remember that God is in full control. Pray for peace of heart and trust that relief will come.",
+  "real_life_bn": "কোনো অচেনা পরিস্থিতিতে ভয় বা শঙ্কা বোধ করলে আল্লাহর সাহায্য চান। তিনিই সমস্ত ভীতি দূর করে অন্তরে প্রশান্তি দান করেন।",
+  "themes": [
+    "stories of the prophets",
+    "angels",
+    "knowledge"
+  ],
+  "kinds": [
+    "story",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "ibrahim",
+      "ishaq"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "When the guests did not eat, Ibrahim felt fear, but the angels put him at ease and announced the birth of a knowledgeable son, Ishaq.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

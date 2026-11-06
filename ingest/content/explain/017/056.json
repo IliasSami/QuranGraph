@@ -1,0 +1,63 @@
+{
+  "id": "17:56",
+  "simple_en": "Say, 'Call upon those you claim to be gods besides Him. They do not possess any power to remove harm from you or to change your state.'",
+  "simple_bn": "বলুন, 'তোমরা আল্লাহ ছাড়া যাদের উপাস্য মনে করো তাদের ডাকো। তারা তো তোমাদের দুঃখ-কষ্ট দূর করার বা কোনো অবস্থা পরিবর্তন করার সামান্য ক্ষমতাও রাখে না।'",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "دعو",
+      "lemma": "دَعا",
+      "meaning_en": "invoke and call",
+      "meaning_bn": "তোমরা ডাকো",
+      "why_en": "Challenging polytheists to pray to their idols."
+    },
+    {
+      "pos": 4,
+      "root": "زعم",
+      "lemma": "زَعَمَ",
+      "meaning_en": "you claimed",
+      "meaning_bn": "তোমরা দাবি করেছিলে",
+      "why_en": "False assumptions about the divine power of created things."
+    }
+  ],
+  "lesson_en": "Created things cannot save you. Only the Creator possesses the real power to relieve distress and heal pain.",
+  "lesson_bn": "কোনো সৃষ্টি মানুষের বিপদ দূর করতে পারে না। একমাত্র আল্লাহই সকল সংকট দূর করার একক ক্ষমতার অধিকারী।",
+  "real_life_en": "Direct your prayers only to God when you face illness or debt. Good luck charms, saints, and statues cannot solve your problems.",
+  "real_life_bn": "অসুখ বা সংকটে পড়লে সরাসরি আল্লাহর সাহায্য প্রার্থনা করুন। কোনো জড়বস্তু বা মৃত ব্যক্তির কাছে অলৌকিক উদ্ধার আশা করবেন না।",
+  "themes": [
+    "false-gods",
+    "helplessness-of-idols",
+    "tawhid"
+  ],
+  "kinds": [
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "False deities claimed besides Allah have no power to remove harm or alter any situation for people.",
+      "claim_bn": "আল্লাহ ছাড়া কল্পিত অন্য কোনো উপাস্যের মানুষের বিপদ দূর করা বা অবস্থা পরিবর্তনের কোনো ক্ষমতা নেই।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

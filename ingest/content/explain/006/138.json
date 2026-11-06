@@ -1,0 +1,96 @@
+{
+  "id": "6:138",
+  "simple_en": "The pagans invented false rules about their animals and crops. They said only certain people could eat from them. They banned riding on the backs of some camels. They also slaughtered cattle without saying Allah's name, falsely claiming Allah ordered this. Allah will punish them for these invented lies.",
+  "simple_bn": "মুশরিকরা নিজেদের মনগড়া ধারণার বশে বলত, এই গবাদিপশু ও শস্যক্ষেত্র নিষিদ্ধ; আমরা যাদের অনুমতি দেব তারা ছাড়া কেউ তা খেতে পারবে না। তারা কিছু পশুর পিঠে চড়া বা বোঝা বহন হারাম করেছিল এবং কিছু পশু জবাইয়ের সময় আল্লাহর নাম নিত না। এসব কুসংস্কার তারা আল্লাহর ওপর অপবাদ দিয়ে চালু করেছিল। আল্লাহ অচিরেই তাদের এই মিথ্যা রচনার সমুচিত শাস্তি দেবেন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "حجر",
+      "lemma": "حِجْر",
+      "meaning_en": "restricted / forbidden",
+      "meaning_bn": "সংরক্ষিত বা নিষিদ্ধ",
+      "why_en": "Describes the arbitrary taboos pagans placed on certain livestock and harvests."
+    },
+    {
+      "pos": 14,
+      "root": "ظهر",
+      "lemma": "ظَهْر",
+      "meaning_en": "their backs",
+      "meaning_bn": "তাদের পিঠসমূহ",
+      "why_en": "Refers to animals pagans exempted from riding or carrying loads in the name of idols."
+    },
+    {
+      "pos": 21,
+      "root": "فري",
+      "lemma": "افْتِراء",
+      "meaning_en": "fabricating a lie",
+      "meaning_bn": "মিথ্যা অপবাদ দিয়ে",
+      "why_en": "Condemns the act of falsely attributing these superstitious rules to Allah."
+    }
+  ],
+  "lesson_en": "Only Allah can decide what is lawful. Making up false religious rules is a grave sin.",
+  "lesson_bn": "কোনো কিছুকে হালাল বা হারাম করার অধিকার কেবল আল্লাহর। ধর্মের নামে নিজেদের খেয়ালখুশিমতো বিধিনিষেধ তৈরি করা মারাত্মক অপরাধ।",
+  "real_life_en": "Do not avoid good foods because of bad luck or old myths. Follow what the Quran and the Prophet teach. If friends make up false religious rules, kindly show them the truth.",
+  "real_life_bn": "কুসংস্কার বা পারিবারিক ভুল প্রথার ওপর ভিত্তি করে কোনো খাবার বা বৈধ কাজকে নিজের জন্য হারাম করবেন না। হালাল-হারামের ক্ষেত্রে কুরআন ও সুন্নাহর সুস্পষ্ট দলিলের ওপর নির্ভর করুন এবং মনগড়া ধর্মীয় নিষেধাজ্ঞা থেকে দূরে থাকুন।",
+  "context_en": "This ayah details specific dietary and riding taboos invented by the pagans regarding their cattle and crops, falsely attributing them to Allah.",
+  "context_bn": "পশু ও শস্যের ওপর জাহেলি যুগের মুশরিকদের মনগড়া বিধিনিষেধ ও নিষেধাজ্ঞাগুলো এখানে সবিস্তারে উল্লেখ করে খণ্ডন করা হয়েছে।",
+  "themes": [
+    "superstitions",
+    "dietary laws",
+    "fabrication against Allah",
+    "cattle and crops",
+    "false taboos"
+  ],
+  "kinds": [
+    "prohibition",
+    "law",
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [
+      "polytheists"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "cattle",
+      "crops",
+      "camels' backs"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Pagans restricted certain livestock and crops, claiming only select people could eat them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They forbade riding certain camels and avoided mentioning Allah's name when slaughtering.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    },
+    {
+      "text": "Falsely attributing these human restrictions to Allah will bring severe divine retribution.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

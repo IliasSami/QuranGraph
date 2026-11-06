@@ -1,0 +1,67 @@
+{
+  "id": "56:79",
+  "simple_en": "None touch it except the purified. In the heavens, only pure angels touch the Preserved Tablet. Likewise, believers should be in a state of ritual cleanliness when holding the printed Quran.",
+  "simple_bn": "পবিত্র সত্তা ব্যতীত কেউ তা স্পর্শ করতে পারে না। আসমানে কেবল নিষ্পাপ ফেরেশতারা লাওহে মাহফুজ স্পর্শ করেন। একইভাবে দুনিয়ায় মুমিনদেরও পবিত্র অবস্থায় কুরআন স্পর্শ করার নিয়ম রয়েছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "مسس",
+      "lemma": "مَسَّ",
+      "meaning_en": "touches it",
+      "meaning_bn": "স্পর্শ করে",
+      "why_en": "Refers to physical and spiritual handling of the sacred book."
+    },
+    {
+      "pos": 4,
+      "root": "طهر",
+      "lemma": "مُطَهَّر",
+      "meaning_en": "the purified",
+      "meaning_bn": "পবিত্রগণ",
+      "why_en": "Points primarily to the angels free of sin, and to believers who perform ablution."
+    }
+  ],
+  "lesson_en": "Honor the words of Allah by washing and being clean before reading.",
+  "lesson_bn": "কুরআন পড়ার আগে ওজু করে পবিত্রতা অর্জনের মাধ্যমে আল্লাহর বাণীর প্রতি সম্মান প্রদর্শন করুন।",
+  "real_life_en": "A girl washes her hands and makes wudu before reading the holy book. She sits quietly and recites. Handling the book with clean hands shows her deep love for Allah's words.",
+  "real_life_bn": "কুরআন তিলাওয়াত করার আগে একজন নারী যত্ন সহকারে ওজু করে নেয়। পবিত্রতার সাথে কুরআন হাতে নেওয়া আল্লাহর বাণীর প্রতি গভীর ভালোবাসা ও শ্রদ্ধার বহিঃপ্রকাশ।",
+  "themes": [
+    "the Quran",
+    "angels",
+    "worship",
+    "the unseen"
+  ],
+  "kinds": [
+    "law",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "angels",
+      "preserved-tablet"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Only the purified angels touch the Preserved Tablet, and the Quran must be treated with physical and spiritual purity.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

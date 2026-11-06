@@ -1,0 +1,66 @@
+{
+  "id": "21:99",
+  "simple_en": "If these carved statues had truly been gods, they would never have entered the fire of Hell. But all of them will remain in that punishment forever.",
+  "simple_bn": "যদি এরা বাস্তবেই সত্য উপাস্য হতো, তবে কখনো জাহান্নামে প্রবেশ করত না। কিন্তু তারা সবাই সেখানে চিরকাল অবস্থান করবে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أله",
+      "lemma": "إِلٰه",
+      "meaning_en": "gods",
+      "meaning_bn": "উপাস্যসমূহ",
+      "why_en": "Discredited claim of divinity."
+    },
+    {
+      "pos": 6,
+      "root": "ورد",
+      "lemma": "وَرَدَ",
+      "meaning_en": "they entered",
+      "meaning_bn": "তারা প্রবেশ করল",
+      "why_en": "Ignominious descent into the fire."
+    }
+  ],
+  "lesson_en": "True gods cannot be harmed by fire. The ruin of idols in Hell shows that they are completely fake.",
+  "lesson_bn": "প্রকৃত উপাস্য আগুন বা কোনো শাস্তির স্পর্শের ঊর্ধ্বে। জাহান্নামের আগুনে মূর্তিদের নিক্ষেপ তাদের মিথ্যত্বকে চূড়ান্তভাবে প্রমাণ করে।",
+  "real_life_en": "Remember that created things have no power of their own. Put your trust in the Living God who made all things.",
+  "real_life_bn": "সৃষ্ট কোনো বস্তুর নিজস্ব ক্ষমতা নেই তা উপলব্ধি করুন। একমাত্র সেই চিরঞ্জীব প্রভুর ওপর ভরসা রাখুন যিনি সব কিছুর নিয়ন্ত্রক।",
+  "themes": [
+    "falsity-of-idols",
+    "hell",
+    "eternity",
+    "tawhid"
+  ],
+  "kinds": [
+    "argument",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Had idols possessed true divinity they would not enter Hell, but both idols and worshippers are consigned to it forever.",
+      "claim_bn": "মূর্তিগুলো যদি সত্যিই উপাস্য হতো তবে তারা জাহান্নামে যেত না, কিন্তু তাদের ও পূজারিদের সেখানেই চিরকাল থাকতে হবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

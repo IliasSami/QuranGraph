@@ -1,0 +1,64 @@
+{
+  "id": "35:20",
+  "simple_en": "Nor are layers of deep darkness equal to radiant light. Darkness represents the confusion of disbelief and sin, while light represents the clarity of divine truth, righteous deeds, and true faith.",
+  "simple_bn": "আর অন্ধকারসমূহ এবং আলো কখনো এক সমান হতে পারে না। অন্ধকার হলো কুফরী ও বিভ্রান্তির প্রতীক, আর আলো হলো সত্য দ্বীন ও হিদায়াতের পথ।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ظلم",
+      "lemma": "ظُلُمَة",
+      "meaning_en": "darknesses",
+      "meaning_bn": "অন্ধকারসমূহ",
+      "why_en": "Represents multiple misleading paths of falsehood and sin."
+    },
+    {
+      "pos": 4,
+      "root": "نور",
+      "lemma": "نُور",
+      "meaning_en": "the light",
+      "meaning_bn": "আলো",
+      "why_en": "Represents the singular, shining path of divine guidance and truth."
+    }
+  ],
+  "lesson_en": "Truth is a bright light that drives away the darkness of false beliefs.",
+  "lesson_bn": "সত্যের আলো সবসময় মিথ্যার অন্ধকারকে দূরীভূত করে মানুষকে সঠিক পথের সন্ধান দেয়।",
+  "real_life_en": "Choose friendships and habits that bring light into your life. Avoid environments of gossip, deceit, and darkness that pull your heart away from goodness.",
+  "real_life_bn": "এমন বন্ধুদের সাথে থাকুন যারা আপনাকে কল্যাণের পথে উৎসাহিত করে। এমন পরিবেশ এড়িয়ে চলুন যা অন্তরে পাপের অন্ধকার বয়ে আনে।",
+  "themes": [
+    "guidance",
+    "faith",
+    "parable",
+    "the Quran"
+  ],
+  "kinds": [
+    "parable",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "an-nur"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Darkness and light are not equal, symbolizing the distinct natures of disbelief and divine guidance.",
+      "claim_bn": "অন্ধকার ও আলো কখনোই সমান নয়, যা কুফর ও হিদায়াতের মধ্যকার ব্যবধানকে নির্দেশ করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

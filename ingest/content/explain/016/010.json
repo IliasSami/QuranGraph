@@ -1,0 +1,64 @@
+{
+  "id": "16:10",
+  "simple_en": "It is He who sends down fresh rain from the sky. From that water you drink, and by it plants grow for your herds to graze.",
+  "simple_bn": "তিনিই আকাশ থেকে উপকারী বারিধারা বর্ষণ করেন। তা থেকে তোমরা বিশুদ্ধ পানি পান করো এবং তা দ্বারাই গাছপালা জন্মে যাতে তোমরা গবাদিপশু চারণ করো।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "موه",
+      "lemma": "ماء",
+      "meaning_en": "water",
+      "meaning_bn": "পানি",
+      "why_en": "Life-giving rainfall sent from above."
+    },
+    {
+      "pos": 9,
+      "root": "شرب",
+      "lemma": "شَراب",
+      "meaning_en": "drink",
+      "meaning_bn": "পানীয়",
+      "why_en": "Pure drinking water necessary for human survival."
+    }
+  ],
+  "lesson_en": "Rain gives life to plants and herds. It is a vital gift from God.",
+  "lesson_bn": "বৃষ্টির পানি মানবজাতি ও পশুপাখির বেঁচে থাকার মৌলিক উৎস এবং এটি মহান আল্লাহর অনন্ত রহমত।",
+  "real_life_en": "Do not waste fresh water. Thank God when rain falls to water crops and fill wells.",
+  "real_life_bn": "দৈনন্দিন কাজে পানি অপচয় করবেন না। বৃষ্টির মতো সাধারণ নিয়ামতের জন্যও মহান স্রষ্টার শুকরিয়া আদায় করুন।",
+  "themes": [
+    "rain",
+    "water",
+    "blessings"
+  ],
+  "kinds": [
+    "creation",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "rain",
+      "water"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Allah sends rain from the sky for human drink and the growth of grazing foliage.",
+      "claim_bn": "আল্লাহ আকাশ থেকে পানি বর্ষণ করেন যা পানীয় হিসেবে ব্যবহৃত হয় এবং যার দ্বারা পশু চারণের গাছপালা জন্মায়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

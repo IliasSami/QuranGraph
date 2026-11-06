@@ -1,0 +1,80 @@
+{
+ "id": "5:94",
+ "simple_en": "O believers, Allah will test you with wild game that comes within easy reach of your hands and spears while you are in sacred pilgrim sanctity. This test makes clear who fears Him in private without seeing Him. Whoever breaks the rule after this warning will suffer a painful punishment.",
+ "simple_bn": "হে মু’মিনগণ, ইহরাম অবস্থায় আল্লাহ অবশ্যই তোমাদের কিছু শিকার দিয়ে পরীক্ষা করবেন। এসব শিকারী প্রাণী তোমাদের হাত ও বর্শার নাগালে আসবে। এর মাধ্যমে আল্লাহ প্রকাশ করে দেবেন কে তাঁকে গোপনে ভয় করে। এরপরও যে সীমালঙ্ঘন করবে, তার জন্য কঠিন শাস্তি রয়েছে।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "بلو",
+   "lemma": "بَلَوْ",
+   "meaning_en": "He will surely test you",
+   "meaning_bn": "তিনি অবশ্যই তোমাদের পরীক্ষা করবেন",
+   "why_en": "Divine testing uncovers the reality of a person's faith and self-control."
+  },
+  {
+   "pos": 8,
+   "root": "صيد",
+   "lemma": "صَيْد",
+   "meaning_en": "the game / hunting",
+   "meaning_bn": "শিকার",
+   "why_en": "Game animals brought near to pilgrims served as a tangible test of obedience."
+  },
+  {
+   "pos": 16,
+   "root": "غيب",
+   "lemma": "غَيْب",
+   "meaning_en": "in the unseen",
+   "meaning_bn": "গোপনে বা না দেখে",
+   "why_en": "Fearing Allah when alone and unseen proves genuine sincerity in devotion."
+  }
+ ],
+ "lesson_en": "Faith is tested when doing wrong is easy. Fear Allah even when no one sees you.",
+ "lesson_bn": "যখন পাপ করা সহজ এবং দেখার কেউ থাকে না, তখন আল্লাহকে ভয় করাই প্রকৃত তাকওয়া।",
+ "real_life_en": "A cashier finds lost money on the counter. No cameras or people are watching. She remembers that Allah sees her, so she hands the cash to the manager right away.",
+ "real_life_bn": "এক ক্যাশিয়ার কাউন্টারে অতিরিক্ত কিছু টাকা পড়ে থাকতে দেখেন যেখানে কোনো সিসিটিভি ক্যামেরা নেই। কেউ না দেখলেও আল্লাহ দেখছেন—এই বিশ্বাসে তিনি টাকাটি ফেরত বিভাগে জমা দেন।",
+ "context_en": "Announces a divine test regarding hunting game while in the state of ihram.",
+ "context_bn": "ইহরাম অবস্থায় নাগালের মধ্যে আসা শিকার বধ না করার মাধ্যমে মু’মিনদের পরীক্ষা নেওয়ার ঘোষণা।",
+ "themes": [
+  "trials",
+  "taqwa",
+  "the unseen",
+  "punishment"
+ ],
+ "kinds": [
+  "warning",
+  "law",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah tests believers with game within reach of hands and spears during ihram.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The test distinguishes those who fear Allah in the unseen from those who transgress.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

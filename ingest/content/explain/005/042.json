@@ -1,0 +1,97 @@
+{
+ "id": "5:42",
+ "simple_en": "These people listen constantly to falsehood and consume unlawful gain like bribes and usury. If they bring a dispute to you, O Prophet, you may judge between them or turn away. If you turn away, they cannot harm you at all. But if you choose to judge, then judge between them with complete fairness. Indeed, Allah loves those who act justly.",
+ "simple_bn": "এসব লোক সবসময় মিথ্যা কথা শুনতে অভ্যস্ত এবং ঘুষ ও সুদের মতো হারাম সম্পদ ভক্ষণ করে। হে নবী! তারা যদি কোনো বিরোধ নিষ্পত্তির জন্য আপনার কাছে আসে, তবে আপনি তাদের মাঝে বিচার করতে পারেন অথবা তাদের এড়িয়ে চলতে পারেন। আপনি এড়িয়ে গেলে তারা আপনার কোনো ক্ষতি করতে পারবে না। আর যদি বিচার করেন, তবে সম্পূর্ণ ন্যায়বিচারের সাথে ফায়সালা করুন। নিশ্চয়ই আল্লাহ ন্যায়পরায়ণদের ভালোবাসেন।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "سمع",
+   "lemma": "سَمّاع",
+   "meaning_en": "avid listeners",
+   "meaning_bn": "বেশি বেশি শ্রবণকারী",
+   "why_en": "Highlights how corrupt people eagerly seek out and spread false rumors."
+  },
+  {
+   "pos": 4,
+   "root": "سحت",
+   "lemma": "سُحْت",
+   "meaning_en": "unlawful wealth",
+   "meaning_bn": "হারাম সম্পদ",
+   "why_en": "Refers to ill-gotten money such as bribes and forbidden gains."
+  },
+  {
+   "pos": 22,
+   "root": "قسط",
+   "lemma": "قِسْط",
+   "meaning_en": "justice / equity",
+   "meaning_bn": "ন্যায়বিচার",
+   "why_en": "Emphasizes absolute fairness when passing judgment between people."
+  },
+  {
+   "pos": 26,
+   "root": "قسط",
+   "lemma": "مُقْسِط",
+   "meaning_en": "the just",
+   "meaning_bn": "ন্যায়পরায়ণগণ",
+   "why_en": "Describes those who act with fairness and whom Allah loves."
+  }
+ ],
+ "lesson_en": "Always act with justice. Never take bribes or unlawful wealth.",
+ "lesson_bn": "সকল পরিস্থিতিতে ন্যায়বিচার প্রতিষ্ঠা করুন এবং ঘুষ ও হারাম উপার্জন থেকে দূরে থাকুন।",
+ "real_life_en": "When helping to solve a family dispute or workplace conflict, treat both sides equally. Never let personal dislike or the hope of gifts sway you. Always stand firmly for fair treatment.",
+ "real_life_bn": "পরিবার বা কর্মক্ষেত্রে কোনো বিরোধ মেটানোর সময় উভয় পক্ষকে সমান দৃষ্টিতে দেখুন। কোনো উপহার বা ব্যক্তিগত পছন্দের কারণে পক্ষপাত করবেন না। সর্বদা সত্য ও ন্যায়ের পক্ষে থাকুন।",
+ "context_en": "Explains how the Prophet ﷺ was given discretion in arbitrating cases between non-Muslim disputants.",
+ "context_bn": "অমুসলিমদের পারস্পরিক বিরোধ মীমাংসার ক্ষেত্রে রাসূল ﷺ-কে বিচার করার বা এড়িয়ে চলার অধিকার দেওয়ার প্রেক্ষাপট।",
+ "themes": [
+  "justice",
+  "honesty",
+  "wealth",
+  "Prophet Muhammad ﷺ"
+ ],
+ "kinds": [
+  "command",
+  "ethics",
+  "law"
+ ],
+ "entities": {
+  "people": [
+   "Prophet Muhammad ﷺ"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Corrupt individuals listened to lies and consumed unlawful gains like bribery.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The Prophet ﷺ was given the choice to judge between non-Muslim disputants or turn away.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "When judging, divine law mandates strict justice, and Allah loves the just.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.94,
+ "uncertain": []
+}

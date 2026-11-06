@@ -1,0 +1,60 @@
+{
+  "id": "15:76",
+  "simple_en": "Those ruined towns still lie on an open road where people travel. Travelers passing by can see the ruins. These ruins remind us of what happened to past sinners.",
+  "simple_bn": "আর সেই ধ্বংসপ্রাপ্ত জনপদ এখনো লোক চলাচলের প্রধান পথের পাশেই বিদ্যমান। ওই পথ দিয়ে যাওয়া পথচারীরা স্বচক্ষে আল্লাহর শাস্তির নিদর্শন দেখতে পায়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "سبل",
+      "lemma": "سَبِيل",
+      "meaning_en": "a road",
+      "meaning_bn": "পথের",
+      "why_en": "A visible trade route."
+    },
+    {
+      "pos": 3,
+      "root": "قوم",
+      "lemma": "مُقِيم",
+      "meaning_en": "established",
+      "meaning_bn": "বিদ্যমান বা প্রতিষ্ঠিত",
+      "why_en": "Permanent and observable to passersby."
+    }
+  ],
+  "lesson_en": "Signs of past ruin are preserved as warnings. Do not travel through the earth with a closed heart.",
+  "lesson_bn": "অতীতের ধ্বংসের নিদর্শনগুলো মানবজাতির সতর্কবার্তা হিসেবে টিকে থাকে। দুনিয়ায় চলার সময় চোখ ও মন খোলা রাখুন।",
+  "real_life_en": "Drivers pass an old ruined bridge by the roadside marked with a warning sign. The visible sight reminds everyone to slow down and stay cautious.",
+  "real_life_bn": "রাস্তার পাশে ভেঙে পড়ে থাকা পুরোনো সেতুর ধ্বংসাবশেষ দেখে চালকরা সতর্ক হয়। চোখের সামনে দৃশ্যমান সতর্কবার্তা মানুষকে ভুল করা থেকে বাঁচায়।",
+  "context_en": "Noting that the ruins of Sodom lay along the caravan route between the Hijaz and Syria.",
+  "context_bn": "হিজাজ থেকে সিরিয়া যাওয়ার পরিচিত বাণিজ্যিক কাফেলা পথের পাশেই লূতের কওমের ধ্বংসাবশেষ বিদ্যমান থাকার উল্লেখ।",
+  "themes": [
+    "travel",
+    "signs",
+    "warning"
+  ],
+  "kinds": [
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "unseen": [],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The overturned cities are situated along an established travel route visible to travelers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

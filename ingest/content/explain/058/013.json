@@ -1,0 +1,90 @@
+{
+  "id": "58:13",
+  "simple_en": "Did you fear poverty from giving charity before private meetings? You could not do it, and Allah excused you. So establish prayer, give zakat, and obey Allah and His Messenger. Allah is fully aware of all your deeds.",
+  "simple_bn": "তোমরা কি তোমাদের গোপন আলোচনার পূর্বে সাদাকা দিতে অসচ্ছলতার ভয় করছিলে? যেহেতু তোমরা তা করতে পারোনি এবং আল্লাহ তোমাদেরকে অব্যাহতি দিয়েছেন, তাই তোমরা নিয়মিত সালাত কায়েম করো, যাকাত দাও এবং আল্লাহ ও তাঁর রাসূলের আনুগত্য করো। আর তোমরা যা করো আল্লাহ সে বিষয়ে সম্যক অবগত।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "شفق",
+      "lemma": "أَشْفَقْ",
+      "meaning_en": "did you fear",
+      "meaning_bn": "তোমরা কি ভয় করছিলে",
+      "why_en": "Refers to the believers' hesitation about running out of money through frequent charity."
+    },
+    {
+      "pos": 11,
+      "root": "توب",
+      "lemma": "تابَ",
+      "meaning_en": "and forgave",
+      "meaning_bn": "এবং মার্জনা করলেন বা তওবা কবুল করলেন",
+      "why_en": "Allah granted ease by lifting the obligation of charity before private talks."
+    },
+    {
+      "pos": 15,
+      "root": "صلو",
+      "lemma": "صَلاة",
+      "meaning_en": "prayer",
+      "meaning_bn": "সালাত",
+      "why_en": "Directs focus back to the primary pillars of Islamic practice."
+    },
+    {
+      "pos": 17,
+      "root": "زكو",
+      "lemma": "زَكاة",
+      "meaning_en": "zakat",
+      "meaning_bn": "যাকাত",
+      "why_en": "The obligatory annual charity due on wealth for the poor."
+    }
+  ],
+  "lesson_en": "Hold fast to prayer and zakat. Thank Allah for the ease He grants.",
+  "lesson_bn": "দ্বীনের বিধানে ছাড় পেলে নিয়মিত সালাত ও যাকাতের মতো মৌলিক কর্তব্যে মনোনিবেশ করুন।",
+  "real_life_en": "A Muslim travels for work and finds it hard to keep extra voluntary fasts. He remembers that Allah loves ease for His servants. So he breaks his extra fast without guilt. Instead, he focuses on his daily prayers and gives food to a hungry person along the way.",
+  "real_life_bn": "এক ব্যক্তি দূর সফরে গিয়ে নফল রোজা রাখা কঠিন মনে করেন। তিনি মনে রাখেন যে আল্লাহ সহজ বিধান পছন্দ করেন, তাই তিনি রোজা ভেঙে ফেলেন। এর বদলে তিনি ফরজ সালাত সময়মতো আদায় করেন এবং পথে একজন অভাবী মুসাফিরকে সাহায্য করেন।",
+  "themes": [
+    "prayer",
+    "zakat",
+    "Allah's mercy",
+    "Prophet Muhammad ﷺ",
+    "law"
+  ],
+  "kinds": [
+    "law",
+    "command",
+    "address"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-khabir"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah eased the requirement of mandatory charity before private meetings with the Prophet ﷺ.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Believers are instructed to maintain prayer, pay zakat, and remain obedient to Allah and His Messenger.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

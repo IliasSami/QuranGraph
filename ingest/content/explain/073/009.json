@@ -1,0 +1,70 @@
+{
+ "id": "73:9",
+ "simple_en": "Allah is the Lord of the East and the West. He owns the entire universe and cares for all creation. There is no god worthy of worship except Him. Therefore, you should place all your trust in Him. Rely on Him to guide your life and protect your affairs.",
+ "simple_bn": "আল্লাহ পূর্ব ও পশ্চিমের রব। গোটা মহাবিশ্ব তাঁরই মালিকানাধীন এবং তিনিই সব সৃষ্টির দেখাশোনা করেন। তিনি ছাড়া সত্যিকারের কোনো উপাস্য নেই। তাই জীবনের প্রতিটি পদক্ষেপে কেবল তাঁর ওপরই সম্পূর্ণ ভরসা রাখা উচিত। তিনি একাই সব বিষয় পরিচালনার জন্য যথেষ্ট।",
+ "key_words": [
+  {
+   "pos": 1,
+   "root": "ربب",
+   "lemma": "رَبّ",
+   "meaning_en": "Lord",
+   "meaning_bn": "রব",
+   "why_en": "The Creator, Owner, and Sustainer of the entire universe."
+  },
+  {
+   "pos": 5,
+   "root": "أله",
+   "lemma": "إِلٰه",
+   "meaning_en": "deity, god",
+   "meaning_bn": "ইলাহ",
+   "why_en": "There is none worthy of worship except Allah alone."
+  },
+  {
+   "pos": 9,
+   "root": "وكل",
+   "lemma": "وَكِيل",
+   "meaning_en": "trustee, disposer of affairs",
+   "meaning_bn": "কর্মবিধায়ক",
+   "why_en": "One who relies fully on Allah knows his affairs are in the best hands."
+  }
+ ],
+ "lesson_en": "Allah controls everything, so trust Him with all your needs.",
+ "lesson_bn": "যেহেতু গোটা মহাবিশ্ব আল্লাহর নিয়ন্ত্রণে, তাই জীবনের সব বিষয়ে নিঃসংকোচে তাঁর ওপর ভরসা রাখুন।",
+ "real_life_en": "When you feel worried about money, health, or the future, do your best and leave the rest to Allah. Trusting Him removes anxiety from your heart because you know He is in control.",
+ "real_life_bn": "ভবিষ্যৎ, আয়-রোজগার বা পরিবারের সুস্থতা নিয়ে দুশ্চিন্তা হলে সাধ্যমতো চেষ্টা করুন এবং বাকিটা আল্লাহর হাতে ছেড়ে দিন। তাঁর ওপর ভরসা রাখলে মনের অস্থিরতা দূর হয়।",
+ "themes": [
+  "tawhid",
+  "trust in Allah",
+  "Allah's power"
+ ],
+ "kinds": [
+  "belief",
+  "command"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah is the Lord of the East and West and the only true deity, so believers must take Him as their Trustee and rely on Him.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

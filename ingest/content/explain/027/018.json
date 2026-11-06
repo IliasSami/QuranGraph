@@ -1,0 +1,68 @@
+{
+  "id": "27:18",
+  "simple_en": "When the army reached a valley of ants, a single ant warned the colony. She urged the other ants to enter their homes so that Solomon and his troops would not crush them by accident.",
+  "simple_bn": "সেনাবাহিনী যখন একটি পিপীলিকা অধ্যুষিত উপত্যকায় পৌঁছাল, তখন একটি পিপড়া তার পুরো জাতিকে সতর্ক করল। সে বলল যেন সবাই ঘরে প্রবেশ করে, যাতে সুলাইমান ও তাঁর বাহিনী অজান্তে তাদের পিষে না ফেলে।",
+  "key_words": [
+    {
+      "pos": 6,
+      "arabic": "ٱلنَّمْلِ",
+      "root": "نمل",
+      "lemma": "نَمْل",
+      "meaning_en": "the ants",
+      "meaning_bn": "পিপীলিকা",
+      "why_en": "The small creatures inhabiting the valley."
+    },
+    {
+      "pos": 12,
+      "arabic": "مَسَٰكِنَكُمْ",
+      "root": "سكن",
+      "lemma": "مَسْكَن",
+      "meaning_en": "your dwellings",
+      "meaning_bn": "তোমাদের আবাসস্থলে",
+      "why_en": "Safe homes entered to avoid harm."
+    }
+  ],
+  "lesson_en": "Care for others no matter how small they are. A kind heart warns people of danger.",
+  "lesson_bn": "সমাজের দুর্বল ও ক্ষুদ্রতম সদস্যের প্রতিও সচেতনতা ও সহমর্মিতা থাকা উচিত।",
+  "real_life_en": "Speak up to protect others from danger when you notice harm approaching. Small actions can save many lives.",
+  "real_life_bn": "কোনো বিপদ দেখলে আশপাশের মানুষকে সতর্ক করুন। অন্যকে রক্ষা করার জন্য ইতিবাচক পদক্ষেপ নিন।",
+  "themes": [
+    "sulayman",
+    "ants",
+    "mercy"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Solomon"
+    ],
+    "nations": [],
+    "places": [
+      "Valley of the Ants"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "ant"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "An ant in the valley warned its colony to take shelter lest Solomon's army crush them unknowingly.",
+      "claim_bn": "উপত্যকার এক পিপীলিকা নিজের জাতিকে সুলাইমানের বাহিনীর পদদলিত হওয়া থেকে বাঁচতে গর্তে প্রবেশের আহ্বান জানিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "16:91",
+  "simple_en": "Fulfill your covenant with Allah when you make a pledge. Do not break strong oaths after confirming them with God as your witness. Allah knows your deeds.",
+  "simple_bn": "তোমরা আল্লাহর সাথে অঙ্গীকার পূর্ণ করো যখন কোনো চুক্তি করো। আর আল্লাহকে সাক্ষী রেখে শপথ দৃঢ় করার পর তা ভঙ্গ করো না। তোমরা যা করো আল্লাহ তা জানেন।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "عهد",
+      "lemma": "عَهْد",
+      "meaning_en": "covenant",
+      "meaning_bn": "অঙ্গীকার বা চুক্তি",
+      "why_en": "Binding moral pacts made with God or men."
+    },
+    {
+      "pos": 7,
+      "root": "نقض",
+      "lemma": "نَقَضَتْ",
+      "meaning_en": "you break",
+      "meaning_bn": "তোমরা ভেঙে ফেলো",
+      "why_en": "Tearing up sacred oaths after ratifying them."
+    }
+  ],
+  "lesson_en": "Keeping promises is sacred in faith. Invoking God's name demands strict honesty.",
+  "lesson_bn": "অঙ্গীকার রক্ষা করা ইসলামের অন্যতম প্রধান শর্ত। আল্লাহর নামে শপথ করে তা ভঙ্গ করা বিশ্বাসঘাতকতা।",
+  "real_life_en": "Keep your word in contracts, marriage, and trade. Never break a serious promise for easy cash.",
+  "real_life_bn": "ব্যবসা ও জীবনের সব ক্ষেত্রে দেওয়া প্রতিশ্রুতি রক্ষা করুন। সামান্য লাভের জন্য শপথ ভঙ্গ করবেন না।",
+  "themes": [
+    "covenants",
+    "oaths",
+    "honesty"
+  ],
+  "kinds": [
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Believers are commanded to fulfill Allah's covenant and not break ratified oaths after making Allah a witness.",
+      "claim_bn": "আল্লাহর চুক্তি রক্ষা করতে এবং আল্লাহকে সাক্ষী রেখে শপথ করার পর তা ভঙ্গ না করতে নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "fiqh",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

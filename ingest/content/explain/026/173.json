@@ -1,0 +1,67 @@
+{
+  "id": "26:173",
+  "simple_en": "God rained down stones of baked clay upon them. How terrible was that rain for those who had been warned yet refused to change their ways.",
+  "simple_bn": "এবং আমি তাদের ওপর এক ভয়ংকর বৃষ্টির মতো পাথর বর্ষণ করলাম। সতর্ক করার পরও যারা মানেনি, তাদের জন্য সেই বর্ষণ কতই না মন্দ ছিল।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "مطر",
+      "lemma": "أُمْطِرَتْ",
+      "meaning_en": "We rained down",
+      "meaning_bn": "আমি বর্ষণ করলাম",
+      "why_en": "The catastrophic shower of stones sent from above."
+    },
+    {
+      "pos": 6,
+      "root": "نذر",
+      "lemma": "مُنذَر",
+      "meaning_en": "those who were warned",
+      "meaning_bn": "সতর্ককৃত ব্যক্তিগণ",
+      "why_en": "Those who had received ample warning yet refused to repent."
+    }
+  ],
+  "lesson_en": "Ignoring clear warnings brings ruin. Take heed before punishment falls.",
+  "lesson_bn": "নবীগণের সতর্কবার্তা অগ্রাহ্য করার পরিণতি চরম ভয়াবহ। আল্লাহর অবাধ্যদের জন্য প্রকৃতির নিয়ামতও কঠিন শাস্তির উপাদানে পরিণত হতে পারে।",
+  "real_life_en": "Heed good advice before harm strikes. Correct your course early when you are warned about a mistake.",
+  "real_life_bn": "জীবনে কোনো ভুল দেখলে সময় থাকতেই সতর্ক হোন। অন্যের পতন দেখে শিক্ষা নিন এবং নিজের সংশোধনের সুযোগ হাতছাড়া করবেন না।",
+  "themes": [
+    "divine-punishment",
+    "warning",
+    "retribution"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "lut"
+    ],
+    "nations": [
+      "qawm-lut"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "Rain"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God poured down upon them a devastating shower of marked baked clay stones; disastrous was that rain for a people who stubbornly disregarded warnings.",
+      "claim_bn": "আল্লাহ তাদের ওপর পাথরের এক ভয়ংকর বৃষ্টি বর্ষণ করলেন; সতর্কবার্তা অমান্যকারী সেই অবাধ্যদের জন্য বর্ষণটি ছিল অত্যন্ত মারাত্মক।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

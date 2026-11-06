@@ -1,0 +1,81 @@
+{
+  "id": "8:39",
+  "simple_en": "Fight against the oppressors until all persecution ends and people can pray in peace. If they stop their attacks, know that Allah sees all that they do.",
+  "simple_bn": "আর তোমরা তাদের বিরুদ্ধে সংগ্রাম করতে থাকবে যতক্ষণ না ফিতনা ও ধর্মীয় নিপীড়ন দূর হয় এবং দীন পূর্ণরূপে আল্লাহর জন্য হয়ে যায়। অতঃপর তারা যদি বিরত হয়, তবে তারা যা করে নিশ্চয়ই আল্লাহ তার সম্যক দ্রষ্টা।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قتل",
+      "lemma": "قاتَلَ",
+      "meaning_en": "fight against them",
+      "meaning_bn": "তোমরা সংগ্রাম করো / যুদ্ধ করো",
+      "why_en": "Engaging in armed defense against religious tyranny and oppression."
+    },
+    {
+      "pos": 5,
+      "root": "فتن",
+      "lemma": "فِتْنَة",
+      "meaning_en": "persecution / religious tyranny",
+      "meaning_bn": "ফিতনা / নিপীড়ন / শিরক",
+      "why_en": "Violent coercion and persecution barring people from practicing their faith."
+    },
+    {
+      "pos": 7,
+      "root": "دين",
+      "lemma": "دِين",
+      "meaning_en": "the religion / worship",
+      "meaning_bn": "দীন / আনুগত্য",
+      "why_en": "Freedom to worship God alone without fear of violent retribution."
+    }
+  ],
+  "lesson_en": "Righteous struggle aims to end oppression so people can worship God freely.",
+  "lesson_bn": "ন্যায়ের জন্য লড়াইয়ের মূল উদ্দেশ্য হলো জুলুম ও ধর্মীয় নিপীড়নের অবসান ঘটিয়ে সত্য প্রচারের স্বাধীনতা কায়েম করা।",
+  "real_life_en": "Stand up against bullies and unfair cruelty in your town. Everyone has a right to live in peace. Use your voice to help the weak and stop unfair attacks.",
+  "real_life_bn": "ধর্মীয় বা সামাজিক কোনো নিপীড়নকে প্রশ্রয় দেবেন না। সমাজে ন্যায়বিচার ও ধর্মীয় স্বাধীনতা নিশ্চিত করতে সাধ্যমতো ভূমিকা রাখুন।",
+  "context_en": "Defining the legitimate purpose of armed defense in Islam: eradicating religious coercion and tyranny until worship is unobstructed.",
+  "context_bn": "ইসলামে জিহাদের মূল লক্ষ্য নির্ধারণ—ধর্মীয় বলপ্রয়োগ ও ফিতনার উচ্ছেদ সাধন করে সত্যের স্বাধীনতা প্রতিষ্ঠা।",
+  "themes": [
+    "freedom of worship",
+    "ending persecution (fitnah)",
+    "struggle for justice",
+    "divine oversight"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers",
+      "oppressive combatants"
+    ],
+    "places": [
+      "Arabian Peninsula"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "al-Basir"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Sanctioned warfare is waged to eliminate persecution (fitnah) and guarantee the unhindered worship of Allah, ceasing immediately upon the enemy's desistance.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,106 @@
+{
+ "id": "5:27",
+ "simple_en": "Allah told the Prophet to recite the true story of the two sons of Adam. Both brothers presented a sacrifice to Allah. Allah accepted the offering of Abel because of his pure intention. He did not accept the offering of Cain. Out of envy, Cain threatened to kill his brother. Abel gently replied that Allah only accepts from those who fear Him.",
+ "simple_bn": "আল্লাহ তাঁর নবীকে আদমের দুই পুত্রের সত্য ঘটনা শুনিয়ে দেওয়ার নির্দেশ দিলেন। তাদের উভয়ে আল্লাহর সন্তুষ্টির জন্য কুরবানী পেশ করেছিল। হাবীল নিষ্ঠাবান হওয়ায় আল্লাহ তার কুরবানী কবুল করলেন, কিন্তু কাবীলের কুরবানী কবুল হলো না। এতে কাবীল হিংসায় জ্বলে উঠে ভাইকে হত্যার হুমকি দিল। হাবীল শান্তভাবে উত্তর দিল, আল্লাহ কেবল মুত্তাকীদের আমলই কবুল করেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "نبأ",
+   "lemma": "نَبَأ",
+   "meaning_en": "news / story",
+   "meaning_bn": "সংবাদ / কাহিনী",
+   "why_en": "Refers to the important, truthful account of humanity's first murder."
+  },
+  {
+   "pos": 9,
+   "root": "قرب",
+   "lemma": "قُرْبان",
+   "meaning_en": "a sacrifice / offering",
+   "meaning_bn": "কুরবানী",
+   "why_en": "The act of worship performed by both brothers to seek Allah's pleasure."
+  },
+  {
+   "pos": 10,
+   "root": "قبل",
+   "lemma": "تَقَبَّلَ",
+   "meaning_en": "was accepted",
+   "meaning_bn": "কবুল করা হলো",
+   "why_en": "Shows that Allah accepts deeds based on the purity of the heart."
+  },
+  {
+   "pos": 24,
+   "root": "وقي",
+   "lemma": "مُتَّقي",
+   "meaning_en": "the righteous / God-fearing",
+   "meaning_bn": "মুত্তাকী",
+   "why_en": "The golden principle that acceptance depends entirely on taqwa and sincerity."
+  }
+ ],
+ "lesson_en": "Keep your heart pure in worship. Allah accepts deeds only from the sincere.",
+ "lesson_bn": "ইবাদতে নিয়ত খাঁটি রাখুন। আল্লাহ কেবল নিষ্ঠাবান মুত্তাকীদের আমলই কবুল করেন।",
+ "real_life_en": "Two colleagues work on a charity project. One seeks praise and fame, while the other works quietly for Allah. When the sincere worker is appreciated, the proud one feels jealous. Sincerity brings divine acceptance, not outer show.",
+ "real_life_bn": "দুজন মানুষ দান-সদকা করে। একজন মানুষের বাহবা চায়, অন্যজন কেবল আল্লাহর সন্তুষ্টি খোঁজে। খ্যাতি না পেয়ে প্রথমজন হতাশ ও হিংসুক হয়ে ওঠে। আমাদের জানা উচিত, লৌকিকতায় কোনো সওয়াব নেই, আল্লাহ কেবল অন্তরের নিষ্ঠা দেখেন।",
+ "context_en": "Begins the narrative of Adam's two sons to show how envy leads to violence and sin.",
+ "context_bn": "হিংসা কীভাবে মানুষকে অপরাধ ও ভ্রাতৃহত্যার মতো জঘন্য পাপে লিপ্ত করে, তা দেখানোর জন্য আদমের দুই পুত্রের ঘটনা।",
+ "themes": [
+  "taqwa",
+  "worship",
+  "stories of the prophets",
+  "trials",
+  "human nature",
+  "greed"
+ ],
+ "kinds": [
+  "story",
+  "warning",
+  "ethics"
+ ],
+ "entities": {
+  "people": [
+   "Adam (peace be upon him)",
+   "Abel",
+   "Cain"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "sacrifice"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah instructed the Prophet to recite the true story of Adam's two sons who each offered a sacrifice.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "The sacrifice of one was accepted while the other was rejected, prompting the jealous brother to threaten murder.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "The righteous brother replied that Allah accepts deeds only from the God-fearing.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,63 @@
+{
+  "id": "37:70",
+  "simple_en": "They rushed along in the footsteps of their ancestors without pause or thought. It was as if they were being driven by a frenzy, never stopping to ask whether their path was right or wrong.",
+  "simple_bn": "তারা কোনো চিন্তা-ভাবনা ছাড়াই দ্রুতবেগে তাদের পূর্বপুরুষদের পদাঙ্ক অনুসরণ করেছিল। যেন তাদের কোনো অদৃশ্য শক্তি হাঁকিয়ে নিয়ে যাচ্ছিল, তারা কখনো ভেবে দেখেনি তাদের এই পথ সঠিক নাকি ভুল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أثر",
+      "lemma": "أَثَر",
+      "meaning_en": "their footsteps",
+      "meaning_bn": "তাদের পদাঙ্ক",
+      "why_en": "Refers to the false path and customs left by past generations."
+    },
+    {
+      "pos": 4,
+      "root": "هرع",
+      "lemma": "يُهْرَعُ",
+      "meaning_en": "they rushed / hastened",
+      "meaning_bn": "দ্রুতবেগে ধাবিত হওয়া",
+      "why_en": "Describes reckless, unthinking speed in following falsehood."
+    }
+  ],
+  "lesson_en": "Haste without reflection blinds the heart and leads to destruction.",
+  "lesson_bn": "ভেবেচিন্তে সিদ্ধান্ত না নিয়ে তাড়াহুড়ো করে ভুল পথে চলা অন্তরের অন্ধত্ব ডেকে আনে।",
+  "real_life_en": "When social trends pressure you to follow the crowd, pause and reflect. Make decisions based on clear conscience and faith.",
+  "real_life_bn": "সামাজিক চাপ বা ফ্যাশনের স্রোতে গা না ভাসিয়ে একটু থামুন। বিবেক ও দ্বীনি শিক্ষার আলোকে সঠিক সিদ্ধান্ত গ্রহণ করুন।",
+  "themes": [
+    "misguidance",
+    "human nature",
+    "heedlessness"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "hell"
+    ],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "They hastily rushed to follow in the misguided footsteps of their forefathers without reflection.",
+      "claim_bn": "তারা কোনো বিচার-বিবেচনা ছাড়াই দ্রুতবেগে তাদের পিতৃপুরুষদের পদাঙ্ক অনুসরণে ছুটে গিয়েছিল।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,65 @@
+{
+  "id": "26:152",
+  "simple_en": "These corrupt men spread disorder and harm across the land. They do not fix problems or bring peace. They only bring ruin to their own people.",
+  "simple_bn": "যারা পৃথিবীতে অশান্তি ও বিশৃঙ্খলা সৃষ্টি করে বেড়ায় এবং কোনো সংস্কারমূলক বা ভালো কাজ করে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "فسد",
+      "lemma": "أَفْسَدُ",
+      "meaning_en": "they spread corruption",
+      "meaning_bn": "তারা বিশৃঙ্খলা বা অনিষ্ট সৃষ্টি করে",
+      "why_en": "Spreading moral harm, injustice, and strife in society."
+    },
+    {
+      "pos": 6,
+      "root": "صلح",
+      "lemma": "أَصْلَحَ",
+      "meaning_en": "they do not reform",
+      "meaning_bn": "তারা সংশোধন করে না",
+      "why_en": "Total neglect of constructive reform and righteousness."
+    }
+  ],
+  "lesson_en": "True leaders work for peace and reform, not for harm.",
+  "lesson_bn": "সমাজে অশান্তি ছড়ানো এবং সংস্কারে বাধা দেওয়া চরম অন্যায়। একজন মুমিনের দায়িত্ব হলো শান্তি রক্ষা করা এবং ভালো কাজের প্রসার ঘটানো।",
+  "real_life_en": "Be a force for good in your town. Help settle disputes calmly, care for public places, and work to make things better.",
+  "real_life_bn": "আপনার সমাজে বা কর্মস্থলে বিশৃঙ্খলা রোধে এগিয়ে আসুন। কোনো অন্যায় বা বিবাদ দেখলে তা মীমাংসা করার চেষ্টা করুন এবং ইতিবাচক পরিবেশ গড়ে তুলুন।",
+  "themes": [
+    "corruption",
+    "societal-harm",
+    "justice"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "salih"
+    ],
+    "nations": [
+      "thamud"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "These corrupt leaders spread mischief, sin, and oppression across the land, completely neglecting righteous reform and reconciliation.",
+      "claim_bn": "এসব অসৎ নেতা পৃথিবীতে পাপাচার ও অনিষ্ট ছড়িয়ে বেড়ায় এবং কখনো কোনো সংশোধনমূলক কাজ করে না।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

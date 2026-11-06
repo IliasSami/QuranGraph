@@ -1,0 +1,83 @@
+{
+  "id": "50:36",
+  "simple_en": "Allah tells people to remember how many ancient nations were destroyed before them. Those people were far stronger in physical might. They traveled through the lands searching for safety. Yet when punishment came, they found no place to hide.",
+  "simple_bn": "আল্লাহ মক্কার কাফিরদের মনে করিয়ে দেন যে অতীতে বহু পরাক্রমশালী জাতিকে তিনি ধ্বংস করেছেন। তারা শক্তিতে এদের চেয়ে অনেক বেশি বলবান ছিল এবং সুরক্ষার আশায় দেশে দেশে বিচরণ করেছিল। কিন্তু শাস্তি এলে তারা পালানোর কোনো পথ পায়নি।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "هلك",
+      "lemma": "أَهْلَكَ",
+      "meaning_en": "We destroyed",
+      "meaning_bn": "আমরা ধ্বংস করেছি",
+      "why_en": "The divine end brought upon corrupt and tyrannical societies."
+    },
+    {
+      "pos": 9,
+      "root": "بطش",
+      "lemma": "بَطْش",
+      "meaning_en": "might or physical force",
+      "meaning_bn": "শক্তি বা প্রতাপ",
+      "why_en": "Immense physical strength and military power that could not ward off punishment."
+    },
+    {
+      "pos": 10,
+      "root": "نقب",
+      "lemma": "نَقَّبُ",
+      "meaning_en": "they traveled and dug through",
+      "meaning_bn": "তারা বিচরণ করেছিল বা অনুসন্ধান করেছিল",
+      "why_en": "Exploring and dominating regions seeking an escape from doom."
+    },
+    {
+      "pos": 15,
+      "root": "حيص",
+      "lemma": "مَحِيص",
+      "meaning_en": "escape or refuge",
+      "meaning_bn": "পলায়ন বা আশ্রয়ের স্থান",
+      "why_en": "There was no place to hide from the decree of Allah."
+    }
+  ],
+  "lesson_en": "No army or wealth can protect a nation that defies Allah. Real safety comes only from faith.",
+  "lesson_bn": "আল্লাহর নাফরমানি করলে কোনো সামরিক শক্তি বা বৈষয়িক উন্নতি ধ্বংসের হাত থেকে জাতিকে বাঁচাতে পারে না।",
+  "real_life_en": "When you visit old ruins or read about past empires, pause and reflect. Human pride crumbles quickly before the command of Allah.",
+  "real_life_bn": "প্রাচীন ঐতিহাসিক নিদর্শন দেখার সময় চিন্তা করুন যে আল্লাহর হুকুমের সামনে মানুষের দম্ভ কত দ্রুত ধূলিসাৎ হয়ে যায়।",
+  "context_en": "The narrative turns back to address the living disbelievers by reminding them of fallen civilizations.",
+  "context_bn": "অতীতের শক্তিশালী জাতিসমূহের করুণ পরিণতির কথা স্মরণ করিয়ে দিয়ে বর্তমানের কাফিরদের সতর্ক করা হয়েছে।",
+  "themes": [
+    "past nations",
+    "punishment",
+    "arrogance",
+    "reflection"
+  ],
+  "kinds": [
+    "warning",
+    "argument",
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Past generations were far stronger and traveled the lands, yet they found no escape from Allah's punishment.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

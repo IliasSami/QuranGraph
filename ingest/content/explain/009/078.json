@@ -1,0 +1,75 @@
+{
+  "id": "9:78",
+  "simple_en": "Did they not know that Allah knows their hidden secrets and their quiet talks? Did they forget that Allah knows everything in the unseen world?",
+  "simple_bn": "তারা কি জানে না যে নিশ্চয় আল্লাহ তাদের অন্তরের গোপন কথা ও তাদের গোপন পরামর্শ জানেন এবং নিশ্চয় আল্লাহ সমস্ত অদৃশ্য বিষয় সম্পর্কে সম্যক অবগত?",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "سرر",
+      "lemma": "سِرّ",
+      "meaning_en": "secrets / inner thoughts",
+      "meaning_bn": "গোপন কথা / মনের ভাব",
+      "why_en": "Thoughts concealed from human ears."
+    },
+    {
+      "pos": 7,
+      "root": "نجو",
+      "lemma": "نَجْوَى",
+      "meaning_en": "private whispers / plots",
+      "meaning_bn": "গোপন পরামর্শ / ফিসফিসানি",
+      "why_en": "Secret meetings plotting harm."
+    },
+    {
+      "pos": 10,
+      "root": "علم",
+      "lemma": "عَلّام",
+      "meaning_en": "all-knowing",
+      "meaning_bn": "সম্যক অবগত",
+      "why_en": "The absolute knowledge of Allah encompassing all secrets."
+    }
+  ],
+  "lesson_en": "Allah hears every whisper and knows every secret thought of our hearts.",
+  "lesson_bn": "মানুষের ফিসফিস করে বলা গোপন কথাও আল্লাহর কাছে সম্পূর্ণ প্রকাশ্য।",
+  "real_life_en": "Act with integrity even when you are completely alone or in private chats. God sees and knows everything you do and say.",
+  "real_life_bn": "একান্তে বা গোপন আলাপেও সততা বজায় রাখুন; যা কিছু মানুষের আড়ালে করা হয় তাও আল্লাহর জানা।",
+  "themes": [
+    "omniscience of Allah",
+    "private whispers",
+    "the unseen"
+  ],
+  "kinds": [
+    "argument",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [
+      "the unseen"
+    ],
+    "names_of_allah": [
+      "Allah",
+      "Knower of the unseen"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah possesses perfect knowledge of all secret conspiracies, whispered plots, and unseen thoughts.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "9:107",
+  "simple_en": "There are those who built a mosque to cause harm, disbelief, and division among believers. They wanted a base for those who fought Allah and His Messenger before. They swear: We intended only good. But Allah testifies that they are liars.",
+  "simple_bn": "আর কিছু লোক ক্ষতিসাধন, কুফরি বিস্তার এবং মুমিনদের মধ্যে বিভেদ সৃষ্টির উদ্দেশ্যে একটি মসজিদ তৈরি করেছে। তারা এমন এক ব্যক্তির ঘাঁটি বানাতে চেয়েছিল যে আগে থেকেই আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে লড়াই করেছে। তারা শপথ করে বলে: আমরা কেবল ভালোই চেয়েছিলাম। কিন্তু আল্লাহ সাক্ষ্য দিচ্ছেন যে তারা নির্ভেজাল মিথ্যাবাদী।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سجد",
+      "lemma": "مَسْجِد",
+      "meaning_en": "mosque",
+      "meaning_bn": "মসজিদ",
+      "why_en": "Building a pseudo-mosque (Dirar) with subversive motives."
+    },
+    {
+      "pos": 4,
+      "root": "ضرر",
+      "lemma": "ضِرار",
+      "meaning_en": "to cause harm",
+      "meaning_bn": "ক্ষতিসাধনের উদ্দেশ্যে",
+      "why_en": "Undermining the legitimate community of Quba."
+    },
+    {
+      "pos": 6,
+      "root": "فرق",
+      "lemma": "تَفْرِيق",
+      "meaning_en": "causing division",
+      "meaning_bn": "বিভেদ সৃষ্টি",
+      "why_en": "Splitting the unified congregation of believers."
+    }
+  ],
+  "lesson_en": "Never build places of worship to cause harm or split people apart.",
+  "lesson_bn": "ধর্মীয় প্রতীক বা উপাসনালয়কে মানুষের মধ্যে বিভেদ সৃষ্টির কাজে ব্যবহার করা জঘন্য অপরাধ।",
+  "real_life_en": "Beware of leaders who start new religious or social factions just to create conflict and gain power. Unity and goodwill must come first.",
+  "real_life_bn": "ধর্ম বা সমাজসেবার নাম করে যারা মানুষের মধ্যে বিভাজন ও হিংসা ছড়ায়, তাদের চক্রান্ত থেকে সবসময় সতর্ক থাকুন।",
+  "themes": [
+    "Masjid al-Dirar",
+    "religious hypocrisy",
+    "dividing believers"
+  ],
+  "kinds": [
+    "warning",
+    "story",
+    "prohibition"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "hypocrites"
+    ],
+    "places": [
+      "Medina",
+      "Masjid al-Dirar"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "mosque"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Hypocrites built Masjid al-Dirar to undermine the Prophet and fracture Muslims, but divine revelation exposed their conspiracy.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

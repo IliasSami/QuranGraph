@@ -1,0 +1,83 @@
+{
+ "id": "4:82",
+ "simple_en": "Do they not reflect upon the Quran with care? If it had come from anyone other than Allah, they would surely find many contradictions and errors within it. Its perfect harmony proves that it is divine truth.",
+ "simple_bn": "তারা কি কুরআন নিয়ে গভীরভাবে চিন্তা-ভাবনা করে না? এটি যদি আল্লাহ ছাড়া অন্য কারো পক্ষ থেকে হতো, তবে তারা এতে বহু বৈপরীত্য ও গরমিল দেখতে পেত। এর নিখুঁত সামঞ্জস্যই প্রমাণ করে যে এটি আল্লাহর সত্য বাণী।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "دبر",
+   "lemma": "يَتَدَبَّرُ",
+   "meaning_en": "they ponder or reflect deeply",
+   "meaning_bn": "তারা গভীরভাবে চিন্তা-ভাবনা করে",
+   "why_en": "Calls for deep contemplation of the meanings, consistency, and wisdom of the Quran."
+  },
+  {
+   "pos": 3,
+   "root": "قرأ",
+   "lemma": "قُرْءان",
+   "meaning_en": "the Quran",
+   "meaning_bn": "কুরআন",
+   "why_en": "The final divine revelation sent down to guide humanity."
+  },
+  {
+   "pos": 12,
+   "root": "خلف",
+   "lemma": "اخْتِلاف",
+   "meaning_en": "contradiction or inconsistency",
+   "meaning_bn": "বৈপরীত্য বা মতভেদ",
+   "why_en": "Affirms that divine revelation is completely free of any flaws or contradictions."
+  }
+ ],
+ "lesson_en": "Reflect deeply on the Quran to see its divine truth and complete harmony.",
+ "lesson_bn": "কুরআনের অর্থ ও শিক্ষা নিয়ে গভীরভাবে চিন্তা করুন, কারণ এতে কোনো ভুল বা অসঙ্গতি নেই।",
+ "real_life_en": "When doubts cross your mind about faith, read the Quran with an open heart. Ponder its verses and teachings. You will find clear answers, wisdom, and peace that no human speech can match.",
+ "real_life_bn": "দ্বীন নিয়ে কোনো সংশয় জাগলে মন দিয়ে অর্থ বুঝে কুরআন পাঠ করুন। এর গভীর প্রজ্ঞা ও নির্ভুল শিক্ষা আপনার হৃদয়কে প্রশান্তি দেবে এবং ঈমান মজবুত করবে।",
+ "context_en": "Challenges doubters and hypocrites to examine the Quran, showing that its flawless harmony proves its divine origin.",
+ "context_bn": "সংশয়বাদী ও মুনাফিকদের প্রতি চ্যালেঞ্জ ছুড়ে দেওয়া হয়েছে যে, কুরআনের নিখুঁত সামঞ্জস্যই এর ঐশী উৎস হওয়ার প্রমাণ।",
+ "themes": [
+  "the Quran",
+  "reflection",
+  "revelation",
+  "truth"
+ ],
+ "kinds": [
+  "argument",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": [
+   "the Quran"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Allah urges people to reflect deeply on the text and guidance of the Quran.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "If the Quran were authored by humans or from other than Allah, it would contain numerous contradictions and discrepancies.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

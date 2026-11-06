@@ -1,0 +1,79 @@
+{
+  "id": "63:9",
+  "simple_en": "Believers are warned not to let their wealth or their children distract them from the remembrance of Allah. Family and money are blessings, but they must never make you forget your duties to God. Whoever allows worldly things to distract them will be the real losers in the end.",
+  "simple_bn": "হে মুমিনগণ, তোমাদের ধন-সম্পদ ও সন্তানসন্ততি যেন তোমাদেরকে আল্লাহর স্মরণ থেকে গাফেল না করে। পার্থিব এই বিষয়গুলো গুরুত্বপূর্ণ হলেও তা যেন কখনো দ্বীনের কর্তব্যের চেয়ে বড় না হয়। যারা এর মোহে পড়ে প্রভুকে ভুলে যাবে, তারাই হবে প্রকৃত ক্ষতিগ্রস্ত।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "لهو",
+      "lemma": "أَلْهَى",
+      "meaning_en": "divert and distract you",
+      "meaning_bn": "তোমাদের উদাসীন না করে",
+      "why_en": "Warning against becoming so consumed by worldly affairs that faith is forgotten."
+    },
+    {
+      "pos": 6,
+      "root": "مول",
+      "lemma": "مال",
+      "meaning_en": "your wealth",
+      "meaning_bn": "তোমাদের ধন-সম্পদ",
+      "why_en": "Material possessions that easily consume human time and attention."
+    },
+    {
+      "pos": 8,
+      "root": "ولد",
+      "lemma": "وَلَد",
+      "meaning_en": "your children",
+      "meaning_bn": "তোমাদের সন্তানসন্ততি",
+      "why_en": "Family attachments that can tempt people to neglect divine duties."
+    },
+    {
+      "pos": 17,
+      "root": "خسر",
+      "lemma": "خاسِر",
+      "meaning_en": "the real losers",
+      "meaning_bn": "ক্ষতিগ্রস্ত ব্যক্তিগণ",
+      "why_en": "Those who trade eternal salvation for temporary worldly enjoyment."
+    }
+  ],
+  "lesson_en": "Enjoy the blessings of family and wealth, but never let them distract you from your prayers and faith.",
+  "lesson_bn": "সম্পদ ও পরিবারের দায়িত্ব পালন করার পাশাপাশি আল্লাহর ইবাদতকে সর্বদা জীবনে সর্বোচ্চ অগ্রাধিকার দেওয়া উচিত।",
+  "real_life_en": "A businessman gets so busy closing sales and buying gifts for his kids that he misses his prayers for days. When life slips away, the money stays behind and only his missed prayers remain. Keeping balance protects what matters most.",
+  "real_life_bn": "জীবিকার সন্ধানে মানুষ অনেক সময় এতই ব্যস্ত হয়ে পড়ে যে নিজের আত্মিক চাহিদার কথা ভুলে যায়। কাজের ভিড়েও সময়মতো সালাত আদায় করা জীবনকে সুন্দর ও ভারসাম্যপূর্ণ রাখে।",
+  "themes": [
+    "danger of worldly distractions",
+    "wealth and children",
+    "remembering Allah",
+    "ultimate loss"
+  ],
+  "kinds": [
+    "address",
+    "prohibition",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Believers are warned not to let wealth or children divert them from Allah's remembrance, for whoever does so is among the true losers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

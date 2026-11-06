@@ -1,0 +1,74 @@
+{
+  "id": "17:1",
+  "simple_en": "Glory be to Allah who carried His servant Muhammad by night. He traveled from the Sacred Mosque in Makkah to the Farthest Mosque in Jerusalem. God blessed the land around it to show him great signs. God hears and sees all.",
+  "simple_bn": "পবিত্র ও মহিমাময় আল্লাহ, যিনি তাঁর বান্দা মুহাম্মদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে রাতে মক্কার মসজিদুল হারাম থেকে জেরুজালেমের মসজিদুল আকসায় অলৌকিক ভ্রমণ করিয়েছিলেন। তিনি এর চারপাশ বরকতময় করেছেন যেন তাঁকে কিছু নিদর্শন দেখাতে পারেন। নিশ্চয় তিনি সর্বশ্রোতা ও সর্বদ্রষ্টা।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "سبح",
+      "lemma": "سُبْحان",
+      "meaning_en": "glory be to Him",
+      "meaning_bn": "পবিত্র ও মহিমাময়",
+      "why_en": "Exalting Allah far above any flaw or incapacity."
+    },
+    {
+      "pos": 3,
+      "root": "سري",
+      "lemma": "أَسْرَى",
+      "meaning_en": "He took by night",
+      "meaning_bn": "রাতে ভ্রমণ করালেন",
+      "why_en": "The miraculous nocturnal ascent of Isra."
+    }
+  ],
+  "lesson_en": "God honors His sincere servants with great signs. Miracles prove His absolute power over time and space.",
+  "lesson_bn": "আল্লাহ তাঁর প্রিয় বান্দাদের বিশেষ সম্মান ও নিদর্শন দেখান। এই অলৌকিক সফর স্রষ্টার অসীম ক্ষমতার প্রমাণ বহন করে।",
+  "real_life_en": "Turn to God during times of sadness and pain. Just as He comforted the Prophet with this blessed night, He brings ease after hardship.",
+  "real_life_bn": "কষ্টের সময়েও আল্লাহর ওপর অবিচল আস্থা রাখুন। দুঃখের পরেই আল্লাহ মুমিনের জন্য সান্ত্বনা ও সম্মান উন্মুক্ত করেন।",
+  "themes": [
+    "isra",
+    "prophethood",
+    "miracles",
+    "masjid-al-aqsa"
+  ],
+  "kinds": [
+    "praise",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [
+      "al-Masjid al-Haram",
+      "al-Masjid al-Aqsa",
+      "Makkah",
+      "Jerusalem"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "as-Sami",
+      "al-Basir"
+    ],
+    "events": [
+      "al-Isra"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah took Prophet Muhammad on the night journey from the Sacred Mosque in Makkah to the distant Mosque in Jerusalem to show him divine signs.",
+      "claim_bn": "আল্লাহ নবী মুহাম্মদকে রাতে মসজিদুল হারাম থেকে মসজিদুল আকসায় ভ্রমণ করিয়েছিলেন তাঁর কুদরতের নিদর্শন দেখানোর জন্য।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

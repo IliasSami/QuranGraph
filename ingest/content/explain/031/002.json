@@ -1,0 +1,61 @@
+{
+  "id": "31:2",
+  "simple_en": "These verses belong to the wise Book revealed by God. The Quran is filled with sound wisdom and perfect judgment. It gives clear teachings that bring order, justice, and moral guidance to human life.",
+  "simple_bn": "এই আয়াতগুলো প্রজ্ঞাময় কিতাবের অংশ, যা মহান আল্লাহর পক্ষ থেকে অবতীর্ণ হয়েছে। এই কিতাব মানুষকে সত্য, ন্যায়বিচার ও সঠিক পথের সন্ধান দেয়।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Book",
+      "meaning_bn": "কিতাব",
+      "why_en": "Refers to the Quran revealed by God."
+    },
+    {
+      "pos": 4,
+      "root": "حكم",
+      "lemma": "حَكِيم",
+      "meaning_en": "the Wise",
+      "meaning_bn": "প্রজ্ঞাময়",
+      "why_en": "Describes the divine Book as full of perfect wisdom."
+    }
+  ],
+  "lesson_en": "The Quran is a book of true wisdom that guides humanity to what is best.",
+  "lesson_bn": "কুরআন এমন এক প্রজ্ঞাপূর্ণ কিতাব যা মানুষকে সঠিক ও সুন্দর জীবনের পথ দেখায়।",
+  "real_life_en": "Turn to the Quran when you need guidance. Its wisdom will help you make good choices every day. Let its lessons shape your home and your actions.",
+  "real_life_bn": "জীবনের যেকোনো সংকট বা দ্বিধাদ্বন্দ্বে কুরআনের দিকনির্দেশনা গ্রহণ করুন। এর শিক্ষা আপনার চরিত্র ও আচরণকে সুন্দর করে তুলবে।",
+  "themes": [
+    "quran",
+    "wisdom",
+    "revelation"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "belief"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The verses of the Quran are described as being part of a Book that is full of divine wisdom and guidance.",
+      "claim_bn": "কুরআনের আয়াতসমূহ এক প্রজ্ঞাময় কিতাবের অংশ হিসেবে মানুষকে সৎপথের দিশা দেয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

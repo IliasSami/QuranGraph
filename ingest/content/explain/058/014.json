@@ -1,0 +1,85 @@
+{
+  "id": "58:14",
+  "simple_en": "Have you seen the hypocrites who ally with people with whom Allah is angry? They belong neither to the believers nor to those disbelievers. They swear false oaths knowing that they are lying.",
+  "simple_bn": "আপনি কি ওই মুনাফিকদের দেখেননি যারা এমন এক সম্প্রদায়ের সাথে বন্ধুত্ব করে যাদের প্রতি আল্লাহ ক্রুদ্ধ হয়েছেন? তারা না তোমাদের দলভুক্ত, না তাদের দলভুক্ত। তারা জেনেশুনে মিথ্যা শপথ করে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "ولي",
+      "lemma": "تَوَلَّى",
+      "meaning_en": "allied with",
+      "meaning_bn": "বন্ধুত্ব করল বা দলভুক্ত হলো",
+      "why_en": "Forming loyal bonds with enemies of Islam against the Muslims."
+    },
+    {
+      "pos": 7,
+      "root": "غضب",
+      "lemma": "غَضِبَ",
+      "meaning_en": "is angry",
+      "meaning_bn": "ক্রোধ প্রকাশ করেছেন",
+      "why_en": "Points to those who earned divine wrath through stubborn disbelief and betrayal."
+    },
+    {
+      "pos": 15,
+      "root": "حلف",
+      "lemma": "حَلَفْ",
+      "meaning_en": "and they swear",
+      "meaning_bn": "এবং তারা শপথ করে",
+      "why_en": "Using false oaths as a weapon to pretend loyalty."
+    },
+    {
+      "pos": 17,
+      "root": "كذب",
+      "lemma": "كَذِب",
+      "meaning_en": "falsehood",
+      "meaning_bn": "মিথ্যা",
+      "why_en": "Deliberately uttering lies while fully knowing the truth."
+    }
+  ],
+  "lesson_en": "Never swear false oaths or play double games with your loyalty and faith.",
+  "lesson_bn": "কখনো মিথ্যা শপথ করবেন না এবং নিজের আদর্শ ও বিশ্বস্ততা নিয়ে দ্বিচারিতা করবেন না।",
+  "real_life_en": "A worker signs a contract promising confidentiality with his employer. Behind the scenes, he secretly leaks trade secrets to an opposing firm and then swears on his name that he is innocent. His double-dealing ruins his trust and brings shame on him.",
+  "real_life_bn": "এক কর্মচারী প্রতিষ্ঠানে সততার সাথে কাজ করার শপথ নেয়। অথচ সে গোপনে প্রতিদ্বন্দ্বী প্রতিষ্ঠানের কাছে কোম্পানির তথ্য পাচার করে এবং নিজেকে নির্দোষ দাবি করে মিথ্যা কসম খায়। তার এই প্রতারণা মানুষের কাছে তাকে কলঙ্কিত করে।",
+  "themes": [
+    "hypocrisy",
+    "honesty",
+    "disbelief",
+    "keeping promises"
+  ],
+  "kinds": [
+    "warning",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites befriended enemies who incurred Allah's wrath, belonging truly to neither side.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Hypocrites swear false oaths that they are Muslims while knowing they are lying.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

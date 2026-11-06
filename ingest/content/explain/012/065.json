@@ -1,0 +1,97 @@
+{
+  "id": "12:65",
+  "simple_en": "When they opened their sacks, they found that their payment had been returned to them. They told their father that the minister was very generous. They urged him to let Benjamin come so they could bring back an extra camel's load of grain.",
+  "simple_bn": "থলি খুলতেই তারা দেখতে পেল যে তাদের অর্থ ফেরত দেওয়া হয়েছে। তারা পিতাকে বলল, এই শাসক অত্যন্ত দয়ালু। তারা পিতাকে অনুরোধ করল বিন ইয়ামীনকে পাঠাতে, যাতে তারা আরও এক উট অতিরিক্ত খাদ্যশস্য নিয়ে আসতে পারে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "فتح",
+      "lemma": "فَتَحَ",
+      "meaning_en": "they opened",
+      "meaning_bn": "তারা খুলল",
+      "why_en": "Unpacking their supplies after the journey from Egypt."
+    },
+    {
+      "pos": 4,
+      "root": "وجد",
+      "lemma": "وَجَدَ",
+      "meaning_en": "they found",
+      "meaning_bn": "তারা দেখতে পেল",
+      "why_en": "Discovering the surprise gift left secretly by Yusuf."
+    },
+    {
+      "pos": 6,
+      "root": "ردد",
+      "lemma": "رَدَّ",
+      "meaning_en": "returned",
+      "meaning_bn": "ফেরত দেওয়া হয়েছে",
+      "why_en": "Proof of the Egyptian ruler’s extraordinary kindness."
+    },
+    {
+      "pos": 22,
+      "root": "بعر",
+      "lemma": "بَعِير",
+      "meaning_en": "a camel's load",
+      "meaning_bn": "উটের বোঝাই খাদ্য",
+      "why_en": "Each traveler was allocated one camel load of grain."
+    }
+  ],
+  "lesson_en": "Unexpected gifts can bring hope and help a family in hard times.",
+  "lesson_bn": "অপ্রত্যাশিত নিয়ামত পরিবারে স্বস্তি আনে এবং কঠিন সময়ে বেঁচে থাকার নতুন আশা জোগায়।",
+  "real_life_en": "A poor family finds a surprise tax refund in their mail. This gift lets them buy winter coats for their children without borrowing.",
+  "real_life_bn": "এক অভাবী পরিবার হঠাৎ অপ্রত্যাশিত অর্থ ফেরত পায়। এই আকস্মিক সাহায্য তাদের ঋণ না করে পরিবারের জন্য শীতের কাপড় কিনতে সাহায্য করে।",
+  "context_en": "Finding their trade goods returned convinced the brothers that the Egyptian minister was benevolent.",
+  "context_bn": "টাকা ফেরত পেয়ে ভাইয়েরা নিশ্চিত হলো যে মিসরের শাসক অত্যন্ত উদার এবং তারা আবারও যাওয়ার সুযোগ পেল।",
+  "themes": [
+    "unexpected blessings",
+    "provision",
+    "family support"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "brothers of Yusuf",
+      "Yaqub",
+      "Benjamin"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "Canaan"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "grain",
+      "camel",
+      "sacks",
+      "money"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The brothers discovered their goods returned when opening their baggage.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They pleaded to take Benjamin to obtain an additional camel's load of food.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

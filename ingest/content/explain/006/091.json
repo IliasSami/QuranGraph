@@ -1,0 +1,88 @@
+{
+  "id": "6:91",
+  "simple_en": "Some people fail to respect Allah as He deserves. They foolishly claim that Allah never revealed any message to any human being. Ask them who sent down the Torah to Moses as light and guidance. They tore it into sheets, showing what they liked and hiding much of it. Say that Allah sent it, then leave them to their vain talk.",
+  "simple_bn": "কিছু মানুষ আল্লাহকে তাঁর যথাযোগ্য মর্যাদা দেয়নি। তারা অজ্ঞতাবশত দাবি করে যে, আল্লাহ কোনো মানুষের কাছে কোনো ওহী পাঠাননি। তাদের জিজ্ঞেস করুন, তবে মূসার কাছে আলো ও হিদায়াতরূপে কে কিতাব পাঠিয়েছিল? তারা সেটিকে আলাদা পাতার রূপ দিয়ে কিছু প্রকাশ করত আর অনেক কিছু গোপন রাখত। বলে দিন, এটি আল্লাহই পাঠিয়েছেন; এরপর তাদের নিরর্থক বিতর্ক করতে দিন।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "قدر",
+      "lemma": "قَدْر",
+      "meaning_en": "His true worth / estimation",
+      "meaning_bn": "তাঁর যথাযোগ্য মর্যাদা",
+      "why_en": "Highlights that denying revelation stems from failing to grasp Allah's majesty."
+    },
+    {
+      "pos": 27,
+      "root": "قرطس",
+      "lemma": "قِرْطاس",
+      "meaning_en": "parchments / sheets",
+      "meaning_bn": "কাগজের টুকরো",
+      "why_en": "Describes how people broke Scripture into separate sheets to pick and choose."
+    },
+    {
+      "pos": 29,
+      "root": "خفي",
+      "lemma": "أُخْفِيَ",
+      "meaning_en": "was concealed / hidden",
+      "meaning_bn": "গোপন রাখা হয়েছিল",
+      "why_en": "Rebukes those who deliberately concealed portions of divine revelation."
+    }
+  ],
+  "lesson_en": "Respect Allah and His words. Never hide or change any part of His truth.",
+  "lesson_bn": "আল্লাহর যথাযথ মর্যাদা বজায় রাখুন এবং ওহীর কোনো অংশ কখনো গোপন করবেন না।",
+  "real_life_en": "Treat the words of Allah with deep care. Do not follow only what feels easy while ignoring other duties. Accept the whole truth with an open, humble heart.",
+  "real_life_bn": "আল্লাহর বাণীকে পূর্ণ গুরুত্বের সাথে গ্রহণ করুন। শুধু নিজের পছন্দমতো বিধান মানবেন না। কোনো দ্বিধা ছাড়া বিনয়ের সাথে সমগ্র সত্যকে মেনে নিন।",
+  "context_en": "Refutes those who deny that Allah sent any revelation to mankind, using the Torah of Moses as proof.",
+  "context_bn": "আল্লাহ মানুষের কাছে ওহী পাঠাননি—এমন মিথ্যা দাবি খণ্ডন করে মূসার তাওরাতের প্রমাণ দেওয়া হয়েছে।",
+  "themes": [
+    "revelation",
+    "Torah",
+    "Moses",
+    "concealing truth",
+    "majesty of Allah"
+  ],
+  "kinds": [
+    "argument",
+    "warning",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Moses"
+    ],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Torah",
+      "parchments"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Denying that Allah revealed scripture to any human is a failure to give Him His due estimation.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Moses was given the Torah as light and guidance, which people wrote on sheets and partly concealed.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

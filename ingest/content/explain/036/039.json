@@ -1,0 +1,69 @@
+{
+  "id": "36:39",
+  "simple_en": "Allah appointed regular phases for the moon. It grows from a slender crescent to a full moon, then shrinks back each month until it becomes thin and curved like an old dry palm stalk.",
+  "simple_bn": "আল্লাহ চাঁদের জন্য বিভিন্ন কক্ষপথ ও পর্যায় নির্ধারণ করেছেন। এটি সরু বাঁকা রূপ থেকে পূর্ণিমার চাঁদে পরিণত হয় এবং ধীরে ধীরে ছোট হতে হতে শুকিয়ে যাওয়া বাঁকা খেজুরের ডালের মতো হয়ে যায়।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "قمر",
+      "lemma": "قَمَر",
+      "meaning_en": "the moon",
+      "meaning_bn": "চাঁদ",
+      "why_en": "The nocturnal lamp whose changing shapes help count months and years."
+    },
+    {
+      "pos": 3,
+      "root": "نزل",
+      "lemma": "مَنازِل",
+      "meaning_en": "phases / stages",
+      "meaning_bn": "পর্যায়সমূহ বা মনজিল",
+      "why_en": "Points to the monthly stages of the lunar cycle."
+    },
+    {
+      "pos": 6,
+      "root": "عرجن",
+      "lemma": "عُرْجُون",
+      "meaning_en": "the dry palm branch",
+      "meaning_bn": "খেজুরের শুকনো ডাল",
+      "why_en": "A poetic image of the slender, bent crescent returning at month's end."
+    }
+  ],
+  "lesson_en": "The changing phases of the moon teach us that all things in life move in cycles.",
+  "lesson_bn": "চাঁদের হ্রাস-বৃদ্ধি আমাদের শিক্ষা দেয় যে জীবনের প্রতিটি অবস্থাই পরিবর্তনশীল।",
+  "real_life_en": "Track the phases of the moon to mark time and plan your goals. Just as the moon returns after fading, difficult seasons in your life will soon give way to new beginnings.",
+  "real_life_bn": "চাঁদের রূপ পরিবর্তন দেখে উপলব্ধি করুন যে কষ্টের দিনও চিরস্থায়ী নয়। চাঁদ যেমন ক্ষীণ হয়ে আবার পূর্ণ আলো ছড়ায়, তেমনি আপনার জীবনেও নতুন আশা ফিরে আসবে।",
+  "themes": [
+    "signs in nature",
+    "creation",
+    "reflection"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah determined phases for the moon until it returns curved and thin like an old date branch.",
+      "claim_bn": "আল্লাহ চাঁদের জন্য বিভিন্ন মনজিল নির্ধারণ করেছেন, ফলে তা শেষ পর্যন্ত শুকনো বাঁকা খেজুর শাখার মতো ফিরে আসে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

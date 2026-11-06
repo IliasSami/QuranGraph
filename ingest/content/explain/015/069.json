@@ -1,0 +1,71 @@
+{
+  "id": "15:69",
+  "simple_en": "Fear Allah and do not disgrace me in front of my noble guests. Lot reminded them to fear God and always respect common human dignity.",
+  "simple_bn": "আল্লাহকে ভয় করো এবং আমার অতিথিদের সামনে আমাকে বেইজ্জত করো না। লূত তাদের আল্লাহর ভয় এবং সাধারণ মানবিক মর্যাদার কথা স্মরণ করিয়ে দিলেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "وقي",
+      "lemma": "اتَّقَى",
+      "meaning_en": "fear",
+      "meaning_bn": "তাকওয়া অবলম্বন করো",
+      "why_en": "Appealing to the fear of Allah."
+    },
+    {
+      "pos": 2,
+      "root": "أله",
+      "lemma": "اللَّه",
+      "meaning_en": "Allah",
+      "meaning_bn": "আল্লাহকে",
+      "why_en": "The Supreme Lord."
+    },
+    {
+      "pos": 4,
+      "root": "خزي",
+      "lemma": "أَخْزَيْ",
+      "meaning_en": "do not shame me",
+      "meaning_bn": "আমাকে হেয় করো না",
+      "why_en": "Pleading against public humiliation."
+    }
+  ],
+  "lesson_en": "Fear of Allah keeps us from sin. Remind people to do good and respect others.",
+  "lesson_bn": "আল্লাহর ভয় মানুষের খারাপ প্রবৃত্তি নিয়ন্ত্রণ করে। অন্যায় থামানোর জন্য মানুষকে আল্লাহর সামনে জবাবদিহিতার কথা মনে করিয়ে দিন।",
+  "real_life_en": "A community elder tells young men arguing outside a shop to fear God and speak with respect. His timely reminder calms their anger.",
+  "real_life_bn": "বাজারে তুচ্ছ বিষয় নিয়ে মারামারিতে লিপ্ত হওয়া দুই যুবককে এক মুরুব্বি আল্লাহর ভয় দেখিয়ে শান্ত করেন। আল্লাহর স্মরণ মুহূর্তেই মানুষকে সংযমী করে।",
+  "context_en": "Lot urging his people to fear Allah and refrain from bringing shame upon him.",
+  "context_bn": "কওমের লোকদের আল্লাহর ভয় করতে এবং তাঁকে লজ্জিত না করতে লূতের জোর আহ্বান।",
+  "themes": [
+    "piety",
+    "honor",
+    "warning"
+  ],
+  "kinds": [
+    "story",
+    "command",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Lot"
+    ],
+    "unseen": [],
+    "nations": [],
+    "places": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Lot commanded his people to be mindful of Allah and not dishonor him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

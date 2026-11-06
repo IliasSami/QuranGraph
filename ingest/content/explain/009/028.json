@@ -1,0 +1,79 @@
+{
+  "id": "9:28",
+  "simple_en": "O you who believe, the idolaters are spiritually impure, so let them not approach the Sacred Mosque after this year. If you fear poverty from lost trade, Allah will enrich you from His bounty if He wills. Allah is Knowing and Wise.",
+  "simple_bn": "হে মুমিনগণ, মুশরিকরা তো অপবিত্র; কাজেই এ বছরের পর তারা যেন মসজিদুল হারামের নিকটবর্তী না হয়। আর তোমরা যদি বাণিজ্যের অভাবে দারিদ্র্যের ভয় করো, তবে আল্লাহ চাইলে স্বীয় অনুগ্রহে তোমাদের অভাবমুক্ত করবেন। নিশ্চয় আল্লাহ সর্বজ্ঞ ও প্রজ্ঞাময়।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "نجس",
+      "lemma": "نَجَس",
+      "meaning_en": "impure / spiritually unclean",
+      "meaning_bn": "অপবিত্র",
+      "why_en": "Inner spiritual impurity of polytheism and idolatry."
+    },
+    {
+      "pos": 9,
+      "root": "سجد",
+      "lemma": "مَسْجِد",
+      "meaning_en": "mosque / sanctuary",
+      "meaning_bn": "মসজিদ",
+      "why_en": "The Sacred House of Allah in Mecca reserved for monotheism."
+    },
+    {
+      "pos": 16,
+      "root": "عيل",
+      "lemma": "عَيْلَة",
+      "meaning_en": "poverty / loss of income",
+      "meaning_bn": "দারিদ্র্য / অভাব",
+      "why_en": "Anxiety over lost economic revenue from visiting pagans."
+    }
+  ],
+  "lesson_en": "Trust Allah to provide for your needs when you uphold what is sacred and right.",
+  "lesson_bn": "পবিত্র আদর্শ রক্ষা করতে গিয়ে দুনিয়াবি ক্ষতির ভয় করবেন না, কারণ আল্লাহই রিজিকদাতা।",
+  "real_life_en": "Do not fear losing profits when you choose to act with honesty. Stand by moral rules, and trust that honest work brings blessings.",
+  "real_life_bn": "সাময়িক ক্রেতা হারানোর ভয়ে ব্যবসায় সততা ও নৈতিকতার সাথে আপস করবেন না; সততাই দীর্ঘমেয়াদে প্রাচুর্য আনে।",
+  "themes": [
+    "Sacred Mosque",
+    "spiritual purity",
+    "provision",
+    "trust in Allah"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "promise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "believers",
+      "polytheists"
+    ],
+    "places": [
+      "Al-Masjid Al-Haram"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Knowing",
+      "Wise"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Polytheists were banned from entering the Sacred Mosque, and believers were assured that Allah would compensate any economic loss.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "13:3",
+  "simple_en": "Allah spread out the wide earth. He placed firm mountains and running rivers across its lands. He created all fruits in pairs and covered the bright day with quiet night. These signs teach deep lessons to people who think.",
+  "simple_bn": "আল্লাহ যমীনকে বিস্তৃত করেছেন এবং তাতে সুদৃঢ় পর্বত ও প্রবাহিত নদী স্থাপন করেছেন। তিনি সকল ফল জোড়ায় জোড়ায় সৃষ্টি করেছেন এবং রাত দিয়ে দিনকে ঢেকে দেন। চিন্তাশীল মানুষের জন্য এতে অনেক নিদর্শন রয়েছে।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "مدد",
+      "lemma": "مَدَّ",
+      "meaning_en": "spread out",
+      "meaning_bn": "বিস্তৃত করেছেন",
+      "why_en": "Making the earth suitable for human habitation and travel."
+    },
+    {
+      "pos": 7,
+      "root": "رسو",
+      "lemma": "رَواسِي",
+      "meaning_en": "firm mountains",
+      "meaning_bn": "সুদৃঢ় পর্বত",
+      "why_en": "Heavy anchors that stabilize the earth against shaking."
+    },
+    {
+      "pos": 8,
+      "root": "نهر",
+      "lemma": "نَهَر",
+      "meaning_en": "rivers",
+      "meaning_bn": "নদী",
+      "why_en": "Lifelines carrying fresh water to plants and animals."
+    },
+    {
+      "pos": 11,
+      "root": "ثمر",
+      "lemma": "ثَمَرَة",
+      "meaning_en": "fruits",
+      "meaning_bn": "ফলসমূহ",
+      "why_en": "Diverse nourishment created in pairs with precision."
+    }
+  ],
+  "lesson_en": "Look at the earth and rivers. They teach us to thank God.",
+  "lesson_bn": "প্রকৃতির নিয়ম নিয়ে ভাবলে স্রষ্টার নিয়ামতের শুকরিয়া আদায় করা সহজ হয়।",
+  "real_life_en": "A farmer looks at his orchard after the harvest. Seeing how rain, soil, and sunlight produced sweet fruit, he thanks Allah for feeding living creatures.",
+  "real_life_bn": "এক কৃষক ফসল কাটার পর ফলের বাগানের দিকে তাকায়। মাটি, পানি ও সূর্যের আলো কীভাবে মিষ্টি ফল উৎপাদন করেছে তা দেখে সে কৃতজ্ঞচিত্তে আল্লাহর প্রশংসা করে।",
+  "context_en": "Earthly blessings and the alternation of night and day pointing to the One Creator.",
+  "context_bn": "পৃথিবীর প্রাকৃতিক ভারসাম্য ও ফলমূল সৃষ্টির মাধ্যমে একত্ববাদের প্রমাণ।",
+  "themes": [
+    "reflection",
+    "nature",
+    "gratitude"
+  ],
+  "kinds": [
+    "creation",
+    "parable"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the earth",
+      "the mountains",
+      "rivers"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Allah formed mountains, rivers, paired fruits, and day and night as signs for thinkers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

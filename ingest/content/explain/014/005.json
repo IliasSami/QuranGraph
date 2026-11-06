@@ -1,0 +1,87 @@
+{
+  "id": "14:5",
+  "simple_en": "We sent Moses with Our clear signs, telling him to bring his people out of darkness into light. He was told to remind them of the days of Allah. In these events are clear lessons for everyone who is patient and grateful.",
+  "simple_bn": "আমরা মূসাকে আমাদের স্পষ্ট নিদর্শনসহ পাঠিয়েছিলাম এবং বলেছিলাম আপনার জাতিকে অন্ধকার থেকে আলোর দিকে নিয়ে আসুন। তাদেরকে আল্লাহর বিশেষ দিনগুলোর কথা স্মরণ করিয়ে দিন। নিশ্চয় এতে প্রতিটি ধৈর্যশীল ও কৃতজ্ঞ ব্যক্তির জন্য রয়েছে মহা শিক্ষা।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "أيي",
+      "lemma": "آيَة",
+      "meaning_en": "with Our signs",
+      "meaning_bn": "আমাদের নিদর্শনসহ",
+      "why_en": "Divine miracles given to Moses."
+    },
+    {
+      "pos": 9,
+      "root": "ظلم",
+      "lemma": "ظُلْمَة",
+      "meaning_en": "the darknesses",
+      "meaning_bn": "অন্ধকারসমূহ",
+      "why_en": "Ignorance, bondage, and misguidance."
+    },
+    {
+      "pos": 13,
+      "root": "يوم",
+      "lemma": "يَوْم",
+      "meaning_en": "of the days",
+      "meaning_bn": "দিনসমূহের",
+      "why_en": "Historical days of divine favor and trial."
+    },
+    {
+      "pos": 20,
+      "root": "صبر",
+      "lemma": "صَبّار",
+      "meaning_en": "patient",
+      "meaning_bn": "পরম ধৈর্যশীল",
+      "why_en": "One who endures hardships with steadfast faith."
+    },
+    {
+      "pos": 21,
+      "root": "شكر",
+      "lemma": "شَكُور",
+      "meaning_en": "grateful",
+      "meaning_bn": "পরম কৃতজ্ঞ",
+      "why_en": "One who consistently thanks Allah for blessings."
+    }
+  ],
+  "lesson_en": "Be patient in hard times and give thanks in good times. This keeps your heart steady.",
+  "lesson_bn": "বিপদে ধৈর্য এবং সুসময়ে কৃতজ্ঞতা প্রকাশ আপনার অন্তরকে শান্ত ও অবিচল রাখে।",
+  "real_life_en": "A father talks with his children about past family struggles and how help arrived. He reminds them to thank Allah during good times and remain patient during trials.",
+  "real_life_bn": "এক বাবা তার সন্তানদের অতীতের কঠিন দিন এবং আল্লাহর রহমতে তা কাটিয়ে ওঠার গল্প শোনান। তিনি তাদের সুখে কৃতজ্ঞ থাকতে এবং দুঃসময়ে ধৈর্য ধরতে শেখান।",
+  "context_en": "Moses sent to Pharaoh's land to liberate his people and remind them of Allah's favors.",
+  "context_bn": "মূসা (আ.)-কে তাঁর জাতির কাছে পাঠিয়ে অন্ধকারের বন্ধন থেকে আলোর পথে আনার নির্দেশ।",
+  "themes": [
+    "prophets",
+    "patience",
+    "gratitude"
+  ],
+  "kinds": [
+    "story",
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Moses was commanded to lead his people to light and remind them of Allah's favors.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

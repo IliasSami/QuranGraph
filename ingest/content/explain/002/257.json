@@ -1,0 +1,122 @@
+{
+ "id": "2:257",
+ "simple_en": "Allah is the Protective Guardian of those who believe. He brings them out of darkness into the light of truth and faith. As for those who reject faith, their leaders are false powers who pull them from light into deep darkness. They are the inmates of the Fire, where they will stay forever.",
+ "simple_bn": "আল্লাহ মুমিনদের অভিভাবক ও সাহায্যকারী। তিনি তাদেরকে কুফরি ও সংশয়ের অন্ধকার থেকে বের করে ঈমান ও সত্যের আলোর দিকে নিয়ে যান। পক্ষান্তরে যারা কুফরি করে, তাদের অভিভাবক হলো তাগূত বা শয়তান। তারা তাদেরকে আলো থেকে বের করে ঘন অন্ধকারে নিয়ে যায়। এরাই জাহান্নামের অধিবাসী, সেখানে তারা চিরকাল থাকবে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "ولي",
+   "lemma": "وَلِيّ",
+   "meaning_en": "Protective Guardian / Ally",
+   "meaning_bn": "অভিভাবক / বন্ধু",
+   "why_en": "Highlights Allah's special care, support, and guidance granted specifically to believers."
+  },
+  {
+   "pos": 7,
+   "root": "ظلم",
+   "lemma": "ظُلُمَة",
+   "meaning_en": "darknesses",
+   "meaning_bn": "অন্ধকারসমূহ",
+   "why_en": "The plural indicates the numerous divergent paths of ignorance, doubt, sin, and disbelief."
+  },
+  {
+   "pos": 9,
+   "root": "نور",
+   "lemma": "نُور",
+   "meaning_en": "the light",
+   "meaning_bn": "আলো / জ্যোতি",
+   "why_en": "The singular shows that the path of divine truth and guidance is one unified way."
+  },
+  {
+   "pos": 13,
+   "root": "طغي",
+   "lemma": "طاغُوت",
+   "meaning_en": "false masters / devils",
+   "meaning_bn": "তাগূত / শয়তান ও বাতিল শক্তি",
+   "why_en": "Refers to deceptive leaders and idols who mislead their followers into spiritual ruin."
+  },
+  {
+   "pos": 24,
+   "root": "خلد",
+   "lemma": "خالِد",
+   "meaning_en": "abiding forever",
+   "meaning_bn": "চিরস্থায়ী",
+   "why_en": "Warns of the permanent consequence awaiting those who deliberately choose falsehood over truth."
+  }
+ ],
+ "lesson_en": "Trust Allah as your true Guide, and He will lead you out of darkness into light.",
+ "lesson_bn": "আল্লাহকে একমাত্র অভিভাবক হিসেবে গ্রহণ করুন; তিনি আপনাকে সংশয় ও ভুলের অন্ধকার থেকে বের করে হেদায়াতের আলোয় পরিচালিত করবেন।",
+ "real_life_en": "When friends urge you to lie or take unfair shortcuts, step back. Choose the honest way. Trusting Allah gives you clear sight and inner peace.",
+ "real_life_bn": "কর্মক্ষেত্রে বা সামাজিক জীবনে অন্যায় সুবিধা নেওয়ার সুযোগ কিংবা খারাপ বন্ধুদের প্ররোচনা এলে আল্লাহর ভয়ে বিরত থাকুন। সৎ পথে অবিচল থাকলে আল্লাহ অন্তরে সঠিক সিদ্ধান্তের আলো ও মানসিক তৃপ্তি দান করবেন।",
+ "context_en": "Explains the outcome of the two choices described in the previous verse: clinging to faith yields divine protection, while following Taghut leads to destruction.",
+ "context_bn": "পূর্ববর্তী আয়াতে বর্ণিত দুটি পথের পরিণতি স্পষ্ট করে এখানে বলা হয়েছে যে মুমিনরা আল্লাহর অভিভাবকত্ব পায়, আর কাফিররা শয়তানের প্ররোচনায় অন্ধকারে তলিয়ে যায়।",
+ "themes": [
+  "Allah's mercy",
+  "guidance",
+  "misguidance",
+  "faith",
+  "disbelief",
+  "Hell",
+  "trust in Allah"
+ ],
+ "kinds": [
+  "belief",
+  "promise",
+  "warning",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "the Fire"
+  ],
+  "names_of_allah": [
+   "Allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah acts as the special Protector and Guide for believers, leading them from darkness to light.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "Darkness represents disbelief, ignorance, and sin, while light represents faith and sound knowledge.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "The patrons of disbelievers are false deities and Satan, leading them from light into darkness.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-ibn-kathir",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "Those who persist in disbelief and follow false masters will abide in the Fire forever.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

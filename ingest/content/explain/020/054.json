@@ -1,0 +1,73 @@
+{
+  "id": "20:54",
+  "simple_en": "Eat of this good food and graze your cattle on the land. Surely in these gifts are clear signs for people who use their minds well.",
+  "simple_bn": "তোমরা নিজেরা আহার কর এবং তোমাদের গবাদিপশুকে চরাও। নিশ্চয় এসব প্রাকৃতিক নিয়ামতের মধ্যে বুদ্ধিমান মানুষের জন্য স্পষ্ট নিদর্শন রয়েছে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رعي",
+      "lemma": "رَعَىٰ",
+      "meaning_en": "pasture or graze",
+      "meaning_bn": "ঘাস খাওয়াও বা চরাও",
+      "why_en": "Caring for domestic animals that serve human life."
+    },
+    {
+      "pos": 3,
+      "root": "نعم",
+      "lemma": "نَعَم",
+      "meaning_en": "your livestock",
+      "meaning_bn": "তোমাদের গবাদিপশু",
+      "why_en": "Cattle providing milk, meat, wool, and labor."
+    },
+    {
+      "pos": 9,
+      "root": "نهي",
+      "lemma": "نُهَىٰ",
+      "meaning_en": "sound intellect and reason",
+      "meaning_bn": "বিবেক বা প্রজ্ঞা",
+      "why_en": "Minds that restrain owners from foolish denial."
+    }
+  ],
+  "lesson_en": "Wise people see God in daily food and farm life. Nature shows the care of our Lord.",
+  "lesson_bn": "বিবেকবান মানুষ সাধারণ খাদ্য, কৃষি ও পশুপালনের ব্যবস্থার মাঝেও আল্লাহর গভীর প্রজ্ঞার সন্ধান পায়।",
+  "real_life_en": "Be thankful for your meals each day. Treat animals with care and kindness as God gifts.",
+  "real_life_bn": "কৃতজ্ঞতার সাথে হালাল খাবার গ্রহণ করুন। গৃহপালিত পশুপাখির যত্ন নিন এবং তাদের প্রতি সদয় আচরণ করুন।",
+  "themes": [
+    "intellect",
+    "sustenance",
+    "creation",
+    "livestock"
+  ],
+  "kinds": [
+    "creation",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "livestock",
+      "food"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God provides food for people and pasture for livestock as signs for those who reflect.",
+      "claim_bn": "আল্লাহ মানুষ ও পশুর জন্য খাদ্যের ব্যবস্থা করেছেন যা বিবেকসম্পন্নদের জন্য স্পষ্ট নিদর্শন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

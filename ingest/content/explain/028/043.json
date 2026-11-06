@@ -1,0 +1,74 @@
+{
+  "id": "28:43",
+  "simple_en": "God destroyed evil nations of the past. Then He gave Moses the Book to guide the people. It gave them clear light, mercy, and truth so they would remember God.",
+  "simple_bn": "পূর্ববর্তী বহু জাতিকে ধ্বংস করার পর আমরা মুসাকে কিতাব দান করেছিলাম, যা ছিল মানুষের জন্য অন্তর্দৃষ্টি, হেদায়াত ও রহমতস্বরূপ, যাতে তারা শিক্ষা গ্রহণ করে।",
+  "key_words": [
+    {
+      "pos": 4,
+      "arabic": "ٱلْكِتَٰبَ",
+      "root": "كتب",
+      "lemma": "كِتاب",
+      "meaning_en": "the Scripture",
+      "meaning_bn": "কিতাব",
+      "why_en": "The Torah granted to Moses as a guiding light."
+    },
+    {
+      "pos": 11,
+      "arabic": "بَصَآئِرَ",
+      "root": "بصر",
+      "lemma": "بَصِيرَة",
+      "meaning_en": "clear insights",
+      "meaning_bn": "মানুষের জন্য আলোকবর্তিকা",
+      "why_en": "Enlightening wisdom for the people to reflect upon."
+    }
+  ],
+  "lesson_en": "God sends His Book to give light and mercy to mankind. Holy scripture helps people remember the truth.",
+  "lesson_bn": "আসমানী কিতাব মানুষের জন্য এক পরম অনুগ্রহ। এটি মানুষকে সত্য অনুধাবন করতে ও শিক্ষা নিতে সাহায্য করে।",
+  "real_life_en": "Read divine guidance to find clear direction and mercy in daily life. Reflect on its wisdom to keep your heart pure.",
+  "real_life_bn": "কুরআনের মাধ্যমে জীবনের আলো ও দিকনির্দেশনা গ্রহণ করুন। আল্লাহর বাণীর গভীর শিক্ষা নিয়ে নিজের হৃদয়কে আলোকিত রাখুন।",
+  "themes": [
+    "musa",
+    "torah",
+    "guidance",
+    "mercy"
+  ],
+  "kinds": [
+    "promise",
+    "belief",
+    "command"
+  ],
+  "entities": {
+    "people": [
+      "Moses"
+    ],
+    "nations": [
+      "Ancient Nations"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Torah",
+      "Scripture"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "God granted Moses the Scripture after destroying ancient generations, as enlightenment, guidance, and mercy.",
+      "claim_bn": "পূর্ববর্তী জাতিদের ধ্বংসের পর আল্লাহ মুসাকে কিতাব দেন, যা মানুষের জন্য আলোকবর্তিকা, হেদায়াত ও রহমত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

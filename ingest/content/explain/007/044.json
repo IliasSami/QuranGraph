@@ -1,0 +1,83 @@
+{
+  "id": "7:44",
+  "simple_en": "The people of Paradise will call out to the dwellers of the Fire. They will say that every promise of reward from their Lord was true. Then they ask if the warnings of punishment were also true. The people of the Fire will say yes in deep regret. A voice will call out that the curse of Allah is on the wrongdoers.",
+  "simple_bn": "জান্নাতবাসীরা জাহান্নামীদের ডেকে বলবে, আমাদের প্রতিপালক আমাদের যে পুরস্কারের প্রতিশ্রুতি দিয়েছিলেন, আমরা তা সত্য পেয়েছি। তোমাদের প্রতিপালক তোমাদের যে শাস্তির ভয় দেখিয়েছিলেন, তোমরা কি তাও সত্য পেয়েছ? জাহান্নামীরা আক্ষেপের সাথে স্বীকার করবে, হ্যাঁ। তখন একজন ঘোষণাকারী তাদের মাঝে ঘোষণা করবেন, যালিমদের ওপর আল্লাহর অভিসম্পাত।",
+  "key_words": [
+    {
+      "pos": 10,
+      "root": "وعد",
+      "lemma": "وَعَدَ",
+      "meaning_en": "promised us",
+      "meaning_bn": "আমাদের প্রতিশ্রুতি দিয়েছিলেন",
+      "why_en": "Shows the complete fulfillment of Allah's promises to the believers."
+    },
+    {
+      "pos": 22,
+      "root": "أذن",
+      "lemma": "مُؤَذِّن",
+      "meaning_en": "an announcer / caller",
+      "meaning_bn": "একজন ঘোষণাকারী",
+      "why_en": "Indicates the formal and public proclamation of Allah's justice between the two groups."
+    },
+    {
+      "pos": 25,
+      "root": "لعن",
+      "lemma": "لَعْنَة",
+      "meaning_en": "the curse",
+      "meaning_bn": "অভিসম্পাত",
+      "why_en": "Emphasizes the complete deprivation of Allah's mercy for persistent wrongdoers."
+    }
+  ],
+  "lesson_en": "Every promise of Allah is true. Regret in the next life cannot undo past sins.",
+  "lesson_bn": "আল্লাহর প্রতিটি প্রতিশ্রুতি ও সতর্কবার্তা বাস্তব সত্য। পরকালের অনুশোচনা কোনো উপকারে আসবে না।",
+  "real_life_en": "A student skips study to play games and ignores clear warnings from teachers. When report cards come, the regret is deep. Taking divine warnings to heart saves us from sorrow.",
+  "real_life_bn": "পড়াশোনা না করে সময় নষ্ট করলে পরীক্ষার ফল প্রকাশের দিন অনুশোচনা ছাড়া উপায় থাকে না। তেমনি আখেরাতের জবাবদিহিতাকে সত্য জেনে এখনই সতর্ক জীবনযাপন করা বুদ্ধিমানের কাজ।",
+  "context_en": "After entering Paradise, the righteous speak across to the people of the Fire, witnessing the complete fulfillment of divine promises.",
+  "context_bn": "জান্নাতে প্রবেশের পর মুমিনরা জাহান্নামীদের সম্বোধন করে কথা বলবে এবং আল্লাহর সত্য প্রতিশ্রুতির পূর্ণ বাস্তবায়ন প্রকাশ পাবে।",
+  "themes": [
+    "the Hereafter",
+    "Paradise",
+    "Hell",
+    "judgment",
+    "punishment"
+  ],
+  "kinds": [
+    "hereafter",
+    "warning"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Paradise",
+      "Hell"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The people of Paradise affirm that Allah's promise of reward is true, and the people of Hell admit the punishment is true.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "A herald proclaims that Allah's curse is upon the wrongdoers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

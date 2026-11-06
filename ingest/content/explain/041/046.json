@@ -1,0 +1,81 @@
+{
+ "id": "41:46",
+ "simple_en": "Whoever does good deeds does so for his own benefit. And whoever commits evil only harms his own soul. Your Lord is never unjust to His servants. He rewards every good deed and never punishes anyone unfairly.",
+ "simple_bn": "যে ব্যক্তি ভালো কাজ করে তা তার নিজের কল্যাণের জন্যই করে। আর যে পাপ করে তার দায় তারই ওপর বর্তায়। আপনার প্রতিপালক তাঁর বান্দাদের প্রতি সামান্যতম অন্যায়ও করেন না। তিনি প্রতিটি নেক আমলের প্রতিদান দেন এবং কাউকে অবিচারমূলক শাস্তি দেন না।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "عمل",
+   "lemma": "عَمِلَ",
+   "meaning_en": "did / acted",
+   "meaning_bn": "আমল করল",
+   "why_en": "Shows that accountability is tied to human actions."
+  },
+  {
+   "pos": 3,
+   "root": "صلح",
+   "lemma": "صالِح",
+   "meaning_en": "righteousness",
+   "meaning_bn": "সৎ কাজ",
+   "why_en": "Upright deeds done sincerely for Allah's pleasure."
+  },
+  {
+   "pos": 6,
+   "root": "سوأ",
+   "lemma": "أَساءَ",
+   "meaning_en": "did evil",
+   "meaning_bn": "মন্দ করল",
+   "why_en": "Transgressions that bring spiritual and moral harm."
+  },
+  {
+   "pos": 10,
+   "root": "ظلم",
+   "lemma": "ظَلّام",
+   "meaning_en": "ever unjust / oppressive",
+   "meaning_bn": "অন্যায়কারী বা অত্যাচারী",
+   "why_en": "Firmly negates any injustice on the part of Allah toward His servants."
+  }
+ ],
+ "lesson_en": "Every good deed helps you, while every wrong action hurts your own soul.",
+ "lesson_bn": "প্রতিটি ভালো কাজ আপনার নিজের উপকার করে, আর প্রতিটি পাপ আপনার নিজের আত্মার ক্ষতি করে।",
+ "real_life_en": "Do good deeds sincerely, even when no one is watching. Remember that your good actions build your own future, not anyone else's.",
+ "real_life_bn": "কেউ না দেখলেও গোপনে ভালো কাজ করুন। মনে রাখবেন যে আপনার নেক আমল আপনার নিজের আখেরাতই সুন্দর করবে।",
+ "themes": [
+  "justice",
+  "reward",
+  "punishment",
+  "good character"
+ ],
+ "kinds": [
+  "argument",
+  "ethics",
+  "belief"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "ar-rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Whoever acts righteously benefits himself and whoever sins harms himself, for Allah is never unjust to His servants.",
+   "claim_bn": "যে সৎ কাজ করে সে নিজের জন্যই করে এবং যে মন্দ করে তা তার ওপরই বর্তায়, আর আল্লাহ বান্দাদের প্রতি কখনো জুলুম করেন না।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

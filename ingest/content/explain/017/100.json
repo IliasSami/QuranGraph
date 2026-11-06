@@ -1,0 +1,64 @@
+{
+  "id": "17:100",
+  "simple_en": "Say, 'Even if you owned all the treasures of my Lord mercy, you would still withhold them out of fear of spending. Man is naturally tight-fisted and stingy.'",
+  "simple_bn": "বলুন, 'যদি তোমরা আমার রবের রহমতের সকল ভাণ্ডারের মালিক হতে, তবুও ফুরিয়ে যাওয়ার ভয়ে তোমরা তা আটকে রাখতে। মানুষ স্বভাবগতভাবেই বড় কৃপণ।'",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "خزن",
+      "lemma": "خَزائِن",
+      "meaning_en": "treasuries and depositories",
+      "meaning_bn": "ভাণ্ডারসমূহ",
+      "why_en": "The infinite stores of divine provision and mercy."
+    },
+    {
+      "pos": 14,
+      "root": "قتر",
+      "lemma": "قَتُور",
+      "meaning_en": "stingy and tight-fisted",
+      "meaning_bn": "চরম কৃপণ",
+      "why_en": "Human tendency to hoard wealth due to anxiety."
+    }
+  ],
+  "lesson_en": "Human generosity has limits, but God mercy never runs dry. Greed makes people hoard what was meant to be shared.",
+  "lesson_bn": "আল্লাহর দানের কোনো সীমা নেই, কিন্তু মানুষের অন্তর সংকীর্ণ। মানুষ অভাবের ভয়ে সম্পদ আটকে রাখে অথচ স্রষ্টার ভাণ্ডার কখনো কমে না।",
+  "real_life_en": "Fight the impulse to be stingy with your wealth. Give charity to those in need, trusting that God will always provide for you.",
+  "real_life_bn": "কৃপণতা মন থেকে দূর করুন এবং গরিব-অসহায়দের সাহায্য করুন। দান করলে সম্পদ কমে না বরং আল্লাহর রহমতে বৃদ্ধি পায়।",
+  "themes": [
+    "greed",
+    "charity",
+    "divine-treasuries",
+    "generosity"
+  ],
+  "kinds": [
+    "argument",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "If humans possessed the boundless treasuries of divine mercy, they would withhold them out of stinginess and fear of spending.",
+      "claim_bn": "মানুষ আল্লাহর রহমতের ভাণ্ডার পেলেও খরচের ভয়ে তা আটকে রাখত, কারণ মানুষ স্বভাবতই কৃপণ।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,89 @@
+{
+  "id": "13:16",
+  "simple_en": "Ask them who owns the heavens and earth, and state clearly that it is Allah. Can blind eyes be equal to clear sight? Can dark confusion be equal to shining light? False idols cannot even benefit themselves. Allah is the Creator of everything, the One, the All-Dominant.",
+  "simple_bn": "বলুন, আসমান ও যমীনের রব কে? বলুন, আল্লাহ। অন্ধ ও চক্ষুষ্মান কি সমান হতে পারে? কিংবা অন্ধকার ও আলো কি এক হতে পারে? তারা যেসব অংশীদার বানিয়েছে তারা তো নিজেদের লাভ-ক্ষতিরও মালিক নয়। আল্লাহই সকল কিছুর স্রষ্টা, তিনি এক ও পরম পরাক্রমশালী।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ربب",
+      "lemma": "رَبّ",
+      "meaning_en": "Lord",
+      "meaning_bn": "রব",
+      "why_en": "Affirms Allah as the sole Sovereign and Sustainer of the cosmos."
+    },
+    {
+      "pos": 22,
+      "root": "عمي",
+      "lemma": "أَعْمَى",
+      "meaning_en": "the blind",
+      "meaning_bn": "অন্ধ",
+      "why_en": "Metaphor for someone spiritually blinded by polytheism."
+    },
+    {
+      "pos": 23,
+      "root": "بصر",
+      "lemma": "بَصِير",
+      "meaning_en": "the seeing",
+      "meaning_bn": "দৃষ্টিশক্তি সম্পন্ন",
+      "why_en": "Metaphor for the believer who perceives divine proofs clearly."
+    },
+    {
+      "pos": 27,
+      "root": "ظلم",
+      "lemma": "ظُلُمَة",
+      "meaning_en": "darkness",
+      "meaning_bn": "অন্ধকার",
+      "why_en": "Multiple layers of misguidance and false worship."
+    },
+    {
+      "pos": 28,
+      "root": "نور",
+      "lemma": "نُور",
+      "meaning_en": "light",
+      "meaning_bn": "আলো",
+      "why_en": "The single radiant path of divine guidance and monotheism."
+    }
+  ],
+  "lesson_en": "Choose the clear light of monotheism over the dark confusion of false worship.",
+  "lesson_bn": "ভ্রান্ত বিশ্বাসের অন্ধকার ছেড়ে একত্ববাদের সুস্পষ্ট আলো বেছে নেওয়াই বুদ্ধিমানের কাজ।",
+  "real_life_en": "A buyer tests goods in a store. He picks real items over cheap fakes. He knows that true quality brings peace of mind.",
+  "real_life_bn": "একজন ক্রেতা দোকানে পণ্য যাচাই করে। সে নকল জিনিস ছেড়ে আসল পণ্য বেছে নেয়, কারণ খাঁটি জিনিসই মনে শান্তি আনে।",
+  "context_en": "Arguments contrasting the clear truth of monotheism with the darkness of idolatry.",
+  "context_bn": "অন্ধকার ও আলো এবং অন্ধ ও চক্ষুষ্মানের উপমার মাধ্যমে তাওহীদের শ্রেষ্ঠত্ব প্রমাণ।",
+  "themes": [
+    "monotheism",
+    "light and darkness",
+    "creator",
+    "divine power"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "al-Wahid",
+      "al-Qahhar"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah is the sole Creator and Lord, and truth and falsehood are not equal like light and dark.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

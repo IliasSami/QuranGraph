@@ -1,0 +1,77 @@
+{
+  "id": "10:104",
+  "simple_en": "Say: O people, if you doubt my religion, know that I do not worship what you worship besides God. I worship God alone, who causes you to die, and I am commanded to be of the believers.",
+  "simple_bn": "বলুন: হে মানুষ, তোমরা যদি আমার দ্বীনের ব্যাপারে কোনো সন্দেহে থাক তবে জেনে রাখ, তোমরা আল্লাহ ছাড়া যাদের পূজা কর আমি তাদের উপাসনা করি না। বরং আমি কেবল সেই আল্লাহর ইবাদত করি যিনি তোমাদের মৃত্যু ঘটান, আর আমি মুমিনদের অন্তর্ভুক্ত হওয়ার নির্দেশ পেয়েছি।",
+  "key_words": [
+    {
+      "pos": 9,
+      "root": "دين",
+      "lemma": "دِين",
+      "meaning_en": "my religion",
+      "meaning_bn": "আমার দ্বীন",
+      "why_en": "The uncompromised path of pure Islamic monotheism."
+    },
+    {
+      "pos": 11,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "I worship",
+      "meaning_bn": "আমি ইবাদত করি",
+      "why_en": "Exclusive dedication of worship to the Creator alone."
+    },
+    {
+      "pos": 21,
+      "root": "وفي",
+      "lemma": "تَوَفَّى",
+      "meaning_en": "causes you to die",
+      "meaning_bn": "তোমাদের মৃত্যু ঘটান",
+      "why_en": "God holding absolute power over life, breath, and death."
+    }
+  ],
+  "lesson_en": "True faith stands firm on monotheism, bowing only to the Lord of life and death.",
+  "lesson_bn": "খাঁটি ঈমান শিরকমুক্ত একত্ববাদের ওপর প্রতিষ্ঠিত, যা কেবল জীবন ও মৃত্যুর মালিকের সামনে মাথা নত করে।",
+  "real_life_en": "Be clear and confident in your moral and spiritual convictions. Do not compromise essential truths to please others.",
+  "real_life_bn": "নিজের ধর্মীয় আদর্শ ও নীতিতে দৃঢ় থাকুন; অন্য কাউকে খুশি করার জন্য মূল সত্যের সাথে আপস করবেন না।",
+  "themes": [
+    "pure monotheism",
+    "disavowal of polytheism",
+    "sovereignty over life and death"
+  ],
+  "kinds": [
+    "command",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "all mankind",
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "false gods"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Prophet proclaimed total rejection of idol worship, affirming devotion exclusively to the Lord of life and death.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

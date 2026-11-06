@@ -1,0 +1,78 @@
+{
+  "id": "52:29",
+  "simple_en": "Allah commands the Prophet ﷺ to keep reminding people with the Quran. By the grace and favor of your Lord, you are neither a soothsayer nor a madman. The polytheists invent these false labels to turn people away. The truth of your message is pure and clear.",
+  "simple_bn": "আল্লাহ তাঁর নবী ﷺ-কে কুরআন দিয়ে মানুষকে উপদেশ দিতে নির্দেশ দিয়েছেন। আপনার রবের অনুগ্রহে আপনি কোনো গণক নন এবং উন্মাদও নন। সত্য থেকে মানুষকে বিরত রাখতে কাফিররা এসব মিথ্যা অপবাদ দেয়। আপনার বাণী সম্পূর্ণ সত্য ও স্পষ্ট।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "ذكر",
+      "lemma": "ذُكِّرَ",
+      "meaning_en": "so remind",
+      "meaning_bn": "উপদেশ দিন",
+      "why_en": "Orders the Prophet ﷺ to continue his mission despite false accusations."
+    },
+    {
+      "pos": 6,
+      "root": "كهن",
+      "lemma": "كاهِن",
+      "meaning_en": "a soothsayer / fortune-teller",
+      "meaning_bn": "গণক",
+      "why_en": "Refutes the pagan claim that revelation was mere fortune-telling."
+    },
+    {
+      "pos": 8,
+      "root": "جنن",
+      "lemma": "مَجْنُون",
+      "meaning_en": "a madman",
+      "meaning_bn": "পাগল / উন্মাদ",
+      "why_en": "Clears the Prophet ﷺ of the slanderous charge of insanity."
+    }
+  ],
+  "lesson_en": "Never let insults or false rumors stop you from conveying the truth.",
+  "lesson_bn": "মানুষের মিথ্যা অপবাদ বা সমালোচনায় সত্য প্রচার থেকে পিছপা হবেন না।",
+  "real_life_en": "If people make fun of you for following your faith, remain calm. Hold on to your principles and let your noble actions speak for you.",
+  "real_life_bn": "দ্বীনের পথে চলার কারণে কেউ উপহাস করলে ধৈর্য ধরুন। উত্তম আচরণের মাধ্যমে সত্যের সৌন্দর্য ফুটিয়ে তুলুন।",
+  "context_en": "The surah moves to defending the Prophet ﷺ against the malicious slanders of Quraysh.",
+  "context_bn": "সূরাটি কুরাইশদের জঘন্য অপবাদের বিরুদ্ধে রাসূলুল্লাহ ﷺ-এর নিষ্পাপ অবস্থান ঘোষণা করেছে।",
+  "themes": [
+    "prophethood",
+    "defense of the Prophet",
+    "patience in preaching"
+  ],
+  "kinds": [
+    "command",
+    "argument",
+    "belief"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [
+      "quraysh"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "ar-rabb"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Prophet is commanded to remind, cleared of being a soothsayer or madman by Allah's grace.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

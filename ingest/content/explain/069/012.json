@@ -1,0 +1,71 @@
+{
+  "id": "69:12",
+  "simple_en": "We made that rescue a reminder for you, so that attentive ears would hear and retain it. God wants people to reflect on history and take heed with thoughtful hearts.",
+  "simple_bn": "আমরা এই ঘটনাকে তোমাদের জন্য এক উপদেশ বানিয়েছি, যাতে তা সংরক্ষণকারী সচেতন কান শুনে স্মরণ রাখে। ইতিহাস থেকে শিক্ষা নেওয়াই বুদ্ধিমান মানুষের বৈশিষ্ট্য।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "ذكر",
+      "lemma": "تَذْكِرَة",
+      "meaning_en": "a reminder and lesson",
+      "meaning_bn": "একটি উপদেশ ও স্মারক",
+      "why_en": "Defines the purpose of preserving history as a moral warning."
+    },
+    {
+      "pos": 4,
+      "root": "وعي",
+      "lemma": "تَعِيَ",
+      "meaning_en": "might retain and grasp",
+      "meaning_bn": "যেন স্মরণ রাখে ও বোঝে",
+      "why_en": "Calls for conscious listening that leads to lasting understanding."
+    },
+    {
+      "pos": 6,
+      "root": "وعي",
+      "lemma": "واعِيَة",
+      "meaning_en": "attentive and receptive",
+      "meaning_bn": "সচেতন ও ধারণকারী",
+      "why_en": "Praises the ear and mind that absorb divine guidance and act on it."
+    }
+  ],
+  "lesson_en": "Listen to good advice with a heart that wants to learn.",
+  "lesson_bn": "মনোযোগ দিয়ে উপদেশ শোনা এবং অন্তরে তা ধারণ করা প্রকৃত জ্ঞানীর লক্ষণ।",
+  "real_life_en": "A young person listens to an elder share lessons from past mistakes. Instead of brushing the advice off, she writes down the points and applies them to avoid the same pitfalls.",
+  "real_life_bn": "অভিজ্ঞ মুরব্বিদের ভালো উপদেশ শুনে অবহেলা না করে তা মনে রাখা দরকার। অতীত থেকে শিক্ষা নিলে ভবিষ্যতে অনেক বড় ভুল ও বিপদ এড়ানো সম্ভব হয়।",
+  "themes": [
+    "remembrance",
+    "attentive hearing",
+    "taking heed"
+  ],
+  "kinds": [
+    "argument",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "nuh"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah made the saving of the believers in the ark a lasting reminder for every receptive ear.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

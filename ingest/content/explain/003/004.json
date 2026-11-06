@@ -1,0 +1,94 @@
+{
+ "id": "3:4",
+ "simple_en": "Those earlier books were sent as guidance for mankind before the Quran. Allah also revealed the Furqan, the standard that clearly separates right from wrong. Those who choose to reject Allah's messages will face a severe punishment. Allah is Almighty, and He holds wrongdoers to account with perfect justice.",
+ "simple_bn": "কুরআনের আগে সেই কিতাবগুলো মানবজাতির জন্য পথনির্দেশ হিসেবে পাঠানো হয়েছিল। আল্লাহ সত্য ও মিথ্যার পার্থক্যকারী মানদণ্ডও নাযিল করেছেন। যারা আল্লাহর আয়াতগুলোকে অস্বীকার করে, তাদের জন্য রয়েছে কঠিন শাস্তি। আল্লাহ মহা পরাক্রমশালী এবং তিনি অন্যায়কারীদের কাছ থেকে যথাযথ বিচার গ্রহণ করেন।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "هدي",
+   "lemma": "هُدًى",
+   "meaning_en": "guidance",
+   "meaning_bn": "পথনির্দেশ",
+   "why_en": "The scriptures were sent to guide people away from error to the right path."
+  },
+  {
+   "pos": 6,
+   "root": "فرق",
+   "lemma": "فُرْقان",
+   "meaning_en": "the Criterion",
+   "meaning_bn": "সত্য-মিথ্যার পার্থক্যকারী",
+   "why_en": "A standard that separates truth from falsehood and right from wrong."
+  },
+  {
+   "pos": 16,
+   "root": "عزز",
+   "lemma": "عَزِيز",
+   "meaning_en": "Al-Aziz, the Almighty",
+   "meaning_bn": "পরাক্রমশালী",
+   "why_en": "Allah has unmatched power and no one can overcome His judgment."
+  },
+  {
+   "pos": 18,
+   "root": "نقم",
+   "lemma": "انتِقام",
+   "meaning_en": "Retribution",
+   "meaning_bn": "প্রতিশোধ গ্রহণকারী",
+   "why_en": "He justly penalizes those who reject the truth and harm others."
+  }
+ ],
+ "lesson_en": "Use the Quran to tell right from wrong and take Allah's warnings to heart.",
+ "lesson_bn": "সত্য ও মিথ্যার পার্থক্য বুঝতে ওহিকে মাপকাঠি হিসেবে গ্রহণ করুন এবং আল্লাহর সতর্কবার্তাকে গুরুত্ব দিন।",
+ "real_life_en": "When popular trends try to blur right and wrong, turn to the Quran for clarity. Do not trade clear divine guidance for temporary social approval.",
+ "real_life_bn": "চারপাশের বিভ্রান্তিকর মতামত যখন কোনটা ভালো আর কোনটা মন্দ তা গুলিয়ে দেয়, তখন কুরআনের স্পষ্ট নির্দেশনার দিকে ফিরে তাকান। সাময়িক প্রশংসার জন্য সত্য পথ ছাড়বেন না।",
+ "context_en": "Follows 3:3 by completing the description of past guidance and highlighting the role of the Quran as the decisive Criterion.",
+ "context_bn": "পূর্ববর্তী কিতাবসমূহের ধারাবাহিকতায় কুরআনকে সত্য-মিথ্যার চূড়ান্ত পার্থক্যকারী হিসেবে ঘোষণা করা হয়েছে।",
+ "connect_prev": "Directly continues the sentence from 3:3 about previous scriptures and the revelation of the Furqan.",
+ "context": "Warns those who stubbornly reject the divine message despite having clear guidance before them.",
+ "themes": [
+  "guidance",
+  "the Quran",
+  "punishment",
+  "warning"
+ ],
+ "kinds": [
+  "warning",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Aziz"
+  ],
+  "events": [],
+  "things": [
+   "Al-Furqan"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Earlier scriptures were sent as guidance, and Allah revealed the Furqan to distinguish truth from falsehood.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "Those who reject Allah's signs will face severe punishment, for Allah is Almighty and takes retribution.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

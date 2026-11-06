@@ -1,0 +1,76 @@
+{
+  "id": "8:38",
+  "simple_en": "Tell those who disbelieve that if they stop their aggression, all their past sins will be forgiven by Allah. But if they return to fight, the precedent of earlier destroyed nations will fall upon them.",
+  "simple_bn": "সত্য অস্বীকারকারীদের বলুন, তারা যদি তাদের শত্রুতা থেকে বিরত হয়, তবে অতীতে যা ঘটে গেছে আল্লাহ তা ক্ষমা করে দেবেন। কিন্তু তারা যদি আবারও যুদ্ধের পুনরাবৃত্তি করে, তবে পূর্ববর্তীদের ধ্বংসের নীতি তো নির্ধারিতই আছে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "نهي",
+      "lemma": "انتَهَى",
+      "meaning_en": "they cease / stop",
+      "meaning_bn": "তারা বিরত হয়",
+      "why_en": "Halting warfare, hostility, and disbelief."
+    },
+    {
+      "pos": 6,
+      "root": "غفر",
+      "lemma": "غَفَرَ",
+      "meaning_en": "will be forgiven",
+      "meaning_bn": "ক্ষমা করে দেওয়া হবে",
+      "why_en": "Immediate divine pardon covering all past wrongs upon accepting truth."
+    },
+    {
+      "pos": 15,
+      "root": "سنن",
+      "lemma": "سُنَّة",
+      "meaning_en": "precedent / established way",
+      "meaning_bn": "ঐতিহাসিক রীতি / বিধান",
+      "why_en": "The unalterable divine law that persistent tyrants face destruction."
+    }
+  ],
+  "lesson_en": "God's door of forgiveness is always open to those who turn away from wrongdoing.",
+  "lesson_bn": "অতীতের যত বড় অপরাধই হোক না কেন, অন্যায় পথ ছেড়ে সত্যে ফিরে আসলে আল্লাহর ক্ষমার দরজা সর্বদা উন্মুক্ত।",
+  "real_life_en": "No matter how many mistakes you have made in the past, it is never too late to change. If you stop doing wrong today, God will forgive your past. Choose a fresh start and walk on the path of peace.",
+  "real_life_bn": "অতীতে যাই হোক না কেন, সৎপথে ফিরে আসার সুযোগ সবসময় থাকে। ভুল স্বীকার করে আজই অন্যায় ত্যাগ করুন, আল্লাহ ক্ষমাশীল।",
+  "context_en": "A generous divine invitation to the Quraysh offering complete forgiveness of past hostilities if they embrace peace and faith.",
+  "context_bn": "শত্রুতা ত্যাগ করে সত্য গ্রহণ করলে অতীতের সব রক্তপাত ও অপরাধ ক্ষমার উদাত্ত ঐশ্বরিক আহ্বান।",
+  "themes": [
+    "forgiveness of past sins",
+    "fresh start",
+    "divine sunnah",
+    "warning against hostility"
+  ],
+  "kinds": [
+    "promise",
+    "warning",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "disbelievers of Mecca"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Those who cease disbelief and hostility are promised complete pardon for all previous transgressions, while persistence in warfare invites historical ruin.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

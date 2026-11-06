@@ -1,0 +1,65 @@
+{
+  "id": "16:21",
+  "simple_en": "They are dead things without life. They do not even know when their own followers will be raised from their graves on the Last Day.",
+  "simple_bn": "তারা সম্পূর্ণ নিষ্প্রাণ, নির্জীব এবং মূলত মৃত। তারা এটুকুও জানে না যে তাদের অনুসারীদের কখন মৃত্যুর পর পুনরায় শেষ বিচারের জন্য জীবিত করা হবে।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "موت",
+      "lemma": "مَيِّت",
+      "meaning_en": "dead",
+      "meaning_bn": "মৃত",
+      "why_en": "Describes the total lack of life in carved idols."
+    },
+    {
+      "pos": 7,
+      "root": "بعث",
+      "lemma": "بَعَثَ",
+      "meaning_en": "they are resurrected",
+      "meaning_bn": "পুনরুত্থিত হবে",
+      "why_en": "Inanimate objects are ignorant of the Day of Resurrection."
+    }
+  ],
+  "lesson_en": "Dead idols have no life or mind. They know nothing of the Day of Judgment.",
+  "lesson_bn": "চেতনাহীন ও মৃত কোনো বস্তু মানুষের উপকার বা অপকার করার কোনো ধরনের ক্ষমতাই রাখে না।",
+  "real_life_en": "Pray only to the Ever-Living Lord. Do not seek help from statues or graves of the dead.",
+  "real_life_bn": "কোনো মৃত ব্যক্তি বা পাথরের মূর্তির কাছে অলৌকিক সাহায্য চাইবেন না। চিরঞ্জীব আল্লাহর কাছে সরাসরি দোয়া করুন।",
+  "themes": [
+    "tawhid",
+    "resurrection",
+    "idolatry"
+  ],
+  "kinds": [
+    "argument",
+    "hereafter"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [
+      "Resurrection"
+    ],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Idols are dead, not alive, and do not perceive when people will be resurrected.",
+      "claim_bn": "তারা নিষ্প্রাণ ও মৃত এবং কখন পুনরুত্থিত করা হবে সে বিষয়ে তাদের কোনো বোধ নেই।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

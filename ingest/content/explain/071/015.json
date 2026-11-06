@@ -1,0 +1,88 @@
+{
+ "id": "71:15",
+ "simple_en": "Prophet Nuh points his people to the vast universe above them. He asks them to look at how Allah created seven heavens placed one above another in perfect order. Such great design could not happen by chance. It shows the supreme power and wisdom of the One true God.",
+ "simple_bn": "নূহ তাঁর জাতিকে মাথার ওপরের বিশাল মহাবিশ্বের দিকে তাকাতে বলেন। তিনি জিজ্ঞাসা করেন, তারা কি দেখে না কীভাবে আল্লাহ সাত আসমান স্তরে স্তরে নিখুঁতভাবে সৃষ্টি করেছেন? এমন মহান সৃষ্টি কখনো এমনি এমনি হতে পারে না। এটি এক আল্লাহর অপরিসীম শক্তি ও প্রজ্ঞার প্রমাণ দেয়।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "رأي",
+   "lemma": "رَأَى",
+   "meaning_en": "did you not see, consider",
+   "meaning_bn": "তোমরা কি দেখো না, লক্ষ্য করনি",
+   "why_en": "It invites people to reflect upon the observable signs of creation."
+  },
+  {
+   "pos": 4,
+   "root": "خلق",
+   "lemma": "خَلَقَ",
+   "meaning_en": "created",
+   "meaning_bn": "সৃষ্টি করেছেন",
+   "why_en": "It points to Allah as the sole Maker of the universe."
+  },
+  {
+   "pos": 7,
+   "root": "سمو",
+   "lemma": "سَماء",
+   "meaning_en": "heavens, skies",
+   "meaning_bn": "আকাশসমূহ",
+   "why_en": "The vast heavens above us that testify to divine power."
+  },
+  {
+   "pos": 8,
+   "root": "طبق",
+   "lemma": "طَبَق",
+   "meaning_en": "in layers, one above another",
+   "meaning_bn": "স্তরে স্তরে",
+   "why_en": "It describes the orderly structure of the seven skies."
+  }
+ ],
+ "lesson_en": "Look at the sky with wonder and let its beauty remind you of your Creator.",
+ "lesson_bn": "আকাশের দিকে তাকিয়ে তার সৌন্দর্য দেখে নিজের সৃষ্টিকর্তার কথা স্মরণ করুন।",
+ "real_life_en": "On a clear night away from city lights, looking up at the vast sky makes a person feel small. That quiet feeling helps wash away pride and draws the heart closer to Allah.",
+ "real_life_bn": "শহরের আলো থেকে দূরে মেঘমুক্ত রাতের আকাশের দিকে তাকালে নিজেকে খুব ছোট মনে হয়। এই শান্ত অনুভূতি মন থেকে অহংকার দূর করে এবং হৃদয়কে আল্লাহর কাছে টেনে নেয়।",
+ "themes": [
+  "heavens",
+  "creation",
+  "power of Allah"
+ ],
+ "kinds": [
+  "creation",
+  "argument"
+ ],
+ "entities": {
+  "people": [
+   "nuh"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": [
+   "heavens"
+  ]
+ },
+ "claims": [
+  {
+   "text": "Nuh drew his people's attention to the seven heavens created one above another in layers.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The ordered structure of the seven skies demonstrates the absolute power of Allah.",
+   "sources": [
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

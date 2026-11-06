@@ -1,0 +1,80 @@
+{
+  "id": "12:17",
+  "simple_en": "They told their father that they had gone racing with one another, leaving Joseph behind to watch their belongings. They claimed that a wolf had devoured him. Then they admitted they knew he would not believe them.",
+  "simple_bn": "তারা বলল, হে আমাদের পিতা, আমরা দৌড় প্রতিযোগিতা করতে গিয়েছিলাম এবং ইউসুফকে আমাদের মালামালের কাছে রেখে গিয়েছিলাম, অতঃপর নেকড়ে বাঘ তাকে খেয়ে ফেলেছে। তবে আমরা সত্য বললেও আপনি আমাদের বিশ্বাস করবেন না।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "سبق",
+      "lemma": "اسْتَبَقَ",
+      "meaning_en": "we raced",
+      "meaning_bn": "আমরা দৌড় প্রতিযোগিতা করতে গেলাম",
+      "why_en": "Fabricating an innocent excuse of athletic games."
+    },
+    {
+      "pos": 9,
+      "root": "متع",
+      "lemma": "مَتاع",
+      "meaning_en": "our belongings",
+      "meaning_bn": "আমাদের মালামাল",
+      "why_en": "The possessions left in Joseph's care."
+    },
+    {
+      "pos": 11,
+      "root": "ذأب",
+      "lemma": "ذِئْب",
+      "meaning_en": "the wolf",
+      "meaning_bn": "নেকড়ে বাঘ",
+      "why_en": "Using Jacob's own fear as their fabricated scapegoat."
+    },
+    {
+      "pos": 18,
+      "root": "صدق",
+      "lemma": "صادِق",
+      "meaning_en": "truthful",
+      "meaning_bn": "সত্যবাদী",
+      "why_en": "Defensive remark revealing guilty conscience."
+    }
+  ],
+  "lesson_en": "Liars often use the fears of others to make their false stories sound true.",
+  "lesson_bn": "মিথ্যাবাদীরা তাদের অপকর্ম ঢাকতে অন্যের স্বাভাবিক শঙ্কাকেই অজুহাত হিসেবে ব্যবহার করে।",
+  "real_life_en": "Always speak the truth plainly, even when it is hard. Deceitful stories tangle into bigger lies and ultimately expose the person who invents them.",
+  "real_life_bn": "সর্বদা সত্য কথা বলুন। মিথ্যা অজুহাত সাময়িক রক্ষা করলেও তা মানুষের সম্মান ও বিশ্বাস চিরতরে নষ্ট করে দেয়।",
+  "themes": [
+    "fabricated excuse",
+    "covering a crime",
+    "story of Yusuf"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Yaqub (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The brothers claimed that Joseph was eaten by a wolf while guarding their bags during a race, defensively anticipating Jacob's disbelief.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

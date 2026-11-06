@@ -1,0 +1,99 @@
+{
+ "id": "2:188",
+ "simple_en": "Do not take what belongs to someone else by cheating, stealing, or lying. Never give bribes to judges or make up false claims to take money that is not yours. Even if you win in court, stolen wealth remains unlawful in the sight of Allah. Taking what belongs to another person when you know it is wrong is a major sin.",
+ "simple_bn": "আল্লাহ একে অপরের সম্পদ অন্যায় ও অবৈধ উপায়ে আত্মসাৎ করা কঠোরভাবে নিষেধ করেছেন, যেমন চুরি, প্রতারণা, সুদ বা আমানতের খেয়ানত। বিচারক বা শাসকদের ঘুষ দিয়ে কিংবা মিথ্যা যুক্তির আশ্রয়ে অন্যের সম্পত্তি দখল করতে যাওয়াও এখানে নিষিদ্ধ করা হয়েছে। আদালতের রায়ে কোনো কিছু নিজের পক্ষে পেলেও তা কারও জন্য হালাল হয়ে যায় না, কারণ বিচারক কেবল বাহ্যিক প্রমাণের ভিত্তিতে রায় দেন। সত্য জেনেও জেনেশুনে অন্যায়ভাবে অন্যের সম্পদ গ্রাস করা অত্যন্ত মারাত্মক পাপ।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "مول",
+   "lemma": "مال",
+   "meaning_en": "your wealth",
+   "meaning_bn": "তোমাদের সম্পদ",
+   "why_en": "Describes the property of the Muslim community as a collective trust that must be protected."
+  },
+  {
+   "pos": 5,
+   "root": "بطل",
+   "lemma": "باطِل",
+   "meaning_en": "unjustly / unlawfully",
+   "meaning_bn": "অবৈধভাবে / অন্যায়ভাবে",
+   "why_en": "Covers all forbidden means of acquiring wealth, including theft, fraud, usury, and bribery."
+  },
+  {
+   "pos": 6,
+   "root": "دلو",
+   "lemma": "أَدْلَى",
+   "meaning_en": "and offer it / present it",
+   "meaning_bn": "এবং তা পেশ করো [ঘুষ বা মামলা হিসেবে]",
+   "why_en": "Literally lowering a bucket; metaphorically offering wealth to judges to secure an unjust ruling."
+  },
+  {
+   "pos": 9,
+   "root": "حكم",
+   "lemma": "حُكّام",
+   "meaning_en": "the judges / rulers",
+   "meaning_bn": "বিচারকদের / শাসকদের",
+   "why_en": "Refers to legal authorities whose verdict does not make a wrongful claim morally permissible."
+  }
+ ],
+ "lesson_en": "Never take what is not yours. Winning a false case does not make stolen wealth clean.",
+ "lesson_bn": "আর্থিক লেনদেনে সততা বজায় রাখুন এবং মনে রাখুন কোনো আইনি ফাঁকফোকর কখনোই অন্যায়ভাবে উপার্জিত সম্পদকে বৈধ করতে পারে না।",
+ "real_life_en": "Suppose a business friend gives you money but keeps no receipt. Do not use their mistake to take their share. Even if no judge can prove the truth, Allah knows what happened, and you must return every cent.",
+ "real_life_bn": "ব্যবসায়িক অংশীদার যদি কোনো আর্থিক লেনদেনের রসিদ রাখতে ভুলে যায়, তবে প্রমাণের অভাবের সুযোগ নিয়ে তা অস্বীকার করবেন না। আদালতে সহজে জিতে যাওয়ার সুযোগ থাকলেও অন্যের প্রাপ্য আত্মসাৎ করার লোভ পরিহার করুন।",
+ "context_en": "After training the believers to restrain from their own lawful food and drink during fasting, Allah commands them never to consume others' wealth unlawfully.",
+ "context_bn": "রোজার মাধ্যমে নিজের হালাল খাদ্য ও পানীয় ত্যাগ করার প্রশিক্ষণের পর, আল্লাহ অন্যের সম্পদ অন্যায়ভাবে গ্রাস করা থেকে বিরত থাকার নির্দেশ দিয়েছেন।",
+ "themes": [
+  "wealth",
+  "justice",
+  "honesty",
+  "ethics"
+ ],
+ "kinds": [
+  "prohibition",
+  "law",
+  "ethics",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Consuming wealth unjustly through theft, fraud, breach of trust, bribery, or usury is strictly prohibited.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Bribing judges or manipulating legal proceedings to confiscate someone else's rightful property is a severe sin.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "A legal verdict in court does not make stolen or misappropriated wealth lawful in reality if the claimant knows they have no right to it.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-ibn-kathir",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

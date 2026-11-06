@@ -1,0 +1,65 @@
+{
+  "id": "18:25",
+  "simple_en": "The companions stayed asleep in their cave for three hundred long years. When counted by the moon, nine more years were added to their stay.",
+  "simple_bn": "তারা তাদের গুহায় তিনশত বছর অবস্থান করেছিল এবং চান্দ্র বর্ষগণনা অনুসারে আরও নয় বছর বেশি অতিবাহিত করেছিল।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "ثلث",
+      "lemma": "ثَلاث",
+      "meaning_en": "three hundred",
+      "meaning_bn": "তিনশত",
+      "why_en": "The solar duration of three centuries."
+    },
+    {
+      "pos": 8,
+      "root": "تسع",
+      "lemma": "تِسْع",
+      "meaning_en": "nine additional years",
+      "meaning_bn": "নয় বছর",
+      "why_en": "The exact mathematical difference between solar and lunar centuries."
+    }
+  ],
+  "lesson_en": "God power over time is amazing. Three centuries passed while the sleepers rested as if for a single afternoon.",
+  "lesson_bn": "আল্লাহর কুদরতে সময়ের হিসাব অলৌকিক রূপ নেয়। তিন শতাধিক বছর পেরিয়ে গেলেও গুহাবাসীদের শরীর পরম যত্নে সংরক্ষিত ছিল।",
+  "real_life_en": "Remember that time belongs to God. When you feel that time is slipping away, pray for blessing in your hours.",
+  "real_life_bn": "সময়ের মালিক একমাত্র আল্লাহ। জীবন দ্রুত কেটে যাচ্ছে মনে হলে সময়ের মধ্যে বরকত চেয়ে আল্লাহর কাছে দোয়া করুন।",
+  "themes": [
+    "duration-in-cave",
+    "miraculous-preservation",
+    "solar-lunar-calendar"
+  ],
+  "kinds": [
+    "story",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Companions of the Cave"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "the Cave"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "The companions stayed in the cave for three hundred solar years, which equals three hundred and nine lunar years.",
+      "claim_bn": "গুহাবাসীরা গুহায় তিনশত সৌর বছর ছিল, যা চান্দ্র বর্ষগণনায় তিনশত নয় বছর পূর্ণ হয়।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

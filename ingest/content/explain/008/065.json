@@ -1,0 +1,77 @@
+{
+  "id": "8:65",
+  "simple_en": "O Prophet, urge the believers to stand and fight. If there are twenty steadfast men among you, they will defeat two hundred. If there are a hundred of you, they will defeat a thousand deniers, because the enemy is a people who do not understand.",
+  "simple_bn": "হে নবী! মুমিনদের যুদ্ধের জন্য উদ্বুদ্ধ করো। তোমাদের মধ্যে বিশজন ধৈর্যশীল থাকলে তারা দুইশ জনকে পরাস্ত করবে। আর একশ জন থাকলে তারা এক হাজার কাফেরকে পরাজিত করবে, কারণ তারা সত্য বোঝে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "حرض",
+      "lemma": "حَرِّضِ",
+      "meaning_en": "urge / encourage",
+      "meaning_bn": "উদ্বুদ্ধ করো",
+      "why_en": "Inspiring courage and high morale."
+    },
+    {
+      "pos": 4,
+      "root": "أمن",
+      "lemma": "مُؤْمِن",
+      "meaning_en": "the believers",
+      "meaning_bn": "মুমিনরা",
+      "why_en": "The faithful troops defending their rights."
+    },
+    {
+      "pos": 6,
+      "root": "قتل",
+      "lemma": "قِتال",
+      "meaning_en": "battle / fighting",
+      "meaning_bn": "যুদ্ধ বা লড়াই",
+      "why_en": "Physical defense of justice and life."
+    }
+  ],
+  "lesson_en": "Deep faith and patience make a good heart ten times stronger.",
+  "lesson_bn": "অটল ঈমান ও ধৈর্য মানুষের অভ্যন্তরীণ শক্তি ও সক্ষমতাকে বহুগুণ বাড়িয়ে দেয়।",
+  "real_life_en": "Do not fear facing tough odds. Sincere dedication, strong skills, and deep patience allow a small, disciplined team to achieve results that shock much larger groups.",
+  "real_life_bn": "প্রতিপক্ষ যত বড়ই হোক, দৃঢ় মনোবল ও সুশৃঙ্খল পরিশ্রম থাকলে ছোট দলও অভাবনীয় বিজয় অর্জন করতে পারে।",
+  "context_en": "Initial ruling requiring steadfast Muslims to face ten times their number on the battlefield through unwavering faith.",
+  "context_bn": " his steadfastness and moral courage in defense.",
+  "themes": [
+    "courage",
+    "steadfastness",
+    "perseverance",
+    "moral strength"
+  ],
+  "kinds": [
+    "command",
+    "law",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "believers",
+      "disbelievers"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Steadfast believers were initially commanded to overcome odds of ten to one through patience and divine aid.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

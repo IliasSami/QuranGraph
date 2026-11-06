@@ -1,0 +1,75 @@
+{
+  "id": "65:11",
+  "simple_en": "Allah sent a Messenger who recites clear verses to you. He leads those who believe and do good deeds out of darkness into light. Whoever believes in Allah and does good, Allah will admit him into gardens where rivers flow, to live there forever. Allah has granted him a noble gift.",
+  "simple_bn": "আল্লাহ এক রাসূল পাঠিয়েছেন, যিনি তোমাদের কাছে আল্লাহর সুস্পষ্ট আয়াতসমূহ তিলাওয়াত করেন। এর উদ্দেশ্য হলো যারা ঈমান এনেছে ও সৎকাজ করে, তাদের ভ্রষ্টতার অন্ধকার থেকে বের করে হেদায়েতের আলোতে নিয়ে আসা। যে ব্যক্তি আল্লাহর ওপর ঈমান আনে এবং সৎকাজ করে, তিনি তাকে এমন জান্নাতে প্রবেশ করাবেন যার তলদেশ দিয়ে নদী প্রবাহিত। তারা সেখানে চিরকাল থাকবে। আল্লাহ তাকে এক চমৎকার জীবিকা দান করেছেন।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "a noble Messenger",
+      "meaning_bn": "রাসূল",
+      "why_en": "Identifies the Prophet Muhammad as the guide delivering divine truth."
+    },
+    {
+      "pos": 6,
+      "root": "بين",
+      "lemma": "مُبَيِّنَة",
+      "meaning_en": "clear and clarifying",
+      "meaning_bn": "সুস্পষ্ট",
+      "why_en": "Describes the Quranic verses as removing all doubt and ambiguity."
+    },
+    {
+      "pos": 15,
+      "root": "نور",
+      "lemma": "نُور",
+      "meaning_en": "radiant light of guidance",
+      "meaning_bn": "হেদায়েতের আলো",
+      "why_en": "Symbolizes the clarity, truth, and peace that faith brings into the heart."
+    }
+  ],
+  "lesson_en": "Follow the Messenger so you can leave dark confusion and walk in the bright light of faith.",
+  "lesson_bn": "রাসূলের আদর্শ ও আল্লাহর বাণী অনুসরণের মাধ্যমে পাপের অন্ধকার কাটিয়ে জান্নাতের আলোর পথে চলা উচিত।",
+  "real_life_en": "A young man used to waste his nights gambling and feeling depressed. A friend invites him to learn the Quran and pray. Leaving his bad habits behind, he feels his heart fill with peace and clear purpose, stepping from darkness into bright light.",
+  "real_life_bn": "অনর্থক ও অসৎ সঙ্গ ছেড়ে ভালো মানুষের সংস্পর্শে এলে জীবনে শান্তি ফিরে আসে। কুরআনের সত্যবাণী মানুষকে হতাশা ও বিভ্রান্তির অন্ধকার থেকে সরিয়ে নতুন এক আলোকময় পথের সন্ধান দেয়।",
+  "themes": [
+    "prophetic mission",
+    "light of guidance",
+    "gardens of Paradise",
+    "eternal provision"
+  ],
+  "kinds": [
+    "glad-tidings",
+    "promise",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "prophet-muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "paradise"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Messenger recites clear signs to extract believers from darkness into light, and whoever believes and does good deeds will enter eternal Paradise.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

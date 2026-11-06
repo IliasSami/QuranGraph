@@ -1,0 +1,64 @@
+{
+  "id": "18:20",
+  "simple_en": "They warned, 'If the city people discover you, they will stone you to death or force you back into their religion. If that happens, you will never succeed.'",
+  "simple_bn": "তারা সতর্ক করে বলল, 'শহরের লোকেরা যদি তোমাদের সন্ধান পায়, তবে তারা তোমাদের পাথর মেরে হত্যা করবে অথবা তাদের ধর্মে ফিরিয়ে নেবে। তখন তোমরা কখনো সফল হতে পারবে না।'",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "رجم",
+      "lemma": "رَجَمْ",
+      "meaning_en": "they will stone you",
+      "meaning_bn": "তোমাদের পাথর নিক্ষেপ করে মারবে",
+      "why_en": "The brutal ancient punishment for apostasy against paganism."
+    },
+    {
+      "pos": 11,
+      "root": "فلح",
+      "lemma": "أَفْلَحَ",
+      "meaning_en": "you will succeed",
+      "meaning_bn": "তোমরা সফল হবে",
+      "why_en": "True spiritual salvation in this life and the next."
+    }
+  ],
+  "lesson_en": "Losing faith is the ultimate defeat. Staying true to monotheism is worth protecting even at the risk of worldly comfort.",
+  "lesson_bn": "ঈমান হারানোই জীবনের সবচেয়ে বড় ক্ষতি। পার্থিব যে কোনো ত্যাগ স্বীকার করে হলেও সত্য দ্বীনের ওপর অবিচল থাকা অপরিহার্য।",
+  "real_life_en": "Guard your faith from bad company. Do not let crowds pressure you to drop your good values just to fit in.",
+  "real_life_bn": "বন্ধুবান্ধব বা সমাজের চাপে নিজের ধর্মীয় ও নৈতিক মূল্যবোধ বিসর্জন দেবেন না। সত্যের ওপর অবিচল থাকাই আসল সফলতা।",
+  "themes": [
+    "persecution",
+    "stoning",
+    "preserving-faith",
+    "true-success"
+  ],
+  "kinds": [
+    "story",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Companions of the Cave"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The youths feared that if caught, their pagan rulers would stone them or force them to renounce their faith, leading to eternal loss.",
+      "claim_bn": "যুবকরা ভয় করেছিল যে ধরা পড়লে অত্যাচারী সমাজ তাদের পাথর মেরে হত্যা করবে বা ঈমান ত্যাগ করতে বাধ্য করবে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

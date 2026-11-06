@@ -1,0 +1,83 @@
+{
+  "id": "7:49",
+  "simple_en": "The people on the wall point to the humble believers. They ask the leaders in the Fire if these are the ones they swore Allah would never bless. Then Allah tells the believers to enter Paradise. They will have no fear of future harm, and they will never feel sad.",
+  "simple_bn": "আ'রাফের অধিবাসীরা জাহান্নামীদের দিকে ইঙ্গিত করে বলবে, এরাই কি সেই দুর্বল মুমিন যাদের ব্যাপারে তোমরা কসম খেয়ে বলতে যে আল্লাহ কখনো এদের প্রতি রহমত করবেন না? এরপর সেই মুমিনদের বলা হবে, পরম শান্তিতে জান্নাতে প্রবেশ কর! ভবিষ্যতে তোমাদের কোনো ভয় নেই এবং অতীতের কোনো কিছুর জন্যও তোমরা দুঃখিত হবে না।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "قسم",
+      "lemma": "أَقْسَمُ",
+      "meaning_en": "you swore",
+      "meaning_bn": "তোমরা শপথ করে বলতে",
+      "why_en": "Recalls the false, arrogant oaths of the disbelievers claiming that the weak would receive no divine mercy."
+    },
+    {
+      "pos": 8,
+      "root": "دخل",
+      "lemma": "دَخَلَ",
+      "meaning_en": "enter",
+      "meaning_bn": "প্রবেশ কর",
+      "why_en": "The divine welcome inviting faithful souls into everlasting joy."
+    },
+    {
+      "pos": 15,
+      "root": "حزن",
+      "lemma": "يَحْزُن",
+      "meaning_en": "you will grieve",
+      "meaning_bn": "তোমরা দুঃখিত হবে",
+      "why_en": "Guarantees complete emotional peace and freedom from all past sadness in Paradise."
+    }
+  ],
+  "lesson_en": "Never look down on humble believers. Allah blesses those whom the proud despise.",
+  "lesson_bn": "কাউকে সাধারণ বা দুর্বল দেখে অবহেলা করবেন না। আল্লাহর রহমত বিনয়ী মুমিনদেরই অধিকার।",
+  "real_life_en": "People often ignore a quiet worker who stops work to pray on time. In the sight of Allah, true faith is worth more than wealth. Treat every believer with respect.",
+  "real_life_bn": "সমাজে সাধারণ দিনমজুর বা গরিব মানুষকে অনেকেই অবজ্ঞার চোখে দেখে। অথচ আল্লাহর কাছে সম্পদ নয়, তাকওয়াই সম্মানের মাপকাঠি। কাউকে ছোট মনে না করে সকল মুমিনকে সম্মান জানানো উচিত।",
+  "context_en": "Continuing their speech to the leaders of disbelief, the speakers contrast their despair with the joyous entry of the humble into Paradise.",
+  "context_bn": "জাহান্নামের নেতাদের জবাব দেওয়ার ধারাবাহিকতায় এখানে অহংকারীদের অবজ্ঞার শিকার হওয়া মুমিনদের জান্নাত লাভের সম্মানজনক দৃশ্য তুলে ধরা হয়েছে।",
+  "themes": [
+    "Allah's mercy",
+    "Paradise",
+    "humility",
+    "justice",
+    "glad-tidings"
+  ],
+  "kinds": [
+    "hereafter",
+    "glad-tidings",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Paradise"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The arrogant disbelievers falsely swore that Allah would not bestow mercy on humble believers.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "The believers are invited into Paradise with full security from fear and sorrow.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "eschatology",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

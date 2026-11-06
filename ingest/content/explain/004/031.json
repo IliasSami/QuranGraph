@@ -1,0 +1,94 @@
+{
+  "id": "4:31",
+  "simple_en": "If you stay away from the major sins forbidden to you, Allah will forgive your smaller mistakes. He will wipe away your minor faults through your good deeds. On the Day of Judgment, He will welcome you into an honorable place of lasting happiness: Paradise.",
+  "simple_bn": "তোমাদের যেসব বড় বড় গুনাহ বা কবীরা গোনাহ থেকে বেঁচে থাকতে বলা হয়েছে, তা পরিহার করলে আল্লাহ তোমাদের ছোটখাটো ভুলত্রুটিগুলো ক্ষমা করে দেবেন। তিনি তোমাদের সওয়াবের বিনিময়ে এসব ছোট পাপ মুছে দেবেন। এরপর তিনি তোমাদের সম্মানজনক স্থানে প্রবেশ করাবেন, যা হলো চিরসুখের জান্নাত।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "جنب",
+      "lemma": "اجْتَنَبُ",
+      "meaning_en": "you avoid / shun",
+      "meaning_bn": "তোমরা বেঁচে থাকো / পরিহার করো",
+      "why_en": "Demands deliberate, persistent effort to stay away from grave sins."
+    },
+    {
+      "pos": 3,
+      "root": "كبر",
+      "lemma": "كَبِيرَة",
+      "meaning_en": "major sins",
+      "meaning_bn": "কবীরা গোনাহ / বড় বড় পাপ",
+      "why_en": "Refers to grave offenses like polytheism, murder, severing ties, and usury."
+    },
+    {
+      "pos": 7,
+      "root": "كفر",
+      "lemma": "كَفَّرَ",
+      "meaning_en": "We will expiate / wipe away",
+      "meaning_bn": "আমরা ক্ষমা করে দেবো / মুছে দেবো",
+      "why_en": "Describes erasing minor misdeeds on account of avoiding major sins."
+    },
+    {
+      "pos": 12,
+      "root": "كرم",
+      "lemma": "كَرِيم",
+      "meaning_en": "noble and generous",
+      "meaning_bn": "সম্মানজনক",
+      "why_en": "Describes Paradise as a noble, dignified entrance filled with blessing."
+    }
+  ],
+  "lesson_en": "Strive to shun major sins and trust that Allah will wipe out your smaller daily shortcomings.",
+  "lesson_bn": "বড় বড় গুনাহ থেকে সতর্কভাবে বেঁচে থাকুন এবং বিশ্বাস রাখুন যে আল্লাহ আপনার ছোটখাটো ভুলত্রুটি ক্ষমা করে দেবেন।",
+  "real_life_en": "Stay far away from major sins like lying, stealing, or gossip. When you keep away from big sins, Allah pardons your daily mistakes and admits you to Paradise.",
+  "real_life_bn": "একজন মানুষ মিথ্যা, প্রতারণা, সুদ বা নামাজ কাজা করার মতো বড় পাপগুলো থেকে সাবধানে বেঁচে থাকে। দৈনন্দিন জীবনে অনিচ্ছাকৃত কোনো ছোট ভুল হয়ে গেলে সে সাথে সাথে আল্লাহর ক্ষমা চায় এবং কোনো ভালো কাজ করে, কারণ সে জানে আল্লাহ তার ভুল ক্ষমা করবেন।",
+  "context_en": "Offers glad tidings of divine forgiveness and entry into Paradise for those who actively shun major sins.",
+  "context_bn": "কবীরা গোনাহ থেকে দূরে থাকা ব্যক্তিদের ছোটখাটো ভুল মার্জনা ও জান্নাত লাভের সুসংবাদ।",
+  "themes": [
+    "forgiveness",
+    "repentance",
+    "Paradise",
+    "good character",
+    "faith"
+  ],
+  "kinds": [
+    "promise",
+    "glad-tidings"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "Paradise"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "Day of Judgement"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Avoiding major sins causes Allah to forgive minor sins and wipe them away.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Those who avoid major sins will be admitted into a noble entrance, which is Paradise.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

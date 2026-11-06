@@ -1,0 +1,65 @@
+{
+  "id": "17:7",
+  "simple_en": "If you do good, you do good for your own souls. If you do evil, it hurts only yourselves. When the second warning came, enemies ruined their holy place completely.",
+  "simple_bn": "তোমরা যদি ভালো কাজ করো তবে তা নিজেদের মঙ্গলের জন্যই করবে, আর মন্দ কাজ করলে তার ক্ষতিও তোমাদের ওপরই বর্তাবে। পরবর্তী সতর্কতার সময় এলে শত্রুরা তাদের মুখমণ্ডল বিষাদগ্রস্ত করে এবং উপাসনালয় ধ্বংস করে দেয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "حسن",
+      "lemma": "أَحْسَنَ",
+      "meaning_en": "you did good",
+      "meaning_bn": "তোমরা ভালো কাজ করলে",
+      "why_en": "Righteous deeds bringing benefit to the doer."
+    },
+    {
+      "pos": 6,
+      "root": "سوأ",
+      "lemma": "أَساءَ",
+      "meaning_en": "you did evil",
+      "meaning_bn": "তোমরা মন্দ কাজ করলে",
+      "why_en": "Bad deeds rebounding upon their perpetrators."
+    }
+  ],
+  "lesson_en": "Every deed returns to the one who does it. Sins bring disgrace and shatter sacred sanctuaries.",
+  "lesson_bn": "মানুষের কাজের ফল সে নিজেই ভোগ করে। অবিচার অব্যাহত থাকলে চূড়ান্ত পরাজয় ও অপমান নেমে আসে।",
+  "real_life_en": "Treat people with justice and kindness at work and home. Doing right benefits your own soul first of all.",
+  "real_life_bn": "সবার সাথে সদাচরণ করুন। কারো ক্ষতি করার চেষ্টা করলে প্রকৃতপক্ষে মানুষ নিজের আত্মিক ক্ষতিই ডেকে আনে।",
+  "themes": [
+    "accountability",
+    "banu-israil",
+    "ruin"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "Children of Israel"
+    ],
+    "places": [
+      "al-Masjid al-Aqsa"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Good deeds benefit oneself and evil deeds harm oneself. At the second corruption, enemies brought total ruin to Jerusalem.",
+      "claim_bn": "সৎকাজের সুফল এবং অসৎকাজের কুফল ব্যক্তির নিজের ওপরই বর্তায়। দ্বিতীয় অপরাধের পর শত্রুরা এসে বায়তুল মুকাদ্দাস ধ্বংস করে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "interfaith",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,64 @@
+{
+  "id": "21:34",
+  "simple_en": "We never granted immortality on earth to any human being before you. If you pass away, do these critics expect that they will live forever?",
+  "simple_bn": "আপনার পূর্বেও আমি কোনো মানুষকে পৃথিবীতে চিরস্থায়ী জীবন দেইনি। অতএব আপনি যদি ইন্তেকাল করেন, তবে কি তারা চিরকাল বেঁচে থাকবে?",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "بشر",
+      "lemma": "بَشَر",
+      "meaning_en": "a human being",
+      "meaning_bn": "মানুষ",
+      "why_en": "Mortal nature common to all humankind."
+    },
+    {
+      "pos": 6,
+      "root": "خلد",
+      "lemma": "خُلْد",
+      "meaning_en": "immortality",
+      "meaning_bn": "চিরস্থায়ী জীবন",
+      "why_en": "Eternal worldly life denied to all creation."
+    }
+  ],
+  "lesson_en": "Death comes to all people without exception. No one stays in this worldly life forever.",
+  "lesson_bn": "মৃত্যু প্রতিটি মানুষের জন্যই অনিবার্য। এই পৃথিবীতে কেউ চিরদিন বেঁচে থাকবে না।",
+  "real_life_en": "Do not wish ill on others or gloat over their hardships. Remember that you also face a limited lifespan on earth.",
+  "real_life_bn": "অন্যের অমঙ্গল কামনা বা বিপদে আনন্দ প্রকাশ করবেন না। মনে রাখবেন, আপনার নিজের জীবনের মেয়াদও অতি সীমিত।",
+  "themes": [
+    "mortality",
+    "death",
+    "prophethood",
+    "futility-of-wishes"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "No human being before Muhammad was granted earthly immortality, refuting those who wished for his death.",
+      "claim_bn": "মুহাম্মাদের পূর্বে কোনো মানুষকেই চিরকাল বেঁচে থাকার সুযোগ দেওয়া হয়নি, তাই বিরোধীদের চিরস্থায়ী থাকার ভাবনা ভিত্তিহীন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

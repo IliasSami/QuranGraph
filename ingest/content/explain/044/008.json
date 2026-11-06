@@ -1,0 +1,72 @@
+{
+ "id": "44:8",
+ "simple_en": "There is no god worthy of worship except Him. He alone gives life and causes death. He is your true Lord, and He was the Lord of your past ancestors. Worship belongs to Him alone.",
+ "simple_bn": "তিনি ছাড়া কোনো সত্য উপাস্য নেই। তিনিই জীবন দেন এবং তিনিই মৃত্যু ঘটান। তিনি তোমাদের প্রতিপালক এবং তোমাদের পূর্বপুরুষদেরও প্রতিপালক ছিলেন। তাই কেবল তাঁরই ইবাদত করতে হবে।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "حيي",
+   "lemma": "أَحْيا",
+   "meaning_en": "He gives life",
+   "meaning_bn": "তিনি জীবন দেন",
+   "why_en": "Allah alone grants life to every living being in creation."
+  },
+  {
+   "pos": 6,
+   "root": "موت",
+   "lemma": "أَماتَ",
+   "meaning_en": "and causes death",
+   "meaning_bn": "ও মৃত্যু ঘটান",
+   "why_en": "Death is entirely in His hands, marking the end of life on earth."
+  },
+  {
+   "pos": 10,
+   "root": "أول",
+   "lemma": "أَوَّل",
+   "meaning_en": "the first / earlier [forefathers]",
+   "meaning_bn": "পূর্ববর্তী [পূর্বপুরুষগণ]",
+   "why_en": "He has always been the sole Lord across all human generations."
+  }
+ ],
+ "lesson_en": "Allah alone controls life and death, so devote all your worship to Him.",
+ "lesson_bn": "জীবন ও মৃত্যুর একক মালিক মহান আল্লাহ, তাই সবটুকু আনুগত্য কেবল তাঁর জন্যই নিবেদন করুন।",
+ "real_life_en": "When you wake up each morning, thank Allah for giving you another day of life. Use your time to do good deeds that please your Creator.",
+ "real_life_bn": "প্রতিদিন সকালে ঘুম ভাঙলে নতুন একটি দিনের জীবনের জন্য আল্লাহর শোকর আদায় করুন। ভালো কাজের মাধ্যমে আপনার সময় কাজে লাগান।",
+ "themes": [
+  "tawhid",
+  "death",
+  "Allah's power"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah",
+   "ar-rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "There is no true deity except Allah; He alone gives life, causes death, and is the Lord of all generations.",
+   "claim_bn": "আল্লাহ ছাড়া কোনো সত্য উপাস্য নেই; তিনিই জীবন ও মৃত্যু দেন এবং তিনি সকল প্রজন্মের একমাত্র প্রতিপালক।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

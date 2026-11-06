@@ -1,0 +1,80 @@
+{
+  "id": "57:2",
+  "simple_en": "To Allah alone belongs the absolute kingdom of the heavens and the earth. He gives life to whoever He wills, and He brings death to whoever He wills. His power has no limits, and nothing can ever escape His control.",
+  "simple_bn": "আসমান ও যমীনের সার্বভৌম রাজত্ব একমাত্র আল্লাহরই। তিনি যাকে ইচ্ছা জীবন দান করেন এবং যাকে ইচ্ছা মৃত্যু ঘটান। তিনি সব কিছুর উপর পূর্ণ ক্ষমতাবান এবং কোনো কিছুই তাঁর ক্ষমতার বাইরে নয়।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "ملك",
+      "lemma": "مُلْك",
+      "meaning_en": "dominion",
+      "meaning_bn": "সার্বভৌম রাজত্ব",
+      "why_en": "Emphasizes that true ownership of the universe belongs only to Allah."
+    },
+    {
+      "pos": 5,
+      "root": "حيي",
+      "lemma": "أَحْيا",
+      "meaning_en": "He gives life",
+      "meaning_bn": "তিনি জীবন দেন",
+      "why_en": "Highlights Allah's sole power to bring life into being."
+    },
+    {
+      "pos": 6,
+      "root": "موت",
+      "lemma": "أَماتَ",
+      "meaning_en": "and causes death",
+      "meaning_bn": "এবং মৃত্যু ঘটান",
+      "why_en": "Affirms that the end of earthly life is entirely in Allah's hands."
+    }
+  ],
+  "lesson_en": "Trust Allah with your life and death, knowing that every event is in His hands.",
+  "lesson_bn": "নিজের জীবন ও মরণ নিয়ে একমাত্র আল্লাহর উপর ভরসা রাখুন, কারণ সব বিষয় তাঁর নিয়ন্ত্রণেই রয়েছে।",
+  "real_life_en": "A doctor treats a very sick patient in a hospital. Even when the patient gets well, the doctor knows that life and cure come only from Allah. Because of this, he stays humble in his work.",
+  "real_life_bn": "হাসপাতালে একজন চিকিৎসক অসুস্থ রোগীর সুস্থতার জন্য আপ্রাণ চেষ্টা করেন। চিকিৎসা সফল হলেও চিকিৎসক জানেন যে জীবন ও শিফা কেবল আল্লাহর পক্ষ থেকেই আসে, তাই তিনি বিনয়ী থাকেন।",
+  "themes": [
+    "tawhid",
+    "Allah's power",
+    "creation",
+    "death"
+  ],
+  "kinds": [
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "allah",
+      "al-qadir"
+    ],
+    "events": [],
+    "things": [
+      "the sky",
+      "the earth"
+    ]
+  },
+  "claims": [
+    {
+      "text": "To Allah belongs the kingdom of the heavens and the earth, and He gives life and causes death.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    },
+    {
+      "text": "Allah is capable of all things, and nothing is beyond His power.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

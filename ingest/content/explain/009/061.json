@@ -1,0 +1,75 @@
+{
+  "id": "9:61",
+  "simple_en": "Some people hurt the Prophet by claiming he listens too easily to everyone. Say: He is an ear of goodness for you. He believes in Allah, trusts the believers, and is a mercy to the faithful among you.",
+  "simple_bn": "তাদের মধ্যে এমন লোকও আছে যারা নবীকে কষ্ট দেয় এবং বলে, তিনি সবার কথাই শোনেন। বলুন, তিনি তোমাদের জন্য যা মঙ্গল কেবল সেটাই শোনেন। তিনি আল্লাহর ওপর ঈমান রাখেন, মুমিনদের বিশ্বাস করেন এবং তিনি তোমাদের মুমিনদের জন্য এক বিশেষ রহমত।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "أذي",
+      "lemma": "أُوذِيَ",
+      "meaning_en": "hurt / abused",
+      "meaning_bn": "কষ্ট দেয়",
+      "why_en": "Verbal insults and slander directed at the Prophet."
+    },
+    {
+      "pos": 7,
+      "root": "أذن",
+      "lemma": "أُذُن",
+      "meaning_en": "an ear / good listener",
+      "meaning_bn": "কর্ণপাতকারী / সবার কথা শোনে",
+      "why_en": "Insulting his gentle patience and willingness to hear everyone."
+    },
+    {
+      "pos": 16,
+      "root": "رحم",
+      "lemma": "رَحْمَة",
+      "meaning_en": "mercy",
+      "meaning_bn": "রহমত / পরম অনুগ্রহ",
+      "why_en": "The Prophet's role as a blessing to sincere believers."
+    }
+  ],
+  "lesson_en": "Listening with patience is a mark of noble character and mercy.",
+  "lesson_bn": "ধৈর্য ধরে মানুষের কথা শোনা কোনো দুর্বলতা নয়, বরং মহান চরিত্র ও ক্ষমার লক্ষণ।",
+  "real_life_en": "When you lead a group, listen kindly to people even when they complain. Do not let cynical critics mock your patience.",
+  "real_life_bn": "নেতৃত্ব দেওয়ার সময় সবার কথা মনোযোগ দিয়ে শুনুন; ধৈর্যশীল আচরণকে দুর্বলতা মনে করে কেউ ঠাট্টা করলেও নিজের ভদ্রতা বজায় রাখুন।",
+  "themes": [
+    "gentleness of the Prophet",
+    "slander",
+    "mercy"
+  ],
+  "kinds": [
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "believers",
+      "hypocrites"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Hypocrites insulted the Prophet's patient listening, but Allah clarified that his attentiveness is a mercy and wisdom.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

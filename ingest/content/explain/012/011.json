@@ -1,0 +1,64 @@
+{
+  "id": "12:11",
+  "simple_en": "The brothers approached their father Jacob with deceitful words. They asked why he did not trust them with Joseph, insisting that they were only wishing him well.",
+  "simple_bn": "তারা বলল, হে আমাদের পিতা, ইউসুফের ব্যাপারে আপনি আমাদের বিশ্বাস করছেন না কেন? অথচ আমরা তো তার পরম শুভাকাঙ্ক্ষী।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "أمن",
+      "lemma": "أَمِنَ",
+      "meaning_en": "you trust us",
+      "meaning_bn": "বিশ্বাস করছেন না",
+      "why_en": "Questioning their father's natural wariness."
+    },
+    {
+      "pos": 11,
+      "root": "نصح",
+      "lemma": "ناصِح",
+      "meaning_en": "sincere counselors",
+      "meaning_bn": "শুভাকাঙ্ক্ষী",
+      "why_en": "False display of care masking deceit."
+    }
+  ],
+  "lesson_en": "Bad people often hide their evil plans behind sweet and gentle words.",
+  "lesson_bn": "প্রতারক ব্যক্তিরা প্রায়ই নিজেদের ক্ষতিকর উদ্দেশ্যকে মিষ্টি কথার আড়ালে লুকিয়ে রাখে।",
+  "real_life_en": "Judge people by their consistent actions rather than sweet words. A cautious mind protects you and your loved ones from hidden deceit.",
+  "real_life_bn": "কেবল মিষ্টি কথায় বিভ্রান্ত না হয়ে মানুষের দীর্ঘমেয়াদী আচরণের দিকে লক্ষ্য রাখুন। সতর্কতা পরিবারকে ক্ষতির হাত থেকে বাঁচায়।",
+  "themes": [
+    "deception",
+    "false advice",
+    "story of Yusuf"
+  ],
+  "kinds": [
+    "story",
+    "warning",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Yaqub (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Joseph's brothers feigned sincere goodwill and questioned Jacob's caution to lure Joseph into their hands.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

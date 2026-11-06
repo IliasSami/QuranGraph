@@ -1,0 +1,89 @@
+{
+  "id": "6:92",
+  "simple_en": "This Quran is a blessed Book that Allah revealed to His Prophet. It confirms the true messages sent in earlier scriptures. It came to warn the people of Makkah and all surrounding nations. Those who believe in the Hereafter accept this Book. They also protect their prayers by praying regularly on time.",
+  "simple_bn": "এই কুরআন এক বরকতময় কিতাব, যা আল্লাহ নাজিল করেছেন। এটি পূর্ববর্তী আসমানী কিতাবসমূহের সত্যতা নিশ্চিত করে। এটি মক্কাবাসী এবং তার আশপাশের সমগ্র মানুষকে সতর্ক করার জন্য পাঠানো হয়েছে। যারা পরকালে বিশ্বাস করে, তারা এতে পূর্ণ আস্থা রাখে এবং নিজেদের সালাতের যত্ন নেয়।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "برك",
+      "lemma": "مُبارَك",
+      "meaning_en": "blessed",
+      "meaning_bn": "বরকতময়",
+      "why_en": "Describes the Quran as abundant in good, guidance, and spiritual blessings."
+    },
+    {
+      "pos": 5,
+      "root": "صدق",
+      "lemma": "مُصَدِّق",
+      "meaning_en": "confirming",
+      "meaning_bn": "সত্যতা প্রমাণকারী",
+      "why_en": "Confirms that the Quran aligns with and verifies previous divine revelations."
+    },
+    {
+      "pos": 22,
+      "root": "حفظ",
+      "lemma": "يُحافِظُ",
+      "meaning_en": "they guard / maintain",
+      "meaning_bn": "তারা যত্নসহকারে রক্ষা করে",
+      "why_en": "Praises believers who perform their prayers punctually and properly."
+    }
+  ],
+  "lesson_en": "The Quran is full of blessings. True believers honor it and guard their daily prayers.",
+  "lesson_bn": "কুরআন এক বরকতময় কিতাব। সত্যিকারের মুমিনরা এতে বিশ্বাস রাখে এবং সালাতের হেফাজত করে।",
+  "real_life_en": "Make the Quran a daily part of your routine. Read its verses, understand their meaning, and let them guide your choices. Establish your five daily prayers with care, as prayer is the foundation of faith.",
+  "real_life_bn": "কুরআনকে দৈনন্দিন জীবনের সঙ্গী বানান। এর আয়াত পড়ুন, অর্থ বুঝুন এবং জীবনে প্রয়োগ করুন। যত্নসহকারে পাঁচ ওয়াক্ত সালাত আদায় করুন, কারণ সালাতই দ্বীনের ভিত্তি।",
+  "context_en": "Describes the Quran as a blessed confirmation of earlier scriptures, sent to warn all humanity.",
+  "context_bn": "কুরআনকে পূর্ববর্তী কিতাবের সত্যায়নকারী এবং মানবজাতির জন্য বরকতময় সতর্কবার্তা হিসেবে পরিচয় দেওয়া হয়েছে।",
+  "themes": [
+    "Quran",
+    "blessings",
+    "prayer",
+    "Hereafter",
+    "Makkah"
+  ],
+  "kinds": [
+    "description-of-allah",
+    "warning",
+    "belief",
+    "command"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [
+      "Makkah"
+    ],
+    "unseen": [
+      "Hereafter"
+    ],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran",
+      "prayer"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quran is a blessed scripture confirming previous revelations, sent to warn Makkah and all people.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "Belief in the Hereafter leads to faith in the Quran and careful observance of regular prayer.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-jalalayn"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

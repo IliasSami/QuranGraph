@@ -1,0 +1,93 @@
+{
+ "id": "72:6",
+ "simple_en": "The jinn also recalled a custom from the days before Islam. When people stopped in a lonely or frightening place, some men would ask the jinn of that place for protection. This made the jinn proud and bold, because humans were turning to them instead of Allah. It also left the people more afraid.",
+ "simple_bn": "জিনরা ইসলামের আগের একটি প্রথাও মনে করল। মানুষ যখন কোনো নির্জন বা ভয়ের জায়গায় থামত, তখন কিছু লোক সেই জায়গার জিনদের কাছে নিরাপত্তা চাইত। এতে জিনরা অহংকারী ও দুঃসাহসী হয়ে উঠত, কারণ মানুষ আল্লাহর বদলে তাদের দিকে ঝুঁকছিল। এতে লোকদের ভয়ও আরও বেড়ে যেত।",
+ "key_words": [
+  {
+   "pos": 5,
+   "root": "أنس",
+   "lemma": "إِنس",
+   "meaning_en": "humankind",
+   "meaning_bn": "মানুষ",
+   "why_en": "It marks the human side of this old practice."
+  },
+  {
+   "pos": 6,
+   "root": "عوذ",
+   "lemma": "عُذْ",
+   "meaning_en": "they seek refuge",
+   "meaning_bn": "আশ্রয় চাওয়া",
+   "why_en": "The verb shows people asking a created being to protect them."
+  },
+  {
+   "pos": 9,
+   "root": "جنن",
+   "lemma": "جِنّ",
+   "meaning_en": "jinn",
+   "meaning_bn": "জিন",
+   "why_en": "They were the ones wrongly asked for shelter and safety."
+  },
+  {
+   "pos": 11,
+   "root": "رهق",
+   "lemma": "رَهَق",
+   "meaning_en": "arrogance, excess",
+   "meaning_bn": "অহংকার, বাড়াবাড়ি",
+   "why_en": "Being asked for help made the jinn feel greater than they were."
+  }
+ ],
+ "lesson_en": "Seek protection from Allah alone. Turning to any created being for safety only increases fear and pride.",
+ "lesson_bn": "নিরাপত্তা কেবল আল্লাহর কাছে চাইতে হবে। সৃষ্টির কোনো কিছুকে আশ্রয় বানালে ভয় ও অহংকারই বাড়ে।",
+ "real_life_en": "You may keep a lucky charm or repeat a certain phrase because you feel safer with it. This ayah shows where such habits can lead. Keep what protects you in your hands, like locking the door, but place your trust in Allah alone, not in an object or a hidden power.",
+ "real_life_bn": "কোনো তাবিজ বা বিশেষ বাক্য সঙ্গে রাখলে হয়তো নিরাপত্তা মনে হয়। এই আয়াত দেখায়, এমন অভ্যাস কোথায় নিয়ে যেতে পারে। দরজা বন্ধ করা বা সতর্ক থাকার মতো কাজ করুন, কিন্তু ভরসা রাখুন কেবল আল্লাহর উপর—কোনো বস্তু বা অদৃশ্য শক্তির উপর নয়।",
+ "themes": [
+  "jinn",
+  "shirk",
+  "the unseen"
+ ],
+ "kinds": [
+  "story"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn"
+  ],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "In the time of ignorance, men used to seek protection in the jinn when they stopped at a frightening place.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-maarif"
+   ]
+  },
+  {
+   "text": "This seeking of refuge increased the jinn in arrogance and transgression.",
+   "sources": [
+    "g-ar-saadi",
+    "g-en-jalalayn"
+   ]
+  },
+  {
+   "text": "It also made people more afraid and terrified of the jinn.",
+   "sources": [
+    "qe-english-mokhtasar"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.88,
+ "uncertain": [
+  "The pronoun in 'they increased them' can refer either to humans increasing the jinn in arrogance or to the jinn increasing humans in fear. Both are reported, and the explanation mentions both."
+ ]
+}

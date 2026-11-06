@@ -1,0 +1,65 @@
+{
+  "id": "16:80",
+  "simple_en": "Allah made your homes a place of quiet rest. From animal skins He made tents that are light to carry when you travel and camp.",
+  "simple_bn": "আল্লাহ তোমাদের ঘরসমূহকে পরম শান্তির আবাস করেছেন। আর তিনি পশুর চামড়া থেকে তাঁবুর ব্যবস্থা করেছেন যা ভ্রমণ ও অবস্থানের দিনগুলোতে বহন করা অত্যন্ত সহজ।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "سكن",
+      "lemma": "سَكَن",
+      "meaning_en": "place of rest",
+      "meaning_bn": "শান্তির আবাস",
+      "why_en": "Homes providing physical and emotional tranquility."
+    },
+    {
+      "pos": 13,
+      "root": "خفف",
+      "lemma": "اسْتَخَفَّ",
+      "meaning_en": "you find light",
+      "meaning_bn": "হালকা মনে হয়",
+      "why_en": "Lightweight nomad tents easy to transport."
+    }
+  ],
+  "lesson_en": "Shelter and portable homes are blessings of peace provided by God for human ease.",
+  "lesson_bn": "স্থায়ী ঘর ও ভ্রমণের তাঁবু আল্লাহর বিশেষ নিয়ামত, যা মানুষকে প্রশান্তি ও নিরাপত্তা দেয়।",
+  "real_life_en": "Keep your home peaceful and clean. Be grateful for a safe roof over your head each night.",
+  "real_life_bn": "নিজের বাড়িকে শান্তি ও ভালোবাসার স্থান বানান। মাথার ওপর নিরাপদ ছাদ থাকার জন্য আল্লাহর শুকরিয়া আদায় করুন।",
+  "themes": [
+    "home",
+    "shelter",
+    "blessings"
+  ],
+  "kinds": [
+    "creation",
+    "praise"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "homes",
+      "tents",
+      "wool"
+    ]
+  },
+  "claims": [
+    {
+      "claim_en": "Allah provided homes for resting, and light tents from hides for travel and camping.",
+      "claim_bn": "আল্লাহ স্থায়ী ঘরকে বিশ্রামের স্থান করেছেন এবং ভ্রমণের সুবিধার জন্য চামড়ার হালকা তাঁবু দিয়েছেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

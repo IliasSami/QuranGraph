@@ -1,0 +1,70 @@
+{
+ "id": "46:11",
+ "simple_en": "The disbelievers said of those who believed: if this message were truly good, these poor and weak people would not have reached it before us. Because they refused to let the Quran guide them, they made up an excuse. They said: this is only an ancient lie.",
+ "simple_bn": "কাফিররা মুমিনদের সম্পর্কে বলত: এই দীন যদি ভালো কিছু হতো, তবে এই দরিদ্র ও দুর্বল লোকেরা আমাদের আগে তা গ্রহণ করতে পারত না। তারা নিজেরা কুরআনের হেদায়াত গ্রহণ না করায় অজুহাত তুলে বলল: এ তো এক পুরোনো মিথ্যা ছাড়া কিছুই নয়।",
+ "key_words": [
+  {
+   "pos": 10,
+   "root": "سبق",
+   "lemma": "سَبَقَ",
+   "meaning_en": "they preceded us",
+   "meaning_bn": "তারা আমাদের চেয়ে অগ্রণী হতো",
+   "why_en": "The rich disbelievers arrogantly assumed that the poor could not beat them to any good."
+  },
+  {
+   "pos": 18,
+   "root": "أفك",
+   "lemma": "إِفْك",
+   "meaning_en": "a lie / falsehood",
+   "meaning_bn": "মিথ্যাচার",
+   "why_en": "When they failed to accept guidance, they slandered the Quran as a lie."
+  },
+  {
+   "pos": 19,
+   "root": "قدم",
+   "lemma": "قَدِيم",
+   "meaning_en": "ancient / old",
+   "meaning_bn": "পুরাতন",
+   "why_en": "They falsely claimed the Quran was just old tales from the past."
+  }
+ ],
+ "lesson_en": "Do not judge truth by social status or worldly wealth.",
+ "lesson_bn": "পার্থিব সম্পদ বা সামাজিক পদমর্যাদা দিয়ে সত্যের বিচার করবেন না।",
+ "real_life_en": "Never look down on someone because of their background or simple lifestyle. Wisdom and faith often reach the humble first, while pride keeps the rich and powerful from the truth.",
+ "real_life_bn": "সাধারণ জীবনযাপন বা পার্থিব কারণে কাউকে ছোট মনে করবেন না। বিনম্র ব্যক্তিরাই প্রায়শ আগে সত্যকে আপন করে নেয়, আর অহংকার মানুষকে সত্য থেকে দূরে রাখে।",
+ "themes": [
+  "arrogance",
+  "disbelief",
+  "guidance",
+  "wealth"
+ ],
+ "kinds": [
+  "belief",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Arrogant disbelievers claimed that if faith were good the weak would not have beaten them to it, dismissing the Quran as an old lie.",
+   "claim_bn": "অহংকারী কাফিররা দাবি করেছিল ঈমান ভালো হলে দুর্বলরা তাদের চেয়ে অগ্রণী হতো না এবং তারা কুরআনকে পুরোনো মিথ্যা বলে উড়িয়ে দিয়েছিল।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

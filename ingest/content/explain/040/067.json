@@ -1,0 +1,87 @@
+{
+  "id": "40:67",
+  "simple_en": "Allah is the One who created Adam from dust, and then created each of you from a drop of fluid. He developed you into a clinging clot, then brought you forth as infants. He grants you strength to reach full maturity, then you grow into old age, though some die earlier. All of this follows a set term so that you may reflect.",
+  "simple_bn": "তিনিই মহান আল্লাহ, যিনি তোমাদের আদি পিতা আদমকে মাটি থেকে সৃষ্টি করেছেন। এরপর তোমাদের জন্ম দিয়েছেন শুক্রবিন্দু থেকে, অতঃপর জমাট রক্তপিণ্ড থেকে। তারপর তিনি তোমাদের মাতৃগর্ভ থেকে শিশুরূপে বের করে আনেন, যাতে তোমরা পূর্ণ শক্তিতে পৌঁছাতে পারো এবং পরে বার্ধক্যে উপনীত হও। আবার তোমাদের কেউ কেউ এর আগেই মৃত্যুবরণ করে। এই সবই নির্ধারিত সময় পূর্ণ করার জন্য, যাতে তোমরা অনুধাবন করতে পারো।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "ترب",
+      "lemma": "تُراب",
+      "meaning_en": "dust / soil",
+      "meaning_bn": "মাটি",
+      "why_en": "The original substance from which humanity's father Adam was created."
+    },
+    {
+      "pos": 8,
+      "root": "نطف",
+      "lemma": "نُطْفَة",
+      "meaning_en": "a sperm-drop",
+      "meaning_bn": "শুক্রবিন্দু",
+      "why_en": "The biological origin of human reproduction."
+    },
+    {
+      "pos": 11,
+      "root": "علق",
+      "lemma": "عَلَقَة",
+      "meaning_en": "a clinging clot",
+      "meaning_bn": "জমাট রক্তপিণ্ড",
+      "why_en": "The early embryonic stage of human development."
+    },
+    {
+      "pos": 14,
+      "root": "طفل",
+      "lemma": "طِفْل",
+      "meaning_en": "a child / infant",
+      "meaning_bn": "শিশু",
+      "why_en": "Birth into this world in a weak and dependent state."
+    },
+    {
+      "pos": 20,
+      "root": "شيخ",
+      "lemma": "شَيْخ",
+      "meaning_en": "elderly / old age",
+      "meaning_bn": "বৃদ্ধ",
+      "why_en": "The concluding chapter of human physical life before death."
+    }
+  ],
+  "lesson_en": "The stages of human life show the supreme power and wisdom of the Creator.",
+  "lesson_bn": "মানবজীবনের প্রতিটি ধাপ আল্লাহর অপরিসীম শক্তি ও সুনিপুণ প্রজ্ঞার স্বাক্ষর বহন করে।",
+  "real_life_en": "Look at your own life stages from childhood to adulthood. Let the changes in your strength make you humble and grateful to your Creator.",
+  "real_life_bn": "শৈশব থেকে যৌবন এবং বার্ধক্যের পরিবর্তন নিয়ে চিন্তা করুন। শারীরিক শক্তির সীমাবদ্ধতা উপলব্ধি করে স্রষ্টার প্রতি বিনম্র ও কৃতজ্ঞ থাকুন।",
+  "themes": [
+    "creation",
+    "human nature",
+    "Allah's power",
+    "reflection"
+  ],
+  "kinds": [
+    "creation",
+    "description-of-allah",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Allah created human beings in successive stages from dust, nutfah, and clot to childhood, maturity, and old age.",
+      "claim_bn": "আল্লাহ মানুষকে পর্যায়ক্রমে মাটি, শুক্রবিন্দু ও রক্তপিণ্ড থেকে সৃষ্টি করে শৈশব, যৌবন ও বার্ধক্যের মধ্য দিয়ে পরিচালনা করেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

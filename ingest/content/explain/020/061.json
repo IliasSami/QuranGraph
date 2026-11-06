@@ -1,0 +1,76 @@
+{
+  "id": "20:61",
+  "simple_en": "Moses warned them not to invent lies against God. He said that a harsh punishment would wipe them out, for liars will always end in ruin.",
+  "simple_bn": "মূসা জাদুকরদের সতর্ক করলেন: তোমাদের দুর্ভোগ হোক। আল্লাহর ওপর মিথ্যা আরোপ করো না, অন্যথায় তিনি কঠোর শাস্তিতে তোমাদের ধ্বংস করবেন। মিথ্যুক কখনো সফল হয় না।",
+  "key_words": [
+    {
+      "pos": 6,
+      "root": "فري",
+      "lemma": "ٱفْتَرَىٰ",
+      "meaning_en": "do not fabricate lies",
+      "meaning_bn": "মিথ্যা উদ্ভাবন করো না",
+      "why_en": "Warning against portraying sorcery as divine power."
+    },
+    {
+      "pos": 10,
+      "root": "سحت",
+      "lemma": "أَسْحَتَ",
+      "meaning_en": "He completely destroys you",
+      "meaning_bn": "তোমাদের সমূলে ধ্বংস করে দেবেন",
+      "why_en": "Total eradication through divine wrath."
+    },
+    {
+      "pos": 13,
+      "root": "خيب",
+      "lemma": "خَابَ",
+      "meaning_en": "has failed and lost",
+      "meaning_bn": "ব্যর্থ ও ক্ষতিগ্রস্ত হয়েছে",
+      "why_en": "The certain doom of every religious impostor."
+    }
+  ],
+  "lesson_en": "Lying about God brings ruin. Those who twist religion for money or fame will lose.",
+  "lesson_bn": "আল্লাহর নামে মিথ্যা বলা বা ধর্মের অপব্যাখ্যা করা মানুষের চূড়ান্ত বিনাশ ও ব্যর্থতা ডেকে আনে।",
+  "real_life_en": "Speak the truth about your faith. Do not invent rules or repeat rumors without sure knowledge.",
+  "real_life_bn": "ধর্মীয় বিষয়ে না জেনে কোনো কথা বলা থেকে বিরত থাকুন। সর্বদা সত্য ও খাঁটি তথ্যের ওপর ভিত্তি করে কথা বলুন।",
+  "themes": [
+    "warning-against-lies",
+    "musa",
+    "magicians",
+    "integrity"
+  ],
+  "kinds": [
+    "warning",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa"
+    ],
+    "nations": [],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses warned the magicians not to forge lies against God lest punishment destroy them.",
+      "claim_bn": "মূসা জাদুকরদের আল্লাহর ওপর মিথ্যা আরোপ না করার ব্যাপারে সতর্ক করেন যাতে তারা শাস্তি থেকে বাঁচতে পারে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

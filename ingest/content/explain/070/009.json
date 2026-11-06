@@ -1,0 +1,69 @@
+{
+ "id": "70:9",
+ "simple_en": "The mountains, which look so solid and heavy, will become like loose wool. They will be light enough to drift in the wind and then scatter like dust. What seemed unshakeable will break apart before everyone.",
+ "simple_bn": "যে পাহাড়গুলোকে আমরা এত মজবুত ও ভারী মনে করি, সেগুলো আলগা পশমের মতো হয়ে যাবে। বাতাসে ভেসে বেড়ানোর মতো হালকা হবে, তারপর ধুলোর মতো ছড়িয়ে পড়বে। যাকে অটল ভেবেছিলাম, তা সবার সামনে ভেঙে পড়বে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "جبل",
+   "lemma": "جَبَل",
+   "meaning_en": "the mountains",
+   "meaning_bn": "পাহাড়সমূহ",
+   "why_en": "The great masses of rock that people treat as fixed landmarks."
+  },
+  {
+   "pos": 3,
+   "root": "عهن",
+   "lemma": "عِهْن",
+   "meaning_en": "carded wool",
+   "meaning_bn": "ধুনা পশম",
+   "why_en": "Wool combed loose and soft, light enough for the wind to carry away."
+  }
+ ],
+ "lesson_en": "What looks permanent here is only borrowed; put your weight on what never crumbles.",
+ "lesson_bn": "এখানে যা স্থায়ী মনে হয়, তা ধার করা মাত্র; ভরসা রাখুন তার ওপর, যা কখনো ভাঙে না।",
+ "real_life_en": "A man builds a stone wall without cement and calls it strong. One heavy rain and it falls into a pile. Mountains will do the same on that Day, so do not build your hope on anything that can fall.",
+ "real_life_bn": "একজন মানুষ সিমেন্ট ছাড়া পাথরের দেয়াল বানিয়ে বলে, এটা খুব মজবুত। এক দিনের ভারী বৃষ্টিতেই তা ধসে পড়ে। সেই দিনে পাহাড়গুলোরও একই দশা হবে; তাই যা ভেঙে পড়তে পারে, তার ওপর ভরসা গড়বেন না।",
+ "themes": [
+  "the Last Day",
+  "resurrection",
+  "signs in nature"
+ ],
+ "kinds": [
+  "hereafter",
+  "warning"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [
+   "day of judgement"
+  ],
+  "things": [
+   "mountains"
+  ]
+ },
+ "claims": [
+  {
+   "text": "The mountains will be like light, loose wool.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "They will become scattered dust and vanish.",
+   "sources": [
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "eschatology",
+ "scholars_differ": false,
+ "confidence": 0.93,
+ "uncertain": []
+}

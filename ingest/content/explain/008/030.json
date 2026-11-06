@@ -1,0 +1,84 @@
+{
+  "id": "8:30",
+  "simple_en": "Remember when the disbelievers plotted in Mecca to imprison you, murder you, or drive you from your home. They made their plans, but Allah made His plan, and Allah is the best of planners.",
+  "simple_bn": "আর স্মরণ করো, যখন কাফিররা আপনার বিরুদ্ধে ষড়যন্ত্র করছিল আপনাকে বন্দী করার, হত্যা করার বা নির্বাসিত করার জন্য। তারা চক্রান্ত করছিল আর আল্লাহও কৌশল করছিলেন, এবং আল্লাহই সর্বশ্রেষ্ঠ কৌশলী।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "مكر",
+      "lemma": "مَكَرَ",
+      "meaning_en": "plots / schemes",
+      "meaning_bn": "ষড়যন্ত্র করে",
+      "why_en": "Secret conspiratorial scheming to eliminate truth."
+    },
+    {
+      "pos": 6,
+      "root": "ثبت",
+      "lemma": "يُثْبِتُ",
+      "meaning_en": "to imprison / detain you",
+      "meaning_bn": "আপনাকে বন্দী করার জন্য",
+      "why_en": "One of the options discussed by Quraysh leaders at Dar al-Nadwa."
+    },
+    {
+      "pos": 8,
+      "root": "قتل",
+      "lemma": "قَتَلَ",
+      "meaning_en": "to kill you",
+      "meaning_bn": "আপনাকে হত্যা করার জন্য",
+      "why_en": "The assassination plot devised by Abu Jahl that God thwarted through the Hijrah."
+    }
+  ],
+  "lesson_en": "No human plot can succeed against the protective care and wisdom of God.",
+  "lesson_bn": "শত্রুদের গোপন চক্রান্ত যতই নিখুঁত হোক না কেন, আল্লাহর অমোঘ পরিকল্পনার সামনে তা চূর্ণ হতে বাধ্য।",
+  "real_life_en": "When powerful people try to undermine or hurt you unfairly, stay calm. Do your honest duty and place your trust in God. The plans of dishonest people will fail, while truth stands secure.",
+  "real_life_bn": "মানুষ আপনার বিরুদ্ধে কূটকৌশল করলেও ভয় পাবেন না। নিজের অবস্থানে সৎ থেকে আল্লাহর ওপর ভরসা রাখুন; তিনিই আপনার সর্বশ্রেষ্ঠ রক্ষক।",
+  "context_en": "Recalling the critical night in Mecca at Dar al-Nadwa when the Quraysh plotted to kill the Prophet, which Allah foiled through the Hijrah.",
+  "context_bn": "হিজরতের প্রাক্কালে দারুন নদওয়ায় রাসূলুল্লাহ ﷺ-কে হত্যার ষড়যন্ত্র এবং তা ব্যর্থ করে তাঁকে নিরাপদে বের করে আনার ঘটনা।",
+  "themes": [
+    "the Hijrah",
+    "divine protection of the Prophet",
+    "thwarting conspiracies",
+    "Allah's supreme plan"
+  ],
+  "kinds": [
+    "story",
+    "promise",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [
+      "Prophet Muhammad ﷺ"
+    ],
+    "nations": [
+      "Quraysh conspirators"
+    ],
+    "places": [
+      "Mecca",
+      "Dar al-Nadwa"
+    ],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [
+      "the assassination plot before Hijrah"
+    ],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "The Quraysh plotted in Dar al-Nadwa to capture, murder, or banish the Prophet, but Allah dismantled their conspiracy and ensured his safe migration.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": "The secret meeting of the Quraysh chiefs in Dar al-Nadwa to eliminate the Prophet ﷺ.",
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

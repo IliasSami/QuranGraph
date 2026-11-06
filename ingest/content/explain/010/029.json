@@ -1,0 +1,76 @@
+{
+  "id": "10:29",
+  "simple_en": "Allah is enough as a witness between us and you. We had no idea about the worship you used to offer to us in the world.",
+  "simple_bn": "সুতরাং আমাদের ও তোমাদের মাঝে সাক্ষী হিসেবে আল্লাহই যথেষ্ট যে, আমরা তোমাদের পূজা-উপাসনা সম্পর্কে সম্পূর্ণ বেখবর ছিলাম।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "كفي",
+      "lemma": "كَفَى",
+      "meaning_en": "is sufficient",
+      "meaning_bn": "যথেষ্ট",
+      "why_en": "God's testimony settles all disputes."
+    },
+    {
+      "pos": 3,
+      "root": "شهد",
+      "lemma": "شَهِيد",
+      "meaning_en": "a witness",
+      "meaning_bn": "সাক্ষী",
+      "why_en": "All-seeing divine observation of all worship."
+    },
+    {
+      "pos": 10,
+      "root": "غفل",
+      "lemma": "غافِل",
+      "meaning_en": "completely unaware",
+      "meaning_bn": "সম্পূর্ণ বেখবর / অজ্ঞ",
+      "why_en": "Inanimate idols and deceased saints heard nothing of polytheist rites."
+    }
+  ],
+  "lesson_en": "Praying to created beings is totally futile; they cannot even hear you.",
+  "lesson_bn": "আল্লাহ ছাড়া অন্য কোনো সৃষ্টির কাছে প্রার্থনা করা অর্থহীন, কারণ তারা কিছুই শুনতে পায় না।",
+  "real_life_en": "Direct your prayers and deepest hopes to God alone. Dead saints or statues know nothing of your problems and cannot help you.",
+  "real_life_bn": "মাজার বা কোনো মূর্তির কাছে ধরণা দেবেন না; মনের সব আর্জি কেবল সর্বশ্রোতা আল্লাহর কাছেই পেশ করুন।",
+  "themes": [
+    "idols unaware of worship",
+    "Allah as witness",
+    "futility of polytheism"
+  ],
+  "kinds": [
+    "argument",
+    "belief",
+    "description-of-allah"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [
+      "polytheists"
+    ],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah",
+      "Witness"
+    ],
+    "events": [],
+    "things": [
+      "idols"
+    ]
+  },
+  "claims": [
+    {
+      "text": "False deities will testify that they possessed no consciousness or awareness of the devotions directed toward them.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

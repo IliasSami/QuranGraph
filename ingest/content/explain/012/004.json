@@ -1,0 +1,88 @@
+{
+  "id": "12:4",
+  "simple_en": "Young Joseph spoke respectfully to his father Jacob about a dream. He saw eleven stars, along with the sun and the moon, bowing down before him in prostration.",
+  "simple_bn": "স্মরণ করুন, যখন ইউসুফ তাঁর পিতা ইয়াকূবকে শ্রদ্ধার সাথে বললেন, হে আমার পিতা, আমি স্বপ্নে এগারটি নক্ষত্র, সূর্য এবং চাঁদকে দেখেছি; আমি দেখেছি তারা আমার প্রতি সিজদা করছে।",
+  "key_words": [
+    {
+      "pos": 5,
+      "root": "أبو",
+      "lemma": "أَب",
+      "meaning_en": "O my father",
+      "meaning_bn": "হে আমার পিতা",
+      "why_en": "Loving, respectful filial address."
+    },
+    {
+      "pos": 10,
+      "root": "كوكب",
+      "lemma": "كَوْكَب",
+      "meaning_en": "stars / planets",
+      "meaning_bn": "নক্ষত্রসমূহ",
+      "why_en": "Representing Joseph's eleven brothers."
+    },
+    {
+      "pos": 11,
+      "root": "شمس",
+      "lemma": "شَمْس",
+      "meaning_en": "the sun",
+      "meaning_bn": "সূর্য",
+      "why_en": "Representing his father."
+    },
+    {
+      "pos": 12,
+      "root": "قمر",
+      "lemma": "قَمَر",
+      "meaning_en": "the moon",
+      "meaning_bn": "চাঁদ",
+      "why_en": "Representing his mother or maternal aunt."
+    },
+    {
+      "pos": 15,
+      "root": "سجد",
+      "lemma": "ساجِد",
+      "meaning_en": "prostrating",
+      "meaning_bn": "সিজদারত",
+      "why_en": "A vision of ultimate honor and submission."
+    }
+  ],
+  "lesson_en": "True dreams can be divine signs showing future honor and prophetic destiny.",
+  "lesson_bn": "সত্য স্বপ্ন আল্লাহর পক্ষ থেকে ভবিষ্যৎ সম্মান ও মর্যাদার শুভ ইঙ্গিত হতে পারে।",
+  "real_life_en": "Share important thoughts with wise and loving parents. A warm bond between children and parents creates a safe space for guidance and encouragement.",
+  "real_life_bn": "গুরুত্বপূর্ণ বিষয়ে জ্ঞানী ও স্নেহশীল মা-বাবার সাথে পরামর্শ করুন। সন্তানের সাথে সুন্দর সম্পর্ক জীবনে সঠিক পথ দেখায়।",
+  "themes": [
+    "story of Yusuf",
+    "prophetic dream",
+    "father and son",
+    "respectful speech"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf (peace be upon him)",
+      "Yaqub (peace be upon him)"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Joseph recounted to his father Jacob a vision in which eleven stars, the sun, and the moon prostrated to him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

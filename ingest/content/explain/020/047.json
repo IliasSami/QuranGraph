@@ -1,0 +1,78 @@
+{
+  "id": "20:47",
+  "simple_en": "They said to Pharaoh: We are messengers from your Lord. Release the Children of Israel and do not torture them. Peace belongs to those who follow guidance.",
+  "simple_bn": "তাঁরা ফেরাউনকে বললেন: আমরা তোমার প্রতিপালকের রাসুল। বনি ইসরাইলকে আমাদের সাথে যেতে দাও এবং তাদের নির্যাতন করো না। হেদায়েত গ্রহণকারীদের ওপর শান্তি বর্ষিত হোক।",
+  "key_words": [
+    {
+      "pos": 4,
+      "root": "رسل",
+      "lemma": "رَسُول",
+      "meaning_en": "messengers",
+      "meaning_bn": "রাসুলদ্বয়",
+      "why_en": "Affirming their official divine commission."
+    },
+    {
+      "pos": 11,
+      "root": "عذب",
+      "lemma": "عَذَّبَ",
+      "meaning_en": "do not torment them",
+      "meaning_bn": "তাদের শাস্তি বা নির্যাতন করো না",
+      "why_en": "Demanding immediate cessation of enslavement and brutality."
+    },
+    {
+      "pos": 17,
+      "root": "سلم",
+      "lemma": "سَلَٰم",
+      "meaning_en": "peace and safety",
+      "meaning_bn": "শান্তি ও নিরাপত্তা",
+      "why_en": "True peace comes only through following divine truth."
+    }
+  ],
+  "lesson_en": "Prophets work to free people. Faith calls us to stop cruelty and help the weak.",
+  "lesson_bn": "মানুষকে দাসত্ব ও নিপীড়ন থেকে মুক্ত করা ঐশী বাণীর অন্যতম প্রধান নৈতিক দাবি।",
+  "real_life_en": "Oppose cruelty and exploitation wherever you witness it. True believers stand up for the human rights of others.",
+  "real_life_bn": "সমাজে কোনো শোষণ ও অবিচার দেখলে তার প্রতিবাদ করুন। নিপীড়িত মানুষের অধিকার রক্ষায় সর্বদা সোচ্চার হোন।",
+  "themes": [
+    "human-dignity",
+    "liberation",
+    "justice",
+    "pharaoh"
+  ],
+  "kinds": [
+    "command",
+    "story"
+  ],
+  "entities": {
+    "people": [
+      "Musa",
+      "Harun",
+      "Fir'awn"
+    ],
+    "nations": [
+      "Bani Isra'il"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Moses and Aaron demanded that Pharaoh cease torturing the Children of Israel and release them.",
+      "claim_bn": "মূসা ও হারুন ফেরাউনকে বনি ইসরাইলের ওপর নির্যাতন বন্ধ করতে এবং তাদের মুক্তি দিতে নির্দেশ দেন।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

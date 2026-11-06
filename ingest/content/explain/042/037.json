@@ -1,0 +1,89 @@
+{
+ "id": "42:37",
+ "simple_en": "The true believers stay away from major sins and shameful deeds. When someone angers them or treats them badly, they choose to forgive and remain calm.",
+ "simple_bn": "প্রকৃত মুমিনরা কবীরা গুনাহ ও অশ্লীল কাজ থেকে দূরে থাকে। আর যখন তারা কারো আচরণে রাগান্বিত হয়, তখন তারা ক্ষমা করে দেয় এবং ধৈর্য ধারণ করে।",
+ "key_words": [
+  {
+   "pos": 2,
+   "root": "جنب",
+   "lemma": "اجْتَنَبُ",
+   "meaning_en": "they avoid / shun",
+   "meaning_bn": "তারা বেঁচে থাকে",
+   "why_en": "Describes active effort to distance oneself from corrupt deeds."
+  },
+  {
+   "pos": 3,
+   "root": "كبر",
+   "lemma": "كَبِيرَة",
+   "meaning_en": "major sins",
+   "meaning_bn": "কবীরা গুনাহসমূহ",
+   "why_en": "Refers to destructive sins that carry serious warnings in scripture."
+  },
+  {
+   "pos": 5,
+   "root": "فحش",
+   "lemma": "فاحِشَة",
+   "meaning_en": "immoralities / lewd deeds",
+   "meaning_bn": "অশ্লীল কার্যকলাপ",
+   "why_en": "Includes all shameful and indecent actions that harm personal purity."
+  },
+  {
+   "pos": 8,
+   "root": "غضب",
+   "lemma": "غَضِبَ",
+   "meaning_en": "they are angry",
+   "meaning_bn": "তারা রাগান্বিত হয়",
+   "why_en": "Acknowledges natural human anger when provoked by others."
+  },
+  {
+   "pos": 10,
+   "root": "غفر",
+   "lemma": "غَفَرَ",
+   "meaning_en": "they forgive",
+   "meaning_bn": "তারা ক্ষমা করে দেয়",
+   "why_en": "Praises overcoming anger with patience, pardoning, and magnanimity."
+  }
+ ],
+ "lesson_en": "Controlling your anger and forgiving others is a sign of strong faith.",
+ "lesson_bn": "রাগ নিয়ন্ত্রণ করা এবং অন্যকে ক্ষমা করে দেওয়া উন্নত চরিত্রের পরিচয়।",
+ "real_life_en": "When an argument breaks out at home or with a coworker, pause before you speak. Take a deep breath, seek refuge with Allah from anger, and choose the path of forgiveness.",
+ "real_life_bn": "পরিবারে বা কর্মক্ষেত্রে কারো উপর রাগ হলে সাথে সাথে কড়া কথা বলবেন না। কিছুক্ষণ শান্ত থাকুন, ক্ষমা করে দিন এবং বিরোধ মিটিয়ে ফেলুন।",
+ "themes": [
+  "good character",
+  "forgiveness",
+  "the believers' qualities",
+  "patience"
+ ],
+ "kinds": [
+  "ethics",
+  "belief",
+  "praise"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "allah"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "Believers avoid major sins and immoralities, and when angered, they pardon and forgive.",
+   "claim_bn": "মুমিনরা কবীরা গুনাহ ও অশ্লীলতা থেকে বেঁচে থাকে এবং রাগান্বিত হলেও ক্ষমা প্রদর্শন করে।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

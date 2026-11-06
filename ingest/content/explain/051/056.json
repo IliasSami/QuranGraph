@@ -1,0 +1,79 @@
+{
+  "id": "51:56",
+  "simple_en": "God did not create jinn and human beings except to worship Him alone. This sacred purpose gives meaning to our existence on earth. To worship God means to know Him, love Him, and obey His noble guidance.",
+  "simple_bn": "আর আমি সৃষ্টি করেছি জিন এবং মানুষকে এজন্যই যে, তারা কেবল আমারই ইবাদাত করবে।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "خلق",
+      "lemma": "خَلَقَ",
+      "meaning_en": "I created",
+      "meaning_bn": "আমি সৃষ্টি করেছি",
+      "why_en": "The supreme act of bringing humanity and jinn into being."
+    },
+    {
+      "pos": 3,
+      "root": "جنن",
+      "lemma": "جِنّ",
+      "meaning_en": "the jinn",
+      "meaning_bn": "জিন",
+      "why_en": "The unseen creation created with free will to worship God."
+    },
+    {
+      "pos": 4,
+      "root": "أنس",
+      "lemma": "إِنس",
+      "meaning_en": "mankind",
+      "meaning_bn": "মানুষ",
+      "why_en": "Human beings created to know and serve their Creator."
+    },
+    {
+      "pos": 6,
+      "root": "عبد",
+      "lemma": "عَبَدَ",
+      "meaning_en": "to worship Me",
+      "meaning_bn": "আমারই ইবাদাত করবে",
+      "why_en": "The ultimate purpose of life: worship of God alone."
+    }
+  ],
+  "lesson_en": "Our true purpose in life is to know and worship God alone.",
+  "lesson_bn": "মানব ও জিন সৃষ্টির মূল উদ্দেশ্য হলো এক আল্লাহর ইবাদত ও আনুগত্য করা।",
+  "real_life_en": "Make every act an act of worship by having a good intention. Eating, working, and helping your family all please God when done with love.",
+  "real_life_bn": "ভালো নিয়ত রেখে প্রতিটি কাজকে ইবাদতে পরিণত করুন। পরিবারকে সাহায্য করা বা সততার সাথে কাজ করাও আল্লাহর সন্তুষ্টির কারণ হতে পারে।",
+  "themes": [
+    "worship",
+    "tawhid",
+    "creation"
+  ],
+  "kinds": [
+    "belief",
+    "worship",
+    "creation"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [
+      "jinn"
+    ],
+    "names_of_allah": [
+      "allah"
+    ],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Allah created jinn and mankind solely for His worship alone, without any partner.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

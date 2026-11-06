@@ -1,0 +1,58 @@
+{
+  "id": "68:26",
+  "simple_en": "When they saw the burnt field, they cried out in shock: We have surely lost our way. This dark ground cannot be our green garden.",
+  "simple_bn": "যখন তারা বাগানটিকে পুড়ে ছাই দেখতে পেল, তখন হতবাক হয়ে বলল: আমরা নিশ্চয় পথ হারিয়ে ফেলেছি। এটি আমাদের বাগান হতে পারে না।",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "رأي",
+      "lemma": "رَأَى",
+      "meaning_en": "they saw it",
+      "meaning_bn": "তারা তা দেখল",
+      "why_en": "Marks their shock upon viewing the charred field."
+    },
+    {
+      "pos": 5,
+      "root": "ضلل",
+      "lemma": "ضالّ",
+      "meaning_en": "lost our way",
+      "meaning_bn": "পথ হারিয়ে ফেলেছি",
+      "why_en": "Shows their initial disbelief, assuming they took the wrong path."
+    }
+  ],
+  "lesson_en": "Greed blinds people until harsh reality forces them to face the truth.",
+  "lesson_bn": "লোভ মানুষকে এতটাই অন্ধ করে যে ক্ষতির মুখোমুখি না হওয়া পর্যন্ত তার হুঁশ ফেরে না।",
+  "real_life_en": "A man puts his savings into a fake investment to get rich fast. When the firm shuts down, he stands in shock. Greed led him into total loss.",
+  "real_life_bn": "অসৎ পথে দ্রুত ধনী হওয়ার স্বপ্নে বিভোর মানুষ ধ্বংসের মুখে পড়ে বুঝতে পারে সে কতটা ভুল পথে ছিল।",
+  "themes": [
+    "greed",
+    "parables",
+    "trials"
+  ],
+  "kinds": [
+    "story"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "text": "Upon seeing the ruins, they thought they had mistaken the path because of the complete destruction.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

@@ -1,0 +1,75 @@
+{
+ "id": "41:43",
+ "simple_en": "Nothing is said to you, O Prophet, except what was said to the messengers before you. Deniers have always mocked the truth. Your Lord possesses vast forgiveness for those who repent, but He also has a painful punishment for those who persist in sin.",
+ "simple_bn": "হে নবী, আপনাকে যা বলা হচ্ছে তা আপনার পূর্ববর্তী রাসূলগণকেও বলা হয়েছিল। সত্য প্রত্যাখ্যানকারীরা সবসময়ই অবাধ্যতা করেছে। আপনার প্রতিপালক তওবাকারীদের জন্য ক্ষমাশীল, কিন্তু যারা পাপে অবিচল থাকে তাদের জন্য রয়েছে যন্ত্রণাদায়ক শাস্তি।",
+ "key_words": [
+  {
+   "pos": 8,
+   "root": "رسل",
+   "lemma": "رَسُول",
+   "meaning_en": "to the messengers",
+   "meaning_bn": "রাসূলগণের উদ্দেশ্যে",
+   "why_en": "Consoles the Prophet ﷺ by linking his experience to past messengers."
+  },
+  {
+   "pos": 14,
+   "root": "غفر",
+   "lemma": "مَغْفِرَة",
+   "meaning_en": "forgiveness",
+   "meaning_bn": "ক্ষমা",
+   "why_en": "Assures the penitent of Allah's vast capacity to pardon."
+  },
+  {
+   "pos": 16,
+   "root": "عقب",
+   "lemma": "عِقاب",
+   "meaning_en": "retribution / penalty",
+   "meaning_bn": "শাস্তি বা দণ্ড",
+   "why_en": "Warns unrepentant persecutors of inescapable divine justice."
+  }
+ ],
+ "lesson_en": "Be patient in doing good. Allah forgives those who turn back to Him.",
+ "lesson_bn": "ভালো কাজে ধৈর্য ধারণ করুন। যারা আল্লাহর দিকে ফিরে আসে তিনি তাদের ক্ষমা করেন।",
+ "real_life_en": "When people misunderstand or criticize your good values, do not lose heart. Follow the example of the prophets by remaining patient and kind.",
+ "real_life_bn": "কেউ আপনার সততা বা ভালো কাজের সমালোচনা করলে ভেঙে পড়বেন না। নবীদের আদর্শ অনুসরণ করে ধৈর্য ও ভদ্রতা বজায় রাখুন।",
+ "themes": [
+  "prophethood",
+  "patience",
+  "forgiveness",
+  "punishment"
+ ],
+ "kinds": [
+  "address",
+  "warning",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "prophet-muhammad"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "ar-rabb"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "claim_en": "The rejection faced by Prophet Muhammad ﷺ matches what earlier messengers endured, while Allah is Possessor of both forgiveness and painful punishment.",
+   "claim_bn": "নবী ﷺ-কে দেওয়া বিরোধিতার কথা পূর্বের রাসূলদেরও বলা হয়েছিল, আর আল্লাহ একই সাথে ক্ষমাশীল ও কঠোর শাস্তিদাতা।",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "qe-english-saheeh",
+    "qe-bengali-zakaria"
+   ]
+  }
+ ],
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

@@ -1,0 +1,75 @@
+{
+ "id": "72:8",
+ "simple_en": "The jinn then described what they found when they tried to reach the sky. They wanted to listen to news from above, as they had done before. Instead, they found the sky filled with strong guards and with flaming fires. The guards were angels, and the fires were ready to strike anyone who came too close.",
+ "simple_bn": "এরপর জিনরা বলল, তারা আকাশে পৌঁছাতে চেষ্টা করে কী পেল। আগের মতো তারা ওপরের খবর শুনতে চেয়েছিল। কিন্তু তারা দেখল, আকাশ ভরা আছে কঠিন পাহারাদার আর জ্বলন্ত আগুনে। পাহারাদাররা ছিলেন ফেরেশতা, আর আগুনগুলো ছিল সীমা ছাড়িয়ে যাওয়া যে কেউ কাছে এলে তার দিকে ছোড়ার জন্য তৈরি।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "سمو",
+   "lemma": "سَماء",
+   "meaning_en": "the sky",
+   "meaning_bn": "আকাশ",
+   "why_en": "It is the place the jinn tried to reach for news."
+  },
+  {
+   "pos": 6,
+   "root": "حرس",
+   "lemma": "حَرَس",
+   "meaning_en": "guards",
+   "meaning_bn": "পাহারাদার",
+   "why_en": "The sky is now guarded so that its news cannot be stolen."
+  },
+  {
+   "pos": 8,
+   "root": "شهب",
+   "lemma": "شُهُب",
+   "meaning_en": "flaming fires",
+   "meaning_bn": "জ্বলন্ত আগুন",
+   "why_en": "They are the flames that drive away anyone trying to listen in."
+  }
+ ],
+ "lesson_en": "Allah guards what He sends down. His revelation reaches people safely, without being mixed with stolen news.",
+ "lesson_bn": "আল্লাহ তাঁর নাজিল করা বিষয় পাহারা দেন। তাঁর ওহি মানুষের কাছে নিরাপদে পৌঁছায়, চুরি করা খবরের সঙ্গে মেশে না।",
+ "real_life_en": "You may hear someone claim to know hidden things about the future. This ayah shows that the unseen is not open to anyone who tries to reach it. When such a claim comes, do not build your plans on it. Plan what you can and leave the unseen to Allah.",
+ "real_life_bn": "কেউ হয়তো ভবিষ্যতের গোপন কথা জানার দাবি করবে। এই আয়াত দেখায়, অদৃশ্যের খবর খোঁজ করে পাওয়া কারও জন্য খোলা নয়। এমন দাবি এলে তার উপর ভরসা করে পরিকল্পনা করবেন না। যা পারেন তা পরিকল্পনা করুন, অদৃশ্য আল্লাহর হাতে ছেড়ে দিন।",
+ "themes": [
+  "jinn",
+  "the unseen",
+  "angels"
+ ],
+ "kinds": [
+  "story"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [
+   "jinn",
+   "angels"
+  ],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The jinn sought the news of heaven and found it filled with stern guards, the angels, and with flaming fires.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar"
+   ]
+  },
+  {
+   "text": "The guards prevent the jinn from eavesdropping on heavenly news.",
+   "sources": [
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.92,
+ "uncertain": []
+}

@@ -1,0 +1,83 @@
+{
+ "id": "3:2",
+ "simple_en": "Allah is the only true God worthy of worship. He is Al-Hayy, the Ever-Living, who has no beginning or end and never dies. He is also Al-Qayyum, the All-Sustaining. He needs nothing from His creation, but every created thing depends entirely on Him.",
+ "simple_bn": "আল্লাহই একমাত্র সত্য ইলাহ, যিনি ছাড়া আর কোনো সত্য উপাস্য নেই। তিনি আল-হাই অর্থাৎ চিরঞ্জীব, যাঁর কোনো শুরু বা শেষ নেই এবং যাঁর কখনো মৃত্যু হয় না। তিনি আল-কাইয়ূম অর্থাৎ সবকিছুর ধারক। সৃষ্টির কোনো কিছুর প্রতি তাঁর মুখাপেক্ষিতা নেই, বরং প্রতিটি সৃষ্টিই তাঁর ওপর পুরোপুরি নির্ভরশীল।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "أله",
+   "lemma": "إِلٰه",
+   "meaning_en": "deity worthy of worship",
+   "meaning_bn": "সত্য উপাস্য",
+   "why_en": "It denies all false gods and confirms that worship belongs only to Allah."
+  },
+  {
+   "pos": 6,
+   "root": "حيي",
+   "lemma": "حَيّ",
+   "meaning_en": "the Ever-Living",
+   "meaning_bn": "চিরঞ্জীব",
+   "why_en": "Allah lives with absolute perfection and never dies or weakens."
+  },
+  {
+   "pos": 7,
+   "root": "قوم",
+   "lemma": "قَيُّوم",
+   "meaning_en": "the All-Sustaining",
+   "meaning_bn": "চিরস্থায়ী ধারক",
+   "why_en": "He maintains the entire universe while having no need of anything He made."
+  }
+ ],
+ "lesson_en": "Worship Allah alone. Only He lives forever and sustains all things.",
+ "lesson_bn": "আপনার সমস্ত ইবাদত কেবল আল্লাহর জন্যই নিবেদন করুন, কারণ একমাত্র তিনিই চিরঞ্জীব এবং সবকিছুর ধারক।",
+ "real_life_en": "People and worldly things may let you down. When times are tough, place your deepest trust in the Ever-Living Lord who never sleeps or fades.",
+ "real_life_bn": "মানুষ বা পার্থিব সম্পদ আপনাকে নিরাশ করতে পারে। কঠিন সময়ে সেই চিরঞ্জীব প্রতিপালকের ওপর নির্ভর করুন, যাঁর তন্দ্রা বা ক্লান্তি নেই।",
+ "context_en": "Following the opening letters, Allah establishes the foundation of all faith: His absolute oneness and self-sufficient life.",
+ "context_bn": "সূচনার হরফগুলোর পর আল্লাহ ঈমানের মূল ভিত্তি ঘোষণা করেছেন: তাঁর নিরঙ্কুশ একত্ব এবং চিরস্থায়ী জীবন।",
+ "connect_prev": "After asserting the divine origin of the Quran in 3:1, Allah declares His supreme divinity and eternal life.",
+ "context": "Refutes false beliefs attributing divinity to created humans such as Jesus, who was born and needed sustenance.",
+ "themes": [
+  "tawhid",
+  "names and attributes of Allah"
+ ],
+ "kinds": [
+  "belief",
+  "description-of-allah"
+ ],
+ "entities": {
+  "people": [],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [
+   "Allah",
+   "Al-Hayy",
+   "Al-Qayyum"
+  ],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Allah alone deserves worship; He is Al-Hayy (the Ever-Living) whose life is eternal and free from death or flaw.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi"
+   ]
+  },
+  {
+   "text": "He is Al-Qayyum, existing by Himself and sustaining all creation, while being entirely independent of everything.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-en-ibn-kathir"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "aqeedah",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

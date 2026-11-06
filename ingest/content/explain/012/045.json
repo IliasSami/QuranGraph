@@ -1,0 +1,94 @@
+{
+  "id": "12:45",
+  "simple_en": "Then the servant who had been freed from prison remembered Yusuf after many years. He told the king he could get the true meaning. He asked to be sent to Yusuf in prison.",
+  "simple_bn": "ঠিক সেই মুহূর্তে মুক্ত হওয়া সেই পরিবেশকের বহু বছর পর ইউসুফের কথা মনে পড়ল। সে রাজাকে বলল যে সে সঠিক ব্যাখ্যা এনে দিতে পারবে। সে ইউসুফের কাছে যাওয়ার অনুমতি চাইল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "نجو",
+      "lemma": "نَجا",
+      "meaning_en": "he was saved",
+      "meaning_bn": "যে রক্ষা পেয়েছিল",
+      "why_en": "Identifies the former prisoner who survived the ordeal."
+    },
+    {
+      "pos": 5,
+      "root": "ذكر",
+      "lemma": "ادَّكَرَ",
+      "meaning_en": "he remembered",
+      "meaning_bn": "তার মনে পড়ল",
+      "why_en": "Divine decree caused him to recall Yusuf at the perfect moment."
+    },
+    {
+      "pos": 7,
+      "root": "أمم",
+      "lemma": "أُمَّة",
+      "meaning_en": "a period of time",
+      "meaning_bn": "দীর্ঘ সময় পর",
+      "why_en": "Years had passed since Yusuf had helped him in prison."
+    },
+    {
+      "pos": 11,
+      "root": "رسل",
+      "lemma": "أَرْسَلَ",
+      "meaning_en": "send me forth",
+      "meaning_bn": "আমাকে সেখানে পাঠিয়ে দিন",
+      "why_en": "His request to visit Yusuf in detention to solve the mystery."
+    }
+  ],
+  "lesson_en": "Allah makes people remember what is needed at the right time.",
+  "lesson_bn": "আল্লাহ মানুষকে ঠিক উপযুক্ত সময়ে প্রয়োজনীয় কথা স্মরণ করিয়ে দেন।",
+  "real_life_en": "A nurse remembers an old classmate who knows how to treat a rare illness. That memory helps save a sick child just in time.",
+  "real_life_bn": "এক নার্স পুরোনো এক সহপাঠীর কথা মনে করেন যিনি বিরল রোগের চিকিৎসা জানতেন। সেই তথ্যের ভিত্তিতে একজন সংকটাপন্ন শিশু বেঁচে যায়।",
+  "context_en": "The failure of the sages reminded the cupbearer of Yusuf's gift, initiating Yusuf's path to freedom.",
+  "context_bn": "পারিষদদের ব্যর্থতা দেখে সেই পরিবেশকের ইউসুফের কথা মনে পড়ল এবং মুক্তির দ্বার উন্মোচিত হলো।",
+  "themes": [
+    "divine timing",
+    "remembrance",
+    "turning points"
+  ],
+  "kinds": [
+    "story",
+    "promise"
+  ],
+  "entities": {
+    "people": [
+      "freed cupbearer",
+      "king of Egypt",
+      "Yusuf"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "prison"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The freed companion remembered Yusuf after a long period.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "He asked to be sent to Yusuf to obtain the true interpretation of the king's dream.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": "21:3",
+  "simple_en": "Their hearts are fully distracted by vanity. The wrongdoers whisper in secret: Is this prophet anything more than a human like you? Will you accept magic with open eyes?",
+  "simple_bn": "তাদের অন্তর বিভ্রান্তিতে লিপ্ত। অবিচারকারীরা গোপনে কানাঘুষা করে বলে: এ ব্যক্তি কি তোমাদের মতোই একজন সাধারণ মানুষ নয়? তবে কি জেনে-শুনেও তোমরা জাদুকে গ্রহণ করবে?",
+  "key_words": [
+    {
+      "pos": 2,
+      "root": "قلب",
+      "lemma": "قَلْب",
+      "meaning_en": "hearts",
+      "meaning_bn": "অন্তরসমূহ",
+      "why_en": "Center of awareness and moral decision."
+    },
+    {
+      "pos": 4,
+      "root": "نجو",
+      "lemma": "نَجْوَى",
+      "meaning_en": "secret counsel",
+      "meaning_bn": "গোপন কানাঘুষা",
+      "why_en": "Conspiratorial whispers seeking to discredit truth."
+    }
+  ],
+  "lesson_en": "Keep your heart alert to truth. Do not let cynical whispers blind you to clear guidance.",
+  "lesson_bn": "অন্তরকে সর্বদা সত্যের প্রতি সজাগ রাখুন। ভিত্তিহীন সংশয় ও কানাঘুষা যেন আপনাকে সঠিক পথ থেকে দূরে না সরায়।",
+  "real_life_en": "Do not dismiss wise advice just because it comes from an ordinary person. Judge the message on its merits.",
+  "real_life_bn": "উপদেশ দানকারী সাধারণ মানুষ হলেও সঠিক কথা গ্রহণ করুন। বাহ্যিক রূপ দেখে সত্য বাণী প্রত্যাখ্যান করবেন না।",
+  "themes": [
+    "distraction",
+    "conspiracy",
+    "prophethood",
+    "rejection"
+  ],
+  "kinds": [
+    "argument",
+    "warning"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "Opponents whispered secretly, trying to dismiss the Prophet as a mere mortal and the Quran as sorcery.",
+      "claim_bn": "বিরোধীরা গোপনে কানাঘুষা করে রাসূলকে কেবল একজন সাধারণ মানুষ এবং কুরআনকে জাদু বলে উড়িয়ে দেওয়ার চেষ্টা করত।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

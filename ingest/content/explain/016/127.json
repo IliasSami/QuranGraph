@@ -1,0 +1,63 @@
+{
+  "id": "16:127",
+  "simple_en": "Be patient, and your patience comes only from Allah. Do not grieve over those who reject you, and do not be stressed by their evil plots.",
+  "simple_bn": "আপনি ধৈর্য ধারণ করুন, আর আপনার ধৈর্য কেবল আল্লাহর সাহায্যে সম্ভব। তাদের জন্য মন খারাপ করবেন না এবং তাদের চক্রান্তের কারণে কখনো অস্থির হবেন না।",
+  "key_words": [
+    {
+      "pos": 1,
+      "root": "صبر",
+      "lemma": "صَبَرَ",
+      "meaning_en": "be patient",
+      "meaning_bn": "ধৈর্য ধারণ করুন",
+      "why_en": "Steadfast forbearance in the face of hostility."
+    },
+    {
+      "pos": 7,
+      "root": "حزن",
+      "lemma": "يَحْزُن",
+      "meaning_en": "do not grieve",
+      "meaning_bn": "দুঃখ করবেন না",
+      "why_en": "Consolation against distress over people's disbelief."
+    }
+  ],
+  "lesson_en": "Patience is a gift nurtured by God. Sincere believers remain calm despite host of critics.",
+  "lesson_bn": "আল্লাহর সাহায্য ছাড়া ধৈর্য ধরা সম্ভব নয়। বিপক্ষ দলের ষড়যন্ত্রে মুমিনের বিচলিত হওয়া উচিত নয়।",
+  "real_life_en": "Lean on God when people criticize or oppose you unfairly. Inner peace comes from trusting divine protection.",
+  "real_life_bn": "মানুষের অন্যায় সমালোচনা বা ষড়যন্ত্রে হতাশ হবেন না। আল্লাহর ওপর ভরসা রেখে শান্ত ও অবিচল থাকুন।",
+  "themes": [
+    "patience",
+    "comfort",
+    "reliance"
+  ],
+  "kinds": [
+    "command",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Muhammad"
+    ],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": []
+  },
+  "claims": [
+    {
+      "claim_en": "The Prophet is commanded to be patient through Allah, not to grieve over disbelievers, and not to distress over plots.",
+      "claim_bn": "আল্লাহর সাহায্যে ধৈর্য ধারণ করতে, অস্বীকারকারীদের জন্য দুঃখ না করতে এবং তাদের চক্রান্তে বিচলিত না হতে নির্দেশ দেওয়া হয়েছে।",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "qe-english-saheeh",
+        "qe-bengali-zakaria"
+      ]
+    }
+  ],
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": false
+}

@@ -1,0 +1,94 @@
+{
+  "id": "3:7",
+  "simple_en": "Allah revealed the Quran with two kinds of verses. Most verses are clear and direct, forming the foundation of the Book. Other verses have meanings that are not as easy to grasp. People with doubt in their hearts chase after unclear verses to stir up confusion. Those who are deep in knowledge say they believe in all of it, because it all comes from Allah.",
+  "simple_bn": "আল্লাহ আপনার ওপর কুরআন নাযিল করেছেন যার অধিকাংশ আয়াত অত্যন্ত সুস্পষ্ট। এগুলোই কিতাবের মূল ভিত্তি। আর কিছু আয়াত রয়েছে রূপক বা যার অর্থ সহজে বোঝা যায় না। যাদের অন্তরে বক্রতা রয়েছে, তারা মানুষকে বিভ্রান্ত করতে ও মনগড়া ব্যাখ্যা দাঁড় করাতে সেই অস্পষ্ট আয়াতগুলোর পেছনে ছোটে। অথচ গভীর জ্ঞানের অধিকারী ব্যক্তিরা বলেন, আমরা এতে পূর্ণ বিশ্বাস করি, সবকিছুই আমাদের প্রতিপালকের পক্ষ থেকে এসেছে।",
+  "key_words": [
+    {
+      "pos": 8,
+      "root": "حكم",
+      "lemma": "مُحْكَمَة",
+      "meaning_en": "clear and decisive verses",
+      "meaning_bn": "সুস্পষ্ট আয়াতসমূহ",
+      "why_en": "These verses are unambiguous and form the solid foundation of Islamic teachings."
+    },
+    {
+      "pos": 13,
+      "root": "شبه",
+      "lemma": "مُتَشابِه",
+      "meaning_en": "unspecific or ambiguous verses",
+      "meaning_bn": "দ্ব্যর্থবোধক আয়াতসমূহ",
+      "why_en": "Verses that carry nuanced meanings and must be understood in light of clear verses."
+    },
+    {
+      "pos": 18,
+      "root": "زيغ",
+      "lemma": "زَيْغ",
+      "meaning_en": "deviation",
+      "meaning_bn": "বক্রতা",
+      "why_en": "A crooked tilt in the heart that drives people to seek confusion instead of truth."
+    },
+    {
+      "pos": 32,
+      "root": "رسخ",
+      "lemma": "راسِخ",
+      "meaning_en": "firmly rooted",
+      "meaning_bn": "সুদৃঢ়",
+      "why_en": "Describes scholars with deep, steadfast knowledge who remain humble before revelation."
+    }
+  ],
+  "lesson_en": "Base your faith on clear divine teachings and do not let difficult questions lead you into doubt.",
+  "lesson_bn": "দ্বীনের সুস্পষ্ট বিধানগুলোর ওপর অবিচল থাকুন এবং অস্পষ্ট বিষয় নিয়ে তর্কে জড়িয়ে সংশয়ে পড়বেন না।",
+  "real_life_en": "When online debates pull complex texts out of context to make you doubt, stay calm. Hold on to the clear basics of Islam and ask qualified teachers for guidance.",
+  "real_life_bn": "সামাজিক মাধ্যমে যখন কেউ জটিল কোনো আয়াত বিকৃত করে সংশয় তৈরি করতে চায়, তখন বিচলিত হবেন না। দ্বীনের সুস্পষ্ট মূলনীতি আঁকড়ে ধরুন এবং নির্ভরযোগ্য আলেমের সাহায্য নিন।",
+  "context_en": "Explains how to interpret the Quran correctly, warning against following ambiguous texts to spread confusion.",
+  "context_bn": "কুরআন বোঝার মূলনীতি তুলে ধরে অস্পষ্ট আয়াত নিয়ে অযথা বিতর্ক ও বিভ্রান্তি সৃষ্টির বিরুদ্ধে সতর্ক করা হয়েছে।",
+  "connect_prev": "After describing revelation in earlier ayat, this ayah explains the internal structure of the Book into Muhkam and Mutashabih.",
+  "context": "Addressed those who used vague biblical or Quranic expressions to argue for the divinity of Jesus, ignoring the decisive verses.",
+  "themes": [
+    "the Quran",
+    "revelation",
+    "knowledge",
+    "reflection"
+  ],
+  "kinds": [
+    "belief",
+    "argument"
+  ],
+  "entities": {
+    "people": [],
+    "nations": [],
+    "places": [],
+    "unseen": [],
+    "names_of_allah": [
+      "Allah"
+    ],
+    "events": [],
+    "things": [
+      "the Quran"
+    ]
+  },
+  "claims": [
+    {
+      "text": "The Quran contains clear verses (Muhkam) that are the core of the Book and ambiguous verses (Mutashabih).",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-ar-saadi"
+      ]
+    },
+    {
+      "text": "People with crooked hearts follow the ambiguous to sow discord, while those firm in knowledge believe in the whole Book.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "qe-bengali-mokhtasar",
+        "g-en-ibn-kathir",
+        "g-en-maarif"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "aqeedah",
+  "scholars_differ": false,
+  "confidence": 0.95,
+  "uncertain": []
+}

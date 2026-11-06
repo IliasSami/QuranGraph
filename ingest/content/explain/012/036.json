@@ -1,0 +1,103 @@
+{
+  "id": "12:36",
+  "simple_en": "Two young servants entered prison with Yusuf. One dreamt he was pressing grapes to make wine. The other dreamt he carried bread on his head, and birds were eating it. They asked Yusuf to explain their dreams because they saw his good character.",
+  "simple_bn": "ইউসুফের সাথে দুজন যুবক কারাগারে প্রবেশ করল। একজন দেখল সে মদ তৈরির জন্য আঙুর নিংড়াচ্ছে। অপরজন দেখল সে মাথায় রুটি বহন করছে এবং পাখি তা থেকে খাচ্ছে। তারা ইউসুফের চরিত্র দেখে মুগ্ধ হয়ে স্বপ্নের ব্যাখ্যা জানতে চাইল।",
+  "key_words": [
+    {
+      "pos": 3,
+      "root": "سجن",
+      "lemma": "سِجْن",
+      "meaning_en": "the prison",
+      "meaning_bn": "কারাগার",
+      "why_en": "The new setting where Yusuf’s wisdom and integrity shine forth."
+    },
+    {
+      "pos": 4,
+      "root": "فتي",
+      "lemma": "فَتَيان",
+      "meaning_en": "two young men",
+      "meaning_bn": "দুজন যুবক",
+      "why_en": "Two royal servants who shared prison life with Yusuf."
+    },
+    {
+      "pos": 18,
+      "root": "خبز",
+      "lemma": "خُبْز",
+      "meaning_en": "bread",
+      "meaning_bn": "রুটি",
+      "why_en": "The symbol in the baker’s dream carried on his head."
+    },
+    {
+      "pos": 23,
+      "root": "أول",
+      "lemma": "تَأْوِيل",
+      "meaning_en": "its interpretation",
+      "meaning_bn": "এর তাৎপর্য বা ব্যাখ্যা",
+      "why_en": "The science of dream interpretation given by Allah to Yusuf."
+    },
+    {
+      "pos": 27,
+      "root": "حسن",
+      "lemma": "مُحْسِن",
+      "meaning_en": "those who do good",
+      "meaning_bn": "সৎকর্মশীলদের অন্তর্ভুক্ত",
+      "why_en": "His prison companions recognized his exceptional conduct and piety."
+    }
+  ],
+  "lesson_en": "Noble character and good deeds earn trust, even in the hardest places.",
+  "lesson_bn": "উত্তম চরিত্র ও সদাচরণ কঠিন পরিস্থিতিতেও মানুষের শ্রদ্ধা ও ভালোবাসা অর্জন করে।",
+  "real_life_en": "A traveler gets stuck in a hospital during a storm. Instead of complaining, they comfort other patients and help the staff. Soon, people ask them for advice because of their calm kindness.",
+  "real_life_bn": "দুর্যোগের রাতে হাসপাতালে আটকা পড়ে এক ব্যক্তি অভিযোগ না করে রোগীদের সেবা দেন। তাঁর আন্তরিকতায় মুগ্ধ হয়ে সবাই তাঁকে শ্রদ্ধার চোখে দেখে এবং পরামর্শ চায়।",
+  "context_en": "In prison, two fellow inmates observed Yusuf's moral excellence and approached him with their dreams.",
+  "context_bn": "কারাগারে দুই সহবন্দি ইউসুফের উত্তম চরিত্র লক্ষ্য করে তাদের স্বপ্নের ব্যাখ্যা জানতে চায়।",
+  "themes": [
+    "good character",
+    "dream interpretation",
+    "patience"
+  ],
+  "kinds": [
+    "story",
+    "ethics"
+  ],
+  "entities": {
+    "people": [
+      "Yusuf",
+      "two prison companions"
+    ],
+    "nations": [
+      "Egyptians"
+    ],
+    "places": [
+      "Egypt"
+    ],
+    "unseen": [],
+    "names_of_allah": [],
+    "events": [],
+    "things": [
+      "wine",
+      "bread",
+      "prison"
+    ]
+  },
+  "claims": [
+    {
+      "text": "Two servants of the king entered prison with Yusuf and related their dreams to him.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    },
+    {
+      "text": "They recognized Yusuf as a righteous doer of good.",
+      "sources": [
+        "qe-english-mokhtasar",
+        "g-en-ibn-kathir"
+      ]
+    }
+  ],
+  "occasion": null,
+  "sensitivity": "none",
+  "scholars_differ": false,
+  "confidence": 0.94,
+  "uncertain": []
+}

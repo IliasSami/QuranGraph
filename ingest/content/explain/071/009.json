@@ -1,0 +1,78 @@
+{
+ "id": "71:9",
+ "simple_en": "Nuh then mixed his approach. He announced the message to them in public, and he also spoke to them quietly, one to one. Both ways carried the same invitation. A person who truly cares will not limit himself to one style of speech if another might open a heart.",
+ "simple_bn": "এরপর নূহ (আলাইহিস সালাম) নিজের পদ্ধতিতে বৈচিত্র্য আনলেন। তিনি প্রকাশ্যে সবাইকে বার্তা শোনালেন, আবার একান্তে নিচু স্বরেও কথা বললেন। দুই পদ্ধতিতেই একই আহ্বান ছিল। যে ব্যক্তি সত্যিই মঙ্গল চায়, সে একটিমাত্র ভঙ্গিতে আটকে থাকে না; অন্য পথেও মন খোলে কিনা দেখে।",
+ "key_words": [
+  {
+   "pos": 3,
+   "root": "علن",
+   "lemma": "أَعْلَن",
+   "meaning_en": "I announced",
+   "meaning_bn": "আমি প্রকাশ করেছি",
+   "why_en": "Shows the public side of his invitation."
+  },
+  {
+   "pos": 5,
+   "root": "سرر",
+   "lemma": "أَسَرَّ",
+   "meaning_en": "I confided",
+   "meaning_bn": "আমি গোপনে বলেছি",
+   "why_en": "Shows the private side: a quiet word meant for one listener."
+  },
+  {
+   "pos": 7,
+   "root": "سرر",
+   "lemma": "إِسْرار",
+   "meaning_en": "secretly",
+   "meaning_bn": "গোপনে",
+   "why_en": "Repeats the idea of secrecy for emphasis and care."
+  }
+ ],
+ "lesson_en": "Speak the truth in public and in private, and adapt your manner to the person in front of you.",
+ "lesson_bn": "প্রকাশ্যে ও গোপনে সত্য বলুন, আর সামনের মানুষের উপযোগী করে নিজের ভাষা ব্যবহার করুন।",
+ "real_life_en": "A father tells his children at dinner that honesty matters. Later, when one child is alone in the car, he explains the same lesson gently and asks what makes lying tempting. The second talk reaches where the public reminder could not.",
+ "real_life_bn": "একজন বাবা রাতের খাবারে সন্তানদের বলেন, সততা জরুরি। পরে এক সন্তান গাড়িতে একা থাকলে তিনি একই কথা নরমভাবে বোঝান এবং জিজ্ঞেস করেন, মিথ্যা বলতে মন কেন চায়। দ্বিতীয় কথাটি সেখানে পৌঁছায়, যেখানে প্রকাশ্য উপদেশ পৌঁছায়নি।",
+ "themes": [
+  "stories of the prophets",
+  "patience",
+  "guidance"
+ ],
+ "kinds": [
+  "story",
+  "address"
+ ],
+ "entities": {
+  "people": [
+   "nuh"
+  ],
+  "nations": [],
+  "places": [],
+  "unseen": [],
+  "names_of_allah": [],
+  "events": [],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "Nuh proclaimed the message publicly and also spoke to them privately.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-bn-ahsanul-bayan"
+   ]
+  },
+  {
+   "text": "He used different methods in calling them.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-bn-ahsanul-bayan",
+    "g-ar-saadi"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "none",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}

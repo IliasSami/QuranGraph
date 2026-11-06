@@ -1,0 +1,98 @@
+{
+ "id": "3:97",
+ "simple_en": "This sacred place contains clear signs, including the Standing Place of Ibrahim (peace be upon him). Whoever enters its sanctuary finds safety and peace. Allah asks everyone who can afford it to make Hajj to this House. Anyone who rejects this duty hurts only themselves. Allah needs nothing from any of His creation.",
+ "simple_bn": "এই পবিত্র স্থানে রয়েছে সুস্পষ্ট বহু নিদর্শন, যেমন মাকামে ইবরাহীম। যে ব্যক্তি এর সীমানায় প্রবেশ করে, সে নিরাপত্তা ও শান্তি লাভ করে। যারা শারীরিকভাবে সক্ষম এবং পথের সামর্থ্য রাখে, আল্লাহর সন্তুষ্টির উদ্দেশ্যে এই ঘরের হজ্জ আদায় করা তাদের ওপর ফরজ। আর যে ব্যক্তি এই ফরজ অস্বীকার করবে, সে জেনে রাখুক যে আল্লাহ সমগ্র সৃষ্টিজগতের কোনো কিছুর মুখাপেক্ষী নন।",
+ "key_words": [
+  {
+   "pos": 4,
+   "root": "قوم",
+   "lemma": "مَقام",
+   "meaning_en": "Station / Standing Place",
+   "meaning_bn": "মাকাম বা দাঁড়ানোর স্থান",
+   "why_en": "Refers to the stone on which Prophet Ibrahim (peace be upon him) stood while raising the walls of the Kaaba."
+  },
+  {
+   "pos": 9,
+   "root": "أمن",
+   "lemma": "آمِن",
+   "meaning_en": "safe / secure",
+   "meaning_bn": "নিরাপদ",
+   "why_en": "Highlights the sanctuary's unique status as a place of physical and spiritual sanctuary."
+  },
+  {
+   "pos": 13,
+   "root": "حجج",
+   "lemma": "حِجّ",
+   "meaning_en": "pilgrimage (Hajj)",
+   "meaning_bn": "হজ্জ",
+   "why_en": "The major pilgrimage to Makkah, established as a pillar of Islam for those with the ability."
+  },
+  {
+   "pos": 23,
+   "root": "غني",
+   "lemma": "غَنِيّ",
+   "meaning_en": "Self-Sufficient / Free of need",
+   "meaning_bn": "অমুখাপেক্ষী",
+   "why_en": "Affirms that Allah does not need anyone's worship, but creation depends entirely on Him."
+  }
+ ],
+ "lesson_en": "Hajj is a duty for those who are able, but Allah does not need our worship.",
+ "lesson_bn": "সামর্থ্যবানদের ওপর হজ্জ পালন করা ফরজ, তবে মানুষের কোনো ইবাদতের প্রতি আল্লাহ আদৌ মুখাপেক্ষী নন।",
+ "real_life_en": "A person works hard and saves money to go on Hajj. Making this trip shows love for Allah. It reminds us that our good deeds help our own souls, while Allah needs nothing from us.",
+ "real_life_bn": "অনেকে সারা জীবন কষ্ট করে অর্থ সঞ্চয় করে হজ্জের উদ্দেশ্যে রওনা হন। এই আত্মত্যাগ আল্লাহর প্রতি গভীর আনুগত্যের বহিঃপ্রকাশ, যা মানুষকে মনে করিয়ে দেয় যে ইবাদতের সুফল মানুষ নিজেই লাভ করে।",
+ "context_en": "Details the spiritual virtues of the Kaaba and establishes the obligation of Hajj for all who are capable of the journey.",
+ "context_bn": "কাবাঘরের মর্যাদার ধারাবাহিকতায় এই আয়াতে মাকামে ইবরাহীম, হারাম শরিফের নিরাপত্তা এবং সামর্থ্যবানদের ওপর হজ্জের বিধান স্পষ্ট করা হয়েছে।",
+ "themes": [
+  "hajj",
+  "worship",
+  "names and attributes of Allah",
+  "stories of the prophets"
+ ],
+ "kinds": [
+  "law",
+  "command",
+  "belief"
+ ],
+ "entities": {
+  "people": [
+   "Ibrahim"
+  ],
+  "nations": [],
+  "places": [
+   "Maqam Ibrahim",
+   "Kaaba"
+  ],
+  "unseen": [],
+  "names_of_allah": [
+   "Al-Ghani"
+  ],
+  "events": [
+   "Hajj"
+  ],
+  "things": []
+ },
+ "claims": [
+  {
+   "text": "The sacred sanctuary contains clear signs including Maqam Ibrahim, and whoever enters it is granted safety.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "qe-bengali-mokhtasar",
+    "g-ar-saadi",
+    "g-en-ibn-kathir"
+   ]
+  },
+  {
+   "text": "Hajj to the House is an obligation upon people who are able to make the journey, and Allah is free of need of all creation.",
+   "sources": [
+    "qe-english-mokhtasar",
+    "g-en-jalalayn",
+    "g-en-maarif"
+   ]
+  }
+ ],
+ "occasion": null,
+ "sensitivity": "fiqh",
+ "scholars_differ": false,
+ "confidence": 0.95,
+ "uncertain": []
+}
