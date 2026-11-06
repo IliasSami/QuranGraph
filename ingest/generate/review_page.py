@@ -136,18 +136,25 @@ def main():
             kw = "".join(f'<div><div class="w">{esc(next((r[0] for r in db.execute("SELECT text FROM word WHERE surah=? AND ayah=? AND pos=?", (s, a, w["pos"]))), ""))}</div>'
                          f'<b>{esc(w.get("meaning_en"))}</b> · <span class="bn">{esc(w.get("meaning_bn"))}</span><br>'
                          f'<span class="cite">root {esc(w.get("root") or "—")}</span> {esc(w.get("why_en"))}</div>' for w in d.get("key_words", []))
-            claims = "".join(f'<li>{esc(c["text"])} <span class="cite">— {", ".join(SOURCE_LABEL.get(x, x) for x in c.get("sources", []))}</span></li>'
-                             for c in d.get("claims", []))
+            claims = "".join(f'<li>{esc(c.get("text") or c.get("claim") or str(c))} <span class="cite">— {", ".join(SOURCE_LABEL.get(x, x) for x in c.get("sources", []))}</span></li>'
+                             for c in d.get("claims", []) if isinstance(c, dict))
             ents = "; ".join(f"{k}: {', '.join(v)}" for k, v in d.get("entities", {}).items() if v)
             occ = d.get("occasion")
-            occ_html = (f'<div class="box"><div class="label">Occasion of revelation ({esc(occ.get("strength"))})</div>{esc(occ.get("text_en"))}'
-                        f'<div class="bn">{esc(occ.get("text_bn"))}</div></div>') if occ else ""
+            if isinstance(occ, dict):
+                occ_html = (f'<div class="box"><div class="label">Occasion of revelation ({esc(occ.get("strength"))})</div>{esc(occ.get("text_en"))}'
+                            f'<div class="bn">{esc(occ.get("text_bn"))}</div></div>')
+            elif isinstance(occ, str) and occ.strip():
+                occ_html = f'<div class="box"><div class="label">Occasion of revelation</div>{esc(occ)}</div>'
+            else:
+                occ_html = ""
             differ = (f'<div class="box"><div class="label">Scholars differ</div>{esc(d.get("differ_note_en"))}'
                        f'<div class="bn">{esc(d.get("differ_note_bn"))}</div></div>') if d.get("scholars_differ") else ""
             context = (f'<div class="box"><div class="label">Context</div>{esc(d.get("context_en"))}'
                        f'<div class="bn">{esc(d.get("context_bn"))}</div></div>') if d.get("context_en") else ""
+            unc = d.get("uncertain", [])
+            unc_list = unc if isinstance(unc, list) else ([str(unc)] if unc else [])
             issues = "".join(f"<li>ERROR: {esc(e)}</li>" for e in errs) + "".join(f"<li>{esc(w)}</li>" for w in warns) + \
-                "".join(f"<li>Uncertain: {esc(u)}</li>" for u in d.get("uncertain", []))
+                "".join(f"<li>Uncertain: {esc(u)}</li>" for u in unc_list)
             parts.append(f"""
 <article class="ayah{' flagged' if is_flagged else ''}{' must-review' if prio == 'must' else (' sample-review' if prio == 'sample' else '')}" id="a{s}-{a}">
  <div class="top"><span class="ref">{s}:{a}</span><div class="badges">{badges}</div></div>
