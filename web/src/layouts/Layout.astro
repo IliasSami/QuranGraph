@@ -33,6 +33,9 @@ const {
       const savedTheme = localStorage.getItem("qg_theme") || "light";
       document.documentElement.setAttribute("data-theme", savedTheme);
 
+      const savedScale = localStorage.getItem("qg_arabic_scale") || "1";
+      document.documentElement.style.setProperty("--arabic-scale", savedScale);
+
       if ("serviceWorker" in navigator) {
         window.addEventListener("load", () => {
           navigator.serviceWorker.register("/sw.js").catch(() => {});
@@ -61,6 +64,14 @@ const {
         </nav>
 
         <div class="header-controls">
+          <a id="last-read-nav" href="#" class="btn-icon" style="display: none;" title="Resume last read verse" aria-label="Resume last read verse">
+            <span aria-hidden="true">📖</span>
+            <span class="last-read-label" style="font-size: 0.8rem; margin-left: 0.25rem; font-weight: 600;">Last Read</span>
+          </a>
+          <div class="font-scale-control" role="group" aria-label="Arabic font size controls">
+            <button id="font-scale-dec" class="btn-icon font-btn" aria-label="Decrease Arabic font size" title="Smaller Arabic text">A−</button>
+            <button id="font-scale-inc" class="btn-icon font-btn" aria-label="Increase Arabic font size" title="Larger Arabic text">A+</button>
+          </div>
           <button id="theme-toggle" class="btn-icon" aria-label="Toggle visual theme">
             🌓 Theme
           </button>
@@ -120,12 +131,60 @@ const {
         localStorage.setItem("qg_theme", next);
       });
 
+      // Mobile Menu Management
       const navToggle = document.getElementById("mobile-nav-toggle");
       const navLinks = document.getElementById("main-nav-links");
-      navToggle?.addEventListener("click", () => {
-        const isOpen = navLinks?.classList.toggle("open");
-        navToggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+      function setMobileMenu(open) {
+        if (!navLinks || !navToggle) return;
+        const willOpen = open !== undefined ? open : !navLinks.classList.contains("open");
+        navLinks.classList.toggle("open", willOpen);
+        navToggle.setAttribute("aria-expanded", willOpen ? "true" : "false");
+        navToggle.textContent = willOpen ? "✕" : "☰";
+      }
+      navToggle?.addEventListener("click", (e) => {
+        e.stopPropagation();
+        setMobileMenu();
       });
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "Escape" && navLinks?.classList.contains("open")) {
+          setMobileMenu(false);
+        }
+      });
+      document.addEventListener("click", (e) => {
+        if (navLinks?.classList.contains("open") && !navLinks.contains(e.target) && !navToggle?.contains(e.target)) {
+          setMobileMenu(false);
+        }
+      });
+
+      // Font Size Scaler
+      const scaleDec = document.getElementById("font-scale-dec");
+      const scaleInc = document.getElementById("font-scale-inc");
+      function adjustScale(delta) {
+        let cur = parseFloat(localStorage.getItem("qg_arabic_scale") || "1");
+        cur = Math.min(Math.max(cur + delta, 0.8), 1.8);
+        cur = Math.round(cur * 100) / 100;
+        document.documentElement.style.setProperty("--arabic-scale", cur.toString());
+        localStorage.setItem("qg_arabic_scale", cur.toString());
+      }
+      scaleDec?.addEventListener("click", () => adjustScale(-0.15));
+      scaleInc?.addEventListener("click", () => adjustScale(0.15));
+
+      // Last Read Resumption
+      try {
+        const savedLastRead = localStorage.getItem("qg_last_read");
+        if (savedLastRead) {
+          const lr = JSON.parse(savedLastRead);
+          const lrEl = document.getElementById("last-read-nav");
+          if (lrEl && lr.surah && lr.ayah) {
+            lrEl.href = `/ayah/${lr.surah}/${lr.ayah}`;
+            const label = lrEl.querySelector(".last-read-label");
+            if (label) {
+              label.textContent = `${lr.surah}:${lr.ayah}`;
+            }
+            lrEl.style.display = "inline-flex";
+          }
+        }
+      } catch (err) {}
     </script>
   </body>
 </html>

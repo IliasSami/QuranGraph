@@ -2,50 +2,112 @@
 import Layout from "../layouts/Layout.astro";
 ---
 
-<Layout title="Search the Quran — Multi-Script & Concept Engine">
-  <div style="padding: 3rem 0;">
-    <div class="container" style="max-width: 860px;">
-      <h1 style="font-size: 2.25rem; font-weight: 800; margin-bottom: 0.5rem;">Search QuranGraph</h1>
-      <p style="color: var(--text-muted); font-size: 1.05rem; margin-bottom: 2rem;">
-        Search in English, Arabic (with or without marks), Bangla, transliteration, references (2:255, বাকারা ২৫৫), or concepts.
-      </p>
+<Layout title="Search QuranGraph — Semantic, Multilingual & Concept Engine">
+  <div style="padding: 2.5rem 0 4rem;">
+    <div class="container" style="max-width: 900px;">
+      <!-- Search Header -->
+      <header style="margin-bottom: 2rem;">
+        <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+          <span class="badge badge-teal" style="font-size: 0.8rem; font-weight: 700;">
+            Multi-Script & Semantic Engine
+          </span>
+          <span style="font-size: 0.8rem; color: var(--text-muted);">
+            6,236 Ayat · 114 Surahs · 884 Entities
+          </span>
+        </div>
+        <h1 style="font-size: 2.35rem; font-weight: 800; color: var(--text-main); margin-bottom: 0.5rem; letter-spacing: -0.02em;">
+          Search the Holy Quran
+        </h1>
+        <p style="color: var(--text-muted); font-size: 1.05rem; line-height: 1.6;">
+          Search by English meaning, sacred Arabic (simple or vocalised), Bangla translation, English transliteration (e.g. <em>"iyyaka na'budu"</em>), direct reference (<em>"2:255"</em>, <em>"surah mulk"</em>, <em>"বাকারা ২৫৫"</em>), or moral themes.
+        </p>
+      </header>
 
-      <!-- Search Input Form -->
-      <div style="margin-bottom: 2rem;">
-        <div style="display: flex; gap: 0.5rem; background: var(--bg-surface); padding: 0.5rem; border-radius: var(--radius-md); border: 2px solid var(--accent-teal); box-shadow: var(--shadow-sm);">
-          <input
-            id="search-input"
-            type="search"
-            placeholder="Type verse (2:255), name (ayatul kursi), concept (patience), or Arabic..."
-            aria-label="Search the Quran"
-            style="flex: 1; border: none; outline: none; padding: 0.75rem 1rem; font-size: 1.05rem; background: transparent; color: var(--text-main);"
-            autofocus
-          />
-          <button
-            id="search-btn"
-            class="btn-icon"
-            style="background: var(--accent-teal); color: white; border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 600; cursor: pointer; min-height: 44px;"
-          >
-            Search
-          </button>
+      <!-- Search Input Box -->
+      <section style="margin-bottom: 1.5rem;" aria-label="Search controls">
+        <div class="search-box-wrapper" style="position: relative;">
+          <div style="display: flex; gap: 0.5rem; background: var(--bg-surface); padding: 0.5rem 0.75rem; border-radius: var(--radius-md); border: 2px solid var(--accent-teal); box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08); align-items: center;">
+            <span style="font-size: 1.25rem; color: var(--text-muted); padding-left: 0.5rem;" aria-hidden="true">
+              🔍
+            </span>
+            <input
+              id="search-input"
+              type="search"
+              placeholder="Search verse (2:255), surah (mulk), phrase, transliteration, or topic..."
+              aria-label="Search Quran"
+              autocomplete="off"
+              spellcheck="false"
+              style="flex: 1; border: none; outline: none; padding: 0.75rem 0.5rem; font-size: 1.1rem; background: transparent; color: var(--text-main);"
+              autofocus
+            />
+            <button
+              id="clear-btn"
+              type="button"
+              title="Clear query"
+              aria-label="Clear query"
+              style="display: none; background: none; border: none; font-size: 1.1rem; color: var(--text-muted); cursor: pointer; padding: 0.5rem; border-radius: 50%; min-width: 36px; min-height: 36px;"
+            >
+              ✕
+            </button>
+            <button
+              id="search-btn"
+              class="btn-icon"
+              style="background: var(--accent-teal); color: white; border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 700; cursor: pointer; min-height: 44px; display: flex; align-items: center; gap: 0.4rem;"
+            >
+              <span>Search</span>
+            </button>
+          </div>
         </div>
 
-        <div style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.75rem; display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
-          <span>Examples:</span>
-          <button class="quick-pill" data-query="ayatul kursi">ayatul kursi</button>
-          <button class="quick-pill" data-query="2:255">2:255</button>
-          <button class="quick-pill" data-query="বাকারা ২৫৫">বাকারা ২৫৫</button>
-          <button class="quick-pill" data-query="patience">patience</button>
-          <button class="quick-pill" data-query="ধৈর্য">ধৈর্য</button>
-          <button class="quick-pill" data-query="with hardship comes ease">with hardship comes ease</button>
-          <button class="quick-pill" data-query="story of yusuf">story of yusuf</button>
-          <button class="quick-pill" data-query="ar-rahman">ar-rahman</button>
+        <!-- Quick Suggestions & Shortcuts -->
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 0.75rem; flex-wrap: wrap; gap: 0.5rem;">
+          <div style="font-size: 0.85rem; color: var(--text-muted); display: flex; gap: 0.4rem; flex-wrap: wrap; align-items: center;">
+            <span style="font-weight: 600;">Popular:</span>
+            <button class="quick-pill" data-query="ayatul kursi">ayatul kursi</button>
+            <button class="quick-pill" data-query="2:255">2:255</button>
+            <button class="quick-pill" data-query="surah mulk">surah mulk</button>
+            <button class="quick-pill" data-query="patience">patience</button>
+            <button class="quick-pill" data-query="with hardship comes ease">with hardship comes ease</button>
+            <button class="quick-pill" data-query="বাকারা ২৫৫">বাকারা ২৫৫</button>
+            <button class="quick-pill" data-query="ধৈর্য">ধৈর্য</button>
+            <button class="quick-pill" data-query="iyyaka nabudu">iyyaka nabudu</button>
+            <button class="quick-pill" data-query="story of yusuf">story of yusuf</button>
+          </div>
+          <div style="font-size: 0.75rem; color: var(--text-muted);">
+            Tip: Press <kbd style="background: var(--bg-subtle); padding: 0.1rem 0.35rem; border-radius: 4px; border: 1px solid var(--border-color); font-family: monospace;">/</kbd> to search
+          </div>
+        </div>
+      </section>
+
+      <!-- Filter Tabs Bar (Shown when results exist) -->
+      <div id="filter-bar" style="display: none; margin-bottom: 1.25rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.5rem;">
+        <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.75rem;">
+          <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;" role="tablist" aria-label="Result category filters">
+            <button class="filter-tab active" data-filter="all" role="tab" aria-selected="true" aria-controls="results-container" id="tab-all">
+              All Results (<span id="count-all">0</span>)
+            </button>
+            <button class="filter-tab" data-filter="surah" role="tab" aria-selected="false" aria-controls="results-container" id="tab-surah">
+              Surahs (<span id="count-surah">0</span>)
+            </button>
+            <button class="filter-tab" data-filter="verse" role="tab" aria-selected="false" aria-controls="results-container" id="tab-verse">
+              Verses (<span id="count-verse">0</span>)
+            </button>
+            <button class="filter-tab" data-filter="concept" role="tab" aria-selected="false" aria-controls="results-container" id="tab-concept">
+              Concepts & Stories (<span id="count-concept">0</span>)
+            </button>
+          </div>
+          <div id="search-speed" style="font-size: 0.8rem; color: var(--text-muted);" aria-live="polite"></div>
         </div>
       </div>
 
-      <!-- Live Results Area -->
-      <div id="results-meta" style="margin-bottom: 1rem; font-size: 0.9rem; color: var(--text-muted); display: none;" aria-live="polite"></div>
-      <div id="results-container" style="display: flex; flex-direction: column; gap: 1.25rem;"></div>
+      <!-- Live Results Container -->
+      <div id="results-meta" style="margin-bottom: 1rem; font-size: 0.9rem; color: var(--text-muted); display: none;" role="status" aria-live="polite"></div>
+      
+      <!-- Audio Player Instance for Previews -->
+      <audio id="global-preview-player" preload="none"></audio>
+
+      <!-- Main Results Listing -->
+      <main id="results-container" style="display: flex; flex-direction: column; gap: 1.5rem;" aria-label="Search results"></main>
     </div>
   </div>
 
@@ -54,109 +116,526 @@ import Layout from "../layouts/Layout.astro";
       background: var(--bg-subtle);
       border: 1px solid var(--border-color);
       border-radius: 9999px;
-      padding: 0.35rem 0.75rem;
-      min-height: 36px;
-      font-size: 0.8rem;
+      padding: 0.25rem 0.65rem;
+      min-height: 30px;
+      font-size: 0.78rem;
       cursor: pointer;
       color: var(--text-muted);
       transition: all 0.15s ease;
+      white-space: nowrap;
     }
     .quick-pill:hover {
       border-color: var(--accent-teal);
       color: var(--accent-teal);
+      background: var(--bg-surface);
+    }
+    .filter-tab {
+      background: transparent;
+      border: 1px solid transparent;
+      padding: 0.4rem 0.85rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.85rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all 0.15s ease;
+      min-height: 36px;
+    }
+    .filter-tab:hover {
+      color: var(--text-main);
+      background: var(--bg-subtle);
+    }
+    .filter-tab.active {
+      color: var(--accent-teal);
+      background: var(--bg-surface);
+      border-color: var(--accent-teal);
+    }
+    .search-hl {
+      background: rgba(20, 184, 166, 0.2);
+      color: inherit;
+      padding: 0 0.2rem;
+      border-radius: 2px;
+      font-weight: 600;
+    }
+    .result-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      padding: 1.5rem;
+      transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+      position: relative;
+    }
+    .result-card:hover {
+      border-color: var(--accent-teal);
+      box-shadow: 0 6px 24px rgba(0, 0, 0, 0.06);
+    }
+    .action-btn-sm {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: var(--bg-subtle);
+      border: 1px solid var(--border-color);
+      color: var(--text-main);
+      padding: 0.45rem 0.85rem;
+      border-radius: var(--radius-sm);
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      min-height: 38px;
+      transition: all 0.15s ease;
+    }
+    .action-btn-sm:hover {
+      background: var(--accent-teal);
+      color: white;
+      border-color: var(--accent-teal);
+    }
+    .action-btn-primary {
+      background: var(--accent-teal);
+      color: white;
+      border-color: var(--accent-teal);
+    }
+    .action-btn-primary:hover {
+      opacity: 0.92;
+      color: white;
     }
   </style>
 
   <script>
-    import { search } from "../lib/search/engine.ts";
+    import { search, type SearchResult } from "../lib/search/engine.ts";
 
     const input = document.getElementById("search-input") as HTMLInputElement;
     const btn = document.getElementById("search-btn");
+    const clearBtn = document.getElementById("clear-btn");
     const container = document.getElementById("results-container");
     const meta = document.getElementById("results-meta");
+    const filterBar = document.getElementById("filter-bar");
+    const speedEl = document.getElementById("search-speed");
+    const audioPlayer = document.getElementById("global-preview-player") as HTMLAudioElement;
 
-    // Initialize Web Worker for non-blocking search
-    let worker: Worker | null = null;
-    try {
-      worker = new Worker(new URL("../lib/search/search.worker.ts", import.meta.url), { type: "module" });
-    } catch (e) {
-      console.log("Web Worker not supported, falling back to direct search", e);
+    const countAll = document.getElementById("count-all");
+    const countSurah = document.getElementById("count-surah");
+    const countVerse = document.getElementById("count-verse");
+    const countConcept = document.getElementById("count-concept");
+
+    let currentResults: SearchResult[] = [];
+    let activeFilter = "all";
+    let activePlayingRef: string | null = null;
+    let debounceTimer: any = null;
+
+    // Toggle clear button and debounced live search
+    input?.addEventListener("input", () => {
+      const val = input.value.trim();
+      if (clearBtn) {
+        clearBtn.style.display = val ? "block" : "none";
+      }
+
+      clearTimeout(debounceTimer);
+      if (val.length >= 2) {
+        debounceTimer = setTimeout(() => {
+          executeSearch(val);
+        }, 220);
+      } else if (val.length === 0) {
+        if (container) container.innerHTML = "";
+        if (filterBar) filterBar.style.display = "none";
+        if (meta) meta.style.display = "none";
+        window.history.replaceState({}, "", window.location.pathname);
+      }
+    });
+
+    clearBtn?.addEventListener("click", () => {
+      if (input) {
+        input.value = "";
+        input.focus();
+        if (clearBtn) clearBtn.style.display = "none";
+        if (container) container.innerHTML = "";
+        if (filterBar) filterBar.style.display = "none";
+        if (meta) meta.style.display = "none";
+        window.history.replaceState({}, "", window.location.pathname);
+      }
+    });
+
+    // Keyboard shortcut '/' to search
+    window.addEventListener("keydown", (e) => {
+      if (e.key === "/" && document.activeElement !== input) {
+        e.preventDefault();
+        input?.focus();
+        input?.select();
+      }
+    });
+
+    function highlightTerms(text: string, query: string): string {
+      if (!text || !query) return text;
+      const terms = query
+        .toLowerCase()
+        .replace(/[^a-z0-9\u0600-\u06FF\u0980-\u09FF\s]/g, "")
+        .split(/\s+/)
+        .filter((t) => /[\u0600-\u06FF]/.test(t) ? t.length >= 2 : t.length >= 3);
+
+      if (terms.length === 0) return text;
+
+      try {
+        const pattern = new RegExp(`(${terms.map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|")})`, "gi");
+        return text.replace(pattern, '<mark class="search-hl">$1</mark>');
+      } catch {
+        return text;
+      }
     }
 
-    function renderResults(results: any[], durationMs: number, q: string) {
-      if (!container || !meta) return;
+    function renderFilteredResults() {
+      if (!container) return;
 
-      meta.style.display = "block";
-      meta.textContent = `Found ${results.length} results in ${durationMs.toFixed(1)} ms`;
+      const filtered = currentResults.filter((r) => {
+        if (activeFilter === "surah") return r.is_surah;
+        if (activeFilter === "verse") return !r.is_surah && (r.matchType === "reference" || r.matchType === "text" || r.matchType === "phrase" || r.matchType === "arabic");
+        if (activeFilter === "concept") return r.matchType === "concept" || r.matchType === "entity";
+        return true;
+      });
 
-      if (results.length === 0) {
+      if (meta) {
+        meta.textContent = `Showing ${filtered.length} of ${currentResults.length} matches for "${input?.value.trim() || ""}"`;
+        meta.style.display = "block";
+      }
+
+      if (filtered.length === 0) {
         container.innerHTML = `
-          <div class="card" style="text-align: center; padding: 3rem;">
-            <p style="color: var(--text-muted); font-size: 1.05rem;">
-              No exact matches found for "${q}". Try checking the spelling or searching by English, Arabic, or verse number.
+          <div class="result-card" style="text-align: center; padding: 3rem 1.5rem;">
+            <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🔍</div>
+            <h3 style="font-size: 1.2rem; font-weight: 700; margin-bottom: 0.5rem; color: var(--text-main);">
+              No results in this category
+            </h3>
+            <p style="color: var(--text-muted); font-size: 0.95rem;">
+              Try switching back to the "All Results" tab to view all matching verses.
             </p>
           </div>
         `;
         return;
       }
 
-      container.innerHTML = results
-        .map((r: any) => {
-          const [s, a] = r.ref.split(":");
+      container.innerHTML = filtered
+        .map((r) => {
+          const sPadded = String(r.s).padStart(3, "0");
+          const aPadded = String(r.a).padStart(3, "0");
+          const audioUrl = `https://everyayah.com/data/Alafasy_64kbps/${sPadded}${aPadded}.mp3`;
+          const isPlaying = activePlayingRef === r.ref;
+
+          // Surah Showcase Card
+          if (r.is_surah) {
+            return `
+              <article class="result-card" style="border-top: 4px solid var(--accent-gold); background: linear-gradient(180deg, var(--bg-surface) 0%, var(--bg-subtle) 100%);">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1rem; flex-wrap: wrap; gap: 0.75rem;">
+                  <div>
+                    <span class="badge badge-gold" style="font-size: 0.8rem; margin-bottom: 0.35rem; display: inline-block;">
+                      ⭐ Surah Match
+                    </span>
+                    <h2 style="font-size: 1.85rem; font-weight: 800; color: var(--text-main); margin-bottom: 0.2rem;">
+                      Surah ${r.surah_translit} (${r.s})
+                    </h2>
+                    <div style="font-size: 1.1rem; color: var(--text-muted);">
+                      ${r.surah_name_en} · <span class="bangla-text" lang="bn">${r.surah_name_bn}</span>
+                    </div>
+                  </div>
+                  <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 2.5rem; color: var(--accent-teal); line-height: 1.1;">
+                    ${r.surah_name_ar}
+                  </div>
+                </div>
+
+                <div style="display: flex; gap: 0.75rem; margin-bottom: 1.5rem; flex-wrap: wrap; font-size: 0.85rem; color: var(--text-muted);">
+                  <span class="badge" style="background: var(--bg-surface); border: 1px solid var(--border-color);">${r.total_ayat || 0} Total Ayat</span>
+                  <span class="badge" style="background: var(--bg-surface); border: 1px solid var(--border-color);">${r.surah_type || "Quranic"} Revelation</span>
+                </div>
+
+                <div style="display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: center;">
+                  <a href="/surah/${r.s}" class="action-btn-sm action-btn-primary">
+                    Open Full Surah View →
+                  </a>
+                  <a href="/ayah/${r.s}/1" class="action-btn-sm">
+                    Read Ayah 1 & Tafsir
+                  </a>
+                </div>
+              </article>
+            `;
+          }
+
+          // Ayah Result Card
           return `
-            <a href="/ayah/${s}/${a}" class="card" style="display: block; text-decoration: none; color: inherit; transition: border-color 0.15s ease;">
-              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
-                <span class="badge badge-teal" style="font-size: 0.85rem;">Ayah ${r.ref}</span>
-                <span class="badge" style="background: var(--bg-subtle); color: var(--text-muted); font-size: 0.75rem;">
-                  Match: ${r.matchType} (Score: ${r.score})
+            <article class="result-card" id="card-${r.s}-${r.a}">
+              <!-- Card Header -->
+              <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.5rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.75rem;">
+                <div style="display: flex; align-items: center; gap: 0.5rem;">
+                  <a href="/ayah/${r.s}/${r.a}" class="badge badge-teal" style="font-size: 0.85rem; font-weight: 700; text-decoration: none;">
+                    Surah ${r.surah_translit} ${r.s}:${r.a}
+                  </a>
+                  <span class="bangla-text" lang="bn" style="font-size: 0.85rem; color: var(--text-muted);">
+                    ${r.surah_name_bn}
+                  </span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.5rem;">
+                  ${r.title ? `<span class="badge badge-gold" style="font-size: 0.75rem; font-weight: 700;">${r.title}</span>` : ""}
+                  <span class="badge" style="background: var(--bg-subtle); color: var(--text-muted); font-size: 0.75rem;">
+                    ${r.matchType} (Score: ${r.score})
+                  </span>
+                </div>
+              </div>
+
+              <!-- Sacred Arabic Text -->
+              <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.85rem; line-height: 2; margin-bottom: 1rem; color: var(--text-arabic);">
+                ${r.ar_u || r.ar}
+                <span aria-hidden="true" style="display: inline-block; font-size: 1.25rem; color: var(--accent-teal); margin-right: 0.35rem;">
+                  ۝
                 </span>
               </div>
-              ${r.title ? `<div style="font-weight: 700; color: var(--accent-gold); margin-bottom: 0.5rem; font-size: 1.05rem;">${r.title}</div>` : ""}
-              <div style="font-size: 0.95rem; color: var(--accent-teal); font-weight: 600;">
-                Click to open study view & explanation →
+
+              <!-- English Transliteration -->
+              ${
+                r.tr
+                  ? `
+                <div style="font-size: 0.95rem; font-style: italic; color: var(--accent-gold); margin-bottom: 1.15rem; line-height: 1.5; font-family: var(--font-latin);">
+                  ${r.tr}
+                </div>
+              `
+                  : ""
+              }
+
+              <!-- Translations with Highlighting -->
+              <div style="display: flex; flex-direction: column; gap: 0.85rem; margin-bottom: 1.5rem;">
+                <!-- English -->
+                <div>
+                  <div style="font-size: 0.75rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.2rem;">
+                    English Translation (Saheeh International)
+                  </div>
+                  <div style="font-size: 1.05rem; line-height: 1.6; color: var(--text-main);">
+                    ${highlightTerms(r.en, input?.value || "")}
+                  </div>
+                </div>
+
+                <!-- Bangla -->
+                <div>
+                  <div style="font-size: 0.75rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.2rem;">
+                    বাংলা অনুবাদ (আবু বকর জাকারিয়া)
+                  </div>
+                  <div class="bangla-text" lang="bn" style="font-size: 1rem; line-height: 1.7; color: var(--text-main);">
+                    ${highlightTerms(r.bn, input?.value || "")}
+                  </div>
+                </div>
               </div>
-            </a>
+
+              <!-- Action Bar -->
+              <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px dashed var(--border-color); padding-top: 1rem; flex-wrap: wrap; gap: 0.75rem;">
+                <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+                  <button
+                    class="action-btn-sm play-audio-btn"
+                    data-audio="${audioUrl}"
+                    data-ref="${r.ref}"
+                    aria-label="Play recitation for verse ${r.ref}"
+                  >
+                    <span>${isPlaying ? "⏸ Pause" : "▶ Listen"}</span>
+                  </button>
+                  <button
+                    class="action-btn-sm copy-btn"
+                    data-ref="${r.ref}"
+                    data-ar="${encodeURIComponent(r.ar_u || r.ar)}"
+                    data-en="${encodeURIComponent(r.en)}"
+                    data-bn="${encodeURIComponent(r.bn)}"
+                    aria-label="Copy verse text"
+                  >
+                    <span>📋 Copy</span>
+                  </button>
+                  <a href="/surah/${r.s}#ayah-${r.a}" class="action-btn-sm">
+                    Surah Context
+                  </a>
+                </div>
+
+                <a href="/ayah/${r.s}/${r.a}" class="action-btn-sm action-btn-primary">
+                  Study Ayah & Tafsir →
+                </a>
+              </div>
+            </article>
           `;
         })
         .join("");
+
+      attachActionHandlers();
     }
 
-    if (worker) {
-      worker.onmessage = (e: MessageEvent<{ results: any[]; durationMs: number }>) => {
-        const { results, durationMs } = e.data;
-        renderResults(results, durationMs, input ? input.value : "");
+    function attachActionHandlers() {
+      // Audio play buttons
+      document.querySelectorAll(".play-audio-btn").forEach((btnEl) => {
+        btnEl.addEventListener("click", () => {
+          const audioUrl = btnEl.getAttribute("data-audio");
+          const ref = btnEl.getAttribute("data-ref");
+          if (!audioUrl || !ref) return;
+
+          if (activePlayingRef === ref && !audioPlayer.paused) {
+            audioPlayer.pause();
+            activePlayingRef = null;
+            btnEl.innerHTML = "<span>▶ Listen</span>";
+          } else {
+            audioPlayer.src = audioUrl;
+            audioPlayer.play().catch(console.error);
+            activePlayingRef = ref;
+            // Reset all buttons
+            document.querySelectorAll(".play-audio-btn").forEach((b) => {
+              b.innerHTML = "<span>▶ Listen</span>";
+            });
+            btnEl.innerHTML = "<span>⏸ Pause</span>";
+          }
+        });
+      });
+
+      audioPlayer.onended = () => {
+        activePlayingRef = null;
+        document.querySelectorAll(".play-audio-btn").forEach((b) => {
+          b.innerHTML = "<span>▶ Listen</span>";
+        });
       };
+
+      // Copy buttons
+      document.querySelectorAll(".copy-btn").forEach((btnEl) => {
+        btnEl.addEventListener("click", () => {
+          const ref = btnEl.getAttribute("data-ref");
+          const ar = decodeURIComponent(btnEl.getAttribute("data-ar") || "");
+          const en = decodeURIComponent(btnEl.getAttribute("data-en") || "");
+          const bn = decodeURIComponent(btnEl.getAttribute("data-bn") || "");
+
+          const textToCopy = `Quran (${ref})\n\n${ar}\n\nEnglish: ${en}\n\nবাংলা: ${bn}\n\nhttps://qurangraph.com/ayah/${ref.replace(":", "/")}`;
+          navigator.clipboard.writeText(textToCopy).then(() => {
+            btnEl.innerHTML = "<span>✓ Copied!</span>";
+            setTimeout(() => {
+              btnEl.innerHTML = "<span>📋 Copy</span>";
+            }, 2000);
+          }).catch(console.error);
+        });
+      });
     }
 
-    function executeSearch(q: string) {
-      if (!q.trim() || !container || !meta) return;
+    // Filter tab clicks and Arrow navigation
+    const allFilterTabs = Array.from(document.querySelectorAll(".filter-tab")) as HTMLButtonElement[];
+    allFilterTabs.forEach((tab, idx) => {
+      tab.addEventListener("click", () => {
+        allFilterTabs.forEach((t) => {
+          t.classList.remove("active");
+          t.setAttribute("aria-selected", "false");
+        });
+        tab.classList.add("active");
+        tab.setAttribute("aria-selected", "true");
+        activeFilter = tab.getAttribute("data-filter") || "all";
+        renderFilteredResults();
+      });
 
-      if (worker) {
-        worker.postMessage({ query: q, limit: 15 });
-      } else {
-        const t0 = performance.now();
-        const results = search(q, 15);
-        const t1 = performance.now();
-        renderResults(results, t1 - t0, q);
+      tab.addEventListener("keydown", (e) => {
+        let targetIdx = -1;
+        if (e.key === "ArrowRight") {
+          targetIdx = (idx + 1) % allFilterTabs.length;
+        } else if (e.key === "ArrowLeft") {
+          targetIdx = (idx - 1 + allFilterTabs.length) % allFilterTabs.length;
+        }
+        if (targetIdx !== -1) {
+          e.preventDefault();
+          allFilterTabs[targetIdx].focus();
+          allFilterTabs[targetIdx].click();
+        }
+      });
+    });
+
+    function executeSearch(rawQ: string) {
+      const q = rawQ.trim();
+      if (!q || !container) return;
+
+      if (clearBtn) clearBtn.style.display = "block";
+
+      const t0 = performance.now();
+      const results = search(q, 20);
+      const t1 = performance.now();
+      const durationMs = t1 - t0;
+
+      currentResults = results;
+
+      // Update URL query string without reloading
+      const url = new URL(window.location.href);
+      url.searchParams.set("q", q);
+      window.history.replaceState({}, "", url.toString());
+
+      if (results.length === 0) {
+        if (filterBar) filterBar.style.display = "none";
+        if (meta) meta.style.display = "none";
+
+        container.innerHTML = `
+          <div class="result-card" style="text-align: center; padding: 3.5rem 1.5rem;">
+            <div style="font-size: 3rem; margin-bottom: 1rem;">📖</div>
+            <h2 style="font-size: 1.4rem; font-weight: 700; margin-bottom: 0.5rem; color: var(--text-main);">
+              No exact matches found for "${q}"
+            </h2>
+            <p style="color: var(--text-muted); font-size: 1rem; max-width: 500px; margin: 0 auto 1.75rem; line-height: 1.6;">
+              Check your spelling or try searching with simpler words, English translations, Arabic root, or direct verse numbers (e.g. <em>"2:255"</em>).
+            </p>
+
+            <div style="text-align: left; background: var(--bg-subtle); padding: 1.25rem; border-radius: var(--radius-sm); max-width: 520px; margin: 0 auto;">
+              <div style="font-size: 0.85rem; font-weight: 700; color: var(--accent-teal); margin-bottom: 0.5rem;">
+                Suggested Searches:
+              </div>
+              <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+                <button class="quick-pill" data-query="ayatul kursi">ayatul kursi</button>
+                <button class="quick-pill" data-query="surah yasin">surah yasin</button>
+                <button class="quick-pill" data-query="2:255">2:255</button>
+                <button class="quick-pill" data-query="patience">patience</button>
+                <button class="quick-pill" data-query="forgiveness">forgiveness</button>
+                <button class="quick-pill" data-query="surah mulk">surah mulk</button>
+              </div>
+            </div>
+          </div>
+        `;
+
+        // Re-attach suggestion pills
+        container.querySelectorAll(".quick-pill").forEach((pill) => {
+          pill.addEventListener("click", () => {
+            const query = (pill as HTMLElement).dataset.query || "";
+            if (input) input.value = query;
+            executeSearch(query);
+          });
+        });
+        return;
       }
+
+      // Counts for filter tabs
+      const surahCount = results.filter((r) => r.is_surah).length;
+      const verseCount = results.filter((r) => !r.is_surah && (r.matchType === "reference" || r.matchType === "text" || r.matchType === "phrase" || r.matchType === "arabic")).length;
+      const conceptCount = results.filter((r) => r.matchType === "concept" || r.matchType === "entity").length;
+
+      if (countAll) countAll.textContent = String(results.length);
+      if (countSurah) countSurah.textContent = String(surahCount);
+      if (countVerse) countVerse.textContent = String(verseCount);
+      if (countConcept) countConcept.textContent = String(conceptCount);
+
+      if (filterBar) filterBar.style.display = "block";
+      if (speedEl) speedEl.textContent = `Found ${results.length} results in ${durationMs.toFixed(1)} ms`;
+
+      renderFilteredResults();
     }
 
-    // Trigger on Enter or button click
-    btn?.addEventListener("click", () => executeSearch(input.value));
+    // Event listeners
+    btn?.addEventListener("click", () => {
+      if (input) executeSearch(input.value);
+    });
+
     input?.addEventListener("keydown", (e) => {
-      if (e.key === "Enter") executeSearch(input.value);
+      if (e.key === "Enter") {
+        executeSearch(input.value);
+      }
     });
 
     // Quick pills
     document.querySelectorAll(".quick-pill").forEach((pill) => {
       pill.addEventListener("click", () => {
         const q = (pill as HTMLElement).dataset.query || "";
-        input.value = q;
-        executeSearch(q);
+        if (input) {
+          input.value = q;
+          executeSearch(q);
+        }
       });
     });
 
-    // Read URL query param
+    // Initial search on page load from ?q= parameter
     const params = new URLSearchParams(window.location.search);
     const initialQuery = params.get("q");
     if (initialQuery && input) {

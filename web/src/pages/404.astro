@@ -1,0 +1,57 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="Page Not Found (404) — QuranGraph">
+  <div style="padding: 5rem 0 6rem; text-align: center;">
+    <div class="container" style="max-width: 640px;">
+      <div style="font-size: 3.5rem; margin-bottom: 1rem; color: var(--accent-teal);" aria-hidden="true">
+        ۞
+      </div>
+      <span class="badge badge-teal" style="margin-bottom: 1rem; font-size: 0.85rem;">Error 404</span>
+      <h1 style="font-size: 2.25rem; font-weight: 800; margin-bottom: 0.75rem; color: var(--text-main);">
+        Page Not Found
+      </h1>
+      <p style="color: var(--text-muted); font-size: 1.05rem; line-height: 1.6; margin-bottom: 2.5rem;">
+        The ayah, surah, or study page you requested could not be found. Try searching by verse reference (e.g. <em>2:255</em>), topic, or surah name below.
+      </p>
+
+      <!-- Instant Search Box -->
+      <form action="/search" method="get" style="display: flex; gap: 0.5rem; background: var(--bg-surface); padding: 0.4rem; border-radius: var(--radius-md); border: 2px solid var(--accent-teal); box-shadow: var(--shadow-md); margin-bottom: 2rem;">
+        <label for="notfound-search" class="visually-hidden" style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;">Search the Quran</label>
+        <input
+          id="notfound-search"
+          type="search"
+          name="q"
+          placeholder="Search verses (e.g. 2:255, patience, mulk)..."
+          aria-label="Search the Quran"
+          style="flex: 1; border: none; outline: none; padding: 0.75rem 1rem; font-size: 1rem; background: transparent; color: var(--text-main);"
+          autofocus
+        />
+        <button
+          type="submit"
+          class="btn-icon"
+          style="background: var(--accent-teal); color: white; border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 700; cursor: pointer;"
+        >
+          Search
+        </button>
+      </form>
+
+      <!-- Quick Navigation Buttons -->
+      <div style="display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap;">
+        <a href="/" class="btn-icon">
+          ← Return to Home
+        </a>
+        <a href="/surahs" class="btn-icon">
+          Browse All 114 Surahs
+        </a>
+        <a href="/search?q=ayatul+kursi" class="btn-icon">
+          Ayat al-Kursi (2:255)
+        </a>
+        <a href="/graph" class="btn-icon">
+          Knowledge Graph
+        </a>
+      </div>
+    </div>
+  </div>
+</Layout>

@@ -56,34 +56,53 @@ const { baseline, vocabulary_coverage, audited_claims } = numbersData;
         </p>
 
         <div class="card">
-          <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
-            <thead>
-              <tr style="border-bottom: 2px solid var(--border-color); color: var(--text-muted);">
-                <th style="padding: 0.75rem;">Recitation Coverage</th>
-                <th style="padding: 0.75rem;">Unique Lemmas Needed</th>
-                <th style="padding: 0.75rem;">Unique Roots Needed</th>
-                <th style="padding: 0.75rem;">Word Forms Needed</th>
-              </tr>
-            </thead>
-            <tbody>
-              {vocabulary_coverage.curve.map((step: any) => (
-                <tr style="border-bottom: 1px solid var(--border-color);">
-                  <td style="padding: 0.85rem; font-weight: 700; color: var(--accent-teal);">
-                    {step.target_coverage_pct}% of the Quran
-                  </td>
-                  <td style="padding: 0.85rem; font-weight: 600;">
-                    {step.lemmas_needed} lemmas
-                  </td>
-                  <td style="padding: 0.85rem;">
-                    {step.roots_needed} roots
-                  </td>
-                  <td style="padding: 0.85rem; color: var(--text-muted);">
-                    {step.word_forms_needed?.toLocaleString()}
-                  </td>
+          <!-- Visual Milestone Bar -->
+          <div style="background: var(--bg-subtle); padding: 1.25rem; border-radius: var(--radius-sm); margin-bottom: 1.5rem; border: 1px solid var(--border-color);">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; font-size: 0.85rem; font-weight: 700;">
+              <span>Zipf Learning Milestone: 50% Recitation Comprehension</span>
+              <span style="color: var(--accent-gold);">58 Core Lemmas</span>
+            </div>
+            <div style="height: 12px; width: 100%; background: var(--border-color); border-radius: 9999px; overflow: hidden; position: relative;">
+              <div style="height: 100%; width: 50%; background: linear-gradient(90deg, var(--accent-teal), var(--accent-gold)); border-radius: 9999px;"></div>
+            </div>
+            <div style="display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.4rem;">
+              <span>0% (0 words)</span>
+              <span>50% (58 words)</span>
+              <span>70% (250 words)</span>
+              <span>100% (77,429 words)</span>
+            </div>
+          </div>
+
+          <div style="overflow-x: auto;">
+            <table style="width: 100%; min-width: 500px; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
+              <thead>
+                <tr style="border-bottom: 2px solid var(--border-color); color: var(--text-muted);">
+                  <th style="padding: 0.75rem;">Recitation Coverage</th>
+                  <th style="padding: 0.75rem;">Unique Lemmas Needed</th>
+                  <th style="padding: 0.75rem;">Unique Roots Needed</th>
+                  <th style="padding: 0.75rem;">Word Forms Needed</th>
                 </tr>
-              ))}
-            </tbody>
-          </table>
+              </thead>
+              <tbody>
+                {vocabulary_coverage.curve.map((step: any) => (
+                  <tr style="border-bottom: 1px solid var(--border-color);">
+                    <td style="padding: 0.85rem; font-weight: 700; color: var(--accent-teal);">
+                      {step.target_coverage_pct}% of the Quran
+                    </td>
+                    <td style="padding: 0.85rem; font-weight: 600;">
+                      {step.lemmas_needed} lemmas
+                    </td>
+                    <td style="padding: 0.85rem;">
+                      {step.roots_needed} roots
+                    </td>
+                    <td style="padding: 0.85rem; color: var(--text-muted);">
+                      {step.word_forms_needed?.toLocaleString()}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
           <div style="margin-top: 1rem; font-size: 0.85rem; color: var(--text-muted); font-style: italic;">
             Data computed directly from the Quranic Arabic Corpus morphological segmentation of all 77,429 words.
           </div>

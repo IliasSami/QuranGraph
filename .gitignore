@@ -5,6 +5,7 @@ web/node_modules/
 web/dist/
 web/.astro/
 web/.wrangler/
+.wrangler/
 *.DS_Store
 __pycache__/
 .claude/

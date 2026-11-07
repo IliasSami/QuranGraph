@@ -6,6 +6,7 @@ Generates:
 import json
 import os
 import sqlite3
+import sys
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PROJECT_DIR = os.path.dirname(BASE_DIR)
@@ -13,15 +14,82 @@ DB_PATH = os.path.join(PROJECT_DIR, "ingest", "work", "quran.sqlite")
 KB_DIR = os.path.join(PROJECT_DIR, "ingest", "kb")
 SEARCH_DIR = os.path.join(BASE_DIR, "src", "lib", "search")
 
+sys.path.insert(0, os.path.join(PROJECT_DIR, "ingest", "core"))
+from translit import transliterate
+
 KNOWLEDGE_ENTRIES = [
     # Famous Names & Passages
+    {
+        "id": "passage-basmalah",
+        "title_en": "Bismillahir Rahmanir Rahim (The Basmalah)",
+        "title_ar": "بسم الله الرحمن الرحيم",
+        "title_bn": "বিসমিল্লাহির রাহমানির রাহিম",
+        "aliases": [
+            "bismillah", "bismilla", "bismillahir rahmanir rahim", "bismillah ar-rahman ar-rahim",
+            "bismi allah", "বিসমিল্লাহ", "বিসমিল্লাহির রাহমানির রাহিম", "بسم الله الرحمن الرحيم"
+        ],
+        "ayat": ["1:1"]
+    },
+    {
+        "id": "passage-al-fatihah",
+        "title_en": "Surah al-Fatihah (The Opening / Umm al-Kitab)",
+        "title_ar": "الفاتحة",
+        "title_bn": "সূরা আল-ফাতিহা",
+        "aliases": [
+            "fatiha", "fateha", "al-fatihah", "alfatihah", "surah fatiha", "surah fateha", "فاتحة", "الفاتحة",
+            "ফাতিহা", "আল ফাতিহা", "উম্মুল কিতাব", "umm al-kitab", "the opening", "seven oft-repeated"
+        ],
+        "ayat": ["1:1", "1:2", "1:3", "1:4", "1:5", "1:6", "1:7"]
+    },
+    {
+        "id": "passage-al-baqarah",
+        "title_en": "Surah al-Baqarah (The Cow)",
+        "title_ar": "البقرة",
+        "title_bn": "সূরা আল-বাকারা",
+        "aliases": [
+            "baqarah", "baqra", "bakara", "al-baqarah", "surah baqarah", "surah baqra", "surah bakara",
+            "the cow", "البقرة", "বাকারা", "আল বাকারা"
+        ],
+        "ayat": ["2:1", "2:255", "2:285", "2:286"]
+    },
+    {
+        "id": "passage-yaseen",
+        "title_en": "Surah Ya-Sin (Heart of the Quran)",
+        "title_ar": "يس",
+        "title_bn": "সূরা ইয়াসিন",
+        "aliases": [
+            "yasin", "yaseen", "ya-sin", "surah yasin", "surah yaseen", "يس", "ইয়াসিন", "সূরা ইয়াসিন",
+            "heart of the quran"
+        ],
+        "ayat": ["36:1", "36:2", "36:3", "36:58", "36:82"]
+    },
+    {
+        "id": "passage-al-mulk",
+        "title_en": "Surah al-Mulk (The Sovereignty / Tabarak)",
+        "title_ar": "الملك",
+        "title_bn": "সূরা আল-মুলক (তাবারক)",
+        "aliases": [
+            "mulk", "al-mulk", "surah mulk", "tabarak", "surah tabarak", "الملك", "تبارك", "মুলক", "আল মুলক", "তাবারক"
+        ],
+        "ayat": ["67:1", "67:2", "67:12"]
+    },
+    {
+        "id": "passage-al-kahf",
+        "title_en": "Surah al-Kahf (The Cave)",
+        "title_ar": "الكهف",
+        "title_bn": "সূরা আল-কাহফ",
+        "aliases": [
+            "kahf", "al-kahf", "kahaf", "surah kahf", "surah kahaf", "الكهف", "কাহফ", "আল কাহফ", "the cave"
+        ],
+        "ayat": ["18:1", "18:10", "18:27", "18:109", "18:110"]
+    },
     {
         "id": "passage-ayatul-kursi",
         "title_en": "Ayat al-Kursi (The Throne Verse)",
         "title_ar": "آية الكرسي",
         "title_bn": "আয়াতুল কুরসি",
         "aliases": [
-            "ayatul kursi", "ayat al kursi", "throne verse", "the throne verse",
+            "ayatul kursi", "ayat al kursi", "ayatalkursi", "throne verse", "the throne verse", "kursi verse",
             "আয়াতুল কুরসি", "আয়াতুল কুরসী", "আয়াতুল কুরসি",
             "آية الكرسي", "اية الكرسي"
         ],
@@ -330,7 +398,8 @@ def build():
     c.execute("""
         SELECT a.surah, a.ayah, a.text_simple,
                COALESCE(te.text, ''),
-               COALESCE(tb.text, '')
+               COALESCE(tb.text, ''),
+               a.text_uthmani
         FROM ayah a
         LEFT JOIN text te ON te.surah = a.surah AND te.ayah = a.ayah AND te.source = 'qe-english-saheeh'
         LEFT JOIN text tb ON tb.surah = a.surah AND tb.ayah = a.ayah AND tb.source = 'qe-bengali-zakaria'
@@ -338,13 +407,16 @@ def build():
     """)
 
     corpus = []
-    for s_id, a_num, ar_text, en_text, bn_text in c.fetchall():
+    for s_id, a_num, ar_text, en_text, bn_text, uthmani_text in c.fetchall():
+        tr_text = transliterate(uthmani_text)
         corpus.append({
             "s": s_id,
             "a": a_num,
             "ar": ar_text,
+            "ar_u": uthmani_text,
             "en": en_text,
-            "bn": bn_text
+            "bn": bn_text,
+            "tr": tr_text
         })
 
     corpus_path = os.path.join(SEARCH_DIR, "corpus.json")

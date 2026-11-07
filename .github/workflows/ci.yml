@@ -19,8 +19,18 @@ jobs:
         with:
           node-version: 22
 
-      - name: Run normaliser tests
+      - name: Install web dependencies
+        run: |
+          cd web
+          npm ci
+
+      - name: Run web unit & golden search benchmark tests
         run: node --test "web/tests/*.test.ts"
+
+      - name: Verify Astro static site build
+        run: |
+          cd web
+          npm run build
 
       - name: Set up uv
         uses: astral-sh/setup-uv@v5

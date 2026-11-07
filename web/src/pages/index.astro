@@ -5,6 +5,8 @@ import numbersData from "../../../ingest/work/numbers_lab.json" with { type: "js
 
 const baseline = numbersData.baseline;
 const featuredSurahs = surahsData.slice(0, 10);
+const dailySurahIds = [1, 18, 36, 55, 56, 67, 112, 113, 114];
+const dailySurahs = surahsData.filter(s => dailySurahIds.includes(s.id));
 const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
 ---
 
@@ -28,6 +30,7 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
           type="search"
           name="q"
           placeholder="Search by verse (2:255), concept (patience), or Arabic (الرحمن)..."
+          aria-label="Search the Holy Quran"
           style="flex: 1; border: none; outline: none; padding: 0.75rem 1rem; font-size: 1rem; background: transparent; color: var(--text-main);"
           required
         />
@@ -43,9 +46,28 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
         <span>Try:</span>
         <a href="/search?q=ayatul+kursi">ayatul kursi</a> ·
         <a href="/search?q=2:255">2:255</a> ·
+        <a href="/search?q=surah+mulk">surah mulk</a> ·
         <a href="/search?q=patience">patience (সবর)</a> ·
-        <a href="/search?q=story+of+yusuf">story of yusuf</a> ·
-        <a href="/search?q=light+upon+light">light upon light</a>
+        <a href="/search?q=iyyaka+nabudu">iyyaka na'budu</a> ·
+        <a href="/search?q=বাকারা+২৫৫">বাকারা ২৫৫</a> ·
+        <a href="/search?q=story+of+yusuf">story of yusuf</a>
+      </div>
+
+      <!-- Continue Reading Banner (Populated via client script if stored in localStorage) -->
+      <div id="continue-reading-banner" class="card" style="display: none; margin: 1.75rem auto 0; max-width: 600px; text-align: left; background: var(--bg-surface); border-left: 4px solid var(--accent-teal); padding: 0.85rem 1.25rem;">
+        <div style="display: flex; justify-content: space-between; align-items: center; gap: 0.75rem; flex-wrap: wrap;">
+          <div>
+            <div style="font-size: 0.75rem; font-weight: 700; color: var(--accent-teal); text-transform: uppercase;">
+              📖 Pick Up Where You Left Off
+            </div>
+            <div id="continue-reading-title" style="font-size: 1rem; font-weight: 700; color: var(--text-main);">
+              Surah ...
+            </div>
+          </div>
+          <a id="continue-reading-link" href="#" class="btn-icon" style="background: var(--accent-teal); color: white; border: none; font-weight: 600; padding: 0.4rem 0.85rem; font-size: 0.85rem;">
+            Resume Reading →
+          </a>
+        </div>
       </div>
     </div>
   </section>
@@ -109,6 +131,17 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
           </a>
         </div>
 
+        <div class="card" style="border-top: 4px solid #8b5cf6;">
+          <div class="badge" style="background: rgba(139, 92, 246, 0.15); color: #8b5cf6; margin-bottom: 0.75rem;">Knowledge Graph</div>
+          <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem;">Entity & Concept Network</h3>
+          <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.25rem;">
+            Interconnect 884 entities, 99 Divine Names, sacred places, and thematic clusters via semantic PageRank.
+          </p>
+          <a href="/graph" style="font-weight: 600; display: inline-flex; align-items: center; gap: 0.25rem; color: #8b5cf6;">
+            Explore Graph Explorer →
+          </a>
+        </div>
+
         <div class="card" style="border-top: 4px solid #3b82f6;">
           <div class="badge" style="background: #dbeafe; color: #1d4ed8; margin-bottom: 0.75rem;">Interactive Tool</div>
           <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem;">The Numbers Lab</h3>
@@ -126,7 +159,7 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
   <!-- Surahs Explorer Grid -->
   <section style="padding: 3rem 0; background: var(--bg-surface); border-top: 1px solid var(--border-color);">
     <div class="container">
-      <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 2rem;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 1.5rem; flex-wrap: wrap; gap: 1rem;">
         <div>
           <h2 style="font-size: 1.75rem; font-weight: 700; margin-bottom: 0.5rem;">Browse Surahs</h2>
           <p style="color: var(--text-muted);">Explore all 114 surahs with detailed translations and word breakdowns.</p>
@@ -134,16 +167,64 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
         <a href="/surahs" style="font-weight: 600;">View all 114 surahs →</a>
       </div>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem;">
-        {featuredSurahs.map((s) => (
-          <a href={`/surah/${s.id}`} class="card" style="display: flex; justify-content: space-between; align-items: center; text-decoration: none; padding: 1.1rem; color: inherit;">
+      <!-- Surah Category Tabs -->
+      <div style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap;" role="tablist" aria-label="Surah list filters">
+        <button id="tab-btn-daily" class="filter-tab active" role="tab" aria-selected="true" style="padding: 0.4rem 0.85rem; border-radius: var(--radius-sm); font-weight: 600; cursor: pointer;">
+          ⭐ Daily Recitation ({dailySurahs.length})
+        </button>
+        <button id="tab-btn-first10" class="filter-tab" role="tab" aria-selected="false" style="padding: 0.4rem 0.85rem; border-radius: var(--radius-sm); font-weight: 600; cursor: pointer;">
+          Opening Surahs (1-10)
+        </button>
+        <button id="tab-btn-juz30" class="filter-tab" role="tab" aria-selected="false" style="padding: 0.4rem 0.85rem; border-radius: var(--radius-sm); font-weight: 600; cursor: pointer;">
+          Juz 'Amma ({lastJuzSurahs.length})
+        </button>
+      </div>
+
+      <!-- Daily Recitation Grid -->
+      <div id="grid-daily" class="surah-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem;">
+        {dailySurahs.map((s) => (
+          <a href={`/surah/${s.id}`} class="card" style="display: flex; justify-content: space-between; align-items: center; text-decoration: none; padding: 1.1rem; color: inherit; transition: border-color 0.15s ease;">
             <div>
               <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.2rem;">
                 <span style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); background: var(--accent-teal-subtle); padding: 0.1rem 0.4rem; border-radius: 4px;">{s.id}</span>
                 <span style="font-weight: 700; font-size: 1rem;">{s.name_translit}</span>
               </div>
               <div style="font-size: 0.85rem; color: var(--text-muted);" class="bangla-text">{s.name_bn}</div>
-              <div style="font-size: 0.75rem; color: var(--text-muted);">{s.ayat} verses</div>
+              <div style="font-size: 0.75rem; color: var(--text-muted);">{s.ayat} verses · {s.type}</div>
+            </div>
+            <div class="arabic-text" style="font-size: 1.4rem; color: var(--accent-teal);">{s.name_ar}</div>
+          </a>
+        ))}
+      </div>
+
+      <!-- First 10 Surahs Grid -->
+      <div id="grid-first10" class="surah-grid" style="display: none; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem;">
+        {featuredSurahs.map((s) => (
+          <a href={`/surah/${s.id}`} class="card" style="display: flex; justify-content: space-between; align-items: center; text-decoration: none; padding: 1.1rem; color: inherit; transition: border-color 0.15s ease;">
+            <div>
+              <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.2rem;">
+                <span style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); background: var(--accent-teal-subtle); padding: 0.1rem 0.4rem; border-radius: 4px;">{s.id}</span>
+                <span style="font-weight: 700; font-size: 1rem;">{s.name_translit}</span>
+              </div>
+              <div style="font-size: 0.85rem; color: var(--text-muted);" class="bangla-text">{s.name_bn}</div>
+              <div style="font-size: 0.75rem; color: var(--text-muted);">{s.ayat} verses · {s.type}</div>
+            </div>
+            <div class="arabic-text" style="font-size: 1.4rem; color: var(--accent-teal);">{s.name_ar}</div>
+          </a>
+        ))}
+      </div>
+
+      <!-- Juz 30 Grid -->
+      <div id="grid-juz30" class="surah-grid" style="display: none; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem;">
+        {lastJuzSurahs.map((s) => (
+          <a href={`/surah/${s.id}`} class="card" style="display: flex; justify-content: space-between; align-items: center; text-decoration: none; padding: 1.1rem; color: inherit; transition: border-color 0.15s ease;">
+            <div>
+              <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.2rem;">
+                <span style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); background: var(--accent-teal-subtle); padding: 0.1rem 0.4rem; border-radius: 4px;">{s.id}</span>
+                <span style="font-weight: 700; font-size: 1rem;">{s.name_translit}</span>
+              </div>
+              <div style="font-size: 0.85rem; color: var(--text-muted);" class="bangla-text">{s.name_bn}</div>
+              <div style="font-size: 0.75rem; color: var(--text-muted);">{s.ayat} verses · {s.type}</div>
             </div>
             <div class="arabic-text" style="font-size: 1.4rem; color: var(--accent-teal);">{s.name_ar}</div>
           </a>
@@ -151,4 +232,48 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
       </div>
     </div>
   </section>
+
+  <script is:inline>
+    // Continue reading banner
+    try {
+      const lastRead = localStorage.getItem("qg_last_read");
+      if (lastRead) {
+        const parsed = JSON.parse(lastRead);
+        const banner = document.getElementById("continue-reading-banner");
+        const title = document.getElementById("continue-reading-title");
+        const link = document.getElementById("continue-reading-link");
+        if (banner && title && link && parsed.surah && parsed.ayah) {
+          title.textContent = `Surah ${parsed.name || parsed.surah} (${parsed.surah}:${parsed.ayah})`;
+          link.href = `/ayah/${parsed.surah}/${parsed.ayah}`;
+          banner.style.display = "block";
+        }
+      }
+    } catch (e) {}
+
+    // Surah list tabs
+    const tabDaily = document.getElementById("tab-btn-daily");
+    const tabFirst10 = document.getElementById("tab-btn-first10");
+    const tabJuz30 = document.getElementById("tab-btn-juz30");
+
+    const gridDaily = document.getElementById("grid-daily");
+    const gridFirst10 = document.getElementById("grid-first10");
+    const gridJuz30 = document.getElementById("grid-juz30");
+
+    function selectTab(activeBtn, activeGrid) {
+      [tabDaily, tabFirst10, tabJuz30].forEach((btn) => {
+        if (!btn) return;
+        const isCurrent = btn === activeBtn;
+        btn.classList.toggle("active", isCurrent);
+        btn.setAttribute("aria-selected", isCurrent ? "true" : "false");
+      });
+      [gridDaily, gridFirst10, gridJuz30].forEach((grid) => {
+        if (!grid) return;
+        grid.style.display = grid === activeGrid ? "grid" : "none";
+      });
+    }
+
+    tabDaily?.addEventListener("click", () => selectTab(tabDaily, gridDaily));
+    tabFirst10?.addEventListener("click", () => selectTab(tabFirst10, gridFirst10));
+    tabJuz30?.addEventListener("click", () => selectTab(tabJuz30, gridJuz30));
+  </script>
 </Layout>

@@ -1,4 +1,4 @@
-const CACHE_NAME = "qurangraph-cache-v1";
+const CACHE_NAME = "qurangraph-cache-v2";
 const STATIC_ASSETS = [
   "/",
   "/favicon.svg",
@@ -8,7 +8,8 @@ const STATIC_ASSETS = [
   "/graph",
   "/numbers",
   "/learn",
-  "/sources"
+  "/sources",
+  "/404"
 ];
 
 self.addEventListener("install", (event) => {
@@ -32,31 +33,47 @@ self.addEventListener("activate", (event) => {
 });
 
 self.addEventListener("fetch", (event) => {
-  // Only cache GET requests
+  // Only handle GET requests
   if (event.request.method !== "GET") return;
 
   const url = new URL(event.request.url);
 
-  // Strategy for Google Fonts or static assets: Cache First
+  // CRITICAL FIX: Bypass Service Worker for streaming audio and Range requests.
+  // Cache Storage cannot store 206 Partial Content responses and throws uncaught exceptions.
+  if (
+    url.pathname.endsWith(".mp3") ||
+    url.origin.includes("everyayah.com") ||
+    event.request.headers.has("range")
+  ) {
+    return;
+  }
+
+  // Google Fonts & Static Assets: Cache First, fallback to Network
   if (url.origin.includes("fonts.gstatic.com") || url.origin.includes("fonts.googleapis.com")) {
     event.respondWith(
       caches.match(event.request).then((cached) => {
-        return cached || fetch(event.request).then((response) => {
-          return caches.open(CACHE_NAME).then((cache) => {
-            cache.put(event.request, response.clone());
+        return (
+          cached ||
+          fetch(event.request).then((response) => {
+            if (response && response.status === 200) {
+              const resClone = response.clone();
+              caches.open(CACHE_NAME).then((cache) => {
+                cache.put(event.request, resClone);
+              });
+            }
             return response;
-          });
-        });
+          })
+        );
       })
     );
     return;
   }
 
-  // Network First, fallback to Cache for HTML pages
+  // Network First, fallback to Cache for HTML pages and app shell
   event.respondWith(
     fetch(event.request)
       .then((response) => {
-        if (response.status === 200) {
+        if (response && response.status === 200) {
           const resClone = response.clone();
           caches.open(CACHE_NAME).then((cache) => {
             cache.put(event.request, resClone);
@@ -64,6 +81,10 @@ self.addEventListener("fetch", (event) => {
         }
         return response;
       })
-      .catch(() => caches.match(event.request))
+      .catch(() => {
+        return caches.match(event.request).then((cached) => {
+          return cached || caches.match("/404");
+        });
+      })
   );
 });

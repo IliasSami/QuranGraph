@@ -1,26 +1,50 @@
 ---
-import numbersData from "../../../ingest/work/numbers_lab.json" with { type: "json" };
-
-const lemmas = numbersData.vocabulary_coverage.top_lemmas.slice(0, 20);
+const cards = [
+  { lemma: "اللَّه", root: "أله", count: 2699, en: "Allah (God, The One True Deity)", bn: "আল্লাহ (একমাত্র সত্য উপাস্য)" },
+  { lemma: "قالَ", root: "قول", count: 1722, en: "to say, speak", bn: "বলা, কথা বলা" },
+  { lemma: "كانَ", root: "كون", count: 1358, en: "to be, exist", bn: "হওয়া, বিদ্যমান থাকা" },
+  { lemma: "رَبّ", root: "ربب", count: 975, en: "Lord, Sustainer, Master", bn: "রব, পালনকর্তা ও প্রভু" },
+  { lemma: "آمَنَ", root: "أمن", count: 890, en: "to believe, have faith", bn: "ঈমান আনা, বিশ্বাস করা" },
+  { lemma: "عَلِمَ", root: "علم", count: 854, en: "to know, be aware", bn: "জানা, অবগত থাকা" },
+  { lemma: "جَعَلَ", root: "جعل", count: 346, en: "to make, appoint, place", bn: "বানানো, নির্ধারণ করা" },
+  { lemma: "أَرْض", root: "أرض", count: 461, en: "earth, land", bn: "পৃথিবী, জমিন" },
+  { lemma: "سَماء", root: "سمو", count: 310, en: "sky, heaven", bn: "আকাশ, আসমান" },
+  { lemma: "يَوْم", root: "يوم", count: 475, en: "day, period, time", bn: "দিন, দিবস" },
+  { lemma: "كِتاب", root: "كتب", count: 261, en: "book, scripture, register", bn: "কিতাব, গ্রন্থ, আমলনামা" },
+  { lemma: "رَحْمَة", root: "رحم", count: 145, en: "mercy, grace", bn: "রহমত, দয়া ও অনুগ্রহ" },
+  { lemma: "قَلْب", root: "قلب", count: 168, en: "heart, mind, intellect", bn: "অন্তর, হৃদয়" },
+  { lemma: "نَفْس", root: "نفس", count: 298, en: "soul, self, life", bn: "আত্মা, প্রাণ, ব্যক্তি" },
+  { lemma: "عَمِلَ", root: "عمل", count: 360, en: "to do, act, work", bn: "কাজ করা, আমল করা" },
+  { lemma: "صَبَرَ", root: "صبر", count: 103, en: "to be patient, persevere", bn: "ধৈর্য ধারণ করা" },
+  { lemma: "شَكَرَ", root: "شكر", count: 75, en: "to be grateful, give thanks", bn: "কৃতজ্ঞতা প্রকাশ করা" },
+  { lemma: "هُدًى", root: "هدي", count: 85, en: "guidance, right path", bn: "হেদায়েত, সঠিক পথ" },
+  { lemma: "حَقّ", root: "حقق", count: 247, en: "truth, right, reality", bn: "সত্য, অধিকার" },
+  { lemma: "نُور", root: "نور", count: 49, en: "light, illumination", bn: "নূর, আলো" }
+];
 ---
 
 <div class="flashcards-widget card" style="border-top: 4px solid var(--accent-gold); max-width: 600px; margin: 0 auto;">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.5rem;">
     <span class="badge badge-gold">Spaced Repetition Flashcards</span>
-    <span id="fc-progress" style="font-size: 0.85rem; font-weight: 600; color: var(--text-muted);">
-      Card 1 of {lemmas.length}
-    </span>
+    <div style="display: flex; gap: 0.5rem; align-items: center;">
+      <span id="fc-mastered-count" class="badge" style="background: var(--accent-teal-subtle); color: var(--accent-teal); font-size: 0.75rem;">
+        Mastered: 0
+      </span>
+      <span id="fc-progress" style="font-size: 0.85rem; font-weight: 600; color: var(--text-muted);">
+        Card 1 of {cards.length}
+      </span>
+    </div>
   </div>
 
   <div id="fc-card" style="min-height: 220px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; background: var(--bg-subtle); border-radius: var(--radius-md); padding: 2rem; border: 1px solid var(--border-color); margin-bottom: 1.5rem; transition: background-color 0.2s ease;">
     <div id="fc-arabic" class="arabic-text" style="font-size: 3rem; color: var(--accent-teal); margin-bottom: 0.5rem;">
-      {lemmas[0].lemma}
+      {cards[0].lemma}
     </div>
     <div id="fc-root" style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 0.5rem;">
-      Root: {lemmas[0].root || "Particle / N/A"}
+      Root: {cards[0].root || "N/A"}
     </div>
     <div id="fc-count" class="badge" style="background: var(--bg-surface); color: var(--text-muted); font-size: 0.75rem; margin-bottom: 1rem;">
-      {lemmas[0].count.toLocaleString()} occurrences in Quran
+      {cards[0].count.toLocaleString()} occurrences in Quran
     </div>
 
     <!-- Hidden answer area -->
@@ -37,34 +61,21 @@ const lemmas = numbersData.vocabulary_coverage.top_lemmas.slice(0, 20);
   <!-- Actions -->
   <div id="fc-reveal-container" style="display: flex; justify-content: center;">
     <button id="fc-reveal-btn" class="btn-icon" style="background: var(--accent-teal); color: white; padding: 0.75rem 2rem; font-size: 1rem; font-weight: 600; border: none; border-radius: var(--radius-sm); cursor: pointer;">
-      Reveal Meaning (উন্মোচন)
+      Reveal Meaning (উন্মোচন) <kbd style="font-size: 0.75rem; opacity: 0.8; margin-left: 0.35rem; background: rgba(0,0,0,0.2); padding: 0.1rem 0.3rem; border-radius: 3px;">Space</kbd>
     </button>
   </div>
 
   <div id="fc-response-container" style="display: none; justify-content: center; gap: 1rem;">
     <button id="fc-again-btn" class="btn-icon" style="flex: 1; padding: 0.75rem; background: var(--bg-subtle); color: var(--text-main); border: 1px solid var(--border-color); font-weight: 600;">
-      🔄 Review Again
+      🔄 Review Again <kbd style="font-size: 0.75rem; opacity: 0.8; margin-left: 0.25rem;">1</kbd>
     </button>
     <button id="fc-know-btn" class="btn-icon" style="flex: 1; padding: 0.75rem; background: var(--accent-teal); color: white; border: none; font-weight: 600;">
-      ✅ Got It (Know)
+      ✅ Got It (Mastered) <kbd style="font-size: 0.75rem; opacity: 0.8; margin-left: 0.25rem;">2</kbd>
     </button>
   </div>
 </div>
 
-<script is:inline define:vars={{ lemmas }}>
-  const LEMMAS = [
-    { lemma: "اللَّه", root: "أله", count: 2699, en: "Allah (God, The One True Deity)", bn: "আল্লাহ (একমাত্র সত্য উপাস্য)" },
-    { lemma: "قالَ", root: "قول", count: 1722, en: "to say, speak", bn: "বলা, কথা বলা" },
-    { lemma: "كانَ", root: "كون", count: 1358, en: "to be, exist", bn: "হওয়া, বিদ্যমান থাকা" },
-    { lemma: "آمَنَ", root: "أمن", count: 890, en: "to believe, have faith", bn: "ঈমান আনা, বিশ্বাস করা" },
-    { lemma: "عَلِمَ", root: "علم", count: 854, en: "to know, be aware", bn: "জানা, জ্ঞান অর্জন করা" },
-    { lemma: "رَبّ", root: "ربب", count: 975, en: "Lord, Sustainer, Master", bn: "রব, পালনকর্তা ও প্রভু" },
-    { lemma: "أَرْض", root: "أرض", count: 461, en: "earth, land", bn: "পৃথিবী, জমিন" },
-    { lemma: "يَوْم", root: "يوم", count: 475, en: "day, time", bn: "দিন, দিবস" },
-    { lemma: "كِتاب", root: "كتب", count: 261, en: "book, scripture, register", bn: "কিতাব, গ্রন্থ, আমলনামা" },
-    { lemma: "رَحْمَة", root: "رحم", count: 145, en: "mercy, grace", bn: "রহমত, দয়া ও অনুগ্রহ" }
-  ];
-
+<script is:inline define:vars={{ cards }}>
   let currentIdx = 0;
   const arabicEl = document.getElementById("fc-arabic");
   const rootEl = document.getElementById("fc-root");
@@ -76,13 +87,29 @@ const lemmas = numbersData.vocabulary_coverage.top_lemmas.slice(0, 20);
   const revealBox = document.getElementById("fc-reveal-container");
   const respBox = document.getElementById("fc-response-container");
   const progressEl = document.getElementById("fc-progress");
+  const masteredEl = document.getElementById("fc-mastered-count");
+
+  // Load mastered cards
+  let masteredSet = new Set();
+  try {
+    const saved = localStorage.getItem("qg_flashcards_mastered");
+    if (saved) {
+      masteredSet = new Set(JSON.parse(saved));
+    }
+  } catch (e) {}
+
+  function updateMasteredUI() {
+    if (masteredEl) {
+      masteredEl.textContent = `Mastered: ${masteredSet.size} / ${cards.length}`;
+    }
+  }
 
   function showCard(idx) {
-    const item = LEMMAS[idx % LEMMAS.length];
+    const item = cards[idx % cards.length];
     if (!arabicEl || !rootEl || !countEl || !meaningEn || !meaningBn || !answerEl) return;
 
     arabicEl.textContent = item.lemma;
-    rootEl.textContent = "Root: " + item.root;
+    rootEl.textContent = "Root: " + (item.root || "N/A");
     countEl.textContent = item.count.toLocaleString() + " occurrences in Quran";
     meaningEn.textContent = item.en;
     meaningBn.textContent = item.bn;
@@ -90,23 +117,49 @@ const lemmas = numbersData.vocabulary_coverage.top_lemmas.slice(0, 20);
     answerEl.style.display = "none";
     if (revealBox) revealBox.style.display = "flex";
     if (respBox) respBox.style.display = "none";
-    if (progressEl) progressEl.textContent = `Card ${idx + 1} of ${LEMMAS.length}`;
+    if (progressEl) progressEl.textContent = `Card ${idx + 1} of ${cards.length}`;
+    updateMasteredUI();
   }
 
-  revealBtn?.addEventListener("click", () => {
+  function revealCard() {
     if (answerEl) answerEl.style.display = "block";
     if (revealBox) revealBox.style.display = "none";
     if (respBox) respBox.style.display = "flex";
-  });
+  }
+
+  revealBtn?.addEventListener("click", revealCard);
 
   document.getElementById("fc-know-btn")?.addEventListener("click", () => {
-    currentIdx = (currentIdx + 1) % LEMMAS.length;
+    masteredSet.add(cards[currentIdx % cards.length].lemma);
+    try {
+      localStorage.setItem("qg_flashcards_mastered", JSON.stringify(Array.from(masteredSet)));
+    } catch (e) {}
+    currentIdx = (currentIdx + 1) % cards.length;
     showCard(currentIdx);
   });
 
   document.getElementById("fc-again-btn")?.addEventListener("click", () => {
-    currentIdx = (currentIdx + 1) % LEMMAS.length;
+    currentIdx = (currentIdx + 1) % cards.length;
     showCard(currentIdx);
+  });
+
+  // Keyboard controls
+  window.addEventListener("keydown", (e) => {
+    // Only handle if active element is not an input
+    if (document.activeElement?.tagName === "INPUT" || document.activeElement?.tagName === "TEXTAREA") return;
+
+    if (e.code === "Space") {
+      e.preventDefault();
+      if (answerEl?.style.display === "none") {
+        revealCard();
+      }
+    } else if (e.key === "1" && respBox?.style.display === "flex") {
+      e.preventDefault();
+      document.getElementById("fc-again-btn")?.click();
+    } else if (e.key === "2" && respBox?.style.display === "flex") {
+      e.preventDefault();
+      document.getElementById("fc-know-btn")?.click();
+    }
   });
 
   showCard(0);

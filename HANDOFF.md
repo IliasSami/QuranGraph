@@ -4,9 +4,16 @@
 decision already made, exactly where work stopped, how to set up, how to write explanations at the same quality,
 and the next tasks in order.
 
-Last updated: **6 Nov 2026** after completing explanations for ALL 114 surahs (6,236 / 6,236 ayat, 100%).
-Full validation sweep passed (0 errors across 114 surahs, 0 tafsir name warnings), Knowledge Graph rebuilt
-(17,711 nodes, 150,716 edges), web built cleanly (8,898 pages, 9,126 static files), 61/61 tests passing.
+Last updated: **7 Nov 2026** after Deep DevOps, Accessibility, Search, and Real-User UX Overhaul.
+- Explanations for ALL 114 surahs (6,236 / 6,236 ayat, 100%) verified with 0 errors and 0 tafsir-naming warnings.
+- Knowledge Graph rebuilt (17,711 nodes, 150,716 edges, 884 entities, 6 stories).
+- Corpus transliteration enriched: ALA-LC Latin transliteration (`tr`) generated for all 6,236 ayat.
+- Search Engine upgraded: multilingual natural language reference parsing, direct surah matching, transliteration search, and typo tolerance.
+- Search UX redesigned: converting card presentation with Arabic Uthmani, transliteration, highlighted translations, filter tabs, audio preview, and copy actions.
+- Ayah & Surah pages enriched with English transliteration, connected entities badges, story narrative arc banners, sticky audio dock, auto-scroll toggle, quick copy, and bookmarking.
+- UI/UX Accessibility: WCAG 2.2 AAA contrast compliance, dynamic Arabic font-size scaler (`A-`/`A+`), mobile touch support on Knowledge Graph canvas, and last-read progress resumption.
+- DevOps & Cloudflare: Service Worker range request fix, immutable caching & security headers (`_headers`), `drop-trailing-slash` routing, and custom 404 page.
+- Web built cleanly: 8,899 static pages (well under 20,000 Cloudflare limit). 66/66 tests pass, 54/54 golden benchmarks pass (100%).
 
 Companion documents (read when the task needs them):
 

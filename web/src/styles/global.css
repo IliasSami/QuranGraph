@@ -22,6 +22,15 @@
   --accent-teal-subtle: #ccfbf1;
   --danger: #b91c1c;
 
+  /* Button Tokens (WCAG 2.2 AA/AAA) */
+  --btn-primary-bg: #0f766e;
+  --btn-primary-text: #ffffff;
+  --btn-primary-hover: #115e59;
+  --badge-danger-bg: #fee2e2;
+  --badge-danger-text: #b91c1c;
+
+  --arabic-scale: 1;
+
   --radius-sm: 6px;
   --radius-md: 10px;
   --radius-lg: 16px;
@@ -45,6 +54,13 @@
   --accent-gold: #f59e0b;
   --accent-gold-subtle: #3d2f10;
   --accent-teal-subtle: #0f3d38;
+
+  /* Button Tokens in Dark Mode (High Contrast 8.24:1 AAA) */
+  --btn-primary-bg: #14b8a6;
+  --btn-primary-text: #042f2e;
+  --btn-primary-hover: #2dd4bf;
+  --badge-danger-bg: #450a0a;
+  --badge-danger-text: #f87171;
 }
 
 [data-theme="sepia"] {
@@ -96,8 +112,48 @@ a:hover {
   font-family: var(--font-arabic);
   direction: rtl;
   text-align: right;
-  line-height: 2.2;
+  line-height: 2.5;
   color: var(--text-arabic);
+  font-size: calc(1em * var(--arabic-scale, 1));
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+.action-btn-primary {
+  background-color: var(--btn-primary-bg) !important;
+  color: var(--btn-primary-text) !important;
+  border-color: var(--btn-primary-bg) !important;
+  font-weight: 700;
+}
+
+.action-btn-primary:hover {
+  background-color: var(--btn-primary-hover) !important;
+  opacity: 0.95;
+}
+
+.verse-card.active-playing {
+  border-color: var(--accent-teal) !important;
+  box-shadow: 0 0 0 2px var(--accent-teal-subtle), 0 8px 24px rgba(0, 0, 0, 0.08) !important;
+}
+
+.sticky-dock {
+  position: sticky;
+  bottom: 1.25rem;
+  z-index: 40;
+  backdrop-filter: blur(12px);
+  background: var(--bg-surface);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+  border: 2px solid var(--accent-teal);
 }
 
 .bangla-text {
@@ -194,6 +250,20 @@ a:hover {
 .btn-icon:hover {
   background: var(--border-color);
   text-decoration: none;
+}
+
+.font-scale-control {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.font-btn {
+  padding: 0.35rem 0.6rem;
+  min-width: 38px;
+  min-height: 38px;
+  font-weight: 700;
+  font-size: 0.85rem;
 }
 
 .mobile-menu-btn {

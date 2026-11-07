@@ -158,9 +158,10 @@ export function stem(w: string): string {
 export const STOPWORDS = new Set(
   ("a an and are as at be been but by can did do does for from had has have he her him his how i if in into is it its me my " +
     "no not of on or our she so that the their them then there these they this those to us was we were what when where which " +
-    "who whom why will with you your thou thee thy ye unto shall verse ayah ayat surah sura meaning mean means").split(" "),
+    "who whom why will with you your thou thee thy ye unto shall verse verses ayah ayat surah sura surahs chapter chapters " +
+    "say says said tell tells tellme about find show search meaning mean means").split(" "),
 );
-const BN_STOP = new Set(["ও", "এবং", "যে", "এই", "সে", "তার", "তা", "কি", "কী", "না", "হয়", "করে", "থেকে", "জন্য", "আর", "এর", "একটি"].map(banglaKey));
+const BN_STOP = new Set(["ও", "এবং", "যে", "এই", "সে", "তার", "তা", "কি", "কী", "না", "হয়", "করে", "থেকে", "জন্য", "আর", "এর", "একটি", "সূরা", "সুরা", "আয়াত", "আয়াত", "পারা", "সম্পর্কে", "বলা", "কোথায়", "কোথায়"].map(banglaKey));
 const AR_STOP = new Set(["في", "من", "علي", "الي", "ان", "عن", "ما", "لا", "و", "ثم", "او", "ذلك", "هذا", "التي", "الذي", "الذين"]);
 
 export interface Token { term: string; surface: string; script: Script; stop: boolean }

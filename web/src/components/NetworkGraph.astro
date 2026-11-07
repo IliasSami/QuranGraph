@@ -4,23 +4,24 @@ import entitiesData from "../../../ingest/work/export/graph/entities.json" with 
 ---
 
 <div class="network-graph-widget card" style="padding: 1.5rem; margin-bottom: 2.5rem; border-top: 4px solid var(--accent-teal);">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; flex-wrap: wrap; gap: 0.5rem;">
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; flex-wrap: wrap; gap: 0.75rem;">
     <div>
-      <h3 style="font-size: 1.25rem; font-weight: 700;">Interactive Knowledge Network</h3>
-      <p style="font-size: 0.85rem; color: var(--text-muted);">
-        Drag nodes to explore. Click any node to see its connected verses.
+      <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.2rem;">Interactive Knowledge Network</h3>
+      <p style="font-size: 0.85rem; color: var(--text-muted); margin: 0;">
+        Drag nodes or tap to explore connected verses and concepts.
       </p>
     </div>
-    <div style="display: flex; gap: 0.5rem; font-size: 0.75rem;">
-      <span style="display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 10px; height: 10px; border-radius: 50%; background: #b45309;"></span> Divine Names</span>
-      <span style="display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 10px; height: 10px; border-radius: 50%; background: #0f766e;"></span> Prophets</span>
-      <span style="display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 10px; height: 10px; border-radius: 50%; background: #2563eb;"></span> Places & Nations</span>
-      <span style="display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 10px; height: 10px; border-radius: 50%; background: #7c3aed;"></span> Concepts</span>
+    <div style="display: flex; gap: 0.4rem; font-size: 0.75rem; flex-wrap: wrap;" id="graph-filters">
+      <button class="graph-filter-btn active" data-type="all" style="background: var(--bg-surface); border: 1px solid var(--accent-teal); color: var(--accent-teal); padding: 0.25rem 0.6rem; border-radius: 9999px; cursor: pointer; font-weight: 600;">All</button>
+      <button class="graph-filter-btn" data-type="name_of_allah" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.6rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #b45309;"></span> Divine Names</button>
+      <button class="graph-filter-btn" data-type="person" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.6rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #0f766e;"></span> Prophets</button>
+      <button class="graph-filter-btn" data-type="place" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.6rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #2563eb;"></span> Places</button>
+      <button class="graph-filter-btn" data-type="concept" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.6rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #7c3aed;"></span> Concepts</button>
     </div>
   </div>
 
-  <div style="position: relative; width: 100%; height: 480px; background: var(--bg-subtle); border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--border-color);">
-    <canvas id="graph-canvas" style="width: 100%; height: 100%; display: block;"></canvas>
+  <div style="position: relative; width: 100%; height: 480px; background: var(--bg-subtle); border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--border-color); touch-action: none;">
+    <canvas id="graph-canvas" style="width: 100%; height: 100%; display: block; cursor: grab;"></canvas>
     <div id="graph-tooltip" style="position: absolute; display: none; background: var(--bg-surface); border: 1px solid var(--border-color); padding: 0.5rem 0.75rem; border-radius: 6px; font-size: 0.85rem; pointer-events: none; box-shadow: var(--shadow-md); z-index: 10;"></div>
   </div>
 </div>
@@ -31,13 +32,23 @@ import entitiesData from "../../../ingest/work/export/graph/entities.json" with 
 
   if (canvas) {
     const ctx = canvas.getContext("2d");
-    let width = (canvas.width = canvas.parentElement.clientWidth);
-    let height = (canvas.height = canvas.parentElement.clientHeight);
+    let width = 0;
+    let height = 0;
+    let dpr = window.devicePixelRatio || 1;
 
-    window.addEventListener("resize", () => {
-      width = canvas.width = canvas.parentElement.clientWidth;
-      height = canvas.height = canvas.parentElement.clientHeight;
-    });
+    function resizeCanvas() {
+      dpr = window.devicePixelRatio || 1;
+      width = canvas.parentElement.clientWidth;
+      height = canvas.parentElement.clientHeight;
+      canvas.width = width * dpr;
+      canvas.height = height * dpr;
+      canvas.style.width = width + "px";
+      canvas.style.height = height + "px";
+      ctx.resetTransform?.();
+      ctx.scale(dpr, dpr);
+    }
+    resizeCanvas();
+    window.addEventListener("resize", resizeCanvas);
 
     const NODES = [
       { id: "allah", label: "Allah (الله)", type: "name_of_allah", color: "#b45309", r: 24, x: width / 2, y: height / 2, vx: 0, vy: 0 },
@@ -65,58 +76,116 @@ import entitiesData from "../../../ingest/work/export/graph/entities.json" with 
 
     let draggedNode = null;
     let hoveredNode = null;
+    let activeType = "all";
+    let touchStartTime = 0;
+    let touchStartPos = { x: 0, y: 0 };
 
-    canvas.addEventListener("mousedown", (e) => {
+    // Filter pill interactions
+    const filterButtons = document.querySelectorAll(".graph-filter-btn");
+    filterButtons.forEach((btn) => {
+      btn.addEventListener("click", () => {
+        activeType = btn.getAttribute("data-type") || "all";
+        filterButtons.forEach((b) => {
+          const isActive = b === btn;
+          b.style.borderColor = isActive ? "var(--accent-teal)" : "var(--border-color)";
+          b.style.color = isActive ? "var(--accent-teal)" : "var(--text-main)";
+          b.style.background = isActive ? "var(--bg-surface)" : "var(--bg-subtle)";
+        });
+      });
+    });
+
+    // Pointer helper
+    function getPointerPos(e) {
       const rect = canvas.getBoundingClientRect();
-      const mx = e.clientX - rect.left;
-      const my = e.clientY - rect.top;
+      const clientX = e.touches ? e.touches[0].clientX : e.clientX;
+      const clientY = e.touches ? e.touches[0].clientY : e.clientY;
+      return {
+        x: clientX - rect.left,
+        y: clientY - rect.top
+      };
+    }
+
+    function findNodeAt(x, y, radiusBoost = 1) {
       for (const n of NODES) {
-        const dx = n.x - mx;
-        const dy = n.y - my;
-        if (dx * dx + dy * dy < n.r * n.r) {
-          draggedNode = n;
-          break;
+        const dx = n.x - x;
+        const dy = n.y - y;
+        if (dx * dx + dy * dy < n.r * n.r * radiusBoost) {
+          return n;
         }
+      }
+      return null;
+    }
+
+    // Mouse handlers
+    canvas.addEventListener("mousedown", (e) => {
+      const pos = getPointerPos(e);
+      draggedNode = findNodeAt(pos.x, pos.y);
+      if (draggedNode) {
+        canvas.style.cursor = "grabbing";
       }
     });
 
     window.addEventListener("mousemove", (e) => {
-      const rect = canvas.getBoundingClientRect();
-      const mx = e.clientX - rect.left;
-      const my = e.clientY - rect.top;
-
+      const pos = getPointerPos(e);
       if (draggedNode) {
-        draggedNode.x = mx;
-        draggedNode.y = my;
+        draggedNode.x = pos.x;
+        draggedNode.y = pos.y;
       }
 
-      hoveredNode = null;
-      for (const n of NODES) {
-        const dx = n.x - mx;
-        const dy = n.y - my;
-        if (dx * dx + dy * dy < n.r * n.r) {
-          hoveredNode = n;
-          break;
-        }
-      }
-
+      hoveredNode = findNodeAt(pos.x, pos.y);
       if (hoveredNode && tooltip) {
         tooltip.style.display = "block";
-        tooltip.style.left = mx + 15 + "px";
-        tooltip.style.top = my - 10 + "px";
+        tooltip.style.left = pos.x + 15 + "px";
+        tooltip.style.top = pos.y - 10 + "px";
         tooltip.innerHTML = `<strong>${hoveredNode.label}</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Click to search verses</span>`;
-      } else if (tooltip) {
-        tooltip.style.display = "none";
+        canvas.style.cursor = "pointer";
+      } else {
+        if (tooltip) tooltip.style.display = "none";
+        canvas.style.cursor = draggedNode ? "grabbing" : "grab";
       }
     });
 
     window.addEventListener("mouseup", () => {
-      draggedNode = null;
+      if (draggedNode) {
+        draggedNode = null;
+        canvas.style.cursor = "grab";
+      }
     });
 
     canvas.addEventListener("click", () => {
       if (hoveredNode) {
         window.location.href = `/search?q=${encodeURIComponent(hoveredNode.label.split(" (")[0])}`;
+      }
+    });
+
+    // Mobile Touch Handlers
+    canvas.addEventListener("touchstart", (e) => {
+      if (!e.touches.length) return;
+      const pos = getPointerPos(e);
+      touchStartTime = Date.now();
+      touchStartPos = { x: pos.x, y: pos.y };
+      draggedNode = findNodeAt(pos.x, pos.y, 2.5); // generous touch area
+      if (draggedNode) {
+        e.preventDefault();
+      }
+    }, { passive: false });
+
+    window.addEventListener("touchmove", (e) => {
+      if (!draggedNode || !e.touches.length) return;
+      const pos = getPointerPos(e);
+      draggedNode.x = pos.x;
+      draggedNode.y = pos.y;
+      e.preventDefault();
+    }, { passive: false });
+
+    window.addEventListener("touchend", (e) => {
+      if (draggedNode) {
+        const timeDiff = Date.now() - touchStartTime;
+        // If it was a quick tap (< 300ms) with minimal movement, navigate!
+        if (timeDiff < 300) {
+          window.location.href = `/search?q=${encodeURIComponent(draggedNode.label.split(" (")[0])}`;
+        }
+        draggedNode = null;
       }
     });
 
@@ -162,20 +231,31 @@ import entitiesData from "../../../ingest/work/export/graph/entities.json" with 
       ctx.strokeStyle = "rgba(150, 160, 175, 0.35)";
       ctx.lineWidth = 1.5;
       for (const e of EDGES) {
+        const n1 = NODES[e.u];
+        const n2 = NODES[e.v];
+        const match1 = activeType === "all" || n1.type === activeType;
+        const match2 = activeType === "all" || n2.type === activeType;
+        ctx.strokeStyle = match1 && match2 ? "rgba(150, 160, 175, 0.45)" : "rgba(150, 160, 175, 0.1)";
         ctx.beginPath();
-        ctx.moveTo(NODES[e.u].x, NODES[e.u].y);
-        ctx.lineTo(NODES[e.v].x, NODES[e.v].y);
+        ctx.moveTo(n1.x, n1.y);
+        ctx.lineTo(n2.x, n2.y);
         ctx.stroke();
       }
 
       // Nodes
       for (const n of NODES) {
+        const isMatch = activeType === "all" || n.type === activeType;
+        ctx.save();
+        if (!isMatch) {
+          ctx.globalAlpha = 0.25;
+        }
+
         ctx.beginPath();
         ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
         ctx.fillStyle = n.color;
         ctx.fill();
 
-        if (n === hoveredNode) {
+        if (n === hoveredNode || (activeType !== "all" && isMatch)) {
           ctx.strokeStyle = "#ffffff";
           ctx.lineWidth = 3;
           ctx.stroke();
@@ -183,9 +263,10 @@ import entitiesData from "../../../ingest/work/export/graph/entities.json" with 
 
         // Label
         ctx.fillStyle = "var(--text-main)";
-        ctx.font = "500 11px sans-serif";
+        ctx.font = "600 11px sans-serif";
         ctx.textAlign = "center";
         ctx.fillText(n.label, n.x, n.y + n.r + 14);
+        ctx.restore();
       }
 
       requestAnimationFrame(step);
