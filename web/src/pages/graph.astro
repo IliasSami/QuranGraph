@@ -2,10 +2,10 @@
 import Layout from "../layouts/Layout.astro";
 import NetworkGraph from "../components/NetworkGraph.astro";
 import { entityIdToSlug } from "../lib/graph/subgraph.ts";
-import graphSummary from "../../../ingest/work/export/graph/summary.json" with { type: "json" };
-import entitiesData from "../../../ingest/work/export/graph/entities.json" with { type: "json" };
-import storiesData from "../../../ingest/work/export/graph/stories.json" with { type: "json" };
-import clustersData from "../../../ingest/work/export/graph/clusters.json" with { type: "json" };
+import graphSummary from "../data/graph/summary.json" with { type: "json" };
+import entitiesData from "../data/graph/entities.json" with { type: "json" };
+import storiesData from "../data/graph/stories.json" with { type: "json" };
+import clustersData from "../data/graph/clusters.json" with { type: "json" };
 
 const entities = Object.values(entitiesData);
 const people = entities.filter((e: any) => e.type === "person");

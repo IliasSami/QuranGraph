@@ -4,7 +4,7 @@ import AudioPlayer from "../../../components/AudioPlayer.astro";
 import AyahContextGraph from "../../../components/AyahContextGraph.astro";
 import { extractAyahSubgraph, corpusMap, surahMap } from "../../../lib/graph/subgraph.ts";
 import surahsData from "../../../lib/search/surahs.json" with { type: "json" };
-import similarData from "../../../../../ingest/work/export/graph/similar_ayat.json" with { type: "json" };
+import similarData from "../../../data/graph/similar_ayat.json" with { type: "json" };
 import fs from "node:fs";
 import path from "node:path";
 

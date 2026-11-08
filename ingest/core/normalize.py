@@ -8,7 +8,7 @@ import os
 import subprocess
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-CLI = os.path.join(ROOT, "web", "scripts", "normalize-cli.ts")
+CLI = os.path.join(ROOT, "web", "scripts", "normalize-cli.js")
 
 
 def tokenize_many(texts, batch=5000):

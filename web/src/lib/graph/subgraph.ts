@@ -1,8 +1,8 @@
-import entitiesData from "../../../../ingest/work/export/graph/entities.json" with { type: "json" };
-import storiesData from "../../../../ingest/work/export/graph/stories.json" with { type: "json" };
-import rootsData from "../../../../ingest/work/export/graph/roots.json" with { type: "json" };
-import themesData from "../../../../ingest/work/export/graph/themes.json" with { type: "json" };
-import similarData from "../../../../ingest/work/export/graph/similar_ayat.json" with { type: "json" };
+import entitiesData from "../../data/graph/entities.json" with { type: "json" };
+import storiesData from "../../data/graph/stories.json" with { type: "json" };
+import rootsData from "../../data/graph/roots.json" with { type: "json" };
+import themesData from "../../data/graph/themes.json" with { type: "json" };
+import similarData from "../../data/graph/similar_ayat.json" with { type: "json" };
 import corpusData from "../search/corpus.json" with { type: "json" };
 import surahsData from "../search/surahs.json" with { type: "json" };
 import { getRootGloss, getThemeGloss, ENTITY_FALLBACKS } from "./lexicon.ts";

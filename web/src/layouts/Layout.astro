@@ -5,12 +5,50 @@ import surahsData from "../lib/search/surahs.json" with { type: "json" };
 interface Props {
   title?: string;
   description?: string;
+  ogImage?: string;
 }
 
 const {
   title = "QuranGraph — The Connected Quran Knowledge System",
-  description = "A connected, beginner-first Quran explorer joining concepts, stories, words, and statistics in English and Bangla."
+  description = "A connected, beginner-first Quran explorer joining concepts, stories, words, and statistics in English and Bangla.",
+  ogImage = "/og-image.png"
 } = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://qurangraph.com");
+const fullOgImageUrl = new URL(ogImage, Astro.site || "https://qurangraph.com").toString();
+
+// Schema.org JSON-LD structured data for rich search engine indexing & sitelinks
+const schemaGraph = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://qurangraph.com/#website",
+      "url": "https://qurangraph.com",
+      "name": "QuranGraph",
+      "description": "The Connected Quran Knowledge System & Multilingual Semantic Ontology",
+      "inLanguage": ["en", "bn", "ar"],
+      "publisher": {
+        "@id": "https://qurangraph.com/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://qurangraph.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "EducationalOrganization",
+      "@id": "https://qurangraph.com/#organization",
+      "name": "QuranGraph Project",
+      "url": "https://qurangraph.com",
+      "logo": "https://qurangraph.com/og-image.png",
+      "sameAs": [
+        "https://github.com/IliasSami/QuranGraph"
+      ]
+    }
+  ]
+};
 
 // Prepare compact surahs payload for the quick jump dialog
 const compactSurahs = surahsData.map(s => ({
@@ -35,6 +73,29 @@ const compactSurahs = surahsData.map(s => ({
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
     <meta name="description" content={description} />
+    <meta name="keywords" content="Quran, Quran knowledge graph, Arabic roots, Quran morphology, English Quran translation, Bengali Quran translation, Saheeh International, Abu Bakr Zakaria, Tafsir, Quran transliteration, Quran search engine, Islamic ontology, Quran learning" />
+    <link rel="canonical" href={canonicalURL} />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={fullOgImageUrl} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="QuranGraph" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content={canonicalURL} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={fullOgImageUrl} />
+
+    <!-- Structured Data (JSON-LD) -->
+    <script type="application/ld+json" set:html={JSON.stringify(schemaGraph)}></script>
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link

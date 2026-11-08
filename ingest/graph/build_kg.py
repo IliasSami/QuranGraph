@@ -750,6 +750,14 @@ class KnowledgeGraphBuilder:
         with open(os.path.join(EXPORT_DIR, "clusters.json"), "w", encoding="utf-8") as f:
             json.dump(clusters, f, ensure_ascii=False, indent=2)
 
+        web_data_dir = os.path.join(os.path.dirname(BASE_DIR), "web", "src", "data", "graph")
+        if os.path.exists(web_data_dir):
+            import shutil
+            for fname in os.listdir(EXPORT_DIR):
+                if fname.endswith(".json"):
+                    shutil.copy2(os.path.join(EXPORT_DIR, fname), os.path.join(web_data_dir, fname))
+            print(f"Synced JSON graph shards to {web_data_dir}.")
+
         print("JSON graph shards exported successfully.")
 
 

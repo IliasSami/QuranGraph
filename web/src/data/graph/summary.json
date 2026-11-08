@@ -1,0 +1,250 @@
+{
+  "node_count": 17711,
+  "edge_count": 150704,
+  "node_types": {
+    "surah": 114,
+    "ayah": 6236,
+    "root": 1651,
+    "lemma": 4763,
+    "person": 213,
+    "place": 140,
+    "nation": 197,
+    "unseen": 127,
+    "name_of_allah": 196,
+    "glossary": 11,
+    "story": 6,
+    "episode": 20,
+    "learning_path": 3,
+    "theme": 4034
+  },
+  "edge_types": {
+    "in_surah": 6236,
+    "root_has_lemma": 4635,
+    "has_root": 46244,
+    "has_lemma": 46244,
+    "in_story": 20,
+    "in_episode": 291,
+    "in_path": 141,
+    "teaches_theme": 22406,
+    "names_allah": 3461,
+    "mentions_unseen": 1678,
+    "mentions_person": 3084,
+    "mentions_nation": 1328,
+    "mentions_place": 827,
+    "co_occurs_with": 1070,
+    "similar_ayah": 13039
+  },
+  "top_nodes_pagerank": [
+    {
+      "id": "theme:wealth",
+      "type": "theme",
+      "label_en": "Wealth",
+      "label_ar": "",
+      "pagerank": 0.003247
+    },
+    {
+      "id": "theme:zakat",
+      "type": "theme",
+      "label_en": "Zakat",
+      "label_ar": "",
+      "pagerank": 0.003218
+    },
+    {
+      "id": "name_of_allah:allah",
+      "type": "name_of_allah",
+      "label_en": "Allah",
+      "label_ar": "الله",
+      "pagerank": 0.003206
+    },
+    {
+      "id": "theme:this-world",
+      "type": "theme",
+      "label_en": "This world",
+      "label_ar": "",
+      "pagerank": 0.003055
+    },
+    {
+      "id": "theme:women",
+      "type": "theme",
+      "label_en": "Women",
+      "label_ar": "",
+      "pagerank": 0.002983
+    },
+    {
+      "id": "theme:trials",
+      "type": "theme",
+      "label_en": "Trials",
+      "label_ar": "",
+      "pagerank": 0.002875
+    },
+    {
+      "id": "lemma:اللَّه",
+      "type": "lemma",
+      "label_en": "اللَّه",
+      "label_ar": "اللَّه",
+      "pagerank": 0.002838
+    },
+    {
+      "id": "theme:worship",
+      "type": "theme",
+      "label_en": "Worship",
+      "label_ar": "",
+      "pagerank": 0.002729
+    },
+    {
+      "id": "theme:unity",
+      "type": "theme",
+      "label_en": "Unity",
+      "label_ar": "",
+      "pagerank": 0.002557
+    },
+    {
+      "id": "theme:the-last-day",
+      "type": "theme",
+      "label_en": "The last day",
+      "label_ar": "",
+      "pagerank": 0.002512
+    },
+    {
+      "id": "root:أله",
+      "type": "root",
+      "label_en": "أله",
+      "label_ar": "أله",
+      "pagerank": 0.002346
+    },
+    {
+      "id": "theme:warning",
+      "type": "theme",
+      "label_en": "Warning",
+      "label_ar": "",
+      "pagerank": 0.002295
+    },
+    {
+      "id": "theme:trust-in-allah",
+      "type": "theme",
+      "label_en": "Trust in allah",
+      "label_ar": "",
+      "pagerank": 0.002151
+    },
+    {
+      "id": "lemma:قالَ",
+      "type": "lemma",
+      "label_en": "قالَ",
+      "label_ar": "قالَ",
+      "pagerank": 0.002109
+    },
+    {
+      "id": "lemma:كانَ",
+      "type": "lemma",
+      "label_en": "كانَ",
+      "label_ar": "كانَ",
+      "pagerank": 0.002086
+    },
+    {
+      "id": "theme:worldliness",
+      "type": "theme",
+      "label_en": "Worldliness",
+      "label_ar": "",
+      "pagerank": 0.002043
+    },
+    {
+      "id": "root:قول",
+      "type": "root",
+      "label_en": "قول",
+      "label_ar": "قول",
+      "pagerank": 0.001983
+    },
+    {
+      "id": "theme:tawhid",
+      "type": "theme",
+      "label_en": "Tawhid",
+      "label_ar": "",
+      "pagerank": 0.001912
+    },
+    {
+      "id": "theme:the-quran",
+      "type": "theme",
+      "label_en": "The quran",
+      "label_ar": "",
+      "pagerank": 0.001777
+    },
+    {
+      "id": "root:كون",
+      "type": "root",
+      "label_en": "كون",
+      "label_ar": "كون",
+      "pagerank": 0.001659
+    },
+    {
+      "id": "person:prophet-muhammad",
+      "type": "person",
+      "label_en": "Prophet Muhammad ﷺ",
+      "label_ar": "محمد",
+      "pagerank": 0.001552
+    },
+    {
+      "id": "lemma:رَبّ",
+      "type": "lemma",
+      "label_en": "رَبّ",
+      "label_ar": "رَبّ",
+      "pagerank": 0.001533
+    },
+    {
+      "id": "theme:punishment",
+      "type": "theme",
+      "label_en": "Punishment",
+      "label_ar": "",
+      "pagerank": 0.001501
+    },
+    {
+      "id": "theme:prophethood",
+      "type": "theme",
+      "label_en": "Prophethood",
+      "label_ar": "",
+      "pagerank": 0.001384
+    },
+    {
+      "id": "theme:revelation",
+      "type": "theme",
+      "label_en": "Revelation",
+      "label_ar": "",
+      "pagerank": 0.001381
+    },
+    {
+      "id": "theme:the-believers'-qualities",
+      "type": "theme",
+      "label_en": "The believers' qualities",
+      "label_ar": "",
+      "pagerank": 0.001379
+    },
+    {
+      "id": "lemma:يَوْم",
+      "type": "lemma",
+      "label_en": "يَوْم",
+      "label_ar": "يَوْم",
+      "pagerank": 0.001312
+    },
+    {
+      "id": "theme:the-unseen",
+      "type": "theme",
+      "label_en": "The unseen",
+      "label_ar": "",
+      "pagerank": 0.001296
+    },
+    {
+      "id": "root:ربب",
+      "type": "root",
+      "label_en": "ربب",
+      "label_ar": "ربب",
+      "pagerank": 0.001268
+    },
+    {
+      "id": "theme:resurrection",
+      "type": "theme",
+      "label_en": "Resurrection",
+      "label_ar": "",
+      "pagerank": 0.001218
+    }
+  ],
+  "theme_clusters_count": 14
+}
