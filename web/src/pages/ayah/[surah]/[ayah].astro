@@ -1,11 +1,10 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
 import AudioPlayer from "../../../components/AudioPlayer.astro";
+import AyahContextGraph from "../../../components/AyahContextGraph.astro";
+import { extractAyahSubgraph, corpusMap, surahMap } from "../../../lib/graph/subgraph.ts";
 import surahsData from "../../../lib/search/surahs.json" with { type: "json" };
-import corpusData from "../../../lib/search/corpus.json" with { type: "json" };
 import similarData from "../../../../../ingest/work/export/graph/similar_ayat.json" with { type: "json" };
-import entitiesData from "../../../../../ingest/work/export/graph/entities.json" with { type: "json" };
-import storiesData from "../../../../../ingest/work/export/graph/stories.json" with { type: "json" };
 import fs from "node:fs";
 import path from "node:path";
 
@@ -25,8 +24,9 @@ const { surah: sParam, ayah: aParam } = Astro.params;
 const sId = parseInt(sParam!, 10);
 const aNum = parseInt(aParam!, 10);
 
-const surah = surahsData.find((s) => s.id === sId)!;
-const ayahRecord = corpusData.find((c) => c.s === sId && c.a === aNum)!;
+const surah = surahMap.get(sId) || surahsData.find((s) => s.id === sId)!;
+const refKey = `${sId}:${aNum}`;
+const ayahRecord = corpusMap.get(refKey) || { ar: "", en: "", bn: "" };
 
 // Load explanation JSON if available
 let explanation: any = null;
@@ -37,49 +37,9 @@ if (fs.existsSync(explainFile)) {
   explanation = JSON.parse(fs.readFileSync(explainFile, "utf-8"));
 }
 
-const refKey = `${sId}:${aNum}`;
 const similarVerses = (similarData as Record<string, any[]>)[refKey] || [];
-
-// Connected Knowledge Graph Entities
-const connectedEntities = Object.entries(entitiesData as Record<string, any>)
-  .filter(([_, entity]) => (entity.ayat || []).includes(refKey))
-  .map(([id, entity]) => ({
-    id,
-    slug: id
-      .replace(/[:\/]+/g, "-")
-      .replace(/[^a-zA-Z0-9_\-\u0980-\u09FF\u0600-\u06FF]+/g, "-")
-      .replace(/-+/g, "-")
-      .replace(/^-|-$/g, ""),
-    type: entity.type,
-    label_en: entity.label_en,
-    label_ar: entity.label_ar,
-    label_bn: entity.label_bn
-  }));
-
-// Connected Story Narrative Arcs & Episodes
-const connectedStories = (storiesData as any[])
-  .map((story) => {
-    const matchedEpisodes = (story.episodes || []).filter((ep: any) => {
-      const [sPart, aPart] = (ep.ayat || "").split(":");
-      if (Number(sPart) !== sId) return false;
-      if (aPart.includes("-")) {
-        const [start, end] = aPart.split("-").map(Number);
-        return aNum >= start && aNum <= end;
-      }
-      return Number(aPart) === aNum;
-    });
-    if (matchedEpisodes.length > 0) {
-      return {
-        storyId: story.id,
-        slug: story.id.replace("story-", ""),
-        title_en: story.title_en,
-        title_bn: story.title_bn,
-        episodes: matchedEpisodes
-      };
-    }
-    return null;
-  })
-  .filter(Boolean);
+const subgraph = extractAyahSubgraph(refKey, explanation);
+const { connectedEntities, connectedStories } = subgraph;
 
 const prevAyah = aNum > 1 ? aNum - 1 : null;
 const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
@@ -134,11 +94,13 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
             </div>
           </div>
           <div style="display: flex; gap: 0.5rem; align-items: center;">
-            <button id="ayah-copy-btn" class="btn-icon" style="font-size: 0.82rem;" title="Copy verse text and citation" aria-label="Copy verse text">
-              📋 Copy
+            <button id="ayah-copy-btn" class="btn-action btn-action-sm" title="Copy verse text and citation" aria-label="Copy verse text">
+              <svg class="icon-svg" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+              <span>Copy</span>
             </button>
-            <button id="ayah-bookmark-btn" class="btn-icon" style="font-size: 0.82rem;" title="Save as last read verse" aria-label="Bookmark verse">
-              🔖 Bookmark
+            <button id="ayah-bookmark-btn" class="btn-action btn-action-sm" title="Save as last read verse" aria-label="Bookmark verse">
+              <svg class="icon-svg" viewBox="0 0 24 24"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+              <span>Bookmark</span>
             </button>
           </div>
         </header>
@@ -190,15 +152,18 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
         </div>
       </article>
 
-      <!-- Connected Knowledge Graph Entities -->
+      <!-- Interactive Ayah Knowledge & Storyline Visualizer -->
+      <AyahContextGraph subgraph={subgraph} />
+
+      <!-- Connected Knowledge Graph Entities Quick Bar -->
       {connectedEntities.length > 0 && (
         <section class="card" style="margin-bottom: 2rem; border-left: 4px solid var(--accent-teal);">
           <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem; flex-wrap: wrap; gap: 0.5rem;">
             <h2 style="font-size: 1.15rem; font-weight: 700; color: var(--text-main); display: flex; align-items: center; gap: 0.5rem; margin: 0;">
               <span>🕸️</span> Connected Entities & Figures ({connectedEntities.length})
             </h2>
-            <a href="/graph" style="font-size: 0.8rem; color: var(--accent-teal); text-decoration: none; font-weight: 600;">
-              Graph Network →
+            <a href={`/graph?ref=${refKey}`} style="font-size: 0.8rem; color: var(--accent-teal); text-decoration: none; font-weight: 600;">
+              Open {refKey} in Full Graph Explorer →
             </a>
           </div>
           <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem;">
@@ -435,13 +400,24 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
       }));
     } catch (e) {}
 
+    const COPY_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>';
+    const CHECK_SVG = '<svg class="icon-svg" viewBox="0 0 24 24" style="stroke: #10b981;"><polyline points="20 6 9 17 4 12"></polyline></svg>';
+    const BM_OUTLINE_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>';
+    const BM_FILLED_SVG = '<svg class="icon-svg" viewBox="0 0 24 24" style="fill: var(--accent-gold); stroke: var(--accent-gold);"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>';
+
     const copyBtn = document.getElementById("ayah-copy-btn");
     copyBtn?.addEventListener("click", () => {
       const text = `Surah ${surahName} (${sId}:${aNum})\n\n${arText}\n\nEnglish: ${enText}\n\nবাংলা: ${bnText}\n\nhttps://qurangraph.com/ayah/${sId}/${aNum}`;
       navigator.clipboard.writeText(text).then(() => {
-        copyBtn.textContent = "✓ Copied!";
+        const svg = copyBtn.querySelector("svg");
+        const span = copyBtn.querySelector("span");
+        if (svg) svg.outerHTML = CHECK_SVG;
+        if (span) span.textContent = "Copied!";
+        (window as any).showQgToast?.(`Ayah ${sId}:${aNum} copied to clipboard`);
         setTimeout(() => {
-          copyBtn.textContent = "📋 Copy";
+          const curSvg = copyBtn.querySelector("svg");
+          if (curSvg) curSvg.outerHTML = COPY_SVG;
+          if (span) span.textContent = "Copy";
         }, 2000);
       }).catch(console.error);
     });
@@ -455,9 +431,15 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
           name: surahName,
           timestamp: Date.now()
         }));
-        bmBtn.textContent = "✓ Bookmarked!";
+        const svg = bmBtn.querySelector("svg");
+        const span = bmBtn.querySelector("span");
+        if (svg) svg.outerHTML = BM_FILLED_SVG;
+        if (span) span.textContent = "Bookmarked!";
+        (window as any).showQgToast?.(`Bookmarked Ayah ${sId}:${aNum} as last read`);
         setTimeout(() => {
-          bmBtn.textContent = "🔖 Bookmark";
+          const curSvg = bmBtn.querySelector("svg");
+          if (curSvg) curSvg.outerHTML = BM_OUTLINE_SVG;
+          if (span) span.textContent = "Bookmark";
         }, 2000);
       } catch (e) {}
     });

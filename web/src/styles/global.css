@@ -252,6 +252,140 @@ a:hover {
   text-decoration: none;
 }
 
+/* Unified Action Button System */
+.btn-action {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  color: var(--text-main);
+  border-radius: var(--radius-sm);
+  padding: 0.45rem 0.85rem;
+  min-height: 38px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  line-height: 1;
+  text-decoration: none;
+  transition: background-color 0.15s ease, border-color 0.15s ease, transform 0.12s ease, box-shadow 0.15s ease, color 0.15s ease;
+  box-shadow: var(--shadow-sm);
+  user-select: none;
+}
+
+.btn-action:hover {
+  background: var(--bg-subtle);
+  border-color: var(--accent-teal);
+  color: var(--accent-teal);
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+  text-decoration: none;
+}
+
+.btn-action:active {
+  transform: translateY(0);
+  box-shadow: var(--shadow-sm);
+}
+
+.btn-action-primary {
+  background: var(--btn-primary-bg);
+  color: var(--btn-primary-text) !important;
+  border-color: var(--btn-primary-bg);
+  font-weight: 700;
+  box-shadow: 0 2px 8px rgba(15, 118, 110, 0.25);
+}
+
+.btn-action-primary:hover {
+  background: var(--btn-primary-hover);
+  border-color: var(--btn-primary-hover);
+  color: var(--btn-primary-text) !important;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 14px rgba(15, 118, 110, 0.35);
+  text-decoration: none;
+}
+
+.btn-action-ghost {
+  background: transparent;
+  border-color: transparent;
+  box-shadow: none;
+}
+
+.btn-action-ghost:hover {
+  background: var(--bg-subtle);
+  border-color: var(--border-color);
+}
+
+.btn-action-sm {
+  padding: 0.35rem 0.65rem;
+  min-height: 32px;
+  font-size: 0.8rem;
+}
+
+.btn-action-icon {
+  padding: 0.45rem;
+  min-width: 38px;
+  min-height: 38px;
+  justify-content: center;
+}
+
+/* SVG Icon Standards */
+.icon-svg {
+  width: 16px;
+  height: 16px;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+  vertical-align: middle;
+  flex-shrink: 0;
+  display: inline-block;
+}
+
+.icon-svg-sm {
+  width: 14px;
+  height: 14px;
+}
+
+.icon-svg-lg {
+  width: 20px;
+  height: 20px;
+}
+
+/* Toast Notification */
+.qg-toast {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  background: var(--text-main);
+  color: var(--bg-surface);
+  padding: 0.65rem 1.15rem;
+  border-radius: 9999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+  z-index: 10000;
+  pointer-events: none;
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.qg-toast.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.qg-toast svg {
+  stroke: #10b981;
+  width: 18px;
+  height: 18px;
+}
+
 .font-scale-control {
   display: inline-flex;
   align-items: center;

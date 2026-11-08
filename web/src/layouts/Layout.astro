@@ -185,6 +185,27 @@ const {
           }
         }
       } catch (err) {}
+
+      // Global Toast Notification Helper
+      window.showQgToast = function(msg, duration = 2200) {
+        const toast = document.getElementById("qg-toast");
+        const msgEl = document.getElementById("qg-toast-msg");
+        if (!toast || !msgEl) return;
+        msgEl.textContent = msg || "Copied to clipboard";
+        toast.style.display = "flex";
+        requestAnimationFrame(() => toast.classList.add("visible"));
+        clearTimeout(toast._timer);
+        toast._timer = setTimeout(() => {
+          toast.classList.remove("visible");
+          setTimeout(() => { toast.style.display = "none"; }, 220);
+        }, duration);
+      };
     </script>
+
+    <!-- Global Floating Toast Notification -->
+    <div id="qg-toast" role="status" aria-live="polite" class="qg-toast" style="display: none;">
+      <svg class="icon-svg" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+      <span id="qg-toast-msg">Copied to clipboard</span>
+    </div>
   </body>
 </html>

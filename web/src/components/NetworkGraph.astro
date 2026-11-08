@@ -1,40 +1,221 @@
 ---
-import graphSummary from "../../../ingest/work/export/graph/summary.json" with { type: "json" };
+import { getMacroGraph, entityIdToSlug, NODE_PALETTE } from "../lib/graph/subgraph.ts";
 import entitiesData from "../../../ingest/work/export/graph/entities.json" with { type: "json" };
+import storiesData from "../../../ingest/work/export/graph/stories.json" with { type: "json" };
+import surahsData from "../lib/search/surahs.json" with { type: "json" };
+
+const macroData = getMacroGraph();
+
+// Compact entities lookup for client deep-linking (150KB raw, ~28KB gzipped)
+const compactEntities = Object.entries(entitiesData as Record<string, any>).map(([id, e]) => ({
+  id,
+  slug: entityIdToSlug(id),
+  t: e.type || "glossary",
+  en: e.label_en || id,
+  ar: e.label_ar || "",
+  bn: e.label_bn || "",
+  ayat: e.ayat || []
+}));
+
+const compactSurahs = surahsData.map((s) => ({
+  id: s.id,
+  name: s.name_translit,
+  name_ar: s.name_ar,
+  name_bn: s.name_bn
+}));
+
+const graphPayload = JSON.stringify({
+  macro: macroData,
+  entities: compactEntities,
+  stories: storiesData,
+  surahs: compactSurahs
+});
 ---
 
-<div class="network-graph-widget card" style="padding: 1.5rem; margin-bottom: 2.5rem; border-top: 4px solid var(--accent-teal);">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem; flex-wrap: wrap; gap: 0.75rem;">
-    <div>
-      <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.2rem;">Interactive Knowledge Network</h3>
-      <p style="font-size: 0.85rem; color: var(--text-muted); margin: 0;">
-        Drag nodes or tap to explore connected verses and concepts.
-      </p>
+<div class="network-graph-widget card" style="padding: 1.5rem; margin-bottom: 2.5rem; border-top: 4px solid var(--accent-teal); position: relative;">
+  <!-- Graph Top Bar: Search & Jump Input -->
+  <div style="margin-bottom: 1.25rem;">
+    <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.75rem;">
+      <div style="position: relative; flex: 1;">
+        <input
+          type="text"
+          id="graph-jump-input"
+          placeholder="Jump to any verse (2:255), prophet (Yusuf), divine name (Al-Hayy), or story..."
+          aria-label="Search and focus knowledge graph"
+          style="width: 100%; padding: 0.65rem 1rem 0.65rem 2.25rem; border-radius: var(--radius-sm); border: 1.5px solid var(--border-color); background: var(--bg-surface); color: var(--text-main); font-size: 0.95rem; outline: none; transition: border-color 0.2s ease;"
+        />
+        <span style="position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); font-size: 0.95rem; color: var(--text-muted); pointer-events: none;" aria-hidden="true">
+          🔍
+        </span>
+      </div>
+      <button
+        id="graph-jump-btn"
+        class="btn-icon"
+        style="background: var(--accent-teal); color: white; border: none; padding: 0.65rem 1.25rem; border-radius: var(--radius-sm); font-weight: 700; cursor: pointer; font-size: 0.88rem; white-space: nowrap;"
+      >
+        Focus Graph
+      </button>
     </div>
-    <div style="display: flex; gap: 0.4rem; font-size: 0.75rem; flex-wrap: wrap;" id="graph-filters">
-      <button class="graph-filter-btn active" data-type="all" style="background: var(--bg-surface); border: 1px solid var(--accent-teal); color: var(--accent-teal); padding: 0.25rem 0.6rem; border-radius: 9999px; cursor: pointer; font-weight: 600;">All</button>
-      <button class="graph-filter-btn" data-type="name_of_allah" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.6rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #b45309;"></span> Divine Names</button>
-      <button class="graph-filter-btn" data-type="person" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.6rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #0f766e;"></span> Prophets</button>
-      <button class="graph-filter-btn" data-type="place" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.6rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #2563eb;"></span> Places</button>
-      <button class="graph-filter-btn" data-type="concept" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.6rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #7c3aed;"></span> Concepts</button>
+
+    <!-- Quick Suggestion Pills -->
+    <div style="display: flex; gap: 0.4rem; font-size: 0.78rem; flex-wrap: wrap; align-items: center;">
+      <span style="color: var(--text-muted); font-size: 0.75rem; font-weight: 600;">Deep Links:</span>
+      <button class="graph-quick-link" data-query="2:255" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.2rem 0.55rem; border-radius: 9999px; cursor: pointer;">Ayat al-Kursi (2:255)</button>
+      <button class="graph-quick-link" data-query="12:4" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.2rem 0.55rem; border-radius: 9999px; cursor: pointer;">Yusuf's Dream (12:4)</button>
+      <button class="graph-quick-link" data-query="18:60" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.2rem 0.55rem; border-radius: 9999px; cursor: pointer;">Musa & Khidr (18:60)</button>
+      <button class="graph-quick-link" data-query="1:1" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.2rem 0.55rem; border-radius: 9999px; cursor: pointer;">Al-Fatihah (1:1)</button>
+      <button class="graph-quick-link" data-query="story-yusuf" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.2rem 0.55rem; border-radius: 9999px; cursor: pointer;">Story of Yusuf</button>
+      <button class="graph-quick-link" data-query="person:musa" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.2rem 0.55rem; border-radius: 9999px; cursor: pointer;">Prophet Musa</button>
     </div>
   </div>
 
-  <div style="position: relative; width: 100%; height: 480px; background: var(--bg-subtle); border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--border-color); touch-action: none;">
+  <!-- Active Context Banner (Shown when focused on specific verse/entity/story) -->
+  <div
+    id="graph-focus-banner"
+    style="display: none; background: linear-gradient(135deg, var(--bg-surface) 0%, var(--bg-subtle) 100%); border-left: 4px solid var(--accent-teal); padding: 0.85rem 1.15rem; border-radius: var(--radius-sm); margin-bottom: 1rem; border: 1px solid var(--border-color);"
+  >
+    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.75rem;">
+      <div style="flex: 1; min-width: 200px;">
+        <div style="display: flex; align-items: center; gap: 0.4rem; margin-bottom: 0.2rem;">
+          <span class="badge badge-teal" style="font-size: 0.7rem; font-weight: 700; text-transform: uppercase;" id="focus-type-badge">Context Subgraph</span>
+          <span style="font-size: 0.8rem; color: var(--text-muted);" id="focus-sublabel">Filtered View</span>
+        </div>
+        <div style="font-size: 1.1rem; font-weight: 800; color: var(--text-main);" id="focus-title">
+          Title
+        </div>
+      </div>
+      <div style="display: flex; gap: 0.5rem; align-items: center;">
+        <a
+          id="focus-action-btn"
+          href="#"
+          class="btn-icon"
+          style="background: var(--accent-teal); color: white; border: none; font-size: 0.8rem; font-weight: 700; padding: 0.35rem 0.8rem; border-radius: var(--radius-sm); text-decoration: none;"
+        >
+          Open Page →
+        </a>
+        <button
+          id="focus-reset-btn"
+          class="btn-icon"
+          style="background: var(--bg-surface); border: 1px solid var(--border-color); font-size: 0.8rem; font-weight: 600; padding: 0.35rem 0.8rem; border-radius: var(--radius-sm); cursor: pointer;"
+        >
+          ⟲ Macro View
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Filter Buttons Bar -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.85rem; flex-wrap: wrap; gap: 0.5rem;">
+    <div style="display: flex; gap: 0.4rem; font-size: 0.75rem; flex-wrap: wrap;" id="graph-filters">
+      <button class="graph-filter-btn active" data-type="all" style="background: var(--accent-teal); border: 1px solid var(--accent-teal); color: white; padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 600;">All</button>
+      <button class="graph-filter-btn" data-type="name_of_allah" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #d97706;"></span> Divine Names</button>
+      <button class="graph-filter-btn" data-type="person" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #059669;"></span> Prophets</button>
+      <button class="graph-filter-btn" data-type="place" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #2563eb;"></span> Places</button>
+      <button class="graph-filter-btn" data-type="story,episode" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #ea580c;"></span> Stories</button>
+      <button class="graph-filter-btn" data-type="theme,unseen" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #a855f7;"></span> Concepts & Ghayb</button>
+    </div>
+    <div style="font-size: 0.78rem; color: var(--text-muted);" id="graph-node-count-badge">
+      Displaying {macroData.nodes.length} ontological hubs
+    </div>
+  </div>
+
+  <!-- Interactive Canvas Box -->
+  <div style="position: relative; width: 100%; height: 520px; background: radial-gradient(circle at center, var(--bg-surface) 0%, var(--bg-subtle) 100%); border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--border-color); touch-action: none;">
     <canvas id="graph-canvas" style="width: 100%; height: 100%; display: block; cursor: grab;"></canvas>
-    <div id="graph-tooltip" style="position: absolute; display: none; background: var(--bg-surface); border: 1px solid var(--border-color); padding: 0.5rem 0.75rem; border-radius: 6px; font-size: 0.85rem; pointer-events: none; box-shadow: var(--shadow-md); z-index: 10;"></div>
+
+    <!-- Canvas Navigation Controls -->
+    <div style="position: absolute; bottom: 12px; right: 12px; display: flex; gap: 6px; z-index: 10;">
+      <button id="macro-zoom-in" title="Zoom in" style="width: 32px; height: 32px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-weight: 700; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm);">+</button>
+      <button id="macro-zoom-out" title="Zoom out" style="width: 32px; height: 32px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-weight: 700; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm);">−</button>
+      <button id="macro-zoom-reset" title="Fit view" style="height: 32px; padding: 0 8px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-size: 0.75rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm);">⟲ Fit</button>
+    </div>
+
+    <!-- Floating Node Inspector Drawer -->
+    <div
+      id="graph-drawer"
+      style="position: absolute; top: 12px; right: 12px; width: 270px; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 10px; padding: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,0.18); display: none; z-index: 25; max-height: calc(100% - 24px); overflow-y: auto;"
+    >
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem;">
+        <span class="badge" id="drawer-badge" style="font-size: 0.7rem; font-weight: 700; background: var(--accent-teal); color: white;">
+          Node
+        </span>
+        <button id="drawer-close" style="background: none; border: none; font-size: 1.1rem; color: var(--text-muted); cursor: pointer; line-height: 1;">✕</button>
+      </div>
+      <div id="drawer-title" style="font-size: 1.1rem; font-weight: 800; color: var(--text-main); margin-bottom: 0.2rem;"></div>
+      <div id="drawer-arabic" class="arabic-text" dir="rtl" style="font-size: 1.25rem; color: var(--accent-teal); margin-bottom: 0.5rem;"></div>
+      <p id="drawer-desc" style="font-size: 0.82rem; color: var(--text-muted); margin-bottom: 1rem; line-height: 1.4;"></p>
+      <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+        <button id="drawer-focus-btn" class="btn-icon" style="background: var(--accent-teal); color: white; border: none; padding: 0.45rem; font-size: 0.82rem; font-weight: 700; border-radius: var(--radius-sm); cursor: pointer;">
+          🎯 Focus in Graph
+        </button>
+        <a id="drawer-link-btn" href="#" class="btn-icon" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); text-align: center; text-decoration: none; padding: 0.45rem; font-size: 0.82rem; font-weight: 600; border-radius: var(--radius-sm);">
+          Open Dedicated Page →
+        </a>
+      </div>
+    </div>
+
+    <!-- Node Hover Tooltip -->
+    <div id="graph-tooltip" style="position: absolute; display: none; background: var(--bg-surface); border: 1px solid var(--border-color); padding: 0.5rem 0.75rem; border-radius: 6px; font-size: 0.85rem; pointer-events: none; box-shadow: var(--shadow-md); z-index: 20;"></div>
   </div>
 </div>
 
-<script is:inline>
-  const canvas = document.getElementById("graph-canvas");
-  const tooltip = document.getElementById("graph-tooltip");
+<script type="application/json" id="macro-graph-store" set:html={graphPayload}></script>
 
-  if (canvas) {
+<script is:inline>
+  (function () {
+    const storeEl = document.getElementById("macro-graph-store");
+    const canvas = document.getElementById("graph-canvas");
+    if (!storeEl || !canvas) return;
+
+    let store;
+    try {
+      store = JSON.parse(storeEl.textContent || "{}");
+    } catch (e) {
+      return;
+    }
+
     const ctx = canvas.getContext("2d");
+    if (!ctx) return;
+
+    const tooltip = document.getElementById("graph-tooltip");
+    const drawer = document.getElementById("graph-drawer");
+    const drawerClose = document.getElementById("drawer-close");
+    const drawerBadge = document.getElementById("drawer-badge");
+    const drawerTitle = document.getElementById("drawer-title");
+    const drawerArabic = document.getElementById("drawer-arabic");
+    const drawerDesc = document.getElementById("drawer-desc");
+    const drawerFocusBtn = document.getElementById("drawer-focus-btn");
+    const drawerLinkBtn = document.getElementById("drawer-link-btn");
+
+    const focusBanner = document.getElementById("graph-focus-banner");
+    const focusTypeBadge = document.getElementById("focus-type-badge");
+    const focusSublabel = document.getElementById("focus-sublabel");
+    const focusTitle = document.getElementById("focus-title");
+    const focusActionBtn = document.getElementById("focus-action-btn");
+    const focusResetBtn = document.getElementById("focus-reset-btn");
+    const nodeCountBadge = document.getElementById("graph-node-count-badge");
+
+    const jumpInput = document.getElementById("graph-jump-input");
+    const jumpBtn = document.getElementById("graph-jump-btn");
+    const filterContainer = document.getElementById("graph-filters");
+
     let width = 0;
     let height = 0;
     let dpr = window.devicePixelRatio || 1;
+    let zoom = 1.0;
+    let panX = 0;
+    let panY = 0;
+
+    let activeFilter = "all";
+    let draggedNode = null;
+    let hoveredNode = null;
+    let selectedNode = null;
+    let isPanning = false;
+    let startPan = { x: 0, y: 0 };
+    let currentMode = "macro"; // "macro" | "ref" | "entity" | "story"
+
+    let nodes = [];
+    let edges = [];
 
     function resizeCanvas() {
       dpr = window.devicePixelRatio || 1;
@@ -50,66 +231,486 @@ import entitiesData from "../../../ingest/work/export/graph/entities.json" with 
     resizeCanvas();
     window.addEventListener("resize", resizeCanvas);
 
-    const NODES = [
-      { id: "allah", label: "Allah (الله)", type: "name_of_allah", color: "#b45309", r: 24, x: width / 2, y: height / 2, vx: 0, vy: 0 },
-      { id: "ar-rahman", label: "Ar-Rahman", type: "name_of_allah", color: "#b45309", r: 16, x: width / 2 - 80, y: height / 2 - 60, vx: 0, vy: 0 },
-      { id: "ar-rahim", label: "Ar-Rahim", type: "name_of_allah", color: "#b45309", r: 16, x: width / 2 + 80, y: height / 2 - 60, vx: 0, vy: 0 },
-      { id: "muhammad", label: "Prophet Muhammad ﷺ", type: "person", color: "#0f766e", r: 20, x: width / 2, y: height / 2 + 100, vx: 0, vy: 0 },
-      { id: "ibrahim", label: "Ibrahim (Abraham)", type: "person", color: "#0f766e", r: 18, x: width / 2 - 140, y: height / 2 + 70, vx: 0, vy: 0 },
-      { id: "musa", label: "Musa (Moses)", type: "person", color: "#0f766e", r: 18, x: width / 2 + 140, y: height / 2 + 70, vx: 0, vy: 0 },
-      { id: "yusuf", label: "Yusuf (Joseph)", type: "person", color: "#0f766e", r: 16, x: width / 2 - 180, y: height / 2 - 40, vx: 0, vy: 0 },
-      { id: "isa", label: "Isa (Jesus)", type: "person", color: "#0f766e", r: 16, x: width / 2 + 180, y: height / 2 - 40, vx: 0, vy: 0 },
-      { id: "makkah", label: "Makkah", type: "place", color: "#2563eb", r: 14, x: width / 2 - 60, y: height / 2 + 170, vx: 0, vy: 0 },
-      { id: "kaabah", label: "The Ka'bah", type: "place", color: "#2563eb", r: 14, x: width / 2 - 120, y: height / 2 + 160, vx: 0, vy: 0 },
-      { id: "tur-sina", label: "Mount Sinai", type: "place", color: "#2563eb", r: 13, x: width / 2 + 160, y: height / 2 + 150, vx: 0, vy: 0 },
-      { id: "tawhid", label: "Tawhid (Oneness)", type: "concept", color: "#7c3aed", r: 17, x: width / 2, y: height / 2 - 140, vx: 0, vy: 0 },
-      { id: "sabr", label: "Sabr (Patience)", type: "concept", color: "#7c3aed", r: 15, x: width / 2 - 150, y: height / 2 - 120, vx: 0, vy: 0 },
-      { id: "akhirah", label: "Akhirah (Hereafter)", type: "concept", color: "#7c3aed", r: 15, x: width / 2 + 150, y: height / 2 - 120, vx: 0, vy: 0 }
-    ];
+    // Load macro network
+    function loadMacroGraph() {
+      currentMode = "macro";
+      if (focusBanner) focusBanner.style.display = "none";
+      if (drawer) drawer.style.display = "none";
 
-    const EDGES = [
-      { u: 0, v: 1 }, { u: 0, v: 2 }, { u: 0, v: 11 }, { u: 0, v: 3 },
-      { u: 3, v: 8 }, { u: 3, v: 9 }, { u: 4, v: 9 }, { u: 4, v: 6 },
-      { u: 5, v: 10 }, { u: 5, v: 12 }, { u: 11, v: 12 }, { u: 11, v: 13 },
-      { u: 3, v: 4 }, { u: 3, v: 5 }, { u: 5, v: 7 }
-    ];
+      const macro = store.macro;
+      const nodeMap = new Map();
 
-    let draggedNode = null;
-    let hoveredNode = null;
-    let activeType = "all";
-    let touchStartTime = 0;
-    let touchStartPos = { x: 0, y: 0 };
+      nodes = (macro.nodes || []).map((n, i) => {
+        const copy = {
+          ...n,
+          index: i,
+          x: width / 2 + (Math.random() - 0.5) * 350,
+          y: height / 2 + (Math.random() - 0.5) * 260,
+          vx: 0,
+          vy: 0,
+          r: n.radius || 20
+        };
+        nodeMap.set(n.id, copy);
+        return copy;
+      });
 
-    // Filter pill interactions
-    const filterButtons = document.querySelectorAll(".graph-filter-btn");
-    filterButtons.forEach((btn) => {
-      btn.addEventListener("click", () => {
-        activeType = btn.getAttribute("data-type") || "all";
-        filterButtons.forEach((b) => {
-          const isActive = b === btn;
-          b.style.borderColor = isActive ? "var(--accent-teal)" : "var(--border-color)";
-          b.style.color = isActive ? "var(--accent-teal)" : "var(--text-main)";
-          b.style.background = isActive ? "var(--bg-surface)" : "var(--bg-subtle)";
+      edges = [];
+      for (const e of macro.edges || []) {
+        const src = nodeMap.get(e.source);
+        const tgt = nodeMap.get(e.target);
+        if (src && tgt) {
+          edges.push({
+            source: src,
+            target: tgt,
+            type: e.type,
+            label: e.label || ""
+          });
+        }
+      }
+
+      panX = 0;
+      panY = 0;
+      zoom = 1.0;
+      updateCountBadge();
+    }
+
+    // Load Verse Subgraph for reference (e.g. "2:255")
+    function loadAyahSubgraph(ref) {
+      currentMode = "ref";
+      const parts = ref.split(":");
+      const sId = parseInt(parts[0], 10);
+      const aNum = parseInt(parts[1], 10);
+      const surah = store.surahs?.find((s) => s.id === sId) || { name: `Surah ${sId}` };
+
+      // Find matching entities
+      const matchedEnts = store.entities?.filter((e) => e.ayat && e.ayat.includes(ref)) || [];
+
+      // Find matching stories
+      const matchedStories = [];
+      for (const s of store.stories || []) {
+        const matchedEps = (s.episodes || []).filter((ep) => {
+          const [sp, ap] = (ep.ayat || "").split(":");
+          if (parseInt(sp, 10) === sId) {
+            if (ap.includes("-")) {
+              const [st, en] = ap.split("-").map(Number);
+              return aNum >= st && aNum <= en;
+            }
+            return parseInt(ap, 10) === aNum;
+          }
+          return false;
         });
+        if (matchedEps.length) {
+          matchedStories.push({ story: s, episodes: matchedEps });
+        }
+      }
+
+      // Build graph
+      const newNodes = [];
+      const newEdges = [];
+      const centerNode = {
+        id: `ayah:${ref}`,
+        label: `${surah.name} ${ref}`,
+        sublabel: "Center Verse",
+        type: "ayah",
+        color: "#0f766e",
+        r: 28,
+        x: width / 2,
+        y: height / 2,
+        vx: 0,
+        vy: 0,
+        isCenter: true,
+        url: `/ayah/${sId}/${aNum}`
+      };
+      newNodes.push(centerNode);
+
+      // Add entities
+      matchedEnts.forEach((ent, i) => {
+        const angle = (i / Math.max(1, matchedEnts.length)) * Math.PI * 2;
+        const dist = 110 + (i % 2) * 20;
+        const color = ent.t === "name_of_allah" ? "#d97706" : ent.t === "person" ? "#059669" : ent.t === "place" ? "#2563eb" : "#7c3aed";
+        const eNode = {
+          id: ent.id,
+          label: ent.en,
+          label_ar: ent.ar,
+          label_bn: ent.bn,
+          sublabel: ent.t.replace(/_/g, " ").toUpperCase(),
+          type: ent.t,
+          color,
+          r: ent.t === "name_of_allah" ? 22 : 19,
+          x: width / 2 + Math.cos(angle) * dist,
+          y: height / 2 + Math.sin(angle) * dist,
+          vx: 0,
+          vy: 0,
+          url: `/entity/${ent.slug}`
+        };
+        newNodes.push(eNode);
+        newEdges.push({ source: centerNode, target: eNode, type: "mentions", label: ent.t });
+      });
+
+      // Add stories
+      matchedStories.forEach((st, idx) => {
+        const sNode = {
+          id: st.story.id,
+          label: st.story.title_en,
+          sublabel: "Quranic Story Arc",
+          type: "story",
+          color: "#f59e0b",
+          r: 24,
+          x: width / 2 - 160,
+          y: height / 2 - 80,
+          vx: 0,
+          vy: 0,
+          url: `/story/${st.story.id.replace('story-', '')}`
+        };
+        newNodes.push(sNode);
+        newEdges.push({ source: centerNode, target: sNode, type: "story_arc", label: "Story Arc" });
+
+        st.episodes.forEach((ep) => {
+          const epNode = {
+            id: `episode:${ep.id}`,
+            label: ep.title_en,
+            sublabel: `Episode (${ep.ayat})`,
+            type: "episode",
+            color: "#ea580c",
+            r: 18,
+            x: width / 2 - 220,
+            y: height / 2 - 20,
+            vx: 0,
+            vy: 0,
+            url: `/story/${st.story.id.replace('story-', '')}`
+          };
+          newNodes.push(epNode);
+          newEdges.push({ source: sNode, target: epNode, type: "has_episode", label: "Episode" });
+          newEdges.push({ source: centerNode, target: epNode, type: "in_episode", label: "Current Scene" });
+        });
+      });
+
+      nodes = newNodes;
+      edges = newEdges;
+      panX = 0;
+      panY = 0;
+      zoom = 1.0;
+
+      // Update banner
+      if (focusBanner) {
+        focusBanner.style.display = "block";
+        focusTypeBadge.textContent = "Verse Subgraph";
+        focusSublabel.textContent = `${matchedEnts.length} Entities · ${matchedStories.length} Stories`;
+        focusTitle.textContent = `${surah.name} (${ref})`;
+        focusActionBtn.href = `/ayah/${sId}/${aNum}`;
+        focusActionBtn.textContent = `Open Ayah ${ref} Page →`;
+      }
+      updateCountBadge();
+    }
+
+    // Load Entity Subgraph
+    function loadEntitySubgraph(entityQuery) {
+      currentMode = "entity";
+      const clean = entityQuery.toLowerCase().replace(/^(person|place|name_of_allah|unseen|nation|glossary)[:\-]/, "").trim();
+      const ent = store.entities?.find((e) =>
+        e.id.toLowerCase() === entityQuery.toLowerCase() ||
+        e.slug.toLowerCase() === entityQuery.toLowerCase() ||
+        e.en.toLowerCase().includes(clean)
+      );
+
+      if (!ent) return loadMacroGraph();
+
+      const newNodes = [];
+      const newEdges = [];
+
+      const color = ent.t === "name_of_allah" ? "#d97706" : ent.t === "person" ? "#059669" : ent.t === "place" ? "#2563eb" : "#7c3aed";
+      const centerNode = {
+        id: ent.id,
+        label: ent.en,
+        label_ar: ent.ar,
+        label_bn: ent.bn,
+        sublabel: `${ent.t.replace(/_/g, " ").toUpperCase()} (${ent.ayat.length} verses)`,
+        type: ent.t,
+        color,
+        r: 30,
+        x: width / 2,
+        y: height / 2,
+        vx: 0,
+        vy: 0,
+        isCenter: true,
+        url: `/entity/${ent.slug}`
+      };
+      newNodes.push(centerNode);
+
+      // Connected Ayat
+      const sampleAyat = (ent.ayat || []).slice(0, 10);
+      sampleAyat.forEach((ref, i) => {
+        const [sPart, aPart] = ref.split(":");
+        const sId = parseInt(sPart, 10);
+        const surah = store.surahs?.find((s) => s.id === sId) || { name: `Surah ${sId}` };
+        const angle = (i / sampleAyat.length) * Math.PI * 2;
+        const dist = 120 + (i % 2) * 20;
+
+        const aNode = {
+          id: `ayah:${ref}`,
+          label: `${surah.name} ${ref}`,
+          sublabel: "Mentioned Verse",
+          type: "ayah",
+          color: "#0f766e",
+          r: 18,
+          x: width / 2 + Math.cos(angle) * dist,
+          y: height / 2 + Math.sin(angle) * dist,
+          vx: 0,
+          vy: 0,
+          url: `/ayah/${sPart}/${aPart}`
+        };
+        newNodes.push(aNode);
+        newEdges.push({ source: centerNode, target: aNode, type: "mentions_in", label: "Appears In" });
+      });
+
+      nodes = newNodes;
+      edges = newEdges;
+      panX = 0;
+      panY = 0;
+      zoom = 1.0;
+
+      if (focusBanner) {
+        focusBanner.style.display = "block";
+        focusTypeBadge.textContent = "Entity Subgraph";
+        focusSublabel.textContent = `${ent.t.toUpperCase()} · ${ent.ayat.length} Verses`;
+        focusTitle.textContent = ent.en + (ent.ar ? ` (${ent.ar})` : "");
+        focusActionBtn.href = `/entity/${ent.slug}`;
+        focusActionBtn.textContent = `Open Entity Page →`;
+      }
+      updateCountBadge();
+    }
+
+    // Load Story Subgraph
+    function loadStorySubgraph(storyQuery) {
+      currentMode = "story";
+      const clean = storyQuery.toLowerCase().replace(/^story-/, "").trim();
+      const story = store.stories?.find((s) =>
+        s.id.toLowerCase() === storyQuery.toLowerCase() ||
+        s.id.replace("story-", "").toLowerCase() === clean ||
+        s.title_en.toLowerCase().includes(clean)
+      );
+
+      if (!story) return loadMacroGraph();
+
+      const newNodes = [];
+      const newEdges = [];
+
+      const centerNode = {
+        id: story.id,
+        label: story.title_en,
+        label_bn: story.title_bn,
+        sublabel: "Quranic Narrative Arc",
+        type: "story",
+        color: "#f59e0b",
+        r: 30,
+        x: width / 2,
+        y: height / 2,
+        vx: 0,
+        vy: 0,
+        isCenter: true,
+        url: `/story/${story.id.replace('story-', '')}`
+      };
+      newNodes.push(centerNode);
+
+      const episodes = story.episodes || [];
+      let prevEp = null;
+
+      episodes.forEach((ep, i) => {
+        const angle = (i / episodes.length) * Math.PI * 2;
+        const dist = 130;
+        const epNode = {
+          id: `episode:${ep.id}`,
+          label: `${i + 1}. ${ep.title_en}`,
+          sublabel: `Ayat ${ep.ayat}`,
+          type: "episode",
+          color: "#ea580c",
+          r: 19,
+          x: width / 2 + Math.cos(angle) * dist,
+          y: height / 2 + Math.sin(angle) * dist,
+          vx: 0,
+          vy: 0,
+          url: `/story/${story.id.replace('story-', '')}`
+        };
+        newNodes.push(epNode);
+        newEdges.push({ source: centerNode, target: epNode, type: "has_act", label: `Act ${i + 1}` });
+
+        if (prevEp) {
+          newEdges.push({ source: prevEp, target: epNode, type: "leads_to", label: "Next" });
+        }
+        prevEp = epNode;
+      });
+
+      nodes = newNodes;
+      edges = newEdges;
+      panX = 0;
+      panY = 0;
+      zoom = 1.0;
+
+      if (focusBanner) {
+        focusBanner.style.display = "block";
+        focusTypeBadge.textContent = "Narrative Story Arc";
+        focusSublabel.textContent = `${episodes.length} Chronological Episodes`;
+        focusTitle.textContent = story.title_en;
+        focusActionBtn.href = `/story/${story.id.replace('story-', '')}`;
+        focusActionBtn.textContent = `Open Story Page →`;
+      }
+      updateCountBadge();
+    }
+
+    function updateCountBadge() {
+      if (nodeCountBadge) {
+        nodeCountBadge.textContent = `Displaying ${nodes.length} nodes · ${edges.length} edges`;
+      }
+    }
+
+    // Process Query Parameters on Load
+    function parseUrlParams() {
+      const params = new URLSearchParams(window.location.search);
+      const ref = params.get("ref");
+      const entity = params.get("entity");
+      const story = params.get("story");
+      const q = params.get("q");
+
+      if (ref) {
+        loadAyahSubgraph(ref);
+      } else if (entity) {
+        loadEntitySubgraph(entity);
+      } else if (story) {
+        loadStorySubgraph(story);
+      } else if (q) {
+        handleSearchJump(q);
+      } else {
+        loadMacroGraph();
+      }
+    }
+
+    function handleSearchJump(rawVal) {
+      const val = rawVal.trim();
+      if (!val) return;
+
+      // Check if reference e.g. 2:255
+      if (/^\d{1,3}:\d{1,3}$/.test(val)) {
+        window.history.pushState(null, "", `/graph?ref=${val}`);
+        loadAyahSubgraph(val);
+        return;
+      }
+
+      // Check if story
+      if (val.toLowerCase().includes("story") || val.toLowerCase().startsWith("story-")) {
+        window.history.pushState(null, "", `/graph?story=${encodeURIComponent(val)}`);
+        loadStorySubgraph(val);
+        return;
+      }
+
+      // Try entity search
+      const ent = store.entities?.find((e) =>
+        e.en.toLowerCase().includes(val.toLowerCase()) ||
+        e.id.toLowerCase().includes(val.toLowerCase()) ||
+        (e.ar && e.ar.includes(val))
+      );
+      if (ent) {
+        window.history.pushState(null, "", `/graph?entity=${encodeURIComponent(ent.id)}`);
+        loadEntitySubgraph(ent.id);
+        return;
+      }
+
+      // Default try ayah reference or reload
+      loadMacroGraph();
+    }
+
+    jumpBtn?.addEventListener("click", () => {
+      if (jumpInput) handleSearchJump(jumpInput.value);
+    });
+
+    jumpInput?.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") {
+        handleSearchJump(jumpInput.value);
+      }
+    });
+
+    // Quick deep link buttons
+    document.querySelectorAll(".graph-quick-link").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const q = btn.getAttribute("data-query");
+        if (q) handleSearchJump(q);
       });
     });
 
+    focusResetBtn?.addEventListener("click", () => {
+      window.history.pushState(null, "", "/graph");
+      loadMacroGraph();
+    });
+
+    // Filter pill buttons
+    if (filterContainer) {
+      const filterBtns = filterContainer.querySelectorAll(".graph-filter-btn");
+      filterBtns.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          activeFilter = btn.getAttribute("data-type") || "all";
+          filterBtns.forEach((b) => {
+            const isActive = b === btn;
+            b.classList.toggle("active", isActive);
+            b.style.background = isActive ? "var(--accent-teal)" : "var(--bg-subtle)";
+            b.style.color = isActive ? "white" : "var(--text-main)";
+            b.style.borderColor = isActive ? "var(--accent-teal)" : "var(--border-color)";
+          });
+        });
+      });
+    }
+
+    // Zoom buttons
+    document.getElementById("macro-zoom-in")?.addEventListener("click", () => { zoom = Math.min(2.5, zoom * 1.25); });
+    document.getElementById("macro-zoom-out")?.addEventListener("click", () => { zoom = Math.max(0.4, zoom / 1.25); });
+    document.getElementById("macro-zoom-reset")?.addEventListener("click", () => {
+      panX = 0; panY = 0; zoom = 1.0;
+    });
+
+    // Node drawer close
+    drawerClose?.addEventListener("click", () => {
+      if (drawer) drawer.style.display = "none";
+    });
+
+    drawerFocusBtn?.addEventListener("click", () => {
+      if (selectedNode) {
+        if (selectedNode.type === "ayah") {
+          const ref = selectedNode.label.split(" ").pop();
+          window.history.pushState(null, "", `/graph?ref=${ref}`);
+          loadAyahSubgraph(ref);
+        } else if (selectedNode.type === "story") {
+          window.history.pushState(null, "", `/graph?story=${selectedNode.id}`);
+          loadStorySubgraph(selectedNode.id);
+        } else {
+          window.history.pushState(null, "", `/graph?entity=${selectedNode.id}`);
+          loadEntitySubgraph(selectedNode.id);
+        }
+      }
+    });
+
     // Pointer helper
-    function getPointerPos(e) {
+    function getPointerWorldPos(e) {
       const rect = canvas.getBoundingClientRect();
       const clientX = e.touches ? e.touches[0].clientX : e.clientX;
       const clientY = e.touches ? e.touches[0].clientY : e.clientY;
-      return {
-        x: clientX - rect.left,
-        y: clientY - rect.top
-      };
+      const sx = clientX - rect.left;
+      const sy = clientY - rect.top;
+      const wx = (sx - width / 2 - panX) / zoom + width / 2;
+      const wy = (sy - height / 2 - panY) / zoom + height / 2;
+      return { wx, wy, sx, sy };
     }
 
-    function findNodeAt(x, y, radiusBoost = 1) {
-      for (const n of NODES) {
-        const dx = n.x - x;
-        const dy = n.y - y;
-        if (dx * dx + dy * dy < n.r * n.r * radiusBoost) {
+    function isNodeVisible(n) {
+      if (activeFilter === "all" || n.isCenter) return true;
+      const filterTypes = activeFilter.split(",");
+      return filterTypes.includes(n.type);
+    }
+
+    function findNodeAt(wx, wy, radiusMult = 1.2) {
+      for (let i = nodes.length - 1; i >= 0; i--) {
+        const n = nodes[i];
+        if (!isNodeVisible(n)) continue;
+        const dx = n.x - wx;
+        const dy = n.y - wy;
+        if (dx * dx + dy * dy < n.r * n.r * radiusMult * radiusMult) {
           return n;
         }
       }
@@ -118,160 +719,232 @@ import entitiesData from "../../../ingest/work/export/graph/entities.json" with 
 
     // Mouse handlers
     canvas.addEventListener("mousedown", (e) => {
-      const pos = getPointerPos(e);
-      draggedNode = findNodeAt(pos.x, pos.y);
+      const pos = getPointerWorldPos(e);
+      draggedNode = findNodeAt(pos.wx, pos.wy);
       if (draggedNode) {
         canvas.style.cursor = "grabbing";
+      } else {
+        isPanning = true;
+        startPan = { x: pos.sx - panX, y: pos.sy - panY };
+        canvas.style.cursor = "move";
       }
     });
 
     window.addEventListener("mousemove", (e) => {
-      const pos = getPointerPos(e);
+      const pos = getPointerWorldPos(e);
       if (draggedNode) {
-        draggedNode.x = pos.x;
-        draggedNode.y = pos.y;
+        draggedNode.x = pos.wx;
+        draggedNode.y = pos.wy;
+        draggedNode.vx = 0;
+        draggedNode.vy = 0;
+      } else if (isPanning) {
+        panX = pos.sx - startPan.x;
+        panY = pos.sy - startPan.y;
       }
 
-      hoveredNode = findNodeAt(pos.x, pos.y);
+      hoveredNode = findNodeAt(pos.wx, pos.wy);
       if (hoveredNode && tooltip) {
         tooltip.style.display = "block";
-        tooltip.style.left = pos.x + 15 + "px";
-        tooltip.style.top = pos.y - 10 + "px";
-        tooltip.innerHTML = `<strong>${hoveredNode.label}</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">Click to search verses</span>`;
+        tooltip.style.left = Math.min(width - 200, Math.max(10, pos.sx + 15)) + "px";
+        tooltip.style.top = Math.min(height - 80, Math.max(10, pos.sy - 15)) + "px";
+        tooltip.innerHTML = `<strong>${hoveredNode.label}</strong><br><span style="color:var(--text-muted);font-size:0.75rem;">${hoveredNode.sublabel || 'Click to inspect'}</span>`;
         canvas.style.cursor = "pointer";
       } else {
-        if (tooltip) tooltip.style.display = "none";
-        canvas.style.cursor = draggedNode ? "grabbing" : "grab";
+        if (tooltip && !draggedNode) tooltip.style.display = "none";
+        canvas.style.cursor = draggedNode ? "grabbing" : isPanning ? "move" : "grab";
       }
     });
 
     window.addEventListener("mouseup", () => {
-      if (draggedNode) {
-        draggedNode = null;
-        canvas.style.cursor = "grab";
-      }
+      draggedNode = null;
+      isPanning = false;
+      canvas.style.cursor = "grab";
     });
 
+    // Click handler to open Drawer
     canvas.addEventListener("click", () => {
       if (hoveredNode) {
-        window.location.href = `/search?q=${encodeURIComponent(hoveredNode.label.split(" (")[0])}`;
+        selectedNode = hoveredNode;
+        if (drawer) {
+          drawer.style.display = "block";
+          drawerBadge.textContent = selectedNode.sublabel || selectedNode.type;
+          drawerBadge.style.background = selectedNode.color || "var(--accent-teal)";
+          drawerTitle.textContent = selectedNode.label;
+          drawerArabic.textContent = selectedNode.label_ar || "";
+          drawerDesc.textContent = selectedNode.sublabel ? `Ontological element: ${selectedNode.sublabel}` : "Explore relationships and verses.";
+          drawerLinkBtn.href = selectedNode.url || `/search?q=${encodeURIComponent(selectedNode.label)}`;
+        }
       }
     });
 
-    // Mobile Touch Handlers
+    // Touch support
+    let touchStartTime = 0;
     canvas.addEventListener("touchstart", (e) => {
       if (!e.touches.length) return;
-      const pos = getPointerPos(e);
       touchStartTime = Date.now();
-      touchStartPos = { x: pos.x, y: pos.y };
-      draggedNode = findNodeAt(pos.x, pos.y, 2.5); // generous touch area
-      if (draggedNode) {
-        e.preventDefault();
+      const pos = getPointerWorldPos(e);
+      draggedNode = findNodeAt(pos.wx, pos.wy, 2.0);
+      if (!draggedNode) {
+        isPanning = true;
+        startPan = { x: pos.sx - panX, y: pos.sy - panY };
       }
-    }, { passive: false });
+    }, { passive: true });
 
     window.addEventListener("touchmove", (e) => {
-      if (!draggedNode || !e.touches.length) return;
-      const pos = getPointerPos(e);
-      draggedNode.x = pos.x;
-      draggedNode.y = pos.y;
-      e.preventDefault();
-    }, { passive: false });
-
-    window.addEventListener("touchend", (e) => {
+      if (!draggedNode && !isPanning) return;
+      const pos = getPointerWorldPos(e);
       if (draggedNode) {
-        const timeDiff = Date.now() - touchStartTime;
-        // If it was a quick tap (< 300ms) with minimal movement, navigate!
-        if (timeDiff < 300) {
-          window.location.href = `/search?q=${encodeURIComponent(draggedNode.label.split(" (")[0])}`;
-        }
-        draggedNode = null;
+        draggedNode.x = pos.wx;
+        draggedNode.y = pos.wy;
+      } else if (isPanning) {
+        panX = pos.sx - startPan.x;
+        panY = pos.sy - startPan.y;
       }
+    }, { passive: true });
+
+    window.addEventListener("touchend", () => {
+      const elapsed = Date.now() - touchStartTime;
+      if (draggedNode && elapsed < 300) {
+        selectedNode = draggedNode;
+        if (drawer) {
+          drawer.style.display = "block";
+          drawerBadge.textContent = selectedNode.sublabel || selectedNode.type;
+          drawerTitle.textContent = selectedNode.label;
+          drawerArabic.textContent = selectedNode.label_ar || "";
+          drawerLinkBtn.href = selectedNode.url || "#";
+        }
+      }
+      draggedNode = null;
+      isPanning = false;
     });
 
+    // Physics Loop
     function step() {
-      // Gentle spring simulation
-      for (const e of EDGES) {
-        const n1 = NODES[e.u];
-        const n2 = NODES[e.v];
-        const dx = n2.x - n1.x;
-        const dy = n2.y - n1.y;
+      // Gentle spring physics
+      for (const e of edges) {
+        const u = e.source;
+        const v = e.target;
+        if (!isNodeVisible(u) || !isNodeVisible(v)) continue;
+
+        const dx = v.x - u.x;
+        const dy = v.y - u.y;
         const dist = Math.sqrt(dx * dx + dy * dy) || 1;
-        const targetDist = 90;
-        const force = (dist - targetDist) * 0.003;
+        const targetDist = (u.isCenter || v.isCenter) ? 120 : 95;
+        const force = (dist - targetDist) * 0.0025;
         const fx = (dx / dist) * force;
         const fy = (dy / dist) * force;
-        if (n1 !== draggedNode) { n1.x += fx; n1.y += fy; }
-        if (n2 !== draggedNode) { n2.x -= fx; n2.y -= fy; }
+
+        if (u !== draggedNode && !u.isCenter) { u.vx += fx; u.vy += fy; }
+        if (v !== draggedNode && !v.isCenter) { v.vx -= fx; v.vy -= fy; }
       }
 
       // Repulsion
-      for (let i = 0; i < NODES.length; i++) {
-        for (let j = i + 1; j < NODES.length; j++) {
-          const n1 = NODES[i];
-          const n2 = NODES[j];
-          const dx = n2.x - n1.x;
-          const dy = n2.y - n1.y;
+      for (let i = 0; i < nodes.length; i++) {
+        for (let j = i + 1; j < nodes.length; j++) {
+          const u = nodes[i];
+          const v = nodes[j];
+          if (!isNodeVisible(u) || !isNodeVisible(v)) continue;
+
+          const dx = v.x - u.x;
+          const dy = v.y - u.y;
           const distSq = dx * dx + dy * dy || 1;
-          if (distSq < 18000) {
-            const force = 40 / distSq;
+          if (distSq < 25000) {
+            const force = 140 / distSq;
             const dist = Math.sqrt(distSq);
             const fx = (dx / dist) * force;
             const fy = (dy / dist) * force;
-            if (n1 !== draggedNode) { n1.x -= fx; n1.y -= fy; }
-            if (n2 !== draggedNode) { n2.x += fx; n2.y += fy; }
+            if (u !== draggedNode && !u.isCenter) { u.vx -= fx; u.vy -= fy; }
+            if (v !== draggedNode && !v.isCenter) { v.vx += fx; v.vy += fy; }
           }
         }
       }
 
-      // Render
+      // Damping & Bounds
+      for (const n of nodes) {
+        if (n.isCenter) {
+          n.x = width / 2;
+          n.y = height / 2;
+          continue;
+        }
+        if (n === draggedNode) continue;
+
+        n.vx *= 0.88;
+        n.vy *= 0.88;
+        n.x += n.vx;
+        n.y += n.vy;
+
+        n.x = Math.max(n.r + 20, Math.min(width - n.r - 20, n.x));
+        n.y = Math.max(n.r + 20, Math.min(height - n.r - 20, n.y));
+      }
+
+      render();
+      requestAnimationFrame(step);
+    }
+
+    function render() {
       ctx.clearRect(0, 0, width, height);
 
+      ctx.save();
+      ctx.translate(width / 2 + panX, height / 2 + panY);
+      ctx.scale(zoom, zoom);
+      ctx.translate(-width / 2, -height / 2);
+
       // Edges
-      ctx.strokeStyle = "rgba(150, 160, 175, 0.35)";
-      ctx.lineWidth = 1.5;
-      for (const e of EDGES) {
-        const n1 = NODES[e.u];
-        const n2 = NODES[e.v];
-        const match1 = activeType === "all" || n1.type === activeType;
-        const match2 = activeType === "all" || n2.type === activeType;
-        ctx.strokeStyle = match1 && match2 ? "rgba(150, 160, 175, 0.45)" : "rgba(150, 160, 175, 0.1)";
+      for (const e of edges) {
+        const u = e.source;
+        const v = e.target;
+        if (!isNodeVisible(u) || !isNodeVisible(v)) continue;
+
+        const isHi = hoveredNode && (hoveredNode === u || hoveredNode === v);
         ctx.beginPath();
-        ctx.moveTo(n1.x, n1.y);
-        ctx.lineTo(n2.x, n2.y);
+        ctx.moveTo(u.x, u.y);
+        ctx.lineTo(v.x, v.y);
+        ctx.strokeStyle = isHi ? "rgba(15, 118, 110, 0.85)" : "rgba(180, 190, 205, 0.35)";
+        ctx.lineWidth = isHi ? 2.5 : 1.2;
         ctx.stroke();
       }
 
       // Nodes
-      for (const n of NODES) {
-        const isMatch = activeType === "all" || n.type === activeType;
+      for (const n of nodes) {
+        const visible = isNodeVisible(n);
+        const isHovered = hoveredNode === n;
+        const isSelected = selectedNode === n;
+
         ctx.save();
-        if (!isMatch) {
-          ctx.globalAlpha = 0.25;
+        ctx.globalAlpha = visible ? (hoveredNode ? (isHovered ? 1.0 : 0.3) : 1.0) : 0.08;
+
+        if (n.isCenter) {
+          ctx.beginPath();
+          ctx.arc(n.x, n.y, n.r + 7, 0, Math.PI * 2);
+          ctx.fillStyle = "rgba(15, 118, 110, 0.2)";
+          ctx.fill();
         }
 
         ctx.beginPath();
         ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
-        ctx.fillStyle = n.color;
+        ctx.fillStyle = n.color || "#0f766e";
         ctx.fill();
 
-        if (n === hoveredNode || (activeType !== "all" && isMatch)) {
-          ctx.strokeStyle = "#ffffff";
-          ctx.lineWidth = 3;
-          ctx.stroke();
-        }
+        ctx.lineWidth = isSelected ? 3.5 : isHovered ? 2.5 : 1.5;
+        ctx.strokeStyle = isSelected ? "#f59e0b" : "#ffffff";
+        ctx.stroke();
 
-        // Label
+        ctx.font = n.isCenter ? "bold 12px Inter, sans-serif" : "11px Inter, sans-serif";
         ctx.fillStyle = "var(--text-main)";
-        ctx.font = "600 11px sans-serif";
         ctx.textAlign = "center";
-        ctx.fillText(n.label, n.x, n.y + n.r + 14);
+
+        let label = n.label || "";
+        if (label.length > 18 && !n.isCenter) label = label.slice(0, 16) + "…";
+        ctx.fillText(label, n.x, n.y + n.r + 13);
+
         ctx.restore();
       }
 
-      requestAnimationFrame(step);
+      ctx.restore();
     }
 
+    parseUrlParams();
+    window.addEventListener("popstate", parseUrlParams);
     step();
-  }
+  })();
 </script>

@@ -57,7 +57,9 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
       <div id="main-audio-bar" class="card" style="margin-top: 2rem; padding: 1rem 1.5rem; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; text-align: left;">
         <div style="display: flex; align-items: center; gap: 1rem;">
           <button id="surah-play-btn" class="play-btn-sm" aria-label="Play full Surah recitation">
-            <span id="surah-play-icon" aria-hidden="true">▶</span>
+            <span id="surah-play-icon" aria-hidden="true">
+              <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>
+            </span>
           </button>
           <div>
             <div id="surah-player-status" style="font-weight: 700; font-size: 0.95rem;">
@@ -70,16 +72,20 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
         </div>
 
         <div style="display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;">
-          <button id="autoscroll-toggle-btn" class="btn-icon" style="font-size: 0.82rem;" title="Toggle automatic scrolling as verses play" aria-label="Toggle auto scroll">
-            📜 Auto-scroll: <span id="autoscroll-label">On</span>
+          <button id="autoscroll-toggle-btn" class="btn-action btn-action-sm" style="font-size: 0.82rem;" title="Toggle automatic scrolling as verses play" aria-label="Toggle auto scroll">
+            <svg class="icon-svg" viewBox="0 0 24 24"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg>
+            <span>Auto-scroll: <strong id="autoscroll-label">On</strong></span>
           </button>
-          <select id="surah-reciter-select" class="form-select" aria-label="Select Reciter" style="padding: 0.4rem 0.6rem; font-size: 0.85rem; border: 1px solid var(--border-color); border-radius: var(--radius-sm); background: var(--bg-surface); color: var(--text-main);">
+          <select id="surah-reciter-select" class="form-select" aria-label="Select Reciter" style="padding: 0.4rem 0.6rem; font-size: 0.85rem; border: 1px solid var(--border-color); border-radius: var(--radius-sm); background: var(--bg-surface); color: var(--text-main); min-height: 38px;">
             <option value="Alafasy_64kbps">Mishary Alafasy</option>
             <option value="Husary_128kbps">Mahmoud Al-Husary</option>
             <option value="Minshawy_Murattal_128kbps">Mohamed El-Minshawi</option>
             <option value="Abdurrahmaan_As-Sudais_192kbps">Abdur-Rahman As-Sudais</option>
           </select>
-          <button id="surah-stop-btn" class="btn-icon" title="Stop Playback" aria-label="Stop Playback">⏹</button>
+          <button id="surah-stop-btn" class="btn-action btn-action-sm" title="Stop Playback" aria-label="Stop Playback">
+            <svg class="icon-svg" viewBox="0 0 24 24"><rect x="5" y="5" width="14" height="14" rx="2" fill="currentColor"></rect></svg>
+            <span>Stop</span>
+          </button>
         </div>
       </div>
 
@@ -98,38 +104,12 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
         {ayat.map((item) => (
           <article class="card verse-card" id={`ayah-${item.a}`} data-ayah={item.a} style="position: relative; scroll-margin-top: 5rem; transition: border-color 0.2s ease, box-shadow 0.2s ease;">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; border-bottom: 1px solid var(--border-color); padding-bottom: 0.75rem; flex-wrap: wrap; gap: 0.5rem;">
-              <span class="badge badge-teal">
+              <span class="badge badge-teal" style="font-size: 0.82rem; padding: 0.25rem 0.65rem;">
                 {item.s}:{item.a}
               </span>
-              <div style="display: flex; gap: 0.5rem; font-size: 0.85rem; align-items: center; flex-wrap: wrap;">
-                <button class="verse-play-btn btn-icon" data-ayah={item.a} title={`Listen to verse ${item.a}`} aria-label={`Listen to verse ${item.s}:${item.a}`}>
-                  ▶ Listen
-                </button>
-                <button
-                  class="verse-copy-btn btn-icon"
-                  data-ref={`${item.s}:${item.a}`}
-                  data-ar={encodeURIComponent(item.ar_u || item.ar)}
-                  data-en={encodeURIComponent(item.en)}
-                  data-bn={encodeURIComponent(item.bn)}
-                  title="Copy verse text with citation"
-                  aria-label={`Copy verse ${item.s}:${item.a}`}
-                >
-                  📋 Copy
-                </button>
-                <button
-                  class="verse-bookmark-btn btn-icon"
-                  data-surah={item.s}
-                  data-ayah={item.a}
-                  data-name={surah.name_translit}
-                  title="Bookmark this verse as last read"
-                  aria-label={`Bookmark verse ${item.s}:${item.a}`}
-                >
-                  🔖 Bookmark
-                </button>
-                <a href={`/ayah/${item.s}/${item.a}`} style="font-weight: 600; margin-left: 0.25rem;">
-                  Study Deeply →
-                </a>
-              </div>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">
+                Surah {surah.name_translit} · Ayah {item.a}
+              </span>
             </div>
 
             <!-- Arabic Display -->
@@ -153,8 +133,56 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
             </div>
 
             <!-- Bangla Translation -->
-            <div class="bangla-text" lang="bn" style="font-size: 1rem; line-height: 1.7; color: var(--text-muted); border-top: 1px dashed var(--border-color); padding-top: 0.75rem;">
+            <div class="bangla-text" lang="bn" style="font-size: 1rem; line-height: 1.7; color: var(--text-muted); border-top: 1px dashed var(--border-color); padding-top: 0.75rem; margin-bottom: 1.25rem;">
               {item.bn}
+            </div>
+
+            <!-- Action Bar -->
+            <div class="verse-action-bar" style="border-top: 1px solid var(--border-color); padding-top: 1rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.75rem;">
+              <div style="display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
+                <button
+                  class="verse-play-btn btn-action btn-action-sm"
+                  data-ayah={item.a}
+                  title={`Listen to verse ${item.a}`}
+                  aria-label={`Listen to verse ${item.s}:${item.a}`}
+                >
+                  <span class="btn-icon-slot">
+                    <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>
+                  </span>
+                  <span class="btn-label-slot">Listen</span>
+                </button>
+
+                <button
+                  class="verse-copy-btn btn-action btn-action-sm"
+                  data-ref={`${item.s}:${item.a}`}
+                  data-ar={encodeURIComponent(item.ar_u || item.ar)}
+                  data-en={encodeURIComponent(item.en)}
+                  data-bn={encodeURIComponent(item.bn)}
+                  title="Copy verse text with citation"
+                  aria-label={`Copy verse ${item.s}:${item.a}`}
+                >
+                  <svg class="icon-svg" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                  <span>Copy</span>
+                </button>
+
+                <button
+                  class="verse-bookmark-btn btn-action btn-action-sm"
+                  data-surah={item.s}
+                  data-ayah={item.a}
+                  data-name={surah.name_translit}
+                  title="Bookmark this verse as last read"
+                  aria-label={`Bookmark verse ${item.s}:${item.a}`}
+                >
+                  <svg class="icon-svg" viewBox="0 0 24 24"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+                  <span>Bookmark</span>
+                </button>
+              </div>
+
+              <a href={`/ayah/${item.s}/${item.a}`} class="btn-action btn-action-sm btn-action-primary" style="gap: 0.4rem;">
+                <svg class="icon-svg" viewBox="0 0 24 24"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
+                <span>Study Ayah & Tafsir</span>
+                <svg class="icon-svg" viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>
+              </a>
             </div>
           </article>
         ))}
@@ -165,8 +193,10 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
   <!-- Sticky Bottom Audio Dock (Activated on scroll) -->
   <div id="surah-sticky-dock" class="sticky-dock card" style="display: none; padding: 0.65rem 1.25rem; max-width: 650px; margin: 0 auto; border-radius: var(--radius-md); align-items: center; justify-content: space-between; gap: 0.75rem;">
     <div style="display: flex; align-items: center; gap: 0.75rem;">
-      <button id="dock-play-btn" class="play-btn-sm" style="width: 2.25rem; height: 2.25rem; min-width: 38px; min-height: 38px; font-size: 0.9rem;" aria-label="Play/Pause">
-        <span id="dock-play-icon" aria-hidden="true">▶</span>
+      <button id="dock-play-btn" class="play-btn-sm" style="width: 2.25rem; height: 2.25rem; min-width: 38px; min-height: 38px;" aria-label="Play/Pause">
+        <span id="dock-play-icon" aria-hidden="true">
+          <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>
+        </span>
       </button>
       <div>
         <div id="dock-status" style="font-weight: 700; font-size: 0.85rem; color: var(--text-main);">
@@ -178,9 +208,15 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
       </div>
     </div>
     <div style="display: flex; align-items: center; gap: 0.4rem;">
-      <button id="dock-prev-ayah" class="btn-icon font-btn" title="Previous Verse" aria-label="Previous Verse">⏮</button>
-      <button id="dock-next-ayah" class="btn-icon font-btn" title="Next Verse" aria-label="Next Verse">⏭</button>
-      <button id="dock-stop-btn" class="btn-icon font-btn" title="Stop Playback" aria-label="Stop Playback">⏹</button>
+      <button id="dock-prev-ayah" class="btn-action btn-action-sm btn-action-icon" title="Previous Verse" aria-label="Previous Verse">
+        <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="19 20 9 12 19 4 19 20" fill="currentColor"></polygon><line x1="5" y1="19" x2="5" y2="5"></line></svg>
+      </button>
+      <button id="dock-next-ayah" class="btn-action btn-action-sm btn-action-icon" title="Next Verse" aria-label="Next Verse">
+        <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="5 4 15 12 5 20 5 4" fill="currentColor"></polygon><line x1="19" y1="5" x2="19" y2="19"></line></svg>
+      </button>
+      <button id="dock-stop-btn" class="btn-action btn-action-sm btn-action-icon" title="Stop Playback" aria-label="Stop Playback">
+        <svg class="icon-svg" viewBox="0 0 24 24"><rect x="5" y="5" width="14" height="14" rx="2" fill="currentColor"></rect></svg>
+      </button>
     </div>
   </div>
 
@@ -264,11 +300,34 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
   let currentAyah = 1;
   let isPlaying = false;
 
+  const PLAY_ICON_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>';
+  const PAUSE_ICON_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><rect x="6" y="4" width="4" height="16" rx="1" fill="currentColor"></rect><rect x="14" y="4" width="4" height="16" rx="1" fill="currentColor"></rect></svg>';
+  const CHECK_ICON_SVG = '<svg class="icon-svg" viewBox="0 0 24 24" style="stroke: #10b981;"><polyline points="20 6 9 17 4 12"></polyline></svg>';
+  const COPY_ICON_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>';
+  const BOOKMARK_OUTLINE_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>';
+  const BOOKMARK_FILLED_SVG = '<svg class="icon-svg" viewBox="0 0 24 24" style="fill: var(--accent-gold); stroke: var(--accent-gold);"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>';
+
   function updateSyncUI() {
-    const icon = isPlaying ? "⏸" : "▶";
-    if (playIcon) playIcon.textContent = icon;
-    if (dockPlayIcon) dockPlayIcon.textContent = icon;
+    const iconSvg = isPlaying ? PAUSE_ICON_SVG : PLAY_ICON_SVG;
+    if (playIcon) playIcon.innerHTML = iconSvg;
+    if (dockPlayIcon) dockPlayIcon.innerHTML = iconSvg;
     if (dockVerseEl) dockVerseEl.textContent = `Ayah ${currentAyah} of ${totalAyat}`;
+
+    // Update verse play buttons
+    versePlayBtns.forEach((btn) => {
+      const a = parseInt(btn.getAttribute("data-ayah") || "0", 10);
+      const iconSlot = btn.querySelector(".btn-icon-slot");
+      const labelSlot = btn.querySelector(".btn-label-slot");
+      if (a === currentAyah && isPlaying) {
+        btn.classList.add("btn-action-primary");
+        if (iconSlot) iconSlot.innerHTML = PAUSE_ICON_SVG;
+        if (labelSlot) labelSlot.textContent = "Pause";
+      } else {
+        btn.classList.remove("btn-action-primary");
+        if (iconSlot) iconSlot.innerHTML = PLAY_ICON_SVG;
+        if (labelSlot) labelSlot.textContent = "Listen";
+      }
+    });
   }
 
   function saveLastRead(ayahNum) {
@@ -295,12 +354,16 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
       if (a === ayahNum) {
         c.classList.add("playing");
         c.classList.add("active-playing");
+        c.style.borderColor = "var(--accent-teal)";
+        c.style.boxShadow = "0 0 0 2px rgba(15, 118, 110, 0.25)";
         if (autoScroll) {
           c.scrollIntoView({ behavior: "smooth", block: "nearest" });
         }
       } else {
         c.classList.remove("playing");
         c.classList.remove("active-playing");
+        c.style.borderColor = "";
+        c.style.boxShadow = "";
       }
     });
   }
@@ -338,6 +401,8 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
     verseCards.forEach((c) => {
       c.classList.remove("playing");
       c.classList.remove("active-playing");
+      c.style.borderColor = "";
+      c.style.boxShadow = "";
     });
   }
 
@@ -369,6 +434,8 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
       verseCards.forEach((c) => {
         c.classList.remove("playing");
         c.classList.remove("active-playing");
+        c.style.borderColor = "";
+        c.style.boxShadow = "";
       });
     }
   });
@@ -377,23 +444,33 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
     btn.addEventListener("click", (e) => {
       e.preventDefault();
       const aNum = parseInt(btn.getAttribute("data-ayah") || "1", 10);
-      playAyah(aNum);
+      if (currentAyah === aNum && isPlaying) {
+        togglePlayback();
+      } else {
+        playAyah(aNum);
+      }
     });
   });
 
   // Verse Quick Copy
   document.querySelectorAll(".verse-copy-btn").forEach((btnEl) => {
     btnEl.addEventListener("click", () => {
-      const ref = btnEl.getAttribute("data-ref");
+      const ref = btnEl.getAttribute("data-ref") || "";
       const ar = decodeURIComponent(btnEl.getAttribute("data-ar") || "");
       const en = decodeURIComponent(btnEl.getAttribute("data-en") || "");
       const bn = decodeURIComponent(btnEl.getAttribute("data-bn") || "");
 
       const textToCopy = `Surah ${surahName} (${ref})\n\n${ar}\n\nEnglish: ${en}\n\nবাংলা: ${bn}\n\nhttps://qurangraph.com/ayah/${ref.replace(":", "/")}`;
       navigator.clipboard.writeText(textToCopy).then(() => {
-        btnEl.textContent = "✓ Copied!";
+        const svg = btnEl.querySelector("svg");
+        const span = btnEl.querySelector("span");
+        if (svg) svg.outerHTML = CHECK_ICON_SVG;
+        if (span) span.textContent = "Copied!";
+        (window as any).showQgToast?.(`Ayah ${ref} copied to clipboard`);
         setTimeout(() => {
-          btnEl.textContent = "📋 Copy";
+          const curSvg = btnEl.querySelector("svg");
+          if (curSvg) curSvg.outerHTML = COPY_ICON_SVG;
+          if (span) span.textContent = "Copy";
         }, 2000);
       }).catch(console.error);
     });
@@ -402,13 +479,17 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
   // Verse Bookmark Button
   document.querySelectorAll(".verse-bookmark-btn").forEach((btnEl) => {
     btnEl.addEventListener("click", () => {
-      const s = parseInt(btnEl.getAttribute("data-surah") || "1", 10);
       const a = parseInt(btnEl.getAttribute("data-ayah") || "1", 10);
-      const name = btnEl.getAttribute("data-name") || "";
       saveLastRead(a);
-      btnEl.textContent = "✓ Bookmarked!";
+      const svg = btnEl.querySelector("svg");
+      const span = btnEl.querySelector("span");
+      if (svg) svg.outerHTML = BOOKMARK_FILLED_SVG;
+      if (span) span.textContent = "Bookmarked!";
+      (window as any).showQgToast?.(`Bookmarked Ayah ${sId}:${a} as last read`);
       setTimeout(() => {
-        btnEl.textContent = "🔖 Bookmark";
+        const curSvg = btnEl.querySelector("svg");
+        if (curSvg) curSvg.outerHTML = BOOKMARK_OUTLINE_SVG;
+        if (span) span.textContent = "Bookmark";
       }, 2000);
     });
   });

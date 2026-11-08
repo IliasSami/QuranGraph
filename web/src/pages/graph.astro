@@ -1,8 +1,10 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import NetworkGraph from "../components/NetworkGraph.astro";
+import { entityIdToSlug } from "../lib/graph/subgraph.ts";
 import graphSummary from "../../../ingest/work/export/graph/summary.json" with { type: "json" };
 import entitiesData from "../../../ingest/work/export/graph/entities.json" with { type: "json" };
+import storiesData from "../../../ingest/work/export/graph/stories.json" with { type: "json" };
 import clustersData from "../../../ingest/work/export/graph/clusters.json" with { type: "json" };
 
 const entities = Object.values(entitiesData);
@@ -11,6 +13,7 @@ const places = entities.filter((e: any) => e.type === "place");
 const nations = entities.filter((e: any) => e.type === "nation");
 const unseen = entities.filter((e: any) => e.type === "unseen");
 const namesOfAllah = entities.filter((e: any) => e.type === "name_of_allah");
+const stories = storiesData as any[];
 ---
 
 <Layout title="Knowledge Graph Explorer — QuranGraph">
@@ -78,13 +81,47 @@ const namesOfAllah = entities.filter((e: any) => e.type === "name_of_allah");
       <div style="margin-bottom: 3.5rem;">
         <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 1.25rem;">Curated Entities & Prophets</h2>
         <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+          <!-- Quranic Stories & Narrative Arcs -->
+          <div class="card" style="border-left: 4px solid var(--accent-gold);">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem; flex-wrap: wrap; gap: 0.5rem;">
+              <h3 style="font-size: 1.15rem; font-weight: 700; color: var(--accent-gold); margin: 0;">
+                📖 Major Quranic Stories & Narrative Arcs ({stories.length})
+              </h3>
+              <span style="font-size: 0.8rem; color: var(--text-muted);">
+                Chronological Prophetic Episodes
+              </span>
+            </div>
+            <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem;">
+              Click any story to focus its narrative arc and episodes directly in the graph visualizer:
+            </p>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+              {stories.map((s: any) => (
+                <a
+                  href={`/graph?story=${encodeURIComponent(s.id)}`}
+                  class="badge"
+                  style="background: var(--accent-gold-subtle); color: var(--accent-gold); border: 1px solid var(--accent-gold); text-decoration: none; padding: 0.4rem 0.75rem; font-size: 0.85rem; font-weight: 700; display: inline-flex; align-items: center; gap: 0.35rem;"
+                  title={`Focus ${s.title_en} in Knowledge Graph`}
+                >
+                  <span>📜</span>
+                  <span>{s.title_en}</span>
+                  <span style="font-size: 0.75rem; opacity: 0.8;">({(s.episodes || []).length} eps)</span>
+                </a>
+              ))}
+            </div>
+          </div>
+
           <div class="card">
             <h3 style="font-size: 1.15rem; font-weight: 700; margin-bottom: 0.75rem; color: var(--accent-teal);">
               Prophets & Companions ({people.length})
             </h3>
             <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
               {people.map((p: any) => (
-                <a href={`/search?q=${encodeURIComponent(p.label_en)}`} class="badge" style="background: var(--bg-subtle); color: var(--text-main); text-decoration: none; padding: 0.35rem 0.65rem; border: 1px solid var(--border-color); font-size: 0.85rem;">
+                <a
+                  href={`/entity/${entityIdToSlug(p.id)}`}
+                  class="badge"
+                  style="background: var(--bg-subtle); color: var(--text-main); text-decoration: none; padding: 0.35rem 0.65rem; border: 1px solid var(--border-color); font-size: 0.85rem;"
+                  title={`View ${p.label_en}`}
+                >
                   {p.label_en}
                 </a>
               ))}
@@ -97,8 +134,13 @@ const namesOfAllah = entities.filter((e: any) => e.type === "name_of_allah");
             </h3>
             <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
               {namesOfAllah.map((n: any) => (
-                <a href={`/search?q=${encodeURIComponent(n.label_en)}`} class="badge" style="background: var(--accent-gold-subtle); color: var(--accent-gold); text-decoration: none; padding: 0.35rem 0.65rem; font-size: 0.85rem;">
-                  {n.label_en} ({n.label_ar})
+                <a
+                  href={`/entity/${entityIdToSlug(n.id)}`}
+                  class="badge"
+                  style="background: var(--accent-gold-subtle); color: var(--accent-gold); text-decoration: none; padding: 0.35rem 0.65rem; font-size: 0.85rem;"
+                  title={`View ${n.label_en}`}
+                >
+                  {n.label_en} {n.label_ar && `(${n.label_ar})`}
                 </a>
               ))}
             </div>
@@ -110,7 +152,12 @@ const namesOfAllah = entities.filter((e: any) => e.type === "name_of_allah");
             </h3>
             <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
               {[...places, ...nations, ...unseen].map((e: any) => (
-                <a href={`/search?q=${encodeURIComponent(e.label_en)}`} class="badge" style="background: var(--bg-subtle); color: var(--text-muted); text-decoration: none; padding: 0.35rem 0.65rem; font-size: 0.85rem;">
+                <a
+                  href={`/entity/${entityIdToSlug(e.id)}`}
+                  class="badge"
+                  style="background: var(--bg-subtle); color: var(--text-muted); text-decoration: none; padding: 0.35rem 0.65rem; font-size: 0.85rem;"
+                  title={`View ${e.label_en}`}
+                >
                   {e.label_en}
                 </a>
               ))}
