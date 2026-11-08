@@ -60,7 +60,7 @@ const compactSurahs = surahsData.map(s => ({
     <header class="app-top-bar">
       <div class="app-top-inner">
         <!-- Brand -->
-        <a href="/surahs" class="app-brand" title="QuranGraph — Connected Quran Knowledge">
+        <a href="/" class="app-brand" title="QuranGraph — Connected Quran Knowledge">
           <span class="app-brand-glyph" aria-hidden="true">۞</span>
           <span class="app-brand-name">QuranGraph</span>
         </a>
@@ -291,7 +291,8 @@ const compactSurahs = surahsData.map(s => ({
     <script is:inline>
       (function() {
         // 1. Bottom Dock Active Tab Highlighting
-        const path = window.location.pathname;
+        const rawPath = window.location.pathname;
+        const path = rawPath.length > 1 && rawPath.endsWith("/") ? rawPath.slice(0, -1) : rawPath;
         const tabs = document.querySelectorAll(".app-dock-bar .dock-tab");
         let activeKey = "read";
 
@@ -475,9 +476,25 @@ const compactSurahs = surahsData.map(s => ({
           });
         });
 
+        let selectedIdx = 0;
+
+        function updateSelection(newIdx) {
+          const items = jumpResults?.querySelectorAll(".quick-jump-item") || [];
+          if (items.length === 0) return;
+          selectedIdx = Math.max(0, Math.min(newIdx, items.length - 1));
+          items.forEach((item, idx) => {
+            const isSel = idx === selectedIdx;
+            item.classList.toggle("selected", isSel);
+            if (isSel) {
+              item.scrollIntoView({ block: "nearest" });
+            }
+          });
+        }
+
         // Live Surah & Ayah Filtering
         function renderSurahResults(q) {
           if (!jumpResults) return;
+          selectedIdx = 0;
           const query = (q || "").trim().toLowerCase();
 
           // Check for direct Ayah pattern like "2:255" or "18:10"
@@ -530,7 +547,7 @@ const compactSurahs = surahsData.map(s => ({
           }
 
           jumpResults.innerHTML = matches.map((s, idx) => `
-            <a href="/surah/${s.id}" class="quick-jump-item ${idx === 0 && query ? 'selected' : ''}" data-index="${idx}">
+            <a href="/surah/${s.id}" class="quick-jump-item ${idx === 0 ? 'selected' : ''}" data-index="${idx}">
               <div style="display: flex; align-items: center; gap: 0.75rem;">
                 <span style="font-weight: 700; color: var(--text-muted); min-width: 24px; font-size: 0.85rem;">${s.id}</span>
                 <div>
@@ -555,9 +572,15 @@ const compactSurahs = surahsData.map(s => ({
           }
         });
 
-        // Enter key navigation inside Quick Jump input
+        // Keyboard navigation inside Quick Jump input
         jumpInput?.addEventListener("keydown", (e) => {
-          if (e.key === "Enter") {
+          if (e.key === "ArrowDown") {
+            e.preventDefault();
+            updateSelection(selectedIdx + 1);
+          } else if (e.key === "ArrowUp") {
+            e.preventDefault();
+            updateSelection(selectedIdx - 1);
+          } else if (e.key === "Enter") {
             e.preventDefault();
             const val = jumpInput.value.trim();
             // If direct ayah is visible, go to it
@@ -565,10 +588,11 @@ const compactSurahs = surahsData.map(s => ({
               window.location.href = directAyahLink.href;
               return;
             }
-            // Otherwise go to first item
-            const firstItem = jumpResults?.querySelector(".quick-jump-item");
-            if (firstItem && firstItem.href) {
-              window.location.href = firstItem.href;
+            // Otherwise go to selected item
+            const items = jumpResults?.querySelectorAll(".quick-jump-item") || [];
+            const selectedItem = items[selectedIdx] || items[0];
+            if (selectedItem && selectedItem.href) {
+              window.location.href = selectedItem.href;
             } else if (val) {
               window.location.href = `/search?q=${encodeURIComponent(val)}`;
             }
