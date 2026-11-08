@@ -1,0 +1,289 @@
+[
+  {
+    "id": "track-salah",
+    "level": 1,
+    "badge": "Level 1 · Essential Foundations",
+    "title_en": "Daily Salah & Protective Foundations",
+    "title_bn": "দৈনন্দিন নামায ও আত্মরক্ষামূলক মৌলিক সূরা",
+    "subtitle_en": "Understand 100% of the verses and supplications you recite every single day.",
+    "subtitle_bn": "প্রতিদিনের নামাযে পঠিত সকল আয়াতের অর্থ ও ভাবার্থ পূর্ণাঙ্গ উপলব্ধি করুন।",
+    "estimated_time": "1-2 Weeks · 15 mins/day",
+    "target_outcome": "Master Surah Al-Fatihah, the 4 Quls, and Ayat al-Kursi word-by-word with zero ambiguity.",
+    "modules": [
+      {
+        "id": "mod-fatihah",
+        "title_en": "Surah Al-Fatihah (The Opening)",
+        "title_bn": "সূরা আল-ফাতিহা (কুরআনের জননী)",
+        "ref": "1:1-7",
+        "primaryAyah": "1:1",
+        "focus_theme": "Praise, Lordship, Sincere Worship & Asking for Guidance",
+        "key_vocabulary": ["حَمْد (Praise)", "رَبّ (Lord)", "رَحْمَن (Merciful)", "صِرَاط (Path)", "مُسْتَقِيم (Straight)"],
+        "summary_en": "The foundation of all 17 daily prayer units; establishes the believer's covenant with Allah.",
+        "summary_bn": "প্রতিটি নামাযের মূল স্তম্ভ; মহান প্রতিপালকের সাথে বান্দার সরাসরি আলাপন ও হিদায়াত প্রার্থনা।"
+      },
+      {
+        "id": "mod-kursi",
+        "title_en": "Ayat al-Kursi (The Verse of the Throne)",
+        "title_bn": "আয়াতুল কুরসী (কুরআনের শ্রেষ্ঠ আয়াত)",
+        "ref": "2:255",
+        "primaryAyah": "2:255",
+        "focus_theme": "The Living, Self-Sustaining Deity & Infinite Knowledge",
+        "key_vocabulary": ["حَيّ (Living)", "قَيُّوم (Sustainer)", "سِنَة (Drowsiness)", "كُرْسِيّ (Throne/Footstool)", "عَظِيم (Magnificent)"],
+        "summary_en": "The greatest verse of the Quran; details the unmatched transcendence of Allah.",
+        "summary_bn": "কুরআনের সর্বশ্রেষ্ঠ আয়াত; আল্লাহর চিরঞ্জীব সত্তা ও অসীম জ্ঞানের সুস্পষ্ট বিবরণ।"
+      },
+      {
+        "id": "mod-quls",
+        "title_en": "The 4 Quls (The Protective Sanctuaries)",
+        "title_bn": "চার কুল (আত্মরক্ষামূলক চার সূরা)",
+        "ref": "109:1-6, 112:1-4, 113:1-5, 114:1-6",
+        "primaryAyah": "112:1",
+        "focus_theme": "Pure Monotheism (Tawhid) & Seeking Refuge from Visible and Invisible Harm",
+        "key_vocabulary": ["أَحَد (The One)", "صَمَد (Self-Sufficient)", "فَلَق (Daybreak)", "نَفَّاثَات (Blowers in knots)", "وَسْوَاس (Whisperer)"],
+        "summary_en": "Surahs Al-Kafirun, Al-Ikhlas, Al-Falaq, and An-Nas—the believer's daily fortress.",
+        "summary_bn": "শিরক প্রত্যাখ্যান, তাওহীদের বিশুদ্ধ ঘোষণা এবং মানব ও জিন শয়তানের ক্ষতি হতে সুরক্ষা।"
+      },
+      {
+        "id": "mod-baqarah-closing",
+        "title_en": "Closing Verses of Al-Baqarah",
+        "title_bn": "সূরা বাকারার শেষ দুই আয়াত",
+        "ref": "2:285-286",
+        "primaryAyah": "2:285",
+        "focus_theme": "Pillars of Faith, Submission & Du'a for Forgiveness",
+        "key_vocabulary": ["رَسُول (Messenger)", "مَلَائِكَة (Angels)", "سَمِعْنَا (We heard)", "أَطَعْنَا (We obeyed)", "وُسْع (Capacity)"],
+        "summary_en": "The prophetic treasure revealed beneath the Throne; recited every night for protection.",
+        "summary_bn": "আরশের তলদেশ থেকে অবতীর্ণ মহামূল্যবান বাণী; রাতের বেলায় সুরক্ষার জন্য পঠিত।"
+      }
+    ]
+  },
+  {
+    "id": "track-vocab-50",
+    "level": 2,
+    "badge": "Level 2 · The 50% Recitation Core",
+    "title_en": "The 50% Recitation Vocabulary Booster",
+    "title_bn": "৫০% কুরআনিক শব্দভাণ্ডার আয়ত্তকরণ",
+    "subtitle_en": "Master the 58 core lemmas that represent over 38,700 occurrences in the Quran.",
+    "subtitle_bn": "মাত্র ৫৮টি মূলশব্দ শিখে কুরআনের অর্ধেক শব্দের অর্থ তাৎক্ষণিকভাবে চিনে নিন।",
+    "estimated_time": "2-3 Weeks · 20 mins/day",
+    "target_outcome": "Understand 1 out of every 2 words in any random page of the Quran.",
+    "modules": [
+      {
+        "id": "mod-particles",
+        "title_en": "The 4 Essential Prepositions & Particles",
+        "title_bn": "মৌলিক চার হরফ ও অব্যয়",
+        "ref": "1:1, 2:255",
+        "primaryAyah": "2:255",
+        "focus_theme": "مِن (From), فِي (In), عَلَى (Upon), إِلَى (Towards)",
+        "key_vocabulary": ["مِن (3,226x)", "فِي (1,701x)", "عَلَى (1,445x)", "إِلَى (742x)"],
+        "summary_en": "These four prepositions connect almost every sentence in the Quranic text.",
+        "summary_bn": "কুরআনের প্রতিটি বাক্যের ভিত্তি সংযোগকারী প্রধান চারটি অব্যয়।"
+      },
+      {
+        "id": "mod-core-verbs",
+        "title_en": "The High-Frequency Revelation Verbs",
+        "title_bn": "কুরআনে সর্বাধিক ব্যবহৃত ক্রিয়াপদসমূহ",
+        "ref": "2:13, 2:22, 12:4",
+        "primaryAyah": "2:13",
+        "focus_theme": "قَالَ (He said), كَانَ (He was), آمَنَ (He believed), جَعَلَ (He made)",
+        "key_vocabulary": ["قَالَ (1,618x)", "كَانَ (1,358x)", "آمَنَ (537x)", "جَعَلَ (346x)", "عَلِمَ (854x)"],
+        "summary_en": "Verbs that frame prophetic dialogues, Divine creation, and belief vs rejection.",
+        "summary_bn": "নবীদের সংলাপ, সৃষ্টির সূচনা এবং বিশ্বাস ও অবিশ্বাসের মৌলিক ক্রিয়াসমূহ।"
+      },
+      {
+        "id": "mod-creed-nouns",
+        "title_en": "Core Nouns of Cosmos & Creed",
+        "title_bn": "সৃষ্টি ও আকীদার প্রধান বিশেষ্যসমূহ",
+        "ref": "2:22, 2:255",
+        "primaryAyah": "2:22",
+        "focus_theme": "اللَّه, رَبّ, أَرْض (Earth), سَمَاء (Sky), يَوْم (Day), كِتَاب (Book)",
+        "key_vocabulary": ["اللَّه (2,699x)", "رَبّ (975x)", "أَرْض (461x)", "سَمَاء (310x)", "يَوْم (475x)"],
+        "summary_en": "The primary nouns repeated across every surah describing the universe and its Creator.",
+        "summary_bn": "মহাবিশ্বের সৃষ্টি ও প্রতিপালকের মহিমা বর্ণনাকারী সর্বাধিক পৌনঃপুনিক বিশেষ্য।"
+      }
+    ]
+  },
+  {
+    "id": "track-stories",
+    "level": 3,
+    "badge": "Level 3 · Prophetic Narratives",
+    "title_en": "Prophetic Chronicles & Story Cycles",
+    "title_bn": "পয়গম্বরগণের ধারাবাহিক কাহিনি ও ইতিহাস",
+    "subtitle_en": "Follow the chronological arcs of the Prophets through sequential scene analysis.",
+    "subtitle_bn": "ঘটনার ধারাবাহিক ক্রম ও দৃশ্যপট বিশ্লেষণের মাধ্যমে নবীদের জীবন থেকে শিক্ষা নিন।",
+    "estimated_time": "3-4 Weeks · 25 mins/day",
+    "target_outcome": "Understand the major storylines, interpersonal dynamics, and moral turning points.",
+    "modules": [
+      {
+        "id": "mod-yusuf",
+        "title_en": "Prophet Yusuf: From the Well to the Throne",
+        "title_bn": "ইউসুফ (আ.): কূয়াতল থেকে মিশরের মসনদ",
+        "ref": "12:4-101",
+        "primaryAyah": "12:4",
+        "focus_theme": "Sibling Betrayal, Moral Steadfastness & Divine Fulfillment",
+        "key_vocabulary": ["كَوْكَب (Star)", "جُبّ (Well)", "عَزِيز (Chief)", "سِجْن (Prison)", "تَأْوِيل (Interpretation)"],
+        "summary_en": "A 6-episode complete narrative journey showcasing patience, beauty of character, and destiny.",
+        "summary_bn": "৬টি ধারাবাহিক পর্বে সাজানো ধৈর্য, চারিত্রিক সততা ও তকদিরে বিশ্বাসের শ্রেষ্ঠ কাহিনী।"
+      },
+      {
+        "id": "mod-musa",
+        "title_en": "Prophet Musa: Defying Pharaoh & The Search for Knowledge",
+        "title_bn": "মূসা (আ.): ফেরাউনের মোকাবিলা ও ইলমের সফর",
+        "ref": "20:9-98, 18:60-82",
+        "primaryAyah": "18:60",
+        "focus_theme": "The Burning Bush, Confronting Tyranny & The Mystery of Khidr",
+        "key_vocabulary": ["طُوًى (Tuwa)", "عَصَا (Staff)", "بَحْر (Sea)", "خَضِر (Khidr)", "صَبْر (Patience)"],
+        "summary_en": "The most detailed prophetic journey in the Quran, from the Nile to Mount Sinai.",
+        "summary_bn": "কুরআনে সর্বাধিক আলোচিত নবীর জীবন; অত্যাচারীর সামনে সত্যের ঘোষণা ও জ্ঞানের সন্ধানে সফর।"
+      },
+      {
+        "id": "mod-ibrahim",
+        "title_en": "Prophet Ibrahim: The Father of Monotheism",
+        "title_bn": "ইব্রাহীম (আ.): তাওহীদের মহান অগ্রদূত",
+        "ref": "19:41-50, 21:51-73, 37:83-113",
+        "primaryAyah": "21:51",
+        "focus_theme": "Rational Inquiry into Idolatry, The Fiery Furnace & The Ultimate Sacrifice",
+        "key_vocabulary": ["حَنِيف (True Monotheist)", "أَصْنَام (Idols)", "نَار (Fire)", "ذَبِيح (Sacrifice)", "خَلِيل (Intimate Friend)"],
+        "summary_en": "The exemplar of unyielding faith who rebuilt the Ka'bah and established the rites of Hajj.",
+        "summary_bn": "যুক্তিনির্ভর তাওহীদের প্রতিষ্ঠা, অগ্নিকুণ্ডে অবিচলতা এবং আল্লাহর প্রতি নিঃশর্ত আত্মনিয়োগ।"
+      }
+    ]
+  },
+  {
+    "id": "track-vocab-70",
+    "level": 4,
+    "badge": "Level 4 · Root Networks & Derivations",
+    "title_en": "The 70% Vocabulary & Triliteral Root Families",
+    "title_bn": "৭০% শব্দভাণ্ডার ও মূলশব্দের পরিবার",
+    "subtitle_en": "Unlock how a single 3-letter Arabic root generates verbs, nouns, and participles.",
+    "subtitle_bn": "একটি ৩-অক্ষরের মূলশব্দ থেকে কীভাবে একাধিক অর্থপূর্ণ শব্দ জন্ম নেয় তা জানুন।",
+    "estimated_time": "4 Weeks · 25 mins/day",
+    "target_outcome": "Recognize root patterns and deduce word meanings without consulting a dictionary.",
+    "modules": [
+      {
+        "id": "mod-root-ilm",
+        "title_en": "The ‘-L-M (Knowledge) Family (728 Occurrences)",
+        "title_bn": "ع-ل-م (জ্ঞান) মূলশব্দের পরিবার",
+        "ref": "2:31, 2:255, 96:1-5",
+        "primaryAyah": "2:31",
+        "focus_theme": "عَلِمَ (Knew), عَلَّمَ (Taught), عَالِم (Knower), عَلِيم (All-Knowing), مَعْلُوم (Known)",
+        "key_vocabulary": ["عِلْم (Knowledge)", "عَالَمِين (Worlds)", "عَلَّمَ (He taught)", "عَلِيم (Omniscient)"],
+        "summary_en": "Explore how the root of knowledge runs through the creation of Adam to the first revelation.",
+        "summary_bn": "আদমের সৃষ্টি থেকে ইকরা পর্যন্ত জ্ঞানের মূলশব্দের নানাবিধ প্রকাশ ও ব্যবহার।"
+      },
+      {
+        "id": "mod-root-amn",
+        "title_en": "The ’-M-N (Faith & Security) Family (723 Occurrences)",
+        "title_bn": "أ-م-ن (ঈমান ও নিরাপত্তা) মূলশব্দের পরিবার",
+        "ref": "2:13, 2:285, 49:14",
+        "primaryAyah": "2:13",
+        "focus_theme": "آمَنَ (Believed), مُؤْمِن (Believer), أَمْن (Security), أَمَانَة (Trust)",
+        "key_vocabulary": ["إِيمَان (Faith)", "مُؤْمِنِين (Believers)", "أَمَانَات (Trusts)", "مَأْمُون (Secure)"],
+        "summary_en": "Understand the deep linguistic connection between faith, safety, and fulfilling trusts.",
+        "summary_bn": "ঈমান, অভ্যন্তরীণ নিরাপত্তা এবং আমানতদারিতার মধ্যকার অন্তর্নিহিত সম্পর্ক।"
+      },
+      {
+        "id": "mod-root-hmd",
+        "title_en": "The Ḥ-M-D (Praise) & R-Ḥ-M (Mercy) Families",
+        "title_bn": "ح-م-د (প্রশংসা) ও ر-ح-م (রহমত) মূলশব্দ",
+        "ref": "1:1-3, 17:79",
+        "primaryAyah": "1:2",
+        "focus_theme": "حَمْد (Praise), حَمِيد (Praiseworthy), مُحَمَّد (Much-Praised), رَحِيم (Merciful)",
+        "key_vocabulary": ["حَمْد (Praise)", "رَحْمَة (Grace)", "رَحْمَن (Most Gracious)", "مَحْمُود (Lauded)"],
+        "summary_en": "The primary divine and prophetic names sharing the roots of eternal gratitude and boundless love.",
+        "summary_bn": "স্রষ্টার অপার দয়া ও কৃতজ্ঞতাবোধকে প্রকাশকারী সবচেয়ে সম্মানিত শব্দমালা।"
+      }
+    ]
+  },
+  {
+    "id": "track-ethics",
+    "level": 5,
+    "badge": "Level 5 · Moral Principles & Ethics",
+    "title_en": "Quranic Ethics, Character & Social Justice",
+    "title_bn": "কুরআনের আখলাক, চরিত্র ও সামাজিক সুবিচার",
+    "subtitle_en": "Master the timeless social guidelines governing speech, family, and equity.",
+    "subtitle_bn": "আচরণ, পারিবারিক জীবন, লেনদেন ও সুবিচার প্রতিষ্ঠায় কুরআনের কালজয়ী নির্দেশাবলি।",
+    "estimated_time": "3 Weeks · 20 mins/day",
+    "target_outcome": "Live the character of the Quran in everyday relationships, speech, and dealings.",
+    "modules": [
+      {
+        "id": "mod-parents",
+        "title_en": "Honoring Parents & Family Reverence",
+        "title_bn": "পিতা-মাতার সম্মান ও পারিবারিক মর্যাদা",
+        "ref": "17:23-24, 31:14-15",
+        "primaryAyah": "17:23",
+        "focus_theme": "Gentle Speech, Lowering the Wing of Humility & Gratitude to Parents",
+        "key_vocabulary": ["وَالِدَيْن (Parents)", "إِحْسَان (Excellence)", "أُفّ (Uff/sigh)", "ذُلّ (Humility)"],
+        "summary_en": "The second commandment following Tawhid: boundless kindness to elderly parents.",
+        "summary_bn": "তাওহীদের পরেই পিতা-মাতার সাথে বিনয়াবনত আচরণ ও শ্রদ্ধার নির্দেশ।"
+      },
+      {
+        "id": "mod-speech",
+        "title_en": "Etiquette of Speech & Community Harmony",
+        "title_bn": "কথার শালীনতা ও সামাজিক সৌহার্দ্য",
+        "ref": "49:10-12, 104:1-9",
+        "primaryAyah": "49:12",
+        "focus_theme": "Avoiding Suspicion, Backbiting, Sarcasm & Mockery",
+        "key_vocabulary": ["ظَنّ (Suspicion)", "تَجَسَّسَ (To spy)", "اغْتَابَ (To backbite)", "هُمَزَة (Slanderer)"],
+        "summary_en": "Surah Al-Hujurat's masterclass in protecting community unity and personal dignity.",
+        "summary_bn": "গীবত, পরনিন্দা ও কটূক্তি পরিহার করে পারস্পরিক ভ্রাতৃত্ব রক্ষার মহাসনদ।"
+      },
+      {
+        "id": "mod-justice",
+        "title_en": "Economic Justice & Fulfilling Contracts",
+        "title_bn": "অর্থনৈতিক ন্যায়বিচার ও অঙ্গীকার রক্ষা",
+        "ref": "4:135, 17:34-36, 83:1-6",
+        "primaryAyah": "4:135",
+        "focus_theme": "Absolute Justice even Against Oneself, Honest Weights & Prohibition of Fraud",
+        "key_vocabulary": ["قِسْط (Equity)", "شُهَدَاء (Witnesses)", "عَهْد (Covenant)", "مُطَفِّفِين (Cheaters in measure)"],
+        "summary_en": "Standing firmly for justice without fear or favoritism, and honest measurement in trade.",
+        "summary_bn": "নিজের বিরুদ্ধে গেলেও ন্যায়ের সাক্ষ্য প্রদান ও ওজনে কম না দেওয়ার আদেশ।"
+      }
+    ]
+  },
+  {
+    "id": "track-parables",
+    "level": 6,
+    "badge": "Level 6 · Parables & Spiritual Reflection",
+    "title_en": "Quranic Parables & Spiritual Insights (Amthal)",
+    "title_bn": "কুরআনের রূপক, উপমা ও আত্মশুদ্ধি",
+    "subtitle_en": "Contemplate the profound allegories used by the Quran to illustrate truth and vanity.",
+    "subtitle_bn": "সত্য ও মিথ্যার পার্থক্য সুস্পষ্ট করতে কুরআনে ব্যবহৃত অতুলনীয় উপমাসমূহ।",
+    "estimated_time": "2 Weeks · 20 mins/day",
+    "target_outcome": "Engage in deep Tadabbur (contemplation) of the Quran's imagery and parables.",
+    "modules": [
+      {
+        "id": "mod-parable-light",
+        "title_en": "The Parable of Divine Light (Ayat an-Nur)",
+        "title_bn": "নূরের উপমা (আয়াতুন নূর)",
+        "ref": "24:35",
+        "primaryAyah": "24:35",
+        "focus_theme": "The Niche, the Glass, the Blessed Olive Tree & Light upon Light",
+        "key_vocabulary": ["نُور (Light)", "مِشْكَاة (Niche)", "زُجَاجَة (Glass)", "زَيْتُونَة (Olive tree)", "مَثَل (Parable)"],
+        "summary_en": "One of the most mystical and sublime descriptions of Divine illumination in the human heart.",
+        "summary_bn": "আল্লাহর নূর এবং মুমিনের অন্তরে হিদায়াতের প্রদীপের অপূর্ব বর্ণনা।"
+      },
+      {
+        "id": "mod-parable-spider",
+        "title_en": "The Frailty of the Spider’s House",
+        "title_bn": "মাকড়সার জালের ভঙ্গুরতা",
+        "ref": "29:41-43",
+        "primaryAyah": "29:41",
+        "focus_theme": "Taking False Protectors Besides Allah",
+        "key_vocabulary": ["عَنكَبُوت (Spider)", "بَيْت (House)", "أَوْهَن (Fraile/weakest)", "أَوْلِيَاء (Protectors)"],
+        "summary_en": "A vivid biological parable demonstrating the vulnerability of those relying on false gods.",
+        "summary_bn": "আল্লাহ ব্যতীত অন্য কাউকে আশ্রয়দাতা হিসেবে গ্রহণের অসারতার বৈজ্ঞানিক উপমা।"
+      },
+      {
+        "id": "mod-parable-garden",
+        "title_en": "The Parable of the Two Gardens",
+        "title_bn": "দুই বাগানওয়ালার রূপক",
+        "ref": "18:32-44",
+        "primaryAyah": "18:32",
+        "focus_theme": "Arrogance in Wealth vs Saying 'Ma Sha' Allah, La Quwwata illa billah'",
+        "key_vocabulary": ["جَنَّتَيْن (Two gardens)", "ثَمَر (Fruit/wealth)", "مَا شَاءَ اللَّه (What Allah willed)", "حُسْبَان (Storm/calamity)"],
+        "summary_en": "A stark reminder of the transient nature of worldly wealth and the necessity of humility.",
+        "summary_bn": "সম্পদ ও প্রাচুর্যের ক্ষণস্থায়িত্ব এবং অহংকারের করুণ পরিণতির জীবন্ত দৃষ্টান্ত।"
+      }
+    ]
+  }
+]

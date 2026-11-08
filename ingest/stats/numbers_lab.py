@@ -333,6 +333,11 @@ def compute_numbers_lab(db_path=DB_PATH):
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+    web_data_path = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "web", "src", "data", "numbers_lab.json")
+    if os.path.exists(os.path.dirname(web_data_path)):
+        import shutil
+        shutil.copy2(OUTPUT_PATH, web_data_path)
+
     print(f"Generated Numbers Lab statistics: {OUTPUT_PATH}")
     print(f"Surahs: {total_surahs}, Ayat: {total_ayat}, Words: {total_words_morphology}, Letters: {total_letters}")
     return data

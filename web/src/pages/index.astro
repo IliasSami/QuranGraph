@@ -1,7 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import surahsData from "../lib/search/surahs.json" with { type: "json" };
-import numbersData from "../../../ingest/work/numbers_lab.json" with { type: "json" };
+import numbersData from "../data/numbers_lab.json" with { type: "json" };
 
 const baseline = numbersData.baseline;
 const featuredSurahs = surahsData.slice(0, 10);

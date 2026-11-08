@@ -1,0 +1,2644 @@
+{
+  "metadata": {
+    "title": "QuranGraph Numbers Lab",
+    "description": "Reproducible, transparent Quranic statistics with explicit counting rules.",
+    "generated_from": "quran.sqlite",
+    "version": "1.0.0"
+  },
+  "baseline": {
+    "surahs": 114,
+    "ayat": 6236,
+    "words_morphology": 77429,
+    "words_whitespace": 77800,
+    "letters_total": 330709,
+    "distinct_roots": 1651,
+    "distinct_lemmas": 4763,
+    "distinct_word_forms": 18993,
+    "letter_frequencies": [
+      {
+        "char": "ا",
+        "unicode": "U+0627",
+        "name": "Alif",
+        "count": 43539,
+        "percentage": 13.17
+      },
+      {
+        "char": "ل",
+        "unicode": "U+0644",
+        "name": "Lam",
+        "count": 38191,
+        "percentage": 11.55
+      },
+      {
+        "char": "ن",
+        "unicode": "U+0646",
+        "name": "Nun",
+        "count": 27270,
+        "percentage": 8.25
+      },
+      {
+        "char": "م",
+        "unicode": "U+0645",
+        "name": "Mim",
+        "count": 26735,
+        "percentage": 8.08
+      },
+      {
+        "char": "و",
+        "unicode": "U+0648",
+        "name": "Waw",
+        "count": 24813,
+        "percentage": 7.5
+      },
+      {
+        "char": "ي",
+        "unicode": "U+064A",
+        "name": "Ya",
+        "count": 21973,
+        "percentage": 6.64
+      },
+      {
+        "char": "ه",
+        "unicode": "U+0647",
+        "name": "Ha",
+        "count": 14850,
+        "percentage": 4.49
+      },
+      {
+        "char": "ر",
+        "unicode": "U+0631",
+        "name": "Ra",
+        "count": 12403,
+        "percentage": 3.75
+      },
+      {
+        "char": "ب",
+        "unicode": "U+0628",
+        "name": "Ba",
+        "count": 11491,
+        "percentage": 3.47
+      },
+      {
+        "char": "ت",
+        "unicode": "U+062A",
+        "name": "Ta",
+        "count": 10520,
+        "percentage": 3.18
+      },
+      {
+        "char": "ك",
+        "unicode": "U+0643",
+        "name": "Kaf",
+        "count": 10497,
+        "percentage": 3.17
+      },
+      {
+        "char": "ع",
+        "unicode": "U+0639",
+        "name": "'Ayn",
+        "count": 9405,
+        "percentage": 2.84
+      },
+      {
+        "char": "أ",
+        "unicode": "U+0623",
+        "name": "Alif with Hamza above",
+        "count": 9119,
+        "percentage": 2.76
+      },
+      {
+        "char": "ف",
+        "unicode": "U+0641",
+        "name": "Fa",
+        "count": 8747,
+        "percentage": 2.64
+      },
+      {
+        "char": "ق",
+        "unicode": "U+0642",
+        "name": "Qaf",
+        "count": 7034,
+        "percentage": 2.13
+      },
+      {
+        "char": "س",
+        "unicode": "U+0633",
+        "name": "Sin",
+        "count": 6012,
+        "percentage": 1.82
+      },
+      {
+        "char": "د",
+        "unicode": "U+062F",
+        "name": "Dal",
+        "count": 5991,
+        "percentage": 1.81
+      },
+      {
+        "char": "إ",
+        "unicode": "U+0625",
+        "name": "Alif with Hamza below",
+        "count": 5108,
+        "percentage": 1.54
+      },
+      {
+        "char": "ذ",
+        "unicode": "U+0630",
+        "name": "Dhal",
+        "count": 4932,
+        "percentage": 1.49
+      },
+      {
+        "char": "ح",
+        "unicode": "U+062D",
+        "name": "Ha (Ḥā')",
+        "count": 4140,
+        "percentage": 1.25
+      },
+      {
+        "char": "ج",
+        "unicode": "U+062C",
+        "name": "Jim",
+        "count": 3317,
+        "percentage": 1.0
+      },
+      {
+        "char": "ى",
+        "unicode": "U+0649",
+        "name": "Alif Maqsurah",
+        "count": 2595,
+        "percentage": 0.78
+      },
+      {
+        "char": "خ",
+        "unicode": "U+062E",
+        "name": "Kha",
+        "count": 2497,
+        "percentage": 0.76
+      },
+      {
+        "char": "ة",
+        "unicode": "U+0629",
+        "name": "Ta Marbutah",
+        "count": 2344,
+        "percentage": 0.71
+      },
+      {
+        "char": "ش",
+        "unicode": "U+0634",
+        "name": "Shin",
+        "count": 2124,
+        "percentage": 0.64
+      },
+      {
+        "char": "ص",
+        "unicode": "U+0635",
+        "name": "Sad",
+        "count": 2072,
+        "percentage": 0.63
+      },
+      {
+        "char": "ض",
+        "unicode": "U+0636",
+        "name": "Dad",
+        "count": 1686,
+        "percentage": 0.51
+      },
+      {
+        "char": "ز",
+        "unicode": "U+0632",
+        "name": "Zay",
+        "count": 1599,
+        "percentage": 0.48
+      },
+      {
+        "char": "ء",
+        "unicode": "U+0621",
+        "name": "Standalone Hamza",
+        "count": 1578,
+        "percentage": 0.48
+      },
+      {
+        "char": "آ",
+        "unicode": "U+0622",
+        "name": "Alif Maddah",
+        "count": 1511,
+        "percentage": 0.46
+      },
+      {
+        "char": "ث",
+        "unicode": "U+062B",
+        "name": "Tha",
+        "count": 1414,
+        "percentage": 0.43
+      },
+      {
+        "char": "ط",
+        "unicode": "U+0637",
+        "name": "Ta (Ṭā')",
+        "count": 1273,
+        "percentage": 0.38
+      },
+      {
+        "char": "غ",
+        "unicode": "U+063A",
+        "name": "Ghayn",
+        "count": 1221,
+        "percentage": 0.37
+      },
+      {
+        "char": "ئ",
+        "unicode": "U+0626",
+        "name": "Ya with Hamza",
+        "count": 1182,
+        "percentage": 0.36
+      },
+      {
+        "char": "ظ",
+        "unicode": "U+0638",
+        "name": "Dha (Ẓā')",
+        "count": 853,
+        "percentage": 0.26
+      },
+      {
+        "char": "ؤ",
+        "unicode": "U+0624",
+        "name": "Waw with Hamza",
+        "count": 673,
+        "percentage": 0.2
+      }
+    ]
+  },
+  "vocabulary_coverage": {
+    "curve": [
+      {
+        "target_coverage_pct": 50,
+        "word_forms_needed": 507,
+        "lemmas_needed": 58,
+        "roots_needed": 61
+      },
+      {
+        "target_coverage_pct": 60,
+        "word_forms_needed": 1120,
+        "lemmas_needed": 117,
+        "roots_needed": 97
+      },
+      {
+        "target_coverage_pct": 70,
+        "word_forms_needed": 2442,
+        "lemmas_needed": 232,
+        "roots_needed": 152
+      },
+      {
+        "target_coverage_pct": 80,
+        "word_forms_needed": 5249,
+        "lemmas_needed": 462,
+        "roots_needed": 248
+      },
+      {
+        "target_coverage_pct": 90,
+        "word_forms_needed": 11251,
+        "lemmas_needed": 1095,
+        "roots_needed": 441
+      },
+      {
+        "target_coverage_pct": 95,
+        "word_forms_needed": 15122,
+        "lemmas_needed": 1980,
+        "roots_needed": 664
+      }
+    ],
+    "top_lemmas": [
+      {
+        "rank": 1,
+        "lemma": "مِن",
+        "root": null,
+        "count": 3226,
+        "percentage": 4.35
+      },
+      {
+        "rank": 2,
+        "lemma": "اللَّه",
+        "root": "أله",
+        "count": 2699,
+        "percentage": 3.64
+      },
+      {
+        "rank": 3,
+        "lemma": "ما",
+        "root": null,
+        "count": 2177,
+        "percentage": 2.94
+      },
+      {
+        "rank": 4,
+        "lemma": "فِي",
+        "root": null,
+        "count": 1701,
+        "percentage": 2.29
+      },
+      {
+        "rank": 5,
+        "lemma": "لا",
+        "root": null,
+        "count": 1691,
+        "percentage": 2.28
+      },
+      {
+        "rank": 6,
+        "lemma": "إِنّ",
+        "root": null,
+        "count": 1682,
+        "percentage": 2.27
+      },
+      {
+        "rank": 7,
+        "lemma": "قالَ",
+        "root": "قول",
+        "count": 1618,
+        "percentage": 2.18
+      },
+      {
+        "rank": 8,
+        "lemma": "الَّذِي",
+        "root": null,
+        "count": 1468,
+        "percentage": 1.98
+      },
+      {
+        "rank": 9,
+        "lemma": "عَلَى",
+        "root": null,
+        "count": 1445,
+        "percentage": 1.95
+      },
+      {
+        "rank": 10,
+        "lemma": "كانَ",
+        "root": "كون",
+        "count": 1358,
+        "percentage": 1.83
+      },
+      {
+        "rank": 11,
+        "lemma": "ذا",
+        "root": null,
+        "count": 1058,
+        "percentage": 1.43
+      },
+      {
+        "rank": 12,
+        "lemma": "رَبّ",
+        "root": "ربب",
+        "count": 975,
+        "percentage": 1.32
+      },
+      {
+        "rank": 13,
+        "lemma": "مَن",
+        "root": null,
+        "count": 824,
+        "percentage": 1.11
+      },
+      {
+        "rank": 14,
+        "lemma": "إِلَى",
+        "root": null,
+        "count": 742,
+        "percentage": 1.0
+      },
+      {
+        "rank": 15,
+        "lemma": "إِن",
+        "root": null,
+        "count": 703,
+        "percentage": 0.95
+      },
+      {
+        "rank": 16,
+        "lemma": "إِلّا",
+        "root": null,
+        "count": 659,
+        "percentage": 0.89
+      },
+      {
+        "rank": 17,
+        "lemma": "أَن",
+        "root": null,
+        "count": 616,
+        "percentage": 0.83
+      },
+      {
+        "rank": 18,
+        "lemma": "آمَنَ",
+        "root": "أمن",
+        "count": 537,
+        "percentage": 0.72
+      },
+      {
+        "rank": 19,
+        "lemma": "يَوْم",
+        "root": "يوم",
+        "count": 475,
+        "percentage": 0.64
+      },
+      {
+        "rank": 20,
+        "lemma": "عَن",
+        "root": null,
+        "count": 465,
+        "percentage": 0.63
+      },
+      {
+        "rank": 21,
+        "lemma": "أَرْض",
+        "root": "أرض",
+        "count": 461,
+        "percentage": 0.62
+      },
+      {
+        "rank": 22,
+        "lemma": "إِذا",
+        "root": null,
+        "count": 423,
+        "percentage": 0.57
+      },
+      {
+        "rank": 23,
+        "lemma": "قَد",
+        "root": null,
+        "count": 406,
+        "percentage": 0.55
+      },
+      {
+        "rank": 24,
+        "lemma": "قَوْم",
+        "root": "قوم",
+        "count": 383,
+        "percentage": 0.52
+      },
+      {
+        "rank": 25,
+        "lemma": "آيَة",
+        "root": "أيي",
+        "count": 382,
+        "percentage": 0.52
+      },
+      {
+        "rank": 26,
+        "lemma": "عَلِمَ",
+        "root": "علم",
+        "count": 382,
+        "percentage": 0.52
+      },
+      {
+        "rank": 27,
+        "lemma": "أَنّ",
+        "root": null,
+        "count": 362,
+        "percentage": 0.49
+      },
+      {
+        "rank": 28,
+        "lemma": "كُلّ",
+        "root": "كلل",
+        "count": 359,
+        "percentage": 0.48
+      },
+      {
+        "rank": 29,
+        "lemma": "لَم",
+        "root": null,
+        "count": 347,
+        "percentage": 0.47
+      },
+      {
+        "rank": 30,
+        "lemma": "جَعَلَ",
+        "root": "جعل",
+        "count": 340,
+        "percentage": 0.46
+      },
+      {
+        "rank": 31,
+        "lemma": "ثُمّ",
+        "root": null,
+        "count": 338,
+        "percentage": 0.46
+      },
+      {
+        "rank": 32,
+        "lemma": "رَسُول",
+        "root": "رسل",
+        "count": 332,
+        "percentage": 0.45
+      },
+      {
+        "rank": 33,
+        "lemma": "عَذاب",
+        "root": "عذب",
+        "count": 322,
+        "percentage": 0.43
+      },
+      {
+        "rank": 34,
+        "lemma": "سَماء",
+        "root": "سمو",
+        "count": 310,
+        "percentage": 0.42
+      },
+      {
+        "rank": 35,
+        "lemma": "نَفْس",
+        "root": "نفس",
+        "count": 295,
+        "percentage": 0.4
+      },
+      {
+        "rank": 36,
+        "lemma": "كَفَرَ",
+        "root": "كفر",
+        "count": 289,
+        "percentage": 0.39
+      },
+      {
+        "rank": 37,
+        "lemma": "شَىْء",
+        "root": "شيأ",
+        "count": 283,
+        "percentage": 0.38
+      },
+      {
+        "rank": 38,
+        "lemma": "أَو",
+        "root": null,
+        "count": 280,
+        "percentage": 0.38
+      },
+      {
+        "rank": 39,
+        "lemma": "جاءَ",
+        "root": "جيأ",
+        "count": 278,
+        "percentage": 0.38
+      },
+      {
+        "rank": 40,
+        "lemma": "عَمِلَ",
+        "root": "عمل",
+        "count": 276,
+        "percentage": 0.37
+      },
+      {
+        "rank": 41,
+        "lemma": "آتَى",
+        "root": "أتي",
+        "count": 271,
+        "percentage": 0.37
+      },
+      {
+        "rank": 42,
+        "lemma": "رَأَى",
+        "root": "رأي",
+        "count": 271,
+        "percentage": 0.37
+      },
+      {
+        "rank": 43,
+        "lemma": "بَيْن",
+        "root": "بين",
+        "count": 266,
+        "percentage": 0.36
+      },
+      {
+        "rank": 44,
+        "lemma": "أَتَى",
+        "root": "أتي",
+        "count": 264,
+        "percentage": 0.36
+      },
+      {
+        "rank": 45,
+        "lemma": "كِتاب",
+        "root": "كتب",
+        "count": 260,
+        "percentage": 0.35
+      },
+      {
+        "rank": 46,
+        "lemma": "حَقّ",
+        "root": "حقق",
+        "count": 247,
+        "percentage": 0.33
+      },
+      {
+        "rank": 47,
+        "lemma": "قَبْل",
+        "root": "قبل",
+        "count": 242,
+        "percentage": 0.33
+      },
+      {
+        "rank": 48,
+        "lemma": "ناس",
+        "root": "أنس",
+        "count": 241,
+        "percentage": 0.33
+      },
+      {
+        "rank": 49,
+        "lemma": "إِذ",
+        "root": null,
+        "count": 239,
+        "percentage": 0.32
+      },
+      {
+        "rank": 50,
+        "lemma": "شاءَ",
+        "root": "شيأ",
+        "count": 236,
+        "percentage": 0.32
+      }
+    ],
+    "top_roots": [
+      {
+        "rank": 1,
+        "root": "أله",
+        "count": 2851,
+        "percentage": 5.67
+      },
+      {
+        "rank": 2,
+        "root": "قول",
+        "count": 1722,
+        "percentage": 3.43
+      },
+      {
+        "rank": 3,
+        "root": "كون",
+        "count": 1390,
+        "percentage": 2.77
+      },
+      {
+        "rank": 4,
+        "root": "ربب",
+        "count": 980,
+        "percentage": 1.95
+      },
+      {
+        "rank": 5,
+        "root": "أمن",
+        "count": 879,
+        "percentage": 1.75
+      },
+      {
+        "rank": 6,
+        "root": "علم",
+        "count": 854,
+        "percentage": 1.7
+      },
+      {
+        "rank": 7,
+        "root": "قوم",
+        "count": 660,
+        "percentage": 1.31
+      },
+      {
+        "rank": 8,
+        "root": "أيي",
+        "count": 597,
+        "percentage": 1.19
+      },
+      {
+        "rank": 9,
+        "root": "أتي",
+        "count": 549,
+        "percentage": 1.09
+      },
+      {
+        "rank": 10,
+        "root": "كفر",
+        "count": 525,
+        "percentage": 1.04
+      },
+      {
+        "rank": 11,
+        "root": "بين",
+        "count": 523,
+        "percentage": 1.04
+      },
+      {
+        "rank": 12,
+        "root": "شيأ",
+        "count": 519,
+        "percentage": 1.03
+      },
+      {
+        "rank": 13,
+        "root": "رسل",
+        "count": 513,
+        "percentage": 1.02
+      },
+      {
+        "rank": 14,
+        "root": "يوم",
+        "count": 475,
+        "percentage": 0.94
+      },
+      {
+        "rank": 15,
+        "root": "أرض",
+        "count": 461,
+        "percentage": 0.92
+      },
+      {
+        "rank": 16,
+        "root": "سمو",
+        "count": 381,
+        "percentage": 0.76
+      },
+      {
+        "rank": 17,
+        "root": "كلل",
+        "count": 377,
+        "percentage": 0.75
+      },
+      {
+        "rank": 18,
+        "root": "عذب",
+        "count": 373,
+        "percentage": 0.74
+      },
+      {
+        "rank": 19,
+        "root": "عمل",
+        "count": 360,
+        "percentage": 0.72
+      },
+      {
+        "rank": 20,
+        "root": "جعل",
+        "count": 346,
+        "percentage": 0.69
+      },
+      {
+        "rank": 21,
+        "root": "رحم",
+        "count": 339,
+        "percentage": 0.67
+      },
+      {
+        "rank": 22,
+        "root": "أنس",
+        "count": 338,
+        "percentage": 0.67
+      },
+      {
+        "rank": 23,
+        "root": "رأي",
+        "count": 328,
+        "percentage": 0.65
+      },
+      {
+        "rank": 24,
+        "root": "كتب",
+        "count": 319,
+        "percentage": 0.63
+      },
+      {
+        "rank": 25,
+        "root": "هدي",
+        "count": 316,
+        "percentage": 0.63
+      },
+      {
+        "rank": 26,
+        "root": "ظلم",
+        "count": 315,
+        "percentage": 0.63
+      },
+      {
+        "rank": 27,
+        "root": "نفس",
+        "count": 298,
+        "percentage": 0.59
+      },
+      {
+        "rank": 28,
+        "root": "قبل",
+        "count": 294,
+        "percentage": 0.58
+      },
+      {
+        "rank": 29,
+        "root": "نزل",
+        "count": 293,
+        "percentage": 0.58
+      },
+      {
+        "rank": 30,
+        "root": "ذكر",
+        "count": 292,
+        "percentage": 0.58
+      },
+      {
+        "rank": 31,
+        "root": "حقق",
+        "count": 287,
+        "percentage": 0.57
+      },
+      {
+        "rank": 32,
+        "root": "كذب",
+        "count": 282,
+        "percentage": 0.56
+      },
+      {
+        "rank": 33,
+        "root": "جيأ",
+        "count": 278,
+        "percentage": 0.55
+      },
+      {
+        "rank": 34,
+        "root": "عبد",
+        "count": 275,
+        "percentage": 0.55
+      },
+      {
+        "rank": 35,
+        "root": "أخذ",
+        "count": 273,
+        "percentage": 0.54
+      },
+      {
+        "rank": 36,
+        "root": "خلق",
+        "count": 261,
+        "percentage": 0.52
+      },
+      {
+        "rank": 37,
+        "root": "وقي",
+        "count": 258,
+        "percentage": 0.51
+      },
+      {
+        "rank": 38,
+        "root": "أخر",
+        "count": 250,
+        "percentage": 0.5
+      },
+      {
+        "rank": 39,
+        "root": "أمر",
+        "count": 248,
+        "percentage": 0.49
+      },
+      {
+        "rank": 40,
+        "root": "بعد",
+        "count": 235,
+        "percentage": 0.47
+      },
+      {
+        "rank": 41,
+        "root": "غفر",
+        "count": 234,
+        "percentage": 0.47
+      },
+      {
+        "rank": 42,
+        "root": "ولي",
+        "count": 232,
+        "percentage": 0.46
+      },
+      {
+        "rank": 43,
+        "root": "دعو",
+        "count": 212,
+        "percentage": 0.42
+      },
+      {
+        "rank": 44,
+        "root": "حكم",
+        "count": 210,
+        "percentage": 0.42
+      },
+      {
+        "rank": 45,
+        "root": "ملك",
+        "count": 206,
+        "percentage": 0.41
+      },
+      {
+        "rank": 46,
+        "root": "جنن",
+        "count": 201,
+        "percentage": 0.4
+      },
+      {
+        "rank": 47,
+        "root": "عند",
+        "count": 201,
+        "percentage": 0.4
+      },
+      {
+        "rank": 48,
+        "root": "خير",
+        "count": 196,
+        "percentage": 0.39
+      },
+      {
+        "rank": 49,
+        "root": "حسن",
+        "count": 194,
+        "percentage": 0.39
+      },
+      {
+        "rank": 50,
+        "root": "نور",
+        "count": 194,
+        "percentage": 0.39
+      }
+    ],
+    "hapax_roots_count": 399,
+    "hapax_lemmas_count": 1958
+  },
+  "surah_metrics": [
+    {
+      "surah": 1,
+      "name_ar": "الفاتحة",
+      "name_translit": "Al-Faatiha",
+      "name_en": "The Opening",
+      "name_bn": "আল-ফাতিহা",
+      "type": "Meccan",
+      "revelation_order": 5,
+      "ayat": 7,
+      "words": 29,
+      "avg_words_per_ayah": 4.1,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 57.1
+    },
+    {
+      "surah": 2,
+      "name_ar": "البقرة",
+      "name_translit": "Al-Baqara",
+      "name_en": "The Cow",
+      "name_bn": "আল-বাকারাহ",
+      "type": "Medinan",
+      "revelation_order": 87,
+      "ayat": 286,
+      "words": 6116,
+      "avg_words_per_ayah": 21.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 67.5
+    },
+    {
+      "surah": 3,
+      "name_ar": "آل عمران",
+      "name_translit": "Aal-i-Imraan",
+      "name_en": "The Family of Imraan",
+      "name_bn": "আলে ইমরান",
+      "type": "Medinan",
+      "revelation_order": 89,
+      "ayat": 200,
+      "words": 3481,
+      "avg_words_per_ayah": 17.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 60.0
+    },
+    {
+      "surah": 4,
+      "name_ar": "النساء",
+      "name_translit": "An-Nisaa",
+      "name_en": "The Women",
+      "name_bn": "আন-নিসা",
+      "type": "Medinan",
+      "revelation_order": 92,
+      "ayat": 176,
+      "words": 3747,
+      "avg_words_per_ayah": 21.3,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 96.0
+    },
+    {
+      "surah": 5,
+      "name_ar": "المائدة",
+      "name_translit": "Al-Maaida",
+      "name_en": "The Table",
+      "name_bn": "আল-মায়িদাহ",
+      "type": "Medinan",
+      "revelation_order": 112,
+      "ayat": 120,
+      "words": 2804,
+      "avg_words_per_ayah": 23.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 66.7
+    },
+    {
+      "surah": 6,
+      "name_ar": "الأنعام",
+      "name_translit": "Al-An'aam",
+      "name_en": "The Cattle",
+      "name_bn": "আল-আন'আম",
+      "type": "Meccan",
+      "revelation_order": 55,
+      "ayat": 165,
+      "words": 3050,
+      "avg_words_per_ayah": 18.5,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 87.3
+    },
+    {
+      "surah": 7,
+      "name_ar": "الأعراف",
+      "name_translit": "Al-A'raaf",
+      "name_en": "The Heights",
+      "name_bn": "আল-আ'রাফ",
+      "type": "Meccan",
+      "revelation_order": 39,
+      "ayat": 206,
+      "words": 3320,
+      "avg_words_per_ayah": 16.1,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 93.7
+    },
+    {
+      "surah": 8,
+      "name_ar": "الأنفال",
+      "name_translit": "Al-Anfaal",
+      "name_en": "The Spoils of War",
+      "name_bn": "আল-আনফাল",
+      "type": "Medinan",
+      "revelation_order": 88,
+      "ayat": 75,
+      "words": 1233,
+      "avg_words_per_ayah": 16.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 52.0
+    },
+    {
+      "surah": 9,
+      "name_ar": "التوبة",
+      "name_translit": "At-Tawba",
+      "name_en": "The Repentance",
+      "name_bn": "আত-তাওবাহ",
+      "type": "Medinan",
+      "revelation_order": 113,
+      "ayat": 129,
+      "words": 2498,
+      "avg_words_per_ayah": 19.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 66.7
+    },
+    {
+      "surah": 10,
+      "name_ar": "يونس",
+      "name_translit": "Yunus",
+      "name_en": "Jonas",
+      "name_bn": "ইউনুস",
+      "type": "Meccan",
+      "revelation_order": 51,
+      "ayat": 109,
+      "words": 1833,
+      "avg_words_per_ayah": 16.8,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 89.9
+    },
+    {
+      "surah": 11,
+      "name_ar": "هود",
+      "name_translit": "Hud",
+      "name_en": "Hud",
+      "name_bn": "হুদ",
+      "type": "Meccan",
+      "revelation_order": 52,
+      "ayat": 123,
+      "words": 1917,
+      "avg_words_per_ayah": 15.6,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 45.5
+    },
+    {
+      "surah": 12,
+      "name_ar": "يوسف",
+      "name_translit": "Yusuf",
+      "name_en": "Joseph",
+      "name_bn": "ইউসুফ",
+      "type": "Meccan",
+      "revelation_order": 53,
+      "ayat": 111,
+      "words": 1777,
+      "avg_words_per_ayah": 16.0,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 83.8
+    },
+    {
+      "surah": 13,
+      "name_ar": "الرعد",
+      "name_translit": "Ar-Ra'd",
+      "name_en": "The Thunder",
+      "name_bn": "আর-রা'দ",
+      "type": "Medinan",
+      "revelation_order": 96,
+      "ayat": 43,
+      "words": 853,
+      "avg_words_per_ayah": 19.8,
+      "dominant_ending": "ب",
+      "dominant_ending_pct": 34.9
+    },
+    {
+      "surah": 14,
+      "name_ar": "ابراهيم",
+      "name_translit": "Ibrahim",
+      "name_en": "Abraham",
+      "name_bn": "ইবরাহীম",
+      "type": "Meccan",
+      "revelation_order": 72,
+      "ayat": 52,
+      "words": 830,
+      "avg_words_per_ayah": 16.0,
+      "dominant_ending": "د",
+      "dominant_ending_pct": 21.2
+    },
+    {
+      "surah": 15,
+      "name_ar": "الحجر",
+      "name_translit": "Al-Hijr",
+      "name_en": "The Rock",
+      "name_bn": "আল-হিজর",
+      "type": "Meccan",
+      "revelation_order": 54,
+      "ayat": 99,
+      "words": 655,
+      "avg_words_per_ayah": 6.6,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 81.8
+    },
+    {
+      "surah": 16,
+      "name_ar": "النحل",
+      "name_translit": "An-Nahl",
+      "name_en": "The Bee",
+      "name_bn": "আন-নাহল",
+      "type": "Meccan",
+      "revelation_order": 70,
+      "ayat": 128,
+      "words": 1844,
+      "avg_words_per_ayah": 14.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 85.9
+    },
+    {
+      "surah": 17,
+      "name_ar": "الإسراء",
+      "name_translit": "Al-Israa",
+      "name_en": "The Night Journey",
+      "name_bn": "আল-ইসরা",
+      "type": "Meccan",
+      "revelation_order": 50,
+      "ayat": 111,
+      "words": 1556,
+      "avg_words_per_ayah": 14.0,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 99.1
+    },
+    {
+      "surah": 18,
+      "name_ar": "الكهف",
+      "name_translit": "Al-Kahf",
+      "name_en": "The Cave",
+      "name_bn": "আল-কাহফ",
+      "type": "Meccan",
+      "revelation_order": 69,
+      "ayat": 110,
+      "words": 1579,
+      "avg_words_per_ayah": 14.4,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 99.1
+    },
+    {
+      "surah": 19,
+      "name_ar": "مريم",
+      "name_translit": "Maryam",
+      "name_en": "Mary",
+      "name_bn": "মারইয়াম",
+      "type": "Meccan",
+      "revelation_order": 44,
+      "ayat": 98,
+      "words": 961,
+      "avg_words_per_ayah": 9.8,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 91.8
+    },
+    {
+      "surah": 20,
+      "name_ar": "طه",
+      "name_translit": "Taa-Haa",
+      "name_en": "Taa-Haa",
+      "name_bn": "ত্বা-হা",
+      "type": "Meccan",
+      "revelation_order": 45,
+      "ayat": 135,
+      "words": 1335,
+      "avg_words_per_ayah": 9.9,
+      "dominant_ending": "ى",
+      "dominant_ending_pct": 63.7
+    },
+    {
+      "surah": 21,
+      "name_ar": "الأنبياء",
+      "name_translit": "Al-Anbiyaa",
+      "name_en": "The Prophets",
+      "name_bn": "আল-আম্বিয়া",
+      "type": "Meccan",
+      "revelation_order": 73,
+      "ayat": 112,
+      "words": 1169,
+      "avg_words_per_ayah": 10.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 94.6
+    },
+    {
+      "surah": 22,
+      "name_ar": "الحج",
+      "name_translit": "Al-Hajj",
+      "name_en": "The Pilgrimage",
+      "name_bn": "আল-হাজ্জ",
+      "type": "Medinan",
+      "revelation_order": 103,
+      "ayat": 78,
+      "words": 1274,
+      "avg_words_per_ayah": 16.3,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 32.1
+    },
+    {
+      "surah": 23,
+      "name_ar": "المؤمنون",
+      "name_translit": "Al-Muminoon",
+      "name_en": "The Believers",
+      "name_bn": "আল-মু'মিনূন",
+      "type": "Meccan",
+      "revelation_order": 74,
+      "ayat": 118,
+      "words": 1050,
+      "avg_words_per_ayah": 8.9,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 96.6
+    },
+    {
+      "surah": 24,
+      "name_ar": "النور",
+      "name_translit": "An-Noor",
+      "name_en": "The Light",
+      "name_bn": "আন-নূর",
+      "type": "Medinan",
+      "revelation_order": 102,
+      "ayat": 64,
+      "words": 1316,
+      "avg_words_per_ayah": 20.6,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 48.4
+    },
+    {
+      "surah": 25,
+      "name_ar": "الفرقان",
+      "name_translit": "Al-Furqaan",
+      "name_en": "The Criterion",
+      "name_bn": "আল-ফুরকান",
+      "type": "Meccan",
+      "revelation_order": 42,
+      "ayat": 77,
+      "words": 893,
+      "avg_words_per_ayah": 11.6,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 98.7
+    },
+    {
+      "surah": 26,
+      "name_ar": "الشعراء",
+      "name_translit": "Ash-Shu'araa",
+      "name_en": "The Poets",
+      "name_bn": "আশ-শু'আরা",
+      "type": "Meccan",
+      "revelation_order": 47,
+      "ayat": 227,
+      "words": 1318,
+      "avg_words_per_ayah": 5.8,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 85.0
+    },
+    {
+      "surah": 27,
+      "name_ar": "النمل",
+      "name_translit": "An-Naml",
+      "name_en": "The Ant",
+      "name_bn": "আন-নামল",
+      "type": "Meccan",
+      "revelation_order": 48,
+      "ayat": 93,
+      "words": 1151,
+      "avg_words_per_ayah": 12.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 90.3
+    },
+    {
+      "surah": 28,
+      "name_ar": "القصص",
+      "name_translit": "Al-Qasas",
+      "name_en": "The Stories",
+      "name_bn": "আল-কাসাস",
+      "type": "Meccan",
+      "revelation_order": 49,
+      "ayat": 88,
+      "words": 1430,
+      "avg_words_per_ayah": 16.2,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 92.0
+    },
+    {
+      "surah": 29,
+      "name_ar": "العنكبوت",
+      "name_translit": "Al-Ankaboot",
+      "name_en": "The Spider",
+      "name_bn": "আল-আনকাবূত",
+      "type": "Meccan",
+      "revelation_order": 85,
+      "ayat": 69,
+      "words": 976,
+      "avg_words_per_ayah": 14.1,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 85.5
+    },
+    {
+      "surah": 30,
+      "name_ar": "الروم",
+      "name_translit": "Ar-Room",
+      "name_en": "The Romans",
+      "name_bn": "আর-রূম",
+      "type": "Meccan",
+      "revelation_order": 84,
+      "ayat": 60,
+      "words": 817,
+      "avg_words_per_ayah": 13.6,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 90.0
+    },
+    {
+      "surah": 31,
+      "name_ar": "لقمان",
+      "name_translit": "Luqman",
+      "name_en": "Luqman",
+      "name_bn": "লুকমান",
+      "type": "Meccan",
+      "revelation_order": 57,
+      "ayat": 34,
+      "words": 546,
+      "avg_words_per_ayah": 16.1,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 47.1
+    },
+    {
+      "surah": 32,
+      "name_ar": "السجدة",
+      "name_translit": "As-Sajda",
+      "name_en": "The Prostration",
+      "name_bn": "আস-সাজদাহ",
+      "type": "Meccan",
+      "revelation_order": 75,
+      "ayat": 30,
+      "words": 372,
+      "avg_words_per_ayah": 12.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 90.0
+    },
+    {
+      "surah": 33,
+      "name_ar": "الأحزاب",
+      "name_translit": "Al-Ahzaab",
+      "name_en": "The Clans",
+      "name_bn": "আল-আহযাব",
+      "type": "Medinan",
+      "revelation_order": 90,
+      "ayat": 73,
+      "words": 1287,
+      "avg_words_per_ayah": 17.6,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 98.6
+    },
+    {
+      "surah": 34,
+      "name_ar": "سبإ",
+      "name_translit": "Saba",
+      "name_en": "Sheba",
+      "name_bn": "সাবা",
+      "type": "Meccan",
+      "revelation_order": 58,
+      "ayat": 54,
+      "words": 883,
+      "avg_words_per_ayah": 16.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 40.7
+    },
+    {
+      "surah": 35,
+      "name_ar": "فاطر",
+      "name_translit": "Faatir",
+      "name_en": "The Originator",
+      "name_bn": "ফাতির",
+      "type": "Meccan",
+      "revelation_order": 43,
+      "ayat": 45,
+      "words": 775,
+      "avg_words_per_ayah": 17.2,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 64.4
+    },
+    {
+      "surah": 36,
+      "name_ar": "يس",
+      "name_translit": "Yaseen",
+      "name_en": "Yaseen",
+      "name_bn": "ইয়া-সীন",
+      "type": "Meccan",
+      "revelation_order": 41,
+      "ayat": 83,
+      "words": 725,
+      "avg_words_per_ayah": 8.7,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 84.3
+    },
+    {
+      "surah": 37,
+      "name_ar": "الصافات",
+      "name_translit": "As-Saaffaat",
+      "name_en": "Those drawn up in Ranks",
+      "name_bn": "আস-সাফফাত",
+      "type": "Meccan",
+      "revelation_order": 56,
+      "ayat": 182,
+      "words": 860,
+      "avg_words_per_ayah": 4.7,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 79.7
+    },
+    {
+      "surah": 38,
+      "name_ar": "ص",
+      "name_translit": "Saad",
+      "name_en": "The letter Saad",
+      "name_bn": "সাদ",
+      "type": "Meccan",
+      "revelation_order": 38,
+      "ayat": 88,
+      "words": 733,
+      "avg_words_per_ayah": 8.3,
+      "dominant_ending": "ب",
+      "dominant_ending_pct": 39.8
+    },
+    {
+      "surah": 39,
+      "name_ar": "الزمر",
+      "name_translit": "Az-Zumar",
+      "name_en": "The Groups",
+      "name_bn": "আয-যুমার",
+      "type": "Meccan",
+      "revelation_order": 59,
+      "ayat": 75,
+      "words": 1172,
+      "avg_words_per_ayah": 15.6,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 70.7
+    },
+    {
+      "surah": 40,
+      "name_ar": "غافر",
+      "name_translit": "Al-Ghaafir",
+      "name_en": "The Forgiver",
+      "name_bn": "গাফির",
+      "type": "Meccan",
+      "revelation_order": 60,
+      "ayat": 85,
+      "words": 1219,
+      "avg_words_per_ayah": 14.3,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 37.6
+    },
+    {
+      "surah": 41,
+      "name_ar": "فصلت",
+      "name_translit": "Fussilat",
+      "name_en": "Explained in detail",
+      "name_bn": "ফুসসিলাত",
+      "type": "Meccan",
+      "revelation_order": 61,
+      "ayat": 54,
+      "words": 794,
+      "avg_words_per_ayah": 14.7,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 55.6
+    },
+    {
+      "surah": 42,
+      "name_ar": "الشورى",
+      "name_translit": "Ash-Shura",
+      "name_en": "Consultation",
+      "name_bn": "আশ-শূরা",
+      "type": "Meccan",
+      "revelation_order": 62,
+      "ayat": 53,
+      "words": 860,
+      "avg_words_per_ayah": 16.2,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 37.7
+    },
+    {
+      "surah": 43,
+      "name_ar": "الزخرف",
+      "name_translit": "Az-Zukhruf",
+      "name_en": "Ornaments of gold",
+      "name_bn": "আয-যুখরুফ",
+      "type": "Meccan",
+      "revelation_order": 63,
+      "ayat": 89,
+      "words": 830,
+      "avg_words_per_ayah": 9.3,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 87.6
+    },
+    {
+      "surah": 44,
+      "name_ar": "الدخان",
+      "name_translit": "Ad-Dukhaan",
+      "name_en": "The Smoke",
+      "name_bn": "আদ-দুখান",
+      "type": "Meccan",
+      "revelation_order": 64,
+      "ayat": 59,
+      "words": 346,
+      "avg_words_per_ayah": 5.9,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 74.6
+    },
+    {
+      "surah": 45,
+      "name_ar": "الجاثية",
+      "name_translit": "Al-Jaathiya",
+      "name_en": "Crouching",
+      "name_bn": "আল-জাসিয়াহ",
+      "type": "Meccan",
+      "revelation_order": 65,
+      "ayat": 37,
+      "words": 488,
+      "avg_words_per_ayah": 13.2,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 81.1
+    },
+    {
+      "surah": 46,
+      "name_ar": "الأحقاف",
+      "name_translit": "Al-Ahqaf",
+      "name_en": "The Dunes",
+      "name_bn": "আল-আহকাফ",
+      "type": "Meccan",
+      "revelation_order": 66,
+      "ayat": 35,
+      "words": 643,
+      "avg_words_per_ayah": 18.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 74.3
+    },
+    {
+      "surah": 47,
+      "name_ar": "محمد",
+      "name_translit": "Muhammad",
+      "name_en": "Muhammad",
+      "name_bn": "মুহাম্মদ",
+      "type": "Medinan",
+      "revelation_order": 95,
+      "ayat": 38,
+      "words": 539,
+      "avg_words_per_ayah": 14.2,
+      "dominant_ending": "م",
+      "dominant_ending_pct": 94.7
+    },
+    {
+      "surah": 48,
+      "name_ar": "الفتح",
+      "name_translit": "Al-Fath",
+      "name_en": "The Victory",
+      "name_bn": "আল-ফাতহ",
+      "type": "Medinan",
+      "revelation_order": 111,
+      "ayat": 29,
+      "words": 560,
+      "avg_words_per_ayah": 19.3,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 49,
+      "name_ar": "الحجرات",
+      "name_translit": "Al-Hujuraat",
+      "name_en": "The Inner Apartments",
+      "name_bn": "আল-হুজুরাত",
+      "type": "Medinan",
+      "revelation_order": 106,
+      "ayat": 18,
+      "words": 347,
+      "avg_words_per_ayah": 19.3,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 55.6
+    },
+    {
+      "surah": 50,
+      "name_ar": "ق",
+      "name_translit": "Qaaf",
+      "name_en": "The letter Qaaf",
+      "name_bn": "কাফ",
+      "type": "Meccan",
+      "revelation_order": 34,
+      "ayat": 45,
+      "words": 373,
+      "avg_words_per_ayah": 8.3,
+      "dominant_ending": "د",
+      "dominant_ending_pct": 60.0
+    },
+    {
+      "surah": 51,
+      "name_ar": "الذاريات",
+      "name_translit": "Adh-Dhaariyat",
+      "name_en": "The Winnowing Winds",
+      "name_bn": "আয-যারিয়াত",
+      "type": "Meccan",
+      "revelation_order": 67,
+      "ayat": 60,
+      "words": 360,
+      "avg_words_per_ayah": 6.0,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 70.0
+    },
+    {
+      "surah": 52,
+      "name_ar": "الطور",
+      "name_translit": "At-Tur",
+      "name_en": "The Mount",
+      "name_bn": "আত-তূর",
+      "type": "Meccan",
+      "revelation_order": 76,
+      "ayat": 49,
+      "words": 312,
+      "avg_words_per_ayah": 6.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 61.2
+    },
+    {
+      "surah": 53,
+      "name_ar": "النجم",
+      "name_translit": "An-Najm",
+      "name_en": "The Star",
+      "name_bn": "আন-নাজম",
+      "type": "Meccan",
+      "revelation_order": 23,
+      "ayat": 62,
+      "words": 360,
+      "avg_words_per_ayah": 5.8,
+      "dominant_ending": "ى",
+      "dominant_ending_pct": 85.5
+    },
+    {
+      "surah": 54,
+      "name_ar": "القمر",
+      "name_translit": "Al-Qamar",
+      "name_en": "The Moon",
+      "name_bn": "আল-কামার",
+      "type": "Meccan",
+      "revelation_order": 37,
+      "ayat": 55,
+      "words": 342,
+      "avg_words_per_ayah": 6.2,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 55,
+      "name_ar": "الرحمن",
+      "name_translit": "Ar-Rahmaan",
+      "name_en": "The Beneficent",
+      "name_bn": "আর-রহমান",
+      "type": "Medinan",
+      "revelation_order": 97,
+      "ayat": 78,
+      "words": 351,
+      "avg_words_per_ayah": 4.5,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 88.5
+    },
+    {
+      "surah": 56,
+      "name_ar": "الواقعة",
+      "name_translit": "Al-Waaqia",
+      "name_en": "The Inevitable",
+      "name_bn": "আল-ওয়াকি'আহ",
+      "type": "Meccan",
+      "revelation_order": 46,
+      "ayat": 96,
+      "words": 379,
+      "avg_words_per_ayah": 3.9,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 57.3
+    },
+    {
+      "surah": 57,
+      "name_ar": "الحديد",
+      "name_translit": "Al-Hadid",
+      "name_en": "The Iron",
+      "name_bn": "আল-হাদীদ",
+      "type": "Medinan",
+      "revelation_order": 94,
+      "ayat": 29,
+      "words": 574,
+      "avg_words_per_ayah": 19.8,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 37.9
+    },
+    {
+      "surah": 58,
+      "name_ar": "المجادلة",
+      "name_translit": "Al-Mujaadila",
+      "name_en": "The Pleading Woman",
+      "name_bn": "আল-মুজাদালাহ",
+      "type": "Medinan",
+      "revelation_order": 105,
+      "ayat": 22,
+      "words": 472,
+      "avg_words_per_ayah": 21.5,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 54.5
+    },
+    {
+      "surah": 59,
+      "name_ar": "الحشر",
+      "name_translit": "Al-Hashr",
+      "name_en": "The Exile",
+      "name_bn": "আল-হাশর",
+      "type": "Medinan",
+      "revelation_order": 101,
+      "ayat": 24,
+      "words": 445,
+      "avg_words_per_ayah": 18.5,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 58.3
+    },
+    {
+      "surah": 60,
+      "name_ar": "الممتحنة",
+      "name_translit": "Al-Mumtahana",
+      "name_en": "She that is to be examined",
+      "name_bn": "আল-মুমতাহানাহ",
+      "type": "Medinan",
+      "revelation_order": 91,
+      "ayat": 13,
+      "words": 348,
+      "avg_words_per_ayah": 26.8,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 30.8
+    },
+    {
+      "surah": 61,
+      "name_ar": "الصف",
+      "name_translit": "As-Saff",
+      "name_en": "The Ranks",
+      "name_bn": "আস-সাফ",
+      "type": "Medinan",
+      "revelation_order": 109,
+      "ayat": 14,
+      "words": 221,
+      "avg_words_per_ayah": 15.8,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 71.4
+    },
+    {
+      "surah": 62,
+      "name_ar": "الجمعة",
+      "name_translit": "Al-Jumu'a",
+      "name_en": "Friday",
+      "name_bn": "আল-জুমু'আহ",
+      "type": "Medinan",
+      "revelation_order": 110,
+      "ayat": 11,
+      "words": 175,
+      "avg_words_per_ayah": 15.9,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 72.7
+    },
+    {
+      "surah": 63,
+      "name_ar": "المنافقون",
+      "name_translit": "Al-Munaafiqoon",
+      "name_en": "The Hypocrites",
+      "name_bn": "আল-মুনাফিকূন",
+      "type": "Medinan",
+      "revelation_order": 104,
+      "ayat": 11,
+      "words": 180,
+      "avg_words_per_ayah": 16.4,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 64,
+      "name_ar": "التغابن",
+      "name_translit": "At-Taghaabun",
+      "name_en": "Mutual Disillusion",
+      "name_bn": "আত-তাগাবুন",
+      "type": "Medinan",
+      "revelation_order": 108,
+      "ayat": 18,
+      "words": 241,
+      "avg_words_per_ayah": 13.4,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 38.9
+    },
+    {
+      "surah": 65,
+      "name_ar": "الطلاق",
+      "name_translit": "At-Talaaq",
+      "name_en": "Divorce",
+      "name_bn": "আত-ত্বালাক",
+      "type": "Medinan",
+      "revelation_order": 99,
+      "ayat": 12,
+      "words": 287,
+      "avg_words_per_ayah": 23.9,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 91.7
+    },
+    {
+      "surah": 66,
+      "name_ar": "التحريم",
+      "name_translit": "At-Tahrim",
+      "name_en": "The Prohibition",
+      "name_bn": "আত-তাহরীম",
+      "type": "Medinan",
+      "revelation_order": 107,
+      "ayat": 12,
+      "words": 249,
+      "avg_words_per_ayah": 20.8,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 41.7
+    },
+    {
+      "surah": 67,
+      "name_ar": "الملك",
+      "name_translit": "Al-Mulk",
+      "name_en": "The Sovereignty",
+      "name_bn": "আল-মুলক",
+      "type": "Meccan",
+      "revelation_order": 77,
+      "ayat": 30,
+      "words": 333,
+      "avg_words_per_ayah": 11.1,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 70.0
+    },
+    {
+      "surah": 68,
+      "name_ar": "القلم",
+      "name_translit": "Al-Qalam",
+      "name_en": "The Pen",
+      "name_bn": "আল-কালাম",
+      "type": "Meccan",
+      "revelation_order": 2,
+      "ayat": 52,
+      "words": 300,
+      "avg_words_per_ayah": 5.8,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 80.8
+    },
+    {
+      "surah": 69,
+      "name_ar": "الحاقة",
+      "name_translit": "Al-Haaqqa",
+      "name_en": "The Reality",
+      "name_bn": "আল-হাক্কাহ",
+      "type": "Meccan",
+      "revelation_order": 78,
+      "ayat": 52,
+      "words": 258,
+      "avg_words_per_ayah": 5.0,
+      "dominant_ending": "ة",
+      "dominant_ending_pct": 44.2
+    },
+    {
+      "surah": 70,
+      "name_ar": "المعارج",
+      "name_translit": "Al-Ma'aarij",
+      "name_en": "The Ascending Stairways",
+      "name_bn": "আল-মা'আরিজ",
+      "type": "Meccan",
+      "revelation_order": 79,
+      "ayat": 44,
+      "words": 217,
+      "avg_words_per_ayah": 4.9,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 47.7
+    },
+    {
+      "surah": 71,
+      "name_ar": "نوح",
+      "name_translit": "Nooh",
+      "name_en": "Noah",
+      "name_bn": "নূহ",
+      "type": "Meccan",
+      "revelation_order": 71,
+      "ayat": 28,
+      "words": 226,
+      "avg_words_per_ayah": 8.1,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 85.7
+    },
+    {
+      "surah": 72,
+      "name_ar": "الجن",
+      "name_translit": "Al-Jinn",
+      "name_en": "The Jinn",
+      "name_bn": "আল-জিন",
+      "type": "Meccan",
+      "revelation_order": 40,
+      "ayat": 28,
+      "words": 285,
+      "avg_words_per_ayah": 10.2,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 73,
+      "name_ar": "المزمل",
+      "name_translit": "Al-Muzzammil",
+      "name_en": "The Enshrouded One",
+      "name_bn": "আল-মুযযাম্মিল",
+      "type": "Meccan",
+      "revelation_order": 3,
+      "ayat": 20,
+      "words": 199,
+      "avg_words_per_ayah": 9.9,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 90.0
+    },
+    {
+      "surah": 74,
+      "name_ar": "المدثر",
+      "name_translit": "Al-Muddaththir",
+      "name_en": "The Cloaked One",
+      "name_bn": "আল-মুদ্দাসসির",
+      "type": "Meccan",
+      "revelation_order": 4,
+      "ayat": 56,
+      "words": 255,
+      "avg_words_per_ayah": 4.6,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 55.4
+    },
+    {
+      "surah": 75,
+      "name_ar": "القيامة",
+      "name_translit": "Al-Qiyaama",
+      "name_en": "The Resurrection",
+      "name_bn": "আল-কিয়ামাহ",
+      "type": "Meccan",
+      "revelation_order": 31,
+      "ayat": 40,
+      "words": 164,
+      "avg_words_per_ayah": 4.1,
+      "dominant_ending": "ة",
+      "dominant_ending_pct": 25.0
+    },
+    {
+      "surah": 76,
+      "name_ar": "الانسان",
+      "name_translit": "Al-Insaan",
+      "name_en": "Man",
+      "name_bn": "আল-ইনসান",
+      "type": "Medinan",
+      "revelation_order": 98,
+      "ayat": 31,
+      "words": 243,
+      "avg_words_per_ayah": 7.8,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 77,
+      "name_ar": "المرسلات",
+      "name_translit": "Al-Mursalaat",
+      "name_en": "The Emissaries",
+      "name_bn": "আল-মুরসালাত",
+      "type": "Meccan",
+      "revelation_order": 33,
+      "ayat": 50,
+      "words": 181,
+      "avg_words_per_ayah": 3.6,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 56.0
+    },
+    {
+      "surah": 78,
+      "name_ar": "النبإ",
+      "name_translit": "An-Naba",
+      "name_en": "The Announcement",
+      "name_bn": "আন-নাবা",
+      "type": "Meccan",
+      "revelation_order": 80,
+      "ayat": 40,
+      "words": 173,
+      "avg_words_per_ayah": 4.3,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 87.5
+    },
+    {
+      "surah": 79,
+      "name_ar": "النازعات",
+      "name_translit": "An-Naazi'aat",
+      "name_en": "Those who drag forth",
+      "name_bn": "আন-নাযি'আত",
+      "type": "Meccan",
+      "revelation_order": 81,
+      "ayat": 46,
+      "words": 179,
+      "avg_words_per_ayah": 3.9,
+      "dominant_ending": "ى",
+      "dominant_ending_pct": 41.3
+    },
+    {
+      "surah": 80,
+      "name_ar": "عبس",
+      "name_translit": "Abasa",
+      "name_en": "He frowned",
+      "name_bn": "'আবাসা",
+      "type": "Meccan",
+      "revelation_order": 24,
+      "ayat": 42,
+      "words": 133,
+      "avg_words_per_ayah": 3.2,
+      "dominant_ending": "ه",
+      "dominant_ending_pct": 31.0
+    },
+    {
+      "surah": 81,
+      "name_ar": "التكوير",
+      "name_translit": "At-Takwir",
+      "name_en": "The Overthrowing",
+      "name_bn": "আত-তাকবীর",
+      "type": "Meccan",
+      "revelation_order": 7,
+      "ayat": 29,
+      "words": 104,
+      "avg_words_per_ayah": 3.6,
+      "dominant_ending": "ت",
+      "dominant_ending_pct": 48.3
+    },
+    {
+      "surah": 82,
+      "name_ar": "الإنفطار",
+      "name_translit": "Al-Infitaar",
+      "name_en": "The Cleaving",
+      "name_bn": "আল-ইনফিতার",
+      "type": "Meccan",
+      "revelation_order": 82,
+      "ayat": 19,
+      "words": 80,
+      "avg_words_per_ayah": 4.2,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 42.1
+    },
+    {
+      "surah": 83,
+      "name_ar": "المطففين",
+      "name_translit": "Al-Mutaffifin",
+      "name_en": "Defrauding",
+      "name_bn": "আল-মুতাফফিফীন",
+      "type": "Meccan",
+      "revelation_order": 86,
+      "ayat": 36,
+      "words": 169,
+      "avg_words_per_ayah": 4.7,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 75.0
+    },
+    {
+      "surah": 84,
+      "name_ar": "الإنشقاق",
+      "name_translit": "Al-Inshiqaaq",
+      "name_en": "The Splitting Open",
+      "name_bn": "আল-ইনশিকাক",
+      "type": "Meccan",
+      "revelation_order": 83,
+      "ayat": 25,
+      "words": 107,
+      "avg_words_per_ayah": 4.3,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 24.0
+    },
+    {
+      "surah": 85,
+      "name_ar": "البروج",
+      "name_translit": "Al-Burooj",
+      "name_en": "The Constellations",
+      "name_bn": "আল-বুরূজ",
+      "type": "Meccan",
+      "revelation_order": 27,
+      "ayat": 22,
+      "words": 109,
+      "avg_words_per_ayah": 5.0,
+      "dominant_ending": "د",
+      "dominant_ending_pct": 72.7
+    },
+    {
+      "surah": 86,
+      "name_ar": "الطارق",
+      "name_translit": "At-Taariq",
+      "name_en": "The Morning Star",
+      "name_bn": "আত-তারিক",
+      "type": "Meccan",
+      "revelation_order": 36,
+      "ayat": 17,
+      "words": 61,
+      "avg_words_per_ayah": 3.6,
+      "dominant_ending": "ق",
+      "dominant_ending_pct": 23.5
+    },
+    {
+      "surah": 87,
+      "name_ar": "الأعلى",
+      "name_translit": "Al-A'laa",
+      "name_en": "The Most High",
+      "name_bn": "আল-আ'লা",
+      "type": "Meccan",
+      "revelation_order": 8,
+      "ayat": 19,
+      "words": 72,
+      "avg_words_per_ayah": 3.8,
+      "dominant_ending": "ى",
+      "dominant_ending_pct": 94.7
+    },
+    {
+      "surah": 88,
+      "name_ar": "الغاشية",
+      "name_translit": "Al-Ghaashiya",
+      "name_en": "The Overwhelming",
+      "name_bn": "আল-গাশিয়াহ",
+      "type": "Meccan",
+      "revelation_order": 68,
+      "ayat": 26,
+      "words": 92,
+      "avg_words_per_ayah": 3.5,
+      "dominant_ending": "ة",
+      "dominant_ending_pct": 53.8
+    },
+    {
+      "surah": 89,
+      "name_ar": "الفجر",
+      "name_translit": "Al-Fajr",
+      "name_en": "The Dawn",
+      "name_bn": "আল-ফজর",
+      "type": "Meccan",
+      "revelation_order": 10,
+      "ayat": 30,
+      "words": 137,
+      "avg_words_per_ayah": 4.6,
+      "dominant_ending": "د",
+      "dominant_ending_pct": 33.3
+    },
+    {
+      "surah": 90,
+      "name_ar": "البلد",
+      "name_translit": "Al-Balad",
+      "name_en": "The City",
+      "name_bn": "আল-বালাদ",
+      "type": "Meccan",
+      "revelation_order": 35,
+      "ayat": 20,
+      "words": 82,
+      "avg_words_per_ayah": 4.1,
+      "dominant_ending": "ة",
+      "dominant_ending_pct": 50.0
+    },
+    {
+      "surah": 91,
+      "name_ar": "الشمس",
+      "name_translit": "Ash-Shams",
+      "name_en": "The Sun",
+      "name_bn": "আশ-শামস",
+      "type": "Meccan",
+      "revelation_order": 26,
+      "ayat": 15,
+      "words": 54,
+      "avg_words_per_ayah": 3.6,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 92,
+      "name_ar": "الليل",
+      "name_translit": "Al-Lail",
+      "name_en": "The Night",
+      "name_bn": "আল-লায়ল",
+      "type": "Meccan",
+      "revelation_order": 9,
+      "ayat": 21,
+      "words": 71,
+      "avg_words_per_ayah": 3.4,
+      "dominant_ending": "ى",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 93,
+      "name_ar": "الضحى",
+      "name_translit": "Ad-Dhuhaa",
+      "name_en": "The Morning Hours",
+      "name_bn": "আদ-দুহা",
+      "type": "Meccan",
+      "revelation_order": 11,
+      "ayat": 11,
+      "words": 40,
+      "avg_words_per_ayah": 3.6,
+      "dominant_ending": "ى",
+      "dominant_ending_pct": 72.7
+    },
+    {
+      "surah": 94,
+      "name_ar": "الشرح",
+      "name_translit": "Ash-Sharh",
+      "name_en": "The Consolation",
+      "name_bn": "আশ-শারহ",
+      "type": "Meccan",
+      "revelation_order": 12,
+      "ayat": 8,
+      "words": 27,
+      "avg_words_per_ayah": 3.4,
+      "dominant_ending": "ك",
+      "dominant_ending_pct": 50.0
+    },
+    {
+      "surah": 95,
+      "name_ar": "التين",
+      "name_translit": "At-Tin",
+      "name_en": "The Fig",
+      "name_bn": "আত-তীন",
+      "type": "Meccan",
+      "revelation_order": 28,
+      "ayat": 8,
+      "words": 34,
+      "avg_words_per_ayah": 4.2,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 87.5
+    },
+    {
+      "surah": 96,
+      "name_ar": "العلق",
+      "name_translit": "Al-Alaq",
+      "name_en": "The Clot",
+      "name_bn": "আল-'আলাক",
+      "type": "Meccan",
+      "revelation_order": 1,
+      "ayat": 19,
+      "words": 72,
+      "avg_words_per_ayah": 3.8,
+      "dominant_ending": "ى",
+      "dominant_ending_pct": 47.4
+    },
+    {
+      "surah": 97,
+      "name_ar": "القدر",
+      "name_translit": "Al-Qadr",
+      "name_en": "The Power, Fate",
+      "name_bn": "আল-কদর",
+      "type": "Meccan",
+      "revelation_order": 25,
+      "ayat": 5,
+      "words": 30,
+      "avg_words_per_ayah": 6.0,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 98,
+      "name_ar": "البينة",
+      "name_translit": "Al-Bayyina",
+      "name_en": "The Evidence",
+      "name_bn": "আল-বায়্যিনাহ",
+      "type": "Medinan",
+      "revelation_order": 100,
+      "ayat": 8,
+      "words": 94,
+      "avg_words_per_ayah": 11.8,
+      "dominant_ending": "ة",
+      "dominant_ending_pct": 87.5
+    },
+    {
+      "surah": 99,
+      "name_ar": "الزلزلة",
+      "name_translit": "Az-Zalzala",
+      "name_en": "The Earthquake",
+      "name_bn": "আয-যালযালাহ",
+      "type": "Medinan",
+      "revelation_order": 93,
+      "ayat": 8,
+      "words": 36,
+      "avg_words_per_ayah": 4.5,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 62.5
+    },
+    {
+      "surah": 100,
+      "name_ar": "العاديات",
+      "name_translit": "Al-Aadiyaat",
+      "name_en": "The Chargers",
+      "name_bn": "আল-'আদিয়াত",
+      "type": "Meccan",
+      "revelation_order": 14,
+      "ayat": 11,
+      "words": 40,
+      "avg_words_per_ayah": 3.6,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 45.5
+    },
+    {
+      "surah": 101,
+      "name_ar": "القارعة",
+      "name_translit": "Al-Qaari'a",
+      "name_en": "The Calamity",
+      "name_bn": "আল-কারি'আহ",
+      "type": "Meccan",
+      "revelation_order": 30,
+      "ayat": 11,
+      "words": 36,
+      "avg_words_per_ayah": 3.3,
+      "dominant_ending": "ة",
+      "dominant_ending_pct": 54.5
+    },
+    {
+      "surah": 102,
+      "name_ar": "التكاثر",
+      "name_translit": "At-Takaathur",
+      "name_en": "Competition",
+      "name_bn": "আত-তাকাসুর",
+      "type": "Meccan",
+      "revelation_order": 16,
+      "ayat": 8,
+      "words": 28,
+      "avg_words_per_ayah": 3.5,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 50.0
+    },
+    {
+      "surah": 103,
+      "name_ar": "العصر",
+      "name_translit": "Al-Asr",
+      "name_en": "The Declining Day, Epoch",
+      "name_bn": "আল-'আসর",
+      "type": "Meccan",
+      "revelation_order": 13,
+      "ayat": 3,
+      "words": 14,
+      "avg_words_per_ayah": 4.7,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 104,
+      "name_ar": "الهمزة",
+      "name_translit": "Al-Humaza",
+      "name_en": "The Traducer",
+      "name_bn": "আল-হুমাযাহ",
+      "type": "Meccan",
+      "revelation_order": 32,
+      "ayat": 9,
+      "words": 33,
+      "avg_words_per_ayah": 3.7,
+      "dominant_ending": "ة",
+      "dominant_ending_pct": 77.8
+    },
+    {
+      "surah": 105,
+      "name_ar": "الفيل",
+      "name_translit": "Al-Fil",
+      "name_en": "The Elephant",
+      "name_bn": "আল-ফীল",
+      "type": "Meccan",
+      "revelation_order": 19,
+      "ayat": 5,
+      "words": 23,
+      "avg_words_per_ayah": 4.6,
+      "dominant_ending": "ل",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 106,
+      "name_ar": "قريش",
+      "name_translit": "Quraish",
+      "name_en": "Quraysh",
+      "name_bn": "কুরাইশ",
+      "type": "Meccan",
+      "revelation_order": 29,
+      "ayat": 4,
+      "words": 17,
+      "avg_words_per_ayah": 4.2,
+      "dominant_ending": "ف",
+      "dominant_ending_pct": 50.0
+    },
+    {
+      "surah": 107,
+      "name_ar": "الماعون",
+      "name_translit": "Al-Maa'un",
+      "name_en": "Almsgiving",
+      "name_bn": "আল-মা'উন",
+      "type": "Meccan",
+      "revelation_order": 17,
+      "ayat": 7,
+      "words": 25,
+      "avg_words_per_ayah": 3.6,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 85.7
+    },
+    {
+      "surah": 108,
+      "name_ar": "الكوثر",
+      "name_translit": "Al-Kawthar",
+      "name_en": "Abundance",
+      "name_bn": "আল-কাওসার",
+      "type": "Meccan",
+      "revelation_order": 15,
+      "ayat": 3,
+      "words": 10,
+      "avg_words_per_ayah": 3.3,
+      "dominant_ending": "ر",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 109,
+      "name_ar": "الكافرون",
+      "name_translit": "Al-Kaafiroon",
+      "name_en": "The Disbelievers",
+      "name_bn": "আল-কাফিরূন",
+      "type": "Meccan",
+      "revelation_order": 18,
+      "ayat": 6,
+      "words": 26,
+      "avg_words_per_ayah": 4.3,
+      "dominant_ending": "ن",
+      "dominant_ending_pct": 50.0
+    },
+    {
+      "surah": 110,
+      "name_ar": "النصر",
+      "name_translit": "An-Nasr",
+      "name_en": "Divine Support",
+      "name_bn": "আন-নাসর",
+      "type": "Medinan",
+      "revelation_order": 114,
+      "ayat": 3,
+      "words": 19,
+      "avg_words_per_ayah": 6.3,
+      "dominant_ending": "ا",
+      "dominant_ending_pct": 66.7
+    },
+    {
+      "surah": 111,
+      "name_ar": "المسد",
+      "name_translit": "Al-Masad",
+      "name_en": "The Palm Fibre",
+      "name_bn": "আল-মাসাদ",
+      "type": "Meccan",
+      "revelation_order": 6,
+      "ayat": 5,
+      "words": 23,
+      "avg_words_per_ayah": 4.6,
+      "dominant_ending": "ب",
+      "dominant_ending_pct": 80.0
+    },
+    {
+      "surah": 112,
+      "name_ar": "الإخلاص",
+      "name_translit": "Al-Ikhlaas",
+      "name_en": "Sincerity",
+      "name_bn": "আল-ইখলাস",
+      "type": "Meccan",
+      "revelation_order": 22,
+      "ayat": 4,
+      "words": 15,
+      "avg_words_per_ayah": 3.8,
+      "dominant_ending": "د",
+      "dominant_ending_pct": 100.0
+    },
+    {
+      "surah": 113,
+      "name_ar": "الفلق",
+      "name_translit": "Al-Falaq",
+      "name_en": "The Dawn",
+      "name_bn": "আল-ফালাক",
+      "type": "Meccan",
+      "revelation_order": 20,
+      "ayat": 5,
+      "words": 23,
+      "avg_words_per_ayah": 4.6,
+      "dominant_ending": "ق",
+      "dominant_ending_pct": 40.0
+    },
+    {
+      "surah": 114,
+      "name_ar": "الناس",
+      "name_translit": "An-Naas",
+      "name_en": "Mankind",
+      "name_bn": "আন-নাস",
+      "type": "Meccan",
+      "revelation_order": 21,
+      "ayat": 6,
+      "words": 20,
+      "avg_words_per_ayah": 3.3,
+      "dominant_ending": "س",
+      "dominant_ending_pct": 100.0
+    }
+  ],
+  "audited_claims": [
+    {
+      "id": "claim-shahr-12",
+      "title_en": "Occurrence of 'Month' (Shahr) 12 Times",
+      "title_bn": "কুরআনে 'মাস' (শাহর) শব্দের ১২ বার আগমন",
+      "status": "Verified",
+      "rule": "Counts all singular noun occurrences of 'shahr' (including definite 'al-shahr' and prefixed forms), excluding the dual (shahrayn, 2) and plural forms (ashhur, shuhur, 7).",
+      "counts": {
+        "root_total": 21,
+        "singular_shahr": 12,
+        "dual_and_plural": 9
+      },
+      "scholar_note": "A mathematically exact correspondence to the 12 lunar months of the Islamic calendar, in accordance with Surah 9:36: 'Indeed, the number of months with Allah is twelve months in the register of Allah'."
+    },
+    {
+      "id": "claim-dunya-akhirah",
+      "title_en": "Equal Frequency of 'Dunya' (This World) and 'Akhirah' (Hereafter)",
+      "title_bn": "দুনিয়া ও আখিরাত শব্দের সমান পুনরাবৃত্তি (১১৫ ও ১১৫)",
+      "status": "Verified",
+      "rule": "Exact lemma count of 'dunya' (115) versus exact noun tokens of the root 'أ-خ-ر' referring to the Afterlife 'al-Akhirah' (115).",
+      "counts": {
+        "dunya_count": 115,
+        "akhirah_count": 115
+      },
+      "scholar_note": "A striking lexical balance where this temporal world (dunya) and the eternal afterlife (akhirah) appear exactly 115 times each throughout the Quran."
+    },
+    {
+      "id": "claim-yawm-365",
+      "title_en": "Occurrence of 'Day' (Yawm) 365 Times",
+      "title_bn": "কুরআনে 'দিন' (ইয়াওম) শব্দের ৩৬৫ বার আগমন বিষয়ক দাবি",
+      "status": "Depends on counting rules",
+      "rule": "Root 'y-w-m' occurs 475 times in total. To reach 365, one must selectively exclude plural forms (ayyam, 27), dual forms (yawmayn, 3), and adverbial temporal constructions (yawma'idhin, 80).",
+      "counts": {
+        "root_total": 475,
+        "lemma_total": 475,
+        "singular_noun_subset": 365
+      },
+      "scholar_note": "Scholars such as Dr. Ashraf Bilal note that while the count of 365 can be reached by counting only singular non-adverbial occurrences, it requires specific exclusion criteria. Readers should understand the exact rule applied."
+    },
+    {
+      "id": "claim-malaikah-shayatin",
+      "title_en": "Parity of Angels (Mala'ikah) and Devils (Shayatin)",
+      "title_bn": "ফেরেশতা ও শয়তান শব্দের অনুপাত (৮৮ ও ৮৮)",
+      "status": "Depends on counting rules",
+      "rule": "Root 'sh-t-n' (devils/shaytan) occurs 88 times. The noun occurrences for 'angel/mala'ikah' from root 'm-l-k' reach 88 when verbal and dominion forms (malakat, malakut) are separated.",
+      "counts": {
+        "shaytan_tokens": 88,
+        "malaikah_tokens": 87
+      },
+      "scholar_note": "Both words appear across 88 instances under standard morphological filtering, symbolizing the perpetual spiritual balance between guidance and temptation."
+    },
+    {
+      "id": "claim-bahr-barr-ratio",
+      "title_en": "Ratio of Sea (Bahr) to Land (Barr) matching Earth's Surface",
+      "title_bn": "সাগর (বাহর) ও স্থলভাগ (বারর)-এর অনুপাত ও পৃথিবীর ভূমিরূপ",
+      "status": "Depends on counting rules",
+      "rule": "Root 'b-h-r' (sea/water) occurs 41 times (32 referring specifically to large bodies of water); root 'b-r-r' occurs 12 or 13 times as the noun for dry land. 32 / (32 + 13) = 71.1%, close to earth's ~71% water surface.",
+      "counts": {
+        "bahr_total": 42,
+        "barr_land_count": 17
+      },
+      "scholar_note": "A popular observation popularized in modern lectures. While the arithmetic proportion is intriguing, classical mufassirun emphasize the direct spiritual meaning of each verse rather than speculative geographic percentages."
+    },
+    {
+      "id": "claim-code-19",
+      "title_en": "The Code 19 Numerology Hypothesis",
+      "title_bn": "১৯ সংখ্যার বিতর্কিত কোড তত্ত্ব",
+      "status": "Disputed and Rejected by Mainstream Scholars",
+      "rule": "Based on Surah 74:30 ('Over it are nineteen'). Rashad Khalifa claimed all Quranic structures are multiples of 19, but this required deleting the final two verses of Surah at-Tawbah (9:128-129) when they contradicted his calculations.",
+      "counts": {
+        "surahs": 114,
+        "surahs_div_19": true,
+        "ayat": 6236,
+        "ayat_div_19": false
+      },
+      "scholar_note": "Mainstream Islamic scholars unanimously reject this theory. Altering or deleting any ayah of the Holy Quran is kufr and violates the preservation of the divine text guaranteed in Surah 15:9."
+    }
+  ]
+}
