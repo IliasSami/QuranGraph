@@ -3,6 +3,7 @@ import Layout from "../../layouts/Layout.astro";
 import rootsData from "../../../../ingest/work/export/graph/roots.json" with { type: "json" };
 import corpusData from "../../lib/search/corpus.json" with { type: "json" };
 import surahsData from "../../lib/search/surahs.json" with { type: "json" };
+import { getRootGloss } from "../../lib/graph/lexicon.ts";
 
 export function getStaticPaths() {
   const entries = Object.entries(rootsData as Record<string, any>);
@@ -13,6 +14,7 @@ export function getStaticPaths() {
 }
 
 const { rootData } = Astro.props;
+const gloss = getRootGloss(rootData.root);
 
 // Build fast lookup for ayat
 const corpusMap = new Map();
@@ -37,19 +39,20 @@ const matchingAyat = (rootData.ayat || []).map((ref: string) => {
     aNum,
     surahName: s ? s.name_translit : `Surah ${sId}`,
     surahNameBn: s ? s.name_bn : "",
-    ar: item ? item.ar : "",
+    ar: item ? (item.ar_u || item.ar) : "",
+    tr: item ? item.tr : "",
     en: item ? item.en : "",
     bn: item ? item.bn : ""
   };
 });
 ---
 
-<Layout title={`Root ${rootData.root} — Quranic Occurrences & Derived Words`}>
+<Layout title={`Root ${gloss.label_en} (${rootData.root}) — Quranic Occurrences & Derived Words`}>
   <div style="padding: 3rem 0;">
     <div class="container" style="max-width: 860px;">
       <!-- Breadcrumb -->
       <nav aria-label="Breadcrumb" style="margin-bottom: 2rem; font-size: 0.9rem; color: var(--text-muted);">
-        <a href="/graph">Knowledge Graph</a> / <span>Arabic Roots</span> / <span class="arabic-text" lang="ar" dir="rtl">{rootData.root}</span>
+        <a href="/graph">Knowledge Graph</a> / <span>Arabic Roots</span> / <span>{gloss.label_en}</span>
       </nav>
 
       <!-- Root Hero Card -->
@@ -57,10 +60,18 @@ const matchingAyat = (rootData.ayat || []).map((ref: string) => {
         <div style="font-size: 0.85rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem; letter-spacing: 0.05em;">
           Quranic Triliteral Root
         </div>
-        <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 4rem; color: var(--accent-teal); line-height: 1.2; margin-bottom: 1rem;">
-          {rootData.root}
+        <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 3.8rem; color: var(--accent-teal); line-height: 1.2; margin-bottom: 0.5rem; letter-spacing: 0.1em;">
+          {rootData.root.split("").join(" ")}
         </div>
-        <div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap;">
+        <div style="font-size: 1.35rem; font-weight: 700; color: var(--text-main); margin-bottom: 0.25rem;">
+          {gloss.label_en}
+        </div>
+        {gloss.label_bn && (
+          <div class="bangla-text" lang="bn" style="font-size: 1.05rem; color: var(--text-muted); margin-bottom: 1.25rem;">
+            {gloss.label_bn}
+          </div>
+        )}
+        <div style="display: flex; justify-content: center; gap: 0.75rem; flex-wrap: wrap;">
           <span class="badge badge-teal" style="font-size: 0.85rem; padding: 0.4rem 0.85rem;">
             {rootData.occurrences} Quranic occurrences
           </span>
@@ -111,19 +122,25 @@ const matchingAyat = (rootData.ayat || []).map((ref: string) => {
               </div>
 
               {m.ar && (
-                <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.6rem; margin-bottom: 0.75rem; color: var(--text-arabic);">
+                <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.6rem; margin-bottom: 0.5rem; color: var(--text-arabic); line-height: 1.8;">
                   {m.ar}
                 </div>
               )}
 
+              {m.tr && (
+                <div style="font-size: 0.92rem; font-style: italic; color: var(--accent-gold); margin-bottom: 0.5rem; font-family: var(--font-latin); line-height: 1.4;">
+                  {m.tr}
+                </div>
+              )}
+
               {m.en && (
-                <div style="font-size: 0.95rem; line-height: 1.55; color: var(--text-main); margin-bottom: 0.4rem;">
+                <div style="font-size: 0.95rem; line-height: 1.55; color: var(--text-main); margin-bottom: 0.35rem;">
                   {m.en}
                 </div>
               )}
 
               {m.bn && (
-                <div class="bangla-text" lang="bn" style="font-size: 0.9rem; line-height: 1.65; color: var(--text-muted);">
+                <div class="bangla-text" lang="bn" style="font-size: 0.9rem; line-height: 1.65; color: var(--text-muted); margin-bottom: 0.5rem;">
                   {m.bn}
                 </div>
               )}

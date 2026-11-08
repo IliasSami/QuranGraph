@@ -507,12 +507,13 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
     const simSurah = surahMap.get(simS);
     const simNodeId = `ayah:${simRef}`;
     const overlapPct = Math.round((sim.score || 0) * 100);
-    const simAyahRecord = corpusMap.get(simRef) || { ar: "", en: "", bn: "" };
+    const simAyahRecord = corpusMap.get(simRef) || { ar: "", ar_u: "", en: "", bn: "" };
+    const simArText = simAyahRecord.ar_u || simAyahRecord.ar || "";
 
     addNode({
       id: simNodeId,
       label: `${simSurah ? simSurah.name_translit : `Surah ${simS}`} ${simRef} (${overlapPct}% overlap)`,
-      label_ar: simAyahRecord.ar?.slice(0, 36) + (simAyahRecord.ar?.length > 36 ? "..." : ""),
+      label_ar: simArText.slice(0, 40) + (simArText.length > 40 ? "..." : ""),
       label_bn: simSurah ? simSurah.name_bn : "",
       sublabel: `${overlapPct}% shared lemmas (${(sim.shared_lemmas || []).slice(0, 2).join(", ")})`,
       relationLabel: `Shared Lemmas (${(sim.shared_lemmas || []).slice(0, 2).join(", ")})`,

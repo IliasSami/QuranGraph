@@ -27,6 +27,15 @@ def load_json(path):
         return json.load(f)
 
 
+AR_CONSONANTS = {
+    "ء": "’", "آ": "ā", "أ": "’", "إ": "’", "ا": "a", "ب": "b", "ت": "t",
+    "ث": "th", "ج": "j", "ح": "ḥ", "خ": "kh", "د": "d", "ذ": "dh", "ر": "r",
+    "ز": "z", "س": "s", "ش": "sh", "ص": "ṣ", "ض": "ḍ", "ط": "ṭ", "ظ": "ẓ",
+    "ع": "‘", "غ": "gh", "ف": "f", "ق": "q", "ك": "k", "ل": "l", "م": "m",
+    "ن": "n", "ه": "h", "ة": "h", "و": "w", "ي": "y", "ى": "ā", "ؤ": "’", "ئ": "’"
+}
+
+
 def parse_ayah_spec(spec):
     """Parses specs like '12:4-6' or '2:255' into a list of (surah, ayah) tuples."""
     results = []
@@ -126,12 +135,13 @@ class KnowledgeGraphBuilder:
         # Roots and Lemmas
         c.execute("SELECT DISTINCT root FROM word WHERE root IS NOT NULL")
         for (root,) in c.fetchall():
+            tr = "".join(AR_CONSONANTS.get(ch, ch) for ch in root)
             self.add_node(
                 node_id=f"root:{root}",
                 node_type="root",
-                label_en=root,
+                label_en=f"Root {tr}",
                 label_ar=root,
-                label_bn=root
+                label_bn=f"আরবি মূলশব্দ ({root})"
             )
 
         c.execute("SELECT DISTINCT lemma, root FROM word WHERE lemma IS NOT NULL")

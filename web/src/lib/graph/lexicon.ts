@@ -10,7 +10,7 @@ const ARABIC_CHAR_TRANSLIT: Record<string, string> = {
   "ث": "th", "ج": "j", "ح": "ḥ", "خ": "kh", "د": "d", "ذ": "dh", "ر": "r",
   "ز": "z", "س": "s", "ش": "sh", "ص": "ṣ", "ض": "ḍ", "ط": "ṭ", "ظ": "ẓ",
   "ع": "‘", "غ": "gh", "ف": "f", "ق": "q", "ك": "k", "ل": "l", "م": "m",
-  "ن": "n", "ه": "h", "ة": "h", "و": "w", "ي": "y", "ى": "ā"
+  "ن": "n", "ه": "h", "ة": "h", "و": "w", "ي": "y", "ى": "ā", "ؤ": "’", "ئ": "’"
 };
 
 /**
@@ -146,7 +146,46 @@ export const THEME_DICTIONARY: Record<string, { ar: string; bn: string; enTitle:
   "story-of-yusuf": { ar: "قصة يوسف عليه السلام", bn: "ইউসুফ (আ.)-এর ধারাবাহিক ঘটনা", enTitle: "Narrative of Prophet Yusuf" },
   "prophetic-dream": { ar: "الرؤيا الصادقة", bn: "সত্য স্বপ্ন ও তার তাৎপর্য", enTitle: "Prophetic True Dreams" },
   "father-and-son": { ar: "بر الوالدين والعلاقة الأسرية", bn: "পিতা-পুত্রের সম্মান ও সম্পর্ক", enTitle: "Father-Son Reverence" },
-  "respectful-speech": { ar: "أدب الحديث والقول السديد", bn: "উত্তম ও মার্জিত বাক্য", enTitle: "Speech Etiquette & Kindness" }
+  "respectful-speech": { ar: "أدب الحديث والقول السديد", bn: "উত্তম ও মার্জিত বাক্য", enTitle: "Speech Etiquette & Kindness" },
+  "punishment": { ar: "العذاب والوعيد", bn: "শাস্তি ও আযাবের সতর্কবাণী", enTitle: "Divine Punishment" },
+  "reward": { ar: "الثواب والجزاء الحسن", bn: "প্রতিদান ও পুরস্কার", enTitle: "Divine Reward & Recompense" },
+  "warning": { ar: "الإنذار والتخويف", bn: "সতর্কীকরণ ও সাবধানবাণী", enTitle: "Divine Warning" },
+  "disbelief": { ar: "الكفر والجحود", bn: "কুফরি ও সত্য প্রত্যাখ্যান", enTitle: "Disbelief (Kufr)" },
+  "paradise": { ar: "الجنة ونعيمها", bn: "জান্নাত ও চিরস্থায়ী সুখ", enTitle: "Paradise (Jannah)" },
+  "revelation": { ar: "الوحي والتنزيل", bn: "ওহী ও আসমানী কিতাব", enTitle: "Divine Revelation (Wahy)" },
+  "hell": { ar: "جهنم وسعيرها", bn: "জাহান্নাম ও নরকাগ্নি", enTitle: "Hellfire (Jahannam)" },
+  "stories-of-the-prophets": { ar: "قصص الأنبياء عليهم السلام", bn: "নবীগণের ঐতিহাসিক শিক্ষণীয় কাহিনী", enTitle: "Stories of the Prophets" },
+  "resurrection": { ar: "البعث والنشور", bn: "পুনরুত্থান ও বিচার দিবস", enTitle: "Resurrection & Afterlife" },
+  "the-quran": { ar: "القرآن الكريم المعجز", bn: "পবিত্র কুরআনুল কারীম", enTitle: "The Noble Quran" },
+  "names-and-attributes-of-allah": { ar: "أسماء الله وصفاته العلى", bn: "আল্লাহর সুন্দরতম নাম ও গুণাবলী", enTitle: "Divine Names & Attributes" },
+  "trust-in-allah": { ar: "التوكل على الله", bn: "আল্লাহর ওপর তাওয়াক্কুল ও ভরসা", enTitle: "Trust in Allah (Tawakkul)" },
+  "signs-in-nature": { ar: "الآيات الكونية في الخلق", bn: "প্রকৃতিতে সৃষ্টির ঐশ্বরিক নিদর্শন", enTitle: "Signs in Nature & Creation" },
+  "good-character": { ar: "مكارم الأخلاق وحسن المعاملة", bn: "উত্তম চরিত্র ও সুন্দর আচরণ", enTitle: "Noble Character & Morality" },
+  "prophet-muhammad-ﷺ": { ar: "النبي محمد خاتم المرسلين ﷺ", bn: "নবী করীম মুহাম্মদ ﷺ", enTitle: "Prophet Muhammad ﷺ" },
+  "taqwa": { ar: "التقوى ومخافة الله", bn: "তাকওয়া ও আল্লাহভীতি", enTitle: "God-Consciousness (Taqwa)" },
+  "trials": { ar: "الابتلاء والاختبار في الحياة", bn: "জীবনপরীক্ষা ও মুসিবত", enTitle: "Trials & Tribulations" },
+  "reflection": { ar: "التدبر والتفكر في الآيات", bn: "তাদাব্বুর ও গভীর চিন্তা-ভাবনা", enTitle: "Reflection & Contemplation" },
+  "forgiveness": { ar: "المغفرة والعفو", bn: "মাগফিরাত ও ক্ষমা", enTitle: "Forgiveness & Pardon" },
+  "angels": { ar: "الملائكة المقربون", bn: "সম্মানিত ফেরেশতাকুল", enTitle: "Angels (Mala'ikah)" },
+  "past-nations": { ar: "عبرة الأمم السالفة", bn: "অতীতের ধ্বংসপ্রাপ্ত জাতিদের শিক্ষা", enTitle: "Lessons from Past Nations" },
+  "humility": { ar: "التواضع وخفض الجناح", bn: "বিনয় ও নম্রতা", enTitle: "Humility & Modesty" },
+  "human-nature": { ar: "فطرة الإنسان وطبعه", bn: "মানুষের স্বভাবজাত প্রকৃতি", enTitle: "Human Nature & Fitrah" },
+  "accountability": { ar: "المسؤولية والحساب", bn: "জবাবদিহিতা ও আত্মোপলব্ধি", enTitle: "Personal Accountability" },
+  "wealth": { ar: "المال والرزق والفتنة به", bn: "সম্পদ, রিজিক ও তার পরীক্ষা", enTitle: "Wealth & Material Provisions" },
+  "hereafter": { ar: "الدار الآخرة والخلود", bn: "চিরন্তন পরকাল", enTitle: "The Hereafter (Akhirah)" },
+  "allah's-knowledge": { ar: "علم الله المحيط بكل شيء", bn: "আল্লাহর সর্ববেষ্টনকারী জ্ঞান", enTitle: "Allah's Infinite Knowledge" },
+  "misguidance": { ar: "الضلال واتباع الهوى", bn: "গোমরাহী ও বিভ্রান্তি", enTitle: "Misguidance & Straying" },
+  "family": { ar: "الأسرة وصلة الأرحام", bn: "পরিবার ও আত্মীয়তার বন্ধন", enTitle: "Family & Kinship" },
+  "shirk": { ar: "الشرك بالله والتحذير منه", bn: "শিরক ও পৌত্তলিকতা পরিহার", enTitle: "Shirk (Associating Partners with God)" },
+  "honesty": { ar: "الصدق والأمانة", bn: "সততা ও আমানতদারিতা", enTitle: "Honesty & Trustworthiness" },
+  "the-unseen": { ar: "الإيمان بالغيب", bn: "অদৃশ্যের প্রতি বিশ্বাস", enTitle: "The Unseen Realm (Ghayb)" },
+  "children-of-israel": { ar: "بنو إسرائيل وعهدهم", bn: "বনী ইসরাঈল ও তাদের অঙ্গীকার", enTitle: "Children of Israel" },
+  "dua": { ar: "الدعاء والتضرع إلى الله", bn: "দোয়া ও আল্লাহর সমীপে প্রার্থনা", enTitle: "Supplication & Prayer (Du'a)" },
+  "death": { ar: "الموت والانتقال إلى البرزخ", bn: "মৃত্যু ও অন্তর্বর্তী জগতে গমন", enTitle: "Mortality & Death" },
+  "mercy": { ar: "الرحمة والإحسان للخلق", bn: "দয়া ও পরোপকার", enTitle: "Compassion & Mercy (Rahmah)" },
+  "peace": { ar: "السلام والأمان", bn: "শান্তি ও নিরাপত্তা", enTitle: "Peace & Reconciliation (Salam)" },
+  "satan": { ar: "مكائد الشيطان والتحذير منه", bn: "শয়তানের চক্রান্ত ও প্রতারণা", enTitle: "Satan & Deception (Shaytan)" },
+  "brotherhood": { ar: "الأخوة الإيمانية والمودة", bn: "ঈমানী ভ্রাতৃত্ব ও সৌহার্দ্য", enTitle: "Islamic Brotherhood" }
 };
 
 /**
