@@ -1,5 +1,6 @@
 ---
 import "../styles/global.css";
+import surahsData from "../lib/search/surahs.json" with { type: "json" };
 
 interface Props {
   title?: string;
@@ -10,13 +11,24 @@ const {
   title = "QuranGraph — The Connected Quran Knowledge System",
   description = "A connected, beginner-first Quran explorer joining concepts, stories, words, and statistics in English and Bangla."
 } = Astro.props;
+
+// Prepare compact surahs payload for the quick jump dialog
+const compactSurahs = surahsData.map(s => ({
+  id: s.id,
+  ar: s.name_ar,
+  tr: s.name_translit,
+  en: s.name_en,
+  bn: s.name_bn,
+  ay: s.ayat,
+  tp: s.type
+}));
 ---
 
 <!doctype html>
 <html lang="en" data-theme="light">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="manifest" href="/manifest.json" />
     <meta name="theme-color" content="#0f766e" />
@@ -44,171 +56,525 @@ const {
     </script>
   </head>
   <body>
-    <header class="site-header">
-      <div class="container nav-container">
-        <a href="/" class="logo">
-          <span class="logo-symbol" aria-hidden="true">۞</span>
-          <span>QuranGraph</span>
+    <!-- App Top Bar (Sleek, app-style header) -->
+    <header class="app-top-bar">
+      <div class="app-top-inner">
+        <!-- Brand -->
+        <a href="/surahs" class="app-brand" title="QuranGraph — Connected Quran Knowledge">
+          <span class="app-brand-glyph" aria-hidden="true">۞</span>
+          <span class="app-brand-name">QuranGraph</span>
         </a>
 
-        <nav aria-label="Main Navigation">
-          <ul class="nav-links" id="main-nav-links">
-            <li><a href="/" class="nav-link">Home</a></li>
-            <li><a href="/surahs" class="nav-link">Surahs</a></li>
-            <li><a href="/search" class="nav-link">Search</a></li>
-            <li><a href="/graph" class="nav-link">Graph</a></li>
-            <li><a href="/numbers" class="nav-link">Numbers Lab</a></li>
-            <li><a href="/learn" class="nav-link">Learn</a></li>
-            <li><a href="/sources" class="nav-link">Sources</a></li>
-          </ul>
-        </nav>
+        <!-- Quick Jump Pill (Command Palette Trigger) -->
+        <button id="app-quick-jump-btn" class="app-quick-jump-trigger" aria-label="Open Quick Jump (Press /)" title="Quick Jump (Press /)">
+          <svg class="icon-svg-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <span class="jump-pill-text">Jump to Surah / Ayah...</span>
+          <kbd class="jump-pill-kbd">/</kbd>
+        </button>
 
-        <div class="header-controls">
-          <a id="last-read-nav" href="#" class="btn-icon" style="display: none;" title="Resume last read verse" aria-label="Resume last read verse">
+        <!-- Utility Controls -->
+        <div class="app-top-controls">
+          <!-- Last Read Pill -->
+          <a id="last-read-nav" href="#" class="btn-top-pill last-read-pill" style="display: none;" title="Resume last read verse" aria-label="Resume last read verse">
             <span aria-hidden="true">📖</span>
-            <span class="last-read-label" style="font-size: 0.8rem; margin-left: 0.25rem; font-weight: 600;">Last Read</span>
+            <span class="last-read-label">2:255</span>
           </a>
-          <div class="font-scale-control" role="group" aria-label="Arabic font size controls">
-            <button id="font-scale-dec" class="btn-icon font-btn" aria-label="Decrease Arabic font size" title="Smaller Arabic text">A−</button>
-            <button id="font-scale-inc" class="btn-icon font-btn" aria-label="Increase Arabic font size" title="Larger Arabic text">A+</button>
+
+          <!-- Font Size Scaler -->
+          <div class="font-scale-group" role="group" aria-label="Arabic font size controls">
+            <button id="font-scale-dec" class="btn-top-pill font-btn" aria-label="Decrease Arabic font size" title="Smaller Arabic text">A−</button>
+            <button id="font-scale-inc" class="btn-top-pill font-btn" aria-label="Increase Arabic font size" title="Larger Arabic text">A+</button>
           </div>
-          <button id="theme-toggle" class="btn-icon" aria-label="Toggle visual theme">
-            🌓 Theme
+
+          <!-- Theme Toggle -->
+          <button id="theme-toggle" class="btn-top-pill" aria-label="Toggle visual theme" title="Switch Theme">
+            🌓
           </button>
-          <button id="mobile-nav-toggle" class="mobile-menu-btn" aria-label="Toggle navigation menu" aria-expanded="false">
-            ☰
+
+          <!-- Settings & Overview Sheet Trigger -->
+          <button id="app-settings-btn" class="btn-top-pill" aria-label="App Overview & Settings" title="Settings & Overview">
+            ⚙️
           </button>
         </div>
       </div>
     </header>
 
-    <main>
+    <!-- Main Content Area with Dock-aware Bottom Offset -->
+    <main class="app-main-content">
       <slot />
     </main>
 
-    <footer class="site-footer">
-      <div class="container footer-grid">
-        <div>
-          <h3 style="font-weight: 700; margin-bottom: 0.5rem; color: var(--text-main);">QuranGraph</h3>
-          <p style="margin-bottom: 1rem; max-width: 420px;">
-            A transparent, connected exploration of the Holy Quran. Displayed Arabic text verbatim from Tanzil; translations and tafsir verbatim from QuranEnc.
-          </p>
-          <p style="font-size: 0.8rem; color: var(--text-muted);">
-            Open scholarly references · No ads · Free & open knowledge
-          </p>
+    <!-- App Bottom Sticky Navigation Dock -->
+    <nav class="app-bottom-dock" aria-label="Primary App Navigation">
+      <div class="app-dock-bar" role="tablist">
+        <a href="/surahs" class="dock-tab" data-tab="read" role="tab" aria-label="Read Quran Surahs & Verses">
+          <svg class="dock-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+            <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+            <path d="M8 7h8"></path>
+            <path d="M8 11h6"></path>
+          </svg>
+          <span class="dock-label">Read</span>
+        </a>
+
+        <a href="/search" class="dock-tab" data-tab="search" role="tab" aria-label="Search Quran Concepts & Words">
+          <svg class="dock-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <span class="dock-label">Search</span>
+        </a>
+
+        <a href="/graph" class="dock-tab" data-tab="graph" role="tab" aria-label="Connected Knowledge Graph">
+          <svg class="dock-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="18" cy="5" r="3"></circle>
+            <circle cx="6" cy="12" r="3"></circle>
+            <circle cx="18" cy="19" r="3"></circle>
+            <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"></line>
+            <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"></line>
+          </svg>
+          <span class="dock-label">Graph</span>
+        </a>
+
+        <a href="/learn" class="dock-tab" data-tab="learn" role="tab" aria-label="Interactive Quran Curriculum">
+          <svg class="dock-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M22 10v6M2 10l10-5 10 5-10 5z"></path>
+            <path d="M6 12v5c3 3 9 3 12 0v-5"></path>
+          </svg>
+          <span class="dock-label">Learn</span>
+        </a>
+
+        <a href="/numbers" class="dock-tab" data-tab="numbers" role="tab" aria-label="Numbers & 50% Vocabulary Lab">
+          <svg class="dock-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="18" y1="20" x2="18" y2="10"></line>
+            <line x1="12" y1="20" x2="12" y2="4"></line>
+            <line x1="6" y1="20" x2="6" y2="14"></line>
+          </svg>
+          <span class="dock-label">Numbers</span>
+        </a>
+      </div>
+    </nav>
+
+    <!-- App Quick Jump Command Palette Modal -->
+    <div id="app-quick-jump-modal" class="app-quick-jump-backdrop" role="dialog" aria-modal="true" aria-label="Quick Jump Command Palette" style="display: none;">
+      <div class="app-quick-jump-card">
+        <div class="quick-jump-input-bar">
+          <svg class="icon-svg" viewBox="0 0 24 24" style="color: var(--accent-teal);">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input
+            type="text"
+            id="quick-jump-input"
+            placeholder="Type Surah number, name, or verse (e.g. 2:255, 18, Mulk, يس, কাহফ)..."
+            autocomplete="off"
+            spellcheck="false"
+          />
+          <button id="quick-jump-clear" class="btn-clear" aria-label="Clear input" style="display: none;">✕</button>
+          <kbd class="esc-kbd">ESC</kbd>
         </div>
 
-        <div>
-          <h4 style="font-size: 0.95rem; font-weight: 600; margin-bottom: 0.75rem; color: var(--text-main);">Study & Explore</h4>
-          <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.4rem;">
-            <li><a href="/surahs">Browse Surahs</a></li>
-            <li><a href="/ayah/1/1">Al-Fatihah Study View</a></li>
-            <li><a href="/ayah/2/255">Ayat al-Kursi</a></li>
-            <li><a href="/graph">Knowledge Graph Explorer</a></li>
-            <li><a href="/numbers">Numbers Lab</a></li>
-          </ul>
+        <!-- Direct Ayah Jump Banner -->
+        <div id="quick-jump-direct-ayah" style="display: none; padding: 0.75rem 1rem; background: var(--accent-teal-subtle); border-bottom: 1px solid var(--border-color);">
+          <a id="quick-jump-direct-link" href="#" style="display: flex; justify-content: space-between; align-items: center; color: var(--accent-teal); font-weight: 700; text-decoration: none; font-size: 0.92rem;">
+            <span id="quick-jump-direct-text">Jump to Verse 2:255 (Ayat al-Kursi)</span>
+            <span>Open Verse →</span>
+          </a>
         </div>
 
-        <div>
-          <h4 style="font-size: 0.95rem; font-weight: 600; margin-bottom: 0.75rem; color: var(--text-main);">Methodology & Integrity</h4>
-          <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.4rem;">
-            <li><a href="/sources">Sources & Licences</a></li>
-            <li><a href="/learn">Learning Paths</a></li>
-            <li><a href="https://github.com" target="_blank" rel="noopener">Open Source Code</a></li>
-          </ul>
+        <!-- Frequent Quick Chips -->
+        <div id="quick-jump-chips" class="quick-jump-chips-bar">
+          <span style="font-size: 0.75rem; color: var(--text-muted); font-weight: 600;">Frequent:</span>
+          <button class="jump-chip" data-jump="/surah/1">1. Al-Fatihah</button>
+          <button class="jump-chip" data-jump="/ayah/2/255">2:255. Kursi</button>
+          <button class="jump-chip" data-jump="/surah/18">18. Al-Kahf</button>
+          <button class="jump-chip" data-jump="/surah/36">36. Ya-Sin</button>
+          <button class="jump-chip" data-jump="/surah/55">55. Ar-Rahman</button>
+          <button class="jump-chip" data-jump="/surah/67">67. Al-Mulk</button>
+          <button class="jump-chip" data-jump="/surah/112">112. Al-Ikhlas</button>
+        </div>
+
+        <!-- Search Results List -->
+        <div id="quick-jump-results" class="quick-jump-results-list" role="listbox">
+          <!-- Populated dynamically -->
         </div>
       </div>
-    </footer>
+    </div>
 
-    <script is:inline>
-      const themes = ["light", "dark", "sepia"];
-      const btn = document.getElementById("theme-toggle");
-      btn?.addEventListener("click", () => {
-        const current = document.documentElement.getAttribute("data-theme") || "light";
-        const nextIdx = (themes.indexOf(current) + 1) % themes.length;
-        const next = themes[nextIdx];
-        document.documentElement.setAttribute("data-theme", next);
-        localStorage.setItem("qg_theme", next);
-      });
+    <!-- App Settings & Overview Bottom Sheet -->
+    <div id="app-sheet-modal" class="app-sheet-backdrop" role="dialog" aria-modal="true" aria-labelledby="sheet-title" style="display: none;">
+      <div class="app-sheet-panel">
+        <div class="app-sheet-handle-bar">
+          <div class="sheet-drag-handle"></div>
+        </div>
 
-      // Mobile Menu Management
-      const navToggle = document.getElementById("mobile-nav-toggle");
-      const navLinks = document.getElementById("main-nav-links");
-      function setMobileMenu(open) {
-        if (!navLinks || !navToggle) return;
-        const willOpen = open !== undefined ? open : !navLinks.classList.contains("open");
-        navLinks.classList.toggle("open", willOpen);
-        navToggle.setAttribute("aria-expanded", willOpen ? "true" : "false");
-        navToggle.textContent = willOpen ? "✕" : "☰";
-      }
-      navToggle?.addEventListener("click", (e) => {
-        e.stopPropagation();
-        setMobileMenu();
-      });
-      document.addEventListener("keydown", (e) => {
-        if (e.key === "Escape" && navLinks?.classList.contains("open")) {
-          setMobileMenu(false);
-        }
-      });
-      document.addEventListener("click", (e) => {
-        if (navLinks?.classList.contains("open") && !navLinks.contains(e.target) && !navToggle?.contains(e.target)) {
-          setMobileMenu(false);
-        }
-      });
+        <div class="app-sheet-header">
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <span style="color: var(--accent-teal); font-size: 1.4rem;">۞</span>
+            <h3 id="sheet-title" style="font-size: 1.15rem; font-weight: 700; margin: 0; color: var(--text-main);">QuranGraph Overview & Settings</h3>
+          </div>
+          <button id="app-sheet-close" class="btn-top-pill" aria-label="Close sheet" style="min-width: 32px; min-height: 32px; padding: 0.2rem 0.5rem; border-radius: 50%;">✕</button>
+        </div>
 
-      // Font Size Scaler
-      const scaleDec = document.getElementById("font-scale-dec");
-      const scaleInc = document.getElementById("font-scale-inc");
-      function adjustScale(delta) {
-        let cur = parseFloat(localStorage.getItem("qg_arabic_scale") || "1");
-        cur = Math.min(Math.max(cur + delta, 0.75), 1.75);
-        cur = Math.round(cur * 100) / 100;
-        document.documentElement.style.setProperty("--arabic-scale", cur.toString());
-        localStorage.setItem("qg_arabic_scale", cur.toString());
-        if (typeof window.showQgToast === "function") {
-          window.showQgToast(`Arabic font size: ${Math.round(cur * 100)}%`, 1400);
-        }
-      }
-      scaleDec?.addEventListener("click", () => adjustScale(-0.125));
-      scaleInc?.addEventListener("click", () => adjustScale(0.125));
+        <div class="app-sheet-content">
+          <!-- Reading Preferences -->
+          <div class="sheet-section">
+            <h4 class="sheet-section-title">Reading Preferences</h4>
+            <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+              <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-size: 0.9rem; color: var(--text-main); font-weight: 500;">Arabic Font Size</span>
+                <div style="display: flex; align-items: center; gap: 0.5rem;">
+                  <button id="sheet-font-dec" class="btn-top-pill font-btn" style="min-width: 36px;">A−</button>
+                  <span id="sheet-font-percent" style="font-size: 0.85rem; font-weight: 700; min-width: 48px; text-align: center;">100%</span>
+                  <button id="sheet-font-inc" class="btn-top-pill font-btn" style="min-width: 36px;">A+</button>
+                </div>
+              </div>
+              <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-size: 0.9rem; color: var(--text-main); font-weight: 500;">Color Theme</span>
+                <div class="theme-chips-row" style="display: flex; gap: 0.4rem;">
+                  <button class="theme-chip" data-set-theme="light">☀️ Light</button>
+                  <button class="theme-chip" data-set-theme="dark">🌙 Dark</button>
+                  <button class="theme-chip" data-set-theme="sepia">📜 Sepia</button>
+                </div>
+              </div>
+            </div>
+          </div>
 
-      // Last Read Resumption
-      try {
-        const savedLastRead = localStorage.getItem("qg_last_read");
-        if (savedLastRead) {
-          const lr = JSON.parse(savedLastRead);
-          const lrEl = document.getElementById("last-read-nav");
-          if (lrEl && lr.surah && lr.ayah) {
-            lrEl.href = `/ayah/${lr.surah}/${lr.ayah}`;
-            const label = lrEl.querySelector(".last-read-label");
-            if (label) {
-              label.textContent = `${lr.surah}:${lr.ayah}`;
-            }
-            lrEl.style.display = "inline-flex";
-          }
-        }
-      } catch (err) {}
+          <!-- Quick Surah Jump Grid -->
+          <div class="sheet-section">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.6rem;">
+              <h4 class="sheet-section-title" style="margin: 0;">Quick Surah Jump</h4>
+              <a href="/surahs" style="font-size: 0.82rem; font-weight: 600; color: var(--accent-teal);">View All 114 Surahs →</a>
+            </div>
+            <div class="sheet-surah-grid">
+              {surahsData.slice(0, 18).map(s => (
+                <a href={`/surah/${s.id}`} class="sheet-surah-chip">
+                  <span class="chip-num">{s.id}</span>
+                  <span class="chip-name">{s.name_translit}</span>
+                </a>
+              ))}
+            </div>
+          </div>
 
-      // Global Toast Notification Helper
-      window.showQgToast = function(msg, duration = 2200) {
-        const toast = document.getElementById("qg-toast");
-        const msgEl = document.getElementById("qg-toast-msg");
-        if (!toast || !msgEl) return;
-        msgEl.textContent = msg || "Copied to clipboard";
-        toast.style.display = "flex";
-        requestAnimationFrame(() => toast.classList.add("visible"));
-        clearTimeout(toast._timer);
-        toast._timer = setTimeout(() => {
-          toast.classList.remove("visible");
-          setTimeout(() => { toast.style.display = "none"; }, 220);
-        }, duration);
-      };
-    </script>
+          <!-- Scholarly Integrity & Source Attribution -->
+          <div class="sheet-section" style="border-bottom: none;">
+            <h4 class="sheet-section-title">Integrity & Scholarly Standards</h4>
+            <p style="font-size: 0.84rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 0.75rem;">
+              Displayed Arabic text verbatim from Tanzil (Uthmani v1.1). Translations and Mukhtasar tafsir verbatim from QuranEnc. Every explanation is strictly grounded in classical tafsir.
+            </p>
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+              <a href="/sources" class="btn-action" style="font-size: 0.82rem; text-decoration: none;">
+                📜 Sources & Licences
+              </a>
+              <a href="https://github.com/IliasSami/QuranGraph" target="_blank" rel="noopener" class="btn-action" style="font-size: 0.82rem; text-decoration: none;">
+                ★ Open Source Code (GitHub)
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <!-- Global Floating Toast Notification -->
     <div id="qg-toast" role="status" aria-live="polite" class="qg-toast" style="display: none;">
       <svg class="icon-svg" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
-      <span id="qg-toast-msg">Copied to clipboard</span>
+      <span id="qg-toast-msg">Notification</span>
     </div>
+
+    <!-- Surahs Dataset for Instant Client-side Quick Jump -->
+    <script id="qg-surahs-data" type="application/json" set:html={JSON.stringify(compactSurahs)}></script>
+
+    <!-- App Shell Interactive Client Script -->
+    <script is:inline>
+      (function() {
+        // 1. Bottom Dock Active Tab Highlighting
+        const path = window.location.pathname;
+        const tabs = document.querySelectorAll(".app-dock-bar .dock-tab");
+        let activeKey = "read";
+
+        if (path === "/" || path === "/surahs" || path.startsWith("/surah/") || path.startsWith("/ayah/")) {
+          activeKey = "read";
+        } else if (path.startsWith("/search")) {
+          activeKey = "search";
+        } else if (path.startsWith("/graph") || path.startsWith("/entity/") || path.startsWith("/story/") || path.startsWith("/root/")) {
+          activeKey = "graph";
+        } else if (path.startsWith("/learn")) {
+          activeKey = "learn";
+        } else if (path.startsWith("/numbers")) {
+          activeKey = "numbers";
+        }
+
+        tabs.forEach(tab => {
+          if (tab.getAttribute("data-tab") === activeKey) {
+            tab.classList.add("active");
+            tab.setAttribute("aria-selected", "true");
+          } else {
+            tab.classList.remove("active");
+            tab.setAttribute("aria-selected", "false");
+          }
+        });
+
+        // 2. Global Toast Notification Helper
+        window.showQgToast = function(msg, duration = 2200) {
+          const toast = document.getElementById("qg-toast");
+          const msgEl = document.getElementById("qg-toast-msg");
+          if (!toast || !msgEl) return;
+          msgEl.textContent = msg || "Done";
+          toast.style.display = "flex";
+          requestAnimationFrame(() => toast.classList.add("visible"));
+          clearTimeout(toast._timer);
+          toast._timer = setTimeout(() => {
+            toast.classList.remove("visible");
+            setTimeout(() => { toast.style.display = "none"; }, 220);
+          }, duration);
+        };
+
+        // 3. Theme Management
+        const themes = ["light", "dark", "sepia"];
+        function setTheme(t) {
+          document.documentElement.setAttribute("data-theme", t);
+          localStorage.setItem("qg_theme", t);
+          document.querySelectorAll("[data-set-theme]").forEach(btn => {
+            btn.classList.toggle("active", btn.getAttribute("data-set-theme") === t);
+          });
+        }
+
+        const themeToggleBtn = document.getElementById("theme-toggle");
+        themeToggleBtn?.addEventListener("click", () => {
+          const current = document.documentElement.getAttribute("data-theme") || "light";
+          const nextIdx = (themes.indexOf(current) + 1) % themes.length;
+          setTheme(themes[nextIdx]);
+        });
+
+        document.querySelectorAll("[data-set-theme]").forEach(btn => {
+          btn.addEventListener("click", () => {
+            const t = btn.getAttribute("data-set-theme");
+            if (t) setTheme(t);
+          });
+        });
+        setTheme(document.documentElement.getAttribute("data-theme") || "light");
+
+        // 4. Font Scale Scaler
+        function updateFontDisplay(cur) {
+          const percent = Math.round(cur * 100);
+          const percentEl = document.getElementById("sheet-font-percent");
+          if (percentEl) percentEl.textContent = `${percent}%`;
+        }
+
+        function adjustScale(delta) {
+          let cur = parseFloat(localStorage.getItem("qg_arabic_scale") || "1");
+          cur = Math.min(Math.max(cur + delta, 0.75), 1.75);
+          cur = Math.round(cur * 100) / 100;
+          document.documentElement.style.setProperty("--arabic-scale", cur.toString());
+          localStorage.setItem("qg_arabic_scale", cur.toString());
+          updateFontDisplay(cur);
+          if (typeof window.showQgToast === "function") {
+            window.showQgToast(`Arabic font: ${Math.round(cur * 100)}%`, 1400);
+          }
+        }
+
+        document.getElementById("font-scale-dec")?.addEventListener("click", () => adjustScale(-0.125));
+        document.getElementById("font-scale-inc")?.addEventListener("click", () => adjustScale(0.125));
+        document.getElementById("sheet-font-dec")?.addEventListener("click", () => adjustScale(-0.125));
+        document.getElementById("sheet-font-inc")?.addEventListener("click", () => adjustScale(0.125));
+        updateFontDisplay(parseFloat(localStorage.getItem("qg_arabic_scale") || "1"));
+
+        // 5. Last Read Resumption Pill
+        try {
+          const savedLastRead = localStorage.getItem("qg_last_read");
+          if (savedLastRead) {
+            const lr = JSON.parse(savedLastRead);
+            const lrEl = document.getElementById("last-read-nav");
+            if (lrEl && lr.surah && lr.ayah) {
+              lrEl.href = `/ayah/${lr.surah}/${lr.ayah}`;
+              const label = lrEl.querySelector(".last-read-label");
+              if (label) label.textContent = `${lr.surah}:${lr.ayah}`;
+              lrEl.style.display = "inline-flex";
+            }
+          }
+        } catch (err) {}
+
+        // 6. Settings Bottom Sheet Management
+        const sheetModal = document.getElementById("app-sheet-modal");
+        const sheetOpenBtn = document.getElementById("app-settings-btn");
+        const sheetCloseBtn = document.getElementById("app-sheet-close");
+
+        function openSheet() {
+          if (!sheetModal) return;
+          sheetModal.style.display = "flex";
+        }
+        function closeSheet() {
+          if (!sheetModal) return;
+          sheetModal.style.display = "none";
+        }
+
+        sheetOpenBtn?.addEventListener("click", openSheet);
+        sheetCloseBtn?.addEventListener("click", closeSheet);
+        sheetModal?.addEventListener("click", (e) => {
+          if (e.target === sheetModal) closeSheet();
+        });
+
+        // 7. Quick Jump Command Palette (Instant Surah & Ayah Jumping)
+        const jumpModal = document.getElementById("app-quick-jump-modal");
+        const jumpTriggerBtn = document.getElementById("app-quick-jump-btn");
+        const jumpInput = document.getElementById("quick-jump-input");
+        const jumpClearBtn = document.getElementById("quick-jump-clear");
+        const jumpResults = document.getElementById("quick-jump-results");
+        const directAyahBox = document.getElementById("quick-jump-direct-ayah");
+        const directAyahLink = document.getElementById("quick-jump-direct-link");
+        const directAyahText = document.getElementById("quick-jump-direct-text");
+
+        let surahs = [];
+        try {
+          const dataEl = document.getElementById("qg-surahs-data");
+          if (dataEl) surahs = JSON.parse(dataEl.textContent || "[]");
+        } catch (e) {}
+
+        function openQuickJump() {
+          if (!jumpModal) return;
+          jumpModal.style.display = "flex";
+          if (jumpInput) {
+            jumpInput.value = "";
+            renderSurahResults("");
+            setTimeout(() => jumpInput.focus(), 50);
+          }
+        }
+
+        function closeQuickJump() {
+          if (!jumpModal) return;
+          jumpModal.style.display = "none";
+        }
+
+        jumpTriggerBtn?.addEventListener("click", openQuickJump);
+        jumpModal?.addEventListener("click", (e) => {
+          if (e.target === jumpModal) closeQuickJump();
+        });
+
+        // Global keyboard shortcut: Press "/" or "Cmd+K" / "Ctrl+K" to open Quick Jump
+        document.addEventListener("keydown", (e) => {
+          if (e.key === "Escape") {
+            closeQuickJump();
+            closeSheet();
+            return;
+          }
+          if ((e.key === "/" || (e.key === "k" && (e.metaKey || e.ctrlKey))) &&
+              !["INPUT", "TEXTAREA", "SELECT"].includes(document.activeElement?.tagName)) {
+            e.preventDefault();
+            openQuickJump();
+          }
+        });
+
+        // Quick Jump Chips Handler
+        document.querySelectorAll(".jump-chip").forEach(chip => {
+          chip.addEventListener("click", () => {
+            const dest = chip.getAttribute("data-jump");
+            if (dest) window.location.href = dest;
+          });
+        });
+
+        // Live Surah & Ayah Filtering
+        function renderSurahResults(q) {
+          if (!jumpResults) return;
+          const query = (q || "").trim().toLowerCase();
+
+          // Check for direct Ayah pattern like "2:255" or "18:10"
+          const ayahMatch = query.match(/^(\d{1,3}):(\d{1,3})$/);
+          if (ayahMatch) {
+            const sNum = parseInt(ayahMatch[1], 10);
+            const aNum = parseInt(ayahMatch[2], 10);
+            const targetSurah = surahs.find(s => s.id === sNum);
+            if (targetSurah && aNum <= targetSurah.ay) {
+              if (directAyahBox && directAyahLink && directAyahText) {
+                directAyahText.textContent = `Jump to Verse ${sNum}:${aNum} (${targetSurah.tr})`;
+                directAyahLink.href = `/ayah/${sNum}/${aNum}`;
+                directAyahBox.style.display = "block";
+              }
+            } else if (directAyahBox) {
+              directAyahBox.style.display = "none";
+            }
+          } else if (directAyahBox) {
+            directAyahBox.style.display = "none";
+          }
+
+          if (jumpClearBtn) {
+            jumpClearBtn.style.display = query ? "block" : "none";
+          }
+
+          let matches = surahs;
+          if (query) {
+            matches = surahs.filter(s => {
+              if (s.id.toString() === query) return true;
+              if (s.tr.toLowerCase().includes(query)) return true;
+              if (s.en.toLowerCase().includes(query)) return true;
+              if (s.bn.toLowerCase().includes(query)) return true;
+              if (s.ar.includes(query)) return true;
+              return false;
+            });
+          }
+
+          if (matches.length === 0) {
+            jumpResults.innerHTML = `
+              <div style="padding: 1.5rem; text-align: center; color: var(--text-muted); font-size: 0.9rem;">
+                No Surah found matching "${q}". Press Search to search the entire Quran text.
+                <div style="margin-top: 0.75rem;">
+                  <a href="/search?q=${encodeURIComponent(q)}" class="btn-action" style="font-size: 0.85rem;">
+                    Search Full Quran for "${q}" →
+                  </a>
+                </div>
+              </div>
+            `;
+            return;
+          }
+
+          jumpResults.innerHTML = matches.map((s, idx) => `
+            <a href="/surah/${s.id}" class="quick-jump-item ${idx === 0 && query ? 'selected' : ''}" data-index="${idx}">
+              <div style="display: flex; align-items: center; gap: 0.75rem;">
+                <span style="font-weight: 700; color: var(--text-muted); min-width: 24px; font-size: 0.85rem;">${s.id}</span>
+                <div>
+                  <div style="font-weight: 600; font-size: 0.92rem;">${s.tr} <span style="font-size: 0.8rem; color: var(--text-muted); font-weight: 400;">(${s.en})</span></div>
+                  <div class="bangla-text" lang="bn" style="font-size: 0.78rem; color: var(--text-muted);">${s.bn}</div>
+                </div>
+              </div>
+              <div style="display: flex; align-items: center; gap: 0.6rem;">
+                <span class="badge" style="background: var(--bg-surface); border: 1px solid var(--border-color); font-size: 0.7rem;">${s.ay} vv</span>
+                <span class="arabic-text" dir="rtl" style="font-size: 1.1rem; line-height: 1;">${s.ar}</span>
+              </div>
+            </a>
+          `).join("");
+        }
+
+        jumpInput?.addEventListener("input", (e) => renderSurahResults(e.target.value));
+        jumpClearBtn?.addEventListener("click", () => {
+          if (jumpInput) {
+            jumpInput.value = "";
+            renderSurahResults("");
+            jumpInput.focus();
+          }
+        });
+
+        // Enter key navigation inside Quick Jump input
+        jumpInput?.addEventListener("keydown", (e) => {
+          if (e.key === "Enter") {
+            e.preventDefault();
+            const val = jumpInput.value.trim();
+            // If direct ayah is visible, go to it
+            if (directAyahBox && directAyahBox.style.display !== "none" && directAyahLink) {
+              window.location.href = directAyahLink.href;
+              return;
+            }
+            // Otherwise go to first item
+            const firstItem = jumpResults?.querySelector(".quick-jump-item");
+            if (firstItem && firstItem.href) {
+              window.location.href = firstItem.href;
+            } else if (val) {
+              window.location.href = `/search?q=${encodeURIComponent(val)}`;
+            }
+          }
+        });
+      })();
+    </script>
   </body>
 </html>
