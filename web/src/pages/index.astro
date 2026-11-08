@@ -31,7 +31,7 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
           name="q"
           placeholder="Search by verse (2:255), concept (patience), or Arabic (الرحمن)..."
           aria-label="Search the Holy Quran"
-          style="flex: 1; border: none; outline: none; padding: 0.75rem 1rem; font-size: 1rem; background: transparent; color: var(--text-main);"
+          style="flex: 1; min-width: 0; border: none; outline: none; padding: 0.75rem 1rem; font-size: 1rem; background: transparent; color: var(--text-main);"
           required
         />
         <button
@@ -108,7 +108,7 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
         <p style="color: var(--text-muted);">Step-by-step pathways curated for beginners and curious minds.</p>
       </div>
 
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 1.5rem;">
         <div class="card" style="border-top: 4px solid var(--accent-teal);">
           <div class="badge badge-teal" style="margin-bottom: 0.75rem;">Path 1</div>
           <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem;">Foundations of Faith</h3>

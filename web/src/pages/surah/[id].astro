@@ -191,7 +191,7 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
   </section>
 
   <!-- Sticky Bottom Audio Dock (Activated on scroll) -->
-  <div id="surah-sticky-dock" class="sticky-dock card" style="display: none; padding: 0.65rem 1.25rem; max-width: 650px; margin: 0 auto; border-radius: var(--radius-md); align-items: center; justify-content: space-between; gap: 0.75rem;">
+  <div id="surah-sticky-dock" class="sticky-dock card" style="display: none; width: calc(100% - 1.5rem); max-width: 650px; margin: 0 auto; border-radius: var(--radius-md); align-items: center; justify-content: space-between; gap: 0.75rem; box-sizing: border-box;">
     <div style="display: flex; align-items: center; gap: 0.75rem;">
       <button id="dock-play-btn" class="play-btn-sm" style="width: 2.25rem; height: 2.25rem; min-width: 38px; min-height: 38px;" aria-label="Play/Pause">
         <span id="dock-play-icon" aria-hidden="true">

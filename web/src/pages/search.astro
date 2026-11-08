@@ -37,7 +37,7 @@ import Layout from "../layouts/Layout.astro";
               aria-label="Search Quran"
               autocomplete="off"
               spellcheck="false"
-              style="flex: 1; border: none; outline: none; padding: 0.75rem 0.5rem; font-size: 1.1rem; background: transparent; color: var(--text-main);"
+              style="flex: 1; min-width: 0; border: none; outline: none; padding: 0.75rem 0.5rem; font-size: 1.05rem; background: transparent; color: var(--text-main);"
               autofocus
             />
             <button
@@ -164,6 +164,16 @@ import Layout from "../layouts/Layout.astro";
       padding: 1.5rem;
       transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
       position: relative;
+      max-width: 100%;
+      box-sizing: border-box;
+    }
+    @media (max-width: 640px) {
+      .result-card {
+        padding: 1rem 0.85rem;
+      }
+      #search-btn {
+        padding: 0.65rem 0.85rem !important;
+      }
     }
     .result-card:hover {
       border-color: var(--accent-teal);

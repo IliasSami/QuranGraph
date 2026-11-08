@@ -58,7 +58,7 @@ const medinanCount = surahs.filter((s) => s.type === "Medinan").length;
       </div>
 
       <!-- Surahs Grid -->
-      <div id="surahs-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1.25rem;">
+      <div id="surahs-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr)); gap: 1.25rem;">
         {surahs.map((s) => (
           <a
             href={`/surah/${s.id}`}

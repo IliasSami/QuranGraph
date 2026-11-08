@@ -87,10 +87,17 @@
   --accent-teal-subtle: #edd8a6;
 }
 
-* {
+*, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+html {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -99,9 +106,30 @@ body {
   color: var(--text-main);
   line-height: 1.6;
   min-height: 100vh;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  position: relative;
   display: flex;
   flex-direction: column;
   -webkit-font-smoothing: antialiased;
+}
+
+/* Global mobile-safe media & container containment */
+img, svg, video, audio, iframe {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Ensure canvas does not overflow its wrapper */
+canvas {
+  max-width: 100%;
+}
+
+/* Prevent unbroken long words, transliterations, or URLs from pushing screen boundary */
+h1, h2, h3, h4, h5, h6, p, span, a, td, th {
+  overflow-wrap: break-word;
+  word-break: normal;
 }
 
 a {
@@ -175,6 +203,17 @@ a:hover {
   background: rgba(var(--bg-surface-rgb), 0.95);
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
   border: 2px solid var(--accent-teal);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+@media (max-width: 640px) {
+  .sticky-dock {
+    width: calc(100% - 1.25rem) !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding: 0.5rem 0.75rem !important;
+  }
 }
 
 .bangla-text {
@@ -187,6 +226,13 @@ a:hover {
   max-width: 1140px;
   margin: 0 auto;
   padding: 0 1.25rem;
+  box-sizing: border-box;
+}
+
+@media (max-width: 640px) {
+  .container {
+    padding: 0 0.85rem;
+  }
 }
 
 /* App Top Bar & App Header */
@@ -201,6 +247,9 @@ a:hover {
   border-bottom: 1px solid var(--border-color);
   display: flex;
   align-items: center;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
 }
 
 .app-top-inner {
@@ -212,6 +261,15 @@ a:hover {
   align-items: center;
   justify-content: space-between;
   gap: 0.75rem;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+@media (max-width: 640px) {
+  .app-top-inner {
+    padding: 0 0.5rem;
+    gap: 0.35rem;
+  }
 }
 
 .app-brand {
@@ -240,7 +298,7 @@ a:hover {
   letter-spacing: -0.01em;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 520px) {
   .app-brand-name {
     display: none;
   }
@@ -248,6 +306,7 @@ a:hover {
 
 .app-quick-jump-trigger {
   flex: 1;
+  min-width: 0;
   max-width: 360px;
   height: 36px;
   background: var(--bg-subtle);
@@ -262,6 +321,7 @@ a:hover {
   cursor: pointer;
   transition: all 0.15s ease;
   user-select: none;
+  box-sizing: border-box;
 }
 
 .app-quick-jump-trigger:hover {
@@ -271,12 +331,31 @@ a:hover {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
+@media (max-width: 640px) {
+  .app-quick-jump-trigger {
+    padding: 0 0.5rem;
+    gap: 0.35rem;
+    height: 34px;
+    font-size: 0.78rem;
+  }
+  .jump-pill-kbd {
+    display: none !important;
+  }
+}
+
 .jump-pill-text {
   flex: 1;
+  min-width: 0;
   text-align: left;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+@media (max-width: 400px) {
+  .jump-pill-text {
+    font-size: 0.75rem;
+  }
 }
 
 .jump-pill-kbd {
@@ -288,6 +367,7 @@ a:hover {
   color: var(--text-muted);
   font-family: inherit;
   font-weight: 600;
+  flex-shrink: 0;
 }
 
 .app-top-controls {
@@ -295,6 +375,27 @@ a:hover {
   align-items: center;
   gap: 0.35rem;
   flex-shrink: 0;
+}
+
+@media (max-width: 640px) {
+  .app-top-controls {
+    gap: 0.2rem;
+  }
+  .btn-top-pill {
+    height: 32px;
+    padding: 0 0.45rem;
+    font-size: 0.78rem;
+  }
+  .last-read-pill {
+    display: none !important;
+  }
+}
+
+@media (max-width: 380px) {
+  .btn-top-pill {
+    padding: 0 0.35rem;
+    font-size: 0.72rem;
+  }
 }
 
 .btn-top-pill {
@@ -313,6 +414,7 @@ a:hover {
   transition: all 0.15s ease;
   text-decoration: none;
   user-select: none;
+  box-sizing: border-box;
 }
 
 .btn-top-pill:hover {
@@ -344,6 +446,13 @@ a:hover {
   border-bottom-left-radius: 0;
   border-left: none;
   padding: 0 0.5rem;
+}
+
+@media (max-width: 480px) {
+  .font-scale-group .btn-top-pill:first-child,
+  .font-scale-group .btn-top-pill:last-child {
+    padding: 0 0.35rem;
+  }
 }
 
 /* Focus outline for WCAG 2.2 AA accessibility */
@@ -516,6 +625,14 @@ a:hover {
   border-radius: var(--radius-md);
   padding: 1.5rem;
   box-shadow: var(--shadow-sm);
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 640px) {
+  .card {
+    padding: 1rem 0.85rem;
+  }
 }
 
 /* Badge */
@@ -543,6 +660,10 @@ a:hover {
 /* App Layout Core (Replaces traditional website header/footer) */
 .app-main-content {
   flex: 1;
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow-x: hidden;
   padding-bottom: calc(96px + env(safe-area-inset-bottom, 20px));
 }
 
@@ -552,13 +673,18 @@ a:hover {
   bottom: 0;
   left: 0;
   right: 0;
+  width: 100%;
+  max-width: 100vw;
   z-index: 1000;
   pointer-events: none;
+  box-sizing: border-box;
 }
 
 .app-dock-bar {
   pointer-events: auto;
   width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -566,7 +692,7 @@ a:hover {
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   border-top: 1px solid var(--border-color);
-  padding: 0.45rem 0.5rem calc(0.45rem + env(safe-area-inset-bottom, 0px));
+  padding: 0.4rem 0.25rem calc(0.4rem + env(safe-area-inset-bottom, 0px));
   box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.08);
 }
 
@@ -587,15 +713,31 @@ a:hover {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  gap: 0.2rem;
+  gap: 0.15rem;
   text-decoration: none;
   color: var(--text-muted);
-  padding: 0.35rem 0.65rem;
+  padding: 0.35rem 0.45rem;
   border-radius: 12px;
-  min-width: 58px;
+  min-width: 48px;
   position: relative;
   transition: all 0.18s cubic-bezier(0.4, 0, 0.2, 1);
   user-select: none;
+  box-sizing: border-box;
+}
+
+@media (max-width: 400px) {
+  .dock-tab {
+    min-width: 0;
+    flex: 1;
+    padding: 0.25rem 0.15rem;
+  }
+  .dock-label {
+    font-size: 0.65rem;
+  }
+  .dock-icon {
+    width: 20px;
+    height: 20px;
+  }
 }
 
 .dock-tab:hover {
@@ -921,4 +1063,108 @@ a:hover {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+/* =========================================================================
+   Mobile Responsiveness & Horizontal Scroll Elimination
+   ========================================================================= */
+
+/* Table Scroll Wrappers */
+.table-scroll-container,
+.table-responsive {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  display: block;
+  box-sizing: border-box;
+}
+
+/* Accessible Details Table Containment */
+.accessible-graph-details {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.accessible-graph-details > div {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  box-sizing: border-box;
+}
+
+.accessible-graph-details table {
+  width: 100%;
+  min-width: 480px;
+  border-collapse: collapse;
+}
+
+/* Mobile Media Queries (< 640px) */
+@media (max-width: 640px) {
+  /* Prevent any grid columns from exceeding mobile screen width */
+  .surah-grid,
+  #lemma-cards-grid,
+  .responsive-grid-auto {
+    grid-template-columns: 1fr !important;
+  }
+
+  /* Verse action bar clean wrapping and touch ergonomics */
+  .verse-action-bar {
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 0.65rem !important;
+  }
+
+  .verse-action-bar > div:first-child {
+    display: flex !important;
+    justify-content: space-between !important;
+    width: 100% !important;
+  }
+
+  .verse-action-bar > a {
+    width: 100% !important;
+    justify-content: center !important;
+  }
+
+  /* Quick jump command palette & bottom sheet */
+  .app-quick-jump-backdrop {
+    padding: 2.25rem 0.65rem 1rem !important;
+  }
+
+  .app-quick-jump-card {
+    max-height: 86vh !important;
+    border-radius: var(--radius-md) !important;
+  }
+
+  .app-sheet-panel {
+    border-radius: 16px 16px 0 0 !important;
+    max-height: 88vh !important;
+  }
+
+  .app-sheet-content {
+    padding: 0.85rem 1rem !important;
+    gap: 1rem !important;
+  }
+
+  .sheet-surah-grid {
+    grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)) !important;
+  }
+
+  /* Sticky Bottom Audio Dock on mobile */
+  #surah-sticky-dock {
+    width: calc(100% - 1rem) !important;
+    margin: 0 auto !important;
+    padding: 0.5rem 0.75rem !important;
+  }
+
+  #surah-sticky-dock #dock-status,
+  #surah-sticky-dock #dock-verse {
+    max-width: 130px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
 }

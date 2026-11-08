@@ -35,14 +35,14 @@ const graphPayload = JSON.stringify({
 <div class="network-graph-widget card" style="padding: 1.5rem; margin-bottom: 2.5rem; border-top: 4px solid var(--accent-teal); position: relative;">
   <!-- Graph Top Bar: Search & Jump Input -->
   <div style="margin-bottom: 1.25rem;">
-    <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.75rem;">
-      <div style="position: relative; flex: 1;">
+    <div style="display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.75rem; flex-wrap: wrap;">
+      <div style="position: relative; flex: 1; min-width: 0;">
         <input
           type="text"
           id="graph-jump-input"
           placeholder="Jump to any verse (2:255), prophet (Yusuf), divine name (Al-Hayy), or story..."
           aria-label="Search and focus knowledge graph"
-          style="width: 100%; padding: 0.65rem 1rem 0.65rem 2.25rem; border-radius: var(--radius-sm); border: 1.5px solid var(--border-color); background: var(--bg-surface); color: var(--text-main); font-size: 0.95rem; outline: none; transition: border-color 0.2s ease;"
+          style="width: 100%; padding: 0.65rem 1rem 0.65rem 2.25rem; border-radius: var(--radius-sm); border: 1.5px solid var(--border-color); background: var(--bg-surface); color: var(--text-main); font-size: 0.95rem; outline: none; transition: border-color 0.2s ease; box-sizing: border-box;"
         />
         <span style="position: absolute; left: 0.75rem; top: 50%; transform: translateY(-50%); font-size: 0.95rem; color: var(--text-muted); pointer-events: none;" aria-hidden="true">
           🔍
@@ -120,7 +120,7 @@ const graphPayload = JSON.stringify({
   </div>
 
   <!-- Interactive Canvas Box -->
-  <div style="position: relative; width: 100%; height: 520px; background: radial-gradient(circle at center, var(--bg-surface) 0%, var(--bg-subtle) 100%); border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--border-color); touch-action: none;">
+  <div class="macro-canvas-container" style="position: relative; width: 100%; height: 520px; background: radial-gradient(circle at center, var(--bg-surface) 0%, var(--bg-subtle) 100%); border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--border-color); touch-action: none;">
     <canvas id="graph-canvas" style="width: 100%; height: 100%; display: block; cursor: grab;"></canvas>
 
     <!-- Canvas Navigation Controls -->
@@ -948,3 +948,16 @@ const graphPayload = JSON.stringify({
     step();
   })();
 </script>
+
+<style>
+  @media (max-width: 640px) {
+    .macro-canvas-container {
+      height: 380px !important;
+    }
+    #graph-drawer {
+      width: calc(100% - 24px) !important;
+      left: 12px !important;
+      right: 12px !important;
+    }
+  }
+</style>
