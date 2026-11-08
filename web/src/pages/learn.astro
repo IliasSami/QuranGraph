@@ -1,98 +1,442 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import Flashcards from "../components/Flashcards.astro";
+import LearningQuiz from "../components/LearningQuiz.astro";
 import pathsData from "../../../ingest/kb/learning_paths.json" with { type: "json" };
-import numbersData from "../../../ingest/work/numbers_lab.json" with { type: "json" };
+import lemmasData from "../lib/search/lemmas_lab.json" with { type: "json" };
 
-const paths = pathsData;
-const topLemmas = numbersData.vocabulary_coverage.top_lemmas.slice(0, 10);
+const curriculum = pathsData;
+const topLemmas = lemmasData;
 ---
 
-<Layout title="Learn the Quran — Guided Paths & Vocabulary Course">
+<Layout title="Quran Learning Center — Structured Step-by-Step Mastery & Vocabulary">
+  <!-- Hero Section -->
   <div style="padding: 3.5rem 0 2rem; background: var(--bg-surface); border-bottom: 1px solid var(--border-color);">
-    <div class="container" style="max-width: 860px;">
-      <div class="badge badge-teal" style="margin-bottom: 0.75rem;">Structured Learning · Spaced Repetition</div>
-      <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.75rem;">Quran Learning Center</h1>
-      <p style="font-size: 1.1rem; color: var(--text-muted); line-height: 1.6;">
-        Master the essential verses recited daily, understand prophetic lessons, and build vocabulary through frequency-first study.
-      </p>
+    <div class="container" style="max-width: 960px;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
+        <div>
+          <div class="badge badge-teal" style="margin-bottom: 0.75rem;">Full-Spectrum Quranic Education Platform</div>
+          <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.5rem; letter-spacing: -0.02em;">
+            Quran Learning Center
+          </h1>
+          <p style="font-size: 1.1rem; color: var(--text-muted); line-height: 1.6; max-width: 680px; margin: 0;">
+            A complete, step-by-step learning platform engineered for beginners and serious students. Master daily prayer recitation, unlock 50% of the Quranic vocabulary with 58 core lemmas, and follow chronological prophetic story cycles.
+          </p>
+        </div>
+
+        <!-- Progress Counter Card -->
+        <div class="card" style="padding: 1rem 1.25rem; background: var(--bg-subtle); min-width: 220px; border-left: 4px solid var(--accent-teal);">
+          <div style="font-size: 0.75rem; text-transform: uppercase; font-weight: 700; color: var(--text-muted); margin-bottom: 0.25rem;">
+            Your Learning Journey
+          </div>
+          <div style="display: flex; align-items: baseline; gap: 0.5rem; margin-bottom: 0.4rem;">
+            <span id="overall-progress-pct" style="font-size: 1.8rem; font-weight: 800; color: var(--accent-teal);">0%</span>
+            <span style="font-size: 0.82rem; color: var(--text-muted);">Completed</span>
+          </div>
+          <div style="height: 6px; width: 100%; background: var(--border-color); border-radius: 9999px; overflow: hidden;">
+            <div id="overall-progress-bar" style="height: 100%; width: 0%; background: var(--accent-teal); transition: width 0.3s ease;"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tab Navigation Navigation Bar -->
+      <nav aria-label="Learning Modes" style="margin-top: 2rem; display: flex; gap: 0.5rem; border-bottom: 1px solid var(--border-color); overflow-x: auto; padding-bottom: 0.25rem;" id="learn-tabs-nav">
+        <button class="learn-tab-btn active" data-tab="curriculum">
+          <span>🎓 6-Stage Curriculum</span>
+        </button>
+        <button class="learn-tab-btn" data-tab="flashcards">
+          <span>🗂️ Vocabulary Flashcards (58 Words)</span>
+        </button>
+        <button class="learn-tab-btn" data-tab="quiz">
+          <span>🎯 Interactive Knowledge Quiz</span>
+        </button>
+        <button class="learn-tab-btn" data-tab="roots">
+          <span>🌿 Triliteral Root Families</span>
+        </button>
+      </nav>
     </div>
   </div>
 
   <div style="padding: 3rem 0;">
-    <div class="container" style="max-width: 860px;">
-      <!-- Guided Learning Paths -->
-      <div style="margin-bottom: 3.5rem;">
-        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 1.25rem;">Curated Learning Paths</h2>
-        <div style="display: flex; flex-direction: column; gap: 1.5rem;">
-          {paths.map((p: any, idx: number) => (
-            <div class="card" style="border-left: 4px solid var(--accent-teal);">
-              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem;">
-                <span class="badge badge-teal">Path {idx + 1}</span>
-                <span style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">{p.steps.length} Steps</span>
-              </div>
-              <h3 style="font-size: 1.35rem; font-weight: 700; margin-bottom: 0.25rem;">{p.title_en}</h3>
-              <div class="bangla-text" style="font-size: 1rem; color: var(--text-muted); margin-bottom: 0.75rem;">
-                {p.title_bn}
-              </div>
-              <p style="font-size: 0.95rem; color: var(--text-main); margin-bottom: 1.25rem; line-height: 1.6;">
-                {p.description_en}
-              </p>
+    <div class="container" style="max-width: 960px;">
 
-              <!-- Steps List -->
-              <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
-                {p.steps.map((step: string) => {
-                  const [s, a] = step.split(":");
-                  const startA = a.split("-")[0];
-                  return (
-                    <a href={`/ayah/${s}/${startA}`} class="badge" style="background: var(--bg-subtle); color: var(--accent-teal); text-decoration: none; padding: 0.35rem 0.65rem; border: 1px solid var(--border-color); font-size: 0.85rem;">
-                      {step} →
-                    </a>
-                  );
-                })}
+      <!-- ================= TAB 1: CURRICULUM ROADMAP ================= -->
+      <section id="tab-curriculum" class="learn-tab-panel active">
+        <div style="margin-bottom: 2rem;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 0.35rem; color: var(--text-main);">
+            The 6-Stage Progressive Quran Mastery Roadmap
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.95rem; margin: 0;">
+            Follow our structured curriculum in order. Check off lessons as you complete them to track your recitation comprehension:
+          </p>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 2rem;">
+          {curriculum.map((track: any) => (
+            <article class="card track-container" style="border-top: 4px solid var(--accent-teal); padding: 1.75rem;">
+              <!-- Track Header -->
+              <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1rem; flex-wrap: wrap; gap: 0.75rem;">
+                <div>
+                  <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.25rem;">
+                    <span class="badge badge-teal" style="font-weight: 700; font-size: 0.75rem;">
+                      {track.badge}
+                    </span>
+                    <span style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">
+                      ⏱️ {track.estimated_time}
+                    </span>
+                  </div>
+                  <h3 style="font-size: 1.45rem; font-weight: 800; color: var(--text-main); margin-bottom: 0.25rem;">
+                    {track.title_en}
+                  </h3>
+                  <div class="bangla-text" lang="bn" style="font-size: 1.05rem; color: var(--accent-teal); margin-bottom: 0.4rem; font-weight: 600;">
+                    {track.title_bn}
+                  </div>
+                  <p style="font-size: 0.95rem; color: var(--text-muted); margin: 0; line-height: 1.5;">
+                    {track.subtitle_en}
+                  </p>
+                </div>
+
+                <div class="badge" style="background: var(--bg-subtle); color: var(--accent-gold); font-weight: 700; padding: 0.4rem 0.75rem; font-size: 0.8rem;">
+                  {track.modules.length} Core Modules
+                </div>
               </div>
-            </div>
+
+              <!-- Target Outcome Box -->
+              <div style="background: var(--bg-subtle); border-radius: var(--radius-sm); padding: 0.75rem 1rem; margin-bottom: 1.5rem; border-left: 3px solid var(--accent-gold); font-size: 0.88rem;">
+                <strong style="color: var(--text-main);">Target Mastery:</strong> {track.target_outcome}
+              </div>
+
+              <!-- Modules List -->
+              <div style="display: flex; flex-direction: column; gap: 1rem;">
+                {track.modules.map((mod: any, mIdx: number) => (
+                  <div class="module-card" style="background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-sm); padding: 1.25rem; transition: all 0.15s ease;">
+                    <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; flex-wrap: wrap;">
+                      <div style="display: flex; gap: 0.85rem; align-items: flex-start; flex: 1; min-width: 260px;">
+                        <input
+                          type="checkbox"
+                          class="module-check-box"
+                          data-mod-id={mod.id}
+                          id={`check-${mod.id}`}
+                          aria-label={`Mark ${mod.title_en} as completed`}
+                          style="width: 20px; height: 20px; margin-top: 3px; accent-color: var(--accent-teal); cursor: pointer;"
+                        />
+                        <div>
+                          <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.2rem;">
+                            <span style="font-size: 0.75rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase;">
+                              Lesson {mIdx + 1} · {mod.ref}
+                            </span>
+                          </div>
+                          <h4 style="font-size: 1.15rem; font-weight: 700; color: var(--text-main); margin-bottom: 0.2rem;">
+                            {mod.title_en}
+                          </h4>
+                          <div class="bangla-text" lang="bn" style="font-size: 0.95rem; color: var(--text-muted); margin-bottom: 0.5rem;">
+                            {mod.title_bn}
+                          </div>
+                          <p style="font-size: 0.88rem; color: var(--text-muted); line-height: 1.5; margin-bottom: 0.75rem;">
+                            {mod.summary_en}
+                          </p>
+
+                          <!-- Key Vocabulary Tags -->
+                          <div style="display: flex; gap: 0.4rem; flex-wrap: wrap; align-items: center;">
+                            <span style="font-size: 0.75rem; color: var(--text-muted); font-weight: 600;">Key Terms:</span>
+                            {mod.key_vocabulary.map((vocab: string) => (
+                              <span class="badge" style="background: var(--bg-subtle); color: var(--accent-teal); font-size: 0.75rem; font-family: var(--font-arabic);">
+                                {vocab}
+                              </span>
+                            ))}
+                          </div>
+                        </div>
+                      </div>
+
+                      <!-- Action Button -->
+                      <div style="align-self: center;">
+                        <a href={`/ayah/${mod.primaryAyah.replace(':', '/')}`} class="btn-action btn-action-sm btn-action-primary" style="text-decoration: none; font-size: 0.85rem; padding: 0.5rem 1rem;">
+                          <span>Start Study View →</span>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </article>
           ))}
         </div>
-      </div>
+      </section>
 
-      <!-- Frequency-First Vocabulary -->
-      <div style="margin-bottom: 3.5rem;">
-        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem;">Interactive Vocabulary Flashcards</h2>
-        <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.5rem;">
-          Memorize the high-frequency Quranic words using active recall and spaced repetition.
-        </p>
-
-        <div style="margin-bottom: 2.5rem;">
-          <Flashcards />
+      <!-- ================= TAB 2: FLASHCARDS ================= -->
+      <section id="tab-flashcards" class="learn-tab-panel" style="display: none;">
+        <div style="text-align: center; max-width: 600px; margin: 0 auto 2rem;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 0.35rem; color: var(--text-main);">
+            50% Vocabulary Flashcard System
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.95rem; margin: 0;">
+            Use spaced repetition and active recall to commit the 58 core Quranic words to permanent memory. Press Space to reveal meaning, and keys 1 or 2 to score:
+          </p>
         </div>
 
-        <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 1rem;">Top 10 Most Frequent Lemmas</h3>
-        <div class="card" style="overflow-x: auto;">
-          <table style="width: 100%; min-width: 500px; border-collapse: collapse; text-align: left; font-size: 0.95rem;">
-            <thead>
-              <tr style="border-bottom: 2px solid var(--border-color); color: var(--text-muted);">
-                <th style="padding: 0.75rem;">Rank</th>
-                <th style="padding: 0.75rem;">Lemma (Arabic)</th>
-                <th style="padding: 0.75rem;">Root</th>
-                <th style="padding: 0.75rem;">Occurrences</th>
-                <th style="padding: 0.75rem;">Quran Share</th>
-              </tr>
-            </thead>
-            <tbody>
-              {topLemmas.map((l: any) => (
-                <tr style="border-bottom: 1px solid var(--border-color);">
-                  <td style="padding: 0.85rem; font-weight: 700; color: var(--accent-teal);">#{l.rank}</td>
-                  <td style="padding: 0.85rem; font-family: var(--font-arabic); font-size: 1.4rem;">{l.lemma}</td>
-                  <td style="padding: 0.85rem; font-family: var(--font-arabic); font-size: 1.2rem; color: var(--text-muted);">{l.root || "-"}</td>
-                  <td style="padding: 0.85rem; font-weight: 600;">{l.count.toLocaleString()}</td>
-                  <td style="padding: 0.85rem; color: var(--text-muted);">{l.percentage}%</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+        <Flashcards />
+
+        <div style="margin-top: 3rem; text-align: center;">
+          <a href="/numbers#vocabulary-lab" class="btn-action btn-action-ghost" style="text-decoration: none; font-size: 0.9rem; padding: 0.6rem 1.25rem;">
+            <span>Explore Complete 58 Lemmas Table in Numbers Lab →</span>
+          </a>
         </div>
-      </div>
+      </section>
+
+      <!-- ================= TAB 3: QUIZ ================= -->
+      <section id="tab-quiz" class="learn-tab-panel" style="display: none;">
+        <div style="text-align: center; max-width: 600px; margin: 0 auto 2rem;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 0.35rem; color: var(--text-main);">
+            Interactive Vocabulary Quiz
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.95rem; margin: 0;">
+            Test your recognition speed. Choose the correct English and Bengali meaning for each high-frequency Quranic word:
+          </p>
+        </div>
+
+        <LearningQuiz />
+      </section>
+
+      <!-- ================= TAB 4: ROOT FAMILIES ================= -->
+      <section id="tab-roots" class="learn-tab-panel" style="display: none;">
+        <div style="margin-bottom: 2rem;">
+          <h2 style="font-size: 1.6rem; font-weight: 800; margin-bottom: 0.35rem; color: var(--text-main);">
+            The Power of Arabic Roots: 1 Root → Many Words
+          </h2>
+          <p style="color: var(--text-muted); font-size: 0.95rem; margin: 0;">
+            Arabic words are built like branches on a tree. When you learn one triliteral root, you unlock 5 to 10 distinct words across the Quran without memorizing each from scratch:
+          </p>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem;">
+          <!-- Root 1: ع-ل-م -->
+          <div class="card" style="border-top: 4px solid var(--accent-teal); padding: 1.5rem;">
+            <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.75rem;">
+              <span class="badge badge-teal">728 Occurrences</span>
+              <a href="/root/%D8%B9%D9%84%D9%85" style="color: var(--accent-teal); font-size: 0.85rem; font-weight: 700;">Explore Root →</a>
+            </div>
+            <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 2.5rem; color: var(--accent-teal); line-height: 1.1; margin-bottom: 0.25rem;">
+              ع - ل - م
+            </div>
+            <div style="font-size: 1rem; font-weight: 700; color: var(--text-main); margin-bottom: 0.2rem;">
+              ‘-L-M · Knowledge & Knowing
+            </div>
+            <div class="bangla-text" lang="bn" style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
+              জ্ঞান, অবগত হওয়া ও শিক্ষা প্রদান
+            </div>
+
+            <div style="display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.88rem; background: var(--bg-subtle); padding: 0.75rem; border-radius: var(--radius-sm);">
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">عَلِمَ</span>
+                <span>He knew (Verb)</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">عَلَّمَ</span>
+                <span>He taught (Form II)</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">عِلْم</span>
+                <span>Knowledge (Noun)</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">عَلِيم</span>
+                <span>All-Knowing (Attribute)</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">عَالَمِين</span>
+                <span>Worlds / Creation (Plural)</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Root 2: أ-م-ن -->
+          <div class="card" style="border-top: 4px solid var(--accent-gold); padding: 1.5rem;">
+            <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.75rem;">
+              <span class="badge badge-gold">723 Occurrences</span>
+              <a href="/root/%D8%A3%D9%85%D9%86" style="color: var(--accent-gold); font-size: 0.85rem; font-weight: 700;">Explore Root →</a>
+            </div>
+            <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 2.5rem; color: var(--accent-gold); line-height: 1.1; margin-bottom: 0.25rem;">
+              أ - م - ن
+            </div>
+            <div style="font-size: 1rem; font-weight: 700; color: var(--text-main); margin-bottom: 0.2rem;">
+              ’-M-N · Faith, Security & Trust
+            </div>
+            <div class="bangla-text" lang="bn" style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
+              ঈমান, নিরাপত্তা, বিশ্বাস ও আমানত
+            </div>
+
+            <div style="display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.88rem; background: var(--bg-subtle); padding: 0.75rem; border-radius: var(--radius-sm);">
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">آمَنَ</span>
+                <span>He believed (Form IV)</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">مُؤْمِن</span>
+                <span>Believer (Participle)</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">إِيمَان</span>
+                <span>Faith / Conviction</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">أَمْن</span>
+                <span>Security / Safety</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">أَمَانَة</span>
+                <span>Sacred Trust / Deposit</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Root 3: ق-و-ل -->
+          <div class="card" style="border-top: 4px solid #0284c7; padding: 1.5rem;">
+            <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 0.75rem;">
+              <span class="badge" style="background: #e0f2fe; color: #0284c7;">1,383 Occurrences</span>
+              <a href="/root/%D9%82%D9%88%D9%84" style="color: #0284c7; font-size: 0.85rem; font-weight: 700;">Explore Root →</a>
+            </div>
+            <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 2.5rem; color: #0284c7; line-height: 1.1; margin-bottom: 0.25rem;">
+              ق - و - ل
+            </div>
+            <div style="font-size: 1rem; font-weight: 700; color: var(--text-main); margin-bottom: 0.2rem;">
+              Q-W-L · Speech, Saying & Dialogue
+            </div>
+            <div class="bangla-text" lang="bn" style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 1rem;">
+              কথা বলা, বাণী ও সংলাপ
+            </div>
+
+            <div style="display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.88rem; background: var(--bg-subtle); padding: 0.75rem; border-radius: var(--radius-sm);">
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">قَالَ</span>
+                <span>He said (Past verb)</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">يَقُولُ</span>
+                <span>He says (Present verb)</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">قُلْ</span>
+                <span>Say! (Command verb)</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">قَوْل</span>
+                <span>Word / Utterance (Noun)</span>
+              </div>
+              <div style="display: flex; justify-content: space-between;">
+                <span class="arabic-text" lang="ar" style="font-size: 1.1rem;">قِيلَ</span>
+                <span>It was said (Passive)</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
     </div>
   </div>
+
+  <style>
+    .learn-tab-btn {
+      background: none;
+      border: none;
+      padding: 0.65rem 1.15rem;
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      cursor: pointer;
+      border-bottom: 3px solid transparent;
+      white-space: nowrap;
+      transition: all 0.15s ease;
+      border-radius: var(--radius-sm) var(--radius-sm) 0 0;
+    }
+    .learn-tab-btn:hover {
+      color: var(--text-main);
+      background: var(--bg-subtle);
+    }
+    .learn-tab-btn.active {
+      color: var(--accent-teal);
+      border-bottom-color: var(--accent-teal);
+      font-weight: 700;
+      background: var(--bg-subtle);
+    }
+  </style>
+
+  <script is:inline>
+    (function () {
+      // Tab Switching
+      const tabBtns = document.querySelectorAll(".learn-tab-btn");
+      const tabPanels = document.querySelectorAll(".learn-tab-panel");
+
+      tabBtns.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const tabKey = btn.getAttribute("data-tab");
+          tabBtns.forEach((b) => b.classList.remove("active"));
+          btn.classList.add("active");
+
+          tabPanels.forEach((panel) => {
+            if (panel.id === `tab-${tabKey}`) {
+              panel.style.display = "block";
+            } else {
+              panel.style.display = "none";
+            }
+          });
+        });
+      });
+
+      // Module Checkbox Persistence & Progress Calculation
+      const checkBoxes = document.querySelectorAll(".module-check-box");
+      const progressPctEl = document.getElementById("overall-progress-pct");
+      const progressBarEl = document.getElementById("overall-progress-bar");
+
+      let completedModules = new Set();
+      try {
+        const saved = localStorage.getItem("qg_completed_modules");
+        if (saved) completedModules = new Set(JSON.parse(saved));
+      } catch (e) {}
+
+      function updateProgress() {
+        const total = checkBoxes.length;
+        if (total === 0) return;
+        const count = completedModules.size;
+        const pct = Math.round((count / total) * 100);
+
+        if (progressPctEl) progressPctEl.textContent = `${pct}%`;
+        if (progressBarEl) progressBarEl.style.width = `${pct}%`;
+
+        checkBoxes.forEach((cb) => {
+          const id = cb.getAttribute("data-mod-id");
+          cb.checked = completedModules.has(id);
+          const card = cb.closest(".module-card");
+          if (card) {
+            if (cb.checked) {
+              card.style.borderColor = "var(--accent-teal)";
+              card.style.background = "var(--bg-subtle)";
+            } else {
+              card.style.borderColor = "var(--border-color)";
+              card.style.background = "var(--bg-surface)";
+            }
+          }
+        });
+      }
+
+      checkBoxes.forEach((cb) => {
+        cb.addEventListener("change", () => {
+          const id = cb.getAttribute("data-mod-id");
+          if (cb.checked) {
+            completedModules.add(id);
+            if (typeof window.showQgToast === "function") {
+              window.showQgToast("Lesson marked as completed! 🎉", 1500);
+            }
+          } else {
+            completedModules.delete(id);
+          }
+          try {
+            localStorage.setItem("qg_completed_modules", JSON.stringify([...completedModules]));
+          } catch (e) {}
+          updateProgress();
+        });
+      });
+
+      updateProgress();
+    })();
+  </script>
 </Layout>

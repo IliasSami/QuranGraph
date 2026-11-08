@@ -1,74 +1,87 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import numbersData from "../../../ingest/work/numbers_lab.json" with { type: "json" };
+import lemmasData from "../lib/search/lemmas_lab.json" with { type: "json" };
 
 const { baseline, vocabulary_coverage, audited_claims } = numbersData;
+const topLemmas = lemmasData;
 ---
 
-<Layout title="Numbers Lab — Transparent, Honest Quranic Statistics">
+<Layout title="Quran Numbers Lab — Scientific Vocabulary Coverage & Quranic Statistics">
+  <!-- Hero Section -->
   <div style="padding: 3.5rem 0 2rem; background: var(--bg-surface); border-bottom: 1px solid var(--border-color);">
-    <div class="container" style="max-width: 900px;">
-      <div class="badge badge-gold" style="margin-bottom: 0.75rem;">Reproducible Data · No Mysticism</div>
+    <div class="container" style="max-width: 960px;">
+      <div class="badge badge-gold" style="margin-bottom: 0.75rem;">Reproducible Data · Empirical Linguistics</div>
       <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.75rem;">Quran Numbers Lab</h1>
       <p style="font-size: 1.1rem; color: var(--text-muted); line-height: 1.6;">
-        Every count in the Quran depends on clear rules: script edition, morphology vs whitespace words, and whether prefixes or plurals are included. Here, every number is verifiable, reproducible, and documented with its exact counting methodology.
+        Every count in the Quran depends on clear rules: script edition, morphology vs whitespace words, and whether prefixes or plurals are included. Here, every number is verifiable, reproducible, and documented with its exact counting methodology and connected vocabulary.
       </p>
     </div>
   </div>
 
   <div style="padding: 3rem 0;">
-    <div class="container" style="max-width: 900px;">
-      <!-- Baseline Cards -->
+    <div class="container" style="max-width: 960px;">
+
+      <!-- 1. Baseline Cards -->
       <div style="margin-bottom: 3.5rem;">
-        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 1.25rem;">1. Core Baseline Facts</h2>
+        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 1.25rem; display: flex; align-items: center; gap: 0.5rem;">
+          <span>📊</span> 1. Core Baseline Statistics
+        </h2>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.25rem;">
-          <div class="card">
-            <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600;">Surahs</div>
+          <div class="card" style="border-top: 3px solid var(--accent-teal);">
+            <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600;">Surahs (Chapters)</div>
             <div style="font-size: 2rem; font-weight: 800; color: var(--accent-teal);">{baseline.surahs}</div>
             <div style="font-size: 0.75rem; color: var(--text-muted);">86 Meccan, 28 Medinan</div>
           </div>
 
-          <div class="card">
+          <div class="card" style="border-top: 3px solid var(--accent-gold);">
             <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600;">Ayat (Verses)</div>
-            <div style="font-size: 2rem; font-weight: 800; color: var(--accent-teal);">{baseline.ayat.toLocaleString()}</div>
-            <div style="font-size: 0.75rem; color: var(--text-muted);">Standard Kufan count</div>
+            <div style="font-size: 2rem; font-weight: 800; color: var(--accent-gold);">{baseline.ayat.toLocaleString()}</div>
+            <div style="font-size: 0.75rem; color: var(--text-muted);">Standard Kufan count (Tanzil verbatim)</div>
           </div>
 
-          <div class="card">
+          <div class="card" style="border-top: 3px solid #0284c7;">
             <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600;">Words (Morphology)</div>
-            <div style="font-size: 2rem; font-weight: 800; color: var(--accent-teal);">{baseline.words_morphology.toLocaleString()}</div>
-            <div style="font-size: 0.75rem; color: var(--text-muted);">77,800 whitespace words</div>
+            <div style="font-size: 2rem; font-weight: 800; color: #0284c7;">{baseline.words_morphology.toLocaleString()}</div>
+            <div style="font-size: 0.75rem; color: var(--text-muted);">77,800 whitespace word tokens</div>
           </div>
 
-          <div class="card">
-            <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600;">Letters (Simple Text)</div>
-            <div style="font-size: 2rem; font-weight: 800; color: var(--accent-teal);">{baseline.letters_total.toLocaleString()}</div>
-            <div style="font-size: 0.75rem; color: var(--text-muted);">Excluding whitespace</div>
+          <div class="card" style="border-top: 3px solid #7c3aed;">
+            <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600;">Unique Triliteral Roots</div>
+            <div style="font-size: 2rem; font-weight: 800; color: #7c3aed;">{baseline.distinct_roots?.toLocaleString() || "1,651"}</div>
+            <div style="font-size: 0.75rem; color: var(--text-muted);">Yielding 4,763 unique lemmas</div>
           </div>
         </div>
       </div>
 
-      <!-- Vocabulary Coverage Curve -->
+      <!-- 2. Vocabulary Coverage Curve (Zipf's Law) -->
       <div style="margin-bottom: 3.5rem;">
-        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem;">2. The Vocabulary Coverage Curve (Zipf's Law)</h2>
-        <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.5rem;">
-          How many words must a beginner learn to understand the majority of the Quran? Because language follows Zipf's distribution, a tiny fraction of core roots and lemmas makes up the majority of text recited.
-        </p>
+        <div style="display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 0.5rem; flex-wrap: wrap; gap: 0.5rem;">
+          <div>
+            <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.25rem; display: flex; align-items: center; gap: 0.5rem;">
+              <span>📈</span> 2. The Vocabulary Coverage Curve (Zipf's Law)
+            </h2>
+            <p style="color: var(--text-muted); font-size: 0.95rem; margin: 0;">
+              How many words must a learner study to understand the majority of the Holy Quran? Language follows Zipf's power distribution: a tiny core of high-frequency lemmas forms the bulk of every recitation.
+            </p>
+          </div>
+        </div>
 
-        <div class="card">
+        <div class="card" style="margin-top: 1.25rem;">
           <!-- Visual Milestone Bar -->
           <div style="background: var(--bg-subtle); padding: 1.25rem; border-radius: var(--radius-sm); margin-bottom: 1.5rem; border: 1px solid var(--border-color);">
             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; font-size: 0.85rem; font-weight: 700;">
-              <span>Zipf Learning Milestone: 50% Recitation Comprehension</span>
-              <span style="color: var(--accent-gold);">58 Core Lemmas</span>
+              <span>Key Linguistic Milestone: 50% Recitation Comprehension</span>
+              <span style="color: var(--accent-gold); font-size: 0.95rem;">Only 58 Core Lemmas!</span>
             </div>
-            <div style="height: 12px; width: 100%; background: var(--border-color); border-radius: 9999px; overflow: hidden; position: relative;">
-              <div style="height: 100%; width: 50%; background: linear-gradient(90deg, var(--accent-teal), var(--accent-gold)); border-radius: 9999px;"></div>
+            <div style="height: 14px; width: 100%; background: var(--border-color); border-radius: 9999px; overflow: hidden; position: relative;">
+              <div style="height: 100%; width: 49.39%; background: linear-gradient(90deg, var(--accent-teal), var(--accent-gold)); border-radius: 9999px;"></div>
             </div>
-            <div style="display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.4rem;">
+            <div style="display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text-muted); margin-top: 0.5rem;">
               <span>0% (0 words)</span>
-              <span>50% (58 words)</span>
-              <span>70% (250 words)</span>
+              <span style="font-weight: 700; color: var(--accent-teal);">50% (58 words)</span>
+              <span>70% (232 words)</span>
+              <span>90% (1,095 words)</span>
               <span>100% (77,429 words)</span>
             </div>
           </div>
@@ -81,6 +94,7 @@ const { baseline, vocabulary_coverage, audited_claims } = numbersData;
                   <th style="padding: 0.75rem;">Unique Lemmas Needed</th>
                   <th style="padding: 0.75rem;">Unique Roots Needed</th>
                   <th style="padding: 0.75rem;">Word Forms Needed</th>
+                  <th style="padding: 0.75rem;">Learner Benchmark</th>
                 </tr>
               </thead>
               <tbody>
@@ -98,29 +112,150 @@ const { baseline, vocabulary_coverage, audited_claims } = numbersData;
                     <td style="padding: 0.85rem; color: var(--text-muted);">
                       {step.word_forms_needed?.toLocaleString()}
                     </td>
+                    <td style="padding: 0.85rem;">
+                      {step.target_coverage_pct === 50 && (
+                        <span class="badge badge-teal" style="font-size: 0.75rem;">High-Yield Starter (58 Words)</span>
+                      )}
+                      {step.target_coverage_pct === 70 && (
+                        <span class="badge badge-gold" style="font-size: 0.75rem;">General Recitation Comprehension</span>
+                      )}
+                      {step.target_coverage_pct >= 90 && (
+                        <span class="badge" style="background: var(--bg-subtle); color: var(--text-muted); font-size: 0.75rem;">Advanced Scholarly Vocabulary</span>
+                      )}
+                    </td>
                   </tr>
                 ))}
               </tbody>
             </table>
           </div>
           <div style="margin-top: 1rem; font-size: 0.85rem; color: var(--text-muted); font-style: italic;">
-            Data computed directly from the Quranic Arabic Corpus morphological segmentation of all 77,429 words.
+            Data derived from the complete morphological segmentation of all 77,429 words in the Quranic Arabic Corpus and Tanzil Uthmani text.
           </div>
         </div>
       </div>
 
-      <!-- Audited Numerical Claims -->
+      <!-- 3. Connected 50% Vocabulary Lab -->
+      <div style="margin-bottom: 3.5rem;" id="vocabulary-lab">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1rem; flex-wrap: wrap; gap: 0.75rem;">
+          <div>
+            <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.25rem; display: flex; align-items: center; gap: 0.5rem;">
+              <span>📖</span> 3. The 50% Recitation Vocabulary Lab ({topLemmas.length} Core Lemmas)
+            </h2>
+            <p style="color: var(--text-muted); font-size: 0.95rem; margin: 0;">
+              Every core lemma below is fully connected to its Arabic root, English meaning, Bengali translation, part of speech, and real Quranic anchor verse:
+            </p>
+          </div>
+          <a href="/learn" class="btn-action btn-action-primary" style="font-size: 0.85rem; text-decoration: none; padding: 0.45rem 0.9rem;">
+            <span>Interactive Learning Center →</span>
+          </a>
+        </div>
+
+        <!-- Filter & Search Controls -->
+        <div class="card" style="padding: 1.25rem; margin-bottom: 1.5rem; background: var(--bg-surface);">
+          <div style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+            <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;" id="lemma-filter-chips">
+              <button class="btn-action btn-action-sm lemma-chip active" data-pos="all">All ({topLemmas.length})</button>
+              <button class="btn-action btn-action-sm lemma-chip" data-pos="preposition">Prepositions (حروف)</button>
+              <button class="btn-action btn-action-sm lemma-chip" data-pos="verb">Verbs (أفعال)</button>
+              <button class="btn-action btn-action-sm lemma-chip" data-pos="noun">Nouns (أسماء)</button>
+              <button class="btn-action btn-action-sm lemma-chip" data-pos="pronoun">Pronouns (ضمائر)</button>
+              <button class="btn-action btn-action-sm lemma-chip" data-pos="particle">Particles (أدوات)</button>
+            </div>
+            <div style="position: relative; min-width: 240px; flex: 1; max-width: 320px;">
+              <input
+                type="search"
+                id="lemma-search-input"
+                placeholder="Search word, meaning, root..."
+                style="width: 100%; padding: 0.45rem 0.75rem; border: 1px solid var(--border-color); border-radius: var(--radius-sm); background: var(--bg-subtle); color: var(--text-main); font-size: 0.85rem;"
+                aria-label="Filter vocabulary lemmas"
+              />
+            </div>
+          </div>
+        </div>
+
+        <!-- Dynamic Lemmas Grid -->
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 1rem;" id="lemma-cards-grid">
+          {topLemmas.map((l) => (
+            <article class="card lemma-item-card" data-pos={l.pos} data-search={`${l.lemma} ${l.translit} ${l.meaning_en} ${l.meaning_bn} ${l.root || ''}`.toLowerCase()} style="padding: 1.25rem; display: flex; flex-direction: column; justify-content: space-between; transition: transform 0.15s ease, box-shadow 0.15s ease; border-top: 3px solid var(--accent-teal);">
+              <div>
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.75rem;">
+                  <span class="badge" style="background: var(--bg-subtle); font-weight: 700; color: var(--accent-teal); font-size: 0.75rem;">
+                    Rank #{l.rank}
+                  </span>
+                  <span class="badge" style="font-size: 0.7rem; background: var(--bg-subtle); color: var(--text-muted);">
+                    {l.pos_label}
+                  </span>
+                </div>
+
+                <!-- Arabic Lemma -->
+                <div style="text-align: right; margin-bottom: 0.75rem;">
+                  <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 2.2rem; color: var(--text-arabic); line-height: 1.2;">
+                    {l.lemma}
+                  </div>
+                  <div style="font-size: 0.85rem; font-style: italic; color: var(--accent-gold); font-family: var(--font-latin);">
+                    {l.translit}
+                  </div>
+                </div>
+
+                <!-- Meanings -->
+                <div style="margin-bottom: 0.85rem;">
+                  <div style="font-size: 0.95rem; font-weight: 600; color: var(--text-main); margin-bottom: 0.2rem;">
+                    {l.meaning_en}
+                  </div>
+                  <div class="bangla-text" lang="bn" style="font-size: 0.88rem; color: var(--text-muted);">
+                    {l.meaning_bn}
+                  </div>
+                </div>
+
+                <!-- Frequency & Root Link -->
+                <div style="font-size: 0.8rem; background: var(--bg-subtle); padding: 0.6rem 0.75rem; border-radius: var(--radius-sm); margin-bottom: 0.75rem;">
+                  <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
+                    <span style="color: var(--text-muted);">Frequency in Quran:</span>
+                    <strong style="color: var(--accent-teal);">{l.count.toLocaleString()}x ({l.percentage}%)</strong>
+                  </div>
+                  <div style="display: flex; justify-content: space-between; margin-bottom: 0.25rem;">
+                    <span style="color: var(--text-muted);">Cumulative Recitation:</span>
+                    <strong style="color: var(--accent-gold);">{l.cumulative_pct}% of Quran</strong>
+                  </div>
+                  {l.root && (
+                    <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px dashed var(--border-color); padding-top: 0.35rem; margin-top: 0.35rem;">
+                      <span style="color: var(--text-muted);">Triliteral Root:</span>
+                      <a href={`/root/${encodeURIComponent(l.root)}`} style="color: var(--accent-teal); font-weight: 700; text-decoration: none; font-family: var(--font-arabic);">
+                        {l.root} →
+                      </a>
+                    </div>
+                  )}
+                </div>
+              </div>
+
+              <!-- Context Verse Link & Search Action -->
+              <div style="border-top: 1px solid var(--border-color); padding-top: 0.75rem; display: flex; justify-content: space-between; align-items: center; gap: 0.5rem;">
+                <a href={`/ayah/${l.sample_ref.replace(':', '/')}`} class="btn-action btn-action-sm btn-action-ghost" title={`View anchor verse ${l.sample_ref}`} style="font-size: 0.78rem; text-decoration: none;">
+                  <span>Ayah {l.sample_ref}</span>
+                </a>
+                <a href={`/search?q=${encodeURIComponent(l.lemma)}`} class="btn-action btn-action-sm" title={`Search all ${l.count} occurrences`} style="font-size: 0.78rem; text-decoration: none;">
+                  <span>Search All {l.count} →</span>
+                </a>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+
+      <!-- 4. Audited Numerical Claims -->
       <div style="margin-bottom: 3.5rem;">
-        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem;">3. Audited Popular Numerical Claims</h2>
+        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">
+          <span>⚖️</span> 4. Audited Popular Numerical Claims
+        </h2>
         <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.5rem;">
-          Popular internet claims evaluated rigorously against reproducible SQL queries. We label every claim objectively with its exact mathematical condition and scholarly assessment.
+          Popular internet claims evaluated objectively against reproducible database queries. We label every claim transparently with its exact counting condition and classical scholarly consensus.
         </p>
 
         <div style="display: flex; flex-direction: column; gap: 1.5rem;">
           {audited_claims.map((claim: any) => (
             <article class="card">
               <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.75rem; flex-wrap: wrap; gap: 0.5rem;">
-                <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--text-main);">
+                <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--text-main); margin: 0;">
                   {claim.title_en}
                 </h3>
                 <span
@@ -152,13 +287,56 @@ const { baseline, vocabulary_coverage, audited_claims } = numbersData;
                 <strong style="color: var(--text-main);">Exact Counting Rule:</strong> {claim.rule}
               </div>
 
-              <p style="font-size: 0.95rem; color: var(--text-muted); line-height: 1.6;">
+              <p style="font-size: 0.95rem; color: var(--text-muted); line-height: 1.6; margin: 0;">
                 {claim.scholar_note}
               </p>
             </article>
           ))}
         </div>
       </div>
+
     </div>
   </div>
+
+  <!-- Interactive Filter Script -->
+  <script is:inline>
+    (function () {
+      const chips = document.querySelectorAll(".lemma-chip");
+      const searchInput = document.getElementById("lemma-search-input");
+      const cards = document.querySelectorAll(".lemma-item-card");
+
+      let currentPos = "all";
+      let currentQuery = "";
+
+      function filterLemmas() {
+        cards.forEach((card) => {
+          const cardPos = card.getAttribute("data-pos");
+          const cardSearch = card.getAttribute("data-search") || "";
+
+          const matchesPos = currentPos === "all" || cardPos === currentPos;
+          const matchesQuery = !currentQuery || cardSearch.includes(currentQuery);
+
+          if (matchesPos && matchesQuery) {
+            card.style.display = "flex";
+          } else {
+            card.style.display = "none";
+          }
+        });
+      }
+
+      chips.forEach((chip) => {
+        chip.addEventListener("click", () => {
+          chips.forEach((c) => c.classList.remove("active", "btn-action-primary"));
+          chip.classList.add("active", "btn-action-primary");
+          currentPos = chip.getAttribute("data-pos") || "all";
+          filterLemmas();
+        });
+      });
+
+      searchInput?.addEventListener("input", (e) => {
+        currentQuery = e.target.value.toLowerCase().trim();
+        filterLemmas();
+      });
+    })();
+  </script>
 </Layout>

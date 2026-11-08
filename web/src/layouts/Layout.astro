@@ -161,13 +161,16 @@ const {
       const scaleInc = document.getElementById("font-scale-inc");
       function adjustScale(delta) {
         let cur = parseFloat(localStorage.getItem("qg_arabic_scale") || "1");
-        cur = Math.min(Math.max(cur + delta, 0.8), 1.8);
+        cur = Math.min(Math.max(cur + delta, 0.75), 1.75);
         cur = Math.round(cur * 100) / 100;
         document.documentElement.style.setProperty("--arabic-scale", cur.toString());
         localStorage.setItem("qg_arabic_scale", cur.toString());
+        if (typeof window.showQgToast === "function") {
+          window.showQgToast(`Arabic font size: ${Math.round(cur * 100)}%`, 1400);
+        }
       }
-      scaleDec?.addEventListener("click", () => adjustScale(-0.15));
-      scaleInc?.addEventListener("click", () => adjustScale(0.15));
+      scaleDec?.addEventListener("click", () => adjustScale(-0.125));
+      scaleInc?.addEventListener("click", () => adjustScale(0.125));
 
       // Last Read Resumption
       try {

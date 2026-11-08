@@ -5,6 +5,7 @@ import themesData from "../../../../ingest/work/export/graph/themes.json" with {
 import similarData from "../../../../ingest/work/export/graph/similar_ayat.json" with { type: "json" };
 import corpusData from "../search/corpus.json" with { type: "json" };
 import surahsData from "../search/surahs.json" with { type: "json" };
+import { getRootGloss, getThemeGloss, ENTITY_FALLBACKS } from "./lexicon.ts";
 
 export interface GraphNode {
   id: string;
@@ -12,6 +13,7 @@ export interface GraphNode {
   label_ar?: string;
   label_bn?: string;
   sublabel?: string;
+  relationLabel?: string;
   type:
     | "ayah"
     | "name_of_allah"
@@ -243,6 +245,7 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
     label_ar: ayahRecord.ar?.slice(0, 40) + (ayahRecord.ar?.length > 40 ? "..." : ""),
     label_bn: `${surah.name_bn} (${ref})`,
     sublabel: "Active Verse",
+    relationLabel: "Active Verse Under Study",
     type: "ayah",
     category: "center",
     color: "#0f766e",
@@ -261,12 +264,25 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
   const connectedEntities: ConnectedEntityItem[] = [];
   const verseEntities = entitiesByAyah.get(ref) || [];
   for (const { eid, ent, slug, type, palette } of verseEntities) {
+    const fallback = ENTITY_FALLBACKS[eid];
+    const entAr = ent.label_ar || fallback?.ar || "";
+    const entBn = ent.label_bn || fallback?.bn || "";
+    const relation =
+      type === "person"
+        ? "Prophetic / Historical Figure"
+        : type === "name_of_allah"
+        ? "Divine Name & Attribute"
+        : type === "place"
+        ? "Sacred Geographic Location"
+        : `${palette.label} Mentioned`;
+
     addNode({
       id: eid,
       label: ent.label_en || eid,
-      label_ar: ent.label_ar || "",
-      label_bn: ent.label_bn || "",
+      label_ar: entAr,
+      label_bn: entBn,
       sublabel: palette.label,
+      relationLabel: relation,
       type: type as any,
       category: type,
       color: palette.color,
@@ -287,8 +303,8 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
       slug,
       type,
       label_en: ent.label_en || eid,
-      label_ar: ent.label_ar,
-      label_bn: ent.label_bn
+      label_ar: entAr,
+      label_bn: entBn
     });
   }
 
@@ -336,6 +352,7 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
       label: s.title_en,
       label_bn: s.title_bn,
       sublabel: "Quranic Narrative Arc",
+      relationLabel: "Prophetic Story Cycle",
       type: "story",
       category: "story",
       color: NODE_PALETTE.story.color,
@@ -359,6 +376,7 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
         label: ep.title_en,
         label_bn: ep.title_bn,
         sublabel: `Active Episode (${ep.ayat})`,
+        relationLabel: `Story Scene (${ep.ayat})`,
         type: "episode",
         category: "episode",
         color: NODE_PALETTE.episode.color,
@@ -389,12 +407,15 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
     const rootId = `root:${item.root}`;
     const occ = item.data.occurrences || 1;
     const rarityLabel = occ === 1 ? "1x in Quran (Hapax)" : `${occ}x in Quran`;
+    const rootGloss = getRootGloss(item.root);
 
     addNode({
       id: rootId,
-      label: item.root,
-      label_ar: item.root,
+      label: rootGloss.label_en,
+      label_ar: rootGloss.label_ar,
+      label_bn: rootGloss.label_bn,
       sublabel: rarityLabel,
+      relationLabel: `Triliteral Root (${rarityLabel})`,
       type: "root",
       category: "root",
       color: NODE_PALETTE.root.color,
@@ -402,7 +423,8 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
       url: `/root/${encodeURIComponent(item.root)}`,
       properties: {
         occurrences: occ,
-        lemmas: item.data.lemmas
+        lemmas: item.data.lemmas,
+        translit: rootGloss.label_en
       }
     });
 
@@ -418,15 +440,19 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
   const verseThemes = themesByAyah.get(ref) || [];
   let themeCount = Math.min(verseThemes.length, 4);
   for (const { tid, theme: t } of verseThemes.slice(0, 4)) {
+    const themeGloss = getThemeGloss(tid, t.label_en);
     addNode({
       id: tid,
-      label: t.label_en || tid.replace("theme:", "").replace(/-/g, " "),
+      label: themeGloss.en,
+      label_ar: themeGloss.ar,
+      label_bn: themeGloss.bn,
       sublabel: "Moral Theme",
+      relationLabel: "Quranic Moral & Creed Principle",
       type: "theme",
       category: "theme",
       color: NODE_PALETTE.theme.color,
       radius: 16,
-      url: `/search?q=${encodeURIComponent(t.label_en || tid)}`,
+      url: `/search?q=${encodeURIComponent(themeGloss.en)}`,
       properties: { ayat_count: t.ayat_count }
     });
 
@@ -440,21 +466,24 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
 
   // 6. Explanation metadata overlay (if available)
   if (explanation) {
-    // If explanation has themes not yet added
     if (Array.isArray(explanation.themes)) {
       for (const tName of explanation.themes) {
         if (themeCount >= 5) break;
         const tid = `theme-exp:${tName.toLowerCase().replace(/\s+/g, "-")}`;
         if (!seenNodes.has(tid)) {
+          const expThemeGloss = getThemeGloss(tName);
           addNode({
             id: tid,
-            label: tName,
+            label: expThemeGloss.en,
+            label_ar: expThemeGloss.ar,
+            label_bn: expThemeGloss.bn,
             sublabel: "Ayah Explanation Theme",
+            relationLabel: "Explanatory Tafsir Concept",
             type: "theme",
             category: "theme",
             color: NODE_PALETTE.theme.color,
             radius: 15,
-            url: `/search?q=${encodeURIComponent(tName)}`
+            url: `/search?q=${encodeURIComponent(expThemeGloss.en)}`
           });
           addEdge({
             source: centerId,
@@ -478,11 +507,15 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
     const simSurah = surahMap.get(simS);
     const simNodeId = `ayah:${simRef}`;
     const overlapPct = Math.round((sim.score || 0) * 100);
+    const simAyahRecord = corpusMap.get(simRef) || { ar: "", en: "", bn: "" };
 
     addNode({
       id: simNodeId,
-      label: `${simSurah ? simSurah.name_translit : `Surah ${simS}`} ${simRef}`,
+      label: `${simSurah ? simSurah.name_translit : `Surah ${simS}`} ${simRef} (${overlapPct}% overlap)`,
+      label_ar: simAyahRecord.ar?.slice(0, 36) + (simAyahRecord.ar?.length > 36 ? "..." : ""),
+      label_bn: simSurah ? simSurah.name_bn : "",
       sublabel: `${overlapPct}% shared lemmas (${(sim.shared_lemmas || []).slice(0, 2).join(", ")})`,
+      relationLabel: `Shared Lemmas (${(sim.shared_lemmas || []).slice(0, 2).join(", ")})`,
       type: "similar_ayah",
       category: "similar_ayah",
       color: NODE_PALETTE.similar_ayah.color,

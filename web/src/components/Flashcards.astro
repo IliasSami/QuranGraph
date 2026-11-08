@@ -1,166 +1,182 @@
 ---
-const cards = [
-  { lemma: "اللَّه", root: "أله", count: 2699, en: "Allah (God, The One True Deity)", bn: "আল্লাহ (একমাত্র সত্য উপাস্য)" },
-  { lemma: "قالَ", root: "قول", count: 1722, en: "to say, speak", bn: "বলা, কথা বলা" },
-  { lemma: "كانَ", root: "كون", count: 1358, en: "to be, exist", bn: "হওয়া, বিদ্যমান থাকা" },
-  { lemma: "رَبّ", root: "ربب", count: 975, en: "Lord, Sustainer, Master", bn: "রব, পালনকর্তা ও প্রভু" },
-  { lemma: "آمَنَ", root: "أمن", count: 890, en: "to believe, have faith", bn: "ঈমান আনা, বিশ্বাস করা" },
-  { lemma: "عَلِمَ", root: "علم", count: 854, en: "to know, be aware", bn: "জানা, অবগত থাকা" },
-  { lemma: "جَعَلَ", root: "جعل", count: 346, en: "to make, appoint, place", bn: "বানানো, নির্ধারণ করা" },
-  { lemma: "أَرْض", root: "أرض", count: 461, en: "earth, land", bn: "পৃথিবী, জমিন" },
-  { lemma: "سَماء", root: "سمو", count: 310, en: "sky, heaven", bn: "আকাশ, আসমান" },
-  { lemma: "يَوْم", root: "يوم", count: 475, en: "day, period, time", bn: "দিন, দিবস" },
-  { lemma: "كِتاب", root: "كتب", count: 261, en: "book, scripture, register", bn: "কিতাব, গ্রন্থ, আমলনামা" },
-  { lemma: "رَحْمَة", root: "رحم", count: 145, en: "mercy, grace", bn: "রহমত, দয়া ও অনুগ্রহ" },
-  { lemma: "قَلْب", root: "قلب", count: 168, en: "heart, mind, intellect", bn: "অন্তর, হৃদয়" },
-  { lemma: "نَفْس", root: "نفس", count: 298, en: "soul, self, life", bn: "আত্মা, প্রাণ, ব্যক্তি" },
-  { lemma: "عَمِلَ", root: "عمل", count: 360, en: "to do, act, work", bn: "কাজ করা, আমল করা" },
-  { lemma: "صَبَرَ", root: "صبر", count: 103, en: "to be patient, persevere", bn: "ধৈর্য ধারণ করা" },
-  { lemma: "شَكَرَ", root: "شكر", count: 75, en: "to be grateful, give thanks", bn: "কৃতজ্ঞতা প্রকাশ করা" },
-  { lemma: "هُدًى", root: "هدي", count: 85, en: "guidance, right path", bn: "হেদায়েত, সঠিক পথ" },
-  { lemma: "حَقّ", root: "حقق", count: 247, en: "truth, right, reality", bn: "সত্য, অধিকার" },
-  { lemma: "نُور", root: "نور", count: 49, en: "light, illumination", bn: "নূর, আলো" }
-];
+import lemmasData from "../lib/search/lemmas_lab.json" with { type: "json" };
+
+const cards = lemmasData;
 ---
 
-<div class="flashcards-widget card" style="border-top: 4px solid var(--accent-gold); max-width: 600px; margin: 0 auto;">
+<div class="flashcards-widget card" style="border-top: 4px solid var(--accent-gold); max-width: 640px; margin: 0 auto; padding: 1.5rem 1.75rem;">
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.5rem;">
-    <span class="badge badge-gold">Spaced Repetition Flashcards</span>
+    <div>
+      <span class="badge badge-gold" style="font-weight: 700; font-size: 0.75rem;">Active Recall Flashcards</span>
+      <div style="font-size: 0.82rem; color: var(--text-muted); margin-top: 0.2rem;">
+        Spaced repetition of the 50% Quranic vocabulary
+      </div>
+    </div>
     <div style="display: flex; gap: 0.5rem; align-items: center;">
-      <span id="fc-mastered-count" class="badge" style="background: var(--accent-teal-subtle); color: var(--accent-teal); font-size: 0.75rem;">
+      <span id="fc-mastered-count" class="badge" style="background: var(--accent-teal-subtle); color: var(--accent-teal); font-size: 0.75rem; font-weight: 700;">
         Mastered: 0
       </span>
-      <span id="fc-progress" style="font-size: 0.85rem; font-weight: 600; color: var(--text-muted);">
+      <span id="fc-progress" style="font-size: 0.85rem; font-weight: 700; color: var(--text-muted);">
         Card 1 of {cards.length}
       </span>
     </div>
   </div>
 
-  <div id="fc-card" style="min-height: 220px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; background: var(--bg-subtle); border-radius: var(--radius-md); padding: 2rem; border: 1px solid var(--border-color); margin-bottom: 1.5rem; transition: background-color 0.2s ease;">
-    <div id="fc-arabic" class="arabic-text" style="font-size: 3rem; color: var(--accent-teal); margin-bottom: 0.5rem;">
+  <div id="fc-card" style="min-height: 240px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; background: var(--bg-subtle); border-radius: var(--radius-md); padding: 2rem 1.5rem; border: 1px solid var(--border-color); margin-bottom: 1.5rem; position: relative;">
+    <div style="position: absolute; top: 12px; left: 16px; font-size: 0.75rem; color: var(--text-muted); font-weight: 700;" id="fc-card-rank">
+      Rank #{cards[0].rank}
+    </div>
+    <div style="position: absolute; top: 12px; right: 16px; font-size: 0.72rem; color: var(--text-muted);" id="fc-card-pos">
+      {cards[0].pos_label}
+    </div>
+
+    <!-- Sacred Arabic Word -->
+    <div id="fc-arabic" class="arabic-text" lang="ar" dir="rtl" style="font-size: 3.4rem; color: var(--accent-teal); line-height: 1.2; margin-bottom: 0.35rem;">
       {cards[0].lemma}
     </div>
-    <div id="fc-root" style="font-size: 0.9rem; color: var(--text-muted); margin-bottom: 0.5rem;">
-      Root: {cards[0].root || "N/A"}
+    <div id="fc-translit" style="font-size: 1.05rem; font-style: italic; color: var(--accent-gold); font-family: var(--font-latin); margin-bottom: 0.4rem;">
+      {cards[0].translit}
     </div>
-    <div id="fc-count" class="badge" style="background: var(--bg-surface); color: var(--text-muted); font-size: 0.75rem; margin-bottom: 1rem;">
-      {cards[0].count.toLocaleString()} occurrences in Quran
+    <div id="fc-root" style="font-size: 0.82rem; color: var(--text-muted); margin-bottom: 0.75rem;">
+      {cards[0].root ? `Root: ${cards[0].root}` : "Particle / Pronoun"}
+    </div>
+    <div id="fc-count" class="badge" style="background: var(--bg-surface); color: var(--text-muted); font-size: 0.72rem; margin-bottom: 0.5rem;">
+      {cards[0].count.toLocaleString()} occurrences ({cards[0].percentage}% of Quran)
     </div>
 
     <!-- Hidden answer area -->
-    <div id="fc-answer" style="display: none; border-top: 1px dashed var(--border-color); padding-top: 1rem; width: 100%;">
-      <div id="fc-meaning-en" style="font-size: 1.2rem; font-weight: 700; color: var(--text-main); margin-bottom: 0.25rem;">
-        <!-- Filled dynamically -->
+    <div id="fc-answer" style="display: none; border-top: 1px dashed var(--border-color); padding-top: 1rem; width: 100%; margin-top: 0.5rem;">
+      <div id="fc-meaning-en" style="font-size: 1.25rem; font-weight: 700; color: var(--text-main); margin-bottom: 0.25rem;">
+        {cards[0].meaning_en}
       </div>
-      <div id="fc-meaning-bn" class="bangla-text" style="font-size: 1.05rem; color: var(--text-muted);">
-        <!-- Filled dynamically -->
+      <div id="fc-meaning-bn" class="bangla-text" lang="bn" style="font-size: 1.05rem; color: var(--text-muted); margin-bottom: 0.5rem;">
+        {cards[0].meaning_bn}
+      </div>
+      <div id="fc-sample-context" style="font-size: 0.8rem; color: var(--text-muted); background: var(--bg-surface); padding: 0.4rem 0.75rem; border-radius: var(--radius-sm); display: inline-block;">
+        Anchor: Ayah {cards[0].sample_ref}
       </div>
     </div>
   </div>
 
   <!-- Actions -->
-  <div id="fc-reveal-container" style="display: flex; justify-content: center;">
-    <button id="fc-reveal-btn" class="btn-icon" style="background: var(--accent-teal); color: white; padding: 0.75rem 2rem; font-size: 1rem; font-weight: 600; border: none; border-radius: var(--radius-sm); cursor: pointer;">
-      Reveal Meaning (উন্মোচন) <kbd style="font-size: 0.75rem; opacity: 0.8; margin-left: 0.35rem; background: rgba(0,0,0,0.2); padding: 0.1rem 0.3rem; border-radius: 3px;">Space</kbd>
+  <div id="fc-reveal-container" style="display: flex; justify-content: center; gap: 0.75rem;">
+    <button id="fc-prev-btn" class="btn-action btn-action-sm btn-action-ghost" style="padding: 0.75rem 1rem;" title="Previous card">
+      ← Prev
+    </button>
+    <button id="fc-reveal-btn" class="btn-action btn-action-primary" style="flex: 1; padding: 0.75rem 1.5rem; font-size: 1rem; font-weight: 600; justify-content: center;">
+      <span>Reveal Meaning (উন্মোচন)</span>
+      <kbd style="font-size: 0.72rem; opacity: 0.8; margin-left: 0.4rem; background: rgba(0,0,0,0.2); padding: 0.1rem 0.35rem; border-radius: 3px;">Space</kbd>
+    </button>
+    <button id="fc-skip-btn" class="btn-action btn-action-sm btn-action-ghost" style="padding: 0.75rem 1rem;" title="Skip to next card">
+      Skip →
     </button>
   </div>
 
-  <div id="fc-response-container" style="display: none; justify-content: center; gap: 1rem;">
-    <button id="fc-again-btn" class="btn-icon" style="flex: 1; padding: 0.75rem; background: var(--bg-subtle); color: var(--text-main); border: 1px solid var(--border-color); font-weight: 600;">
-      🔄 Review Again <kbd style="font-size: 0.75rem; opacity: 0.8; margin-left: 0.25rem;">1</kbd>
+  <div id="fc-response-container" style="display: none; justify-content: center; gap: 0.75rem;">
+    <button id="fc-again-btn" class="btn-action" style="flex: 1; padding: 0.75rem; background: var(--bg-subtle); color: var(--text-main); font-weight: 600; justify-content: center;">
+      <span>🔄 Review Again</span>
+      <kbd style="font-size: 0.72rem; opacity: 0.8; margin-left: 0.3rem;">1</kbd>
     </button>
-    <button id="fc-know-btn" class="btn-icon" style="flex: 1; padding: 0.75rem; background: var(--accent-teal); color: white; border: none; font-weight: 600;">
-      ✅ Got It (Mastered) <kbd style="font-size: 0.75rem; opacity: 0.8; margin-left: 0.25rem;">2</kbd>
+    <button id="fc-know-btn" class="btn-action btn-action-primary" style="flex: 1; padding: 0.75rem; font-weight: 600; justify-content: center;">
+      <span>✅ Mastered (জানা আছে)</span>
+      <kbd style="font-size: 0.72rem; opacity: 0.8; margin-left: 0.3rem;">2</kbd>
     </button>
   </div>
 </div>
 
 <script is:inline define:vars={{ cards }}>
-  let currentIdx = 0;
-  const arabicEl = document.getElementById("fc-arabic");
-  const rootEl = document.getElementById("fc-root");
-  const countEl = document.getElementById("fc-count");
-  const answerEl = document.getElementById("fc-answer");
-  const meaningEn = document.getElementById("fc-meaning-en");
-  const meaningBn = document.getElementById("fc-meaning-bn");
-  const revealBtn = document.getElementById("fc-reveal-btn");
-  const revealBox = document.getElementById("fc-reveal-container");
-  const respBox = document.getElementById("fc-response-container");
-  const progressEl = document.getElementById("fc-progress");
-  const masteredEl = document.getElementById("fc-mastered-count");
+  (function () {
+    let currentIdx = 0;
+    const arabicEl = document.getElementById("fc-arabic");
+    const translitEl = document.getElementById("fc-translit");
+    const rootEl = document.getElementById("fc-root");
+    const countEl = document.getElementById("fc-count");
+    const rankEl = document.getElementById("fc-card-rank");
+    const posEl = document.getElementById("fc-card-pos");
+    const meaningEnEl = document.getElementById("fc-meaning-en");
+    const meaningBnEl = document.getElementById("fc-meaning-bn");
+    const sampleContextEl = document.getElementById("fc-sample-context");
+    const answerEl = document.getElementById("fc-answer");
+    const revealContainer = document.getElementById("fc-reveal-container");
+    const responseContainer = document.getElementById("fc-response-container");
+    const progressEl = document.getElementById("fc-progress");
+    const masteredEl = document.getElementById("fc-mastered-count");
 
-  // Load mastered cards
-  let masteredSet = new Set();
-  try {
-    const saved = localStorage.getItem("qg_flashcards_mastered");
-    if (saved) {
-      masteredSet = new Set(JSON.parse(saved));
-    }
-  } catch (e) {}
-
-  function updateMasteredUI() {
-    if (masteredEl) {
-      masteredEl.textContent = `Mastered: ${masteredSet.size} / ${cards.length}`;
-    }
-  }
-
-  function showCard(idx) {
-    const item = cards[idx % cards.length];
-    if (!arabicEl || !rootEl || !countEl || !meaningEn || !meaningBn || !answerEl) return;
-
-    arabicEl.textContent = item.lemma;
-    rootEl.textContent = "Root: " + (item.root || "N/A");
-    countEl.textContent = item.count.toLocaleString() + " occurrences in Quran";
-    meaningEn.textContent = item.en;
-    meaningBn.textContent = item.bn;
-
-    answerEl.style.display = "none";
-    if (revealBox) revealBox.style.display = "flex";
-    if (respBox) respBox.style.display = "none";
-    if (progressEl) progressEl.textContent = `Card ${idx + 1} of ${cards.length}`;
-    updateMasteredUI();
-  }
-
-  function revealCard() {
-    if (answerEl) answerEl.style.display = "block";
-    if (revealBox) revealBox.style.display = "none";
-    if (respBox) respBox.style.display = "flex";
-  }
-
-  revealBtn?.addEventListener("click", revealCard);
-
-  document.getElementById("fc-know-btn")?.addEventListener("click", () => {
-    masteredSet.add(cards[currentIdx % cards.length].lemma);
+    let mastered = new Set();
     try {
-      localStorage.setItem("qg_flashcards_mastered", JSON.stringify(Array.from(masteredSet)));
+      const saved = localStorage.getItem("qg_mastered_lemmas");
+      if (saved) mastered = new Set(JSON.parse(saved));
     } catch (e) {}
-    currentIdx = (currentIdx + 1) % cards.length;
-    showCard(currentIdx);
-  });
 
-  document.getElementById("fc-again-btn")?.addEventListener("click", () => {
-    currentIdx = (currentIdx + 1) % cards.length;
-    showCard(currentIdx);
-  });
-
-  // Keyboard controls
-  window.addEventListener("keydown", (e) => {
-    // Only handle if active element is not an input
-    if (document.activeElement?.tagName === "INPUT" || document.activeElement?.tagName === "TEXTAREA") return;
-
-    if (e.code === "Space") {
-      e.preventDefault();
-      if (answerEl?.style.display === "none") {
-        revealCard();
-      }
-    } else if (e.key === "1" && respBox?.style.display === "flex") {
-      e.preventDefault();
-      document.getElementById("fc-again-btn")?.click();
-    } else if (e.key === "2" && respBox?.style.display === "flex") {
-      e.preventDefault();
-      document.getElementById("fc-know-btn")?.click();
+    function updateMasteredCount() {
+      if (masteredEl) masteredEl.textContent = `Mastered: ${mastered.size} / ${cards.length}`;
     }
-  });
+    updateMasteredCount();
 
-  showCard(0);
+    function showCard(idx) {
+      currentIdx = (idx + cards.length) % cards.length;
+      const c = cards[currentIdx];
+
+      if (arabicEl) arabicEl.textContent = c.lemma;
+      if (translitEl) translitEl.textContent = c.translit;
+      if (rootEl) rootEl.textContent = c.root ? `Root: ${c.root}` : "Particle / Pronoun";
+      if (countEl) countEl.textContent = `${c.count.toLocaleString()} occurrences (${c.percentage}% of Quran)`;
+      if (rankEl) rankEl.textContent = `Rank #${c.rank}`;
+      if (posEl) posEl.textContent = c.pos_label;
+      if (meaningEnEl) meaningEnEl.textContent = c.meaning_en;
+      if (meaningBnEl) meaningBnEl.textContent = c.meaning_bn;
+      if (sampleContextEl) sampleContextEl.textContent = `Anchor Verse: Ayah ${c.sample_ref}`;
+      if (progressEl) progressEl.textContent = `Card ${currentIdx + 1} of ${cards.length}`;
+
+      if (answerEl) answerEl.style.display = "none";
+      if (revealContainer) revealContainer.style.display = "flex";
+      if (responseContainer) responseContainer.style.display = "none";
+    }
+
+    function reveal() {
+      if (answerEl) answerEl.style.display = "block";
+      if (revealContainer) revealContainer.style.display = "none";
+      if (responseContainer) responseContainer.style.display = "flex";
+    }
+
+    document.getElementById("fc-reveal-btn")?.addEventListener("click", reveal);
+    document.getElementById("fc-prev-btn")?.addEventListener("click", () => showCard(currentIdx - 1));
+    document.getElementById("fc-skip-btn")?.addEventListener("click", () => showCard(currentIdx + 1));
+
+    document.getElementById("fc-again-btn")?.addEventListener("click", () => {
+      showCard(currentIdx + 1);
+    });
+
+    document.getElementById("fc-know-btn")?.addEventListener("click", () => {
+      mastered.add(cards[currentIdx].lemma);
+      try {
+        localStorage.setItem("qg_mastered_lemmas", JSON.stringify([...mastered]));
+      } catch (e) {}
+      updateMasteredCount();
+      showCard(currentIdx + 1);
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA") return;
+      if (e.code === "Space") {
+        e.preventDefault();
+        if (answerEl?.style.display === "none") {
+          reveal();
+        } else {
+          showCard(currentIdx + 1);
+        }
+      } else if (e.key === "1" && responseContainer?.style.display === "flex") {
+        showCard(currentIdx + 1);
+      } else if (e.key === "2" && responseContainer?.style.display === "flex") {
+        mastered.add(cards[currentIdx].lemma);
+        try {
+          localStorage.setItem("qg_mastered_lemmas", JSON.stringify([...mastered]));
+        } catch (err) {}
+        updateMasteredCount();
+        showCard(currentIdx + 1);
+      }
+    });
+
+    showCard(0);
+  })();
 </script>

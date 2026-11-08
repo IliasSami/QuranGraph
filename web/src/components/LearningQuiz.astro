@@ -1,0 +1,214 @@
+---
+import lemmasData from "../lib/search/lemmas_lab.json" with { type: "json" };
+
+const quizPool = lemmasData.slice(0, 45); // top 45 core lemmas for rich quiz questions
+---
+
+<div class="learning-quiz-widget card" style="max-width: 680px; margin: 0 auto; border-top: 4px solid var(--accent-teal); padding: 1.5rem 1.75rem;">
+  <!-- Header Bar -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.5rem;">
+    <div>
+      <span class="badge badge-teal" style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; font-weight: 700;">
+        🎯 Vocabulary Mastery Check
+      </span>
+      <div style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.2rem;">
+        Test your recognition of the 50% Quranic vocabulary
+      </div>
+    </div>
+    <div style="display: flex; gap: 0.75rem; align-items: center;">
+      <span id="quiz-streak-badge" class="badge" style="background: var(--accent-gold-subtle); color: var(--accent-gold); font-weight: 700; font-size: 0.78rem;">
+        🔥 Streak: 0
+      </span>
+      <span id="quiz-score-badge" class="badge" style="background: var(--bg-subtle); color: var(--text-main); font-weight: 700; font-size: 0.78rem;">
+        Score: 0 / 0
+      </span>
+    </div>
+  </div>
+
+  <!-- Question Box -->
+  <div id="quiz-question-box" style="background: var(--bg-subtle); border-radius: var(--radius-md); padding: 1.75rem; text-align: center; border: 1px solid var(--border-color); margin-bottom: 1.5rem; position: relative;">
+    <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-bottom: 0.5rem;" id="quiz-q-category">
+      Word Recognition · Rank #1
+    </div>
+    <div id="quiz-q-arabic" class="arabic-text" lang="ar" dir="rtl" style="font-size: 3.2rem; color: var(--accent-teal); line-height: 1.2; margin-bottom: 0.4rem;">
+      {quizPool[0].lemma}
+    </div>
+    <div id="quiz-q-translit" style="font-size: 1.05rem; font-style: italic; color: var(--accent-gold); font-family: var(--font-latin); margin-bottom: 0.5rem;">
+      {quizPool[0].translit}
+    </div>
+    <div id="quiz-q-meta" style="font-size: 0.8rem; color: var(--text-muted);">
+      {quizPool[0].pos_label} · {quizPool[0].count.toLocaleString()}x in Quran
+    </div>
+  </div>
+
+  <!-- Options Grid -->
+  <div id="quiz-options-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin-bottom: 1.25rem;">
+    <!-- Filled dynamically by JavaScript -->
+  </div>
+
+  <!-- Explanation & Feedback Footer (Hidden initially) -->
+  <div id="quiz-feedback-box" style="display: none; background: var(--bg-surface); border-radius: var(--radius-sm); padding: 1rem 1.25rem; border: 1px solid var(--border-color); margin-bottom: 1.25rem;">
+    <div style="display: flex; align-items: center; gap: 0.5rem; font-weight: 700; margin-bottom: 0.4rem;" id="quiz-feedback-title">
+      <!-- Correct / Incorrect message -->
+    </div>
+    <div style="font-size: 0.9rem; color: var(--text-main); margin-bottom: 0.35rem;" id="quiz-feedback-meanings">
+      <!-- English & Bengali meaning -->
+    </div>
+    <div style="font-size: 0.82rem; color: var(--text-muted);" id="quiz-feedback-sample">
+      <!-- Example verse context -->
+    </div>
+  </div>
+
+  <!-- Next Question Button -->
+  <div style="display: flex; justify-content: flex-end;">
+    <button id="quiz-next-btn" class="btn-action btn-action-primary" style="display: none; padding: 0.6rem 1.5rem; font-size: 0.9rem;">
+      <span>Next Word (পরবর্তী শব্দ) →</span>
+    </button>
+  </div>
+</div>
+
+<!-- Raw Lemma Pool for Client Quiz Generation -->
+<script type="application/json" id="quiz-pool-data" set:html={JSON.stringify(quizPool)}></script>
+
+<script is:inline>
+  (function () {
+    const rawDataEl = document.getElementById("quiz-pool-data");
+    if (!rawDataEl) return;
+
+    let pool = [];
+    try {
+      pool = JSON.parse(rawDataEl.textContent || "[]");
+    } catch (e) {
+      return;
+    }
+
+    if (pool.length === 0) return;
+
+    let currentIndex = 0;
+    let score = 0;
+    let totalAnswered = 0;
+    let streak = 0;
+    let isAnswered = false;
+
+    // Shuffle array helper
+    function shuffle(arr) {
+      const a = arr.slice();
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    }
+
+    const qArabic = document.getElementById("quiz-q-arabic");
+    const qTranslit = document.getElementById("quiz-q-translit");
+    const qMeta = document.getElementById("quiz-q-meta");
+    const qCategory = document.getElementById("quiz-q-category");
+    const optionsGrid = document.getElementById("quiz-options-grid");
+    const feedbackBox = document.getElementById("quiz-feedback-box");
+    const feedbackTitle = document.getElementById("quiz-feedback-title");
+    const feedbackMeanings = document.getElementById("quiz-feedback-meanings");
+    const feedbackSample = document.getElementById("quiz-feedback-sample");
+    const nextBtn = document.getElementById("quiz-next-btn");
+    const streakBadge = document.getElementById("quiz-streak-badge");
+    const scoreBadge = document.getElementById("quiz-score-badge");
+
+    function loadQuestion(item) {
+      isAnswered = false;
+      feedbackBox.style.display = "none";
+      nextBtn.style.display = "none";
+
+      qCategory.textContent = `Word Recognition · Rank #${item.rank}`;
+      qArabic.textContent = item.lemma;
+      qTranslit.textContent = item.translit;
+      qMeta.textContent = `${item.pos_label} · ${item.count.toLocaleString()}x in Quran (${item.percentage}%)`;
+
+      // Pick 3 distractors from other lemmas
+      const otherItems = pool.filter((p) => p.lemma !== item.lemma);
+      const distractors = shuffle(otherItems).slice(0, 3);
+      const options = shuffle([item, ...distractors]);
+
+      optionsGrid.innerHTML = "";
+      options.forEach((opt, idx) => {
+        const btn = document.createElement("button");
+        btn.className = "btn-action quiz-opt-btn";
+        btn.style.padding = "0.85rem 1rem";
+        btn.style.textAlign = "left";
+        btn.style.display = "flex";
+        btn.style.flexDirection = "column";
+        btn.style.gap = "0.2rem";
+        btn.style.height = "auto";
+        btn.style.borderRadius = "var(--radius-sm)";
+        btn.style.transition = "all 0.15s ease";
+
+        btn.innerHTML = `
+          <div style="font-weight: 700; font-size: 0.95rem; color: var(--text-main);">${opt.meaning_en}</div>
+          <div class="bangla-text" lang="bn" style="font-size: 0.8rem; color: var(--text-muted);">${opt.meaning_bn}</div>
+        `;
+
+        btn.addEventListener("click", () => handleAnswer(opt, item, btn));
+        optionsGrid.appendChild(btn);
+      });
+    }
+
+    function handleAnswer(selected, correct, clickedBtn) {
+      if (isAnswered) return;
+      isAnswered = true;
+      totalAnswered++;
+
+      const isCorrect = selected.lemma === correct.lemma;
+      if (isCorrect) {
+        score++;
+        streak++;
+        clickedBtn.style.background = "#dcfce7";
+        clickedBtn.style.borderColor = "#16a34a";
+        clickedBtn.style.color = "#15803d";
+        feedbackTitle.innerHTML = `<span style="color: #16a34a; font-size: 1.1rem;">✓ Correct! (সঠিক উত্তর)</span>`;
+      } else {
+        streak = 0;
+        clickedBtn.style.background = "#fee2e2";
+        clickedBtn.style.borderColor = "#dc2626";
+        clickedBtn.style.color = "#991b1b";
+        feedbackTitle.innerHTML = `<span style="color: #dc2626; font-size: 1.1rem;">✗ Incorrect (সঠিক উত্তর নিচে দেওয়া হলো)</span>`;
+
+        // Highlight correct option button
+        const allBtns = optionsGrid.querySelectorAll(".quiz-opt-btn");
+        allBtns.forEach((b) => {
+          if (b.textContent.includes(correct.meaning_en)) {
+            b.style.background = "#dcfce7";
+            b.style.borderColor = "#16a34a";
+            b.style.color = "#15803d";
+          }
+        });
+      }
+
+      streakBadge.textContent = `🔥 Streak: ${streak}`;
+      const pct = Math.round((score / totalAnswered) * 100);
+      scoreBadge.textContent = `Score: ${score} / ${totalAnswered} (${pct}%)`;
+
+      feedbackMeanings.innerHTML = `
+        <strong>${correct.lemma}</strong> (<em>${correct.translit}</em>) means: 
+        <strong style="color: var(--accent-teal);">${correct.meaning_en}</strong> 
+        <span class="bangla-text" lang="bn">(${correct.meaning_bn})</span>
+      `;
+
+      if (correct.sample_ref) {
+        feedbackSample.innerHTML = `
+          Anchor verse: <a href="/ayah/${correct.sample_ref.replace(':', '/')}" target="_blank" style="color: var(--accent-teal); text-decoration: underline; font-weight: 600;">Ayah ${correct.sample_ref}</a>
+          ${correct.sample_en ? `<div style="font-style: italic; margin-top: 0.2rem;">"${correct.sample_en.slice(0, 85)}..."</div>` : ''}
+        `;
+      }
+
+      feedbackBox.style.display = "block";
+      nextBtn.style.display = "inline-flex";
+    }
+
+    nextBtn?.addEventListener("click", () => {
+      currentIndex = (currentIndex + 1) % pool.length;
+      loadQuestion(pool[currentIndex]);
+    });
+
+    // Load first question
+    loadQuestion(pool[0]);
+  })();
+</script>

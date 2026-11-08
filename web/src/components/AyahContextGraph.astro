@@ -221,9 +221,12 @@ const graphJson = JSON.stringify({ nodes, edges, ref });
                   {n.sublabel || n.type}
                 </span>
               </td>
-              <td style="padding: 0.4rem; font-weight: 600;">{n.label}</td>
+              <td style="padding: 0.4rem; font-weight: 600;">
+                <div>{n.label}</div>
+                {n.label_bn && <div class="bangla-text" lang="bn" style="font-size: 0.78rem; color: var(--text-muted); font-weight: 400;">{n.label_bn}</div>}
+              </td>
               <td style="padding: 0.4rem;" class="arabic-text" dir="rtl">{n.label_ar || "—"}</td>
-              <td style="padding: 0.4rem; color: var(--text-muted);">{n.isCenter ? "Center Verse" : "Semantic Link"}</td>
+              <td style="padding: 0.4rem; color: var(--text-muted);">{n.relationLabel || (n.isCenter ? "Active Verse Under Study" : "Connected Context")}</td>
               <td style="padding: 0.4rem;">
                 <a href={n.url} style="color: var(--accent-teal); text-decoration: underline;">Open Page</a>
               </td>
