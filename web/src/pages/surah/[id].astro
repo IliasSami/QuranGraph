@@ -1,19 +1,59 @@
 ---
+import fs from "fs";
+import path from "path";
 import Layout from "../../layouts/Layout.astro";
+import SurahOverviewCard from "../../components/SurahOverviewCard.astro";
+import SurahThematicRoadmap from "../../components/SurahThematicRoadmap.astro";
+import SurahKnowledgeMatrix from "../../components/SurahKnowledgeMatrix.astro";
 import surahsData from "../../lib/search/surahs.json" with { type: "json" };
 import corpusData from "../../lib/search/corpus.json" with { type: "json" };
+import surahOverviewsData from "../../data/surah_overviews.json" with { type: "json" };
 
 export function getStaticPaths() {
-  return surahsData.map((s) => ({
-    params: { id: String(s.id) },
-    props: {
-      surah: s,
-      ayat: corpusData.filter((a) => a.s === s.id)
+  const explainBase = path.join(process.cwd(), "ingest/content/explain");
+
+  return surahsData.map((s) => {
+    const sId = s.id;
+    const sStr = String(sId).padStart(3, "0");
+    const sDir = path.join(explainBase, sStr);
+    const explains: Record<number, any> = {};
+
+    if (fs.existsSync(sDir)) {
+      const files = fs.readdirSync(sDir).filter((f) => f.endsWith(".json"));
+      for (const file of files) {
+        const aNum = parseInt(file.replace(".json", ""), 10);
+        try {
+          const raw = JSON.parse(fs.readFileSync(path.join(sDir, file), "utf8"));
+          explains[aNum] = {
+            simple_en: raw.simple_en || "",
+            simple_bn: raw.simple_bn || "",
+            lesson_en: raw.lesson_en || "",
+            lesson_bn: raw.lesson_bn || "",
+            key_words: (raw.key_words || []).map((k: any) => ({
+              root: k.root,
+              lemma: k.lemma,
+              meaning_en: k.meaning_en,
+              meaning_bn: k.meaning_bn
+            })),
+            themes: raw.themes || []
+          };
+        } catch (e) {}
+      }
     }
-  }));
+
+    return {
+      params: { id: String(sId) },
+      props: {
+        surah: s,
+        ayat: corpusData.filter((a) => a.s === sId),
+        overview: (surahOverviewsData as Record<string, any>)[String(sId)],
+        explains
+      }
+    };
+  });
 }
 
-const { surah, ayat } = Astro.props;
+const { surah, ayat, overview, explains = {} } = Astro.props;
 const prevSurahObj = surah.id > 1 ? surahsData[surah.id - 2] : null;
 const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
 ---
@@ -32,10 +72,15 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
         ) : <div />}
       </div>
 
-      <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 3rem; color: var(--accent-teal); margin-bottom: 0.5rem;">
+      <div
+        class="arabic-text arabic-display"
+        lang="ar"
+        dir="rtl"
+        style="--arabic-font-size: 3rem; font-size: 3rem; color: var(--accent-teal); line-height: 1.6; min-height: 4.8rem; margin-bottom: 0.5rem; text-align: center;"
+      >
         {surah.name_ar}
       </div>
-      <h1 style="font-size: 2.25rem; font-weight: 800; margin-bottom: 0.25rem;">
+      <h1 style="font-size: 2.25rem; font-weight: 800; margin-top: 0.5rem; margin-bottom: 0.25rem;">
         {surah.name_translit}
       </h1>
       <p style="font-size: 1.15rem; color: var(--text-muted); margin-bottom: 0.5rem;" class="bangla-text" lang="bn">
@@ -54,51 +99,89 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
       </div>
 
       <!-- Surah Audio Recitation Bar -->
-      <div id="main-audio-bar" class="card" style="margin-top: 2rem; padding: 1rem 1.5rem; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; text-align: left;">
-        <div style="display: flex; align-items: center; gap: 1rem;">
-          <button id="surah-play-btn" class="play-btn-sm" aria-label="Play full Surah recitation">
-            <span id="surah-play-icon" aria-hidden="true">
-              <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>
-            </span>
-          </button>
-          <div>
-            <div id="surah-player-status" style="font-weight: 700; font-size: 0.95rem;">
-              Play Full Surah ({surah.ayat} Ayat)
+      <div id="main-audio-bar" class="card" style="margin-top: 2rem; padding: 1.25rem 1.5rem; display: flex; flex-direction: column; gap: 0.75rem; text-align: left;">
+        <div style="display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
+          <div style="display: flex; align-items: center; gap: 1rem;">
+            <button id="surah-play-btn" class="play-btn-sm" aria-label="Play full Surah recitation">
+              <span id="surah-play-icon" aria-hidden="true">
+                <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>
+              </span>
+            </button>
+            <div>
+              <div id="surah-player-status" style="font-weight: 700; font-size: 0.95rem;">
+                Play Full Surah ({surah.ayat} Ayat)
+              </div>
+              <div id="surah-player-verse" style="font-size: 0.8rem; color: var(--text-muted);">
+                Mishary Rashid Alafasy · Continuous recitation
+              </div>
             </div>
-            <div id="surah-player-verse" style="font-size: 0.8rem; color: var(--text-muted);">
-              Mishary Rashid Alafasy · Continuous recitation
-            </div>
+          </div>
+
+          <div style="display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;">
+            <button id="autoscroll-toggle-btn" class="btn-action btn-action-sm" style="font-size: 0.82rem;" title="Toggle automatic scrolling as verses play" aria-label="Toggle auto scroll">
+              <svg class="icon-svg" viewBox="0 0 24 24"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg>
+              <span>Auto-scroll: <strong id="autoscroll-label">On</strong></span>
+            </button>
+            <select id="surah-reciter-select" class="form-select" aria-label="Select Reciter" style="padding: 0.4rem 0.6rem; font-size: 0.85rem; border: 1px solid var(--border-color); border-radius: var(--radius-sm); background: var(--bg-surface); color: var(--text-main); min-height: 38px;">
+              <option value="Alafasy_64kbps">Mishary Alafasy</option>
+              <option value="Husary_128kbps">Mahmoud Al-Husary</option>
+              <option value="Minshawy_Murattal_128kbps">Mohamed El-Minshawi</option>
+              <option value="Abdurrahmaan_As-Sudais_192kbps">Abdur-Rahman As-Sudais</option>
+            </select>
+            <button id="surah-stop-btn" class="btn-action btn-action-sm" title="Stop Playback" aria-label="Stop Playback">
+              <svg class="icon-svg" viewBox="0 0 24 24"><rect x="5" y="5" width="14" height="14" rx="2" fill="currentColor"></rect></svg>
+              <span>Stop</span>
+            </button>
           </div>
         </div>
 
-        <div style="display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;">
-          <button id="autoscroll-toggle-btn" class="btn-action btn-action-sm" style="font-size: 0.82rem;" title="Toggle automatic scrolling as verses play" aria-label="Toggle auto scroll">
-            <svg class="icon-svg" viewBox="0 0 24 24"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path><circle cx="12" cy="12" r="3"></circle></svg>
-            <span>Auto-scroll: <strong id="autoscroll-label">On</strong></span>
-          </button>
-          <select id="surah-reciter-select" class="form-select" aria-label="Select Reciter" style="padding: 0.4rem 0.6rem; font-size: 0.85rem; border: 1px solid var(--border-color); border-radius: var(--radius-sm); background: var(--bg-surface); color: var(--text-main); min-height: 38px;">
-            <option value="Alafasy_64kbps">Mishary Alafasy</option>
-            <option value="Husary_128kbps">Mahmoud Al-Husary</option>
-            <option value="Minshawy_Murattal_128kbps">Mohamed El-Minshawi</option>
-            <option value="Abdurrahmaan_As-Sudais_192kbps">Abdur-Rahman As-Sudais</option>
-          </select>
-          <button id="surah-stop-btn" class="btn-action btn-action-sm" title="Stop Playback" aria-label="Stop Playback">
-            <svg class="icon-svg" viewBox="0 0 24 24"><rect x="5" y="5" width="14" height="14" rx="2" fill="currentColor"></rect></svg>
-            <span>Stop</span>
-          </button>
+        <!-- Progress bar for Surah Main Bar -->
+        <div id="main-progress-container" style="width: 100%; height: 6px; background: var(--bg-subtle); border-radius: 9999px; overflow: hidden; cursor: pointer;" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Ayah recitation progress">
+          <div id="main-progress-bar" style="width: 0%; height: 100%; background: var(--accent-teal); transition: width 0.1s linear;"></div>
         </div>
       </div>
 
       {surah.id !== 1 && surah.id !== 9 && (
-        <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.75rem; margin-top: 2rem; color: var(--text-main);">
+        <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.75rem; font-size: 1.75rem; line-height: 2.2; margin-top: 2rem; color: var(--text-main); text-align: center;">
           بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
         </div>
       )}
     </div>
   </section>
 
+  <!-- Surah Knowledge, Overview & Roadmap Section -->
+  <section style="padding: 2rem 0 1rem;">
+    <div class="container" style="max-width: 900px;">
+      <!-- 1. Executive Surah Orientation & Maqasid -->
+      {overview && <SurahOverviewCard surah={surah} overview={overview} />}
+
+      <!-- 2. Thematic Passage Roadmap (Ruku' Divisions) -->
+      {overview?.sections?.length > 0 && (
+        <SurahThematicRoadmap
+          surahId={surah.id}
+          surahName={surah.name_translit}
+          sections={overview.sections}
+        />
+      )}
+
+      <!-- 3. Connected Knowledge Graph & Ontological Matrix -->
+      {overview && (
+        <SurahKnowledgeMatrix
+          surahId={surah.id}
+          surahName={surah.name_translit}
+          surahNameAr={surah.name_ar}
+          surahNameBn={surah.name_bn}
+          entities={overview.entities}
+          stories={overview.stories}
+          topThemes={overview.top_themes}
+          topRoots={overview.top_roots}
+        />
+      )}
+    </div>
+  </section>
+
   <!-- Verses List -->
-  <section style="padding: 3rem 0;">
+  <section style="padding: 2rem 0 3.5rem;">
     <div class="container" style="max-width: 860px;">
       <div style="display: flex; flex-direction: column; gap: 2rem;" id="verses-container">
         {ayat.map((item) => (
@@ -113,7 +196,7 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
             </div>
 
             <!-- Arabic Display -->
-            <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.85rem; margin-bottom: 1rem; word-spacing: 0.15em; line-height: 2;">
+            <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.85rem; margin-bottom: 0.75rem; word-spacing: 0.15em; line-height: 2.2;">
               {item.ar_u || item.ar}
               <span aria-hidden="true" style="display: inline-block; font-size: 1.2rem; color: var(--accent-teal); margin-right: 0.4rem;">
                 ۝
@@ -122,7 +205,7 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
 
             <!-- English Transliteration -->
             {item.tr && (
-              <div style="font-size: 0.95rem; font-style: italic; color: var(--accent-gold); margin-bottom: 0.85rem; line-height: 1.5; font-family: var(--font-latin);">
+              <div style="font-size: 0.95rem; font-style: italic; color: var(--accent-gold); margin-top: 0.5rem; margin-bottom: 0.85rem; line-height: 1.55; font-family: var(--font-latin);">
                 {item.tr}
               </div>
             )}
@@ -133,9 +216,74 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
             </div>
 
             <!-- Bangla Translation -->
-            <div class="bangla-text" lang="bn" style="font-size: 1rem; line-height: 1.7; color: var(--text-muted); border-top: 1px dashed var(--border-color); padding-top: 0.75rem; margin-bottom: 1.25rem;">
+            <div class="bangla-text" lang="bn" style="font-size: 1rem; line-height: 1.7; color: var(--text-muted); border-top: 1px dashed var(--border-color); padding-top: 0.75rem; margin-bottom: 1rem;">
               {item.bn}
             </div>
+
+            <!-- Ayah Insights & Classical Tafsir (Expandable) -->
+            {explains[item.a] && (
+              <details class="ayah-insight-drawer" style="margin-bottom: 1.25rem; border-radius: var(--radius-sm); border: 1px solid var(--border-color); background: var(--bg-subtle); padding: 0.75rem 1rem;">
+                <summary style="cursor: pointer; font-size: 0.85rem; font-weight: 700; color: var(--accent-teal); display: flex; align-items: center; gap: 0.4rem; user-select: none;">
+                  <span>💡 Ayah {item.a} Insights, Key Roots & Spiritual Lesson</span>
+                </summary>
+
+                <div style="margin-top: 0.75rem; display: flex; flex-direction: column; gap: 0.75rem; border-top: 1px dashed var(--border-color); padding-top: 0.75rem;">
+                  <!-- Explanation -->
+                  <div>
+                    <div style="font-size: 0.75rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.25rem;">
+                      Plain English Explanation
+                    </div>
+                    <div style="font-size: 0.92rem; line-height: 1.55; color: var(--text-main);">
+                      {explains[item.a].simple_en}
+                    </div>
+                    {explains[item.a].simple_bn && (
+                      <div class="bangla-text" lang="bn" style="font-size: 0.9rem; line-height: 1.65; color: var(--text-muted); margin-top: 0.35rem;">
+                        {explains[item.a].simple_bn}
+                      </div>
+                    )}
+                  </div>
+
+                  <!-- Core Lesson -->
+                  {explains[item.a].lesson_en && (
+                    <div style="border-left: 3px solid var(--accent-gold); padding-left: 0.75rem; margin-top: 0.25rem;">
+                      <div style="font-size: 0.75rem; font-weight: 700; color: var(--accent-gold); text-transform: uppercase; margin-bottom: 0.15rem;">
+                        🌟 Takeaway Lesson
+                      </div>
+                      <div style="font-size: 0.88rem; font-weight: 600; color: var(--text-main);">
+                        {explains[item.a].lesson_en}
+                      </div>
+                      {explains[item.a].lesson_bn && (
+                        <div class="bangla-text" lang="bn" style="font-size: 0.82rem; color: var(--text-muted); margin-top: 0.1rem;">
+                          {explains[item.a].lesson_bn}
+                        </div>
+                      )}
+                    </div>
+                  )}
+
+                  <!-- Key Words & Roots -->
+                  {explains[item.a].key_words?.length > 0 && (
+                    <div style="margin-top: 0.25rem;">
+                      <div style="font-size: 0.75rem; font-weight: 700; color: var(--text-muted); margin-bottom: 0.35rem;">
+                        Key Words & Triliteral Roots:
+                      </div>
+                      <div style="display: flex; gap: 0.4rem; flex-wrap: wrap;">
+                        {explains[item.a].key_words.map((kw: any) => (
+                          <a
+                            href={`/root/${encodeURIComponent(kw.root)}`}
+                            class="badge"
+                            style="text-decoration: none; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-size: 0.75rem; display: inline-flex; align-items: center; gap: 0.3rem;"
+                            title={`Root: ${kw.root} · ${kw.meaning_en}`}
+                          >
+                            <span class="arabic-text" dir="rtl" style="--arabic-font-size: 1.05rem; font-size: 1.05rem; color: var(--accent-teal); font-weight: 700; line-height: 1.4;">{kw.root}</span>
+                            <span>{kw.meaning_en}</span>
+                          </a>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              </details>
+            )}
 
             <!-- Action Bar -->
             <div class="verse-action-bar" style="border-top: 1px solid var(--border-color); padding-top: 1rem; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 0.75rem;">
@@ -191,32 +339,38 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
   </section>
 
   <!-- Sticky Bottom Audio Dock (Activated on scroll) -->
-  <div id="surah-sticky-dock" class="sticky-dock card" style="display: none; width: calc(100% - 1.5rem); max-width: 650px; margin: 0 auto; border-radius: var(--radius-md); align-items: center; justify-content: space-between; gap: 0.75rem; box-sizing: border-box;">
-    <div style="display: flex; align-items: center; gap: 0.75rem;">
-      <button id="dock-play-btn" class="play-btn-sm" style="width: 2.25rem; height: 2.25rem; min-width: 38px; min-height: 38px;" aria-label="Play/Pause">
-        <span id="dock-play-icon" aria-hidden="true">
-          <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>
-        </span>
-      </button>
-      <div>
-        <div id="dock-status" style="font-weight: 700; font-size: 0.85rem; color: var(--text-main);">
-          Surah {surah.name_translit}
-        </div>
-        <div id="dock-verse" style="font-size: 0.75rem; color: var(--text-muted);">
-          Ayah 1 of {surah.ayat}
+  <div id="surah-sticky-dock" class="sticky-dock card" style="display: none; width: calc(100% - 1.5rem); max-width: 650px; margin: 0 auto; border-radius: var(--radius-md); flex-direction: column; gap: 0.5rem; padding: 0.75rem 1rem; box-sizing: border-box;">
+    <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; gap: 0.75rem;">
+      <div style="display: flex; align-items: center; gap: 0.75rem;">
+        <button id="dock-play-btn" class="play-btn-sm" style="width: 2.25rem; height: 2.25rem; min-width: 38px; min-height: 38px;" aria-label="Play/Pause">
+          <span id="dock-play-icon" aria-hidden="true">
+            <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>
+          </span>
+        </button>
+        <div>
+          <div id="dock-status" style="font-weight: 700; font-size: 0.85rem; color: var(--text-main);">
+            Surah {surah.name_translit}
+          </div>
+          <div id="dock-verse" style="font-size: 0.75rem; color: var(--text-muted);">
+            Ayah 1 of {surah.ayat}
+          </div>
         </div>
       </div>
+      <div style="display: flex; align-items: center; gap: 0.4rem;">
+        <button id="dock-prev-ayah" class="btn-action btn-action-sm btn-action-icon" title="Previous Verse" aria-label="Previous Verse">
+          <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="19 20 9 12 19 4 19 20" fill="currentColor"></polygon><line x1="5" y1="19" x2="5" y2="5"></line></svg>
+        </button>
+        <button id="dock-next-ayah" class="btn-action btn-action-sm btn-action-icon" title="Next Verse" aria-label="Next Verse">
+          <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="5 4 15 12 5 20 5 4" fill="currentColor"></polygon><line x1="19" y1="5" x2="19" y2="19"></line></svg>
+        </button>
+        <button id="dock-stop-btn" class="btn-action btn-action-sm btn-action-icon" title="Stop Playback" aria-label="Stop Playback">
+          <svg class="icon-svg" viewBox="0 0 24 24"><rect x="5" y="5" width="14" height="14" rx="2" fill="currentColor"></rect></svg>
+        </button>
+      </div>
     </div>
-    <div style="display: flex; align-items: center; gap: 0.4rem;">
-      <button id="dock-prev-ayah" class="btn-action btn-action-sm btn-action-icon" title="Previous Verse" aria-label="Previous Verse">
-        <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="19 20 9 12 19 4 19 20" fill="currentColor"></polygon><line x1="5" y1="19" x2="5" y2="5"></line></svg>
-      </button>
-      <button id="dock-next-ayah" class="btn-action btn-action-sm btn-action-icon" title="Next Verse" aria-label="Next Verse">
-        <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="5 4 15 12 5 20 5 4" fill="currentColor"></polygon><line x1="19" y1="5" x2="19" y2="19"></line></svg>
-      </button>
-      <button id="dock-stop-btn" class="btn-action btn-action-sm btn-action-icon" title="Stop Playback" aria-label="Stop Playback">
-        <svg class="icon-svg" viewBox="0 0 24 24"><rect x="5" y="5" width="14" height="14" rx="2" fill="currentColor"></rect></svg>
-      </button>
+    <!-- Progress bar for Sticky Audio Dock -->
+    <div id="dock-progress-container" style="width: 100%; height: 4px; background: var(--bg-subtle); border-radius: 9999px; overflow: hidden; cursor: pointer;" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Ayah recitation progress">
+      <div id="dock-progress-bar" style="width: 0%; height: 100%; background: var(--accent-teal); transition: width 0.1s linear;"></div>
     </div>
   </div>
 
@@ -260,6 +414,12 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
   const verseCards = document.querySelectorAll(".verse-card");
   const versePlayBtns = document.querySelectorAll(".verse-play-btn");
 
+  // Progress bar elements
+  const mainProgressContainer = document.getElementById("main-progress-container");
+  const mainProgressBar = document.getElementById("main-progress-bar");
+  const dockProgressContainer = document.getElementById("dock-progress-container");
+  const dockProgressBar = document.getElementById("dock-progress-bar");
+
   // Sticky dock elements
   const mainBar = document.getElementById("main-audio-bar");
   const stickyDock = document.getElementById("surah-sticky-dock");
@@ -299,6 +459,10 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
 
   let currentAyah = 1;
   let isPlaying = false;
+  let isPlayPending = false;
+  let currentCandidateList = [];
+  let currentCandidateIdx = 0;
+  let playSessionId = 0;
 
   const PLAY_ICON_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>';
   const PAUSE_ICON_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><rect x="6" y="4" width="4" height="16" rx="1" fill="currentColor"></rect><rect x="14" y="4" width="4" height="16" rx="1" fill="currentColor"></rect></svg>';
@@ -306,6 +470,33 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
   const COPY_ICON_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>';
   const BOOKMARK_OUTLINE_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>';
   const BOOKMARK_FILLED_SVG = '<svg class="icon-svg" viewBox="0 0 24 24" style="fill: var(--accent-gold); stroke: var(--accent-gold);"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>';
+
+  // CDN Candidate Generator with EveryAyah Primary + Media Mirror + Fallback Reciter
+  function getAyahCandidates(ayahNum, reciter) {
+    const sStr = String(sId).padStart(3, "0");
+    const aStr = String(ayahNum).padStart(3, "0");
+    const list = [
+      `https://everyayah.com/data/${reciter}/${sStr}${aStr}.mp3`,
+      `https://media.everyayah.com/data/${reciter}/${sStr}${aStr}.mp3`
+    ];
+    if (reciter !== "Alafasy_64kbps") {
+      list.push(`https://everyayah.com/data/Alafasy_64kbps/${sStr}${aStr}.mp3`);
+      list.push(`https://media.everyayah.com/data/Alafasy_64kbps/${sStr}${aStr}.mp3`);
+    }
+    return list;
+  }
+
+  function setProgressPercent(pct) {
+    const clamped = Math.max(0, Math.min(100, pct));
+    if (mainProgressBar) mainProgressBar.style.width = clamped + "%";
+    if (dockProgressBar) dockProgressBar.style.width = clamped + "%";
+    mainProgressContainer?.setAttribute("aria-valuenow", String(Math.round(clamped)));
+    dockProgressContainer?.setAttribute("aria-valuenow", String(Math.round(clamped)));
+  }
+
+  function resetProgress() {
+    setProgressPercent(0);
+  }
 
   function updateSyncUI() {
     const iconSvg = isPlaying ? PAUSE_ICON_SVG : PLAY_ICON_SVG;
@@ -341,13 +532,6 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
     } catch (e) {}
   }
 
-  function getAudioUrl(ayahNum) {
-    const reciter = reciterSelect?.value || "Alafasy_64kbps";
-    const sStr = String(sId).padStart(3, "0");
-    const aStr = String(ayahNum).padStart(3, "0");
-    return `https://everyayah.com/data/${reciter}/${sStr}${aStr}.mp3`;
-  }
-
   function highlightVerse(ayahNum) {
     verseCards.forEach((c) => {
       const a = parseInt(c.getAttribute("data-ayah") || "0", 10);
@@ -368,23 +552,105 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
     });
   }
 
-  function playAyah(ayahNum) {
-    currentAyah = ayahNum;
-    audio.src = getAudioUrl(currentAyah);
-    audio.play().then(() => {
-      isPlaying = true;
-      updateSyncUI();
-      if (statusEl) statusEl.textContent = `Playing Verse ${sId}:${currentAyah} of ${totalAyat}`;
-      highlightVerse(currentAyah);
-      saveLastRead(currentAyah);
-    }).catch((e) => console.log("Playback blocked:", e));
+  // Safe play handling
+  function safePlayAudio() {
+    if (!audio) return Promise.resolve();
+    isPlaying = true;
+    isPlayPending = true;
+    updateSyncUI();
+
+    const sessionId = playSessionId;
+    const playPromise = audio.play();
+    if (playPromise !== undefined) {
+      return playPromise
+        .then(() => {
+          isPlayPending = false;
+          if (sessionId !== playSessionId || !isPlaying) {
+            audio.pause();
+            updateSyncUI();
+          } else {
+            updateSyncUI();
+          }
+        })
+        .catch((err) => {
+          isPlayPending = false;
+          if (err && err.name === "AbortError") {
+            return;
+          }
+          console.warn("Surah audio playback interrupted or error:", err);
+          if (isPlaying && sessionId === playSessionId) {
+            handleCandidateError();
+          }
+        });
+    } else {
+      isPlayPending = false;
+      return Promise.resolve();
+    }
   }
+
+  function safePauseAudio() {
+    isPlaying = false;
+    updateSyncUI();
+    if (audio && !audio.paused) {
+      try {
+        audio.pause();
+      } catch (e) {}
+    }
+  }
+
+  function playAyah(ayahNum) {
+    playSessionId++;
+    currentAyah = ayahNum;
+    const reciter = reciterSelect?.value || "Alafasy_64kbps";
+    currentCandidateList = getAyahCandidates(currentAyah, reciter);
+    currentCandidateIdx = 0;
+
+    resetProgress();
+    audio.src = currentCandidateList[0];
+    isPlaying = true;
+    updateSyncUI();
+    if (statusEl) statusEl.textContent = `Playing Verse ${sId}:${currentAyah} of ${totalAyat}`;
+    highlightVerse(currentAyah);
+    saveLastRead(currentAyah);
+
+    safePlayAudio();
+  }
+
+  function handleCandidateError() {
+    console.warn(`Audio source failed: ${audio.src} for ${sId}:${currentAyah}`);
+    if (currentCandidateIdx + 1 < currentCandidateList.length) {
+      currentCandidateIdx++;
+      console.info(`Retrying on fallback mirror: ${currentCandidateList[currentCandidateIdx]}`);
+      audio.src = currentCandidateList[currentCandidateIdx];
+      if (isPlaying) {
+        safePlayAudio();
+      }
+    } else {
+      console.warn(`All audio sources failed for ayah ${sId}:${currentAyah}`);
+      // Continuous recitation resilience: auto-advance to next ayah rather than freezing player
+      if (currentAyah < totalAyat) {
+        if (typeof window.showQgToast === "function") {
+          window.showQgToast(`Ayah ${sId}:${currentAyah} audio unavailable; advancing to next`);
+        }
+        playAyah(currentAyah + 1);
+      } else {
+        if (typeof window.showQgToast === "function") {
+          window.showQgToast(`Audio for Ayah ${sId}:${currentAyah} is temporarily unavailable`);
+        }
+        stopPlayback();
+      }
+    }
+  }
+
+  audio?.addEventListener("error", () => {
+    if (isPlaying) {
+      handleCandidateError();
+    }
+  });
 
   function togglePlayback() {
     if (isPlaying) {
-      audio.pause();
-      isPlaying = false;
-      updateSyncUI();
+      safePauseAudio();
       if (statusEl) statusEl.textContent = "Paused";
     } else {
       playAyah(currentAyah);
@@ -392,10 +658,11 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
   }
 
   function stopPlayback() {
-    audio.pause();
+    playSessionId++;
+    safePauseAudio();
     audio.currentTime = 0;
-    isPlaying = false;
     currentAyah = 1;
+    resetProgress();
     updateSyncUI();
     if (statusEl) statusEl.textContent = `Play Full Surah (${totalAyat} Ayat)`;
     verseCards.forEach((c) => {
@@ -423,12 +690,14 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
     }
   });
 
+  // Seamless transition to next ayah
   audio?.addEventListener("ended", () => {
     if (currentAyah < totalAyat) {
       playAyah(currentAyah + 1);
     } else {
       isPlaying = false;
       currentAyah = 1;
+      resetProgress();
       updateSyncUI();
       if (statusEl) statusEl.textContent = `Finished Surah (${totalAyat} Ayat)`;
       verseCards.forEach((c) => {
@@ -437,8 +706,30 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
         c.style.borderColor = "";
         c.style.boxShadow = "";
       });
+      if (typeof window.showQgToast === "function") {
+        window.showQgToast(`Finished Surah ${surahName}! 🎉`);
+      }
     }
   });
+
+  // Progress tracking
+  audio?.addEventListener("timeupdate", () => {
+    if (audio.duration) {
+      const pct = (audio.currentTime / audio.duration) * 100;
+      setProgressPercent(pct);
+    }
+  });
+
+  function handleProgressClick(e, container) {
+    if (audio && audio.duration) {
+      const rect = container.getBoundingClientRect();
+      const clickPos = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
+      audio.currentTime = clickPos * audio.duration;
+    }
+  }
+
+  mainProgressContainer?.addEventListener("click", (e) => handleProgressClick(e, mainProgressContainer));
+  dockProgressContainer?.addEventListener("click", (e) => handleProgressClick(e, dockProgressContainer));
 
   versePlayBtns.forEach((btn) => {
     btn.addEventListener("click", (e) => {
@@ -460,7 +751,8 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
       const en = decodeURIComponent(btnEl.getAttribute("data-en") || "");
       const bn = decodeURIComponent(btnEl.getAttribute("data-bn") || "");
 
-      const textToCopy = `Surah ${surahName} (${ref})\n\n${ar}\n\nEnglish: ${en}\n\nবাংলা: ${bn}\n\nhttps://qurangraph.com/ayah/${ref.replace(":", "/")}`;
+      const origin = window.location.origin || "https://qurangraph.iliassami57.workers.dev";
+      const textToCopy = `Surah ${surahName} (${ref})\n\n${ar}\n\nEnglish: ${en}\n\nবাংলা: ${bn}\n\n${origin}/ayah/${ref.replace(":", "/")}`;
       navigator.clipboard.writeText(textToCopy).then(() => {
         const svg = btnEl.querySelector("svg");
         const span = btnEl.querySelector("span");

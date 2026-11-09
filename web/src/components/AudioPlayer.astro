@@ -123,6 +123,40 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
   const statusEl = document.getElementById("playing-status");
   const substatusEl = document.getElementById("playing-substatus");
 
+  const PLAY_ICON_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>';
+  const PAUSE_ICON_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><rect x="6" y="4" width="4" height="16" rx="1" fill="currentColor"></rect><rect x="14" y="4" width="4" height="16" rx="1" fill="currentColor"></rect></svg>';
+
+  function updatePlayIcon(playing) {
+    if (playIcon) playIcon.innerHTML = playing ? PAUSE_ICON_SVG : PLAY_ICON_SVG;
+  }
+
+  // CDN Candidates & Mirror Resilience
+  function getArabicCandidates(reciter) {
+    const list = [
+      `https://everyayah.com/data/${reciter}/${sStr}${aStr}.mp3`,
+      `https://media.everyayah.com/data/${reciter}/${sStr}${aStr}.mp3`
+    ];
+    if (reciter !== "Alafasy_64kbps") {
+      list.push(`https://everyayah.com/data/Alafasy_64kbps/${sStr}${aStr}.mp3`);
+      list.push(`https://media.everyayah.com/data/Alafasy_64kbps/${sStr}${aStr}.mp3`);
+    }
+    return list;
+  }
+
+  function getEnglishCandidates() {
+    return [
+      `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}${aStr}.mp3`,
+      `https://media.everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}${aStr}.mp3`
+    ];
+  }
+
+  let arabicCandidates = getArabicCandidates(reciterSelect ? reciterSelect.value : "Alafasy_64kbps");
+  let arabicIdx = 0;
+  let englishCandidates = getEnglishCandidates();
+  let englishIdx = 0;
+
+  let isPlaying = false;
+  let isPlayPending = false;
   let isLooping = false;
   let isAutoNext = localStorage.getItem("qg_autonext") === "true";
   const speeds = [0.75, 1.0, 1.25, 1.5];
@@ -146,6 +180,55 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
     return bnAlignments;
   }
 
+  // Safe Play and Pause Locking
+  function safePlay(audioEl) {
+    if (!audioEl) return Promise.resolve();
+    isPlaying = true;
+    isPlayPending = true;
+    updatePlayIcon(true);
+
+    const playPromise = audioEl.play();
+    if (playPromise !== undefined) {
+      return playPromise
+        .then(() => {
+          isPlayPending = false;
+          if (!isPlaying) {
+            audioEl.pause();
+            updatePlayIcon(false);
+          }
+        })
+        .catch((err) => {
+          isPlayPending = false;
+          if (err && err.name === "AbortError") {
+            return;
+          }
+          console.warn("Audio playback interrupted or denied:", err);
+          if (isPlaying) {
+            isPlaying = false;
+            updatePlayIcon(false);
+          }
+        });
+    } else {
+      isPlayPending = false;
+      return Promise.resolve();
+    }
+  }
+
+  function safePause() {
+    isPlaying = false;
+    updatePlayIcon(false);
+    if (audio && !audio.paused) audio.pause();
+    if (enAudio && !enAudio.paused) enAudio.pause();
+    if (bnAudio && !bnAudio.paused) {
+      bnAudio.pause();
+      if (bnTimer) {
+        clearInterval(bnTimer);
+        bnTimer = null;
+      }
+    }
+    if ('speechSynthesis' in window) window.speechSynthesis.pause();
+  }
+
   // Restore saved reciter and mode
   const savedReciter = localStorage.getItem("qg_reciter");
   if (savedReciter && reciterSelect) {
@@ -163,13 +246,15 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
 
   function updateReciter() {
     const reciter = reciterSelect ? reciterSelect.value : "Alafasy_64kbps";
-    const wasPlaying = !audio.paused;
-    audio.src = `https://everyayah.com/data/${reciter}/${sStr}${aStr}.mp3`;
+    arabicCandidates = getArabicCandidates(reciter);
+    arabicIdx = 0;
+    const wasPlaying = isPlaying;
+    audio.src = arabicCandidates[0];
     if (statusEl && reciterSelect) {
       statusEl.textContent = "Recitation: " + reciterSelect.options[reciterSelect.selectedIndex].text;
     }
-    if (wasPlaying) {
-      audio.play().catch(e => console.log(e));
+    if (wasPlaying && activeAudio === audio) {
+      safePlay(audio);
     }
   }
 
@@ -187,6 +272,56 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
     localStorage.setItem("qg_audiomode", modeSelect.value);
   });
 
+  // Arabic Audio Error Listener with Mirror Retry
+  audio.addEventListener("error", () => {
+    console.warn(`Arabic audio load failed on: ${audio.src}`);
+    if (arabicIdx + 1 < arabicCandidates.length) {
+      arabicIdx++;
+      console.info(`Retrying on fallback candidate (${arabicIdx + 1}/${arabicCandidates.length}): ${arabicCandidates[arabicIdx]}`);
+      audio.src = arabicCandidates[arabicIdx];
+      if (isPlaying && activeAudio === audio) {
+        safePlay(audio);
+      }
+    } else {
+      console.error(`All audio mirrors failed for verse ${surah}:${ayah}`);
+      safePause();
+      if (progress) {
+        progress.style.width = "0%";
+        progressContainer?.setAttribute("aria-valuenow", "0");
+      }
+      if (substatusEl) substatusEl.textContent = "Audio stream unavailable";
+      if (typeof window.showQgToast === "function") {
+        window.showQgToast(`Audio for verse ${surah}:${ayah} is temporarily unavailable`);
+      }
+    }
+  });
+
+  // English Audio Error Listener with Mirror Retry
+  enAudio?.addEventListener("error", () => {
+    console.warn(`English audio load failed on: ${enAudio.src}`);
+    if (englishIdx + 1 < englishCandidates.length) {
+      englishIdx++;
+      enAudio.src = englishCandidates[englishIdx];
+      if (isPlaying && activeAudio === enAudio) {
+        safePlay(enAudio);
+      }
+    } else {
+      console.warn("English recitation mirrors failed, finishing ayah.");
+      if (typeof window.showQgToast === "function") {
+        window.showQgToast("English audio unavailable");
+      }
+      finishAyah();
+    }
+  });
+
+  // Bangla Neural Audio Error Listener
+  bnAudio?.addEventListener("error", () => {
+    console.warn("Bangla neural audio failed, falling back to browser speech synthesis");
+    if (activeAudio === bnAudio) {
+      fallbackSpeechSynthesis(() => finishAyah());
+    }
+  });
+
   let bnStartSec = 0;
   let bnDurationSec = 0;
 
@@ -195,32 +330,58 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
     const item = alignData?.ayat?.find(a => a.ayah === ayah);
 
     if (item && bnAudio) {
-      if (bnTimer) clearInterval(bnTimer);
+      if (bnTimer) {
+        clearInterval(bnTimer);
+        bnTimer = null;
+      }
       activeAudio = bnAudio;
-      bnAudio.src = `/audio/bn/${sStr}.mp3`;
+      const targetSrc = `/audio/bn/${sStr}.mp3`;
+      const needsSrcChange = !bnAudio.src.endsWith(targetSrc);
+      if (needsSrcChange) {
+        bnAudio.src = targetSrc;
+      }
       bnAudio.playbackRate = speeds[speedIdx];
       bnStartSec = item.start_ms / 1000;
       bnDurationSec = item.duration_ms / 1000;
-      bnAudio.currentTime = bnStartSec;
+      const endSec = item.end_ms / 1000;
 
       if (substatusEl) substatusEl.textContent = "Playing Bangla: Neural Studio Voice";
 
-      bnAudio.play().then(() => {
-        if (playIcon) playIcon.textContent = "⏸";
-      }).catch(e => {
-        console.log("Bn audio play error:", e);
-        fallbackSpeechSynthesis(onEnd);
-      });
-
-      const endSec = item.end_ms / 1000;
-      bnTimer = setInterval(() => {
-        if (bnAudio.currentTime >= endSec || bnAudio.ended) {
-          clearInterval(bnTimer);
-          bnTimer = null;
-          bnAudio.pause();
-          onEnd();
+      const startPlayback = () => {
+        try {
+          bnAudio.currentTime = bnStartSec;
+        } catch (e) {
+          console.warn("Error seeking bnAudio:", e);
         }
-      }, 100);
+        safePlay(bnAudio).catch(e => {
+          console.warn("Bn audio play error:", e);
+          fallbackSpeechSynthesis(onEnd);
+        });
+
+        if (bnTimer) clearInterval(bnTimer);
+        bnTimer = setInterval(() => {
+          if (bnAudio.currentTime >= endSec || bnAudio.ended) {
+            clearInterval(bnTimer);
+            bnTimer = null;
+            bnAudio.pause();
+            onEnd();
+          }
+        }, 100);
+      };
+
+      // Safely ensure metadata is loaded before seeking
+      if (bnAudio.readyState >= 1) { // HAVE_METADATA or higher
+        startPlayback();
+      } else {
+        const onMeta = () => {
+          bnAudio.removeEventListener("loadedmetadata", onMeta);
+          startPlayback();
+        };
+        bnAudio.addEventListener("loadedmetadata", onMeta, { once: true });
+        if (needsSrcChange) {
+          bnAudio.load();
+        }
+      }
       return;
     }
 
@@ -243,8 +404,15 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
     if (bnVoice) utterance.voice = bnVoice;
 
     if (substatusEl) substatusEl.textContent = "Playing Bangla Translation (Browser)";
-    utterance.onend = onEnd;
-    utterance.onerror = () => onEnd();
+    isPlaying = true;
+    updatePlayIcon(true);
+
+    utterance.onend = () => {
+      onEnd();
+    };
+    utterance.onerror = () => {
+      onEnd();
+    };
     window.speechSynthesis.speak(utterance);
   }
 
@@ -255,7 +423,7 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
       activeAudio = enAudio;
       if (substatusEl) substatusEl.textContent = "Playing English: Ibrahim Walk";
       enAudio.currentTime = 0;
-      enAudio.play().catch(e => console.log(e));
+      safePlay(enAudio);
       return;
     }
 
@@ -269,20 +437,18 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
     finishAyah();
   }
 
-  const PLAY_ICON_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>';
-  const PAUSE_ICON_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><rect x="6" y="4" width="4" height="16" rx="1" fill="currentColor"></rect><rect x="14" y="4" width="4" height="16" rx="1" fill="currentColor"></rect></svg>';
-
   function finishAyah() {
     activeAudio = audio;
     if (substatusEl) substatusEl.textContent = `EveryAyah stream · Verse ${surah}:${ayah}`;
 
     if (isLooping) {
       audio.currentTime = 0;
-      audio.play();
+      safePlay(audio);
     } else if (isAutoNext && ayah < surahTotalAyat) {
       window.location.href = `/ayah/${surah}/${ayah + 1}?autoplay=1`;
     } else {
-      if (playIcon) playIcon.innerHTML = PLAY_ICON_SVG;
+      isPlaying = false;
+      updatePlayIcon(false);
       if (progress) {
         progress.style.width = "0%";
         progressContainer?.setAttribute("aria-valuenow", "0");
@@ -292,20 +458,11 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
 
   if (audio && playBtn) {
     playBtn.addEventListener("click", () => {
-      const isAnyPlaying = (!audio.paused) || (enAudio && !enAudio.paused) || (bnAudio && !bnAudio.paused);
-      if (!isAnyPlaying) {
-        activeAudio.play().then(() => {
-          if (playIcon) playIcon.innerHTML = PAUSE_ICON_SVG;
-        }).catch((e) => console.log("Audio play prevented:", e));
+      const isAnyActive = (!audio.paused) || (enAudio && !enAudio.paused) || (bnAudio && !bnAudio.paused);
+      if (!isAnyActive && !isPlaying) {
+        safePlay(activeAudio);
       } else {
-        audio.pause();
-        if (enAudio) enAudio.pause();
-        if (bnAudio) {
-          bnAudio.pause();
-          if (bnTimer) clearInterval(bnTimer);
-        }
-        if ('speechSynthesis' in window) window.speechSynthesis.pause();
-        if (playIcon) playIcon.innerHTML = PLAY_ICON_SVG;
+        safePause();
       }
     });
 
@@ -345,6 +502,7 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
       const s = speeds[speedIdx];
       audio.playbackRate = s;
       if (enAudio) enAudio.playbackRate = s;
+      if (bnAudio) bnAudio.playbackRate = s;
       speedBtn.textContent = s + "x";
     });
 
@@ -374,8 +532,12 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
     progressContainer?.addEventListener("click", (e) => {
       if (activeAudio && activeAudio.duration) {
         const rect = progressContainer.getBoundingClientRect();
-        const clickPos = (e.clientX - rect.left) / rect.width;
-        activeAudio.currentTime = clickPos * activeAudio.duration;
+        const clickPos = Math.max(0, Math.min(1, (e.clientX - rect.left) / rect.width));
+        if (activeAudio === bnAudio && bnDurationSec > 0) {
+          activeAudio.currentTime = bnStartSec + (clickPos * bnDurationSec);
+        } else {
+          activeAudio.currentTime = clickPos * activeAudio.duration;
+        }
       }
     });
 
@@ -383,9 +545,7 @@ const englishAudioUrl = `https://everyayah.com/data/Ibrahim_Walk_192kbps/${sStr}
     const urlParams = new URLSearchParams(window.location.search);
     if (urlParams.get("autoplay") === "1") {
       setTimeout(() => {
-        audio.play().then(() => {
-          if (playIcon) playIcon.textContent = "⏸";
-        }).catch(e => console.log("Autoplay blocked:", e));
+        safePlay(audio);
       }, 250);
     }
   }

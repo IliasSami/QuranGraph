@@ -1,0 +1,545 @@
+---
+import { getRootGloss } from "../lib/graph/lexicon.ts";
+
+export interface Props {
+  surahId: number;
+  surahName: string;
+  surahNameAr: string;
+  surahNameBn: string;
+  entities: {
+    prophets: Array<{ id: string; slug: string; label_en: string; label_ar: string; label_bn: string }>;
+    names_of_allah: Array<{ id: string; slug: string; label_en: string; label_ar: string; label_bn: string }>;
+    places: Array<{ id: string; slug: string; label_en: string; label_ar: string; label_bn: string }>;
+    nations: Array<{ id: string; slug: string; label_en: string; label_ar: string; label_bn: string }>;
+    unseen: Array<{ id: string; slug: string; label_en: string; label_ar: string; label_bn: string }>;
+  };
+  stories: Array<{ id: string; slug: string; title_en: string; title_bn: string; episodes_count: number }>;
+  topThemes: Array<{ id: string; label_en: string; count: number }>;
+  topRoots: Array<{ root: string; count: number }>;
+}
+
+const {
+  surahId,
+  surahName,
+  surahNameAr,
+  surahNameBn,
+  entities,
+  stories,
+  topThemes,
+  topRoots
+} = Astro.props;
+
+// Build Graph Nodes & Edges payload for interactive canvas
+const graphNodes = [];
+const graphEdges = [];
+
+// 1. Center Surah Node
+const centerNode = {
+  id: `surah:${surahId}`,
+  label: `Surah ${surahName}`,
+  label_ar: surahNameAr,
+  label_bn: surahNameBn,
+  type: "surah",
+  color: "#0f766e",
+  radius: 28,
+  isCenter: true,
+  url: `/surah/${surahId}`
+};
+graphNodes.push(centerNode);
+
+// 2. Prophets
+(entities.prophets || []).slice(0, 10).forEach((p) => {
+  const node = {
+    id: p.id,
+    label: p.label_en,
+    label_ar: p.label_ar,
+    label_bn: p.label_bn,
+    type: "person",
+    color: "#059669",
+    radius: 20,
+    url: `/entity/${p.slug}`
+  };
+  graphNodes.push(node);
+  graphEdges.push({ source: centerNode.id, target: node.id, label: "Prophet / Figure" });
+});
+
+// 3. Divine Names
+(entities.names_of_allah || []).slice(0, 10).forEach((n) => {
+  const node = {
+    id: n.id,
+    label: n.label_en,
+    label_ar: n.label_ar,
+    label_bn: n.label_bn,
+    type: "name_of_allah",
+    color: "#d97706",
+    radius: 20,
+    url: `/entity/${n.slug}`
+  };
+  graphNodes.push(node);
+  graphEdges.push({ source: centerNode.id, target: node.id, label: "Divine Name" });
+});
+
+// 4. Sacred Places
+(entities.places || []).slice(0, 6).forEach((pl) => {
+  const node = {
+    id: pl.id,
+    label: pl.label_en,
+    label_ar: pl.label_ar,
+    label_bn: pl.label_bn,
+    type: "place",
+    color: "#2563eb",
+    radius: 18,
+    url: `/entity/${pl.slug}`
+  };
+  graphNodes.push(node);
+  graphEdges.push({ source: centerNode.id, target: node.id, label: "Sacred Place" });
+});
+
+// 5. Stories
+(stories || []).forEach((st) => {
+  const node = {
+    id: st.id,
+    label: st.title_en,
+    label_bn: st.title_bn,
+    type: "story",
+    color: "#ea580c",
+    radius: 22,
+    url: `/story/${st.slug}`
+  };
+  graphNodes.push(node);
+  graphEdges.push({ source: centerNode.id, target: node.id, label: "Story Arc" });
+});
+
+// 6. Top Roots
+(topRoots || []).slice(0, 8).forEach((rk) => {
+  const gloss = getRootGloss(rk.root);
+  const node = {
+    id: `root:${rk.root}`,
+    label: gloss.label_en,
+    label_ar: gloss.label_ar,
+    label_bn: gloss.label_bn,
+    type: "root",
+    color: "#0891b2",
+    radius: 17,
+    url: `/root/${encodeURIComponent(rk.root)}`
+  };
+  graphNodes.push(node);
+  graphEdges.push({ source: centerNode.id, target: node.id, label: `${rk.count}x Root` });
+});
+
+const graphJson = JSON.stringify({ nodes: graphNodes, edges: graphEdges });
+---
+
+<section id="surah-knowledge-graph" class="surah-knowledge-matrix card" style="margin-bottom: 2.5rem; padding: 1.75rem; border-top: 4px solid var(--accent-gold);">
+  <!-- Section Title -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.75rem;">
+    <div>
+      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.35rem;">
+        <span class="badge badge-gold" style="font-size: 0.8rem; font-weight: 700;">
+          🕸️ Connected Knowledge Graph
+        </span>
+        <span style="font-size: 0.8rem; color: var(--text-muted);">
+          {graphNodes.length} Ontological Nodes Mapped
+        </span>
+      </div>
+      <h2 style="font-size: 1.45rem; font-weight: 800; color: var(--text-main); margin: 0;">
+        Surah {surahName} Semantic Network
+      </h2>
+      <p style="font-size: 0.9rem; color: var(--text-muted); margin: 0.25rem 0 0;">
+        Explore all prophets, divine attributes, sacred geography, storylines, and roots woven throughout this Surah.
+      </p>
+    </div>
+
+    <!-- Quick Stats -->
+    <div style="display: flex; gap: 0.4rem; font-size: 0.8rem; flex-wrap: wrap;">
+      <span class="badge" style="background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main);">
+        👤 {entities.prophets.length} Figures
+      </span>
+      <span class="badge" style="background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main);">
+        ✨ {entities.names_of_allah.length} Divine Names
+      </span>
+      <span class="badge" style="background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main);">
+        📜 {stories.length} Story Arcs
+      </span>
+    </div>
+  </div>
+
+  <!-- Interactive Canvas Container -->
+  <div class="canvas-container" style="position: relative; width: 100%; height: 440px; background: radial-gradient(circle at center, var(--bg-surface) 0%, var(--bg-subtle) 100%); border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--border-color); margin-bottom: 1.5rem; touch-action: none;">
+    <canvas id={`surah-canvas-${surahId}`} style="width: 100%; height: 100%; display: block; cursor: grab;"></canvas>
+
+    <!-- Canvas Navigation Controls -->
+    <div style="position: absolute; bottom: 12px; right: 12px; display: flex; gap: 6px; z-index: 10;">
+      <button id={`zoom-in-${surahId}`} title="Zoom in" style="width: 30px; height: 30px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-weight: 700; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm);">+</button>
+      <button id={`zoom-out-${surahId}`} title="Zoom out" style="width: 30px; height: 30px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-weight: 700; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm);">−</button>
+      <button id={`zoom-reset-${surahId}`} title="Fit view" style="height: 30px; padding: 0 8px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-size: 0.75rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm);">⟲ Fit</button>
+    </div>
+
+    <!-- Tooltip -->
+    <div id={`surah-tooltip-${surahId}`} style="position: absolute; display: none; background: var(--bg-surface); border: 1px solid var(--border-color); padding: 0.45rem 0.75rem; border-radius: 6px; font-size: 0.85rem; pointer-events: none; box-shadow: var(--shadow-md); z-index: 20;"></div>
+  </div>
+
+  <!-- Categorized Entity Explorer Cards -->
+  <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+    <!-- Prophets & Figures -->
+    {entities.prophets.length > 0 && (
+      <div>
+        <div style="font-size: 0.85rem; font-weight: 700; color: #059669; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.35rem;">
+          <span>👤</span> Prophets & Historical Figures ({entities.prophets.length})
+        </div>
+        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+          {entities.prophets.map((p) => (
+            <a
+              href={`/entity/${p.slug}`}
+              class="entity-pill"
+              style="display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.35rem 0.7rem; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 9999px; text-decoration: none; color: var(--text-main); font-size: 0.82rem; transition: all 0.15s ease;"
+            >
+              <span style="font-weight: 600;">{p.label_en}</span>
+              {p.label_ar && <span class="arabic-text" dir="rtl" style="--arabic-font-size: 0.95rem; font-size: 0.95rem; color: #059669; line-height: 1.4;">{p.label_ar}</span>}
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Names of Allah -->
+    {entities.names_of_allah.length > 0 && (
+      <div>
+        <div style="font-size: 0.85rem; font-weight: 700; color: #d97706; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.35rem;">
+          <span>✨</span> Divine Names & Attributes (Asma ul-Husna) ({entities.names_of_allah.length})
+        </div>
+        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+          {entities.names_of_allah.map((n) => (
+            <a
+              href={`/entity/${n.slug}`}
+              class="entity-pill"
+              style="display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.35rem 0.7rem; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 9999px; text-decoration: none; color: var(--text-main); font-size: 0.82rem; transition: all 0.15s ease;"
+            >
+              <span style="font-weight: 600;">{n.label_en}</span>
+              {n.label_ar && <span class="arabic-text" dir="rtl" style="--arabic-font-size: 0.95rem; font-size: 0.95rem; color: #d97706; line-height: 1.4;">{n.label_ar}</span>}
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Stories & Narrative Arcs -->
+    {stories.length > 0 && (
+      <div>
+        <div style="font-size: 0.85rem; font-weight: 700; color: #ea580c; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.35rem;">
+          <span>📜</span> Quranic Storylines in this Surah ({stories.length})
+        </div>
+        <div style="display: flex; gap: 0.6rem; flex-wrap: wrap;">
+          {stories.map((st) => (
+            <a
+              href={`/story/${st.slug}`}
+              class="card"
+              style="padding: 0.75rem 1rem; border-left: 3px solid #ea580c; text-decoration: none; color: var(--text-main); display: inline-flex; flex-direction: column; gap: 0.2rem; min-width: 220px;"
+            >
+              <div style="font-weight: 700; font-size: 0.88rem; color: var(--text-main);">{st.title_en}</div>
+              <div class="bangla-text" lang="bn" style="font-size: 0.78rem; color: var(--text-muted);">{st.title_bn}</div>
+              <span class="badge" style="font-size: 0.7rem; background: var(--bg-subtle); color: var(--text-muted); width: fit-content; margin-top: 0.3rem;">
+                {st.episodes_count} {st.episodes_count === 1 ? 'scene' : 'scenes'} in Surah →
+              </span>
+            </a>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- Top Triliteral Roots -->
+    {topRoots.length > 0 && (
+      <div>
+        <div style="font-size: 0.85rem; font-weight: 700; color: #0891b2; margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.35rem;">
+          <span>🔤</span> Prominent Triliteral Roots ({topRoots.length})
+        </div>
+        <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+          {topRoots.map((rk) => {
+            const gloss = getRootGloss(rk.root);
+            return (
+              <a
+                href={`/root/${encodeURIComponent(rk.root)}`}
+                class="entity-pill"
+                style="display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.35rem 0.7rem; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 9999px; text-decoration: none; color: var(--text-main); font-size: 0.82rem; transition: all 0.15s ease;"
+              >
+                <span class="arabic-text" dir="rtl" style="--arabic-font-size: 0.95rem; font-size: 0.95rem; font-weight: 700; color: #0891b2; line-height: 1.4;">{gloss.label_ar}</span>
+                <span style="font-weight: 600;">{gloss.label_en}</span>
+                <span class="badge" style="font-size: 0.7rem; background: var(--bg-subtle); padding: 0.1rem 0.35rem;">{rk.count}x</span>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    )}
+  </div>
+</section>
+
+<script type="application/json" id={`surah-graph-data-${surahId}`} set:html={graphJson}></script>
+
+<script is:inline define:vars={{ sId: surahId }}>
+  (function () {
+    const dataEl = document.getElementById(`surah-graph-data-${sId}`);
+    const canvas = document.getElementById(`surah-canvas-${sId}`);
+    if (!dataEl || !canvas) return;
+
+    let graphData;
+    try {
+      graphData = JSON.parse(dataEl.textContent || "{}");
+    } catch (e) {
+      return;
+    }
+
+    const ctx = canvas.getContext("2d");
+    if (!ctx) return;
+    const tooltip = document.getElementById(`surah-tooltip-${sId}`);
+
+    let width = 0;
+    let height = 0;
+    let dpr = window.devicePixelRatio || 1;
+    let zoom = 1.0;
+    let panX = 0;
+    let panY = 0;
+    let draggedNode = null;
+    let hoveredNode = null;
+    let isPanning = false;
+    let startPan = { x: 0, y: 0 };
+    let animId = null;
+
+    function resizeCanvas() {
+      dpr = window.devicePixelRatio || 1;
+      width = canvas.parentElement.clientWidth;
+      height = canvas.parentElement.clientHeight;
+      canvas.width = width * dpr;
+      canvas.height = height * dpr;
+      canvas.style.width = width + "px";
+      canvas.style.height = height + "px";
+      ctx.resetTransform?.();
+      ctx.scale(dpr, dpr);
+    }
+    resizeCanvas();
+    window.addEventListener("resize", resizeCanvas);
+
+    // Initial Node Layout
+    const rawNodes = graphData.nodes || [];
+    const rawEdges = graphData.edges || [];
+    const nodeMap = new Map();
+
+    const nodes = rawNodes.map((n, i) => {
+      let x = width / 2;
+      let y = height / 2;
+      if (!n.isCenter) {
+        const angle = ((i - 1) / Math.max(1, rawNodes.length - 1)) * Math.PI * 2;
+        const dist = 110 + (i % 3) * 35;
+        x = width / 2 + Math.cos(angle) * dist;
+        y = height / 2 + Math.sin(angle) * dist;
+      }
+      const copy = { ...n, index: i, x, y, vx: 0, vy: 0, r: n.radius || 20 };
+      nodeMap.set(n.id, copy);
+      return copy;
+    });
+
+    const edges = [];
+    for (const e of rawEdges) {
+      const src = nodeMap.get(e.source);
+      const tgt = nodeMap.get(e.target);
+      if (src && tgt) {
+        edges.push({ source: src, target: tgt, label: e.label || "" });
+      }
+    }
+
+    // Physics Simulation
+    function tick() {
+      const cx = width / 2;
+      const cy = height / 2;
+
+      // Springs on edges
+      for (const e of edges) {
+        const u = e.source;
+        const v = e.target;
+        const dx = v.x - u.x;
+        const dy = v.y - u.y;
+        const dist = Math.sqrt(dx * dx + dy * dy) || 1;
+        const idealDist = 120;
+        const force = (dist - idealDist) * 0.035;
+        const fx = (dx / dist) * force;
+        const fy = (dy / dist) * force;
+
+        if (u !== draggedNode && !u.isCenter) { u.vx += fx; u.vy += fy; }
+        if (v !== draggedNode && !v.isCenter) { v.vx -= fx; v.vy -= fy; }
+      }
+
+      // Repulsion between nodes
+      for (let i = 0; i < nodes.length; i++) {
+        for (let j = i + 1; j < nodes.length; j++) {
+          const u = nodes[i];
+          const v = nodes[j];
+          const dx = v.x - u.x;
+          const dy = v.y - u.y;
+          const distSq = dx * dx + dy * dy || 1;
+          if (distSq < 25000) {
+            const force = 160 / distSq;
+            const dist = Math.sqrt(distSq);
+            const fx = (dx / dist) * force;
+            const fy = (dy / dist) * force;
+            if (u !== draggedNode && !u.isCenter) { u.vx -= fx; u.vy -= fy; }
+            if (v !== draggedNode && !v.isCenter) { v.vx += fx; v.vy += fy; }
+          }
+        }
+      }
+
+      // Integration & Damping
+      for (const n of nodes) {
+        if (n.isCenter) { n.x = cx; n.y = cy; continue; }
+        if (n === draggedNode) continue;
+        n.vx *= 0.86;
+        n.vy *= 0.86;
+        n.x += n.vx;
+        n.y += n.vy;
+        n.x = Math.max(n.r + 15, Math.min(width - n.r - 15, n.x));
+        n.y = Math.max(n.r + 15, Math.min(height - n.r - 15, n.y));
+      }
+
+      draw();
+      animId = requestAnimationFrame(tick);
+    }
+
+    function draw() {
+      ctx.clearRect(0, 0, width, height);
+      ctx.save();
+      ctx.translate(width / 2 + panX, height / 2 + panY);
+      ctx.scale(zoom, zoom);
+      ctx.translate(-width / 2, -height / 2);
+
+      // Edges
+      for (const e of edges) {
+        ctx.beginPath();
+        ctx.moveTo(e.source.x, e.source.y);
+        ctx.lineTo(e.target.x, e.target.y);
+        ctx.strokeStyle = "rgba(180, 190, 200, 0.4)";
+        ctx.lineWidth = 1.4;
+        ctx.stroke();
+      }
+
+      // Nodes
+      for (const n of nodes) {
+        const isHovered = hoveredNode === n;
+
+        if (n.isCenter) {
+          ctx.beginPath();
+          ctx.arc(n.x, n.y, n.r + 6, 0, Math.PI * 2);
+          ctx.fillStyle = "rgba(15, 118, 110, 0.18)";
+          ctx.fill();
+        }
+
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.r, 0, Math.PI * 2);
+        ctx.fillStyle = n.color || "#0f766e";
+        ctx.fill();
+
+        ctx.lineWidth = isHovered ? 3 : 1.5;
+        ctx.strokeStyle = "#ffffff";
+        ctx.stroke();
+
+        // Label
+        ctx.font = n.isCenter ? "bold 12px Inter, sans-serif" : "10px Inter, sans-serif";
+        ctx.fillStyle = "var(--text-main)";
+        ctx.textAlign = "center";
+        let disp = n.label || "";
+        if (disp.length > 16 && !n.isCenter) disp = disp.slice(0, 14) + "…";
+        ctx.fillText(disp, n.x, n.y + n.r + 12);
+      }
+
+      ctx.restore();
+    }
+
+    function screenToWorld(sx, sy) {
+      const cx = width / 2;
+      const cy = height / 2;
+      const x = (sx - cx - panX) / zoom + cx;
+      const y = (sy - cy - panY) / zoom + cy;
+      return { x, y };
+    }
+
+    function findNodeAt(sx, sy) {
+      const { x, y } = screenToWorld(sx, sy);
+      for (let i = nodes.length - 1; i >= 0; i--) {
+        const n = nodes[i];
+        const dx = n.x - x;
+        const dy = n.y - y;
+        if (dx * dx + dy * dy <= n.r * n.r) return n;
+      }
+      return null;
+    }
+
+    // Pointer events
+    canvas.addEventListener("pointerdown", (e) => {
+      const rect = canvas.getBoundingClientRect();
+      const sx = e.clientX - rect.left;
+      const sy = e.clientY - rect.top;
+      const n = findNodeAt(sx, sy);
+      if (n) {
+        draggedNode = n;
+        canvas.setPointerCapture(e.pointerId);
+      } else {
+        isPanning = true;
+        startPan = { x: e.clientX - panX, y: e.clientY - panY };
+        canvas.style.cursor = "grabbing";
+      }
+    });
+
+    canvas.addEventListener("pointermove", (e) => {
+      const rect = canvas.getBoundingClientRect();
+      const sx = e.clientX - rect.left;
+      const sy = e.clientY - rect.top;
+
+      if (draggedNode) {
+        const { x, y } = screenToWorld(sx, sy);
+        draggedNode.x = x;
+        draggedNode.y = y;
+        draggedNode.vx = 0;
+        draggedNode.vy = 0;
+      } else if (isPanning) {
+        panX = e.clientX - startPan.x;
+        panY = e.clientY - startPan.y;
+      } else {
+        const n = findNodeAt(sx, sy);
+        if (n !== hoveredNode) {
+          hoveredNode = n;
+          canvas.style.cursor = n ? "pointer" : "grab";
+          if (n && tooltip) {
+            tooltip.innerHTML = `<strong>${n.label}</strong>${n.label_ar ? `<br><span dir="rtl">${n.label_ar}</span>` : ""}`;
+            tooltip.style.display = "block";
+            tooltip.style.left = (sx + 12) + "px";
+            tooltip.style.top = (sy - 28) + "px";
+          } else if (tooltip) {
+            tooltip.style.display = "none";
+          }
+        }
+      }
+    });
+
+    canvas.addEventListener("pointerup", (e) => {
+      if (draggedNode) {
+        canvas.releasePointerCapture(e.pointerId);
+        draggedNode = null;
+      }
+      isPanning = false;
+      canvas.style.cursor = "grab";
+    });
+
+    canvas.addEventListener("click", (e) => {
+      const rect = canvas.getBoundingClientRect();
+      const n = findNodeAt(e.clientX - rect.left, e.clientY - rect.top);
+      if (n && n.url && !n.isCenter) {
+        window.location.href = n.url;
+      }
+    });
+
+    // Zoom controls
+    document.getElementById(`zoom-in-${sId}`)?.addEventListener("click", () => { zoom = Math.min(2.5, zoom * 1.25); });
+    document.getElementById(`zoom-out-${sId}`)?.addEventListener("click", () => { zoom = Math.max(0.4, zoom * 0.8); });
+    document.getElementById(`zoom-reset-${sId}`)?.addEventListener("click", () => { zoom = 1.0; panX = 0; panY = 0; });
+
+    tick();
+  })();
+</script>

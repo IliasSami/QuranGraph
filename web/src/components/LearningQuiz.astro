@@ -30,10 +30,19 @@ const quizPool = lemmasData.slice(0, 45); // top 45 core lemmas for rich quiz qu
     <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600; text-transform: uppercase; margin-bottom: 0.5rem;" id="quiz-q-category">
       Word Recognition · Rank #1
     </div>
-    <div id="quiz-q-arabic" class="arabic-text" lang="ar" dir="rtl" style="font-size: 3.2rem; color: var(--accent-teal); line-height: 1.2; margin-bottom: 0.4rem;">
+    <div
+      id="quiz-q-arabic"
+      class="arabic-text arabic-display"
+      lang="ar"
+      dir="rtl"
+      style="--arabic-font-size: 3.2rem; font-size: 3.2rem; color: var(--accent-teal); line-height: 1.6; min-height: 5.2rem; text-align: center; margin-bottom: 0.25rem;"
+    >
       {quizPool[0].lemma}
     </div>
-    <div id="quiz-q-translit" style="font-size: 1.05rem; font-style: italic; color: var(--accent-gold); font-family: var(--font-latin); margin-bottom: 0.5rem;">
+    <div
+      id="quiz-q-translit"
+      style="font-size: 1.1rem; font-style: italic; color: var(--accent-gold); font-family: var(--font-latin); margin-top: 0.5rem; margin-bottom: 0.6rem; letter-spacing: 0.02em; line-height: 1.4;"
+    >
       {quizPool[0].translit}
     </div>
     <div id="quiz-q-meta" style="font-size: 0.8rem; color: var(--text-muted);">

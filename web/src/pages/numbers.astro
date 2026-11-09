@@ -187,12 +187,19 @@ const topLemmas = lemmasData;
                   </span>
                 </div>
 
-                <!-- Arabic Lemma -->
-                <div style="text-align: right; margin-bottom: 0.75rem;">
-                  <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 2.2rem; color: var(--text-arabic); line-height: 1.2;">
+                <!-- Arabic Lemma & Transliteration -->
+                <div style="text-align: right; margin-bottom: 1rem;">
+                  <div
+                    class="arabic-text arabic-display"
+                    lang="ar"
+                    dir="rtl"
+                    style="--arabic-font-size: 2.2rem; font-size: 2.2rem; color: var(--text-arabic); line-height: 1.6; min-height: 3.6rem;"
+                  >
                     {l.lemma}
                   </div>
-                  <div style="font-size: 0.85rem; font-style: italic; color: var(--accent-gold); font-family: var(--font-latin);">
+                  <div
+                    style="font-size: 0.88rem; font-style: italic; color: var(--accent-gold); font-family: var(--font-latin); margin-top: 0.5rem; letter-spacing: 0.02em; line-height: 1.4;"
+                  >
                     {l.translit}
                   </div>
                 </div>

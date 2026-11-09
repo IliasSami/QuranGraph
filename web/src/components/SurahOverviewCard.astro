@@ -1,0 +1,129 @@
+---
+export interface Props {
+  surah: {
+    id: number;
+    name_translit: string;
+    name_ar: string;
+    name_en: string;
+    name_bn: string;
+    type: string;
+    revelation_order?: number;
+    ayat: number;
+    rukus?: number;
+  };
+  overview: {
+    theme_en: string;
+    theme_bn: string;
+    context_en: string;
+    context_bn: string;
+    maqasid_en: string[];
+    maqasid_bn: string[];
+    sections: Array<{ ruku: number; start: number; end: number; title_en: string; title_bn: string; desc_en: string; desc_bn: string }>;
+    entities: {
+      prophets: Array<{ id: string; slug: string; label_en: string; label_ar: string; label_bn: string }>;
+      names_of_allah: Array<{ id: string; slug: string; label_en: string; label_ar: string; label_bn: string }>;
+      places: Array<{ id: string; slug: string; label_en: string; label_ar: string; label_bn: string }>;
+      nations: Array<{ id: string; slug: string; label_en: string; label_ar: string; label_bn: string }>;
+      unseen: Array<{ id: string; slug: string; label_en: string; label_ar: string; label_bn: string }>;
+    };
+    stories: Array<{ id: string; slug: string; title_en: string; title_bn: string; episodes_count: number }>;
+    top_themes: Array<{ id: string; label_en: string; count: number }>;
+    top_roots: Array<{ root: string; count: number }>;
+  };
+}
+
+const { surah, overview } = Astro.props;
+const totalConnectedEntities = 
+  (overview.entities?.prophets?.length || 0) +
+  (overview.entities?.names_of_allah?.length || 0) +
+  (overview.entities?.places?.length || 0) +
+  (overview.entities?.nations?.length || 0) +
+  (overview.entities?.unseen?.length || 0);
+---
+
+<section class="surah-overview-card card" style="margin-top: 2rem; margin-bottom: 2.5rem; padding: 1.75rem; border-top: 4px solid var(--accent-gold); background: linear-gradient(180deg, var(--bg-surface) 0%, var(--bg-subtle) 100%);">
+  <!-- Top Navigation & Jump Anchors -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.25rem; flex-wrap: wrap; gap: 0.75rem;">
+    <div style="display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
+      <span class="badge badge-gold" style="font-size: 0.8rem; font-weight: 700;">
+        🌟 Comprehensive Surah Orientation
+      </span>
+      <span class="badge" style="font-size: 0.75rem; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-muted);">
+        {overview.sections.length} Thematic Sections
+      </span>
+      <span class="badge" style="font-size: 0.75rem; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-muted);">
+        {totalConnectedEntities} Connected Entities
+      </span>
+    </div>
+
+    <!-- Quick Section Links -->
+    <div style="display: flex; gap: 0.4rem; flex-wrap: wrap;">
+      <a href="#thematic-roadmap" class="btn-action btn-action-sm" style="font-size: 0.78rem;">
+        📜 Roadmap ({overview.sections.length} Rukus)
+      </a>
+      <a href="#surah-knowledge-graph" class="btn-action btn-action-sm" style="font-size: 0.78rem;">
+        🕸️ Knowledge Graph
+      </a>
+      <a href="#verses-container" class="btn-action btn-action-sm btn-action-primary" style="font-size: 0.78rem;">
+        📖 Read Ayats ({surah.ayat}) ↓
+      </a>
+    </div>
+  </div>
+
+  <!-- 1. Central Theme & Thesis -->
+  <div style="margin-bottom: 1.5rem; background: var(--bg-surface); padding: 1.25rem; border-radius: var(--radius-sm); border-left: 4px solid var(--accent-teal); border: 1px solid var(--border-color);">
+    <div style="display: flex; align-items: center; gap: 0.4rem; margin-bottom: 0.4rem;">
+      <span style="font-size: 1.1rem;">🎯</span>
+      <h3 style="font-size: 1.05rem; font-weight: 800; color: var(--text-main); margin: 0;">
+        Central Message & Core Theme (মূল বার্তা)
+      </h3>
+    </div>
+    <p style="font-size: 0.98rem; line-height: 1.6; color: var(--text-main); margin-bottom: 0.6rem;">
+      {overview.theme_en}
+    </p>
+    <p class="bangla-text" lang="bn" style="font-size: 0.95rem; line-height: 1.7; color: var(--text-muted); margin: 0;">
+      {overview.theme_bn}
+    </p>
+  </div>
+
+  <!-- 2-Column Grid: Historical Context & Primary Objectives -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.25rem;">
+    <!-- Historical Context -->
+    <div style="background: var(--bg-surface); padding: 1.25rem; border-radius: var(--radius-sm); border: 1px solid var(--border-color);">
+      <div style="display: flex; align-items: center; gap: 0.4rem; margin-bottom: 0.6rem;">
+        <span style="font-size: 1.1rem;">🏛️</span>
+        <h4 style="font-size: 0.95rem; font-weight: 700; color: var(--text-main); margin: 0;">
+          Historical Context & Revelation Era (পটভূমি)
+        </h4>
+      </div>
+      <p style="font-size: 0.9rem; line-height: 1.55; color: var(--text-main); margin-bottom: 0.5rem;">
+        {overview.context_en}
+      </p>
+      <p class="bangla-text" lang="bn" style="font-size: 0.88rem; line-height: 1.65; color: var(--text-muted); margin: 0;">
+        {overview.context_bn}
+      </p>
+    </div>
+
+    <!-- Primary Objectives (Maqasid) -->
+    <div style="background: var(--bg-surface); padding: 1.25rem; border-radius: var(--radius-sm); border: 1px solid var(--border-color);">
+      <div style="display: flex; align-items: center; gap: 0.4rem; margin-bottom: 0.6rem;">
+        <span style="font-size: 1.1rem;">⚖️</span>
+        <h4 style="font-size: 0.95rem; font-weight: 700; color: var(--text-main); margin: 0;">
+          Key Theological Objectives (মাক্বাসেদে সূরা)
+        </h4>
+      </div>
+      <ul style="margin: 0; padding-left: 1.2rem; display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.9rem; color: var(--text-main);">
+        {overview.maqasid_en.map((obj, i) => (
+          <li>
+            <div>{obj}</div>
+            {overview.maqasid_bn[i] && (
+              <div class="bangla-text" lang="bn" style="font-size: 0.82rem; color: var(--text-muted); margin-top: 0.1rem;">
+                {overview.maqasid_bn[i]}
+              </div>
+            )}
+          </li>
+        ))}
+      </ul>
+    </div>
+  </div>
+</section>

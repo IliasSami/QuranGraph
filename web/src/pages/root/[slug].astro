@@ -60,10 +60,15 @@ const matchingAyat = (rootData.ayat || []).map((ref: string) => {
         <div style="font-size: 0.85rem; font-weight: 700; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem; letter-spacing: 0.05em;">
           Quranic Triliteral Root
         </div>
-        <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 3.8rem; color: var(--accent-teal); line-height: 1.2; margin-bottom: 0.5rem; letter-spacing: 0.1em;">
+        <div
+          class="arabic-text arabic-display"
+          lang="ar"
+          dir="rtl"
+          style="--arabic-font-size: 3.8rem; font-size: 3.8rem; color: var(--accent-teal); line-height: 1.6; min-height: 6.2rem; margin-bottom: 0.25rem; letter-spacing: 0.1em; text-align: center;"
+        >
           {rootData.root.split("").join(" ")}
         </div>
-        <div style="font-size: 1.35rem; font-weight: 700; color: var(--text-main); margin-bottom: 0.25rem;">
+        <div style="font-size: 1.35rem; font-weight: 700; color: var(--text-main); margin-top: 0.5rem; margin-bottom: 0.25rem;">
           {gloss.label_en}
         </div>
         {gloss.label_bn && (
@@ -92,7 +97,12 @@ const matchingAyat = (rootData.ayat || []).map((ref: string) => {
           </h2>
           <div style="display: flex; gap: 0.65rem; flex-wrap: wrap;">
             {rootData.lemmas.map((lem: string) => (
-              <span class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.35rem; padding: 0.35rem 0.75rem; background: var(--bg-subtle); border: 1px solid var(--border-color); border-radius: var(--radius-sm); color: var(--accent-teal);">
+              <span
+                class="arabic-text"
+                lang="ar"
+                dir="rtl"
+                style="--arabic-font-size: 1.35rem; font-size: 1.35rem; line-height: 1.6; padding: 0.35rem 0.75rem; background: var(--bg-subtle); border: 1px solid var(--border-color); border-radius: var(--radius-sm); color: var(--accent-teal); display: inline-flex; align-items: center;"
+              >
                 {lem}
               </span>
             ))}
@@ -106,7 +116,7 @@ const matchingAyat = (rootData.ayat || []).map((ref: string) => {
           Occurrences Across Ayat ({matchingAyat.length} shown)
         </h2>
         <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.5rem;">
-          Explore verses containing words derived from root <span class="arabic-text" lang="ar" dir="rtl">{rootData.root}</span>.
+          Explore verses containing words derived from root <span class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.15rem; font-size: 1.15rem; font-weight: 700; color: var(--accent-teal); line-height: 1.4;">{rootData.root}</span>.
         </p>
 
         <div style="display: flex; flex-direction: column; gap: 1.5rem;">
@@ -122,13 +132,13 @@ const matchingAyat = (rootData.ayat || []).map((ref: string) => {
               </div>
 
               {m.ar && (
-                <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.6rem; margin-bottom: 0.5rem; color: var(--text-arabic); line-height: 1.8;">
+                <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.6rem; font-size: 1.6rem; margin-bottom: 0.75rem; color: var(--text-arabic); line-height: 2.2;">
                   {m.ar}
                 </div>
               )}
 
               {m.tr && (
-                <div style="font-size: 0.92rem; font-style: italic; color: var(--accent-gold); margin-bottom: 0.5rem; font-family: var(--font-latin); line-height: 1.4;">
+                <div style="font-size: 0.95rem; font-style: italic; color: var(--accent-gold); margin-top: 0.5rem; margin-bottom: 0.5rem; font-family: var(--font-latin); line-height: 1.5;">
                   {m.tr}
                 </div>
               )}

@@ -6,7 +6,7 @@ import storiesData from "../data/graph/stories.json" with { type: "json" };
 import { entityIdToSlug } from "../lib/graph/subgraph.ts";
 
 export const GET: APIRoute = async ({ site }) => {
-  const baseUrl = site ? site.toString().replace(/\/$/, "") : "https://qurangraph.com";
+  const baseUrl = site ? site.toString().replace(/\/$/, "") : "https://qurangraph.iliassami57.workers.dev";
   const now = new Date().toISOString().split("T")[0];
 
   interface SitemapUrl {

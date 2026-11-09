@@ -106,7 +106,7 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
         </header>
 
         <!-- Arabic Text -->
-        <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 2.5rem; line-height: 2.3; margin-bottom: 1.5rem; color: var(--text-arabic);">
+        <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 2.5rem; line-height: 2.4; margin-bottom: 1.5rem; color: var(--text-arabic);">
           {ayahRecord.ar_u || ayahRecord.ar}
           <span aria-hidden="true" style="display: inline-block; font-size: 1.5rem; color: var(--accent-teal); margin-right: 0.5rem;">
             ۝
@@ -178,7 +178,7 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
               >
                 <span>{ent.type === 'name_of_allah' ? '✨' : ent.type === 'person' ? '👤' : ent.type === 'place' ? '📍' : '🏷️'}</span>
                 <strong>{ent.label_en}</strong>
-                {ent.label_ar && <span class="arabic-text" lang="ar" dir="rtl" style="font-size: 0.95rem; color: var(--accent-teal); margin-left: 0.2rem;">{ent.label_ar}</span>}
+                {ent.label_ar && <span class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 0.95rem; font-size: 0.95rem; color: var(--accent-teal); line-height: 1.4; margin-left: 0.2rem;">{ent.label_ar}</span>}
               </a>
             ))}
           </div>
@@ -255,12 +255,12 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
                   <div style="background: var(--bg-subtle); padding: 1rem; border-radius: var(--radius-sm); border: 1px solid var(--border-color);">
                     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; flex-wrap: wrap; gap: 0.5rem;">
                       <div>
-                        <span class="arabic-text" lang="ar" dir="rtl" style="font-size: 1.4rem; font-weight: 700; color: var(--accent-teal);">
+                        <span class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.45rem; font-size: 1.45rem; font-weight: 700; color: var(--accent-teal); line-height: 1.6; display: inline-block;">
                           {kw.lemma}
                         </span>
                         {kw.root && (
                           <span style="font-size: 0.85rem; margin-left: 0.5rem; color: var(--text-muted);">
-                            (Root: <a href={`/root/${encodeURIComponent(kw.root)}`} class="arabic-text" lang="ar" dir="rtl" style="font-weight: 600;">{kw.root}</a>)
+                            (Root: <a href={`/root/${encodeURIComponent(kw.root)}`} class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.1rem; font-size: 1.1rem; font-weight: 600; line-height: 1.4;">{kw.root}</a>)
                           </span>
                         )}
                       </div>
@@ -425,7 +425,8 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
 
     const copyBtn = document.getElementById("ayah-copy-btn");
     copyBtn?.addEventListener("click", () => {
-      const text = `Surah ${surahName} (${sId}:${aNum})\n\n${arText}\n\nEnglish: ${enText}\n\nবাংলা: ${bnText}\n\nhttps://qurangraph.com/ayah/${sId}/${aNum}`;
+      const origin = window.location.origin || "https://qurangraph.iliassami57.workers.dev";
+      const text = `Surah ${surahName} (${sId}:${aNum})\n\n${arText}\n\nEnglish: ${enText}\n\nবাংলা: ${bnText}\n\n${origin}/ayah/${sId}/${aNum}`;
       navigator.clipboard.writeText(text).then(() => {
         const svg = copyBtn.querySelector("svg");
         const span = copyBtn.querySelector("span");

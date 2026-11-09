@@ -14,8 +14,8 @@ const {
   ogImage = "/og-image.png"
 } = Astro.props;
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://qurangraph.com");
-const fullOgImageUrl = new URL(ogImage, Astro.site || "https://qurangraph.com").toString();
+const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://qurangraph.iliassami57.workers.dev");
+const fullOgImageUrl = new URL(ogImage, Astro.site || "https://qurangraph.iliassami57.workers.dev").toString();
 
 // Schema.org JSON-LD structured data for rich search engine indexing & sitelinks
 const schemaGraph = {
@@ -23,26 +23,26 @@ const schemaGraph = {
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://qurangraph.com/#website",
-      "url": "https://qurangraph.com",
+      "@id": "https://qurangraph.iliassami57.workers.dev/#website",
+      "url": "https://qurangraph.iliassami57.workers.dev",
       "name": "QuranGraph",
       "description": "The Connected Quran Knowledge System & Multilingual Semantic Ontology",
       "inLanguage": ["en", "bn", "ar"],
       "publisher": {
-        "@id": "https://qurangraph.com/#organization"
+        "@id": "https://qurangraph.iliassami57.workers.dev/#organization"
       },
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://qurangraph.com/search?q={search_term_string}",
+        "target": "https://qurangraph.iliassami57.workers.dev/search?q={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "EducationalOrganization",
-      "@id": "https://qurangraph.com/#organization",
+      "@id": "https://qurangraph.iliassami57.workers.dev/#organization",
       "name": "QuranGraph Project",
-      "url": "https://qurangraph.com",
-      "logo": "https://qurangraph.com/og-image.png",
+      "url": "https://qurangraph.iliassami57.workers.dev",
+      "logo": "https://qurangraph.iliassami57.workers.dev/og-image.png",
       "sameAs": [
         "https://github.com/IliasSami/QuranGraph"
       ]
@@ -618,7 +618,7 @@ const compactSurahs = surahsData.map(s => ({
               </div>
               <div style="display: flex; align-items: center; gap: 0.6rem;">
                 <span class="badge" style="background: var(--bg-surface); border: 1px solid var(--border-color); font-size: 0.7rem;">${s.ay} vv</span>
-                <span class="arabic-text" dir="rtl" style="font-size: 1.1rem; line-height: 1;">${s.ar}</span>
+                <span class="arabic-text" dir="rtl" style="--arabic-font-size: 1.2rem; font-size: 1.2rem; line-height: 1.6; display: inline-flex; align-items: center;">${s.ar}</span>
               </div>
             </a>
           `).join("");

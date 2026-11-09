@@ -244,7 +244,7 @@ ingest/
   content/explain/        THE OUTPUT: one JSON per ayah (6,236 files across 114 surah directories)
   work/                   (ignored) raw downloads, quran.sqlite, scratch/, review/
 web/
-  astro.config.mjs        Astro 5 config (site: qurangraph.com, no trailing slash)
+  astro.config.mjs        Astro 5 config (site: qurangraph.iliassami57.workers.dev, no trailing slash)
   src/pages/              surah/, ayah/, entity/, root/, story/, graph.astro, search.astro, numbers.astro, etc.
   src/components/         UI components
   src/lib/search/normalize.ts   the ONE normaliser (scriptOf, arabicKey, arabicSkeleton, arabicVariants, banglaKey,

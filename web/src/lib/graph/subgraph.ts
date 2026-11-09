@@ -439,8 +439,15 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
   // 5. Quranic Themes - O(1)
   const verseThemes = themesByAyah.get(ref) || [];
   let themeCount = Math.min(verseThemes.length, 4);
+  const seenThemeKeys = new Set<string>();
+
   for (const { tid, theme: t } of verseThemes.slice(0, 4)) {
     const themeGloss = getThemeGloss(tid, t.label_en);
+    const cleanKey = tid.toLowerCase().replace(/^(theme|theme-exp)[:\-]/, "").trim();
+    seenThemeKeys.add(cleanKey);
+    seenThemeKeys.add(cleanKey.replace(/-/g, " "));
+    seenThemeKeys.add(themeGloss.en.toLowerCase().trim());
+
     addNode({
       id: tid,
       label: themeGloss.en,
@@ -469,9 +476,25 @@ export function extractAyahSubgraph(ref: string, explanation?: any): AyahSubgrap
     if (Array.isArray(explanation.themes)) {
       for (const tName of explanation.themes) {
         if (themeCount >= 5) break;
-        const tid = `theme-exp:${tName.toLowerCase().replace(/\s+/g, "-")}`;
+        const normKey = tName.toLowerCase().trim();
+        const normKeyHyphen = normKey.replace(/\s+/g, "-");
+        const expThemeGloss = getThemeGloss(tName);
+
+        // Deduplicate against existing themes
+        if (
+          seenThemeKeys.has(normKey) ||
+          seenThemeKeys.has(normKeyHyphen) ||
+          seenThemeKeys.has(expThemeGloss.en.toLowerCase().trim())
+        ) {
+          continue;
+        }
+
+        seenThemeKeys.add(normKey);
+        seenThemeKeys.add(normKeyHyphen);
+        seenThemeKeys.add(expThemeGloss.en.toLowerCase().trim());
+
+        const tid = `theme-exp:${normKeyHyphen}`;
         if (!seenNodes.has(tid)) {
-          const expThemeGloss = getThemeGloss(tName);
           addNode({
             id: tid,
             label: expThemeGloss.en,

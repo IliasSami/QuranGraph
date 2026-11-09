@@ -1,0 +1,122 @@
+---
+export interface Props {
+  surahId: number;
+  surahName: string;
+  sections: Array<{
+    ruku: number;
+    start: number;
+    end: number;
+    title_en: string;
+    title_bn: string;
+    desc_en: string;
+    desc_bn: string;
+  }>;
+}
+
+const { surahId, surahName, sections } = Astro.props;
+---
+
+<section id="thematic-roadmap" class="surah-thematic-roadmap card" style="margin-bottom: 2.5rem; padding: 1.75rem; border-top: 4px solid var(--accent-teal);">
+  <!-- Section Header -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5rem; flex-wrap: wrap; gap: 0.75rem;">
+    <div>
+      <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.35rem;">
+        <span class="badge badge-teal" style="font-size: 0.8rem; font-weight: 700;">
+          📜 Thematic Structural Flow
+        </span>
+        <span style="font-size: 0.8rem; color: var(--text-muted);">
+          {sections.length} Ruku' Passage Divisions
+        </span>
+      </div>
+      <h2 style="font-size: 1.45rem; font-weight: 800; color: var(--text-main); margin: 0;">
+        Passage-by-Passage Roadmap of Surah {surahName}
+      </h2>
+      <p style="font-size: 0.9rem; color: var(--text-muted); margin: 0.25rem 0 0;">
+        Follow the natural flow of discourse, legal rulings, and prophetic narratives section by section.
+      </p>
+    </div>
+
+    <!-- Quick Count Badge -->
+    <div style="font-size: 0.85rem; font-weight: 700; color: var(--accent-teal); background: var(--bg-surface); padding: 0.4rem 0.75rem; border-radius: 9999px; border: 1px solid var(--border-color);">
+      {sections.reduce((acc, s) => acc + (s.end - s.start + 1), 0)} Total Verses Mapped
+    </div>
+  </div>
+
+  <!-- Sections Cards Grid -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem;">
+    {sections.map((sec) => (
+      <div
+        class="roadmap-section-card"
+        style="background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: var(--radius-sm); padding: 1.15rem; display: flex; flex-direction: column; justify-content: space-between; transition: transform 0.15s ease, border-color 0.15s ease, box-shadow 0.15s ease;"
+      >
+        <div>
+          <!-- Range Badge -->
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.6rem;">
+            <span class="badge" style="background: var(--accent-teal-subtle); color: var(--accent-teal); font-weight: 700; font-size: 0.75rem;">
+              Ruku {sec.ruku} · Ayat {sec.start}–{sec.end}
+            </span>
+            <span style="font-size: 0.75rem; color: var(--text-muted); font-weight: 600;">
+              {sec.end - sec.start + 1} {sec.end - sec.start + 1 === 1 ? 'verse' : 'verses'}
+            </span>
+          </div>
+
+          <!-- Titles -->
+          <h4 style="font-size: 0.98rem; font-weight: 800; color: var(--text-main); margin: 0 0 0.35rem; line-height: 1.35;">
+            {sec.title_en}
+          </h4>
+          <div class="bangla-text" lang="bn" style="font-size: 0.88rem; color: var(--accent-gold); font-weight: 600; margin-bottom: 0.65rem;">
+            {sec.title_bn}
+          </div>
+
+          <!-- Description -->
+          <p style="font-size: 0.84rem; color: var(--text-muted); line-height: 1.5; margin: 0 0 0.75rem;">
+            {sec.desc_en}
+          </p>
+        </div>
+
+        <!-- Jump to Ayah Button -->
+        <a
+          href={`#ayah-${sec.start}`}
+          class="btn-action btn-action-sm roadmap-jump-btn"
+          style="width: 100%; justify-content: center; font-size: 0.8rem; text-decoration: none; padding: 0.45rem; background: var(--bg-subtle); border: 1px solid var(--border-color); border-radius: var(--radius-sm); font-weight: 600; box-sizing: border-box;"
+          data-start-ayah={sec.start}
+        >
+          <span>Jump to Ayah {sec.start} ↓</span>
+        </a>
+      </div>
+    ))}
+  </div>
+</section>
+
+<style>
+  .roadmap-section-card:hover {
+    border-color: var(--accent-teal);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  }
+  .roadmap-jump-btn:hover {
+    background: var(--accent-teal);
+    color: white;
+    border-color: var(--accent-teal);
+  }
+</style>
+
+<script is:inline>
+  document.querySelectorAll(".roadmap-jump-btn").forEach((btn) => {
+    btn.addEventListener("click", (e) => {
+      const startAyah = btn.getAttribute("data-start-ayah");
+      if (!startAyah) return;
+      const targetEl = document.getElementById(`ayah-${startAyah}`);
+      if (targetEl) {
+        e.preventDefault();
+        targetEl.scrollIntoView({ behavior: "smooth", block: "start" });
+        targetEl.style.borderColor = "var(--accent-teal)";
+        targetEl.style.boxShadow = "0 0 0 3px rgba(15, 118, 110, 0.35)";
+        setTimeout(() => {
+          targetEl.style.borderColor = "";
+          targetEl.style.boxShadow = "";
+        }, 2500);
+      }
+    });
+  });
+</script>

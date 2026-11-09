@@ -213,6 +213,7 @@ import Layout from "../layouts/Layout.astro";
 
   <script>
     import { search, type SearchResult } from "../lib/search/engine.ts";
+    import { getAyahAudioCandidates } from "../lib/audio/cdn.ts";
 
     const input = document.getElementById("search-input") as HTMLInputElement;
     const btn = document.getElementById("search-btn");
@@ -231,6 +232,10 @@ import Layout from "../layouts/Layout.astro";
     let currentResults: SearchResult[] = [];
     let activeFilter = "all";
     let activePlayingRef: string | null = null;
+    let currentCandidates: string[] = [];
+    let currentCandidateIdx = 0;
+    let isAudioPending = false;
+    let audioSessionId = 0;
     let debounceTimer: any = null;
 
     // Toggle clear button and debounced live search
@@ -246,6 +251,11 @@ import Layout from "../layouts/Layout.astro";
           executeSearch(val);
         }, 220);
       } else if (val.length === 0) {
+        if (activePlayingRef) {
+          audioSessionId++;
+          audioPlayer.pause();
+          activePlayingRef = null;
+        }
         if (container) container.innerHTML = "";
         if (filterBar) filterBar.style.display = "none";
         if (meta) meta.style.display = "none";
@@ -255,6 +265,11 @@ import Layout from "../layouts/Layout.astro";
 
     clearBtn?.addEventListener("click", () => {
       if (input) {
+        if (activePlayingRef) {
+          audioSessionId++;
+          audioPlayer.pause();
+          activePlayingRef = null;
+        }
         input.value = "";
         input.focus();
         if (clearBtn) clearBtn.style.display = "none";
@@ -345,7 +360,12 @@ import Layout from "../layouts/Layout.astro";
                       ${r.surah_name_en} · <span class="bangla-text" lang="bn">${r.surah_name_bn}</span>
                     </div>
                   </div>
-                  <div class="arabic-text" lang="ar" dir="rtl" style="font-size: 2.5rem; color: var(--accent-teal); line-height: 1.1;">
+                  <div
+                    class="arabic-text arabic-display"
+                    lang="ar"
+                    dir="rtl"
+                    style="--arabic-font-size: 2.5rem; font-size: 2.5rem; color: var(--accent-teal); line-height: 1.6; min-height: 4rem;"
+                  >
                     ${r.surah_name_ar}
                   </div>
                 </div>
@@ -389,7 +409,7 @@ import Layout from "../layouts/Layout.astro";
               </div>
 
               <!-- Sacred Arabic Text -->
-              <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.85rem; line-height: 2; margin-bottom: 1rem; color: var(--text-arabic);">
+              <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.85rem; line-height: 2.2; margin-bottom: 0.75rem; color: var(--text-arabic);">
                 ${r.ar_u || r.ar}
                 <span aria-hidden="true" style="display: inline-block; font-size: 1.25rem; color: var(--accent-teal); margin-right: 0.35rem;">
                   ۝
@@ -400,7 +420,7 @@ import Layout from "../layouts/Layout.astro";
               ${
                 r.tr
                   ? `
-                <div style="font-size: 0.95rem; font-style: italic; color: var(--accent-gold); margin-bottom: 1.15rem; line-height: 1.5; font-family: var(--font-latin);">
+                <div style="font-size: 0.95rem; font-style: italic; color: var(--accent-gold); margin-top: 0.5rem; margin-bottom: 1.15rem; line-height: 1.5; font-family: var(--font-latin);">
                   ${r.tr}
                 </div>
               `
@@ -434,8 +454,9 @@ import Layout from "../layouts/Layout.astro";
               <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px dashed var(--border-color); padding-top: 1rem; flex-wrap: wrap; gap: 0.75rem;">
                 <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;">
                   <button
-                    class="btn-action btn-action-sm play-audio-btn"
-                    data-audio="${audioUrl}"
+                    class="btn-action btn-action-sm play-audio-btn ${isPlaying ? 'btn-action-primary' : ''}"
+                    data-surah="${r.s}"
+                    data-ayah="${r.a}"
                     data-ref="${r.ref}"
                     aria-label="Play recitation for verse ${r.ref}"
                   >
@@ -482,48 +503,106 @@ import Layout from "../layouts/Layout.astro";
     const CHECK_ICON_HTML = '<svg class="icon-svg" viewBox="0 0 24 24" style="stroke: #10b981;"><polyline points="20 6 9 17 4 12"></polyline></svg>';
     const COPY_ICON_HTML = '<svg class="icon-svg" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>';
 
+    function updateAllPlayButtons() {
+      document.querySelectorAll(".play-audio-btn").forEach((b) => {
+        const r = b.getAttribute("data-ref");
+        const ic = b.querySelector(".btn-icon-slot");
+        const lb = b.querySelector(".btn-label-slot");
+        const isThisPlaying = r === activePlayingRef;
+        if (ic) ic.innerHTML = isThisPlaying ? PAUSE_ICON_HTML : PLAY_ICON_HTML;
+        if (lb) lb.textContent = isThisPlaying ? "Pause" : "Listen";
+        if (isThisPlaying) {
+          b.classList.add("btn-action-primary");
+        } else {
+          b.classList.remove("btn-action-primary");
+        }
+      });
+    }
+
+    function safePlayPreview(sessionId: number) {
+      isAudioPending = true;
+      const playPromise = audioPlayer.play();
+      if (playPromise !== undefined) {
+        playPromise
+          .then(() => {
+            isAudioPending = false;
+            if (sessionId !== audioSessionId || !activePlayingRef) {
+              audioPlayer.pause();
+              updateAllPlayButtons();
+            } else {
+              updateAllPlayButtons();
+            }
+          })
+          .catch((err) => {
+            isAudioPending = false;
+            if (err && err.name === "AbortError") {
+              return;
+            }
+            console.warn("Search preview play error:", err);
+            if (sessionId === audioSessionId && activePlayingRef) {
+              handleSearchAudioError();
+            }
+          });
+      } else {
+        isAudioPending = false;
+      }
+    }
+
+    function handleSearchAudioError() {
+      if (currentCandidateIdx + 1 < currentCandidates.length) {
+        currentCandidateIdx++;
+        console.info(`Retrying search preview on fallback mirror: ${currentCandidates[currentCandidateIdx]}`);
+        audioPlayer.src = currentCandidates[currentCandidateIdx];
+        safePlayPreview(audioSessionId);
+      } else {
+        console.warn("All audio mirrors failed for search preview", activePlayingRef);
+        const failedRef = activePlayingRef;
+        activePlayingRef = null;
+        audioPlayer.pause();
+        updateAllPlayButtons();
+        if (typeof (window as any).showQgToast === "function") {
+          (window as any).showQgToast(`Audio preview unavailable for verse ${failedRef}`);
+        }
+      }
+    }
+
+    audioPlayer?.addEventListener("error", () => {
+      if (activePlayingRef) {
+        handleSearchAudioError();
+      }
+    });
+
+    audioPlayer?.addEventListener("ended", () => {
+      activePlayingRef = null;
+      updateAllPlayButtons();
+    });
+
     function attachActionHandlers() {
       // Audio play buttons
       document.querySelectorAll(".play-audio-btn").forEach((btnEl) => {
         btnEl.addEventListener("click", () => {
-          const audioUrl = btnEl.getAttribute("data-audio");
           const ref = btnEl.getAttribute("data-ref");
-          if (!audioUrl || !ref) return;
-
-          const iconSlot = btnEl.querySelector(".btn-icon-slot");
-          const labelSlot = btnEl.querySelector(".btn-label-slot");
+          const s = parseInt(btnEl.getAttribute("data-surah") || "0", 10);
+          const a = parseInt(btnEl.getAttribute("data-ayah") || "0", 10);
+          if (!ref || !s || !a) return;
 
           if (activePlayingRef === ref && !audioPlayer.paused) {
+            audioSessionId++;
             audioPlayer.pause();
             activePlayingRef = null;
-            if (iconSlot) iconSlot.innerHTML = PLAY_ICON_HTML;
-            if (labelSlot) labelSlot.textContent = "Listen";
+            updateAllPlayButtons();
           } else {
-            audioPlayer.src = audioUrl;
-            audioPlayer.play().catch(console.error);
+            audioSessionId++;
+            const thisSession = audioSessionId;
             activePlayingRef = ref;
-            // Reset all buttons
-            document.querySelectorAll(".play-audio-btn").forEach((b) => {
-              const ic = b.querySelector(".btn-icon-slot");
-              const lb = b.querySelector(".btn-label-slot");
-              if (ic) ic.innerHTML = PLAY_ICON_HTML;
-              if (lb) lb.textContent = "Listen";
-            });
-            if (iconSlot) iconSlot.innerHTML = PAUSE_ICON_HTML;
-            if (labelSlot) labelSlot.textContent = "Pause";
+            currentCandidates = getAyahAudioCandidates(s, a, "Alafasy_64kbps");
+            currentCandidateIdx = 0;
+            audioPlayer.src = currentCandidates[0];
+            updateAllPlayButtons();
+            safePlayPreview(thisSession);
           }
         });
       });
-
-      audioPlayer.onended = () => {
-        activePlayingRef = null;
-        document.querySelectorAll(".play-audio-btn").forEach((b) => {
-          const ic = b.querySelector(".btn-icon-slot");
-          const lb = b.querySelector(".btn-label-slot");
-          if (ic) ic.innerHTML = PLAY_ICON_HTML;
-          if (lb) lb.textContent = "Listen";
-        });
-      };
 
       // Copy buttons
       document.querySelectorAll(".copy-btn").forEach((btnEl) => {
@@ -533,7 +612,8 @@ import Layout from "../layouts/Layout.astro";
           const en = decodeURIComponent(btnEl.getAttribute("data-en") || "");
           const bn = decodeURIComponent(btnEl.getAttribute("data-bn") || "");
 
-          const textToCopy = `Quran (${ref})\n\n${ar}\n\nEnglish: ${en}\n\nবাংলা: ${bn}\n\nhttps://qurangraph.com/ayah/${ref.replace(":", "/")}`;
+          const origin = window.location.origin || "https://qurangraph.iliassami57.workers.dev";
+          const textToCopy = `Quran (${ref})\n\n${ar}\n\nEnglish: ${en}\n\nবাংলা: ${bn}\n\n${origin}/ayah/${ref.replace(":", "/")}`;
           navigator.clipboard.writeText(textToCopy).then(() => {
             const originalSvg = btnEl.querySelector("svg");
             const spanText = btnEl.querySelector("span");

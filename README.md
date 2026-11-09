@@ -9,7 +9,7 @@
 
 > **Explore the Holy Quran through a connected, multilingual semantic knowledge graph.** Every verse, root, lemma, prophetic narrative, divine name, and moral theme is linked together with verified classical tafsir explanations in plain English and natural Bangla.
 
-🌐 **Live Application**: [https://qurangraph.iliassami57.workers.dev](https://qurangraph.iliassami57.workers.dev) · [https://qurangraph.com](https://qurangraph.com)
+🌐 **Live Application**: [https://qurangraph.iliassami57.workers.dev](https://qurangraph.iliassami57.workers.dev)
 
 ---
 

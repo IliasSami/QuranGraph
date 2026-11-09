@@ -146,23 +146,42 @@ a:hover {
   font-family: var(--font-arabic);
   direction: rtl;
   text-align: right;
-  line-height: 2.5;
+  line-height: var(--arabic-line-height, 2.4);
   color: var(--text-arabic);
-  font-size: calc(var(--arabic-font-size, 2.2rem) * var(--arabic-scale, 1)) !important;
+  font-size: calc(var(--arabic-font-size, 2.2rem) * var(--arabic-scale, 1));
   transition: font-size 0.15s ease;
 }
 
+/* Safe line-height modifiers for Arabic typography */
+.arabic-display {
+  --arabic-line-height: 1.6;
+  line-height: 1.6;
+}
+
+.arabic-verse {
+  --arabic-line-height: 2.4;
+  line-height: 2.4;
+}
+
 .arabic-text-hero {
-  --arabic-font-size: 3rem !important;
+  --arabic-font-size: 3rem;
+  --arabic-line-height: 1.6;
+  line-height: 1.6;
 }
 .arabic-text-lg {
-  --arabic-font-size: 2.5rem !important;
+  --arabic-font-size: 2.5rem;
+  --arabic-line-height: 1.6;
+  line-height: 1.6;
 }
 .arabic-text-md {
-  --arabic-font-size: 1.85rem !important;
+  --arabic-font-size: 1.85rem;
+  --arabic-line-height: 1.8;
+  line-height: 1.8;
 }
 .arabic-text-sm {
-  --arabic-font-size: 1.4rem !important;
+  --arabic-font-size: 1.4rem;
+  --arabic-line-height: 1.6;
+  line-height: 1.6;
 }
 
 .visually-hidden {
