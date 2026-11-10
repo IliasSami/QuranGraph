@@ -98,6 +98,8 @@ const ayahSchema = [
     ]
   }
 ];
+
+const stripHtml = (str: string = "") => (str ? str.replace(/<[^>]+>/g, "").trim() : "");
 ---
 
 <Layout title={`Surah ${surah.name_translit} ${sId}:${aNum} (${surah.name_ar}) — Ayah Tafsir & Translation | QuranGraph`} description={ayahDescription} schema={ayahSchema}>
@@ -192,7 +194,7 @@ const ayahSchema = [
               English Translation (Saheeh International)
             </div>
             <div class="verse-translation-en" style="font-size: 1.15rem; line-height: 1.6; color: var(--text-main);">
-              {ayahRecord.en}
+              {stripHtml(ayahRecord.en)}
             </div>
           </div>
 
@@ -201,7 +203,7 @@ const ayahSchema = [
               Bangla Translation (মুহিউদ্দীন খান / আবু বকর জাকারিয়া)
             </div>
             <div class="bangla-text verse-translation-bn" lang="bn" style="font-size: 1.05rem; line-height: 1.7; color: var(--text-main);">
-              {ayahRecord.bn}
+              {stripHtml(ayahRecord.bn)}
             </div>
           </div>
         </div>

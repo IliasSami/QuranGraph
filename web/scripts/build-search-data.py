@@ -385,11 +385,14 @@ KNOWLEDGE_ENTRIES = [
 def build():
     os.makedirs(SEARCH_DIR, exist_ok=True)
 
-    # 1. Write knowledge.json
+    # 1. Write knowledge.json (preserve existing enriched entries if file exists)
     knowledge_path = os.path.join(SEARCH_DIR, "knowledge.json")
-    with open(knowledge_path, "w", encoding="utf-8") as f:
-        json.dump(KNOWLEDGE_ENTRIES, f, ensure_ascii=False, indent=2)
-    print(f"Wrote {len(KNOWLEDGE_ENTRIES)} knowledge entries to {knowledge_path}")
+    if not os.path.exists(knowledge_path):
+        with open(knowledge_path, "w", encoding="utf-8") as f:
+            json.dump(KNOWLEDGE_ENTRIES, f, ensure_ascii=False, indent=2)
+        print(f"Wrote {len(KNOWLEDGE_ENTRIES)} knowledge entries to {knowledge_path}")
+    else:
+        print(f"Preserving existing knowledge entries in {knowledge_path}")
 
     # 2. Extract corpus from quran.sqlite
     db = sqlite3.connect(DB_PATH)

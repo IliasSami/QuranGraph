@@ -101,6 +101,8 @@ const surahSchema = [
     ]
   }
 ];
+
+const stripHtml = (str: string = "") => (str ? str.replace(/<[^>]+>/g, "").trim() : "");
 ---
 
 <Layout title={`Surah ${surah.name_translit} (${surah.name_ar}) — Verses 1–${surah.ayat} | QuranGraph`} description={surahDescription} schema={surahSchema}>
@@ -121,7 +123,7 @@ const surahSchema = [
         class="arabic-text arabic-display"
         lang="ar"
         dir="rtl"
-        style="--arabic-font-size: 3rem; font-size: 3rem; color: var(--accent-teal); line-height: 1.6; min-height: 4.8rem; margin-bottom: 0.5rem; text-align: center;"
+        style="--arabic-font-size: 3rem; font-size: 3rem; color: var(--accent-teal); line-height: 2.1; padding-bottom: 0.35rem; margin-bottom: 0.75rem; text-align: center;"
       >
         {surah.name_ar}
       </div>
@@ -257,12 +259,12 @@ const surahSchema = [
 
             <!-- English Translation -->
             <div class="verse-translation-en" style="margin-bottom: 0.75rem; line-height: 1.6; color: var(--text-main);">
-              {item.en}
+              {stripHtml(item.en)}
             </div>
 
             <!-- Bangla Translation -->
             <div class="bangla-text verse-translation-bn" lang="bn" style="line-height: 1.7; color: var(--text-muted); border-top: 1px dashed var(--border-color); padding-top: 0.75rem; margin-bottom: 1rem;">
-              {item.bn}
+              {stripHtml(item.bn)}
             </div>
 
             <!-- Ayah Insights & Classical Tafsir (Expandable) -->

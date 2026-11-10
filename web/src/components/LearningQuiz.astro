@@ -35,13 +35,13 @@ const quizPool = lemmasData.slice(0, 45); // top 45 core lemmas for rich quiz qu
       class="arabic-text arabic-display"
       lang="ar"
       dir="rtl"
-      style="--arabic-font-size: 3.2rem; font-size: 3.2rem; color: var(--accent-teal); line-height: 1.6; min-height: 5.2rem; text-align: center; margin-bottom: 0.25rem;"
+      style="--arabic-font-size: 3.2rem; font-size: 3.2rem; color: var(--accent-teal); line-height: 2.1; text-align: center; margin-bottom: 0.5rem; padding-bottom: 0.35rem;"
     >
       {quizPool[0]?.lemma || ""}
     </div>
     <div
       id="quiz-q-translit"
-      style="font-size: 1.1rem; font-style: italic; color: var(--accent-gold); font-family: var(--font-latin); margin-top: 0.5rem; margin-bottom: 0.6rem; letter-spacing: 0.02em; line-height: 1.4;"
+      style="font-size: 1.15rem; font-style: italic; color: var(--accent-gold); font-family: var(--font-latin); margin-top: 0.45rem; margin-bottom: 0.75rem; letter-spacing: 0.02em; line-height: 1.4;"
     >
       {quizPool[0]?.translit || ""}
     </div>

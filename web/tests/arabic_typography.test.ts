@@ -13,20 +13,20 @@ test("Arabic Typography: Numbers Lab Lemma Container Safety", () => {
   
   // Ensure unsafe line-height: 1.2 is eliminated
   assert.ok(
-    !numbersFile.includes('class="arabic-text" lang="ar" dir="rtl" style="font-size: 2.2rem; color: var(--text-arabic); line-height: 1.2;"'),
+    !numbersFile.includes('line-height: 1.2;'),
     "Unsafe line-height: 1.2 on Arabic lemma must be eliminated"
   );
   
-  // Ensure safe line-height 1.6 and min-height are present
+  // Ensure robust line-height 2.1 and descender padding are present
   assert.ok(
-    numbersFile.includes("line-height: 1.6; min-height: 3.6rem;"),
-    "Arabic lemma must have safe line-height >= 1.6 and min-height for stable clearance"
+    numbersFile.includes("line-height: 2.1; padding-bottom: 0.35rem;"),
+    "Arabic lemma must have robust line-height >= 2.0 and padding-bottom for descender clearance"
   );
 
   // Ensure transliteration has distinct margin-top to prevent descender collision
   assert.ok(
-    numbersFile.includes("margin-top: 0.5rem;"),
-    "Transliteration element must have distinct margin-top >= 0.5rem to prevent descender overlap"
+    numbersFile.includes("margin-top: 0.45rem;"),
+    "Transliteration element must have distinct margin-top to prevent descender overlap"
   );
 });
 
@@ -37,12 +37,12 @@ test("Arabic Typography: Flashcards & Learning Quiz Clearance", () => {
     "Flashcards Arabic lemma must not use unsafe line-height 1.2"
   );
   assert.ok(
-    flashcardsFile.includes("line-height: 1.6; min-height: 5.5rem;"),
-    "Flashcards Arabic lemma must use safe line-height 1.6 and min-height 5.5rem"
+    flashcardsFile.includes("line-height: 2.1;") && flashcardsFile.includes("padding-bottom: 0.35rem;"),
+    "Flashcards Arabic lemma must use robust line-height 2.1 and padding-bottom"
   );
   assert.ok(
-    flashcardsFile.includes('id="fc-translit"') && flashcardsFile.includes("margin-top: 0.5rem;"),
-    "Flashcards transliteration must have margin-top 0.5rem"
+    flashcardsFile.includes('id="fc-translit"') && flashcardsFile.includes("margin-top: 0.45rem;"),
+    "Flashcards transliteration must have margin-top 0.45rem"
   );
 
   const quizFile = fs.readFileSync(resolveWebPath("src/components/LearningQuiz.astro"), "utf-8");
@@ -51,12 +51,12 @@ test("Arabic Typography: Flashcards & Learning Quiz Clearance", () => {
     "Quiz Arabic question must not use unsafe line-height 1.2"
   );
   assert.ok(
-    quizFile.includes("line-height: 1.6; min-height: 5.2rem;"),
-    "Quiz Arabic question must use safe line-height 1.6 and min-height 5.2rem"
+    quizFile.includes("line-height: 2.1;") && quizFile.includes("padding-bottom: 0.35rem;"),
+    "Quiz Arabic question must use robust line-height 2.1 and padding-bottom"
   );
   assert.ok(
-    quizFile.includes('id="quiz-q-translit"') && quizFile.includes("margin-top: 0.5rem;"),
-    "Quiz transliteration must have margin-top 0.5rem"
+    quizFile.includes('id="quiz-q-translit"') && quizFile.includes("margin-top: 0.45rem;"),
+    "Quiz transliteration must have margin-top 0.45rem"
   );
 });
 
@@ -69,10 +69,10 @@ test("Arabic Typography: Learn Page Root Families Clearance", () => {
     "Unsafe line-height 1.1 on roots in learn.astro must be eliminated"
   );
   
-  // Check safe root line-height and margin-top on labels
+  // Check robust root line-height and margin-top on labels
   assert.ok(
-    learnFile.includes("line-height: 1.6; min-height: 4.2rem;"),
-    "Root titles in learn.astro must use safe line-height 1.6 and min-height"
+    learnFile.includes("line-height: 2.1; padding-bottom: 0.35rem;"),
+    "Root titles in learn.astro must use robust line-height 2.1 and padding-bottom"
   );
   assert.ok(
     learnFile.includes("margin-top: 0.5rem; margin-bottom: 0.2rem;"),
@@ -91,8 +91,8 @@ test("Arabic Typography: Global CSS Defaults & Line-Height Standards", () => {
   
   // Check .arabic-display rule
   assert.ok(
-    cssFile.includes(".arabic-display"),
-    ".arabic-display modifier must be available for isolated display lemmas"
+    cssFile.includes(".arabic-display") && cssFile.includes("--arabic-line-height: 2.1;"),
+    ".arabic-display modifier must have --arabic-line-height: 2.1 for isolated display lemmas"
   );
 });
 

@@ -222,7 +222,17 @@ def main():
                 k = (int(r["sura"]), int(r["aya"]))
                 if r.get("arabic_text") and r["arabic_text"] != uth[k]:
                     pass   # QuranEnc ships its own Arabic copy; QuranGraph displays Tanzil's
-                db.execute("INSERT INTO text VALUES (?,?,?,?,?,?)", (sid, k[0], k[1], r["translation"], r.get("footnotes") or None, None))
+                tr = (r.get("translation") or "").strip()
+                fn = (r.get("footnotes") or "").strip()
+                # Defensive check: if translation is mistakenly a ruku/section heading with HTML tags
+                # and footnotes contains the real translation, swap them cleanly.
+                if ("<b" in tr or "রুকু" in tr.lower() or "ruku" in tr.lower()) and len(tr) < 35:
+                    if fn and len(fn) > len(tr) and not fn.startswith("[1]") and not fn.startswith("[১]"):
+                        tr = fn
+                        fn = ""
+                # Strip any rogue HTML tags from translations
+                tr = re.sub(r"</?[a-zA-Z0-9]+[^>]*>", "", tr).strip()
+                db.execute("INSERT INTO text VALUES (?,?,?,?,?,?)", (sid, k[0], k[1], tr, fn or None, None))
                 n += 1
             report.append(f"{sid}: {n} ayat (v{d.get('version')})")
         elif s["kind"] == "spa5k":

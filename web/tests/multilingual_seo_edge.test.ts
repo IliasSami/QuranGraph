@@ -42,7 +42,7 @@ test("Search Edge Cases: Single Character Resilience", () => {
   const rM = search("ম", 10);
   assert.ok(Array.isArray(rM));
   // If results returned, none should be concept-basmalah purely from single letter substring
-  const hasBasmalahFalseMatch = rM.some((r) => r.ref === "1:1" && r.confidence === 1.0);
+  const hasBasmalahFalseMatch = rM.some((r) => r.ref === "1:1" && r.score >= 100);
   assert.strictEqual(hasBasmalahFalseMatch, false, "Single character 'ম' must not trigger false concept-basmalah alias match");
 
   // Single Arabic letter "ق" (Surah Qaf, 50)
