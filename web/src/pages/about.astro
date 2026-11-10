@@ -1,0 +1,103 @@
+---
+import Layout from "../layouts/Layout.astro";
+import numbersData from "../data/numbers_lab.json" with { type: "json" };
+
+const baseline = numbersData.baseline;
+---
+
+<Layout
+  title="About QuranGraph — Mission, Scholarly Methodology & Architecture"
+  description="QuranGraph is a free, static knowledge graph connecting the entire Quran: 6,236 ayat, 1,651 roots, prophetic stories, and bilingual English & Bangla explanations strictly grounded in classical tafsir."
+>
+  <!-- Hero Section -->
+  <section style="padding: 4rem 0 2.5rem; background: var(--bg-surface); border-bottom: 1px solid var(--border-color); text-align: center;">
+    <div class="container" style="max-width: 860px;">
+      <div class="badge badge-teal" style="margin-bottom: 0.75rem;">Mission & Architecture</div>
+      <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.75rem; letter-spacing: -0.02em;">
+        About QuranGraph
+      </h1>
+      <p style="font-size: 1.15rem; color: var(--text-muted); line-height: 1.6; max-width: 680px; margin: 0 auto;">
+        Connecting every ayah, word, root, concept, and prophetic story into an open, accessible knowledge graph for beginners and serious students alike in English and Bangla.
+      </p>
+    </div>
+  </section>
+
+  <div style="padding: 3rem 0;">
+    <div class="container" style="max-width: 860px; display: flex; flex-direction: column; gap: 2.5rem;">
+      <!-- 1. The Core Vision -->
+      <section class="card" style="border-left: 4px solid var(--accent-teal); padding: 1.75rem 2rem;">
+        <h2 style="font-size: 1.4rem; font-weight: 800; margin-bottom: 0.75rem; color: var(--text-main);">
+          1. The Vision: Quran as a Connected Knowledge Network
+        </h2>
+        <p style="font-size: 1rem; color: var(--text-main); line-height: 1.7; margin-bottom: 1rem;">
+          Traditional Quran reading is sequential, but the Holy Quran is deeply interconnected: themes introduced in early Meccan surahs find legal and social elaboration in Medinan revelations; root words recur across different contexts with rich shades of meaning; and prophetic stories unfold across multiple chapters to highlight diverse moral lessons.
+        </p>
+        <p style="font-size: 1rem; color: var(--text-main); line-height: 1.7; margin: 0;">
+          QuranGraph unlocks these connections using modern graph theory and linguistic morphology, allowing anyone to explore the Quran conceptually, explore root families, follow chronological story episodes, and discover how every verse relates to the broader Islamic ontology.
+        </p>
+      </section>
+
+      <!-- 2. Non-Negotiable Scholarly Integrity -->
+      <section class="card" style="border-left: 4px solid var(--accent-gold); padding: 1.75rem 2rem;">
+        <h2 style="font-size: 1.4rem; font-weight: 800; margin-bottom: 0.75rem; color: var(--text-main);">
+          2. Non-Negotiable Scholarly Standards
+        </h2>
+        <ul style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 1rem; font-size: 0.95rem; line-height: 1.65;">
+          <li>
+            <strong>Verbatim Quranic Arabic:</strong> Displayed sacred Arabic text is drawn directly from Tanzil (Uthmani text v1.1) with zero alterations, additions, or AI-generated text.
+          </li>
+          <li>
+            <strong>Verbatim Authoritative Translations:</strong> Primary translations are Saheeh International (English) and Dr. Abu Bakr Muhammad Zakaria (Bangla), along with Al-Mukhtasar and Al-Muyassar tafsirs, drawn verbatim from QuranEnc at pinned SHA-256 releases.
+          </li>
+          <li>
+            <strong>Classical Tafsir Grounding:</strong> Every ayah explanation is pre-computed and grounded exclusively in verified mainstream Sunni commentaries (Ibn Kathir, Ma'ariful Quran, Jalalayn, Sa'di, and Ahsanul Bayan). Grounding sources are never shipped directly to protect licensing integrity.
+          </li>
+          <li>
+            <strong>Zero Legal Rulings (No Fatwas):</strong> QuranGraph is an educational study companion, not a legal body. It teaches meanings and linguistic context without deriving legal edicts (fiqh). Disputed interpretations are acknowledged neutrally with scholarly attribution.
+          </li>
+        </ul>
+      </section>
+
+      <!-- 3. Zero AI at Runtime ($0/Month Static Architecture) -->
+      <section class="card" style="border-left: 4px solid var(--accent-blue); padding: 1.75rem 2rem;">
+        <h2 style="font-size: 1.4rem; font-weight: 800; margin-bottom: 0.75rem; color: var(--text-main);">
+          3. Fast, Privacy-First Static Architecture
+        </h2>
+        <p style="font-size: 1rem; color: var(--text-main); line-height: 1.7; margin-bottom: 1rem;">
+          QuranGraph runs 100% statically on Cloudflare Workers Static Assets with <strong>zero AI execution at runtime</strong> and zero third-party tracking. All linguistic normalization, knowledge graph edges, and search indexing are pre-computed offline.
+        </p>
+        <div class="responsive-grid-auto" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 160px), 1fr)); gap: 1rem; margin-top: 1rem; text-align: center;">
+          <div style="background: var(--bg-subtle); padding: 1rem; border-radius: var(--radius-sm);">
+            <div style="font-size: 1.5rem; font-weight: 800; color: var(--accent-teal);">{baseline.surahs}</div>
+            <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">Surahs</div>
+          </div>
+          <div style="background: var(--bg-subtle); padding: 1rem; border-radius: var(--radius-sm);">
+            <div style="font-size: 1.5rem; font-weight: 800; color: var(--accent-teal);">{baseline.ayat.toLocaleString()}</div>
+            <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">Ayat Explained</div>
+          </div>
+          <div style="background: var(--bg-subtle); padding: 1rem; border-radius: var(--radius-sm);">
+            <div style="font-size: 1.5rem; font-weight: 800; color: var(--accent-teal);">{baseline.distinct_roots.toLocaleString()}</div>
+            <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">Arabic Roots</div>
+          </div>
+          <div style="background: var(--bg-subtle); padding: 1rem; border-radius: var(--radius-sm);">
+            <div style="font-size: 1.5rem; font-weight: 800; color: var(--accent-teal);">100%</div>
+            <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">Static & Free</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 4. Useful Navigation Links -->
+      <section style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+        <a href="/sources" class="btn-action btn-action-primary" style="padding: 0.75rem 1.5rem; text-decoration: none;">
+          📜 View Sources & Licences →
+        </a>
+        <a href="/stats" class="btn-action" style="padding: 0.75rem 1.5rem; text-decoration: none;">
+          📊 Corpus Statistics Lab →
+        </a>
+        <a href="https://github.com/IliasSami/QuranGraph" target="_blank" rel="noopener" class="btn-action" style="padding: 0.75rem 1.5rem; text-decoration: none;">
+          ★ GitHub Repository
+        </a>
+      </section>
+    </div>
+  </div>
+</Layout>

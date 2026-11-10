@@ -59,48 +59,48 @@ const graphJson = JSON.stringify({ nodes, edges, ref });
 
   <!-- Filter Category Chips -->
   <div style="display: flex; gap: 0.4rem; font-size: 0.78rem; flex-wrap: wrap; margin-bottom: 1rem;" id={`filter-bar-${ref.replace(':', '-')}`}>
-    <button class="ayah-graph-filter active" data-type="all" style="background: var(--accent-teal); color: white; border: 1px solid var(--accent-teal); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 600;">
+    <button class="ayah-graph-filter active" data-type="all" style="background: var(--btn-primary-bg); color: var(--btn-primary-text); border: 1px solid var(--btn-primary-bg); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 600;">
       All ({counts.all})
     </button>
     {counts.name_of_allah > 0 && (
       <button class="ayah-graph-filter" data-type="name_of_allah" style="background: var(--bg-subtle); color: var(--text-main); border: 1px solid var(--border-color); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
-        <span style="width: 8px; height: 8px; border-radius: 50%; background: #d97706;"></span>
+        <span style="width: 8px; height: 8px; border-radius: 50%; background: var(--accent-gold);"></span>
         Divine Names ({counts.name_of_allah})
       </button>
     )}
     {counts.person > 0 && (
       <button class="ayah-graph-filter" data-type="person" style="background: var(--bg-subtle); color: var(--text-main); border: 1px solid var(--border-color); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
-        <span style="width: 8px; height: 8px; border-radius: 50%; background: #059669;"></span>
+        <span style="width: 8px; height: 8px; border-radius: 50%; background: var(--accent-green);"></span>
         Prophets ({counts.person})
       </button>
     )}
     {counts.episode > 0 && (
       <button class="ayah-graph-filter" data-type="episode,story" style="background: var(--bg-subtle); color: var(--text-main); border: 1px solid var(--border-color); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
-        <span style="width: 8px; height: 8px; border-radius: 50%; background: #ea580c;"></span>
+        <span style="width: 8px; height: 8px; border-radius: 50%; background: var(--accent-orange);"></span>
         Story Episodes ({counts.episode})
       </button>
     )}
     {counts.place > 0 && (
       <button class="ayah-graph-filter" data-type="place" style="background: var(--bg-subtle); color: var(--text-main); border: 1px solid var(--border-color); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
-        <span style="width: 8px; height: 8px; border-radius: 50%; background: #2563eb;"></span>
+        <span style="width: 8px; height: 8px; border-radius: 50%; background: var(--accent-blue);"></span>
         Places ({counts.place})
       </button>
     )}
     {counts.root > 0 && (
       <button class="ayah-graph-filter" data-type="root" style="background: var(--bg-subtle); color: var(--text-main); border: 1px solid var(--border-color); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
-        <span style="width: 8px; height: 8px; border-radius: 50%; background: #0891b2;"></span>
+        <span style="width: 8px; height: 8px; border-radius: 50%; background: var(--accent-teal);"></span>
         Key Roots ({counts.root})
       </button>
     )}
     {counts.theme > 0 && (
       <button class="ayah-graph-filter" data-type="theme" style="background: var(--bg-subtle); color: var(--text-main); border: 1px solid var(--border-color); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
-        <span style="width: 8px; height: 8px; border-radius: 50%; background: #a855f7;"></span>
+        <span style="width: 8px; height: 8px; border-radius: 50%; background: var(--accent-purple);"></span>
         Themes ({counts.theme})
       </button>
     )}
     {counts.similar_ayah > 0 && (
       <button class="ayah-graph-filter" data-type="similar_ayah" style="background: var(--bg-subtle); color: var(--text-main); border: 1px solid var(--border-color); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
-        <span style="width: 8px; height: 8px; border-radius: 50%; background: #64748b;"></span>
+        <span style="width: 8px; height: 8px; border-radius: 50%; background: var(--text-muted);"></span>
         Similar Verses ({counts.similar_ayah})
       </button>
     )}
@@ -177,7 +177,7 @@ const graphJson = JSON.stringify({ nodes, edges, ref });
                 )}
               </div>
               {isActive ? (
-                <span class="badge" style="background: var(--accent-gold); color: white; font-size: 0.7rem; font-weight: 700; padding: 0.2rem 0.5rem; flex-shrink: 0;">
+                <span class="badge" style="background: var(--btn-gold-bg); color: var(--btn-gold-text); font-size: 0.7rem; font-weight: 700; padding: 0.2rem 0.5rem; flex-shrink: 0;">
                   📍 You Are Here
                 </span>
               ) : (
@@ -225,7 +225,7 @@ const graphJson = JSON.stringify({ nodes, edges, ref });
                 <div style="color: var(--text-main); font-size: 0.88rem;">{n.label}</div>
                 {n.label_bn && <div class="bangla-text" lang="bn" style="font-size: 0.78rem; color: var(--text-muted); font-weight: 400; margin-top: 0.15rem;">{n.label_bn}</div>}
               </td>
-              <td style="padding: 0.5rem 0.4rem; line-height: 1.6;" class="arabic-text" dir="rtl">
+              <td style="padding: 0.5rem 0.4rem; line-height: 1.6;" class="arabic-text" lang="ar" dir="rtl">
                 {n.label_ar ? (
                   <span style="font-size: 1.05rem; color: var(--text-main);">{n.label_ar}</span>
                 ) : (
@@ -478,7 +478,7 @@ const graphJson = JSON.stringify({ nodes, edges, ref });
           <div style="font-weight:700;font-size:0.95rem;color:var(--text-main);margin-bottom:2px;">
             ${hoveredNode.label}
           </div>
-          ${hoveredNode.label_ar ? `<div class="arabic-text" dir="rtl" style="--arabic-font-size:1.05rem;font-size:1.05rem;color:var(--accent-teal);line-height:1.6;margin-bottom:4px;">${hoveredNode.label_ar}</div>` : ''}
+          ${hoveredNode.label_ar ? `<div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size:1.05rem;font-size:1.05rem;color:var(--accent-teal);line-height:1.6;margin-bottom:4px;">${hoveredNode.label_ar}</div>` : ''}
           <div style="font-size:0.75rem;color:var(--text-muted);display:flex;align-items:center;gap:4px;">
             <span>Tap to open page</span> →
           </div>
@@ -649,7 +649,8 @@ const graphJson = JSON.stringify({ nodes, edges, ref });
           const midX = (u.x + v.x) / 2;
           const midY = (u.y + v.y) / 2;
           ctx.font = "10px Inter, system-ui, sans-serif";
-          ctx.fillStyle = "var(--text-muted)";
+          const textMutedColor = getComputedStyle(document.documentElement).getPropertyValue("--text-muted").trim() || "#57595e";
+          ctx.fillStyle = textMutedColor;
           ctx.textAlign = "center";
           ctx.fillText(e.label, midX, midY - 4);
         }
@@ -691,7 +692,8 @@ const graphJson = JSON.stringify({ nodes, edges, ref });
           : isHovered
           ? "bold 11px Inter, system-ui, sans-serif"
           : "10px Inter, system-ui, sans-serif";
-        ctx.fillStyle = "var(--text-main)";
+        const textMainColor = getComputedStyle(document.documentElement).getPropertyValue("--text-main").trim() || "#18191b";
+        ctx.fillStyle = textMainColor;
         ctx.textAlign = "center";
 
         // Truncate label for neat display

@@ -213,7 +213,7 @@ export function search(rawQuery: string, limit = 10): SearchResult[] {
 
     if (qScript === "arabic") {
       for (const al of ik.arabicAliases) {
-        if (qArabic === al || qArabic.includes(al) || al.includes(qArabic)) {
+        if (qArabic === al || (al.length >= 2 && qArabic.includes(al)) || (qArabic.length >= 3 && al.includes(qArabic))) {
           matched = true;
           rankScore = 800;
           break;
@@ -221,7 +221,7 @@ export function search(rawQuery: string, limit = 10): SearchResult[] {
       }
     } else if (qScript === "bangla") {
       for (const al of ik.banglaAliases) {
-        if (qBangla === al || qBanglaStem === al || qBangla.includes(al) || al.includes(qBangla)) {
+        if (qBangla === al || qBanglaStem === al || (al.length >= 2 && qBangla.includes(al)) || (qBangla.length >= 3 && al.includes(qBangla))) {
           matched = true;
           rankScore = 800;
           break;

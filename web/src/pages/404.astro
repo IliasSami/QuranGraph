@@ -2,7 +2,10 @@
 import Layout from "../layouts/Layout.astro";
 ---
 
-<Layout title="Page Not Found (404) — QuranGraph">
+<Layout
+  title="Page Not Found (404) — QuranGraph"
+  description="The requested Quranic verse, chapter, or semantic topic was not found. Use search to explore 6,236 verses across English, Bangla, and Arabic."
+>
   <div style="padding: 5rem 0 6rem; text-align: center;">
     <div class="container" style="max-width: 640px;">
       <div style="font-size: 3.5rem; margin-bottom: 1rem; color: var(--accent-teal);" aria-hidden="true">
@@ -31,7 +34,7 @@ import Layout from "../layouts/Layout.astro";
         <button
           type="submit"
           class="btn-icon"
-          style="background: var(--accent-teal); color: white; border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 700; cursor: pointer;"
+          style="background: var(--btn-primary-bg); color: var(--btn-primary-text); border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 700; cursor: pointer; min-height: 44px;"
         >
           Search
         </button>

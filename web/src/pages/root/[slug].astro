@@ -45,9 +45,52 @@ const matchingAyat = (rootData.ayat || []).map((ref: string) => {
     bn: item ? item.bn : ""
   };
 });
+
+const encodedRoot = encodeURIComponent(rootData.root);
+const rootDescription = `Quranic occurrences and vocabulary derived from the Arabic triliteral root ${rootData.root} (${gloss.label_en}).`;
+const rootSchema = [
+  {
+    "@type": "WebPage",
+    "@id": `https://qurangraph.iliassami57.workers.dev/root/${encodedRoot}#webpage`,
+    "url": `https://qurangraph.iliassami57.workers.dev/root/${encodedRoot}`,
+    "name": `Root ${gloss.label_en} (${rootData.root}) — Quranic Occurrences & Derived Words`,
+    "description": rootDescription,
+    "isPartOf": {
+      "@id": "https://qurangraph.iliassami57.workers.dev/#website"
+    },
+    "breadcrumb": {
+      "@id": `https://qurangraph.iliassami57.workers.dev/root/${encodedRoot}#breadcrumb`
+    },
+    "inLanguage": ["en", "bn", "ar"]
+  },
+  {
+    "@type": "BreadcrumbList",
+    "@id": `https://qurangraph.iliassami57.workers.dev/root/${encodedRoot}#breadcrumb`,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://qurangraph.iliassami57.workers.dev"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Knowledge Graph",
+        "item": "https://qurangraph.iliassami57.workers.dev/graph"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": `Root ${gloss.label_en} (${rootData.root})`,
+        "item": `https://qurangraph.iliassami57.workers.dev/root/${encodedRoot}`
+      }
+    ]
+  }
+];
 ---
 
-<Layout title={`Root ${gloss.label_en} (${rootData.root}) — Quranic Occurrences & Derived Words`}>
+<Layout title={`Root ${gloss.label_en} (${rootData.root}) — Quranic Occurrences & Derived Words`} description={rootDescription} schema={rootSchema}>
   <div style="padding: 3rem 0;">
     <div class="container" style="max-width: 860px;">
       <!-- Breadcrumb -->

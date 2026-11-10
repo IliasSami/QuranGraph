@@ -5,16 +5,33 @@ import corpusData from "../../lib/search/corpus.json" with { type: "json" };
 import surahsData from "../../lib/search/surahs.json" with { type: "json" };
 
 export function getStaticPaths() {
-  const entries = Object.entries(entitiesData as Record<string, any>);
-  return entries.map(([id, data]) => ({
-    params: {
-      slug: id
-        .replace(/[:\/]+/g, "-")
-        .replace(/[^a-zA-Z0-9_\-\u0980-\u09FF\u0600-\u06FF]+/g, "-")
-        .replace(/-+/g, "-")
-        .replace(/^-|-$/g, "")
-    },
-    props: { entity: data }
+  const bySlug = new Map<string, any>();
+  for (const [id, data] of Object.entries(entitiesData as Record<string, any>)) {
+    const slug = id
+      .replace(/[:\/]+/g, "-")
+      .replace(/[^a-zA-Z0-9_\-\u0980-\u09FF\u0600-\u06FF]+/g, "-")
+      .replace(/-+/g, "-")
+      .replace(/^-|-$/g, "");
+
+    if (!bySlug.has(slug)) {
+      bySlug.set(slug, { ...data, slug, id });
+    } else {
+      // Merge overlapping entities
+      const existing = bySlug.get(slug);
+      const mergedAyat = Array.from(new Set([...(existing.ayat || []), ...(data.ayat || [])]));
+      existing.ayat = mergedAyat;
+      existing.connected_ayat_count = mergedAyat.length;
+      if (!existing.label_ar && data.label_ar) existing.label_ar = data.label_ar;
+      if (!existing.label_bn && data.label_bn) existing.label_bn = data.label_bn;
+      if (data.properties) {
+        existing.properties = { ...existing.properties, ...data.properties };
+      }
+    }
+  }
+
+  return Array.from(bySlug.entries()).map(([slug, entity]) => ({
+    params: { slug },
+    props: { entity }
   }));
 }
 
@@ -57,9 +74,52 @@ const typeLabels: Record<string, string> = {
   unseen: "Unseen Realm (Ghayb)",
   glossary: "Quranic & Theological Term"
 };
+
+const slug = (Astro.params.slug || "").trim();
+const entityDescription = `Explore Quranic mentions, translations, and semantic knowledge graph connections for ${entity.label_en}.`;
+const entitySchema = [
+  {
+    "@type": "WebPage",
+    "@id": `https://qurangraph.iliassami57.workers.dev/entity/${slug}#webpage`,
+    "url": `https://qurangraph.iliassami57.workers.dev/entity/${slug}`,
+    "name": `${entity.label_en} — Quran Knowledge Graph Entity`,
+    "description": entityDescription,
+    "isPartOf": {
+      "@id": "https://qurangraph.iliassami57.workers.dev/#website"
+    },
+    "breadcrumb": {
+      "@id": `https://qurangraph.iliassami57.workers.dev/entity/${slug}#breadcrumb`
+    },
+    "inLanguage": ["en", "bn", "ar"]
+  },
+  {
+    "@type": "BreadcrumbList",
+    "@id": `https://qurangraph.iliassami57.workers.dev/entity/${slug}#breadcrumb`,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://qurangraph.iliassami57.workers.dev"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Knowledge Graph",
+        "item": "https://qurangraph.iliassami57.workers.dev/graph"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": entity.label_en,
+        "item": `https://qurangraph.iliassami57.workers.dev/entity/${slug}`
+      }
+    ]
+  }
+];
 ---
 
-<Layout title={`${entity.label_en} — Quran Knowledge Graph Entity`}>
+<Layout title={`${entity.label_en} — Quran Knowledge Graph Entity`} description={entityDescription} schema={entitySchema}>
   <div style="padding: 3rem 0;">
     <div class="container" style="max-width: 860px;">
       <!-- Breadcrumb -->

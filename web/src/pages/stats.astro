@@ -1,0 +1,123 @@
+---
+import Layout from "../layouts/Layout.astro";
+import numbersData from "../data/numbers_lab.json" with { type: "json" };
+import surahsData from "../lib/search/surahs.json" with { type: "json" };
+
+const { baseline, vocabulary_coverage } = numbersData;
+const meccanSurahs = surahsData.filter((s) => s.type === "Meccan");
+const medinanSurahs = surahsData.filter((s) => s.type === "Medinan");
+
+const meccanAyat = meccanSurahs.reduce((acc, s) => acc + s.ayat, 0);
+const medinanAyat = medinanSurahs.reduce((acc, s) => acc + s.ayat, 0);
+---
+
+<Layout
+  title="Quran Statistics & Empirical Analytics — Complete Corpus Metrics | QuranGraph"
+  description="Verifiable empirical statistics of the Holy Quran: 114 surahs, 6,236 ayat, 77,429 words, 1,651 roots, Meccan vs Medinan distributions, and vocabulary coverage benchmarks."
+>
+  <!-- Hero Section -->
+  <section style="padding: 4rem 0 2.5rem; background: var(--bg-surface); border-bottom: 1px solid var(--border-color); text-align: center;">
+    <div class="container" style="max-width: 900px;">
+      <div class="badge badge-gold" style="margin-bottom: 0.75rem;">Corpus Analytics · Empirical Linguistics</div>
+      <h1 style="font-size: 2.5rem; font-weight: 800; margin-bottom: 0.75rem; letter-spacing: -0.02em;">
+        Quranic Statistics Overview
+      </h1>
+      <p style="font-size: 1.15rem; color: var(--text-muted); line-height: 1.6; max-width: 720px; margin: 0 auto;">
+        Reproducible data and structural metrics across all 114 surahs, 6,236 verses, and 77,429 morphological word tokens of the Holy Quran.
+      </p>
+    </div>
+  </section>
+
+  <div style="padding: 3rem 0;">
+    <div class="container" style="max-width: 900px; display: flex; flex-direction: column; gap: 2.5rem;">
+      <!-- 1. Global Baseline Metrics -->
+      <section>
+        <h2 style="font-size: 1.4rem; font-weight: 800; margin-bottom: 1.25rem; color: var(--text-main);">
+          1. Global Corpus Baselines
+        </h2>
+        <div class="responsive-grid-auto" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr)); gap: 1.25rem;">
+          <div class="card" style="border-top: 3px solid var(--accent-teal); text-align: center; padding: 1.5rem;">
+            <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600; margin-bottom: 0.25rem;">Total Chapters (Surahs)</div>
+            <div style="font-size: 2.25rem; font-weight: 800; color: var(--accent-teal);">{baseline.surahs}</div>
+            <div style="font-size: 0.8rem; color: var(--text-muted);">86 Meccan, 28 Medinan</div>
+          </div>
+
+          <div class="card" style="border-top: 3px solid var(--accent-gold); text-align: center; padding: 1.5rem;">
+            <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600; margin-bottom: 0.25rem;">Total Verses (Ayat)</div>
+            <div style="font-size: 2.25rem; font-weight: 800; color: var(--accent-gold);">{baseline.ayat.toLocaleString()}</div>
+            <div style="font-size: 0.8rem; color: var(--text-muted);">Standard Kufan numbering</div>
+          </div>
+
+          <div class="card" style="border-top: 3px solid var(--accent-blue); text-align: center; padding: 1.5rem;">
+            <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600; margin-bottom: 0.25rem;">Morphological Words</div>
+            <div style="font-size: 2.25rem; font-weight: 800; color: var(--accent-blue);">{baseline.words_morphology.toLocaleString()}</div>
+            <div style="font-size: 0.8rem; color: var(--text-muted);">Quranic Arabic Corpus (QAC)</div>
+          </div>
+
+          <div class="card" style="border-top: 3px solid var(--accent-purple); text-align: center; padding: 1.5rem;">
+            <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600; margin-bottom: 0.25rem;">Triliteral Roots</div>
+            <div style="font-size: 2.25rem; font-weight: 800; color: var(--accent-purple);">{baseline.distinct_roots.toLocaleString()}</div>
+            <div style="font-size: 0.8rem; color: var(--text-muted);">4,763 unique derived lemmas</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 2. Revelation Breakdown (Meccan vs Medinan) -->
+      <section class="card" style="padding: 1.75rem 2rem;">
+        <h2 style="font-size: 1.4rem; font-weight: 800; margin-bottom: 1rem; color: var(--text-main);">
+          2. Meccan vs Medinan Revelation Distribution
+        </h2>
+        <div class="responsive-grid-auto" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 1.5rem; margin-top: 1rem;">
+          <div style="background: var(--bg-subtle); padding: 1.25rem; border-radius: var(--radius-sm); border-left: 4px solid var(--accent-teal);">
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: var(--text-main); margin-bottom: 0.5rem;">Meccan Revelations (مكية)</h3>
+            <div style="display: flex; flex-direction: column; gap: 0.4rem; font-size: 0.95rem; color: var(--text-muted);">
+              <div><strong>Surahs:</strong> {meccanSurahs.length} chapters (75.4%)</div>
+              <div><strong>Verses:</strong> {meccanAyat.toLocaleString()} ayat (74.0%)</div>
+              <div><strong>Focus:</strong> Monotheism (Tawhid), resurrection, moral fundamentals, and comforting the early believers.</div>
+            </div>
+          </div>
+
+          <div style="background: var(--bg-subtle); padding: 1.25rem; border-radius: var(--radius-sm); border-left: 4px solid var(--accent-gold);">
+            <h3 style="font-size: 1.15rem; font-weight: 700; color: var(--text-main); margin-bottom: 0.5rem;">Medinan Revelations (مدنية)</h3>
+            <div style="display: flex; flex-direction: column; gap: 0.4rem; font-size: 0.95rem; color: var(--text-muted);">
+              <div><strong>Surahs:</strong> {medinanSurahs.length} chapters (24.6%)</div>
+              <div><strong>Verses:</strong> {medinanAyat.toLocaleString()} ayat (26.0%)</div>
+              <div><strong>Focus:</strong> Community legislation, societal ethics, family law, contracts, and civic governance.</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 3. Vocabulary Coverage Hierarchy -->
+      <section class="card" style="padding: 1.75rem 2rem;">
+        <h2 style="font-size: 1.4rem; font-weight: 800; margin-bottom: 0.75rem; color: var(--text-main);">
+          3. Vocabulary Pareto Distribution (Empirical Frequency)
+        </h2>
+        <p style="font-size: 0.95rem; color: var(--text-muted); line-height: 1.6; margin-bottom: 1.5rem;">
+          The Quran exhibits high linguistic concentration: learning a small set of the most frequent lemmas unlocks understanding of a vast portion of the sacred text.
+        </p>
+
+        <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+          {(vocabulary_coverage?.curve || []).map((tier: any) => (
+            <div style="display: flex; justify-content: space-between; align-items: center; background: var(--bg-subtle); padding: 0.75rem 1.25rem; border-radius: var(--radius-sm); flex-wrap: wrap; gap: 0.5rem;">
+              <span style="font-weight: 700; color: var(--text-main); font-size: 0.95rem;">{tier.target_coverage_pct}% of the Quran text</span>
+              <span class="badge badge-teal" style="font-size: 0.85rem; font-weight: 700;">
+                {tier.lemmas_needed} unique words (lemmas)
+              </span>
+            </div>
+          ))}
+        </div>
+      </section>
+
+      <!-- 4. Direct CTA to Numbers Lab -->
+      <section style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+        <a href="/numbers" class="btn-action btn-action-primary" style="padding: 0.75rem 1.5rem; text-decoration: none;">
+          🔬 Open Interactive Numbers Lab →
+        </a>
+        <a href="/learn" class="btn-action" style="padding: 0.75rem 1.5rem; text-decoration: none;">
+          🎓 Practice with 58 Flashcards →
+        </a>
+      </section>
+    </div>
+  </div>
+</Layout>

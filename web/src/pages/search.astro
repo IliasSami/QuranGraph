@@ -2,7 +2,7 @@
 import Layout from "../layouts/Layout.astro";
 ---
 
-<Layout title="Search QuranGraph — Semantic, Multilingual & Concept Engine">
+<Layout title="Search the Quran — Multilingual, Semantic & Transliteration Engine | QuranGraph" description="Search the Holy Quran across 6,236 verses by English translation, sacred Arabic, Bangla, Latin transliteration, verse references (e.g. 2:255), and moral concepts.">
   <div style="padding: 2.5rem 0 4rem;">
     <div class="container" style="max-width: 900px;">
       <!-- Search Header -->
@@ -19,7 +19,7 @@ import Layout from "../layouts/Layout.astro";
           Search the Holy Quran
         </h1>
         <p style="color: var(--text-muted); font-size: 1.05rem; line-height: 1.6;">
-          Search by English meaning, sacred Arabic (simple or vocalised), Bangla translation, English transliteration (e.g. <em>"iyyaka na'budu"</em>), direct reference (<em>"2:255"</em>, <em>"surah mulk"</em>, <em>"বাকারা ২৫৫"</em>), or moral themes.
+          Search by English meaning, sacred Arabic (simple or vocalised), Bangla translation, English transliteration (e.g. <em>"iyyaka na'budu"</em>), direct reference (<em>"2:255"</em>, <em>"surah mulk"</em>, <em><span class="bangla-text" lang="bn">"বাকারা ২৫৫"</span></em>), or moral themes.
         </p>
       </header>
 
@@ -52,7 +52,7 @@ import Layout from "../layouts/Layout.astro";
             <button
               id="search-btn"
               class="btn-icon"
-              style="background: var(--accent-teal); color: white; border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 700; cursor: pointer; min-height: 44px; display: flex; align-items: center; gap: 0.4rem;"
+              style="background: var(--btn-primary-bg); color: var(--btn-primary-text); border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 700; cursor: pointer; min-height: 44px; display: flex; align-items: center; gap: 0.4rem;"
             >
               <span>Search</span>
             </button>
@@ -196,18 +196,18 @@ import Layout from "../layouts/Layout.astro";
       transition: all 0.15s ease;
     }
     .action-btn-sm:hover {
-      background: var(--accent-teal);
-      color: white;
-      border-color: var(--accent-teal);
+      background: var(--btn-primary-bg);
+      color: var(--btn-primary-text);
+      border-color: var(--btn-primary-bg);
     }
     .action-btn-primary {
-      background: var(--accent-teal);
-      color: white;
-      border-color: var(--accent-teal);
+      background: var(--btn-primary-bg);
+      color: var(--btn-primary-text);
+      border-color: var(--btn-primary-bg);
     }
     .action-btn-primary:hover {
-      opacity: 0.92;
-      color: white;
+      background: var(--btn-primary-hover);
+      color: var(--btn-primary-text);
     }
   </style>
 
@@ -471,9 +471,9 @@ import Layout from "../layouts/Layout.astro";
                   <button
                     class="btn-action btn-action-sm copy-btn"
                     data-ref="${r.ref}"
-                    data-ar="${encodeURIComponent(r.ar_u || r.ar)}"
-                    data-en="${encodeURIComponent(r.en)}"
-                    data-bn="${encodeURIComponent(r.bn)}"
+                    data-ar="${encodeURIComponent(r.ar_u || r.ar || '')}"
+                    data-en="${encodeURIComponent(r.en || '')}"
+                    data-bn="${encodeURIComponent(r.bn || '')}"
                     aria-label="Copy verse text"
                   >
                     <svg class="icon-svg" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
@@ -500,7 +500,7 @@ import Layout from "../layouts/Layout.astro";
 
     const PLAY_ICON_HTML = '<svg class="icon-svg" viewBox="0 0 24 24"><polygon points="5 3 19 12 5 21 5 3" fill="currentColor"></polygon></svg>';
     const PAUSE_ICON_HTML = '<svg class="icon-svg" viewBox="0 0 24 24"><rect x="6" y="4" width="4" height="16" fill="currentColor"></rect><rect x="14" y="4" width="4" height="16" fill="currentColor"></rect></svg>';
-    const CHECK_ICON_HTML = '<svg class="icon-svg" viewBox="0 0 24 24" style="stroke: #10b981;"><polyline points="20 6 9 17 4 12"></polyline></svg>';
+    const CHECK_ICON_HTML = '<svg class="icon-svg" viewBox="0 0 24 24" style="stroke: var(--accent-green);"><polyline points="20 6 9 17 4 12"></polyline></svg>';
     const COPY_ICON_HTML = '<svg class="icon-svg" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>';
 
     function updateAllPlayButtons() {
@@ -662,6 +662,13 @@ import Layout from "../layouts/Layout.astro";
     function executeSearch(rawQ: string) {
       const q = rawQ.trim();
       if (!q || !container) return;
+
+      // Stop any existing playing audio preview cleanly
+      if (activePlayingRef) {
+        audioSessionId++;
+        audioPlayer.pause();
+        activePlayingRef = null;
+      }
 
       if (clearBtn) clearBtn.style.display = "block";
 

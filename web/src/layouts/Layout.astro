@@ -6,47 +6,56 @@ interface Props {
   title?: string;
   description?: string;
   ogImage?: string;
+  schema?: Record<string, any> | Array<Record<string, any>>;
 }
 
 const {
   title = "QuranGraph — The Connected Quran Knowledge System",
   description = "A connected, beginner-first Quran explorer joining concepts, stories, words, and statistics in English and Bangla.",
-  ogImage = "/og-image.png"
+  ogImage = "/og-image.png",
+  schema
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site || "https://qurangraph.iliassami57.workers.dev");
 const fullOgImageUrl = new URL(ogImage, Astro.site || "https://qurangraph.iliassami57.workers.dev").toString();
 
-// Schema.org JSON-LD structured data for rich search engine indexing & sitelinks
+// Base Schema.org JSON-LD structured data for rich search engine indexing & sitelinks
+const baseSchemas = [
+  {
+    "@type": "WebSite",
+    "@id": "https://qurangraph.iliassami57.workers.dev/#website",
+    "url": "https://qurangraph.iliassami57.workers.dev",
+    "name": "QuranGraph",
+    "description": "The Connected Quran Knowledge System & Multilingual Semantic Ontology",
+    "inLanguage": ["en", "bn", "ar"],
+    "publisher": {
+      "@id": "https://qurangraph.iliassami57.workers.dev/#organization"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://qurangraph.iliassami57.workers.dev/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  },
+  {
+    "@type": "EducationalOrganization",
+    "@id": "https://qurangraph.iliassami57.workers.dev/#organization",
+    "name": "QuranGraph Project",
+    "url": "https://qurangraph.iliassami57.workers.dev",
+    "logo": "https://qurangraph.iliassami57.workers.dev/og-image.png",
+    "sameAs": [
+      "https://github.com/IliasSami/QuranGraph"
+    ]
+  }
+];
+
+const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
+
 const schemaGraph = {
   "@context": "https://schema.org",
   "@graph": [
-    {
-      "@type": "WebSite",
-      "@id": "https://qurangraph.iliassami57.workers.dev/#website",
-      "url": "https://qurangraph.iliassami57.workers.dev",
-      "name": "QuranGraph",
-      "description": "The Connected Quran Knowledge System & Multilingual Semantic Ontology",
-      "inLanguage": ["en", "bn", "ar"],
-      "publisher": {
-        "@id": "https://qurangraph.iliassami57.workers.dev/#organization"
-      },
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://qurangraph.iliassami57.workers.dev/search?q={search_term_string}",
-        "query-input": "required name=search_term_string"
-      }
-    },
-    {
-      "@type": "EducationalOrganization",
-      "@id": "https://qurangraph.iliassami57.workers.dev/#organization",
-      "name": "QuranGraph Project",
-      "url": "https://qurangraph.iliassami57.workers.dev",
-      "logo": "https://qurangraph.iliassami57.workers.dev/og-image.png",
-      "sameAs": [
-        "https://github.com/IliasSami/QuranGraph"
-      ]
-    }
+    ...baseSchemas,
+    ...pageSchemas
   ]
 };
 
@@ -108,6 +117,9 @@ const compactSurahs = surahsData.map(s => ({
 
       const savedScale = localStorage.getItem("qg_arabic_scale") || "1";
       document.documentElement.style.setProperty("--arabic-scale", savedScale);
+
+      const savedTextScale = localStorage.getItem("qg_text_scale") || "1";
+      document.documentElement.style.setProperty("--text-scale", savedTextScale);
 
       if ("serviceWorker" in navigator) {
         window.addEventListener("load", () => {
@@ -288,9 +300,9 @@ const compactSurahs = surahsData.map(s => ({
               <div style="display: flex; justify-content: space-between; align-items: center;">
                 <span style="font-size: 0.9rem; color: var(--text-main); font-weight: 500;">Arabic Font Size</span>
                 <div style="display: flex; align-items: center; gap: 0.5rem;">
-                  <button id="sheet-font-dec" class="btn-top-pill font-btn" style="min-width: 36px;">A−</button>
+                  <button id="sheet-font-dec" class="btn-top-pill font-btn" style="min-width: 44px; min-height: 44px;">A−</button>
                   <span id="sheet-font-percent" style="font-size: 0.85rem; font-weight: 700; min-width: 48px; text-align: center;">100%</span>
-                  <button id="sheet-font-inc" class="btn-top-pill font-btn" style="min-width: 36px;">A+</button>
+                  <button id="sheet-font-inc" class="btn-top-pill font-btn" style="min-width: 44px; min-height: 44px;">A+</button>
                 </div>
               </div>
               <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -431,10 +443,13 @@ const compactSurahs = surahsData.map(s => ({
           cur = Math.min(Math.max(cur + delta, 0.75), 1.75);
           cur = Math.round(cur * 100) / 100;
           document.documentElement.style.setProperty("--arabic-scale", cur.toString());
+          const textScale = Math.round((1 + (cur - 1) * 0.45) * 100) / 100;
+          document.documentElement.style.setProperty("--text-scale", textScale.toString());
           localStorage.setItem("qg_arabic_scale", cur.toString());
+          localStorage.setItem("qg_text_scale", textScale.toString());
           updateFontDisplay(cur);
           if (typeof window.showQgToast === "function") {
-            window.showQgToast(`Arabic font: ${Math.round(cur * 100)}%`, 1400);
+            window.showQgToast(`Font scale: ${Math.round(cur * 100)}%`, 1400);
           }
         }
 
@@ -618,7 +633,7 @@ const compactSurahs = surahsData.map(s => ({
               </div>
               <div style="display: flex; align-items: center; gap: 0.6rem;">
                 <span class="badge" style="background: var(--bg-surface); border: 1px solid var(--border-color); font-size: 0.7rem;">${s.ay} vv</span>
-                <span class="arabic-text" dir="rtl" style="--arabic-font-size: 1.2rem; font-size: 1.2rem; line-height: 1.6; display: inline-flex; align-items: center;">${s.ar}</span>
+                <span class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.2rem; font-size: 1.2rem; line-height: 1.6; display: inline-flex; align-items: center;">${s.ar}</span>
               </div>
             </a>
           `).join("");

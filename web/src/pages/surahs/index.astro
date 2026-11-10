@@ -5,9 +5,44 @@ import surahsData from "../../lib/search/surahs.json" with { type: "json" };
 const surahs = surahsData;
 const meccanCount = surahs.filter((s) => s.type === "Meccan").length;
 const medinanCount = surahs.filter((s) => s.type === "Medinan").length;
+
+const surahsSchema = [
+  {
+    "@type": "WebPage",
+    "@id": "https://qurangraph.iliassami57.workers.dev/surahs#webpage",
+    "url": "https://qurangraph.iliassami57.workers.dev/surahs",
+    "name": "All 114 Surahs of the Holy Quran — Complete Directory & Revelation Order | QuranGraph",
+    "description": "Browse all 114 Surahs of the Holy Quran in traditional Kufan sequence or chronological revelation order. Filter by Meccan and Medinan chapters with verse counts, themes, and audio.",
+    "isPartOf": {
+      "@id": "https://qurangraph.iliassami57.workers.dev/#website"
+    },
+    "breadcrumb": {
+      "@id": "https://qurangraph.iliassami57.workers.dev/surahs#breadcrumb"
+    },
+    "inLanguage": ["en", "bn", "ar"]
+  },
+  {
+    "@type": "BreadcrumbList",
+    "@id": "https://qurangraph.iliassami57.workers.dev/surahs#breadcrumb",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://qurangraph.iliassami57.workers.dev"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Surahs",
+        "item": "https://qurangraph.iliassami57.workers.dev/surahs"
+      }
+    ]
+  }
+];
 ---
 
-<Layout title="All 114 Surahs — QuranGraph">
+<Layout title="All 114 Surahs of the Holy Quran — Complete Directory & Revelation Order | QuranGraph" description="Browse all 114 Surahs of the Holy Quran in traditional Kufan sequence or chronological revelation order. Filter by Meccan and Medinan chapters with verse counts, themes, and audio." schema={surahsSchema}>
   <div style="padding: 3rem 0;">
     <div class="container">
       <div style="margin-bottom: 2rem;">
@@ -109,9 +144,9 @@ const medinanCount = surahs.filter((s) => s.type === "Medinan").length;
     color: var(--text-main);
   }
   .filter-tab.active {
-    background: var(--accent-teal);
-    color: white;
-    border-color: var(--accent-teal);
+    background: var(--btn-primary-bg);
+    color: var(--btn-primary-text);
+    border-color: var(--btn-primary-bg);
   }
   .form-select {
     padding: 0.45rem 0.75rem;

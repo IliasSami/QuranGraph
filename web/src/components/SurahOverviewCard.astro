@@ -34,11 +34,11 @@ export interface Props {
 
 const { surah, overview } = Astro.props;
 const totalConnectedEntities = 
-  (overview.entities?.prophets?.length || 0) +
-  (overview.entities?.names_of_allah?.length || 0) +
-  (overview.entities?.places?.length || 0) +
-  (overview.entities?.nations?.length || 0) +
-  (overview.entities?.unseen?.length || 0);
+  (overview?.entities?.prophets?.length || 0) +
+  (overview?.entities?.names_of_allah?.length || 0) +
+  (overview?.entities?.places?.length || 0) +
+  (overview?.entities?.nations?.length || 0) +
+  (overview?.entities?.unseen?.length || 0);
 ---
 
 <section class="surah-overview-card card" style="margin-top: 2rem; margin-bottom: 2.5rem; padding: 1.75rem; border-top: 4px solid var(--accent-gold); background: linear-gradient(180deg, var(--bg-surface) 0%, var(--bg-subtle) 100%);">
@@ -49,7 +49,7 @@ const totalConnectedEntities =
         🌟 Comprehensive Surah Orientation
       </span>
       <span class="badge" style="font-size: 0.75rem; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-muted);">
-        {overview.sections.length} Thematic Sections
+        {overview?.sections?.length || 0} Thematic Sections
       </span>
       <span class="badge" style="font-size: 0.75rem; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-muted);">
         {totalConnectedEntities} Connected Entities
@@ -59,7 +59,7 @@ const totalConnectedEntities =
     <!-- Quick Section Links -->
     <div style="display: flex; gap: 0.4rem; flex-wrap: wrap;">
       <a href="#thematic-roadmap" class="btn-action btn-action-sm" style="font-size: 0.78rem;">
-        📜 Roadmap ({overview.sections.length} Rukus)
+        📜 Roadmap ({overview?.sections?.length || 0} Rukus)
       </a>
       <a href="#surah-knowledge-graph" class="btn-action btn-action-sm" style="font-size: 0.78rem;">
         🕸️ Knowledge Graph
@@ -87,7 +87,7 @@ const totalConnectedEntities =
   </div>
 
   <!-- 2-Column Grid: Historical Context & Primary Objectives -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.25rem;">
+  <div class="responsive-grid-auto" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 1.25rem;">
     <!-- Historical Context -->
     <div style="background: var(--bg-surface); padding: 1.25rem; border-radius: var(--radius-sm); border: 1px solid var(--border-color);">
       <div style="display: flex; align-items: center; gap: 0.4rem; margin-bottom: 0.6rem;">
@@ -113,10 +113,10 @@ const totalConnectedEntities =
         </h4>
       </div>
       <ul style="margin: 0; padding-left: 1.2rem; display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.9rem; color: var(--text-main);">
-        {overview.maqasid_en.map((obj, i) => (
+        {(overview?.maqasid_en || []).map((obj, i) => (
           <li>
             <div>{obj}</div>
-            {overview.maqasid_bn[i] && (
+            {overview?.maqasid_bn?.[i] && (
               <div class="bangla-text" lang="bn" style="font-size: 0.82rem; color: var(--text-muted); margin-top: 0.1rem;">
                 {overview.maqasid_bn[i]}
               </div>

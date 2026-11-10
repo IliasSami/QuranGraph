@@ -37,16 +37,16 @@ const quizPool = lemmasData.slice(0, 45); // top 45 core lemmas for rich quiz qu
       dir="rtl"
       style="--arabic-font-size: 3.2rem; font-size: 3.2rem; color: var(--accent-teal); line-height: 1.6; min-height: 5.2rem; text-align: center; margin-bottom: 0.25rem;"
     >
-      {quizPool[0].lemma}
+      {quizPool[0]?.lemma || ""}
     </div>
     <div
       id="quiz-q-translit"
       style="font-size: 1.1rem; font-style: italic; color: var(--accent-gold); font-family: var(--font-latin); margin-top: 0.5rem; margin-bottom: 0.6rem; letter-spacing: 0.02em; line-height: 1.4;"
     >
-      {quizPool[0].translit}
+      {quizPool[0]?.translit || ""}
     </div>
     <div id="quiz-q-meta" style="font-size: 0.8rem; color: var(--text-muted);">
-      {quizPool[0].pos_label} · {quizPool[0].count.toLocaleString()}x in Quran
+      {quizPool[0]?.pos_label || ""} · {quizPool[0]?.count?.toLocaleString() || 0}x in Quran
     </div>
   </div>
 
@@ -71,7 +71,7 @@ const quizPool = lemmasData.slice(0, 45); // top 45 core lemmas for rich quiz qu
   <!-- Next Question Button -->
   <div style="display: flex; justify-content: flex-end;">
     <button id="quiz-next-btn" class="btn-action btn-action-primary" style="display: none; padding: 0.6rem 1.5rem; font-size: 0.9rem;">
-      <span>Next Word (পরবর্তী শব্দ) →</span>
+      <span>Next Word (<span class="bangla-text" lang="bn">পরবর্তী শব্দ</span>) →</span>
     </button>
   </div>
 </div>
@@ -169,24 +169,24 @@ const quizPool = lemmasData.slice(0, 45); // top 45 core lemmas for rich quiz qu
       if (isCorrect) {
         score++;
         streak++;
-        clickedBtn.style.background = "#dcfce7";
-        clickedBtn.style.borderColor = "#16a34a";
-        clickedBtn.style.color = "#15803d";
-        feedbackTitle.innerHTML = `<span style="color: #16a34a; font-size: 1.1rem;">✓ Correct! (সঠিক উত্তর)</span>`;
+        clickedBtn.style.background = "var(--accent-green-subtle)";
+        clickedBtn.style.borderColor = "var(--accent-green)";
+        clickedBtn.style.color = "var(--accent-green)";
+        feedbackTitle.innerHTML = `<span style="color: var(--accent-green); font-size: 1.1rem; font-weight: 700;">✓ Correct! (<span class="bangla-text" lang="bn">সঠিক উত্তর</span>)</span>`;
       } else {
         streak = 0;
-        clickedBtn.style.background = "#fee2e2";
-        clickedBtn.style.borderColor = "#dc2626";
-        clickedBtn.style.color = "#991b1b";
-        feedbackTitle.innerHTML = `<span style="color: #dc2626; font-size: 1.1rem;">✗ Incorrect (সঠিক উত্তর নিচে দেওয়া হলো)</span>`;
+        clickedBtn.style.background = "var(--badge-danger-bg)";
+        clickedBtn.style.borderColor = "var(--badge-danger-text)";
+        clickedBtn.style.color = "var(--badge-danger-text)";
+        feedbackTitle.innerHTML = `<span style="color: var(--badge-danger-text); font-size: 1.1rem; font-weight: 700;">✗ Incorrect (<span class="bangla-text" lang="bn">সঠিক উত্তর নিচে দেওয়া হলো</span>)</span>`;
 
         // Highlight correct option button
         const allBtns = optionsGrid.querySelectorAll(".quiz-opt-btn");
         allBtns.forEach((b) => {
           if (b.textContent.includes(correct.meaning_en)) {
-            b.style.background = "#dcfce7";
-            b.style.borderColor = "#16a34a";
-            b.style.color = "#15803d";
+            b.style.background = "var(--accent-green-subtle)";
+            b.style.borderColor = "var(--accent-green)";
+            b.style.color = "var(--accent-green)";
           }
         });
       }

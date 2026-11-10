@@ -20,18 +20,41 @@
   --accent-teal: #0f766e;
   --accent-teal-hover: #115e59;
   --accent-gold: #b45309;
+  --accent-gold-hover: #92400e;
   --accent-gold-subtle: #fef3c7;
   --accent-teal-subtle: #ccfbf1;
   --danger: #b91c1c;
+
+  /* Semantic Extended Palette */
+  --accent-blue: #0284c7;
+  --accent-blue-hover: #0369a1;
+  --accent-blue-subtle: #e0f2fe;
+  --accent-purple: #7c3aed;
+  --accent-purple-hover: #6d28d9;
+  --accent-purple-subtle: rgba(124, 58, 237, 0.12);
+  --accent-green: #16a34a;
+  --accent-green-hover: #15803d;
+  --accent-green-subtle: #dcfce7;
+  --accent-orange: #ea580c;
+  --accent-orange-hover: #c2410c;
+  --accent-orange-subtle: #ffedd5;
 
   /* Button Tokens (WCAG 2.2 AA/AAA) */
   --btn-primary-bg: #0f766e;
   --btn-primary-text: #ffffff;
   --btn-primary-hover: #115e59;
+  --btn-gold-bg: #b45309;
+  --btn-gold-text: #ffffff;
+  --btn-gold-hover: #92400e;
   --badge-danger-bg: #fee2e2;
   --badge-danger-text: #b91c1c;
 
+  /* Layout Dock & Header Offsets */
+  --bottom-nav-height: 64px;
+  --audio-dock-height: 72px;
+
   --arabic-scale: 1;
+  --text-scale: 1;
 
   --radius-sm: 6px;
   --radius-md: 10px;
@@ -56,13 +79,32 @@
   --accent-teal: #14b8a6;
   --accent-teal-hover: #2dd4bf;
   --accent-gold: #f59e0b;
+  --accent-gold-hover: #fbbf24;
   --accent-gold-subtle: #3d2f10;
   --accent-teal-subtle: #0f3d38;
+  --danger: #f87171;
+
+  /* Semantic Extended Palette in Dark Mode (High Contrast AAA) */
+  --accent-blue: #38bdf8;
+  --accent-blue-hover: #7dd3fc;
+  --accent-blue-subtle: rgba(56, 189, 248, 0.18);
+  --accent-purple: #a78bfa;
+  --accent-purple-hover: #c4b5fd;
+  --accent-purple-subtle: rgba(167, 139, 250, 0.18);
+  --accent-green: #4ade80;
+  --accent-green-hover: #86efac;
+  --accent-green-subtle: rgba(74, 222, 128, 0.18);
+  --accent-orange: #fb923c;
+  --accent-orange-hover: #fdba74;
+  --accent-orange-subtle: rgba(251, 146, 60, 0.18);
 
   /* Button Tokens in Dark Mode (High Contrast 8.24:1 AAA) */
   --btn-primary-bg: #14b8a6;
   --btn-primary-text: #042f2e;
   --btn-primary-hover: #2dd4bf;
+  --btn-gold-bg: #f59e0b;
+  --btn-gold-text: #451a03;
+  --btn-gold-hover: #fbbf24;
   --badge-danger-bg: #450a0a;
   --badge-danger-text: #f87171;
 }
@@ -83,8 +125,34 @@
   --accent-teal: #854d0e;
   --accent-teal-hover: #713f12;
   --accent-gold: #a16207;
+  --accent-gold-hover: #854d0e;
   --accent-gold-subtle: #faecc7;
   --accent-teal-subtle: #edd8a6;
+  --danger: #b91c1c;
+
+  /* Semantic Extended Palette in Sepia Mode */
+  --accent-blue: #0369a1;
+  --accent-blue-hover: #075985;
+  --accent-blue-subtle: #dbeafe;
+  --accent-purple: #6d28d9;
+  --accent-purple-hover: #5b21b6;
+  --accent-purple-subtle: rgba(109, 40, 217, 0.14);
+  --accent-green: #15803d;
+  --accent-green-hover: #166534;
+  --accent-green-subtle: #dcfce7;
+  --accent-orange: #c2410c;
+  --accent-orange-hover: #9a3412;
+  --accent-orange-subtle: #fed7aa;
+
+  /* Button Tokens in Sepia Mode */
+  --btn-primary-bg: #854d0e;
+  --btn-primary-text: #ffffff;
+  --btn-primary-hover: #713f12;
+  --btn-gold-bg: #a16207;
+  --btn-gold-text: #ffffff;
+  --btn-gold-hover: #854d0e;
+  --badge-danger-bg: #fee2e2;
+  --badge-danger-text: #991b1b;
 }
 
 *, *::before, *::after {
@@ -214,21 +282,30 @@ a:hover {
 }
 
 .sticky-dock {
-  position: sticky;
-  bottom: calc(76px + env(safe-area-inset-bottom, 12px));
+  position: fixed;
+  bottom: calc(var(--bottom-nav-height, 64px) + 12px + env(safe-area-inset-bottom, 0px));
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 1.5rem);
+  max-width: 650px;
   z-index: 950;
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
-  background: rgba(var(--bg-surface-rgb), 0.95);
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18);
+  background: rgba(var(--bg-surface-rgb), 0.96);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.22);
   border: 2px solid var(--accent-teal);
   box-sizing: border-box;
-  max-width: 100%;
+}
+
+@media (min-width: 640px) {
+  .sticky-dock {
+    bottom: calc(var(--bottom-nav-height, 64px) + 20px + env(safe-area-inset-bottom, 0px));
+  }
 }
 
 @media (max-width: 640px) {
   .sticky-dock {
-    width: calc(100% - 1.25rem) !important;
+    width: calc(100% - 1rem) !important;
     margin-left: auto !important;
     margin-right: auto !important;
     padding: 0.5rem 0.75rem !important;
@@ -604,10 +681,10 @@ a:hover {
   height: 20px;
 }
 
-/* Toast Notification (dock-aware positioning) */
+/* Toast Notification (dock-aware positioning above both bottom nav and sticky dock) */
 .qg-toast {
   position: fixed;
-  bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px));
+  bottom: calc(var(--bottom-nav-height, 64px) + var(--audio-dock-height, 72px) + 16px + env(safe-area-inset-bottom, 0px));
   right: 1.5rem;
   background: var(--text-main);
   color: var(--bg-surface);
@@ -632,7 +709,7 @@ a:hover {
 }
 
 .qg-toast svg {
-  stroke: #10b981;
+  stroke: var(--accent-green);
   width: 18px;
   height: 18px;
 }
@@ -676,6 +753,31 @@ a:hover {
   color: var(--accent-gold);
 }
 
+.badge-blue {
+  background: var(--accent-blue-subtle);
+  color: var(--accent-blue);
+}
+
+.badge-purple {
+  background: var(--accent-purple-subtle);
+  color: var(--accent-purple);
+}
+
+.badge-green {
+  background: var(--accent-green-subtle);
+  color: var(--accent-green);
+}
+
+.badge-orange {
+  background: var(--accent-orange-subtle);
+  color: var(--accent-orange);
+}
+
+.badge-danger {
+  background: var(--badge-danger-bg);
+  color: var(--badge-danger-text);
+}
+
 /* App Layout Core (Replaces traditional website header/footer) */
 .app-main-content {
   flex: 1;
@@ -683,7 +785,28 @@ a:hover {
   max-width: 100%;
   box-sizing: border-box;
   overflow-x: hidden;
-  padding-bottom: calc(96px + env(safe-area-inset-bottom, 20px));
+  padding-bottom: calc(var(--bottom-nav-height, 64px) + 2.5rem + env(safe-area-inset-bottom, 20px));
+}
+
+/* Extra bottom spacing for pages with a floating audio dock */
+.has-sticky-audio-dock {
+  padding-bottom: calc(var(--bottom-nav-height, 64px) + var(--audio-dock-height, 72px) + 2.5rem + env(safe-area-inset-bottom, 20px)) !important;
+}
+
+/* Dynamic Font Scaler Helpers */
+.verse-translation-en,
+.scalable-text-en {
+  font-size: calc(1.05rem * var(--text-scale, 1));
+}
+
+.verse-translation-bn,
+.scalable-text-bn {
+  font-size: calc(1rem * var(--text-scale, 1));
+}
+
+.verse-transliteration,
+.scalable-translit {
+  font-size: calc(0.92rem * var(--text-scale, 1));
 }
 
 /* App Bottom Sticky Navigation Dock */
@@ -910,9 +1033,9 @@ a:hover {
 }
 
 .jump-chip:hover {
-  background: var(--accent-teal);
-  color: white;
-  border-color: var(--accent-teal);
+  background: var(--btn-primary-bg);
+  color: var(--btn-primary-text);
+  border-color: var(--btn-primary-bg);
 }
 
 .quick-jump-results-list {
@@ -1036,9 +1159,9 @@ a:hover {
 }
 
 .theme-chip:hover, .theme-chip.active {
-  background: var(--accent-teal);
-  color: white;
-  border-color: var(--accent-teal);
+  background: var(--btn-primary-bg);
+  color: var(--btn-primary-text);
+  border-color: var(--btn-primary-bg);
 }
 
 .sheet-surah-grid {
@@ -1173,14 +1296,17 @@ a:hover {
   }
 
   /* Sticky Bottom Audio Dock on mobile */
-  #surah-sticky-dock {
+  #surah-sticky-dock,
+  #sticky-audio-dock {
     width: calc(100% - 1rem) !important;
     margin: 0 auto !important;
     padding: 0.5rem 0.75rem !important;
   }
 
   #surah-sticky-dock #dock-status,
-  #surah-sticky-dock #dock-verse {
+  #surah-sticky-dock #dock-verse,
+  #sticky-audio-dock #dock-status,
+  #sticky-audio-dock #dock-verse {
     max-width: 130px;
     overflow: hidden;
     text-overflow: ellipsis;

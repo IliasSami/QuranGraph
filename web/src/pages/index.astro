@@ -10,7 +10,7 @@ const dailySurahs = surahsData.filter(s => dailySurahIds.includes(s.id));
 const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
 ---
 
-<Layout title="QuranGraph — Explore the Quran Conceptually & Linguistically">
+<Layout title="QuranGraph — The Connected Quran Knowledge System & Multilingual Explorer" description="Explore the Holy Quran with connected knowledge graphs, linguistic roots, chronological stories, Arabic Uthmani text, and verified translations in English and Bangla.">
   <!-- Hero Section -->
   <section style="padding: 4.5rem 0 3rem; background: linear-gradient(180deg, var(--bg-surface) 0%, var(--bg-primary) 100%); border-bottom: 1px solid var(--border-color); text-align: center;">
     <div class="container" style="max-width: 800px;">
@@ -36,7 +36,7 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
         />
         <button
           type="submit"
-          style="background: var(--accent-teal); color: white; border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 600; cursor: pointer; font-size: 0.95rem;"
+          style="background: var(--btn-primary-bg); color: var(--btn-primary-text); border: none; padding: 0.75rem 1.5rem; border-radius: var(--radius-sm); font-weight: 600; cursor: pointer; font-size: 0.95rem; min-height: 44px;"
         >
           Search
         </button>
@@ -47,9 +47,9 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
         <a href="/search?q=ayatul+kursi">ayatul kursi</a> ·
         <a href="/search?q=2:255">2:255</a> ·
         <a href="/search?q=surah+mulk">surah mulk</a> ·
-        <a href="/search?q=patience">patience (সবর)</a> ·
+        <a href="/search?q=patience">patience (<span class="bangla-text" lang="bn">সবর</span>)</a> ·
         <a href="/search?q=iyyaka+nabudu">iyyaka na'budu</a> ·
-        <a href="/search?q=বাকারা+২৫৫">বাকারা ২৫৫</a> ·
+        <a href="/search?q=বাকারা+২৫৫" class="bangla-text" lang="bn">বাকারা ২৫৫</a> ·
         <a href="/search?q=story+of+yusuf">story of yusuf</a>
       </div>
 
@@ -64,7 +64,7 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
               Surah ...
             </div>
           </div>
-          <a id="continue-reading-link" href="#" class="btn-icon" style="background: var(--accent-teal); color: white; border: none; font-weight: 600; padding: 0.4rem 0.85rem; font-size: 0.85rem;">
+          <a id="continue-reading-link" href="#" class="btn-icon" style="background: var(--btn-primary-bg); color: var(--btn-primary-text); border: none; font-weight: 600; padding: 0.4rem 0.85rem; font-size: 0.85rem;">
             Resume Reading →
           </a>
         </div>
@@ -75,7 +75,7 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
   <!-- Live Stats Strip -->
   <section style="padding: 2.5rem 0; background: var(--bg-surface); border-bottom: 1px solid var(--border-color);">
     <div class="container">
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1.5rem; text-align: center;">
+      <div class="responsive-grid-auto" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 140px), 1fr)); gap: 1.5rem; text-align: center;">
         <div>
           <div style="font-size: 2rem; font-weight: 700; color: var(--accent-teal);">{baseline.surahs}</div>
           <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 500;">Surahs in Order</div>
@@ -131,19 +131,19 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
           </a>
         </div>
 
-        <div class="card" style="border-top: 4px solid #8b5cf6;">
-          <div class="badge" style="background: rgba(139, 92, 246, 0.15); color: #8b5cf6; margin-bottom: 0.75rem;">Knowledge Graph</div>
+        <div class="card" style="border-top: 4px solid var(--accent-purple);">
+          <div class="badge badge-purple" style="margin-bottom: 0.75rem;">Knowledge Graph</div>
           <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem;">Entity & Concept Network</h3>
           <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.25rem;">
             Interconnect 884 entities, 99 Divine Names, sacred places, and thematic clusters via semantic PageRank.
           </p>
-          <a href="/graph" style="font-weight: 600; display: inline-flex; align-items: center; gap: 0.25rem; color: #8b5cf6;">
+          <a href="/graph" style="font-weight: 600; display: inline-flex; align-items: center; gap: 0.25rem; color: var(--accent-purple);">
             Explore Graph Explorer →
           </a>
         </div>
 
-        <div class="card" style="border-top: 4px solid #3b82f6;">
-          <div class="badge" style="background: #dbeafe; color: #1d4ed8; margin-bottom: 0.75rem;">Interactive Tool</div>
+        <div class="card" style="border-top: 4px solid var(--accent-blue);">
+          <div class="badge badge-blue" style="margin-bottom: 0.75rem;">Interactive Tool</div>
           <h3 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem;">The Numbers Lab</h3>
           <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.25rem;">
             Transparent, reproducible statistics: exact word counts, Zipf coverage curves, and honest audits of popular claims.
@@ -181,7 +181,7 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
       </div>
 
       <!-- Daily Recitation Grid -->
-      <div id="grid-daily" class="surah-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem;">
+      <div id="grid-daily" class="surah-grid responsive-grid-auto" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 1fr)); gap: 1rem;">
         {dailySurahs.map((s) => (
           <a href={`/surah/${s.id}`} class="card" style="display: flex; justify-content: space-between; align-items: center; text-decoration: none; padding: 1.1rem; color: inherit; transition: border-color 0.15s ease;">
             <div>
@@ -189,16 +189,16 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
                 <span style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); background: var(--accent-teal-subtle); padding: 0.1rem 0.4rem; border-radius: 4px;">{s.id}</span>
                 <span style="font-weight: 700; font-size: 1rem;">{s.name_translit}</span>
               </div>
-              <div style="font-size: 0.85rem; color: var(--text-muted);" class="bangla-text">{s.name_bn}</div>
+              <div style="font-size: 0.85rem; color: var(--text-muted);" class="bangla-text" lang="bn">{s.name_bn}</div>
               <div style="font-size: 0.75rem; color: var(--text-muted);">{s.ayat} verses · {s.type}</div>
             </div>
-            <div class="arabic-text" dir="rtl" style="--arabic-font-size: 1.4rem; font-size: 1.4rem; color: var(--accent-teal); line-height: 1.6;">{s.name_ar}</div>
+            <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.4rem; font-size: 1.4rem; color: var(--accent-teal); line-height: 1.6;">{s.name_ar}</div>
           </a>
         ))}
       </div>
 
       <!-- First 10 Surahs Grid -->
-      <div id="grid-first10" class="surah-grid" style="display: none; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem;">
+      <div id="grid-first10" class="surah-grid responsive-grid-auto" style="display: none; grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 1fr)); gap: 1rem;">
         {featuredSurahs.map((s) => (
           <a href={`/surah/${s.id}`} class="card" style="display: flex; justify-content: space-between; align-items: center; text-decoration: none; padding: 1.1rem; color: inherit; transition: border-color 0.15s ease;">
             <div>
@@ -206,16 +206,16 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
                 <span style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); background: var(--accent-teal-subtle); padding: 0.1rem 0.4rem; border-radius: 4px;">{s.id}</span>
                 <span style="font-weight: 700; font-size: 1rem;">{s.name_translit}</span>
               </div>
-              <div style="font-size: 0.85rem; color: var(--text-muted);" class="bangla-text">{s.name_bn}</div>
+              <div style="font-size: 0.85rem; color: var(--text-muted);" class="bangla-text" lang="bn">{s.name_bn}</div>
               <div style="font-size: 0.75rem; color: var(--text-muted);">{s.ayat} verses · {s.type}</div>
             </div>
-            <div class="arabic-text" dir="rtl" style="--arabic-font-size: 1.4rem; font-size: 1.4rem; color: var(--accent-teal); line-height: 1.6;">{s.name_ar}</div>
+            <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.4rem; font-size: 1.4rem; color: var(--accent-teal); line-height: 1.6;">{s.name_ar}</div>
           </a>
         ))}
       </div>
 
       <!-- Juz 30 Grid -->
-      <div id="grid-juz30" class="surah-grid" style="display: none; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem;">
+      <div id="grid-juz30" class="surah-grid responsive-grid-auto" style="display: none; grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 1fr)); gap: 1rem;">
         {lastJuzSurahs.map((s) => (
           <a href={`/surah/${s.id}`} class="card" style="display: flex; justify-content: space-between; align-items: center; text-decoration: none; padding: 1.1rem; color: inherit; transition: border-color 0.15s ease;">
             <div>
@@ -223,10 +223,10 @@ const lastJuzSurahs = surahsData.filter(s => s.id >= 100);
                 <span style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); background: var(--accent-teal-subtle); padding: 0.1rem 0.4rem; border-radius: 4px;">{s.id}</span>
                 <span style="font-weight: 700; font-size: 1rem;">{s.name_translit}</span>
               </div>
-              <div style="font-size: 0.85rem; color: var(--text-muted);" class="bangla-text">{s.name_bn}</div>
+              <div style="font-size: 0.85rem; color: var(--text-muted);" class="bangla-text" lang="bn">{s.name_bn}</div>
               <div style="font-size: 0.75rem; color: var(--text-muted);">{s.ayat} verses · {s.type}</div>
             </div>
-            <div class="arabic-text" dir="rtl" style="--arabic-font-size: 1.4rem; font-size: 1.4rem; color: var(--accent-teal); line-height: 1.6;">{s.name_ar}</div>
+            <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.4rem; font-size: 1.4rem; color: var(--accent-teal); line-height: 1.6;">{s.name_ar}</div>
           </a>
         ))}
       </div>

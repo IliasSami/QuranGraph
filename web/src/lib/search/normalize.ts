@@ -77,6 +77,15 @@ export function banglaKey(s: string): string {
     .replace(/[‌‍]/g, "")
     .replace(/ৎ/g, "ত")                 // ৎ -> ত
     .replace(/ঁ/g, "")                       // chandrabindu
+    .replace(/কোরআন/g, "কুরআন")          // common Islamic loanword variations
+    .replace(/কোরান/g, "কুরআন")
+    .replace(/কুরান/g, "কুরআন")
+    .replace(/ক্ব/g, "ক")                 // ক্ব -> ক (transliteration of Arabic Qaf)
+    .replace(/ত্ব/g, "ত")                 // ত্ব -> ত (transliteration of Arabic Taa)
+    .replace(/রোযা/g, "রোজা")
+    .replace(/রমযান/g, "রমজান")
+    .replace(/নামায/g, "নামাজ")
+    .replace(/ছালাত/g, "সালাত")
     .replace(/ঈ/g, "ই").replace(/ঊ/g, "উ")       // ঈ -> ই, ঊ -> উ
     .replace(/ী/g, "ি").replace(/ূ/g, "ু")       // ী -> ি, ূ -> ু
     .replace(/[^ঀ-৿]/g, "")
@@ -117,7 +126,11 @@ export function banglaToLatin(key: string): string {
 
 // ------------------------------------------------------------------------------------------------- Latin
 export function latinFold(s: string): string {
-  return s.normalize("NFD").replace(/\p{Mn}/gu, "").replace(/[ʿʾ‘’'`]/g, "").toLowerCase();
+  return s
+    .normalize("NFD")
+    .replace(/\p{Mn}/gu, "")
+    .replace(/[ʿʾ‘’'`"“”«»]/g, "")
+    .toLowerCase();
 }
 
 /**

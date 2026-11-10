@@ -24,6 +24,8 @@ export const GET: APIRoute = async ({ site }) => {
     { loc: `${baseUrl}/learn`, lastmod: now, changefreq: "weekly", priority: "0.9" },
     { loc: `${baseUrl}/numbers`, lastmod: now, changefreq: "monthly", priority: "0.8" },
     { loc: `${baseUrl}/sources`, lastmod: now, changefreq: "monthly", priority: "0.7" },
+    { loc: `${baseUrl}/about`, lastmod: now, changefreq: "monthly", priority: "0.7" },
+    { loc: `${baseUrl}/stats`, lastmod: now, changefreq: "monthly", priority: "0.7" },
   ];
 
   // 114 Surahs
@@ -46,9 +48,12 @@ export const GET: APIRoute = async ({ site }) => {
     }
   }
 
-  // 884 Entities
+  // Entities
+  const seenEntitySlugs = new Set<string>();
   for (const id of Object.keys(entitiesData)) {
     const slug = entityIdToSlug(id);
+    if (seenEntitySlugs.has(slug)) continue;
+    seenEntitySlugs.add(slug);
     urls.push({
       loc: `${baseUrl}/entity/${encodeURIComponent(slug)}`,
       lastmod: now,

@@ -274,10 +274,14 @@ export function parseReference(rawQuery: string): AyahReference | null {
   if (!rawQuery) return null;
 
   // Clean surrounding punctuation like "?", "!", ".", "(", ")", quotes
-  const q = asciiDigits(rawQuery.trim().replace(/^[\s\p{P}]+|[\s\p{P}]+$/gu, "")).normalize("NFC");
+  let q = asciiDigits(rawQuery.trim().replace(/^[\s\p{P}]+|[\s\p{P}]+$/gu, "")).normalize("NFC");
 
-  // Pattern 1: Pure digits "2:255" or "2 255" or "2/255" or "2-255"
-  const colonMatch = q.match(/^(\d{1,3})[:\/\s-]+(\d{1,3})$/);
+  // Clean trailing verse/ayah descriptors (e.g. "বাকারা ২৫৫ নম্বর আয়াত", "baqarah 255 ayah")
+  q = q.replace(/\s*(?:নম্বর|নাম্বার|নং|তম)?\s*(?:আয়াত|আয়াত)\s*$/i, "").trim();
+  q = q.replace(/\s*(?:verse|ayah|ayat)\s*$/i, "").trim();
+
+  // Pattern 1: Pure digits "2:255" or "2 255" or "2/255" or "2-255" or "2: 255" or "2, 255"
+  const colonMatch = q.match(/^(\d{1,3})[:\/\s,-]+(\d{1,3})$/);
   if (colonMatch) {
     const s = parseInt(colonMatch[1], 10);
     const a = parseInt(colonMatch[2], 10);
@@ -290,7 +294,7 @@ export function parseReference(rawQuery: string): AyahReference | null {
   }
 
   // Pattern 2: Natural language English: "surah 2 verse 255", "surah 2 ayah 255", "chapter 2 verse 255"
-  const nlEnMatch = q.match(/^(?:surah|sura|chapter)\s+(\d{1,3})\s+(?:verse|ayah|ayat|v|a)\s+(\d{1,3})$/i);
+  const nlEnMatch = q.match(/^(?:surah|sura|chapter)\s+(\d{1,3})[,\s]+(?:verse|ayah|ayat|v|a)?\s*(\d{1,3})$/i);
   if (nlEnMatch) {
     const s = parseInt(nlEnMatch[1], 10);
     const a = parseInt(nlEnMatch[2], 10);
@@ -310,7 +314,7 @@ export function parseReference(rawQuery: string): AyahReference | null {
   }
 
   // Pattern 4: Named surah with natural language verse: "surah baqarah verse 255", "baqarah ayah 255"
-  const namedNlMatch = q.match(/^(?:surah|sura|chapter)?\s*([a-zA-Z\s'-]+?)\s+(?:verse|ayah|ayat|v|a)\s+(\d{1,3})$/i);
+  const namedNlMatch = q.match(/^(?:surah|sura|chapter)?\s*([a-zA-Z\s'-]+?)[,\s]+(?:verse|ayah|ayat|v|a)\s+(\d{1,3})$/i);
   if (namedNlMatch) {
     const sId = resolveSurahName(namedNlMatch[1].trim());
     const a = parseInt(namedNlMatch[2], 10);
@@ -330,7 +334,7 @@ export function parseReference(rawQuery: string): AyahReference | null {
   }
 
   // Pattern 6a: Bangla digits: "সুরা ২ আয়াত ২৫৫", "সুরা ২ ২৫৫"
-  const bnDigitsMatch = q.match(/^(?:সূরা|সুরা)\s*(\d{1,3})\s*(?:আয়াত|আয়াত|নং)?\s*(\d{1,3})$/);
+  const bnDigitsMatch = q.match(/^(?:সূরা|সুরা)\s*(\d{1,3})[,\s]*(?:আয়াত|আয়াত|নং)?\s*(\d{1,3})$/);
   if (bnDigitsMatch) {
     const sId = parseInt(bnDigitsMatch[1], 10);
     const a = parseInt(bnDigitsMatch[2], 10);
@@ -339,8 +343,8 @@ export function parseReference(rawQuery: string): AyahReference | null {
     }
   }
 
-  // Pattern 6b: Bangla named surah: "সুরা বাকারা আয়াত ২৫৫", "সূরা বাকারা ২৫৫"
-  const bnNlMatch = q.match(/^(?:সূরা|সুরা)?\s*([^\d]+?)\s*(?:আয়াত|আয়াত|নং)?\s*(\d{1,3})$/);
+  // Pattern 6b: Bangla named surah: "সুরা বাকারা আয়াত ২৫৫", "সূরা বাকারা ২৫৫", "বাকারা ২৫৫ নম্বর আয়াত"
+  const bnNlMatch = q.match(/^(?:সূরা|সুরা)?\s*([^\d]+?)[,\s]*(?:আয়াত|আয়াত|নং)?\s*(\d{1,3})$/);
   if (bnNlMatch) {
     const raw = bnNlMatch[1].trim();
     const a = parseInt(bnNlMatch[2], 10);
@@ -351,7 +355,7 @@ export function parseReference(rawQuery: string): AyahReference | null {
   }
 
   // Pattern 7: Arabic natural language: "سورة البقرة اية 255", "البقرة 255"
-  const arNlMatch = q.match(/^(?:سورة|سوره)?\s*([^\d]+?)\s*(?:اية|آية)?\s*(\d{1,3})$/);
+  const arNlMatch = q.match(/^(?:سورة|سوره)?\s*([^\d]+?)[,\s]*(?:اية|آية)?\s*(\d{1,3})$/);
   if (arNlMatch) {
     const raw = arNlMatch[1].trim();
     const a = parseInt(arNlMatch[2], 10);
@@ -361,8 +365,8 @@ export function parseReference(rawQuery: string): AyahReference | null {
     }
   }
 
-  // Pattern 8: Generic named surah + ayah number: "al-baqarah 255", "বাকারা ২৫৫", "البقرة ٢٥٥"
-  const nameMatch = q.match(/^(.+?)[:\s]+(\d{1,3})$/);
+  // Pattern 8: Generic named surah + ayah number: "al-baqarah 255", "বাকারা ২৫৫", "البقرة ٢٥٥", "al-baqarah:255"
+  const nameMatch = q.match(/^(.+?)[:\s,-]+(\d{1,3})$/);
   if (nameMatch) {
     const rawName = nameMatch[1].trim();
     const a = parseInt(nameMatch[2], 10);

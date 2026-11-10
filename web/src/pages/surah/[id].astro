@@ -56,9 +56,54 @@ export function getStaticPaths() {
 const { surah, ayat, overview, explains = {} } = Astro.props;
 const prevSurahObj = surah.id > 1 ? surahsData[surah.id - 2] : null;
 const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
+
+const surahDescription = overview?.theme_en
+  ? `Read and study Surah ${surah.name_translit} (${surah.name_ar} · ${surah.name_en}): ${overview.theme_en}. Verses 1–${surah.ayat} with translation, transliteration & tafsir.`
+  : `Read and study Surah ${surah.name_translit} (${surah.name_ar} · ${surah.name_en}) with Arabic text, transliteration, English (Saheeh International) & Bangla (Abu Bakr Zakaria) translations, and tafsir insights.`;
+
+const surahSchema = [
+  {
+    "@type": "WebPage",
+    "@id": `https://qurangraph.iliassami57.workers.dev/surah/${surah.id}#webpage`,
+    "url": `https://qurangraph.iliassami57.workers.dev/surah/${surah.id}`,
+    "name": `Surah ${surah.name_translit} (${surah.name_ar}) — Verses 1–${surah.ayat} | QuranGraph`,
+    "description": surahDescription,
+    "isPartOf": {
+      "@id": "https://qurangraph.iliassami57.workers.dev/#website"
+    },
+    "breadcrumb": {
+      "@id": `https://qurangraph.iliassami57.workers.dev/surah/${surah.id}#breadcrumb`
+    },
+    "inLanguage": ["en", "bn", "ar"]
+  },
+  {
+    "@type": "BreadcrumbList",
+    "@id": `https://qurangraph.iliassami57.workers.dev/surah/${surah.id}#breadcrumb`,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://qurangraph.iliassami57.workers.dev"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Surahs",
+        "item": "https://qurangraph.iliassami57.workers.dev/surahs"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": `Surah ${surah.name_translit}`,
+        "item": `https://qurangraph.iliassami57.workers.dev/surah/${surah.id}`
+      }
+    ]
+  }
+];
 ---
 
-<Layout title={`Surah ${surah.name_translit} (${surah.id}) — QuranGraph`}>
+<Layout title={`Surah ${surah.name_translit} (${surah.name_ar}) — Verses 1–${surah.ayat} | QuranGraph`} description={surahDescription} schema={surahSchema}>
   <!-- Surah Header Banner -->
   <section style="padding: 3.5rem 0 2.5rem; background: var(--bg-surface); border-bottom: 1px solid var(--border-color); text-align: center;">
     <div class="container" style="max-width: 800px;">
@@ -182,7 +227,7 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
 
   <!-- Verses List -->
   <section style="padding: 2rem 0 3.5rem;">
-    <div class="container" style="max-width: 860px;">
+    <div class="container has-sticky-audio-dock" style="max-width: 860px;">
       <div style="display: flex; flex-direction: column; gap: 2rem;" id="verses-container">
         {ayat.map((item) => (
           <article class="card verse-card" id={`ayah-${item.a}`} data-ayah={item.a} style="position: relative; scroll-margin-top: 5rem; transition: border-color 0.2s ease, box-shadow 0.2s ease;">
@@ -205,18 +250,18 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
 
             <!-- English Transliteration -->
             {item.tr && (
-              <div style="font-size: 0.95rem; font-style: italic; color: var(--accent-gold); margin-top: 0.5rem; margin-bottom: 0.85rem; line-height: 1.55; font-family: var(--font-latin);">
+              <div class="verse-transliteration" style="font-style: italic; color: var(--accent-gold); margin-top: 0.5rem; margin-bottom: 0.85rem; line-height: 1.55; font-family: var(--font-latin);">
                 {item.tr}
               </div>
             )}
 
             <!-- English Translation -->
-            <div style="margin-bottom: 0.75rem; font-size: 1.05rem; line-height: 1.6; color: var(--text-main);">
+            <div class="verse-translation-en" style="margin-bottom: 0.75rem; line-height: 1.6; color: var(--text-main);">
               {item.en}
             </div>
 
             <!-- Bangla Translation -->
-            <div class="bangla-text" lang="bn" style="font-size: 1rem; line-height: 1.7; color: var(--text-muted); border-top: 1px dashed var(--border-color); padding-top: 0.75rem; margin-bottom: 1rem;">
+            <div class="bangla-text verse-translation-bn" lang="bn" style="line-height: 1.7; color: var(--text-muted); border-top: 1px dashed var(--border-color); padding-top: 0.75rem; margin-bottom: 1rem;">
               {item.bn}
             </div>
 
@@ -268,15 +313,26 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
                       </div>
                       <div style="display: flex; gap: 0.4rem; flex-wrap: wrap;">
                         {explains[item.a].key_words.map((kw: any) => (
-                          <a
-                            href={`/root/${encodeURIComponent(kw.root)}`}
-                            class="badge"
-                            style="text-decoration: none; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-size: 0.75rem; display: inline-flex; align-items: center; gap: 0.3rem;"
-                            title={`Root: ${kw.root} · ${kw.meaning_en}`}
-                          >
-                            <span class="arabic-text" dir="rtl" style="--arabic-font-size: 1.05rem; font-size: 1.05rem; color: var(--accent-teal); font-weight: 700; line-height: 1.4;">{kw.root}</span>
-                            <span>{kw.meaning_en}</span>
-                          </a>
+                          kw.root ? (
+                            <a
+                              href={`/root/${encodeURIComponent(kw.root)}`}
+                              class="badge"
+                              style="text-decoration: none; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-size: 0.75rem; display: inline-flex; align-items: center; gap: 0.3rem;"
+                              title={`Root: ${kw.root} · ${kw.meaning_en || ''}`}
+                            >
+                              <span class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.05rem; font-size: 1.05rem; color: var(--accent-teal); font-weight: 700; line-height: 1.4;">{kw.root}</span>
+                              <span>{kw.meaning_en || ''}</span>
+                            </a>
+                          ) : (
+                            <span
+                              class="badge"
+                              style="background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-size: 0.75rem; display: inline-flex; align-items: center; gap: 0.3rem;"
+                              title={kw.meaning_en || ''}
+                            >
+                              {kw.lemma && <span class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.05rem; font-size: 1.05rem; color: var(--accent-teal); font-weight: 700; line-height: 1.4;">{kw.lemma}</span>}
+                              <span>{kw.meaning_en || ''}</span>
+                            </span>
+                          )
                         ))}
                       </div>
                     </div>
@@ -339,10 +395,10 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
   </section>
 
   <!-- Sticky Bottom Audio Dock (Activated on scroll) -->
-  <div id="surah-sticky-dock" class="sticky-dock card" style="display: none; width: calc(100% - 1.5rem); max-width: 650px; margin: 0 auto; border-radius: var(--radius-md); flex-direction: column; gap: 0.5rem; padding: 0.75rem 1rem; box-sizing: border-box;">
+  <div id="surah-sticky-dock" class="sticky-dock card" style="display: none; flex-direction: column; gap: 0.5rem; padding: 0.75rem 1rem; box-sizing: border-box;">
     <div style="display: flex; align-items: center; justify-content: space-between; width: 100%; gap: 0.75rem;">
       <div style="display: flex; align-items: center; gap: 0.75rem;">
-        <button id="dock-play-btn" class="play-btn-sm" style="width: 2.25rem; height: 2.25rem; min-width: 38px; min-height: 38px;" aria-label="Play/Pause">
+        <button id="dock-play-btn" class="play-btn-sm" style="width: 2.75rem; height: 2.75rem; min-width: 44px; min-height: 44px;" aria-label="Play/Pause">
           <span id="dock-play-icon" aria-hidden="true">
             <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4" fill="currentColor"></polygon></svg>
           </span>
@@ -357,13 +413,13 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
         </div>
       </div>
       <div style="display: flex; align-items: center; gap: 0.4rem;">
-        <button id="dock-prev-ayah" class="btn-action btn-action-sm btn-action-icon" title="Previous Verse" aria-label="Previous Verse">
+        <button id="dock-prev-ayah" class="btn-action btn-action-sm btn-action-icon" style="min-width: 40px; min-height: 40px;" title="Previous Verse" aria-label="Previous Verse">
           <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="19 20 9 12 19 4 19 20" fill="currentColor"></polygon><line x1="5" y1="19" x2="5" y2="5"></line></svg>
         </button>
-        <button id="dock-next-ayah" class="btn-action btn-action-sm btn-action-icon" title="Next Verse" aria-label="Next Verse">
+        <button id="dock-next-ayah" class="btn-action btn-action-sm btn-action-icon" style="min-width: 40px; min-height: 40px;" title="Next Verse" aria-label="Next Verse">
           <svg class="icon-svg" viewBox="0 0 24 24"><polygon points="5 4 15 12 5 20 5 4" fill="currentColor"></polygon><line x1="19" y1="5" x2="19" y2="19"></line></svg>
         </button>
-        <button id="dock-stop-btn" class="btn-action btn-action-sm btn-action-icon" title="Stop Playback" aria-label="Stop Playback">
+        <button id="dock-stop-btn" class="btn-action btn-action-sm btn-action-icon" style="min-width: 40px; min-height: 40px;" title="Stop Playback" aria-label="Stop Playback">
           <svg class="icon-svg" viewBox="0 0 24 24"><rect x="5" y="5" width="14" height="14" rx="2" fill="currentColor"></rect></svg>
         </button>
       </div>
@@ -384,8 +440,8 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
     min-width: 44px;
     min-height: 44px;
     border-radius: 50%;
-    background: var(--accent-teal);
-    color: white;
+    background: var(--btn-primary-bg);
+    color: var(--btn-primary-text);
     border: none;
     cursor: pointer;
     display: flex;
@@ -395,7 +451,7 @@ const nextSurahObj = surah.id < 114 ? surahsData[surah.id] : null;
     transition: transform 0.15s ease, background-color 0.15s ease;
   }
   .play-btn-sm:hover {
-    background: var(--accent-teal-hover);
+    background: var(--btn-primary-hover);
     transform: scale(1.05);
   }
   .verse-card.playing {

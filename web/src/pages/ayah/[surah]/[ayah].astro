@@ -43,9 +43,64 @@ const { connectedEntities, connectedStories } = subgraph;
 
 const prevAyah = aNum > 1 ? aNum - 1 : null;
 const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
+
+const cleanExplanationEn = explanation?.simple_en
+  ? explanation.simple_en.replace(/"/g, "'").replace(/\s+/g, " ").trim()
+  : "";
+
+const ayahDescription = cleanExplanationEn
+  ? `${surah.name_translit} ${sId}:${aNum}: ${cleanExplanationEn.slice(0, 150)}...`
+  : `Read Surah ${surah.name_translit} ${sId}:${aNum} (${surah.name_ar}) in Arabic Uthmani text with English and Bengali translations, word roots, and classical tafsir cross-references.`;
+
+const ayahSchema = [
+  {
+    "@type": "WebPage",
+    "@id": `https://qurangraph.iliassami57.workers.dev/ayah/${sId}/${aNum}#webpage`,
+    "url": `https://qurangraph.iliassami57.workers.dev/ayah/${sId}/${aNum}`,
+    "name": `Surah ${surah.name_translit} ${sId}:${aNum} (${surah.name_ar}) — Ayah Tafsir & Translation`,
+    "description": ayahDescription,
+    "isPartOf": {
+      "@id": "https://qurangraph.iliassami57.workers.dev/#website"
+    },
+    "breadcrumb": {
+      "@id": `https://qurangraph.iliassami57.workers.dev/ayah/${sId}/${aNum}#breadcrumb`
+    },
+    "inLanguage": ["en", "bn", "ar"]
+  },
+  {
+    "@type": "BreadcrumbList",
+    "@id": `https://qurangraph.iliassami57.workers.dev/ayah/${sId}/${aNum}#breadcrumb`,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://qurangraph.iliassami57.workers.dev"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Surahs",
+        "item": "https://qurangraph.iliassami57.workers.dev/surahs"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": `Surah ${surah.name_translit}`,
+        "item": `https://qurangraph.iliassami57.workers.dev/surah/${sId}`
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": `Ayah ${sId}:${aNum}`,
+        "item": `https://qurangraph.iliassami57.workers.dev/ayah/${sId}/${aNum}`
+      }
+    ]
+  }
+];
 ---
 
-<Layout title={`${surah.name_translit} ${sId}:${aNum} — Deep Ayah Study & Explanation`}>
+<Layout title={`Surah ${surah.name_translit} ${sId}:${aNum} (${surah.name_ar}) — Ayah Tafsir & Translation | QuranGraph`} description={ayahDescription} schema={ayahSchema}>
   <div style="padding: 2.5rem 0;">
     <div class="container" style="max-width: 860px;">
       <!-- Breadcrumb & Nav -->
@@ -75,7 +130,7 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
                 {story.episodes[0]?.title_bn && <span class="bangla-text" lang="bn"> ({story.episodes[0].title_bn})</span>}
               </div>
             </div>
-            <a href={`/story/${story.slug}`} class="btn-icon" style="background: var(--accent-gold); color: white; border: none; font-weight: 700; text-decoration: none; padding: 0.5rem 1rem; border-radius: var(--radius-sm); font-size: 0.85rem;">
+            <a href={`/story/${story.slug}`} class="btn-icon" style="background: var(--btn-gold-bg); color: var(--btn-gold-text); border: none; font-weight: 700; text-decoration: none; padding: 0.5rem 1rem; border-radius: var(--radius-sm); font-size: 0.85rem;">
               Explore Full Story Arc →
             </a>
           </div>
@@ -124,7 +179,7 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
                 ALA-LC Phonetics
               </span>
             </div>
-            <div style="font-size: 1.15rem; font-style: italic; line-height: 1.65; color: var(--text-main); font-family: var(--font-latin);">
+            <div class="verse-transliteration" style="font-size: 1.15rem; font-style: italic; line-height: 1.65; color: var(--text-main); font-family: var(--font-latin);">
               {ayahRecord.tr}
             </div>
           </div>
@@ -136,7 +191,7 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
             <div style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); text-transform: uppercase; margin-bottom: 0.25rem;">
               English Translation (Saheeh International)
             </div>
-            <div style="font-size: 1.15rem; line-height: 1.6; color: var(--text-main);">
+            <div class="verse-translation-en" style="font-size: 1.15rem; line-height: 1.6; color: var(--text-main);">
               {ayahRecord.en}
             </div>
           </div>
@@ -145,7 +200,7 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
             <div style="font-size: 0.8rem; font-weight: 700; color: var(--accent-teal); text-transform: uppercase; margin-bottom: 0.25rem;">
               Bangla Translation (মুহিউদ্দীন খান / আবু বকর জাকারিয়া)
             </div>
-            <div class="bangla-text" lang="bn" style="font-size: 1.05rem; line-height: 1.7; color: var(--text-main);">
+            <div class="bangla-text verse-translation-bn" lang="bn" style="font-size: 1.05rem; line-height: 1.7; color: var(--text-main);">
               {ayahRecord.bn}
             </div>
           </div>
@@ -419,7 +474,7 @@ const nextAyah = aNum < surah.ayat ? aNum + 1 : null;
     } catch (e) {}
 
     const COPY_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>';
-    const CHECK_SVG = '<svg class="icon-svg" viewBox="0 0 24 24" style="stroke: #10b981;"><polyline points="20 6 9 17 4 12"></polyline></svg>';
+    const CHECK_SVG = '<svg class="icon-svg" viewBox="0 0 24 24" style="stroke: var(--accent-green);"><polyline points="20 6 9 17 4 12"></polyline></svg>';
     const BM_OUTLINE_SVG = '<svg class="icon-svg" viewBox="0 0 24 24"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>';
     const BM_FILLED_SVG = '<svg class="icon-svg" viewBox="0 0 24 24" style="fill: var(--accent-gold); stroke: var(--accent-gold);"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>';
 

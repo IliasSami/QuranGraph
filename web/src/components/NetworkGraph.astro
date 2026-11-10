@@ -51,7 +51,7 @@ const graphPayload = JSON.stringify({
       <button
         id="graph-jump-btn"
         class="btn-icon"
-        style="background: var(--accent-teal); color: white; border: none; padding: 0.65rem 1.25rem; border-radius: var(--radius-sm); font-weight: 700; cursor: pointer; font-size: 0.88rem; white-space: nowrap;"
+        style="background: var(--btn-primary-bg); color: var(--btn-primary-text); border: none; padding: 0.65rem 1.25rem; border-radius: var(--radius-sm); font-weight: 700; cursor: pointer; font-size: 0.88rem; white-space: nowrap;"
       >
         Focus Graph
       </button>
@@ -89,7 +89,7 @@ const graphPayload = JSON.stringify({
           id="focus-action-btn"
           href="#"
           class="btn-icon"
-          style="background: var(--accent-teal); color: white; border: none; font-size: 0.8rem; font-weight: 700; padding: 0.35rem 0.8rem; border-radius: var(--radius-sm); text-decoration: none;"
+          style="background: var(--btn-primary-bg); color: var(--btn-primary-text); border: none; font-size: 0.8rem; font-weight: 700; padding: 0.35rem 0.8rem; border-radius: var(--radius-sm); text-decoration: none;"
         >
           Open Page →
         </a>
@@ -107,12 +107,12 @@ const graphPayload = JSON.stringify({
   <!-- Filter Buttons Bar -->
   <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.85rem; flex-wrap: wrap; gap: 0.5rem;">
     <div style="display: flex; gap: 0.4rem; font-size: 0.75rem; flex-wrap: wrap;" id="graph-filters">
-      <button class="graph-filter-btn active" data-type="all" style="background: var(--accent-teal); border: 1px solid var(--accent-teal); color: white; padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 600;">All</button>
-      <button class="graph-filter-btn" data-type="name_of_allah" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #d97706;"></span> Divine Names</button>
-      <button class="graph-filter-btn" data-type="person" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #059669;"></span> Prophets</button>
-      <button class="graph-filter-btn" data-type="place" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #2563eb;"></span> Places</button>
-      <button class="graph-filter-btn" data-type="story,episode" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #ea580c;"></span> Stories</button>
-      <button class="graph-filter-btn" data-type="theme,unseen" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: #a855f7;"></span> Concepts & Ghayb</button>
+      <button class="graph-filter-btn active" data-type="all" style="background: var(--btn-primary-bg); border: 1px solid var(--btn-primary-bg); color: var(--btn-primary-text); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 600;">All</button>
+      <button class="graph-filter-btn" data-type="name_of_allah" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: var(--accent-gold);"></span> Divine Names</button>
+      <button class="graph-filter-btn" data-type="person" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: var(--accent-green);"></span> Prophets</button>
+      <button class="graph-filter-btn" data-type="place" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: var(--accent-blue);"></span> Places</button>
+      <button class="graph-filter-btn" data-type="story,episode" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: var(--accent-orange);"></span> Stories</button>
+      <button class="graph-filter-btn" data-type="theme,unseen" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); padding: 0.25rem 0.65rem; border-radius: 9999px; cursor: pointer; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;"><span style="width: 8px; height: 8px; border-radius: 50%; background: var(--accent-purple);"></span> Concepts & Ghayb</button>
     </div>
     <div style="font-size: 0.78rem; color: var(--text-muted);" id="graph-node-count-badge">
       Displaying {macroData.nodes.length} ontological hubs
@@ -125,9 +125,9 @@ const graphPayload = JSON.stringify({
 
     <!-- Canvas Navigation Controls -->
     <div style="position: absolute; bottom: 12px; right: 12px; display: flex; gap: 6px; z-index: 10;">
-      <button id="macro-zoom-in" title="Zoom in" style="width: 32px; height: 32px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-weight: 700; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm);">+</button>
-      <button id="macro-zoom-out" title="Zoom out" style="width: 32px; height: 32px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-weight: 700; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm);">−</button>
-      <button id="macro-zoom-reset" title="Fit view" style="height: 32px; padding: 0 8px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-size: 0.75rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm);">⟲ Fit</button>
+      <button id="macro-zoom-in" title="Zoom in" aria-label="Zoom in" style="min-width: 38px; min-height: 38px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-weight: 700; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm); font-size: 1rem;">+</button>
+      <button id="macro-zoom-out" title="Zoom out" aria-label="Zoom out" style="min-width: 38px; min-height: 38px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-weight: 700; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm); font-size: 1rem;">−</button>
+      <button id="macro-zoom-reset" title="Fit view" aria-label="Reset zoom and fit view" style="min-height: 38px; padding: 0 10px; border-radius: 6px; background: var(--bg-surface); border: 1px solid var(--border-color); color: var(--text-main); font-size: 0.82rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; justify-content: center; box-shadow: var(--shadow-sm);">⟲ Fit</button>
     </div>
 
     <!-- Floating Node Inspector Drawer -->
@@ -136,16 +136,16 @@ const graphPayload = JSON.stringify({
       style="position: absolute; top: 12px; right: 12px; width: 270px; background: var(--bg-surface); border: 1px solid var(--border-color); border-radius: 10px; padding: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,0.18); display: none; z-index: 25; max-height: calc(100% - 24px); overflow-y: auto;"
     >
       <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem;">
-        <span class="badge" id="drawer-badge" style="font-size: 0.7rem; font-weight: 700; background: var(--accent-teal); color: white;">
+        <span class="badge" id="drawer-badge" style="font-size: 0.7rem; font-weight: 700; background: var(--btn-primary-bg); color: var(--btn-primary-text);">
           Node
         </span>
         <button id="drawer-close" style="background: none; border: none; font-size: 1.1rem; color: var(--text-muted); cursor: pointer; line-height: 1;">✕</button>
       </div>
       <div id="drawer-title" style="font-size: 1.1rem; font-weight: 800; color: var(--text-main); margin-bottom: 0.2rem;"></div>
-      <div id="drawer-arabic" class="arabic-text" dir="rtl" style="--arabic-font-size: 1.25rem; font-size: 1.25rem; color: var(--accent-teal); line-height: 1.6; margin-bottom: 0.5rem;"></div>
+      <div id="drawer-arabic" class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.25rem; font-size: 1.25rem; color: var(--accent-teal); line-height: 1.6; margin-bottom: 0.5rem;"></div>
       <p id="drawer-desc" style="font-size: 0.82rem; color: var(--text-muted); margin-bottom: 1rem; line-height: 1.4;"></p>
       <div style="display: flex; flex-direction: column; gap: 0.5rem;">
-        <button id="drawer-focus-btn" class="btn-icon" style="background: var(--accent-teal); color: white; border: none; padding: 0.45rem; font-size: 0.82rem; font-weight: 700; border-radius: var(--radius-sm); cursor: pointer;">
+        <button id="drawer-focus-btn" class="btn-icon" style="background: var(--btn-primary-bg); color: var(--btn-primary-text); border: none; padding: 0.45rem; font-size: 0.82rem; font-weight: 700; border-radius: var(--radius-sm); cursor: pointer;">
           🎯 Focus in Graph
         </button>
         <a id="drawer-link-btn" href="#" class="btn-icon" style="background: var(--bg-subtle); border: 1px solid var(--border-color); color: var(--text-main); text-align: center; text-decoration: none; padding: 0.45rem; font-size: 0.82rem; font-weight: 600; border-radius: var(--radius-sm);">
@@ -767,12 +767,12 @@ const graphPayload = JSON.stringify({
         selectedNode = hoveredNode;
         if (drawer) {
           drawer.style.display = "block";
-          drawerBadge.textContent = selectedNode.sublabel || selectedNode.type;
+          drawerBadge.textContent = selectedNode.sublabel || selectedNode.type || "";
           drawerBadge.style.background = selectedNode.color || "var(--accent-teal)";
-          drawerTitle.textContent = selectedNode.label;
+          drawerTitle.textContent = selectedNode.label || "";
           drawerArabic.textContent = selectedNode.label_ar || "";
           drawerDesc.textContent = selectedNode.sublabel ? `Ontological element: ${selectedNode.sublabel}` : "Explore relationships and verses.";
-          drawerLinkBtn.href = selectedNode.url || `/search?q=${encodeURIComponent(selectedNode.label)}`;
+          drawerLinkBtn.href = selectedNode.url || (selectedNode.label ? `/search?q=${encodeURIComponent(selectedNode.label)}` : "#");
         }
       }
     });
@@ -808,10 +808,10 @@ const graphPayload = JSON.stringify({
         selectedNode = draggedNode;
         if (drawer) {
           drawer.style.display = "block";
-          drawerBadge.textContent = selectedNode.sublabel || selectedNode.type;
-          drawerTitle.textContent = selectedNode.label;
+          drawerBadge.textContent = selectedNode.sublabel || selectedNode.type || "";
+          drawerTitle.textContent = selectedNode.label || "";
           drawerArabic.textContent = selectedNode.label_ar || "";
-          drawerLinkBtn.href = selectedNode.url || "#";
+          drawerLinkBtn.href = selectedNode.url || (selectedNode.label ? `/search?q=${encodeURIComponent(selectedNode.label)}` : "#");
         }
       }
       draggedNode = null;
@@ -930,7 +930,8 @@ const graphPayload = JSON.stringify({
         ctx.stroke();
 
         ctx.font = n.isCenter ? "bold 12px Inter, sans-serif" : "11px Inter, sans-serif";
-        ctx.fillStyle = "var(--text-main)";
+        const textMainColor = getComputedStyle(document.documentElement).getPropertyValue("--text-main").trim() || "#18191b";
+        ctx.fillStyle = textMainColor;
         ctx.textAlign = "center";
 
         let label = n.label || "";

@@ -7,7 +7,10 @@ const { baseline, vocabulary_coverage, audited_claims } = numbersData;
 const topLemmas = lemmasData;
 ---
 
-<Layout title="Quran Numbers Lab — Scientific Vocabulary Coverage & Quranic Statistics">
+<Layout
+  title="Quran Numbers Lab — Scientific Vocabulary Coverage & Quranic Statistics | QuranGraph"
+  description="Explore reproducible statistical and linguistic analysis of the Holy Quran: Zipf's law vocabulary coverage, 4,763 lemmas, word counts, and audited numerical claims."
+>
   <!-- Hero Section -->
   <div style="padding: 3.5rem 0 2rem; background: var(--bg-surface); border-bottom: 1px solid var(--border-color);">
     <div class="container" style="max-width: 960px;">
@@ -40,15 +43,15 @@ const topLemmas = lemmasData;
             <div style="font-size: 0.75rem; color: var(--text-muted);">Standard Kufan count (Tanzil verbatim)</div>
           </div>
 
-          <div class="card" style="border-top: 3px solid #0284c7;">
+          <div class="card" style="border-top: 3px solid var(--accent-blue);">
             <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600;">Words (Morphology)</div>
-            <div style="font-size: 2rem; font-weight: 800; color: #0284c7;">{baseline.words_morphology.toLocaleString()}</div>
+            <div style="font-size: 2rem; font-weight: 800; color: var(--accent-blue);">{baseline.words_morphology.toLocaleString()}</div>
             <div style="font-size: 0.75rem; color: var(--text-muted);">77,800 whitespace word tokens</div>
           </div>
 
-          <div class="card" style="border-top: 3px solid #7c3aed;">
+          <div class="card" style="border-top: 3px solid var(--accent-purple);">
             <div style="font-size: 0.85rem; color: var(--text-muted); font-weight: 600;">Unique Triliteral Roots</div>
-            <div style="font-size: 2rem; font-weight: 800; color: #7c3aed;">{baseline.distinct_roots?.toLocaleString() || "1,651"}</div>
+            <div style="font-size: 2rem; font-weight: 800; color: var(--accent-purple);">{baseline.distinct_roots?.toLocaleString() || "1,651"}</div>
             <div style="font-size: 0.75rem; color: var(--text-muted);">Yielding 4,763 unique lemmas</div>
           </div>
         </div>
@@ -154,14 +157,14 @@ const topLemmas = lemmasData;
         <div class="card" style="padding: 1.25rem; margin-bottom: 1.5rem; background: var(--bg-surface);">
           <div style="display: flex; gap: 1rem; flex-wrap: wrap; align-items: center; justify-content: space-between;">
             <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;" id="lemma-filter-chips">
-              <button class="btn-action btn-action-sm lemma-chip active" data-pos="all">All ({topLemmas.length})</button>
-              <button class="btn-action btn-action-sm lemma-chip" data-pos="preposition">Prepositions (حروف)</button>
-              <button class="btn-action btn-action-sm lemma-chip" data-pos="verb">Verbs (أفعال)</button>
-              <button class="btn-action btn-action-sm lemma-chip" data-pos="noun">Nouns (أسماء)</button>
-              <button class="btn-action btn-action-sm lemma-chip" data-pos="pronoun">Pronouns (ضمائر)</button>
-              <button class="btn-action btn-action-sm lemma-chip" data-pos="particle">Particles (أدوات)</button>
+              <button class="btn-action btn-action-sm lemma-chip active btn-action-primary" data-pos="all">All ({topLemmas.length})</button>
+              <button class="btn-action btn-action-sm lemma-chip" data-pos="preposition">Prepositions (<span lang="ar" dir="rtl">حروف</span>)</button>
+              <button class="btn-action btn-action-sm lemma-chip" data-pos="verb">Verbs (<span lang="ar" dir="rtl">أفعال</span>)</button>
+              <button class="btn-action btn-action-sm lemma-chip" data-pos="noun">Nouns (<span lang="ar" dir="rtl">أسماء</span>)</button>
+              <button class="btn-action btn-action-sm lemma-chip" data-pos="pronoun">Pronouns (<span lang="ar" dir="rtl">ضمائر</span>)</button>
+              <button class="btn-action btn-action-sm lemma-chip" data-pos="particle">Particles (<span lang="ar" dir="rtl">أدوات</span>)</button>
             </div>
-            <div style="position: relative; min-width: 240px; flex: 1; max-width: 320px;">
+            <div style="position: relative; min-width: min(100%, 240px); flex: 1; max-width: 320px;">
               <input
                 type="search"
                 id="lemma-search-input"
@@ -273,20 +276,20 @@ const topLemmas = lemmasData;
                         ? "var(--accent-teal-subtle)"
                         : claim.status.includes("Depends")
                         ? "var(--accent-gold-subtle)"
-                        : "#fee2e2",
+                        : "var(--badge-danger-bg)",
                     color:
                       claim.status === "Verified"
                         ? "var(--accent-teal)"
                         : claim.status.includes("Depends")
                         ? "var(--accent-gold)"
-                        : "var(--danger)"
+                        : "var(--badge-danger-text)"
                   }}
                 >
                   {claim.status}
                 </span>
               </div>
 
-              <div class="bangla-text" style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0.75rem;">
+              <div class="bangla-text" lang="bn" style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 0.75rem;">
                 {claim.title_bn}
               </div>
 

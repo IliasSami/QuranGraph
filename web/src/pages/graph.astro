@@ -16,7 +16,10 @@ const namesOfAllah = entities.filter((e: any) => e.type === "name_of_allah");
 const stories = storiesData as any[];
 ---
 
-<Layout title="Knowledge Graph Explorer — QuranGraph">
+<Layout
+  title="Knowledge Graph Explorer — Interactive Semantic Network & PageRank | QuranGraph"
+  description="Explore the interconnected Quranic knowledge graph: 9,000+ semantic nodes, 28,000+ edges, PageRank centrality, Leiden topic clusters, and prophetic narrative arcs."
+>
   <div style="padding: 3.5rem 0 2rem; background: var(--bg-surface); border-bottom: 1px solid var(--border-color);">
     <div class="container" style="max-width: 900px;">
       <div class="badge badge-teal" style="margin-bottom: 0.75rem;">Semantic Network · PageRank · Leiden Clusters</div>
@@ -33,7 +36,7 @@ const stories = storiesData as any[];
       <NetworkGraph />
 
       <!-- Graph Metrics -->
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin-bottom: 3rem;">
+      <div class="responsive-grid-auto" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 160px), 1fr)); gap: 1rem; margin-bottom: 3rem;">
         <div class="card" style="text-align: center;">
           <div style="font-size: 1.85rem; font-weight: 800; color: var(--accent-teal);">{graphSummary.node_count.toLocaleString()}</div>
           <div style="font-size: 0.8rem; color: var(--text-muted); font-weight: 600;">Total Graph Nodes</div>
@@ -69,7 +72,7 @@ const stories = storiesData as any[];
                 <div style="font-weight: 700; font-size: 1rem;">{node.label_en}</div>
               </div>
               <div style="text-align: right;">
-                <div class="arabic-text" dir="rtl" style="--arabic-font-size: 1.25rem; font-size: 1.25rem; color: var(--accent-teal); line-height: 1.6;">{node.label_ar}</div>
+                <div class="arabic-text" lang="ar" dir="rtl" style="--arabic-font-size: 1.25rem; font-size: 1.25rem; color: var(--accent-teal); line-height: 1.6;">{node.label_ar}</div>
                 <div style="font-size: 0.75rem; color: var(--text-muted);">PR: {node.pagerank}</div>
               </div>
             </div>
@@ -140,7 +143,7 @@ const stories = storiesData as any[];
                   style="background: var(--accent-gold-subtle); color: var(--accent-gold); text-decoration: none; padding: 0.35rem 0.65rem; font-size: 0.85rem;"
                   title={`View ${n.label_en}`}
                 >
-                  {n.label_en} {n.label_ar && `(${n.label_ar})`}
+                  {n.label_en} {n.label_ar && <span class="arabic-text" lang="ar" dir="rtl">({n.label_ar})</span>}
                 </a>
               ))}
             </div>

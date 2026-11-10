@@ -39,9 +39,52 @@ function expandRange(spec: string): string[] {
   }
   return [spec];
 }
+
+const slug = (Astro.params.slug || "").trim();
+const storyDescription = `Chronological episodes and Quranic narrative arc for ${story.title_en} (${story.title_bn}).`;
+const storySchema = [
+  {
+    "@type": "WebPage",
+    "@id": `https://qurangraph.iliassami57.workers.dev/story/${slug}#webpage`,
+    "url": `https://qurangraph.iliassami57.workers.dev/story/${slug}`,
+    "name": `${story.title_en} — Quranic Narrative Arc`,
+    "description": storyDescription,
+    "isPartOf": {
+      "@id": "https://qurangraph.iliassami57.workers.dev/#website"
+    },
+    "breadcrumb": {
+      "@id": `https://qurangraph.iliassami57.workers.dev/story/${slug}#breadcrumb`
+    },
+    "inLanguage": ["en", "bn", "ar"]
+  },
+  {
+    "@type": "BreadcrumbList",
+    "@id": `https://qurangraph.iliassami57.workers.dev/story/${slug}#breadcrumb`,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://qurangraph.iliassami57.workers.dev"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Learn",
+        "item": "https://qurangraph.iliassami57.workers.dev/learn"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": story.title_en,
+        "item": `https://qurangraph.iliassami57.workers.dev/story/${slug}`
+      }
+    ]
+  }
+];
 ---
 
-<Layout title={`${story.title_en} — Quranic Narrative Arc`}>
+<Layout title={`${story.title_en} — Quranic Narrative Arc`} description={storyDescription} schema={storySchema}>
   <div style="padding: 3rem 0;">
     <div class="container" style="max-width: 860px;">
       <!-- Breadcrumb -->
